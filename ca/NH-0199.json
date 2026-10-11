@@ -1,0 +1,607 @@
+{
+ "ma_ca": "NH-0199",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_viem_hong_va_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm họng / VA cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu",
+   "Bạch hầu"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau stress công việc (của mẹ)",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Gia Bảo",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 16,
+  "chieu_cao": 102,
+  "xung_ho": "Bé 4 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', chỉ nói vài chữ khi được hỏi trực tiếp (vd 'Con đau họng'). Mẹ là người kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ.",
+  "tinh_cach": "Mẹ 32 tuổi, nhân viên văn phòng, nói nhanh, sốt ruột, đang áp lực công việc, hay tra mạng. Mẹ muốn bé 'truyền nước cho mau khỏe' để mai đi học, mình đi làm. Bé mệt, bám mẹ, trả lời rất ngắn.",
+  "kieu_nhieu": "Mẹ giấu tiền sử tiêm chủng: hỏi chung 'bé tiêm chủng đủ không' thì nói 'đủ ạ'. Chỉ thừa nhận khi bác sĩ hỏi cụ thể các mũi nhắc lại, sổ tiêm chủng, hoặc hỏi lại nhẹ nhàng không trách móc. Mẹ cũng không tự kể chuyện bé ngủ ngáy vì nghĩ 'trẻ con ai chẳng ngáy'.",
+  "nguoi_nha": "Mẹ bé, chị Thu, 32 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé (vd 'Bảo đau chỗ nào?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Thu)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#f2c14e",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#d98b8b",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt, nghẹt mũi, thở miệng",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 16 kg, mẹ đưa đến vì sốt 2 ngày, nghẹt mũi, thở bằng miệng, ăn kém. Sinh hiệu: nhiệt 38,3 °C, mạch 118 l/p, nhịp thở 28 l/p, SpO₂ 98%. Bé tỉnh, mệt.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, bé nhà em sốt hai hôm nay, nghẹt mũi, thở bằng miệng, bỏ ăn. Bác sĩ cho bé truyền nước cho mau khỏe nha.",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "Không đo",
+    "nhiet": "38,3",
+    "nhip_tho": 28,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 2 ngày 38–38,5 °C, nghẹt mũi, chảy mũi trong rồi đục, thở bằng miệng, ăn ít hơn. Mẹ muốn truyền dịch cho bé mau khỏe.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho ít về đêm, không khó thở, không thở rít, không khò khè ban ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, khó thở, thở rít"
+    },
+    {
+     "id": "dau_hong",
+     "noi_dung": "Bé kêu đau họng nhẹ, vẫn nuốt được nước và cháo, không chảy nước dãi, giọng không khàn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau họng, nuốt được (loại trừ áp xe, viêm thanh thiệt)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Bé không kêu đau tai, không chảy mủ tai, không hay dụi tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé vẫn chơi, uống nước được, không nôn tất cả mọi thứ, không co giật, không li bì, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân (QĐ 708/2015 theo TCYTTG)"
+    },
+    {
+     "id": "ngu_ngay",
+     "noi_dung": "Mấy tháng nay bé ngủ ngáy to, há miệng, có đêm thở khò khè rồi ngưng một lúc làm mẹ phải lay.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi về giấc ngủ, ngáy, thở khi ngủ.",
+     "k": 1,
+     "y": "Ngủ ngáy, ngưng thở khi ngủ"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Hai ngày nay mẹ tự mua siro chlorpheniramin (thuốc dị ứng) cho bé uống cho bớt chảy mũi; bé ngủ li bì hơn. Có cho uống paracetamol 160 mg khi sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua (kháng histamin thế hệ 1)"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Bé chưa tiêm mũi nhắc '5 trong 1' lúc 18 tháng và mũi nhắc bạch hầu – ho gà – uốn ván lúc 4 tuổi, vì dời lịch nhiều lần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'tiêm chủng đủ không' thì nói 'đủ ạ'. Chỉ thừa nhận khi bác sĩ hỏi cụ thể mũi nhắc lại, sổ tiêm chủng, hoặc hỏi lại nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Tiền sử tiêm chủng (bạch hầu)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Lớp mẫu giáo có nhiều bạn sổ mũi. Không nghe có ai bị bạch hầu.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Năm nào bé cũng viêm mũi họng 5–6 lần. Chưa nằm viện. Không dị ứng thuốc. Sinh đủ tháng, phát triển bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "me_stress",
+     "noi_dung": "Tuần trước mẹ chạy dự án, tăng ca liên tục; bé ở lớp tới 6 giờ tối, ăn uống thất thường, ngủ muộn. Bé bắt đầu sốt ngay sau tuần đó. Mẹ đang áp lực, phải xin nghỉ chăm con, muốn bé khỏi thật nhanh để đi học lại.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Bối cảnh khởi phát (áp lực công việc của mẹ)"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Họng đỏ, amidan to độ II, không có giả mạc, không có mảng trắng bám chắc. Niêm mạc mũi phù nề, dịch nhầy đục ở sàn mũi chảy xuống thành sau họng. Màng nhĩ hai bên hơi đục, không phồng.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên nhỏ, di động, không đau. Cổ không sưng bạnh.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p. Không co lõm lồng ngực, không thở rít. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 28 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi được, mệt nhẹ. Môi hồng, niêm mạc ẩm, khóc có nước mắt: không mất nước.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 118 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "BC 11,2 G/L · Neutrophil 52% · Hb 118 g/L · TC 280 G/L",
+     "n": "Không cần với viêm mũi họng do virus không biến chứng."
+    },
+    "crp": {
+     "r": "8 mg/L",
+     "n": "Không cần."
+    },
+    "test_lien_cau": {
+     "n": "IDSA 2012 (mạnh, chất lượng cao): không test liên cầu khi có dấu hiệu virus rõ như ho, chảy mũi, khàn tiếng. Bé có ho và chảy mũi."
+    },
+    "phet_hong": {
+     "n": "Không có giả mạc, không sưng cổ: chưa cần, nhưng phải khám họng kỹ vì bé chưa tiêm đủ."
+    },
+    "ua": {
+     "n": "Không có triệu chứng tiết niệu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm VA cấp (viêm mũi họng cấp do virus) ở trẻ 4 tuổi, chưa biến chứng, không có dấu hiệu nguy hiểm",
+     "ok": 1,
+     "n": "Sốt, nghẹt mũi, chảy mũi, thở miệng, họng đỏ, không giả mạc; không thở nhanh, không mất nước."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Có chảy mũi, ho, nghẹt mũi gợi ý virus (IDSA 2012). Lưu ý QĐ 5643 mục viêm họng cấp yêu cầu điều trị viêm họng đỏ cấp đơn thuần ở trẻ > 3 tuổi như do liên cầu khi không có xét nghiệm; bé không phải viêm họng đơn thuần mà là viêm mũi họng/VA có chảy mũi, ho, nên áp dụng mục Viêm V.A cấp."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc, không sưng cổ bạnh. Nhưng bé chưa tiêm đủ: phải khám họng kỹ và dặn tái khám."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ không phồng."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Nhịp thở 28 l/p; ngưỡng thở nhanh ở trẻ 1–5 tuổi là ≥ 40 l/p (QĐ 708/2015 theo TCYTTG); không rút lõm lồng ngực, phổi không ran: thuộc nhóm \"không viêm phổi (ho, cảm lạnh)\"."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích bệnh do virus, sẽ tự khỏi trong 7–10 ngày",
+     "v": "c",
+     "n": "QĐ 5643/2015: viêm VA cấp chủ yếu điều trị triệu chứng, chỉ dùng kháng sinh khi nghi nhiễm khuẩn hoặc đe dọa biến chứng. Có ho, chảy mũi: gợi ý virus."
+    },
+    {
+     "t": "Rửa mũi bằng nước muối sinh lý, hút mũi, cho uống nhiều nước, ăn lỏng",
+     "v": "c",
+     "n": "Chăm sóc hỗ trợ là chính."
+    },
+    {
+     "t": "Paracetamol 15 mg/kg/lần (≈ 240 mg) khi sốt, không quá 60 mg/kg/ngày (≈ 960 mg)",
+     "v": "c",
+     "n": "Liều theo cân nặng 16 kg, QĐ 708/2015 (paracetamol 15 mg/kg/lần, không quá 60 mg/kg/ngày). Mẹ đang cho 160 mg (khoảng 10 mg/kg)."
+    },
+    {
+     "t": "Ngưng siro chlorpheniramin; không dùng thuốc ho cảm, kháng histamin cho trẻ nhỏ",
+     "v": "c",
+     "n": "Từ khi uống bé ngủ li bì hơn (dữ kiện ca); \"ngủ li bì khó đánh thức\" là dấu hiệu nguy hiểm cần theo dõi (QĐ 708), thuốc làm khó đánh giá. QĐ 5643 chỉ nêu thận trọng kháng histamin ở trẻ < 2 tuổi; tài liệu đã tải không đánh giá hiệu quả của kháng histamin hay thuốc ho cảm ở trẻ."
+    },
+    {
+     "t": "Giải thích vì sao không truyền dịch: bé uống được, không mất nước",
+     "v": "c",
+     "n": "Bé uống được, không có dấu hiệu nguy hiểm (QĐ 708: không uống được, li bì khó đánh thức, thở rít, co giật, tím tái). QĐ 5643 điều trị viêm VA cấp bằng hút mũi, rỏ mũi, nâng đỡ cơ thể; không có truyền dịch. Trả lời đúng mong muốn thật của mẹ bằng lời giải thích, không chiều theo."
+    },
+    {
+     "t": "Hướng dẫn tiêm bù mũi nhắc bạch hầu – ho gà – uốn ván",
+     "v": "c",
+     "n": "Bé chưa tiêm đủ mũi nhắc. QĐ 5643: tiêm chủng đầy đủ cho trẻ em, tiêm chủng mở rộng triệt để. Lịch tiêm cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 3–5 ngày; đến ngay nếu thở nhanh, rút lõm ngực, thở rít, không uống được, li bì khó đánh thức, co giật, tím tái, đau tai hoặc chảy mủ tai, thấy mảng trắng trong họng",
+     "v": "c",
+     "n": "Dấu hiệu nguy hiểm và thở nhanh ≥ 40 l/p theo QĐ 708/2015 (TCYTTG); viêm tai giữa là biến chứng của viêm VA, giả mạc trắng bám chắc gợi ý bạch hầu (QĐ 5643)."
+    },
+    {
+     "t": "Truyền dịch theo yêu cầu của mẹ",
+     "v": "h",
+     "n": "Không có chỉ định: bé uống được, không có dấu hiệu nguy hiểm (QĐ 708); QĐ 5643 không có truyền dịch trong điều trị viêm VA cấp. Truyền dịch ngoại trú không cần thiết đem lại nguy cơ mà không có lợi."
+    },
+    {
+     "t": "Amoxicillin 10 ngày",
+     "v": "w",
+     "n": "IDSA 2012: không xét nghiệm, không điều trị liên cầu khi có dấu hiệu virus rõ (ho, chảy mũi, khàn tiếng). QĐ 5643: kháng sinh chỉ khi nghi vi khuẩn hoặc có biến chứng."
+    },
+    {
+     "t": "Corticoid uống cho bớt sưng VA",
+     "v": "w",
+     "n": "IDSA 2012: không khuyến cáo corticoid hỗ trợ trong viêm họng (yếu, mức trung bình)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm VA cấp / viêm mũi họng cấp, nghĩ do virus",
+     "Chưa biến chứng: không viêm tai giữa cấp, không viêm phổi (thở 28 l/p < 40)",
+     "Không có dấu hiệu nguy hiểm, không mất nước",
+     "Chưa có dấu hiệu bạch hầu dù chưa tiêm đủ mũi nhắc",
+     "Ghi nhận ngáy to, ngưng thở khi ngủ nhiều tháng: đánh giá VA quá phát khi hết đợt cấp"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là viêm VA cấp do virus: sốt 2 ngày, nghẹt mũi, thở bằng miệng, chảy mũi trong rồi đục, dịch nhầy chảy từ vòm xuống thành sau họng, họng đỏ (QĐ 5643: triệu chứng viêm VA cấp gồm ngạt mũi, thở miệng, ngáy, nhầy từ vòm chảy xuống). Có ho và chảy mũi: IDSA 2012 coi là dấu hiệu gợi ý virus.",
+     "Vì sao không phải viêm họng liên cầu: IDSA 2012 khuyến cáo mạnh không test, không điều trị liên cầu khi có dấu hiệu virus rõ như ho, chảy mũi. QĐ 5643 (mục viêm họng cấp) yêu cầu coi viêm họng đỏ cấp đơn thuần ở trẻ > 3 tuổi như do liên cầu khi không có xét nghiệm; bé không phải viêm họng đơn thuần nên áp dụng mục Viêm V.A cấp.",
+     "Vì sao chưa biến chứng: không đau tai, màng nhĩ hơi đục nhưng không phồng (không viêm tai giữa cấp). Nhịp thở 28 l/p, dưới ngưỡng thở nhanh ≥ 40 l/p ở trẻ 1–5 tuổi, không rút lõm lồng ngực, phổi không ran: QĐ 708 xếp nhóm \"không viêm phổi (ho, cảm lạnh)\".",
+     "Vì sao không có dấu hiệu nguy hiểm: bé vẫn chơi, uống được, không nôn tất cả, không co giật, không li bì (QĐ 708). Niêm mạc ẩm, khóc có nước mắt: không mất nước.",
+     "Vì sao phải nhắc bạch hầu: bé chưa tiêm mũi nhắc 18 tháng và 4 tuổi. QĐ 5643: bạch hầu có giả mạc chắc, dính, khó bóc, có thể vượt ra ngoài amiđan, hạch cổ sưng to. Bé không giả mạc, không cổ bạnh nên chưa nghĩ, nhưng phải khám họng kỹ và dặn tái khám.",
+     "Vì sao ghi ngáy và ngưng thở: mấy tháng nay ngáy to, há miệng, có đêm ngưng thở; năm nào cũng viêm mũi họng 5–6 lần. QĐ 5643: đây là biểu hiện của viêm VA mạn/VA quá phát, và đang viêm VA cấp là chống chỉ định tương đối của nạo VA, nên đánh giá lại khi hết đợt cấp."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh: QĐ 5643 điều trị viêm VA cấp chủ yếu là triệu chứng, chỉ dùng kháng sinh khi nghi nhiễm khuẩn hoặc đe dọa biến chứng, kháng sinh toàn thân cho trường hợp nặng và có biến chứng. Bé không thuộc các nhóm đó.",
+     "Chăm sóc mũi: hút mũi, rỏ mũi cho bé dễ thở (QĐ 5643), nhỏ hoặc rửa mũi bằng nước muối sinh lý (QĐ 5643 mục viêm họng, viêm mũi xoang). QĐ 5643 còn nêu ephedrin 1%, argyron 1% và khí dung mũi corticoid cho viêm VA cấp; không bắt buộc ở ca này.",
+     "Hạ sốt: paracetamol 15 mg/kg/lần, không quá 60 mg/kg/ngày (QĐ 708); bé 16 kg nên khoảng 240 mg/lần, tối đa khoảng 960 mg/ngày. Mẹ đang cho 160 mg (khoảng 10 mg/kg).",
+     "Ngưng siro chlorpheniramin: bé ngủ li bì hơn từ khi uống, mà li bì là dấu hiệu nguy hiểm cần theo dõi (QĐ 708).",
+     "Không truyền dịch: bé uống được, không có dấu hiệu nguy hiểm; giải thích bằng tiêu chí cụ thể để đáp ứng mong muốn thật của mẹ (mẹ đang áp lực công việc, muốn con khỏi nhanh).",
+     "Không corticoid uống: IDSA 2012 không khuyến cáo corticoid hỗ trợ trong viêm họng. Tiêm bù mũi nhắc bạch hầu – ho gà – uốn ván (QĐ 5643: tiêm chủng đầy đủ). Hẹn tái khám 3–5 ngày, dặn dấu hiệu nguy hiểm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (dạng siro hoặc gói cho trẻ)",
+      "ham_luong": "Theo hàm lượng sẵn có",
+      "lieu": "15 mg/kg/lần ≈ 240 mg",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt",
+      "so_ngay": "Khi cần; không quá 60 mg/kg/ngày ≈ 960 mg/ngày (tức không quá 4 lần 240 mg)",
+      "ghi_chu": "QĐ 708/2015. Ngưỡng nhiệt độ để dùng thuốc cho trẻ không được nêu trong tài liệu đã tải (QĐ 4235 dùng > 38,5 °C ở người lớn)."
+     },
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ hoặc rửa mỗi bên mũi, sau đó hút mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 (hút mũi, rỏ mũi; nhỏ, rửa mũi bằng nước muối sinh lý). Số lần mỗi ngày không được quy định trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bệnh do virus, thường tự đỡ; không cần kháng sinh, không cần truyền dịch vì bé uống được và không có dấu hiệu nguy hiểm.",
+     "Ngưng siro chlorpheniramin; không tự mua thêm thuốc ho cảm cho bé.",
+     "Hút mũi, nhỏ nước muối sinh lý khi bé nghẹt mũi; cho bé uống nước, ăn lỏng, chia nhiều bữa.",
+     "Paracetamol khoảng 240 mg mỗi lần khi sốt, không quá 4 lần trong 24 giờ (QĐ 708: không quá 60 mg/kg/ngày).",
+     "Đưa bé đến ngay nếu thở nhanh (từ 40 lần/phút trở lên khi nằm yên), rút lõm ngực, thở rít, không uống được, li bì khó đánh thức, co giật, tím tái (QĐ 708); hoặc đau tai, chảy mủ tai, thấy mảng trắng bám trong họng (QĐ 5643).",
+     "Đi tiêm bù mũi nhắc bạch hầu – ho gà – uốn ván.",
+     "Tái khám sau 3–5 ngày; khi đó bác sĩ sẽ xem lại chuyện ngáy và ngưng thở khi ngủ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày",
+   "tiep_don": "Tái khám sau 5 ngày. Bé hết sốt, ăn khá hơn, nhưng vẫn nghẹt mũi; mẹ lo vì đêm bé ngáy to, có lúc ngưng thở. Sinh hiệu: nhiệt 37,1 °C, mạch 104 l/p, nhịp thở 24 l/p, SpO₂ 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "loi_mo": "Bác sĩ ơi, bé hết sốt rồi, nhưng vẫn nghẹt mũi, đêm ngáy to lắm, có lúc như ngưng thở làm em sợ quá.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "Không đo",
+    "nhiet": "37,1",
+    "nhip_tho": 24,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "het_sot",
+     "noi_dung": "Hết sốt từ ngày thứ 3, ăn khá hơn, chơi bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến đợt cấp"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Đêm nào cũng ngáy to, thở há miệng; có lần mẹ đếm ngưng thở cả chục giây rồi bé giật mình. Ngủ trằn trọc, đổ mồ hôi. Cô giáo nói ban ngày bé hay gật gù, cáu gắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngưng thở tắc nghẽn khi ngủ"
+    },
+    {
+     "id": "nghe_kem",
+     "noi_dung": "Bé hay hỏi lại 'hả', xem tivi phải mở to.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghe kém (viêm tai giữa ứ dịch)"
+    },
+    {
+     "id": "can_nang",
+     "noi_dung": "Cân nặng đứng yên 16 kg từ 6 tháng nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chậm tăng cân"
+    },
+    {
+     "id": "tiem_bu",
+     "noi_dung": "Đã đặt lịch tiêm bù mũi nhắc tuần sau.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "truyen_dich2",
+     "noi_dung": "Mẹ vẫn hỏi có cần truyền nước hay tiêm thuốc cho bé mau hết nghẹt mũi không.",
+     "che_do": "tu_ke",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Amidan độ II, không giả mạc. Mũi còn dịch nhầy, niêm mạc phù. Màng nhĩ hai bên đục, kém di động, thấy mức dịch sau màng nhĩ: viêm tai giữa ứ dịch.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi được. Miệng há, thở bằng miệng, môi trên ngắn (bộ mặt VA).",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p. Không co lõm lồng ngực, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 24 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm nhỏ, không đau.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 104 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Không giúp quyết định."
+    },
+    "phet_hong": {
+     "n": "Không có giả mạc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm VA cấp đã đỡ đợt cấp, nhưng VA phì đại gây ngưng thở tắc nghẽn khi ngủ, kèm viêm tai giữa ứ dịch; cần chuyển chuyên khoa tai mũi họng",
+     "ok": 1,
+     "n": "Ngáy, ngưng thở khi ngủ, buồn ngủ ban ngày, chậm tăng cân, nghe kém, dịch sau màng nhĩ."
+    },
+    {
+     "t": "Viêm VA cấp chưa khỏi, cần kháng sinh",
+     "n": "Đã hết sốt và đỡ dần; vấn đề là tắc nghẽn mạn, không phải nhiễm khuẩn."
+    },
+    {
+     "t": "Viêm xoang cấp do vi khuẩn",
+     "n": "Không có diễn tiến 'đỡ rồi lại xấu đi', không sốt lại, chưa đủ 10 ngày."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc, hết sốt, cải thiện dần."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển khám chuyên khoa tai mũi họng nhi: nội soi VA, đo nhĩ lượng, cân nhắc đa ký giấc ngủ và nạo VA",
+     "v": "c",
+     "n": "QĐ 5643/2015: chỉ định nạo VA khi viêm 5–6 đợt mỗi năm, có biến chứng gần (viêm tai) hoặc VA quá phát ảnh hưởng đường thở. Bé có cả ba: ngưng thở khi ngủ, nghe kém, viêm mũi họng 5–6 lần mỗi năm. Phòng khám không có nội soi vòm nên chuyển chuyên khoa."
+    },
+    {
+     "t": "Giải thích ngáy to, ngưng thở khi ngủ ở trẻ không phải bình thường",
+     "v": "c",
+     "n": "Mẹ từng nghĩ 'trẻ con ai chẳng ngáy'."
+    },
+    {
+     "t": "Tiếp tục rửa mũi bằng nước muối sinh lý; không tự kê kháng sinh vì nghẹt mũi, để chuyên khoa quyết định điều trị viêm tai ứ dịch",
+     "v": "c",
+     "n": "Nghẹt mũi do VA quá phát, không phải dấu nhiễm khuẩn. QĐ 5643: viêm tai ứ dịch chia theo thời gian (cấp ≤ 3 tuần: kháng sinh 5–10 ngày; bán cấp 3 tuần–3 tháng: kháng sinh 2 tuần + corticoid 7 ngày; mạn > 3 tháng có nghe kém: nạo VA, đặt ống thông khí); đo nhĩ lượng là tiêu chuẩn chính. Thời gian ứ dịch của bé chưa rõ nên để chuyên khoa quyết định."
+    },
+    {
+     "t": "Nhắc tiêm bù mũi nhắc bạch hầu – ho gà – uốn ván đúng hẹn",
+     "v": "c",
+     "n": "Hoàn tất tiêm chủng."
+    },
+    {
+     "t": "Xịt mũi corticoid trong lúc chờ khám chuyên khoa",
+     "v": "a",
+     "n": "QĐ 5643 có khí dung mũi corticoid trong điều trị viêm VA cấp; với VA quá phát gây tắc nghẽn, hướng chính là cân nhắc nạo VA. Không thay thế khám chuyên khoa."
+    },
+    {
+     "t": "Kê kháng sinh 10 ngày vì còn nghẹt mũi",
+     "v": "w",
+     "n": "Lý do \"còn nghẹt mũi\" là sai: nghẹt mũi do VA quá phát. Kháng sinh cho viêm tai ứ dịch là quyết định theo thời gian bệnh sau khi đo nhĩ lượng (QĐ 5643), không thay được việc chuyển chuyên khoa."
+    },
+    {
+     "t": "Hẹn 3 tháng sau, nếu còn ngáy mới chuyển",
+     "v": "w",
+     "n": "QĐ 5643: VA quá phát ảnh hưởng đường thở và VA gây biến chứng gần (viêm tai) là chỉ định nạo VA; bé còn chậm tăng cân, nghe kém. Cần chuyển ngay."
+    },
+    {
+     "t": "Truyền dịch, tiêm thuốc cho mau hết nghẹt mũi",
+     "v": "h",
+     "n": "Không có chỉ định: bé hết sốt, ăn uống được; QĐ 5643 không có truyền dịch, tiêm thuốc trong điều trị VA."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đợt viêm VA cấp đã cải thiện (hết sốt từ ngày 3)",
+     "VA quá phát (viêm VA mạn) gây ngáy, ngưng thở khi ngủ",
+     "Viêm tai giữa ứ dịch hai bên (nghe kém, mức dịch sau màng nhĩ)",
+     "Ảnh hưởng toàn thân: chậm tăng cân, buồn ngủ ban ngày",
+     "Có chỉ định nạo VA: chuyển chuyên khoa tai mũi họng"
+    ],
+    "phan_tich_chan_doan": [
+     "Đợt cấp đã đỡ: hết sốt, ăn khá hơn, chơi bình thường. Vấn đề còn lại là tắc nghẽn mạn, không phải nhiễm khuẩn đang tiến triển.",
+     "VA quá phát: ngáy to mỗi đêm, thở há miệng, ngưng thở cả chục giây rồi giật mình, ngủ trằn trọc, ban ngày gật gù, cáu gắt; khám thấy miệng há, môi trên ngắn (bộ mặt VA). QĐ 5643 mô tả viêm VA mạn: ngạt tắc mũi tăng dần, ngủ không yên, ngáy to, giật mình, tai nghe kém, trẻ phát triển chậm, kém tập trung.",
+     "Viêm tai giữa ứ dịch: bé hay hỏi lại, xem tivi phải mở to; màng nhĩ đục, kém di động, có mức dịch. QĐ 5643: hình ảnh mức nước hoặc bóng khí sau màng tai, giảm di động màng tai; đo nhĩ lượng là tiêu chuẩn chính để chẩn đoán (nhĩ đồ dạng B hoặc C); khám vòm họng kiểm tra VA quá phát.",
+     "Chậm tăng cân: đứng 16 kg từ 6 tháng nay (QĐ 5643: VA ảnh hưởng sự phát triển của cơ thể).",
+     "Chỉ định nạo VA theo QĐ 5643: bé có đủ cả ba nhóm – viêm tái diễn 5–6 lần mỗi năm, biến chứng gần (viêm tai), VA quá phát ảnh hưởng đường thở. Phòng khám không có nội soi vòm nên phải chuyển.",
+     "Phân biệt: chưa phải viêm xoang cấp do vi khuẩn (không có diễn tiến đỡ rồi xấu lại, không sốt lại); không phải bạch hầu (không giả mạc, đã hết sốt)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí đúng là chuyển chuyên khoa tai mũi họng nhi: nội soi VA, đo nhĩ lượng, cân nhắc nạo VA (QĐ 5643). Hẹn 3 tháng mới chuyển là sai vì bé đã có ngưng thở khi ngủ, nghe kém, chậm tăng cân.",
+     "Kháng sinh cho viêm tai ứ dịch: QĐ 5643 phân theo thời gian (cấp ≤ 3 tuần: kháng sinh 5–10 ngày; bán cấp: kháng sinh 2 tuần + corticoid 7 ngày; mạn > 3 tháng có nghe kém: nạo VA, đặt ống thông khí). Thời gian ứ dịch chưa rõ và cần đo nhĩ lượng, nên quyết định thuộc về chuyên khoa. Kê kháng sinh vì \"còn nghẹt mũi\" là sai lý do.",
+     "Giải thích cho mẹ: ngáy to, ngưng thở khi ngủ ở trẻ không phải bình thường (mẹ từng nghĩ \"trẻ con ai chẳng ngáy\").",
+     "Tiếp tục rửa mũi; không truyền dịch, không tiêm thuốc (không có chỉ định). Xịt hoặc khí dung mũi corticoid trong lúc chờ là chấp nhận được (QĐ 5643 nêu khí dung corticoid cho viêm VA cấp) nhưng không thay được chuyển chuyên khoa.",
+     "Nhắc tiêm bù mũi nhắc đúng hẹn (đã đặt lịch tuần sau)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ hoặc rửa mỗi bên mũi, sau đó hút mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi",
+      "so_ngay": "Trong lúc chờ khám chuyên khoa",
+      "ghi_chu": "QĐ 5643. Không kê kháng sinh ở tuyến này; điều trị viêm tai ứ dịch do chuyên khoa quyết định sau đo nhĩ lượng."
+     }
+    ],
+    "dan_do": [
+     "Ngáy to và ngưng thở khi ngủ ở bé không phải bình thường; đây là do VA to chèn đường thở, làm bé nghe kém và chậm tăng cân.",
+     "Đưa bé đi khám chuyên khoa tai mũi họng nhi sớm, mang giấy chuyển; bác sĩ sẽ nội soi, đo nhĩ lượng và cân nhắc nạo VA (QĐ 5643).",
+     "Trong lúc chờ: tiếp tục hút mũi, nhỏ nước muối sinh lý; không cần truyền dịch hay tiêm thuốc.",
+     "Đưa bé đi khám ngay nếu khó thở, thở rít, ngưng thở lâu, tím tái, sốt lại, đau tai hoặc chảy mủ tai.",
+     "Đi tiêm bù mũi nhắc bạch hầu – ho gà – uốn ván đúng lịch đã đặt."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Khám tai mũi họng: VA phì đại độ III che khoảng 80% cửa mũi sau, viêm tai giữa ứ dịch hai bên. Đa ký giấc ngủ: chỉ số ngưng thở – giảm thở 7 lần/giờ. Bé được nạo VA một tháng sau; hết ngáy, ngủ ngon, tăng cân, nghe tốt hơn. Bé đã tiêm bù đủ mũi nhắc.",
+ "nhieu": [
+  "Áp lực công việc của mẹ: là lý do mẹ muốn truyền dịch cho bé khỏi nhanh, không phải triệu chứng của bé.",
+  "Không có X-quang: không cần để chẩn đoán ca này."
+ ],
+ "bai_hoc_bien": [
+  "Mẹ giấu tiền sử tiêm chủng: hỏi cụ thể từng mũi nhắc, xem sổ tiêm, hỏi lại nhẹ nhàng, không trách móc. Trẻ chưa tiêm đủ thì bạch hầu phải nằm trong chẩn đoán phân biệt.",
+  "Thuốc tự mua: kháng histamin thế hệ 1 cho trẻ nhỏ gây ngủ li bì, có thể che dấu hiệu li bì nguy hiểm.",
+  "Muốn được truyền dịch: giải thích bằng tiêu chí cụ thể (bé uống được, không mất nước) thay vì chỉ từ chối.",
+  "Thân nhân trả lời thay: hỏi thêm chính trẻ khi trẻ nói được ('Bảo đau chỗ nào?').",
+  "Đỡ một phần ở lượt tái khám: phân biệt hồi phục chậm bình thường với vấn đề nền (VA phì đại) cần chuyển chuyên khoa.",
+  "Cặp tương phản với ca NH-0191 (nhiễm khuẩn hô hấp trên điển hình): hai ca mở đầu giống nhau (sốt, nghẹt mũi, mẹ muốn truyền dịch). Điểm phân biệt then chốt là ngáy to, ngưng thở khi ngủ, nghe kém, chậm tăng cân: dấu của VA quá phát cần chuyển chuyên khoa, không chỉ là cảm lạnh."
+ ],
+ "diem_nho": [
+  "Viêm VA cấp: điều trị như viêm mũi cấp (hút mũi, rỏ mũi, nâng đỡ cơ thể); kháng sinh chỉ khi nghi nhiễm khuẩn hoặc đe dọa biến chứng (QĐ 5643/2015).",
+  "Có ho, chảy mũi, khàn tiếng: nghĩ virus, không test và không điều trị liên cầu (IDSA 2012); trẻ < 3 tuổi thường không cần test liên cầu (IDSA 2012).",
+  "Trẻ 1–5 tuổi thở ≥ 40 l/p là thở nhanh; dấu hiệu nguy hiểm: không uống được, li bì khó đánh thức, thở rít khi nằm yên, co giật, tím tái (QĐ 708/2015 theo TCYTTG).",
+  "Bạch hầu: khám họng tìm giả mạc trắng xám bám chắc, khó bóc, dễ chảy máu, hạch cổ sưng to (QĐ 5643); hỏi kỹ sổ tiêm chủng, nhất là các mũi nhắc.",
+  "Chỉ định nạo VA: viêm tái diễn 5–6 lần mỗi năm, biến chứng gần (viêm tai), biến chứng xa, hoặc VA quá phát ảnh hưởng đường thở (QĐ 5643/2015). Chống chỉ định tương đối khi đang viêm VA cấp.",
+  "Paracetamol cho trẻ: 15 mg/kg/lần, không quá 60 mg/kg/ngày (QĐ 708/2015)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 5643/QĐ-BYT 2015 hướng dẫn chẩn đoán và điều trị một số bệnh tai mũi họng – ĐÃ ĐỌC mục Viêm V.A cấp và mạn tính, Viêm tai ứ dịch ở trẻ em, Viêm họng cấp tính (bạch hầu), Viêm mũi xoang trẻ em (TL-0130)",
+  "IDSA 2012 – Clinical Practice Guideline for Group A Streptococcal Pharyngitis – ĐÃ ĐỌC phần chỉ định test và corticoid (TL-0158)",
+  "Bộ Y tế – QĐ 708/QĐ-BYT 2015 hướng dẫn sử dụng kháng sinh – ĐÃ ĐỌC mục viêm phổi cộng đồng ở trẻ em (ngưỡng thở nhanh, dấu hiệu nguy hiểm) và liều paracetamol 15 mg/kg (TL-0015)",
+  "Hướng dẫn bạch hầu riêng, lịch tiêm chủng mở rộng, AAP 2012 ngưng thở khi ngủ ở trẻ: CHƯA có trong tài liệu đã tải"
+ ],
+ "phien_ban_ca": "2 – soát lại theo QĐ 5643/2015 và IDSA 2012 (2026-10-10)",
+ "ghi_chu_bien_tap": [
+  "Bản 2 (2026-10-10): đặc tả sổ cái đã khớp từ bản 1. Bổ sung căn cứ QĐ 5643/IDSA 2012, đưa yếu tố khởi phát vào dòng thời gian, thêm bài học cặp tương phản P-0195.",
+  "Âm thanh tim, phổi dùng chung người lớn và trẻ em (người dùng chốt 2026-10-10): tệp mô phỏng tính chất tiếng, tần số và tuổi thể hiện bằng chữ.",
+  "2026-10-10: thêm đáp án chi tiết (dap_an). Bỏ các chi tiết không có nguồn: \"mỗi 4–6 giờ\", \"theo IMCI\", \"có bằng chứng giảm triệu chứng VA phì đại\", \"kháng histamin không có lợi\". Thay bằng QĐ 708 (liều paracetamol 15 mg/kg, ≤ 60 mg/kg/ngày; ngưỡng thở nhanh, dấu hiệu nguy hiểm) và QĐ 5643 (viêm tai ứ dịch, VA). Ghi rõ mâu thuẫn QĐ 5643 mục viêm họng cấp với IDSA 2012 và lý do áp dụng mục Viêm V.A cấp."
+ ]
+}

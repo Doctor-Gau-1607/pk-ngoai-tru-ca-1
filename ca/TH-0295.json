@@ -1,0 +1,785 @@
+{
+ "ma_ca": "TH-0295",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_benh_da_day_do_nsaid",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Bệnh dạ dày do NSAID / viêm dạ dày cấp",
+  "chan_doan_phai_loai_tru": [
+   "Loét dạ dày-tá tràng",
+   "Xuất huyết tiêu hóa",
+   "NMCT thành dưới"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Hữu Phước",
+  "tuoi": 68,
+  "gioi": "Nam",
+  "nghe": "Giáo viên hưu trí",
+  "can_nang": 62,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'chú'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói chậm rãi, rõ ràng, kỹ tính, hay hỏi lại cho chắc. Ngồi máy tính đọc báo, đánh cờ trên mạng hàng giờ. Rất sợ bệnh tim. Hiểu biết y khoa trung bình, biết mình bị tiểu đường, huyết áp.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà ở xã cách 25 km, đi xe ôm mất một tiếng, con cái đi làm ở thành phố. Ông ngại quay lại, chỉ nói rõ khi bác sĩ hỏi về đường đi, ai đưa đón, có quay lại được không.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#ddb08c",
+   "toc": "#8f8a84",
+   "kieuToc": "ngan",
+   "ao": "#e8e4da",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau rát thượng vị, sợ bệnh tim",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang và không có nội soi tiêu hóa; nội soi làm ở bệnh viện tỉnh, cách 40 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Nguyễn Hữu Phước, 68 tuổi, giáo viên hưu trí, đái tháo đường đang tiêm insulin, tăng huyết áp. Đến vì đau rát vùng trên rốn 10 ngày, có lúc lan lên ngực. Sinh hiệu: HA 138/82 mmHg, mạch 80 l/p, SpO₂ 98%. Đường huyết mao mạch 8,6 mmol/L.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Mười hôm nay tôi đau rát vùng trên rốn, có lúc lan lên ngực. Tôi sợ bị tim quá.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "138/82",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau rát vùng trên rốn 10 ngày, có lúc lan lên giữa ngực. Sợ bị bệnh tim.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau rát âm ỉ, tăng sau ăn và lúc đói về đêm. Không liên quan gắng sức: đi bộ, leo dốc không đau hơn. Không lan tay trái hay hàm, không vã mồ hôi, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: phân biệt dạ dày và tim"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Ngồi máy tính đọc báo, đánh cờ trên mạng nhiều giờ mỗi ngày nên đau mỏi vai gáy. Hai tuần nay mua diclofenac 50 mg ở hiệu thuốc uống ngày 2 lần. Thỉnh thoảng uống thêm viên 'giảm đau xương khớp' hàng xóm cho, viên nhỏ màu trắng, không nhãn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì chỉ kể insulin và thuốc huyết áp. Chỉ kể thuốc giảm đau khi bác sĩ hỏi cụ thể thuốc giảm đau, thuốc xương khớp, đau vai gáy uống gì.",
+     "k": 1,
+     "y": "Dùng NSAID (nguyên nhân)"
+    },
+    {
+     "id": "dtd",
+     "noi_dung": "Tiểu đường 12 năm, tiêm insulin hỗn hợp sáng và tối. Đường huyết ở nhà 7–9 mmol/L. Có vài lần hạ đường huyết nhẹ khi bỏ bữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái tháo đường dùng insulin"
+    },
+    {
+     "id": "tha",
+     "noi_dung": "Tăng huyết áp, uống losartan 50 mg mỗi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (losartan)"
+    },
+    {
+     "id": "xhth_am",
+     "noi_dung": "Không nôn ra máu, phân vàng, không đi cầu phân đen. Không choáng khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc xuất huyết tiêu hóa"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không sụt cân, không nuốt nghẹn, ăn uống bình thường, không nôn nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động (ung thư)"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau ngực khi gắng sức, chưa từng nhồi máu. Không khó thở khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tim mạch"
+    },
+    {
+     "id": "chong_dong",
+     "noi_dung": "Không uống aspirin, không dùng thuốc chống đông.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc chống kết tập, chống đông"
+    },
+    {
+     "id": "tien_su_tieu_hoa",
+     "noi_dung": "Chưa từng bị loét dạ dày, chưa nội soi, chưa thử vi khuẩn HP.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ruou_thuoc",
+     "noi_dung": "Không uống rượu, bỏ thuốc lá 10 năm.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà ở xã cách 25 km, đi xe ôm mất một tiếng; bệnh viện tỉnh cách 40 km. Con trai đi làm ở thành phố, chỉ chở được vào ngày nghỉ. Xã chỉ có trạm y tế. Khó quay lại tái khám, càng khó đi tỉnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng tái khám (ở xa)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông bạn đánh cờ cùng nhóm vừa nhồi máu cơ tim tháng trước; lúc đầu ai cũng tưởng 'đau dạ dày'. Ông sợ mình cũng thế.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chú lo nhất điều gì, hoặc vì sao chú nghĩ là bệnh tim.",
+     "k": 1,
+     "y": "Động cơ thật: sợ nhồi máu cơ tim"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ vùng thượng vị, không phản ứng thành bụng, không sờ thấy khối, gan lách không to.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da. Không hạch thượng đòn.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ thang hai bên, ấn đau, xoay cổ hơi hạn chế. Không yếu tay.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Phân vàng, không đen, không máu.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 78 l/p. Không ST chênh, không sóng Q, không biến đổi ST–T ở DII, DIII, aVF.",
+     "n": "Bắt buộc: đau thượng vị lan ngực ở người cao tuổi ĐTĐ dùng insulin (dễ nhồi máu thầm lặng) phải loại trừ nhồi máu thành dưới."
+    },
+    "trop": {
+     "v": "u",
+     "r": "hs-TnT 9 ng/L (ngưỡng < 14)",
+     "n": "Hữu ích vì người ĐTĐ cao tuổi, đau có lan ngực."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 128 g/L · MCV 88 fL · TC 260 G/L",
+     "n": "Mốc nền để so sánh nếu có chảy máu sau này."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 96 µmol/L · eGFR 70 mL/ph/1,73m²",
+     "n": "NSAID + losartan + ĐTĐ: nguy cơ tổn thương thận."
+    },
+    "glu": {
+     "v": "u",
+     "r": "8,6 mmol/L"
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "7,6%",
+     "ab": 1
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 139 · K 4,8 mmol/L"
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan mật bình thường, không sỏi túi mật, tụy không to.",
+     "n": "Loại trừ sỏi mật."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 26 · ALT 22 U/L"
+    },
+    "echo": {
+     "n": "Không có dấu suy tim, ECG bình thường."
+    },
+    "ct_bung": {
+     "n": "Không có dấu báo động."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "VNAGE 2023 (khuyến cáo mạnh): rối loạn tiêu hóa chưa được thăm dò ở nam ≥ 40 tuổi nên nội soi dạ dày. Ông 68 tuổi: có chỉ định nội soi, nhưng không cấp cứu vì chưa có dấu báo động."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh dạ dày do NSAID / viêm dạ dày cấp do diclofenac ở người cao tuổi ĐTĐ dùng insulin; đã loại trừ nhồi máu cơ tim; cần nội soi để loại trừ loét",
+     "ok": 1,
+     "n": "Đau rát thượng vị khởi phát sau 2 tuần diclofenac, không liên quan gắng sức; ECG, troponin bình thường."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Chỉ khẳng định hay loại trừ bằng nội soi. Chưa có dấu báo động nên ngưng NSAID, dùng PPI và hẹn nội soi (VNAGE 2023: nam ≥ 40 tuổi)."
+    },
+    {
+     "t": "Xuất huyết tiêu hóa",
+     "n": "Không nôn máu, không phân đen, Hb 128 g/L."
+    },
+    {
+     "t": "Nhồi máu cơ tim thành dưới",
+     "n": "ECG không biến đổi DII, DIII, aVF; troponin bình thường; đau không liên quan gắng sức."
+    },
+    {
+     "t": "Trào ngược dạ dày – thực quản",
+     "n": "Có thể góp phần vào cảm giác rát lan ngực, nhưng khởi phát trùng với NSAID."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng diclofenac và mọi thuốc giảm đau xương khớp tự mua; đau vai gáy dùng paracetamol, chườm ấm, tập giãn cơ, nghỉ giữa giờ khi ngồi máy tính",
+     "v": "c",
+     "n": "Bỏ nguyên nhân. Rome V: ngưng thuốc có thể gây khó tiêu trước khi thăm dò thêm. JSGE 2026: loét do NSAID thì ngưng NSAID và dùng PPI. AHA/ACC 2025: tránh NSAID toàn thân ở người THA; ADA 2026 mục 11: NSAID gây tổn thương thận ở người ĐTĐ. Biện pháp chườm ấm, tập giãn cơ, nghỉ giữa giờ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ức chế bơm proton liều chuẩn 1 lần/ngày (omeprazol 20 mg hoặc esomeprazol 40 mg) 4–8 tuần",
+     "v": "c",
+     "n": "JSGE 2026: PPI là lựa chọn đầu tay cho tổn thương do NSAID. Rome V: PPI liều chuẩn 1 lần/ngày trong 4–8 tuần, ngưng nếu không cải thiện, không tăng liều. Liều omeprazol 20 mg/ngày, esomeprazol 40 mg/ngày theo QĐ 4235/2012; uống 30–60 phút trước ăn (ACG 2024)."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày ở bệnh viện tỉnh theo hẹn trong 1–2 tuần (không cấp cứu), kèm test H. pylori khi nội soi",
+     "v": "c",
+     "n": "VNAGE 2023 (Statement 3, khuyến cáo mạnh): rối loạn tiêu hóa chưa thăm dò ở nam ≥ 40 tuổi hoặc có dấu báo động cần nội soi dạ dày, chẩn đoán H. pylori bằng test qua sinh thiết. Phòng khám không có nội soi nên phải giới thiệu. Mốc \"1–2 tuần\" là lựa chọn của ca, tài liệu không quy định thời hạn."
+    },
+    {
+     "t": "Dặn kỹ dấu hiệu xuất huyết (phân đen, nôn máu, choáng, ngất): đến ngay trạm y tế hoặc bệnh viện; ghi số điện thoại phòng khám",
+     "v": "c",
+     "n": "VNAGE 2023 và Rome V coi dấu hiệu xuất huyết tiêu hóa trên là dấu báo động cần nội soi ngay. Nhà ở xa: dặn dò phải trọn gói, có văn bản."
+    },
+    {
+     "t": "Hẹn tái khám 1–2 tuần (có thể khám tại trạm y tế xã kèm giấy hẹn)",
+     "v": "c",
+     "n": "Kiểm tra đáp ứng; người ở xa cần phương án tái khám gần nhà."
+    },
+    {
+     "t": "Giải thích điện tim và men tim bình thường, hiện không phải nhồi máu; dặn kiểu đau ngực cần gọi cấp cứu",
+     "v": "c",
+     "n": "Trả lời đúng nỗi lo thật (bạn cờ vừa nhồi máu cơ tim). Tài liệu đã tải không có hướng dẫn chẩn đoán hội chứng vành cấp; dặn đi cấp cứu khi đau ngực khi gắng sức, kéo dài, vã mồ hôi."
+    },
+    {
+     "t": "Xét nghiệm vi khuẩn H. pylori",
+     "v": "a",
+     "n": "Rome V: xác định tình trạng H. pylori ở mọi người khó tiêu. VNAGE 2023: người ≥ 40 tuổi có chỉ định nội soi thì làm test dựa trên sinh thiết (urease nhanh) khi nội soi. Đang dùng PPI dễ âm tính giả."
+    },
+    {
+     "t": "Đổi diclofenac sang meloxicam hoặc celecoxib cho đỡ hại dạ dày",
+     "v": "w",
+     "n": "Vẫn là NSAID; ông bị THA, ĐTĐ, dùng losartan nên tránh NSAID (AHA/ACC 2025; ADA 2026 mục 11). JSGE 2026 chỉ dùng chẹn COX-2 kèm PPI khi bắt buộc phải dùng NSAID; ở đây đau vai gáy giảm được bằng paracetamol."
+    },
+    {
+     "t": "Dùng sucralfat hoặc thuốc dạ dày dạng gel thay cho PPI",
+     "v": "w",
+     "n": "JSGE 2026 và Rome V đều chọn PPI là thuốc đầu tay; tài liệu đã tải không ủng hộ dùng sucralfat hay thuốc dạng gel thay PPI."
+    },
+    {
+     "t": "Cho thêm aspirin vì sợ bệnh tim",
+     "v": "h",
+     "n": "ADA 2026 (10.36): aspirin phòng ngừa tiên phát chỉ cân nhắc sau khi bàn kỹ lợi ích với nguy cơ chảy máu. Ông đang tổn thương dạ dày do NSAID; JSGE 2026 xếp người dùng NSAID kèm aspirin liều thấp vào nhóm cần dự phòng loét riêng."
+    },
+    {
+     "t": "Chuyển tuyến nội soi cấp cứu ngay",
+     "v": "w",
+     "n": "Chưa có dấu báo động, huyết động ổn: nội soi theo hẹn, không phải cấp cứu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau thượng vị do NSAID (diclofenac): bệnh dạ dày / viêm dạ dày do NSAID",
+     "Đã loại trừ nhồi máu cơ tim (ECG, troponin bình thường)",
+     "Chưa có dấu xuất huyết tiêu hóa, chưa có dấu báo động",
+     "Cần nội soi để loại trừ loét (nam ≥ 40 tuổi, chưa thăm dò)",
+     "Bệnh kèm: ĐTĐ dùng insulin, THA dùng losartan"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao nghĩ do NSAID: đau rát thượng vị bắt đầu sau 2 tuần uống diclofenac 50 mg × 2 lần/ngày, tăng sau ăn và lúc đói về đêm, ấn đau thượng vị. NSAID là một trong hai nguyên nhân chính của loét dạ dày tá tràng (JSGE 2026). Chưa nội soi thì chưa phân biệt được viêm trợt với loét, nên chẩn đoán phải kèm \"cần nội soi\".",
+     "Vì sao phải ghi đã loại trừ nhồi máu cơ tim: đau lan lên ngực, ông có ĐTĐ, THA và đang rất sợ nhồi máu (bạn cờ vừa nhồi máu mà tưởng đau dạ dày). Đau không liên quan gắng sức, ECG không biến đổi DII, DIII, aVF, hs-TnT 9 ng/L dưới ngưỡng. (Tài liệu đã tải không có hướng dẫn chẩn đoán hội chứng vành cấp; đây là lập luận dựa trên dữ kiện của ca.)",
+     "Vì sao chưa có dấu báo động: không nôn máu, không phân đen, không choáng, Hb 128 g/L; không sụt cân, không nuốt nghẹn, không nôn nhiều, không khối bụng (danh sách dấu báo động của VNAGE 2023 và Rome V).",
+     "Vì sao vẫn cần nội soi dù không có dấu báo động: VNAGE 2023 Statement 3 (khuyến cáo mạnh): nam ≥ 40 tuổi có rối loạn tiêu hóa chưa thăm dò phải nội soi, chẩn đoán H. pylori bằng test qua sinh thiết. Rome V cho phép xử trí không nội soi khi không có dấu báo động, nhưng ngưỡng tuổi ở Việt Nam theo VNAGE.",
+     "Trào ngược dạ dày thực quản có thể góp phần vào cảm giác rát lan ngực, nhưng khởi phát trùng với NSAID. Cơ địa ĐTĐ dùng insulin, THA dùng losartan là thành phần cần ghi vì quyết định việc tránh NSAID (AHA/ACC 2025; ADA 2026 mục 11)."
+    ],
+    "phan_tich_xu_tri": [
+     "Bỏ nguyên nhân: ngưng diclofenac và mọi viên \"giảm đau xương khớp\" không nhãn. Rome V: ngưng thuốc gây khó tiêu trước khi thăm dò thêm; JSGE 2026: loét do NSAID thì ngưng NSAID.",
+     "PPI: JSGE 2026 chọn PPI là thuốc đầu tay; Rome V: liều chuẩn 1 lần/ngày, 4–8 tuần, ngưng nếu không cải thiện, không tăng liều. Liều omeprazol 20 mg hoặc esomeprazol 40 mg/ngày (QĐ 4235), uống 30–60 phút trước ăn (ACG 2024).",
+     "Nội soi theo hẹn, không cấp cứu: chưa có dấu báo động, huyết động ổn. Phòng khám không có nội soi nên viết sẵn giấy giới thiệu. Test H. pylori nên làm qua sinh thiết khi nội soi (VNAGE 2023 Statement 3, 4); đang dùng PPI dễ âm tính giả (VNAGE: ngưng PPI 2 tuần trước test).",
+     "Giảm đau vai gáy bằng paracetamol (AHA/ACC 2025: tránh NSAID ở người THA, paracetamol < 4 g/ngày).",
+     "Những việc sai: đổi sang meloxicam hoặc celecoxib (vẫn là NSAID; JSGE chỉ dùng chẹn COX-2 kèm PPI khi bắt buộc phải dùng NSAID); thay PPI bằng sucralfat hoặc thuốc gel; thêm aspirin vì sợ bệnh tim (ADA 2026 10.36: cân nhắc nguy cơ chảy máu; JSGE: người dùng NSAID kèm aspirin cần dự phòng loét riêng); chuyển nội soi cấp cứu khi không có dấu báo động.",
+     "Vì nhà xa: dặn dấu hiệu xuất huyết bằng văn bản, ghi số điện thoại, hẹn tái khám 1–2 tuần (có thể ở trạm y tế xã)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "4–8 tuần; đánh giá lại khi tái khám và sau nội soi",
+      "ghi_chu": "Liều theo QĐ 4235 (omeprazol 20 mg/ngày hoặc esomeprazol 40 mg/ngày); 1 lần/ngày, 4–8 tuần, không tăng liều (Rome V); cách uống theo ACG 2024. Cho biết ở nơi nội soi rằng đang dùng PPI (test urease có thể âm tính giả)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1–2 viên mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau vai gáy",
+      "so_ngay": "Khi cần; tổng < 4 g/ngày",
+      "ghi_chu": "Thay diclofenac. Liều mỗi lần theo QĐ 708; giới hạn < 4 g/ngày theo AHA/ACC 2025."
+     },
+     {
+      "thuoc": "Insulin hỗn hợp, losartan 50 mg",
+      "ham_luong": "",
+      "lieu": "Giữ nguyên như đang dùng",
+      "duong": "Như cũ",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "—",
+      "ghi_chu": "Không đổi thuốc nền ở lượt này."
+     }
+    ],
+    "dan_do": [
+     "Ngưng diclofenac và không uống viên \"giảm đau xương khớp\" hàng xóm cho; mang vỉ hoặc viên theo khi đi khám.",
+     "Uống omeprazol mỗi sáng 30–60 phút trước ăn.",
+     "Đau vai gáy: uống paracetamol khi cần, không quá 4 g/ngày.",
+     "Cầm giấy giới thiệu lên bệnh viện tỉnh nội soi dạ dày khi con trai chở được; báo nơi nội soi là đang uống thuốc dạ dày (VNAGE 2023).",
+     "Đến ngay trạm y tế hoặc bệnh viện nếu đi cầu phân đen, nôn ra máu, choáng, ngất (dấu báo động theo VNAGE 2023, Rome V); gọi số điện thoại phòng khám đã ghi.",
+     "Đi cấp cứu ngay nếu đau ngực khi gắng sức, đau ngực kéo dài kèm vã mồ hôi, khó thở.",
+     "Tái khám sau 1–2 tuần (có thể ở trạm y tế xã kèm giấy hẹn)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 1 tuần",
+   "tiep_don": "Tái khám sau 1 tuần, con trai chở đến. Vẫn đau rát thượng vị như cũ, chưa đi nội soi được. Sinh hiệu: HA 142/84 mmHg, mạch 82 l/p, SpO₂ 98%. Đường huyết mao mạch 14,6 mmol/L.",
+   "ket_luan": "chuyen_tuyen",
+   "loi_mo": "Bác sĩ ơi, tôi uống thuốc dạ dày đều mà vẫn đau y như cũ. Lên tỉnh nội soi thì xa quá, chưa đi được.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "142/84",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Đau rát thượng vị không bớt, vẫn đau sau ăn và lúc đói về đêm. Ăn ít đi vì sợ đau.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ sau 1 tuần PPI"
+    },
+    {
+     "id": "ppi",
+     "noi_dung": "Uống omeprazol đều mỗi sáng trước ăn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ PPI"
+    },
+    {
+     "id": "van_dung_thuoc",
+     "noi_dung": "Đã ngưng diclofenac, nhưng vai gáy đau quá nên mỗi ngày vẫn uống 2 viên 'giảm đau xương khớp' hàng xóm cho (viên nhỏ màu trắng, không nhãn). Uống vào là hết đau vai, ăn ngon miệng, nghĩ là thuốc nam không hại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc đều không' thì chỉ nói về thuốc bác sĩ kê. Chỉ kể khi bác sĩ hỏi cụ thể còn uống thuốc giảm đau, thuốc xương khớp, thuốc ai cho, thuốc nam không.",
+     "k": 1,
+     "y": "Vẫn dùng thuốc giảm đau trôi nổi (nguyên nhân không đỡ)"
+    },
+    {
+     "id": "duong_huyet",
+     "noi_dung": "Mấy hôm nay đo đường huyết ở nhà 12–15 mmol/L, khát nước hơn, dù vẫn tiêm insulin như cũ và ăn ít đi. Không run tay, không vã mồ hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đường huyết tăng không giải thích được (gợi ý corticoid ẩn)"
+    },
+    {
+     "id": "xhth_am2",
+     "noi_dung": "Không nôn ra máu, phân vàng, không đi cầu phân đen, không choáng khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc xuất huyết tiêu hóa"
+    },
+    {
+     "id": "bao_dong_am2",
+     "noi_dung": "Không sụt cân, không nuốt nghẹn, không nôn, không đau ngực khi gắng sức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động, đau ngực"
+    },
+    {
+     "id": "chua_noi_soi",
+     "noi_dung": "Chưa đi nội soi vì phải nhờ con chở lên tỉnh 40 km mà con bận. Hôm nay con trai nghỉ được cả ngày nên chở đến; nếu cần đi tỉnh thì đi luôn hôm nay được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phương tiện: hôm nay đi tỉnh được"
+    },
+    {
+     "id": "lo_lang2",
+     "noi_dung": "Vẫn còn sợ bệnh tim, giờ lại sợ thêm 'đau dạ dày lâu vậy là ung thư'.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da, không hạch thượng đòn. Mặt hơi tròn hơn lần trước.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau thượng vị, không phản ứng thành bụng, không sờ thấy khối.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân vàng, không đen, không máu.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 142/84 mmHg, mạch 82 l/p; đứng 1 phút 138/82 mmHg, mạch 86 l/p, không choáng.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 126 g/L (lần trước 128) · MCV 88 fL · TC 255 G/L",
+     "n": "Hb ổn định so với lượt 1: chưa có bằng chứng mất máu.",
+     "bang": {
+      "wbc": 9.8,
+      "neu_pct": 78.0,
+      "neu": 7.64,
+      "lym_pct": 15.0,
+      "lym": 1.47,
+      "mono_pct": 6.0,
+      "mono": 0.59,
+      "eos_pct": 0.5,
+      "eos": 0.05,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.2,
+      "hgb": 126,
+      "hct": 0.37,
+      "mcv": 88.1,
+      "mch": 30.0,
+      "mchc": 341,
+      "rdw": 13.1,
+      "plt": 255
+     }
+    },
+    "glu": {
+     "v": "e",
+     "r": "14,6 mmol/L",
+     "ab": 1,
+     "bang": {
+      "glu": 14.6
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, người bệnh không nhịn đói.",
+     "n": "Đường huyết tăng vọt dù vẫn tiêm insulin và ăn ít: nghĩ tới corticoid ẩn trong thuốc trôi nổi (bạch cầu đa nhân tăng nhẹ, mặt tròn hơn cũng hợp)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 6,2 mmol/L · Creatinin 98 µmol/L · eGFR 68 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.2,
+      "creat": 98,
+      "egfr": 68
+     },
+     "n": "NSAID + losartan + ĐTĐ: theo dõi thận. Ure không tăng, không gợi ý xuất huyết tiêu hóa trên."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 140 · K 4,3 · Cl 102 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.3,
+      "cl": 102
+     }
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Không đỡ sau 1 tuần PPI ở người 68 tuổi: cần nội soi sớm để loại trừ loét và tổn thương ác tính (VNAGE 2023)."
+    },
+    "ecg": {
+     "r": "Nhịp xoang 80 l/p, không thay đổi so với lần trước.",
+     "n": "Không cần làm lại: đau không đổi tính chất, không liên quan gắng sức, ECG và troponin lượt 1 bình thường."
+    },
+    "trop": {
+     "n": "Không cần: không có đau ngực mới."
+    },
+    "hba1c": {
+     "n": "Đã làm 1 tuần trước."
+    },
+    "abdus": {
+     "n": "Đã làm lượt 1, không giúp gì thêm cho đau dạ dày."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh dạ dày do NSAID chưa đáp ứng vì vẫn dùng thuốc giảm đau trôi nổi (nghi trộn NSAID và corticoid); chưa có dấu xuất huyết; cần nội soi để loại trừ loét",
+     "ok": 1,
+     "n": "Vẫn đau sau 1 tuần PPI, vẫn uống viên 'giảm đau xương khớp' không nhãn; đường huyết tăng vọt, mặt tròn hơn gợi ý corticoid. Phân vàng, Hb ổn định, không mạch tư thế: chưa xuất huyết."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Chưa loại trừ được nếu không nội soi. Không đỡ sau 1 tuần PPI ở người 68 tuổi là lý do nội soi sớm."
+    },
+    {
+     "t": "Xuất huyết tiêu hóa",
+     "n": "Không nôn máu, phân vàng khi thăm trực tràng, Hb 126 g/L ổn định, không mạch tư thế, ure bình thường."
+    },
+    {
+     "t": "Nhồi máu cơ tim thành dưới",
+     "n": "Đau không đổi tính chất, không liên quan gắng sức; ECG và troponin lượt 1 bình thường."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Không sụt cân, không nuốt nghẹn, không thiếu máu; nội soi sẽ trả lời."
+    },
+    {
+     "t": "ĐTĐ mất kiểm soát do kháng insulin, cần tăng insulin lâu dài",
+     "n": "Đường huyết tăng có nguyên nhân rõ (corticoid ẩn); ngưng thuốc thì đường huyết sẽ giảm lại, tăng insulin cố định dễ gây hạ đường huyết sau đó."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến nội soi dạ dày sớm, đi ngay hôm nay (tận dụng con trai nghỉ được để chở lên tỉnh); giấy chuyển ghi rõ triệu chứng, thuốc đã dùng (diclofenac, viên trôi nổi, PPI, insulin, losartan), Hb và đường huyết",
+     "v": "c",
+     "n": "VNAGE 2023 (Statement 3): nam ≥ 40 tuổi có rối loạn tiêu hóa chưa thăm dò cần nội soi. Người ở xa: chuyển khi có phương tiện, không hẹn lại."
+    },
+    {
+     "t": "Ngưng hẳn viên 'giảm đau xương khớp' trôi nổi; mang vỉ hoặc viên thuốc theo khi đi khám",
+     "v": "c",
+     "n": "Bỏ nguyên nhân. Viên không nhãn uống vào hết đau, ăn ngon, mặt tròn hơn, đường huyết tăng: nghi NSAID và corticoid. JSGE 2026: NSAID không chọn lọc dùng kèm corticoid làm tăng nguy cơ xuất huyết tiêu hóa trên. Mang mẫu theo để tuyến trên đánh giá và kiểm nghiệm. Cách ngưng corticoid sau nhiều tuần dùng không có trong tài liệu đã tải, để tuyến trên quyết định."
+    },
+    {
+     "t": "Tiếp tục PPI liều chuẩn; đau vai gáy dùng paracetamol, chườm ấm, tập giãn cơ, nghỉ giữa giờ khi ngồi máy tính",
+     "v": "c",
+     "n": "Rome V: PPI liều chuẩn 1 lần/ngày, không tăng liều. Paracetamol thay NSAID. Biện pháp chườm ấm, tập giãn cơ, nghỉ giữa giờ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn tự đo đường huyết và chỉnh insulin; dặn khi ngưng thuốc trôi nổi thì đường huyết sẽ giảm lại, đề phòng hạ đường huyết",
+     "v": "c",
+     "n": "ADA 2026 mục 2: glucocorticoid gây tăng đường huyết qua kháng insulin; ngưng thuốc thì nhu cầu insulin có thể giảm. QĐ 5481 (insulin hỗn hợp): tăng 10–15% hoặc 1–2 đơn vị mỗi 1–2 lần/tuần đến mục tiêu; hạ đường huyết không rõ nguyên nhân thì giảm 2–4 đơn vị hoặc 10–20%."
+    },
+    {
+     "t": "Giải thích cho ông và con trai: chưa có dấu chảy máu; dặn dấu hiệu cần đi cấp cứu (phân đen, nôn máu, choáng, ngất, đau bụng dữ dội)",
+     "v": "c",
+     "n": "Dặn dò trọn gói vì nhà ở xa."
+    },
+    {
+     "t": "Tăng gấp đôi PPI hoặc đổi sang PPI khác, hẹn 4 tuần sau",
+     "v": "w",
+     "n": "Rome V: PPI liều chuẩn 1 lần/ngày, không tăng liều. Chưa tìm nguyên nhân không đỡ (vẫn dùng thuốc trôi nổi); VNAGE 2023: nam ≥ 40 tuổi cần nội soi."
+    },
+    {
+     "t": "Thêm sucralfat, men tiêu hóa và chờ thêm 2 tuần",
+     "v": "w",
+     "n": "Trì hoãn nội soi khi đã có chỉ định."
+    },
+    {
+     "t": "Gọi xe cấp cứu, đặt đường truyền, truyền dịch rồi chuyển",
+     "v": "w",
+     "n": "Không có xuất huyết, huyết động ổn: chuyển tuyến sớm, không phải cấp cứu."
+    },
+    {
+     "t": "Tăng liều insulin cố định cho đường huyết về đích",
+     "v": "w",
+     "n": "Đường huyết tăng do nghi corticoid ẩn (ADA 2026 mục 2); tăng cố định rồi ngưng thuốc dễ gây hạ đường huyết. Chỉnh theo đường huyết tự đo (QĐ 5481)."
+    },
+    {
+     "t": "Cho tiếp tục viên 'giảm đau xương khớp' vì ông thấy hết đau vai",
+     "v": "h",
+     "n": "Nghi trộn NSAID và corticoid: làm nặng tổn thương dạ dày, tăng đường huyết, nguy cơ loét chảy máu."
+    },
+    {
+     "t": "Cho thêm aspirin vì ông sợ bệnh tim",
+     "v": "h",
+     "n": "ADA 2026 (10.36): aspirin phòng ngừa tiên phát chỉ cân nhắc sau khi bàn kỹ nguy cơ chảy máu; JSGE 2026 xếp người dùng NSAID kèm aspirin liều thấp vào nhóm cần dự phòng loét riêng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau thượng vị do NSAID chưa đáp ứng sau 1 tuần PPI",
+     "Nguyên nhân: vẫn dùng viên giảm đau không nhãn (nghi NSAID và corticoid)",
+     "Tăng đường huyết (14,6 mmol/L) nghi do corticoid ẩn",
+     "Chưa có xuất huyết tiêu hóa (phân vàng, Hb ổn định, không mạch tư thế)",
+     "Cần nội soi sớm: chuyển tuyến"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao không đỡ: vẫn uống mỗi ngày 2 viên \"giảm đau xương khớp\" không nhãn. Uống vào hết đau vai, ăn ngon, mặt tròn hơn, đường huyết tăng 12–15 mmol/L dù ăn ít và tiêm insulin như cũ: gợi ý viên có cả NSAID và corticoid. JSGE 2026: NSAID không chọn lọc dùng kèm corticoid làm tăng nguy cơ xuất huyết tiêu hóa trên. ADA 2026 mục 2: glucocorticoid gây tăng đường huyết qua kháng insulin.",
+     "Vì sao chưa xuất huyết: không nôn máu, thăm trực tràng phân vàng, Hb 126 g/L (lần trước 128), không mạch tư thế, ure 6,2 mmol/L.",
+     "Vì sao cần nội soi sớm: VNAGE 2023 (nam ≥ 40 tuổi có rối loạn tiêu hóa chưa thăm dò); đã 1 tuần chưa đi được, nay có người chở. Ung thư dạ dày chưa có dấu gợi ý (không sụt cân, không nuốt nghẹn, không thiếu máu) nhưng chỉ nội soi mới trả lời.",
+     "Nhồi máu cơ tim: đau không đổi tính chất, không liên quan gắng sức, ECG không đổi so với lượt 1.",
+     "Không phải \"ĐTĐ mất kiểm soát cần tăng insulin lâu dài\": đường huyết tăng có nguyên nhân rõ; ngưng thuốc thì nhu cầu insulin có thể giảm lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí đúng là chuyển tuyến nội soi sớm, đi ngay hôm nay vì con trai nghỉ được; không hẹn lại vì nhà xa 40 km. Không phải chuyển cấp cứu: không có xuất huyết, huyết động ổn.",
+     "Giấy chuyển ghi đủ: triệu chứng, thuốc đã dùng (diclofenac, viên không nhãn, PPI, insulin, losartan), Hb, đường huyết; mang mẫu viên theo để kiểm nghiệm. Cách ngưng corticoid sau nhiều tuần dùng không có trong tài liệu đã tải, để tuyến trên quyết định.",
+     "Thuốc: ngưng viên không nhãn; tiếp tục PPI liều chuẩn 1 lần/ngày, không tăng gấp đôi (Rome V); paracetamol thay NSAID.",
+     "Đường huyết: không tăng insulin cố định. Tự đo đường huyết, chỉnh theo QĐ 5481 (insulin hỗn hợp: tăng 10–15% hoặc 1–2 đơn vị mỗi 1–2 lần/tuần nếu còn cao; hạ đường huyết không rõ nguyên nhân thì giảm 2–4 đơn vị hoặc 10–20%). Dặn cách xử trí hạ đường huyết (QĐ 5904).",
+     "Những việc sai: tăng gấp đôi PPI hoặc đổi PPI rồi hẹn 4 tuần (Rome V không tăng liều; VNAGE cần nội soi); thêm sucralfat, men tiêu hóa và chờ; gọi xe cấp cứu truyền dịch; cho tiếp tục viên không nhãn; thêm aspirin."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "Tiếp tục cho đến khi bác sĩ nội soi quyết định",
+      "ghi_chu": "Không tăng liều (Rome V). Liều theo QĐ 4235; cách uống theo ACG 2024."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1–2 viên mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau vai gáy",
+      "so_ngay": "Khi cần; tổng < 4 g/ngày",
+      "ghi_chu": "QĐ 708 (liều mỗi lần); AHA/ACC 2025 (giới hạn)."
+     },
+     {
+      "thuoc": "Insulin hỗn hợp (đang dùng)",
+      "ham_luong": "",
+      "lieu": "Giữ liều hiện tại, chỉnh theo đường huyết tự đo",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Sáng và tối như cũ",
+      "so_ngay": "—",
+      "ghi_chu": "QĐ 5481: tăng 10–15% hoặc 1–2 đơn vị mỗi 1–2 lần/tuần nếu đường huyết đói còn cao; hạ đường huyết không rõ nguyên nhân thì giảm 2–4 đơn vị hoặc 10–20%. Khi ngưng viên nghi chứa corticoid, nhu cầu insulin có thể giảm."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn viên \"giảm đau xương khớp\"; mang vỉ hoặc viên theo lên bệnh viện tỉnh.",
+     "Đi bệnh viện tỉnh ngay hôm nay để nội soi dạ dày, mang giấy chuyển tuyến.",
+     "Tiếp tục omeprazol mỗi sáng trước ăn; đau vai gáy dùng paracetamol.",
+     "Tự đo đường huyết; khi ngưng viên lạ, đường huyết có thể giảm. Hạ đường huyết (vã mồ hôi, đói lả, run, đường huyết < 3,9 mmol/L): uống ngay 1 cốc nước đường 10–15 g, ăn bánh kẹo, rồi báo bác sĩ để giảm liều insulin (QĐ 5904; QĐ 5481).",
+     "Đến ngay cơ sở y tế gần nhất nếu phân đen, nôn máu, choáng, ngất, đau bụng dữ dội."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chiều hôm đó con trai chở ông lên bệnh viện tỉnh. Nội soi: niêm mạc hang vị và thân vị nhiều vết trợt, xuất huyết dưới niêm rải rác, không có ổ loét, không có tổn thương nghi ác tính; test urease âm tính (đang dùng PPI nên hẹn thử lại H. pylori sau khi ngưng PPI 2 tuần). Kiểm nghiệm viên 'giảm đau xương khớp': có piroxicam và dexamethason. Bác sĩ tuyến tỉnh cho ngưng thuốc trôi nổi, tự xử trí việc ngưng corticoid, và dùng PPI 8 tuần. Ông hết đau sau 10 ngày, đường huyết về 7–9 mmol/L. Nhờ chuyển kịp thời, tổn thương được phát hiện khi mới trợt, trước khi thành loét chảy máu.",
+ "nhieu": [
+  "Đau lan lên ngực và nỗi sợ nhồi máu: ECG, troponin bình thường và đau không liên quan gắng sức giúp loại trừ; không cần làm lại ở lượt 2.",
+  "Không có X-quang: không ảnh hưởng chẩn đoán ca này.",
+  "Đường huyết 14,6 mmol/L ở lượt 2: không phải ĐTĐ nặng thêm tự nhiên mà là manh mối của corticoid ẩn trong thuốc trôi nổi."
+ ],
+ "bai_hoc_bien": [
+  "Yếu tố khởi phát là ngồi máy tính lâu: đau vai gáy → tự mua NSAID → tổn thương dạ dày. Sửa thói quen ngồi và giảm đau không dùng NSAID mới cắt được chuỗi này.",
+  "Không đỡ ở lượt 2: hỏi lại thuốc đang dùng, kể cả thuốc người khác cho, 'thuốc nam' không nhãn.",
+  "Đường huyết tăng vọt không giải thích được ở người ĐTĐ đang dùng thuốc trôi nổi: nghĩ tới corticoid ẩn (ADA 2026 mục 2: glucocorticoid gây tăng đường huyết qua kháng insulin).",
+  "Sợ nhồi máu cơ tim: loại trừ thật bằng ECG (và troponin khi cần), rồi nói rõ kết quả cho người bệnh.",
+  "Nhà ở xa, khó tái khám: viết sẵn giấy giới thiệu, dặn dò bằng văn bản, và chuyển ngay khi có người chở, không hẹn lại.",
+  "Chuyển tuyến kịp thời không phải lúc nào cũng là chuyển cấp cứu: ở đây là chuyển sớm để nội soi trước khi có biến chứng."
+ ],
+ "diem_nho": [
+  "VNAGE 2023 (khuyến cáo mạnh): rối loạn tiêu hóa chưa thăm dò ở nam ≥ 40 tuổi, nữ ≥ 35 tuổi, hoặc có dấu báo động: nội soi dạ dày, test H. pylori qua sinh thiết (ưu tiên urease nhanh).",
+  "Rome V: trước khi thăm dò thêm, ngưng các thuốc có thể gây khó tiêu; xác định H. pylori ở mọi người khó tiêu; có dấu báo động thì nội soi bắt buộc. PPI liều chuẩn 1 lần/ngày trong 4–8 tuần, không tăng liều.",
+  "JSGE 2026: PPI là lựa chọn hàng đầu để điều trị và phòng tổn thương do NSAID; NSAID không chọn lọc dùng kèm corticoid hoặc thuốc chống đông làm tăng nguy cơ xuất huyết tiêu hóa trên.",
+  "Người ĐTĐ, THA, dùng chẹn thụ thể angiotensin: tránh NSAID (AHA/ACC 2025; ADA 2026 mục 11); giảm đau bằng paracetamol, tổng < 4 g/ngày.",
+  "Test H. pylori không qua nội soi: ngưng PPI ít nhất 2 tuần, kháng sinh và bismuth 4 tuần trước khi làm (VNAGE 2023)."
+ ],
+ "nguon": [
+  "VNAGE 2023 – Đồng thuận Việt Nam về xử trí nhiễm H. pylori (Front Med 2023) – ĐÃ ĐỌC Statement 1–4: chỉ định nội soi theo tuổi, test dựa trên sinh thiết (TL-0179)",
+  "Rome V – Rối loạn dạ dày tá tràng (2026) – ĐÃ ĐỌC phần đánh giá lâm sàng khó tiêu (TL-0191)",
+  "JSGE 2026 – Evidence-based clinical practice guidelines for peptic ulcer disease – ĐÃ ĐỌC mục loét do NSAID (CQ-13, CQ-15) và thuật toán điều trị (TL-0190)",
+  "Maastricht VI/Florence 2022 – ĐÃ ĐỌC mục NSAID và H. pylori (TL-0215)",
+  "ACG 2024 – H. pylori – ĐÃ ĐỌC chú thích cách uống PPI (30–60 phút trước ăn) (TL-0203)",
+  "Bộ Y tế – QĐ 4235/2012 – liều omeprazol 20 mg/ngày, esomeprazol 40 mg/ngày (mục trào ngược trong ho mạn) (TL-0131)",
+  "ADA 2026 mục 2 (glucocorticoid), mục 10 (aspirin), mục 11 (NSAID); QĐ 5481 (chỉnh liều insulin); AHA/ACC 2025 (NSAID, paracetamol)",
+  "Cách giảm liều corticoid sau dùng kéo dài, hướng dẫn hội chứng vành cấp, biện pháp không dùng thuốc cho đau vai gáy: CHƯA có trong tài liệu đã tải"
+ ],
+ "phien_ban_ca": "2 – viết lại lượt 2 theo đúng đặc tả sổ cái (2026-10-10)",
+ "ghi_chu_bien_tap": [
+  "Bản 2 (2026-10-10): bản 1 cho lượt 2 đi cầu phân đen, chẩn đoán cuối thành loét chảy máu, lệch sổ cái (chẩn đoán đích là bệnh dạ dày do NSAID, không cờ đỏ, tái khám 'không đỡ'). Viết lại lượt 2: không đỡ, không xuất huyết, phát hiện thuốc trôi nổi nghi trộn NSAID + corticoid, chuyển tuyến nội soi sớm.",
+  "Thêm ràng buộc 'không có nội soi' (khoa_cls) vì phòng khám ngoại trú thường không có; cần mục CLS mới 'noi_soi' trong danh mục dùng chung.",
+  "2026-10-10: thêm đáp án chi tiết (dap_an). Thời gian PPI 4–8 tuần nay có nguồn (Rome V), liều omeprazol 20 mg/esomeprazol 40 mg (QĐ 4235), cách uống (ACG 2024). Bỏ chi tiết \"giảm dần corticoid trong vài ngày\" ở kết cục vì không có nguồn. Đánh dấu các chi tiết chưa có trong tài liệu đã tải (hội chứng vành cấp, biện pháp không dùng thuốc cho đau vai gáy)."
+ ]
+}

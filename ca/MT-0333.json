@@ -1,0 +1,723 @@
+{
+ "ma_ca": "MT-0333",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_dtd_tip2_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Đái tháo đường type 2 (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "ĐTĐ type 1/LADA",
+   "ĐTĐ thứ phát"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Tài xế xe công nghệ",
+  "yeu_to_khoi_phat": "Sau dùng NSAID",
+  "thuoc_dang_dung": "Thuốc bắc không rõ",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát",
+  "loai_ket_cuc": "Ổn định, khỏi"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quốc Dũng",
+  "tuoi": 46,
+  "gioi": "Nam",
+  "nghe": "Tài xế xe công nghệ",
+  "can_nang": 80,
+  "chieu_cao": 169,
+  "xung_ho": "Bác sĩ gọi ông là 'anh'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Xởi lởi, nói nhiều, hay nhắc chuyện chạy cuốc xe, tin thuốc bắc 'bổ'. Tiếc tiền, tiếc ngày công nên không dám đòi khám nhiều; nói giảm triệu chứng cho nhanh xong. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Tự uống thuốc 5 ngày trước khi đến: khi hỏi chung 'đang uống thuốc gì' chỉ kể metformin. Chỉ kể thuốc giảm đau và thuốc bắc khi bác sĩ hỏi cụ thể thuốc tự mua, thuốc giảm đau, thuốc nam bắc, hoặc hỏi đau lưng đã uống gì. Kể tên thuốc lộn xộn ('viên vàng vàng', 'thuốc hoàn đen').",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d7a27e",
+   "toc": "#191311",
+   "kieuToc": "ngan",
+   "ao": "#2f6f8f",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "binh"
+  }
+ },
+ "ly_do_kham": "Đau lưng, xin thêm thuốc tiểu đường",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Trần Quốc Dũng, 46 tuổi, tài xế xe công nghệ, đái tháo đường típ 2 khoảng 3 năm. Đến vì đau thắt lưng do ngồi lái xe và xin thêm thuốc tiểu đường. Sinh hiệu: HA 136/86 mmHg, mạch 84 l/p, cân nặng 80 kg, BMI 28.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Tôi chạy xe cả ngày nên đau lưng quá, tự mua thuốc uống mấy bữa chưa đỡ. Tiện ghé lấy thêm thuốc tiểu đường luôn, thuốc gần hết rồi.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "136/86",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau thắt lưng 2 tuần do ngồi lái xe lâu, tự mua thuốc uống chưa đỡ. Bị tiểu đường khoảng 3 năm, đang uống metformin, gần hết thuốc nên xin thêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "tien_su_dtd",
+     "noi_dung": "Được chẩn đoán ở bệnh viện quận 3 năm trước. Metformin 850 mg ngày 2 lần, hay quên liều tối khi chạy xe khuya. Lần cuối thử HbA1c cách đây 1 năm được 7,8%.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian bệnh, thuốc, tuân thủ, HbA1c cũ"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Hai, ba tuần nay khát nước nhiều, đêm dậy tiểu 2–3 lần, hay mỏi mệt. Sụt khoảng 1 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tăng đường huyết"
+    },
+    {
+     "id": "cap_cuu_am",
+     "noi_dung": "Không đau bụng, không buồn nôn, không thở mệt, không lơ mơ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ biến chứng cấp (nhiễm toan ceton, tăng áp lực thẩm thấu)"
+    },
+    {
+     "id": "dau_lung",
+     "noi_dung": "Đau âm ỉ hai bên thắt lưng, tăng khi ngồi lâu, đỡ khi nằm. Không lan xuống chân, không tê yếu chân, không rối loạn đi tiểu, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "thuoc_tu_uong",
+     "noi_dung": "Năm ngày nay tự mua ở tiệm thuốc meloxicam 7,5 mg uống mỗi ngày 1 viên, và mua ở chợ một loại thuốc bắc viên hoàn đen 'trị đau lưng, ăn ngon ngủ ngon', ngày 2 lần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ nói metformin. Chỉ kể khi bác sĩ hỏi cụ thể thuốc tự mua, thuốc giảm đau, thuốc nam bắc, hoặc hỏi đau lưng đã uống gì.",
+     "k": 1,
+     "y": "Thuốc tự uống: NSAID và thuốc bắc không rõ nguồn gốc"
+    },
+    {
+     "id": "dau_hieu_corticoid",
+     "noi_dung": "Từ khi uống thuốc bắc thấy ăn ngon miệng hẳn, ngủ ngon, vợ chọc mặt 'tròn ra'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi từ khi uống thuốc bắc có thay đổi gì, ăn ngủ thế nào, hoặc hỏi mặt, cân nặng thay đổi.",
+     "k": 1,
+     "y": "Dấu hiệu gợi ý thuốc bắc trộn corticoid"
+    },
+    {
+     "id": "bien_chung",
+     "noi_dung": "Thỉnh thoảng tê rần đầu ngón chân về đêm. Chưa từng khám mắt, soi đáy mắt. Chân không có vết loét.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng biến chứng mạn (thần kinh, mắt, bàn chân)"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực khi gắng sức, không khó thở. Chưa biết mỡ máu. Lần đo HA trước 130/80.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ tim mạch"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Ăn uống thất thường, cơm hộp, uống trà sữa và nước ngọt khi chạy xe. Hút thuốc khoảng nửa gói mỗi ngày. Ngồi xe cả ngày, không tập thể dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống, thuốc lá"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Bố bị tiểu đường, bị cắt một ngón chân năm 60 tuổi vì vết loét không lành.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ha_duong",
+     "noi_dung": "Chưa từng bị hạ đường huyết, chưa từng nằm viện vì tiểu đường.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "nhiem_trung",
+     "noi_dung": "Không sốt, không tiểu buốt. Ngứa vùng bẹn vài tuần.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: anh muốn được 'kiểm tra tổng quát' một lượt. Mấy tuần nay khát nước, tiểu đêm, mệt, nhớ chuyện bố bị cắt ngón chân nên sợ tiểu đường biến chứng. Không dám nói ngay vì sợ tốn tiền, mất ngày chạy xe, và sợ bị bắt tiêm insulin.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh còn lo gì, muốn khám thêm gì, lần cuối xét nghiệm là khi nào, hoặc hỏi về bố. Khi nói ra thì xin 'xét nghiệm hết, chụp hết cho chắc'.",
+     "k": 1,
+     "y": "Động cơ thật: muốn kiểm tra tổng quát"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Béo bụng, vòng eo 98 cm. Mặt hơi tròn, má đỏ. Không rạn da tím, không teo cơ gốc chi.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô, không loét, không chai. Monofilament 10 g mất cảm giác 2/10 điểm ở đầu ngón. Mạch mu chân, chày sau rõ.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Vài vi phình mạch rải rác hai mắt, không xuất tiết, không tân mạch: bệnh võng mạc ĐTĐ không tăng sinh nhẹ.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ cạnh sống thắt lưng, Lasègue âm tính, không dấu thần kinh khu trú.",
+     "k": 0
+    },
+    "ha_hai_tay": {
+     "a": "HA tay phải 134/86, tay trái 136/84 mmHg.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "da": {
+     "a": "Hăm nấm bẹn hai bên. Gai đen vùng gáy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "13,8 mmol/L",
+     "ab": 1
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "9,4%",
+     "ab": 1
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 92 µmol/L · eGFR 86 mL/ph/1,73m²",
+     "n": "Cần để quyết định tiếp tục metformin và chọn thuốc, nhất là khi đang dùng NSAID."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "56 mg/g (tăng albumin niệu A2)",
+     "ab": 1
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,8 · LDL-C 3,4 · HDL-C 0,9 · TG 2,9 mmol/L",
+     "ab": 1
+    },
+    "ua": {
+     "v": "u",
+     "r": "Glucose 3+ · Ceton âm tính · Protein vết",
+     "ab": 1
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 4,3 mmol/L"
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 30 · ALT 42 U/L"
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 82 l/p, không bất thường."
+    },
+    "ctm": {
+     "n": "Không có chỉ định riêng trong đợt này."
+    },
+    "cxr": {
+     "n": "'Kiểm tra tổng quát' không phải chỉ định chụp X-quang ngực."
+    },
+    "abdus": {
+     "n": "Không có triệu chứng bụng."
+    },
+    "echo": {
+     "n": "Không có triệu chứng tim."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định."
+    },
+    "ct_nao": {
+     "n": "Không có chỉ định."
+    },
+    "tsh": {
+     "n": "Không có gợi ý bệnh tuyến giáp."
+    },
+    "trop": {
+     "n": "Không đau ngực."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 kiểm soát kém (HbA1c 9,4%), nặng thêm do tuân thủ kém và nghi corticoid trộn trong thuốc bắc; có tăng albumin niệu và bệnh thần kinh ngoại biên",
+     "ok": 1,
+     "n": "Bệnh 3 năm, HbA1c 9,4%, quên thuốc, thuốc bắc làm ăn ngon và 'tròn mặt'; albumin niệu A2, monofilament giảm cảm giác."
+    },
+    {
+     "t": "ĐTĐ típ 1 / LADA",
+     "n": "Khởi phát 43 tuổi, béo bụng, gai đen, đáp ứng thuốc uống 3 năm, ceton âm: nghiêng típ 2. Còn nghi thì đo kháng thể GAD, C-peptide."
+    },
+    {
+     "t": "ĐTĐ thứ phát do corticoid đơn thuần",
+     "n": "Tăng đường huyết đã có từ 3 năm trước khi dùng thuốc bắc; corticoid chỉ làm nặng thêm."
+    },
+    {
+     "t": "Nhiễm toan ceton do ĐTĐ",
+     "n": "Không đau bụng, không nôn, không thở nhanh, ceton niệu âm tính."
+    },
+    {
+     "t": "Hội chứng Cushing nội sinh",
+     "n": "Dấu dạng Cushing mới xuất hiện sau khi dùng thuốc bắc: nghĩ nguyên nhân ngoại sinh trước."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đáp ứng mong muốn 'kiểm tra tổng quát' bằng gói đánh giá ĐTĐ có chỉ định: HbA1c, đường huyết, mỡ máu, creatinin/eGFR, albumin niệu (UACR), soi đáy mắt, khám bàn chân, đo HA; giải thích vì sao không cần chụp chiếu",
+     "v": "c",
+     "n": "Trả lời đúng động cơ thật mà không làm xét nghiệm thừa. ADA 2026: đánh giá biến chứng định kỳ gồm HbA1c, lipid, eGFR và UACR, soi đáy mắt, khám bàn chân."
+    },
+    {
+     "t": "Ngưng thuốc bắc không rõ nguồn gốc và meloxicam; giảm đau lưng bằng paracetamol, tập giãn cơ",
+     "v": "c",
+     "n": "Viên hoàn không rõ thành phần, uống vào thấy ăn ngon, ngủ ngon, mặt tròn ra: nghi có corticoid. ADA 2026 mục 2: glucocorticoid làm tăng đường huyết qua kháng insulin. ADA 2026 mục 11: NSAID là thuốc gây tổn thương thận, cần hạn chế ở người ĐTĐ có bệnh thận. Giảm đau bằng paracetamol."
+    },
+    {
+     "t": "Tiếp tục metformin, nhấn mạnh uống đều (đổi dạng phóng thích chậm uống một lần nếu hay quên)",
+     "v": "c",
+     "n": "QĐ 5481: metformin là lựa chọn đầu tiên; liều 1–2,5 g/ngày, uống sau ăn; dạng phóng thích chậm (XR) 500–2000 mg uống 1 lần/ngày giúp ít quên và ít tác dụng phụ tiêu hóa. Chống chỉ định khi eGFR < 30, giảm liều khi 30–45; eGFR 86 không cần chỉnh."
+    },
+    {
+     "t": "Thêm thuốc ức chế SGLT2 (empagliflozin hoặc dapagliflozin)",
+     "v": "c",
+     "n": "ADA 2026 (mục 9.10, mức A): ĐTĐ típ 2 có bệnh thận mạn (eGFR 20–60 và/hoặc albumin niệu) dùng SGLT2i hoặc GLP-1 RA có lợi ích đã chứng minh, độc lập với HbA1c. QĐ 5481: bệnh thận mạn cân nhắc SGLT2i."
+    },
+    {
+     "t": "Statin cường độ cao (atorvastatin 40 mg hoặc rosuvastatin 20 mg)",
+     "v": "c",
+     "n": "ADA 2026: người ĐTĐ 40–75 tuổi có ≥ 1 yếu tố nguy cơ tim mạch xơ vữa (hút thuốc, albumin niệu, béo phì…) dùng statin cường độ cao, mục tiêu LDL-C < 1,8 mmol/L. QĐ 5481: ĐTĐ có tổn thương cơ quan đích hoặc đa yếu tố nguy cơ dùng statin cường độ mạnh."
+    },
+    {
+     "t": "Statin cường độ trung bình (atorvastatin 10–20 mg)",
+     "v": "a",
+     "n": "Đạt mức tối thiểu của QĐ 5481 cho ĐTĐ 40–75 tuổi, nhưng ADA 2026 khuyên cường độ cao khi có thêm yếu tố nguy cơ như anh Dũng."
+    },
+    {
+     "t": "Tư vấn bỏ thuốc lá, bỏ trà sữa và nước ngọt, ăn đúng bữa, vận động",
+     "v": "c",
+     "n": "QĐ 5481: tư vấn không hút thuốc, hoạt động thể lực 150 phút/tuần mức trung bình. QĐ 5904: hạn chế đồ ngọt, ăn đủ rau, giảm muối."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần, thử lại đường huyết sau khi ngưng thuốc bắc",
+     "v": "c",
+     "n": "Đánh giá lại khi đã bỏ yếu tố làm tăng đường huyết. ADA 2026 mục 2: tăng đường huyết do glucocorticoid nên kiểm tra bằng glucose sau ăn hoặc bất kỳ, không chỉ glucose đói."
+    },
+    {
+     "t": "Hẹn khám mắt chuyên khoa và hướng dẫn chăm sóc bàn chân",
+     "v": "c",
+     "n": "QĐ 5481: người ĐTĐ típ 2 cần khám mắt toàn diện từ khi chẩn đoán, sau đó hằng năm; tầm soát biến chứng thần kinh ít nhất mỗi năm (monofilament 10 g). QĐ 5904: hướng dẫn chăm sóc bàn chân. Anh chưa từng khám mắt và đã giảm cảm giác bàn chân."
+    },
+    {
+     "t": "Bắt đầu insulin nền ngay",
+     "v": "a",
+     "n": "ADA 2026: cân nhắc insulin khi có triệu chứng tăng đường huyết, HbA1c > 10% hoặc glucose ≥ 16,7 mmol/L. Anh có triệu chứng nhưng HbA1c 9,4%, glucose 13,8 và có nguyên nhân làm tăng (nghi corticoid): bắt đầu insulin ngay là chấp nhận được; bỏ thuốc bắc, thêm SGLT2i rồi đánh giá lại sau 2 tuần cũng hợp lý."
+    },
+    {
+     "t": "Làm 'kiểm tra tổng quát' theo yêu cầu: X-quang, siêu âm, CT",
+     "v": "w",
+     "n": "Xét nghiệm theo chỉ định, không theo yêu cầu. 'Kiểm tra tổng quát' của người ĐTĐ là gói đánh giá biến chứng định kỳ, không phải chụp chiếu."
+    },
+    {
+     "t": "Thêm glibenclamide",
+     "v": "w",
+     "n": "QĐ 5481: sulfonylurea có nguy cơ hạ đường huyết và tăng cân; anh lại là tài xế."
+    },
+    {
+     "t": "Tiếp tục thuốc bắc vì giúp ăn ngon, chỉ cần tăng liều metformin",
+     "v": "h",
+     "n": "Nghi corticoid ẩn: tiếp tục dùng làm đường huyết tăng (ADA 2026 mục 2) và không xử lý được nguyên nhân."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 kiểm soát kém (HbA1c 9,4%, glucose 13,8 mmol/L, có triệu chứng)",
+     "Yếu tố làm nặng: tuân thủ kém (quên liều tối)",
+     "Yếu tố làm nặng: nghi corticoid trong thuốc bắc không rõ thành phần",
+     "Tăng albumin niệu (UACR 56 mg/g, mức A2), cần xác nhận lại",
+     "Bệnh thần kinh ngoại biên (monofilament mất cảm giác)",
+     "Yếu tố nguy cơ tim mạch: rối loạn lipid máu, hút thuốc, béo bụng"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao kiểm soát kém: HbA1c 9,4%, cao hơn nhiều so với mục tiêu < 7% (ADA 2026 mục 6; QĐ 5481); có triệu chứng khát, tiểu đêm, mệt, sụt cân.",
+     "Vì sao phải ghi hai yếu tố làm nặng: (1) quên metformin liều tối khi chạy xe khuya; (2) 5 ngày uống viên hoàn không nhãn rồi ăn ngon, ngủ ngon, mặt tròn ra. ADA 2026 mục 2: glucocorticoid gây tăng đường huyết qua kháng insulin. Không ghi hai yếu tố này thì xử trí sẽ chỉ là tăng thuốc, không bỏ được nguyên nhân.",
+     "Vì sao là típ 2, không nghĩ típ 1/LADA trước: khởi phát 43 tuổi, béo bụng (vòng eo 98 cm), đáp ứng thuốc uống 3 năm, ceton niệu âm. ADA 2026 mục 2: còn nghi thì đo kháng thể GAD.",
+     "Biến chứng: UACR 56 mg/g thuộc khoảng 30–299 mg/g (A2) theo ADA 2026 mục 11; nhưng ADA yêu cầu 2/3 mẫu bất thường trong 3–6 tháng mới kết luận, và tăng đường huyết rõ có thể làm UACR tăng, nên ghi là \"tăng albumin niệu lần đầu, cần xác nhận\". Tê rần đầu ngón chân về đêm và monofilament 10 g mất cảm giác 2/10 điểm: biến chứng thần kinh sợi trục lớn (QĐ 5481).",
+     "Nguy cơ tim mạch: LDL-C 3,4, HDL-C 0,9, TG 2,9 mmol/L, hút nửa gói/ngày, béo bụng. Đây là lý do chọn statin cường độ cao (ADA 2026 mục 10).",
+     "Loại trừ biến chứng cấp: không đau bụng, không nôn, không thở mệt, ceton niệu âm, nên chưa nghĩ nhiễm toan ceton (QĐ 5481). Dạng Cushing mới xuất hiện sau thuốc bắc: nghĩ nguyên nhân ngoại sinh trước Cushing nội sinh."
+    ],
+    "phan_tich_xu_tri": [
+     "Bỏ nguyên nhân trước: ngưng viên hoàn không rõ thành phần và meloxicam (ADA 2026 mục 11: NSAID gây tổn thương thận), giảm đau lưng bằng paracetamol.",
+     "Tăng cường điều trị: HbA1c 9,4% khi đang dùng metformin. Giữ metformin (QĐ 5481: lựa chọn đầu tiên; đổi dạng XR uống 1 lần/ngày nếu hay quên liều tối). Thêm SGLT2i (empagliflozin hoặc dapagliflozin): QĐ 5481 ưu tiên SGLT2i khi albumin niệu > 30 mg/g; ADA 2026 mục 9 dùng SGLT2i hoặc GLP-1 RA có lợi ích tim thận đã chứng minh khi có bệnh thận mạn.",
+     "Insulin ngay là chấp nhận được: ADA 2026 mục 9 cân nhắc insulin khi có triệu chứng tăng đường huyết; nhưng HbA1c 9,4% (< 10%), glucose 13,8 (< 16,7) và có nguyên nhân có thể bỏ được, nên bỏ thuốc bắc, thêm SGLT2i rồi đánh giá lại sau 2 tuần cũng hợp lý. Không thêm glibenclamide: QĐ 5481 nêu nguy cơ hạ đường huyết của sulfonylurea, anh lại lái xe.",
+     "Statin cường độ cao: ADA 2026 mục 10 (40–75 tuổi có thêm yếu tố nguy cơ); bảng liều: atorvastatin 40–80 mg hoặc rosuvastatin 20–40 mg. Cường độ trung bình (atorvastatin 10–20 mg) chỉ đạt mức tối thiểu.",
+     "Đáp ứng 'kiểm tra tổng quát' đúng cách: HbA1c, mỡ máu, creatinin/eGFR và UACR (ADA 2026 mục 11: ít nhất hằng năm; lặp lại UACR để xác nhận), khám mắt toàn diện (QĐ 5481: từ lúc chẩn đoán và hằng năm), khám bàn chân và monofilament (QĐ 5481: ít nhất mỗi năm), đo HA. Các tài liệu đã tải không đưa X-quang, siêu âm, CT vào danh mục theo dõi biến chứng ĐTĐ định kỳ.",
+     "Lối sống: bỏ thuốc lá, bỏ trà sữa và nước ngọt, hoạt động thể lực 150 phút/tuần (QĐ 5481). HA 136/86 mmHg một lần chưa đủ chẩn đoán THA; nếu xác định có THA thì ADA 2026 mục 11 khuyên ức chế men chuyển hoặc chẹn thụ thể khi có UACR 30–299 mg/g."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "850 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và sau ăn tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ liều đang dùng (QĐ 5481: 1–2,5 g/ngày, uống sau ăn). Nếu hay quên liều tối: đổi metformin XR, 500–2000 mg uống 1 lần/ngày (QĐ 5481). eGFR 86 không cần chỉnh liều; ngưng 24 giờ trước chụp có thuốc cản quang (QĐ 5481)."
+     },
+     {
+      "thuoc": "Empagliflozin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài; đánh giá lại sau 2 tuần",
+      "ghi_chu": "Liều 10–25 mg/ngày (QĐ 5481); có thể thay dapagliflozin 5–10 mg/ngày. Tác dụng phụ: nhiễm nấm sinh dục, nhiễm toan ceton, giảm thể tích tuần hoàn (QĐ 5481). Ngưng khi nghi nhiễm toan ceton, ốm nặng, nhịn ăn kéo dài, trước phẫu thuật theo lịch 3–4 ngày (ADA 2026 mục 9)."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Cường độ cao theo ADA 2026 mục 10 (atorvastatin 40–80 mg hoặc rosuvastatin 20–40 mg); mục tiêu LDL-C < 1,8 mmol/L (QĐ 5481). Tác dụng phụ: đau cơ (QĐ 5904). Giờ uống atorvastatin không được quy định trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1–2 viên mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau lưng",
+      "so_ngay": "Ngắn ngày, khi cần; tổng < 4 g/ngày",
+      "ghi_chu": "Thay meloxicam. Liều mỗi lần theo QĐ 708 (500 mg × 1–2 viên/lần); giới hạn < 4 g/ngày theo AHA/ACC 2025."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn viên hoàn thuốc bắc và meloxicam; mang vỏ hoặc vài viên thuốc bắc tới lần khám sau.",
+     "Uống metformin sau ăn sáng và tối, đặt nhắc giờ khi chạy xe khuya; nếu vẫn hay quên, báo bác sĩ để đổi dạng uống 1 lần/ngày.",
+     "Thuốc mới (empagliflozin): uống đủ nước, giữ vệ sinh vùng sinh dục (ADA 2026); nếu nôn, không ăn uống được, đau bụng, thở mệt thì ngưng thuốc và đi khám ngay.",
+     "Bỏ thuốc lá; bỏ trà sữa và nước ngọt, ăn đúng bữa; vận động 150 phút/tuần, không ngồi lâu liên tục (QĐ 5481, QĐ 5904).",
+     "Chăm sóc bàn chân hằng ngày: không đi chân đất, rửa chân nước ấm (thử nhiệt độ trước), lau khô kẽ ngón, không cắt móng quá sát, không tự cắt vết chai; thấy vết thương hoặc tê tăng thì đi khám ngay (QĐ 5904).",
+     "Đi khám mắt chuyên khoa (soi đáy mắt) vì chưa từng khám (QĐ 5481).",
+     "Tái khám sau 2 tuần, thử lại đường huyết; lặp lại UACR để xác nhận albumin niệu (ADA 2026 mục 11)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần. Than khát nước dữ dội, tiểu liên tục, mệt rũ. Sinh hiệu: HA 124/78 mmHg, mạch 98 l/p. Đường huyết mao mạch tại quầy: 21,8 mmol/L.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, mấy hôm nay tôi khát nước dữ quá, đi tiểu liên tục, người mệt rũ. Thuốc mới uống đều mà sao không đỡ.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "124/78",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "trieu_chung2",
+     "noi_dung": "Khát nhiều, uống khoảng 4 lít nước mỗi ngày, có uống thêm nước ngọt cho đỡ mệt. Tiểu liên tục. Sụt 3 kg trong 2 tuần. Nhìn hơi mờ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng tăng đường huyết nặng hơn"
+    },
+    {
+     "id": "cap_cuu_am2",
+     "noi_dung": "Không đau bụng, không nôn, không thở nhanh, vẫn tỉnh táo, ăn uống được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nhiễm toan ceton, tăng áp lực thẩm thấu"
+    },
+    {
+     "id": "tuan_thu2",
+     "noi_dung": "Uống metformin và thuốc mới (empagliflozin) đều đặn, đã ngưng meloxicam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc"
+    },
+    {
+     "id": "van_uong_thuoc_bac",
+     "noi_dung": "Vẫn uống thuốc bắc vì thấy ăn ngon, ngủ ngon, nghĩ là thuốc bổ không liên quan.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể còn uống thuốc bắc, thuốc nam, thuốc tự mua nào không. Hỏi chung 'uống thuốc đều không' thì chỉ nói về thuốc bác sĩ kê.",
+     "k": 1,
+     "y": "Vẫn dùng thuốc bắc nghi chứa corticoid"
+    },
+    {
+     "id": "nhiem_trung2",
+     "noi_dung": "Không sốt, không ho, không tiểu buốt. Ngứa bẹn nhiều hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tìm nhiễm trùng làm tăng đường huyết"
+    },
+    {
+     "id": "lo_lang2",
+     "noi_dung": "Sợ phải tiêm insulin 'là bệnh nặng lắm rồi', sợ không được chạy xe.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh táo. Niêm mạc hơi khô. Mặt tròn, đỏ hơn lần trước. Không thở kiểu Kussmaul, hơi thở không mùi ceton.",
+     "k": 1
+    },
+    "da": {
+     "a": "Nấm bẹn lan rộng hơn.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim nhanh đều 98 l/p.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "ha_tu_the": {
+     "a": "HA đứng 116/74, không chóng mặt.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "22,6 mmol/L",
+     "ab": 1
+    },
+    "ua": {
+     "v": "e",
+     "r": "Glucose 4+ · Ceton vết",
+     "ab": 1,
+     "n": "Ceton vết khi đang dùng SGLT2i: phải loại trừ nhiễm toan ceton."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 134 · K 4,6 mmol/L",
+     "n": "Áp lực thẩm thấu ước tính ≈ 2×134 + 22,6 ≈ 291 mOsm/kg: chưa tăng áp lực thẩm thấu."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 104 µmol/L (lần trước 92)",
+     "ab": 1
+    },
+    "abg": {
+     "v": "u",
+     "r": "pH 7,38 · HCO₃⁻ 21 mmol/L",
+     "n": "Loại trừ nhiễm toan."
+    },
+    "hba1c": {
+     "n": "Vừa làm 2 tuần trước."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,8 G/L · Hb 152 g/L"
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 tăng đường huyết nặng do vẫn dùng thuốc bắc nghi chứa corticoid; chưa có nhiễm toan ceton hay tăng áp lực thẩm thấu",
+     "ok": 1,
+     "n": "Vẫn uống thuốc bắc, mặt tròn hơn; pH, HCO₃⁻, áp lực thẩm thấu bình thường, tỉnh táo."
+    },
+    {
+     "t": "Nhiễm toan ceton do ĐTĐ",
+     "n": "pH 7,38, HCO₃⁻ 21, không nôn, không thở nhanh."
+    },
+    {
+     "t": "Tăng áp lực thẩm thấu do tăng đường huyết",
+     "n": "Tỉnh táo, áp lực thẩm thấu ước tính khoảng 291."
+    },
+    {
+     "t": "ĐTĐ típ 1 / LADA",
+     "n": "Có nguyên nhân rõ làm tăng đường huyết; xét lại nếu không đáp ứng sau khi bỏ thuốc bắc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng hẳn thuốc bắc, dặn mang mẫu thuốc đến",
+     "v": "c",
+     "n": "Nguyên nhân chính của đợt tăng đường huyết (mặt tròn, đỏ hơn; vẫn uống). ADA 2026 mục 2: glucocorticoid gây tăng đường huyết qua kháng insulin."
+    },
+    {
+     "t": "Bắt đầu insulin nền (khoảng 0,1–0,2 đơn vị/kg, ví dụ glargine 10 đơn vị buổi tối), hướng dẫn tự đo đường huyết",
+     "v": "c",
+     "n": "ADA 2026 mục 9: cân nhắc insulin khi có triệu chứng tăng đường huyết hoặc glucose ≥ 16,7 mmol/L; khởi đầu 10 đơn vị/ngày hoặc 0,1–0,2 đơn vị/kg/ngày, tăng 2 đơn vị mỗi 3 ngày tới mục tiêu glucose đói. QĐ 5481: insulin nền khởi đầu 0,1–0,2 đơn vị/kg, tiêm 1 lần/ngày vào giờ cố định."
+    },
+    {
+     "t": "Tạm ngưng thuốc ức chế SGLT2 khi đang mất nước, ceton dương; uống đủ nước, bỏ nước ngọt",
+     "v": "c",
+     "n": "ADA 2026 mục 9: SGLT2i có nguy cơ nhiễm toan ceton; ngưng, đánh giá khi nghi ngờ và giảm nguy cơ bằng kế hoạch \"ngày ốm\". QĐ 5481: tác dụng phụ gồm giảm thể tích tuần hoàn. Anh đang mất nước (niêm mạc khô, creatinin 92 → 104 µmol/L), ceton niệu vết."
+    },
+    {
+     "t": "Tái khám sau 1 tuần, dặn đi cấp cứu nếu nôn, đau bụng, thở nhanh, lơ mơ",
+     "v": "c",
+     "n": "Theo dõi sát khi khởi động insulin (ADA 2026: đánh giá liều insulin ở mỗi lần khám). QĐ 5481: nhiễm toan ceton có tiểu nhiều, khát, thở sâu kiểu Kussmaul, hơi thở mùi ceton, đau bụng, nôn; tăng áp lực thẩm thấu có rối loạn ý thức."
+    },
+    {
+     "t": "Điều trị nấm bẹn bằng thuốc bôi",
+     "v": "a",
+     "n": "Hợp lý. ADA 2026 mục 9: nhiễm nấm sinh dục là tác dụng phụ của SGLT2i, giảm nguy cơ bằng vệ sinh vùng sinh dục. Tên và liều thuốc bôi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm gliclazide MR",
+     "v": "a",
+     "n": "Có thể, nhưng insulin nền thích hợp hơn khi đường huyết rất cao và có triệu chứng."
+    },
+    {
+     "t": "Chuyển cấp cứu truyền insulin tĩnh mạch",
+     "v": "w",
+     "n": "QĐ 5481 Bảng 7: nhiễm toan ceton cần pH ≤ 7,30 và bicarbonat ≤ 18; tăng áp lực thẩm thấu cần glucose > 33,3 mmol/L, áp lực thẩm thấu hiệu dụng > 320. Anh pH 7,38, HCO₃⁻ 21, glucose 22,6, áp lực thẩm thấu hiệu dụng 2 × 134 + 22,6 ≈ 291, tỉnh táo."
+    },
+    {
+     "t": "Tăng metformin lên 3 g/ngày",
+     "v": "w",
+     "n": "QĐ 5481: liều thường dùng 500–2000 mg/ngày, ít khi cần 2500 mg/ngày; 3 g vượt liều trong hướng dẫn và không xử lý nguyên nhân."
+    },
+    {
+     "t": "Cho tiếp tục thuốc bắc",
+     "v": "h",
+     "n": "Nguyên nhân gây tăng đường huyết."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 tăng đường huyết nặng có triệu chứng (glucose 22,6 mmol/L, khát, tiểu nhiều, sụt 3 kg)",
+     "Nguyên nhân: vẫn dùng thuốc bắc nghi chứa corticoid",
+     "Chưa có nhiễm toan ceton (pH 7,38, HCO₃⁻ 21)",
+     "Chưa có tăng áp lực thẩm thấu (tỉnh, áp lực thẩm thấu hiệu dụng ≈ 291)",
+     "Mất nước nhẹ, nhiễm nấm bẹn khi đang dùng SGLT2i"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao nặng hơn: glucose 22,6 mmol/L, uống 4 lít nước/ngày, tiểu liên tục, sụt 3 kg trong 2 tuần, nhìn mờ. Dù đã uống đều metformin và empagliflozin, ngưng meloxicam, anh vẫn uống thuốc bắc vì \"thấy ăn ngon\"; mặt tròn và đỏ hơn lần trước. Nguyên nhân hợp lý nhất là corticoid ẩn (ADA 2026 mục 2).",
+     "Vì sao chưa phải nhiễm toan ceton: QĐ 5481 Bảng 7 xếp nhiễm toan ceton nhẹ khi pH 7,25–7,30 và bicarbonat 15–18; anh pH 7,38, HCO₃⁻ 21, không thở Kussmaul, hơi thở không mùi ceton, không nôn, không đau bụng. Ceton niệu vết chưa đủ. Lưu ý QĐ 5481: nhiễm toan ceton do SGLT2i có thể có đường huyết không cao, nên phải dựa vào pH và bicarbonat.",
+     "Vì sao chưa phải tăng áp lực thẩm thấu: QĐ 5481 cần glucose > 33,3 mmol/L, áp lực thẩm thấu hiệu dụng > 320; ở anh 2 × Na + glucose = 2 × 134 + 22,6 ≈ 291, tỉnh táo.",
+     "Mất nước nhẹ: niêm mạc hơi khô, creatinin tăng 92 → 104 µmol/L, Hb 152 g/L. Ngứa bẹn tăng: nhiễm nấm sinh dục là tác dụng phụ của SGLT2i (ADA 2026 mục 9; QĐ 5481).",
+     "Vẫn là típ 2, chưa nghĩ LADA: đã có nguyên nhân rõ; xét lại (kháng thể GAD, ADA 2026 mục 2) nếu không đáp ứng sau khi bỏ thuốc bắc."
+    ],
+    "phan_tich_xu_tri": [
+     "Bỏ nguyên nhân: ngưng hẳn thuốc bắc, mang mẫu thuốc tới.",
+     "Insulin nền: ADA 2026 mục 9 cân nhắc insulin khi có triệu chứng tăng đường huyết hoặc glucose ≥ 16,7 mmol/L. Liều khởi đầu 10 đơn vị/ngày hoặc 0,1–0,2 đơn vị/kg/ngày (ADA 2026; QĐ 5481); 80 kg nên 8–16 đơn vị, chọn 10 đơn vị. Chỉnh: tăng 2 đơn vị mỗi 3 ngày tới glucose đói 4,4–7,2 mmol/L; hạ đường huyết không rõ lý do thì giảm 10–20% (ADA 2026). Khi đã ngưng thuốc bắc, nhu cầu insulin có thể giảm nên càng phải tự đo đường huyết.",
+     "Tạm ngưng SGLT2i: ADA 2026 mục 9 nêu nguy cơ nhiễm toan ceton, ngưng và đánh giá khi nghi ngờ, quản lý \"ngày ốm\"; QĐ 5481 nêu nguy cơ giảm thể tích tuần hoàn. Anh đang mất nước, ceton vết. Uống đủ nước, bỏ nước ngọt.",
+     "Không chuyển cấp cứu truyền insulin: không đủ tiêu chuẩn nhiễm toan ceton hay tăng áp lực thẩm thấu (QĐ 5481 Bảng 7). Không tăng metformin lên 3 g: vượt liều thường dùng (QĐ 5481: 500–2000 mg/ngày). Gliclazide chấp nhận được nhưng insulin phù hợp hơn khi đường huyết rất cao và có triệu chứng (ADA 2026 mục 9).",
+     "An toàn: tái khám sau 1 tuần; dặn dấu hiệu nhiễm toan ceton và tăng áp lực thẩm thấu (QĐ 5481) và cách xử trí hạ đường huyết (QĐ 5904; ADA 2026 mục 6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine",
+      "ham_luong": "",
+      "lieu": "10 đơn vị × 1 lần/ngày",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Giờ cố định mỗi ngày, buổi sáng hoặc buổi tối",
+      "so_ngay": "Tăng 2 đơn vị mỗi 3 ngày đến khi glucose đói 4,4–7,2 mmol/L; đánh giá ở mỗi lần khám",
+      "ghi_chu": "ADA 2026 mục 9 (khởi 10 đơn vị hoặc 0,1–0,2 đơn vị/kg, tăng 2 đơn vị mỗi 3 ngày, hạ đường huyết thì giảm 10–20%); QĐ 5481 (glargine 1 lần/ngày, giờ cố định sáng hoặc tối; hạ đường huyết không rõ nguyên nhân giảm 2–4 đơn vị hoặc 10–20%). Hàm lượng bút tiêm không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "850 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ liều; không tăng lên 3 g (QĐ 5481: 500–2000 mg/ngày thường dùng). Creatinin 104 µmol/L, cần theo dõi vì QĐ 5481 chống chỉ định khi eGFR < 30."
+     },
+     {
+      "thuoc": "Empagliflozin",
+      "ham_luong": "10 mg",
+      "lieu": "TẠM NGƯNG",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Đến khi hết mất nước, bác sĩ đánh giá lại ở lần tái khám",
+      "ghi_chu": "ADA 2026 mục 9 (nguy cơ nhiễm toan ceton, kế hoạch ngày ốm); QĐ 5481 (giảm thể tích tuần hoàn). Thời điểm dùng lại không được quy định trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Tiếp tục (ADA 2026 mục 10)."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn thuốc bắc, kể cả khi thấy ăn ngon ngủ ngon; mang mẫu thuốc tới để gửi kiểm tra.",
+     "Tiêm insulin mỗi ngày vào một giờ cố định; tự đo đường huyết lúc đói mỗi sáng và ghi sổ; cứ 3 ngày mà đường huyết đói vẫn > 7,2 mmol/L thì tăng 2 đơn vị (ADA 2026).",
+     "Hạ đường huyết (vã mồ hôi, đói lả, run, bủn rủn, đường huyết < 3,9 mmol/L): uống ngay 15 g đường, như 1 cốc nước đường, rồi đo lại; luôn mang theo kẹo khi chạy xe (QĐ 5904; ADA 2026 mục 6). Bị hạ đường huyết thì giảm liều insulin 10–20% và báo bác sĩ.",
+     "Tạm ngưng empagliflozin cho tới lần khám sau; uống đủ nước, bỏ nước ngọt.",
+     "Giữ vùng bẹn khô, sạch; bôi thuốc nấm theo đơn.",
+     "Đi cấp cứu ngay nếu nôn, đau bụng, thở nhanh sâu, hơi thở mùi lạ, lơ mơ hoặc li bì (QĐ 5481).",
+     "Tái khám sau 1 tuần, mang sổ đường huyết."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ngưng thuốc bắc, dùng insulin nền: sau 1 tháng đường huyết đói 7–8 mmol/L, giảm dần rồi ngưng insulin, tiếp tục metformin và SGLT2i. HbA1c 3 tháng sau 7,1%. Mẫu thuốc bắc gửi kiểm nghiệm có dexamethason. Anh Dũng vẫn được chạy xe sau khi bác sĩ xác nhận bệnh đã kiểm soát.",
+ "nhieu": [
+  "Yêu cầu 'xét nghiệm hết' để kiểm tra tổng quát: không làm X-quang, siêu âm, CT khi không có chỉ định.",
+  "Đau lưng do ngồi lái: không phải bệnh chính, nhưng là cửa ngõ dẫn tới NSAID và thuốc bắc."
+ ],
+ "bai_hoc_bien": [
+  "Tự uống thuốc trước khi khám: hỏi cụ thể tên thuốc, số ngày, nơi mua; nếu được, bảo người bệnh mang vỏ thuốc tới.",
+  "Thuốc không rõ thành phần kèm dấu hiệu gợi ý corticoid (ăn ngon bất thường, tròn mặt, đường huyết tăng không giải thích được): nghĩ tới corticoid ẩn. ADA 2026 mục 2: glucocorticoid gây tăng đường huyết qua kháng insulin, nên kiểm tra glucose sau ăn hoặc bất kỳ. (Mức độ phổ biến của thuốc bắc trộn corticoid ở Việt Nam không có trong tài liệu đã tải.)",
+  "Lý do thật là muốn 'kiểm tra tổng quát' nhưng ngại tốn tiền: hỏi 'anh còn lo gì' mới ra. Đáp ứng bằng gói đánh giá biến chứng ĐTĐ có chỉ định, không phải 'xét nghiệm hết, chụp hết'.",
+  "NSAID là thuốc gây tổn thương thận, cần hạn chế ở người ĐTĐ có bệnh thận (ADA 2026 mục 11). Một lần UACR tăng chưa đủ kết luận: cần 2/3 mẫu bất thường trong 3–6 tháng; tăng đường huyết rõ có thể làm UACR tăng (ADA 2026 mục 11).",
+  "Nặng hơn ở lượt tái khám: loại trừ biến chứng cấp (nhiễm toan ceton, tăng áp lực thẩm thấu theo QĐ 5481 Bảng 7) trước, rồi tìm nguyên nhân: thuốc, nhiễm trùng, tuân thủ."
+ ],
+ "diem_nho": [
+  "Mục tiêu HbA1c < 7% cho đa số; glucose mao mạch lúc đói 4,4–7,2 mmol/L (ADA 2026 mục 6; QĐ 5481).",
+  "Có albumin niệu (cần xác nhận 2/3 mẫu trong 3–6 tháng) hoặc bệnh thận mạn: dùng SGLT2i hoặc GLP-1 RA có lợi ích đã chứng minh (ADA 2026 mục 9, 11). QĐ 5481 ưu tiên SGLT2i khi eGFR 30–60 hoặc albumin niệu > 30 mg/g.",
+  "ĐTĐ 40–75 tuổi có thêm yếu tố nguy cơ: statin cường độ cao (atorvastatin 40–80 mg, rosuvastatin 20–40 mg), LDL-C < 1,8 mmol/L (ADA 2026 mục 10; QĐ 5481).",
+  "Khởi insulin khi có triệu chứng tăng đường huyết, glucose ≥ 16,7 mmol/L hoặc HbA1c > 10% (ADA 2026 mục 9): 10 đơn vị/ngày hoặc 0,1–0,2 đơn vị/kg, tăng 2 đơn vị mỗi 3 ngày đến mục tiêu đói; hạ đường huyết thì giảm 10–20%.",
+  "Đang dùng SGLT2i mà nghi nhiễm toan ceton, mất nước, ốm nặng: ngưng và đánh giá; lập kế hoạch 'ngày ốm' (ADA 2026 mục 9).",
+  "Nghi ĐTĐ típ 1/LADA (gầy, sụt cân nhanh, ceton, đáp ứng kém thuốc uống): đo kháng thể GAD trước tiên (ADA 2026 mục 2)."
+ ],
+ "nguon": [
+  "ADA Standards of Care in Diabetes 2026 – ĐÃ ĐỌC mục 2 (phân loại, ĐTĐ do glucocorticoid), mục 6 (mục tiêu đường huyết, xử trí hạ đường huyết), mục 9 (SGLT2i, khởi và chỉnh insulin), mục 10 (statin, aspirin), mục 11 (UACR, NSAID) (TL-0296)",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 hướng dẫn chẩn đoán và điều trị ĐTĐ típ 2 – ĐÃ ĐỌC bảng thuốc (metformin, SGLT2i), insulin nền, statin, Bảng 7 nhiễm toan ceton và tăng áp lực thẩm thấu, khám mắt, biến chứng thần kinh (TL-0031)",
+  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 – ĐÃ ĐỌC phần giáo dục người bệnh ĐTĐ (chăm sóc bàn chân, xử trí hạ đường huyết) (TL-0284)",
+  "KDIGO 2022 Diabetes Management in CKD – chưa có tài liệu trong máy"
+ ],
+ "phien_ban_ca": "2 – soạn lại theo đặc tả sổ cái và ADA 2026 (2026-10-10)",
+ "ghi_chu_bien_tap": [
+  "Bản 2 (2026-10-10): sửa biến 'lý do thật' cho đúng sổ cái: lời khai là đau lưng + lấy thuốc, lý do thật (giấu) là muốn kiểm tra tổng quát. Statin đổi sang cường độ cao (ADA 2026, QĐ 5481), thêm mục đáp ứng 'kiểm tra tổng quát' có chỉ định, gắn âm thanh tim bình thường.",
+  "2026-10-10: thêm đáp án chi tiết (dap_an). Bỏ câu \"thuốc bắc ở Việt Nam hay trộn corticoid\" (không có nguồn), thay bằng dấu hiệu lâm sàng + ADA 2026 mục 2. Bổ sung ADA 2026 mục 11: UACR cần 2/3 mẫu bất thường trong 3–6 tháng mới kết luận."
+ ]
+}

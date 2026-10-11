@@ -1,7 +1,7 @@
 {
  "ma_ca": "HH-0930",
  "phien_ban_kho": "0.3",
- "phien_ban_ca": "2 – soạn lại theo đúng đặc tả sổ cái (2026-10-09)",
+ "phien_ban_ca": "3 – soát nguồn với kho 576 tài liệu (2026-10-11)",
  "benh": "HH_viem_phoi_cong_dong",
  "so_cai": {
   "chuyen_khoa": "Hô hấp cấp tính",
@@ -273,7 +273,7 @@
      "v": "e",
      "r": "Ure 8,4 mmol/L · Creatinin 104 µmol/L · eGFR 63 mL/ph/1,73m²",
      "ab": 1,
-     "n": "Ure > 7 mmol/L: CURB-65 thêm 1 điểm (tổng 2). eGFR 63: không cần chỉnh liều ceftriaxon, amoxicillin/clavulanat, azithromycin.",
+     "n": "Ure > 7 mmol/L: CURB-65 thêm 1 điểm (QĐ 2147 mục 3.2.1); BUN ≈ 23 mg/dL: 1 tiêu chuẩn phụ ATS (mục 3.2.3). Phụ lục 1 QĐ 2147 chỉnh liều theo Clcr, không theo eGFR: Clcr Cockcroft–Gault ≈ 39 mL/ph (QĐ 2388/2024 mục 7.7.2.1). Ceftriaxon, azithromycin không chỉnh; amoxicilin/acid clavulanic Clcr 30–50: tĩnh mạch 1 g mỗi 8 giờ, uống 875 mg mỗi 12 giờ (Phụ lục 1).",
      "bang": {
       "ure": 8.4,
       "creat": 104,
@@ -304,7 +304,8 @@
       "mchc": 330,
       "rdw": 13.2,
       "plt": 245
-     }
+     },
+     "n": "Bạch cầu > 10 G/L, ưu thế đa nhân trung tính (QĐ 2147 mục 3.1.2)."
     },
     "crp": {
      "v": "u",
@@ -318,7 +319,7 @@
      "v": "u",
      "r": "Na 132 · K 3,8 · Cl 98 mmol/L",
      "ab": 1,
-     "n": "Hạ natri nhẹ, gặp trong viêm phổi; theo dõi khi bù dịch.",
+     "n": "Hạ natri nhẹ, chưa tới ngưỡng < 130 mmol/L của PSI (QĐ 2147 Bảng 3.1); theo dõi khi bù dịch (QĐ 4235, bài VPMPCĐ mục 3.2.2).",
      "bang": {
       "na": 132,
       "k": 3.8,
@@ -332,47 +333,49 @@
       "glu": 8.6
      },
      "ghi_chu_mau": "Mẫu lấy lúc khám, người bệnh không nhịn đói.",
-     "n": "Dữ kiện nhiễu: tăng đường huyết do stress nhiễm trùng. Không chẩn đoán đái tháo đường lúc này; kiểm tra lại đường huyết đói, HbA1c sau khi khỏi bệnh."
+     "n": "Dữ kiện nhiễu: tăng đường huyết do stress. > 7,8 mmol/L khi nhập viện: làm HbA1c (ADA 2026 khuyến cáo 16.1); chưa đủ chẩn đoán ĐTĐ (ADA 2026 Bảng 2.1)."
     },
     "ecg": {
      "v": "u",
-     "r": "Nhịp xoang 96 l/p, trục trung gian. Không có S1Q3T3, không block nhánh phải, không biến đổi ST–T."
+     "r": "Nhịp xoang 96 l/p, trục trung gian. Không có S1Q3T3, không block nhánh phải, không biến đổi ST–T.",
+     "n": "ECG nền trước macrolid (QĐ 2147 mục 4.4: kéo dài QT); tìm dấu tâm phế cấp khi phân biệt thuyên tắc phổi (mục 3.4.2)."
     },
     "sa_phoi": {
      "v": "u",
      "r": "Tràn dịch màng phổi phải lượng ít, lớp dịch dày 1,2 cm ở góc sườn hoành, dịch trong, không vách, không dải xơ. Vùng đông đặc đáy phải có khí phế quản đồ di động theo nhịp thở. Bên trái không có dịch.",
      "ab": 1,
-     "n": "Xác nhận tràn dịch, làm mốc để theo dõi; tràn dịch là lý do nhập viện dù CURB-65 mới 2 điểm (QĐ 2147, mục 5.3.1)."
+     "n": "Xác nhận tràn dịch, làm mốc theo dõi (QĐ 2147 mục 3.1.5; mục 5.6.2: theo dõi dịch để sớm phát hiện mủ màng phổi). Tràn dịch là lý do nhập viện dù CURB-65 mới 2 (mục 3.2.3 ghi chú, mục 5.3.1)."
     },
     "xpert": {
      "v": "u",
      "r": "Xpert MTB/RIF đờm: không phát hiện MTB. Soi AFB đờm: âm tính.",
-     "n": "Có đờm lẫn máu ở người cao tuổi từng hút thuốc tại Việt Nam: loại trừ lao trước khi cân nhắc quinolon (QĐ 2147, Bảng 2.1 và mục 5.3.2.1)."
+     "n": "Đờm lẫn máu, người cao tuổi từng hút thuốc: Xpert, AFB để loại trừ lao (QĐ 2147 Bảng 2.1, mục 5.3.2.1). MTB âm một lần: vẫn đánh giá lại nếu diễn biến không như viêm phổi (QĐ 162/2024 Phần II, Sơ đồ 2)."
     },
     "cay": {
      "v": "a",
      "r": "Nhuộm Gram đờm: nhiều bạch cầu đa nhân, nhiều song cầu Gram dương hình ngọn nến. Cấy đờm, cấy máu: đang chờ (có kết quả sau 48 giờ).",
      "ab": 1,
-     "n": "QĐ 2147 khuyến cáo lấy bệnh phẩm trước kháng sinh ở người bệnh nhập viện; có thể làm ngay tại phòng khám hoặc tại khoa."
+     "n": "Lấy trước liều kháng sinh đầu ở người bệnh nhập viện (QĐ 2147 mục 5.2, 2.2.2a), tại phòng khám hoặc ngay khi vào khoa. Song cầu Gram dương gợi ý phế cầu (WHO 2025, TL-0445 – nói cho dịch não tủy); chắc chắn khi cấy máu dương (QĐ 2147 mục 3.3.1)."
     },
     "pct": {
      "v": "a",
      "r": "Procalcitonin 4,2 ng/mL",
      "ab": 1,
-     "n": "QĐ 2147: nên làm trong 24 giờ đầu nhập viện để theo dõi và xuống thang kháng sinh; không dùng để quyết định có cho kháng sinh hay không."
+     "n": "Nên làm ở người bệnh nhập viện trong 24 giờ đầu, ngày 3, ngày 5–7 để xuống thang hoặc ngừng kháng sinh (QĐ 2147 mục 3.1.2); không dùng PCT ban đầu để quyết định không cho kháng sinh (ATS/IDSA 2019 câu hỏi 5)."
     },
     "flu": {
-     "v": "a",
-     "r": "Cúm A/B âm tính · SARS-CoV-2 âm tính"
+     "v": "u",
+     "r": "Cúm A/B âm tính · SARS-CoV-2 âm tính",
+     "n": "Khi cúm, SARS-CoV-2 lưu hành nên xét nghiệm cả ngoại trú lẫn nội trú (QĐ 2147 mục 2.2.1); dương tính cúm thì thêm oseltamivir (mục 5.3.1)."
     },
     "ddimer": {
      "r": "D-dimer 1.850 µg/L FEU (ngưỡng hiệu chỉnh theo tuổi: 790)",
      "ab": 1,
-     "n": "Không cần: đã có chẩn đoán thay thế rõ trên X-quang, không có dấu huyết khối tĩnh mạch sâu. Tài liệu đã tải không có hướng dẫn chẩn đoán thuyên tắc phổi hay ngưỡng D-dimer; kết quả này không dùng làm căn cứ chấm."
+     "n": "Không cần. Wells = 1 (ho máu): xác suất thấp (AHA/ACC 2026 Bảng 3); Geneva cải tiến = 8, trung gian (ESC 2019 Bảng 5) vì không tính chẩn đoán thay thế. PERC không dùng được (tuổi, ho máu). D-dimer hay tăng khi nhiễm trùng nặng (ESC 2019 mục 4.4): 1.850 > ngưỡng theo tuổi 790 µg/L (tuổi × 10; ESC 2019 mục 4.4.1, AHA/ACC 2026 mục 3.1.1) sẽ buộc chụp CT động mạch phổi. Chỉ đi tiếp khi diễn biến gợi ý tắc mạch (QĐ 2147 mục 5.5.2)."
     },
     "abg": {
      "r": "pH 7,45 · PaCO₂ 34 · PaO₂ 70 mmHg · HCO₃⁻ 23,4 · BE −0,3 · SaO₂ 94% (khí trời)",
-     "n": "Không cần: SpO₂ 94%, không bệnh phổi mạn, không nghi tăng CO₂. P/F ≈ 333, không đạt tiêu chuẩn phụ ATS.",
+     "n": "Không cần: SpO₂ 94% khí trời, không bệnh phổi mạn. Nếu làm: PaO₂/FiO₂ ≈ 333 > 250, không thêm tiêu chuẩn phụ ATS (QĐ 2147 mục 3.2.3).",
      "bang": {
       "fio2": "0,21 (khí trời)",
       "ph": 7.45,
@@ -385,7 +388,7 @@
     },
     "ct_nguc": {
      "r": "Đông đặc thùy dưới phổi phải có khí phế quản đồ, tràn dịch màng phổi phải lượng ít. Không có huyết khối động mạch phổi (nếu chụp có cản quang). Không thấy khối u, không hang.",
-     "n": "Không cần: X-quang đã đủ chẩn đoán; QĐ 2147 chỉ định CT khi viêm phổi nặng diễn biến phức tạp, không đáp ứng, X-quang không rõ, hoặc nghi bệnh khác."
+     "n": "Không cần lúc này: X-quang đã đủ. CT chỉ định khi viêm phổi nặng phức tạp, suy giảm miễn dịch, không điều trị dứt điểm, X-quang không rõ, nghi u, lao (QĐ 2147 mục 3.1.4); nghi u ở đây xử lý bằng theo dõi thoái triển (mục 3.4.3, 5.6.3)."
     },
     "trop": {
      "n": "Không cần: không đau ngực kiểu mạch vành, ECG không thiếu máu cơ tim."
@@ -397,7 +400,9 @@
      "n": "Không cần: không có triệu chứng tiết niệu, đã có ổ nhiễm trùng rõ ở phổi."
     },
     "hba1c": {
-     "n": "Không cần lúc này: kiểm tra sau khi khỏi bệnh."
+     "v": "a",
+     "r": "HbA1c 5,6%",
+     "n": "Glucose bất kỳ > 7,8 mmol/L khi nhập viện: làm HbA1c nếu 3 tháng nay chưa làm (ADA 2026 khuyến cáo 16.1), tại phòng khám hay tại khoa. < 6,5%: không phải ĐTĐ (Bảng 2.1)."
     },
     "ct_nao": {
      "n": "Không cần: tỉnh táo, không dấu thần kinh."
@@ -407,23 +412,23 @@
     {
      "t": "Viêm phổi cộng đồng thùy dưới phổi phải mức độ trung bình (CURB-65 = 2, PSI nhóm III), kèm tràn dịch màng phổi phải lượng ít, nghĩ do phế cầu; biểu hiện không điển hình ở người rất cao tuổi",
      "ok": 1,
-     "n": "Đông đặc thùy dưới phải trên X-quang + hội chứng đông đặc + đờm màu gạch + rét run + BC 16,2, CRP 186. CURB-65: tuổi (1) + ure 8,4 (1) = 2. PSI: 79 + 10 (tràn dịch) = 89, nhóm III. Tiêu chuẩn phụ ATS: 1 (BUN ≈ 23,5 mg/dL), chưa cần hồi sức. ICD-10 gợi ý J18.1."
+     "n": "Đông đặc thùy dưới phải trên X-quang + hội chứng đông đặc + đờm màu gạch + rét run + BC 16,2, CRP 186 (QĐ 2147 mục 3.1). CURB-65 = 2: tuổi + ure (mục 3.2.1). PSI 79 + 10 (tràn dịch) = 89, nhóm III (Bảng 3.1). Tiêu chuẩn phụ ATS 1/9 (BUN ≈ 23 mg/dL), chưa cần ICU (mục 3.2.3). ICD-10 J18.1; cấy ra phế cầu thì J13 (TT 06/2026, Phụ lục ICD-10)."
     },
     {
      "t": "Lao phổi",
-     "n": "Khởi phát cấp 5 ngày, không ho kéo dài, không sụt cân, đông đặc thùy dưới không hang, đỉnh phổi sạch; Xpert âm tính. Phải nghĩ lại nếu không đáp ứng kháng sinh hoặc tổn thương không thoái triển."
+     "n": "Không ho kéo dài trên 2 tuần (QĐ 162/2024 Phần II Bảng 1), khởi phát cấp, không sụt cân, đông đặc thùy dưới không hang, đỉnh phổi sạch (QĐ 2147 mục 3.4.1); Xpert, AFB âm. Nghĩ lại nếu không đáp ứng kháng sinh (mục 5.5.2.2)."
     },
     {
      "t": "Thuyên tắc phổi",
-     "n": "Không dấu huyết khối tĩnh mạch sâu, mạch < 100, không bất động kéo dài, đã có chẩn đoán thay thế rõ trên X-quang. Chuyến xe khách là lý do phải hỏi sàng lọc. (Tài liệu đã tải không có hướng dẫn thuyên tắc phổi, thang Wells.)"
+     "n": "Không dấu huyết khối tĩnh mạch sâu, không bất động, mạch < 100: Wells = 1, xác suất thấp (AHA/ACC 2026 Bảng 3); có chẩn đoán thay thế rõ. Ngồi xe lâu là yếu tố nguy cơ yếu (ESC 2019 Bảng 3) nên phải hỏi. Xem phần D-dimer."
     },
     {
      "t": "Ngộ độc thực phẩm / viêm dạ dày ruột do hải sản",
-     "n": "Cái neo của gia đình. Tiêu chảy chỉ 1 ngày rồi hết, sau đó bệnh cảnh hô hấp chiếm ưu thế, X-quang có đông đặc thùy."
+     "n": "Cái neo của gia đình. Tiêu chảy chỉ 1 ngày rồi hết, sau đó bệnh cảnh hô hấp chiếm ưu thế, X-quang có đông đặc thùy. Viêm phổi có khi kèm nôn, chướng bụng, đau bụng (QĐ 4235, bài Viêm phổi mắc phải ở cộng đồng mục 2.1.1)."
     },
     {
      "t": "Ung thư phổi",
-     "n": "79 tuổi, 40 gói-năm, đờm lẫn máu: không loại trừ được bằng một phim. QĐ 2147 mục 5.6.3: tái khám sau ra viện để đánh giá thoái triển tổn thương, loại trừ ung thư phổi ở người có nguy cơ; QĐ 4235: nghĩ tới ung thư khi tổn thương không cải thiện sau 1 tháng."
+     "n": "79 tuổi, 40 gói-năm, đờm lẫn máu: không loại trừ bằng một phim (QĐ 2147 mục 3.4.3; chú ý khi tổn thương không cải thiện sau 1 tháng). Theo dõi thoái triển sau ra viện (mục 5.6.3; NICE NG250 khuyến cáo 1.12.2: X-quang 6 tuần)."
     },
     {
      "t": "Cúm / COVID-19",
@@ -431,29 +436,34 @@
     },
     {
      "t": "Đái tháo đường mới phát hiện",
-     "n": "Một lần đường huyết bất kỳ 8,6 mmol/L lúc đang nhiễm trùng không đủ chẩn đoán; kiểm tra lại sau khi khỏi."
+     "n": "Một lần glucose bất kỳ 8,6 mmol/L lúc đang nhiễm trùng không đủ chẩn đoán (ADA 2026 Bảng 2.1); HbA1c 5,6%."
     }
    ],
    "xu_tri": [
     {
      "t": "Nhập viện điều trị nội trú tại khoa Nội",
      "v": "c",
-     "n": "CURB-65 = 2 (nội trú ngắn hạn hoặc ngoại trú có kiểm soát) + tràn dịch màng phổi (QĐ 2147 mục 5.3.1: nên nhập viện dù điểm chưa đủ) + buổi chiều ở nhà một mình + người bệnh hay giảm nhẹ triệu chứng, không tự theo dõi được."
+     "n": "CURB-65 = 2: nội trú ngắn hạn hoặc ngoại trú có kiểm soát (QĐ 2147 mục 3.2.1); PSI nhóm III: nội trú ngắn hạn (Bảng 3.1); tràn dịch màng phổi, không có người chăm sóc: nên nhập viện dù điểm chưa đủ (mục 3.2.3 ghi chú, 5.3.1); ông hay giảm nhẹ triệu chứng."
     },
     {
-     "t": "Kháng sinh tĩnh mạch ngay, liều đầu trong 4 giờ: beta-lactam (ceftriaxon 1–2 g mỗi 24 giờ, hoặc amoxicillin/acid clavulanic 1 g/0,2 g mỗi 8 giờ) phối hợp macrolid (azithromycin 500 mg mỗi 24 giờ)",
+     "t": "Kháng sinh tĩnh mạch ngay, liều đầu trong 4 giờ đầu: ceftriaxon 1–2 g truyền tĩnh mạch mỗi 24 giờ (hoặc amoxicilin/acid clavulanic 1 g/0,2 g mỗi 8 giờ) phối hợp azithromycin 500 mg truyền tĩnh mạch mỗi 24 giờ",
      "v": "c",
-     "n": "QĐ 2147 mục 5.2 (kháng sinh sớm trong 4 giờ đầu nhập viện), mục 5.3.2.1 (beta-lactam ± ức chế beta-lactamase hoặc cephalosporin, phối hợp macrolid; điều trị nên bao phủ luôn tác nhân không điển hình) và Bảng 4.4 (liều). Phụ lục 1: ceftriaxon và azithromycin không cần chỉnh liều theo chức năng thận. Ông không dị ứng thuốc."
+     "n": "QĐ 2147 mục 5.2 (4 giờ đầu; người nhập viện bắt đầu truyền tĩnh mạch, đủ liều), mục 5.3.2.1 và Bảng 5.1 (beta-lactam/cephalosporin + macrolid, bao phủ vi khuẩn không điển hình; ưu tiên truyền), Bảng 4.4 (liều), Phụ lục 1 (không chỉnh theo thận). Phế cầu ở Việt Nam còn nhạy ceftriaxon > 92% (mục 2.1.5). Ông không dị ứng thuốc."
+    },
+    {
+     "t": "Kháng sinh đường uống ngay từ đầu khi nằm viện (amoxicilin/acid clavulanic + azithromycin)",
+     "v": "a",
+     "n": "NICE NG250 (2025) khuyến cáo 1.5.4: dùng đường uống nếu uống được. QĐ 2147 (07/2026, mới hơn) mục 5.2, 5.3.1: người nhập viện có tràn dịch bắt đầu truyền tĩnh mạch. Đáp án theo QĐ 2147; cách này chấm a."
     },
     {
      "t": "Lấy đờm (nhuộm Gram, cấy) và cấy máu trước liều kháng sinh đầu",
      "v": "c",
-     "n": "QĐ 2147 mục 5.1: lấy bệnh phẩm (nhuộm Gram và cấy đờm, cấy máu) trước khi điều trị kháng sinh ở người bệnh nhập viện."
+     "n": "QĐ 2147 mục 5.2 (trước kháng sinh ở người nhập viện), mục 2.2.2a–b. ATS/IDSA 2019 câu hỏi 1–2, NICE NG250 khuyến cáo 1.4.6 không cấy thường quy ở thể không nặng; QĐ 2147 mới hơn nên đáp án theo QĐ, không cấy chấm a."
     },
     {
      "t": "Điều trị hỗ trợ: đảm bảo nước – điện giải, paracetamol khi sốt > 38,5 °C, thở oxy khi SpO₂ < 90%, theo dõi SpO₂ và nhịp thở",
      "v": "c",
-     "n": "QĐ 4235/2012 (viêm phổi CURB-65 = 2): đảm bảo cân bằng nước – điện giải, dùng thuốc hạ sốt khi nhiệt độ > 38,5 °C (paracetamol 0,5 g/lần, ngày không quá 4 viên); thở oxy duy trì SpO₂ > 90% (nêu ở mục viêm phổi bệnh viện). QĐ 2147 mục 4.5: SaO₂ ≥ 90% khí phòng là một tiêu chuẩn ổn định để chuyển kháng sinh uống."
+     "n": "QĐ 4235 bài VPMPCĐ mục 3.2.2 (CURB-65 = 2): nước – điện giải, hạ sốt khi > 38,5 °C; liều paracetamol 0,5 g/lần, ≤ 4 viên/ngày và đích SpO₂ > 90% lấy từ bài Viêm phổi bệnh viện mục 3.4. QĐ 2147 mục 5.5.1: SpO₂ < 90% khí trời là suy giảm hô hấp."
     },
     {
      "t": "Nói chuyện riêng với ông về đờm máu: sẽ xét nghiệm lao, kết quả được giữ kín; giải thích BHYT chi trả; thuyết phục ông và con gái đồng ý nhập viện",
@@ -461,44 +471,49 @@
      "n": "Đây là chỗ xử lý động cơ thật (sợ lao, sợ mất khách, sợ tốn tiền). Không xử lý thì ông sẽ từ chối nhập viện."
     },
     {
-     "t": "Hẹn tái khám trong vòng 1 tuần sau ra viện, tái khám tiếp để chắc tổn thương phổi đã thoái triển (loại trừ ung thư phổi); tiêm vắc xin cúm và phế cầu",
+     "t": "Hẹn tái khám trong 1 tuần sau ra viện; tái khám tiếp, cân nhắc X-quang khoảng 6 tuần sau ra viện để chắc tổn thương thoái triển (loại trừ ung thư phổi); tiêm vắc xin cúm, phế cầu",
      "v": "c",
-     "n": "QĐ 2147 mục 5.6.3: tái khám trong vòng một tuần; tái khám tiếp để đánh giá thoái triển tổn thương, loại trừ ung thư phổi ở người có nguy cơ (lớn tuổi, hút thuốc). Mục 5.5: thâm nhiễm trên X-quang có thể tồn tại đến 6 tuần. QĐ 4235/2012: tổn thương không cải thiện sau 1 tháng điều trị thì phải nghĩ tới ung thư phổi. Vắc xin: HHHVN 2025 mục 6.2 (≥ 65 tuổi: cúm hằng năm; phế cầu một liều PCV20, hoặc PCV15 rồi PPSV23 sau ít nhất 1 năm)."
+     "n": "QĐ 2147 mục 5.6.3 (tái khám trong 1 tuần; đánh giá thoái triển ở người lớn tuổi hút thuốc), 5.5.1c (thâm nhiễm có thể tồn tại 6 tuần); NICE NG250 khuyến cáo 1.12.2 (X-quang 6 tuần ở người hút thuốc hoặc > 50 tuổi). Vắc xin: QĐ 2147 mục 6.2 dẫn về hướng dẫn BYT (không có trong tài liệu đã tải); HHHVN 2025 mục 6.2.1–6.2.2 (≥ 65 tuổi: cúm hằng năm; PCV20, hoặc PCV15 rồi PPSV23 sau ≥ 1 năm)."
     },
     {
      "t": "Levofloxacin hoặc moxifloxacin tĩnh mạch đơn trị",
      "v": "a",
-     "n": "QĐ 2147 mục 5.3.2.1 cho phép quinolon hô hấp đơn trị ở khoa Nội (levofloxacin 750 mg/ngày hoặc moxifloxacin 400 mg/ngày theo QĐ 4235) và yêu cầu xét nghiệm lao cho trường hợp nghi ngờ; ông có đờm lẫn máu nên cần có kết quả Xpert."
+     "n": "QĐ 2147 mục 5.3.2.1 cho phép quinolon hô hấp đơn trị; levofloxacin 750 mg hoặc moxifloxacin 400 mg mỗi 24 giờ (Bảng 4.4). Cần Xpert âm trước: còn nghi lao thì thử kháng sinh ngoài nhóm fluoroquinolon (QĐ 162/2024 Phần II, Sơ đồ 1 chú thích *). Kéo dài QT (QĐ 2147 mục 4.4)."
     },
     {
-     "t": "Dự phòng huyết khối tĩnh mạch khi nằm viện (đánh giá nguy cơ tại khoa)",
+     "t": "Tại khoa: cân nhắc chọc hút dịch màng phổi dưới siêu âm (pH, Gram, cấy)",
      "v": "a",
-     "n": "Người cao tuổi, giảm vận động, nhiễm trùng cấp. Tài liệu đã tải không đề cập dự phòng huyết khối trong viêm phổi; quyết định theo đánh giá nguy cơ tại khoa."
+     "n": "QĐ 2147 Bảng 2.1 (cấy dịch màng phổi khi có tràn dịch); BTS 2023 phần Pleural infection: dịch không phải mủ thì đo pH ngay (≤ 7,2: dẫn lưu; ≥ 7,4: chưa cần), không dẫn lưu thì khám lại đều, cân nhắc chọc lại. Bề dày dịch tối thiểu cần chọc: không có trong tài liệu đã tải."
     },
     {
-     "t": "Nếu ông vẫn từ chối nhập viện dù đã giải thích: ngoại trú có kiểm soát (amoxicillin/acid clavulanic 875/125 mg mỗi 8–12 giờ + azithromycin), có người ở cùng, máy đo SpO₂, tái khám sau 48 giờ, ký cam kết",
+     "t": "Đánh giá nguy cơ huyết khối tĩnh mạch (thang Padua) trong 24 giờ đầu nhập viện; hiện Padua 2 nên chưa cần thuốc chống đông dự phòng, vận động sớm, đủ nước, đánh giá lại mỗi 48–72 giờ",
      "v": "a",
-     "n": "QĐ 2147 (mục CURB-65): nhóm 2 điểm được điều trị nội trú ngắn hạn hoặc ngoại trú có kiểm soát; phác đồ ngoại trú cho người > 65 tuổi là amoxicilin/acid clavulanic + macrolid (mục 5.3.1), liều uống 875/125 mg mỗi 8–12 giờ (Bảng 4.4). Nhưng tràn dịch màng phổi là lý do nên nhập viện (mục 5.3.1), nên đây chỉ là phương án khi ông từ chối."
+     "n": "QĐ 3908/2023 Chương 3, Bảng 8 (Padua: tuổi ≥ 70: 1, nhiễm khuẩn cấp: 1; ≥ 4 mới dự phòng), Bảng 11 (đánh giá trong 24 giờ, lại sau 48–72 giờ; nằm bất động cộng 3 → enoxaparin 40 mg tiêm dưới da/ngày khi IMPROVE < 7). Làm tại khoa."
     },
     {
-     "t": "Kiểm tra lại đường huyết đói, HbA1c sau khi khỏi bệnh",
+     "t": "Nếu ông vẫn từ chối nhập viện dù đã giải thích: ngoại trú có kiểm soát (amoxicilin/acid clavulanic 875/125 mg uống mỗi 12 giờ + azithromycin 500 mg uống mỗi 24 giờ), có người ở cùng, theo dõi SpO₂, tái khám sau 48 giờ, ký cam kết",
      "v": "a",
-     "n": "ADA 2026 mục 2: chẩn đoán ĐTĐ cần glucose đói ≥ 7,0 mmol/L, HbA1c ≥ 6,5%, hoặc glucose bất kỳ ≥ 11,1 mmol/L kèm triệu chứng; 8,6 mmol/L chưa đủ. Xử lý dữ kiện nhiễu đúng cách."
+     "n": "QĐ 2147 mục 3.2.1 (CURB-65 = 2: được ngoại trú có kiểm soát), mục 5.3.1 (> 65 tuổi: amoxicilin/acid clavulanic + macrolid), Bảng 4.4, Phụ lục 1 (Clcr 30–50: 875 mg mỗi 12 giờ), mục 5.2 (đánh giá lại sau 48–72 giờ). Tràn dịch vẫn là lý do nên nhập viện (mục 5.3.1). Đo SpO₂ tại nhà, ký cam kết: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm HbA1c khi nhập viện; không chẩn đoán đái tháo đường chỉ dựa vào glucose bất kỳ 8,6 mmol/L",
+     "v": "a",
+     "n": "ADA 2026 khuyến cáo 16.1 (glucose bất kỳ > 7,8 mmol/L khi nhập viện → HbA1c) và Bảng 2.1 (ĐTĐ: glucose đói ≥ 7,0, HbA1c ≥ 6,5%, hoặc bất kỳ ≥ 11,1 mmol/L kèm triệu chứng)."
     },
     {
      "t": "Cho về uống amoxicillin/acid clavulanic, hẹn tái khám sau 48 giờ",
      "v": "w",
-     "n": "Có tràn dịch màng phổi, buổi chiều ở nhà một mình, người bệnh giảm nhẹ triệu chứng."
+     "n": "Có tràn dịch màng phổi và buổi chiều ở nhà một mình: nên nhập viện dùng kháng sinh tĩnh mạch (QĐ 2147 mục 3.2.3 phần ghi chú, mục 5.3.1); người bệnh lại hay giảm nhẹ triệu chứng."
     },
     {
      "t": "Thuốc ho có codein hoặc thuốc ức chế ho",
      "v": "w",
-     "n": "QĐ 4235/2012: không nên dùng thuốc giảm ho cho người đang nhiễm trùng đường hô hấp dưới, vì người bệnh cần ho để thải đờm."
+     "n": "QĐ 4235, bài Ho kéo dài mục 3.2: không nên dùng thuốc giảm ho cho người đang nhiễm trùng đường hô hấp dưới, vì cần ho để thải đờm."
     },
     {
      "t": "Corticoid toàn thân",
      "v": "h",
-     "n": "ATS 2025: khuyến cáo mạnh KHÔNG dùng corticoid cho viêm phổi không nặng nằm viện; ông lại đang tăng đường huyết."
+     "n": "ATS 2025 câu hỏi 4: khuyến cáo mạnh KHÔNG dùng ở VPMPCĐ không nặng nằm viện (tránh tăng đường huyết); QĐ 2147 mục 5.3.2.2, NICE NG250 khuyến cáo 1.8.1 chỉ dùng ở thể nặng. Ông đang tăng đường huyết."
     },
     {
      "t": "Cho về với oresol, men tiêu hóa hoặc thuốc cầm tiêu chảy vì trúng thực",
@@ -508,46 +523,47 @@
    ],
    "dap_an": {
     "thanh_phan_chan_doan": [
-     "Viêm phổi mắc phải cộng đồng, đông đặc thùy dưới phổi phải",
-     "Mức độ trung bình: CURB-65 = 2 (tuổi ≥ 65, ure > 7 mmol/L)",
+     "Viêm phổi mắc phải cộng đồng, đông đặc thùy dưới phổi phải (ICD-10 J18.1)",
+     "Mức độ trung bình: CURB-65 = 2 (tuổi ≥ 65, ure > 7 mmol/L), PSI nhóm III (QĐ 2147 mục 3.2.1, Bảng 3.1)",
      "Tràn dịch màng phổi phải lượng ít",
-     "Căn nguyên nghĩ phế cầu (song cầu Gram dương trên nhuộm Gram đờm)",
-     "Đã loại trừ hoặc chưa nghĩ: lao phổi (Xpert âm), cúm/COVID-19, ngộ độc thực phẩm"
+     "Căn nguyên nghĩ phế cầu (song cầu Gram dương trên nhuộm Gram đờm), chờ cấy",
+     "Đã loại trừ hoặc chưa nghĩ: lao phổi (Xpert âm, không ho kéo dài), thuyên tắc phổi (Wells 1, có chẩn đoán thay thế), cúm/COVID-19, ngộ độc thực phẩm"
     ],
     "phan_tich_chan_doan": [
-     "Vì sao là viêm phổi: ho đờm vàng rồi màu gạch, rét run, đau nhói ngực phải khi ho và hít sâu, nhịp thở 24 l/p, SpO₂ 94%; khám có hội chứng đông đặc; X-quang đông đặc thùy dưới phải có hình phế quản hơi; BC 16,2 G/L (neutrophil 85%), CRP 186 mg/L. Khởi đầu chỉ mệt, ăn kém, sốt nhẹ 37,7 °C: QĐ 2147 lưu ý ở người bệnh cao tuổi các biểu hiện ban đầu của viêm phổi có thể không rầm rộ.",
-     "Vì sao mức trung bình: CURB-65 (QĐ 2147, QĐ 4235) gồm C lú lẫn (không: 0), U ure > 7 mmol/L (8,4: 1), R nhịp thở ≥ 30 (24: 0), B HA tâm thu < 90 hoặc tâm trương < 60 (132/76: 0), tuổi ≥ 65 (79: 1). Tổng 2 điểm: QĐ 4235 xếp viêm phổi trung bình, điều trị tại bệnh viện; QĐ 2147 xếp nhóm nội trú ngắn hạn hoặc ngoại trú có kiểm soát.",
-     "Vì sao phải ghi tràn dịch màng phổi: góc sườn hoành phải tù trên X-quang, siêu âm có lớp dịch 1,2 cm. QĐ 2147 mục 5.3.1 coi tràn dịch màng phổi là tổn thương nặng trên X-quang, nên cho nhập viện điều trị kháng sinh tĩnh mạch dù CURB-65 hay PSI chưa đủ tiêu chuẩn nhập viện. Bỏ thành phần này là bỏ lý do quyết định nơi điều trị.",
-     "Vì sao nghĩ phế cầu: nhuộm Gram đờm có nhiều bạch cầu đa nhân và song cầu Gram dương hình ngọn nến. Phế cầu là tác nhân hàng đầu gây VPMPCĐ (HHHVN 2025 mục 6.2.2). Kết luận chắc chắn phải chờ cấy đờm, cấy máu.",
-     "Chẩn đoán phân biệt: lao phổi phải xét nghiệm khi nghi ngờ (QĐ 2147 mục 5.3.2.1); ở đây khởi phát cấp, không ho kéo dài, không sụt cân, đông đặc thùy dưới không hang, Xpert MTB/RIF và AFB âm. Cúm/COVID-19: test nhanh âm. Ung thư phổi: 79 tuổi, 40 gói-năm, đờm lẫn máu nên không loại trừ bằng một phim; QĐ 4235 nhắc nghĩ tới ung thư khi tổn thương không cải thiện sau 1 tháng. Thuyên tắc phổi: không có dấu huyết khối tĩnh mạch sâu và đã có chẩn đoán thay thế rõ (thang Wells không có trong tài liệu đã tải).",
-     "Dữ kiện nhiễu: tiêu chảy 1 ngày sau ăn hải sản làm gia đình nghĩ ngộ độc thực phẩm, nhưng sau đó bệnh cảnh hô hấp chiếm ưu thế. Glucose 8,6 mmol/L lúc đang nhiễm trùng chưa đủ tiêu chuẩn chẩn đoán ĐTĐ (ADA 2026 mục 2: glucose bất kỳ ≥ 11,1 mmol/L kèm triệu chứng, hoặc glucose đói ≥ 7,0, hoặc HbA1c ≥ 6,5%)."
+     "Vì sao là viêm phổi: ho đờm vàng rồi màu gạch, rét run, đau ngực phải kiểu màng phổi, thở 24 l/p, SpO₂ 94%; hội chứng đông đặc; X-quang đông đặc thùy dưới phải có phế quản hơi; BC 16,2 G/L, CRP 186 mg/L (QĐ 2147 mục 3.1.1–3.1.3). Khởi đầu chỉ mệt, ăn kém, sốt nhẹ: ở người cao tuổi biểu hiện ban đầu có thể không rầm rộ (mục 3.1.1).",
+     "Vì sao mức trung bình: CURB-65 (QĐ 2147 mục 3.2.1): C tri giác mới thay đổi (AMT 10/10: 0; NICE NG250 Box 2 lấy AMT ≤ 8), U ure > 7 mmol/L (8,4: 1), R thở ≥ 30 (24: 0), B HA tâm thu < 90 và/hoặc tâm trương ≤ 60 (0), tuổi ≥ 65 (1). Tổng 2: nội trú ngắn hạn hoặc ngoại trú có kiểm soát (QĐ 4235 năm 2012 xếp 'điều trị tại bệnh viện'). PSI 89, nhóm III (Bảng 3.1); tiêu chuẩn phụ ATS 1/9 (mục 3.2.3).",
+     "Vì sao phải ghi tràn dịch: góc sườn hoành phải tù, siêu âm lớp dịch 1,2 cm. Tràn dịch là lý do nhập viện, kháng sinh tĩnh mạch dù CURB-65, PSI chưa đủ (QĐ 2147 mục 3.2.3 ghi chú, 5.3.1) và phải theo dõi để sớm phát hiện mủ màng phổi (mục 5.6.2).",
+     "Vì sao nghĩ phế cầu: nhuộm Gram đờm nhiều bạch cầu đa nhân và song cầu Gram dương; nam > 65 tuổi, từng hút thuốc là yếu tố nguy cơ phế cầu (QĐ 2147 Bảng 3.2); phế cầu là tác nhân hàng đầu (HHHVN 2025 mục 6.2.2). Chắc chắn khi cấy máu dương (QĐ 2147 mục 3.3.1).",
+     "Chẩn đoán phân biệt: lao – không ho kéo dài trên 2 tuần (QĐ 162/2024 Phần II Bảng 1), khởi phát cấp, không hang, Xpert và AFB âm (QĐ 2147 mục 3.4.1). Cúm/COVID-19: test nhanh âm. Ung thư phổi: tuổi, 40 gói-năm, đờm máu nên chưa loại trừ bằng một phim (mục 3.4.3). Thuyên tắc phổi: Wells 1 (AHA/ACC 2026 Bảng 3), không dấu huyết khối tĩnh mạch sâu, có chẩn đoán thay thế rõ.",
+     "Dữ kiện nhiễu: tiêu chảy 1 ngày sau ăn hải sản làm gia đình nghĩ ngộ độc thực phẩm, nhưng sau đó bệnh cảnh hô hấp chiếm ưu thế. Glucose 8,6 mmol/L lúc nhiễm trùng chưa đủ chẩn đoán ĐTĐ (ADA 2026 Bảng 2.1); làm HbA1c khi nhập viện (khuyến cáo 16.1)."
     ],
     "phan_tich_xu_tri": [
-     "Hướng xử trí đúng là nhập viện khoa Nội. Căn cứ tài liệu: CURB-65 = 2 (QĐ 4235: điều trị tại bệnh viện) và tràn dịch màng phổi (QĐ 2147 mục 5.3.1: nên nhập viện dù điểm chưa đủ). Căn cứ hoàn cảnh trong ca: buổi chiều ông ở nhà một mình, ông hay giảm nhẹ triệu chứng nên không tự theo dõi được.",
-     "Trình tự đúng: lấy đờm nhuộm Gram, cấy và cấy máu trước kháng sinh (QĐ 2147 mục 5.1), rồi cho liều kháng sinh đầu trong 4 giờ đầu nhập viện (mục 5.2), đường tĩnh mạch, đủ liều.",
-     "Chọn kháng sinh: QĐ 2147 mục 5.3.2.1 cho nhóm nằm khoa Nội dùng beta-lactam ± ức chế beta-lactamase (amoxicilin/acid clavulanic) hoặc cephalosporin (cefotaxim, ceftriaxon) ± macrolid (azithromycin, clarithromycin), hoặc quinolon hô hấp đơn trị; điều trị nên bao phủ luôn tác nhân không điển hình. Ceftriaxon + azithromycin đáp ứng yêu cầu này. QĐ 4235 cho CURB-65 = 2 không uống được: amoxicilin/acid clavulanic 1 g × 3 lần/ngày tĩnh mạch + azithromycin 500 mg/ngày, cũng đúng.",
-     "Theo dõi: đánh giá đáp ứng sau 48–72 giờ, không cải thiện hoặc xấu hơn thì đổi phác đồ (QĐ 2147 mục 5.2). Chuyển sang uống khi đủ tiêu chuẩn ổn định ở mục 4.5; ra viện khi ổn định và đã chuyển kháng sinh uống cho đủ liệu trình.",
-     "Những việc sai: corticoid toàn thân bị ATS 2025 khuyến cáo mạnh không dùng cho viêm phổi không nặng nằm viện, lý do chính là tăng đường huyết, mà ông đang có glucose 8,6 mmol/L. Thuốc giảm ho có codein: QĐ 4235 nói không nên dùng thuốc giảm ho khi đang nhiễm trùng hô hấp dưới. Cho về với oresol, men tiêu hóa là bỏ sót viêm phổi vì neo vào chẩn đoán của gia đình. Cho về uống kháng sinh khi có tràn dịch là trái QĐ 2147 mục 5.3.1.",
-     "Xử lý động cơ thật: ông giấu đờm máu vì sợ bị lao, sợ mất khách, sợ tốn tiền của con. Nói riêng với ông, cho biết Xpert âm tính và kết quả được giữ kín, ông có thẻ BHYT hộ gia đình; không giải quyết nỗi lo này thì ông sẽ từ chối nhập viện."
+     "Hướng xử trí đúng là nhập viện khoa Nội: CURB-65 = 2, PSI nhóm III (QĐ 2147 mục 3.2.1, Bảng 3.1) cộng tràn dịch màng phổi và không có người chăm sóc buổi chiều (mục 3.2.3 ghi chú, 5.3.1); ông hay giảm nhẹ triệu chứng.",
+     "Trình tự: lấy đờm nhuộm Gram, cấy và cấy máu trước kháng sinh, rồi liều đầu trong 4 giờ đầu nhập viện, truyền tĩnh mạch, đủ liều (QĐ 2147 mục 5.2).",
+     "Chọn kháng sinh: beta-lactam ± ức chế beta-lactamase hoặc cephalosporin + macrolid, hoặc quinolon hô hấp đơn trị (QĐ 2147 mục 5.3.2.1, Bảng 5.1). Phác đồ QĐ 4235 (CURB-65 = 2 không uống được: amoxicilin/acid clavulanic 1 g × 3 lần/ngày tĩnh mạch + azithromycin 500 mg/ngày) cũng đúng. Kháng sinh uống khi nằm viện (NICE NG250, 2025) chấm a vì QĐ 2147 mới hơn.",
+     "Liều theo thận: Phụ lục 1 QĐ 2147 dùng Clcr; ông 79 tuổi, 54 kg nên Clcr ≈ 39 mL/ph dù eGFR 63 – khi chuyển amoxicilin/acid clavulanic uống dùng 875 mg mỗi 12 giờ.",
+     "Theo dõi: đánh giá đáp ứng sau 48–72 giờ, không cải thiện thì đổi phác đồ (QĐ 2147 mục 5.2); theo dõi dịch màng phổi (mục 5.6.2); chuyển uống khi đủ tiêu chuẩn mục 4.5; có tràn dịch thì kháng sinh kéo dài hơn (mục 5.6.2; ATS 2025 Bảng 1). Padua trong 24 giờ đầu (QĐ 3908/2023 Bảng 11).",
+     "Những việc sai: corticoid toàn thân (ATS 2025 câu hỏi 4, ông đang tăng đường huyết); thuốc giảm ho có codein (QĐ 4235 bài Ho kéo dài mục 3.2); cho về với oresol, men tiêu hóa là bỏ sót viêm phổi vì neo vào chẩn đoán của gia đình; cho về uống kháng sinh không kiểm soát khi có tràn dịch (QĐ 2147 mục 5.3.1).",
+     "Xử lý động cơ thật: ông giấu đờm máu vì sợ bị lao, sợ mất khách, sợ tốn tiền của con. Nói riêng với ông, cho biết Xpert âm và kết quả được giữ kín, ông có thẻ BHYT hộ gia đình; không giải quyết nỗi lo này thì ông sẽ từ chối nhập viện."
     ],
     "don_thuoc": [
      {
       "thuoc": "Ceftriaxon",
-      "ham_luong": "",
+      "ham_luong": "Lọ 1 g",
       "lieu": "1–2 g mỗi 24 giờ",
-      "duong": "Tiêm hoặc truyền tĩnh mạch",
+      "duong": "Truyền tĩnh mạch",
       "thoi_diem": "Liều đầu ngay sau khi lấy đờm và cấy máu, trong 4 giờ đầu nhập viện; các liều sau cùng giờ mỗi ngày",
-      "so_ngay": "Đến khi đủ tiêu chuẩn chuyển uống; tổng liệu trình kháng sinh thường 7–10 ngày, với phế cầu điều trị đến khi hết sốt 3–5 ngày, tối thiểu 5 ngày",
-      "ghi_chu": "QĐ 2147 Bảng 4.4, mục 5.2, 5.4.1.1. Không cần chỉnh liều theo thận (Phụ lục 1). Không trộn lẫn hoặc truyền đồng thời cùng đường với calci tĩnh mạch (Phụ lục 3). Khi chuyển uống: amoxicilin 1000 mg mỗi 8 giờ, hoặc amoxicilin/acid clavulanic 875/125 mg mỗi 8–12 giờ (Bảng 4.4). Thay thế tương đương: amoxicilin/acid clavulanic 1000/200 mg tĩnh mạch mỗi 8 giờ."
+      "so_ngay": "Đến khi đủ tiêu chuẩn chuyển uống (QĐ 2147 mục 4.5); tổng thường 7–10 ngày (mục 5.2); phế cầu: đến khi hết sốt 3–5 ngày, tối thiểu 5 ngày (mục 5.4.1.1); có tràn dịch thì kéo dài hơn (mục 5.6.2)",
+      "ghi_chu": "QĐ 2147 Bảng 4.4, Bảng 5.1 (ưu tiên truyền). Không chỉnh liều theo thận (Phụ lục 1). Không truyền cùng đường với calci tĩnh mạch (Phụ lục 3). Chuyển uống: amoxicilin 1 g mỗi 8 giờ hoặc amoxicilin/acid clavulanic 875/125 mg mỗi 8–12 giờ (Bảng 4.4), chỉnh theo Clcr lúc chuyển (Phụ lục 1; Clcr ≈ 39 → 875 mg mỗi 12 giờ). Thay thế: amoxicilin/acid clavulanic 1 g/200 mg truyền mỗi 8 giờ."
      },
      {
       "thuoc": "Azithromycin",
-      "ham_luong": "",
+      "ham_luong": "Lọ 500 mg",
       "lieu": "500 mg mỗi 24 giờ",
       "duong": "Truyền tĩnh mạch; khi chuyển uống giữ 500 mg mỗi 24 giờ",
       "thoi_diem": "Bắt đầu cùng ngày với liều beta-lactam đầu",
       "so_ngay": "3–5 ngày",
-      "ghi_chu": "QĐ 2147 Bảng 4.4 (liều), mục 5.3.2.1 (bao phủ vi khuẩn không điển hình); thời gian phối hợp macrolid 3–5 ngày theo ESCMID 2023 được QĐ 2147 trích dẫn. Không cần chỉnh liều theo thận (Phụ lục 1). Lưu ý tương tác thuốc của macrolid (QĐ 2147)."
+      "ghi_chu": "QĐ 2147 Bảng 4.4, mục 5.3.2.1. 3–5 ngày theo ESCMID 2023 được QĐ 2147 mục 4.1 trích (bối cảnh thể nặng; không có số riêng cho thể trung bình trong tài liệu đã tải). Không chỉnh theo thận (Phụ lục 1). Kéo dài QT, nhiều tương tác (mục 4.4, Phụ lục 3). Phế cầu ở Việt Nam kháng macrolid > 90% (mục 2.1.5): macrolid không thay được beta-lactam."
      },
      {
       "thuoc": "Paracetamol",
@@ -556,7 +572,7 @@
       "duong": "Uống",
       "thoi_diem": "Khi nhiệt độ > 38,5 °C",
       "so_ngay": "Khi cần; ngày không quá 4 viên",
-      "ghi_chu": "QĐ 4235/2012 mục điều trị khác của viêm phổi. Lúc khám ông 37,7 °C nên chưa cần dùng thường quy."
+      "ghi_chu": "QĐ 4235 bài VPMPCĐ mục 3.2.2 (hạ sốt khi > 38,5 °C); liều theo bài Viêm phổi bệnh viện mục 3.4. Lúc khám 37,7 °C nên chưa dùng thường quy."
      },
      {
       "thuoc": "Oxy",
@@ -565,58 +581,68 @@
       "duong": "Thở qua gọng mũi",
       "thoi_diem": "Khi SpO₂ < 90%",
       "so_ngay": "Theo SpO₂",
-      "ghi_chu": "QĐ 4235 (mục viêm phổi bệnh viện): thở oxy duy trì SpO₂ > 90%. Hiện SpO₂ 94% lúc nghỉ, giảm khi gắng sức: theo dõi, chưa cần thở oxy."
+      "ghi_chu": "QĐ 4235 bài Viêm phổi bệnh viện mục 3.4 (QĐ 2147 không ghi ngưỡng đích). SpO₂ 94% lúc nghỉ, 89% khi đi bộ: theo dõi, chưa cần oxy lúc nghỉ."
      }
     ],
     "dan_do": [
-     "Ông bị viêm phổi có tràn dịch màng phổi nên cần nằm viện để truyền kháng sinh những ngày đầu; khi đỡ sẽ chuyển thuốc uống và ra viện uống tiếp cho đủ liệu trình (QĐ 2147 mục 5.2).",
+     "Ông bị viêm phổi có tràn dịch màng phổi nên cần nằm viện truyền kháng sinh những ngày đầu, đỡ thì chuyển thuốc uống, ra viện uống tiếp cho đủ liệu trình (QĐ 2147 mục 5.2).",
      "Xét nghiệm lao (Xpert) âm tính; kết quả của ông được giữ kín. Ông có thẻ BHYT hộ gia đình.",
-     "Trong khi nằm viện, báo ngay nhân viên y tế nếu khó thở hơn, đau ngực tăng, sốt lại hoặc lơ mơ: QĐ 2147 yêu cầu đánh giá lại sau 48–72 giờ và đổi phác đồ nếu không cải thiện.",
-     "Sau ra viện: tái khám trong vòng 1 tuần; tái khám tiếp để kiểm tra tổn thương phổi đã hết, vì ông lớn tuổi và từng hút thuốc lâu năm (QĐ 2147 mục 5.6.3).",
-     "Tiêm phòng: cúm hằng năm; phế cầu một liều PCV20, hoặc PCV15 rồi PPSV23 sau ít nhất 1 năm (HHHVN 2025 mục 6.2).",
-     "Tiếp tục không hút thuốc (QĐ 2147 mục 6.1). Kiểm tra lại đường huyết đói hoặc HbA1c vì một lần glucose 8,6 mmol/L chưa đủ chẩn đoán ĐTĐ (ADA 2026 mục 2)."
+     "Báo ngay nhân viên y tế nếu khó thở hơn, đau ngực tăng, sốt lại hoặc lơ mơ; bác sĩ đánh giá lại sau 48–72 giờ và theo dõi dịch màng phổi (QĐ 2147 mục 5.2, 5.6.2). Hồi phục từ từ: hết sốt khoảng 1 tuần, đỡ ho và khó thở khoảng 6 tuần (NICE NG250 khuyến cáo 1.10.1).",
+     "Sau ra viện tái khám trong 1 tuần; tái khám tiếp, có thể chụp lại X-quang khoảng 6 tuần sau để chắc tổn thương đã hết (QĐ 2147 mục 5.6.3; NICE NG250 khuyến cáo 1.12.2).",
+     "Tiêm phòng: cúm hằng năm; phế cầu PCV20, hoặc PCV15 rồi PPSV23 sau ít nhất 1 năm (HHHVN 2025 mục 6.2.1–6.2.2).",
+     "Tiếp tục không hút thuốc, hạn chế rượu, chữa răng hư (QĐ 2147 mục 6.1)."
     ]
    }
   }
  ],
- "ket_cuc": "Ông nhập khoa Nội, được ceftriaxon và azithromycin từ giờ thứ hai. Ngày 2 bớt mệt, ăn được hơn. Sau 48 giờ cấy máu mọc phế cầu nhạy penicillin và ceftriaxon; Xpert âm tính. Sau 72 giờ ông sốt lại 38,8 °C, đau ngực phải tăng, SpO₂ 91%. Siêu âm: dịch màng phổi tăng, có vách; chọc dò ra dịch đục: tràn mủ màng phổi. Ông được chuyển bệnh viện tỉnh đặt dẫn lưu, kéo dài kháng sinh. Ra viện ngày thứ 19, sụt 4 kg, phải chống gậy, một tháng chưa ra sạp được. Chị Hạnh trách: 'Khám kỹ vậy mà vẫn nặng.' Mọi quyết định ở phòng khám đều đúng với dữ kiện lúc đó (nhập viện, kháng sinh đúng phác đồ, đúng giờ, lấy bệnh phẩm trước kháng sinh). Tràn mủ màng phổi do phế cầu vẫn có thể xảy ra dù điều trị đúng; đây là thất bại điều trị muộn theo QĐ 2147 mục 5.5.",
+ "ket_cuc": "Ông nhập khoa Nội, được ceftriaxon và azithromycin từ giờ thứ hai. Ngày 2 bớt mệt, ăn được hơn. Sau 48 giờ cấy máu mọc phế cầu nhạy penicillin và ceftriaxon; Xpert âm tính. Sau 72 giờ ông sốt lại 38,8 °C, đau ngực phải tăng, SpO₂ 91%. Siêu âm theo dõi: dịch màng phổi tăng, có vách; chọc dò ra dịch đục: tràn mủ màng phổi. Ông được chuyển bệnh viện tỉnh đặt dẫn lưu, kéo dài kháng sinh. Ra viện ngày thứ 19, sụt 4 kg, phải chống gậy, một tháng chưa ra sạp được. Chị Hạnh trách: 'Khám kỹ vậy mà vẫn nặng.' Mọi quyết định ở phòng khám đều đúng với dữ kiện lúc đó (nhập viện, kháng sinh đúng phác đồ, đúng giờ, lấy bệnh phẩm trước kháng sinh). Tràn mủ màng phổi là biến chứng đã biết (QĐ 2147 mục 3.5.2); đây là thất bại điều trị muộn (mục 5.5.1b), xử trí theo sơ đồ mục 5.5.2 (siêu âm, chọc dịch); dịch mủ phải dẫn lưu (BTS 2023, Pleural infection).",
  "nhieu": [
-  "Ăn ghẹ, sò ở đám giỗ rồi tiêu chảy: cái neo 'trúng thực' của cả nhà. Tiêu chảy chỉ 1 ngày, sau đó là bệnh cảnh hô hấp; triệu chứng tiêu hóa vẫn gặp trong viêm phổi.",
-  "Đường huyết 8,6 mmol/L không nhịn đói: tăng đường huyết do stress nhiễm trùng, ghi nhận và kiểm tra lại sau khi khỏi, không chẩn đoán đái tháo đường."
+  "Ăn ghẹ, sò ở đám giỗ rồi tiêu chảy: cái neo 'trúng thực' của cả nhà. Tiêu chảy chỉ 1 ngày, sau đó là bệnh cảnh hô hấp; viêm phổi có khi kèm nôn, chướng bụng, đau bụng (QĐ 4235, bài Viêm phổi mắc phải ở cộng đồng mục 2.1.1).",
+  "Đường huyết 8,6 mmol/L không nhịn đói: tăng đường huyết do stress nhiễm trùng; làm HbA1c (5,6%), không chẩn đoán đái tháo đường (ADA 2026 Bảng 2.1, khuyến cáo 16.1)."
  ],
  "bai_hoc_bien": [
-  "Người rất cao tuổi bị viêm phổi có thể khởi đầu bằng triệu chứng tiêu hóa, sốt nhẹ, không than khó thở (QĐ 2147: ở người cao tuổi biểu hiện ban đầu có thể không rầm rộ).",
+  "Người rất cao tuổi bị viêm phổi có thể khởi đầu bằng triệu chứng tiêu hóa, sốt nhẹ, không than khó thở (QĐ 2147 mục 3.1.1: ở người cao tuổi biểu hiện ban đầu có thể không rầm rộ; QĐ 4235 bài VPMPCĐ mục 2.1.1).",
   "Phủ nhận triệu chứng: hỏi theo việc làm hằng ngày ('khiêng hàng có phải ngồi nghỉ không', 'vì sao hôm qua nghỉ chợ') thay vì hỏi cảm giác ('có khó thở không').",
-  "Đo SpO₂ khi đi bộ là cách rẻ nhất biến lời khai 'không khó thở' thành con số khách quan.",
+  "Đo SpO₂ khi cho đi bộ biến lời khai 'không khó thở' thành con số khách quan (cách làm lâm sàng; tài liệu đã tải không nêu ngưỡng giảm SpO₂ khi gắng sức).",
   "Người bệnh giấu điều ngại nói (đờm máu, sợ lao): hỏi thẳng, nhẹ nhàng, hứa giữ kín. Người nhà đi cùng có thể cũng không biết.",
   "Nghề buôn bán ở chợ: nỗi sợ mất khách là động cơ thật; không giải quyết nó thì người bệnh sẽ từ chối nhập viện.",
-  "Đi xe khách 2 giờ là lý do để hỏi sàng lọc thuyên tắc phổi, không phải lý do để làm D-dimer khi đã có chẩn đoán thay thế rõ.",
+  "Đi xe khách 2 giờ là yếu tố nguy cơ yếu (ESC 2019 Bảng 3): lý do để hỏi sàng lọc thuyên tắc phổi, không phải lý do làm D-dimer khi Wells thấp và có chẩn đoán thay thế rõ.",
   "Xử trí đúng nhưng diễn tiến xấu: đánh giá quyết định theo dữ kiện có tại thời điểm ra quyết định, không theo kết cục (chống thiên kiến kết cục).",
-  "Người ≥ 75 tuổi: NICE NG237 mục 1.3.2 yêu cầu xem xét triệu chứng trong bối cảnh chung của người bệnh; QĐ 2147 Phụ lục 1 nhắc hiệu chỉnh liều kháng sinh theo chức năng thận."
+  "Người ≥ 75 tuổi: ngưỡng điều trị hoặc chuyển thấp hơn (NICE NG237 khuyến cáo 1.3.2); liều kháng sinh theo Clcr (QĐ 2147 Phụ lục 1) – người già, gầy có Clcr thấp hơn eGFR nhiều (39 so với 63)."
  ],
  "diem_nho": [
-  "CURB-65 (QĐ 2147, QĐ 4235): 0–1 điểm điều trị ngoại trú; 2 điểm nội trú ngắn hạn hoặc ngoại trú có kiểm soát (QĐ 4235: điều trị tại bệnh viện); ≥ 3 điểm nội trú.",
-  "Không chỉ dựa vào điểm: thâm nhiễm > 1 thùy, hoại tử, tràn dịch màng phổi, tổn thương tiến triển trong 48–72 giờ thì nên nhập viện dùng kháng sinh tĩnh mạch dù điểm chưa đủ (QĐ 2147 mục 5.3.1).",
-  "VPMPCĐ trung bình nằm khoa Nội: beta-lactam (± ức chế beta-lactamase) hoặc cephalosporin phối hợp macrolid, hoặc quinolon hô hấp đơn trị; lấy bệnh phẩm trước kháng sinh; kháng sinh trong 4 giờ đầu (QĐ 2147 mục 5.1–5.3).",
+  "CURB-65 (QĐ 2147 mục 3.2.1): 0–1 điểm ngoại trú; 2 điểm nội trú ngắn hạn hoặc ngoại trú có kiểm soát; ≥ 3 nội trú, 4–5 cân nhắc ICU. Tiêu chí B: HA tâm thu < 90 và/hoặc tâm trương ≤ 60.",
+  "Không chỉ dựa vào điểm: thâm nhiễm > 1 thùy, hoại tử, tràn dịch màng phổi, tiến triển trong 48–72 giờ, không có người chăm sóc: nên nhập viện, kháng sinh tĩnh mạch (QĐ 2147 mục 3.2.3 ghi chú, 5.3.1).",
+  "VPMPCĐ trung bình nằm khoa Nội: beta-lactam (± ức chế beta-lactamase) hoặc cephalosporin phối hợp macrolid, hoặc quinolon hô hấp đơn trị; lấy bệnh phẩm trước kháng sinh; kháng sinh trong 4 giờ đầu (QĐ 2147 mục 5.2, 5.3.2.1).",
   "Chuyển kháng sinh uống khi: nhiệt độ ≤ 37,8 °C, mạch ≤ 100, thở ≤ 24, HA tâm thu ≥ 90 mmHg, SaO₂ ≥ 90%, ăn uống được, tâm thần bình thường (QĐ 2147 mục 4.5).",
-  "Đờm lẫn máu ở người cao tuổi hút thuốc: làm xét nghiệm lao (QĐ 2147 mục 5.3.2.1); sau ra viện tái khám trong 1 tuần và đánh giá thoái triển tổn thương để loại trừ ung thư phổi (mục 5.6.3).",
-  "ATS 2025: không dùng corticoid cho viêm phổi không nặng nằm viện (khuyến cáo mạnh); có thể dùng kháng sinh dưới 5 ngày (tối thiểu 3 ngày) khi đã ổn định lâm sàng. QĐ 2147: phế cầu điều trị đến khi hết sốt 3–5 ngày, tối thiểu 5 ngày."
+  "Đờm lẫn máu ở người cao tuổi hút thuốc: xét nghiệm lao (QĐ 2147 Bảng 2.1), còn nghi lao thì tránh fluoroquinolon (QĐ 162/2024 Sơ đồ 1); sau ra viện đánh giá thoái triển để loại trừ ung thư phổi (QĐ 2147 mục 5.6.3).",
+  "Thời gian kháng sinh: phế cầu tối thiểu 5 ngày (QĐ 2147 mục 5.4.1.1); ATS 2025 câu hỏi 3 cho phép < 5 ngày ở thể không nặng đã ổn định nhưng Bảng 1 coi tràn dịch cận viêm phổi, nhiễm khuẩn huyết là lý do không rút ngắn. Không corticoid ở thể không nặng (ATS 2025 câu hỏi 4)."
  ],
  "nguon": [
-  "Bộ Y tế. QĐ 2147/QĐ-BYT ngày 15/7/2026 – Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn (thay QĐ 4815/2020) – ĐÃ ĐỌC nguyên văn mục 3.1, 3.2, 3.4, 5.2, 5.3, 5.5, 5.6, Bảng 2.1, Bảng 4.4 (tai_lieu/2_ho_hap_tmh_mat/TL-0121)",
-  "Hội Hô hấp Việt Nam. Hướng dẫn chẩn đoán và điều trị VPMPCĐ ở người lớn, bản cập nhật 2025 – cùng nội dung với QĐ 2147",
-  "ATS 2025. Diagnosis and Management of CAP. Am J Respir Crit Care Med 2025;212(1):24-44 – ĐÃ ĐỌC phần khuyến cáo (thời gian kháng sinh, corticoid)",
-  "ATS/IDSA 2019. Diagnosis and Treatment of Adults with CAP. Am J Respir Crit Care Med 2019;200(7):e45-e67 – đã đối chiếu phác đồ nội trú, procalcitonin, X-quang theo dõi",
-  "NICE NG237 (2024). Suspected acute respiratory infection in over 16s – ĐÃ ĐỌC mục 1.1–1.3",
-  "Bộ Y tế – QĐ 4235/QĐ-BYT 2012 hướng dẫn chẩn đoán và điều trị bệnh hô hấp – ĐÃ ĐỌC mục viêm phổi mắc phải cộng đồng (CURB-65, phác đồ theo mức độ, hạ sốt), thuốc giảm ho (TL-0131)",
-  "Hội Hô hấp Việt Nam 2025 – ĐÃ ĐỌC mục 6.2 tiêm phòng vắc xin cúm, phế cầu",
-  "Thang Wells thuyên tắc phổi, D-dimer hiệu chỉnh theo tuổi, hướng dẫn lao QĐ 162/2024, dự phòng huyết khối: CHƯA có trong tài liệu đã tải; các chi tiết này không được dùng làm căn cứ chấm điểm"
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 2.1.5, 2.2, 3.1–3.5, 4.1, 4.4, 4.5, 5.2–5.6, 6.1–6.2; Bảng 2.1, 3.1, 3.2, 4.4, 5.1; Phụ lục 1, 3",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Bệnh hô hấp – bài Ho kéo dài mục 3.2; bài VPMPCĐ mục 2.1.1, 2.5, 3.2.2; bài Viêm phổi bệnh viện mục 3.4",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Bệnh lao – Phần II mục 1 (Bảng 1), 3.2, Sơ đồ 1, 2",
+  "TL-0126 · QĐ 3908/QĐ-BYT 2023 – Dự phòng TTHKTM – Chương 3, Bảng 8, 9, 11",
+  "TL-0280 · QĐ 2388/QĐ-BYT 2024 – Bệnh thận mạn – mục 7.7.2.1 (Cockcroft–Gault)",
+  "TL-0001 · TT 06/2026/TT-BYT – ICD-10 – Phụ lục, mã J13, J18.1",
+  "Hội Hô hấp Việt Nam 2025 – Hướng dẫn VPMPCĐ người lớn (kho cũ, 01 Hô hấp cấp tính/Hội VN) – mục 6.2.1–6.2.2",
+  "TL-0141 · ATS 2025 – Diagnosis and Management of CAP – câu hỏi 3, 4, Bảng 1",
+  "TL-0153 · ATS/IDSA 2019 – Adults with CAP – câu hỏi 1, 2, 5, 15, 16",
+  "NICE NG250 (2025) – Pneumonia (kho cũ, 01 Hô hấp cấp tính/Quốc tế) – khuyến cáo 1.2.9, Box 2, 1.4.6, 1.5.1–1.5.5, 1.6.3, 1.8.1, 1.10.1, 1.12.1–1.12.2",
+  "TL-0146 · NICE NG237 – Suspected acute respiratory infection in over 16s – khuyến cáo 1.3.1–1.3.3",
+  "TL-0089 · ESC/ERS 2019 – Acute pulmonary embolism – Bảng 3, 5, mục 4.4, 4.4.1",
+  "TL-0045 · AHA/ACC/CHEST… 2026 – Acute pulmonary embolism – mục 3.1.1, Bảng 3",
+  "TL-0148 · BTS 2023 – Pleural disease – phần Pleural infection",
+  "TL-0296 · ADA Standards of Care 2026 – Bảng 2.1, khuyến cáo 16.1",
+  "TL-0445 · WHO 2025 – Meningitis – chỉ câu về hình thái nhuộm Gram phế cầu",
+  "Không có trong tài liệu đã tải: hướng dẫn tiêm chủng người lớn của BYT; ngưỡng SpO₂ đích riêng cho VPMPCĐ; thời gian macrolid cho thể trung bình; bề dày dịch màng phổi tối thiểu cần chọc"
  ],
  "ghi_chu_bien_tap": [
   "Bản 2 (2026-10-09): soạn lại toàn bộ theo đặc tả sổ cái. Bản thử nghiệm cũ có cờ đỏ quá rõ (lú lẫn, SpO₂ 91%, CURB-65 = 3), có amlodipin (sổ cái ghi không dùng thuốc), và chưa dùng biến 'sau ăn hải sản'. Bản cũ lưu ở kho/ca/_ban_cu/HH-0930_v0.3_thu_nghiem.json.",
   "Mục mới thêm vào danh mục dùng chung: khám 'di_bo_spo2'; cận lâm sàng 'sa_phoi', 'xpert', 'cay', 'pct', 'ddimer', 'ct_nguc'. Các ca khác không ghi các mục này sẽ coi là không cần (trừ 2 điểm), đúng ý đồ.",
   "Chỉ số phiếu bảng do Claude tự bổ sung cho khớp bệnh cảnh (công thức bạch cầu theo Neu 85%; MCV, MCH, MCHC tính từ Hb/Hct/RBC; eGFR CKD-EPI 2021 từ creatinin 104, nam 79 tuổi; HCO₃⁻, BE tính từ pH/PaCO₂).",
   "Âm thanh (sửa 11/10/2026): đáy phổi phải dùng AT-PHOI-RAN-NO-01 = bản ghi ran nổ nhỏ hạt của người dùng (Fine Crackles.mp3), thay bản MEDZCOOL đã bỏ; đáy phổi trái AT-PHOI-BT-NL-01, tim AT-TIM-BT-NL-01 cũng là bản ghi của người dùng. Mô tả trong ca (ran nổ nhỏ hạt đáy phổi phải) khớp tệp, không phải sửa chữ. X-quang, ECG, siêu âm hiện bằng chữ theo quyết định chỉ dùng âm thanh.",
-  "2026-10-10: thêm đáp án chi tiết (dap_an) cho phiếu nhận xét; soát lại từng chi tiết theo tài liệu đã tải: bỏ mốc \"chụp lại X-quang sau 6–8 tuần\" (không có trong QĐ 2147), bỏ ngưỡng SpO₂ 92% và nhận định \"quinolon che lấp lao\" (không có nguồn), thay bằng câu chữ của QĐ 2147, QĐ 4235, HHHVN 2025."
+  "2026-10-10: thêm đáp án chi tiết (dap_an) cho phiếu nhận xét; soát lại từng chi tiết theo tài liệu đã tải: bỏ mốc \"chụp lại X-quang sau 6–8 tuần\" (không có trong QĐ 2147), bỏ ngưỡng SpO₂ 92% và nhận định \"quinolon che lấp lao\" (không có nguồn), thay bằng câu chữ của QĐ 2147, QĐ 4235, HHHVN 2025.",
+  "2026-10-11 (bản 3): soát nguồn với kho 576 tài liệu – ghi vị trí cho mọi liều, ngưỡng, tiêu chuẩn; sửa số mục sai; lấp chỗ trống (Wells/Geneva/D-dimer, lao, Padua, Clcr, X-quang 6 tuần, pH dịch màng phổi, ICD-10); HbA1c thành 'a', test cúm thành 'u', kháng sinh đường truyền, phác đồ ngoại trú theo Clcr, thêm 2 mục 'a'. Chi tiết: nhap/HH-0930_bao_cao.md; mâu thuẫn: nhap/HH-0930_mau_thuan.md."
  ]
 }

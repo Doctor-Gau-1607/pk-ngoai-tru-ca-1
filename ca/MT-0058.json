@@ -286,7 +286,7 @@
     "lyte": {
      "v": "e",
      "r": "Na 140 · K 4,0 · Cl 103 mmol/L",
-     "n": "K bình thường làm giảm khả năng cường aldosteron nguyên phát nhưng không loại trừ."
+     "n": "K bình thường không loại trừ cường aldosteron (AHA/ACC 2025 mục 3.2.3.1)."
     },
     "glu": {
      "v": "e",
@@ -306,7 +306,7 @@
     "uacr": {
      "v": "e",
      "r": "24 mg/g",
-     "n": "Xét nghiệm chuẩn để phát hiện tổn thương thận sớm (AHA 2025)."
+     "n": "Dưới 30 mg/g: chưa có albumin niệu (VSH/VNHA 2024 Bảng 11); xét nghiệm thường quy (AHA/ACC 2025 Bảng 6)."
     },
     "ua": {
      "v": "u",
@@ -316,7 +316,7 @@
      "v": "e",
      "r": "Nhịp xoang 90 l/p. Sokolow-Lyon 38 mm, sóng T dẹt nhẹ V5–V6: dày thất trái. Không ST chênh, không sóng Q.",
      "ab": 1,
-     "n": "Dày thất trái là tổn thương cơ quan đích. Cơ sở không có siêu âm nên ECG là công cụ duy nhất để phát hiện."
+     "n": "Sokolow-Lyon > 35 mm là dày thất trái (VSH/VNHA 2024 Bảng 11). Không có siêu âm nên ECG là công cụ duy nhất để phát hiện."
     },
     "echo": {
      "v": "u",
@@ -334,17 +334,19 @@
     },
     "holter_ha": {
      "v": "u",
-     "r": "HA trung bình 24 giờ 156/97 mmHg, ban đêm không trũng.",
+     "r": "HA trung bình 24 giờ 156/97 mmHg; HA ban đêm giảm 12% so với ban ngày.",
      "ab": 1,
-     "n": "Không bắt buộc khi HA phòng khám đã ≥ 160/100 và có tổn thương cơ quan đích."
+     "n": "Không bắt buộc: HA phòng khám 140–179/90–119 mmHg kèm tổn thương cơ quan đích đã đủ chẩn đoán (VSH/VNHA 2024 Hình 10)."
     },
     "tsh": {
-     "n": "Không có gợi ý cường giáp."
+     "v": "a",
+     "r": "TSH 1,6 mIU/L",
+     "n": "Thường quy theo ESC 2024 Bảng 8, AHA/ACC 2025 Bảng 6; QĐ 5904 Phần 1 Bước 2 không liệt kê. Làm hay không đều không trừ điểm."
     },
     "aldo": {
      "v": "a",
      "r": "Aldosteron 12 ng/dL · Hoạt tính renin 1,4 ng/mL/giờ · ARR 8,6 (dưới ngưỡng sàng lọc)",
-     "n": "ESC 2024: nên cân nhắc tầm soát cường aldosteron bằng renin và aldosteron cho mọi người lớn THA đã xác định (IIa). VSH/VNHA 2024 và AHA/ACC 2025 chỉ định khi có gợi ý (hạ kali, kháng trị, khởi phát sớm…). Làm thì không sai, không làm cũng không trừ điểm."
+     "n": "ESC 2024 Bảng khuyến cáo 13 (IIa): cân nhắc cho mọi người THA; AHA/ACC 2025 mục 3.2.3.1: bắt buộc khi kháng trị, hạ kali. Âm tính: renin ≥ 1 ng/mL/giờ, ARR < 30 (AHA/ACC 2025 mục 3.2.3.1). Chấm a (sổ mâu thuẫn)."
     },
     "trop": {
      "n": "Nặng ngực khi nghỉ, ngắn, không liên quan gắng sức, ECG không thiếu máu: không cần troponin."
@@ -369,15 +371,15 @@
     {
      "t": "Tăng huyết áp nguyên phát độ 2, chưa kiểm soát (tự ngưng thuốc), có dày thất trái",
      "ok": 1,
-     "n": "HA ≥ 160/100 nhiều lần, đã được chẩn đoán THA, không có gợi ý thứ phát; ECG dày thất trái."
+     "n": "HA ≥ 160/100 mmHg nhiều lần: độ 2 (QĐ 5904 Phần 1 Bước 3A); đã được chẩn đoán THA, không có gợi ý thứ phát; ECG dày thất trái."
     },
     {
      "t": "Tăng huyết áp thứ phát",
-     "n": "Chưa có chỉ điểm: khởi phát tuổi trung niên, có tiền sử gia đình, K bình thường, không âm thổi bụng, không triệu chứng từng cơn. Nghĩ lại nếu kháng trị hoặc hạ kali."
+     "n": "Không có chỉ điểm ở VSH/VNHA 2024 Đ2.4, Bảng 9 (khởi phát < 40 tuổi, hạ kali, kháng trị, cơn vã mồ hôi–đau đầu, âm thổi bụng): K 4,0 mmol/L, có tiền sử gia đình, hồi hộp chỉ khi bận việc. Nghĩ lại nếu kháng trị hoặc hạ kali."
     },
     {
      "t": "Cơn tăng huyết áp cấp cứu",
-     "n": "HA < 180/110 và không có tổn thương cơ quan đích cấp."
+     "n": "HA < 180/110 mmHg, không có tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1)."
     },
     {
      "t": "Hội chứng vành cấp",
@@ -385,34 +387,34 @@
     },
     {
      "t": "Tăng huyết áp áo choàng trắng",
-     "n": "HA cao ở nhiều nơi đo kèm dày thất trái: không phù hợp."
+     "n": "HA cao ở nhiều nơi đo kèm dày thất trái: đủ chẩn đoán THA thật (VSH/VNHA 2024 Hình 10)."
     }
    ],
    "xu_tri": [
     {
      "t": "Khởi trị phối hợp đôi liều thấp ức chế men chuyển (hoặc chẹn thụ thể) + chẹn kênh canxi, ví dụ perindopril 5 mg + amlodipin 5 mg, ưu tiên dạng viên phối hợp cố định",
      "v": "c",
-     "n": "VSH/VNHA 2024: khởi trị phối hợp đôi liều thấp; QĐ 3192/2010: THA từ độ 2 trở lên nên phối hợp 2 thuốc. ESC 2024: viên phối hợp cố định, khởi đầu liều thấp. Liều khởi đầu perindopril 5 mg, amlodipin 5 mg theo QĐ 5904/2019. AHA/ACC 2025: ưu tiên ức chế hệ RAS phối hợp chẹn kênh canxi dihydropyridin hoặc lợi tiểu giống thiazide."
+     "n": "QĐ 5904 Phần 1 mục C (sơ đồ tr. 5): THA độ 2 bắt đầu từ bước 2, C + A (amlodipin 5 mg + perindopril 5 mg), ưu tiên viên phối hợp. VSH/VNHA 2024 Bảng 4 (I, A); ESC 2024 Bảng khuyến cáo 16 (I, B)."
     },
     {
      "t": "Giảm muối còn khoảng 5 g muối (2 g natri) mỗi ngày: bớt nước mắm, nước canh và việc nếm nước dùng",
      "v": "c",
-     "n": "ESC 2024: hạn chế natri khoảng 2 g/ngày (khoảng 5 g muối). QĐ 5904/2019: chỉ nên ăn < 5 g muối/ngày; một tô phở bò bình dân đã có 3,32 g muối. Người nấu phở nếm nước dùng cả ngày là nguồn muối ẩn."
+     "n": "ESC 2024 Bảng khuyến cáo 15 (I, A): natri khoảng 2 g/ngày (khoảng 5 g muối). QĐ 5904 Phụ lục 3.2: một tô phở bò chín bình dân có 3,32 g muối. Nếm nước dùng cả ngày là nguồn muối ẩn."
     },
     {
      "t": "Hướng dẫn đo HA tại nhà bằng máy bắp tay, ghi sổ trước tái khám",
      "v": "c",
-     "n": "VSH 2022 khuyến cáo mạnh đo HA tại nhà."
+     "n": "ESC 2024 Bảng khuyến cáo 35 (I, B); VSH/VNHA 2024 Bảng 8 (I, B)."
     },
     {
      "t": "Hẹn tái khám sau 2–4 tuần, xét nghiệm lại K và creatinin",
      "v": "c",
-     "n": "VSH 2024: tái khám 2–4 tuần/lần trong 2–3 tháng đầu tới khi đạt mục tiêu."
+     "n": "VSH/VNHA 2024 Đ4.1: tái khám 2–4 tuần/lần trong 2–3 tháng đầu; AHA/ACC 2025 mục 5.2.8: điện giải, creatinin 2–4 tuần sau khi bắt đầu ức chế men chuyển."
     },
     {
      "t": "Giải thích mục tiêu HA dưới 130/80 mmHg và tác hại của việc tự ngưng thuốc",
      "v": "c",
-     "n": "VSH/VNHA 2024: mục tiêu < 130/80 mmHg nếu dung nạp (I, A); có thể thấp hơn tới < 120/70 ở người nguy cơ cao nếu dung nạp tốt và theo dõi sát."
+     "n": "VSH/VNHA 2024 Bảng 4: < 130/80 mmHg nếu dung nạp (I, A), < 120/70 ở người nguy cơ cao nếu dung nạp tốt (IIa, A); duy trì thuốc suốt đời (I, A)."
     },
     {
      "t": "Giải thích điện tim không có dấu thiếu máu cơ tim, dặn kiểu đau ngực cần đi cấp cứu ngay",
@@ -420,63 +422,66 @@
      "n": "Trả lời đúng nỗi lo thật thì người bệnh mới yên tâm điều trị THA."
     },
     {
-     "t": "Bắt đầu statin (atorvastatin 10–20 mg)",
+     "t": "Bắt đầu statin cường độ trung bình (atorvastatin 10–20 mg)",
      "v": "a",
-     "n": "Có thể cân nhắc khi có dày thất trái và LDL-C 3,6 mmol/L, hoặc để lượt sau. Tài liệu đã tải chưa có hướng dẫn rối loạn lipid máu cho người không ĐTĐ; liều atorvastatin khởi đầu 10 mg theo QĐ 5904."
+     "n": "Chấp nhận, chờ bác sĩ quyết: ESH 2023 mục 11.10.11.1 (I, A) khuyên statin liều trung bình cho người THA nguy cơ tăng; ACC/AHA 2026 mục 4.2.3.7 dựa vào nguy cơ PREVENT, tài liệu đã tải không có công cụ tính. Atorvastatin khởi đầu 10 mg (QĐ 5904 Phần 3 mục G); 10–20 mg là cường độ trung bình (ACC/AHA 2026 Bảng 6)."
     },
     {
      "t": "Đơn trị amlodipin 5 mg",
      "v": "w",
-     "n": "VSH/VNHA 2024 (I, A): THA đã xác định ≥ 140/90 mmHg khởi trị ngay bằng phối hợp đôi liều thấp. AHA/ACC 2025: HA cao hơn mục tiêu ≥ 20/10 mmHg nên khởi trị phối hợp, ưu tiên viên phối hợp cố định. 168/102 mmHg mà đơn trị là chưa đúng khuyến cáo."
+     "n": "QĐ 5904 Phần 1 mục C: THA độ 2 bắt đầu từ phối hợp 2 thuốc; VSH/VNHA 2024 Bảng 4 (I, A); AHA/ACC 2025 mục 5.2.4 (1, B-R)."
     },
     {
      "t": "Ngưng siro ho vì làm tăng huyết áp",
      "v": "w",
-     "n": "Bromhexin không làm tăng HA. Cần dặn tránh thuốc cảm có pseudoephedrin hoặc phenylephrin."
+     "n": "Bromhexin không có trong danh mục thuốc làm tăng HA (AHA/ACC 2025 Bảng 11; ESH 2023 Bảng 20). Cần tránh thuốc cảm có pseudoephedrin, phenylephrin."
     },
     {
      "t": "Chỉ thay đổi lối sống 3 tháng rồi đánh giá lại, chưa dùng thuốc",
      "v": "w",
-     "n": "VSH/VNHA 2024: điều trị thuốc ngay khi đã chẩn đoán THA. QĐ 3192/2010: THA độ 2 nên phối hợp 2 thuốc. Bà còn có dày thất trái."
+     "n": "QĐ 5904 Phần 1 mục A.5: khởi trị thuốc khi HA ≥ 140/90 mmHg ở người < 80 tuổi; VSH/VNHA 2024 Bảng 4 (I, A): thuốc ngay. Bà còn có dày thất trái."
     },
     {
      "t": "Dùng chẹn beta (atenolol, bisoprolol) làm thuốc đầu tay",
      "v": "w",
-     "n": "Chẹn beta chỉ dùng khi có chỉ định riêng (VSH 2024)."
+     "n": "Chỉ dùng khi có chỉ định bắt buộc (VSH/VNHA 2024 Hình 14.1; ESC 2024 Bảng khuyến cáo 16, I, A); QĐ 5904 Phần 3 mục G: khi không dung nạp lợi tiểu và ức chế men chuyển."
     },
     {
      "t": "Cho ngậm nifedipin tác dụng nhanh để hạ áp ngay",
      "v": "h",
-     "n": "QĐ 5904/2019: tránh dùng nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát. ESH 2023: tránh nifedipin ngậm dưới lưỡi."
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát; ESH 2023 mục 16.2 cũng vậy."
     },
     {
      "t": "Chuyển cấp cứu điều trị cơn tăng huyết áp",
      "v": "w",
-     "n": "QĐ 5904/2019: xử trí cấp cứu khi HA ≥ 200/120, hoặc ≥ 180/110 kèm biểu hiện tổn thương cơ quan cấp (đau ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú…). Bà 168/102, không có các biểu hiện đó."
+     "n": "Không đủ tiêu chuẩn (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2)."
     }
    ],
    "dap_an": {
     "thanh_phan_chan_doan": [
-     "Tăng huyết áp nguyên phát, HA 168/102 mmHg (độ 2 theo QĐ 3192)",
+     "Tăng huyết áp nguyên phát độ 2, HA 168/102 mmHg",
      "Chưa kiểm soát do tự ngưng thuốc",
-     "Tổn thương cơ quan đích: dày thất trái trên ECG",
+     "Tổn thương cơ quan đích: dày thất trái trên ECG; nguy cơ tim mạch cao",
+     "Kèm: tiền đái tháo đường, LDL-C 3,6 mmol/L, béo bụng",
      "Không phải cơn THA cấp cứu, không có hội chứng vành cấp",
      "Chưa có chỉ điểm THA thứ phát"
     ],
     "phan_tich_chan_doan": [
-     "Vì sao là THA: năm ngoái đã được chẩn đoán và cho amlodipin; nay HA cao ở nhiều nơi đo (nhà thuốc 172/104, phòng khám 168/102); HA 24 giờ 156/97 mmHg nếu làm. QĐ 3192/2010 xếp 160–179/100–109 mmHg là độ 2.",
-     "Vì sao ghi \"chưa kiểm soát do tự ngưng thuốc\": uống 2 tháng thấy khỏe thì tự ngưng, không tái khám. Ghi rõ nguyên nhân giúp nhắm đúng việc phải làm: giáo dục tuân thủ.",
-     "Vì sao có dày thất trái: ECG Sokolow-Lyon 38 mm, T dẹt V5–V6. Ngưỡng Sokolow-Lyon > 35 mm (ESH 2023, ESC 2024). Siêu âm nếu làm: IVSd 12 mm, dày đồng tâm. Đây là tổn thương cơ quan đích, làm thay đổi mức nguy cơ và quyết định dùng thuốc ngay.",
-     "Vì sao không phải cơn THA cấp cứu: QĐ 5904/2019 chỉ xử trí cấp cứu khi HA ≥ 200/120 mmHg, hoặc ≥ 180/110 kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú, suy tim…; bà 168/102 và không có các biểu hiện đó.",
+     "Vì sao là THA: đã được chẩn đoán năm ngoái; nay HA cao ở nhiều nơi đo (nhà thuốc 172/104, phòng khám 168/102); độ 2 là 160–179/100–109 mmHg (QĐ 5904 Phần 1 Bước 3A).",
+     "Vì sao ghi \"chưa kiểm soát do tự ngưng thuốc\": uống 2 tháng thấy khỏe thì ngưng, không tái khám (trái QĐ 5904 Phần 1 mục D.2). Ghi rõ nguyên nhân để nhắm đúng việc phải làm: giáo dục tuân thủ.",
+     "Vì sao có dày thất trái: Sokolow-Lyon 38 mm, ngưỡng > 35 mm (VSH/VNHA 2024 Bảng 11; ESC 2024 Hình 12); T dẹt V5–V6. Tổn thương cơ quan đích này xếp bà vào nguy cơ tim mạch cao (QĐ 5904 Phần 1 Bước 3B mục 2c; VSH/VNHA 2024 Bảng 2).",
+     "Khó thở khi lên gác chỉ lộ ra khi hỏi theo chức năng: chưa có dấu suy tim (không phù, không khó thở khi nằm, không ran, không T3); không có siêu âm nên theo dõi ở lượt sau.",
+     "Vì sao không phải cơn THA cấp cứu: cần HA ≥ 180/110 mmHg kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1); QĐ 5904 Phần 3 mục D.1: ≥ 200/120, hoặc ≥ 180/110 kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú. Bà 168/102, không có các biểu hiện đó.",
      "Vì sao không nghĩ hội chứng vành cấp: nặng ngực vài phút lúc ngồi tính tiền, lúc lo việc; bưng bê, leo cầu thang không đau; ECG không ST chênh, không sóng Q. Đây cũng là nỗi lo thật của bà (hàng xóm mới mất vì nhồi máu cơ tim).",
-     "Vì sao chưa nghĩ THA thứ phát: không có cơn đau đầu vã mồ hôi, không yếu cơ, chuột rút; K 4,0 mmol/L; ARR 8,6 (dưới ngưỡng sàng lọc) nếu làm. Dữ kiện kèm theo nên ghi nhận: LDL-C 3,6 mmol/L, HbA1c 5,8% (ADA 2026 mục 2: 5,7–6,4% là tiền ĐTĐ)."
+     "Vì sao chưa nghĩ THA thứ phát: không có gợi ý ở VSH/VNHA 2024 Bảng 9; K 4,0 mmol/L; ARR 8,6 nếu làm (ngưỡng 30, AHA/ACC 2025 mục 3.2.3.1). Yếu tố nguy cơ kèm: LDL-C 3,6 mmol/L; HbA1c 5,8%, glucose đói 5,9 mmol/L là tiền ĐTĐ (QĐ 5904 Phần 2 Bước 3B; ADA 2026 Bảng 2.2); vòng eo 88 cm, ngưỡng nữ < 80 cm (QĐ 5904 Phần 1 mục D.1b)."
     ],
     "phan_tich_xu_tri": [
-     "Dùng thuốc ngay và phối hợp đôi từ đầu: VSH/VNHA 2024 khuyên điều trị thuốc ngay khi đã chẩn đoán THA và khởi trị phối hợp đôi liều thấp; QĐ 3192/2010: THA từ độ 2 trở lên nên phối hợp 2 thuốc. Đơn trị amlodipin, hoặc chỉ thay đổi lối sống 3 tháng, đều chưa đúng.",
-     "Chọn ức chế men chuyển + chẹn kênh canxi: VSH/VNHA 2024 điều trị dựa trên A, C, D, chẹn beta (B) chỉ khi có chỉ định riêng; AHA/ACC 2025 ưu tiên ức chế hệ RAS phối hợp chẹn kênh canxi dihydropyridin. ESC 2024 khuyên dùng viên phối hợp cố định để tăng tuân thủ; ESC 2024 và VSH/VNHA 2024 khuyên uống thuốc ngày 1 lần vào lúc thuận tiện nhất để thành thói quen.",
-     "Mục tiêu và theo dõi: < 130/80 mmHg nếu dung nạp (VSH/VNHA 2024). QĐ 5904 dặn kiểm tra creatinin và kali trước khi dùng ức chế men chuyển; vì vậy hẹn xét nghiệm lại khi tái khám sau 2–4 tuần.",
-     "Không dùng: nifedipin tác dụng nhanh ngậm dưới lưỡi (QĐ 5904: hạ HA mạnh, khó kiểm soát), chuyển cấp cứu (không đủ tiêu chuẩn), chẹn beta đầu tay (VSH 2024). Siro bromhexin không làm tăng HA; thuốc cần tránh là thuốc co mạch chống nghẹt mũi như phenylephrin, pseudoephedrin (AHA/ACC 2025).",
-     "Tư vấn lối sống cụ thể cho nghề của bà: hạn chế natri khoảng 2 g/ngày (khoảng 5 g muối; ESC 2024). QĐ 5904 ghi một tô phở bò bình dân đã có 3,32 g muối. Bớt nước mắm, không húp hết nước canh, hạn chế nếm nước dùng.",
+     "Dùng thuốc ngay, phối hợp đôi từ đầu: QĐ 5904 Phần 1 mục C (sơ đồ tr. 5) cho THA độ 2 bắt đầu từ bước 2 (C + A: perindopril 5 mg, amlodipin 5 mg); VSH/VNHA 2024 Bảng 4 (I, A). Đơn trị hoặc chỉ thay đổi lối sống đều chưa đúng.",
+     "Chọn ức chế men chuyển + chẹn kênh canxi: ESC 2024 Bảng khuyến cáo 16 (I, B), VSH/VNHA 2024 Hình 4; chẹn beta chỉ khi có chỉ định bắt buộc. Ức chế RAS còn giảm phù do chẹn kênh canxi (ESH 2023 mục 11.10.9). Viên phối hợp, uống 1 lần/ngày tăng tuân thủ (AHA/ACC 2025 mục 5.2.5).",
+     "Mục tiêu < 130/80 mmHg (VSH/VNHA 2024 Bảng 4), đạt trong 1–3 tháng (ESC 2024 Hình 18). Creatinin, kali trước khi dùng ức chế men chuyển (QĐ 5904 Phần 3 mục G) và 2–4 tuần sau (AHA/ACC 2025 mục 5.2.8).",
+     "Không dùng: nifedipin ngậm dưới lưỡi, chuyển cấp cứu, chẹn beta đầu tay. Bromhexin không có trong danh mục thuốc làm tăng HA; cần tránh thuốc co mạch chống nghẹt mũi và NSAID (AHA/ACC 2025 Bảng 11).",
+     "Lối sống theo nghề: natri khoảng 2 g/ngày, tức khoảng 5 g muối (ESC 2024 Bảng khuyến cáo 15); một tô phở bò chín bình dân có 3,32 g muối (QĐ 5904 Phụ lục 3.2). Bớt nước mắm, không húp nước canh, hạn chế nếm nước dùng; giảm vòng eo.",
+     "Mỡ máu: statin ngay hay để lượt sau đều chấp nhận (ESH 2023 mục 11.10.11.1; ACC/AHA 2026 mục 4.2.3.7 cần nguy cơ PREVENT, chưa tính được). Tiền ĐTĐ: tư vấn lối sống cùng THA.",
      "Trả lời nỗi lo thật: giải thích ECG không có dấu thiếu máu cơ tim và dặn kiểu đau ngực phải đi cấp cứu ngay. Không làm việc này thì bà ra về vẫn sợ và dễ bỏ thuốc lần nữa."
     ],
     "don_thuoc": [
@@ -487,7 +492,7 @@
       "duong": "Uống",
       "thoi_diem": "Một giờ cố định mỗi ngày, chọn giờ bà dễ nhớ nhất",
       "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
-      "ghi_chu": "Liều khởi đầu 5 mg, liều duy trì 5–10 mg (QĐ 5904). Kiểm tra creatinin và kali trước khi dùng và khi tái khám; chống chỉ định khi có thai, tiền sử phù mạch; tác dụng phụ ho khan (QĐ 5904). Có thể thay bằng chẹn thụ thể (losartan khởi đầu 25 mg) nếu ho."
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; kiểm tra creatinin, kali trước khi dùng; chống chỉ định: có thai (bà tiền mãn kinh, cần hỏi), tiền sử phù mạch; tác dụng phụ: ho, tăng kali (QĐ 5904 Phần 3 mục G). Ho nhiều thì đổi losartan, khởi đầu 25 mg theo bảng thuốc Phần 3 mục G (sơ đồ Phần 1 mục C ghi 50 mg)."
      },
      {
       "thuoc": "Amlodipin",
@@ -496,17 +501,17 @@
       "duong": "Uống",
       "thoi_diem": "Cùng lúc với perindopril",
       "so_ngay": "Dùng lâu dài",
-      "ghi_chu": "Liều khởi đầu 5 mg, duy trì 5–10 mg (QĐ 5904). Tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904). Nếu có viên phối hợp cố định perindopril/amlodipin thì dùng một viên (ESC 2024: viên phối hợp tăng tuân thủ)."
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Có viên phối hợp perindopril/amlodipin thì dùng một viên (QĐ 5904 Phần 1 mục C); hàm lượng viên tại Việt Nam không có trong tài liệu đã tải."
      }
     ],
     "dan_do": [
-     "Uống thuốc mỗi ngày vào một giờ cố định, kể cả khi thấy khỏe; tự ngưng thuốc là lý do HA lên lại (ESC 2024: uống giờ thuận tiện nhất để thành thói quen).",
-     "Giảm muối còn dưới 5 g/ngày: bớt chấm nước mắm, không húp hết nước canh, hạn chế nếm nước dùng; một tô phở đã có khoảng 3,3 g muối (QĐ 5904, ESC 2024).",
-     "Đo HA tại nhà bằng máy bắp tay: ngồi nghỉ 5 phút, không cà phê, thuốc lá, gắng sức trong 30 phút trước; đo 2 lần cách 1–2 phút, buổi sáng trước ăn và trước uống thuốc, buổi tối; ghi sổ ít nhất 3–7 ngày trước tái khám (ESC 2024).",
-     "Không tự mua thuốc cảm, thuốc chống nghẹt mũi có phenylephrin, pseudoephedrin; tránh thuốc giảm đau nhóm NSAID (AHA/ACC 2025). Siro bromhexin đang uống không làm tăng HA.",
-     "Vận động mức vừa ít nhất 30 phút/ngày, 5 ngày/tuần (QĐ 5904).",
-     "Đi cấp cứu ngay nếu đau ngực dữ dội hoặc kéo dài, đau đầu dữ dội, nhìn mờ, yếu tê nửa người, méo miệng, nói khó (QĐ 5904 mục xử trí cấp cứu THA).",
-     "Tái khám sau 2–4 tuần, mang sổ đo HA; xét nghiệm lại kali, creatinin (VSH/VNHA 2024; QĐ 5904)."
+     "Uống thuốc mỗi ngày vào một giờ cố định, kể cả khi thấy khỏe; tự ngưng thuốc là lý do HA lên lại (QĐ 5904 Phần 1 mục D.2).",
+     "Giảm muối dưới 5 g/ngày: bớt chấm nước mắm, không húp hết nước canh, hạn chế nếm nước dùng; một tô phở đã có khoảng 3,3 g muối (QĐ 5904 Phụ lục 3.2).",
+     "Đo HA tại nhà bằng máy bắp tay: ngồi nghỉ 5 phút, không cà phê, thuốc lá, gắng sức 30 phút trước; đo 2 lần cách 1–2 phút, sáng (trước ăn, trước uống thuốc) và tối, 3–7 ngày trước tái khám, ghi sổ (ESC 2024 Hình 4; VSH/VNHA 2024 Đ1.2.2).",
+     "Không tự mua thuốc cảm, thuốc chống nghẹt mũi có phenylephrin, pseudoephedrin; tránh thuốc giảm đau nhóm NSAID (AHA/ACC 2025 Bảng 11). Siro bromhexin không làm tăng HA.",
+     "Vận động mức vừa ít nhất 30 phút/ngày, 5 ngày/tuần (QĐ 5904 Phần 3 mục F.4); giảm cân để vòng eo dưới 80 cm (QĐ 5904 Phần 1 mục D.1b).",
+     "Đi cấp cứu ngay nếu đau ngực dữ dội hoặc kéo dài, đau đầu dữ dội, nhìn mờ, yếu tê nửa người, méo miệng, nói khó (QĐ 5904 Phần 3 mục D.1).",
+     "Tái khám sau 2–4 tuần, mang sổ đo HA; xét nghiệm lại kali, creatinin (VSH/VNHA 2024 Đ4.1; AHA/ACC 2025 mục 5.2.8)."
     ]
    }
   },
@@ -634,7 +639,7 @@
     "creat": {
      "v": "e",
      "r": "Creatinin 80 µmol/L (lượt 1: 72) · eGFR 77 mL/ph/1,73m²",
-     "n": "Tăng dưới 30% sau ức chế men chuyển: chấp nhận được."
+     "n": "Tăng 11%: trong mức dự kiến khi dùng ức chế RAS (AHA/ACC 2025 mục 5.2.9: eGFR có thể giảm tới 30%); đang uống thêm NSAID (AHA/ACC 2025 Bảng 17) nên ngưng NSAID, kiểm tra lại."
     },
     "lyte": {
      "v": "e",
@@ -644,12 +649,12 @@
      "v": "u",
      "r": "HA trung bình 24 giờ 148/93 mmHg",
      "ab": 1,
-     "n": "Khẳng định HA chưa kiểm soát ngoài phòng khám."
+     "n": "Khẳng định HA chưa kiểm soát ngoài phòng khám (VSH/VNHA 2024 Bảng 8)."
     },
     "aldo": {
      "v": "a",
      "r": "Aldosteron 13 ng/dL · Hoạt tính renin 1,2 ng/mL/giờ · ARR 10,8 (không tăng)",
-     "n": "ESC 2024 (IIa): cân nhắc tầm soát cho mọi người THA đã xác định. AHA/ACC 2025 (I): bắt buộc tầm soát khi THA kháng trị, kể cả kali bình thường. Ở đây chưa phải kháng trị (chưa tuân thủ, còn NSAID, còn ăn mặn) nên sửa các nguyên nhân đó trước; làm thì không sai."
+     "n": "Chưa kháng trị nên không bắt buộc (AHA/ACC 2025 mục 3.2.3.1); làm không sai (ESC 2024 Bảng khuyến cáo 13, IIa). Ức chế men chuyển làm ARR âm tính giả, NSAID làm dương tính giả (ESC 2024 Bảng 12)."
     },
     "echo": {
      "n": "Phù mắt cá do amlodipin, không có dấu suy tim."
@@ -663,11 +668,11 @@
     },
     {
      "t": "THA kháng trị",
-     "n": "Phải loại trừ không tuân thủ, đo sai và thuốc gây tăng HA, và đã dùng đủ liều ít nhất 3 thuốc có lợi tiểu."
+     "n": "Phải loại trừ không tuân thủ, đo sai, thuốc gây tăng HA, THA thứ phát, và đã dùng đủ liều ≥ 3 thuốc có lợi tiểu (VSH/VNHA 2024 Hình 14.1; AHA/ACC 2025 mục 5.6)."
     },
     {
      "t": "THA thứ phát do cường aldosteron nguyên phát",
-     "n": "K bình thường, chưa kháng trị, đã có nguyên nhân giải thích việc không đáp ứng."
+     "n": "Chưa kháng trị, không hạ kali, đã có nguyên nhân giải thích việc không đáp ứng (AHA/ACC 2025 mục 3.2.3.1)."
     },
     {
      "t": "Phù do suy tim",
@@ -678,57 +683,57 @@
     {
      "t": "Ngưng diclofenac, giảm đau lưng bằng paracetamol",
      "v": "c",
-     "n": "ESH 2023 (Bảng 20): NSAID làm tăng HA phụ thuộc liều; AHA/ACC 2025: tránh NSAID toàn thân khi có thể, paracetamol giới hạn < 4 g/ngày. ESH 2023: NSAID có thể làm tăng HA hoặc đối kháng tác dụng hạ áp của thuốc điều trị."
+     "n": "ESH 2023 Bảng 20: NSAID tăng HA phụ thuộc liều; AHA/ACC 2025 Bảng 11: tránh NSAID toàn thân, paracetamol < 4 g/ngày; Bảng 17: NSAID cùng ức chế men chuyển có nguy cơ tổn thương thận cấp."
     },
     {
      "t": "Tư vấn tuân thủ: uống cố định giờ gắn với việc hằng ngày, hộp chia thuốc theo ngày",
      "v": "c",
-     "n": "Không tuân thủ là nguyên nhân hàng đầu của THA không kiểm soát."
+     "n": "AHA/ACC 2025 mục 5.2.5: tới 50% người bệnh không tuân thủ sau 1 năm; nhắc nhở, giáo dục tự quản lý giúp tăng tuân thủ (2a, B-R)."
     },
     {
      "t": "Chuyển phối hợp ba thuốc liều thấp: perindopril 5 mg + amlodipin 5 mg + indapamid SR 1,5 mg (ưu tiên viên phối hợp cố định nếu có)",
      "v": "c",
-     "n": "VSH/VNHA 2024: phối hợp đôi không đạt thì chuyển phối hợp ba liều thấp; ESC 2024 (Hình 18): đôi rồi ba thuốc liều thấp. Liều indapamid SR 1,5 mg theo QĐ 5904. Thêm lợi tiểu thay vì tăng amlodipin vì bà đang phù mắt cá, tác dụng phụ của amlodipin (QĐ 5904)."
+     "n": "QĐ 5904 Phần 1 mục C (sơ đồ tr. 5) bước 3: C + A + D (indapamid 1,5 mg); VSH/VNHA 2024 Hình 4; ESC 2024 Bảng khuyến cáo 16 (I, B). Thêm lợi tiểu thay vì tăng amlodipin vì đang phù mắt cá (QĐ 5904 Phần 3 mục G)."
     },
     {
      "t": "Hướng dẫn đo HA tại nhà bằng máy bắp tay, ngồi nghỉ 5 phút, không đo ngay sau gắng sức",
      "v": "c",
-     "n": "ESC 2024: đo bằng máy bắp tay, ngồi nghỉ 5 phút, tránh gắng sức, cà phê, thuốc lá 30 phút trước khi đo; đo 2 lần cách 1–2 phút, sáng (trước ăn, trước uống thuốc) và tối, ít nhất 3 ngày, tốt nhất 7 ngày. Đo ngay sau bưng nồi nước dùng làm HA cao giả."
+     "n": "ESC 2024 mục 5.2.3, Hình 4: máy bắp tay, ngồi nghỉ 5 phút, tránh gắng sức, cà phê, thuốc lá 30 phút trước. Đo ngay sau bưng nồi nước dùng làm HA cao giả."
     },
     {
      "t": "Tái khám 4 tuần, kiểm tra K và creatinin sau 2 tuần",
      "v": "c",
-     "n": "Theo dõi sau khi thêm lợi tiểu."
+     "n": "AHA/ACC 2025 mục 5.2.8: điện giải, creatinin 2–4 tuần sau khi bắt đầu lợi tiểu; QĐ 5904 Phần 1 mục C: tái khám sau 4 tuần."
     },
     {
      "t": "Tầm soát aldosteron/renin",
      "v": "a",
-     "n": "Không sai (ESC 2024 IIa), nhưng ưu tiên sửa không tuân thủ, NSAID, muối trước."
+     "n": "Không sai (ESC 2024 Bảng khuyến cáo 13, IIa), nhưng ưu tiên sửa không tuân thủ, NSAID, muối trước; thuốc đang dùng làm kết quả khó diễn giải (ESC 2024 Bảng 12)."
     },
     {
      "t": "Thêm spironolacton",
      "v": "w",
-     "n": "Dành cho THA kháng trị thật."
+     "n": "Dành cho THA kháng trị thật sau phối hợp 3 thuốc có lợi tiểu (ESC 2024 Bảng khuyến cáo 16, IIa; AHA/ACC 2025 mục 5.6)."
     },
     {
      "t": "Tăng amlodipin lên 10 mg",
      "v": "w",
-     "n": "Phù mắt cá là tác dụng phụ của amlodipin (QĐ 5904); tăng liều không sửa được nguyên nhân chính (không tuân thủ, NSAID, muối). ESH 2023: phối hợp với thuốc ức chế hệ RAS làm giảm phù do chẹn kênh canxi."
+     "n": "Phù mắt cá là tác dụng phụ của amlodipin (QĐ 5904 Phần 3 mục G); tăng liều không sửa nguyên nhân chính (không tuân thủ, NSAID, muối)."
     },
     {
      "t": "Ngưng thuốc hạ áp vì gây phù chân",
      "v": "h",
-     "n": "Phù do amlodipin không nguy hiểm; ngưng thuốc làm HA tăng."
+     "n": "Phù do amlodipin là tác dụng phụ đã biết (QĐ 5904 Phần 3 mục G); ngưng thuốc trái khuyến cáo duy trì suốt đời (VSH/VNHA 2024 Bảng 4, I, A)."
     },
     {
      "t": "Truyền dịch hoặc tiêm thuốc hạ áp theo yêu cầu của bệnh nhân",
      "v": "h",
-     "n": "Không có chỉ định; tiêm hạ áp nhanh gây hại."
+     "n": "THA nặng không tổn thương cơ quan đích cấp không hạ áp mạnh, không dùng thuốc tiêm (AHA/ACC 2025 mục 6.2)."
     },
     {
      "t": "Chuyển tuyến chuyên khoa vì THA kháng trị",
      "v": "w",
-     "n": "Chưa đủ tiêu chuẩn kháng trị."
+     "n": "QĐ 5904 Phần 1 Bước 4A.3: chuyển khi không đạt mục tiêu dù đủ ≥ 3 thuốc có ít nhất 1 lợi tiểu."
     }
    ],
    "dap_an": {
@@ -741,16 +746,16 @@
     ],
     "phan_tich_chan_doan": [
      "Câu hỏi của lượt này là \"vì sao HA chưa đạt\", không phải \"bệnh gì\". Đáp án phải nêu được các nguyên nhân cụ thể, vì mỗi nguyên nhân có cách sửa riêng.",
-     "Không tuân thủ: vỉ thuốc phát 4 tuần còn 13 viên, hôm đông khách dậy từ 4 giờ thì quên. Đo sai: máy cổ tay mua ở chợ, đo ngay sau bưng nồi nước dùng; ESC 2024 yêu cầu máy bắp tay, ngồi nghỉ 5 phút, tránh gắng sức trước đo. Thuốc làm tăng HA: diclofenac 2 viên/ngày; ESH 2023 (Bảng 20) ghi NSAID làm tăng HA phụ thuộc liều. Muối: vẫn nếm nước dùng mỗi ngày.",
-     "Vì sao chưa phải THA kháng trị: VSH/VNHA 2024 định nghĩa THA kháng trị thật sự là HA ≥ 140/90 mmHg dù đã dùng liều tối ưu của phác đồ có lợi tiểu (điển hình là A + C + D), được xác nhận bằng HA lưu động hoặc HA tại nhà, sau khi loại trừ THA giả kháng trị (đặc biệt là kém tuân thủ) và THA thứ phát. Bà mới dùng 2 thuốc, chưa có lợi tiểu và chưa uống đều.",
-     "Vì sao không nghĩ cường aldosteron: K 4,2 mmol/L, ARR 10,8 không tăng nếu làm, và đã có nguyên nhân giải thích việc chưa đạt HA.",
-     "Phù mắt cá chiều, sáng hết, không khó thở về đêm, không ran: phù do amlodipin (QĐ 5904 ghi phù mắt cá là tác dụng phụ), không phải suy tim. Creatinin tăng nhẹ 72 → 80 µmol/L khi đang dùng ức chế men chuyển và NSAID: theo dõi tiếp."
+     "Không tuân thủ: vỉ thuốc 4 tuần còn 13 viên, hôm đông khách thì quên (QĐ 5904 Phần 1 mục C bước 4: kiểm tra dùng thuốc đúng, đủ, đều). Đo sai: máy cổ tay, đo ngay sau bưng nồi nước dùng (ESC 2024 Hình 4: máy bắp tay, nghỉ 5 phút). Thuốc làm tăng HA: diclofenac 2 viên/ngày (ESH 2023 Bảng 20). Muối: vẫn nếm nước dùng mỗi ngày.",
+     "Vì sao chưa phải THA kháng trị: cần HA ≥ 140/90 mmHg dù đã dùng liều tối ưu phác đồ có lợi tiểu (điển hình A + C + D), xác nhận bằng HA ngoài phòng khám, sau khi loại trừ giả kháng trị và THA thứ phát (VSH/VNHA 2024 Hình 14.1). Bà mới dùng 2 thuốc, chưa uống đều.",
+     "Vì sao không nghĩ cường aldosteron: K 4,2 mmol/L, ARR 10,8 nếu làm (ngưỡng 30, AHA/ACC 2025 mục 3.2.3.1; ức chế men chuyển có thể gây âm tính giả, ESC 2024 Bảng 12) và đã có nguyên nhân giải thích. Nếu thành kháng trị thì bắt buộc tầm soát.",
+     "Phù mắt cá chiều, sáng hết, không khó thở về đêm, không ran: phù do amlodipin (QĐ 5904 Phần 3 mục G), không phải suy tim. Creatinin 72 → 80 µmol/L (tăng 11%): trong mức dự kiến khi dùng ức chế RAS (AHA/ACC 2025 mục 5.2.9; ESH 2023 mục 5.5.3), nhưng đang có NSAID nên ngưng và kiểm tra lại."
     ],
     "phan_tich_xu_tri": [
-     "Sửa từng nguyên nhân trước khi tăng thuốc: ngưng diclofenac (ESH 2023, AHA/ACC 2025), giảm đau bằng paracetamol giới hạn < 4 g/ngày (AHA/ACC 2025); tư vấn tuân thủ (uống giờ cố định gắn với việc hằng ngày, hộp chia thuốc); hướng dẫn đo lại HA đúng cách (ESC 2024).",
-     "Tăng bậc điều trị: VSH/VNHA 2024 nói phối hợp đôi không đạt thì chuyển phối hợp ba liều thấp; ESC 2024 Hình 18 cũng vậy. Chọn thêm lợi tiểu giống thiazide (indapamid SR 1,5 mg, QĐ 5904) thay vì tăng amlodipin lên 10 mg, vì bà đang phù mắt cá; ESH 2023 nêu phối hợp với ức chế hệ RAS làm giảm phù do chẹn kênh canxi.",
-     "Theo dõi sau khi thêm lợi tiểu: kiểm tra kali, creatinin (lợi tiểu thiazide có thể gây rối loạn điện giải, QĐ 5904), tái khám 4 tuần.",
-     "Những việc sai: thêm spironolacton hoặc chuyển chuyên khoa vì \"THA kháng trị\" khi chưa đủ tiêu chuẩn; ngưng thuốc hạ áp vì phù (phù do amlodipin không nguy hiểm, ngưng thuốc làm HA tăng); truyền dịch hoặc tiêm hạ áp theo yêu cầu (không có chỉ định, hạ áp nhanh gây hại: QĐ 5904 tránh thuốc hạ HA mạnh khó kiểm soát). Tầm soát aldosteron/renin chấp nhận được (ESC 2024 IIa) nhưng chưa ưu tiên."
+     "Sửa từng nguyên nhân trước: ngưng diclofenac (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 17), giảm đau bằng paracetamol (QĐ 361/2014 bài Hội chứng đau thắt lưng mục 4.2.1); tư vấn tuân thủ: giờ cố định gắn với việc hằng ngày, hộp chia thuốc, nhắc nhở (AHA/ACC 2025 mục 5.2.5); đo lại HA đúng cách (ESC 2024 Hình 4).",
+     "Tăng bậc: QĐ 5904 Phần 1 mục C bước 3 (C + A + D, indapamid 1,5 mg); VSH/VNHA 2024 Hình 4 và ESC 2024 Bảng khuyến cáo 16 (I, B) cũng lên phối hợp ba. Thêm lợi tiểu giống thiazide thay vì tăng amlodipin lên 10 mg vì bà đang phù mắt cá.",
+     "Theo dõi: kali, natri, creatinin 2–4 tuần sau khi thêm lợi tiểu (AHA/ACC 2025 mục 5.2.8; QĐ 5904 Phần 3 mục G: lợi tiểu gây rối loạn điện giải); tái khám 4 tuần (QĐ 5904 Phần 1 mục C).",
+     "Những việc sai: thêm spironolacton hoặc chuyển tuyến vì \"THA kháng trị\" khi chưa đủ tiêu chuẩn (QĐ 5904 Phần 1 Bước 4A.3); ngưng thuốc vì phù; truyền dịch hoặc tiêm hạ áp theo yêu cầu (AHA/ACC 2025 mục 6.2). Tầm soát aldosteron/renin chấp nhận được (ESC 2024 Bảng khuyến cáo 13) nhưng chưa ưu tiên."
     ],
     "don_thuoc": [
      {
@@ -760,7 +765,7 @@
       "duong": "Uống",
       "thoi_diem": "Một giờ cố định mỗi ngày, gắn với việc làm hằng ngày",
       "so_ngay": "Dùng lâu dài",
-      "ghi_chu": "Giữ liều (QĐ 5904: khởi đầu 5 mg, duy trì 5–10 mg)."
+      "ghi_chu": "Giữ liều (QĐ 5904 Phần 3 mục G: khởi đầu 5 mg, duy trì 5–10 mg)."
      },
      {
       "thuoc": "Amlodipin",
@@ -769,7 +774,7 @@
       "duong": "Uống",
       "thoi_diem": "Cùng lúc",
       "so_ngay": "Dùng lâu dài",
-      "ghi_chu": "Không tăng lên 10 mg vì đang phù mắt cá (QĐ 5904: phù mắt cá là tác dụng phụ)."
+      "ghi_chu": "Giữ 5 mg, không tăng vì đang phù mắt cá (QĐ 5904 Phần 3 mục G)."
      },
      {
       "thuoc": "Indapamid SR",
@@ -777,26 +782,26 @@
       "lieu": "1,5 mg × 1 lần/ngày",
       "duong": "Uống",
       "thoi_diem": "Buổi sáng, cùng lúc với hai thuốc trên",
-      "so_ngay": "Dùng lâu dài; kiểm tra kali, creatinin sau 2 tuần",
-      "ghi_chu": "Liều theo QĐ 5904. Tác dụng phụ: tiểu nhiều, rối loạn điện giải (QĐ 5904). Ưu tiên viên phối hợp ba thuốc cố định nếu có (ESC 2024; VSH/VNHA 2024). Uống buổi sáng để tránh tiểu đêm là thực hành thường gặp, tài liệu đã tải không nêu."
+      "so_ngay": "Dùng lâu dài; kiểm tra kali, natri, creatinin sau 2 tuần",
+      "ghi_chu": "Khởi đầu 1,5 mg; tác dụng phụ: tiểu nhiều, rối loạn điện giải (QĐ 5904 Phần 3 mục G). Ưu tiên viên phối hợp ba thuốc nếu có (VSH/VNHA 2024 Hình 4). Uống buổi sáng: ESH 2023 mục 11.10.10.1 khuyên uống thuốc hạ áp buổi sáng vì tuân thủ tốt hơn."
      },
      {
       "thuoc": "Paracetamol",
       "ham_luong": "Viên 0,5 g",
-      "lieu": "1 viên mỗi lần",
+      "lieu": "1–2 viên (0,5–1 g) mỗi lần, tối đa 3 lần/ngày",
       "duong": "Uống",
-      "thoi_diem": "Khi đau lưng",
-      "so_ngay": "Ngắn ngày, khi cần; tổng < 4 g/ngày",
-      "ghi_chu": "Thay diclofenac. AHA/ACC 2025: giới hạn paracetamol < 4 g/ngày; ESH 2023: dùng paracetamol gần như hằng ngày liên quan tăng nguy cơ THA (RR 1,34) nên chỉ dùng khi cần. Liều mỗi lần theo QĐ 4235 (0,5 g/lần)."
+      "thoi_diem": "Sau ăn, khi đau lưng",
+      "so_ngay": "Ngắn ngày, khi cần; không quá 4 g/ngày",
+      "ghi_chu": "Thay diclofenac. QĐ 361/2014 (Hội chứng đau thắt lưng, mục 4.2.1): 0,5 g × 4–6 viên/24 giờ chia 3 lần sau ăn, tối đa 4000 mg/ngày. ESH 2023 Bảng 20: dùng gần như hằng ngày tăng nguy cơ THA (RR 1,34) nên chỉ dùng khi cần."
      }
     ],
     "dan_do": [
-     "Ngưng hẳn diclofenac và các thuốc giảm đau mua ngoài tiệm; đau lưng thì uống paracetamol khi cần (AHA/ACC 2025).",
+     "Ngưng hẳn diclofenac và thuốc giảm đau mua ngoài tiệm; đau lưng thì uống paracetamol khi cần (AHA/ACC 2025 Bảng 11).",
      "Uống thuốc vào một giờ cố định gắn với việc làm hằng ngày, dùng hộp chia thuốc theo ngày; hôm dậy sớm bán hàng vẫn uống.",
-     "Đo HA bằng máy bắp tay; ngồi nghỉ 5 phút, không đo ngay sau bưng bê, nấu nướng; đo sáng (trước ăn, trước uống thuốc) và tối, mỗi lần 2 lượt cách 1–2 phút (ESC 2024).",
-     "Tiếp tục giảm muối, hạn chế nếm nước dùng (ESC 2024; QĐ 5904).",
-     "Phù mắt cá do amlodipin không nguy hiểm, không tự ngưng thuốc; báo bác sĩ nếu khó thở, phù tăng.",
-     "Xét nghiệm kali, creatinin sau 2 tuần; tái khám sau 4 tuần mang sổ đo HA và vỉ thuốc."
+     "Đo HA bằng máy bắp tay; ngồi nghỉ 5 phút, không đo ngay sau bưng bê, nấu nướng; đo sáng và tối, mỗi lần 2 lượt cách 1–2 phút (ESC 2024 Hình 4).",
+     "Tiếp tục giảm muối, hạn chế nếm nước dùng (QĐ 5904 Phụ lục 3.2).",
+     "Phù mắt cá do amlodipin, không tự ngưng thuốc; khó thở, phù tăng hoặc tác dụng phụ khác thì báo ngay, không đợi đến hẹn (QĐ 5904 Phần 1 mục C).",
+     "Xét nghiệm kali, natri, creatinin sau 2 tuần; tái khám sau 4 tuần mang sổ đo HA và vỉ thuốc (AHA/ACC 2025 mục 5.2.8; QĐ 5904 Phần 1 mục C)."
     ]
    }
   }
@@ -804,34 +809,35 @@
  "ket_cuc": "Người bệnh tuân thủ, HA tại nhà về 132/84 mmHg sau 6 tuần. Tháng thứ 3, bà bị nhồi máu não ổ khuyết, yếu nhẹ tay phải, hồi phục gần hoàn toàn. Các quyết định đều đúng; điều trị THA giảm nguy cơ đột quỵ chứ không xóa được nguy cơ đã tích lũy nhiều năm.",
  "nhieu": [
   "Chuyến đi Nha Trang vùng có dịch sốt xuất huyết: không sốt, không đau cơ, không xuất huyết. Không liên quan.",
-  "Siro ho long đờm (bromhexin): không làm tăng HA. Điều đáng hỏi là thuốc cảm có chất co mạch."
+  "Siro ho long đờm (bromhexin): không có trong danh mục thuốc làm tăng HA (AHA/ACC 2025 Bảng 11). Điều đáng hỏi là thuốc cảm có chất co mạch."
  ],
  "bai_hoc_bien": [
   "Phủ nhận triệu chứng nặng: người bệnh trả lời 'không sao' khi được hỏi về cảm giác. Hỏi về việc làm được và không làm được cho câu trả lời thật hơn.",
-  "Không có siêu âm: ECG là công cụ phát hiện dày thất trái ở tuyến cơ sở. Độ nhạy thấp, nên ECG bình thường không loại trừ dày thất.",
+  "Không có siêu âm: ECG là công cụ phát hiện dày thất trái ở tuyến cơ sở; độ nhạy chỉ khoảng 40–50% (ESH 2023 mục 5.4.1) nên ECG bình thường không loại trừ dày thất.",
   "Động cơ thật là sợ nhồi máu cơ tim. Không hỏi ra thì người bệnh ra về vẫn lo và dễ bỏ điều trị.",
   "Không đỡ ở lượt 2: chạy quy trình thất bại điều trị trước khi gọi là kháng trị.",
   "Xử trí đúng nhưng diễn tiến xấu: đánh giá quyết định theo dữ kiện lúc ra quyết định, không theo kết cục."
  ],
  "diem_nho": [
-  "Chẩn đoán THA khi HA phòng khám ≥ 140/90 mmHg, xác nhận bằng HA tại nhà (≥ 135/85) hoặc HA 24 giờ (≥ 130/80).",
-  "Khi chẩn đoán, luôn đánh giá tổn thương cơ quan đích và nguy cơ tim mạch: creatinin và eGFR, điện giải, đường huyết, mỡ máu, albumin niệu, ECG.",
-  "VSH 2024: mục tiêu < 130/80 mmHg cho đa số. Khởi trị bằng phối hợp đôi liều thấp, ưu tiên viên phối hợp cố định; chưa đạt thì chuyển phối hợp ba có lợi tiểu.",
-  "HA không đạt mục tiêu: kiểm tra theo thứ tự (1) tuân thủ, đếm thuốc; (2) cách đo; (3) thuốc gây tăng HA như NSAID, thuốc cảm co mạch, corticoid, cam thảo; (4) muối, rượu; (5) rồi mới nghĩ THA kháng trị và THA thứ phát."
+  "Chẩn đoán THA khi HA phòng khám ≥ 140/90 mmHg, xác nhận bằng HA tại nhà (≥ 135/85) hoặc HA 24 giờ (≥ 130/80) (VSH/VNHA 2024 Đ1.1; ESC 2024 Bảng 5).",
+  "Khi chẩn đoán, đánh giá tổn thương cơ quan đích và nguy cơ tim mạch: creatinin, eGFR, điện giải, đường huyết, mỡ máu, albumin niệu, ECG (QĐ 5904 Phần 1 Bước 2).",
+  "Mục tiêu < 130/80 mmHg cho đa số (VSH/VNHA 2024 Bảng 4). THA độ 2 khởi trị phối hợp đôi, ưu tiên viên phối hợp; chưa đạt thì phối hợp ba có lợi tiểu (QĐ 5904 Phần 1 mục C; ESC 2024 Bảng khuyến cáo 16).",
+  "HA không đạt mục tiêu: trước khi gọi là kháng trị phải loại trừ đo sai, kém tuân thủ, thuốc làm tăng HA (NSAID, thuốc cảm co mạch, corticoid, cam thảo), ăn mặn, rượu, và tìm THA thứ phát (AHA/ACC 2025 mục 5.6; ESH 2023 mục 12.2)."
  ],
  "nguon": [
-  "VSH/VNHA 2024 – Chiến lược thực hành lâm sàng quản lý THA tại Việt Nam – ĐÃ ĐỌC mục khuyến cáo mục tiêu và khởi trị phối hợp, chỉ định tầm soát THA thứ phát (tai_lieu TL-0288)",
-  "VSH/VNHA 2022 – Khuyến cáo chẩn đoán và điều trị THA (J Clin Hypertens 2022) – bản tóm tắt (TL-0289)",
-  "ESC 2024 Guidelines for elevated blood pressure and hypertension – ĐÃ ĐỌC khuyến cáo tầm soát cường aldosteron, hạn chế natri, thuốc ảnh hưởng ARR (TL-0305)",
-  "2025 AHA/ACC Guideline for High Blood Pressure in Adults – ĐÃ ĐỌC khuyến cáo khởi trị phối hợp và tầm soát cường aldosteron (TL-0297)",
-  "Bộ Y tế – QĐ 3192/QĐ-BYT 2010 hướng dẫn chẩn đoán và điều trị THA (TL-0287)",
-  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 hướng dẫn quản lý bệnh không lây nhiễm tại trạm y tế – ĐÃ ĐỌC bảng thuốc thiết yếu (liều khởi đầu, duy trì, tác dụng phụ), xử trí cấp cứu THA, giảm muối (TL-0284)",
-  "ESH 2023 – ĐÃ ĐỌC Bảng 20 thuốc làm tăng HA, tiêu chuẩn dày thất trái trên ECG, phối hợp thuốc (TL-0312)"
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 2, 3A, 3B, 4A; Bước 5 mục A, C – sơ đồ tr. 5 xem trên PDF, D); Phần 2 Bước 3B; Phần 3 mục D.1, F.4, G; Phụ lục 3.2.",
+  "BYT – QĐ 3192/QĐ-BYT 2010, Chẩn đoán và điều trị THA – TL-0287 – Bảng 1; mục 4.1–4.4; Phụ lục 1, 6.",
+  "VSH/VNHA 2024 – Chiến lược quản lý THA tại Việt Nam – TL-0288 – Bảng 1–4; Đ1.1, Đ1.2.2, Hình 10, Bảng 8; Đ2.2–Đ2.4 (Bảng 9–11); Đ3.7; Hình 14.1 và Hình 4 (xem trên PDF); Đ4.1; Đ5.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – mục 5.2.3 (Hình 4, Bảng 5); Bảng 8, 12; Hình 12, 18; Bảng khuyến cáo 13, 15, 16, 35; mục 10.1.1.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – mục 5.4.1; 5.5.3; 11.10.9; 11.10.10.1; 11.10.11.1; 12.2; Bảng 20; mục 16.2.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – Bảng 6; mục 3.2.3.1; Bảng 11; 5.2.4; 5.2.5; Bảng 17; 5.2.8; 5.2.9; 5.6; 6.2.",
+  "2026 ACC/AHA Guideline on Dyslipidemia – TL-0292 – mục 4.2.3.7; Bảng 6.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – bài Hội chứng đau thắt lưng, mục 4.2.1.",
+  "ADA 2026 Standards of Care, mục 2 – TL-0674 – Bảng 2.2."
  ],
- "phien_ban_ca": "2 – soát lại theo guideline đã tải (2026-10-10)",
+ "phien_ban_ca": "3 – soát nguồn với kho 576 tài liệu (2026-10-11)",
  "ghi_chu_bien_tap": [
-  "Bản 2 (2026-10-10): soát lại theo guideline đã tải. Đổi: tầm soát aldosteron lượt 1 thành chấp nhận (ESC 2024 IIa); đơn trị amlodipin thành không phù hợp (VSH 2024 I-A); muối theo ESC 2024; gắn âm thanh tim, phổi bình thường (bỏ chi tiết T2 mạnh vì tệp không thể hiện). Đặc tả sổ cái đã khớp từ bản 1.",
-  "Âm thanh dùng tệp tạm trong kho/media; khi người dùng chép đủ bộ âm thanh mới sẽ thay đường dẫn trong danh_muc_media.json.",
-  "2026-10-10: thêm đáp án chi tiết (dap_an). Đổi \"viên phối hợp 5/5 mg\" và \"5/1,25/5 mg\" thành liều từng thành phần có trong QĐ 5904 (perindopril 5, amlodipin 5, indapamid SR 1,5), vì hàm lượng viên phối hợp không có trong tài liệu đã tải. Gắn nguồn cho nifedipin ngậm, ngưỡng cấp cứu, NSAID, đo HA tại nhà."
+  "Bản 1–2 (2026-10-10): viết và soát theo guideline đã tải; gắn âm thanh tim, phổi bình thường (tệp tạm trong kho/media, sẽ thay khi có bộ âm thanh mới); liều từng thành phần thay hàm lượng viên phối hợp (không có trong tài liệu).",
+  "Bản 3 (2026-10-11): soát nguồn với kho 576 tài liệu, ghi vị trí cho mọi liều, ngưỡng, tiêu chuẩn; lộ trình thuốc theo sơ đồ QĐ 5904 Phần 1 mục C; bỏ câu không có nguồn (\"không tuân thủ là nguyên nhân hàng đầu\"); statin giữ a, chờ bác sĩ quyết; TSH n → a; bỏ \"HA đêm không trũng\". Thiếu: công cụ PREVENT/SCORE2, hàm lượng viên phối hợp tại Việt Nam. Chi tiết: báo cáo soát nguồn MT-0058."
  ]
 }

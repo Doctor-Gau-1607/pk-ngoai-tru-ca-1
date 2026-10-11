@@ -1,0 +1,829 @@
+{
+ "ma_ca": "HH-1012",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo kho tài liệu (2026-10-12)",
+ "benh": "HH_viem_mui_xoang_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm mũi xoang cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm mô tế bào ổ mắt",
+   "Nấm xoang xâm lấn"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Thợ cắt tóc",
+  "yeu_to_khoi_phat": "Côn trùng đốt",
+  "thuoc_dang_dung": "Tự mua kháng sinh không rõ",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Quốc Thịnh",
+  "tuoi": 47,
+  "gioi": "Nam",
+  "nghe": "Thợ cắt tóc ở tiệm tóc nam đầu chợ, làm 25 năm",
+  "can_nang": 66,
+  "chieu_cao": 167,
+  "xung_ho": "Bác sĩ gọi anh. Anh tự xưng 'tôi' hoặc 'anh', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhiều với khách quen nhưng ở phòng khám thì ngán ngẩm, giọng mệt, hay nhắc 'đi ba chỗ rồi'. Làm 12 giờ mỗi ngày, ít khi nghỉ, hút thuốc lá. Hơi nghi ngờ bác sĩ, dễ nản nếu bị hỏi lại những điều đã bị hỏi, nhưng được lắng nghe và giải thích rõ thì hợp tác.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mệt mỏi, mất niềm tin. Mở đầu bằng 'đi ba chỗ rồi, chỗ nào cũng nói một kiểu, giờ bác sĩ cho tôi cái giấy nghỉ rồi tôi về'. Trả lời cụt khi bị hỏi lặp. Không tự kể tên thuốc đã uống, chỉ nói 'thuốc ở nhà thuốc'; phải hỏi riêng và xin xem hộp, vỉ thuốc mới lấy ra. Dễ sốt ruột đòi 'chụp phim, xét nghiệm lại cho chắc' hoặc 'tiêm cho nhanh'.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#1d1b19",
+   "kieuToc": "ngan",
+   "ao": "#5c6b73",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Nghẹt mũi, nhức má trái, chảy mũi mủ hơn hai tuần; đã đi ba nơi chưa khỏi",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Đoàn Quốc Thịnh, 47 tuổi, thợ cắt tóc, tự đến khám vì nghẹt mũi, nhức má trái, chảy mũi vàng xanh hơn hai tuần, đã đi ba nơi chưa khỏi. Sinh hiệu: nhiệt độ 38,3 °C, mạch 92 l/p, HA 128/82 mmHg, nhịp thở 18 l/p, SpO₂ 98% khí trời, cân nặng 66 kg.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Tôi đi ba chỗ rồi, chỗ nào cũng nói một kiểu mà vẫn không hết. Bác sĩ coi giùm, rồi cho tôi cái giấy nghỉ hai tuần để tôi về nghỉ.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "128/82",
+    "nhiet": "38,3",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nghẹt mũi, nhức má trái, chảy mũi vàng xanh hơn hai tuần, chưa khỏi dù đã đi ba nơi. Anh xin giấy nghỉ ốm hai tuần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và yêu cầu giấy nghỉ"
+    },
+    {
+     "id": "neo_con_trung",
+     "noi_dung": "Anh cho rằng bệnh bắt đầu vì tối hôm đó bị con gì đốt vào mặt: 'nọc nó chạy vô xoang, vô mắt'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "con_trung",
+     "noi_dung": "Ngày 0, ngủ dậy thấy má trái cách bờ mi dưới khoảng 2 cm bị đốt (không thấy con gì), ngứa, sưng đỏ cả má và mi dưới trái khoảng 2 ngày rồi xẹp, giờ còn chấm nâu nhỏ. Mắt luôn mở được, không đau mắt, không nhìn mờ hay nhìn đôi.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi vết đốt ở đâu, sưng bao lâu, mắt có bị ảnh hưởng không.",
+     "k": 1,
+     "y": "Vết đốt chỉ ở vùng trước vách hốc mắt, đã xẹp; không có triệu chứng ổ mắt"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày 1–5: sổ mũi trong, nghẹt mũi, đau họng nhẹ, hơi sốt, sau khi khách quen bị cảm. Ngày 6 đỡ rõ, tưởng sắp khỏi. Ngày 7 nặng lại: sốt, nhức má trái, mũi trái chảy mủ vàng xanh, đến hôm nay vẫn vậy (ngày 13).",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi diễn tiến từng ngày, có lúc nào đỡ rồi nặng lại không.",
+     "k": 1,
+     "y": "Cảm 5–6 ngày đỡ rồi nặng lại (hai pha); bệnh kéo dài hơn 10 ngày"
+    },
+    {
+     "id": "dau_mat",
+     "noi_dung": "Nhức, nặng má trái, đau tăng khi cúi đầu, đau lan sang mấy răng hàm trên bên trái, mức 7/10. Nghẹt mũi trái nhiều hơn phải. Mủ vàng xanh chảy ra mũi trái và xuống họng, ngửi kém.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau mặt một bên, chảy mủ, nghẹt mũi, giảm ngửi"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt 38–38,5 °C đo bằng nhiệt kế từ ngày 7, uống paracetamol thì hạ rồi lên lại. Hôm nay vẫn sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt trên 38 °C"
+    },
+    {
+     "id": "khong_canh_bao",
+     "noi_dung": "Không nhìn đôi, không mờ mắt, mắt không đau khi liếc, không lồi mắt. Không đau đầu dữ dội, không sưng vùng trán, không cứng cổ, không lơ mơ hay co giật. Không chảy máu mũi, không tê má hay vòm miệng.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi từng dấu hiệu: mắt, thị lực, đau đầu, chảy máu mũi, tê mặt, lơ mơ.",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu cảnh báo ổ mắt, nội sọ, nấm xâm lấn"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Ngày 8 nhà thuốc đầu hẻm: bán thuốc viên, thuốc xịt mũi, thuốc cảm. Ngày 10 phòng khám tư: bác sĩ khám họng, chụp phim xoang (Blondeau), thử máu, cho thuốc ho, nói 'anh uống kháng sinh rồi nên không cho thêm'. Ngày 12 trạm y tế phường: cho paracetamol và nước muối, nói 'viêm virus, tự khỏi'. Anh có tờ kết quả thử máu ngày 10: bạch cầu 12,1 G/L, CRP 42 mg/L; giấy phim ghi 'mờ xoang hàm trái' (phim để lại phòng khám).",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi đã đi những nơi nào, được khám gì, làm xét nghiệm gì, cho thuốc gì. Anh có đem theo tờ kết quả.",
+     "k": 1,
+     "y": "Kết quả đã có, không cần lặp lại; ghi nhận tiền sử điều trị"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Ngày 8 mua ở nhà thuốc 6 viên 'thuốc kháng sinh', uống 2 viên mỗi ngày trong 3 ngày (ngày 8–10), không nhớ tên. Vỏ vỉ còn trong túi: Azithromycin 250 mg. Không uống kháng sinh nào khác trong 3 tháng nay. Không nổi mẩn hay khó thở sau khi uống.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ nói 'thuốc cảm, thuốc xịt mũi'. Chỉ khai khi bác sĩ hỏi riêng có uống kháng sinh không, uống từ khi nào, mấy ngày, hoặc xin xem vỏ hộp, vỉ thuốc. Lúc đó anh lục túi lấy ra vỉ rỗng.",
+     "k": 1,
+     "y": "Tên, liều, số ngày kháng sinh đã dùng (ảnh hưởng chọn thuốc)"
+    },
+    {
+     "id": "xit_mui",
+     "noi_dung": "Từ ngày 8 xịt thuốc Oxymetazolin 0,05% vào hai mũi 3–4 lần mỗi ngày, đến nay 6 ngày. Mỗi lần ngưng là nghẹt nặng hơn nên lại xịt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi có dùng thuốc xịt, nhỏ mũi không, hoặc hỏi nghẹt mũi có đỡ khi xịt không.",
+     "k": 1,
+     "y": "Dùng thuốc co mạch mũi kéo dài"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc nào, chưa từng bị dị ứng penicillin hay amoxicillin. Không hắt hơi, ngứa mũi theo mùa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc (trước khi kê kháng sinh)"
+    },
+    {
+     "id": "nen_mien_dich",
+     "noi_dung": "Chưa nghe bác sĩ nói bị tiểu đường, hai năm nay không đo đường huyết. Không khát nhiều, tiểu nhiều, không sụt cân. Không dùng corticoid, thuốc hóa trị hay thuốc ức chế miễn dịch. Không có bệnh máu, không bị bệnh nặng nào trước đây.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ nấm xâm lấn: đái tháo đường, suy giảm miễn dịch"
+    },
+    {
+     "id": "rang",
+     "noi_dung": "Răng hàm trên không sâu, không nhổ hay trám răng gần đây. Đau lan nhiều răng cùng bên, không đau riêng một chiếc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguồn gốc từ răng"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Thợ cắt tóc 25 năm, mỗi ngày 12 giờ đứng tiệm, nghỉ rất ít. Hằng ngày hít bụi tóc, keo xịt, thuốc nhuộm, thuốc duỗi nồng mùi. Hút 10 điếu/ngày, 25 năm. Tiệm chật, đóng cửa kính chạy máy lạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phơi nhiễm nghề nghiệp, hút thuốc"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Anh kiệt sức: 12 giờ mỗi ngày, hầu như không có ngày nghỉ, chủ tiệm chỉ cho nghỉ khi có giấy bác sĩ và trừ công nếu nghỉ không giấy. Anh đã mất mấy ngày đi ba nơi, muốn có giấy nghỉ hai tuần 'cho cái người đỡ mệt'. Anh không cần giấy cho bảo hiểm nào cụ thể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói thật khi bác sĩ hỏi công việc ra sao, nghỉ có bị trừ công không, vì sao cần đúng hai tuần, hoặc khi bác sĩ không đồng ý cấp hai tuần.",
+     "k": 1,
+     "y": "Lý do thật: muốn nghỉ khỏi công việc (kiệt sức), không chỉ vì bệnh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vẻ mệt, da niêm hồng, môi hơi khô. Sốt 38,3 °C. Không phù mặt.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Ấn đau nhẹ vùng má trái (trên xoang hàm), gõ nhẹ cũng đau; vùng trán không đau. Mặt không sưng, không đỏ, không nóng. Hạch dưới hàm trái 1 cm, mềm, đau nhẹ. Cổ mềm.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Soi mũi trước (điều dưỡng Linh soi bằng đèn): niêm mạc hai bên đỏ phù, cuốn dưới trái to, ngách giữa trái có mủ nhầy vàng xanh; mũi phải sung huyết nhẹ. Vách ngăn không lệch rõ, không polyp, không vảy đen hay mảng hoại tử, không máu. Họng: dịch mủ chảy xuống thành sau họng, họng đỏ nhẹ. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Thị lực 10/10 hai mắt. Hai nhãn cầu cân đối, không lồi. Vận nhãn đủ mọi hướng, không đau khi liếc, không nhìn đôi. Đồng tử đều, phản xạ ánh sáng tốt. Mi không phù, kết mạc không đỏ, không phù kết mạc.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Gai thị hồng, bờ rõ, không phù gai thị. Mạch máu võng mạc bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Má trái, cách bờ mi dưới khoảng 2 cm: chấm nâu nhạt 3 mm, hết sưng, không đỏ lan, không nóng, không đau. Không phát ban nơi khác.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Phổi thông khí đều hai bên, rì rào phế nang êm, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p. Lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt. Cổ mềm, không dấu màng não. Thần kinh sọ bình thường, cảm giác mặt hai bên đều, không tê má hay vòm miệng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 11,4 G/L · Neutrophil 76% · Hb 146 g/L · TC 268 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 11.4,
+      "neu_pct": 76.0,
+      "neu": 8.7,
+      "lym_pct": 16.0,
+      "lym": 1.8,
+      "mono_pct": 6.5,
+      "mono": 0.74,
+      "eos_pct": 1.0,
+      "eos": 0.11,
+      "baso_pct": 0.5,
+      "baso": 0.06,
+      "rbc": 5.0,
+      "hgb": 146,
+      "hct": 0.43,
+      "mcv": 86.0,
+      "mch": 29.2,
+      "mchc": 340,
+      "rdw": 13.0,
+      "plt": 268
+     },
+     "n": "Đã có kết quả ngày 10 (BC 12,1 G/L): làm lại không đổi xử trí. Xét nghiệm không thực sự có giá trị đánh giá viêm mũi xoang cấp (QĐ 5643, Viêm mũi xoang cấp tính, mục 3.1.2)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 38 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 38
+     },
+     "n": "Tăng, một trong năm tiêu chuẩn viêm xoang do vi khuẩn (EPOS 2020 mục 4.1.1). Đã có CRP 42 ngày 10 nên không bắt buộc làm lại; làm lại chỉ có giá trị làm mốc theo dõi (EPOS 2020 mục 4.5.3.3: CRP gợi ý nhiễm khuẩn)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose 5,6 mmol/L",
+     "ab": 0,
+     "bang": {
+      "glu": 5.6
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, người bệnh không nhịn đói.",
+     "n": "Tìm yếu tố nguy cơ nấm xâm lấn: đái tháo đường chiếm khoảng 50% bệnh nhân (EPOS 2020 mục 8.6.3.2). Bình thường."
+    },
+    "flu": {
+     "n": "Không cần: không làm test vi sinh nhanh hay test cúm để quyết định kháng sinh (NICE NG237 2024 khuyến cáo 1.3.3); chẩn đoán dựa lâm sàng (AWaRe 2022, Acute sinusitis tr. 62: xét nghiệm vi sinh thường không cần)."
+    },
+    "cay": {
+     "n": "Không cần: cấy đờm, cấy máu không phục vụ viêm xoang. Cấy dịch xoang chỉ khi thất bại kháng sinh bậc 1 và bậc 2, qua chọc hút xoang hoặc nội soi, không dùng dịch mũi họng (IDSA 2012 khuyến cáo 21–23)."
+    },
+    "virus_mau": {
+     "n": "Không cần: xét nghiệm chức năng miễn dịch chỉ xét cho viêm xoang mạn hoặc viêm xoang cấp tái phát (AAO-HNSF 2015 Statement 9); anh bị đợt đầu."
+    },
+    "cxr": {
+     "n": "Cơ sở không có X-quang, và X-quang ngực không liên quan. Chụp phim xoang hay CT xoang thường quy không có chỉ định khi đủ tiêu chuẩn chẩn đoán lâm sàng, trừ khi nghi biến chứng hoặc chẩn đoán khác (AAO-HNSF 2015 Statement 1B; EPOS 2020 mục 4.5.3.3). Phim Blondeau ngày 10 đã có kết quả."
+    },
+    "ct_nao": {
+     "n": "Không cần: không đau đầu dữ dội, không dấu thần kinh, không lơ mơ. Chỉ làm khi nghi biến chứng nội sọ (EPOS 2020 Bảng 4.5.1; AAO-HNSF 2015 Statement 1B)."
+    },
+    "xq_xoang": {
+     "v": "n",
+     "r": "Mờ xoang hàm trái, có mức hơi – dịch (nếu chụp ở nơi có máy)",
+     "n": "Cơ sở không có X-quang. Viêm mũi xoang cấp chưa biến chứng không chụp hình thường quy (AAO-HNSF 2015, Statement 1B; EPOS 2020 mục 4.5.3.3); chẩn đoán dựa vào lâm sàng và soi mũi trước."
+    },
+    "ct_xoang": {
+     "v": "n",
+     "r": "Dày niêm mạc, dịch trong xoang hàm trái; không phá xương, không lan ổ mắt (nếu chụp ở nơi có máy)",
+     "n": "Chỉ chụp CT khi nghi biến chứng ổ mắt/nội sọ hoặc xâm lấn (IDSA 2012 khuyến cáo 24; AAO-HNSF 2015 Statement 1B). Ca này không có dấu hiệu đó; cơ sở cũng không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mũi xoang cấp do vi khuẩn, xoang hàm trái, không biến chứng, mức vừa; tiến triển hai pha sau cảm; mũi đã dùng thuốc xịt co mạch kéo dài; đã dùng azithromycin 3 ngày không hiệu quả",
+     "ok": 1,
+     "n": "Cảm 5–6 ngày đã đỡ rồi nặng lại: hai pha (IDSA 2012 khuyến cáo 1 mục iii; AAO-HNSF 2015 Statement 1A (b); ACP/CDC 2016 Advice 3; QĐ 5643, Viêm mũi xoang cấp tính, mục 3.1.1). Đủ trên 3 trong 5 tiêu chuẩn viêm xoang do vi khuẩn: sốt trên 38 °C, hai pha, đau nhiều một bên, mủ đổi màu, CRP tăng (EPOS 2020 mục 4.1.1). Soi mũi trước thấy mủ ngách giữa trái (EPOS 2020 mục 4.5.3.3; QĐ 5643 mục 3.1.1). Không có dấu hiệu cảnh báo nào ở Bảng 4.5.1 EPOS 2020."
+    },
+    {
+     "t": "Viêm mô tế bào ổ mắt (viêm tổ chức hốc mắt) do biến chứng viêm xoang",
+     "n": "Thị lực 10/10, không lồi mắt, vận nhãn đủ không đau, không nhìn đôi, không phù kết mạc, đáy mắt gai thị rõ (QĐ 40/2015, Viêm tổ chức hốc mắt, mục 3a; EPOS 2020 Bảng 4.5.1, mục 4.7.3.3). Vết côn trùng đốt chỉ ảnh hưởng tổ chức trước vách hốc mắt, không phải viêm hốc mắt (QĐ 40/2015 mục 3d); phù mi lúc đầu đã xẹp sau 2 ngày. Nếu có một dấu hiệu trên thì chuyển ngay (EPOS 2020 Bảng 4.5.1)."
+    },
+    {
+     "t": "Nấm xoang xâm lấn",
+     "n": "Bệnh gần như chỉ ở người suy giảm miễn dịch; đái tháo đường 50%, bệnh ác tính huyết học 40% (EPOS 2020 mục 8.6.3.1–8.6.3.2). Anh glucose 5,6 mmol/L, không dùng corticoid, không bệnh máu. Chưa có tê mặt hay vòm miệng, liệt vận nhãn; soi mũi không có hoại tử hay vảy đen, là dấu hiệu đặc trưng (EPOS 2020 mục 8.6.3.4; QĐ 5643, Viêm mũi xoang do nấm, mục 3.1.3). Chẩn đoán xác định cần mô bệnh học (EPOS 2020 mục 8.6.3.4) nên lượt 2 xem đáp ứng và dấu hiệu mới."
+    },
+    {
+     "t": "Cảm lạnh, viêm mũi xoang do virus hay sau virus",
+     "n": "Bệnh đã hơn 10 ngày và đã nặng lại sau 5 ngày; kèm nhiều tiêu chuẩn vi khuẩn nên không chỉ là viêm xoang sau virus (EPOS 2020 mục 4.1.1, 4.5.3.1; QĐ 5643 mục 3.2.1)."
+    },
+    {
+     "t": "Viêm xoang xuất phát từ răng",
+     "n": "Đau lan nhiều răng hàm trên cùng bên, không sâu răng, không can thiệp răng gần đây; có mủ mũi và mất ngửi kèm theo. Đau răng có thể do viêm xoang (QĐ 5643 mục 3.2.4); khoảng 15% viêm xoang cấp có nguồn răng (EPOS 2020 mục 4.3.3). Nên khám răng nếu không đỡ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kê amoxicillin/acid clavulanic 500 mg/125 mg uống mỗi 8 giờ trong 5 ngày",
+     "v": "c",
+     "n": "Đủ tiêu chuẩn vi khuẩn nên cân nhắc kháng sinh (EPOS 2020 Hình 1.4.1; ACP/CDC 2016 Advice 3). Amoxicillin có hoặc không clavulanate là thuốc đầu tay, 5–10 ngày (AAO-HNSF 2015 Statement 5). WHO AWaRe 2022 (Acute sinusitis, tr. 63): amoxicillin/clavulanic 500/125 mg mỗi 8 giờ, 5 ngày (mới nhất). Chọn có clavulanate vì vừa dùng kháng sinh trong tháng (QĐ 5643, Viêm mũi xoang cấp tính, mục 4.2.1; IDSA 2012 khuyến cáo 4–5)."
+    },
+    {
+     "t": "Kê amoxicillin 1 g uống mỗi 8 giờ trong 5 ngày",
+     "v": "a",
+     "n": "WHO AWaRe 2022 (tr. 63) và AAO-HNSF 2015 Statement 5 cho phép amoxicillin đơn thuần. IDSA 2012 khuyến cáo 4 ưu tiên amoxicillin/clavulanate (yếu); ACP/CDC 2016 nhận xét chưa có bằng chứng trực tiếp clavulanate vượt trội. Anh vừa dùng kháng sinh gần đây nên chọn có clavulanate là thận trọng hơn."
+    },
+    {
+     "t": "Amoxicillin/acid clavulanic liều cao (2 g amoxicillin mỗi 12 giờ)",
+     "v": "a",
+     "n": "IDSA 2012 khuyến cáo 5 (yếu): liều cao khi dùng kháng sinh trong tháng qua. AWaRe 2022 (mới hơn) không nêu liều cao. Liều chuẩn đủ cho lượt này; lợi ích thêm của liều cao trên ca này không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thời gian kháng sinh 7 đến 10 ngày",
+     "v": "a",
+     "n": "IDSA 2012 khuyến cáo 14: 5–7 ngày; AAO-HNSF 2015 Statement 5: 5–10 ngày, dài hơn khi bệnh nặng hoặc dai dẳng; QĐ 5643 mục 4.2.1: thể nặng 10–14 ngày. Đáp án chính 5 ngày theo AWaRe 2022 (mới nhất); anh sốt 38,3 °C, chưa tới thể nặng (AWaRe: sốt từ 39 °C)."
+    },
+    {
+     "t": "Theo dõi không dùng kháng sinh, hẹn 7 ngày; dùng ngay nếu không đỡ hoặc nặng lên (hoặc cho đơn dự phòng)",
+     "v": "a",
+     "n": "AAO-HNSF 2015 Statement 4: theo dõi chờ hoặc kháng sinh đều được ở viêm xoang vi khuẩn không biến chứng, chỉ khi bảo đảm tái khám; ngoại lệ suy giảm miễn dịch, biến chứng. NICE NG237 2024 khuyến cáo 1.3.1: kê ngay hoặc kê dự phòng. Anh đã 13 ngày, sốt, đau nhiều, đã mất niềm tin nên kê ngay hợp hơn (EPOS 2020 Hình 1.4.1: ≥ 3 tiêu chuẩn thì cân nhắc kháng sinh)."
+    },
+    {
+     "t": "Dừng thuốc xịt co mạch oxymetazolin (đã dùng 6 ngày); giải thích nghẹt mũi nặng thêm khi ngưng là do xịt kéo dài",
+     "v": "c",
+     "n": "QĐ 5643 mục 4.2.1: xịt oxymetazolin ngắn ngày (ví dụ 3 ngày), xịt kéo dài có thể làm bệnh nặng hơn. IDSA 2012 khuyến cáo 18: không khuyến cáo thuốc co mạch; EPOS 2020 mục 4.6.8.2: không đủ dữ liệu để khuyên. Cách xử trí cụ thể khi ngưng (rebound): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol giảm đau, hạ sốt",
+     "v": "c",
+     "n": "WHO AWaRe 2022 (tr. 63): paracetamol 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; AAO-HNSF 2015 Statement 3 (analgesic cho triệu chứng); ACP/CDC 2016."
+    },
+    {
+     "t": "Rửa mũi bằng nước muối sinh lý",
+     "v": "c",
+     "n": "QĐ 5643 mục 4.2.1 (điều trị tại mũi rất cần thiết, rửa mũi thường xuyên); IDSA 2012 khuyến cáo 16 (yếu); AAO-HNSF 2015 Statement 3 (option). EPOS 2020 mục 4.6.9.2: bằng chứng rất thấp nên không khuyên. Thể tích và số lần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Corticoid xịt mũi",
+     "v": "a",
+     "n": "QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 17 (yếu, chủ yếu ở tiền sử viêm mũi dị ứng); AAO-HNSF 2015 Statement 3 (option, NNT 14); EPOS 2020 mục 4.6.4: hiệu quả nhỏ, chỉ khi cần giảm triệu chứng. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi và xem vỏ thuốc, ghi tên kháng sinh, liều, số ngày đã dùng; không lặp lại phim xoang, xét nghiệm đã làm",
+     "v": "c",
+     "n": "QĐ 5643 mục 4.2.1: lựa chọn kháng sinh phụ thuộc có dùng kháng sinh trong 4–6 tuần gần đây không. Kết quả CRP, bạch cầu, phim Blondeau ngày 10 đã có; không lặp lại (cách làm lâm sàng; EPOS 2020 mục 4.5.3.3: xét nghiệm bổ sung không cần trong thực hành thường quy)."
+    },
+    {
+     "t": "Cấp giấy nghỉ ngắn ngày (khoảng 3 ngày) vì đang sốt, đau nhiều; nói chuyện về lý do thật là kiệt sức",
+     "v": "c",
+     "n": "Giấy chỉ cấp khi người bệnh không đủ sức khỏe đi làm và được chỉ định điều trị ngoại trú, phù hợp tình trạng sức khỏe (TT 56/2017/TT-BYT, Điều 3 khoản 1; Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm, xem tệp báo cáo). Số ngày cụ thể: không có trong tài liệu đã tải; theo lâm sàng (đang sốt, đau mặt nhiều)."
+    },
+    {
+     "t": "Dặn dấu hiệu nguy hiểm (phù hay đỏ quanh mắt, mắt lồi, nhìn đôi, mờ mắt, đau đầu dữ dội, sưng trán, cứng cổ, lơ mơ) phải đến cấp cứu ngay; xấu đi trong 48–72 giờ thì tái khám sớm; hẹn 5–6 ngày",
+     "v": "c",
+     "n": "EPOS 2020 Bảng 4.5.1 (chuyển ngay, nhập viện); IDSA 2012 khuyến cáo 19 (nặng lên sau 48–72 giờ); AAO-HNSF 2015 Statement 6 (không đỡ sau 7 ngày hoặc nặng lên thì đánh giá lại)."
+    },
+    {
+     "t": "Kháng sinh nhóm macrolid (azithromycin, clarithromycin) tiếp tục hoặc đổi lại",
+     "v": "w",
+     "n": "IDSA 2012 khuyến cáo 7 (mạnh): không khuyến cáo macrolid do phế cầu kháng 30%; QĐ 5643 mục 4.2.1: kháng macrolid rất phổ biến, hiệu quả trung bình (bảng). Anh đã dùng 3 ngày mà không đỡ."
+    },
+    {
+     "t": "Levofloxacin hay moxifloxacin làm thuốc đầu tay",
+     "v": "w",
+     "n": "QĐ 5643 mục 4.2.1 (2015) cho quinolon hô hấp khi dùng kháng sinh gần đây; AAO-HNSF 2015 kèm cảnh báo FDA 12/5/2016: tác dụng phụ nặng thường lớn hơn lợi ích ở viêm xoang khi còn lựa chọn khác; EPOS 2020 mục 4.6.3.1.2: moxifloxacin không hiệu quả. Mới hơn nên chấm w."
+    },
+    {
+     "t": "Corticoid toàn thân (prednisolon, dexamethason) cho mau hết nghẹt mũi",
+     "v": "a",
+     "n": "AAO-HNSF 2015 Statement 3 không khuyến khích (hiệu quả đáng ngờ); EPOS 2020 mục 4.6.5: không khuyên ở viêm xoang sau virus, chưa đủ dữ liệu ở thể vi khuẩn. QĐ 5643 mục 4.2.2 (cũ hơn) cho dùng hạn chế, cẩn thận. Chưa nói có hại nên chấm a, nhưng không phải đáp án chính."
+    },
+    {
+     "t": "Cấp giấy nghỉ hai tuần theo yêu cầu",
+     "v": "w",
+     "n": "Không phù hợp tình trạng sức khỏe (TT 56/2017/TT-BYT Điều 20 khoản 1 điểm c); mệt vì công việc không phải bệnh cần nghỉ hai tuần. Cấp khống làm sai lệch giấy tờ."
+    },
+    {
+     "t": "Chụp CT xoang hay chuyển nội soi mũi ngay lập tức",
+     "v": "w",
+     "n": "Không chụp hình ảnh khi đủ tiêu chuẩn lâm sàng trừ khi nghi biến chứng (AAO-HNSF 2015 Statement 1B; EPOS 2020 mục 4.5.3.3; AWaRe 2022 tr. 62). QĐ 5643 mục 3.1.2 (cũ hơn) nêu CT là lựa chọn; mục 4.2.1 chỉ cân nhắc CT, nội soi khi thất bại sau 72 giờ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mũi xoang cấp do vi khuẩn, xoang hàm trái, mức vừa, không biến chứng (khởi phát hai pha sau cảm)",
+     "Có hơn 10 ngày bệnh, sốt 38,3 °C, đau má trái một bên, mủ vàng xanh, CRP tăng (EPOS 2020 mục 4.1.1; IDSA 2012 khuyến cáo 1)",
+     "Yếu tố góp phần: hút thuốc 25 năm, hít bụi tóc và hóa chất ở tiệm, dùng thuốc xịt co mạch kéo dài 6 ngày",
+     "Đã loại trừ: viêm mô tế bào ổ mắt (không dấu ổ mắt), nấm xoang xâm lấn (glucose bình thường, không suy giảm miễn dịch, không hoại tử mũi); khả năng nguồn răng thấp",
+     "Tiền sử điều trị: azithromycin 3 ngày (ngày 8–10) không hiệu quả"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến từng ngày (cảm rồi đỡ rồi nặng lại), hỏi tên thuốc đã dùng, hỏi dấu hiệu mắt – nội sọ, hỏi bệnh nền – khám toàn thân, nhiệt độ, mặt, họng mũi, mắt, đáy mắt, thần kinh – glucose – chẩn đoán – xử trí.",
+     "Vì sao là viêm xoang vi khuẩn: bệnh đã nặng lại sau 5–6 ngày (IDSA 2012 khuyến cáo 1 mục iii; AAO-HNSF 2015 Statement 1A (b); ACP/CDC 2016 Advice 3). EPOS 2020 mục 4.1.1 và 4.5.3.2 đòi ít nhất 3 trong 5: mủ đổi màu, đau nhiều một bên, sốt trên 38 °C, CRP/ESR tăng, hai pha. Anh có cả 5. QĐ 5643 mục 3.1.1: nghĩ viêm xoang vi khuẩn khi triệu chứng xấu đi sau 5–7 ngày hoặc kéo dài trên 10 ngày.",
+     "Màu vàng xanh của dịch mũi một mình chưa đủ để kê kháng sinh (WHO AWaRe 2022, Acute sinusitis, tr. 61). Phải dựa vào diễn tiến và tiêu chuẩn. Xét nghiệm và hình ảnh không cần để chẩn đoán (EPOS 2020 mục 4.5.3.3; AAO-HNSF 2015 Statement 1B).",
+     "Vì sao loại viêm mô tế bào ổ mắt: dấu hiệu là phù hay đỏ quanh mắt, mắt lồi, nhìn đôi, liệt vận nhãn, giảm thị lực (EPOS 2020 Bảng 4.5.1, mục 4.7.3.3; QĐ 40/2015 mục 3a). Anh đều không có; đáy mắt gai thị rõ. Vết côn trùng đốt chỉ ảnh hưởng tổ chức trước vách hốc mắt (QĐ 40/2015 mục 3d), đã xẹp sau 2 ngày. Đây là nhiễu: anh tin 'nọc chạy vào xoang' nhưng bệnh bắt đầu bằng cảm.",
+     "Vì sao loại nấm xoang xâm lấn: gần như chỉ ở người suy giảm miễn dịch, đái tháo đường (khoảng 50%) và bệnh huyết học (EPOS 2020 mục 8.6.3.2); ở đái tháo đường không kiểm soát có thể giống viêm xoang nhưng nặng và tiến triển nhanh (EPOS 2020 mục 4.5.3.4). Dấu hiệu: đau mặt, phù, sốt, tê mặt hay vòm miệng, liệt vận nhãn, hoại tử qua nội soi (EPOS 2020 mục 8.6.3.4; QĐ 5643, Viêm mũi xoang do nấm, mục 3.1.3). Anh không có, nên không cần chuyển ngay; nhưng bệnh một bên và đã dai dẳng nên lượt 2 phải xem đáp ứng.",
+     "Nhiễu: ba nơi cho ba hướng khác nhau; phải hỏi kỹ tên thuốc, số ngày. Azithromycin không phải thuốc đầu tay vì kháng thuốc (QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 7): chưa điều trị đúng, không loại trừ vi khuẩn. Hút thuốc làm rối loạn lông chuyển (EPOS 2020 mục 4.3.5); bụi, hóa chất là chất kích thích (QĐ 5643 mục 2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí đúng: điều trị ngoại trú, uống kháng sinh, điều trị tại mũi, hẹn tái khám. Vì sao dùng kháng sinh: bệnh trên 10 ngày, nặng lại, đủ tiêu chuẩn EPOS 2020 (Hình 1.4.1), sốt và đau nhiều. Theo dõi chờ cũng được nếu chắc chắn tái khám (AAO-HNSF 2015 Statement 4) nhưng với anh kê ngay hợp hơn.",
+     "Chọn thuốc: amoxicillin/clavulanic 500/125 mg mỗi 8 giờ, 5 ngày (WHO AWaRe 2022 tr. 63). Lý do chọn clavulanate: vừa dùng kháng sinh trong 4–6 tuần (QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 5). Amoxicillin 1 g mỗi 8 giờ cũng chấp nhận (AWaRe; AAO-HNSF 2015 Statement 5).",
+     "Mâu thuẫn nguồn: QĐ 5643 mục 4.2.1 (2015) nêu quinolon hô hấp ở người dùng kháng sinh gần đây; AAO-HNSF 2015 (kèm cảnh báo FDA 5/2016) nói tác dụng phụ thường lớn hơn lợi ích khi còn lựa chọn khác; đáp án theo nguồn mới hơn. Thời gian: QĐ 5643 thể nặng 10–14 ngày, IDSA 2012 5–7 ngày, AAO 2015 5–10 ngày, WHO AWaRe 2022 5 ngày; đáp án 5 ngày vì mới nhất, các cách khác chấm a.",
+     "Thuốc xịt co mạch đã 6 ngày: dừng (QĐ 5643 mục 4.2.1: xịt kéo dài có thể làm bệnh nặng hơn). Thay bằng rửa mũi nước muối (QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 16), có thể thêm corticoid xịt mũi (AAO-HNSF 2015 Statement 3).",
+     "Không chụp hình, không nội soi: không có biến chứng (AAO-HNSF 2015 Statement 1B). Cơ sở không có X-quang nên không bị thiệt. Khi nặng lên hoặc thất bại thì mới cần CT và nội soi (QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 24).",
+     "Giấy nghỉ ốm và lý do thật: hỏi công việc ra sao thì mới biết anh kiệt sức. Anh đang sốt, đau mặt nhiều nên không đủ sức làm việc ở tiệm; cấp giấy ngắn ngày theo tình trạng thật (TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c). Không cấp hai tuần vì không phù hợp tình trạng bệnh. Trung thực với anh: bệnh này không cần nghỉ hai tuần; kiệt sức là vấn đề khác cần nói chuyện, không giải quyết bằng giấy nghỉ ốm.",
+     "Hẹn tái khám sau 5–6 ngày; nặng lên sau 48–72 giờ hoặc không đỡ sau 3–5 ngày thì đánh giá lại (IDSA 2012 khuyến cáo 19; AAO-HNSF 2015 Statement 6: 7 ngày)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin/acid clavulanic",
+      "ham_luong": "Viên 500 mg + 125 mg",
+      "lieu": "1 viên mỗi 8 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu ngay hôm nay, cách đều mỗi 8 giờ",
+      "so_ngay": "5 ngày (15 viên)",
+      "ghi_chu": "WHO AWaRe 2022, Acute sinusitis, tr. 63 (liều cho chức năng thận bình thường). Có clavulanate vì dùng kháng sinh gần đây (QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 5). Tiêu chảy hay gặp hơn amoxicillin đơn thuần (AAO-HNSF 2015 Statement 5). Không dị ứng penicillin. Cách uống so với bữa ăn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên (500 mg–1 g) mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau hay sốt, cách nhau 4–6 giờ",
+      "so_ngay": "Khi cần, tối đa 4 g/ngày (8 viên)",
+      "ghi_chu": "WHO AWaRe 2022, Acute sinusitis, tr. 63. Ibuprofen 200–400 mg mỗi 6–8 giờ (tối đa 2,4 g/ngày) là lựa chọn tương đương theo cùng nguồn."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 0,9%",
+      "ham_luong": "Chai rửa mũi",
+      "lieu": "Rửa mũi hai bên",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Hằng ngày, thường xuyên",
+      "so_ngay": "Đến khi hết dịch mũi",
+      "ghi_chu": "QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 16. Thể tích và số lần mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Anh bị viêm xoang hàm trái do vi khuẩn sau đợt cảm; vết côn trùng đốt không phải nguyên nhân, mắt anh không bị ảnh hưởng.",
+     "Uống đủ 5 ngày amoxicillin/clavulanic, mỗi 8 giờ, kể cả khi đã đỡ. Thuốc anh uống trước đây là azithromycin 250 mg, loại này không hợp với bệnh xoang vì vi khuẩn hay kháng (QĐ 5643 mục 4.2.1). Lần sau mang theo vỏ thuốc hay chụp hình đơn.",
+     "Ngưng xịt thuốc co mạch oxymetazolin vì xịt kéo dài làm bệnh nặng hơn (QĐ 5643 mục 4.2.1). Nghẹt mũi có thể tăng vài đêm khi ngưng, dùng nước muối rửa mũi.",
+     "Đến cấp cứu ngay nếu: mi hay quanh mắt sưng đỏ, mắt lồi, nhìn đôi, mờ mắt, đau đầu dữ dội, sưng vùng trán, cứng cổ, lơ mơ (EPOS 2020 Bảng 4.5.1). Quay lại sớm nếu sốt cao hơn hoặc nặng lên sau 48–72 giờ (IDSA 2012 khuyến cáo 19).",
+     "Hẹn tái khám sau 5–6 ngày để đánh giá lại (AAO-HNSF 2015 Statement 6: không đỡ sau 7 ngày phải đánh giá lại).",
+     "Giấy nghỉ ngắn vài ngày vì anh đang sốt, đau nhiều; không đủ chỉ định cho hai tuần. Việc anh quá mệt, làm 12 giờ không nghỉ là chuyện cần sắp xếp với chủ tiệm; bác sĩ sẵn lòng giải thích với anh (TT 56/2017/TT-BYT Điều 20 khoản 1 điểm c).",
+     "Giảm hút thuốc lá, hạn chế hít hóa chất, bụi khi đang bệnh (QĐ 5643 mục 2.2; EPOS 2020 mục 4.3.5); biện pháp bảo hộ cụ thể không có trong tài liệu đã tải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 ngày",
+   "tiep_don": "Tái khám sau 6 ngày. Anh Thịnh nói đã uống đủ thuốc, hết sốt, đỡ đau má nhưng mũi trái vẫn tắc, còn chảy mũi vàng nhạt, ho về đêm, còn mệt; xin nghỉ thêm. Sinh hiệu: nhiệt độ 37,1 °C, mạch 80 l/p, HA 126/80 mmHg, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Uống thuốc xong đỡ nhiều rồi bác sĩ, mà mũi trái còn tắc, còn chảy chút, tối ho. Hay thuốc không hợp? Bác sĩ cho tôi nghỉ thêm một tuần nữa, người tôi còn uể oải lắm.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "126/80",
+    "nhiet": "37,1",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien2",
+     "noi_dung": "Hết sốt từ ngày thứ 2 uống thuốc. Đau má giảm từ 7/10 còn 3/10, hết đau răng. Mủ giảm nhiều, giờ chảy ít, màu vàng nhạt. Nghẹt mũi trái còn nhiều về đêm, ngửi chưa rõ, ho đêm do chảy xuống họng. Mệt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng một phần sau 5 ngày kháng sinh"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống đủ 15 viên, đúng giờ. Hai ngày đầu đi phân sệt ngày 2–3 lần, rồi hết. Không nổi mẩn, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, tác dụng phụ (tiêu chảy)"
+    },
+    {
+     "id": "xit_lai",
+     "noi_dung": "Dặn bỏ xịt mà tối nào nghẹt quá anh vẫn xịt 1–2 lần cho ngủ được, mấy hôm nay đã bớt đêm nghẹt hai bên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi có còn xịt thuốc mũi không, đêm ngủ ra sao.",
+     "k": 1,
+     "y": "Còn dùng thuốc xịt co mạch"
+    },
+    {
+     "id": "khong_canh_bao2",
+     "noi_dung": "Không nhìn đôi, mắt không đau hay sưng, nhìn rõ như thường. Không đau đầu dữ dội, không sưng trán, không tê mặt, không chảy máu mũi, không sốt trở lại, không lơ mơ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi dấu hiệu mắt, nội sọ, sốt lại, chảy máu mũi.",
+     "k": 1,
+     "y": "Sàng lọc lại biến chứng và nấm xâm lấn khi chưa khỏi hẳn"
+    },
+    {
+     "id": "ly_do_that2",
+     "noi_dung": "Trở lại tiệm hai ngày nay vì chủ trừ công. Anh vẫn kiệt sức, cảm thấy nghỉ thêm tuần nữa là 'được thở'. Sẵn lòng tính chuyện đổi ca, nghỉ Chủ nhật nếu có người nói với chủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi công việc ra sao sau khi đi làm lại, hoặc khi bác sĩ không đồng ý cấp thêm giấy nghỉ.",
+     "k": 1,
+     "y": "Lý do thật vẫn là muốn nghỉ khỏi công việc"
+    },
+    {
+     "id": "neo_con_trung2",
+     "noi_dung": "Anh vẫn nghi 'nọc côn trùng còn trong xoang nên chưa hết'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, đỡ mệt hơn, không sốt, da niêm hồng.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Soi mũi trước: niêm mạc mũi trái còn đỏ phù nhẹ, ngách giữa trái còn ít nhầy mủ vàng nhạt, mũi phải sung huyết nhẹ. Không vảy đen, không hoại tử, không máu. Họng: ít dịch chảy thành sau họng. Màng nhĩ bình thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Ấn má trái còn đau nhẹ, không sưng đỏ. Hạch dưới hàm trái còn nhỏ. Cổ mềm.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Thị lực 10/10 hai mắt, nhãn cầu không lồi, vận nhãn đủ không đau, không nhìn đôi, mi không phù.",
+     "k": 1
+    },
+    "da": {
+     "a": "Má trái: vết nâu mờ, không đỏ, không nóng.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, 80 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p. Phổi thông khí đều hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 16 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, cổ mềm, thần kinh sọ bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "crp": {
+     "v": "a",
+     "r": "CRP 9 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 9
+     },
+     "n": "Giảm từ 38 xuống 9 mg/L, phù hợp đáp ứng. Không cần để quyết định (cách làm lâm sàng; CRP tăng gợi ý nhiễm khuẩn: EPOS 2020 mục 4.5.3.3)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,6 G/L · Neutrophil 61% · Hb 148 g/L · TC 240 G/L",
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 61.0,
+      "neu": 4.6,
+      "lym_pct": 29.0,
+      "lym": 2.2,
+      "mono_pct": 7.0,
+      "mono": 0.53,
+      "eos_pct": 2.5,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 5.0,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 87.0,
+      "mch": 29.6,
+      "mchc": 338,
+      "rdw": 13.0,
+      "plt": 240
+     },
+     "n": "Bình thường; không cần để quyết định."
+    },
+    "cxr": {
+     "n": "Cơ sở không có X-quang; phim hay CT xoang không có chỉ định khi đang đáp ứng, không có biến chứng (AAO-HNSF 2015 Statement 1B)."
+    },
+    "ct_nao": {
+     "n": "Không cần: không đau đầu dữ dội, không dấu thần kinh."
+    },
+    "xq_xoang": {
+     "v": "n",
+     "r": "Mờ xoang hàm trái, có mức hơi – dịch (nếu chụp ở nơi có máy)",
+     "n": "Cơ sở không có X-quang. Viêm mũi xoang cấp chưa biến chứng không chụp hình thường quy (AAO-HNSF 2015, Statement 1B; EPOS 2020 mục 4.5.3.3); chẩn đoán dựa vào lâm sàng và soi mũi trước."
+    },
+    "ct_xoang": {
+     "v": "n",
+     "r": "Dày niêm mạc, dịch trong xoang hàm trái; không phá xương, không lan ổ mắt (nếu chụp ở nơi có máy)",
+     "n": "Chỉ chụp CT khi nghi biến chứng ổ mắt/nội sọ hoặc xâm lấn (IDSA 2012 khuyến cáo 24; AAO-HNSF 2015 Statement 1B). Ca này không có dấu hiệu đó; cơ sở cũng không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mũi xoang cấp do vi khuẩn đang đáp ứng một phần sau 5 ngày amoxicillin/clavulanic; hồi phục chậm bình thường, chưa phải thất bại điều trị; nghẹt mũi còn một phần do xịt co mạch",
+     "ok": 1,
+     "n": "Hết sốt, đau giảm rõ, CRP giảm 38 xuống 9, mủ giảm: đang đáp ứng. Thất bại điều trị khi không đỡ sau 7 ngày hoặc nặng lên (AAO-HNSF 2015 Statement 6) hoặc xấu đi sau 48–72 giờ, không đỡ sau 3–5 ngày (IDSA 2012 khuyến cáo 19). Triệu chứng có thể kéo dài tới 4 tuần (WHO AWaRe 2022, Acute sinusitis, tr. 61); viêm xoang cấp xác định tới 12 tuần (EPOS 2020 mục 4.1.1)."
+    },
+    {
+     "t": "Thất bại điều trị, cần đổi kháng sinh",
+     "n": "Anh đang đỡ, không sốt lại, không nặng lên (AAO-HNSF 2015 Statement 6; IDSA 2012 khuyến cáo 19)."
+    },
+    {
+     "t": "Biến chứng ổ mắt hay nội sọ mới",
+     "n": "Mắt bình thường, thị lực 10/10, không dấu Bảng 4.5.1 EPOS 2020; thần kinh bình thường."
+    },
+    {
+     "t": "Nấm xoang xâm lấn",
+     "n": "Đáp ứng với kháng sinh, glucose bình thường, không hoại tử mũi, không tê mặt hay liệt vận nhãn (EPOS 2020 mục 8.6.3.4; QĐ 5643, Viêm mũi xoang do nấm, mục 3.1.3). Đáp ứng không phải bằng chứng tuyệt đối nên vẫn dặn dấu cảnh báo."
+    },
+    {
+     "t": "Viêm xoang mạn",
+     "n": "Mới khoảng 3 tuần; mạn tính là trên 12 tuần (QĐ 5643, Viêm mũi xoang cấp tính, mục 1; EPOS 2020 mục 4.1.1)."
+    },
+    {
+     "t": "Viêm mũi do thuốc xịt co mạch kéo dài (góp phần nghẹt mũi)",
+     "ok": 1,
+     "n": "Còn xịt buổi tối; xịt kéo dài làm bệnh nặng hơn (QĐ 5643 mục 4.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định đáp ứng một phần, không đổi kháng sinh, không kê kháng sinh mới; hoàn tất đợt 5 ngày",
+     "v": "c",
+     "n": "Không thất bại điều trị (AAO-HNSF 2015 Statement 6; IDSA 2012 khuyến cáo 19). Thời gian 5 ngày (WHO AWaRe 2022 tr. 63); triệu chứng còn kéo dài tới 4 tuần là bình thường (WHO AWaRe 2022 tr. 61)."
+    },
+    {
+     "t": "Kéo dài kháng sinh để đủ 10 ngày",
+     "v": "a",
+     "n": "AAO-HNSF 2015 Statement 5 (Intentional vagueness): đợt dài hơn có thể phù hợp khi triệu chứng còn dù đã dùng đợt ngắn; 5–10 ngày. WHO AWaRe 2022 và EPOS 2020 không ủng hộ kéo dài khi đang đáp ứng."
+    },
+    {
+     "t": "Dừng hẳn xịt co mạch; giải thích nghẹt mũi sau khi ngưng sẽ giảm dần",
+     "v": "c",
+     "n": "QĐ 5643 mục 4.2.1: xịt ngắn (ví dụ 3 ngày), xịt kéo dài làm bệnh nặng hơn. Thời gian mũi hồi phục sau khi ngưng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục rửa mũi nước muối; có thể thêm corticoid xịt mũi",
+     "v": "c",
+     "n": "QĐ 5643 mục 4.2.1; AAO-HNSF 2015 Statement 3; IDSA 2012 khuyến cáo 16–17. EPOS 2020 mục 4.6.4: chỉ khi cần giảm triệu chứng."
+    },
+    {
+     "t": "Giải thích trung thực: hiện không sốt, đau nhẹ, đủ sức làm việc nên không cấp thêm giấy nghỉ ốm; nói về việc kiệt sức, đề nghị anh bàn đổi ca, nghỉ Chủ nhật với chủ tiệm",
+     "v": "c",
+     "n": "Giấy chỉ cấp khi không đủ sức khỏe đi làm, phù hợp tình trạng bệnh (TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm). Cách khác để giảm kiệt sức nghề nghiệp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau khoảng 1 tuần nếu còn triệu chứng; chuyển tai mũi họng nếu không đỡ hoặc nặng lên; đến cấp cứu ngay nếu có dấu cảnh báo",
+     "v": "c",
+     "n": "IDSA 2012 khuyến cáo 25 (chuyển chuyên khoa khi nặng lên dù đã dùng kháng sinh kéo dài, tái phát); EPOS 2020 Hình 1.4.1 (không đỡ thì chuyển chuyên khoa), Bảng 4.5.1 (chuyển ngay). Mốc hẹn 1 tuần: lựa chọn của bác sĩ, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấp giấy nghỉ thêm 1 tuần theo yêu cầu",
+     "v": "w",
+     "n": "Anh đã hết sốt và đủ sức đi làm: không phù hợp tình trạng sức khỏe (TT 56/2017/TT-BYT Điều 20 khoản 1 điểm c)."
+    },
+    {
+     "t": "Đổi sang kháng sinh khác (cephalosporin, quinolon) vì 'chưa hết hẳn'",
+     "v": "w",
+     "n": "Không thất bại điều trị (AAO-HNSF 2015 Statement 6); quinolon không nên khi còn lựa chọn khác (cảnh báo FDA 5/2016 trong AAO-HNSF 2015); EPOS 2020 mục 4.6.3.1.2."
+    },
+    {
+     "t": "Chụp CT xoang, hay chuyển nội soi mũi ngay",
+     "v": "w",
+     "n": "Đang đáp ứng, không biến chứng: không chụp (AAO-HNSF 2015 Statement 1B). Cơ sở lại không có X-quang."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mũi xoang cấp do vi khuẩn (xoang hàm trái) đang đáp ứng một phần sau 5 ngày amoxicillin/clavulanic",
+     "Hồi phục chậm bình thường, không có dấu hiệu thất bại điều trị",
+     "Còn dùng thuốc xịt co mạch buổi tối, góp phần nghẹt mũi",
+     "Không biến chứng ổ mắt, nội sọ; nấm xâm lấn không phù hợp",
+     "Còn mệt do kiệt sức nghề nghiệp, không phải biểu hiện của bệnh xoang"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi đáp ứng thuốc, tuân thủ, tác dụng phụ – hỏi lại dấu cảnh báo mắt, nội sọ – hỏi thuốc xịt, công việc – khám mũi, mắt, mặt, thần kinh – CRP nếu cần – chẩn đoán – xử trí.",
+     "Đánh giá lại bắt buộc để xác nhận chẩn đoán, loại nguyên nhân khác và phát hiện biến chứng (AAO-HNSF 2015 Statement 6). Thất bại điều trị: không đỡ sau 7 ngày hoặc nặng lên; hoặc xấu đi sau 48–72 giờ, không đỡ sau 3–5 ngày (IDSA 2012 khuyến cáo 19). Anh hết sốt, đau giảm từ 7/10 xuống 3/10, CRP 38 xuống 9: đang đáp ứng.",
+     "Phân biệt hồi phục chậm bình thường và thất bại sớm: triệu chứng có thể kéo dài tới 4 tuần (WHO AWaRe 2022, Acute sinusitis, tr. 61); viêm xoang cấp xác định tới 12 tuần (EPOS 2020 mục 4.1.1). Tắc mũi kéo dài sau khi hết sốt không phải lý do kê kháng sinh lần hai.",
+     "Nghẹt mũi còn do ba cái: niêm mạc còn phù sau nhiễm khuẩn, còn xịt co mạch buổi tối (QĐ 5643 mục 4.2.1: xịt kéo dài làm bệnh nặng hơn), và chất kích thích ở tiệm (QĐ 5643 mục 2.2).",
+     "Nấm xâm lấn và biến chứng ổ mắt vẫn phải hỏi lại vì anh chưa khỏi hẳn: không có dấu ở Bảng 4.5.1 EPOS 2020, thị lực bình thường, không hoại tử mũi, không tê mặt (EPOS 2020 mục 8.6.3.4). Đáp ứng với kháng sinh làm nấm xâm lấn rất ít khả năng, nhưng không phải bằng chứng tuyệt đối.",
+     "Nhiễu: tin 'nọc côn trùng còn trong xoang': giải thích bệnh khởi đầu bằng cảm, vết đốt đã lành."
+    ],
+    "phan_tich_xu_tri": [
+     "Không đổi và không thêm kháng sinh: đang đáp ứng (AAO-HNSF 2015 Statement 6). Đợt 5 ngày đã đủ (WHO AWaRe 2022 tr. 63). Kéo dài tới 10 ngày chấp nhận (AAO-HNSF 2015 Statement 5) nhưng không phải đáp án chính do hai nguồn mới hơn (WHO AWaRe 2022, EPOS 2020) không ủng hộ.",
+     "Điều trị tại mũi: rửa nước muối (QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 16), corticoid xịt mũi tùy chọn (AAO-HNSF 2015 Statement 3; EPOS 2020 mục 4.6.4). Dừng hẳn xịt co mạch.",
+     "Giấy nghỉ: anh hết sốt, đau nhẹ, đã đi làm lại; điều kiện cấp giấy là không đủ sức khỏe đi làm (TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c). Không cấp thêm một tuần. Lý do thật là kiệt sức; nói thẳng, ghi nhận, khuyến khích anh bàn lại lịch làm với chủ tiệm. Đây là cách trung thực nhất, giữ niềm tin của anh.",
+     "Tái khám khi nào và chuyển khi nào: không đỡ hoặc nặng lên thì tai mũi họng (IDSA 2012 khuyến cáo 25; EPOS 2020 Hình 1.4.1); dấu Bảng 4.5.1 thì cấp cứu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước muối sinh lý 0,9%",
+      "ham_luong": "Chai rửa mũi",
+      "lieu": "Rửa mũi hai bên",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Hằng ngày, thường xuyên",
+      "so_ngay": "Đến khi hết dịch mũi",
+      "ghi_chu": "QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 16. Thể tích và số lần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi còn đau, cách nhau 4–6 giờ",
+      "so_ngay": "Khi cần, tối đa 4 g/ngày",
+      "ghi_chu": "TL-0018 WHO AWaRe 2022, Acute sinusitis, tr. 63."
+     }
+    ],
+    "dan_do": [
+     "Anh đang đỡ đúng hướng. Hết sốt, đau giảm là dấu thuốc có tác dụng; nghẹt mũi, chảy ít có thể còn vài tuần, thường hết trong khoảng 4 tuần (WHO AWaRe 2022, Acute sinusitis, tr. 61). Không cần thuốc kháng sinh mới.",
+     "Bỏ hẳn thuốc xịt co mạch, dùng nước muối rửa mũi (QĐ 5643 mục 4.2.1). Vài đêm đầu có thể nghẹt hơn, sẽ dịu dần.",
+     "Quay lại hoặc đến cấp cứu ngay nếu: sốt lại, đau tăng, sưng đỏ quanh mắt, mắt lồi, nhìn đôi hay mờ, đau đầu dữ dội, sưng trán, cứng cổ, lơ mơ, tê mặt hay chảy máu mũi (EPOS 2020 Bảng 4.5.1; EPOS 2020 mục 8.6.3.4).",
+     "Nếu còn triệu chứng hoặc nặng lên, quay lại sau khoảng 1 tuần hoặc sớm hơn; không đỡ sẽ chuyển tai mũi họng (IDSA 2012 khuyến cáo 25).",
+     "Giấy nghỉ ốm không cấp thêm vì anh đã khỏe để làm việc; việc kiệt sức nên nói với chủ tiệm về ca làm, ngày nghỉ. Bác sĩ hiểu anh rất mệt; cách giải quyết gốc không phải nằm ở đơn thuốc."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh nghỉ ba ngày theo giấy, dùng đủ 5 ngày amoxicillin/clavulanic. Lượt 2 anh đỡ một phần; anh không được kê thêm kháng sinh. Anh bỏ hẳn thuốc xịt co mạch, nghẹt mũi tăng vài đêm rồi giảm. Anh nói chuyện với chủ tiệm, được nghỉ Chủ nhật mỗi tuần. Khoảng ngày 28 từ lúc khởi bệnh mũi thông, hết chảy mũi, ngửi lại bình thường, hút thuốc giảm còn nửa gói. Không có biến chứng, không phải đổi thuốc. Hồi phục lâu hơn anh tưởng nhưng nằm trong khoảng triệu chứng có thể kéo dài tới 4 tuần (WHO AWaRe 2022, Acute sinusitis, tr. 61); không đổi kháng sinh ở lượt 2 là đúng (AAO-HNSF 2015 Statement 6).",
+ "nhieu": [
+  "Côn trùng đốt: anh tin 'nọc chạy vào xoang'. Thực tế bệnh bắt đầu bằng cảm; vết đốt chỉ phù mi tạm thời vùng trước vách hốc mắt (QĐ 40/2015, Viêm tổ chức hốc mắt, mục 3d), đã xẹp. Là red herring cho viêm hốc mắt.",
+  "Đau lan nhiều răng hàm trên trái: dễ nghĩ bệnh răng; đau răng có thể do viêm xoang (QĐ 5643, Viêm mũi xoang cấp tính, mục 3.2.4); nguồn răng chiếm khoảng 15% (EPOS 2020 mục 4.3.3).",
+  "Bệnh một bên, mủ vàng xanh, đã đi ba nơi: dễ nghĩ nấm hay u. Mủ vàng xanh một mình không có nghĩa nhiễm khuẩn (WHO AWaRe 2022 tr. 61); nấm xâm lấn đòi suy giảm miễn dịch hay đái tháo đường (EPOS 2020 mục 8.6.3.2).",
+  "Thuốc xịt co mạch 6 ngày và azithromycin 3 ngày tự mua: làm bệnh cảnh thêm rối (nghẹt mũi nặng khi ngưng, kháng sinh không hợp).",
+  "Không có X-quang: không cần để chẩn đoán viêm xoang cấp (AAO-HNSF 2015 Statement 1B; EPOS 2020 mục 4.5.3.3). CT xoang và nội soi mũi cũng không có chỉ định ở ca này."
+ ],
+ "bai_hoc_bien": [
+  "Từng khám ba nơi: lắng nghe, xem giấy tờ cũ, không lặp lại xét nghiệm và phim đã có, giải thích vì sao lần này khác.",
+  "Hỏi kỹ thuốc tự mua: hỏi riêng kháng sinh, xin xem vỏ hộp, vỉ thuốc; ghi tên, hàm lượng, số ngày. Kháng sinh dùng trong 4–6 tuần ảnh hưởng chọn thuốc (QĐ 5643 mục 4.2.1; IDSA 2012 khuyến cáo 5); macrolid không phải thuốc đầu tay (IDSA 2012 khuyến cáo 7).",
+  "Viêm xoang vi khuẩn: nhớ các tiêu chuẩn – hơn 10 ngày không đỡ, hoặc nặng lại sau 5–6 ngày (hai pha), hoặc khởi phát nặng; EPOS 2020 đòi ít nhất 3 trong 5 (mủ đổi màu, đau nhiều một bên, sốt trên 38 °C, CRP/ESR tăng, hai pha).",
+  "Đỡ một phần: phân biệt hồi phục chậm bình thường với thất bại. Chưa đổi thuốc khi đang đỡ; xấu đi sau 48–72 giờ hoặc không đỡ sau 7 ngày thì đánh giá lại (IDSA 2012 khuyến cáo 19; AAO-HNSF 2015 Statement 6).",
+  "Luôn sàng lọc dấu hiệu cảnh báo ổ mắt – nội sọ (EPOS 2020 Bảng 4.5.1) và hỏi yếu tố nguy cơ nấm xâm lấn (đái tháo đường, suy giảm miễn dịch).",
+  "Giấy nghỉ ốm: hỏi lý do thật; cấp theo tình trạng sức khỏe thật, ngắn ngày, không cấp khống (TT 56/2017/TT-BYT Điều 20 khoản 1 điểm c)."
+ ],
+ "diem_nho": [
+  "Viêm xoang vi khuẩn: hơn 10 ngày không đỡ, nặng lại sau pha đỡ (hai pha), hoặc sốt từ 39 °C kèm mủ hay đau mặt từ 3 ngày (IDSA 2012 khuyến cáo 1; ACP/CDC 2016 Advice 3; AAO-HNSF 2015 Statement 1A).",
+  "EPOS 2020 (mục 4.1.1): viêm xoang vi khuẩn khi ít nhất 3 trong 5 tiêu chuẩn; sau virus: tăng sau 5 ngày hoặc kéo dài hơn 10 ngày, không cần kháng sinh (mục 4.6.3.3.2).",
+  "Kháng sinh: amoxicillin ± clavulanate 5–10 ngày (AAO-HNSF 2015 Statement 5); WHO AWaRe 2022: amoxicillin 1 g mỗi 8 giờ hoặc amoxicillin/clavulanic 500/125 mg mỗi 8 giờ, 5 ngày. Không dùng macrolid (IDSA 2012 khuyến cáo 7).",
+  "Nấm xâm lấn: người suy giảm miễn dịch, đái tháo đường; đau mặt, tê mặt, liệt vận nhãn, hoại tử mũi; chẩn đoán xác định bằng mô bệnh học (EPOS 2020 mục 8.6.3)."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh Tai Mũi Họng – Viêm mũi xoang cấp tính (mục 1, 2.2, 3.1.1, 3.1.2, 3.2.1–3.2.5, 4.1, 4.2.1, 4.2.2); Viêm mũi xoang do nấm (mục 2.2, 3.1.3, 3.2)",
+  "TL-0087 · EPOS 2020 – mục 1.4 (Hình 1.4.1), 4.1.1, 4.3.1, 4.3.3, 4.3.5, 4.5.3.1–4.5.3.5 (Bảng 4.5.1), 4.5.5.3, 4.6.3.1.2, 4.6.3.3.2, 4.6.4, 4.6.5, 4.6.8.2, 4.6.9.2, 4.7.3.3, 8.6.3.1–8.6.3.4",
+  "TL-0157 · AAO-HNSF 2015 – Adult Sinusitis – Statement 1A, 1B, 3, 4, 5, 6, 9 (kèm cảnh báo FDA 12/5/2016 về fluoroquinolon)",
+  "TL-0159 · IDSA 2012 – Acute Bacterial Rhinosinusitis (Executive summary) – khuyến cáo 1, 4, 5, 7, 14, 16–19, 21–25",
+  "TL-0156 · ACP/CDC 2016 – Appropriate Antibiotic Use for ARTI in Adults – Advice 3",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – Primary health care, 7. Acute sinusitis (tr. 61–63)",
+  "TL-0146 · NICE NG237 2024 – khuyến cáo 1.3.1, 1.3.3",
+  "TL-0242 · QĐ 40/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – Viêm tổ chức hốc mắt (mục 1, 3a, 3d, 4a)",
+  "Nguồn bổ sung tự tìm: Thông tư 56/2017/TT-BYT (sửa đổi bởi TT 18/2022/TT-BYT) – Điều 3 khoản 1, Điều 20 khoản 1 – https://caselaw.vn/van-ban-phap-luat/304150-thong-tu-56-2017-tt-byt-ve-huong-dan-luat-bao-hiem-xa-hoi-va-luat-an-toan-ve-sinh-lao-dong-thuoc-linh-vuc-y-te-do-bo-truong-bo-y-te-ban-hanh (chưa đối chiếu bản hiện hành sau Luật BHXH 2024)",
+  "Không có trong tài liệu đã tải: liều và thể tích rửa mũi nước muối; liều corticoid xịt mũi; số ngày cụ thể của giấy nghỉ ốm; biện pháp bảo hộ cho thợ cắt tóc; xử trí nghẹt mũi dội ngược sau ngưng xịt co mạch; hướng dẫn NICE về viêm xoang cấp (chỉ được NG237 nhắc tới); mốc tái khám 1 tuần lượt 2"
+ ],
+ "ghi_chu_bien_tap": [
+  "12/10/2026 (bản 1): viết theo đặc tả sổ cái HH-1012; tài liệu đã đọc: TL-0130 (viêm mũi xoang cấp, do nấm), TL-0087 (4.1, 4.5, 4.6, 4.7, 8.6), TL-0157, TL-0159, TL-0156, TL-0146, TL-0018 (tr. 61–64), TL-0242 (viêm tổ chức hốc mắt). QĐ 708/2015 (TL-0015) không có bài viêm xoang cấp riêng. TT 56/2017 lấy từ web.",
+  "Dùng khám 'mat', 'day_mat', 'da' để loại viêm hốc mắt và đưa vết côn trùng đốt vào đúng chỗ; chưa dùng ảnh SCIN, mô tả bằng chữ (không ca nào phải chờ ảnh).",
+  "Danh mục chưa có X-quang/CT xoang và nội soi mũi (nội soi hiện là dạ dày): cách chấm hình ảnh viết trong n của cxr, ct_nao; đề xuất thêm xq_xoang, ct_xoang, noi_soi_mui nằm ở HH-1012_de_xuat_danh_muc.json.",
+  "Số liệu xét nghiệm CTM (neutrophil 76%, lym 16%) và glucose, CRP là số liệu phụ do biên soạn cho khớp bệnh cảnh. Phim Blondeau ngày 10 là tình tiết (không thuộc kho).",
+  "Mâu thuẫn nguồn mới (khi nào kháng sinh, thời gian, quinolon, co mạch, CT): xem HH-1012_mau_thuan.md."
+ ]
+}

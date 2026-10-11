@@ -1,0 +1,732 @@
+{
+ "ma_ca": "MT-0425",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn 12/10/2026",
+ "benh": "MT_rl_lipid_mau",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Lễ tân khách sạn",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Gia Huy",
+  "tuoi": 29,
+  "gioi": "Nam",
+  "nghe": "Lễ tân khách sạn",
+  "can_nang": 64,
+  "chieu_cao": 172,
+  "xung_ho": "Bác sĩ gọi anh. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lịch sự, nói năng chuẩn mực kiểu người làm dịch vụ, hay xin lỗi vì làm phiền bác sĩ. Hay lo xa, trực quầy đêm rảnh thì tra Google về bệnh và thuốc, đọc nhiều bài 'statin hại gan, hại cơ'. Ngại bị trách là tự ý dùng thuốc nên nói giảm, nói vòng. Hiểu biết y khoa vừa phải.",
+  "kieu_nhieu": "Tự uống thuốc 5 ngày trước khi đến: khi hỏi chung 'đang uống thuốc gì' chỉ kể 1 viên đa vitamin mỗi sáng. Chỉ kể atorvastatin lấy trong hộp thuốc của bố và viên men gạo đỏ mua online khi bác sĩ hỏi cụ thể thuốc hạ mỡ máu, thuốc tự mua hoặc mượn của người nhà, thực phẩm chức năng, hoặc đau chân bắt đầu sau khi dùng gì. Gọi tên lộn xộn: 'thuốc tim của bố', 'viên men đỏ giảm mỡ'.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e2b690",
+   "toc": "#1a1411",
+   "kieuToc": "ngan",
+   "ao": "#dfe6ee",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Mỡ máu cao khi khám sức khỏe, đau ê đùi và bắp chân hai bên hai ngày nay",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Phạm Gia Huy, 29 tuổi, lễ tân khách sạn. Đến vì phiếu khám sức khỏe của khách sạn cho thấy cholesterol cao, hai ngày nay đau ê đùi và bắp chân hai bên. Sinh hiệu: HA 118/72 mmHg, mạch 68 l/p, cân nặng 64 kg, BMI 21,6.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ, em xin lỗi làm phiền bác sĩ. Ba tuần trước khách sạn em có sự cố đổ hóa chất, sau đó cho nhân viên đi khám lại. Kết quả mỡ máu của em cao, mà mấy hôm nay hai chân em lại ê ê khó chịu. Em hơi lo, bác sĩ xem giúp em với.",
+   "sinh_hieu": {
+    "mach": 68,
+    "ha": "118/72",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba tuần trước khách sạn có sự cố đổ hóa chất tẩy rửa; sau đó nhân viên được khám lại. Phiếu khám cho thấy mỡ máu cao. Hai ngày nay đau ê đùi và bắp chân hai bên.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Phiếu khám sức khỏe cách đây 21 ngày (nhịn ăn buổi sáng): cholesterol toàn phần 7,8 · LDL-C 6,1 (≈ 235 mg/dL) · HDL-C 1,1 · TG 1,4 mmol/L; AST 36, ALT 33 U/L. Lúc đó anh chưa dùng thuốc hay thực phẩm chức năng nào ngoài đa vitamin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "LDL-C trước điều trị: mốc gốc để phân loại"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Sự cố: vỡ can nước khử khuẩn hồ bơi ở kho tầng hầm. Anh xuống giúp khoảng 15 phút, hít mùi nồng, cay mắt, ho khan hai ngày rồi tự hết. Không khó thở, không nôn. Từ đó đến nay không ho, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bối cảnh khởi phát: tiếp xúc hóa chất"
+    },
+    {
+     "id": "thuoc_chung",
+     "noi_dung": "Đang uống 1 viên đa vitamin và khoáng mỗi sáng, khoảng 6 tháng nay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng (lời khai chung)"
+    },
+    {
+     "id": "atorva_bo",
+     "noi_dung": "Năm ngày nay, tối nào anh cũng uống 1 viên atorvastatin 20 mg lấy trong hộp thuốc của bố (bố dùng sau nhồi máu cơ tim) vì đọc mạng thấy 'mỡ máu cao thì uống statin'. Chưa ai kê đơn cho anh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể đa vitamin. Chỉ kể khi bác sĩ hỏi cụ thể có uống thuốc hạ mỡ máu, thuốc tự mua hoặc mượn của người nhà, hoặc đau chân bắt đầu sau khi dùng gì.",
+     "k": 1,
+     "y": "Statin không kê đơn, 5 ngày"
+    },
+    {
+     "id": "men_gao_do",
+     "noi_dung": "Hai tuần nay uống thêm viên 'men gạo đỏ giảm mỡ máu' mua online, 2 viên mỗi ngày; nhãn không ghi hàm lượng hoạt chất. Anh nghĩ đồ thiên nhiên thì lành.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi thực phẩm chức năng, thuốc nam, thảo dược, hoặc thứ gì anh mua để hạ mỡ máu ngoài vitamin. Nếu chỉ hỏi 'vitamin' thì không nhắc.",
+     "k": 1,
+     "y": "Men gạo đỏ (thực phẩm chức năng chứa monacolin)"
+    },
+    {
+     "id": "dau_co",
+     "noi_dung": "Đau ê hai đùi và hai bắp chân, hai bên đều nhau, nặng nhất khi leo cầu thang, bắt đầu ngày thứ ba sau khi uống atorvastatin. Mức 4/10, vẫn đi làm, đứng lên ngồi xuống được, không yếu. Nước tiểu vàng bình thường, không sẫm như nước trà. Không sốt, không đau khớp, không sưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau cơ, loại trừ yếu cơ và nước tiểu sẫm"
+    },
+    {
+     "id": "tap_gym",
+     "noi_dung": "Từ khi biết mỡ máu cao anh đi tập gym: chạy máy 30 phút và tập chân (squat, đạp đùi) 3 buổi mỗi tuần, buổi gần nhất cách đây 3 ngày, mới tăng mức tạ. Trước đó gần như không tập.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vận động gắng sức mới: yếu tố gây nhiễu đau cơ"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Bố 52 tuổi, nhồi máu cơ tim năm 49 tuổi, đặt stent, đang uống atorvastatin 20 mg. Mẹ khỏe. Chị gái 25 tuổi chưa xét nghiệm mỡ máu. Chú ruột mất đột ngột năm 46 tuổi, không rõ nguyên nhân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình bệnh mạch vành sớm"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn cơm căn tin khách sạn, nhiều món chiên xào, ít rau; ca đêm 3 buổi mỗi tuần ăn mì gói. Thỉnh thoảng uống trà sữa. Không hút thuốc. Bia khoảng 1 lon cuối tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, thuốc lá, rượu"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Không sợ lạnh, không táo bón, cân nặng ổn định, da không khô, không buồn ngủ hay chậm chạp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng suy giáp (loại trừ nguyên nhân thứ phát)"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không tiểu đường, không bệnh gan thận, không đau ngực hay khó thở khi gắng sức. Không dùng corticoid, nội tiết tố nam, thuốc lợi tiểu. Chưa từng dùng statin hay đau cơ do thuốc trước đây. Không dị ứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguyên nhân thứ phát, thuốc gây tăng lipid, tiền sử dùng statin"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: anh sợ viên atorvastatin và men gạo đỏ đã gây hại cơ và gan, lại mới hít hóa chất nên sợ gan hỏng sẵn. Anh không dám nói ngay là tự uống thuốc của bố vì sợ bị trách. Điều anh muốn biết: có phải bỏ thuốc không, gan có sao không, bỏ thuốc thì mỡ máu có sao không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh lo điều gì nhất, vì sao đi khám hôm nay, hoặc hỏi nhẹ nhàng về thuốc đã dùng và tác dụng phụ, và không tỏ ý trách. Khi được trấn an thì kể hết.",
+     "k": 1,
+     "y": "Động cơ thật: nghi ngờ tác dụng phụ của thuốc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy cân đối, BMI 21,6, vòng eo 76 cm. Da niêm hồng, tỉnh táo.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau. Không hạch cổ.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Không cung giác mạc, không ban vàng mi. Kết mạc hồng, đồng tử đều.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không u vàng ở khuỷu, gối, lòng bàn tay. Gân Achilles và gân duỗi các ngón tay sờ không dày, không u vàng gân.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau nhẹ khắp cơ tứ đầu đùi và bắp chân hai bên, không sưng nóng đỏ, không co cứng. Khớp bình thường.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Sức cơ 5/5 các nhóm gốc chi (đứng lên khỏi ghế không chống tay 5 lần được), phản xạ gân xương đều, trương lực bình thường, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không đau.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 68 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 68 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên. Nhịp thở 16 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 6,0 · LDL-C 4,3 · HDL-C 1,1 · TG 1,3 mmol/L (nhịn ăn 10 giờ)",
+     "ab": 1,
+     "n": "Kết quả hôm nay đã bị men gạo đỏ và atorvastatin hạ bớt, không dùng để phân loại. 'Baseline' là LDL-C khi chưa dùng thuốc hạ lipid (ESC/EAS 2019, Bảng 7, chú thích b): dùng phiếu 21 ngày trước (LDL-C 6,1 mmol/L). Người có tiền sử gia đình bệnh tim mạch sớm nên làm lipid nhịn ăn (ACC/AHA 2026, mục 3.2, KC 2)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,1 mUI/L · FT4 trong khoảng tham chiếu",
+     "n": "Loại trừ suy giáp: nguyên nhân thứ phát của tăng LDL-C (ACC/AHA 2026, Bảng 15; mục 4.2.4.3 KC 1; QĐ 3879/2014, RL lipid máu mục II.2) và cũng là yếu tố nguy cơ đau cơ do statin (ACC/AHA 2026, Bảng 24). Khoảng tham chiếu TSH 0,4–4,0 mUI/L (ATA 2014, câu hỏi 1b)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 38 · ALT 35 U/L",
+     "n": "ALT đo trước khi bắt đầu statin, một lần sau 8–12 tuần khởi trị hoặc tăng liều, sau đó không theo dõi thường quy (ESC/EAS 2019, Bảng 13; mục 8.1.4.2). Bình thường nên trấn an được nỗi lo 'hóa chất hại gan'. CK không có trong danh mục xét nghiệm của app."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose đói 4,9 mmol/L",
+     "n": "Đái tháo đường là nguyên nhân thứ phát (ACC/AHA 2026, Bảng 15)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,6 mmol/L · Creatinin 78 µmol/L · eGFR 119 mL/ph/1,73m²",
+     "n": "Bệnh thận mạn, hội chứng thận hư là nguyên nhân thứ phát (ACC/AHA 2026, Bảng 15); đau cơ kèm creatinin bình thường làm giảm nghi tiêu cơ vân (ESC/EAS 2019, mục 8.1.4.1).",
+     "bang": {
+      "ure": 4.6,
+      "creat": 78,
+      "egfr": 119
+     }
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "5,2%",
+     "n": "Glucose đói đã đủ để loại trừ đái tháo đường."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Protein âm tính · Glucose âm tính",
+     "n": "Hội chứng thận hư là nguyên nhân thứ phát hiếm (ACC/AHA 2026, Bảng 15)."
+    },
+    "ctm": {
+     "n": "Không có chỉ định: không sốt, không nghi nhiễm trùng, không nghi thiếu máu."
+    },
+    "ecg": {
+     "n": "Không đau ngực, không khó thở, mạch đều; không có chỉ định."
+    },
+    "abdus": {
+     "n": "AST, ALT bình thường, TG bình thường; gan nhiễm mỡ thường đi kèm tăng TG (QĐ 3879/2014, RL lipid máu mục III.1.2)."
+    },
+    "cxr": {
+     "n": "Đã hết ho sau sự cố hóa chất, phổi nghe sạch, SpO₂ 99%."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 168 U/L (trong giới hạn bình thường)",
+     "n": "ESC/EAS 2019, Bảng 13: đo CK khi có đau cơ. ACC/AHA 2026 (mới hơn), mục 4.2.11 KC 1: chỉ đo CK khi đau cơ nặng hoặc yếu cơ. Anh đau nhẹ, sức cơ 5/5: không đo không trừ điểm, đo thì chấp nhận."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng cholesterol máu nguyên phát mức nặng (LDL-C chưa điều trị 6,1 mmol/L ≈ 235 mg/dL), có thể là tăng cholesterol máu gia đình dị hợp tử (Dutch 4 điểm); chưa có bệnh tim mạch xơ vữa",
+     "ok": 1,
+     "n": "LDL-C ≥ 4,9 mmol/L (ACC/AHA 2026, mục 4.2.4.3). Dutch: bố nhồi máu cơ tim lúc 49 tuổi 1 điểm + LDL-C chưa điều trị 5,0–6,4 mmol/L 3 điểm = 4 điểm: 'có thể' FH (ESC/EAS 2019, Bảng 12)."
+    },
+    {
+     "t": "Đau cơ liên quan statin mức nhẹ, đa yếu tố (atorvastatin tự dùng 5 ngày, men gạo đỏ cùng cơ chế, tập chân nặng mới)",
+     "ok": 1,
+     "n": "Đau cơ đối xứng, gốc chi, vài ngày sau khi dùng statin (ACC/AHA 2026, mục 4.2.11, Synopsis); không yếu cơ, nước tiểu bình thường, creatinin bình thường."
+    },
+    {
+     "t": "RL lipid thứ phát (suy giáp)",
+     "n": "TSH 2,1 mUI/L, FT4 bình thường, không sợ lạnh, táo bón, tăng cân, chậm chạp; tuyến giáp bình thường. Các nguyên nhân thứ phát khác (đái tháo đường, bệnh thận, thuốc corticoid, androgen) cũng loại trừ (ACC/AHA 2026, Bảng 15)."
+    },
+    {
+     "t": "Tiêu cơ vân hoặc bệnh cơ do statin",
+     "n": "Đau 4/10, sức cơ 5/5, nước tiểu bình thường, creatinin bình thường. Tiêu cơ vân có đau cơ dữ dội, hoại tử cơ, myoglobin niệu, CK tăng ≥ 10 lần (ESC/EAS 2019, mục 8.1.4.1)."
+    },
+    {
+     "t": "Tổn thương gan do hóa chất hoặc do thuốc",
+     "n": "AST, ALT bình thường. Tăng ALT nhẹ ở 0,5–2% người dùng statin, chưa chứng minh gây độc gan thật (ESC/EAS 2019, mục 8.1.4.2). Không có trong tài liệu đã tải mối liên quan giữa hóa chất tẩy rửa và rối loạn lipid."
+    },
+    {
+     "t": "Tổn thương phổi do hít hóa chất",
+     "n": "Hết ho sau 2 ngày, phổi sạch, SpO₂ 99%, nhịp thở 16 l/p."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng ngay viên men gạo đỏ, không dùng lại",
+     "v": "c",
+     "n": "Monacolin tác động như statin, hàm lượng mỗi chế phẩm khác nhau, an toàn lâu dài chưa đủ tài liệu và có tác dụng phụ như statin (ESC/EAS 2019, mục 7.5.2). Thực phẩm chức năng không được khuyến cáo để hạ LDL-C (ACC/AHA 2026, mục 4.1.5, KC 1, COR 3: No Benefit). Anh đủ chỉ định statin nên không cần thay thế."
+    },
+    {
+     "t": "Ngưng tạm thời atorvastatin mượn của bố để tách nguyên nhân đau cơ, rồi khởi lại thuốc có kê đơn",
+     "v": "c",
+     "n": "Đau cơ do statin thường khởi phát trong vài tuần và hết trong thời gian tương tự sau ngưng, có thể tái phát khi dùng lại (ACC/AHA 2026, mục 4.2.11, Synopsis). Thuốc không do thầy thuốc chọn, đang trùng với men gạo đỏ và tập chân nặng nên khó quy nguyên nhân. Khoảng 2 tuần là lựa chọn của người biên soạn."
+    },
+    {
+     "t": "Giải thích: ghi nhận lo ngại; mỡ máu của anh cần điều trị và bỏ điều trị lâu dài làm tăng nguy cơ tim mạch; ngưng lần này chỉ là tạm thời",
+     "v": "c",
+     "n": "ACC/AHA 2026, mục 4.2.11, KC 2 (COR 1, B-R): thảo luận phải ghi nhận lo ngại về tác dụng phụ, nói rõ nguy cơ tăng khi ngưng statin và đưa ra phương án thay thế."
+    },
+    {
+     "t": "Tạm giảm tập chân nặng khoảng 2 tuần, vẫn đi bộ nhẹ",
+     "v": "c",
+     "n": "Phải loại trừ vận động gắng sức quá mức trước khi quy đau cơ cho statin (ACC/AHA 2026, mục 4.2.11, giải thích KC 1; Bảng 24: vận động mạnh là yếu tố nguy cơ). Thời gian 2 tuần không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xếp loại RL lipid nguyên phát mức nặng, có thể FH (Dutch 4 điểm), lấy LDL-C chưa điều trị làm mốc",
+     "v": "c",
+     "n": "Mốc 'baseline' là LDL-C khi chưa dùng thuốc hạ lipid (ESC/EAS 2019, Bảng 7, chú thích b); Dutch có LDL-C 'không điều trị' (Bảng 12); ngưỡng 190 mg/dL (ACC/AHA 2026, mục 4.2.4.3)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần; dặn khi yếu cơ, đau dữ dội, nước tiểu sẫm màu thì đến ngay",
+     "v": "c",
+     "n": "Tiêu cơ vân có đau cơ nặng, myoglobin niệu, CK ≥ 10 lần giới hạn trên (ESC/EAS 2019, mục 8.1.4.1; ACC/AHA 2026, Bảng 25)."
+    },
+    {
+     "t": "Đo CK ngay hôm nay",
+     "v": "a",
+     "n": "ESC/EAS 2019, Bảng 13: đo CK khi có đau cơ. ACC/AHA 2026 (mới hơn), mục 4.2.11 KC 1: chỉ đo khi đau cơ nặng hoặc yếu cơ. Anh đau nhẹ, sức cơ 5/5: không đo không trừ điểm, đo thì chấp nhận. CK không có trong danh mục của app."
+    },
+    {
+     "t": "Kê atorvastatin 20 mg có đơn, tiếp tục dùng và theo dõi triệu chứng",
+     "v": "a",
+     "n": "ESC/EAS 2019, Bảng 13: CK < 4 lần giới hạn trên và có triệu chứng thì theo dõi triệu chứng, nếu kéo dài thì ngưng và đánh giá lại sau 6 tuần. Chấp nhận được, nhưng ca có nhiều yếu tố gây nhiễu nên tách nguyên nhân trước là cách đáp án."
+    },
+    {
+     "t": "Kê thuốc bảo vệ tế bào gan kèm thuốc hạ lipid",
+     "v": "a",
+     "n": "QĐ 3879/2014, RL lipid máu mục IV.4 (Chú ý) khuyên dùng; ESC/EAS 2019 (mục 8.1.4.2, Bảng 13) không nêu, ALT chỉ đo trước điều trị và một lần sau 8–12 tuần. Không có trong tài liệu đã tải bằng chứng lợi ích: chấp nhận, không cần."
+    },
+    {
+     "t": "Dựa vào LDL-C hôm nay (4,3) hoặc điểm nguy cơ 10 năm thấp để kết luận mỡ máu chưa cần điều trị",
+     "v": "w",
+     "n": "LDL-C hôm nay đã bị thuốc hạ bớt (ESC/EAS 2019, Bảng 7 chú thích b). PREVENT chỉ dùng cho 30–79 tuổi (ACC/AHA 2026, mục 4.2.3.2 KC 1), SCORE2 cho 40–89 tuổi (ESC/EAS 2025); công cụ chuẩn không được dùng cho FH (ACC/AHA 2026, mục 4.2.4.1 KC 2, COR 3: Harm)."
+    },
+    {
+     "t": "Cho dùng tiếp men gạo đỏ cùng statin",
+     "v": "w",
+     "n": "Hai chất cùng ức chế HMG-CoA reductase, hàm lượng monacolin không rõ (ESC/EAS 2019, mục 7.5.2)."
+    },
+    {
+     "t": "Ghi 'không dung nạp statin' và khuyên không bao giờ dùng statin",
+     "v": "w",
+     "n": "Mới 5 ngày thuốc không kê đơn, nhiều yếu tố gây nhiễu; phần lớn người bệnh vẫn tìm được phác đồ dung nạp (ACC/AHA 2026, mục 4.2.11, Synopsis; KC 2)."
+    },
+    {
+     "t": "Thêm gemfibrozil để hạ mỡ máu cùng statin",
+     "v": "h",
+     "n": "Gemfibrozil phối hợp statin làm tăng nguy cơ bệnh cơ, phải tránh (ESC/EAS 2019, mục 8.1.4.6; ACC/AHA 2026, mục 4.2.1.3). Fibrate chỉ định cho tăng TG (QĐ 3879/2014, mục IV.4.2), TG của anh bình thường."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng cholesterol máu nguyên phát mức nặng: LDL-C chưa điều trị 6,1 mmol/L (≈ 235 mg/dL), TG bình thường, chưa có bệnh tim mạch xơ vữa",
+     "Có thể là tăng cholesterol máu gia đình dị hợp tử: Dutch 4 điểm (bố nhồi máu cơ tim lúc 49 tuổi 1 điểm + LDL-C 5,0–6,4 mmol/L 3 điểm), khám không u vàng gân, không cung giác mạc",
+     "Đau cơ liên quan statin mức nhẹ, đa yếu tố: atorvastatin 20 mg mượn của bố 5 ngày, men gạo đỏ 2 tuần, tập chân nặng mới",
+     "Đã loại trừ: suy giáp (TSH 2,1 mUI/L, FT4 bình thường), đái tháo đường, bệnh thận, tổn thương gan",
+     "Hít hóa chất tẩy rửa: đã hết triệu chứng, phổi sạch; không liên quan tới mỡ máu cao"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự làm: hỏi bệnh (thuốc cụ thể kể cả thuốc mượn và thực phẩm chức năng, mốc thời gian, tập luyện, gia đình, triệu chứng suy giáp) → khám (gân Achilles, mắt, tuyến giáp, sức cơ) → cận lâm sàng (lipid nhịn ăn, TSH/FT4, AST/ALT, glucose, creatinin) → chẩn đoán → xử trí.",
+     "Mốc gốc: LDL-C hôm nay (4,3) đã bị men gạo đỏ và atorvastatin hạ bớt. 'Baseline' là LDL-C khi chưa dùng thuốc hạ lipid (ESC/EAS 2019, Bảng 7, chú thích b) nên dùng phiếu 21 ngày trước: 6,1 mmol/L ≈ 235 mg/dL, vượt ngưỡng 190 mg/dL (4,9 mmol/L) của tăng cholesterol máu nặng (ACC/AHA 2026, mục 4.2.4.3). Ngưỡng chẩn đoán RL lipid của BYT: LDL-C > 2,58 mmol/L, cholesterol TP > 5,2 mmol/L (QĐ 3879/2014, RL lipid máu mục III.2).",
+     "Vì sao nghĩ nguyên phát: LDL-C ≥ 190 mg/dL phải loại trừ nguyên nhân thứ phát (ACC/AHA 2026, mục 4.2.4.3 KC 1; Bảng 15: suy giáp, đái tháo đường, bệnh thận, hội chứng thận hư, tắc mật, corticoid, androgen). Anh Huy: TSH 2,1, FT4 bình thường, glucose, creatinin, protein niệu bình thường, không dùng thuốc nào trong nhóm. RL lipid nguyên phát thường sớm ở người trẻ, ít kèm béo phì (QĐ 3879/2014, mục II.1): đúng BMI 21,6.",
+     "Vì sao nghĩ tới FH: Dutch (ESC/EAS 2019, Bảng 12): người thân bậc 1 bệnh mạch vành sớm (nam < 55 tuổi) 1 điểm + LDL-C chưa điều trị 5,0–6,4 mmol/L 3 điểm = 4: 'có thể' FH (3–5 điểm). Hai mục khám nặng điểm là u vàng gân (6) và cung giác mạc trước 45 tuổi (4): phải sờ gân Achilles và nhìn giác mạc mới biết. Chú mất đột ngột lúc 46 tuổi là người thân bậc 2, không tính điểm nhưng đủ để nghĩ tới ca chỉ điểm (ESC/EAS 2019, mục 9.1.2.1).",
+     "Vì sao không tính nguy cơ 10 năm: PREVENT-ASCVD dùng cho 30–79 tuổi (ACC/AHA 2026, mục 4.2.3.2 KC 1), SCORE2 cho 40–89 tuổi (ESC/EAS 2025, Bảng khuyến cáo 1). Anh 29 tuổi nằm ngoài cả hai, và công cụ chuẩn không được dùng cho FH (ACC/AHA 2026, mục 4.2.4.1 KC 2, COR 3: Harm). Phân tầng dựa vào LDL-C: 'nguy cơ cao' vì LDL-C > 4,9 mmol/L (ESC/EAS 2025, Bảng 3) và chỉ định statin liều tối đa dung nạp cho LDL-C ≥ 190 mg/dL (ACC/AHA 2026, mục 4.2.4.3 KC 2). Cha nhồi máu cơ tim sớm là yếu tố làm tăng nguy cơ (ACC/AHA 2026, Bảng 13).",
+     "Đau cơ: đối xứng, gốc chi, vài ngày sau khi bắt đầu statin là kiểu đau cơ do statin (ACC/AHA 2026, mục 4.2.11, Synopsis). Chưa quy hết cho statin được: men gạo đỏ cùng cơ chế (ESC/EAS 2019, mục 7.5.2), tập chân nặng mới (ACC/AHA 2026, Bảng 24), và nhiều trường hợp do kỳ vọng tiêu cực, 'hiệu ứng drucebo' (ACC/AHA 2026, mục 4.2.11 giải thích KC 1; ESC/EAS 2019, mục 8.1.4.1).",
+     "Không bắt buộc đo CK: CK đo khi đau cơ nặng hoặc yếu cơ (ACC/AHA 2026, mục 4.2.11, KC 1); CK ≥ 10 lần giới hạn trên kèm đau nặng hoặc yếu cơ thì ngưng statin. Anh đau 4/10, sức cơ 5/5, nước tiểu bình thường. (ESC/EAS 2019, Bảng 13 đo CK cho mọi đau cơ, cũ hơn: chấm a, xem phiếu mâu thuẫn.)",
+     "Lo ngại gan: AST 38, ALT 35 bình thường. ALT đo trước khi dùng statin và một lần sau 8–12 tuần khởi trị, rồi không theo dõi thường quy; ALT ≥ 3 lần giới hạn trên mới phải ngưng hoặc giảm liều (ESC/EAS 2019, Bảng 13; mục 8.1.4.2). Không có trong tài liệu đã tải mối liên quan giữa hóa chất tẩy rửa và rối loạn lipid hay độc gan: anh cần được trấn an bằng số đo, không phải bằng suy đoán.",
+     "Bẫy không điển hình: anh trẻ, gầy, đến vì 'đau cơ' và 'lo thuốc' nên dễ chỉ xử trí đau cơ mà quên LDL-C ≈ 235 mg/dL và khả năng FH; hoặc ngược lại kết luận 'không dung nạp statin' sau 5 ngày thuốc không kê đơn rồi bỏ điều trị (ACC/AHA 2026, mục 4.2.4.3 và 4.2.11)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng men gạo đỏ vì cùng cơ chế statin, hàm lượng không rõ (ESC/EAS 2019, mục 7.5.2) và thực phẩm chức năng không được khuyến cáo để hạ LDL-C (ACC/AHA 2026, mục 4.1.5, KC 1, COR 3: No Benefit). Ngưng atorvastatin mượn tạm thời để tách nguyên nhân; triệu chứng thường hết trong thời gian tương tự sau ngưng và tái phát khi dùng lại (ACC/AHA 2026, mục 4.2.11, Synopsis). Đây không phải 'bỏ điều trị': khởi lại bằng thuốc có kê đơn ở lượt sau.",
+     "Cách nói với anh Huy: ghi nhận lo ngại, nói rõ nguy cơ tim mạch tăng khi bỏ điều trị hạ LDL-C và có nhiều phương án thay thế (ACC/AHA 2026, mục 4.2.11, KC 2, COR 1). Không trách việc dùng thuốc của bố; việc đó là chìa khóa để anh kể hết.",
+     "Cận lâm sàng cần: lipid nhịn ăn (ACC/AHA 2026, mục 3.2 KC 2), TSH/FT4, AST/ALT, glucose, creatinin. Không cần: công thức máu, CRP, siêu âm bụng, ECG, troponin, X-quang, CT vì không có chỉ định và không đổi xử trí. Lp(a), ApoB, xét nghiệm gen không có trong danh mục của app; Lp(a) nên đo một lần cho mọi người lớn (ACC/AHA 2026, mục 3.4, KC 1), bàn ở lượt sau.",
+     "Hai cách chấp nhận (a): (1) dùng thuốc hạ mỡ máu có kê đơn ngay hôm nay và theo dõi đau cơ (ESC/EAS 2019, Bảng 13); (2) lối sống 2–3 tháng rồi mới dùng thuốc nếu chưa đạt (QĐ 3879/2014, mục IV.4). QĐ 3879/2014 cũ hơn ACC/AHA 2026 (mục 4.2.4.3 KC 2: statin liều tối đa dung nạp cho LDL-C ≥ 190 mg/dL) nhưng không bị tài liệu mới nói là có hại.",
+     "Tránh gemfibrozil cùng statin (ESC/EAS 2019, mục 8.1.4.6; ACC/AHA 2026, mục 4.2.1.3): tăng nguy cơ bệnh cơ và không có chỉ định vì TG bình thường (QĐ 3879/2014, mục IV.4.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Viên men gạo đỏ (thực phẩm chức năng)",
+      "ham_luong": "Nhãn không ghi hàm lượng",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Ngưng hẳn",
+      "ghi_chu": "ESC/EAS 2019, mục 7.5.2; ACC/AHA 2026, mục 4.1.5 KC 1. Mang lọ thuốc tới lần khám sau để xem nhãn."
+     },
+     {
+      "thuoc": "Atorvastatin 20 mg (mượn của bố)",
+      "ham_luong": "20 mg",
+      "lieu": "Ngưng, chưa kê thay hôm nay",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Ngưng tạm, khởi lại thuốc có kê đơn sau tái khám",
+      "ghi_chu": "ACC/AHA 2026, mục 4.2.11 Synopsis và KC 2. Không dùng thuốc của người khác."
+     },
+     {
+      "thuoc": "Đa vitamin và khoáng",
+      "ham_luong": "1 viên",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Giữ nguyên",
+      "ghi_chu": "Đang dùng; tài liệu đã tải không nêu ảnh hưởng của đa vitamin lên lipid, CK hay ALT nên không cần ngưng."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn viên men gạo đỏ và atorvastatin của bố; mang lọ men gạo đỏ tới lần khám sau (ESC/EAS 2019, mục 7.5.2). Không tự dùng thuốc của người khác.",
+     "Mỡ máu của anh là thật và cần điều trị (LDL-C ≈ 235 mg/dL). Ngưng thuốc chỉ để tìm nguyên nhân đau cơ rồi khởi lại thuốc phù hợp (ACC/AHA 2026, mục 4.2.11, KC 2).",
+     "Tạm giảm tập chân nặng khoảng 2 tuần, vẫn đi bộ; sau đó tập lại dần (ACC/AHA 2026, mục 4.2.11, giải thích KC 1; mục 4.1.4).",
+     "Đến khám ngay nếu yếu cơ rõ, đau cơ dữ dội, nước tiểu sẫm như nước trà hoặc sốt (ESC/EAS 2019, mục 8.1.4.1).",
+     "AST, ALT bình thường: gan chưa bị ảnh hưởng. Sự cố hóa chất đã qua, phổi sạch.",
+     "Nhờ bố mang hồ sơ tim mạch và các phiếu mỡ máu cũ; rủ chị gái 25 tuổi đi xét nghiệm mỡ máu (ACC/AHA 2026, mục 3.1, KC 3).",
+     "Tái khám sau 2 tuần, khi triệu chứng đã hết hẳn (ACC/AHA 2026, mục 4.2.11, Synopsis)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần. Anh Huy hết đau cơ hoàn toàn từ ngày thứ 5 sau khi ngưng thuốc, đi làm bình thường. Sinh hiệu: HA 116/70 mmHg, mạch 66 l/p, cân nặng 64 kg.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Hai chân em hết đau hẳn rồi, em đi làm bình thường. Em đã bỏ hết thuốc với viên men gạo đỏ, em mang lọ này theo cho bác sĩ xem. Giờ mỡ máu của em tính sao, có phải uống thuốc không bác sĩ? Em sợ uống lại sẽ đau nữa.",
+   "sinh_hieu": {
+    "mach": 66,
+    "ha": "116/70",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "het_dau",
+     "noi_dung": "Hết đau cơ hoàn toàn từ ngày thứ 5 sau ngưng. Hai tuần nay không dùng men gạo đỏ hay atorvastatin, chỉ uống đa vitamin. Đi bộ và chạy máy nhẹ, chưa tập chân nặng lại. Không yếu cơ, nước tiểu bình thường, không sốt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ hoàn toàn: tiêu chí xác nhận hết đau cơ"
+    },
+    {
+     "id": "lo_ngai",
+     "noi_dung": "Sợ uống thuốc lại bị đau cơ, sợ hại gan; đọc báo thấy 'statin phải uống cả đời'. Muốn 'thuốc nhẹ nhất'. Dược sĩ ở nhà thuốc khuyên 'thôi, dùng thực phẩm chức năng cho lành'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo ngại thuốc: cần ghi nhận và giải thích (nocebo)"
+    },
+    {
+     "id": "gia_dinh2",
+     "noi_dung": "Bố đã đi khám tim mạch và lục được phiếu cũ: LDL-C 5,9 mmol/L ba năm trước khi chưa dùng thuốc. Chị gái 25 tuổi chưa xét nghiệm, đồng ý đi nếu anh dặn. Mẹ chưa xét nghiệm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dữ liệu gia đình bổ sung: gợi ý FH, cần tầm soát tầng"
+    },
+    {
+     "id": "an_uong2",
+     "noi_dung": "Đã bớt đồ chiên, ăn thêm rau và trái cây; ca đêm vẫn ăn mì gói. Bia 1 lon cuối tuần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thay đổi ăn uống"
+    },
+    {
+     "id": "hoa_chat2",
+     "noi_dung": "Không còn ho hay khò khè. Sự cố hóa chất đã được khách sạn xử lý xong.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hóa chất: không còn triệu chứng"
+    }
+   ],
+   "kham": {
+    "co_xuong_khop": {
+     "a": "Không đau khi ấn cơ tứ đầu đùi và bắp chân hai bên, không co cứng.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Sức cơ 5/5, đứng lên khỏi ghế không chống tay 5 lần dễ dàng, phản xạ gân xương đều.",
+     "k": 1
+    },
+    "da": {
+     "a": "Vẫn không u vàng, gân Achilles và gân duỗi ngón tay bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 7,6 · LDL-C 5,9 · HDL-C 1,1 · TG 1,4 mmol/L (ngưng thuốc 2 tuần, nhịn ăn)",
+     "ab": 1,
+     "n": "Xác nhận LDL-C chưa điều trị vẫn ≥ 4,9 mmol/L và hữu ích cho điểm Dutch ('LDL-C without treatment', ESC/EAS 2019, Bảng 12). Không bắt buộc vì đã có phiếu 21 ngày trước và phiếu cũ của bố."
+    },
+    "tsh": {
+     "n": "Đã bình thường ở lượt 1 (TSH 2,1 mUI/L), không có triệu chứng mới: không lặp lại."
+    },
+    "liver": {
+     "n": "AST, ALT bình thường ở lượt 1; không theo dõi thường quy (ESC/EAS 2019, mục 8.1.4.2, Bảng 13). Sẽ đo lại khi có chỉ định lâm sàng."
+    },
+    "creat": {
+     "n": "Đã bình thường ở lượt 1; đã hết đau cơ."
+    },
+    "ck": {
+     "v": "n",
+     "r": "CK 110 U/L",
+     "n": "Đã hết đau cơ, không yếu cơ: không cần đo CK (ACC/AHA 2026, mục 4.2.11 KC 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng cholesterol máu nguyên phát mức nặng (LDL-C chưa điều trị 6,1; sau ngưng thuốc 2 tuần 5,9 mmol/L), có thể FH dị hợp tử (Dutch 4 điểm), chưa có bệnh tim mạch xơ vữa",
+     "ok": 1,
+     "n": "LDL-C ≥ 4,9 mmol/L (ACC/AHA 2026, mục 4.2.4.3); Dutch 4 điểm (ESC/EAS 2019, Bảng 12); cha có LDL-C chưa điều trị 5,9 mmol/L củng cố khả năng FH nhưng không thêm điểm (cùng nhóm tiền sử gia đình)."
+    },
+    {
+     "t": "Đau cơ do statin/men gạo đỏ, đa yếu tố, đã hết hoàn toàn sau ngưng 2 tuần; chưa đủ để kết luận không dung nạp statin",
+     "ok": 1,
+     "n": "Hết sau ngưng và có thể tái phát khi dùng lại là đặc điểm của đau cơ do statin (ACC/AHA 2026, mục 4.2.11, Synopsis); cần thử lại bằng thuốc có kê đơn mới biết."
+    },
+    {
+     "t": "Không dung nạp statin",
+     "n": "Phần lớn người bệnh vẫn tìm được phác đồ dung nạp (ACC/AHA 2026, mục 4.2.11, Synopsis). Bối cảnh nhiều yếu tố gây nhiễu nên chưa kết luận."
+    },
+    {
+     "t": "RL lipid thứ phát (suy giáp)",
+     "n": "TSH 2,1 mUI/L, FT4 bình thường ở lượt 1, không triệu chứng suy giáp, tuyến giáp bình thường (ACC/AHA 2026, Bảng 15)."
+    },
+    {
+     "t": "Tăng lipid máu hỗn hợp có tính gia đình (FCH)",
+     "n": "TG 1,4 mmol/L không tăng; gợi ý FCH khi ApoB > 120 mg/dL và TG > 1,5 mmol/L kèm tiền sử gia đình (ESC/EAS 2019, mục 9.1.1). LDL-C tăng đơn độc, cha LDL-C cao: nghiêng về FH."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận đã hết hẳn đau cơ (không đau ấn, sức cơ 5/5, nước tiểu bình thường), rồi khởi lại thuốc hạ LDL-C có kê đơn; giải thích nguy cơ khi bỏ điều trị",
+     "v": "c",
+     "n": "Triệu chứng thường hết trong thời gian tương tự sau ngưng (ACC/AHA 2026, mục 4.2.11, Synopsis); khởi lại thuốc bảo vệ tim mạch là thiết yếu (giải thích KC 2). Statin liều tối đa dung nạp là bước đầu cho LDL-C ≥ 190 mg/dL (ACC/AHA 2026, mục 4.2.4.3, KC 2, COR 1)."
+    },
+    {
+     "t": "Rosuvastatin 10 mg mỗi ngày (statin khác loại đã gây đau cơ), nâng lên 20 mg (cường độ cao) nếu dung nạp và chưa đạt mục tiêu",
+     "v": "c",
+     "n": "Thử lại bằng statin khác là một lựa chọn (ACC/AHA 2026, mục 4.2.11, giải thích KC 2); rosuvastatin 5–40 mg/ngày, 10 mg cường độ vừa, 20 mg cường độ cao (Bảng 5, 6); QĐ 3879/2014, mục IV.4.1: rosuvastatin 10–20 mg, tối đa 40 mg. Liều thấp trước vì vừa có đau cơ, lên liều theo kết quả lipid là cách người biên soạn chọn."
+    },
+    {
+     "t": "Hẹn lipid sau 4–12 tuần; chưa đạt thì thêm ezetimibe 10 mg",
+     "v": "c",
+     "n": "Lipid 4–12 tuần sau khởi trị hoặc đổi liều, rồi mỗi 6–12 tháng (ACC/AHA 2026, mục 3.5, KC 1, COR 1, A). Thêm ezetimibe khi đã dùng statin liều tối đa dung nạp mà chưa đạt mục tiêu (mục 4.2.4.3, KC 3–4); ezetimibe giảm thêm khoảng 25% khi phối hợp statin (Bảng 5)."
+    },
+    {
+     "t": "Đặt mục tiêu: giảm ≥ 50% LDL-C so với 6,1 (tức ≤ 3,0 mmol/L) và tối thiểu < 2,6 mmol/L (non-HDL-C < 3,4); nếu xác nhận HeFH thì < 1,8 mmol/L (non-HDL-C < 2,6)",
+     "v": "c",
+     "n": "ACC/AHA 2026, mục 4.2.4.3, giải thích 3 (mục tiêu tối thiểu < 100 mg/dL), KC 4 (HeFH: < 70 mg/dL); giảm ≥ 50% (ESC/EAS 2019, Bảng 7). Nhắm thẳng < 1,8 mmol/L theo ESC/EAS 2025 (Bảng 3, nhóm nguy cơ cao): chấp nhận (a), xem phiếu mâu thuẫn."
+    },
+    {
+     "t": "Xét nghiệm gen panel FH (LDLR, APOB, PCSK9) và đo Lp(a) một lần",
+     "v": "c",
+     "n": "Có thể FH: xét nghiệm gen có lợi (ACC/AHA 2026, mục 4.2.4.2, KC 1, COR 1); LDL-C ≥ 190 mg/dL không nguyên nhân thứ phát: có ích (KC 2). Lp(a) một lần cho mọi người lớn (mục 3.4, KC 1); ESC/EAS 2025 nêu nên cân nhắc đo ít nhất một lần trong đời. Gen và Lp(a) không có trong danh mục của app."
+    },
+    {
+     "t": "Tầm soát tầng: cha (đã có phiếu), chị gái 25 tuổi, mẹ bằng lipid ± gen; đo Lp(a) người thân bậc 1",
+     "v": "c",
+     "n": "ACC/AHA 2026, mục 3.1 KC 3 (lipid ở người thân bậc 1–2 của người có bệnh tim mạch sớm hoặc FH, COR 2a); mục 4.2.4.2 giải thích 1 (tầm soát tầng bằng lipid khi không làm được gen); mục 3.4, KC 2 (Lp(a) bậc 1); ESC/EAS 2019, mục 9.1.2.1."
+    },
+    {
+     "t": "Ăn nhiều rau, đậu, hạt, ngũ cốc nguyên hạt, thay mỡ bão hòa bằng mỡ không bão hòa; tập tăng dần tới ≥ 150 phút/tuần cộng tập kháng lực 2 ngày/tuần",
+     "v": "c",
+     "n": "ACC/AHA 2026, mục 4.1.2.1 KC 1 (COR 1, B-R); mục 4.1.4 KC 1 (COR 1, B-R); người trẻ 18–39 tuổi nên được tư vấn ăn, vận động, cân nặng (mục 4.2.8.2 KC 1). Hạn chế rượu: rượu là yếu tố nguy cơ đau cơ do statin (Bảng 24)."
+    },
+    {
+     "t": "Dặn khi đau cơ tái phát: không tự bỏ thuốc, quay lại bàn đổi statin, giảm tần suất uống hoặc thêm thuốc không statin",
+     "v": "c",
+     "n": "ACC/AHA 2026, mục 4.2.11, KC 2 và giải thích 2: thử statin khác, uống không hằng ngày với statin tác dụng dài, hoặc thêm ezetimibe/thuốc không statin; ESC/EAS 2019, Bảng 13: liều thấp, cách ngày hoặc 1–2 lần/tuần, hoặc phối hợp thuốc."
+    },
+    {
+     "t": "Phối hợp ezetimibe 10 mg ngay từ đầu cùng statin",
+     "v": "a",
+     "n": "ESC/EAS 2019, mục 9.1.2.1: FH khởi trị bằng statin cường độ cao, thường phối hợp ezetimibe. ACC/AHA 2026 (mới hơn), mục 4.2.4.3 KC 3–4: thêm ezetimibe sau statin liều tối đa dung nạp. Cả hai chấp nhận được."
+    },
+    {
+     "t": "Atorvastatin 20 mg có kê đơn thay cho rosuvastatin",
+     "v": "a",
+     "n": "ESC/EAS 2019, Bảng 13: có thể thử lại cùng statin hoặc statin khác. QĐ 3879/2014, mục IV.4.1: atorvastatin 10–20 mg, tối đa 80 mg; ACC/AHA 2026, Bảng 6: 10–20 mg cường độ vừa."
+    },
+    {
+     "t": "Lối sống 2–3 tháng rồi mới dùng thuốc nếu chưa đạt",
+     "v": "a",
+     "n": "QĐ 3879/2014, RL lipid máu mục IV.4. ACC/AHA 2026 (mới hơn), mục 4.2.4.3 KC 2: statin liều tối đa dung nạp ngay cho LDL-C ≥ 190 mg/dL. Cách cũ không bị tài liệu mới nói có hại nên chấp nhận."
+    },
+    {
+     "t": "Rosuvastatin 40 mg hoặc atorvastatin 80 mg ngay liều đầu",
+     "v": "w",
+     "n": "Liều cao làm tăng nguy cơ đau cơ do statin (ACC/AHA 2026, Bảng 24) và anh vừa đau cơ; lên liều dần theo lipid và dung nạp."
+    },
+    {
+     "t": "Chụp CT tính điểm canxi mạch vành rồi dựa vào điểm 0 để hoãn statin",
+     "v": "w",
+     "n": "Không chỉ định ở người FH; điểm canxi 0 không dùng để 'giảm nguy cơ' hay hoãn statin (ACC/AHA 2026, mục 4.2.4.1, Synopsis). ESC/EAS 2019, mục 9.1.2.1: bắt đầu thuốc càng sớm càng tốt sau chẩn đoán FH."
+    },
+    {
+     "t": "Dùng men gạo đỏ hoặc thực phẩm chức năng thay statin",
+     "v": "w",
+     "n": "ACC/AHA 2026, mục 4.1.5, KC 1 (COR 3: No Benefit); ESC/EAS 2019, mục 7.5.2 chỉ cho cân nhắc ở người cholesterol cao chưa đủ điều kiện dùng statin: anh đủ chỉ định statin."
+    },
+    {
+     "t": "Tính PREVENT hoặc SCORE2, thấy nguy cơ 10 năm thấp thì chỉ khuyên lối sống",
+     "v": "w",
+     "n": "PREVENT 30–79 tuổi (ACC/AHA 2026, mục 4.2.3.2 KC 1), SCORE2 40–89 tuổi (ESC/EAS 2025); công cụ chuẩn không dùng cho FH (ACC/AHA 2026, mục 4.2.4.1 KC 2, COR 3: Harm); LDL-C ≥ 190 mg/dL có chỉ định statin không phụ thuộc điểm (mục 4.2.4.3 KC 2)."
+    },
+    {
+     "t": "Kết luận không dung nạp statin và ngưng mọi thuốc hạ LDL-C",
+     "v": "w",
+     "n": "ACC/AHA 2026, mục 4.2.11, KC 2: phải nói rõ nguy cơ tim mạch tăng khi ngưng statin; anh có LDL-C ≈ 235 mg/dL và có thể FH, người trẻ FH nguy cơ trọn đời cao tới 17 lần (mục 4.2.4.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng cholesterol máu nguyên phát mức nặng: LDL-C chưa điều trị 6,1 mmol/L; ngưng thuốc 2 tuần 5,9 mmol/L; cha LDL-C 5,9 mmol/L chưa điều trị",
+     "Có thể là tăng cholesterol máu gia đình dị hợp tử (Dutch 4 điểm), chưa có bệnh tim mạch xơ vữa; cần xét nghiệm gen",
+     "Đau cơ do statin/men gạo đỏ đa yếu tố, đã hết hoàn toàn sau ngưng; chưa kết luận không dung nạp statin",
+     "Đã loại trừ: suy giáp (TSH 2,1 mUI/L, FT4 bình thường), tăng lipid hỗn hợp gia đình (TG 1,4 mmol/L)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự làm: hỏi (hết đau từ khi nào, đã ngưng đủ thuốc chưa, lo ngại, gia đình) → khám cơ và gân → lipid sau ngưng thuốc → chẩn đoán → xử trí và kế hoạch dài hạn.",
+     "Tiêu chí xác nhận hết đau cơ: không đau tự nhiên, không đau khi ấn, sức cơ 5/5, nước tiểu bình thường, và hết sau ngưng thuốc trong thời gian tương tự lúc khởi phát (ACC/AHA 2026, mục 4.2.11, Synopsis). Hết hẳn khi đã tách men gạo đỏ, atorvastatin và tập nặng, nên chưa biết tác nhân nào: phải thử lại bằng thuốc có kê đơn, liều chọn có chủ đích.",
+     "Vì sao vẫn cần lipid dù đã có phiếu cũ: LDL-C chưa điều trị là mốc để tính Dutch (ESC/EAS 2019, Bảng 12) và để tính mức giảm sau điều trị. Hai tuần sau ngưng thuốc, LDL-C 5,9 mmol/L gần với mốc 6,1: xác nhận.",
+     "Vì sao chưa đo lại TSH, AST/ALT, glucose, creatinin: kết quả lượt 1 bình thường và không có triệu chứng mới; ALT không theo dõi thường quy khi dùng statin (ESC/EAS 2019, mục 8.1.4.2, Bảng 13).",
+     "Dutch vẫn 4 điểm: cha LDL-C cao và cha nhồi máu cơ tim sớm cùng thuộc nhóm 'tiền sử gia đình' (chỉ lấy điểm cao nhất của nhóm), khám không u vàng gân và cung giác mạc (ESC/EAS 2019, Bảng 12). 'Có thể' FH đủ chỉ định xét nghiệm gen (ACC/AHA 2026, mục 4.2.4.2, KC 1). Không có gen dương tính cũng không loại trừ FH khi lâm sàng phù hợp (cùng mục, giải thích 1).",
+     "Điều dễ bỏ qua khi đã 'khỏi': người bệnh hết đau và tưởng hết chuyện. Thật ra vấn đề chính (LDL-C ≈ 235 mg/dL, có thể FH ở người 29 tuổi) chưa được điều trị, và còn việc tầm soát gia đình, Lp(a), mục tiêu lipid, lịch xét nghiệm lại (ACC/AHA 2026, mục 4.2.4, 3.4, 3.5)."
+    ],
+    "phan_tich_xu_tri": [
+     "Khởi lại statin vì LDL-C ≥ 190 mg/dL: statin liều tối đa dung nạp là bước đầu (ACC/AHA 2026, mục 4.2.4.3, KC 2, COR 1, B-R). Chọn rosuvastatin vì là statin khác loại với atorvastatin đã gây đau cơ (ACC/AHA 2026, mục 4.2.11, giải thích KC 2), bắt đầu 10 mg rồi lên 20 mg theo lipid và dung nạp (Bảng 5, 6; QĐ 3879/2014, mục IV.4.1). Tốc độ lên liều là lựa chọn của người biên soạn.",
+     "Mục tiêu: giảm ≥ 50% so với 6,1 mmol/L (ESC/EAS 2019, Bảng 7) và tối thiểu LDL-C < 2,6 mmol/L, non-HDL-C < 3,4 mmol/L (ACC/AHA 2026, mục 4.2.4.3, giải thích 3, KC 3). Nếu gen xác nhận HeFH: < 1,8 và non-HDL-C < 2,6 mmol/L (KC 4); ESC/EAS 2019 mục 9.1.2.1 và ESC/EAS 2025 (Bảng 3) cũng đưa nhóm này tới < 1,8 mmol/L. Chưa đạt dù statin liều tối đa dung nạp: thêm ezetimibe, kháng thể PCSK9 hoặc bempedoic acid (KC 3–4).",
+     "Lịch: lipid sau 4–12 tuần rồi mỗi 6–12 tháng (ACC/AHA 2026, mục 3.5, KC 1); ESC/EAS 2019, Bảng 13 nêu 8 (± 4) tuần. ALT một lần sau 8–12 tuần khởi trị, CK chỉ khi đau cơ; không theo dõi thường quy (ESC/EAS 2019, Bảng 13).",
+     "Gen panel, Lp(a) và tầm soát gia đình: xem phần xử trí (ACC/AHA 2026, mục 4.2.4.2, 3.4, 3.1). Hai người nhà quan trọng nhất là cha (đã có bệnh sớm, có thể là người mang biến thể) và chị gái 25 tuổi (cơ hội điều trị sớm).",
+     "Không tính PREVENT/SCORE2, không chờ điểm canxi, không dùng thực phẩm chức năng thay thuốc: giải thích ở bảng xử trí.",
+     "Cách cũ theo BYT (QĐ 3879/2014) chấm a: lối sống 2–3 tháng trước khi dùng thuốc, atorvastatin 10–20 mg. Phối hợp ezetimibe ngay (ESC/EAS 2019) chấm a. Nhắm LDL-C < 1,8 ngay (ESC/EAS 2025) chấm a."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Rosuvastatin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày; uống lúc nào cũng được vì thời gian bán thải dài",
+      "so_ngay": "Dùng lâu dài; lipid lại sau 4–12 tuần rồi nâng 20 mg nếu dung nạp, chưa đạt mục tiêu",
+      "ghi_chu": "ACC/AHA 2026, Bảng 5 (rosuvastatin 5–40 mg × 1 lần/ngày; thời điểm bất kỳ trong ngày), Bảng 6 (10 mg cường độ vừa, 20 mg cao); QĐ 3879/2014, mục IV.4.1 (10–20 mg, tối đa 40 mg). Rosuvastatin là statin khác loại với atorvastatin đã gây đau cơ."
+     },
+     {
+      "thuoc": "Ezetimibe (kế hoạch, chưa kê hôm nay)",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một lần mỗi ngày",
+      "so_ngay": "Chỉ thêm nếu lipid 4–12 tuần chưa đạt mục tiêu dù statin liều tối đa dung nạp",
+      "ghi_chu": "ACC/AHA 2026, mục 4.2.4.3 KC 3–4; Bảng 5 (10 mg × 1 lần/ngày, giảm thêm khoảng 25% khi phối hợp statin); QĐ 3879/2014, mục IV.4.5 (10 mg/ngày)."
+     },
+     {
+      "thuoc": "Đa vitamin và khoáng",
+      "ham_luong": "1 viên",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Giữ nguyên",
+      "ghi_chu": "Đang dùng; tài liệu đã tải không nêu ảnh hưởng của đa vitamin lên lipid, CK hay ALT."
+     }
+    ],
+    "dan_do": [
+     "Uống rosuvastatin mỗi ngày một giờ cố định. Không tự ngưng, không tự thêm men gạo đỏ hay thuốc của người khác (ESC/EAS 2019, mục 7.5.2; ACC/AHA 2026, mục 4.1.5).",
+     "Nếu đau cơ quay lại: liên hệ bác sĩ, đừng tự bỏ thuốc; còn nhiều cách (đổi statin, giảm tần suất, thêm thuốc không statin) (ACC/AHA 2026, mục 4.2.11, KC 2). Yếu cơ rõ, đau dữ dội, nước tiểu sẫm màu: đi khám ngay (ESC/EAS 2019, mục 8.1.4.1).",
+     "Xét nghiệm lipid sau 4–12 tuần, sau đó mỗi 6–12 tháng (ACC/AHA 2026, mục 3.5). Lần lấy máu tới làm thêm Lp(a); xét nghiệm gen FH theo hướng dẫn của phòng khám (ACC/AHA 2026, mục 3.4, 4.2.4.2).",
+     "Ăn nhiều rau, đậu, hạt, ngũ cốc nguyên hạt, thay mỡ bão hòa bằng dầu thực vật (ACC/AHA 2026, mục 4.1.2.1). Bớt mì gói và đồ chiên; hạn chế bia rượu (ACC/AHA 2026, Bảng 24).",
+     "Tập lại từ từ: aerobic vừa đến mạnh ≥ 150 phút/tuần, tập tạ toàn thân 2 ngày/tuần, tăng tạ dần, tránh tăng mức tạ đột ngột (ACC/AHA 2026, mục 4.1.4, KC 1).",
+     "Nhắn cha mang hồ sơ tim mạch, rủ chị gái 25 tuổi và mẹ đi xét nghiệm mỡ máu (ACC/AHA 2026, mục 3.1, KC 3). Giữ lọ men gạo đỏ lại cho bác sĩ xem nhãn.",
+     "Tái khám sau khi có kết quả lipid 4–12 tuần (ACC/AHA 2026, mục 3.5, KC 1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Huy dung nạp rosuvastatin 10 mg, không đau cơ lại. Sau 6 tuần LDL-C 3,6 mmol/L (giảm 41%); nâng rosuvastatin 20 mg và thêm ezetimibe 10 mg, sau 12 tuần LDL-C 2,5 mmol/L (giảm 59%). Panel gen: biến thể gây bệnh ở LDLR (HeFH xác nhận), cha và chị gái cùng biến thể; mục tiêu đổi sang < 1,8 mmol/L. Thuốc kháng thể PCSK9 được bàn nhưng anh từ chối vì chi phí. Anh tuân thủ, LDL-C giữ quanh 2,3 mmol/L. Hai năm sau, lúc 31 tuổi, anh vào viện vì đau ngực khi leo cầu thang: nhồi máu cơ tim không ST chênh, hẹp nặng động mạch liên thất trước, được đặt stent. Mọi quyết định ở hai lượt đều đúng; kết cục xấu phản ánh hàng chục năm phơi nhiễm LDL-C cao từ nhỏ (ở người FH dưới 35 tuổi, nguy cơ trọn đời có thể cao gấp 17 lần: ACC/AHA 2026, mục 4.2.4.1) chứ không phải sai sót xử trí. Chi tiết kết cục là tình huống hư cấu để dạy chống 'outcome bias'; số liệu sau 6 và 12 tuần không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Tự uống atorvastatin mượn của bố 5 ngày và men gạo đỏ 2 tuần: làm LDL-C hôm nay (4,3 mmol/L) thấp hơn thật, gây đau cơ; hỏi chung chỉ kể đa vitamin, phải hỏi đích danh thuốc hạ mỡ máu, thuốc mượn, thực phẩm chức năng và số ngày.",
+  "Lo 'hóa chất làm hỏng gan', sợ bị trách vì tự dùng thuốc: trấn an bằng AST/ALT bình thường, không trách, hỏi 'anh lo gì nhất' để lộ lý do thật."
+ ],
+ "bai_hoc_bien": [
+  "Tự uống thuốc trước khi khám: hỏi đích danh thuốc hạ mỡ máu, thuốc của người nhà, thực phẩm chức năng, số ngày. Men gạo đỏ chứa monacolin cùng cơ chế statin, hàm lượng không rõ (ESC/EAS 2019, mục 7.5.2); thực phẩm chức năng không được khuyến cáo để hạ LDL-C (ACC/AHA 2026, mục 4.1.5, KC 1).",
+  "LDL-C đo khi đã dùng thuốc không phải mốc gốc: dùng giá trị chưa điều trị để phân loại (ESC/EAS 2019, Bảng 7, chú thích b). LDL-C ≥ 190 mg/dL: loại trừ nguyên nhân thứ phát (suy giáp...) rồi statin liều tối đa dung nạp (ACC/AHA 2026, mục 4.2.4.3, KC 1–2).",
+  "Ca không điển hình ở người trẻ: gầy, không triệu chứng, đến vì chuyện khác. Sờ gân Achilles, nhìn giác mạc, hỏi bệnh mạch vành sớm trong gia đình; tính Dutch (ESC/EAS 2019, Bảng 12). PREVENT (30–79 tuổi) và SCORE2 (40–89 tuổi) không áp dụng được ở 29 tuổi và không dùng cho FH (ACC/AHA 2026, mục 4.2.3.2, 4.2.4.1; ESC/EAS 2025).",
+  "Đau cơ khi dùng statin: loại trừ nguyên nhân thứ phát (suy giáp, vận động gắng sức, tương tác), đo CK khi đau nặng hoặc yếu cơ; phần lớn tìm được phác đồ dung nạp: statin khác, giảm tần suất, thêm thuốc không statin (ACC/AHA 2026, mục 4.2.11).",
+  "Đỡ hoàn toàn khi tái khám vẫn chưa xong: vấn đề chính (LDL-C ≈ 235 mg/dL, có thể FH) còn nguyên; việc cần làm khi 'đã khỏi' là khởi lại thuốc có chủ đích, gen, Lp(a), tầm soát gia đình, lịch lipid.",
+  "Chống 'outcome bias': quyết định đúng vẫn có thể gặp kết cục xấu. Đánh giá chất lượng quyết định theo thông tin lúc đó, không theo kết quả sau này."
+ ],
+ "diem_nho": [
+  "Tăng cholesterol máu nặng: LDL-C ≥ 190 mg/dL (4,9 mmol/L) → loại trừ thứ phát, statin liều tối đa dung nạp (ACC/AHA 2026, mục 4.2.4.3, KC 1–2). Mục tiêu tối thiểu < 100 mg/dL (2,6 mmol/L), non-HDL-C < 130 (3,4); có HeFH hoặc yếu tố nguy cơ khác: < 70 mg/dL (1,8), non-HDL-C < 100 (2,6) (KC 3–4).",
+  "Dutch: 3–5 điểm có thể, 6–8 chắc chắn, > 8 xác định FH (ESC/EAS 2019, Bảng 12). Gen panel khi có thể/chắc/xác định FH (ACC/AHA 2026, mục 4.2.4.2, KC 1).",
+  "Cường độ statin (giảm LDL-C): cao ≥ 50% (atorvastatin 40–80 mg, rosuvastatin 20–40 mg), vừa 30–49% (atorvastatin 10–20 mg, rosuvastatin 5–10 mg) (ACC/AHA 2026, Bảng 6).",
+  "Lipid 4–12 tuần sau khởi trị hoặc đổi liều, rồi mỗi 6–12 tháng (ACC/AHA 2026, mục 3.5, KC 1); ESC/EAS 2019: 8 (± 4) tuần, hằng năm khi đã đạt mục tiêu (Bảng 13).",
+  "CK: đo khi đau cơ nặng hoặc yếu cơ; CK ≥ 10 lần giới hạn trên kèm triệu chứng nặng thì ngưng statin (ACC/AHA 2026, mục 4.2.11). ALT: trước khi dùng và một lần sau 8–12 tuần, không theo dõi thường quy (ESC/EAS 2019, Bảng 13).",
+  "Lp(a): đo một lần cho mọi người lớn (ACC/AHA 2026, mục 3.4, KC 1). Gemfibrozil + statin: tránh (ESC/EAS 2019, mục 8.1.4.6)."
+ ],
+ "nguon": [
+  "ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA 2026 – Hướng dẫn xử trí rối loạn lipid máu (TL-0292) – ĐÃ ĐỌC mục 3.1 (KC 3), 3.2 (KC 1–3), 3.4 (KC 1–2), 3.5 (KC 1), 4.1.2.1 (KC 1), 4.1.4 (KC 1), 4.1.5 (KC 1), 4.2.1.1 (Bảng 5, 6), 4.2.1.3, 4.2.3.2 (KC 1), 4.2.3.3 (Bảng 13), 4.2.4.1 (KC 1–2), 4.2.4.2 (KC 1–3), 4.2.4.3 (KC 1–4, Bảng 15), 4.2.8.2 (KC 1), 4.2.11 (KC 1–2, Bảng 24, 25). KC = khuyến cáo.",
+  "ESC/EAS 2019 – Hướng dẫn rối loạn lipid máu (TL-0320) – ĐÃ ĐỌC Bảng 7, mục 7.5.2, 8.1.4.1, 8.1.4.2, 8.1.4.6, 9.1.1, 9.1.2.1 (Bảng 12), mục 11 (Bảng 13).",
+  "ESC/EAS 2025 – Cập nhật trọng điểm (TL-0298) – ĐÃ ĐỌC Bảng 3 (phân tầng nguy cơ), phần SCORE2/SCORE2-OP (40–89 tuổi), phần Lp(a).",
+  "Bộ Y tế – QĐ 3879/QĐ-BYT 2014 (TL-0039) – ĐÃ ĐỌC Rối loạn chuyển hóa lipid máu mục II.1, II.2, III.1, III.2, IV.1, IV.4 (4.1, 4.2, 4.5, Chú ý); Suy giáp ở người lớn mục IV.1.4, IV.2.1.",
+  "ATA 2014 – Hướng dẫn điều trị suy giáp (TL-0326) – ĐÃ ĐỌC phần câu hỏi 1b–1c (khoảng tham chiếu TSH 0,4–4,0 mUI/L; triệu chứng suy giáp thiếu đặc hiệu)."
+ ],
+ "ghi_chu_bien_tap": [
+  "12/10/2026 – soạn lần đầu. Đã đọc: TL-0292 (ACC/AHA 2026), TL-0320 (ESC/EAS 2019), TL-0298 (ESC/EAS 2025), TL-0039 (QĐ 3879/2014), TL-0326 (ATA 2014); vị trí ghi trong 'nguon'.",
+  "Mâu thuẫn nguồn: (1) khởi thuốc khi LDL-C ≥ 190 mg/dL; (2) mục tiêu LDL-C khi chưa xác nhận HeFH; (3) phối hợp ezetimibe ngay; (4) đo CK khi đau cơ nhẹ; (5) thuốc bảo vệ gan. Đáp án theo ACC/AHA 2026, cách cũ chấm a. Chi tiết: MT-0425_mau_thuan.md.",
+  "Không có trong tài liệu đã tải: mối liên quan hóa chất tẩy rửa với rối loạn lipid hoặc độc gan; khoảng tham chiếu FT4; thời gian ngưng thuốc tối ưu (2 tuần là lựa chọn của người biên soạn); tốc độ lên liều rosuvastatin; số liệu LDL-C sau 6 và 12 tuần và kết cục NMCT (hư cấu); ảnh hưởng của đa vitamin lên lipid/CK/ALT; thời gian tập lại sau đau cơ.",
+  "Danh mục thiếu: CK, Lp(a), ApoB, xét nghiệm gen FH. Ca chạy không cần các mục này; đề xuất thêm 'ck' (xem MT-0425_de_xuat_danh_muc.json).",
+  "Chọn mốc gốc là phiếu khám sức khỏe 21 ngày trước (LDL-C 6,1 mmol/L); LDL-C hôm nay (4,3) và sau ngưng thuốc 2 tuần (5,9) đều cho trong ca. Số liệu lipid khớp Friedewald: TC − HDL − TG/2,2."
+ ]
+}

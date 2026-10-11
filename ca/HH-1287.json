@@ -1,0 +1,701 @@
+{
+ "ma_ca": "HH-1287",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình bản 3, nguồn kèm vị trí (2026-10-11)",
+ "benh": "HH_covid_19",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COVID-19",
+  "chan_doan_phai_loai_tru": [
+   "Cúm mùa",
+   "Viêm phổi vi khuẩn"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Mở lại chẩn đoán",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau tự uống kháng sinh",
+  "thuoc_dang_dung": "Thuốc bôi ngoài da không rõ",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Mận",
+  "tuoi": 82,
+  "gioi": "Nữ",
+  "nghe": "Bán rau, trái cây ở sạp nhỏ chợ xã, ra chợ từ 5 giờ sáng",
+  "can_nang": 42,
+  "chieu_cao": 148,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'; bà xưng 'tui', gọi bác sĩ là 'bác sĩ' hoặc 'con'. Con trai gọi bà là 'má', xưng 'tôi' với bác sĩ.",
+  "tinh_cach": "Lanh lợi, nói nhiều, giọng miền Tây, quen tự mua thuốc ở quầy đầu chợ, tin kháng sinh 'cái gì cũng trị'. Sợ nghỉ chợ, sợ tốn tiền của con.",
+  "kieu_nhieu": "Đòi kháng sinh: xin 'kháng sinh mạnh' hoặc 'chích một mũi cho mau hết', bị từ chối thì nài lần hai ('hồi đó giờ tui uống kháng sinh là hết'). Không coi thuốc bôi là thuốc. Lượt 2 nói 'đỡ đỡ rồi' vì chỉ đến cho đúng hẹn, sợ bị cách ly; con trai đòi chích kháng sinh, truyền dịch tại trạm cho khỏi lên huyện.",
+  "nguoi_nha": "Con trai, anh Lâm Văn Phúc, 56 tuổi, thợ hồ, chở bà bằng xe máy cả hai lượt; nóng ruột, tin 'chích là mau'. Anh biết nhiệt độ đo ở nhà, ăn ngủ, chuyện test COVID tại nhà và cháu Na bị cúm A; không biết hũ thuốc bôi. Hỏi nhiệt độ, ăn uống, sinh hoạt thì anh trả lời thay (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Anh Phúc (con trai)",
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#dcd8d2",
+   "kieuToc": "bui",
+   "ao": "#6f8a6a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#b9835e",
+    "toc": "#2a2019",
+    "kieuToc": "ngan",
+    "ao": "#8a7a5c",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, ho, mệt dù đã tự uống kháng sinh 3 ngày",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Trạm y tế xã không làm được xét nghiệm nào, không có X-quang, không có siêu âm. Có nhiệt kế, máy đo huyết áp, máy đo SpO₂, máy điện tim và bình oxy."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Trần Thị Mận, 82 tuổi, bán rau ở chợ xã, con trai chở đến trạm vì sốt, ho, mệt ngày thứ 3, đã tự mua kháng sinh uống. Tuần này xã đang có nhiều ca cúm A (thông báo của Trung tâm Y tế huyện). Sinh hiệu: nhiệt độ 38,2 °C, mạch 88 l/p, HA 128/76 mmHg, nhịp thở 20 l/p, SpO₂ 97% khí trời, cân nặng 42 kg.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, tui uống kháng sinh ba bữa rồi mà không hết, còn sốt thêm, đi tiêu lỏng nữa. Chắc thuốc tiệm yếu, bác sĩ cho tui kháng sinh mạnh, hay chích một mũi cho mau hết, mai tui còn ra chợ bán.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "128/76",
+    "nhiet": "38,2",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt, ho, mệt 3 ngày, tự uống kháng sinh không đỡ; muốn kháng sinh mạnh hơn hoặc chích để mai ra chợ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, mong muốn (đòi kháng sinh)"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Ngày 1: rát họng, hắt hơi, sổ mũi trong. Chiều ngày 2: sốt 38,4 °C (nhiệt kế), ớn lạnh, đau mỏi khắp người, nhức đầu, ho khan. Ngày 3: đi tiêu lỏng, nhạt miệng, ăn kém.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến theo ngày, khởi phát rầm rộ sau khi đã uống kháng sinh"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Ngày 1 mua ở quầy thuốc đầu chợ, không đơn: amoxicillin 500 mg, 1 viên x 2 lần/ngày, đã uống 6 viên, còn 4 viên; kèm 'thuốc cảm' 2 gói/ngày, mỗi gói có paracetamol 500 mg và clorpheniramin 4 mg (mang theo vỏ).",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chi tiết chỉ nói khi bác sĩ hỏi cụ thể uống thuốc gì, mấy viên hoặc xin xem vỏ thuốc.",
+     "k": 1,
+     "y": "Thuốc tự mua: amoxicillin, clorpheniramin"
+    },
+    {
+     "id": "tieu_chay",
+     "noi_dung": "Từ sáng nay đi tiêu 3 lần phân lỏng vàng, không máu, đau bụng lâm râm. Bà cho là 'kháng sinh nóng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chảy khởi phát sau 2 ngày amoxicillin"
+    },
+    {
+     "id": "ho_hap_duoi",
+     "noi_dung": "Ho khan, ít đờm trắng. Hôm qua vẫn quét nhà, đi bộ ra đầu xóm không phải nghỉ. Không đau ngực, không rét run.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa có dấu hiệu hô hấp dưới"
+    },
+    {
+     "id": "chau_cum",
+     "noi_dung": "(Con trai kể) Cháu nội Na, 8 tuổi, ngủ chung phòng với bà, sốt, ho cách đây khoảng 1 tuần; phòng khám tư test nhanh cúm A dương tính; cháu hết sốt sau 3 ngày.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi trong nhà có ai bệnh giống vậy, có tiếp xúc người sốt, ho không.",
+     "k": 1,
+     "y": "Dịch tễ cúm: tiếp xúc gần ca cúm A khẳng định"
+    },
+    {
+     "id": "ba_tu",
+     "noi_dung": "Bà Tư bán cá sạp sát bên ho, sổ mũi, vẫn ngồi chợ cạnh bà hai buổi rồi nghỉ chợ từ 3 hôm nay; nghe nói 'bị cảm', chưa ai biết bệnh gì.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'trong nhà có ai bệnh' thì chỉ kể cháu Na. Chỉ nói khi bác sĩ hỏi riêng ngoài chợ, sạp bên cạnh, hàng xóm có ai bệnh.",
+     "k": 1,
+     "y": "Tiếp xúc người sốt hô hấp chưa rõ căn nguyên ở chợ (giữ COVID-19 trong chẩn đoán phân biệt)"
+    },
+    {
+     "id": "test_nha",
+     "noi_dung": "(Con trai kể) Chiều ngày 2 anh mua que test nhanh COVID ở tiệm thuốc, ngoáy mũi cho bà: chỉ 1 vạch C. Bà: 'test rồi, không phải COVID'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi đã test COVID, test cúm chưa hoặc nhắc tới COVID.",
+     "k": 1,
+     "y": "Một test kháng nguyên tại nhà âm tính, làm sớm ngày 2"
+    },
+    {
+     "id": "thuoc_boi",
+     "noi_dung": "Hai tháng nay ngứa da hai cẳng chân về đêm; tối nào cũng bôi kem trắng mùi bạc hà trong hũ nhựa không nhãn, mua của người bán dạo ở chợ ('trị ngứa, lác gia truyền'). Không biết thành phần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'đang uống thuốc gì' thì chỉ kể kháng sinh, thuốc cảm. Chỉ kể khi hỏi riêng có bôi, thoa, xức gì không, hoặc khi khám da chân.",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc bôi không rõ thành phần"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa được chẩn đoán bệnh mạn tính nào. Không hút thuốc, không bệnh phổi. Tiêm vắc xin COVID-19 3 mũi năm 2021–2022; chưa tiêm cúm bao giờ. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, tiêm chủng, dị ứng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, AMT 10/10, tự đi vào phòng. Môi hơi khô, không tím. Gầy (BMI 19,2).",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co kéo. Rung thanh, gõ bình thường. Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, không co kéo. Rung thanh, gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không mủ, không giả mạc. Niêm mạc mũi phù nề, dịch trong.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da hai cẳng chân khô, bong vảy mịn, vết trầy do gãi, còn vệt kem trắng; không đỏ lan tỏa, không loét. Thân, tay không có ban.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi 40 m không phải dừng. SpO₂ 97% → 96%, hồi phục ngay.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "e",
+     "r": "(Trạm y tế xã không làm được xét nghiệm.)",
+     "n": "Nếu có: người nguy cơ nghi cúm nên test nhanh (QĐ 1840/2025 mục II.2.1). Ở trạm: chẩn đoán theo định nghĩa ca bệnh lâm sàng – dịch tễ. Test nhà âm tính không đủ loại trừ COVID-19 (QĐ 2671/2023 mục 4.8.2b)."
+    },
+    "cxr": {
+     "n": "Chỉ định khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840 mục II.2.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm virus đường hô hấp cấp thể nhẹ, ngày 3: nghĩ cúm mùa (ca bệnh nghi ngờ), chưa loại trừ COVID-19; người > 65 tuổi thuộc nhóm nguy cơ; tiêu chảy nghĩ do amoxicillin tự dùng",
+     "ok": 1,
+     "n": "Ca nghi ngờ cúm: viêm hô hấp cấp + dịch tễ (QĐ 1840/2025 mục II.2.4.1); > 65 tuổi là yếu tố nguy cơ (mục II.2.3). COVID-19 chưa đủ định nghĩa ca nghi ngờ (QĐ 2671/2023 mục 2.1a) nhưng chưa loại trừ (mục 4.8.2b). ICD-10 J11.1 (TT 06/2026, Phụ lục ICD-10)."
+    },
+    {
+     "t": "Cúm mùa thể nhẹ ở người > 65 tuổi",
+     "ok": 1,
+     "n": "Chấp nhận làm chẩn đoán làm việc (QĐ 1840 mục II.2.4.1, II.2.3); hồ sơ nên ghi thêm 'chưa loại trừ COVID-19'."
+    },
+    {
+     "t": "COVID-19",
+     "n": "Phải nghĩ tới (WHO 2023, COVID, mục 3.20: sàng lọc COVID-19 ở người cao tuổi ngay lần tiếp cận đầu) nhưng chưa đủ định nghĩa ca nghi ngờ (QĐ 2671 mục 2.1a: bà Tư lúc này chỉ 'bị cảm'), còn dịch tễ cúm thì rõ. Chọn riêng COVID-19 sẽ bỏ sót kháng virus cúm cho người > 65 tuổi (QĐ 1840 mục III.2.2)."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn",
+     "n": "Chưa nghĩ: không khó thở, thở 20 l/p, SpO₂ 97%, không đờm mủ, không đau ngực kiểu màng phổi, phổi không ran, không hội chứng đông đặc (QĐ 2147/2026 mục 3.1.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng amoxicillin, không kê thêm, không tiêm kháng sinh; giải thích và hẹn đánh giá lại",
+     "v": "c",
+     "n": "Không khuyến cáo kháng sinh cho cúm nhẹ (QĐ 1840/2025 mục III.2.2); WHO 2024 (cúm, tóm tắt BMJ 2026): khuyến cáo mạnh không dùng kháng sinh ở cúm không nặng ít khả năng bội nhiễm."
+    },
+    {
+     "t": "Oseltamivir 75 mg uống 2 lần/ngày x 5 ngày, bắt đầu ngay",
+     "v": "c",
+     "n": "Cúm nhẹ có yếu tố nguy cơ: kháng virus càng sớm càng tốt, oseltamivir đầu tay (QĐ 1840 mục III.2.1–2.2); ngoại trú hiệu quả trong 48 giờ (QĐ 2147/2026 mục 5.4.1.8). Clcr 31–60: 30 mg x 2 lần/ngày (HHHVN 2025, COPD, Phụ lục 10); chọn liều khi không đo được creatinin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Baloxavir uống liều duy nhất thay oseltamivir",
+     "v": "a",
+     "n": "WHO 2024 (cúm) gợi ý baloxavir trong 48 giờ cho cúm không nặng nguy cơ cao; QĐ 1840 (06/2025, mới hơn) dùng khi không có oseltamivir: 20–80 kg uống 40 mg một liều (mục III.2.1). Đáp án theo QĐ 1840."
+    },
+    {
+     "t": "Ngưng gói thuốc cảm có clorpheniramin",
+     "v": "c",
+     "n": "AGS Beers 2023 Bảng 2: tránh kháng histamin thế hệ 1 ở người cao tuổi (kháng cholinergic, lú lẫn). Gói thuốc có sẵn paracetamol, dễ trùng liều."
+    },
+    {
+     "t": "Paracetamol 500 mg khi sốt, đau nhức, cách ít nhất 6 giờ, tối đa 4 viên/ngày; không aspirin; uống đủ nước, oresol khi đi lỏng",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2 (hạ sốt, không aspirin, bù nước điện giải, dinh dưỡng người già). QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (cách 6–8 giờ) và Phụ lục NSAID mục 3.3 (người cao tuổi < 3 g/ngày)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày (ngày thứ 6 của bệnh) dù thấy đỡ; dặn quay lại ngay nếu khó thở, thở nhanh, đau ngực, lơ mơ, không ăn uống được",
+     "v": "c",
+     "n": "Sốt cúm thường 3–5 ngày (QĐ 1840 mục II.1.1): ngày 6 còn sốt là không khớp. Tư vấn dấu hiệu nặng (mục II.1.2, III.2.2); NICE NG237 khuyến cáo 1.1.2, 1.3.2 (ngưỡng thấp hơn ở người yếu)."
+    },
+    {
+     "t": "Hỏi đủ thuốc kể cả thuốc bôi, dặn mang hũ thuốc theo; đeo khẩu trang, nghỉ chợ, không ngủ chung với cháu",
+     "v": "c",
+     "n": "WHO 2023 (COVID) mục 3.20 (rà soát thuốc ở người cao tuổi); QĐ 1840 mục IV.2 (hạn chế tiếp xúc, khẩu trang)."
+    },
+    {
+     "t": "Dặn test nhanh SARS-CoV-2 lại sau 1–2 ngày nếu còn sốt, hoặc giới thiệu lên Trung tâm Y tế huyện test cúm, SARS-CoV-2",
+     "v": "a",
+     "n": "Không bắt buộc; hợp lý vì âm tính mà còn nghi thì xét nghiệm lại (QĐ 2671 mục 4.8.1, 4.8.2b; QĐ 1840 mục II.2.1)."
+    },
+    {
+     "t": "Kê kháng sinh 'mạnh hơn' hoặc tiêm kháng sinh theo yêu cầu",
+     "v": "w",
+     "n": "Không có chỉ định (QĐ 1840 mục III.2.2; WHO 2024 cúm); bà đang tiêu chảy sau kháng sinh."
+    },
+    {
+     "t": "Corticoid cho mau hạ sốt, hoặc truyền dịch tại trạm",
+     "v": "w",
+     "n": "Không dùng corticoid thường quy cho cúm (QĐ 1840 mục III.2.3); bà uống được, bù nước bằng đường uống (mục III.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm virus hô hấp cấp ngày 3, thể nhẹ: nghĩ cúm mùa – ca bệnh nghi ngờ (cháu cúm A khẳng định, xã có dịch cúm A)",
+     "Người > 65 tuổi: nhóm nguy cơ, có chỉ định kháng virus dù thể nhẹ",
+     "COVID-19 chưa loại trừ (một test tại nhà âm tính ngày 2; tiếp xúc người sốt hô hấp ở chợ)",
+     "Tiêu chảy nghĩ do amoxicillin tự dùng; dùng thuốc không phù hợp (amoxicillin, clorpheniramin)",
+     "Đang bôi thuốc không rõ thành phần; chưa có dấu hiệu viêm phổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn tiến từng ngày, thuốc đã dùng kể cả gói thuốc cảm và thuốc bôi (phải hỏi riêng), tiếp xúc trong nhà rồi ngoài chợ, test đã làm, tiêm chủng, dị ứng.",
+     "Vì sao nghĩ cúm: sốt, ớn lạnh, đau cơ, ho khan, đau họng khởi phát đột ngột (QĐ 1840/2025 mục II.1.1) cộng dịch tễ cúm rõ – đủ ca nghi ngờ (mục II.2.4.1); thể nhẹ vì chỉ có triệu chứng hô hấp trên (mục II.2.3).",
+     "Vì sao chưa gọi là COVID-19: ca nghi ngờ cần yếu tố dịch tễ (tiếp xúc gần người khẳng định, nghi ngờ hoặc ở ổ dịch) cộng ≥ 3 triệu chứng (QĐ 2671/2023 mục 2.1a). Chưa loại trừ vì test nhà làm sớm, độ nhạy thấp (mục 4.8.2b) và khởi phát COVID-19 giống hệt (mục 3.1).",
+     "Vì sao chưa nghĩ viêm phổi: thở 20 l/p, SpO₂ 97%, đi bộ 40 m chỉ giảm 1%, phổi không ran, không đờm mủ (QĐ 2147/2026 mục 3.1.1); chưa có tiêu chí nguy cơ trung bình của nhiễm khuẩn huyết – thở 21–24, mạch 91–130 (NICE NG253 Bảng 1).",
+     "Tiêu chảy sau 2 ngày amoxicillin nên nghĩ do kháng sinh, nhưng COVID-19 cũng gây tiêu chảy, hay vào ngày thứ 4 (QĐ 2671 mục 3.2.5): ghi lại để so khi tái khám."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: ngoại trú, kháng virus vì có yếu tố nguy cơ, hẹn tái khám có mốc (QĐ 1840 mục III.2.1–2.2); baloxavir (WHO 2024) chấm a.",
+     "Từ chối kháng sinh mà vẫn giữ lòng tin – lời thoại mẫu: 'Dạ, con hiểu bà muốn mau khỏe để mai ra chợ. Bà bị cúm, do siêu vi; kháng sinh không diệt được siêu vi, nên ba ngày bà uống mà không đỡ, lại còn đi tiêu lỏng. Chích kháng sinh mạnh hơn cũng vậy. Con cho bà thuốc trị siêu vi cúm, thuốc hạ sốt, hẹn bà ba ngày nữa quay lại; lúc đó mà có nhiễm trùng vi khuẩn thì con cho kháng sinh liền.' (QĐ 1840 mục III.2.2; WHO 2024 cúm).",
+     "Ngưng clorpheniramin (AGS Beers 2023 Bảng 2); paracetamol riêng để kiểm soát tổng liều < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+     "Hẹn ngày thứ 6 vì sốt cúm thường dứt trong 3–5 ngày (QĐ 1840 mục II.1.1): khi đó còn sốt hay thêm khó thở là mốc phải xem lại chẩn đoán. Sai: kháng sinh, corticoid (mục III.2.2, III.2.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Viên nang 75 mg",
+      "lieu": "75 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng – tối, cách khoảng 12 giờ; liều đầu ngay hôm nay",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1–2.2. Clcr 31–60 mL/ph: 30 mg x 2 lần/ngày (HHHVN 2025, COPD, Phụ lục 10) – trạm không đo được creatinin. Trạm không có sẵn thì kê đơn để gia đình mua."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên/lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau nhức, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần; tối đa 4 viên/ngày",
+      "ghi_chu": "QĐ 1840 mục III.2.2 (không aspirin); QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1, Phụ lục NSAID mục 3.3 (người cao tuổi < 3 g/ngày). Không uống chung gói thuốc cảm."
+     },
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói bột pha uống",
+      "lieu": "Pha đúng lượng nước ghi trên gói",
+      "duong": "Uống",
+      "thoi_diem": "Từng ngụm sau mỗi lần đi lỏng",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 1840 mục III.2.2 (bù nước, điện giải). Lượng oresol cho người lớn: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bà bị cảm cúm do siêu vi: ngưng amoxicillin và gói thuốc cảm, không cần kháng sinh (QĐ 1840 mục III.2.2); uống thuốc trị siêu vi đủ 5 ngày.",
+     "Uống nhiều nước, oresol khi đi lỏng, ăn cháo chia nhiều bữa; nghỉ chợ, đeo khẩu trang, không ngủ chung với cháu (QĐ 1840 mục III.2.2, IV.2).",
+     "Quay lại ngay nếu khó thở, thở nhanh, đi vài bước phải ngồi nghỉ, đau ngực, lơ mơ, ngủ li bì, không ăn uống được (QĐ 1840 mục II.1.2).",
+     "Tái khám sau 3 ngày dù thấy đỡ, vì sốt cúm thường hết trong 3–5 ngày (QĐ 1840 mục II.1.1); mang theo hũ thuốc bôi và vỏ thuốc đã uống."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tái khám theo hẹn, ngày thứ 6 của bệnh, đã uống oseltamivir 3 ngày. Bà nói 'đỡ rồi', con trai chở đi vì bác sĩ đã dặn. Sinh hiệu: nhiệt độ 38,3 °C, mạch 106 l/p, HA 118/70 mmHg, nhịp thở 24 l/p, SpO₂ 94% khí trời.",
+   "ket_luan": "chuyen_tuyen",
+   "loi_mo": "Bác sĩ hẹn bữa nay thì tui tới. Tui đỡ đỡ rồi, còn mệt chút, ho chút thôi. Bác sĩ cho tui thêm kháng sinh uống cho dứt luôn, mai mốt tui ra chợ.",
+   "sinh_hieu": {
+    "mach": 106,
+    "ha": "118/70",
+    "nhiet": "38,3",
+    "nhip_tho": 24,
+    "spo2": 94,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "Đến vì đúng hẹn; bà tự thấy 'đỡ', muốn xin kháng sinh cho dứt. Không có hẹn thì bà không đi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do thật: tái khám theo hẹn (tự đánh giá thấp mức nặng)"
+    },
+    {
+     "id": "con_sot",
+     "noi_dung": "(Con trai kể) Chiều nào cũng sốt 38,3–38,6 °C, uống paracetamol bớt vài giờ rồi sốt lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi bà 'còn sốt không' thì bà nói 'hết rồi, hâm hấp thôi'. Chỉ lộ khi hỏi nhiệt độ đo được bao nhiêu hoặc hỏi con trai.",
+     "k": 1,
+     "y": "Còn sốt ngày 6 dù đã 3 ngày oseltamivir"
+    },
+    {
+     "id": "kho_tho2",
+     "noi_dung": "Từ tối ngày 5: đi từ giường ra nhà tắm khoảng 10 m phải vịn tường đứng thở; quét nhà nửa chừng phải ngồi; nói câu dài phải ngừng lấy hơi. Nằm ngủ được.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có khó thở không' thì bà nói 'không'. Chỉ lộ khi hỏi theo việc làm (đi nhà tắm, quét nhà có phải nghỉ không) hoặc hỏi con trai.",
+     "k": 1,
+     "y": "Khó thở khi làm việc nhà nhẹ (hỏi theo chức năng)"
+    },
+    {
+     "id": "mat_mui",
+     "noi_dung": "Từ ngày 5 không ngửi thấy mùi nồi cá kho bị khét, ăn gì cũng như nước lã.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi có ngửi được mùi, nếm được vị không.",
+     "k": 1,
+     "y": "Mất khứu giác, vị giác mới xuất hiện"
+    },
+    {
+     "id": "tieu_chay2",
+     "noi_dung": "Vẫn đi tiêu lỏng 3–4 lần/ngày dù đã ngưng amoxicillin từ chiều ngày 3.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chảy kéo dài sau ngưng kháng sinh"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "(Con trai kể) Con dâu chia thuốc: oseltamivir đúng giờ, đủ 6 liều; đã bỏ amoxicillin, thuốc cảm; paracetamol ngày 2–3 viên. Không test lại từ ngày 2 vì nhà hết que.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt; chỉ có một test âm tính làm sớm"
+    },
+    {
+     "id": "dich_te2",
+     "noi_dung": "Bà Tư sạp cá sát bên nhập bệnh viện huyện từ ngày 4; ngày 5 con bà Tư báo cả chợ: bà Tư bị COVID, phải thở oxy. Bà ngồi sát bà Tư hai buổi chợ trước khi bà Tư nghỉ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Không tự kể vì sợ bị cách ly, mất khách. Chỉ nói khi hỏi ngoài chợ, hàng xóm có ai bệnh, bị COVID, hoặc hỏi bà Tư giờ sao.",
+     "k": 1,
+     "y": "Dịch tễ mới: tiếp xúc gần ca COVID-19 khẳng định"
+    },
+    {
+     "id": "ngu_nhieu",
+     "noi_dung": "(Con trai kể) Hai hôm nay má ngủ nhiều, hỏi thì trả lời chậm, hôm qua quên đã uống thuốc chưa; trước đây bà rất lanh.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi người nhà về tỉnh táo, ăn ngủ mấy ngày nay.",
+     "k": 1,
+     "y": "Giảm tỉnh táo: biểu hiện không điển hình ở người già"
+    },
+    {
+     "id": "ho_dom2",
+     "noi_dung": "Ho nhiều hơn nhưng vẫn ho khan, đờm ít trắng loãng. Không đau ngực, không rét run, không ho ra máu. Bắp chân không sưng đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm ho, đờm, đau ngực (phân biệt viêm phổi vi khuẩn)"
+    },
+    {
+     "id": "an_uong2",
+     "noi_dung": "Mỗi bữa vài muỗng cháo, uống 3–4 ly nước/ngày, tiểu ít, nước tiểu sậm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống kém, thiếu nước"
+    },
+    {
+     "id": "hoan_canh2",
+     "noi_dung": "Có thẻ BHYT; nhà chỉ có xe máy; bệnh viện huyện cách 12 km. Con dâu, cháu Na chưa sốt. Bà mang theo hũ kem không nhãn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phương tiện, người tiếp xúc, thuốc mang theo (chuẩn bị chuyển)"
+    },
+    {
+     "id": "so_vien",
+     "noi_dung": "Bà sợ lên huyện bị cách ly một mình, sợ 'vô đó là không về', sợ mất sạp rau; vì vậy nói 'đỡ rồi'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo điều gì nhất, vì sao không muốn lên bệnh viện.",
+     "k": 1,
+     "y": "Nỗi sợ thật khi chuyển viện"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Lừ đừ, trả lời chậm nhưng đúng, AMT 9/10 (sai năm). Nói câu dài phải ngừng lấy hơi. Môi, lưỡi khô, nếp véo da mất chậm. Không tím.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p, thở nông, không co kéo cơ hô hấp phụ. Rung thanh, gõ bình thường. Rì rào phế nang êm dịu hai bên, không ran, không hội chứng đông đặc.",
+     "k": 1,
+     "hien": "Nhịp thở 24 l/p, thở nông, không co kéo cơ hô hấp phụ. Rung thanh, gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Vịn tay con trai đi chậm khoảng 20 m thì xin dừng. SpO₂ 94% → 90%, nhịp thở 28 l/p, mạch 114 l/p. Ngồi nghỉ 3 phút SpO₂ về 93–94%.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 106 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 106 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù. Hai bắp chân mềm, không đau, chu vi bằng nhau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "e",
+     "r": "(Trạm y tế xã không làm được xét nghiệm.)",
+     "n": "Tuyến trên: khẳng định SARS-CoV-2 (QĐ 2671/2023 mục 4.8.1), test cúm A/B để phân biệt (mục 4.8.3). Thay bằng định nghĩa ca nghi ngờ (mục 2.1a) và chuyển tuyến."
+    },
+    "cxr": {
+     "v": "e",
+     "r": "(Trạm không có máy X-quang.)",
+     "n": "Tuyến trên: mức tổn thương (QĐ 2671 mục 5.2.2b), phân biệt viêm phổi vi khuẩn (QĐ 2147/2026 mục 3.1.3). Thay bằng nhịp thở, SpO₂ nghỉ và khi đi bộ (WHO 2023 Bảng 6.3: viêm phổi chẩn đoán được trên lâm sàng)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "(Trạm y tế xã không làm được xét nghiệm.)",
+     "n": "Cùng với CRP: nghi nhiễm khuẩn thì làm công thức máu, CRP, procalcitonin (QĐ 2671 mục 6.8.2); lympho < 1 G/L, CRP > 125 mg/L là dấu hiệu cảnh báo (Bảng 4). Làm ở tuyến trên."
+    },
+    "creat": {
+     "v": "e",
+     "r": "(Trạm y tế xã không làm được xét nghiệm.)",
+     "n": "Cần trước khi chọn thuốc kháng virus: nirmatrelvir/ritonavir chỉnh theo eGFR, không khuyến cáo khi < 30; remdesivir lưu ý eGFR < 30 (QĐ 2671 Bảng 7)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp nhanh xoang 106 l/p, trục trung gian, không ST chênh, không loạn nhịp.",
+     "n": "Không bắt buộc (QĐ 2671 mục 3.2.2: biến chứng tim mạch); không được làm chậm chuyển."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 – ca bệnh nghi ngờ (chưa xác định vì không có xét nghiệm), mức độ trung bình (viêm phổi), ngày 6, người 82 tuổi có yếu tố nguy cơ; SpO₂ giảm < 94% khi gắng sức (dấu hiệu cảnh báo); chưa loại trừ đồng nhiễm cúm",
+     "ok": 1,
+     "n": "Tiếp xúc gần ca khẳng định + ≥ 3 triệu chứng (sốt, ho, mệt, đau họng, mất khứu giác, vị giác, tiêu chảy, khó thở) (QĐ 2671/2023 mục 2.1a). Trung bình: thở 22–30 l/p, khó thở khi làm việc nhà, SpO₂ 94–96% (mục 5.2.2, Bảng 4); SpO₂ có lúc < 94% rồi hồi phục là dấu hiệu cảnh báo (Bảng 4); tuổi > 60 (Bảng 5). ICD-10 U07.2, xác định thì U07.1 (TT 06/2026, Phụ lục ICD-10)."
+    },
+    {
+     "t": "Cúm mùa diễn tiến nặng không đáp ứng oseltamivir",
+     "n": "Không loại trừ được khi không test, có thể đồng nhiễm; nhưng không giải thích đủ: sốt cúm thường dứt trong 3–5 ngày (QĐ 1840/2025 mục II.1.1) mà bà vẫn sốt dù đã 3 ngày oseltamivir; mất khứu giác, vị giác nêu trong COVID-19 (QĐ 2671 mục 2.1a, 3.1), không có trong mô tả cúm của QĐ 1840; có tiếp xúc ca COVID-19. Cúm nặng cũng phải vào đơn vị theo dõi suy hô hấp (QĐ 1840 mục III.2.4)."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn (không đáp ứng amoxicillin hoặc bội nhiễm sau cúm)",
+     "n": "Ít nghĩ: ho khan, đờm trắng, không rét run, không đau ngực kiểu màng phổi, không ran, không hội chứng đông đặc (QĐ 2147/2026 mục 3.1.1); trong COVID-19 phổi thường không ran dù SpO₂ giảm (QĐ 2671 mục 3.2.1). Chưa loại trừ hẳn khi chưa có X-quang, CRP: tuyến trên quyết định (QĐ 2671 mục 6.8.2). Nếu là viêm phổi: CRB-65 = 1 (tuổi), cân nhắc nhập viện (QĐ 2147 mục 3.2.1)."
+    },
+    {
+     "t": "Cúm nhẹ đang hồi phục, chỉ cần thêm thời gian",
+     "n": "Sai: thở 24 l/p, SpO₂ 94%, mạch 106, giảm tỉnh táo là đang nặng lên (QĐ 2671 Bảng 4; NICE NG253 Bảng 1: thở 21–24, mạch 91–130 là nguy cơ trung bình)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến ngay lên bệnh viện huyện (khu điều trị COVID-19) bằng xe có bình oxy, nhân viên y tế đi kèm, không để bà ngồi sau xe máy",
+     "v": "c",
+     "n": "Mức trung bình điều trị ở phòng theo dõi sát của bệnh viện (QĐ 2671/2023 mục 5.3, Bảng 4); người nguy cơ cao ưu tiên điều trị trong bệnh viện (WHO 2023 mục 3.7); nguy cơ trung bình mà không điều trị an toàn ngoài bệnh viện thì chuyển khẩn (NICE NG253 khuyến cáo 1.7.9). Tiêu chuẩn phương tiện vận chuyển: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thở oxy kính 2–5 lít/phút, đích SpO₂ 92–96%, giữ oxy suốt đường chuyển; nằm đầu cao, nằm sấp nếu bà chịu được",
+     "v": "c",
+     "n": "QĐ 2671 mục 6.3.2 (mức trung bình: oxy kính 2–5 lít/phút, nằm sấp nếu có thể, mục tiêu SpO₂ 92–96%, thở < 25 l/p); mục 8.1.3a (trước viện: đích SpO₂ > 90%)."
+    },
+    {
+     "t": "Khẩu trang cho bà và người nhà, chờ ở phòng riêng; gọi báo trước bệnh viện nhận để bố trí khu cách ly",
+     "v": "c",
+     "n": "WHO 2023 (COVID) mục 3.2, 3.7: cách ly ngay ca nghi ngờ. Hướng dẫn kiểm soát lây nhiễm của Bộ Y tế (QĐ 2671 mục 7.4 dẫn tới): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phiếu chuyển và bàn giao đủ: diễn tiến hai lượt, SpO₂ nghỉ và khi đi bộ, mọi thuốc đã dùng kèm hũ thuốc bôi, dịch tễ, test nhà âm tính; đề nghị test SARS-CoV-2 và cúm, X-quang, CRP, creatinin",
+     "v": "c",
+     "n": "TT 01/2025/TT-BYT Phụ lục VI (mẫu phiếu: tóm tắt lâm sàng, thuốc đã dùng, tình trạng lúc chuyển, lý do, giờ chuyển, phương tiện, người hộ tống). Danh sách thuốc đủ vì nirmatrelvir/ritonavir tương tác qua CYP3A4 (QĐ 2671 Bảng 7)."
+    },
+    {
+     "t": "Không tiêm, không kê kháng sinh trước khi chuyển; giải thích cho bà và con trai",
+     "v": "c",
+     "n": "Mức trung bình không kê kháng sinh trừ khi nghi nhiễm khuẩn trên lâm sàng (WHO 2023 mục 3.7); chỉ dùng khi có bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1b)."
+    },
+    {
+     "t": "Tiếp tục oseltamivir, ghi vào phiếu chuyển để tuyến trên ngừng khi đã loại trừ cúm",
+     "v": "c",
+     "n": "Nghi ngờ cúm nặng thì dùng kháng virus (QĐ 1840/2025 mục III.2.1); nằm viện vì cúm dùng kháng virus (QĐ 2147/2026 mục 5.4.1.8)."
+    },
+    {
+     "t": "Tiêm ceftriaxon hoặc kháng sinh 'mạnh' tại trạm theo yêu cầu gia đình rồi mới chuyển",
+     "v": "w",
+     "n": "Không có bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1b); nếu tuyến trên có bằng chứng, kháng sinh trong 4 giờ đầu nhập viện (QĐ 2147 mục 5.2)."
+    },
+    {
+     "t": "Tiêm dexamethason trước khi chuyển",
+     "v": "w",
+     "n": "Mức trung bình không dùng corticoid (QĐ 2671 mục 6.6.1a, Bảng 6); mục 8.1.3c có liệt kê dexamethason nhưng không phân mức độ."
+    },
+    {
+     "t": "Giữ lại trạm truyền dịch theo dõi, hoặc cho về và hẹn 2 ngày",
+     "v": "w",
+     "n": "Mức trung bình cần bệnh viện (QĐ 2671 Bảng 4)."
+    },
+    {
+     "t": "Cho về, đổi sang amoxicillin/acid clavulanic hoặc quinolon vì 'kháng sinh trước yếu'",
+     "v": "h",
+     "n": "Neo vào chẩn đoán nhiễm khuẩn, bỏ sót COVID-19 có giảm oxy máu ở người 82 tuổi; mức trung bình cần bệnh viện (QĐ 2671 Bảng 4, Bảng 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 – ca bệnh nghi ngờ theo định nghĩa (QĐ 2671 mục 2.1a); chưa xác định vì không có xét nghiệm",
+     "Mức độ trung bình (viêm phổi): thở 24 l/p, SpO₂ 94% khí trời, khó thở khi làm việc nhà, mạch 106",
+     "Dấu hiệu cảnh báo: SpO₂ còn 90% khi đi 20 m; giảm tỉnh táo; ăn uống kém, thiếu nước",
+     "Ngày 6 của bệnh; 82 tuổi – yếu tố nguy cơ diễn tiến nặng",
+     "Chưa loại trừ đồng nhiễm cúm; chưa có bằng chứng viêm phổi vi khuẩn",
+     "Mở lại chẩn đoán lượt 1 (cúm nhẹ, tiêu chảy do kháng sinh) vì diễn tiến không khớp"
+    ],
+    "phan_tich_chan_doan": [
+     "Điều gì buộc mở lại hồ sơ, lúc nào: ngay khi đọc sinh hiệu tái khám ngày 6 – còn sốt 38,3 °C, thở 24 l/p, SpO₂ 94% – trong khi bà nói 'đỡ rồi'. Cúm nhẹ lẽ ra hết sốt sau 3–5 ngày (QĐ 1840/2025 mục II.1.1), lại đã 3 ngày oseltamivir: diễn tiến lệch mốc dự kiến, phải xét lại toàn bộ chứ không đổi thuốc.",
+     "Quy trình thất bại điều trị, xem lại chẩn đoán trước (QĐ 2147/2026 mục 5.5.2.2): sai chẩn đoán? – có, không phải vi khuẩn, không chắc là cúm; sai thuốc, liều? – oseltamivir đúng liều; không tuân thủ? – đủ 6 liều; biến chứng? – có, viêm phổi, giảm oxy máu; đề kháng? – không phải vấn đề chính.",
+     "Dữ kiện nghiêng về COVID-19: bà Tư ngồi sát bên đã khẳng định COVID-19, đủ định nghĩa ca nghi ngờ (QĐ 2671/2023 mục 2.1a); mất khứu giác, vị giác mới (mục 3.1); tiêu chảy kéo dài sau ngưng kháng sinh (mục 3.2.5); nặng lên sau ngày 4–5, đúng giai đoạn toàn phát (mục 3.2); SpO₂ giảm mà phổi không ran, bà không thấy khó thở – giảm oxy máu thầm lặng (mục 3.2.1).",
+     "Một test âm tính không loại trừ: test kháng nguyên tự làm ngày 2, độ nhạy thấp hơn RT-PCR (QĐ 2671 mục 4.8.2b); âm tính mà lâm sàng còn nghi thì xét nghiệm lại (mục 4.8.1). Không có xét nghiệm: chẩn đoán theo định nghĩa ca nghi ngờ; WHO 2023 (COVID) mục 3.2: là ca có thể, vẫn chăm sóc theo luồng COVID-19; khẳng định ở tuyến trên (QĐ 2671 mục 2.2).",
+     "Phân độ không cần X-quang: thở 22–30 l/p, khó thở khi làm việc nhà, SpO₂ 94–96% (QĐ 2671 mục 5.2.2, Bảng 4); SpO₂ 90–94% ở người đang xấu đi có thể là dấu hiệu sớm của bệnh nặng (WHO 2023 mục 3.1). Người rất cao tuổi biểu hiện không điển hình: giảm tỉnh táo, tiêu chảy, chán ăn (WHO 2023 Bảng 6.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: chuyển tuyến ngay (QĐ 2671 Bảng 4; WHO 2023 mục 3.7; NICE NG253 khuyến cáo 1.7.9). Trước chuyển, không làm chậm chuyến đi: khẩu trang, phòng riêng; oxy kính 2–5 lít/phút, đích SpO₂ 92–96% (QĐ 2671 mục 6.3.2); không kháng sinh, không corticoid (mục 6.8.1b, 6.6.1a).",
+     "Bàn giao theo phiếu chuyển (TT 01/2025 Phụ lục VI), gọi điện theo SBAR: S – 82 tuổi nghi COVID-19 mức trung bình, SpO₂ 94%, 90% khi gắng sức; B – ngày 6, tiếp xúc ca khẳng định, test nhà âm tính ngày 2, amoxicillin 3 ngày, oseltamivir 6 liều, kem bôi không rõ; A – trạm không có xét nghiệm, X-quang; R – nhận vào khu COVID-19, test SARS-CoV-2 và cúm, X-quang, CRP, creatinin.",
+     "Tuyến trên cần creatinin để chọn kháng virus: nirmatrelvir/ritonavir theo eGFR; remdesivir cho nội trú mức trung bình, khởi phát chưa quá 10 ngày, phải thở oxy (QĐ 2671 Bảng 7).",
+     "Từ chối kháng sinh mà vẫn giữ lòng tin – lời thoại mẫu với anh Phúc: 'Dạ, anh lo cho má là đúng. Nhưng má không đỡ không phải vì thiếu kháng sinh: má uống ba ngày kháng sinh mà vẫn nặng thêm. Giờ má thở nhanh, oxy trong máu xuống 94, đi vài bước còn 90, mà má ngồi sát bà Tư đang nằm viện vì COVID. Em nghĩ nhiều là má bị COVID có viêm phổi; chích kháng sinh không hết bệnh này, má cần thở oxy, theo dõi sát, có thể cần thuốc kháng virus ở bệnh viện. Trên đó thấy có vi khuẩn thì cho kháng sinh liền, không trễ. Em cho má thở oxy ngay, gọi xe có oxy và báo trước để má vào là được khám liền.' Với bà: 'Bà không đi một mình, anh Phúc đi cùng; đỡ rồi thì về, sạp rau để chị dâu coi giùm mấy bữa.'",
+     "Sai: giữ lại trạm hoặc cho về (QĐ 2671 Bảng 4); tiêm kháng sinh theo yêu cầu (mục 6.8.1b); dexamethason (mục 6.6.1a); đổi kháng sinh 'mạnh hơn' rồi hẹn lại là neo vào chẩn đoán nhiễm khuẩn – sai nặng nhất."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy",
+      "ham_luong": "Bình oxy của trạm, gọng mũi",
+      "lieu": "2–5 lít/phút, chỉnh để SpO₂ 92–96%",
+      "duong": "Thở qua gọng mũi (oxy kính)",
+      "thoi_diem": "Ngay tại trạm, duy trì suốt đường chuyển",
+      "so_ngay": "Đến khi bàn giao cho bệnh viện",
+      "ghi_chu": "QĐ 2671/2023 mục 6.3.2 (không đạt mục tiêu thì mặt nạ không túi 5–10 lít/phút), mục 8.1.3a (trước viện: đích SpO₂ > 90%)."
+     },
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Viên nang 75 mg",
+      "lieu": "75 mg/lần, 2 lần/ngày (tiếp tục đơn lượt 1)",
+      "duong": "Uống",
+      "thoi_diem": "Liều tối nay theo giờ cũ; mang thuốc theo khi chuyển",
+      "so_ngay": "Đến khi tuyến trên loại trừ cúm hoặc đủ 5 ngày",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1; QĐ 2147/2026 mục 5.4.1.8. Ghi số liều đã uống vào phiếu chuyển."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên/lần (tiếp tục đơn lượt 1)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt, cách ít nhất 6 giờ",
+      "so_ngay": "Tối đa 4 viên/ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3. Ghi giờ liều gần nhất vào phiếu chuyển."
+     }
+    ],
+    "dan_do": [
+     "Bà cần lên bệnh viện huyện ngay hôm nay: nhiều khả năng bị COVID-19 có viêm phổi, oxy trong máu đã giảm; trạm không có xét nghiệm, không chụp phim được (QĐ 2671 Bảng 4).",
+     "Không cần chích kháng sinh ở trạm: bệnh do virus; tuyến trên xét nghiệm, có vi khuẩn thì cho kháng sinh (QĐ 2671 mục 6.8.1b).",
+     "Anh Phúc đi cùng, mang thẻ BHYT, phiếu chuyển, hũ thuốc bôi, vỏ thuốc đã uống; cả hai đeo khẩu trang.",
+     "Ở nhà: con dâu, cháu Na đeo khẩu trang, ai sốt, ho thì đi khám (QĐ 2671 mục 2.1: người tiếp xúc gần là có yếu tố dịch tễ)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Thở oxy kính 3 lít/phút, SpO₂ lên 96%; xe trạm có oxy, điều dưỡng đi kèm, 35 phút tới bệnh viện huyện đã được báo trước. Test kháng nguyên SARS-CoV-2 dương tính, RT-PCR dương tính; test nhanh cúm A/B âm tính: COVID-19 xác định (QĐ 2671/2023 mục 2.2), mã U07.1. X-quang: kính mờ ngoại vi hai đáy, dưới 50% (mục 5.2.2b). Lympho 0,7 G/L, CRP 34 mg/L, procalcitonin 0,06 ng/mL, creatinin 82 µmol/L: không bằng chứng nhiễm khuẩn, không kháng sinh (mục 6.8.1b). Bà được thở oxy, remdesivir 5 ngày (Bảng 7), chống đông liều dự phòng (mục 6.7.1b), không corticoid; ngừng oseltamivir khi RT-PCR cúm âm tính (QĐ 1840 mục II.2.1). Ngày 5 cai oxy, ra viện ngày 8, còn mệt (mục 3.3); ba tuần sau mới ra lại sạp. Anh Phúc sốt nhẹ 2 ngày sau, test dương tính, điều trị tại nhà. Quyết định lượt 1 hợp lý với dữ kiện lúc đó; điều cứu bà là hẹn tái khám có mốc và việc mở lại hồ sơ khi diễn tiến không khớp.",
+ "nhieu": [
+  "Cháu nội cúm A dương tính, xã đang có dịch cúm A: dịch tễ thật, làm chẩn đoán cúm ở lượt 1 hợp lý – và là cái neo che COVID-19.",
+  "Test COVID tại nhà âm tính ngày 2: trấn an giả (QĐ 2671 mục 4.8.2b).",
+  "Tiêu chảy sau 2 ngày amoxicillin: neo 'tác dụng phụ kháng sinh' (QĐ 2671 mục 3.2.5: COVID-19 cũng gây tiêu chảy).",
+  "Lượt 2 bà nói 'đỡ rồi': chỉ đến vì có hẹn, sợ bị đưa đi cách ly.",
+  "Hũ kem bôi không nhãn: không liên quan bệnh cấp nhưng phải vào danh sách thuốc khi chuyển."
+ ],
+ "bai_hoc_bien": [
+  "Mở lại chẩn đoán: mỗi chẩn đoán làm việc kèm một diễn tiến dự kiến có mốc (cúm: hết sốt trong 3–5 ngày – QĐ 1840 mục II.1.1); lệch mốc thì xem lại chẩn đoán trước (QĐ 2147 mục 5.5.2.2), không đổi kháng sinh.",
+  "Không có xét nghiệm nào: chẩn đoán COVID-19 bằng định nghĩa ca nghi ngờ (QĐ 2671 mục 2.1a), phân độ bằng nhịp thở và SpO₂ lúc nghỉ, khi đi bộ (mục 5.2.2, Bảng 4), chuyển để khẳng định ở tuyến trên.",
+  "Đòi kháng sinh: công nhận mong muốn thật (mau khỏe để ra chợ), giải thích bằng chính trải nghiệm của họ (3 ngày amoxicillin không đỡ), đưa kế hoạch cụ thể và cam kết đánh giá lại.",
+  "Thuốc bôi không rõ: hỏi riêng 'có bôi, thoa, xức gì không'. Buôn bán ở chợ: hỏi riêng 'sạp bên cạnh', không chỉ 'trong nhà'.",
+  "Tái khám theo hẹn là lý do thật đến khám: người rất cao tuổi có thể không thấy khó thở dù SpO₂ giảm (QĐ 2671 mục 3.2.1); hẹn cụ thể mới là lưới an toàn thật.",
+  "Lưu ý áp dụng bằng chứng ở người ≥ 75 tuổi: EPIC-SR (nirmatrelvir) có tuổi trung vị 42 (TL-0163, phần Kết quả) nên hiệu quả ở người 80–90 tuổi chưa được kiểm chứng trực tiếp; QĐ 2671 chỉ định theo yếu tố nguy cơ (Bảng 5, 7). Người già, gầy có Clcr thấp hơn eGFR nhiều (bà: 31 so với 61).",
+  "Cặp tương phản P-0069 với HH-1238 (COPD đợt cấp, chưa viết): cùng người cao tuổi khó thở tăng dù đã dùng kháng sinh; ở ca này then chốt là giảm oxy máu với phổi không ran, tiếp xúc ca COVID-19, mất khứu giác. Điểm phân biệt bên COPD chốt khi viết HH-1238."
+ ],
+ "diem_nho": [
+  "Ca nghi ngờ COVID-19: yếu tố dịch tễ + ≥ 3 triệu chứng (sốt, ho, mệt, ớn lạnh, nhức đầu, đau họng, sổ mũi, mất khứu giác, vị giác, nôn, tiêu chảy, khó thở…); xác định bằng RT-PCR hoặc triệu chứng + kháng nguyên dương (QĐ 2671/2023 mục 2.1–2.2).",
+  "Phân độ (QĐ 2671 Bảng 4, Bảng 6): nhẹ – SpO₂ ≥ 96%, thở 12–21 l/p, tại nhà; trung bình – SpO₂ 94–96%, thở 22–30 l/p, phòng theo dõi sát của bệnh viện; nặng – SpO₂ < 94%, thở > 30 l/p. Yếu tố nguy cơ: tuổi > 60, BMI > 30, bệnh nền, hút thuốc, chưa tiêm vắc xin (Bảng 5).",
+  "Nirmatrelvir/ritonavir (QĐ 2671 Bảng 7): mức nhẹ, trung bình có yếu tố nguy cơ, trong 5 ngày từ khởi phát hoặc từ khi xét nghiệm dương; eGFR ≥ 60: 300/100 mg, eGFR 30–60: 150/100 mg, 2 lần/ngày x 5 ngày; < 30: không khuyến cáo; chú ý tương tác CYP3A4.",
+  "Cúm mùa (QĐ 1840/2025): ca nghi ngờ cần dịch tễ (mục II.2.4.1); > 65 tuổi là nguy cơ (mục II.2.3); cúm nhẹ có nguy cơ: oseltamivir 75 mg x 2 lần/ngày x 5 ngày (mục III.2.1–2.2); không kháng sinh cho cúm nhẹ (mục III.2.2)."
+ ],
+ "nguon": [
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 – COVID-19 (OCR, đã đối chiếu PDF) – mục 2.1–2.2, 3.1–3.3, 4.8.1–4.8.3, 5.1–5.3, Bảng 4–7, 6.3.2, 6.6.1, 6.7.1, 6.8.1–6.8.2, 7.4, 8.1.3",
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – Cúm mùa – toàn văn (mục II.1–II.2.4, III.1–III.2.4, IV)",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 3.1.1–3.1.3, 3.2.1, 5.2, 5.4.1.8, 5.5.2.2",
+  "TL-0135 · WHO 2023 – Clinical management of COVID-19 – mục 3.1, 3.2 (ghi chú 4), 3.6, 3.7, 3.20; Bảng 6.1–6.3",
+  "TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (tóm tắt BMJ 2026) – phần Recommendations, nhóm nguy cơ cao",
+  "TL-0146 · NICE NG237 (cập nhật 2025) – Suspected acute respiratory infection in over 16s – khuyến cáo 1.1.2, 1.3.1–1.3.4",
+  "TL-0057 · NICE NG253 (2025) – Suspected sepsis ≥ 16 tuổi – Bảng 1 (cộng đồng), khuyến cáo 1.7.9",
+  "TL-0163 · EPIC-SR, NEJM 2024 – nirmatrelvir ở người ngoại trú – phần Kết quả",
+  "TL-0022 · AGS Beers 2023 – Bảng 2",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 – Cơ xương khớp – Phụ lục thuốc giảm đau mục 3.1; Phụ lục NSAID mục 3.3",
+  "Hội Hô hấp Việt Nam 2025 – COPD (kho cũ, 01 Hô hấp cấp tính/Hội VN) – Phụ lục 10, phần II Kháng virus (tr. 124)",
+  "TL-0003 · TT 01/2025/TT-BYT – Phụ lục VI (phiếu chuyển cơ sở khám bệnh, chữa bệnh); TL-0001 · TT 06/2026/TT-BYT – Phụ lục ICD-10 (U07.1, U07.2, J11.1)",
+  "Không có trong tài liệu đã tải: chọn liều oseltamivir khi không đo được chức năng thận; lượng oresol cho người lớn; hướng dẫn kiểm soát lây nhiễm COVID-19 của Bộ Y tế; tiêu chuẩn phương tiện vận chuyển; quy trình theo dõi người tiếp xúc; xử lý thuốc bôi không rõ nguồn gốc"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-11 – bản 1: soạn mới theo CLAUDE.md mục 3. Bẫy: lượt 1 dịch tễ cúm thật, test COVID tại nhà âm tính, COVID-19 chưa đủ định nghĩa ca nghi ngờ (QĐ 2671) nên chẩn đoán làm việc là cúm nhẹ. Mốc mở lại: sinh hiệu tái khám ngày 6 lệch diễn tiến dự kiến của cúm (QĐ 1840 mục II.1.1), cộng dịch tễ mới, mất khứu giác, tiêu chảy kéo dài.",
+  "Tài liệu đã đọc: như phần nguồn; đọc toàn văn TL-0124, TL-0122, TL-0133, TL-0146.",
+  "OCR TL-0124 đối chiếu ảnh trang PDF: bản chữ sai mục 5.2.2 'SpO₂ > 94%' (PDF ≥ 94%), Bảng 7 'eGFR > 60', '> 30 đến 60' (PDF ≥ 60, ≥ 30 đến 60); Bảng 4 gần như không đọc được, lấy từ ảnh trang (tr. in 32–33). Đã khớp PDF: mục 2.1–2.2, 3.1, 3.2.1, 5.1–5.2.3, Bảng 5–7, 6.3.2.",
+  "khoa_cls: 'xn' (app tự khóa X-quang, CT, nội soi) và thêm 'sieu_am' (trạm không có xét nghiệm thường cũng không có siêu âm); để máy điện tim, bình oxy. CLS bị khóa ghi v = e kèm cách thay thế.",
+  "Âm thanh: phổi AT-PHOI-BT-NL-01 (QĐ 2671 mục 3.2.1: phổi thường không ran); tim 88 l/p AT-TIM-BT-NL-01, 106 l/p AT-TIM-NHANH-01. Không dùng ảnh da.",
+  "Mâu thuẫn (chi tiết: nhap/HH-1287_mau_thuan.md): oseltamivir (QĐ 1840/2025) và baloxavir (WHO 2024) – theo QĐ 1840, baloxavir chấm a; liều oseltamivir khi không biết chức năng thận – chờ bác sĩ quyết; dexamethason mục 8.1.3 với Bảng 6 QĐ 2671 – theo Bảng 6. Áp dụng mục sổ 'Paracetamol ở người cao tuổi'.",
+  "Số liệu phụ tự đặt: sinh hiệu, SpO₂ khi đi bộ, AMT, kết quả tuyến trên (eGFR CKD-EPI 2021 khoảng 61, Clcr Cockcroft–Gault khoảng 31 cho nữ 82 tuổi, 42 kg, creatinin 82 µmol/L)."
+ ]
+}

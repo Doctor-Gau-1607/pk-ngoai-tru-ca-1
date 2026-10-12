@@ -1,0 +1,765 @@
+{
+ "ma_ca": "MT-0413",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_roi_loan_lipid",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nội trợ (ở nhà trông con)",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng (atenolol)",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng (rối loạn cương)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quốc Bảo",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (trước làm thợ hàn)",
+  "can_nang": 88,
+  "chieu_cao": 170,
+  "xung_ho": "Bác sĩ gọi anh. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói dài, vòng vo, hay kể chuyện nhà (mẹ vợ liệt, con nhỏ, hàng xóm); lo tiền; ngại kể chuyện nam giới.",
+  "kieu_nhieu": "Kể lể lộn xộn: nhảy từ chuyện này sang chuyện khác, chỉ trả lời đúng khi bác sĩ hỏi câu ngắn, cụ thể, và dẫn lại.",
+  "nguoi_nha": false,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a73",
+   "toc": "#1c1512",
+   "kieuToc": "ngan",
+   "ao": "#6b7f8e",
+   "aoKieu": "co_tron",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Xin cấp lại thuốc huyết áp, người mệt mỏi",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Trạm y tế xã chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, nước tiểu) và ECG; không có X-quang, siêu âm, CT, nội soi. TSH, HbA1c, ApoB, Lp(a) phải gửi bệnh viện huyện cách 14 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 34 tuổi, nội trợ, đi một mình đến trạm y tế xã xin cấp lại thuốc huyết áp, kể mệt mỏi mấy tháng. Sinh hiệu: mạch 56 l/p, HA 146/92 mmHg, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Bảo được chuyển lên bệnh viện huyện nhập viện nội trú vì mỡ máu cao. Anh không đau ngực dữ dội, không viêm tụy (TG 3,4 mmol/L, xa ngưỡng nguy cơ viêm tụy), nên không cần nhập viện để điều trị lipid; nhập viện làm gia đình mất một buổi, không ai trông mẹ vợ và hai con nhỏ, chi phí thêm trong khi thuốc statin và lối sống làm được ở trạm. Nguy cơ lớn là anh không quay lại tái khám vì ngại phiền cả nhà.",
+    "chuyen_tuyen": "Anh Bảo được gửi lên bệnh viện huyện khám chuyên khoa chỉ vì mỡ máu. LDL-C 5,3 mmol/L cần khởi statin ngay và loại trừ nguyên nhân thứ phát, việc này làm được ở trạm (ACC/AHA 2026 mục 4.2.4.3); chuyển tuyến làm anh mất cả buổi sáng, khó nhờ người trông con, chậm khởi thuốc và dễ không đi. Điều anh ngại nói (rối loạn cương) vẫn không được hỏi ra.",
+    "theo_doi": "Anh Bảo được dặn đổi ăn uống rồi hẹn 2–3 tháng xem lại, chưa dùng thuốc. LDL-C 5,3 mmol/L ≥ 4,9 mmol/L cần dùng statin ngay sau khi loại trừ nguyên nhân thứ phát (ACC/AHA 2026 mục 4.2.4.3 KC 2); chờ lối sống 2–3 tháng là cách của QĐ 3879/2014 mục IV.4 nhưng tài liệu mới không dùng cho LDL-C mức này. Anh có cha nhồi máu cơ tim lúc 49 tuổi, nên mỗi tháng chậm là thêm thời gian phơi nhiễm cholesterol cao (ESC/EAS 2019 mục 9.1.1)."
+   },
+   "loi_mo": "Chào bác sĩ, em xin thuốc huyết áp, sắp hết rồi. Dạo này em mệt lắm, thằng nhỏ đêm nào cũng dậy, mẹ vợ em nằm liệt, mà hàng xóm em mới bị đột quỵ...",
+   "sinh_hieu": {
+    "mach": 56,
+    "ha": "146/92",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": [
+     "mach",
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Xin cấp lại thuốc huyết áp, 'với dạo này người mệt lắm bác sĩ'. Kể lan man: mẹ vợ liệt cần trông, con nhỏ đêm nào cũng dậy, ông hàng xóm bị đột quỵ tháng trước, mấy hôm nay đau lưng vì bế con.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khai và bối cảnh"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Uống atenolol 50 mg mỗi sáng hơn một năm nay do trạm cũ kê khi phát hiện huyết áp cao; thuốc sắp hết. Không dùng thuốc mỡ máu, thuốc nam, thuốc bổ, steroid.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (chẹn beta)"
+    },
+    {
+     "id": "met",
+     "noi_dung": "Mệt, uể oải khoảng 3 tháng, hay buồn ngủ ban ngày, tăng khoảng 6 kg trong 1 năm. Không sợ lạnh, không táo bón, không khàn tiếng, da không khô, không phù mặt; lúc nào cũng ngủ không đủ vì con.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng gợi ý suy giáp: không rõ"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Cha mất vì nhồi máu cơ tim năm 49 tuổi. Anh trai 39 tuổi đang uống thuốc mỡ máu. Mẹ bị huyết áp cao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình bệnh tim mạch sớm, mỡ máu"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Uống 2–3 lon nước ngọt có ga mỗi ngày 'cho tỉnh', thỉnh thoảng trà sữa; ăn phần cơm thừa của con, ăn mỡ, da gà. Bia rượu ít, một lon dịp lễ. Không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ ăn, rượu, thuốc lá"
+    },
+    {
+     "id": "van_dong",
+     "noi_dung": "Cả ngày đi lại trong nhà nhưng không có buổi nào vận động đủ nhịp tim; không tập thể dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vận động"
+    },
+    {
+     "id": "ngực",
+     "noi_dung": "Thỉnh thoảng nhói vài giây ở ngực trái khi cúi bế con, không liên quan lúc đi nhanh hay leo cầu thang, không khó thở, không vã mồ hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau ngực: loại trừ đau thắt ngực"
+    },
+    {
+     "id": "tuan_hoan",
+     "noi_dung": "Không phù chân, không tiểu bọt, không đái nhiều, không vàng da, không đau bụng dữ dội, không có nốt vàng ở mi mắt hay gân.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "benh_cu",
+     "noi_dung": "Chưa từng xét nghiệm mỡ máu hay đường. Không bệnh thận, không đái tháo đường đã biết. Trước làm thợ hàn, nghỉ 3 năm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh đồng mắc, nghề cũ"
+    },
+    {
+     "id": "nhieu_hx",
+     "noi_dung": "Ông hàng xóm bằng tuổi bị đột quỵ tháng trước nên anh sợ; chuyện này anh nhắc đi nhắc lại.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Mấy tháng nay anh 'không còn ham muốn như trước', khó giữ cương lúc gần vợ, thấy xấu hổ nên không dám kể với ai; chỉ nói thật khi bác sĩ hỏi riêng về đời sống vợ chồng/chuyện khó nói, hoặc khi hỏi anh lo nhất điều gì.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: rối loạn cương",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ chủ động hỏi riêng tư về chức năng tình dục hoặc hỏi 'điều gì khiến anh ngại nói ra'. Hỏi chung chung thì nói 'không có gì đâu bác sĩ'."
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Băng chuẩn: 146/92 mmHg. Nghỉ 5 phút, băng cỡ lớn (vòng cánh tay 33 cm): 138/88 mmHg. Hai tay chênh dưới 5 mmHg.",
+     "k": 1,
+     "hien": "Băng chuẩn 146/92 mmHg; nghỉ 5 phút, băng cỡ lớn 138/88 mmHg."
+    },
+    "toan_than": {
+     "a": "Cao 170 cm, nặng 88 kg (BMI 30,4), vòng bụng 100 cm. Tỉnh, nói dài dòng, lạc đề. Không phù mặt, da không khô.",
+     "k": 1,
+     "hien": "Cao 170 cm, nặng 88 kg, vòng bụng 100 cm. Tỉnh, nói nhiều, hay lạc đề."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to. Không cung giác mạc, không ban vàng mi mắt. Không phù niêm.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban vàng, không u vàng khuỷu và đầu gối. Da không khô, không phù.",
+     "k": 0,
+     "hien": "Da bình thường, không có nốt vàng."
+    },
+    "tim": {
+     "a": "Tim đều 56 l/p, T1 T2 rõ, không thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 56 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều, T1 T2 rõ, không thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng to bè, mềm, không đau; gan không sờ thấy.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Không u vàng gân Achille.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mu chân đều hai bên, không âm thổi cảnh.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Phản xạ gân gót giãn bình thường, không chậm thư giãn. Sức cơ 5/5.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng co cứng cạnh sống nhẹ, ấn đau nhẹ, không lan; khớp không sưng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 7,8 · LDL-C 5,3 · HDL-C 0,9 · TG 3,4 mmol/L (đói 10 giờ)",
+     "ab": 1,
+     "n": "LDL-C 5,3 mmol/L ≥ 4,9 (190 mg/dL) là tăng cholesterol nặng (ACC/AHA 2026 mục 4.2.4.3); HDL-C < 1,03, TG > 1,7 (QĐ 3879/2014 mục III.2)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "5,7 mmol/L (đói)",
+     "ab": 1,
+     "n": "Chưa đạt ngưỡng đái tháo đường ≥ 7,0 mmol/L (ADA 2026 S2, tiêu chuẩn glucose đói)."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "5,9%",
+     "ab": 1,
+     "n": "Không bắt buộc ở trạm; không đổi quyết định hôm nay. Ở trạm không có xét nghiệm này: mẫu gửi huyện."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 40 · ALT 62 U/L",
+     "ab": 1,
+     "n": "ALT < 3 lần giới hạn trên: được dùng statin; kiểm lại men gan 8–12 tuần sau khởi trị (ESC/EAS 2019, mục theo dõi men gan)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,6 mmol/L · Creatinin 82 µmol/L · eGFR 106 mL/ph/1,73m²"
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 140 · K 4,2 · Cl 102 mmol/L"
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 148 g/L · BC 7,2 G/L · TC 262 G/L"
+    },
+    "ua": {
+     "v": "e",
+     "r": "Không protein · Không glucose · Không hồng cầu",
+     "n": "Loại trừ hội chứng thận hư gây rối loạn lipid thứ phát (QĐ 3879/2014 mục II.2)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "Mẫu TSH, FT4 được gửi bệnh viện huyện (xe chuyển mẫu thứ Năm). Chưa có kết quả trong buổi khám; hẹn lấy kết quả sau 5–7 ngày.",
+     "n": "Suy giáp là nguyên nhân thứ phát cần loại trừ (QĐ 3879/2014 mục II.2; ESC/EAS 2019 mục 9.1.1 nêu suy giáp trong nhóm bệnh đi kèm). Ở cơ sở này xét nghiệm không làm tại chỗ, nên quyết định hôm nay dựa vào lâm sàng."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang chậm 56 l/p, trục trung gian, không biến đổi ST-T, không dày thất.",
+     "n": "Xoang chậm hợp với chẹn beta; ECG bình thường không loại được bệnh mạch vành."
+    },
+    "ck": {
+     "n": "Không có triệu chứng cơ và chưa dùng statin: không cần CK nền thường quy (ACC/AHA 2026 mục 4.2.11 KC 1: chỉ đo khi đau cơ nặng hoặc yếu cơ; ESC/EAS 2019 coi CK nền là khuyến cáo: chấm a)."
+    },
+    "lpa": {
+     "n": "Lp(a) nên đo ít nhất một lần (ACC/AHA 2026, ESC/EAS 2025) nhưng trạm không làm được và kết quả không đổi xử trí hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu hỗn hợp (tăng LDL-C nặng, tăng TG, giảm HDL-C), nghi nguyên phát dạng tăng lipid hỗn hợp gia đình, kèm béo bụng và tăng huyết áp",
+     "ok": 1,
+     "n": "LDL-C 5,3; TG 3,4; HDL-C 0,9 mmol/L; cha nhồi máu cơ tim 49 tuổi, anh trai 39 tuổi dùng thuốc mỡ máu: kiểu hình hỗn hợp trong gia đình, hay có béo phì, kháng insulin (QĐ 3879/2014 mục II.1). Phối hợp ApoB > 120 mg/dL, TG > 1,5 mmol/L và tiền sử gia đình bệnh tim mạch sớm gợi FCH (ESC/EAS 2019 mục 9.1.1); ApoB không làm được ở trạm."
+    },
+    {
+     "t": "Rối loạn lipid thứ phát do suy giáp",
+     "n": "Mạch 56 và mệt làm nghĩ tới, nhưng không sợ lạnh, không táo bón, da không khô, phản xạ gân gót bình thường, mạch chậm giải thích được bằng atenolol. TSH gửi huyện chưa có kết quả; chưa thể xác nhận hay loại hẳn hôm nay. Suy giáp là nguyên nhân thứ phát (QĐ 3879/2014 mục II.2)."
+    },
+    {
+     "t": "Rối loạn lipid do thuốc chẹn beta (atenolol) góp phần",
+     "n": "QĐ 3879/2014 mục II.2 liệt kê chẹn beta giao cảm là nguyên nhân thứ phát; có thể góp phần vào TG cao, HDL thấp nhưng không giải thích LDL-C 5,3 mmol/L. Mức đóng góp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hội chứng thận hư",
+     "n": "Không phù, nước tiểu không bọt, tổng phân tích nước tiểu không protein (QĐ 3879/2014 mục II.2)."
+    },
+    {
+     "t": "Đái tháo đường",
+     "n": "Glucose đói 5,7 mmol/L < 7,0 (ADA 2026 S2). Cần theo dõi vì béo bụng, TG cao."
+    },
+    {
+     "t": "Bệnh mạch vành có triệu chứng",
+     "n": "Nhói ngực vài giây khi cúi, không gắng sức, ECG không thiếu máu; không phải đau thắt ngực điển hình. Vẫn là bệnh nhân nguy cơ cao do LDL-C và tiền sử gia đình."
+    },
+    {
+     "t": "Bệnh gan nhiễm mỡ liên quan rối loạn chuyển hóa",
+     "n": "ALT 62 U/L, béo bụng, TG cao: nghĩ tới nhưng không có siêu âm; không đổi xử trí hôm nay (men gan < 3 lần giới hạn trên)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khởi atorvastatin 20 mg uống mỗi tối, hẹn tăng dần đến liều tối đa dung nạp",
+     "v": "c",
+     "n": "QĐ 3879/2014 mục IV.4.1: atorvastatin 10–20 mg/ngày, tối đa 80 mg/ngày; ACC/AHA 2026 mục 4.2.4.3 KC 2: LDL-C ≥ 190 mg/dL (4,9 mmol/L) dùng statin liều tối đa dung nạp (theo mục sổ mâu thuẫn LDL ≥ 190 của ca MT-0425). Chờ lối sống 2–3 tháng rồi mới dùng thuốc (QĐ 3879/2014 mục IV.1, IV.4): chấm a."
+    },
+    {
+     "t": "Đổi ăn uống, bỏ nước ngọt có ga, tăng vận động 30–45 phút/ngày, 5 ngày/tuần",
+     "v": "c",
+     "n": "QĐ 3879/2014 mục IV.1–IV.3: thay đổi lối sống là chỉ định đầu tiên; hạn chế mỡ bão hòa, rượu bia, glucid."
+    },
+    {
+     "t": "Giữ atenolol 50 mg, chưa đổi thuốc hạ áp hôm nay, đo lại HA đúng cách và hẹn tái khám",
+     "v": "a",
+     "n": "HA sau đo đúng cách 138/88 mmHg. Chẹn beta không phải thuốc đầu tay khi không có chỉ định bắt buộc (QĐ 5904/2019 Phần 3 mục G; ESC 2024 Bảng khuyến cáo 16, mục sổ mâu thuẫn số 5). Đổi ngay sang thuốc khác cũng chấm a vì chưa có chỉ định rõ."
+    },
+    {
+     "t": "Hỏi riêng tư về đời sống vợ chồng, giải thích rối loạn cương có thể do thuốc huyết áp, bệnh mạch máu hoặc stress",
+     "v": "c",
+     "n": "Động cơ thật của anh. Nguồn chuyên môn về nguyên nhân rối loạn cương: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gửi TSH và FT4 lên huyện (đã gửi), hẹn lấy kết quả sau 5–7 ngày, kiểm lại lipid và men gan sau 6–8 tuần",
+     "v": "c",
+     "n": "Suy giáp phải loại trừ (QĐ 3879/2014 mục II.2). Đánh giá đáp ứng 6–8 tuần sau khởi trị (ESC/EAS 2019); men gan 8–12 tuần sau khởi trị (ESC/EAS 2019)."
+    },
+    {
+     "t": "Tư vấn gia đình: sàng lọc cho anh/chị/em và con khi có điều kiện",
+     "v": "a",
+     "n": "ESC/EAS 2019 mục 9.1: sàng lọc dây chuyền cho người thân của ca chỉ điểm bằng TC hoặc LDL-C; chưa bắt buộc khi chưa xác định FCH/FH."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến ngay vì mỡ máu cao",
+     "v": "w",
+     "n": "Không có biến chứng cấp, TG xa ngưỡng viêm tụy (QĐ 3879/2014 mục III.1.2: thường gặp khi TG > 10 g/L), điều trị được ngoại trú."
+    },
+    {
+     "t": "Kê fenofibrat hoặc gemfibrozil thay statin",
+     "v": "w",
+     "n": "Fibrat chỉ định khi tăng TG (QĐ 3879/2014 mục IV.4.2); LDL-C 5,3 mmol/L là mục tiêu chính của statin (mục IV.4.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu hỗn hợp: LDL-C 5,3 mmol/L (≥ 4,9), TG 3,4, HDL-C 0,9 mmol/L",
+     "Nghi nguyên phát (kiểu tăng lipid hỗn hợp gia đình) kèm béo bụng, ít vận động, chế độ ăn nhiều đường; chẹn beta có thể góp phần",
+     "Thứ phát do suy giáp: TSH gửi huyện, chờ kết quả; lâm sàng không ủng hộ",
+     "Tăng huyết áp đang dùng atenolol (HA đo đúng cách 138/88 mmHg)",
+     "Đau ngực thành ngực, không nghĩ đau thắt ngực; chưa có triệu chứng mạch vành"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bệnh nhân kể lộn xộn nên cần cấu trúc hóa: lý do thật, thuốc đang dùng (atenolol), tiền sử gia đình (cha nhồi máu cơ tim 49 tuổi, anh trai 39 tuổi dùng thuốc mỡ), chế độ ăn nước ngọt, ít vận động, các triệu chứng suy giáp, đau ngực. Hỏi riêng tư mới ra động cơ thật là rối loạn cương.",
+     "Khám: đo HA lại sau 5 phút nghỉ với băng cỡ lớn (146/92 → 138/88 mmHg), BMI 30,4, vòng bụng 100 cm, tuyến giáp không to, phản xạ gân gót bình thường, không ban vàng, không u vàng gân.",
+     "Cận lâm sàng ở trạm: lipid máu đói (lấy buổi sáng khi đói, QĐ 3879/2014 mục III.2), glucose, men gan, creatinin, tổng phân tích nước tiểu, ECG. TSH gửi huyện. LDL-C 5,3 mmol/L ≥ 4,9 là tăng cholesterol nặng (ACC/AHA 2026 mục 4.2.4.3); TC > 5,2, TG > 1,7, HDL-C < 1,03 mmol/L (QĐ 3879/2014 mục III.2).",
+     "Vì sao nghĩ nguyên phát: LDL-C rất cao ở người 34 tuổi, tiền sử gia đình bệnh tim mạch sớm và rối loạn lipid; nhiều người trong gia đình cùng mắc (QĐ 3879/2014 mục II.1; ESC/EAS 2019 mục 9.1.1). Nguyên nhân thứ phát cần loại trừ: suy giáp, đái tháo đường, bệnh thận, hội chứng thận hư, rượu, thuốc (QĐ 3879/2014 mục II.2). Hôm nay đã loại glucose, thận, nước tiểu; còn chờ TSH.",
+     "Vì sao mạch 56 không chứng minh suy giáp: bệnh nhân đang dùng atenolol; các triệu chứng suy giáp khác âm tính."
+    ],
+    "phan_tich_xu_tri": [
+     "Khởi statin ngay, không chờ 2–3 tháng lối sống: ACC/AHA 2026 mục 4.2.4.3 KC 2 (LDL-C ≥ 190 mg/dL). QĐ 3879/2014 mục IV.1 và IV.4 thì lối sống trước, sau 2–3 tháng chưa đạt mới dùng thuốc; hai nguồn khác năm (2014 và 2026), cả hai đều chấp nhận được trong ca này. Atorvastatin 10–20 mg/ngày, tối đa 80 (QĐ 3879/2014 mục IV.4.1); bệnh nhân bắt đầu 20 mg rồi tăng đến liều tối đa dung nạp (ACC/AHA 2026).",
+     "Mục tiêu LDL-C: < 1,8 mmol/L và giảm ≥ 50% (ESC/EAS 2025 Bảng 3: LDL-C > 4,9 mmol/L là nguy cơ cao; mục tiêu như ESC/EAS 2019) hoặc tối thiểu < 2,6 mmol/L và non-HDL-C < 3,4 mmol/L (ACC/AHA 2026 mục 4.2.4.3 KC 3). Cha nhồi máu cơ tim sớm làm nghiêng về mục tiêu thấp hơn; hai cách đều đúng.",
+     "Lối sống: 30–45 phút vận động/ngày, 5 ngày/tuần; hạn chế mỡ bão hòa, bia rượu, glucid (QĐ 3879/2014 mục IV.2–IV.3). Nước ngọt có ga 2–3 lon/ngày là mục tiêu cụ thể.",
+     "Thuốc hạ áp: chẹn beta không phải thuốc đầu tay khi không có chỉ định bắt buộc (QĐ 5904/2019 Phần 3 mục G; ESC 2024 Bảng khuyến cáo 16); hôm nay HA sau đo đúng cách gần mục tiêu, nên giữ và theo dõi.",
+     "Lipid, men gan: kiểm lại lipid 6–8 tuần, men gan 8–12 tuần (ESC/EAS 2019). Đo CK nền chấm a.",
+     "Ghi nhận hạn chế: ApoB, Lp(a), HbA1c không làm tại trạm. Bệnh viện huyện cách 14 km, mỗi lần đi tốn một buổi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, giờ cố định",
+      "so_ngay": "Dùng lâu dài; tái khám sau 6 tuần",
+      "ghi_chu": "QĐ 3879/2014 mục IV.4.1 (10–20 mg/ngày, tối đa 80 mg); tăng dần đến liều tối đa dung nạp theo ACC/AHA 2026 mục 4.2.4.3 KC 2. Báo ngay nếu đau cơ nặng, yếu cơ, nước tiểu sẫm."
+     },
+     {
+      "thuoc": "Atenolol",
+      "ham_luong": "50 mg",
+      "lieu": "50 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "30 ngày, đo HA lại khi tái khám",
+      "ghi_chu": "Giữ thuốc đang dùng; xét đổi thuốc khi HA không đạt hoặc có tác dụng phụ (QĐ 5904/2019 Phần 3 mục G). Atenolol khởi đầu 25 mg, duy trì 25–100 mg; tránh dùng làm thuốc hàng đầu ở người > 60 tuổi (QĐ 5904/2019 Phần 3 mục G, bảng thuốc)."
+     }
+    ],
+    "dan_do": [
+     "Bỏ nước ngọt có ga và trà sữa; ăn bớt mỡ, da, cơm thừa; vận động đi bộ nhanh 30–45 phút, 5 ngày mỗi tuần (QĐ 3879/2014 mục IV.2–IV.3).",
+     "Uống statin mỗi tối, không tự bỏ; đau cơ nặng, yếu cơ, nước tiểu sẫm màu thì đến ngay.",
+     "Lấy kết quả TSH sau 5–7 ngày (xe chuyển mẫu thứ Năm); tái khám sau 6 tuần cùng xét nghiệm lipid và men gan.",
+     "Anh có thể nói thẳng chuyện vợ chồng với bác sĩ; đây là vấn đề y tế, không phải điều đáng xấu hổ.",
+     "Anh trai và các anh chị em nên kiểm tra mỡ máu khi có dịp."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Nam 34 tuổi tái khám sau 41 ngày, kể uống thuốc mỡ máu bị đau cơ, xin đổi thuốc. Sinh hiệu: mạch 54 l/p, HA 158/98 mmHg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Bảo bị nhập viện vì đau cơ khi dùng statin, trong khi sức cơ 5/5, nước tiểu bình thường, CK bình thường. Đa số đau cơ do statin là triệu chứng chủ quan nhẹ, xử trí được tại chỗ (ACC/AHA 2026 mục 4.2.11, giải thích KC 5). Anh nghỉ một ngày, tốn tiền, không ai trông mẹ vợ và con, và có thể bỏ luôn thuốc, để LDL-C 4,0 mmol/L vẫn cao.",
+    "chuyen_tuyen": "Anh Bảo bị gửi lên chuyên khoa cơ xương khớp/thần kinh vì đau cơ khi dùng statin. Chưa có yếu cơ hay CK tăng, nên có thể xử trí tại trạm bằng đánh giá nguyên nhân và đổi liều (ACC/AHA 2026 mục 4.2.11). Chuyến đi 14 km làm anh mất một buổi, chậm xử trí LDL-C 4,0 mmol/L, và anh càng ngại tái khám.",
+    "theo_doi": "Anh Bảo được trấn an 'đau cơ do stress' và dặn uống tiếp đúng liều cũ, không hỏi ra khí sắc và chuyện khó nói. Anh vẫn đau cơ, vẫn tự bỏ thuốc, huyết áp và mỡ máu tiếp tục không đạt (LDL-C 4,0 mmol/L chưa đạt mục tiêu; HA 152/96 mmHg). Người bệnh dừng statin vì đau cơ làm tăng nguy cơ biến cố tim mạch (ACC/AHA 2026 mục 4.2.11 KC 1)."
+   },
+   "loi_mo": "Bác sĩ ơi, em uống thuốc mỡ xong bị đau hai đùi, đau cả hai tay, chắc thuốc độc quá. Bác sĩ đổi thuốc cho em đi. Mà tiền học con em cũng chưa đóng...",
+   "sinh_hieu": {
+    "mach": 54,
+    "ha": "158/98",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": [
+     "mach",
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Xin đổi thuốc vì 'uống thuốc mỡ xong đau cơ'. Nói cụt, mắt nhìn xuống, thở dài.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khai"
+    },
+    {
+     "id": "co",
+     "noi_dung": "Đau ê hai đùi và bắp tay hai bên, nhất là buổi tối, bắt đầu khoảng tuần thứ 3 sau khi uống atorvastatin; vẫn đứng lên ngồi xuống, bế con, nâng tay quá đầu được. Không yếu cơ, nước tiểu vàng bình thường, không sẫm màu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau cơ: nhẹ, không yếu, nước tiểu bình thường"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống atorvastatin 20 mg mỗi tối nhưng đã tự bỏ 5 ngày gần đây vì đau cơ; trước đó có quên khoảng 4–5 lần. Atenolol vẫn uống mỗi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, tự ngưng"
+    },
+    {
+     "id": "hoat_dong",
+     "noi_dung": "Gần đây không tập gì nặng, không khuân vác; thỉnh thoảng bế con 12 kg và mẹ vợ khi dìu đi vệ sinh. Không dùng thuốc kháng sinh, kháng nấm, nước bưởi hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ vận động nặng, tương tác thuốc"
+    },
+    {
+     "id": "giáp",
+     "noi_dung": "Kết quả TSH gửi huyện đã về, nhân viên trạm báo bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Kết quả TSH"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Hai tháng nay buồn, chán, ngủ kém, ít muốn làm gì; vẫn lo tiền và lo bệnh. Không có ý nghĩ tự hại bản thân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khí sắc trầm"
+    },
+    {
+     "id": "cuong",
+     "noi_dung": "Vẫn khó cương, thấy xấu hổ với vợ, nghi do thuốc huyết áp hoặc thuốc mỡ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Rối loạn cương và nghi do thuốc",
+     "dieu_kien_lo": "Chỉ nói khi được hỏi riêng tư về chuyện vợ chồng hoặc về tác dụng phụ của thuốc."
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Có giảm nước ngọt còn 1 lon/ngày nhưng vẫn ăn cơm thừa; cân nặng không giảm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống sau 6 tuần"
+    },
+    {
+     "id": "tui",
+     "noi_dung": "Huyết áp đo ở nhà thuốc 156/98, 'cao hơn trước'. Không đau đầu dữ dội, không nhìn mờ, không đau ngực, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA ngoài phòng khám; loại trừ cấp cứu"
+    },
+    {
+     "id": "nhieu",
+     "noi_dung": "Hôm nay còn kể lan man chuyện tiền học con, mẹ vợ trượt ngã, hàng xóm khuyên uống thuốc nam hạ mỡ.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Băng chuẩn 158/98 mmHg; nghỉ 5 phút, băng cỡ lớn 152/96 mmHg. Hai tay chênh dưới 5 mmHg.",
+     "k": 1,
+     "hien": "Băng chuẩn 158/98 mmHg; nghỉ 5 phút, băng cỡ lớn 152/96 mmHg."
+    },
+    "toan_than": {
+     "a": "Nặng 90 kg (tăng 2 kg), vòng bụng 102 cm. Đi vào chậm, ngồi nặng nề, nói cụt, mắt nhìn xuống.",
+     "k": 1,
+     "hien": "Nặng 90 kg, vòng bụng 102 cm. Đi vào chậm, nói cụt, mắt nhìn xuống."
+    },
+    "suc_co": {
+     "a": "Sức cơ 5/5 các nhóm gốc chi, đứng lên từ ghế không tay chống, nâng tay quá đầu bình thường. Ấn đau nhẹ cơ đùi hai bên, không sưng.",
+     "k": 1,
+     "hien": "Đứng lên từ ghế và nâng tay quá đầu được; ấn hai đùi hơi đau."
+    },
+    "co_xuong_khop": {
+     "a": "Cơ đùi, cơ delta ấn đau nhẹ hai bên, không sưng nóng. Khớp bình thường.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Phản xạ gân gót bình thường, không chậm thư giãn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 54 l/p, không thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 54 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều, không thổi."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Khí sắc trầm, ít cười, trả lời ngắn, mất hứng thú; không ý nghĩ tự hại, không ảo giác.",
+     "k": 1,
+     "hien": "Ít nói, mắt nhìn xuống, trả lời ngắn."
+    },
+    "chi_duoi": {
+     "a": "Không phù. Bàn chân ấm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 6,5 · LDL-C 4,0 · HDL-C 1,0 · TG 3,0 mmol/L",
+     "ab": 1,
+     "n": "Giảm LDL-C khoảng 25% từ 5,3 → 4,0 mmol/L, thấp hơn mục tiêu ≥ 50%: khỏi chậm hơn dự kiến do bỏ thuốc ngắt quãng và lối sống chưa đổi (ESC/EAS 2019 mục tiêu ≥ 50%; mức giảm kỳ vọng của liều atorvastatin 20 mg: không có trong tài liệu đã tải)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 3,1 mIU/L · FT4 bình thường",
+     "n": "Bình thường: loại trừ suy giáp thứ phát (QĐ 3879/2014 mục II.2); suy giáp làm tăng nguy cơ đau cơ do statin (ACC/AHA 2026 Bảng 24)."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 138 U/L (bình thường)",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 1: không đo thường quy khi đau cơ nhẹ, chỉ đo khi đau cơ nặng hoặc yếu cơ; ESC/EAS 2019 khuyến cáo đo CK khi có triệu chứng cơ: làm hay không đều không trừ điểm."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 34 · ALT 48 U/L",
+     "n": "ALT < 3 lần giới hạn trên: tiếp tục (ESC/EAS 2019)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,8 mmol/L (đói)"
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,8 mmol/L · Creatinin 84 µmol/L · eGFR 104 mL/ph/1,73m²"
+    },
+    "ua": {
+     "v": "u",
+     "r": "Không protein · Không glucose · Không hồng cầu"
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang chậm 54 l/p, không biến đổi ST-T."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "5,9%"
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau cơ nhẹ liên quan statin (SAMS), chưa có tiêu cơ vân, ở bệnh nhân rối loạn lipid máu hỗn hợp chưa đạt mục tiêu",
+     "ok": 1,
+     "n": "Đau cơ đối xứng gốc chi sau khi bắt đầu atorvastatin, sức cơ 5/5, nước tiểu bình thường, CK 138 U/L, TSH 3,1. Hầu hết SAMS là đau cơ chủ quan, CK thường bình thường (ACC/AHA 2026 mục 4.2.11, giải thích KC 5). Có thể một phần do kỳ vọng của bệnh nhân (ACC/AHA 2026 mục 4.2.11, Synopsis)."
+    },
+    {
+     "t": "Tăng huyết áp chưa kiểm soát (152/96 mmHg sau đo đúng cách), nghi do tuân thủ kém, lối sống, nước ngọt/muối và stress",
+     "ok": 1,
+     "n": "HA sau đo đúng cách xấu hơn lượt 1 (138/88 → 152/96). Lưu ý: dùng atenolol là chẹn beta không phải đầu tay (QĐ 5904/2019 Phần 3 mục G)."
+    },
+    {
+     "t": "Khí sắc trầm và rối loạn cương, nghi liên quan thuốc, bệnh chuyển hóa và stress",
+     "ok": 1,
+     "n": "Khí sắc trầm hai tháng, ngại nói. Tiêu chuẩn chẩn đoán trầm cảm và nguyên nhân rối loạn cương: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêu cơ vân do statin",
+     "n": "Không yếu cơ, nước tiểu không sẫm màu, CK bình thường; cần CK ≥ 10 lần giới hạn trên mới phải ngưng (ACC/AHA 2026 mục 4.2.11)."
+    },
+    {
+     "t": "Suy giáp",
+     "n": "TSH 3,1 mIU/L bình thường; phản xạ gân gót bình thường. Suy giáp tăng nguy cơ SAMS (ACC/AHA 2026 Bảng 24) nhưng đã loại."
+    },
+    {
+     "t": "Tương tác thuốc làm tăng nồng độ statin",
+     "n": "Không dùng macrolid, kháng nấm, nước bưởi (ACC/AHA 2026 Bảng 23); QĐ 3879/2014 mục IV.4.1 nêu macrolid làm tăng men cơ."
+    },
+    {
+     "t": "Viêm cơ/bệnh cơ nguyên phát",
+     "n": "Không yếu cơ gốc chi, CK bình thường (ACC/AHA 2026 Bảng 24 liệt kê bệnh lý cơ)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không ngưng hẳn statin: giải thích, hỏi tuân thủ, loại trừ nguyên nhân khác (TSH, vận động nặng, tương tác thuốc), rồi dùng lại liều thấp hơn hoặc đổi statin",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 1: ghi nhận lo lắng của bệnh nhân, nhắc nguy cơ biến cố khi hạ LDL-C không đủ, thảo luận cá thể hóa; hầu hết SAMS xử trí được. KC 3, 4: loại trừ nguyên nhân thứ phát; dùng liều statin thấp hơn nếu dung nạp. Liều/đổi statin cụ thể: QĐ 3879/2014 mục IV.4.1 (atorvastatin 10–20, rosuvastatin 10–20 mg/ngày)."
+    },
+    {
+     "t": "Thêm ezetimibe sau khi đạt liều statin tối đa dung nạp, mục tiêu LDL-C chưa đạt",
+     "v": "a",
+     "n": "ACC/AHA 2026 mục 4.2.4.3 KC 3–4 và mục 4.2.11: thêm ezetimibe/bempedoic acid khi đã dùng statin liều tối đa dung nạp mà chưa đạt; phối hợp ngay từ đầu ở FH theo ESC/EAS 2019 mục 9.1.2.1: chấm a (sổ mâu thuẫn mục 3). Ezetimibe không nằm trong QĐ 3879/2014: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không đo CK vì đau nhẹ, sức cơ bình thường",
+     "v": "a",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 1; đo CK khi đau nặng hoặc yếu cơ. ESC/EAS 2019 khuyến cáo đo CK: làm hay không đều đúng (sổ mâu thuẫn mục 4)."
+    },
+    {
+     "t": "Đổi atenolol sang thuốc khác theo bậc thang hạ áp, đo HA đúng cách tại nhà",
+     "v": "c",
+     "n": "HA 152/96 mmHg chưa đạt; chẹn beta chỉ khi có chỉ định bắt buộc (QĐ 5904/2019 Phần 3 mục G; ESC 2024 Bảng khuyến cáo 16). Chọn thuốc thay và liều cụ thể: tra QĐ 5904/2019 Phần 1 mục C. Atenolol có thể liên quan rối loạn cương: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Sàng lọc khí sắc, hỏi ý nghĩ tự hại, khai thác gánh nặng chăm sóc, hẹn gặp lại sớm",
+     "v": "c",
+     "n": "Khí sắc trầm hai tháng, ngưỡng khai báo cao ở nam nội trợ. Điều trị trầm cảm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn lối sống cụ thể: giảm nước ngọt, đi bộ 30–45 phút, ăn bớt mỡ; kèm sàng lọc người thân",
+     "v": "c",
+     "n": "QĐ 3879/2014 mục IV.2–IV.3; ESC/EAS 2019 mục 9.1.1: sàng lọc dây chuyền."
+    },
+    {
+     "t": "Ngưng statin hoàn toàn rồi chờ hết đau mới dùng lại",
+     "v": "a",
+     "n": "Ngưng tạm có thể chấp nhận nhưng nên dùng lại (ACC/AHA 2026 mục 4.2.11 KC 1: tránh bỏ điều trị); không cấm."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển chuyên khoa cơ xương khớp vì đau cơ",
+     "v": "w",
+     "n": "Không có yếu cơ, CK bình thường, nước tiểu không sẫm: không đủ tiêu chuẩn (ACC/AHA 2026 mục 4.2.11)."
+    },
+    {
+     "t": "Dùng coenzyme Q10 để điều trị đau cơ do statin",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.11: không khuyến cáo coenzyme Q10 thường quy."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau cơ nhẹ liên quan statin (atorvastatin 20 mg), sức cơ 5/5, CK 138 U/L",
+     "Rối loạn lipid máu hỗn hợp chưa đạt mục tiêu: LDL-C 5,3 → 4,0 mmol/L (giảm khoảng 25%), TG 3,0, HDL-C 1,0; TSH 3,1 mIU/L bình thường",
+     "Tăng huyết áp chưa kiểm soát: 152/96 mmHg sau đo đúng cách (nặng hơn lượt 1)",
+     "Khí sắc trầm và rối loạn cương, nghi liên quan thuốc, stress, bệnh chuyển hóa",
+     "Nghĩ nhiều đến đáp ứng chậm do bỏ thuốc ngắt quãng và chưa đổi lối sống"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: đau cơ ở đâu, từ khi nào so với lúc uống statin, có yếu cơ không, nước tiểu sẫm màu không, vận động nặng, thuốc khác (macrolid, kháng nấm, nước bưởi), uống thuốc đều không, TSH. Hỏi thêm khí sắc, ngủ, chuyện khó nói. Bệnh nhân tự bỏ thuốc 5 ngày và quên 4–5 lần.",
+     "Khám: sức cơ, đứng lên từ ghế, nâng tay quá đầu, ấn cơ; HA đo đúng cách 152/96 mmHg (xấu hơn lượt 1); tâm thần: khí sắc trầm.",
+     "Cận lâm sàng: lipid 6 tuần cho thấy giảm ít hơn kỳ vọng (≥ 50%: ESC/EAS 2019); TSH bình thường (loại thứ phát, QĐ 3879/2014 mục II.2); CK bình thường (làm hay không đều chấp nhận, sổ mâu thuẫn mục 4); men gan ALT < 3 lần giới hạn trên.",
+     "Chẩn đoán phân biệt đau cơ: tiêu cơ vân (CK ≥ 10 lần giới hạn trên, yếu cơ), suy giáp, tương tác thuốc, vận động nặng, bệnh cơ (ACC/AHA 2026 mục 4.2.11, Bảng 23–24). Ca này là SAMS nhẹ.",
+     "Quỹ đạo 'khỏi chậm hơn dự kiến': nguyên nhân nên gồm tuân thủ thuốc ngắt quãng, nước ngọt và ít vận động còn, rối loạn lipid nguyên phát cần liều cao hơn. Mức giảm LDL-C kỳ vọng với atorvastatin 20 mg: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Không ngưng statin vĩnh viễn: thảo luận cá thể, nhắc nguy cơ khi hạ LDL-C không đủ, hầu hết SAMS xử trí được (ACC/AHA 2026 mục 4.2.11 KC 1). Dùng liều thấp hơn hoặc statin khác (QĐ 3879/2014 mục IV.4.1), rồi tăng dần; thêm ezetimibe nếu chưa đạt (ACC/AHA 2026 mục 4.2.4.3, 4.2.11). Hai cách đều đúng, khác ở thứ tự (sổ mâu thuẫn mục 3).",
+     "Mục tiêu LDL-C hai cách đều đúng: < 1,8 mmol/L và giảm ≥ 50% (ESC/EAS 2025 Bảng 3 và 2019) hoặc tối thiểu < 2,6 mmol/L (ACC/AHA 2026 mục 4.2.4.3).",
+     "Huyết áp: chuyển khỏi atenolol theo bậc thang QĐ 5904/2019 Phần 1 mục C; liều/thuốc cụ thể phụ thuộc bác sĩ, kiểm tra HA tại nhà đúng cách.",
+     "Khí sắc trầm: hỏi ý nghĩ tự hại, hẹn gặp lại sớm; vấn đề rối loạn cương tiếp tục được trao đổi riêng tư. Điều trị: không có trong tài liệu đã tải.",
+     "Hẹn tái khám 4–6 tuần với lipid, men gan; kiểm tra tuân thủ bằng đếm thuốc. Ràng buộc nguồn lực: TSH, ApoB, Lp(a) phải gửi huyện."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày (liều thấp hơn lượt trước)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "4–6 tuần rồi đánh giá lại",
+      "ghi_chu": "Liều thấp hơn nếu dung nạp (ACC/AHA 2026 mục 4.2.11 KC 3–4); QĐ 3879/2014 mục IV.4.1: 10–20 mg/ngày. Có thể thay bằng rosuvastatin 10 mg (QĐ 3879/2014 mục IV.4.1). Tăng liều trở lại khi hết đau."
+     },
+     {
+      "thuoc": "Amlodipin (thay atenolol) – hoặc thuốc ức chế men chuyển/chẹn thụ thể",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày (khởi đầu 5 mg, duy trì 5–10 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "30 ngày",
+      "ghi_chu": "QĐ 5904/2019 Phần 3 mục G (amlodipin 5 mg, 5–10 mg; perindopril 5 mg, 5–10 mg) và Phần 1 Bước 5 mục C (chọn nhóm thuốc). Lựa chọn nhóm cụ thể là của ca (trưởng nhóm bổ sung). Cách giảm dần atenolol khi đổi thuốc: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Không tự bỏ thuốc mỡ máu; đau cơ nặng, yếu cơ, nước tiểu sẫm màu thì đến ngay.",
+     "Đo HA ở nhà đúng cách: ngồi nghỉ 5 phút, băng đúng cỡ.",
+     "Bớt nước ngọt xuống 0–1 lon/ngày, đi bộ 30–45 phút.",
+     "Có thể nói thẳng về chuyện vợ chồng và tâm trạng; tái khám sớm sau 4 tuần.",
+     "Nhờ người thân hoặc hàng xóm trông con để đi tái khám đúng hẹn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Bảo dùng lại statin liều thấp và tăng dần, bớt nước ngọt, đổi thuốc hạ áp. Sau vài tháng LDL-C giảm dần, nhưng lâu hơn dự kiến ban đầu do bỏ thuốc ngắt quãng và lối sống thay đổi chậm. Cái đáng học là quỹ đạo: mức giảm LDL-C 25% sau 6 tuần là tín hiệu cần xem lại tuân thủ và liều, không phải tự ý kết luận thuốc thất bại.",
+ "nhieu": [
+  "Mẹ vợ liệt, con nhỏ, đau lưng, hàng xóm đột quỵ: không liên quan trực tiếp đến chẩn đoán nhưng cho thấy ràng buộc chăm sóc.",
+  "Mạch 56 làm nghĩ suy giáp, nhưng do atenolol; TSH bình thường.",
+  "Đau ngực nhói vài giây khi cúi: thành ngực, không gắng sức."
+ ],
+ "bai_hoc_bien": [
+  "Kể lể lộn xộn: cấu trúc hóa bệnh sử bằng câu hỏi ngắn, hỏi lại từng mục.",
+  "Động cơ thật (rối loạn cương) chỉ ra khi hỏi riêng tư; không hỏi thì bệnh nhân bỏ thuốc.",
+  "Chỉ có xét nghiệm cơ bản: TSH gửi huyện chậm 5–7 ngày; quyết định hôm nay dựa vào lâm sàng.",
+  "Khỏi chậm hơn dự kiến: LDL-C giảm 25% sau 6 tuần cần tìm nguyên nhân (tuân thủ, liều, lối sống).",
+  "Đau cơ do statin nhẹ: không vội ngưng hẳn hoặc chuyển tuyến."
+ ],
+ "diem_nho": [
+  "LDL-C ≥ 4,9 mmol/L (190 mg/dL) dùng statin liều tối đa dung nạp (ACC/AHA 2026 mục 4.2.4.3); QĐ 3879/2014 mục IV.4 lối sống 2–3 tháng trước.",
+  "Thứ phát: suy giáp, đái tháo đường, bệnh thận, thận hư, rượu, thuốc (thiazid, corticoid, estrogen, chẹn beta) (QĐ 3879/2014 mục II.2).",
+  "Mục tiêu LDL-C < 1,8 mmol/L và giảm ≥ 50% (ESC/EAS 2025) hoặc tối thiểu < 2,6 mmol/L (ACC/AHA 2026).",
+  "SAMS: đa số chủ quan, CK thường bình thường; CK khi đau nặng hoặc yếu cơ (ACC/AHA 2026 mục 4.2.11)."
+ ],
+ "nguon": [
+  "BYT – QĐ 3879/QĐ-BYT 2014 – TL-0039 – Rối loạn chuyển hóa lipid máu mục II.1, II.2, III.1.2, III.2, IV.1–IV.4.",
+  "ACC/AHA 2026 Guideline on the Management of Dyslipidemia – TL-0292 – mục 4.2.4.3 (KC 2–4), 4.2.11 (KC 1, 3–5, Synopsis), Bảng 23, 24.",
+  "ESC/EAS 2019 – TL-0320 – mục 9.1.1 (FCH), 9.1.2.1, theo dõi men gan, đánh giá đáp ứng 6–8 tuần.",
+  "ESC/EAS 2025 Focused Update – TL-0298 – Bảng 3 (nhóm nguy cơ cao); mục tiêu LDL-C như 2019.",
+  "BYT – QĐ 5904/QĐ-BYT 2019 (chẹn beta, Phần 3 mục G; Phần 1 mục C); ESC 2024 Bảng khuyến cáo 16 (theo sổ mâu thuẫn).",
+  "ADA 2026 Standards of Care S2 – tiêu chuẩn glucose đói ≥ 7,0 mmol/L (kho cũ tltk-10000-ca)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (12/10/2026): viết từ TL-0039 (RL lipid), TL-0292 (4.2.4.3, 4.2.11), TL-0320 (9.1.1), TL-0298, ADA 2026 S2; tuân theo mục sổ mâu thuẫn LDL ≥ 190 (MT-0425).",
+  "Cốt truyện tham khảo ca-cu MT-0413; đã bỏ các tỉ lệ xác suất và số liệu không kiểm được nguồn.",
+  "Thiếu tài liệu: nguyên nhân/điều trị rối loạn cương, tiêu chuẩn chẩn đoán trầm cảm, tên/liều thuốc hạ áp thay atenolol, mức giảm LDL-C kỳ vọng của atorvastatin 20 mg.",
+  "Biến sổ cái: nghề nội trợ, khởi phát không rõ (không có yếu tố), thuốc hạ áp atenolol, lý do thật rối loạn cương, nhiễu kể lể lộn xộn, chỉ XN cơ bản, kết cục khỏi chậm, lượt 2 nặng hơn (HA 152/96, khí sắc trầm, đau cơ)."
+ ]
+}

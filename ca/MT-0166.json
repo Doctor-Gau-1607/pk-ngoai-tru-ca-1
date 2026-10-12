@@ -1,0 +1,626 @@
+{
+ "ma_ca": "MT-0166",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết lần đầu (2026-10-12)",
+ "benh": "MT_tha_nguyen_phat",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Giáo viên",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngưng (nghỉ dạy)",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Nông Thị Hạnh",
+  "tuoi": 51,
+  "gioi": "Nữ",
+  "nghe": "Giáo viên tiểu học vùng cao",
+  "can_nang": 62,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi bà là 'cô'. Bà tự xưng 'cô', gọi bác sĩ là 'bác sĩ' hoặc 'bác'.",
+  "tinh_cach": "Điềm đạm, ít nói, quen chịu đựng và lo cho học sinh hơn cho mình. Nói chậm, hay dạ vâng, giọng miền núi nhẹ. Trách nhiệm cao với lớp ghép nên rất ngại bị bắt nghỉ.",
+  "kieu_nhieu": "Ở xa, khó tái khám: liên tục nhắc chuyến xe 13 giờ 30 và đường đèo 90 km, hỏi \"kê cho cô thuốc dùng lâu được không\", nói \"hẹn tái khám thì cô không lên được đâu\". Chỉ chịu theo kế hoạch khi bác sĩ nêu cách làm ngay tại trạm xã, qua điện thoại, và viết ra giấy. Hỏi chung chung thì gạt \"không có gì\"; hỏi cụ thể thì kể thật.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d6a37c",
+   "toc": "#2b2220",
+   "kieuToc": "bui",
+   "ao": "#6f8f9a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Khám huyết áp, xin thuốc",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 51 tuổi, giáo viên tiểu học vùng cao, lên thành phố thăm con gái nên đến khám \"cho yên tâm\" về huyết áp. Cách đây 2 năm được chẩn đoán cao huyết áp. Bốn hôm trước đo ở trạm y tế xã 150/94. Sinh hiệu lúc tiếp đón: HA 156/98 mmHg, mạch 78 l/p, SpO₂ 98%. Điều dưỡng Linh: bà nói ngày mai phải về, mong khám nhanh và lấy thuốc.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Cô lên thăm con nên tiện ghé khám huyết áp thôi. Ở trạm xã người ta bảo huyết áp cô cao, dặn ra lấy thuốc mà cô chưa đi. Mai cô phải về rồi, bác sĩ khám giúp cô cho nhanh, kê cho cô thuốc dùng được lâu lâu nhé.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "156/98",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tiện lên thành phố thăm con gái đang học đại học nên đi khám \"cho yên tâm\". Bốn hôm trước họp giáo viên ở trạm y tế xã, y tá đo được 150/94 rồi dặn ra lấy thuốc. Nói ngoài ra \"không có gì đáng kể\". Ngày mai về nhà bằng xe khách 13 giờ 30.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và HA đo ở trạm xã"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Được chẩn đoán cao huyết áp cách đây khoảng 2 năm, trong đợt khám sức khỏe định kỳ của ngành giáo dục (lúc đó 150/92). Từ đó trạm y tế xã phát thuốc mỗi tháng một lần, uống một viên buổi sáng. Tháng 8 đo ở trạm còn 138/88.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã biết THA, đang dùng thuốc trạm xã"
+    },
+    {
+     "id": "thuoc_het",
+     "noi_dung": "Thuốc huyết áp hết khoảng 2 tuần nay. Cô cứ định ra trạm lấy nhưng vào đợt ôn thi cuối kỳ, trạm chỉ mở giờ hành chính nên chưa đi được. Từ đó không uống viên nào. Nghĩ \"mình thấy khỏe thì chắc cũng không sao\".",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngưng thuốc 2 tuần vì hết, ngại đi lấy"
+    },
+    {
+     "id": "ten_thuoc",
+     "noi_dung": "Không nhớ tên thuốc huyết áp, chỉ biết \"viên trắng nhỏ, trạm phát, uống sáng\". Vỏ vỉ cuối cùng còn trong túi xách: in chữ Amlodipin 5 mg.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Xác định tên thuốc đang dùng (không rõ loại)",
+     "dieu_kien_lo": "Hỏi tên thuốc thì nói không nhớ. Chỉ lộ khi bác sĩ hỏi hình dạng, màu, nơi lấy, hoặc đề nghị xem vỏ vỉ, sổ khám bệnh hay đơn thuốc cũ trong túi."
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Năm sáng nay thức dậy nặng đầu vùng gáy, hết sau 1–2 giờ, kèm ù tai nhẹ. Ngủ không sâu vì lạnh. Đứng lớp vẫn được, không nôn, không nhìn mờ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Triệu chứng THA bị giấu (nặng đầu vùng gáy buổi sáng)",
+     "dieu_kien_lo": "Hỏi chung 'có đau đầu, mệt không' thì nói 'trời lạnh thôi, không đáng kể'. Chỉ kể khi bác sĩ hỏi cụ thể buổi sáng, vùng gáy, ù tai, hoặc sau khi bác sĩ đã trấn an về chuyện dạy học."
+    },
+    {
+     "id": "choang",
+     "noi_dung": "Tuần này hai ba lần thấy hơi choáng khi đứng dậy nhanh sau khi chấm bài, vài giây là hết, không ngất, không mất ý thức.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Chóng mặt thoáng qua khi đổi tư thế (nhiễu: hạ HA tư thế)",
+     "dieu_kien_lo": "Chỉ nói khi hỏi cụ thể có choáng khi đứng dậy hoặc quay đầu nhanh không. Hỏi 'có chóng mặt không' thì nói không."
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Sợ bác sĩ bảo phải nghỉ dạy hoặc nằm viện. Cô dạy lớp ghép hai khối ở điểm trường lẻ, một mình một lớp, đang ôn thi cuối kỳ cho học sinh; nghỉ thì không ai dạy thay. Vì vậy hôm nay giấu bớt triệu chứng.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: ngại nghỉ dạy, giấu triệu chứng",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm cô ngại khi đi khám, hỏi về công việc và lớp học, hoặc nói rõ sẽ không bắt nghỉ dạy nếu không có dấu hiệu nặng."
+    },
+    {
+     "id": "thuoc_cam",
+     "noi_dung": "Hai hôm nay sổ mũi nhẹ nên mua ở tạp hóa viên cảm màu vàng, uống 2 viên × 3 lần/ngày. Vỉ còn trong túi, in thành phần paracetamol, phenylephrin, clorpheniramin.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc tự mua có phenylephrin (làm tăng HA)",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc gì khác không' thì nói 'không'. Chỉ nhớ ra thuốc cảm khi bác sĩ hỏi thuốc cảm, thuốc tự mua ở tạp hóa, hoặc xem túi xách."
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đợt không khí lạnh đầu mùa đã 5 ngày, ban đêm khoảng 11–12 độ, nhà sàn gió lùa. Sáng đi bộ hơn 3 km tới điểm trường trong sương, đầu không đội mũ ấm. Mấy tối nay uống 1–2 chén nhỏ rượu ngô cho ấm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: lạnh, rượu"
+    },
+    {
+     "id": "tran_nguc_am",
+     "noi_dung": "Không đau ngực, không khó thở khi lên dốc đi dạy, không hồi hộp, không phù chân, không khó thở về đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc tim mạch"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Không yếu hay tê tay chân, không méo miệng, không nói khó, không nhìn đôi, không ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc thần kinh, loại cơn THA cấp cứu và TIA"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Không có cơn đau đầu kèm vã mồ hôi, hồi hộp từng đợt. Không yếu cơ, không chuột rút, không khát nhiều. Tiểu đêm 0–1 lần, nước tiểu trong. Ngủ hơi ngáy theo chồng kể, không ngưng thở, ban ngày không buồn ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc gợi ý THA thứ phát"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Chưa bị đái tháo đường hay bệnh thận, bệnh tim. Khám ngành hai năm trước đường máu 5,6 mmol/L, mỡ máu \"hơi cao\", dặn ăn kiêng; từ đó không thử lại. Không dùng thuốc giảm đau thường xuyên, không thuốc nam, không cam thảo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh đồng mắc, thuốc làm tăng HA khác"
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Mãn kinh được 2 năm. Có hai con. Không còn khả năng mang thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tình trạng mãn kinh (liên quan chọn thuốc ức chế RAS)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ cao huyết áp, mất vì tai biến năm 72 tuổi. Bố không bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Nhà ăn mặn: mắm cá, dưa muối, măng chua, thịt gác bếp, canh nêm mắm. Rau tươi ít vào mùa lạnh. Không hút thuốc. Ít vận động ngoài đi bộ đến trường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Muối, rượu, vận động"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Giáo viên tiểu học 28 năm, nay dạy lớp ghép ở điểm trường lẻ của xã vùng cao. Dậy 5 giờ, đi bộ 3 km, đứng lớp cả sáng chiều, tối chấm bài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề nghiệp, thời gian biểu"
+    },
+    {
+     "id": "xa",
+     "noi_dung": "Nhà cách thành phố khoảng 90 km đường đèo, mỗi ngày có một chuyến xe khách. Trạm y tế xã cách nhà 3 km, có máy đo HA và phát amlodipin; xét nghiệm máu phải ra trung tâm y tế huyện cách 25 km, cô ra chợ huyện khoảng 2 tuần một lần. Điện thoại có Zalo, con gái ở thành phố giúp được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khoảng cách, nguồn lực tuyến cơ sở, cách liên lạc"
+    },
+    {
+     "id": "tu_choi_mau",
+     "noi_dung": "Từ chối lấy máu hôm nay: năm ngoái bị ngất khi lấy máu ở bệnh viện huyện, sợ phải chờ kết quả nhỡ chuyến xe, nghĩ \"chỉ đo huyết áp thôi, cần gì thử máu\". Đồng ý làm điện tim và thử nước tiểu. Nếu được giải thích rõ vì sao cần và được làm sau ở trung tâm y tế huyện (nằm ngồi lấy máu, báo trước chuyện từng ngất) thì cô đồng ý làm trong 1–2 tuần tới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm máu: lý do, điều kiện đồng ý lại"
+    },
+    {
+     "id": "may_do",
+     "noi_dung": "Ở nhà không có máy đo HA. Con gái sẵn sàng mua máy bắp tay nếu bác sĩ dặn loại nào; trạm xã có máy thủy ngân và cô y tá quen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng đo HA tại nhà"
+    },
+    {
+     "id": "so_mui",
+     "noi_dung": "Sổ mũi trong hai hôm nay, không sốt, không ho, không đau họng nhiều.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Sau nghỉ 5 phút, ngồi, băng quấn bắp tay vừa cỡ. Tay phải 154/98, tay trái 152/96 mmHg. Chênh dưới 10 mmHg giữa hai tay.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 152/96. Đứng 1 phút 148/96, đứng 3 phút 150/98 mmHg, mạch 80 l/p. Không hạ HA tư thế, không choáng khi đứng.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt vì đi đường xa, da niêm hồng. Cao 156 cm, nặng 62 kg, BMI 25,5. Vòng eo 84 cm. Không mặt tròn, không rạn da tím.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to. Tĩnh mạch cổ không nổi. Không hạch cổ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi phù nhẹ, chảy dịch trong. Họng đỏ nhẹ, amidan không to.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, tần số 78 l/p. Mỏm tim ở khoang liên sườn V trên đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3 T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 78 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mạch bẹn, mạch mu chân bắt đều hai bên. Không âm thổi động mạch cảnh, không âm thổi cạnh rốn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không sờ thấy thận to, không khối đập, không âm thổi cạnh rốn.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Không giãn tĩnh mạch.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không méo miệng. Sức cơ 5/5 bốn chi, cảm giác bình thường, phản xạ đều, không dấu thần kinh khu trú. Dáng đi bình thường.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Hai mắt: động mạch võng mạc hẹp nhẹ, bắt chéo động tĩnh mạch độ I. Không xuất huyết, không xuất tiết, không phù gai thị (không phải tổn thương cấp III–IV theo Keith–Wagener–Barker).",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 78 l/p, trục trung gian. Sokolow-Lyon 27 mm. Không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "Thay một phần việc đánh giá tổn thương cơ quan đích khi từ chối máu: ECG 12 chuyển đạo nằm trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2). Không dày thất trái (ngưỡng Sokolow-Lyon > 35 mm, VSH/VNHA 2024 Bảng 11), nhưng độ nhạy thấp nên không loại trừ."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Que thử: protein âm tính, glucose âm tính, hồng cầu âm tính.",
+     "n": "Tổng phân tích nước tiểu nằm trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2). Không cần lấy máu nên bà chấp nhận."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "UACR 14 mg/g (dưới 30 mg/g).",
+     "n": "Albumin niệu > 30 mg/g là tổn thương thận (VSH/VNHA 2024 Bảng 11); xét nghiệm cơ bản (VSH/VNHA 2024 Bảng 10; AHA/ACC 2025 Bảng 6). Làm từ nước tiểu nên bà chấp nhận."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu hôm nay (sợ ngất như lần trước, sợ nhỡ chuyến xe). Đã được nghe giải thích; không có kết quả. (Creatinin, ure, eGFR)",
+     "n": "Cần: chức năng thận và nền trước khi thêm ức chế men chuyển/chẹn thụ thể (QĐ 5904 Phần 3 mục G: nên kiểm tra creatinin và kali trước khi dùng). Ghi nhận từ chối và hẹn làm tại trung tâm y tế huyện."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu hôm nay (sợ ngất như lần trước, sợ nhỡ chuyến xe). Đã được nghe giải thích; không có kết quả. (Na, K, Cl)",
+     "n": "Kali máu: gợi ý cường aldosteron nếu thấp; nền để theo dõi sau khi thêm ức chế RAS hoặc lợi tiểu (AHA/ACC 2025 mục 5.2.8). Hẹn làm sau."
+    },
+    "glu": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu hôm nay (sợ ngất như lần trước, sợ nhỡ chuyến xe). Đã được nghe giải thích; không có kết quả. (Glucose đói)",
+     "n": "Đường máu đói nằm trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2). Hai năm trước 5,6 mmol/L; chưa thử lại."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu hôm nay (sợ ngất như lần trước, sợ nhỡ chuyến xe). Đã được nghe giải thích; không có kết quả. (Bộ mỡ máu)",
+     "n": "Mỡ máu nằm trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2). Không có kết quả nên chưa tính được nguy cơ tim mạch tuyệt đối, chưa quyết định statin."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu hôm nay (sợ ngất như lần trước, sợ nhỡ chuyến xe). Đã được nghe giải thích; không có kết quả. (HbA1c)",
+     "n": "Chấp nhận làm hay không; glucose đói và lipid quan trọng hơn khi chỉ lấy máu một lần."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu hôm nay (sợ ngất như lần trước, sợ nhỡ chuyến xe). Đã được nghe giải thích; không có kết quả. (Hb)",
+     "n": "QĐ 5904 Phần 1 Bước 2 có hemoglobin/hematocrit; làm sau cùng đợt lấy máu."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu hôm nay (sợ ngất như lần trước, sợ nhỡ chuyến xe). Đã được nghe giải thích; không có kết quả. (TSH)",
+     "n": "ESC 2024 Bảng 8 và AHA/ACC 2025 Bảng 6 xếp TSH thường quy; QĐ 5904 và VSH/VNHA 2024 không liệt kê (sổ mâu thuẫn): làm hay không đều không trừ điểm."
+    },
+    "liver": {
+     "v": "n",
+     "r": "Không cần làm hôm nay.",
+     "n": "AST/ALT nằm trong xét nghiệm cơ bản của QĐ 5904, nhưng bà từ chối máu: ưu tiên creatinin, kali, đường, mỡ máu."
+    },
+    "acid_uric": {
+     "v": "n",
+     "r": "Không cần làm hôm nay.",
+     "n": "Không đổi quyết định hôm nay."
+    },
+    "aldo": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Chưa kháng trị, chưa biết kali; AHA/ACC 2025 mục 3.2.3.1 chỉ bắt buộc khi kháng trị hoặc hạ kali. Làm lại nếu kali thấp hoặc HA không đạt dù đủ phác đồ."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Không đau ngực, ECG không thiếu máu."
+    },
+    "holter_ha": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Thay bằng đo HA tại nhà/trạm (VSH/VNHA 2024 Đ1.2.2); xa và đắt."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không cần làm hôm nay.",
+     "n": "Siêu âm tim là xét nghiệm chi tiết, không thường quy (VSH/VNHA 2024 Bảng 10); không đổi quyết định hôm nay."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Không triệu chứng hô hấp nặng hay suy tim."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Không dấu thần kinh, đau đầu nhẹ theo giờ, HA dưới 180/110."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Không có chỉ định thường quy; không gợi ý THA thứ phát."
+    },
+    "doppler_than": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Không âm thổi cạnh rốn, không gợi ý hẹp động mạch thận."
+    },
+    "flu": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Sổ mũi nhẹ, không sốt, không đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 1, đã biết, chưa kiểm soát do hết thuốc 2 tuần, đợt lạnh và thuốc cảm có phenylephrin; chưa đánh giá đủ tổn thương cơ quan đích vì người bệnh từ chối xét nghiệm máu",
+     "ok": 1,
+     "n": "HA 154/98 mmHg ở nơi khám, 150/94 ở trạm xã 4 hôm trước: độ 1 là 140–159/90–99 (QĐ 5904 Phần 1 Bước 3A); đã được chẩn đoán từ 2 năm trước; không có gợi ý thứ phát; ECG, nước tiểu, đáy mắt chưa thấy tổn thương cơ quan đích."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Chẩn đoán lúc 49 tuổi, không hạ kali trên lâm sàng, từng đạt 138/88 khi uống amlodipin đơn độc, không cơn vã mồ hôi, không âm thổi cạnh rốn, không phù. QĐ 5904 Phần 1 Bước 4A.1 chỉ chuyển khi THA ≤ 40 tuổi hoặc nghi thứ phát. Nghĩ lại nếu kháng trị hoặc kali thấp (khi có kết quả)."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA dưới 180/110 mmHg và không tổn thương cơ quan đích cấp: đau đầu nhẹ theo giờ, thần kinh bình thường, đáy mắt không xuất huyết hay phù gai (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1)."
+    },
+    {
+     "t": "Tăng huyết áp chủ yếu do thuốc cảm phenylephrin",
+     "n": "HA đã 150/94 ở trạm trước khi bà uống thuốc cảm 2 ngày; thuốc cảm chỉ góp phần, cần ngưng (AHA/ACC 2025 Bảng 11)."
+    },
+    {
+     "t": "Thiếu máu não thoáng qua hoặc hạ huyết áp tư thế",
+     "n": "Choáng vài giây khi đứng nhanh nhưng HA đứng không tụt, không dấu thần kinh khu trú; chưa thấy cơn yếu liệt, nói khó, nhìn đôi."
+    },
+    {
+     "t": "Tăng huyết áp áo choàng trắng",
+     "n": "HA cao ở hai nơi đo (trạm xã, phòng khám) và đã được chẩn đoán, từng điều trị; HA tại nhà sẽ xác nhận (VSH/VNHA 2024 Đ1.2.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lý do từ chối, giải thích vì sao cần creatinin, kali, đường, mỡ máu; ghi nhận từ chối vào hồ sơ, cho bà ký xác nhận đã được tư vấn và hẹn làm trong 1–2 tuần tại trung tâm y tế huyện (báo trước chuyện từng ngất, cho ngồi hoặc nằm khi lấy)",
+     "v": "c",
+     "n": "Luật Khám bệnh, chữa bệnh 2023 Điều 11 khoản 1 (lựa chọn sau khi được giải thích đầy đủ) và Điều 13 khoản 1 (từ chối phải cam kết bằng văn bản sau tư vấn); luật nêu từ chối khám, chữa bệnh nói chung, áp dụng cho từng xét nghiệm là cách làm thận trọng. Xét nghiệm cơ bản hoàn thành trong 3 tháng đầu (QĐ 5904 Phần 1 Bước 2), trạm chưa làm được thì chuyển tuyến làm (QĐ 5904 Bước 4A.5)."
+    },
+    {
+     "t": "Bắt đầu lại amlodipin 5 mg uống 1 lần mỗi sáng (thuốc bà đã dùng, không cần creatinin, kali trước khi dùng)",
+     "v": "c",
+     "n": "Khởi trị khi HA ≥ 140/90 mmHg ở người dưới 80 tuổi (QĐ 5904 Phần 1 Bước 5 mục A.5); ESC 2024 Bảng khuyến cáo 17 (I, A): khởi trị ngay; amlodipin khởi đầu 5 mg, duy trì 5–10 mg (QĐ 5904 Phần 3 mục G). Ức chế men chuyển cần kiểm tra creatinin, kali trước (QĐ 5904 Phần 3 mục G) nên chưa dùng."
+    },
+    {
+     "t": "Ngưng thuốc cảm có phenylephrin; sổ mũi thì rửa mũi nước muối sinh lý, đau nhức thì paracetamol không quá 4 g/ngày",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11: thuốc thông mũi (phenylephrin, pseudoephedrin) dùng ngắn nhất có thể và tránh khi THA chưa kiểm soát; thay bằng nước muối, xịt corticoid mũi hoặc kháng histamin; paracetamol dưới 4 g/ngày."
+    },
+    {
+     "t": "Hướng dẫn đo HA tại nhà bằng máy bắp tay (con gái mua), đo 2 lần sáng và tối, 3–7 ngày trước mỗi lần liên hệ; nhờ trạm y tế xã đo hằng tuần và gửi ảnh sổ HA qua Zalo",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ1.2.2 (đo 3–7 ngày, 2 lần/ngày, mỗi lần 2 lượt cách 1–2 phút; trung bình ≥ 135/85 là THA), Đ4.6 (theo dõi từ xa), Đ5.3–Đ5.4; ESC 2024 Bảng khuyến cáo 35 (I, B) và Bảng 36 (I, A): làm việc nhóm, chuyển bớt việc cho điều dưỡng."
+    },
+    {
+     "t": "Hẹn tái đánh giá sau 2–4 tuần tại trạm y tế xã (đo HA, đếm viên, hỏi tác dụng phụ); nếu chưa đạt thì thêm ức chế RAS (perindopril 5 mg hoặc losartan 25 mg) ngay khi có creatinin, kali; kiểm tra lại creatinin, kali 2–4 tuần sau đó",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ4.1: tái khám 2–4 tuần/lần trong 2–3 tháng đầu; thời gian đạt đích giữa các bước 1–3 tháng; QĐ 5904 Phần 1 Bước 4B: ca ổn định theo dõi tại trạm; QĐ 5904 Phần 3 mục G: perindopril 5 mg, losartan 25 mg (sơ đồ Phần 1 ghi 50 mg, chọn liều thận trọng); AHA/ACC 2025 mục 5.2.8: điện giải, creatinin 2–4 tuần sau khi thêm ức chế RAS."
+    },
+    {
+     "t": "Giải thích mục tiêu HA dưới 130/80 mmHg và việc uống thuốc suốt đời; không tự ngưng khi thấy khỏe",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Bảng 4 (I, A): < 130/80 nếu dung nạp, duy trì thuốc suốt đời; QĐ 5904 Phần 1 mục A.2 (tâm thu 120 đến dưới 130 ở người dưới 65 tuổi) cùng hướng; QĐ 5904 Phần 1 mục D.2: không tự ý bỏ thuốc."
+    },
+    {
+     "t": "Giảm muối dưới 5 g/ngày: bớt mắm cá, dưa muối, măng chua, thịt gác bếp, nêm mắm nhẹ tay; dừng rượu ngô hoặc không quá 1 cốc/ngày; mặc ấm, đội mũ khi đi sáng sớm",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Hình 14: muối < 5 g/ngày; QĐ 5904 Phụ lục 3.2 (< 5 g/ngày) và Phần 3 mục F (hạn chế dưa/cà muối, cá muối); Phần 1 mục D.1c: nữ ≤ 1 cốc/ngày, ≤ 5 cốc/tuần; mục D.1f: tránh bị lạnh đột ngột."
+    },
+    {
+     "t": "Trả lời nỗi sợ nghỉ dạy: HA ở mức độ 1, không dấu hiệu tổn thương cấp, chưa cần nghỉ dạy hay nhập viện nếu uống thuốc đều và theo dõi; dặn các dấu hiệu phải đi khám ngay",
+     "v": "c",
+     "n": "Không có trong tài liệu đã tải quy định nghỉ làm cho THA. Căn cứ: không đủ tiêu chuẩn cấp cứu (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1); VSH/VNHA 2024 Đ3.4: cùng bàn bạc, hiểu niềm tin của người bệnh để tăng tuân thủ."
+    },
+    {
+     "t": "Viết giấy dặn bằng tay, ghi số điện thoại phòng khám và trạm y tế xã, dấu hiệu đi cấp cứu ngay: đau đầu dữ dội, yếu liệt, méo miệng, nói khó, nhìn mờ hay nhìn đôi, đau ngực, khó thở, ngất, hoặc HA đo lại ≥ 180/110 mmHg",
+     "v": "c",
+     "n": "Ở xa nên dùng ngưỡng thận trọng: QĐ 5904 Phần 3 mục D.1 chuyển khẩn khi ≥ 200/120 hoặc ≥ 180/110 kèm đau ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú, suy tim; triệu chứng theo ESC 2024 mục 10.1.1."
+    },
+    {
+     "t": "Kê thuốc 1 tháng, ghi rõ chuyển quản lý và lấy thuốc tiếp tại trạm y tế xã",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 4B và mục C: trạm xã quản lý khi dùng thuốc sẵn có tại trạm; VSH/VNHA 2024 Đ4.1: tái khám 2–4 tuần. Amlodipin đã có sẵn ở trạm."
+    },
+    {
+     "t": "Phối hợp ngay amlodipin 5 mg và ức chế RAS (perindopril 5 mg hoặc losartan 25 mg) hôm nay dù chưa có creatinin, kali",
+     "v": "a",
+     "n": "Chấp nhận: ESC 2024 Bảng khuyến cáo 16 (I, B) và VSH/VNHA 2024 Bảng 4 (I, A) đều ưu tiên phối hợp đôi từ đầu, và ESH 2023 mục 21.1 nói đơn trị hạ HA chậm hơn; ngoại lệ gồm người ≥ 85 tuổi, hạ HA tư thế có triệu chứng, suy yếu vừa đến nặng, HA 120–139 có chỉ định kèm; không gồm thiếu xét nghiệm. Nhưng QĐ 5904 Phần 3 mục G dặn kiểm tra creatinin, kali trước khi dùng ức chế men chuyển và không có cách đảm bảo xét nghiệm lại sau 2–4 tuần (AHA/ACC 2025 mục 5.2.8). Chọn đơn trị trước là phương án chính (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Bắt đầu statin ngay hôm nay dù chưa có mỡ máu",
+     "v": "a",
+     "n": "Chấp nhận, chờ bác sĩ quyết (sổ mâu thuẫn): ESH 2023 mục 11.10.11.1 khuyên statin cho THA nguy cơ tăng; ACC/AHA 2026 mục 4.2.3.7 dựa vào nguy cơ PREVENT, chưa tính được vì không có lipid. Không làm cũng không trừ điểm."
+    },
+    {
+     "t": "Kê thuốc 3 tháng để khỏi phải quay lại",
+     "v": "a",
+     "n": "Chấp nhận nếu có đo HA hằng tuần ở trạm. Không có trong tài liệu đã tải quy định số ngày kê; VSH/VNHA 2024 Đ4.1 cần tái khám 2–4 tuần, kê dài khiến khó chỉnh liều."
+    },
+    {
+     "t": "Từ chối kê thuốc vì bà không chịu xét nghiệm máu",
+     "v": "w",
+     "n": "HA ≥ 140/90 cần khởi trị ngay, không phụ thuộc đánh giá nguy cơ (ESC 2024 Bảng khuyến cáo 17, I, A; VSH/VNHA 2024 Bảng 2: WHO 2021 không cần đánh giá nguy cơ tim mạch trước khi điều trị khi HATT ≥ 140); từ chối xét nghiệm không làm mất quyền điều trị (Luật Khám bệnh, chữa bệnh 2023 Điều 11)."
+    },
+    {
+     "t": "Chỉ thay đổi lối sống 3 tháng, chưa dùng thuốc",
+     "v": "w",
+     "n": "QĐ 5904 Phần 1 mục A.5: khởi trị thuốc khi HA ≥ 140/90; VSH/VNHA 2024 Bảng 4 (I, A): thuốc ngay."
+    },
+    {
+     "t": "Dùng chẹn beta (atenolol, bisoprolol) làm thuốc đầu tay",
+     "v": "w",
+     "n": "Chỉ khi có chỉ định bắt buộc (ESC 2024 Bảng khuyến cáo 16, I, A; VSH/VNHA 2024 Hình 14.1); QĐ 5904 Phần 3 mục G: khi không dung nạp lợi tiểu và ức chế men chuyển."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện theo dõi HA",
+     "v": "w",
+     "n": "HA < 180/110, không tổn thương cơ quan đích cấp: không đủ tiêu chuẩn (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2: tăng nặng không tổn thương cấp thì chỉnh thuốc uống ngoại trú)."
+    },
+    {
+     "t": "Cho nifedipin tác dụng nhanh, uống hoặc ngậm dưới lưỡi, để hạ áp ngay trước khi về",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát; AHA/ACC 2025 mục 6.2 không hạ áp mạnh ở người không tổn thương cấp."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 1 (HA 154/98 mmHg), đã biết 2 năm",
+     "Chưa kiểm soát: hết amlodipin 5 mg 2 tuần, đợt không khí lạnh, uống rượu ngô, ăn mặn, thuốc cảm có phenylephrin",
+     "Triệu chứng giấu: nặng đầu vùng gáy buổi sáng, ù tai nhẹ, choáng thoáng khi đứng nhanh (không phải hạ HA tư thế)",
+     "Tổn thương cơ quan đích: chưa thấy trên ECG, nước tiểu, đáy mắt; chưa đánh giá thận, kali, đường, mỡ máu vì từ chối máu",
+     "Không phải cơn THA cấp cứu; chưa có chỉ điểm THA thứ phát",
+     "Yếu tố nguy cơ: thừa cân (BMI 25,5), vòng eo 84 cm, tiền sử gia đình đột quỵ; đã ghi nhận bà từ chối xét nghiệm máu"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là THA nguyên phát độ 1: đã được chẩn đoán, HA 154/98 tại phòng khám và 150/94 tại trạm; THA độ 1 là 140–159 và/hoặc 90–99 mmHg (QĐ 5904 Phần 1 Bước 3A). Ngưỡng 140/90 theo QĐ 5904, VSH/VNHA 2024, ESC 2024; AHA/ACC 2025 dùng 130/80 nhưng HA của bà vượt cả hai nên không ảnh hưởng kết luận.",
+     "Vì sao HA tăng lúc này: ngưng thuốc 2 tuần; ESH 2023 mục 21.1 ghi HA mùa đông cao hơn mùa hè vài mmHg (chênh lệch nhiệt độ trong và ngoài nhà); QĐ 5904 Phần 1 mục D.1f dặn tránh bị lạnh đột ngột; rượu và muối làm HA tăng; thuốc cảm phenylephrin làm HA tăng, nên tránh khi THA chưa kiểm soát (AHA/ACC 2025 Bảng 11). Thuốc cảm chỉ mới 2 ngày trong khi HA 150/94 đã có 4 hôm trước.",
+     "Hỏi thuốc đang dùng không được dừng ở câu \"không biết tên\": hỏi hình dạng, nơi lấy, xem vỏ vỉ trong túi mới ra amlodipin 5 mg và thuốc cảm có phenylephrin. Tên thuốc quyết định phải tiếp tục hay đổi thuốc (QĐ 5904 Phần 1 Bước 1: hỏi thuốc đã điều trị, tác dụng phụ, tuân thủ).",
+     "Triệu chứng bị giấu vì sợ nghỉ dạy: chỉ lộ khi hỏi cụ thể và khi đã trấn an. Nặng đầu vùng gáy buổi sáng, ù tai nhẹ không đủ để gọi là cấp cứu; VSH/VNHA 2024 Đ3.4 nhắc THA thường không có triệu chứng đặc hiệu, hỏi triệu chứng cụ thể thay vì chờ người bệnh kể.",
+     "Vì sao không phải cơn THA cấp cứu: cần HA ≥ 180/110 mmHg kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1); QĐ 5904 Phần 3 mục D.1: ≥ 200/120, hoặc ≥ 180/110 kèm đau ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú, suy tim. Bà 154/98, thần kinh bình thường, đáy mắt không xuất huyết hay phù gai.",
+     "Vì sao chưa nghĩ THA thứ phát: khởi phát lúc 49 tuổi (khuyến cáo tìm nguyên nhân thứ phát ở người chẩn đoán trước 40 tuổi, VSH/VNHA 2024 Đ2.4), từng đạt 138/88 khi dùng amlodipin đơn độc, không cơn vã mồ hôi, không yếu cơ, không âm thổi cạnh rốn. Kali chưa biết nên nhớ nghĩ lại nếu kháng trị hoặc hạ kali (AHA/ACC 2025 mục 3.2.3.1).",
+     "Choáng thoáng qua khi đứng: HA nằm 152/96, đứng 1 phút 148/96, đứng 3 phút 150/98 nên không phải hạ HA tư thế (đo HA tư thế theo QĐ 5904 Phụ lục 1.1 mục 2). Đây là nhiễu hợp lý: không được vì thế mà bớt thuốc.",
+     "Tổn thương cơ quan đích: ECG Sokolow-Lyon 27 mm (ngưỡng > 35 mm), UACR 14 mg/g (ngưỡng > 30 mg/g), đáy mắt chưa đến độ III–IV (VSH/VNHA 2024 Bảng 11). Creatinin, eGFR, kali, đường, mỡ máu chưa biết: không thể phân tầng nguy cơ đầy đủ; QĐ 5904 Phần 1 Bước 3B xếp nguy cơ cao khi có dày thất trái, ĐTĐ, suy thận vừa hoặc SCORE ≥ 5%, chưa kết luận được nhóm nào.",
+     "Từ chối xét nghiệm máu: người bệnh được từ chối sau khi nghe giải thích (Luật Khám bệnh, chữa bệnh 2023 Điều 11 khoản 1, Điều 13 khoản 1); việc của bác sĩ là hỏi lý do, giải thích lợi ích cụ thể, đề nghị lấy máu muộn, ghi hồ sơ, rồi vẫn điều trị an toàn (phương án B)."
+    ],
+    "phan_tich_xu_tri": [
+     "Khởi trị ngay: HA ≥ 140/90 mmHg thì bắt đầu cả thay đổi lối sống và thuốc, không chờ xét nghiệm (ESC 2024 Bảng khuyến cáo 17, I, A; QĐ 5904 Phần 1 mục A.5; VSH/VNHA 2024 Bảng 2 theo WHO 2021: không cần đánh giá nguy cơ tim mạch trước khi điều trị khi HATT ≥ 140).",
+     "Chọn amlodipin 5 mg đơn trị trước: ESC 2024 Bảng khuyến cáo 16 (I, B) và VSH/VNHA 2024 Bảng 4 (I, A) ưu tiên phối hợp đôi từ đầu, QĐ 5904 Phần 1 mục B.2 cho phép đơn trị ở THA độ I nguy cơ thấp. Ở bà, ức chế men chuyển/chẹn thụ thể cần creatinin, kali trước (QĐ 5904 Phần 3 mục G) và kiểm tra lại sau 2–4 tuần (AHA/ACC 2025 mục 5.2.8) mà bà từ chối máu và ở xa. Amlodipin không cần xét nghiệm nền và bà đã từng dung nạp. Đây là cách đến gần mục tiêu an toàn nhất có thể; phối hợp ngay chấm a.",
+     "Bước tiếp theo: đo HA tại nhà 3–7 ngày (VSH/VNHA 2024 Đ1.2.2), trạm xã đo hằng tuần, liên lạc qua Zalo (VSH/VNHA 2024 Đ4.6, Đ5.4). Sau 2–4 tuần (VSH/VNHA 2024 Đ4.1) nếu chưa đạt thì thêm ức chế RAS khi đã có creatinin, kali. Đơn trị hạ HA chậm hơn phối hợp (ESH 2023 mục 21.1) nên đạt mục tiêu < 130/80 dự kiến mất 1–3 tháng (VSH/VNHA 2024 Đ4.1; QĐ 5904 Phần 1 mục A.3).",
+     "Xử trí từ chối xét nghiệm (phương án B): ghi hồ sơ lý do, nội dung đã tư vấn, người bệnh ký xác nhận (Luật Khám bệnh, chữa bệnh 2023 Điều 13); hẹn lấy máu tại trung tâm y tế huyện trong 1–2 tuần (tránh ngất bằng nằm lấy máu, báo trước); xét nghiệm cơ bản hoàn thành trong 3 tháng đầu (QĐ 5904 Phần 1 Bước 2). Ưu tiên creatinin, kali, đường đói, mỡ máu vì chúng đổi được quyết định thuốc.",
+     "Giảm yếu tố thúc đẩy: ngưng thuốc cảm có phenylephrin (AHA/ACC 2025 Bảng 11); giảm muối < 5 g/ngày (VSH/VNHA 2024 Hình 14; QĐ 5904 Phụ lục 3.2); hạn chế rượu: nữ ≤ 1 cốc/ngày (QĐ 5904 Phần 1 mục D.1c); mặc ấm.",
+     "Safety-netting vì ở xa: giấy dặn bằng tay, số điện thoại, ngưỡng đi cấp cứu theo QĐ 5904 Phần 3 mục D.1 (thận trọng hơn ESC 2024 mục 10.1.1 nên chọn), trạm xã làm đầu mối (ESC 2024 Bảng khuyến cáo 36, I, A). Không dùng nifedipin tác dụng nhanh (QĐ 5904 Phần 3 mục D.1), không chuyển cấp cứu.",
+     "Điều trị nỗi sợ thật: bà giấu triệu chứng vì sợ nghỉ dạy. Nói rõ không cần nghỉ dạy hay nhập viện khi mức HA này, nhưng phải uống thuốc đều và theo dõi; điều đó làm bà dám khai thật lần sau (VSH/VNHA 2024 Đ3.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng một giờ mỗi ngày, gắn với việc làm hằng ngày (đánh răng, trước khi đi dạy)",
+      "so_ngay": "Dùng lâu dài; kê 30 ngày, nhận tiếp tại trạm y tế xã",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực, nhịp nhanh (QĐ 5904 Phần 3 mục G). Uống vào lúc thuận tiện nhất để giữ thói quen (ESC 2024 Bảng khuyến cáo 16, I, B). Đã dùng trước đó, dung nạp."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "Theo nhãn",
+      "lieu": "Rửa hoặc nhỏ mũi khi nghẹt, sổ mũi",
+      "duong": "Nhỏ, rửa mũi",
+      "thoi_diem": "Khi cần",
+      "so_ngay": "Vài ngày đến khi hết sổ mũi",
+      "ghi_chu": "Thay thuốc thông mũi phenylephrin (AHA/ACC 2025 Bảng 11: xem xét nước muối mũi, corticoid mũi, kháng histamin). Liều và tần suất cụ thể không có trong tài liệu đã tải, theo nhãn sản phẩm."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg–1 g/lần khi đau đầu hoặc nhức mình, tối đa 3 lần/ngày, không quá 4 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, chỉ khi cần",
+      "so_ngay": "Ngắn ngày",
+      "ghi_chu": "Giới hạn dưới 4 g/ngày (AHA/ACC 2025 Bảng 11); tránh NSAID toàn thân khi có thể. Dùng gần như hằng ngày có thể làm tăng HA nên chỉ dùng khi cần (ESH 2023 Bảng 20)."
+     }
+    ],
+    "dan_do": [
+     "Uống amlodipin mỗi sáng, kể cả khi thấy khỏe; hết thuốc phải ra trạm xã lấy ngay, không đợi, không tự ngưng (QĐ 5904 Phần 1 mục D.2). Ghi lịch uống vào điện thoại làm nhắc (VSH/VNHA 2024 Đ5.3).",
+     "Ngưng viên cảm màu vàng; bị sổ mũi thì rửa mũi nước muối, đau thì paracetamol; không tự mua thuốc cảm có phenylephrin hay pseudoephedrin, thuốc giảm đau NSAID (AHA/ACC 2025 Bảng 11).",
+     "Giảm muối còn dưới 5 g/ngày: bớt mắm cá, dưa muối, măng chua, thịt gác bếp, nêm mắm nhẹ tay; ăn thêm rau xanh (QĐ 5904 Phần 1 mục D.1 và Phụ lục 3.2; VSH/VNHA 2024 Hình 14). Rượu ngô tối đa 1 chén nhỏ/ngày hoặc bỏ hẳn (QĐ 5904 Phần 1 mục D.1c).",
+     "Giữ ấm cổ, đầu, chân khi đi sáng sớm, tránh bị lạnh đột ngột (QĐ 5904 Phần 1 mục D.1f); đi bộ vừa phải mỗi ngày (≥ 150 phút/tuần, QĐ 5904 Phần 1 mục D.1e).",
+     "Đo HA bằng máy bắp tay: ngồi nghỉ 5 phút, không rượu, cà phê, thuốc lá trong 2 giờ trước, đo 2 lần cách 1–2 phút, sáng (trước uống thuốc) và tối, 3–7 ngày trước mỗi lần liên hệ, ghi sổ (QĐ 5904 Phụ lục 1.1; VSH/VNHA 2024 Đ1.2.2). Chụp ảnh sổ gửi trạm xã hoặc Zalo.",
+     "Sau 2–4 tuần ra trạm xã đo HA, mang vỉ thuốc và sổ HA; mục tiêu < 130/80 mmHg trong 1–3 tháng (VSH/VNHA 2024 Bảng 4, Đ4.1). Chưa đạt thì thêm một thuốc sau khi có xét nghiệm, không tự tăng liều.",
+     "Trong 1–2 tuần tới ra trung tâm y tế huyện lấy máu: creatinin, kali, đường, mỡ máu. Nói trước với nhân viên từng ngất, xin nằm lấy máu; mang theo giấy này. Xét nghiệm cơ bản nên xong trong 3 tháng (QĐ 5904 Phần 1 Bước 2).",
+     "Đi cấp cứu hoặc gọi ngay số điện thoại trên giấy khi: đau đầu dữ dội, yếu liệt tay chân, méo miệng, nói khó, nhìn mờ hoặc nhìn đôi, đau ngực, khó thở, ngất; hoặc đo lại HA ≥ 180/110 mmHg (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Không ngậm nifedipin tự mua để hạ nhanh.",
+     "Bác sĩ đã ghi trong hồ sơ rằng cô từ chối xét nghiệm máu hôm nay sau khi được giải thích; cô vẫn có thể làm sau và được điều trị tiếp bình thường (Luật Khám bệnh, chữa bệnh 2023 Điều 11, Điều 13).",
+     "Với mức HA này cô chưa cần nghỉ dạy hay nhập viện; nếu thấy nặng đầu, choáng, nhìn mờ thì báo ngay thay vì giấu, để bác sĩ chỉnh thuốc sớm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà về nhà, nhận amlodipin ở trạm xã, y tá trạm xã đo HA mỗi tuần và gửi ảnh qua Zalo. Bà ra trung tâm y tế huyện lấy máu sau 12 ngày (nằm lấy, không ngất): creatinin 68 µmol/L, K 4,1 mmol/L, glucose đói 5,7 mmol/L, LDL-C 3,5 mmol/L. Sau 4 tuần HA tại nhà còn 146/92 nên thêm perindopril 5 mg; sau 2 tuần creatinin, kali bình thường. Tháng thứ 3 HA tại nhà 126/78 mmHg: đạt mục tiêu sau khoảng 12 tuần, chậm hơn mục tiêu tối ưu 1 tháng (VSH/VNHA 2024 Đ4.1) nhưng nằm trong khoảng 1–3 tháng của QĐ 5904 Phần 1 mục A.3; chậm là do đơn trị lúc đầu và xét nghiệm đến muộn. Bà vẫn đứng lớp suốt thời gian đó.",
+ "nhieu": [
+  "Choáng thoáng qua khi đứng dậy nhanh: dễ nghĩ hạ HA tư thế hoặc thiếu máu não. HA đứng không tụt, không dấu thần kinh khu trú, nên không phải lý do bớt thuốc.",
+  "Sổ mũi nhẹ, viên cảm vàng chứa phenylephrin: dễ bỏ sót vì bà không kể, và bác sĩ dễ nghĩ chỉ do lạnh. Phenylephrin làm HA tăng (AHA/ACC 2025 Bảng 11).",
+  "Từ chối lấy máu: dễ hiểu thành 'bệnh nhân khó tính' hoặc bỏ cuộc không điều trị; thực chất là sợ ngất và sợ nhỡ xe, có thể thương lượng thời điểm và tư thế.",
+  "Đau đầu nhẹ vùng gáy buổi sáng: dễ gây hoảng cấp cứu, hoặc ngược lại bị bỏ qua vì bà nói 'chỉ do lạnh'."
+ ],
+ "bai_hoc_bien": [
+  "Người bệnh giấu triệu chứng vì sợ phải nghỉ việc: hỏi 'vì sao ngại đi khám', hỏi về công việc và nói rõ sẽ không bắt nghỉ nếu không nguy hiểm thì bà mới kể thật.",
+  "Từ chối xét nghiệm không phải là kết thúc cuộc khám: hỏi lý do, giải thích cụ thể xét nghiệm nào đổi quyết định, đề nghị làm muộn hoặc làm theo cách bà chịu được (nằm lấy máu), ghi hồ sơ và vẫn điều trị an toàn bằng thuốc không cần xét nghiệm nền (phương án B).",
+  "Ở xa, khó tái khám: ngưỡng an toàn hạ thấp, phải xử trí trọn gói. Dùng trạm y tế xã làm đầu mối đo HA, lấy thuốc, kèm Zalo và giấy dặn bằng tay có số điện thoại.",
+  "Không rõ loại thuốc đang dùng: đừng bỏ qua câu 'không nhớ tên'; hỏi hình dạng, nơi lấy, xem vỏ vỉ, sổ. Hai khám phá quan trọng nằm trong túi xách: tên thuốc cũ và thuốc cảm tự mua.",
+  "Khỏi chậm hơn dự kiến: HA đạt mục tiêu trong 1–3 tháng là bình thường; cần lo khi chưa đạt sau 3 tháng dù uống đủ, khi kháng trị (≥ 3 thuốc có lợi tiểu) thì chuyển tuyến (QĐ 5904 Phần 1 Bước 4A.3)."
+ ],
+ "diem_nho": [
+  "THA khi HA phòng khám ≥ 140/90 mmHg, độ 1 là 140–159/90–99 (QĐ 5904 Phần 1 Bước 3A); khởi trị ngay khi ≥ 140/90 ở người dưới 80 tuổi (QĐ 5904 Phần 1 mục A.5; ESC 2024 Bảng khuyến cáo 17, I, A).",
+  "Phối hợp đôi liều thấp là mặc định (ESC 2024 Bảng khuyến cáo 16, I, B; VSH/VNHA 2024 Bảng 4, I, A); khi thiếu creatinin, kali thì bắt đầu bằng thuốc không cần xét nghiệm nền (amlodipin), rồi nâng bậc khi có kết quả.",
+  "Mục tiêu < 130/80 mmHg, đạt trong 1–3 tháng; theo dõi 2–4 tuần (VSH/VNHA 2024 Bảng 4, Đ4.1); đo HA tại nhà 3–7 ngày, 2 lần/ngày (VSH/VNHA 2024 Đ1.2.2).",
+  "Từ chối điều trị hoặc xét nghiệm: tư vấn đầy đủ rồi người bệnh ký cam kết (Luật Khám bệnh, chữa bệnh 2023 Điều 13 khoản 1).",
+  "Thuốc tự mua làm tăng HA: thuốc thông mũi phenylephrin/pseudoephedrin, NSAID, cam thảo, rượu (AHA/ACC 2025 Bảng 11)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 1, 2, 3A, 3B, 4A–4B, 5 mục A.2, A.3, A.5, B.2, C, D.1, D.2); Phần 3 mục D.1, F, G; Phụ lục 1.1, 3.2.",
+  "VSH/VNHA 2024 – Chiến lược thực hành lâm sàng quản lý THA tại Việt Nam – TL-0288 – Bảng 2, 3, 4, 10, 11; Hình 14, 14.1; Đ1.2.2, Đ2.4, Đ3.4, Đ4.1, Đ4.6, Đ5.3, Đ5.4.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – mục 10.1.1; Bảng khuyến cáo 16, 17, 35, 36 (mục 8.3, 8.4, 11.5).",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – mục 11.10.11.1; 21.1; Bảng 20.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – Bảng 11; mục 3.2.3.1; 5.2.8; 6.2.",
+  "2026 ACC/AHA Guideline on Dyslipidemia – TL-0292 – mục 4.2.3.7.",
+  "Luật Khám bệnh, chữa bệnh 2023 – TL-0007 – Điều 11 khoản 1; Điều 13 khoản 1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 12/10/2026 (viết: Sonnet). Tài liệu đã đọc: TL-0284 (QĐ 5904: Phần 1 Bước 1–5, Phần 3 mục D.1, F, G, Phụ lục 1.1, 3.2), TL-0288 (VSH/VNHA 2024: Bảng 2–4, 10, 11; Đ1.2.2, Đ2.4, Đ3.4, Đ4.1, Đ4.6, Đ5), TL-0305 (ESC 2024: mục 10.1.1, Bảng khuyến cáo 16, 17, 35, 36), TL-0312 (ESH 2023 mục 21.1), TL-0297 (AHA/ACC 2025: Bảng 11, mục 3.1.2, 5.2.8, 6.2), TL-0007 (Luật KBCB 2023 Điều 11, 13). Mâu thuẫn đã áp dụng từ sổ: ngưỡng chẩn đoán THA 140/90; tiêu chuẩn cấp cứu THA; TSH (a); statin (a, chờ bác sĩ quyết); losartan khởi đầu 25 mg. Mục mới đề xuất: đơn trị hay phối hợp ngay khi chưa có xét nghiệm nền.",
+  "Thiếu trong tài liệu đã tải: hàm lượng viên phối hợp tại Việt Nam; liều và tần suất nước muối sinh lý; quy định nghỉ làm với THA; số ngày kê đơn tối đa; sơ đồ phác đồ QĐ 5904 Phần 1 mục C là hình (không đọc được từ bản chữ), nên chỉ trích mục B.2, C.4. Từ chối xét nghiệm được mô hình hóa bằng kết quả r ghi 'từ chối' (không dùng khoa_cls vì đây không phải thiếu máy)."
+ ]
+}

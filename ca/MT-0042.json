@@ -1,0 +1,625 @@
+{
+ "ma_ca": "MT-0042",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_tha_nguyen_phat",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nông dân đã nghỉ hưu",
+  "yeu_to_khoi_phat": "Sau lao động ngoài trời nắng",
+  "thuoc_dang_dung": "Thuốc dạ dày tự mua",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng, lo lắng"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Mận",
+  "tuoi": 68,
+  "gioi": "Nữ",
+  "nghe": "Nông dân đã nghỉ hưu",
+  "can_nang": 48,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' hoặc 'bác'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ', hay gọi huyết áp là 'áp huyết'.",
+  "tinh_cach": "Hiền, ít nói, đọc chậm (học lớp 5), tiết kiệm, đã chán nản sau ba lần khám không đỡ. Thương con cháu nhưng sợ làm phiền con dâu nên ít kể. Sợ đột quỵ như chồng. Hiểu biết y khoa ít, không coi thuốc bột mua ở chợ là \"thuốc\".",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mất niềm tin, trả lời cụt 'thì như mấy chỗ kia thôi', mang đủ đồ (sổ, toa, tờ xét nghiệm) nhưng để trong túi vì nghĩ không ai xem. Khi hỏi chung 'đang uống thuốc gì' chỉ kể thuốc huyết áp đã bỏ. Chỉ kể đầy đủ khi bác sĩ xem sổ và toa, nhắc lại những gì ba nơi trước đã làm và hỏi cụ thể từng loại thuốc, thuốc bột, thuốc nam.",
+  "nguoi_nha": "Con dâu, chị Hạnh, 39 tuổi, buôn rau ở chợ xã, chở bà đến bằng xe máy. Nhanh nhảu, lo cho mẹ chồng, tin vào lời bác sĩ. Chị biết: bà đau đầu, chóng mặt, đi ba nơi, uống thuốc rồi bỏ. Chị KHÔNG biết bà uống gói bột dạ dày mỗi ngày hay chuyện bà sợ giống chồng. Khi hỏi sinh hoạt, ăn uống, ai ở nhà, chị thường trả lời; khi hỏi thẳng bà về triệu chứng, bà tự kể (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Chị Hạnh (con dâu)",
+  "ngoai_hinh": {
+   "da": "#b98a66",
+   "toc": "#a8a8a6",
+   "kieuToc": "bui",
+   "ao": "#7a8f7a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a982",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#c0705a",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Huyết áp cao, đau đầu, chóng mặt, đã khám ba nơi chưa đỡ",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Mận, 68 tuổi, nông dân đã nghỉ hưu ở xã Hàm Đức, con dâu chở đến. Hơn ba tuần nay đau đầu, chóng mặt, đo huyết áp ở nhà thấy 170–190; đã khám ba nơi, uống thuốc rồi tự bỏ. Bà mang theo máy đo huyết áp và một cuốn vở. Sinh hiệu lúc tiếp đón: HA 176/96 mmHg, mạch 90 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Mận nhập viện để hạ áp, dù HA 168/92 mmHg, không đau ngực, không yếu liệt, đáy mắt không xuất huyết nên không có tổn thương cơ quan đích cấp; THA nặng không có tổn thương cấp được uống thuốc ngoại trú, không hạ áp mạnh (AHA/ACC 2025 mục 6.2). Bà nằm viện tốn tiền, càng tin là \"bệnh nặng\", còn gói bột cam thảo vẫn chưa ai hỏi nên về nhà bà vẫn uống tiếp và kali vẫn thấp (ESH 2023 Bảng 20).",
+    "cap_cuu": "Bà Mận bị chuyển cấp cứu như một cơn tăng huyết áp cấp cứu, trong khi HA 168/92 mmHg thấp hơn 180/110 và không có triệu chứng cơ quan đích (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1). Nguy cơ lớn là bị hạ áp nhanh khi đang thiếu nước và kali thấp, bà thêm một lần \"đi nơi thứ tư\" mà nguyên nhân thật vẫn chưa được nói tới.",
+    "chuyen_tuyen": "Bà Mận được chuyển lên tuyến trên ngay hôm nay để tìm THA thứ phát. Hướng này không sai khi nghi THA thứ phát (QĐ 5904 Phần 1 Bước 4 mục A.1), nhưng nguyên nhân đã tìm thấy và ngưng được tại chỗ (cam thảo, ESH 2023 Bảng 20); bà mất thêm một ngày và tiền xe, tuyến trên cũng sẽ hỏi lại thuốc đang uống. Bà cảm thấy lại bị đẩy đi nơi khác, dễ mất niềm tin, nên cần tái khám sau 2–4 tuần trước khi quyết định chuyển.",
+    "theo_doi": "Bà Mận chỉ được dặn theo dõi tại nhà, không thay đổi thuốc và không ngưng gói bột. HA độ 2 kèm dày thất trái cần điều trị thuốc ngay (QĐ 5904 Phần 1 Bước 5 mục A.5, C.3), còn cam thảo vẫn tiếp tục làm kali thấp và HA khó xuống (ESH 2023 Bảng 20). Bà ra về lần nữa mà không có gì mới, dễ bỏ luôn việc khám."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi ba nơi rồi mà huyết áp vẫn cao, uống thuốc vô còn xây xẩm hơn. Chắc bệnh tôi không chữa được.",
+   "sinh_hieu": {
+    "mach": 90,
+    "ha": "176/96",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hơn ba tuần nay đau đầu âm ỉ phía sau gáy, hay tối sầm mắt khi đứng lên. Đo máy ở nhà thấy 170–190, sợ bị đột quỵ nên đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và HA đo ở nhà"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Đã đi ba nơi trong ba tuần. Nơi 1 (phòng khám tư cạnh chợ): ngậm một viên thuốc dưới lưỡi tại chỗ (toa ghi nifedipin 10 mg), kê amlodipin 5 mg, uống 3 ngày thì chóng mặt hơn nên tự ngưng. Nơi 2 (phòng mạch bác sĩ về hưu ở huyện): kê amlodipin 5 mg + hydroclorothiazid 25 mg uống buổi tối, uống 5 ngày, tự ngưng cách đây 8 ngày. Nơi 3 (quầy thuốc thị trấn): ngậm captopril 25 mg tại quầy, mua thêm ginkgo và piracetam, dùng 2 ngày. Tổng tiền khoảng 1,77 triệu, không có bảo hiểm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến điều trị ở ba nơi (thuốc, liều, thời gian, phản ứng)"
+    },
+    {
+     "id": "xn_cu",
+     "noi_dung": "Nơi 2 có lấy máu: công thức máu, đường huyết, creatinin, men gan, đều \"bình thường\" (bà giữ tờ kết quả, cách 8 ngày: Hb 134 g/L, glucose 5,3 mmol/L, creatinin 74 µmol/L, AST/ALT trong giới hạn). Chưa ai thử điện giải đồ hay đo điện tim.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xét nghiệm đã có, không lặp lại; chưa ai kiểm kali"
+    },
+    {
+     "id": "tui_do",
+     "noi_dung": "Bà mang theo máy đo huyết áp bắp tay, một cuốn vở học sinh bìa xanh ghi số đo, ba tờ toa thuốc và tờ kết quả xét nghiệm, nhưng để trong túi vì \"đưa ra bác sĩ cũng chẳng xem\". Khi được hỏi có mang gì theo thì lấy ra hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xem sổ ghi HA và toa cũ"
+    },
+    {
+     "id": "niem_tin",
+     "noi_dung": "Bà mệt và nản: \"Tôi đi ba nơi rồi, nơi nào cũng đo xong cho thuốc, uống vào còn xây xẩm hơn, chắc bệnh tôi không chữa được\". Bà trả lời cụt khi bác sĩ không xem toa và vở. Bà chỉ cởi mở khi bác sĩ xem sổ, nhắc lại những gì ba nơi trước đã làm, ghi nhận số tiền đã tốn và nói rõ lần này khác ở chỗ nào.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nếu bác sĩ chỉ đo huyết áp rồi hỏi nhanh, bà trả lời \"thì như mấy chỗ kia thôi\" và không kể thêm. Chỉ kể đầy đủ khi bác sĩ xem toa và sổ, hỏi bà thấy ba nơi trước thiếu gì, hoặc hỏi bà lo điều gì nhất.",
+     "k": 1,
+     "y": "Tái lập niềm tin sau ba lần điều trị thất bại"
+    },
+    {
+     "id": "so_do",
+     "noi_dung": "Trong vở có khoảng 140 số đo trong 3 tuần. Mỗi sáng sau ngủ dậy ngồi nghỉ, bà đo 2 lần trước khi ăn: trung bình khoảng 152/86. Những lần đo ngay sau khi xem điện thoại hoặc đo lại vì \"thấy số cao\" thì 175–190/95, mỗi ngày đo 8–15 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA tại nhà đúng cách (≥ 135/85 là THA) và đo lặp do lo lắng"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cơn đầu tiên ba tuần trước: nhổ cỏ, xách nước tưới vườn rau dưới nắng khoảng 2–3 giờ, chỉ uống chừng nửa chai nước, ngồi xổm rồi đứng lên thì tối sầm mắt vài giây, phải vịn cọc; sau đó đau đầu phía sau gáy, buồn nôn nhưng không nôn. Về nhà đo lần đầu thấy 176/94.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: lao động ngoài nắng, uống ít nước"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Hiện còn đau đầu âm ỉ phía sau gáy, nặng hơn buổi trưa; tối sầm mắt khi đứng lên khoảng 3–5 lần/tuần, mỗi lần vài giây. Hai chân nặng buổi chiều. Không nhìn mờ, không nhìn đôi.",
+     "che_do": "khi_hoi",
+     "k": 1
+    },
+    {
+     "id": "chuot_rut",
+     "noi_dung": "Chuột rút bắp chân ban đêm khoảng 1–2 lần/tuần từ vài tháng nay, bà nghĩ là \"thiếu canxi\" nên uống sữa. Trong 5 ngày uống thuốc có hydroclorothiazid thì chuột rút gần như mỗi đêm; ngưng thuốc thì còn khoảng 3 lần/tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chuột rút đêm: gợi ý hạ kali"
+    },
+    {
+     "id": "co_do_am",
+     "noi_dung": "Không đau ngực, không khó thở, không phù, không yếu hay tê nửa người, không méo miệng, không nói khó, không co giật, không nhìn mờ đột ngột. Tiểu bình thường, đêm dậy 1 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu cấp cứu và tổn thương cơ quan đích cấp"
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Uống nước ít, khoảng hai ly lớn mỗi ngày vì ngại đi vệ sinh giữa vườn; sáng nay từ lúc dậy mới uống nửa ly. Ăn kém ba tuần nay vì lo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng nước uống"
+    },
+    {
+     "id": "thuoc_da_day",
+     "noi_dung": "Từ đầu năm bà đau bao tử, mua ở quầy thuốc chợ xã một loại bột trắng ngà gói trong giấy, uống một thìa cà phê sau ăn, ngày 3 lần, đến nay chưa ngưng ngày nào, kể cả sáng nay. Bà không coi đó là \"thuốc\" nên ba nơi trước hỏi \"đang uống thuốc gì\" đều trả lời \"không\".",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung \"đang uống thuốc gì\" thì bà nói \"không, thuốc huyết áp tôi bỏ hết rồi\". Chỉ kể khi bác sĩ hỏi cụ thể: có uống thuốc dạ dày, thuốc bột, thuốc bổ, thuốc nam, thuốc tự mua không; hoặc bảo bà mang hết những gì bà đang uống, bôi, dán ra xem.",
+     "k": 1,
+     "y": "Thuốc tự mua không nhãn (nguồn cam thảo)"
+    },
+    {
+     "id": "thanh_phan",
+     "noi_dung": "Gói giấy bà đem theo có chữ viết tay bằng bút bi: \"cam thảo, natri bicarbonat, ô tặc cốt, nghệ\". Không số đăng ký, không hạn dùng, không nhãn nhà sản xuất. Mỗi lần bà mua 15 gói.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ đưa ra khi bác sĩ yêu cầu xem gói thuốc dạ dày, hỏi thành phần hoặc nhãn trên gói.",
+     "k": 1,
+     "y": "Thành phần gói thuốc có cam thảo"
+    },
+    {
+     "id": "bao_tu",
+     "noi_dung": "Đau thượng vị âm ỉ 30–60 phút sau ăn, đỡ khi uống bột, táo bón 2–3 ngày một lần nhiều năm. Không nôn, không nôn ra máu, không đi ngoài phân đen, không sụt cân rõ. Chưa nội soi, chưa thử vi khuẩn dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau thượng vị chưa khảo sát, không dấu báo động"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sổ khám sức khỏe người cao tuổi của xã ghi 152/88 vào năm ngoái, không ai hẹn đo lại. Chưa từng xét nghiệm mỡ máu. Chồng mất vì xuất huyết não, liệt nằm 14 tháng do bà chăm. Mãn kinh năm 50 tuổi. Không đái tháo đường, bệnh thận hay bệnh tim đã biết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử HA ghi trước khi dùng gói bột, gia đình"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Đau khớp gối nhẹ, chỉ dán cao, không uống thuốc giảm đau, không thuốc tránh thai, không thuốc kích thích hay corticoid. Không hút thuốc, không rượu bia, không cà phê.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc/chất làm tăng HA khác"
+    },
+    {
+     "id": "muoi",
+     "noi_dung": "Ăn mặn: chấm thêm nước mắm nguyên chất mỗi bữa, ăn cá khô, mắm ruốc 3–4 lần/tuần. Không ăn nhiều trái cây, rau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Muối ăn"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Không có cơn đau đầu kèm vã mồ hôi, tái, hồi hộp từng đợt; không ngáy to hay ngưng thở khi ngủ; không khát nhiều, không tiểu nhiều; không tăng cân, không rạn da tím.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc gợi ý THA thứ phát khác"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Nghỉ làm ruộng chính từ vài năm nay, giao đất thanh long cho con trai nhưng vẫn giữ vườn rau 200 m² và nuôi gà, ra vườn hai buổi/ngày, thường đến gần 10 giờ sáng dưới nắng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề nghiệp, phơi nắng"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Bà xem trên điện thoại một đoạn video nói huyết áp trên 180 là sắp đột quỵ, phải hạ ngay; từ đó đo huyết áp 8–15 lần mỗi ngày, ngủ chập chờn. Bà sợ giống ông nhà. Đây là lý do thật bà đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm bà lo nhất, bà nghĩ mình bị gì, hoặc vì sao hôm nay quyết định đi khám. Bà không tự kể chuyện video.",
+     "k": 1,
+     "y": "Lý do thật: đọc thông tin trên mạng, sợ đột quỵ"
+    },
+    {
+     "id": "thuoc_bo",
+     "noi_dung": "Hộp ginkgo và piracetam mua ở quầy thuốc thị trấn \"cho đỡ chóng mặt\", bà còn nguyên một hộp, muốn bác sĩ cho biết có nên uống tiếp không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Băng quấn đúng cỡ, ngồi nghỉ 10 phút: tay phải 170/92, tay trái 168/92 mmHg; lần 2 sau 2 phút: 168/92 và 166/90. Hai tay chênh dưới 10 mmHg. Trước đó lúc mới vào phòng đo 176/96.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút 168/90, mạch 84. Đứng phút 1: 154/86, mạch 98, bà nói \"tối mắt chút xíu\". Đứng phút 3: 160/88, mạch 94. Tụt tối đa 14/4 mmHg: chưa tới ngưỡng hạ HA tư thế (tụt ≥ 20/10 mmHg).",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, nói mạch lạc, hơi lo. Người gầy: 48 kg, 152 cm, BMI 20,8, vòng eo 78 cm. Môi và niêm mạc má hơi khô, véo da dưới xương đòn trở lại hơi chậm. Không mặt tròn, không gù trâu, không rạn da tím, da rám nắng vùng mặt và cẳng tay.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to. Tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 90 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái, nảy mạnh. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 90 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm. Ấn nhẹ thượng vị hơi khó chịu, không đề kháng. Không khối, gan lách không to, không sờ thấy thận to. Nghe bốn điểm (thượng vị, quanh rốn, hai hố thắt lưng) không có âm thổi.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay hai bên bằng nhau, bắt cùng lúc với mạch bẹn. Mạch mu chân, chày sau rõ. Không âm thổi động mạch cảnh.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Bắp chân không đau, không co cứng lúc khám.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5 hai bên. Ngồi xuống đứng lên 5 lần không tựa tay hết 11 giây, không phải chống tay.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh táo, không dấu thần kinh khu trú, không yếu liệt, nói rõ.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp nhẹ, không xuất huyết, không xuất tiết, không phù gai thị.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "e",
+     "r": "Na 143 · K 3,3 · Cl 98 mmol/L · CO₂ toàn phần 31 mmol/L",
+     "ab": 1,
+     "n": "K 3,3 mmol/L thấp, kèm CO₂ toàn phần 31 (kiềm chuyển hóa), dù đã ngưng hydroclorothiazid 8 ngày. Đây là con số then chốt của ca: ba nơi trước chưa ai đo. Điện giải nằm trong xét nghiệm ban đầu khi mới đánh giá THA (QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8). Kiểu \"THA kèm hạ kali, kiềm chuyển hóa\" gợi cường aldosteron hoặc dùng cam thảo kéo dài (ESH 2023 Bảng 20).",
+     "bang": {
+      "na": 143,
+      "k": 3.3,
+      "cl": 98
+     }
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang đều 88 l/p, trục bình thường. Cornell (SV3 13 + RaVL 9) = 22 mm; Sokolow-Lyon (SV1 9 + RV5 22) = 31 mm. Sóng T dẹt ở V4–V6, sóng U rõ ở V2–V3 (khoảng 1,5 mm). Không ST chênh lên, không sóng Q, không blốc nhánh.",
+     "ab": 1,
+     "n": "Cornell > 20 mm ở nữ là dày thất trái, Sokolow-Lyon 31 mm chưa tới ngưỡng > 35 mm (VSH/VNHA 2024 Bảng 11): không có siêu âm nên ECG là cách duy nhất ở đây phát hiện tổn thương cơ quan đích ở tim (QĐ 5904 Phần 1 Bước 2). Điện tâm đồ cũng cho thấy sóng U kèm T dẹt phù hợp hạ kali; không có trong tài liệu đã tải bảng mô tả dấu hiệu điện tim của hạ kali."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 6,8 mmol/L · Creatinin 80 µmol/L · eGFR 70 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Tờ cũ 8 ngày trước creatinin 74 µmol/L; cần có creatinin và kali trước khi dùng thuốc ức chế men chuyển (QĐ 5904 Phần 3 mục G). Creatinin lần này cao hơn nhẹ, phù hợp uống ít nước. eGFR 70 và UACR dưới 30 mg/g nên chưa có tổn thương thận (VSH/VNHA 2024 Bảng 11).",
+     "bang": {
+      "ure": 6.8,
+      "creat": 80,
+      "egfr": 70
+     }
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 5,7 · LDL-C 3,5 · HDL-C 1,3 · TG 1,8 mmol/L",
+     "ab": 1,
+     "n": "Chưa từng xét nghiệm mỡ máu. Mỡ máu nằm trong xét nghiệm ban đầu (QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "12 mg/g",
+     "n": "Dưới 30 mg/g: không có albumin niệu (VSH/VNHA 2024 Bảng 11). Nằm trong xét nghiệm ban đầu (ESC 2024 Bảng 8)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Không protein · Không hồng cầu · Không glucose · Tỷ trọng 1,025",
+     "n": "Tổng phân tích nước tiểu nằm trong xét nghiệm ban đầu (QĐ 5904 Phần 1 Bước 2). Tỷ trọng cao phù hợp uống ít nước.",
+     "bang": {
+      "u_sg": 1.025,
+      "u_pro": "âm tính",
+      "u_glu": "âm tính",
+      "u_ery": "âm tính"
+     }
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Aldosteron 3 ng/dL · Hoạt tính renin 0,2 ng/mL/giờ · ARR 15",
+     "n": "Làm hay hoãn đều chấp nhận. ESC 2024 Bảng khuyến cáo 13 (IIa): cân nhắc cho mọi người THA ≥ 140/90; AHA/ACC 2025 mục 3.2.3.1 (khuyến cáo 1): tầm soát khi có hạ kali. Ở ca này cả renin lẫn aldosteron cùng bị ức chế, aldosteron thấp, đúng hình ảnh cam thảo (ESH 2023 Bảng 20), không đạt ngưỡng dương tính (aldosteron ≥ 10 ng/dL kèm renin < 1 ng/mL/giờ). Thời gian chờ sau khi ngưng cam thảo mới làm lại: không có trong tài liệu đã tải."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,9 mIU/L",
+     "n": "Thường quy theo ESC 2024 Bảng 8; QĐ 5904 Phần 1 Bước 2 không liệt kê. Làm hay không đều không trừ điểm."
+    },
+    "holter_ha": {
+     "v": "a",
+     "r": "HA trung bình 24 giờ 146/86 mmHg; ban ngày 150/88, ban đêm 136/78.",
+     "n": "Không bắt buộc: bà đã có sổ HA tại nhà đo đúng cách ≥ 135/85 (VSH/VNHA 2024 Đ1.2.2). Chấp nhận nếu bác sĩ muốn xác nhận ngoài phòng khám."
+    },
+    "echo": {
+     "v": "u",
+     "r": "Dày đồng tâm thất trái nhẹ (vách liên thất 12 mm), EF 64%.",
+     "ab": 1,
+     "thay_the": "ecg",
+     "n": "Cơ sở không có siêu âm; thay bằng ECG (Cornell 22 mm). Siêu âm tim chỉ là xét nghiệm tùy chọn khi cần (ESC 2024 Bảng 9)."
+    },
+    "ctm": {
+     "n": "Đã làm 8 ngày trước (Hb 134 g/L), bình thường; lặp lại không đổi quyết định."
+    },
+    "glu": {
+     "n": "Đã làm 8 ngày trước (5,3 mmol/L), bình thường; không cần làm lại."
+    },
+    "liver": {
+     "n": "Đã làm 8 ngày trước, trong giới hạn; chưa có gợi ý bệnh gan."
+    },
+    "trop": {
+     "n": "Không đau ngực, không khó thở, ECG không thiếu máu cơ tim."
+    },
+    "abdus": {
+     "n": "Không có siêu âm; không có gợi ý u thượng thận hay bệnh thận (không âm thổi bụng, creatinin và UACR bình thường)."
+    },
+    "doppler_than": {
+     "n": "Không có siêu âm; không âm thổi bụng, creatinin ổn, THA không khởi phát sớm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2, có dày thất trái trên ECG, đang bị làm nặng thêm do dùng kéo dài thuốc dạ dày tự mua có cam thảo, kèm hạ kali máu nhẹ và kiềm chuyển hóa",
+     "ok": 1,
+     "n": "HA phòng khám 168/92 mmHg (độ 2: 160–179/100–109, QĐ 5904 Phần 1 Bước 3A); HA tại nhà buổi sáng trung bình 152/86 ≥ 135/85 (VSH/VNHA 2024 Đ1.2.2); có số 152/88 ghi trước khi dùng gói bột nên THA có từ trước. Cam thảo dùng lâu gây tăng HA, hạ kali, kiềm chuyển hóa, renin và aldosteron bị ức chế (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11: tránh dùng). Dày thất trái: Cornell 22 mm > 20 mm ở nữ (VSH/VNHA 2024 Bảng 11)."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Cường aldosteron nguyên phát: aldosteron 3 ng/dL, ARR 15, không đạt ngưỡng sàng lọc; hạ kali giải thích được bằng cam thảo (ESH 2023 Bảng 20). Cushing: không mặt tròn, không rạn da tím. U tủy thượng thận: không cơn vã mồ hôi–hồi hộp. Thận: creatinin, UACR bình thường, không âm thổi bụng. Còn kali thấp hoặc HA không về mục tiêu sau khi ngưng cam thảo thì tầm soát lại (AHA/ACC 2025 mục 3.2.3.1; VSH/VNHA 2024 Bảng 9)."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA 168/92 < 180/110, không đau ngực, khó thở, yếu liệt, nhìn mờ, đáy mắt không xuất huyết hay phù gai (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "Tăng huyết áp áo choàng trắng",
+     "n": "HA tại nhà buổi sáng đo đúng cách trung bình 152/86 ≥ 135/85 và dày thất trái: THA thật (VSH/VNHA 2024 Đ1.2.2). Chênh giữa các nhóm số đo là do lo lắng, không phải hai bệnh khác nhau."
+    },
+    {
+     "t": "Hạ huyết áp tư thế",
+     "n": "Tụt tối đa 14/4 mmHg khi đứng, dưới ngưỡng ≥ 20/10 mmHg (ESC 2024 mục 5.5.3). Cơn tối sầm mắt ba tuần trước xảy ra khi đứng lên sau nhiều giờ lao động dưới nắng, uống ít nước."
+    },
+    {
+     "t": "Hạ kali máu do thiazide đơn thuần",
+     "n": "Đã ngưng hydroclorothiazid 8 ngày mà K còn 3,3 kèm kiềm chuyển hóa; chuột rút đã có từ trước khi dùng thuốc này. Thiazide làm hạ kali khi đang dùng (AHA/ACC 2025 mục 5.2.8) nhưng không giải thích được toàn bộ bức tranh."
+    },
+    {
+     "t": "Bệnh thận mạn do tăng huyết áp",
+     "n": "eGFR 70 mL/ph/1,73m², UACR 12 mg/g, nước tiểu không protein: chưa có tổn thương thận (VSH/VNHA 2024 Bảng 11: eGFR < 60, UACR > 30 mg/g)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng hẳn gói bột \"thuốc dạ dày\" chứa cam thảo; giải thích đó là nguồn làm HA khó xuống và kali thấp",
+     "v": "c",
+     "n": "Cam thảo dùng kéo dài tăng HA kèm hạ kali, kiềm chuyển hóa (ESH 2023 Bảng 20); AHA/ACC 2025 Bảng 11: black licorice \"avoid use\". Không có trong tài liệu đã tải: lượng cam thảo gây bệnh và thời gian HA, kali trở lại bình thường sau ngưng."
+    },
+    {
+     "t": "Khởi trị phối hợp hai thuốc liều thấp: ức chế men chuyển hoặc chẹn thụ thể + chẹn kênh canxi dihydropyridin, ví dụ perindopril 5 mg + amlodipin 5 mg, uống buổi sáng",
+     "v": "c",
+     "n": "THA độ 2 bắt đầu từ bước phối hợp 2 thuốc (QĐ 5904 Phần 1 Bước 5 mục C.3); phối hợp chẹn hệ renin–angiotensin với chẹn kênh canxi hoặc lợi tiểu ngay từ đầu (ESC 2024 Bảng khuyến cáo 16, I, B; VSH/VNHA 2024 Bảng 4). Liều khởi đầu và duy trì perindopril 5–10 mg, amlodipin 5–10 mg (QĐ 5904 Phần 3 mục G). Thuốc ức chế men chuyển, chẹn thụ thể không làm hạ kali thêm."
+    },
+    {
+     "t": "Xét nghiệm lại kali và creatinin sau 2–4 tuần, tái khám kèm sổ ghi HA",
+     "v": "c",
+     "n": "AHA/ACC 2025 mục 5.2.8: kiểm tra điện giải, creatinin 2–4 tuần sau khi bắt đầu hoặc chỉnh thuốc nhóm này; VSH/VNHA 2024 Đ4.1: tái khám mỗi 2–4 tuần trong 2–3 tháng đầu."
+    },
+    {
+     "t": "Giảm muối còn khoảng 5 g mỗi ngày (khoảng 2 g natri): bớt nước mắm, cá khô, mắm ruốc; ăn đủ rau quả giàu kali",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15 (I, A): natri khoảng 2 g/ngày; QĐ 5904 Phụ lục 3.2: chỉ nên ăn dưới 5 g muối/ngày, Phần 3 mục F.1: bớt mắm và gia vị mặn; Phần 1 Bước 5 mục D.1a: ăn đủ kali."
+    },
+    {
+     "t": "Hướng dẫn đo HA tại nhà đúng cách (3–7 ngày, sáng và tối, mỗi lần 2 số cách 1–2 phút) và không đo lặp khi lo lắng",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ1.2.2 (HBPM ≥ 135/85 chẩn đoán THA); ESC 2024 Bảng khuyến cáo 35 (I, B). Quy trình QĐ 5904 Phụ lục 1.1."
+    },
+    {
+     "t": "Xem sổ và toa cũ, giữ lại các xét nghiệm 8 ngày trước, không lặp công thức máu, đường huyết, men gan",
+     "v": "c",
+     "n": "Các xét nghiệm đó đã có (QĐ 5904 Phần 1 Bước 2); lặp lại không đổi quyết định và làm bà mất tiền, mất niềm tin thêm. Chỉ bổ sung điện giải, điện tim, mỡ máu, UACR, nước tiểu còn thiếu."
+    },
+    {
+     "t": "Giải thích: HA của bà ở mức cần điều trị đều đặn nhưng không phải cấp cứu, không cần hạ nhanh; ghi nhận ba lần điều trị trước thất bại vì sao",
+     "v": "c",
+     "n": "THA nặng không có tổn thương cơ quan đích cấp không hạ áp mạnh, uống thuốc ngoại trú (AHA/ACC 2025 mục 6.2); ESC 2024 Bảng 7 gợi ý cách trao đổi khi báo chẩn đoán THA. Trả lời đúng nỗi lo đột quỵ."
+    },
+    {
+     "t": "Mục tiêu HA: dưới 130/80 mmHg nếu dung nạp (VSH/VNHA 2024 Bảng 4, ít nhất dưới 140; ESC 2024 Bảng khuyến cáo 18: tâm thu 120–129) hoặc tâm thu 130 đến dưới 140 mmHg ở người từ 65 tuổi (QĐ 5904 Phần 1 Bước 5 mục A.2)",
+     "v": "c",
+     "n": "Hai cách đều đúng: QĐ 5904 (2019) đặt mục tiêu nới hơn cho người ≥ 65 tuổi; VSH/VNHA 2024 và ESC 2024 mới hơn, nhắm thấp hơn nhưng nới lên dưới 140 khi không dung nạp hoặc có hạ HA tư thế trước điều trị."
+    },
+    {
+     "t": "Hẹn đánh giá đau thượng vị tại nơi có nội soi (không phải hôm nay)",
+     "v": "a",
+     "n": "VNAGE 2023 Statement 3: khó tiêu chưa khảo sát ở nữ ≥ 35 tuổi nên nội soi dạ dày–tá tràng. Cơ sở không có nội soi; ngoài trọng tâm ca nên không bắt buộc. Cách điều trị triệu chứng thay thế gói bột trong lúc chờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tầm soát aldosteron/renin ngay hôm nay hoặc hoãn đến khi đã ngưng cam thảo và kali về bình thường",
+     "v": "a",
+     "n": "ESC 2024 Bảng khuyến cáo 13 (IIa) và AHA/ACC 2025 mục 3.2.3.1 (khi hạ kali); đang dùng cam thảo thì cả renin lẫn aldosteron bị ức chế nên khó diễn giải (ESH 2023 Bảng 20)."
+    },
+    {
+     "t": "Bù kali đường uống hoặc ăn thêm chuối, cam trong lúc chờ xét nghiệm lại",
+     "v": "a",
+     "n": "Hạ kali nhẹ, không triệu chứng nặng; liều kali uống không có trong tài liệu đã tải. Khi đã dùng thuốc ức chế men chuyển có nguy cơ tăng kali (QĐ 5904 Phần 3 mục G) nên không tự ý bù liều cao."
+    },
+    {
+     "t": "Bắt đầu statin cường độ trung bình",
+     "v": "a",
+     "n": "Có dày thất trái nên nguy cơ cao (QĐ 5904 Phần 1 Bước 3B mục 2c); ESH 2023 mục 11.10.11.1 (I, A) khuyên statin, ACC/AHA 2026 mục 4.2.3.7 dựa vào nguy cơ PREVENT, tài liệu đã tải không có công cụ tính. Làm ngay hay để tái khám đều chấp nhận (sổ mâu thuẫn mục statin)."
+    },
+    {
+     "t": "Khởi trị đơn trị liều thấp (ví dụ losartan 25–50 mg) rồi tăng dần sau khi đã bù nước và ngưng cam thảo",
+     "v": "a",
+     "n": "QĐ 5904 Phần 1 Bước 5 mục C.3 nói THA độ 2 bắt đầu từ 2 thuốc, mục C.4 cho tăng dần liều khi chỉ có một loại; bà có chóng mặt tư thế, ESC 2024 Bảng khuyến cáo 16 nêu hạ HA tư thế có triệu chứng là ngoại lệ của phối hợp ban đầu. Bà chưa đủ tiêu chuẩn hạ HA tư thế nên phối hợp là đáp án chính; không có nguồn nói đơn trị là có hại. Losartan khởi đầu 25 mg (QĐ 5904 Phần 3 mục G) hoặc 50 mg (sơ đồ Phần 1 mục C)."
+    },
+    {
+     "t": "Chuyển tuyến chuyên khoa nội tiết hoặc tim mạch ngay để làm đủ bộ tìm THA thứ phát",
+     "v": "a",
+     "n": "QĐ 5904 Phần 1 Bước 4 mục A.1 chuyển khi nghi THA thứ phát; ESC 2024 mục 9.14.7: dạng hiếm như dùng quá nhiều cam thảo thì chuyển trung tâm chuyên khoa. Ở đây nguyên nhân đã tìm thấy và ngưng được tại chỗ nên hẹn lại sau 2–4 tuần là đáp án chính; chuyển ngay không sai."
+    },
+    {
+     "t": "Bù kali nhưng vẫn cho dùng tiếp gói bột dạ dày",
+     "v": "w",
+     "n": "Không bỏ nguồn gây hạ kali (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11 tránh dùng cam thảo): kali sẽ tụt lại và HA tiếp tục khó xuống."
+    },
+    {
+     "t": "Thêm lợi tiểu thiazide hoặc indapamid",
+     "v": "w",
+     "n": "Đã có chuột rút nặng lên khi dùng hydroclorothiazid; thiazide gây hạ kali (AHA/ACC 2025 mục 5.2.8), QĐ 5904 Phần 3 mục G ghi tác dụng phụ rối loạn điện giải. Kali đang 3,3 mmol/L."
+    },
+    {
+     "t": "Dùng chẹn beta (atenolol, bisoprolol) làm thuốc đầu tay",
+     "v": "w",
+     "n": "Chỉ dùng khi có chỉ định bắt buộc (ESC 2024 Bảng khuyến cáo 16, I, A); QĐ 5904 Phần 3 mục G: tránh atenolol đầu tay ở người > 60 tuổi."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện để hạ áp",
+     "v": "w",
+     "n": "HA 168/92 không có tổn thương cơ quan đích cấp (AHA/ACC 2025 mục 6.2; QĐ 5904 Phần 3 mục D.1)."
+    },
+    {
+     "t": "Cho ngậm nifedipin tác dụng nhanh để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm) vì hạ HA mạnh, khó kiểm soát; bà đã chóng mặt hơn sau lần ngậm đầu tiên. AHA/ACC 2025 mục 6.2: không hạ áp mạnh khi không có tổn thương cấp."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2: HA phòng khám 168/92 mmHg, HA tại nhà buổi sáng trung bình 152/86 mmHg",
+     "Tổn thương cơ quan đích: dày thất trái trên ECG (Cornell 22 mm), nguy cơ tim mạch cao; chưa có tổn thương thận (eGFR 70, UACR 12 mg/g)",
+     "Yếu tố làm nặng: gói bột \"thuốc dạ dày\" có cam thảo dùng gần chín tháng",
+     "Hạ kali máu nhẹ (3,3 mmol/L) kèm kiềm chuyển hóa (CO₂ 31 mmol/L), còn kéo dài 8 ngày sau ngưng hydroclorothiazid",
+     "Mất nước nhẹ do uống ít nước và lao động dưới nắng; không có hạ HA tư thế",
+     "Đau thượng vị chưa khảo sát; không phải cơn THA cấp cứu; chưa có chỉ điểm THA thứ phát khác"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: ba tuần ba nơi chỉ đo HA rồi kê thuốc, không ai hỏi \"ngoài thuốc huyết áp bà còn uống gì\". Câu mở được ca là yêu cầu bà mang hết những gì bà đang uống ra xem (gói bột, ginkgo, piracetam, sữa canxi) vì bà không xem gói bột là \"thuốc\". Chuột rút đêm tăng gần mỗi đêm khi dùng hydroclorothiazid là gợi ý hạ kali mà ba nơi trước bỏ qua. Lý do thật đi khám là sợ đột quỵ như chồng sau video trên mạng.",
+     "Khám: đo HA đúng cách sau khi nghỉ, hai tay (176/96 lúc mới vào, 168/92 sau nghỉ). Đo tư thế: tụt tối đa 14/4 mmHg, dưới ngưỡng hạ HA tư thế ≥ 20/10 (ESC 2024 mục 5.5.3), nên cơn tối sầm mắt là do thiếu nước khi đứng lên giữa nắng, không phải bệnh thần kinh tự động. Khám sức cơ (đứng lên ngồi xuống 5 lần 11 giây) cho biết hạ kali chưa nặng; bụng không âm thổi; không dấu Cushing.",
+     "Cận lâm sàng cần: điện giải đồ (K 3,3, CO₂ 31: tín hiệu quan trọng nhất của ca, ba nơi trước chưa đo), điện tim (Cornell 22 mm, sóng U), creatinin trước khi dùng ức chế men chuyển (QĐ 5904 Phần 3 mục G), mỡ máu, UACR và nước tiểu (QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8). Không lặp công thức máu, đường huyết, men gan đã có 8 ngày trước.",
+     "Vì sao THA nguyên phát chứ không phải thứ phát: có số 152/88 ghi trong sổ khám người cao tuổi trước khi dùng gói bột; aldosteron 3 ng/dL và renin 0,2 ng/mL/giờ cùng bị ức chế, ARR 15, không đạt ngưỡng cường aldosteron (AHA/ACC 2025 mục 3.2.3.1); đó đúng là mô hình của cam thảo (ESH 2023 Bảng 20), nên cam thảo là yếu tố làm nặng chứ không thay thế được THA nền. Còn kali thấp hoặc HA vẫn cao sau khi ngưng cam thảo mới cần tầm soát tiếp.",
+     "Vì sao không phải cơn THA cấp cứu: HA 168/92 < 180/110, không triệu chứng thần kinh, tim, mắt (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1). Vì sao không phải THA áo choàng trắng: HA tại nhà đo đúng cách ≥ 135/85 và đã có dày thất trái.",
+     "Ba nơi trước thất bại vì: ngậm nifedipin gây tụt HA đột ngột khi đang thiếu nước; thiazide thêm vào khi kali đã thấp; captopril ngậm và thuốc bổ não không giải quyết gì. Không ai xem sổ HA của bà, nên không biết HA đo đúng cách chỉ khoảng 152/86, còn những số 175–190 phần lớn đo khi lo lắng."
+    ],
+    "phan_tich_xu_tri": [
+     "Việc đầu tiên không cần chờ kết quả nào: ngưng gói bột có cam thảo (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11). Bà là nông dân, tin thuốc quầy thuốc xã; cần nói rõ \"đây là nguồn làm kali thấp và HA khó xuống\" để bà tự ngưng, không chỉ ra lệnh.",
+     "Khởi trị thuốc ngay vì HA độ 2 kèm dày thất trái: phối hợp 2 thuốc liều thấp (QĐ 5904 Phần 1 Bước 5 mục C.3; ESC 2024 Bảng khuyến cáo 16). Chọn perindopril (hoặc losartan nếu ho) + amlodipin; thuốc ức chế men chuyển không làm hạ kali thêm, khác với lợi tiểu. Tránh thiazide khi K 3,3 và đã có chuột rút nặng lên trước đó. Dùng buổi sáng, một giờ cố định (ESC 2024 Bảng khuyến cáo 16: giờ thuận tiện nhất cho người bệnh).",
+     "Kali: nguyên nhân gốc đã ngưng, ức chế men chuyển giúp giữ kali; ăn đủ rau quả giàu kali (QĐ 5904 Phần 1 Bước 5 mục D.1a). Không có trong tài liệu đã tải liều kali uống, nên không ghi liều bù kali trong đơn; xét nghiệm lại kali, creatinin sau 2–4 tuần (AHA/ACC 2025 mục 5.2.8).",
+     "Mục tiêu HA ghi cả hai: dưới 130/80 nếu dung nạp (VSH/VNHA 2024 Bảng 4; ESC 2024 Bảng khuyến cáo 18: 120–129 tâm thu) hoặc tâm thu 130 đến dưới 140 ở người từ 65 tuổi (QĐ 5904 Phần 1 Bước 5 mục A.2). Mục tiêu đạt trong 1–3 tháng (QĐ 5904 Phần 1 Bước 5 mục A.3).",
+     "Lối sống theo nghề: ra vườn sớm, mang chai nước theo, nghỉ giữa giờ nắng; muối dưới 5 g/ngày, bớt nước mắm, cá khô (QĐ 5904 Phụ lục 3.2, Phần 3 mục F.1; ESC 2024 Bảng khuyến cáo 15). Vận động vừa ≥ 150 phút/tuần (QĐ 5904 Phần 1 Bước 5 mục D.1e).",
+     "Đo HA tại nhà đúng cách, mỗi ngày một lần sáng và một lần tối trong 3–7 ngày trước tái khám (VSH/VNHA 2024 Đ1.2.2); khuyến khích bà đưa sổ cho bác sĩ vì sổ là cách chắc nhất để bà tin lần này khác ba lần trước.",
+     "Đau thượng vị: bỏ gói bột có thể đau lại; nữ ≥ 35 tuổi khó tiêu chưa khảo sát nên nội soi (VNAGE 2023 Statement 3); cơ sở không có nội soi nên hẹn đi tuyến có nội soi, không khẩn vì không có dấu báo động. Không dùng thuốc đau dạ dày tự mua khác."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; nên kiểm tra creatinin và kali trước khi dùng (đã làm hôm nay); chống chỉ định có thai, tiền sử phù mạch; tác dụng phụ ho, tăng kali (QĐ 5904 Phần 3 mục G). Ho nhiều thì đổi losartan 25–50 mg. Xét nghiệm lại kali, creatinin sau 2–4 tuần (AHA/ACC 2025 mục 5.2.8)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ với perindopril",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Hàm lượng viên phối hợp cố định bán ở Việt Nam: không có trong tài liệu đã tải. Nếu tối sầm mắt tăng khi đứng, báo lại để đo lại HA tư thế (ESC 2024 mục 5.5.3)."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn gói bột dạ dày có cam thảo, không mua lại ở quầy thuốc; lần sau mang mọi thuốc đang uống, kể cả thuốc bột, thuốc nam, thuốc bổ (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11).",
+     "Ngưng ginkgo và piracetam (không cần thiết cho ca này; không có trong tài liệu đã tải bằng chứng hai thuốc này chữa chóng mặt do HA). Không ngậm nifedipin dưới lưỡi để hạ áp nhanh (QĐ 5904 Phần 3 mục D.1).",
+     "Uống thuốc mỗi sáng, kể cả khi thấy khỏe; tự ngưng thuốc là lý do HA lên lại (QĐ 5904 Phần 1 Bước 5 mục D.2).",
+     "Ra vườn sáng sớm hoặc chiều mát, mang chai nước theo, nghỉ giữa giờ nắng; đứng lên từ từ khi vừa ngồi xổm nhổ cỏ.",
+     "Giảm muối dưới 5 g/ngày: bớt chấm nước mắm, giảm cá khô, mắm ruốc; ăn đủ rau quả (QĐ 5904 Phụ lục 3.2, Phần 1 Bước 5 mục D.1a).",
+     "Đo HA tại nhà: ngồi nghỉ 5 phút, đo sáng và tối 3–7 ngày trước tái khám, mỗi lần 2 số cách 1–2 phút, ghi vở; không đo thêm khi lo lắng (VSH/VNHA 2024 Đ1.2.2; ESC 2024 Hình 4). Mục tiêu dưới 130/80 mmHg nếu dung nạp, tối thiểu tâm thu dưới 140 (VSH/VNHA 2024 Bảng 4).",
+     "Đi cấp cứu ngay nếu đau ngực dữ dội, đau đầu dữ dội, nhìn mờ, yếu tê nửa người, méo miệng, nói khó, khó thở (QĐ 5904 Phần 3 mục D.1). Nếu chuột rút nặng lên, yếu cơ hoặc hồi hộp thì quay lại sớm.",
+     "Tái khám sau 2–4 tuần với vở ghi HA và xét nghiệm lại kali, creatinin (VSH/VNHA 2024 Đ4.1; AHA/ACC 2025 mục 5.2.8). Nội soi dạ dày ở tuyến trên khi có điều kiện (VNAGE 2023 Statement 3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà ngưng gói bột sau buổi khám, uống perindopril + amlodipin đều. Sau 4 tuần kali 4,1 mmol/L, HA phòng khám 138/82, HA tại nhà buổi sáng 128–134/78–82; chuột rút đêm hết, bà tự đo ngày một lần. Bà được hẹn nội soi dạ dày ở tuyến huyện và tiếp tục tái khám 1–3 tháng/lần.",
+ "nhieu": [
+  "Ba nơi khám trước: bà mệt mỏi, mất niềm tin, giấu sổ và gói thuốc trong túi; xét nghiệm 8 ngày trước đã bình thường, không cần lặp lại.",
+  "Hộp ginkgo và piracetam \"bổ não\": bà muốn biết có nên uống tiếp; không liên quan đến chẩn đoán, dễ dẫn đến kê thêm hoặc xét nghiệm thừa.",
+  "Mỗi ngày đo HA 8–15 lần do lo lắng sau khi xem video: số đo lặp cao, chỉ có HA buổi sáng đúng cách mới dùng để chẩn đoán."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi thuốc đang dùng bằng yêu cầu vật thể (\"mang hết những gì bà đang uống ra đây\") vì bệnh nhân không xem thuốc bột, thuốc nam, thuốc bổ là \"thuốc\". Gói không nhãn có thể chứa cam thảo gây tăng HA, hạ kali, kiềm chuyển hóa (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11).",
+  "THA kèm hạ kali (tự phát hoặc do lợi tiểu) là chỉ điểm cần nghĩ tới THA thứ phát và tầm soát aldosteron (AHA/ACC 2025 mục 3.2.3.1; VSH/VNHA 2024 Bảng 9); ở ca này kali thấp có nguyên nhân giải thích được, nên vẫn là THA nguyên phát bị làm nặng thêm.",
+  "Điện giải đồ nằm trong xét nghiệm ban đầu của THA (QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8); ba nơi trước làm công thức máu, đường huyết nhưng bỏ điện giải.",
+  "Xem sổ HA tại nhà trước: HA buổi sáng đúng cách 152/86 khác xa các số đo lặp khi lo lắng (VSH/VNHA 2024 Đ1.2.2). Đọc sổ, toa cũ là cách tái lập niềm tin.",
+  "Không cần hạ áp nhanh khi không có tổn thương cơ quan đích cấp; ngậm nifedipin tác dụng nhanh gây tụt HA khó kiểm soát (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2).",
+  "Không có siêu âm: dùng ECG (Cornell > 20 mm ở nữ, Sokolow-Lyon > 35 mm) để tìm dày thất trái (VSH/VNHA 2024 Bảng 11)."
+ ],
+ "diem_nho": [
+  "THA độ 2: 160–179 và/hoặc 100–109 mmHg (QĐ 5904 Phần 1 Bước 3A); HBPM ≥ 135/85 mmHg chẩn đoán THA (VSH/VNHA 2024 Đ1.2.2).",
+  "Hạ HA tư thế: tụt ≥ 20 mmHg tâm thu và/hoặc ≥ 10 mmHg tâm trương sau đứng 1 hoặc 3 phút (ESC 2024 mục 5.5.3).",
+  "Khởi trị THA độ 2: phối hợp 2 thuốc (QĐ 5904 Phần 1 Bước 5 mục C.3; ESC 2024 Bảng khuyến cáo 16). Tránh nifedipin tác dụng nhanh (QĐ 5904 Phần 3 mục D.1).",
+  "Điện giải, creatinin kiểm tra 2–4 tuần sau khi bắt đầu thuốc ức chế men chuyển/chẹn thụ thể hoặc lợi tiểu (AHA/ACC 2025 mục 5.2.8).",
+  "Muối < 5 g/ngày (QĐ 5904 Phụ lục 3.2); natri khoảng 2 g/ngày (ESC 2024 Bảng khuyến cáo 15).",
+  "Mục tiêu HA: < 130/80 (VSH/VNHA 2024 Bảng 4) hoặc tâm thu 130–< 140 ở ≥ 65 tuổi (QĐ 5904 Phần 1 Bước 5 mục A.2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 (TL-0284): Phần 1 Bước 2, 3A, 3B, 4, 5 (mục A.2, A.3, A.5, C.3, C.4, D.1, D.2); Phần 3 mục D.1, F.1, G; Phụ lục 1.1, Phụ lục 3.2.",
+  "VSH/VNHA 2024 (TL-0288): Đ1.2.2, Đ4.1, Bảng 4, Bảng 9, Bảng 11. ESC 2024 THA (TL-0305): mục 5.5.3, 10.1.1, 9.14.7; Bảng 7, 8, 9; Bảng khuyến cáo 13, 15, 16, 18, 35.",
+  "AHA/ACC 2025 THA (TL-0297): mục 3.2.3.1, 5.2.8, 6.2; Bảng 11. ESH 2023 (TL-0312): Bảng 20 (cam thảo), mục 11.10.11.1.",
+  "VNAGE 2023 đồng thuận H. pylori (TL-0179): Statement 3. ACC/AHA 2026 rối loạn lipid (TL-0292): mục 4.2.3.7."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-12: viết mới từ cốt truyện ca cũ (gói bột cam thảo, kali 3,3, ba nơi khám). Đã đọc: TL-0284 Phần 1 (Bước 2–5), Phần 3 mục D.1, G, Phụ lục 3.2; TL-0288 Đ1.2.2, Đ4.1, Bảng 4, 9, 11; TL-0305 mục 5.5.3, Bảng khuyến cáo 13, 15, 16, 18, 35, Bảng 8; TL-0297 mục 3.2.3.1, 5.2.8, 6.2, Bảng 11; TL-0312 Bảng 20; TL-0179 Statement 3.",
+  "Biến sổ cái: nghề nông dân nghỉ hưu (vẫn làm vườn dưới nắng) và yếu tố khởi phát (sau lao động nắng, uống ít nước) nằm ở su_that khoi_phat, nghe, nuoc; thuốc đang dùng = gói bột dạ dày tự mua (thuoc_da_day, thanh_phan); lý do thật = sợ đột quỵ sau video trên mạng (dong_co); nhiễu = ba nơi khám + ginkgo/piracetam + đo HA lặp; ràng buộc nguồn lực = không siêu âm (ECG thay thế); đồng thời ca 1 lượt nên không có tái khám.",
+  "Chỗ thiếu tài liệu: liều kali uống để bù hạ kali nhẹ; thời gian HA, kali trở về bình thường sau ngưng cam thảo; hàm lượng viên phối hợp cố định ở Việt Nam; điều trị triệu chứng dạ dày khi chờ nội soi; dấu điện tim của hạ kali. Mâu thuẫn mục tiêu HA và đơn trị/phối hợp ghi trong MT-0042_mau_thuan.md."
+ ]
+}

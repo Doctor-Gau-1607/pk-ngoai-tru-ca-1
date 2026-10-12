@@ -1,0 +1,831 @@
+{
+ "ma_ca": "HH-1269",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình bản 3, nguồn kèm vị trí (2026-10-12)",
+ "benh": "HH_covid_19",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COVID-19",
+  "chan_doan_phai_loai_tru": [
+   "Cúm mùa",
+   "Viêm phổi vi khuẩn"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Cơ đỏ ngụy trang",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Mất ngủ kéo dài",
+  "thuoc_dang_dung": "Thuốc nam không rõ loại",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch"
+ },
+ "benh_nhan": {
+  "ten": "Võ Thị Kim Chi",
+  "tuoi": 51,
+  "gioi": "Nữ",
+  "nghe": "Chủ tiệm tạp hóa nhỏ đầu hẻm ở thị trấn, kiêm bán nước giải khát; ngồi tiệm từ 5 giờ sáng đến 9 giờ tối, nhập hàng ban đêm",
+  "can_nang": 68,
+  "chieu_cao": 154,
+  "xung_ho": "Bác sĩ gọi bà là 'chị'; chị xưng 'tui', gọi bác sĩ là 'bác sĩ', giọng miền Trung. Con gái Mai gọi mẹ là 'mạ', xưng 'con' với mẹ và 'em' với bác sĩ.",
+  "tinh_cach": "Tháo vát, nói nhanh, hay cười gượng, lo tiền hàng và cửa tiệm hơn sức khỏe; nhớ lần trước ở phòng khám khác 'truyền chai nước biển là khỏe hẳn'; sợ hai chữ 'dương tính' vì hàng xóm sẽ tránh tiệm.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: không coi thuốc cảm viên, paracetamol rời, gói thuốc nam là 'thuốc', hỏi chung chỉ nói 'uống chút thuốc cảm'; khai số viên khi hỏi từng loại. Lặp lại 'cho tui chai nước biển' ở cả 3 lượt; từ chối ngoáy mũi và rút máu ('tốn tiền, rút máu thêm yếu'); lượt 3 nói 'tui không khó thở, chỉ hồi hộp vì thiếu ngủ', sợ bệnh viện 'nhốt cách ly'.",
+  "nguoi_nha": "Con gái Lê Ngọc Mai, 24 tuổi, kế toán, chở mẹ cả ba lượt; sốt trước mẹ 1 ngày, test nhà dương tính nhưng mẹ dặn 'đừng nói'; thấy mẹ thở nhanh mà ngại cãi, chỉ kể khi bác sĩ hỏi riêng. Hỏi nhiệt độ, ăn ngủ, thở ban đêm thì Mai bổ sung (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mai (con gái)",
+  "ngoai_hinh": {
+   "da": "#d2a27c",
+   "toc": "#2a211c",
+   "kieuToc": "bui",
+   "ao": "#8a6f8e",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9ad88",
+    "toc": "#1d1815",
+    "kieuToc": "dai",
+    "ao": "#5f7f9a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt rã rời, mất ngủ nhiều đêm, hơi sốt, ho; xin truyền một chai nước biển",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "ct"
+  ],
+  "loi_bao": "Phòng khám đa khoa tư nhân ở thị trấn, không có X-quang và CT. Có siêu âm xách tay (siêu âm phổi), điện tim, máy đo SpO₂, bình oxy, xét nghiệm máu cơ bản, test nhanh tại chỗ; xe của phòng khám có bình oxy. Bệnh viện đa khoa huyện cách 18 km (khoảng 30 phút)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày bệnh thứ 5",
+   "tiep_don": "Chị Võ Thị Kim Chi, 51 tuổi, chủ tiệm tạp hóa nhỏ ở thị trấn, con gái chở đến phòng khám vì mệt rã rời, mất ngủ nhiều đêm, hơi sốt và ho, đã tự mua thuốc uống mấy ngày nay. Sinh hiệu: nhiệt độ 37,8 °C, mạch 92 l/p, HA 118/76 mmHg, nhịp thở 18 l/p, SpO₂ 97% khí trời, cân nặng 68 kg, cao 154 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Giữ chị Chi lại phòng khám truyền dịch theo ý chị biến người thở 18 l/p, SpO₂ 97% thành bệnh nhân lưu giường không chỉ định: mức nhẹ điều trị tại nhà (QĐ 2671/2023 Bảng 4, tr. 32), WHO chỉ khuyến cáo bù nước phù hợp (mục 3.6, tr. 36). Chị tốn tiền, tin 'chai nước biển' là thuốc chữa và sẽ đòi lại lần sau.",
+    "nhap_vien": "Nhập viện cho chị Chi khi chị còn tự phục vụ, thở 18 l/p, SpO₂ 97% là quá tay: mức trung bình mới cần phòng theo dõi sát của bệnh viện (QĐ 2671/2023 mục 5.2, Bảng 4, tr. 31–32). Chị sợ 'dương tính', sợ đóng tiệm nên dễ bỏ về và không quay lại khi bệnh nặng lên.",
+    "chuyen_tuyen": "Chuyển chị Chi lên bệnh viện huyện hôm nay là quá mức: chỉ số sinh tồn và nghiệm pháp đi bộ đều ổn (QĐ 2671/2023 Bảng 4, tr. 32). Chị đang giấu tiếp xúc, từ chối xét nghiệm; bị đẩy đi sớm, chị dễ bỏ giữa chừng và mất luôn tái khám."
+   },
+   "loi_mo": "Bác sĩ ơi, cho tui chai nước biển đi. Mấy đêm rồi tui ngủ không được, người mệt rã, hơi sốt, ho ho. Truyền một chai là khỏe, chiều tui còn mở tiệm.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "118/76",
+    "nhiet": "37,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt rã rời, mất ngủ nhiều đêm, sốt nhẹ, ho; muốn truyền một chai nước biển cho khỏe để chiều mở tiệm. Chị tin truyền dịch 'bổ, khỏe ngay, ngủ được'; lần trước ở phòng khám khác truyền chai có sinh tố là 'khỏe hẳn'. Điều chị sợ nhất là nghỉ bán thêm 5 ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, mong muốn truyền dịch, nỗi sợ đóng tiệm"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Ngày 1: sốt 38,5 °C, đau họng, đau mỏi người, nhức đầu. Ngày 2: ho khan, ngửi không ra mùi. Ngày 3–4: sổ mũi nhẹ, nhạt miệng, sốt giảm khi uống thuốc. Hôm nay ho nhiều hơn, mệt; sáng khiêng thùng nước phải ngồi nghỉ, chị cho là 'thiếu ngủ'. Mất ngủ 3 tuần vì lo nợ hàng; mấy đêm nay nóng bừng, hồi hộp, vã mồ hôi, chị nghĩ 'tuổi tiền mãn kinh'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến theo ngày; mất ngủ kéo dài; hụt hơi khi gắng sức bị gán cho thiếu ngủ"
+    },
+    {
+     "id": "thuoc_tay",
+     "noi_dung": "5 ngày nay tự mua ở quầy thuốc, không đơn: paracetamol 500 mg viên rời, 1 viên mỗi 4 giờ khi nóng, khoảng 6 viên mỗi ngày; thêm 'thuốc cảm' 3 viên mỗi ngày, vỏ ghi mỗi viên paracetamol 325 mg và chlorpheniramin. Không uống kháng sinh. Tổng paracetamol khoảng 4 g mỗi ngày; hôm nay đã uống 2 viên lúc 6 giờ sáng.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc gì không' thì chị chỉ nói 'uống chút thuốc cảm'. Chỉ nói chi tiết khi hỏi từng loại, mỗi ngày mấy viên, hoặc xin xem vỏ thuốc.",
+     "k": 1,
+     "y": "Thuốc tự mua 5 ngày: paracetamol cộng dồn gần 4 g mỗi ngày"
+    },
+    {
+     "id": "thuoc_nam",
+     "noi_dung": "Ba tuần nay uống gói thuốc nam 'an thần, dễ ngủ' của một ông lang quen, sắc 2 lần mỗi ngày; từ ngày 1 thêm gói 'giải cảm' của ông. Không biết thành phần, còn bã thuốc ở nhà.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'đang uống thuốc gì' thì chị chỉ kể thuốc tây. Chỉ kể khi hỏi riêng thuốc nam, thuốc bắc, thuốc người quen cho, hoặc uống gì để ngủ.",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc nam không rõ thành phần"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "(Mai kể riêng) Mai sốt, ho trước mẹ 1 ngày; que test nhà của Mai dương tính đúng ngày mẹ bắt đầu sốt. Mai ở phòng riêng, đeo khẩu trang nhưng mẹ vẫn nấu cơm, đưa cơm cho con. Mẹ dặn Mai 'đừng nói, nói ra người ta đóng cửa tiệm'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chị 'trong nhà có ai bệnh' thì chị nói 'không'. Mai chỉ kể khi bác sĩ hỏi riêng Mai, hoặc hỏi ai trong nhà đã test COVID chưa.",
+     "k": 1,
+     "y": "Tiếp xúc gần ca COVID-19 (yếu tố dịch tễ)"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Không đồng ý ngoáy mũi họng và rút máu: sợ 'dương tính' phải đóng tiệm; tốn tiền; rút máu 'thêm yếu người'. Đồng ý việc không đau, không rút máu như siêu âm, đo SpO₂.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ đề nghị xét nghiệm hoặc hỏi vì sao chị không muốn.",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: lý do, giới hạn chị chấp nhận"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không bệnh mạn tính, không hút thuốc, không uống rượu, không dị ứng thuốc; tiêm vắc xin COVID-19 ba mũi năm 2021–2022.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, tiêm chủng, dị ứng (yếu tố nguy cơ nặng)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, AMT 10/10, nói được cả câu dài. Da niêm hồng, môi hơi khô, không tím. Thể trạng đầy đặn, BMI 28,7.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không mủ. Niêm mạc mũi phù nề, dịch trong.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, không co kéo. Rung thanh, gõ bình thường. Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, không co kéo. Rung thanh, gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Đi hành lang 3 phút (khoảng 80 m), không phải dừng, không khó thở. SpO₂ 97% → 96%, nhịp thở 22 l/p, mạch 104 l/p; ngồi nghỉ 1 phút về 97%.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "e",
+     "r": "(Chị Chi không đồng ý ngoáy mũi họng: sợ kết quả dương tính phải đóng tiệm. Đã ghi nhận từ chối.)",
+     "n": "Ca nghi ngờ thành ca xác định khi có test dương tính (QĐ 2671/2023 mục 2.2b, tr. 18). Bệnh nhân từ chối: ghi nhận, không ép; WHO 2023 mục 3.2 (tr. 18): không có xét nghiệm thì là ca có thể, vẫn chăm sóc theo đường COVID-19."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "(Chị Chi không đồng ý rút máu: 'tốn tiền, rút máu thêm yếu'. Đã ghi nhận từ chối.)",
+     "n": "Lympho < 1 G/L là cảnh báo (QĐ 2671/2023 Bảng 4, tr. 33)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "(Chị Chi không đồng ý rút máu: 'tốn tiền, rút máu thêm yếu'. Đã ghi nhận từ chối.)",
+     "n": "CRP > 125 mg/L là cảnh báo (QĐ 2671/2023 Bảng 4, tr. 33)."
+    },
+    "liver": {
+     "v": "a",
+     "r": "(Chị Chi không đồng ý rút máu: 'tốn tiền, rút máu thêm yếu'. Đã ghi nhận từ chối.)",
+     "n": "Hữu ích vì paracetamol gần 4 g/ngày; chống chỉ định khi tăng men gan (QĐ 361/2014 Phụ lục mục 3.1, tr. 202)."
+    },
+    "sa_phoi": {
+     "v": "e",
+     "ab": 1,
+     "r": "Siêu âm phổi 12 vùng: sau dưới phải, sau dưới trái và bên dưới phải màng phổi dày không đều, > 2 đường B rời rạc (LUSS 1 mỗi vùng); vùng còn lại đường A rõ, màng phổi trượt tốt. Không đông đặc, không tràn dịch. Tổng LUSS 3/36.",
+     "n": "LUSS 1 = màng phổi dày không đều, > 2 đường B rời rạc (QĐ 2671/2023 mục 4.7.1, Bảng 1, tr. 26). CLUE (tr. 27): tổng 1–5 là mức nhẹ, ở nhà theo dõi sát."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 – ca bệnh nghi ngờ (không xét nghiệm do bệnh nhân từ chối), mức nhẹ, ngày bệnh thứ 5, chưa có yếu tố nguy cơ nặng; tự dùng paracetamol cộng dồn gần 4 g/ngày; mất ngủ kéo dài",
+     "ok": 1,
+     "n": "Yếu tố dịch tễ (con gái dương tính, ở chung) cộng ≥ 3 triệu chứng (QĐ 2671/2023 mục 2.1a, tr. 18). Mức nhẹ: không khó thở, không giảm oxy máu (mục 5.2.1, tr. 31; Bảng 4, tr. 32–33). Chưa có yếu tố nguy cơ (Bảng 5, tr. 34): BMI 28,7 chưa vượt 30, đã tiêm ba mũi. ICD-10 U07.2, xác định thì U07.1 (TT 06/2026, Phụ lục ICD-10)."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Không loại hẳn khi chưa test (QĐ 1840/2025 mục II.2.4.3), nhưng ít nghĩ: có tiếp xúc ca COVID-19, mất khứu giác, vị giác (QĐ 2671 mục 3.1, tr. 19); cúm phần lớn chỉ sốt 3–5 ngày (QĐ 1840 mục II.1.1) mà chị ngày 5 ho tăng. Cúm nhẹ không yếu tố nguy cơ không dùng kháng virus (QĐ 1840 mục III.2.2)."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn",
+     "n": "Chưa nghĩ: không rét run, ho khan, không đau ngực kiểu màng phổi, không ran, siêu âm không đông đặc (QĐ 2147/2026 mục 3.1.1, 3.1.5); CRB-65 = 0 (mục 3.2.1). Chưa có công thức máu, CRP vì chị từ chối (mục 3.1.2)."
+    },
+    {
+     "t": "Mất ngủ, lo âu, rối loạn tiền mãn kinh gây mệt và hồi hộp",
+     "n": "Vỏ lành tính, không giải thích được sốt, SpO₂, thở nhanh, B-line; xử trí nguyên nhân thực thể trước khi dùng thuốc ngủ (WHO 2023 mục 3.15, tr. 94)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị tại nhà, hẹn tái khám sau 2 ngày và quay lại ngay nếu có dấu hiệu nặng; xin số điện thoại chị và Mai",
+     "v": "c",
+     "n": "Mức nhẹ điều trị tại nhà (QĐ 2671/2023 Bảng 4, tr. 32); WHO 2023 mục 3.6 (tr. 36): dặn dấu hiệu biến chứng; NICE NG237 khuyến cáo 1.1.2. Mốc 2 ngày do người soạn chọn (giai đoạn toàn phát sau 4–5 ngày, QĐ 2671 mục 3.2, tr. 19); số ngày tái khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhận từ chối ngoáy mũi họng, rút máu và lý do; giải thích lợi ích, rủi ro; thống nhất phương án thay thế (lâm sàng, SpO₂, siêu âm phổi); ghi vào hồ sơ",
+     "v": "c",
+     "n": "WHO 2023 mục 3.23 (tr. 127): tôn trọng, cùng quyết định, giải thích lựa chọn và giới hạn; mục 3.2 (tr. 18): không xét nghiệm được thì là ca có thể. Mẫu văn bản từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng thuốc cảm viên có paracetamol và thuốc nam không rõ; chỉ dùng paracetamol 0,5 g khi > 38,5 °C, tổng mọi nguồn không quá 4 viên/ngày (QĐ 4235/2012) hoặc 4 g/24 giờ (QĐ 361/2014)",
+     "v": "c",
+     "n": "QĐ 4235/2012 (TL-0131) Viêm phổi bệnh viện mục 3.4: 0,5 g/lần khi > 38,5 °C, không quá 4 viên/ngày (2 g, thận trọng hơn). QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.1, tr. 202: không quá 4 g/24 giờ, hại gan, chống chỉ định khi tăng men gan. Chị đã dùng gần 4 g/ngày × 5 ngày, chưa đo men gan nên chọn mức thận trọng. Độc tính thuốc nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống đủ nước, nghỉ ngơi; không truyền dịch; giải thích vì sao truyền dịch không chữa được bệnh của chị",
+     "v": "c",
+     "n": "WHO 2023 mục 3.6 (tr. 36): hạ sốt, dinh dưỡng, bù nước phù hợp; thận trọng dịch truyền (mục 3.8, tr. 45). Lượng nước: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh, corticoid, nirmatrelvir/ritonavir hoặc molnupiravir",
+     "v": "c",
+     "n": "Mức nhẹ không kháng sinh (QĐ 2671/2023 mục 6.8.1a, tr. 52), không corticoid (mục 6.6.1a, tr. 45); kháng virus cho người có ≥ 1 yếu tố nguy cơ, trong 5 ngày; nirmatrelvir/ritonavir cần eGFR và rà tương tác CYP3A4 (Bảng 7, tr. 37–38) mà chị từ chối xét nghiệm, đang dùng thuốc nam. EPIC-SR (NEJM 2024;390:1186, Efficacy): thời gian hết triệu chứng 12 so với 13 ngày, P = 0,60, kết quả tương tự ở nhóm nguy cơ chuẩn."
+    },
+    {
+     "t": "Cách ly tại nhà, khẩu trang, phòng riêng; ít nhất 5 ngày kể từ khi có triệu chứng và khẩu trang đến hết ngày 10, hoặc 10 ngày",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 7.1 (tr. 74); WHO 2023 mục 3.2 (tr. 18): gợi ý 10 ngày. Theo mục sổ 'Thời gian cách ly người COVID-19 có triệu chứng'."
+    },
+    {
+     "t": "Nói riêng về nỗi sợ đóng tiệm; tư vấn vệ sinh giấc ngủ, không kê thuốc ngủ",
+     "v": "c",
+     "n": "WHO 2023 mục 3.15 (tr. 94): biện pháp tâm lý là hàng đầu; xử trí nguyên nhân trước khi dùng thuốc ngủ."
+    },
+    {
+     "t": "Truyền chai nước biển (hoặc có vitamin) theo yêu cầu rồi cho về; hoặc tiêm kháng sinh 'cho chắc'",
+     "v": "w",
+     "n": "Mức nhẹ chỉ cần uống đủ nước (WHO 2023 mục 3.6); không bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1a)."
+    },
+    {
+     "t": "Tăng paracetamol hoặc cộng thêm thuốc cảm viên cho hết sốt hẳn (trên 4 g/ngày)",
+     "v": "h",
+     "n": "Vượt mức tối đa, hại gan (QĐ 361/2014 Phụ lục mục 3.1, tr. 202); chị còn dùng thuốc nam không rõ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 – ca bệnh nghi ngờ (QĐ 2671/2023 mục 2.1a), chưa xác định vì chị từ chối xét nghiệm; ICD-10 U07.2",
+     "Mức nhẹ, ngày bệnh thứ 5: thở 18 l/p, SpO₂ 97%, đi bộ 97% → 96%, LUSS 3/36 (CLUE: nhẹ, ở nhà theo dõi sát); chưa có yếu tố nguy cơ nặng",
+     "Tự dùng paracetamol gần 4 g/ngày × 5 ngày và thuốc nam không rõ; mất ngủ 3 tuần",
+     "Đã loại trừ: cúm mùa, viêm phổi vi khuẩn (chưa có xét nghiệm nên theo dõi mốc)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hỏi riêng từng loại thuốc, riêng thuốc nam, riêng Mai mới ra tiếp xúc ca dương tính và 4 g paracetamol mỗi ngày. Khởi phát sốt, đau họng, đau mỏi, ho khan, mất khứu giác, vị giác đúng mô tả (QĐ 2671/2023 mục 3.1, tr. 19); ngày 4–5 trở đi là giai đoạn toàn phát (mục 3.2): chị hụt hơi khi khiêng nước nhưng cho là 'thiếu ngủ'.",
+     "Khám: phổi sạch, SpO₂ 97% nghỉ, 96% khi đi bộ, thở 18 l/p, LUSS 3: mức nhẹ, chưa có cảnh báo của Bảng 4 (QĐ 2671/2023 tr. 33). Khoảng 5–10% giảm oxy máu thầm lặng, không khó thở nhưng SpO₂ giảm rất dễ bị bỏ qua (mục 3.2.1, tr. 19).",
+     "Không xét nghiệm: ghi nhận từ chối là một phần hồ sơ; ca nghi ngờ vẫn chăm sóc theo đường COVID-19 (WHO 2023 mục 3.2, tr. 18). Đừng gắn nhãn 'mất ngủ, tiền mãn kinh' (WHO 2023 mục 3.15, tr. 94). Loại cúm: tiếp xúc ca COVID-19, mất khứu giác (QĐ 1840/2025 mục II.1.1); loại viêm phổi vi khuẩn: ho khan, không ran, siêu âm không đông đặc (QĐ 2147/2026 mục 3.1.1, 3.1.5)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: điều trị tại nhà, tái khám có mốc (QĐ 2671/2023 Bảng 4, tr. 32; WHO 2023 mục 3.6). Không truyền dịch, kháng sinh, corticoid, kháng virus (lý do ở xu_tri).",
+     "Paracetamol: ghi cả hai mức tối đa (QĐ 4235/2012: 4 viên 0,5 g mỗi ngày; QĐ 361/2014: 4 g/24 giờ), chọn mức thận trọng vì đã dùng gần 4 g trong 5 ngày. Tôn trọng từ chối: giải thích một lần, ghi nhận, giữ cửa mở; trả lời nỗi sợ đóng tiệm bằng thông tin cách ly (QĐ 2671 mục 7.1; WHO 2023 mục 3.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1 viên mỗi lần khi > 38,5 °C; tổng mọi nguồn không quá 4 viên/ngày (QĐ 4235/2012) hoặc 4 g/24 giờ (QĐ 361/2014); mức thận trọng hơn là 4 viên",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt cao; cách nhau 6–8 giờ",
+      "so_ngay": "Đến khi hết sốt",
+      "ghi_chu": "QĐ 4235/2012 (TL-0131) mục 3.4; QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.1, tr. 202. Ngừng thuốc cảm viên chứa paracetamol. QĐ 2671/2023 không nêu liều paracetamol."
+     },
+     {
+      "thuoc": "Nước uống",
+      "ham_luong": "Nước lọc, nước trái cây loãng",
+      "lieu": "Uống đủ; lượng cụ thể: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Cả ngày",
+      "so_ngay": "Đến khi hết sốt",
+      "ghi_chu": "WHO 2023 mục 3.6, tr. 36 (bù nước phù hợp); không truyền dịch."
+     }
+    ],
+    "dan_do": [
+     "Chị nhiều khả năng bị COVID-19 thể nhẹ. Chị không đồng ý xét nghiệm, tôi tôn trọng và đã ghi vào hồ sơ; chị đổi ý lúc nào cũng được.",
+     "Ngừng thuốc nam và thuốc cảm viên; chỉ uống paracetamol khi sốt trên 38,5 °C, không quá 4 viên mỗi ngày; lần sau mang bã thuốc nam và vỏ thuốc.",
+     "Ở phòng riêng, đeo khẩu trang: ít nhất 5 ngày từ khi có triệu chứng và khẩu trang đến hết ngày 10, hoặc 10 ngày (QĐ 2671 mục 7.1; WHO 2023 mục 3.2). Nhờ Mai coi tiệm.",
+     "Quay lại ngay nếu thở nhanh, hụt hơi, đau ngực, chóng mặt, môi tím, lú lẫn, không uống được, kể cả khi chị 'không khó thở' (WHO 2023 mục 3.6, tr. 36). Hẹn tái khám sau 2 ngày. Mất ngủ: ngủ đúng giờ, tránh cà phê, thuốc lá, rượu (WHO 2023 mục 3.15, tr. 94)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · ngày bệnh thứ 7 (hẹn lại sau 2 ngày)",
+   "tiep_don": "Chị Chi tái khám đúng hẹn, ngày bệnh thứ 7, đã bỏ thuốc nam và thuốc cảm viên, chỉ uống paracetamol theo dặn; tiệm do Mai coi nhưng sáng nay chị ra phụ nhập hàng. Chị nói 'mệt hơn, tim đập mạnh, ngủ càng không được', lại xin truyền dịch. Sinh hiệu: nhiệt độ 38,3 °C (uống paracetamol cách đây 5 giờ), mạch 104 l/p, HA 122/78 mmHg, nhịp thở 21 l/p, SpO₂ 96% khí trời, cân nặng 68 kg.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho chị Chi về khi SpO₂ đã tụt 94% lúc đi bộ rồi mới hồi phục, sốt tái phát ngày 7, thở và mạch cùng tăng, trong lúc chị không thấy khó thở, là bỏ qua dấu hiệu cảnh báo mức nhẹ (QĐ 2671/2023 Bảng 4, tr. 33; giảm oxy máu thầm lặng ở 5–10% người bệnh, mục 3.2.1, tr. 19). Chị về tiệm, không ai đo lại SpO₂, chỉ đi khi đã thở nhanh, mệt lả, mất những giờ quý.",
+    "chuyen_tuyen": "Đưa chị Chi đi ngay khi chị chưa được giải thích và vẫn từ chối xét nghiệm dễ khiến chị bỏ về giữa đường vì sợ 'bị cách ly, đóng tiệm'. QĐ 2671/2023 Bảng 4 cho phép chuyển khi có cảnh báo, WHO 2023 mục 3.6 (Remark 2, tr. 36) cho quyết định theo ca; lưu theo dõi có mốc chuyển vừa thuyết phục chị vừa có số liệu bàn giao.",
+    "nhap_vien": "Nhập viện ngay tại phòng khám không làm được vì không có giường nội trú, chị cũng chưa đồng ý rời tiệm; ép ở lại không có mốc thì chị tự bỏ về và mất cả theo dõi (QĐ 2671/2023 Bảng 4, tr. 32)."
+   },
+   "loi_mo": "Bác sĩ ơi, hôm nay tui mệt hơn. Tim đập thình thịch, ngủ càng không được. Truyền cho tui chai nước biển đi bác sĩ, truyền xong tui khỏe là tui về mở tiệm liền.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "122/78",
+    "nhiet": "38,3",
+    "nhip_tho": 21,
+    "spo2": 96,
+    "canh_bao": [
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn; mệt hơn, hồi hộp, ngủ càng khó; xin truyền dịch cho khỏe rồi về mở tiệm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, mong muốn (truyền dịch)"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Ngày 6 hết sốt buổi sáng rồi sốt lại 38,4 °C từ tối qua; ho nhiều hơn, ít đờm trắng; ăn được nửa chén cơm; tiêu lỏng 1 lần hôm qua. Không đau ngực, không khó thở theo chị. Sáng nay bê thùng nước khoảng 15 phút phụ Mai, phải ngồi nghỉ, chị cho là 'tại thiếu ngủ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt tái phát ngày 7, ho tăng, hụt hơi khi gắng sức bị gán cho thiếu ngủ"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ hôm khám trước: bỏ thuốc nam, bỏ thuốc cảm viên; uống paracetamol 500 mg 1 viên khi nóng, hôm qua 4 viên, hôm nay 2 viên (lần cuối cách đây 5 giờ). Uống nước khoảng 1 lít mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ dặn dò, tổng liều paracetamol"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Vẫn không đồng ý ngoáy mũi họng và rút máu 'để về nhà khỏe lại thì thôi'; đồng ý siêu âm phổi và điện tim vì 'không đau, rẻ'. Sẽ chấp nhận ở lại phòng lưu 2–3 giờ nếu được giải thích rõ lý do và mốc thời gian.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: giới hạn chị chấp nhận, điều kiện ở lại theo dõi"
+    },
+    {
+     "id": "mai",
+     "noi_dung": "(Mai kể riêng) Ở nhà ban đêm mạ thở 'nhanh nhanh', nói vài câu là ngừng lấy hơi; sáng nay leo cầu thang lên gác phải bám tay vịn; tối qua mạ nói 'tim đập hơi mạnh'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng Mai về cách mẹ thở ở nhà, ban đêm, khi leo cầu thang.",
+     "k": 1,
+     "y": "Thở nhanh, hụt hơi gắng sức mà chị không tự thấy khó thở (người nhà quan sát)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, AMT 10/10, nói câu dài phải ngừng lấy hơi một lần. Môi khô, nếp véo da mất chậm. Không tím. Mệt hơn lượt 1.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 21 l/p, thở nông, không co kéo. Rung thanh, gõ bình thường. Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 21 l/p, thở nông, không co kéo. Rung thanh, gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 104 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Đi hành lang 3 phút (khoảng 80 m) có điều dưỡng đi cùng, chị không xin dừng, nói 'không mệt, chỉ hồi hộp'. SpO₂ 96% → 94% ở phút thứ 3, nhịp thở 26 l/p, mạch 118 l/p; ngồi nghỉ 2 phút SpO₂ về 96%, thở 21 l/p.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "e",
+     "r": "(Chị Chi không đồng ý ngoáy mũi họng: sợ kết quả dương tính phải đóng tiệm. Đã ghi nhận từ chối.)",
+     "n": "Ghi nhận từ chối lần hai (QĐ 2671/2023 mục 2.2b; WHO 2023 mục 3.23, tr. 127). Bệnh viện làm khi chuyển."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "(Chị Chi không đồng ý rút máu: 'tốn tiền, rút máu thêm yếu'. Đã ghi nhận từ chối.)",
+     "n": "Lympho < 1 G/L là cảnh báo (QĐ 2671/2023 Bảng 4, tr. 33); chị từ chối."
+    },
+    "crp": {
+     "v": "u",
+     "r": "(Chị Chi không đồng ý rút máu: 'tốn tiền, rút máu thêm yếu'. Đã ghi nhận từ chối.)",
+     "n": "CRP > 125 mg/L là cảnh báo (QĐ 2671/2023 Bảng 4, tr. 33); chị từ chối."
+    },
+    "sa_phoi": {
+     "v": "e",
+     "ab": 1,
+     "r": "Siêu âm phổi 12 vùng: sau dưới phải nhiều đường B tụm lại (LUSS 2); sau dưới trái, bên dưới phải và bên dưới trái màng phổi dày không đều, > 2 đường B rời rạc (LUSS 1 mỗi vùng); vùng còn lại đường A. Không đông đặc, không tràn dịch. Tổng LUSS 5/36.",
+     "n": "Tăng so với lượt 1 (3/36). CLUE (QĐ 2671/2023 tr. 27): 1–5 là mức nhẹ, ở nhà theo dõi sát; đã ở mốc cao của mức nhẹ. Nhiều đường B hơn là diễn biến xấu đi (mục 4.7.1, tr. 25–26)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp nhanh xoang 104 l/p, trục trung gian, không ST chênh, không loạn nhịp.",
+     "n": "Hồi hộp cần loại biến chứng tim (QĐ 2671/2023 mục 3.2.2, tr. 19–20); không làm chậm quyết định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 – ca bệnh nghi ngờ (từ chối xét nghiệm), mức nhẹ có dấu hiệu cảnh báo (SpO₂ thoáng 94% khi đi bộ, chị không khó thở), ngày 7, xấu hơn lượt 1 (sốt tái phát, thở 18 → 21, mạch 92 → 104, LUSS 3 → 5); mất nước nhẹ",
+     "ok": 1,
+     "n": "Mức nhẹ: SpO₂ ≥ 96% lúc nghỉ, thở 12–21 l/p; cảnh báo: SpO₂ có lúc < 96% sau đó hồi phục (QĐ 2671/2023 Bảng 4, tr. 32–33). Giảm oxy máu thầm lặng 5–10% (mục 3.2.1, tr. 19); giai đoạn toàn phát sau 4–5 ngày (mục 3.2). Mất nước: môi khô, véo da (mục 8.1.1, tr. 75)."
+    },
+    {
+     "t": "Mất ngủ, lo âu, tiền mãn kinh làm tim nhanh, mệt",
+     "n": "Vỏ lành tính, không giải thích được sốt, SpO₂, thở nhanh, B-line; xử trí nguyên nhân thực thể trước khi dùng thuốc ngủ (WHO 2023 mục 3.15, tr. 94)."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Sốt tái phát ngày 7, quá thời gian sốt 3–5 ngày của cúm (QĐ 1840/2025 mục II.1.1); mất khứu giác, vị giác, tiếp xúc ca COVID-19 (QĐ 2671 mục 3.1)."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn",
+     "n": "Chưa nghĩ: ho khan, không ran, không đông đặc trên siêu âm (QĐ 2147/2026 mục 3.1.1, 3.1.5); chưa loại hẳn vì chưa có công thức máu, CRP (mục 3.1.2); CRB-65 = 0 (mục 3.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Lưu chị tại phòng lưu 2–3 giờ, đo SpO₂, thở, mạch mỗi 30 phút, siêu âm phổi lặp lại; đặt mốc chuyển bệnh viện huyện (SpO₂ nghỉ < 96%, hoặc thở ≥ 22 l/p, hoặc SpO₂ khi đi bộ < 94%), gọi báo trước, chuẩn bị xe có oxy; hoặc chuyển ngay bệnh viện huyện",
+     "v": "c",
+     "n": "Cách A (QĐ 2671/2023 Bảng 4, tr. 32–33): mức nhẹ có cảnh báo cần chuyển nơi điều trị; mức trung bình (SpO₂ 94–96%, thở 22–30 l/p) ở phòng theo dõi sát của bệnh viện. Cách B (WHO 2023 mục 3.6 Remark 2, tr. 36; mục 3.7, tr. 40): quyết định nơi theo dõi theo từng ca, cần theo dõi sát và cơ chế leo thang; NICE NG237 khuyến cáo 1.3.2. Khác nhau vì BYT đặt mốc chuyển theo bảng, WHO để cơ sở tự quyết. Thời gian lưu 2–3 giờ do người soạn chọn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không truyền dịch theo yêu cầu: uống nước từng ngụm, theo dõi nước tiểu; chỉ đặt đường truyền khi huyết áp tụt hoặc không uống được",
+     "v": "c",
+     "n": "WHO 2023 mục 3.6 (tr. 36): bù nước phù hợp; mục 3.8 (tr. 45): thận trọng với dịch truyền ở COVID-19 không giảm tưới máu, có thể xấu oxy; QĐ 2671/2023 mục 8.1.1 (tr. 75): đánh giá mất nước bằng khát, môi khô, véo da."
+    },
+    {
+     "t": "Nói chuyện riêng với chị và Mai: vì sao phải lưu (SpO₂ tụt khi đi bộ dù chị không khó thở), lưu 2–3 giờ, nếu xấu thì chuyển; ghi nhận chị tiếp tục từ chối ngoáy mũi và rút máu",
+     "v": "c",
+     "n": "WHO 2023 mục 3.23 (tr. 127): cùng quyết định, giải thích lựa chọn và giới hạn; mục 3.2 (tr. 18): ca có thể nếu không xét nghiệm."
+    },
+    {
+     "t": "Paracetamol 0,5 g khi > 38,5 °C, tổng mọi nguồn không quá 4 viên/ngày (QĐ 4235/2012) hoặc 4 g/24 giờ (QĐ 361/2014); hiện 38,3 °C chưa cần",
+     "v": "c",
+     "n": "QĐ 4235/2012 (TL-0131) mục 3.4; QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.1, tr. 202. Hôm qua 4 viên, hôm nay 2 viên."
+    },
+    {
+     "t": "Không kê kháng sinh, corticoid, thuốc ngủ, nirmatrelvir/ritonavir hoặc molnupiravir; tư vấn vệ sinh giấc ngủ",
+     "v": "c",
+     "n": "Mức nhẹ không kháng sinh (QĐ 2671/2023 mục 6.8.1a), không corticoid (mục 6.6.1a); kháng virus uống chỉ trong 5 ngày từ khởi phát, chị đã ngày 7 (Bảng 7, tr. 37–38); thuốc ngủ: xử trí nguyên nhân trước (WHO 2023 mục 3.15, tr. 94)."
+    },
+    {
+     "t": "Cho về hẹn tái khám sau 2 ngày vì SpO₂ nghỉ 96%",
+     "v": "w",
+     "n": "Bỏ qua dấu hiệu cảnh báo của Bảng 4 (SpO₂ thoáng 94% khi đi bộ, sốt tái phát; QĐ 2671/2023 tr. 33)."
+    },
+    {
+     "t": "Truyền dịch theo yêu cầu rồi cho về; hoặc kê thuốc ngủ, tiêm kháng sinh hay dexamethason 'cho chắc'",
+     "v": "w",
+     "n": "Dịch truyền: không chỉ định, thận trọng (WHO 2023 mục 3.8, tr. 45). Kháng sinh: không có bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1). Corticoid: không dùng ở mức nhẹ (mục 6.6.1a). Thuốc ngủ: WHO 2023 mục 3.15."
+    },
+    {
+     "t": "Tăng paracetamol vượt 4 g/ngày hoặc dùng lại thuốc cảm có paracetamol để hạ sốt",
+     "v": "h",
+     "n": "Vượt mức tối đa, hại gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1, tr. 202)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 – ca bệnh nghi ngờ (chị từ chối xét nghiệm), ngày bệnh thứ 7; ICD-10 U07.2",
+     "Mức nhẹ có dấu hiệu cảnh báo: SpO₂ 96% nghỉ, 94% ở phút thứ 3 khi đi bộ rồi hồi phục, không khó thở (Bảng 4, tr. 33)",
+     "Xấu hơn lượt 1: sốt tái phát 38,3 °C, thở 18 → 21, mạch 92 → 104, LUSS 3 → 5/36; mất nước nhẹ; mất ngủ nặng hơn, tim nhanh xoang",
+     "Chưa loại trừ viêm phổi vi khuẩn, cúm vì chưa xét nghiệm: theo dõi mốc"
+    ],
+    "phan_tich_chan_doan": [
+     "Điều lẽ ra phải khiến bác sĩ dừng lại: ba con số cùng một hướng trong 2 ngày (thở 18 → 21, mạch 92 → 104, LUSS 3 → 5) và SpO₂ thoáng 94% khi đi bộ, trong khi chị nói 'không khó thở, chỉ thiếu ngủ'. Giảm oxy máu thầm lặng là có thật (QĐ 2671/2023 mục 3.2.1, tr. 19: khoảng 5–10%).",
+     "Mai kể riêng: mạ thở nhanh, nói vài câu ngừng lấy hơi, leo cầu thang bám tay vịn; đây là dữ kiện khách quan chị giấu. Sốt tái phát ngày 7 quá 3–5 ngày sốt của cúm (QĐ 1840/2025 mục II.1.1), phù hợp giai đoạn toàn phát (QĐ 2671 mục 3.2).",
+     "Nghiệm pháp đi bộ chỉ làm khi SpO₂ nghỉ ≥ 96% và có người giám sát (WHO 2023 mục 3.17 Remark 2, tr. 98). Tụt < 96% rồi hồi phục là cảnh báo mức nhẹ (QĐ 2671 Bảng 4); WHO 2023 mục 3.22 (tr. 111) coi tụt ≥ 3–4% so với nền hoặc ≤ 94% là giảm oxy khi gắng sức (tả bối cảnh hậu COVID, dùng tham khảo)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: lưu theo dõi có mốc chuyển rõ, hoặc chuyển ngay (QĐ 2671/2023 Bảng 4, tr. 32–33 hoặc WHO 2023 mục 3.6 Remark 2, tr. 36, mục 3.7, tr. 40); cả hai đều đúng. Lưu theo dõi không phải 'chờ xem': mỗi 30 phút đo SpO₂, thở, mạch, siêu âm lặp lại, mốc chuyển viết ra trước.",
+     "Không truyền dịch: bù nước đường uống (WHO 2023 mục 3.6), dịch truyền thận trọng (mục 3.8, tr. 45). Tôn trọng từ chối, thuyết phục bằng thông tin chứ không bằng áp lực (mục 3.23, tr. 127). Không kháng sinh, corticoid, kháng virus uống (QĐ 2671/2023 mục 6.8.1a, 6.6.1a, Bảng 7)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1 viên mỗi lần khi > 38,5 °C; tổng mọi nguồn không quá 4 viên/ngày (QĐ 4235/2012) hoặc 4 g/24 giờ (QĐ 361/2014)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt cao; hiện 38,3 °C chưa cần",
+      "so_ngay": "Trong lúc lưu và đến khi hết sốt",
+      "ghi_chu": "QĐ 4235/2012 (TL-0131) mục 3.4; QĐ 361/2014 (TL-0286) Phụ lục mục 3.1, tr. 202. Hôm nay đã uống 2 viên; hôm qua 4 viên."
+     },
+     {
+      "thuoc": "Nước uống",
+      "ham_luong": "Nước lọc, nước trái cây loãng",
+      "lieu": "Từng ngụm nhỏ trong lúc lưu; lượng cụ thể: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Trong lúc lưu theo dõi",
+      "so_ngay": "Trong lúc lưu",
+      "ghi_chu": "WHO 2023 mục 3.6, tr. 36 (bù nước phù hợp)."
+     }
+    ],
+    "dan_do": [
+     "Chị Chi: oxy trong máu của chị tụt khi đi bộ dù chị không thấy khó thở, điều bệnh này hay làm (QĐ 2671/2023 mục 3.2.1). Chúng tôi giữ chị 2–3 giờ để đo lại; nếu số xấu đi thì đi bệnh viện huyện, có xe và oxy.",
+     "Mai ở bên mẹ, nhìn môi, đếm nhịp thở mỗi phút, báo điều dưỡng ngay nếu mạ nói ngắt quãng, tím môi, lơ mơ.",
+     "Không truyền dịch vì không có chỉ định; uống từng ngụm nước. Từ chối ngoáy mũi, rút máu đã ghi vào hồ sơ, đổi ý lúc nào cũng được. Cách ly như lượt 1; chị không ra nhập hàng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 3 giờ lưu theo dõi (chiều ngày bệnh thứ 7)",
+   "tiep_don": "Chị Chi nằm phòng lưu 3 giờ, nằm đầu cao, uống nước từng ngụm; Mai ngồi bên. Điều dưỡng đo lại thấy các chỉ số xấu đi. Chị nói 'tui không khó thở đâu, chỉ hồi hộp vì thiếu ngủ', xin 'một chai nước biển rồi về'. Sinh hiệu: nhiệt độ 38,0 °C, mạch 112 l/p, HA 124/80 mmHg, nhịp thở 26 l/p, SpO₂ 94% khí trời (ngồi nghỉ).",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho chị Chi về lúc SpO₂ nghỉ 94%, thở 26 l/p, mạch 112 mà chị vẫn chối 'không khó thở' là bỏ sót giảm oxy máu thầm lặng (QĐ 2671/2023 mục 3.2.1, tr. 19): SpO₂ 94–96% và thở 22–30 l/p đã là mức trung bình cần phòng theo dõi sát (Bảng 4, tr. 32). Ở nhà không có oxy, không máy đo, chị nặng lên trong đêm mà không ai biết.",
+    "theo_doi": "Giữ chị ở phòng lưu là chậm trễ: phòng khám không có phòng theo dõi sát kiểu bệnh viện, không remdesivir, không X-quang, chị lại từ chối xét nghiệm nên không có dữ liệu mới nào đổi quyết định (QĐ 2671/2023 Bảng 4, tr. 32; CLUE tr. 27: LUSS > 5–15 là nhập viện). Mỗi giờ chờ thêm là trễ oxy và thuốc đặc hiệu.",
+    "cap_cuu": "Gọi 115 cấp cứu là quá tay: chị còn tỉnh, huyết áp bình thường, SpO₂ 94%, không co kéo; mức nặng, nguy kịch mới cần hồi sức (QĐ 2671/2023 mục 5.2.3–5.2.4, tr. 31–32). Xe phòng khám có oxy chuyển được trong 30 phút; 115 làm chị hoảng, càng từ chối đi."
+   },
+   "loi_mo": "Bác sĩ ơi, tui có khó thở gì đâu, chỉ hồi hộp vì thiếu ngủ thôi. Cho tui chai nước biển rồi tui về. Tui không đi bệnh viện đâu, vô đó người ta nhốt tui lại.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "124/80",
+    "nhiet": "38,0",
+    "nhip_tho": 26,
+    "spo2": 94,
+    "canh_bao": [
+     "mach",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị không thấy khó thở, chỉ hồi hộp, mệt vì thiếu ngủ; muốn 'một chai nước biển rồi về', sợ bị đưa vào bệnh viện 'nhốt cách ly', mất tiền, đóng tiệm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do, mong muốn, nỗi sợ bệnh viện"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Trong phòng lưu chị uống khoảng 600 ml nước, ho từng cơn; hai lần dậy đi vệ sinh phải vịn tường; không đau ngực, không nôn; nước tiểu sẫm, 1 lần trong 5 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến trong phòng lưu, mất nước"
+    },
+    {
+     "id": "mai",
+     "noi_dung": "(Mai kể riêng) Mạ thở nhanh, mấy lần nói chưa hết câu phải dừng; mạ dặn 'đừng nói bác sĩ, chị không sao'; Mai sợ mạ giận nên chưa nói. Nếu bác sĩ khuyên rõ thì Mai sẽ đi cùng và lo tiệm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng Mai, hoặc hỏi Mai thấy mẹ lúc này khác lúc mới đến thế nào.",
+     "k": 1,
+     "y": "Người nhà quan sát thở nhanh, hụt hơi; sẵn sàng đi cùng"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Chị đồng ý đi bệnh viện huyện nếu biết rõ đi để làm gì, nằm bao lâu, tốn khoảng bao nhiêu, Mai được ở cạnh, và bác sĩ báo trước cho bên đó để khỏi 'bị nhốt phòng lạ'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ nói chuyện riêng, hỏi vì sao chị sợ bệnh viện, hoặc hỏi chị cần biết gì thì đồng ý đi.",
+     "k": 1,
+     "y": "Điều kiện chị chấp nhận chuyển tuyến; tôn trọng quyền tự quyết"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Vẫn không đồng ý ngoáy mũi, rút máu tại phòng khám; chấp nhận để bệnh viện huyện làm 'nếu bác sĩ ở trên nói cần'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm lần ba, ghi nhận và bàn giao"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, AMT 10/10 nhưng trả lời chậm, nói 4–5 từ rồi dừng lấy hơi. Môi khô, nếp véo da mất chậm. Không tím, không vã mồ hôi lạnh, không co kéo.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p, thở nông, không co kéo cơ hô hấp phụ. Rung thanh, gõ bình thường. Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 26 l/p, thở nông, không co kéo cơ hô hấp phụ. Rung thanh, gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 112 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Không nên làm: SpO₂ nghỉ đã 94% (< 96%), thở 26 l/p. Nghiệm pháp đi bộ không an toàn và không đổi quyết định.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "e",
+     "r": "(Chị Chi không đồng ý ngoáy mũi họng: sợ kết quả dương tính phải đóng tiệm. Đã ghi nhận từ chối.)",
+     "n": "Ghi nhận từ chối lần ba; bệnh viện làm kháng nguyên và RT-PCR (QĐ 2671/2023 mục 2.2, 4.8.1). Ca nghi ngờ vẫn chuyển theo đường COVID-19 (WHO 2023 mục 3.2, tr. 18)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "(Chị Chi không đồng ý rút máu: 'tốn tiền, rút máu thêm yếu'. Đã ghi nhận từ chối.)",
+     "n": "Làm ở bệnh viện (Bảng 4, tr. 33); không làm chậm chuyển."
+    },
+    "crp": {
+     "v": "u",
+     "r": "(Chị Chi không đồng ý rút máu: 'tốn tiền, rút máu thêm yếu'. Đã ghi nhận từ chối.)",
+     "n": "Làm ở bệnh viện (QĐ 2671/2023 Bảng 4, tr. 33)."
+    },
+    "sa_phoi": {
+     "v": "e",
+     "ab": 1,
+     "r": "Siêu âm phổi 12 vùng: sau dưới phải, sau dưới trái và bên dưới phải nhiều đường B tụm lại (LUSS 2 mỗi vùng); bên dưới trái, sau trên phải, sau trên trái màng phổi dày không đều, > 2 đường B rời rạc (LUSS 1 mỗi vùng). Không đông đặc lớn, không tràn dịch. Tổng LUSS 9/36.",
+     "n": "Tăng so với lượt 2 (5/36), đường B tụm lại là diễn biến xấu (QĐ 2671/2023 mục 4.7.1, tr. 25–26). CLUE (tr. 27): > 5–15, không dùng oxy: nhập viện."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 – ca bệnh nghi ngờ (từ chối xét nghiệm), mức trung bình (viêm phổi) với giảm oxy máu thầm lặng: SpO₂ 94% khí trời, thở 26 l/p, LUSS 9/36, ngày bệnh thứ 7; mất nước nhẹ; xấu hơn lượt 2",
+     "ok": 1,
+     "n": "Trung bình: thở 22–30 l/p, SpO₂ 94–96%, tim nhanh, huyết áp bình thường, tỉnh (QĐ 2671/2023 mục 5.2.2, tr. 31; Bảng 4, tr. 32); chưa suy hô hấp nặng (SpO₂ chưa < 94%, thở chưa > 30). Không thấy khó thở: mục 3.2.1, tr. 19. CLUE > 5–15: nhập viện (tr. 27). ICD-10 U07.2, xác định thì U07.1 (TT 06/2026, Phụ lục ICD-10)."
+    },
+    {
+     "t": "Hồi hộp, mệt do mất ngủ, lo âu, tiền mãn kinh",
+     "n": "Vỏ lành tính, không giải thích được sốt, SpO₂, thở nhanh, B-line; xử trí nguyên nhân thực thể trước khi dùng thuốc ngủ (WHO 2023 mục 3.15, tr. 94)."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn (bội nhiễm hoặc đồng nhiễm)",
+     "n": "Chưa có bằng chứng: ho khan, không ran, siêu âm không đông đặc lớn (QĐ 2147/2026 mục 3.1.1, 3.1.5); bệnh viện làm công thức máu, CRP (mục 3.1.2). Mức trung bình chỉ dùng kháng sinh khi có bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1b; WHO 2023 mục 3.7, tr. 40)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay bệnh viện đa khoa huyện bằng xe phòng khám có bình oxy, điều dưỡng đi kèm, Mai đi cùng; gọi báo trước bác sĩ nhận (SBAR)",
+     "v": "c",
+     "n": "Mức trung bình điều trị ở phòng theo dõi sát của bệnh viện (QĐ 2671/2023 mục 5.3, Bảng 4, tr. 32); CLUE > 5–15 không oxy: nhập viện (tr. 27). Tiêu chuẩn phương tiện, mẫu SBAR: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Oxy kính 2–5 l/phút trong lúc chuyển, nằm đầu cao hoặc nằm sấp nếu chịu được; mục tiêu SpO₂ 92–96%, hoặc > 90%, hoặc > 94% (94% thận trọng nhất)",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 6.3.2 (tr. 39): 2–5 l/phút, 92–96%; mục 8.1.3a (tr. 75): > 90%; mục 8.2.1.2 (tr. 77): > 94%; WHO 2023 mục 3.8: > 90%. Ngưỡng bắt đầu cho oxy ở người nghỉ SpO₂ 94–96%: không có trong tài liệu đã tải. Theo mục sổ 'Đích SpO₂ khi thở oxy ở người lớn COVID-19'."
+    },
+    {
+     "t": "Không truyền dịch nhanh theo yêu cầu: huyết áp bình thường, còn uống được; uống từng ngụm, hoặc đặt đường truyền ngoại vi để sẵn và truyền chậm khi cần",
+     "v": "c",
+     "n": "WHO 2023 mục 3.8 (tr. 45): thận trọng dịch truyền ở COVID-19 không giảm tưới máu. QĐ 2671/2023 mục 8.1.3b (tr. 76): đặt đường truyền Glucolyte 2 hoặc natri clorid 0,9% 500 ml truyền nhanh trong cấp cứu trước viện, tăng lên nếu huyết áp thấp; hai văn bản khác nhau về mức tích cực (xem mục sổ mâu thuẫn mới)."
+    },
+    {
+     "t": "Corticoid: chưa dùng ở mức trung bình trước chuyển; hoặc dexamethason 6 mg tiêm tĩnh mạch hoặc uống một liều trước chuyển",
+     "v": "c",
+     "n": "Cách A: QĐ 2671/2023 mục 6.6.1a, Bảng 6 (tr. 35–36, 45): mức nhẹ, trung bình không dùng, dexamethason 6–12 mg từ mức nặng. Cách B: mục 8.1.3c (tr. 76): dexamethason 6 mg tiêm tĩnh mạch hoặc uống, không phân mức. Theo mục sổ 'Corticoid trước viện cho người COVID-19 mức trung bình': hai cách đều đúng."
+    },
+    {
+     "t": "Không kê kháng sinh trước chuyển",
+     "v": "c",
+     "n": "Mức trung bình chỉ dùng khi có bằng chứng nhiễm khuẩn (QĐ 2671/2023 mục 6.8.1b, tr. 52; WHO 2023 mục 3.7, tr. 40)."
+    },
+    {
+     "t": "Nói riêng với chị Chi, tôn trọng quyết định: giải thích oxy máu thấp mà chị không cảm nhận; trả lời điều chị cần biết (đi để làm gì, nằm bao lâu, chi phí ước, Mai ở cạnh, đã báo trước); ghi nhận chị từ chối xét nghiệm và đề nghị bệnh viện làm",
+     "v": "c",
+     "n": "WHO 2023 mục 3.23 (tr. 127): tôn trọng, cùng quyết định, không bỏ rơi người bệnh. Chi phí: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phiếu chuyển và bàn giao đủ: diễn tiến ba lượt (SpO₂ nghỉ 97% → 96% → 94%; thở 18 → 21 → 26; LUSS 3 → 5 → 9), paracetamol gần 4 g/ngày × 5 ngày, thuốc nam (mang bã thuốc), Mai dương tính, chị từ chối ngoáy mũi, rút máu; đề nghị test SARS-CoV-2 và cúm, công thức máu, CRP, men gan, creatinin, X-quang",
+     "v": "c",
+     "n": "TT 01/2025/TT-BYT (TL-0003) Điều 12, Phụ lục VI (mẫu phiếu chuyển; giá trị 10 ngày làm việc). Men gan: ngưng remdesivir nếu ALT > 5 lần giới hạn trên; creatinin: nirmatrelvir/ritonavir theo eGFR (QĐ 2671 Bảng 7, tr. 37–38)."
+    },
+    {
+     "t": "Truyền chai nước biển rồi cho về, hoặc để chị tự quyết định về nhà",
+     "v": "h",
+     "n": "Bỏ sót giảm oxy máu thầm lặng ở mức trung bình (QĐ 2671/2023 Bảng 4, tr. 32; mục 3.2.1); dịch truyền nhiều có thể xấu oxy (WHO 2023 mục 3.8, tr. 45). Khẩu trang cho chị và Mai, chờ xe ở phòng riêng; cách ly 5 ngày và khẩu trang đến hết ngày 10, hoặc 10 ngày (QĐ 2671 mục 7.1; WHO 2023 mục 3.2)."
+    },
+    {
+     "t": "Tiêm kháng sinh 'cho chắc', hoặc kê nirmatrelvir/ritonavir, molnupiravir ngay tại phòng khám",
+     "v": "w",
+     "n": "Không bằng chứng nhiễm khuẩn (QĐ 2671/2023 mục 6.8.1b). Ngày 7 quá 5 ngày từ khởi phát, chưa biết eGFR, men gan, thuốc nam có thể tương tác CYP3A4 (Bảng 7)."
+    },
+    {
+     "t": "Giữ lại phòng lưu thêm vài giờ để 'xem tiếp' hoặc lặp lại nghiệm pháp đi bộ",
+     "v": "w",
+     "n": "Không làm nghiệm pháp đi bộ khi SpO₂ nghỉ < 96% (WHO 2023 mục 3.17 Remark 2, tr. 98); đã đủ tiêu chuẩn chuyển (QĐ 2671/2023 Bảng 4, tr. 32)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 – ca bệnh nghi ngờ (chị từ chối xét nghiệm), ngày bệnh thứ 7; ICD-10 U07.2, xác định thì U07.1",
+     "Mức trung bình (viêm phổi): SpO₂ 94% khí trời, thở 26 l/p, mạch 112; giảm oxy máu thầm lặng; LUSS 9/36",
+     "Xấu dần trong ngày: SpO₂ 97% → 96% → 94%, thở 18 → 21 → 26, mạch 92 → 104 → 112; mất nước nhẹ, chưa sốc",
+     "Tự dùng paracetamol gần 4 g/ngày × 5 ngày và thuốc nam không rõ; mất ngủ kéo dài; đã loại trừ ở mức có thể: cúm mùa, viêm phổi vi khuẩn (bệnh viện xác nhận)"
+    ],
+    "phan_tich_chan_doan": [
+     "Dấu hiệu lẽ ra phải khiến bác sĩ dừng lại: lượt 1 'hụt hơi khi khiêng nước' bị gán cho thiếu ngủ; lượt 2 SpO₂ thoáng 94% khi đi bộ mà không khó thở; lượt 3 nghỉ SpO₂ 94%, thở 26. Ba con số cùng một hướng; lời 'tui không khó thở' chính là triệu chứng của bệnh (QĐ 2671/2023 mục 3.2.1, tr. 19).",
+     "Phân độ: thở 22–30 l/p, tim nhanh, SpO₂ 94–96%, tỉnh, chưa suy hô hấp nặng: mức trung bình (QĐ 2671 mục 5.2.2, Bảng 4). WHO 2023 mục 3.1 (tr. 17): nặng khi SpO₂ < 90%, nhưng 90–94% ở người đang xấu đi là dấu sớm của bệnh nặng; cùng hướng thận trọng. CLUE: LUSS 9 là mức trung bình, nhập viện (tr. 27).",
+     "Hồi hộp, mất ngủ không còn là 'tiền mãn kinh' khi sốt, thở nhanh, mạch nhanh, B-line tăng (WHO 2023 mục 3.15, tr. 94). Không xét nghiệm vẫn đủ dữ kiện: dịch tễ và ≥ 3 triệu chứng (QĐ 2671 mục 2.1a)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: chuyển bệnh viện huyện ngay (QĐ 2671/2023 Bảng 4, tr. 32; CLUE tr. 27). Trước chuyển không làm chậm: oxy kính 2–5 l/phút, khẩu trang, gọi báo trước, thu vỏ thuốc và bã thuốc nam. Không truyền dịch nhanh; không kháng sinh (mục 6.8.1b); corticoid: không dùng hoặc dexamethason 6 mg (mục 6.6.1a, Bảng 6 hoặc 8.1.3c), hai cách đều đúng; kháng virus uống quá 5 ngày (Bảng 7).",
+     "Thuyết phục bằng đối thoại riêng, không dọa. Nếu chị vẫn từ chối chuyển: ghi nhận từ chối, dặn dấu hiệu nặng, giữ cửa mở (WHO 2023 mục 3.23: không bỏ rơi); mẫu văn bản từ chối: không có trong tài liệu đã tải. Bàn giao bằng phiếu chuyển (TT 01/2025 Phụ lục VI) và điện thoại theo SBAR: 51 tuổi nghi COVID-19 mức trung bình, SpO₂ 94%, thở 26; ngày 7, Mai dương tính, paracetamol ~4 g/ngày, thuốc nam, từ chối xét nghiệm, LUSS 9; xấu dần trong ngày; đề nghị khu COVID-19, xét nghiệm, X-quang, remdesivir."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy",
+      "ham_luong": "Bình oxy trên xe phòng khám",
+      "lieu": "2–5 l/phút",
+      "duong": "Thở qua kính",
+      "thoi_diem": "Từ lúc lên xe; nằm đầu cao hoặc nằm sấp nếu chịu được",
+      "so_ngay": "Theo SpO₂ đến khi vào bệnh viện",
+      "ghi_chu": "QĐ 2671/2023 mục 6.3.2, 8.1.3a, 8.2.1.2; WHO 2023 mục 3.8. Ngưỡng bắt đầu cho oxy khi nghỉ SpO₂ 94–96%: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1 viên mỗi lần khi > 38,5 °C (hiện 38,0 °C chưa cần; hôm nay đã uống 3 viên); tổng không quá 4 viên/ngày (QĐ 4235/2012) hoặc 4 g/24 giờ (QĐ 361/2014)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt cao, cách nhau 6–8 giờ",
+      "so_ngay": "Trong lúc chuyển và nằm viện; bệnh viện chỉ định tiếp",
+      "ghi_chu": "QĐ 4235/2012 (TL-0131) mục 3.4; QĐ 361/2014 (TL-0286) Phụ lục mục 3.1, tr. 202 (chống chỉ định khi tăng men gan; chưa biết men gan của chị)."
+     },
+     {
+      "thuoc": "Dexamethason (không bắt buộc trước chuyển)",
+      "ham_luong": "6 mg",
+      "lieu": "6 mg một lần",
+      "duong": "Tiêm tĩnh mạch hoặc uống",
+      "thoi_diem": "Chỉ nếu theo mục 8.1.3c; theo Bảng 6 thì chưa dùng ở mức trung bình",
+      "so_ngay": "Một liều; bệnh viện quyết phác đồ (mục 6.6.1b)",
+      "ghi_chu": "QĐ 2671/2023 mục 8.1.3c (tr. 76) và 6.6.1a, Bảng 6 (tr. 35–36, 45): hai cách, theo mục sổ có sẵn."
+     }
+    ],
+    "dan_do": [
+     "Chị Chi: oxy trong máu của chị đang thấp (94%) và chị thở nhanh dù không thấy khó thở; bệnh này hay gây như vậy (QĐ 2671/2023 mục 3.2.1). Chị cần nằm bệnh viện huyện hôm nay để có oxy, theo dõi và thuốc; chúng tôi đã báo trước, Mai đi cùng.",
+     "Chị không đồng ý ngoáy mũi, rút máu ở đây: đã ghi vào hồ sơ và đề nghị bệnh viện làm; chị có quyền hỏi, đổi ý bất cứ lúc nào (WHO 2023 mục 3.23, tr. 127).",
+     "Mang vỏ thuốc cảm, bã thuốc nam và phiếu chuyển (TT 01/2025 Phụ lục VI). Không tự uống thêm paracetamol hay thuốc cảm trên đường đi. Mai: khẩu trang, ngồi cạnh mẹ, báo ngay nếu mẹ lơ mơ, tím môi, thở rất nhanh; đóng tiệm trong lúc cách ly (QĐ 2671 mục 7.1; WHO 2023 mục 3.2). Chi phí, bảo hiểm: hỏi bệnh viện, không có trong tài liệu đã tải.",
+     "Sau khi khỏi có thể mệt kéo dài (QĐ 2671 mục 3.3, tr. 22); mất ngủ: ngủ đúng giờ, tránh cà phê, thuốc lá, rượu, không tự mua thuốc nam hoặc thuốc ngủ không rõ (WHO 2023 mục 3.15, tr. 94)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Chi đồng ý chuyển sau khi bác sĩ nói riêng về nỗi sợ đóng tiệm, tốn tiền, 'bị nhốt', hứa Mai đi cùng và báo trước. Xe phòng khám có bình oxy, điều dưỡng đi kèm, 30 phút tới bệnh viện đa khoa huyện đã được báo trước; oxy kính 2 l/phút, SpO₂ lên 96%. Tại bệnh viện: kháng nguyên và RT-PCR SARS-CoV-2 dương tính, cúm A/B âm tính: COVID-19 xác định (QĐ 2671/2023 mục 2.2), U07.1. X-quang: kính mờ ngoại vi hai đáy, dưới 50% (mục 5.2.2b). Lympho 0,9 G/L, CRP 58 mg/L, procalcitonin 0,07 ng/mL: không kháng sinh (mục 6.8.1b). AST 74, ALT 92 U/L tăng nhẹ (paracetamol gần 4 g/ngày, thuốc nam, hoặc COVID-19; mục 3.2.6). Oxy 3 lít/phút, remdesivir 5 ngày kèm theo dõi ALT (Bảng 7), chống đông liều dự phòng (mục 6.7.1b), không corticoid (mục 6.6.1a), ngừng thuốc nam. Ngày 4 cai oxy, ra viện ngày bệnh thứ 12, còn mệt (mục 3.3). Số liệu tuyến trên là minh họa. Điều cứu chị là ba lần đo cùng một hướng và chuyển khi chị còn tỉnh, chứ không phải lời chị nói 'không khó thở'.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: paracetamol rời cộng thuốc cảm viên, tổng gần 4 g/ngày; hạ sốt làm nhiệt độ lúc khám thấp (37,8 °C), che sốt tái phát (QĐ 361/2014 Phụ lục mục 3.1: không quá 4 g/24 giờ, hại gan).",
+  "Thuốc nam không rõ thành phần, chỉ kể khi hỏi riêng; là lý do không kê nirmatrelvir/ritonavir (QĐ 2671/2023 Bảng 7: tương tác CYP3A4).",
+  "Mất ngủ 3 tuần, 'tuổi tiền mãn kinh': giải thích hồi hộp, mệt, hụt hơi bằng lý do lành tính, che giảm oxy máu thầm lặng (QĐ 2671 mục 3.2.1).",
+  "Muốn truyền dịch; từ chối ngoáy mũi, rút máu vì sợ đóng tiệm; giấu con gái dương tính, Mai chỉ kể khi hỏi riêng."
+ ],
+ "bai_hoc_bien": [
+  "Cơ đỏ ngụy trang: vỏ 'thiếu ngủ, tiền mãn kinh, hồi hộp' che giảm oxy máu thầm lặng. Lẽ ra phải dừng ở ba con số cùng một hướng (thở 18 → 21 → 26, mạch 92 → 104 → 112, SpO₂ 97% → 96% → 94%) và SpO₂ thoáng 94% khi đi bộ lượt 2, dù chị luôn nói 'không khó thở' (QĐ 2671/2023 mục 3.2.1).",
+  "Bệnh nhân từ chối xét nghiệm: giải thích một lần, tôn trọng, ghi nhận vào hồ sơ, chuyển sang phương án B (định nghĩa ca nghi ngờ, SpO₂, nghiệm pháp đi bộ, siêu âm phổi), bàn giao xét nghiệm cho tuyến trên (QĐ 2671 mục 2.1a; WHO 2023 mục 3.2, 3.23).",
+  "Tự uống thuốc trước 5 ngày: hỏi từng loại, từng liều, riêng thuốc nam và riêng người nhà; cộng dồn paracetamol; mang bã thuốc, vỏ thuốc khi chuyển. Muốn truyền dịch: hỏi 'chị lo điều gì nhất?'; nỗi sợ thật là đóng tiệm, bị nhốt, tốn tiền; trả lời bằng thông tin cách ly và mốc chuyển, không bằng truyền dịch.",
+  "Chuyển tuyến kịp thời: viết mốc chuyển trước khi lưu theo dõi, đo lặp mỗi 30 phút, chuyển khi chạm mốc dù bệnh nhân còn tỉnh; không làm nghiệm pháp đi bộ khi SpO₂ nghỉ < 96% (WHO 2023 mục 3.17 Remark 2, tr. 98); báo trước, mang đủ phiếu chuyển (TT 01/2025 Phụ lục VI)."
+ ],
+ "diem_nho": [
+  "Ca nghi ngờ COVID-19: yếu tố dịch tễ và ≥ 3 triệu chứng; xác định bằng RT-PCR hoặc triệu chứng cộng kháng nguyên dương (QĐ 2671/2023 mục 2.1–2.2).",
+  "Phân độ (QĐ 2671 mục 5.2, Bảng 4): nhẹ – SpO₂ ≥ 96%, thở 12–21 l/p; trung bình – SpO₂ 94–96%, thở 22–30 l/p; nặng – SpO₂ < 94%, thở > 30 l/p. Cảnh báo ở mức nhẹ: SpO₂ có lúc < 96% rồi hồi phục; SpO₂ < 96% và khó thở khi vận động; sốt cao liên tục không giảm với paracetamol; có yếu tố nguy cơ (Bảng 5).",
+  "CLUE (QĐ 2671 tr. 27): LUSS 12 vùng 0 ở nhà; 1–5 nhẹ ở nhà theo dõi sát; > 5–15 trung bình nhập viện; > 15 nặng ICU.",
+  "Paracetamol: 0,5 g/lần khi > 38,5 °C, không quá 4 viên/ngày (QĐ 4235/2012 mục 3.4) hoặc không quá 4 g/24 giờ, chống chỉ định khi tăng men gan (QĐ 361/2014 Phụ lục mục 3.1)."
+ ],
+ "nguon": [
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 – COVID-19 – mục I, 2.1–2.2 (tr. 18), 3.1–3.3 (tr. 19–22), 4.7.1, Bảng 1, CLUE (tr. 25–27), 4.8 (tr. 28–29), 5.2 (tr. 31), Bảng 4–7 (tr. 32–38), 6.3 (tr. 39), 6.6.1 (tr. 45), 6.7.1 (tr. 47), 6.8 (tr. 52–53), 7.1 (tr. 74), 8.1 (tr. 75–76), 8.2.1.2 (tr. 77)",
+  "TL-0135 · WHO 2023 – Clinical management of COVID-19: living guideline, 18/08/2023 – mục 3.1 (tr. 17), 3.2 (tr. 18), 3.6 (tr. 36), 3.7 (tr. 37–40), 3.8 (tr. 41, 45), 3.15 (tr. 94), 3.17 (tr. 98), 3.22 (tr. 111), 3.23 (tr. 127)",
+  "TL-0146 · NICE NG237 2024 – khuyến cáo 1.1.2; TL-0163 · NEJM 2024;390:1186 – EPIC-SR; TL-0003 · TT 01/2025/TT-BYT – Điều 12, Phụ lục VI; TL-0001 · TT 06/2026/TT-BYT – ICD-10, U07.1, U07.2",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – mục 3.1.1, 3.1.2, 3.1.5, 3.2.1; TL-0122 · QĐ 1840/QĐ-BYT 2025 – mục II.1.1, II.2.4, III.2.2",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Viêm phổi bệnh viện mục 3.4; TL-0286 · QĐ 361/QĐ-BYT 2014 – Phụ lục thuốc giảm đau mục 3.1 (tr. 202)",
+  "Không có trong tài liệu đã tải: độc tính, tương tác của thuốc nam không rõ; lượng nước uống; ngưỡng bắt đầu cho oxy ở người nghỉ SpO₂ 94–96%; ngày tái khám cho mức nhẹ; thời gian lưu theo dõi; tiêu chuẩn phương tiện, mẫu SBAR; mẫu văn bản từ chối; chi phí, bảo hiểm khi nằm viện"
+ ],
+ "ghi_chu_bien_tap": [
+  "12/10/2026 – viết: Claude (Sonnet). Cốt truyện mới, khác HH-1262 (nam 52 tuổi, SpO₂ nghỉ 95% tụt 89% khi đi bộ, chuyển ngay lượt 1) và HH-1287 (nữ 82 tuổi, trạm xã không có xét nghiệm).",
+  "Tài liệu đã đọc: TL-0124 (mục I, 2, 3, 4.7–4.8, 5, Bảng 4–7, 6.3, 6.6–6.8, 7.1, 8.1–8.2; đã xem ảnh trang PDF Bảng 4 và CLUE); TL-0135 (3.1, 3.2, 3.6–3.8, 3.15, 3.17, 3.22, 3.23); TL-0146; TL-0163; TL-0121 (3.1, 3.2.1); TL-0122; TL-0131 (3.4); TL-0286 (Phụ lục thuốc giảm đau); TL-0003 (Điều 12, Phụ lục VI); TL-0001 (U07).",
+  "Biến sổ cái đều có chỗ đứng: cơ đỏ ngụy trang (giảm oxy máu thầm lặng dưới vỏ mất ngủ, tiền mãn kinh); nặng hơn (lượt 3 cách lượt 2 chỉ 3 giờ trong phòng lưu); tự uống thuốc trước 5 ngày; từ chối ngoáy mũi, rút máu (chấp nhận siêu âm phổi, điện tim, SpO₂); buôn bán nhỏ; mất ngủ kéo dài; thuốc nam không rõ (giấu); muốn truyền dịch; chuyển tuyến kịp thời. khoa_cls khóa xquang, ct để dùng siêu âm phổi.",
+  "Ghi cả hai cách: corticoid trước viện, đích SpO₂, thời gian cách ly (theo mục sổ có sẵn); mới: paracetamol tối đa (QĐ 4235/2012 và QĐ 361/2014), lưu theo dõi hay chuyển ngay khi mức nhẹ có cảnh báo (QĐ 2671 Bảng 4 và WHO mục 3.6–3.7), dịch truyền trước viện (QĐ 2671 mục 8.1.3b và WHO mục 3.8). Xem HH-1269_mau_thuan.md.",
+  "Số liệu phụ do người soạn bổ sung: LUSS từng vùng, mạch, HA, nhiệt độ, xét nghiệm tuyến trên; diễn biến sau chuyển là minh họa. Chỗ thiếu nguồn ghi trong xu_tri, don_thuoc, nguon. Không đề xuất danh mục mới."
+ ]
+}

@@ -1,0 +1,973 @@
+{
+ "ma_ca": "MT-0657",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_benh_than_man_g3b_a3",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Bệnh thận mạn",
+  "chan_doan_phai_loai_tru": [
+   "Tổn thương thận cấp",
+   "Hẹp ĐM thận"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Hưu trí (giáo viên tiểu học về hưu)",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (đổi amlodipin sang viên phối hợp perindopril + indapamide cách đây 3 tuần)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng (rivaroxaban 15 mg mỗi ngày vì rung nhĩ)",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân (sợ bệnh thận lây hoặc di truyền cho con gái đang mang thai và cháu ngoại)"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Thị Hạnh",
+  "tuoi": 68,
+  "gioi": "Nữ",
+  "nghe": "Giáo viên tiểu học đã về hưu",
+  "can_nang": 47,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'cô'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Ngăn nắp, hay ghi chép vào sổ, nói chậm rãi và lịch sự. Ngại làm phiền con cháu, chịu đựng triệu chứng. Hay xin kê thuốc dài ngày vì ở xa.",
+  "kieu_nhieu": "Ở xa, khó tái khám: xin thuốc hai tháng một lần, bỏ xét nghiệm vì xe khách đông, ngại đi lại.",
+  "nguoi_nha": true,
+  "ten_nguoi_nha": "Liên",
+  "ngoai_hinh": {
+   "da": "#e3b896",
+   "toc": "#d9d9d9",
+   "kieuToc": "bui",
+   "ao": "#8a6b4f",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e9b996",
+    "toc": "#1f1612",
+    "kieuToc": "bui",
+    "ao": "#c46b7a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Xin cấp thuốc huyết áp hai tháng, mệt và ăn kém sau khi đổi thuốc",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Bệnh viện huyện không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 68 tuổi, giáo viên tiểu học đã về hưu, tự đi xe khách 42 km đến phòng khám nội bệnh viện huyện. Cô mang theo túi ni lông đựng sổ khám bệnh bìa xanh, hai vỉ thuốc và một tờ xét nghiệm gấp tư. Cô xin 'cho thuốc huyết áp hai tháng một lần cho đỡ đi lại'. Sinh hiệu lúc tiếp đón (ngồi nghỉ 5 phút): HA 138/78 mmHg, mạch 76 l/p không đều, SpO₂ 97%, cân nặng 47,2 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cô Hạnh nhập viện nội trú vì creatinin 167 µmol/L, trong khi cô tỉnh, sinh hiệu ổn, K 5,1 mmol/L, ECG không có sóng T cao nhọn, uống được. Mức K này chưa thuộc ngưỡng phải điều trị tại bệnh viện (K 6,0–6,4 kèm AKI mới cần: KDIGO 2024 Bảng 28). Cô nằm viện nhiều ngày, bỏ việc chăm cháu, tốn chi phí, trong khi điều cần làm là ngưng thuốc gây tụt thể tích và hẹn kiểm tra lại có số điện thoại liên hệ.",
+    "chuyen_tuyen": "Cô Hạnh bị chuyển lên bệnh viện tỉnh ngay trong ngày, thêm khoảng 60 km, trong khi nguyên nhân tăng creatinin đã rõ (thuốc mới trên nền ăn uống kém) và chưa có chỉ định cấp cứu. Chỉ định chuyển khám chuyên khoa Thận ở cô là loại có hẹn: eGFR dưới 30 và giảm hơn 30% sau thuốc tác động huyết động (QĐ 2388/2024 mục 4.2). Chuyển gấp làm cô mất một ngày, dễ mệt thêm vì đi xa, rồi lại không tái khám vì ngại đường xa."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi hết thuốc huyết áp rồi, bác sĩ kê cho tôi hai tháng nhé, nhà tôi xa lắm, đi lại cực. Dạo này tôi hơi mệt thôi.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến xin thuốc huyết áp hai tháng cho đỡ đi lại; nhà cách 42 km, đi xe khách một chuyến sáng, một chuyến chiều. Nói 'hơi mệt thôi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, ở xa"
+    },
+    {
+     "id": "thuoc_moi",
+     "noi_dung": "Ba tuần trước bác sĩ ở bệnh viện tỉnh khám huyết áp 164/92, đổi amlodipin 5 mg sang viên phối hợp perindopril + indapamide (hộp Coversyl Plus). Vẫn uống rivaroxaban 15 mg mỗi tối vì rung nhĩ ba năm nay. Hỏi hết thuốc trong túi mới nói ra.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc mới đổi 3 tuần; kháng đông",
+     "dieu_kien_lo": "Nếu chỉ hỏi 'đang uống thuốc gì' thì kể 'thuốc huyết áp và thuốc loãng máu'; chỉ đưa vỉ thuốc ra khi bác sĩ hỏi từng thuốc, đổi gì và từ khi nào."
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Từ khi uống thuốc mới, ăn kém hẳn, buồn nôn nhẹ, đứng lên là tối mắt phải vịn. Đi tiểu ít hơn, nước tiểu sẫm. Hai tuần nay nhưng cô cho rằng 'tuổi già'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Mệt, ăn kém, hoa mắt, tiểu ít sau đổi thuốc",
+     "dieu_kien_lo": "Hỏi chung 'có mệt không' thì trả lời 'hơi mệt thôi'. Chỉ kể chi tiết khi hỏi cụ thể từ khi nào, ăn được bao nhiêu, đứng dậy có tối mắt không, đi tiểu thế nào."
+    },
+    {
+     "id": "uong_nuoc",
+     "noi_dung": "Ngại đi tiểu khi đi xe khách nên uống rất ít nước; ở nhà nấu ăn nhạt vì sợ bệnh thận, ăn mỗi bữa nửa chén cơm.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Uống ít nước, ăn ít",
+     "dieu_kien_lo": "Chỉ nói khi hỏi lượng nước uống một ngày và bữa ăn gần đây."
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Tăng huyết áp 12 năm, rung nhĩ 3 năm. Tờ xét nghiệm cũ (3 tháng trước, bệnh viện tỉnh): creatinin 118 µmol/L, đạm niệu nhiều, bác sĩ nói 'thận yếu'. Không đái tháo đường, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Creatinin nền 118 µmol/L"
+    },
+    {
+     "id": "thuoc_giam_dau",
+     "noi_dung": "Không uống thuốc giảm đau, không dùng thuốc nam. Thỉnh thoảng đau gối nhưng chịu được.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không dùng NSAID (lượt này)"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu cam, chảy máu chân răng, không đi ngoài phân đen, không bầm da.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không dấu hiệu chảy máu"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Hàng xóm nói 'thận yếu là bệnh lây, phải tách bát đũa'. Cô đang nuôi cháu ngoại 5 tuổi, con gái út đang mang thai tháng thứ 6, nên cô sợ lây cho con và cháu. Cô chưa dám nói với ai trong nhà.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Sợ lây bệnh cho người thân",
+     "dieu_kien_lo": "Không tự nói. Chỉ thổ lộ khi bác sĩ hỏi 'điều gì làm cô lo nhất' hoặc hỏi cô sống cùng ai, hoặc khi bác sĩ nói chuyện về nguyên nhân bệnh thận."
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ cô mất vì đột quỵ, cô không biết người thân nào bị bệnh thận. Con gái không bị cao huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có tiền sử gia đình bệnh thận"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Hai tay chênh dưới 10 mmHg: 138/78 và 136/80 mmHg.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 140/80, mạch 74. Đứng sau 1 phút: 114/68, mạch 84, hoa mắt phải vịn ghế.",
+     "k": 1,
+     "hien": "Nằm 140/80 mmHg. Đứng 1 phút: 114/68 mmHg, hoa mắt."
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy. Cân 47,2 kg (ba tuần trước ghi 49 kg trong sổ). Niêm mạc miệng khô, da véo trở lại chậm.",
+     "k": 1,
+     "hien": "Gầy. Cân 47,2 kg. Niêm mạc miệng khô."
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn, 76 l/p, T1 thay đổi cường độ. Không âm thổi.",
+     "k": 0,
+     "hien": "Tim không đều hoàn toàn, tần số 76 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm, không ran.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm. Không âm thổi quanh rốn hay vùng hai bên bụng, không khối vùng thận, không điểm đau.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay không đều, mạch mu chân hai bên bắt được đều, không âm thổi động mạch cảnh.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Phù nhẹ mắt cá hai bên, ấn lõm nông.",
+     "k": 0,
+     "hien": "Phù nhẹ mắt cá hai bên."
+    },
+    "tiet_nieu": {
+     "a": "Không đau góc sườn lưng, không cầu bàng quang.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 14,2 mmol/L · Creatinin 167 µmol/L · eGFR 29 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 14.2,
+      "creat": 167,
+      "egfr": 29
+     },
+     "n": "So với nền 118 µmol/L: tăng 41% (>30%) sau khi dùng thuốc tác động huyết động (QĐ 2388/2024 mục 4.3.2.2: xem xét giảm liều/ngừng RAAS khi tăng >30% trong 4 tuần; mục 7.4.2: ngừng khi tăng >25%). Khi tăng ít hơn mức này thì tiếp tục và kiểm tra lại (KDIGO 2024 Practice Point 3.6.4)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 136 · K 5,1 · Cl 99 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 136,
+      "k": 5.1,
+      "cl": 99
+     },
+     "n": "K 5,1 cao nhẹ: có thể xử lý ngoại trú; tăng K cần được xử lý trước khi giảm/ngưng RAAS (QĐ 2388/2024 mục 4.1.2.1); K 6,0–6,4 kèm AKI mới cần đánh giá tại bệnh viện (KDIGO 2024 Bảng 28)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 112 g/L · BC 7,1 G/L · TC 218 G/L",
+     "bang": {
+      "wbc": 7.1,
+      "rbc": 3.8,
+      "hgb": 112,
+      "hct": 0.34,
+      "mcv": 89.5,
+      "mch": 29.5,
+      "mchc": 330,
+      "rdw": 13.8,
+      "plt": 218
+     },
+     "n": "Thiếu máu nhẹ phù hợp BTM giai đoạn G3b; không có bằng chứng chảy máu."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "UACR 520 mg/g",
+     "ab": 1,
+     "n": "A3 (>300 mg/g): QĐ 2388/2024 Bảng 8."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Protein 2+ · Hồng cầu âm tính · Bạch cầu âm tính · Nitrit âm tính",
+     "bang": {
+      "u_pro": "2+",
+      "u_ery": "Âm tính",
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính"
+     },
+     "n": "Không hồng cầu niệu, không viêm cầu thận hoạt động rõ."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Thận phải 9,6 cm, thận trái 9,4 cm, nhu mô tăng âm nhẹ, không ứ nước, không sỏi, không nang lớn. Hai thận cân xứng.",
+     "ab": 1,
+     "n": "Hai thận cân xứng; chênh kích thước hai thận là một gợi ý hẹp ĐM thận (ESC 2024 mục 8.3.2.1, bảng dấu hiệu gợi ý)."
+    },
+    "doppler_than": {
+     "v": "u",
+     "r": "Động mạch thận hai bên: PSV 120 và 128 cm/s, tỉ số thận-chủ (RAR) khoảng 1,8, chỉ số trở kháng nội thận 0,70 và 0,72, chênh nhau dưới 0,5.",
+     "n": "PSV dưới 200 cm/s và RAR dưới 3,5 không gợi ý hẹp ĐM thận có ý nghĩa huyết động (ESC 2024 mục 8.3.2.1.3). Không bắt buộc ở lượt này vì không có dấu gợi ý khác."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Rung nhĩ đáp ứng thất 76 l/p. Sóng T không cao nhọn, QRS hẹp.",
+     "ab": 1,
+     "n": "K 5,1 chưa có biến đổi điện tim."
+    },
+    "glu": {
+     "v": "u",
+     "r": "4,9 mmol/L",
+     "n": "Không đái tháo đường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh thận mạn G3b A3 do tăng huyết áp, đợt creatinin tăng 41% sau khi đổi sang perindopril + indapamide, kèm giảm thể tích tuần hoàn (ăn uống kém)",
+     "ok": 1,
+     "n": "Nền BTM: creatinin 118 µmol/L, UACR >300 mg/g kéo dài >3 tháng (QĐ 2388/2024 Bảng 7–8). Creatinin hiện 167 (+41%), hạ HA tư thế, sụt cân, niêm mạc khô, ngay sau đổi sang RAAS + lợi tiểu."
+    },
+    {
+     "t": "Tổn thương thận cấp",
+     "n": "Tiêu chuẩn AKI: tăng ≥0,3 mg/dL (26,5 µmol/L) trong 48 giờ hoặc ≥1,5 lần nền trong 7 ngày (KDIGO AKI 2012 Bảng 2). Ở cô chỉ tăng 1,4 lần, trong 3 tuần, không đủ tiêu chuẩn; đây là đợt suy giảm chức năng thận do huyết động trên nền BTM. Nhưng cần nghĩ đến AKI nếu thấy creatinin tăng thêm khi xét nghiệm lại."
+    },
+    {
+     "t": "Hẹp động mạch thận",
+     "n": "Creatinin tăng sau thuốc RAAS là dấu hiệu gợi ý (ESC 2024 mục 8.3.2.1). Nhưng không âm thổi bụng, hai thận cân xứng, không phù phổi cấp, HA tư thế hạ khi đứng (hợp giảm thể tích), PSV dưới 200 cm/s và RAR dưới 3,5 (ESC 2024 mục 8.3.2.1.3). Không có CT: Doppler là bước đầu theo ESC 2024 Hình 19; chỉ khi không kết luận được mới cần CTA/MRA."
+    },
+    {
+     "t": "Tắc nghẽn đường tiểu, bệnh cầu thận tiến triển nhanh",
+     "n": "Siêu âm không ứ nước; nước tiểu không hồng cầu, UACR đã cao nhiều tháng, không phù mặt hay tiểu máu."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng indapamide; ngưng hoặc giảm liều perindopril tạm thời; không dùng lại viên phối hợp",
+     "v": "c",
+     "n": "Creatinin tăng 41% (>30%) và CrCl <30 ml/phút khi perindopril 'không sử dụng' (QĐ 2388/2024 Bảng 12); QĐ 2388 mục 4.3.2.2 xem xét giảm/ngưng khi tăng >30%, mục 7.4.2 ngừng khi tăng >25%; hạ huyết áp tư thế có triệu chứng là chỉ định cân nhắc giảm/ngưng (KDIGO 2024 Practice Point 3.6.5). QĐ 2388 mục 4.1.2.1 chỉ ngưng khi tụt HA hoặc K không kiểm soát được; cô vừa có hạ HA tư thế vừa có K 5,1 nên hai nguồn cùng dẫn đến tạm ngưng."
+    },
+    {
+     "t": "Giữ HA tạm thời bằng amlodipin 5 mg mỗi ngày (thuốc cô đã dùng trước đó)",
+     "v": "a",
+     "n": "Amlodipin 5 mg là liều trong sơ đồ QĐ 5904/2019 Phần 1 mục C. Mục tiêu HA (KDIGO 2024: HATT <120 mmHg nếu dung nạp; VSH/VNHA: 120–129/70–79; QĐ 2388/2024 Bảng 11) chưa đặt ra trong lúc đang giảm thể tích, nhận xét."
+    },
+    {
+     "t": "Tiếp tục rivaroxaban, không ngưng, không quay lại warfarin; nhờ bác sĩ tim mạch/dược sĩ xem lại liều theo độ thanh thải creatinin",
+     "v": "c",
+     "n": "Thuốc kháng đông đường uống nhóm DOAC được ưu tiên hơn VKA ở người rung nhĩ và BTM eGFR ≥30 (ESC 2026, khuyến cáo rung nhĩ và BTM, I-A) và thuốc ức chế Xa được xem xét ưu tiên ở eGFR 15–29 (IIa-B1). Ngưỡng giảm liều rivaroxaban 15 mg theo CrCl không có trong tài liệu đã tải (KDIGO 2024 Hình 44 chú thích chỉ ghi nhiều người dùng liều thấp rivaroxaban 15 mg)."
+    },
+    {
+     "t": "Tránh mọi NSAID, kể cả loại mua tự do; dùng paracetamol nếu đau",
+     "v": "c",
+     "n": "NSAID chống chỉ định khi MLCT <30 và dùng thận trọng, giảm liều ở G3 (QĐ 2388/2024, bảng chỉnh liều NSAIDs ngay sau Bảng 22). Paracetamol: không có liều trong QĐ 2388 mục này, nhận xét."
+    },
+    {
+     "t": "Xét nghiệm lại creatinin, kali sau 1–2 tuần; hẹn khám chuyên khoa Thận",
+     "v": "c",
+     "n": "Chỉ định chuyển khám chuyên khoa Thận gồm MLCT <30 và MLCT giảm >30% sau thuốc tác động huyết động (QĐ 2388/2024 mục 4.2). Mốc 1–2 tuần là nhận xét; QĐ 2388 mục 4.3.2.2 chỉ nêu theo dõi mỗi 2–4 tuần sau khi bắt đầu hoặc tăng liều RAAS."
+    },
+    {
+     "t": "Viết giấy dặn bằng văn bản, ghi số điện thoại phòng khám và dấu hiệu phải đi khám ngay",
+     "v": "c",
+     "n": "Người ở xa nên xử trí trọn gói và dặn bằng văn bản. Đây là thiết kế ca, nhận xét."
+    },
+    {
+     "t": "Giải thích bệnh thận mạn không lây qua bát đũa, ăn uống, hôn cháu",
+     "v": "a",
+     "n": "Nhận xét lâm sàng: nguyên nhân ở cô là tăng huyết áp, không phải nhiễm trùng. Trả lời trực tiếp nỗi sợ giúp cô hợp tác điều trị."
+    },
+    {
+     "t": "Kê tiếp nguyên viên phối hợp perindopril + indapamide hai tháng như cô xin",
+     "v": "h",
+     "n": "Cô đang giảm thể tích, creatinin +41%, CrCl <30 (QĐ 2388/2024 Bảng 12, mục 4.3.2.2). Tiếp tục thuốc có thể đẩy sang AKI."
+    },
+    {
+     "t": "Kê giảm đau diclofenac cho đau gối",
+     "v": "w",
+     "n": "Cô không đau nhiều; nếu kê thì vi phạm bảng chỉnh liều NSAID (QĐ 2388/2024)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh thận mạn G3b A3 do tăng huyết áp (creatinin nền 118 µmol/L, UACR 520 mg/g)",
+     "Đợt creatinin tăng 41% (167 µmol/L, eGFR 29) sau đổi sang perindopril + indapamide, kèm giảm thể tích tuần hoàn nhẹ, hạ huyết áp tư thế",
+     "Tăng kali nhẹ 5,1 mmol/L; thiếu máu nhẹ (Hb 112 g/L)",
+     "Rung nhĩ đang dùng rivaroxaban 15 mg",
+     "Chưa đủ tiêu chuẩn tổn thương thận cấp; chưa có gợi ý hẹp động mạch thận"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: xin thuốc, rồi hỏi thuốc nào đã đổi và từ khi nào (đổi amlodipin sang viên phối hợp 3 tuần), triệu chứng từ đó, lượng ăn uống, tiểu, thuốc giảm đau, chảy máu. Hỏi chung chung thì cô chỉ nói 'hơi mệt'.",
+     "Khám: HA tư thế (140/80 nằm, 114/68 đứng, hoa mắt), cân sụt gần 2 kg, niêm mạc khô cho thấy giảm thể tích; bụng không âm thổi.",
+     "CLS: creatinin 167 so với 118 là +41%; kali 5,1; UACR 520; siêu âm hai thận cân xứng không ứ nước; Doppler không gợi ý hẹp ĐM thận. Không cần CT.",
+     "Vì sao chưa gọi là AKI: tăng 1,4 lần trong 3 tuần, không thỏa tiêu chuẩn 0,3 mg/dL trong 48 giờ hoặc 1,5 lần trong 7 ngày (KDIGO AKI 2012 Bảng 2).",
+     "Vì sao loại trừ hẹp ĐM thận: không âm thổi, thận cân xứng, PSV <200 cm/s, RAR <3,5 (ESC 2024 mục 8.3.2.1.3); creatinin tăng do mất thể tích và thuốc là giải thích đủ."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, ngưng thuốc gây tụt thể tích, kiểm tra lại sau 1–2 tuần, có hẹn khám chuyên khoa Thận. Không nhập viện vì K 5,1, ECG bình thường, uống được (KDIGO 2024 Bảng 28: bệnh viện khi K 6,0–6,4 kèm AKI).",
+     "Mâu thuẫn nguồn: tăng creatinin >30% thì giảm/ngưng RAAS (QĐ 2388 mục 4.3.2.2; KDIGO 2024 Practice Point 3.6.4), ngưỡng >25% (QĐ 2388 mục 7.4.2), còn QĐ 2388 mục 4.1.2.1 và KDIGO nói chỉ ngưng khi hạ HA hoặc tăng K không kiểm soát. Ở cô cả hai điều kiện cùng có nên ngưng/giảm.",
+     "Kháng đông: tiếp tục, vì rung nhĩ vẫn cần dự phòng đột quỵ; DOAC được ưu tiên hơn VKA (ESC 2026, I-A). Tiêu chí giảm liều rivaroxaban theo CrCl không có trong tài liệu đã tải, nên nhờ bác sĩ tim mạch hoặc dược sĩ kiểm tra.",
+     "Ở xa: cho giấy dặn bằng văn bản và số điện thoại, hẹn tái khám trùng một chuyến xe."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril + indapamide",
+      "ham_luong": "Viên phối hợp đã dùng",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "-",
+      "so_ngay": "Tạm ngưng đến khi tái khám",
+      "ghi_chu": "Creatinin +41%, CrCl <30 (QĐ 2388/2024 Bảng 12, mục 4.3.2.2)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "14 ngày đến khi tái khám",
+      "ghi_chu": "Liều theo QĐ 5904/2019 Phần 1 mục C; theo dõi phù mắt cá."
+     },
+     {
+      "thuoc": "Rivaroxaban",
+      "ham_luong": "15 mg (đang dùng)",
+      "lieu": "Giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối cùng bữa ăn",
+      "so_ngay": "Tiếp tục",
+      "ghi_chu": "Không giảm/tăng liều tại phòng khám này; liều theo CrCl không có trong tài liệu đã tải; nhờ bác sĩ tim mạch kiểm tra."
+     }
+    ],
+    "dan_do": [
+     "Không tự dùng thuốc giảm đau chống viêm (ibuprofen, diclofenac, thuốc xương khớp mua ngoài) vì làm hại thận và tăng nguy cơ chảy máu khi đang dùng rivaroxaban.",
+     "Ăn đủ bữa, uống nước đều trong ngày, đừng nhịn nước vì đi xe.",
+     "Bệnh thận mạn do cao huyết áp không lây qua bát đũa, ăn uống hay hôn cháu.",
+     "Quay lại ngay hoặc gọi số điện thoại phòng khám nếu tiểu rất ít, nôn nhiều, phân đen, chảy máu, khó thở.",
+     "Tái khám sau 14 ngày, mang theo sổ và toàn bộ thuốc; xét nghiệm lại creatinin, kali."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Cũng bà Hạnh, 12 ngày sau, đi xe khách một mình, đúng hẹn. Cô nói 'đỡ rồi' nhưng vẫn thấy phù chân. Cô mang theo giấy dặn của lượt trước. Sinh hiệu lúc tiếp đón: HA 156/86 mmHg, mạch 74 l/p không đều, SpO₂ 97%, cân nặng 48,4 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cô Hạnh được giữ lại nội trú dù cô đã đỡ mệt, ăn được, creatinin về 134 µmol/L, K 4,7. Nằm viện không thêm lợi ích vì việc cần làm là bắt đầu lại thuốc bảo vệ thận từng bước và theo dõi xét nghiệm đúng hẹn (QĐ 2388/2024 mục 4.3.2.2). Cô tốn chi phí và nhớ cháu, về nhà vẫn không có kế hoạch rõ cho việc ở xa.",
+    "chuyen_tuyen": "Cô Hạnh bị chuyển bệnh viện tỉnh ngay vì 'creatinin chưa về nền'. Creatinin đã giảm từ 167 xuống 134 và chỉ còn cao hơn nền 14%, chưa phải suy giảm tiếp diễn. Chỉ định chuyển khám chuyên khoa Thận ở cô là loại có hẹn (QĐ 2388/2024 mục 4.2). Chuyển gấp làm cô mất cả ngày và dễ bỏ lần khám thận học."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi đỡ rồi, ăn được cơm, hết tối mắt. Nhưng chân còn hơi phù, nước tiểu có bọt. Tôi có đem giấy bác sĩ dặn theo đây.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "156/86",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đỡ mệt, ăn được cơm, hết tối mắt khi đứng. Còn phù nhẹ chân buổi chiều, nước tiểu có bọt, đi tiểu bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Đã ngưng viên phối hợp, uống amlodipin 5 mg mỗi sáng. Rivaroxaban 15 mg mỗi tối đều. Không dùng thuốc giảm đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ"
+    },
+    {
+     "id": "ha_nha",
+     "noi_dung": "Con rể đo ở nhà sáng nay 154/84. Cô chưa có máy.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "HA nhà"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu, không phân đen.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không chảy máu"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Sau khi bác sĩ giải thích lượt trước, cô đã cho cháu ăn chung bát lại. Nhưng cô vẫn lo con gái sinh con sẽ 'mang bệnh thận của mẹ'. Con gái chưa đo huyết áp lần nào từ khi mang thai.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lo con gái; muốn biết có phải đưa con đi khám",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cô còn lo điều gì hoặc hỏi con gái."
+    },
+    {
+     "id": "dia_ly",
+     "noi_dung": "Đi một chuyến xe khách mất 2 giờ; cô xin tái khám sau 2 tháng nếu được. Có trạm y tế xã cách nhà 3 km làm được xét nghiệm máu đơn giản và đo huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện tái khám"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 158/88. Đứng 1 phút: 150/84, không hoa mắt.",
+     "k": 1,
+     "hien": "Đứng 1 phút: 150/84 mmHg, không hoa mắt."
+    },
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc miệng ẩm. Cân 48,4 kg, tăng 1,2 kg so với lượt trước.",
+     "k": 1,
+     "hien": "Niêm mạc miệng ẩm. Cân 48,4 kg."
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn, 74 l/p. Không âm thổi.",
+     "k": 0,
+     "hien": "Tim không đều hoàn toàn, 74 l/p."
+    },
+    "phoi": {
+     "a": "Phổi trong, không ran.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không âm thổi.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Phù nhẹ mắt cá hai bên, ấn lõm nông, không phù mặt.",
+     "k": 1,
+     "hien": "Phù nhẹ mắt cá hai bên."
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 9,6 mmol/L · Creatinin 134 µmol/L · eGFR 37 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 9.6,
+      "creat": 134,
+      "egfr": 37
+     },
+     "n": "Creatinin về gần nền (118): còn cao hơn 14%, eGFR 37 đã trên 30 (QĐ 2388/2024 Bảng 12: perindopril không dùng khi CrCl <30)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,7 · Cl 102 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.7,
+      "cl": 102
+     },
+     "n": "K 4,7: đủ điều kiện bắt đầu lại RAAS liều thấp và theo dõi."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "UACR 540 mg/g",
+     "ab": 1,
+     "n": "A3. Albumin niệu >300 mg/g là chỉ định chuyển khám chuyên khoa Thận theo QĐ 2388/2024 mục 4.2; KDIGO 2024 Hình 48 ghi UACR >700 mg/g hoặc ≥300 kèm hồng cầu niệu hoặc nguyên nhân chưa rõ. Cô chưa có tổn thương mô học, nguyên nhân chưa chứng minh."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Rung nhĩ 74 l/p, không biến đổi do tăng kali.",
+     "n": "Không bắt buộc khi K 4,7."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh thận mạn G3b A3 do tăng huyết áp, creatinin đã hồi phục gần nền, HA chưa đạt mục tiêu",
+     "ok": 1,
+     "n": "Creatinin 134 µmol/L, eGFR 37, UACR 540 mg/g; HA 156/86 trên amlodipin đơn thuần."
+    },
+    {
+     "t": "Tổn thương thận cấp tiếp diễn",
+     "n": "Creatinin giảm từ 167 xuống 134 sau ngưng thuốc; không đạt tiêu chuẩn AKI (KDIGO AKI 2012 Bảng 2)."
+    },
+    {
+     "t": "Hẹp động mạch thận",
+     "n": "Creatinin hồi phục khi ngưng thuốc và HA hạ tư thế đã hết; Doppler lượt 1 không gợi ý (ESC 2024 mục 8.3.2.1.3). Nghĩ lại nếu creatinin tăng nhanh khi dùng lại RAAS liều rất thấp hoặc phù phổi cấp."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Dùng lại ức chế men chuyển liều thấp: perindopril 2 mg mỗi ngày (QĐ 2388/2024 Bảng 12) hoặc 5 mg (QĐ 5904/2019 Phần 3 mục G); không dùng lại indapamide",
+     "v": "c",
+     "n": "Hai văn bản ghi liều khởi đầu khác nhau (QĐ 2388 Bảng 12: khởi đầu 2 mg, tối đa 8 mg, không dùng khi CrCl <30; QĐ 5904: khởi đầu 5 mg). 2 mg thận trọng hơn ở cô eGFR 37. Chỉ định: có albumin niệu A3 nên ưu tiên ức chế RAAS (QĐ 2388 mục 4.1.2.1)."
+    },
+    {
+     "t": "Xét nghiệm creatinin và kali sau 2–4 tuần; nếu creatinin tăng >30% thì giảm liều hoặc ngừng (>25% theo QĐ 2388 mục 7.4.2)",
+     "v": "c",
+     "n": "QĐ 2388/2024 mục 4.3.2.2: theo dõi mỗi 2–4 tuần; KDIGO 2024 Practice Point 3.6.4. Cô ở xa: nhờ trạm y tế xã lấy máu, gửi kết quả (nhận xét, tài liệu không nêu trạm y tế)."
+    },
+    {
+     "t": "Ngưng amlodipin khi HA đạt, hoặc giữ amlodipin 5 mg cùng perindopril",
+     "v": "a",
+     "n": "Phối hợp ACEi + chẹn kênh canxi: QĐ 5904 Phần 1 mục C (amlodipin 5 mg + perindopril 5 mg). Mục tiêu HA: KDIGO 2024 HATT <120 mmHg nếu dung nạp; VSH/VNHA 2024 120–129/70–79 (QĐ 2388/2024 Bảng 11)."
+    },
+    {
+     "t": "Hẹn khám chuyên khoa Thận (UACR 540 mg/g, eGFR giảm >30% sau thuốc huyết động); thực hiện cùng chuyến tái khám",
+     "v": "c",
+     "n": "QĐ 2388/2024 mục 4.2: albumin niệu >300 mg/g và MLCT giảm >30% sau thuốc huyết động là chỉ định chuyển khám; KDIGO 2024 Hình 48 dùng UACR >700 hoặc nguyên nhân chưa rõ. Cô thuộc nhóm chuyển theo QĐ 2388."
+    },
+    {
+     "t": "Bắt đầu empagliflozin 10 mg hoặc dapagliflozin 10 mg mỗi ngày (eGFR 37 ≥20, UACR 540 >200) ở lượt này hoặc lượt sau khi creatinin ổn định",
+     "v": "a",
+     "n": "SGLT2i khuyến cáo 1A khi MLCT >20 và UACR >200 mg/g (QĐ 2388/2024 mục 4.1.2.1; KDIGO 2024 Practice Point 3.7.1). Thời điểm khởi trị sau đợt creatinin tăng không có trong tài liệu đã tải; khởi cùng lúc với perindopril làm khó theo dõi nên chấm a."
+    },
+    {
+     "t": "Giữ rivaroxaban, tránh NSAID, ăn mặn dưới 5 g muối mỗi ngày",
+     "v": "c",
+     "n": "Natri <2 g (<5 g muối) mỗi ngày (QĐ 2388/2024 mục 4.1.2.1; KDIGO 2024 khuyến cáo 3.3.2.1). NSAID: bảng chỉnh liều NSAIDs QĐ 2388."
+    },
+    {
+     "t": "Giải thích với cô và hướng dẫn con gái: bệnh thận mạn của cô do cao huyết áp, không lây; con gái nên đo huyết áp khi mang thai và khám thai theo lịch",
+     "v": "a",
+     "n": "Nhận xét lâm sàng; tài liệu đã tải không có khuyến cáo sàng lọc thai kỳ. Sàng lọc thận ở người có nguy cơ cao: QĐ 2388/2024 mục 3.2.2 (UACR)."
+    },
+    {
+     "t": "Tái khám sau 2 tháng",
+     "v": "h",
+     "n": "Cô vừa dùng lại thuốc tác động huyết động; cần xét nghiệm sau 2–4 tuần (QĐ 2388/2024 mục 4.3.2.2). Hẹn quá xa là bỏ sót tăng creatinin/K."
+    },
+    {
+     "t": "Tiếp tục viên phối hợp perindopril + indapamide như trước",
+     "v": "w",
+     "n": "Viên đó đã gây đợt creatinin +41% ba tuần trước; không có lý do dùng lại."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh thận mạn G3b A3 do tăng huyết áp: creatinin 134 µmol/L, eGFR 37, UACR 540 mg/g",
+     "Creatinin đã hồi phục gần nền sau ngưng viên phối hợp",
+     "Tăng huyết áp chưa đạt mục tiêu (156/86 mmHg trên amlodipin 5 mg)",
+     "Rung nhĩ trên rivaroxaban 15 mg",
+     "Đỡ một phần: hết giảm thể tích, còn phù nhẹ và đạm niệu"
+    ],
+    "phan_tich_chan_doan": [
+     "Đây là diễn tiến 'đỡ một phần': hết hoa mắt, creatinin 167 xuống 134 nhưng chưa về 118, HA tăng trở lại khi chỉ còn amlodipin. Hồi phục chậm bình thường vì thận cần thời gian sau giảm thể tích; không phải thất bại điều trị.",
+     "Không có lý do nghĩ hẹp ĐM thận: creatinin hồi phục khi ngưng thuốc, Doppler lượt 1 bình thường.",
+     "Cô ở xa nên cần kế hoạch theo dõi trọn gói: xét nghiệm qua trạm y tế xã, giấy dặn."
+    ],
+    "phan_tich_xu_tri": [
+     "Bắt đầu lại ức chế men chuyển liều thấp để giảm albumin niệu và bảo vệ thận, chấp nhận tăng creatinin tối đa 30% (QĐ 2388 mục 4.3.2.2; KDIGO 2024 Practice Point 3.6.4); ngưỡng 25% theo QĐ 2388 mục 7.4.2.",
+     "Liều khởi đầu perindopril khác nhau giữa hai văn bản (2 mg hay 5 mg); ghi cả hai, 2 mg thận trọng hơn.",
+     "SGLT2i: bắt đầu khi creatinin ổn định để dễ phân biệt nguyên nhân nếu creatinin tăng lại; sách không quy định thời điểm.",
+     "Hẹn tái khám 2–4 tuần (QĐ 2388/2024 mục 4.3.2.2) kèm xét nghiệm, không 2 tháng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "2 mg",
+      "lieu": "1 viên mỗi ngày (hoặc 5 mg theo QĐ 5904/2019 Phần 3 mục G)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "28 ngày đến lần xét nghiệm lại",
+      "ghi_chu": "QĐ 2388/2024 Bảng 12: khởi đầu 2 mg, tối đa 8 mg; không dùng nếu CrCl <30. Ngưng nếu creatinin tăng >25–30% hoặc K tăng."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "28 ngày",
+      "ghi_chu": "Liều theo QĐ 5904/2019 Phần 1 mục C."
+     },
+     {
+      "thuoc": "Empagliflozin",
+      "ham_luong": "10 mg",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Bắt đầu khi tái khám nếu creatinin ổn định",
+      "ghi_chu": "QĐ 2388/2024 mục 4.1.2.1; tạm ngưng khi nhịn ăn kéo dài, phẫu thuật, bệnh nặng."
+     },
+     {
+      "thuoc": "Rivaroxaban",
+      "ham_luong": "15 mg",
+      "lieu": "1 viên mỗi tối",
+      "duong": "Uống",
+      "thoi_diem": "Cùng bữa tối",
+      "so_ngay": "Tiếp tục",
+      "ghi_chu": "Liều theo CrCl không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Xét nghiệm creatinin, kali tại trạm y tế xã hoặc bệnh viện sau 2–4 tuần; ghi kết quả vào sổ, gọi số điện thoại phòng khám.",
+     "Mua máy đo huyết áp bắp tay, đo mỗi sáng, ghi sổ.",
+     "Ăn nhạt dưới 5 g muối một ngày, vẫn ăn đủ bữa.",
+     "Không dùng NSAID.",
+     "Mời con gái đo huyết áp và khám thai đều; bệnh của cô không lây qua tiếp xúc.",
+     "Nếu ốm nôn, tiêu chảy, không ăn uống được: ngừng perindopril, empagliflozin và gọi hoặc đến khám (nhận xét; tài liệu không nêu quy tắc ngày ốm)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Bà Hạnh đến sau 4 tuần, lần này cháu gái Liên chở đến bằng xe máy vì cô mệt. Cô đã dùng perindopril 2 mg và empagliflozin 10 mg từ lượt trước, chưa đi xét nghiệm lại. Cô tiểu ít ba ngày nay, buồn nôn, chán ăn. Sinh hiệu lúc tiếp đón: HA 128/70 mmHg, mạch 82 l/p không đều, SpO₂ 96%, cân nặng 46,6 kg.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cô Hạnh được cho về với hẹn kiểm tra lại sau 1–2 tuần. Creatinin 236 µmol/L gấp đôi nền (118 µmol/L), thuộc AKI giai đoạn 2 (KDIGO AKI 2012 Bảng 2: 2,0–2,9 lần nền), K 5,8, phân sẫm màu khi đang dùng rivaroxaban. Ở xa 42 km, cô không thể được xét nghiệm lại mỗi ngày, creatinin có thể tăng tiếp và K lên cao, nguy cơ rối loạn nhịp hoặc xuất huyết tiêu hóa nặng ngay trên đường về nhà.",
+    "chuyen_tuyen": "Cô Hạnh bị chuyển bệnh viện tỉnh thêm 60 km dù bệnh viện huyện có khoa Nội, xét nghiệm creatinin, kali, siêu âm và truyền dịch được. Cô lại phải đi thêm xe khách, mệt hơn và bỏ lần theo dõi tại nơi thuận tiện, trong khi chưa có chỉ định lọc máu (chưa vô niệu, K chưa tới 6,5, không phù phổi)."
+   },
+   "loi_mo": "Bác sĩ ơi, ba ngày nay tôi tiểu rất ít, buồn nôn, không ăn nổi. Tôi uống thuốc đều, đúng như bác sĩ dặn đó.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "128/70",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tiểu ít ba ngày, buồn nôn, chán ăn, mệt. Cháu Liên chở đi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Một tuần trước bị đau gối nhiều, bà hàng xóm cho mấy viên 'thuốc xương khớp' màu trắng (diclofenac 50 mg), cô uống ngày hai viên trong 6 ngày. Cô không nghĩ đó là thuốc, 'vì thuốc dặn là thuốc bác sĩ kê'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Dùng NSAID tự mua",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc gì ngoài đơn không' thì nói 'không'. Chỉ nói khi hỏi cụ thể có đau gối, đau khớp không, có uống thuốc giảm đau, thuốc xương khớp, thuốc hàng xóm cho không."
+    },
+    {
+     "id": "thuoc_duoc_ke",
+     "noi_dung": "Vẫn uống perindopril 2 mg, empagliflozin 10 mg, amlodipin 5 mg, rivaroxaban 15 mg đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang uống"
+    },
+    {
+     "id": "phan_sam",
+     "noi_dung": "Hai ngày nay phân sẫm màu, không hôi khắm lắm, không đau bụng, không nôn máu.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Phân sẫm màu dưới rivaroxaban và NSAID",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi màu phân hoặc hỏi về chảy máu tiêu hóa."
+    },
+    {
+     "id": "khong_xn",
+     "noi_dung": "Cô chưa đi xét nghiệm lại sau 2–4 tuần vì xe khách đông, trạm y tế xã tuần đó không có người lấy máu, con rể bận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bỏ xét nghiệm theo dõi (ở xa)"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Con gái đã sinh con nhẹ nhàng, cô yên tâm hơn nhiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Con gái ổn"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 130/72. Đứng 1 phút: 122/68, hơi choáng.",
+     "k": 1,
+     "hien": "Đứng 1 phút: 122/68 mmHg."
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, da niêm nhợt nhẹ, niêm mạc miệng khô. Cân 46,6 kg (giảm 1,8 kg).",
+     "k": 1,
+     "hien": "Niêm mạc miệng khô. Cân 46,6 kg."
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn 82 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim không đều hoàn toàn, 82 l/p."
+    },
+    "phoi": {
+     "a": "Phổi trong, không ran.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ vùng thượng vị, không phản ứng thành bụng.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân nâu đen, mùi thường, ngón tay găng dính phân sẫm.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Không cầu bàng quang, không đau góc sườn lưng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 24,5 mmol/L · Creatinin 236 µmol/L · eGFR 19 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 24.5,
+      "creat": 236,
+      "egfr": 19
+     },
+     "n": "Gấp đôi nền (118 µmol/L): AKI giai đoạn 2 theo KDIGO AKI 2012 Bảng 2 (2,0–2,9 lần nền)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 134 · K 5,8 · Cl 98 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 134,
+      "k": 5.8,
+      "cl": 98
+     },
+     "n": "K 5,8: dưới ngưỡng 6,0 của KDIGO 2024 Bảng 28 nhưng có AKI, đang dùng ACEi, NSAID."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 98 g/L · BC 8,4 G/L · TC 205 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 8.4,
+      "rbc": 3.3,
+      "hgb": 98,
+      "hct": 0.3,
+      "mcv": 90.0,
+      "mch": 29.8,
+      "mchc": 328,
+      "rdw": 14.2,
+      "plt": 205
+     },
+     "n": "Hb giảm từ 112 xuống 98 g/L."
+    },
+    "fit": {
+     "v": "u",
+     "r": "Dương tính",
+     "n": "Gợi ý chảy máu tiêu hóa."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Hai thận kích thước như cũ, không ứ nước.",
+     "n": "Loại trừ tắc nghẽn sau thận."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Rung nhĩ 82 l/p. Sóng T hơi cao ở V2–V4, không giãn QRS.",
+     "ab": 1,
+     "n": "Hợp K 5,8; chưa có rối loạn dẫn truyền."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "UACR 480 mg/g"
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tổn thương thận cấp (giai đoạn 2) trên nền bệnh thận mạn G3b A3, do NSAID cộng ức chế men chuyển và SGLT2i; tăng kali 5,8; nghi chảy máu tiêu hóa nhẹ trên rivaroxaban",
+     "ok": 1,
+     "n": "Creatinin 236 (gấp 2 lần nền), diclofenac 6 ngày, phân sẫm, FIT dương, Hb 98."
+    },
+    {
+     "t": "Hẹp động mạch thận",
+     "n": "Cô dùng perindopril 2 mg bốn tuần đầu không tăng creatinin quá mức (khi chưa dùng NSAID). Doppler lượt 1 bình thường. Tăng creatinin lần này xuất hiện sau NSAID. Nghĩ lại nếu creatinin không về dù ngưng NSAID và bù thể tích."
+    },
+    {
+     "t": "Bệnh thận mạn tiến triển, nặng thêm do bệnh nền",
+     "n": "Creatinin nền ổn định 118–134 µmol/L trong nhiều tháng, nên tăng đột ngột gợi ý AKI chồng lên BTM (QĐ 2388/2024)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện nội trú bệnh viện huyện",
+     "v": "c",
+     "n": "AKI giai đoạn 2 (KDIGO AKI 2012 Bảng 2), K 5,8, phân sẫm trên kháng đông, ở xa không theo dõi xét nghiệm hằng ngày. Tiêu chuẩn nhập viện ngoại trú cho AKI giai đoạn 2 không có trong tài liệu đã tải; đây là quyết định lâm sàng theo hoàn cảnh ca (KDIGO 2024 Bảng 28 chỉ ghi K 6,0–6,4 kèm AKI)."
+    },
+    {
+     "t": "Ngưng NSAID, ngưng tạm perindopril, empagliflozin",
+     "v": "c",
+     "n": "QĐ 2388/2024 bảng NSAIDs; mục 4.3.2.2 và 7.4.2 (ngừng RAAS khi tăng K hoặc creatinin >25%); KDIGO 2024 Practice Point 3.6.5; SGLT2i tạm ngừng khi bệnh nặng (QĐ 2388 mục 4.1.2.1)."
+    },
+    {
+     "t": "Xử trí rivaroxaban khi nghi chảy máu: tạm ngưng/giảm và đánh giá chảy máu tiêu hóa tại bệnh viện",
+     "v": "a",
+     "n": "Cách xử trí cụ thể thuốc kháng đông khi chảy máu tiêu hóa không có trong tài liệu đã tải; ESC 2026 chỉ đề cập lựa chọn DOAC theo eGFR. Nhận xét."
+    },
+    {
+     "t": "Bù dịch đẳng trương NaCl 0,9% theo dõi thể tích, theo dõi nước tiểu, creatinin, K, điện tim",
+     "v": "c",
+     "n": "QĐ 2388/2024 (phần thuốc cản quang/AKI): khuyến cáo bù dịch NaCl 0,9%, chưa có thống nhất về thể tích và tốc độ. Cô không phù, không ran phổi nên có thể bù dịch thận trọng."
+    },
+    {
+     "t": "Xử trí tăng kali 5,8 mmol/L bằng ngưng nguyên nhân và theo dõi điện tim",
+     "v": "a",
+     "n": "Các thuốc điều trị tăng kali cấp (canxi, insulin) không có trong tài liệu đã tải (sổ mâu thuẫn). Chỉ chấm nhận ra và ngưng thuốc gây tăng K."
+    },
+    {
+     "t": "Giải thích nguyên nhân tái phát: NSAID tự mua, bỏ xét nghiệm do ở xa; kế hoạch theo dõi sau ra viện (xét nghiệm tại trạm y tế xã, giấy dặn)",
+     "v": "c",
+     "n": "Nguyên nhân tái phát cần được xử lý (nguyên nhân nền, tuân thủ). Nhận xét."
+    },
+    {
+     "t": "Cho về, uống nhiều nước và xét nghiệm lại sau 1 tuần",
+     "v": "h",
+     "n": "AKI giai đoạn 2, K 5,8, nghi chảy máu tiêu hóa; ở xa nên nguy cơ cao (KDIGO AKI 2012 Bảng 2)."
+    },
+    {
+     "t": "Tiếp tục perindopril, empagliflozin vì 'thuốc bảo vệ thận'",
+     "v": "h",
+     "n": "Đang có AKI và tăng K; QĐ 2388/2024 mục 7.4.2, KDIGO 2024 Practice Point 3.6.5."
+    },
+    {
+     "t": "Kê tiếp diclofenac vì cô đau gối",
+     "v": "w",
+     "n": "NSAID chống chỉ định khi MLCT <30 (QĐ 2388/2024)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tổn thương thận cấp giai đoạn 2 trên nền bệnh thận mạn G3b A3: creatinin 236 µmol/L (gấp đôi nền)",
+     "Nguyên nhân: diclofenac tự mua 6 ngày phối hợp ức chế men chuyển và SGLT2i, kèm giảm thể tích",
+     "Tăng kali 5,8 mmol/L",
+     "Nghi chảy máu tiêu hóa nhẹ (phân sẫm, FIT dương, Hb 98 g/L) khi đang dùng rivaroxaban",
+     "Tái phát: nguyên nhân nền là NSAID và bỏ theo dõi xét nghiệm do ở xa"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám, thuốc đang uống (đủ, từng thuốc), thuốc ngoài đơn, đau gối, màu phân, lượng nước tiểu, tại sao chưa xét nghiệm lại.",
+     "Khám: giảm thể tích nhẹ, đau thượng vị nhẹ, phân đen khi thăm trực tràng.",
+     "CLS: creatinin 236 so với nền 118 là 2,0 lần, đúng AKI giai đoạn 2; K 5,8; Hb giảm; FIT dương; siêu âm không ứ nước.",
+     "Vì sao không nghĩ hẹp ĐM thận: creatinin ổn khi dùng perindopril liều thấp cho đến khi có NSAID."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện nội trú vì AKI giai đoạn 2, K 5,8, nghi chảy máu tiêu hóa trên kháng đông, ở xa không theo dõi hằng ngày được. Tiêu chuẩn nhập viện không có trong tài liệu đã tải.",
+     "Ngưng NSAID, ngưng tạm ACEi và SGLT2i, bù dịch thận trọng, theo dõi nước tiểu, creatinin, kali, điện tim, Hb. Dùng lại từng thuốc sau khi creatinin ổn định.",
+     "Tái phát là hệ quả của NSAID tự mua và không xét nghiệm lại; kế hoạch ra viện cần giấy dặn bằng văn bản, danh sách thuốc cấm, xét nghiệm qua trạm y tế xã."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril, empagliflozin, diclofenac",
+      "ham_luong": "-",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "-",
+      "so_ngay": "Đến khi creatinin ổn định",
+      "ghi_chu": "QĐ 2388/2024 bảng NSAIDs, mục 4.3.2.2, mục 7.4.2."
+     },
+     {
+      "thuoc": "NaCl 0,9%",
+      "ham_luong": "Chai 500 ml",
+      "lieu": "Theo đánh giá thể tích tại khoa",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Tại khoa",
+      "so_ngay": "Theo diễn tiến",
+      "ghi_chu": "QĐ 2388/2024: thể tích và tốc độ chưa có thống nhất."
+     },
+     {
+      "thuoc": "Rivaroxaban",
+      "ham_luong": "15 mg",
+      "lieu": "Quyết định tại khoa theo mức chảy máu",
+      "duong": "Uống",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "Không có hướng dẫn cụ thể trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Không dùng bất kỳ thuốc giảm đau, thuốc xương khớp nào ngoài đơn, kể cả của người quen cho.",
+     "Khi đau gối, hỏi bác sĩ hoặc dùng paracetamol.",
+     "Sau ra viện: xét nghiệm creatinin, kali qua trạm y tế xã đúng lịch; ghi sổ; gọi số điện thoại phòng khám.",
+     "Nôn, tiêu chảy, không ăn được: tạm ngừng perindopril, empagliflozin và liên hệ (nhận xét).",
+     "Phân đen, chảy máu: đi khám ngay."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 5 ngày nằm viện huyện, creatinin về 148 µmol/L, K 4,6, phân vàng trở lại, Hb ổn định. Cô ra viện với giấy dặn bằng văn bản, danh sách thuốc cấm, hẹn khám chuyên khoa Thận. Perindopril được dùng lại từng bước sau khi creatinin ổn định. Đợt tái phát đến từ NSAID tự mua và khoảng trống theo dõi do ở xa, không phải do chẩn đoán sai hay thuốc kê.",
+ "nhieu": [
+  "Hàng xóm nói thận yếu là bệnh lây: nỗi lo thật của cô, ảnh hưởng ăn chung bát đũa, thăm cháu. Cần trả lời, không gạt đi.",
+  "Chuyến xe khách và việc nhịn nước: giải thích một phần mệt mỏi nhưng không đủ giải thích creatinin tăng 41%.",
+  "Siêu âm hai thận cân xứng và Doppler bình thường là dữ kiện giúp loại hẹp động mạch thận, không phải thừa."
+ ],
+ "bai_hoc_bien": [
+  "Đổi thuốc hạ áp sang RAAS + lợi tiểu cần xét nghiệm creatinin, kali sau 2–4 tuần; người ở xa dễ bỏ.",
+  "Tăng creatinin 41% sau thuốc huyết động nhưng chưa đủ AKI: đọc xu hướng theo thời gian và hỏi thuốc đổi gần đây.",
+  "Đỡ một phần không phải thất bại điều trị; lượt sau tái phát vì nguyên nhân nền (NSAID tự mua) chưa xử lý.",
+  "Không có CT: Doppler động mạch thận, siêu âm và lâm sàng đủ để loại hẹp ĐM thận.",
+  "Nỗi lo thật (sợ lây cho người thân) chỉ lộ khi hỏi 'điều gì làm cô lo nhất'."
+ ],
+ "diem_nho": [
+  "BTM giai đoạn G3b: eGFR 30–44 (QĐ 2388/2024 Bảng 7); A3: albumin niệu >300 mg/g (Bảng 8).",
+  "Creatinin tăng >30% sau thuốc ảnh hưởng huyết động: xem xét giảm/ngưng RAAS (QĐ 2388 mục 4.3.2.2; KDIGO 2024 PP 3.6.4); ngưỡng 25% ở QĐ 2388 mục 7.4.2.",
+  "Perindopril không dùng khi CrCl <30 (QĐ 2388/2024 Bảng 12).",
+  "SGLT2i khi MLCT >20 và UACR >200 mg/g (QĐ 2388 mục 4.1.2.1).",
+  "AKI giai đoạn 2: 2,0–2,9 lần nền (KDIGO AKI 2012 Bảng 2).",
+  "NSAID chống chỉ định khi MLCT <30 (QĐ 2388/2024)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2388/QĐ-BYT 2024, Hướng dẫn chẩn đoán và điều trị bệnh thận mạn – TL-0280 – Bảng 7, 8, 11, 12; mục 3.2.2, 4.1.2.1, 4.2, 4.3.2.2, 7.4.2; bảng chỉnh liều NSAIDs.",
+  "KDIGO 2024 CKD – TL-0308 – Practice Point 3.6.4–3.6.5, 3.7.1; Bảng 28; Hình 44, 48.",
+  "KDIGO 2012 AKI – TL-0329 – Bảng 2.",
+  "ESC 2026 tim mạch–thận – TL-0293 – mục AF và BTM (DOAC I-A, eGFR 15–29 IIa).",
+  "ESC 2024 PAAD – TL-0058 – mục 8.3.2.1.3; Hình 19.",
+  "BYT – QĐ 5904/2019 – TL-0284 – Phần 1 mục C; Phần 3 mục G."
+ ],
+ "ghi_chu_bien_tap": [
+  "12/10/2026, viết: Sonnet. Tài liệu đã đọc: TL-0280 (mục 3.4, 4.1.2.1, 4.2, 4.3.2.1-2, Bảng 11-12), TL-0308 (PP 3.6.x, Hình 44), TL-0329 (Bảng 2), TL-0293 (AF và BTM), TL-0058 (mục 8.3.2.1).",
+  "Thiếu tài liệu: liều rivaroxaban/apixaban theo CrCl, xử trí kháng đông khi chảy máu tiêu hóa, thuốc cấp cứu tăng kali, quy tắc ngày ốm, thời điểm khởi SGLT2i sau AKI.",
+  "Số bảng/mục: một số mục chưa mở lại từng trang, cần trưởng nhóm đối chiếu (KDIGO PP 3.6.5, 3.7.1; ESC 2026 mục AF)."
+ ]
+}

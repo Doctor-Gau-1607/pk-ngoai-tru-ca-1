@@ -1,0 +1,501 @@
+{
+ "ma_ca": "HH-1368",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_ho_sau_nhiem",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Ho kéo dài sau nhiễm virus",
+  "chan_doan_phai_loai_tru": [
+   "Ho gà",
+   "Hen phế quản",
+   "Lao phổi"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt có corticoid",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Minh Khôi",
+  "tuoi": 0.58,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 7.6,
+  "chieu_cao": 67,
+  "xung_ho": "Bé trai 7 tháng, chưa nói được, hay ê a và cười, hơi sợ người lạ nên bám mẹ. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'bé Khôi' hoặc 'con'.",
+  "tinh_cach": "Mẹ 30 tuổi, công nhân may, làm ca nên ít khi đưa con đi khám được. Sau ba nơi khám mà con vẫn ho, chị mệt mỏi, mất niềm tin, hay nói 'bác sĩ nào cũng cho thuốc mà có khỏi đâu', mang theo cả túi thuốc cũ. Chị không cố tình giấu gì, nhưng nếu bác sĩ không hỏi người trong nhà thì chị không nghĩ tới chuyện đó. Bé tỉnh, bú tốt, chơi bình thường, chỉ thỉnh thoảng ho khan vài tiếng.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mẹ mệt mỏi, hoài nghi, hay ngắt lời để kể lại các đơn thuốc đã dùng và nhắc 'lần nào cũng thuốc'. Chỉ khi bác sĩ lắng nghe, xem lại từng đơn và nói rõ lần này làm gì khác thì chị mới khai đủ. Chị mong được 'khám tổng quát một lượt cho yên tâm' hơn là xin thêm thuốc. Chuyện ông nội ho lâu chị không tự kể vì nghĩ đó là bệnh của người già, không liên quan đến con.",
+  "nguoi_nha": "Mẹ bé, chị Lan (Trần Thị Lan), 30 tuổi, đi cùng và bế bé. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ ê a, thỉnh thoảng ho khan vài tiếng. Bà nội trông bé ban ngày, ông nội ở chung nhà.",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#1d1511",
+   "kieuToc": "tre",
+   "ao": "#bcd9a6",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#e6b48f",
+    "toc": "#1f1713",
+    "kieuToc": "dai",
+    "ao": "#8fb3d9",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "met"
+   }
+  }
+ },
+ "ly_do_kham": "Bé trai 7 tháng ho khan khoảng 5 tuần, đã khám ba nơi chưa khỏi; mẹ muốn kiểm tra tổng quát một lượt",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám nhi tư chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, CRP, nước tiểu); không có X-quang, siêu âm, CT, nội soi và không làm Xpert, Mantoux/IGRA, PCR/cấy ho gà."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Sáng thứ Bảy 8 giờ 30, mẹ bế bé Khôi, 7 tháng, 7,6 kg, đến phòng khám nhi tư (chỉ làm được xét nghiệm cơ bản: công thức máu, CRP, sinh hóa nền, nước tiểu; không có X-quang, siêu âm). Bé ho khan khoảng 5 tuần, đã khám ba nơi. Sinh hiệu: nhiệt 36,8 °C, mạch 120 l/p, nhịp thở 38 l/p, SpO₂ 98%. Mẹ xách một túi thuốc cũ và phiếu X-quang cũ, nói muốn 'khám tổng quát một lượt cho yên tâm'.",
+   "ket_luan": "chuyen_tuyen",
+   "loi_mo": "Chào bác sĩ. Con em ho gần 5 tuần rồi, đi ba chỗ rồi mà vẫn ho vặt. Chỗ nào cũng cho thuốc, em cho uống hết mà có khỏi đâu. Hôm nay em muốn nhờ bác sĩ khám cho con một lượt cho kỹ, xem phổi có sao không, cân nặng có đạt không, cho em yên tâm. Thuốc cũ em mang theo đây.",
+   "sinh_hieu": {
+    "mach": 120,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 38,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ nói muốn đưa con đi khám tổng quát một lượt: xem phổi có sao không, cân nặng có đạt không, vì đã ba nơi mà con vẫn ho. Mẹ không đòi thêm thuốc; mẹ chỉ muốn có người nói rõ con bị gì và có cần làm gì khác không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do thật đến khám: muốn kiểm tra tổng quát, tái lập niềm tin"
+    },
+    {
+     "id": "ho_dien_tien",
+     "noi_dung": "Ho khan, từng tiếng một, đã khoảng 5 tuần (từ đầu tháng trước). Hai tuần đầu ho nhiều ban ngày lẫn ban đêm, hai tuần sau thưa dần; tuần này chỉ còn vài chục tiếng mỗi ngày, rộ nhất lúc sáng sớm và khi chuyển từ phòng quạt ra gió. Ho không có đờm, không ho thành chuỗi dài, không đỏ mặt, không nôn sau ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến ho đang giảm dần, ho khan không có cơn ho gà"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đầu tháng trước trời đột ngột chuyển lạnh, cả nhà sổ mũi. Bé sổ mũi trong 5 ngày, sốt nhẹ 37,8–38,2 °C hai ngày rồi hết sốt, ho bắt đầu từ lúc đó và kéo dài đến nay. Từ đó trở đi mỗi lần trở trời hoặc gió lạnh buổi sáng bé ho nhiều hơn một chút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: nhiễm virus hô hấp khi thay đổi thời tiết; ho tăng khi trở trời là mồi nhử hen"
+    },
+    {
+     "id": "dac_diem_ho",
+     "noi_dung": "Không có cơn ho dồn dập từng chuỗi, không tiếng rít khi hít vào, không nôn sau ho, không ngưng thở hay tím tái, không sặc khi bú hay khi ăn dặm, không đột ngột sặc nghẹn. Bé có 'khè khè' lúc ngủ; khi bác sĩ hỏi kỹ và mẹ bắt chước thì đó là tiếng khụt khịt do nghẹt mũi, mất sau khi hút mũi, không phải tiếng khò khè thở ra. Không sốt lại từ đó đến nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ho gà, hen, dị vật, trào ngược bằng bệnh sử"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Ông nội 66 tuổi ở chung nhà, hút thuốc lào, ho kéo dài khoảng hai tháng nay, ho đêm, gầy đi thấy rõ, hay ra mồ hôi đêm. Ông cho là 'ho thuốc lào', tự mua thuốc ho, chưa đi khám, chưa chụp phổi. Ông hay bế và hôn bé, ngủ chung phòng với vợ chồng chị và bé.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "CỜ ĐỎ: tiếp xúc hộ gia đình với người ho kéo dài nghi lao phổi chưa được chẩn đoán"
+    },
+    {
+     "id": "trieu_chung_lao",
+     "noi_dung": "Bé không sốt kéo dài, không sốt về chiều, không ra mồ hôi trộm, không bỏ bú, không sụt cân, không nổi hạch, không ho ra máu. Bú tốt, ăn dặm hết chén cháo, ngủ ngoan, tiêu tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân gợi ý lao: không có"
+    },
+    {
+     "id": "tang_can",
+     "noi_dung": "Sổ sức khỏe: sinh đủ tháng 3,2 kg; lúc 6 tháng (khoảng 4 tuần trước) 7,2 kg, dài 65 cm; hôm nay mẹ chưa biết cân nhưng thấy con vẫn bụ. Đường tăng cân theo các mốc trong sổ đi lên đều, không đi ngang.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tăng trưởng: không chậm tăng cân"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh thường đủ tháng, không ngạt, chưa từng nhập viện, chưa từng khò khè thở ra, chưa có cơn khó thở nào kéo dài trên một ngày. Tiêm lao (BCG) sơ sinh, có sẹo vai trái; tiêm vắc xin phối hợp có bạch hầu–ho gà–uốn ván đủ 3 mũi lúc 2, 3, 4 tháng. Mẹ xét nghiệm HIV âm tính khi mang thai. Ba bị viêm mũi dị ứng; bé không chàm, không dị ứng thức ăn. Không ai trong nhà có người bị ho gà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, tiêm chủng, yếu tố cơ địa"
+    },
+    {
+     "id": "ba_noi_kham",
+     "noi_dung": "Nơi 1 (phòng khám nhi gần nhà, tuần thứ 2): amoxicillin-clavulanat 7 ngày, siro ho thảo dược và gói long đờm. Nơi 2 (bệnh viện quận, tuần thứ 3): chụp X-quang ngực, khí dung salbutamol kèm budesonid 5 ngày. Nơi 3 (phòng khám tư khác, tuần thứ 4): azithromycin 3 ngày. Sau mỗi đợt ho giảm chút rồi lại ho vặt. Mẹ không nhớ có xét nghiệm máu nào. Mẹ nói: 'bác sĩ nào cũng cho thuốc mà con vẫn ho'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ba nơi khám đã dùng gì; không lặp lại"
+    },
+    {
+     "id": "xquang_cu",
+     "noi_dung": "Mẹ có phiếu X-quang ngực thẳng của bệnh viện quận chụp cách đây khoảng 3 tuần: phổi hai bên sáng đều, không thâm nhiễm, không đông đặc, rốn phổi không đậm, không thấy hạch, bóng tim bình thường. Mẹ chưa được giải thích gì thêm. Ở nơi đó không ai hỏi chuyện ông nội.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phiếu X-quang cũ bình thường trong vòng 4 tuần: dùng lại, không chụp lại"
+    },
+    {
+     "id": "thuoc_mat",
+     "noi_dung": "Từ khoảng tháng thứ 4 mắt phải của bé hay ghèn, lúc đỏ lúc không. Mẹ mua thuốc nhỏ mắt có tobramycin và dexamethason (đơn của một phòng khám mắt lần đầu), thấy ghèn thì tự nhỏ 1–2 giọt, đã nhỏ ngắt quãng 3 đợt, đợt gần nhất mới dừng 3 ngày. Chưa tái khám mắt, chưa ai đo nhãn áp hay dặn thời hạn dùng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: nhỏ mắt có corticoid tự ý, kéo dài"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, hồng hào, bụ bẫm, chơi và cười với mẹ, nhìn theo đồ vật, khóc to khi bị khám. Niêm mạc hồng, da ấm, không tím, không thở gắng sức. Cân nặng 7,6 kg (tăng 0,4 kg trong 4 tuần), dài 67 cm; không teo mỡ, không phù. Bú khỏe trong lúc khám.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, khoảng 1,5 cm. Không sờ thấy hạch cổ, hạch nách hay hạch bẹn. Cổ mềm, không dấu màng não, tuyến giáp không to.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi có ít nhầy trong, không chảy mủ. Họng hơi đỏ nhẹ, có ít nhầy chảy sau họng, amiđan không to, không giả mạc. Màng nhĩ hai bên xám hồng, di động, không phồng.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Khóe mắt phải còn ghèn khô, kết mạc không đỏ, không xuất huyết dưới kết mạc, giác mạc trong, đồng tử đều phản xạ tốt. Ấn nhẹ vùng túi lệ phải thấy ít nước nhầy trào ra khóe mắt. Mắt trái bình thường. Không đo được nhãn áp ở phòng khám này.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 38 l/p, đều, không rút lõm lồng ngực, không phập phồng cánh mũi, không thở rên. Rì rào phế nang rõ hai bên, không ran rít, không ran ngáy, không ran nổ; thở ra không kéo dài. Tiếng khụt khịt truyền từ mũi họng khi bé khóc, hết sau khi hút mũi. Gõ trong đều hai bên.",
+     "k": 1,
+     "hien": "Nhịp thở 38 l/p, đều. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều khoảng 120 l/p (bé đang quấy), T1 T2 rõ, không âm thổi. Mạch bẹn rõ, đổ đầy mao mạch dưới 2 giây.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 120 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không có khối. Gan không to, lách không sờ thấy.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da hồng, không ban, không chàm, không chấm xuất huyết. Sẹo BCG vai trái khoảng 5 mm, lành tốt.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Móng tay chân hồng, không dùi trống.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 9,4 G/L · Neutrophil 34% · Lympho 58% · Hb 116 g/L · Hct 0,35 · TC 338 G/L (khoảng tham chiếu nhũ nhi: không có trong kho)",
+     "n": "Không tăng bạch cầu đa nhân, không tăng lympho bất thường, không thiếu máu rõ: không gợi ý bội nhiễm vi khuẩn; bạch cầu lympho tăng không phải tiêu chuẩn loại trừ ho gà vì bệnh nhân ho gà thường không tăng lympho (ACCP 2006 mục B pertussis, Diagnosis). Khoảng tham chiếu công thức máu nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 2 mg/L.",
+     "bang": {
+      "crp": 2
+     },
+     "n": "Không cần: ho khan, không sốt, phổi sạch; CRP không phân biệt virus hay vi khuẩn (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.5, nguồn trích ở ca HH-0735)."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Phiếu bệnh viện quận (3 tuần trước): phổi hai bên sáng đều, không thâm nhiễm, rốn phổi không đậm, bóng tim bình thường.",
+     "n": "Cơ sở không có X-quang nên dùng lại phiếu cũ còn trong 4 tuần, không chụp lại (sổ HH-1355 số 2); nơi làm xét nghiệm sinh học phân tử có thể chụp lại. Phim bình thường là điều kiện của ho sau nhiễm (ACCP 2006 Definition) và là bước của trẻ < 2 tuổi nghi lao (QĐ 162/2024 Sơ đồ 3)."
+    },
+    "xpert": {
+     "v": "u",
+     "r": "Cơ sở không làm được. (Nếu gửi tuyến lao: dịch hút tỵ hầu của bé không phát hiện MTB.)",
+     "n": "Chỉ định cho bé: chuyển cơ sở chống lao làm xét nghiệm sinh học phân tử trên dịch tỵ hầu, dịch dạ dày hoặc phân (QĐ 162/2024 Phần II mục 3.4.1a, 3.4.1c, Sơ đồ 3); trẻ nhỏ không khạc đờm. Cũng làm ngay cho ÔNG NỘI (nguồn lây) ở phòng khám lao."
+    },
+    "igra": {
+     "v": "n",
+     "r": "Cơ sở không làm được. (Nếu gửi tuyến lao: Mantoux 3 mm, âm tính vì < 5 mm.)",
+     "n": "Không cần cho trẻ < 5 tuổi tiếp xúc hộ gia đình: chẩn đoán lao tiềm ẩn chỉ dựa vào loại trừ lao hoạt động (QĐ 162/2024 Phần IV mục 1.2.1). Ngưỡng âm tính khi nốt sẩn < 5 mm (Phần IV mục 1.2.3). Ở trẻ đã tiêm BCG, phản ứng < 10 mm chỉ là nghi ngờ (WHO Pocket book 2013 mục 4.7.2, tr. 116)."
+    },
+    "pcr_ho_hap": {
+     "v": "n",
+     "r": "Cơ sở không làm được. Panel SARS-CoV-2, cúm A/B, RSV: âm tính nếu gửi.",
+     "n": "Không cần: ho đã 5 tuần, đang giảm; kết quả không đổi xử trí. Panel không gồm Bordetella pertussis."
+    },
+    "cay": {
+     "v": "n",
+     "r": "Không làm được; trẻ nhỏ không khạc đờm.",
+     "n": "Ho khan, không đờm (QĐ 162/2024 mục 3.4.1a: bệnh phẩm trẻ em là dịch dạ dày, tỵ hầu)."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "r": "Âm tính (nếu gửi được tới nơi làm).",
+     "n": "Không có chỉ định: không có cơn ho dồn dập, không nôn sau ho, không ngưng thở (ACCP 2006 khuyến cáo 5). Muốn tìm ho gà phải lấy dịch tỵ hầu làm PCR hoặc cấy (ACCP 2006 mục Diagnosis; TL-0145 mục 7). Cơ sở không làm được."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ho kéo dài sau nhiễm virus (ho bán cấp 5 tuần, đang giảm dần), nhũ nhi 7 tháng",
+     "ok": 1,
+     "n": "Ho khởi phát sau viêm đường hô hấp trên cấp, ho khan, kéo dài > 3 tuần là ho bán cấp (QĐ 4235/2012, Ho kéo dài mục 2.1); ho sau nhiễm là ho ≤ 8 tuần, X-quang bình thường, tự hết (ACCP 2006 mục Definition và Treatment). ERS 2019: ho mạn ở trẻ là > 4 tuần, nguyên nhân hay gặp là sau nhiễm, hen, viêm phế quản vi khuẩn kéo dài. Ở bé này không có điểm chỉ dấu bệnh đặc hiệu (không sốt, không chậm tăng cân, không khò khè, không sặc), X-quang bình thường, ho giảm dần: nên quan sát thêm tối đa 4 tuần (ERS 2019, Chronic cough in children, Initial assessment). Chẩn đoán loại trừ, cần theo dõi: nếu ho > 8 tuần phải nghĩ nguyên nhân khác (ACCP 2006 khuyến cáo 3)."
+    },
+    {
+     "t": "Trẻ < 5 tuổi tiếp xúc hộ gia đình với người nghi lao phổi chưa chẩn đoán (ông nội ho kéo dài 2 tháng, gầy, đổ mồ hôi đêm)",
+     "ok": 1,
+     "n": "Ho kéo dài trên 2 tuần là triệu chứng nghi lao quan trọng nhất ở người lớn (QĐ 162/2024 Phần II mục 1.1a, Bảng 1; sổ mâu thuẫn HH-1355 số 2). Tiền sử tiếp xúc nguồn lây lao phổi ở trẻ là yếu tố nghi mắc lao và cần khám phát hiện bệnh (Phần II mục 3.4.1c). Trẻ tiếp xúc hộ gia đình < 5 tuổi là nhóm nguy cơ cao (Phần IV mục 1.1.1, 1.2.1); trẻ nhỏ là lứa tuổi miễn dịch chống lao kém nhất (WHO Pocket book 2013 mục 4.7.2, tr. 115). Đây là cờ đỏ của ca: phải hỏi, ghi nhận và xử trí dù bé hiện không có triệu chứng lao."
+    },
+    {
+     "t": "Mắt phải ghèn tái diễn, nhỏ thuốc có corticoid tự ý, chưa nhãn khoa theo dõi (nghi tắc ống lệ mũi)",
+     "ok": 1,
+     "n": "Thuốc đang dùng. AAO 2018 (Conjunctivitis PPP, mục Treatment): tránh dùng bừa kháng sinh hoặc corticoid nhỏ mắt; dùng corticoid kéo dài phải đo nhãn áp định kỳ để phát hiện glôcôm, đục thể thủy tinh (mục Follow-up). Tắc ống lệ mũi là yếu tố gặp ở nhũ nhi viêm kết mạc (AAO 2018, bảng viêm kết mạc nhiễm khuẩn ở trẻ nhũ nhi). Ảnh hưởng toàn thân của corticoid nhỏ mắt ở nhũ nhi: không có trong tài liệu đã tải. Không liên quan trực tiếp đến cơn ho nhưng cần dừng và chuyển nhãn khoa."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Loại trừ lâm sàng: không cơn ho dồn dập, không tiếng rít hít vào, không nôn sau ho, không ngưng thở hoặc tím, không xuất huyết dưới kết mạc, đã tiêm đủ 3 mũi vắc xin phối hợp, ho đang giảm. ACCP 2006 khuyến cáo 5: ho > 2 tuần kèm cơn ho dồn dập, nôn sau ho hoặc tiếng rít hít vào thì phải nghĩ ho gà. Nhũ nhi < 6 tháng có thể không rít mà chỉ ngưng thở hoặc tím (TL-0145 mục 3; WHO Pocket book 2013 mục 4.7.1, tr. 111; bé đã 7 tháng, không có các dấu này). Không làm PCR hay cho macrolid khi không có dấu hiệu gợi ý."
+    },
+    {
+     "t": "Hen phế quản (khò khè tái diễn) ở nhũ nhi",
+     "n": "Chưa đủ: chẩn đoán hen ở trẻ ≤ 5 tuổi cần cả ba điều kiện, trong đó ít nhất hai đợt khò khè cấp đã xác nhận hoặc một đợt cộng triệu chứng giữa các đợt, không có nguyên nhân khác, và đáp ứng điều trị (GINA 2026 mục 10, Box 10-2, tr. 195). Bé chưa từng khò khè thở ra; 'khè khè' là tiếng mũi (chú thích Box 10-2: cha mẹ hay gọi mọi tiếng thở ồn là 'khò khè'). Ho tăng khi trở trời và ba bị viêm mũi dị ứng chỉ là mồi nhử (QĐ 4235/2012, Ho kéo dài mục 2.2, mô tả ở người lớn). QĐ 1851/2020 chỉ áp dụng từ 12 tuổi nên không dùng cho bé."
+    },
+    {
+     "t": "Lao phổi, lao sơ nhiễm đang hoạt động",
+     "n": "Chưa nghĩ nhiều nhưng CHƯA loại trừ hoàn toàn vì bé có tiếp xúc nguồn lây. Điểm lâm sàng theo QĐ 162/2024 Phần II mục 3.4.1d2, Bảng 4: ho kéo dài trên 2 tuần +2, nhịp thở nhanh −1 (bé thở 38 l/p), không sốt kéo dài, không sụt cân, không hạch, không đổ mồ hôi đêm; X-quang bình thường: tổng điểm xa mức > 10. Bé thuộc nhóm < 2 tuổi có yếu tố nguy cơ nên cần chụp X-quang (Sơ đồ 3) - đã có phiếu bình thường. Quyết định: tái khám sau 2 tuần, ông nội đi khám lao ngay; bé làm xét nghiệm sinh học phân tử nếu lâm sàng không giảm (Sơ đồ 3)."
+    },
+    {
+     "t": "Viêm phổi, viêm tiểu phế quản, viêm phế quản vi khuẩn kéo dài (ho ướt)",
+     "n": "Không có: nhịp thở 38 l/p dưới ngưỡng thở nhanh 2–12 tháng ≥ 50 l/p (QĐ 708/2015, Viêm phổi cộng đồng ở trẻ em mục 3.1, tr. 101; WHO Pocket book 2013 mục 4.2.1, tr. 83), không rút lõm, không ran, X-quang sạch. Viêm phế quản vi khuẩn kéo dài là ho ƯỚT > 4 tuần, X-quang bình thường (ERS 2019, Chronic cough in children); bé ho KHAN nên không thuộc nhóm có chỉ định thử kháng sinh (ERS 2019 khuyến cáo 8)."
+    },
+    {
+     "t": "Dị vật đường thở, trào ngược dạ dày thực quản, hội chứng ho đường hô hấp trên (chảy dịch mũi sau)",
+     "n": "Không có sặc nghẹn đột ngột, dấu hiệu một bên khi khám (WHO Pocket book 2013 bảng 10, tr. 110); bé không sặc khi bú, không nôn trớ nhiều, tăng cân tốt. Ho khan thoáng qua với ít nhầy chảy sau họng là hậu quả của viêm đường hô hấp trên vừa qua (ACCP 2006 mục Pathogenesis), không phải bệnh riêng cần điều trị. Chẩn đoán thay thế khác (ví dụ HIV: mẹ HIV âm, bé không nấm miệng, không hạch) không có dấu hiệu (WHO Pocket book 2013 bảng 10)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nghe mẹ kể đủ ba nơi khám, xem lại từng đơn và phiếu X-quang cùng mẹ; nói rõ bé không có dấu hiệu nặng, vì sao các thuốc trước không giúp, và hôm nay không cho thêm thuốc",
+     "v": "c",
+     "n": "Tái lập niềm tin, không lặp lại thuốc, xét nghiệm vô ích. Ho sau nhiễm tự hết, không có vai trò của kháng sinh (ACCP 2006 mục Treatment); nhiễm virus thông thường chỉ cần chăm sóc hỗ trợ, không kháng sinh (WHO Pocket book 2013 mục 4.4, tr. 90). Ở trẻ, nỗi lo của người chăm sóc là động cơ chính đi khám (ERS 2019, đoạn về gánh nặng bệnh ở trẻ em)."
+    },
+    {
+     "t": "Dùng lại phiếu X-quang ngực bình thường cách 3 tuần, không chụp lại tại phòng khám này (nơi làm xét nghiệm sinh học phân tử có thể chụp lại theo chỉ định của họ)",
+     "v": "c",
+     "n": "Sổ mâu thuẫn HH-1355 số 2: phiếu bình thường ≤ 4 tuần thì dùng, không chụp lại; ERS 2019 khuyến cáo 1: không CT khi X-quang và khám bình thường."
+    },
+    {
+     "t": "Hỏi người trong nhà có ai ho kéo dài; ghi nhận ông nội ho 2 tháng, gầy, đổ mồ hôi đêm là nguồn nghi lao; viết giấy giới thiệu đưa ÔNG NỘI đến phòng khám lao/bệnh viện phổi trong tuần này để chụp X-quang và Xpert đờm",
+     "v": "c",
+     "n": "Ho > 2 tuần là người nghi lao (QĐ 162/2024 Phần II mục 1.1a, Bảng 1; Sơ đồ 1 tr. 24: X-quang và xét nghiệm vi sinh). Tiền sử tiếp xúc nguồn lây ở trẻ là yếu tố quan trọng (Phần II mục 3.4.1c). Xét nghiệm sinh học phân tử (Xpert) là xét nghiệm ban đầu chẩn đoán lao (QĐ 162/2024 Sơ đồ 2). Tìm nguồn lây là việc làm được ngay tại phòng khám dù không có Xpert."
+    },
+    {
+     "t": "Dặn tạm tách bé khỏi ông nội (không bế, không hôn, không ngủ chung phòng; ông đeo khẩu trang; không hút thuốc lào trong nhà) cho đến khi ông có kết quả",
+     "v": "c",
+     "n": "Phơi nhiễm khói thuốc là yếu tố kích thích ho khan ở trẻ (ERS 2019, Chronic cough in children, Initial assessment). Biện pháp tách nguồn lây không có số mục riêng trong tài liệu đã tải; đây là khuyến cáo thực hành dựa trên QĐ 162/2024 Phần IV mục 1.1.1 (nhóm tiếp xúc hộ gia đình)."
+    },
+    {
+     "t": "Không kê kháng sinh, thuốc ho, long đờm, kháng histamin, khí dung hay corticoid; chỉ nhỏ/hút mũi nước muối sinh lý khi nghẹt mũi, bú đủ",
+     "v": "c",
+     "n": "Cúm/cảm và ho sau nhiễm là bệnh virus tự khỏi; không kháng sinh; không dùng thuốc chứa atropin, codein, cồn hoặc long đờm vì có thể có hại (WHO Pocket book 2013 mục 4.4, tr. 90–91); làm sạch mũi trước cữ bú (cùng mục). Thuốc ho trung ương: tài liệu người lớn, không có liều trẻ em (QĐ 4235/2012 Ho kéo dài mục 3.2; ACCP 2006 khuyến cáo 4e cho người lớn). Codein không khuyến cáo ở trẻ em (ERS 2019 khuyến cáo 6a, ghi chú)."
+    },
+    {
+     "t": "Chuyển bé (không cấp cứu, bé ổn định, mẹ đưa đi) đến cơ sở chống lao/tuyến có Xpert để làm xét nghiệm sinh học phân tử trong tuần này, kèm giấy chuyển và phiếu X-quang cũ; hẹn tái khám sau 2 tuần để nhận kết quả của bé và của ông nội; ho còn quá tuần thứ 8 thì tìm nguyên nhân khác",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần II mục 3.4.1c: trẻ có tiền sử tiếp xúc nguồn lây được xác định là nghi mắc lao và cần khám phát hiện bệnh lao; Sơ đồ 3: trẻ < 2 tuổi có triệu chứng nghi lao (ho > 2 tuần) có yếu tố nguy cơ nên chụp X-quang ĐỒNG THỜI với xét nghiệm sinh học phân tử; bệnh phẩm trẻ em là dịch dạ dày, dịch tỵ hầu, phân (mục 3.4.1a), trẻ < 5 tuổi có thể cần nhập viện để lấy mẫu. Quan sát tối đa thêm 4 tuần (ERS 2019); ho > 8 tuần: nghĩ nguyên nhân khác (ACCP 2006 khuyến cáo 3)."
+    },
+    {
+     "t": "Dừng thuốc nhỏ mắt có corticoid tự ý; hẹn khám nhãn khoa để đánh giá ghèn, đo nhãn áp; trong lúc chờ vệ sinh mắt bằng nước muối sinh lý",
+     "v": "c",
+     "n": "AAO 2018 (Conjunctivitis PPP, Treatment): tránh kháng sinh/corticoid nhỏ mắt bừa bãi; corticoid dùng kéo dài phải đo nhãn áp (Follow-up). Cách vệ sinh mắt cho nhũ nhi: không có trong tài liệu đã tải (chỉ ghi vệ sinh bằng nước muối sinh lý theo hướng dẫn thông thường, không phải khuyến cáo có nguồn)."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại ngay: thở nhanh ≥ 50 l/p khi bé yên, rút lõm lồng ngực, ngưng thở hoặc tím khi ho, cơn ho dồn dập kèm nôn, bỏ bú, sốt kéo dài, sụt cân hoặc đường cân đi ngang",
+     "v": "c",
+     "n": "Ngưỡng thở nhanh 2–12 tháng ≥ 50 l/p (QĐ 708/2015 mục 3.1, tr. 101; WHO Pocket book 2013 mục 4.2.1, tr. 83). Dấu hiệu gợi ý ho gà ở nhũ nhi: ngưng thở, tím (WHO Pocket book 2013 mục 4.7.1, Bảng 10). Sụt cân/không tăng cân, sốt kéo dài, ho > 14 ngày: nghĩ lao (WHO Pocket book 2013 mục 4.7.2, tr. 115)."
+    },
+    {
+     "t": "Chụp lại X-quang ngực ở bệnh viện trước khi chuyển tuyến lao",
+     "v": "a",
+     "n": "Sổ mâu thuẫn HH-1355 số 2: chụp lại hoặc chuyển ngay chấm a. Không sai nhưng lặp lại xét nghiệm đã có trong 4 tuần."
+    },
+    {
+     "t": "Chỉ hẹn tái khám 2 tuần, điều trị hô hấp rồi mới xét làm xét nghiệm sinh học phân tử nếu ho không giảm",
+     "v": "a",
+     "n": "Sơ đồ 3 có nhánh X-quang bình thường thì điều trị bệnh hô hấp 1–2 tuần rồi mới làm xét nghiệm nếu lâm sàng không giảm, nên chấp nhận được; nhưng nhánh trẻ < 2 tuổi yêu cầu xét nghiệm sinh học phân tử đồng thời với X-quang và bé có tiếp xúc nguồn lây (mục 3.4.1c), nên đáp án chính là chuyển ngay. Chọn a vì bé ổn định, ho giảm và X-quang bình thường."
+    },
+    {
+     "t": "Thử corticoid hít (budesonid) 2–4 tuần cho ho khan kéo dài",
+     "v": "a",
+     "n": "ERS 2019 khuyến cáo 3b (có điều kiện, chất lượng thấp): thử ICS 2–4 tuần cho trẻ ho khan mạn. Hai thử nghiệm kèm theo chỉ gồm trẻ 1–10 và 6–17 tuổi, không gồm nhũ nhi < 1 tuổi nên không chọn làm đáp án; ca này ho đang giảm, theo dõi là đủ. Cùng hướng với sổ mâu thuẫn HH-1355 số 1 (ICS chấm a)."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin-clavulanat hoặc azithromycin) cho ho kéo dài",
+     "v": "w",
+     "n": "ACCP 2006 mục Treatment: kháng sinh không có vai trò; WHO Pocket book 2013 mục 4.4: không kháng sinh. ERS 2019 khuyến cáo 8 chỉ cho ho ƯỚT > 4 tuần có X-quang bình thường, không áp dụng cho ho khan. Ba nơi trước đã dùng không đỡ."
+    },
+    {
+     "t": "Kê siro ho (dextromethorphan, codein, thảo dược) hoặc thuốc long đờm cho bé",
+     "v": "w",
+     "n": "WHO Pocket book 2013 mục 4.4: không cho thuốc chứa atropin, codein, cồn (có thể có hại) hoặc thuốc long đờm; ERS 2019: codein không khuyến cáo ở trẻ em. Dextromethorphan theo QĐ 4235/2012 mục 3.2 là liều người lớn 30 mg; không có liều nhũ nhi trong tài liệu đã tải. Sổ mâu thuẫn HH-0671 số 3 và đề xuất NH-0199: thuốc ho/long đờm chấm w."
+    },
+    {
+     "t": "Khí dung salbutamol kèm budesonid thử 'cho chắc là hen'",
+     "v": "w",
+     "n": "Chẩn đoán hen ở trẻ ≤ 5 tuổi cần đủ ba điều kiện (GINA 2026 mục 10, Box 10-2, tr. 195); bé không có khò khè xác nhận. Thử thuốc không thay cho tiêu chuẩn chẩn đoán."
+    },
+    {
+     "t": "Cho prednisolon uống vài ngày để cắt ho",
+     "v": "w",
+     "n": "ACCP 2006 khuyến cáo 4d: prednisone chỉ cho người lớn có cơn ho dữ dội đã loại trừ nguyên nhân khác; ho gà không dùng corticoid (khuyến cáo 10). Sổ mâu thuẫn HH-1355 số 1: corticoid uống chấm w."
+    },
+    {
+     "t": "Kết luận 'chỉ là ho sau cảm', không hỏi người nhà, không giới thiệu ông nội đi khám và không chuyển bé",
+     "v": "w",
+     "n": "Bỏ sót cờ đỏ tiếp xúc nguồn lây lao ở trẻ < 5 tuổi (QĐ 162/2024 Phần II mục 3.4.1c; Phần IV mục 1.1.1, 1.2.1). Đây là sai sót quy trình dù bé khỏe."
+    },
+    {
+     "t": "Cho bé dùng tiếp thuốc nhỏ mắt có corticoid 'vì đang có sẵn'",
+     "v": "w",
+     "n": "AAO 2018 Treatment: tránh dùng bừa corticoid nhỏ mắt; dùng kéo dài cần theo dõi nhãn áp (Follow-up)."
+    },
+    {
+     "t": "Bắt đầu thuốc chống lao (HRZ) hoặc isoniazid dự phòng ngay cho bé",
+     "v": "w",
+     "n": "Chưa có chẩn đoán lao hoạt động ở bé; nguồn lây chưa được xác định. Lao tiềm ẩn ở trẻ < 5 tuổi chỉ chẩn đoán khi đã loại trừ lao hoạt động (QĐ 162/2024 Phần IV mục 1.2.1) và khi nguồn lây là bệnh nhân lao phổi. Thuốc chống lao 'thử' không có trong tài liệu cho ca chưa nghi chắc (WHO Pocket book 2013 mục 4.7.2 chỉ nói khi 'strongly suspected')."
+    },
+    {
+     "t": "Chỉ định CT ngực để loại trừ lao",
+     "v": "w",
+     "n": "ERS 2019 khuyến cáo 1: không CT thường quy khi X-quang và khám bình thường (tia xạ ở trẻ em); QĐ 162/2024 mục 3.4.1d1 tình huống 4 chỉ khi có triệu chứng nghi lao. Cơ sở cũng không có CT."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ho kéo dài sau nhiễm virus (ho bán cấp 5 tuần, ho khan, đang giảm dần), nhũ nhi nam 7 tháng, 7,6 kg, tăng trưởng bình thường",
+     "Trẻ < 5 tuổi tiếp xúc hộ gia đình với người nghi lao phổi chưa chẩn đoán (ông nội ho kéo dài 2 tháng, gầy, đổ mồ hôi đêm): CỜ ĐỎ; chưa có dấu hiệu lao hoạt động ở bé (X-quang 3 tuần trước bình thường, không sốt, không sụt cân, không hạch)",
+     "Mắt phải ghèn tái diễn, nghi tắc ống lệ mũi; đang nhỏ thuốc tobramycin–dexamethason tự ý ngắt quãng, cần nhãn khoa",
+     "Đã loại: ho gà, hen phế quản (ở trẻ ≤ 5 tuổi), viêm phổi/viêm phế quản vi khuẩn kéo dài, dị vật, trào ngược",
+     "Chỉ định: chuyển tuyến không cấp cứu (cơ sở chống lao/tuyến có Xpert) để làm xét nghiệm sinh học phân tử cho bé, đưa ông nội đi khám lao cùng tuần, không dùng thuốc, tái khám sau 2 tuần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng (bộ câu hỏi ho kéo dài ở trẻ: thời gian, ho đêm, cơn ho dồn dập kèm nôn hoặc rít, sụt cân, sốt kéo dài, tiếp xúc người ho lao hoặc ho gà, tiền sử khò khè, sặc dị vật, thuốc đã dùng: WHO Pocket book 2013 mục 4.7, tr. 109): hỏi diễn tiến ho (khô hay ướt, cơn ho dồn dập, nôn sau ho, ngưng thở) → khởi phát và tiền sử cảm → hỏi thuốc đã dùng ở 3 nơi, xem phiếu → HỎI NGƯỜI TRONG NHÀ CÓ AI HO KÉO DÀI (bắt buộc ở trẻ nhỏ ho > 2 tuần) → hỏi triệu chứng lao ở bé, đường cân → khám toàn thân, hạch, mắt, họng, phổi, bụng, da → cân đo → chỉ làm xét nghiệm khi đổi được xử trí.",
+     "Vì sao ho sau nhiễm: ho khan sau viêm đường hô hấp trên, không kèm bất kỳ dấu hiệu chỉ điểm bệnh đặc hiệu, ho giảm dần, X-quang bình thường; đây là chẩn đoán lâm sàng và loại trừ (ACCP 2006 mục Diagnosis). Ở nhũ nhi, ho sau nhiễm là một trong ba nguyên nhân phổ biến nhất của ho mạn cùng với hen và viêm phế quản vi khuẩn kéo dài (ERS 2019, Chronic cough in children). Ho bán cấp là ho 3–8 tuần (QĐ 4235/2012 Ho kéo dài mục 2.1), ngưỡng 'mạn' ở trẻ là 4 tuần (ERS 2019) và ngưỡng 'ho mạn' của WHO Pocket book 2013 là 14 ngày (mục 4.7): ba tài liệu dùng ba mốc khác nhau cho cùng bệnh cảnh, không mâu thuẫn mà chỉ khác định nghĩa; ca không phải ho > 8 tuần nên vẫn xếp ho sau nhiễm.",
+     "Loại trừ ho gà bằng lâm sàng: ACCP 2006 khuyến cáo 5 (ho > 2 tuần cộng cơn ho dồn dập, nôn sau ho hoặc rít hít vào thì phải nghĩ ho gà); ở trẻ < 2 tuổi nôn hoặc ngưng thở thường gặp hơn tiếng rít (ACCP 2006 mục Pertussis). Bé không có, ho đang giảm, đã tiêm đủ 3 mũi vắc xin phối hợp (TT 10/2024 Phụ lục bệnh bạch hầu: lịch lúc đủ 2 tháng, mỗi mũi cách ít nhất 1 tháng; bản chữ OCR). Không cần PCR (ACCP 2006: tìm vi khuẩn ở dịch tỵ hầu khi nghi ngờ), không cần macrolid.",
+     "Loại trừ hen: ở trẻ ≤ 5 tuổi cần đủ ba tiêu chí (khò khè tái diễn được xác nhận, không nguyên nhân khác, đáp ứng điều trị); bé không đủ, chỉ 'khè khè' do mũi (GINA 2026 mục 10, Box 10-1 và 10-2). Ho tăng khi trở trời là đặc điểm hay gặp ở hen của người lớn (QĐ 4235/2012 Ho kéo dài mục 2.2) nhưng cũng gặp ở ho sau nhiễm vì đường thở còn tăng nhạy cảm (ACCP 2006 mục Pathogenesis). Bản chữ QĐ 1851/2020 chỉ áp dụng từ 12 tuổi: không dùng cho bé.",
+     "Loại trừ lao: không đủ tiêu chuẩn lao hoạt động ở bé: không sốt kéo dài, không sụt cân, không hạch, X-quang bình thường, Bảng điểm lâm sàng QĐ 162/2024 Phần II mục 3.4.1d2 (ho > 2 tuần +2, thở nhanh −1) không gần ngưỡng > 10. Nhưng 'loại trừ' chưa là 'không có nguy cơ': tiếp xúc hộ gia đình nghi lao là cờ đỏ, trẻ < 2 tuổi mắc lao dễ thành thể nặng (WHO Pocket book 2013 mục 4.7.2, tr. 115), nên phải tìm nguồn lây (ông nội) và hẹn tái khám theo Sơ đồ 3.",
+     "Ba nơi trước không hiệu quả vì ho sau nhiễm tự hết, thuốc không rút ngắn được (ACCP 2006). Thứ còn thiếu là câu hỏi 'ai trong nhà đang ho'.",
+     "Mắt: AAO 2018 cảnh báo corticoid kéo dài không theo dõi nhãn áp; nhũ nhi ghèn tái diễn thường do tắc ống lệ mũi (AAO 2018, bảng nhũ nhi); cách xử trí tắc lệ đạo ở nhũ nhi (xoa bóp, thông lệ đạo): không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Nguyên tắc: không thuốc là đáp án chính; cái cần làm là giải thích, theo dõi có mốc và xử lý cờ đỏ. Ho sau nhiễm tự hết (ACCP 2006); không kháng sinh, không thuốc ho, không long đờm (WHO Pocket book 2013 mục 4.4).",
+     "Cờ đỏ: (1) ghi nhận tiếp xúc; (2) chuyển bé (không cấp cứu) đến cơ sở chống lao để làm xét nghiệm sinh học phân tử trên dịch tỵ hầu/dạ dày/phân, mang phiếu X-quang cũ (QĐ 162/2024 Phần II mục 3.4.1a, 3.4.1c, Sơ đồ 3); (3) đưa ÔNG NỘI đi chụp X-quang và Xpert đờm cùng tuần (Sơ đồ 1, Phần II mục 1.1a); (4) tách bé khỏi nguồn lây trong lúc chờ; (5) nếu ông nội dương tính và bé loại trừ lao hoạt động: isoniazid dự phòng 6 tháng (Phần IV mục 1.2.1, 2.2.1; Sơ đồ 7), bé 5,1–9,9 kg: 100 mg/ngày (10 mg/kg, khoảng 7–15, tối đa 300 mg), do tuyến lao chỉ định.",
+     "Mốc: Sơ đồ 3 (theo dõi sau 1–2 tuần nếu tốt lên), ERS 2019 (quan sát tối đa thêm 4 tuần), ACCP 2006 khuyến cáo 3 (ho > 8 tuần thì tìm nguyên nhân khác). Vì sao chuyển mà không chờ: bé < 2 tuổi, ho > 2 tuần, có tiếp xúc nguồn lây (Sơ đồ 3, mục 3.4.1c); phòng khám không có Xpert nên không tự làm được. Không cấp cứu vì bé ổn định, thở 38 l/p, SpO₂ 98%. Kết quả xét nghiệm của bé âm tính vẫn có thể phải làm lại với mẫu khác nếu lâm sàng nghi (mục 3.4.1a).",
+     "Tái khám sau 2 tuần là chọn của ca, nằm trong khoảng 1–2 tuần của Sơ đồ 3. Nếu bé sốt ≥ 39 °C gây quấy: paracetamol (WHO Pocket book 2013 mục 4.4); liều 10–15 mg/kg mỗi 6 giờ theo AWaRe 2022 (nguồn trích ở NH-0199).",
+     "Vì sao KHÔNG cho: kháng sinh (không có vai trò, ERS khuyến cáo 8 chỉ cho ho ướt); thuốc ho/long đờm (có thể có hại, tài liệu liều người lớn); khí dung salbutamol/budesonid (không đủ tiêu chuẩn hen); corticoid uống (khuyến cáo người lớn); CT (tia xạ ở trẻ, không chỉ định). ICS thử 2–4 tuần chấm a vì ERS 2019 khuyến cáo có điều kiện nhưng nghiên cứu không gồm nhũ nhi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ mũi",
+      "ham_luong": "0,9%, lọ nhỏ mũi dùng cho trẻ em",
+      "lieu": "Nhỏ vào mỗi bên mũi rồi hút nhẹ nhàng hoặc dùng khăn xoắn lau sạch; số giọt: không có trong tài liệu đã tải",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi, trước cữ bú và trước khi ngủ",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643/2015 (Viêm V.A mục 4.2; Viêm mũi xoang trẻ em mục 4.2.1: nguồn trích ở NH-0199); WHO Pocket book 2013 mục 4.4 (làm sạch mũi trước cữ bú). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Không kê thêm thuốc ho, kháng sinh, long đờm, kháng histamin, corticoid (uống, hít, khí dung)",
+      "ham_luong": "-",
+      "lieu": "-",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "ACCP 2006 mục Treatment; WHO Pocket book 2013 mục 4.4; ERS 2019 (codein không khuyến cáo ở trẻ em). Nếu sau này ông nội xác định lao phổi và bé được loại trừ lao hoạt động: isoniazid 10 mg/kg/ngày (khoảng 7–15), bé 5,1–9,9 kg uống 100 mg/ngày, 6 tháng (QĐ 162/2024 Phần IV mục 2.2.1, bảng viên nén) do tuyến lao chỉ định; không kê hôm nay."
+     }
+    ],
+    "dan_do": [
+     "Ho sau cảm có thể kéo dài vài tuần, giảm dần; hiện đang giảm là dấu hiệu tốt. Không cần thêm thuốc ho hay kháng sinh. Hút/nhỏ nước muối sinh lý nhẹ nhàng trước cữ bú, cho bú đủ.",
+     "Đưa ÔNG NỘI đi khám lao trong tuần này (phòng khám lao/bệnh viện phổi: chụp phổi, xét nghiệm đờm Xpert). Trong lúc chờ: ông đeo khẩu trang, không bế, không hôn, không ngủ chung phòng với bé, không hút thuốc lào trong nhà, mở cửa thoáng. Mang kết quả của ông đến buổi tái khám.",
+     "Đưa bé đến cơ sở chống lao theo giấy chuyển trong tuần này (không cấp cứu), mang phiếu X-quang cũ và sổ sức khỏe; tái khám sau 2 tuần để nhận kết quả của bé và ông nội. Quay lại ngay nếu: thở nhanh ≥ 50 l/p khi bé yên (đếm đủ 1 phút lúc nằm yên hoặc ngủ), rút lõm ngực, tím, ngưng thở hoặc cơn ho dồn dập kèm nôn, bỏ bú, sốt kéo dài, sụt cân hoặc cân đi ngang (QĐ 708/2015 mục 3.1, tr. 101; WHO Pocket book 2013 mục 4.7).",
+     "Dừng tự nhỏ thuốc mắt có corticoid; mang bé khám nhãn khoa để xác định nguyên nhân ghèn và đo nhãn áp; mang cả lọ thuốc đi.",
+     "Cả nhà không hút thuốc cạnh bé; bác sĩ đã xem lại đủ ba đơn và không lặp lại xét nghiệm nào; mẹ yên tâm là bé đang hồi phục, việc cần làm tiếp là kiểm tra nguồn lây trong nhà."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: bác sĩ không cho thuốc, chuyển bé (không cấp cứu) đến phòng khám lao có Xpert và đưa ông nội đi khám cùng tuần. Xpert dịch tỵ hầu của bé không phát hiện MTB, bé ổn; ông nội chụp phổi có hang nhỏ thùy trên phải, Xpert MTB phát hiện, không kháng rifampicin, vào chương trình điều trị lao. Bé tái khám sau 2 tuần: ho gần hết, tăng 0,3 kg, không sốt; đủ điều kiện loại trừ lao hoạt động nên phòng khám lao cho isoniazid 100 mg/ngày trong 6 tháng (QĐ 162/2024 Phần IV mục 1.2.1, 2.2.1); bé uống đều, không triệu chứng lao. Chẩn đoán của bé vẫn là ho sau nhiễm virus. (2) Xử trí ẩu (NEAR MISS): bác sĩ nghe phổi sạch rồi kê siro ho và khí dung budesonid 'cho dứt ho', nói 'chắc ho do trở trời', không hỏi người nhà, không chuyển làm xét nghiệm, không hẹn tái khám, không dặn dấu hiệu nguy hiểm, bảo mẹ cứ nhỏ tiếp thuốc mắt. Ho của bé tự hết sau khoảng 2 tuần nên cả nhà tin là nhờ thuốc. Bốn tháng sau ông nội ho ra máu nhập viện, Xpert dương tính; bé đã ngủ chung phòng liên tục, may mắn khám lại chưa có lao hoạt động nên chỉ cần dự phòng muộn. Kết quả tốt đến từ ho sau nhiễm vốn tự khỏi (ACCP 2006 mục Treatment) và may mắn chưa nhiễm lao thể nặng; trẻ nhỏ dễ thành lao nặng (WHO Pocket book 2013 mục 4.7.2, tr. 115). Kết cục tốt không hợp thức hóa quy trình sai.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: mẹ hoài nghi, mang túi thuốc cũ; cần xem lại từng đơn, không lặp lại thuốc và xét nghiệm vô ích (phiếu X-quang cũ bình thường dùng lại, không chụp lại).",
+  "Thay đổi thời tiết: mốc khởi phát có thật, ho tăng khi trở trời, nhưng đây là mồi nhử hen; bé chưa từng khò khè, 'khè khè' là tiếng mũi (GINA 2026 Box 10-2 chú thích).",
+  "Thuốc nhỏ mắt có corticoid tự ý: không liên quan ho, nhưng cần hỏi thuốc đang dùng, dừng và chuyển nhãn khoa (AAO 2018).",
+  "Chỉ có xét nghiệm cơ bản: không có X-quang, Xpert, Mantoux/PCR ho gà; dùng phiếu X-quang cũ, khai thác bệnh sử, giới thiệu nguồn lây đi khám lao.",
+  "Lý do thật 'muốn kiểm tra tổng quát': mẹ không tự kể chuyện ông nội ho; bác sĩ hỏi 'trong nhà có ai ho lâu không' mới lộ cờ đỏ."
+ ],
+ "bai_hoc_bien": [
+  "Ho sau nhiễm virus ở nhũ nhi là chẩn đoán loại trừ: cần X-quang bình thường, không có dấu chỉ điểm bệnh đặc hiệu, ho giảm dần; kiểm tra bằng thời gian, không bằng thuốc (ACCP 2006; ERS 2019).",
+  "Cờ đỏ là câu hỏi chưa ai hỏi: người ho kéo dài trong nhà, và trẻ < 2 tuổi có tiếp xúc phải được chuyển làm xét nghiệm sinh học phân tử. Ba nơi khám đã cho kháng sinh, khí dung, macrolid nhưng không ai hỏi (QĐ 162/2024 Phần II mục 3.4.1c).",
+  "Ba mốc thời gian khác nhau cho cùng bệnh cảnh: ho bán cấp 3–8 tuần (QĐ 4235), ho mạn trẻ em > 4 tuần (ERS 2019), ho mạn WHO Pocket book ≥ 14 ngày: dùng đúng mốc theo tuổi và theo mục đích, biết mốc 8 tuần để mở rộng chẩn đoán phân biệt.",
+  "Kết cục tốt không hợp thức hóa quy trình sai: ho tự hết sau khi kê thuốc không có nghĩa thuốc có tác dụng; bỏ sót tiếp xúc lao là sai dù bé khỏe."
+ ],
+ "diem_nho": [
+  "Ho kéo dài > 3 tuần; bán cấp 3–8 tuần, mạn > 8 tuần (QĐ 4235/2012 mục 2.1). Ở trẻ: ho mạn > 4 tuần (ERS 2019); WHO Pocket book 2013: ho mạn ≥ 14 ngày (mục 4.7).",
+  "Ho sau nhiễm: ≤ 8 tuần, X-quang bình thường, tự hết, không dùng kháng sinh; ho > 8 tuần thì nghĩ nguyên nhân khác (ACCP 2006 mục Definition, khuyến cáo 3).",
+  "Thở nhanh trẻ 2–12 tháng ≥ 50 l/p (QĐ 708/2015 mục 3.1; WHO Pocket book 2013 mục 4.2.1, tr. 83).",
+  "Hen ≤ 5 tuổi: cần ít nhất 2 đợt khò khè cấp (hoặc 1 đợt cộng triệu chứng giữa các đợt) được xác nhận, không nguyên nhân khác, đáp ứng điều trị (GINA 2026 Box 10-2, tr. 195).",
+  "Trẻ < 2 tuổi có triệu chứng nghi lao (ho > 2 tuần) và tiếp xúc nguồn lây: chụp X-quang ngực ĐỒNG THỜI xét nghiệm sinh học phân tử (QĐ 162/2024 Sơ đồ 3, tr. 31–32; mục 3.4.1c); X-quang không nghi lao mà lâm sàng tốt lên thì theo dõi; điểm > 10 mới chẩn đoán lao (Bảng 4, tr. 33).",
+  "Trẻ < 5 tuổi tiếp xúc hộ gia đình: chẩn đoán lao tiềm ẩn bằng cách loại trừ lao hoạt động; isoniazid 6 tháng, 10 mg/kg (7–15), tối đa 300 mg; 5,1–9,9 kg: 100 mg/ngày (QĐ 162/2024 Phần IV mục 1.2.1, 2.2.1).",
+  "Không cho trẻ: thuốc có atropin, codein, cồn, long đờm (WHO Pocket book 2013 mục 4.4); kháng sinh cho ho khan; corticoid mắt kéo dài không theo dõi nhãn áp (AAO 2018)."
+ ],
+ "nguon": [
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 (Hướng dẫn chẩn đoán và điều trị bệnh hô hấp): Hướng dẫn chẩn đoán và điều trị ho kéo dài, mục 2.1, 2.2, 2.3, 3.2, Bảng 1.1 (tr. 11–14); các liều trong bài là liều người lớn",
+  "TL-0160 · ACCP 2006 – Postinfectious cough: Definition, Prevalence, Diagnosis, Treatment, khuyến cáo 3, 4a–4e; mục B pertussis, khuyến cáo 5, 9, 10 (Chest 2006;129:138S–146S)",
+  "TL-0154 · ERS 2019 – chronic cough in adults and children: mục Definition, Chronic cough in children (Initial assessment), khuyến cáo 1, 3b, 6a ghi chú, 8",
+  "TL-0250 · WHO Pocket book of hospital care for children 2013: mục 4.2.1 (tr. 83), 4.4 (tr. 90–91), 4.7 + Bảng 10 (tr. 109–110), 4.7.1 (tr. 111–114), 4.7.2 (tr. 115–117)",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 (lao): Phần II mục 1.1a, 3.4.1 (a, c, d1, d2), Sơ đồ 3 (tr. 31–32), Bảng 4 (tr. 33); Phần IV mục 1.1.1, 1.2.1, 1.2.3, 2.2.1, Sơ đồ 7 (tr. 113)",
+  "TL-0137 · GINA 2026: mục 10 Diagnosis of asthma in children 5 years and younger, Box 10-1, 10-2 (tr. 192–195)",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 (hướng dẫn sử dụng kháng sinh): Viêm phổi cộng đồng ở trẻ em mục 3.1 (tr. 101)",
+  "TL-0266 · AAO Conjunctivitis Preferred Practice Pattern 2018: Treatment (đoạn mở đầu), Follow-up (corticoid kéo dài), bảng viêm kết mạc nhũ nhi",
+  "TL-0145 · Manitoba Pertussis Specific Disease Protocol 2025 (không phải CDC): mục 3 Clinical presentation, mục 7 Diagnosis",
+  "TL-0005 · TT 10/2024/TT-BYT: Phụ lục lịch tiêm (bản chữ OCR, cần xác nhận PDF): BCG sơ sinh; vắc xin phối hợp có bạch hầu lúc đủ 2 tháng, 3 mũi",
+  "TL-0130 · QĐ 5643/2015 (Viêm V.A cấp mục 4.2; Viêm mũi xoang trẻ em): nước muối sinh lý nhỏ mũi, theo cách trích ở ca NH-0199",
+  "Không có trong tài liệu đã tải: khoảng tham chiếu công thức máu nhũ nhi; số giọt và số lần nhỏ nước muối; vệ sinh mắt và xử trí tắc lệ đạo ở nhũ nhi; hấp thu toàn thân của corticoid nhỏ mắt ở nhũ nhi; liều dextromethorphan, antihistamin ở nhũ nhi; liều ICS cho nhũ nhi; nhịp tim bình thường theo tuổi (không dùng làm tiêu chí); biện pháp cách ly tiếp xúc ông nội–bé (chỉ là khuyến cáo thực hành); thuốc ho/long đờm thảo dược"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-12, viết: Sonnet): ca HH-1368, 1 lượt: ho kéo dài sau nhiễm virus ở nhũ nhi 7 tháng, có cờ đỏ là tiếp xúc hộ gia đình với ông nội ho 2 tháng nghi lao phổi chưa chẩn đoán; loại trừ ho gà, hen, lao hoạt động; đáp án không thuốc, tìm nguồn lây, tái khám 2 tuần.",
+  "Tài liệu đã đọc: TL-0131 bài Ho kéo dài; TL-0160 Definition, Treatment, khuyến cáo 3–5, 9–10; TL-0154 các mục trẻ em và khuyến cáo 3b, 8; TL-0250 mục 4.2.1, 4.4, 4.7; TL-0123 Phần II mục 3.4.1 và Phần IV mục 1.1–2.2; TL-0137 mục 10; TL-0015 mục 3.1; TL-0266 Treatment/Follow-up; TL-0145 mục 3, 7.",
+  "Biến sổ cái: khởi phát 'thay đổi thời tiết' = trời chuyển lạnh đầu tháng trước, ho tăng khi trở trời (mồi nhử hen); thuốc đang dùng 'thuốc nhỏ mắt corticoid' = tobramycin–dexamethason tự nhỏ; lý do thật 'muốn kiểm tra tổng quát'; nguồn lực cơ bản → khoa_cls khóa X-quang, siêu âm (CT, nội soi tự theo), Xpert/Mantoux/PCR khai kết quả nếu ở nơi có.",
+  "Chọn của ca: cơ sở KHÔNG có X-quang (phòng khám nhi tư chỉ xét nghiệm cơ bản); mẹ có phiếu X-quang cũ 3 tuần, bình thường, dùng lại; tái khám 2 tuần; ông nội là nguồn nghi lao; ket_luan chuyen_tuyen không cấp cứu (làm xét nghiệm sinh học phân tử cho bé theo Sơ đồ 3, đồng thời ông nội đi khám lao). Không dùng bảng cho công thức máu vì khoảng tham chiếu trong kho là của người lớn.",
+  "Mâu thuẫn: áp dụng sổ HH-1355 số 1, 2, 3; HH-0671 số 3 (thuốc ho/long đờm w); TM-0072 (corticoid nhỏ mắt tùy tiện w); NH-0256 (lịch tiêm TT 10/2024). Mới đề xuất: xem HH-1368_mau_thuan.md.",
+  "Hạn chế: bản chữ TT 10/2024 là OCR; TL-0145 là bản Manitoba không phải CDC; đề xuất thêm CLS 'PCR/cấy ho gà' vào danh mục.",
+  "12/10/2026 – trưởng nhóm (Opus): thêm CLS pcr_ho_ga (id mới trong danh mục); pcr_ho_hap giữ cho panel virus."
+ ]
+}

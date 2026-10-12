@@ -1,0 +1,942 @@
+{
+ "ma_ca": "MT-1209",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_bdmcd_man",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Bệnh động mạch chi dưới mạn",
+  "chan_doan_phai_loai_tru": [
+   "Hẹp ống sống",
+   "Huyết khối TM sâu"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Buôn bán nhỏ (bán rau củ ở chợ)",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Sáu",
+  "tuoi": 67,
+  "gioi": "Nữ",
+  "nghe": "Bán rau củ ở chợ, đứng quầy cả ngày",
+  "can_nang": 50,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ'; gọi con gái là 'con Hạnh'.",
+  "tinh_cach": "Lam lũ, tằn tiện, hay nói 'tôi khỏe, chẳng sao'. Sợ kim chích, tiếc tiền, tiếc buổi bán nên ngại xét nghiệm và chụp chiếu. Nghe hàng xóm nhiều hơn nghe thầy thuốc. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi cảm giác ('đau không', 'có sao không') thì bà đáp 'mỏi chút thôi, không sao'. Chỉ kể thật khi bác sĩ hỏi theo việc làm được: đi được bao xa, có phải dừng giữa đường, đêm ngủ có phải thõng chân. Hút thuốc thì nói 'ít thôi' hoặc 'bỏ rồi' cho đến khi hỏi số điếu cụ thể.",
+  "nguoi_nha": "con gái",
+  "ten_nguoi_nha": "Hạnh",
+  "ngoai_hinh": {
+   "da": "#c8946f",
+   "toc": "#b8b8b8",
+   "kieuToc": "bui",
+   "ao": "#8a7f5a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Muốn kiểm tra tổng quát",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 67 tuổi, bán rau củ ở chợ, con gái Hạnh đưa đi khám vì muốn kiểm tra tổng quát sau đợt rét. Bà cho biết mình khỏe, chỉ hơi mỏi chân. Huyết áp lúc tiếp đón 152/86 mmHg, mạch 78 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Sáu, 67 tuổi, bị giữ lại nhập viện để làm hết các xét nghiệm. Bà không đau khi nghỉ, không có vết thương, ABI phải 0,62 nên chưa phải thiếu máu chi đe dọa; điều trị nền (bỏ thuốc, statin, chống kết tập tiểu cầu, tập đi bộ) làm được ở ngoại trú (QĐ 2475/2022 mục 3.2–3.4). Bà tốn viện phí và mất cả tuần bán hàng, bỏ ra về giữa chừng vì sợ chích, và đến phòng khám lần sau nói 'khám tốn tiền mà chẳng được gì'.",
+    "chuyen_tuyen": "Bà Sáu được gửi lên bệnh viện tuyến trên để chụp mạch và tính chuyện tái thông. Tái thông chỉ nghĩ đến khi đau cách hồi vẫn nặng dù đã điều trị nội khoa tối ưu có tập vận động (ACC/AHA 2024 mục 9.1 KC2; QĐ 2475/2022 mục 3.5.1), mà bà chưa uống viên thuốc nào. Bà đã từ chối lấy máu và chụp nên ngại đi, cả hai chân vẫn không có thuốc nền, và bà không quay lại cho đến khi bệnh nặng hơn."
+   },
+   "loi_mo": "Chào bác sĩ. Con Hạnh bắt tôi đi khám tổng quát cho chắc chứ tôi khỏe lắm, chỉ hơi mỏi chân từ hồi trời rét. Bác sĩ khám cho nhanh để tôi còn về bán.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "152/86",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Con gái Hạnh bắt đi khám tổng quát cho chắc. Bà thấy mình khỏe, chỉ 'hơi mỏi chân' từ sau đợt rét đầu tháng. Hàng xóm cùng tuổi mới bị cắt chân nên con gái lo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, nỗi lo thật"
+    },
+    {
+     "id": "lanh",
+     "noi_dung": "Từ đợt không khí lạnh đầu tháng bà thấy bàn chân phải lạnh, mỏi hơn. Trước đợt rét cũng có mỏi nhưng bà nghĩ là do già, đứng quầy nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: đợt lạnh"
+    },
+    {
+     "id": "dau_cach_hoi",
+     "noi_dung": "Bắp chân phải chuột rút, nặng như đeo đá khi đi bộ khoảng 150–200 m (từ cổng chợ về nhà), phải đứng lại 3–5 phút mới đi tiếp, rồi đi lại thì cơn lại đến sau chừng đó. Tăng dần khoảng 3 tháng. Chân trái nhẹ hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có đau chân không' thì đáp 'mỏi chút thôi'. Chỉ kể khi bác sĩ hỏi theo chức năng: đi được bao xa, có phải dừng giữa đường không, dừng bao lâu, bưng rổ rau về nhà có khác trước không.",
+     "k": 1,
+     "y": "Đau cách hồi bắp chân phải: quãng đường, thời gian hồi phục"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Đứng yên, ngồi, nằm thì không đau; đứng lại vài phút (không cần ngồi, không cần cúi) là hết. Không đau lưng lan xuống chân, không tê, không đau hơn khi đứng lâu ở quầy. Gác chân lên không giúp thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau liên quan gắng sức, hết nhanh khi nghỉ, không theo tư thế lưng"
+    },
+    {
+     "id": "khong_phu",
+     "noi_dung": "Không sưng chân, không đau dọc bắp chân khi nằm, không phải nằm bất động, không mổ, không đi xe đường dài gần đây, chưa từng bị huyết khối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không gợi ý huyết khối tĩnh mạch sâu"
+    },
+    {
+     "id": "khong_loet",
+     "noi_dung": "Không có vết thương ở chân, không đau bàn chân khi nằm nghỉ ban đêm, ngủ không phải thõng chân khỏi giường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không đau khi nghỉ, không vết thương: chưa thiếu máu chi đe dọa"
+    },
+    {
+     "id": "hut_thuoc",
+     "noi_dung": "Hút thuốc lá khoảng 8 điếu mỗi ngày từ hồi 22 tuổi, hút lén lúc ngồi quầy vì ngại người quen thấy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có hút thuốc không' thì đáp 'ít thôi' hoặc 'bỏ rồi'. Chỉ nói thật khi bác sĩ hỏi cụ thể hôm qua hút mấy điếu, hút từ bao giờ.",
+     "k": 1,
+     "y": "Hút thuốc lá: số điếu, số năm"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Có uống 'viên trắng nhỏ' trị huyết áp mua ở tiệm thuốc đầu chợ, không nhớ tên, uống khi nhớ, có tuần quên mấy ngày. Ngoài ra thỉnh thoảng uống thuốc nam túi nilon của hàng xóm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng không rõ loại: hỏi thuốc huyết áp, thuốc tự mua, thuốc nam"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Phát hiện cao huyết áp cách đây 3 năm. Chưa từng thử đường huyết hay mỡ máu. Chưa bị đột quỵ, đau thắt ngực. Mẹ mất vì tai biến lúc 70 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử THA, yếu tố nguy cơ chưa được tầm soát"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bà không chịu lấy máu tĩnh mạch, không chịu siêu âm hay chụp: sợ chích, 'hút máu mất sức', tốn tiền và mất buổi bán. Chịu đo huyết áp ở chân, đo điện tim và thử giọt máu đầu ngón nếu bác sĩ giải thích kỹ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ đề nghị xét nghiệm máu, siêu âm hoặc chụp. Nếu bác sĩ ép hoặc không giải thích thì bà đòi về. Nếu giải thích rõ vì sao cần và có phương án nhẹ hơn thì bà đồng ý thăm dò không chích.",
+     "k": 1,
+     "y": "Từ chối xét nghiệm máu và chẩn đoán hình ảnh; chấp nhận thăm dò không xâm lấn"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 152/86, tay trái 150/84 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Gầy, 50 kg, BMI 21,4. Tỉnh, nói nhiều, tỏ ra khỏe. Da bàn chân phải khô, lông thưa.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi, không T3/T4.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3/T4."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch cảnh bắt rõ hai bên, không âm thổi. Không âm thổi bụng, bẹn. Mạch bẹn hai bên bắt được. Mạch khoeo phải yếu, trái bắt được. Mạch mu chân và chày sau phải không bắt được; mạch mu chân và chày sau trái yếu.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Chân phải lạnh hơn chân trái, nhợt khi nâng 45° một phút, đỏ tím khi thõng xuống; lông thưa, móng dày, bắp chân teo nhẹ, thời gian đổ đầy mao mạch ngón chân phải 3 giây. Không phù, không giãn tĩnh mạch, bóp bắp chân không đau. Không loét, không hoại tử, kẽ ngón khô.",
+     "k": 1,
+     "hien": "Không phù hai chân. Không vết thương hở ở bàn chân, kẽ ngón khô."
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng không đau, ưỡn lưng và cúi không gây đau chân. Lasègue âm tính. Gối hai bên lạo xạo nhẹ, không sưng, không tràn dịch.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Sức cơ 5/5, phản xạ gân gối và gót đều hai bên, cảm giác sợi monofilament còn đủ.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không khối đập, không âm thổi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "abi": {
+     "v": "e",
+     "r": "ABI phải 0,62 (huyết áp tâm thu cổ chân cao nhất 94 mmHg, cánh tay cao hơn 152 mmHg). ABI trái 0,84 (128/152).",
+     "ab": 1,
+     "n": "ABI ≤ 0,90 là bất thường (ACC/AHA 2024 mục 3.1 KC2; QĐ 2475/2022 mục 2.2.1: < 0,9 chẩn đoán BĐMCD, độ nhạy 79%, đặc hiệu 96%). ABI đo bằng máy đo huyết áp và Doppler cầm tay, không cần lấy máu nên là phương án B khi bà từ chối xét nghiệm."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 6,4 mmol/L, ăn sáng cách 3 giờ.",
+     "n": "Không đủ để chẩn đoán hay loại trừ đái tháo đường. QĐ 2475/2022 mục 3.2.3: mọi người bệnh BĐMCD nên được sàng lọc đái tháo đường, tiền đái tháo đường; cần đường huyết đói hoặc HbA1c khi bà đồng ý."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Bà không đồng ý lấy máu: 'chích hoài mất sức, tôi không làm'.",
+     "n": "Vẫn kê statin cường độ cao bất kể LDL-C ban đầu (QĐ 2475/2022 mục 3.2.2; ACC/AHA 2024 mục 5.2 KC1). Không có mỡ máu không phải lý do hoãn thuốc."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Bà không đồng ý lấy máu.",
+     "n": "Thiếu creatinin, kali thì thận trọng khi thêm ức chế men chuyển/chẹn thụ thể (QĐ 5904/2019 Phần 3 mục G, theo sổ mâu thuẫn MT-0166)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu tĩnh mạch.",
+     "thay_the": "glu_mm"
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu."
+    },
+    "ddimer": {
+     "n": "Không có chỉ định: không phù một chân, không đau dọc tĩnh mạch sâu, không yếu tố nguy cơ huyết khối (thang Wells, Wells 2003 Bảng: các mục sưng bắp chân ≥ 3 cm, phù lõm một chân, đau dọc hệ tĩnh mạch sâu đều không có)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh động mạch chi dưới mạn tính, đau cách hồi bắp chân phải (ABI phải 0,62, trái 0,84), chưa thiếu máu chi đe dọa; kèm tăng huyết áp chưa kiểm soát, hút thuốc lá",
+     "ok": 1,
+     "n": "Đau bắp chân khi đi, hết khi dừng vài phút, mạch mu chân và chày sau phải mất, ABI ≤ 0,90 (QĐ 2475/2022 mục 2.1.1, 2.1.2, 2.2.1; ACC/AHA 2024 Bảng 6, mục 3.1 KC2). Hút thuốc và tăng huyết áp là yếu tố nguy cơ chính (QĐ 2475/2022 mục 1)."
+    },
+    {
+     "t": "Hẹp ống sống thắt lưng (đau cách hồi thần kinh)",
+     "n": "Đau không theo tư thế: đứng yên lâu ở quầy không đau, không đỡ khi cúi hay ngồi, hết khi đứng nghỉ vài phút; Lasègue âm tính; mạch chân mất và ABI thấp mà hẹp ống sống thì ABI bình thường (ACC/AHA 2024 Bảng 7: hẹp ống sống đau mông, mặt sau chân, đỡ khi gập cột sống, nặng hơn khi đứng và ưỡn; QĐ 2475/2022 mục 2.1.3)."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu / đau cách hồi tĩnh mạch",
+     "n": "Không phù một chân, không đau dọc tĩnh mạch, không giãn tĩnh mạch, không yếu tố nguy cơ; đau cách hồi tĩnh mạch kiểu căng như muốn nổ, đỡ khi gác chân và có tiền sử huyết khối tĩnh mạch chậu đùi (ACC/AHA 2024 Bảng 7; Wells 2003). ABI giảm một bên, mạch mất: là nguyên nhân động mạch."
+    },
+    {
+     "t": "Thiếu máu chi đe dọa (CLTI)",
+     "n": "Không đau khi nghỉ, không loét, không hoại tử; CLTI là đau khi nghỉ, vết thương không lành hoặc hoại tử kéo dài > 2 tuần (ACC/AHA 2024 mục 2.1, Bảng 4). Là hạng mục cần nhắc lại ở lượt sau."
+    },
+    {
+     "t": "Thiếu máu chi cấp",
+     "n": "Khởi phát từ từ trong 3 tháng, không đau liên tục, không tái nhợt, không liệt, không mất cảm giác; thiếu máu chi cấp có triệu chứng < 2 tuần theo '6 chữ P' (QĐ 2475/2022 Tắc động mạch chi dưới cấp, mục 3.1; ACC/AHA 2024 Bảng 4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán dựa vào hỏi theo chức năng, khám mạch và ABI (không cần lấy máu); ghi hồ sơ bà từ chối xét nghiệm máu và chẩn đoán hình ảnh, lý do từ chối, đã giải thích nguy cơ; để cửa mở cho lần sau",
+     "v": "c",
+     "n": "ABI là xét nghiệm chẩn đoán đầu tay khi nghi BĐMCD (ACC/AHA 2024 mục 3.1 KC1; QĐ 2475/2022 mục 2.2.1). Cách ghi hồ sơ việc từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cai thuốc lá: khuyên bỏ ngay, hỏi lại ở mỗi lần khám, hẹn kế hoạch bỏ thuốc; đề nghị thuốc hỗ trợ (nicotine thay thế, varenicline, bupropion) kèm tư vấn",
+     "v": "c",
+     "n": "Cai thuốc là chỉ định tuyệt đối ở mọi giai đoạn BĐMCD (QĐ 2475/2022 mục 3.2.1; ACC/AHA 2024 mục 5.4 KC1, KC2). Liều thuốc hỗ trợ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Statin cường độ cao ngay, không chờ mỡ máu: atorvastatin 40 mg tối (hoặc rosuvastatin 20 mg)",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.2.2: rosuvastatin 20–40 mg, atorvastatin 40–80 mg, bất kể LDL-C ban đầu; ACC/AHA 2024 mục 5.2 KC1 (COR 1, A): statin cường độ cao, nhắm giảm LDL-C ≥ 50%. Đích LDL-C < 1,4 mmol/L hoặc giảm ≥ 50% (QĐ 2475/2022 mục 3.2.2; ESC 2024 Bảng khuyến cáo 9, mục 7.2.3)."
+    },
+    {
+     "t": "Thuốc chống kết tập tiểu cầu đơn: clopidogrel 75 mg mỗi ngày hoặc aspirin 75–100 mg mỗi ngày",
+     "v": "c",
+     "n": "Ở BĐMCD có triệu chứng: clopidogrel 75 mg (ACC/AHA 2024 mục 5.1 KC2, COR 1, B-R) hoặc aspirin (75–325 mg, ACC/AHA 2024 mục 5.1 KC3; 75–160 mg, ESC 2024 Bảng khuyến cáo 14, I A). Hai khoảng liều chồng nhau ở 75–100 mg nên không mâu thuẫn."
+    },
+    {
+     "t": "Tập đi bộ có cấu trúc tại nhà: đi đến khi đau vừa-nặng, nghỉ, đi lại, 30–45 phút mỗi ngày, ít nhất 3 buổi mỗi tuần, ít nhất 12 tuần; ghi sổ",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.4.1; ESC 2024 Bảng khuyến cáo 13: tập có giám sát là đầu tay (I, A); khi không có thì chương trình tập tại nhà có cấu trúc và theo dõi (gọi điện, sổ ghi) (IIa, A). Phòng khám không có phòng tập có giám sát."
+    },
+    {
+     "t": "Chăm sóc bàn chân: tự kiểm tra chân mỗi ngày, giày vừa chân mềm, không đi chân trần, ngưng ngâm chân nước nóng, dặn dấu hiệu đến ngay (đau bàn chân khi nằm, vết thương không lành, ngón chân tím đen, chân lạnh tái đột ngột)",
+     "v": "c",
+     "n": "ACC/AHA 2024 mục 5.8 KC1, KC2 (giáo dục chăm sóc chân; khám chân mỗi lần khám); QĐ 2475/2022 mục 3.6 (giữ chân sạch, giày vừa, mềm). Dấu hiệu thiếu máu chi cấp: 6 chữ P (QĐ 2475/2022 mục 3.1, tắc động mạch chi dưới cấp). Việc ngưng ngâm nước nóng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Huyết áp: giữ thuốc đang dùng, nhờ con mang vỉ thuốc lần sau, đo huyết áp tại nhà; mục tiêu < 140 mmHg, 130–139 mmHg ở người ≥ 65 tuổi (QĐ 2475) hoặc < 130/80 mmHg (ACC/AHA 2024)",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.2.4: tâm thu < 140, tối ưu 130–139 mmHg ở ≥ 65 tuổi, ưu tiên ức chế men chuyển/chẹn thụ thể nếu không chống chỉ định. ACC/AHA 2024 mục 5.3 KC2 (COR 1, B-R): < 130/< 80 mmHg; KC3: ức chế men chuyển/chẹn thụ thể. Hai mục tiêu khác nhau vì QĐ 2475 dẫn khuyến cáo trước 2022, ACC/AHA 2024 dựa trên hướng dẫn huyết áp ACC/AHA 2017 (xem sổ mâu thuẫn)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần để xem thuốc, thuốc lá, quãng đường đi; mang theo vỉ thuốc",
+     "v": "c",
+     "n": "Mốc tái khám 4 tuần: không có trong tài liệu đã tải; chọn để kiểm tra tuân thủ. Tập đi bộ đánh giá lại sau 12 tuần (QĐ 2475/2022 mục 3.4.1)."
+    },
+    {
+     "t": "Chuyển tuyến ngay để chụp mạch và tái thông",
+     "v": "w",
+     "n": "Tái thông cho đau cách hồi chỉ khi đáp ứng kém với điều trị nội khoa tối ưu gồm tập vận động (ACC/AHA 2024 mục 9.1 KC2; QĐ 2475/2022 mục 3.5.1). Chưa điều trị nền; bà từ chối chụp."
+    },
+    {
+     "t": "Chống đông liều đầy đủ (heparin, warfarin) cho BĐMCD có triệu chứng",
+     "v": "h",
+     "n": "ACC/AHA 2024 mục 5.1 KC13 (COR 3: Harm, A): không dùng chống đông liều đầy đủ khi không có chỉ định khác (rung nhĩ, van cơ học)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh động mạch chi dưới mạn tính, đau cách hồi bắp chân phải, ABI phải 0,62, trái 0,84",
+     "Chưa thiếu máu chi đe dọa; không phải thiếu máu chi cấp",
+     "Yếu tố nguy cơ: hút thuốc lá khoảng 8 điếu/ngày, tăng huyết áp chưa kiểm soát (152/86 mmHg), mỡ máu và đường huyết chưa biết (bà từ chối lấy máu)",
+     "Không phải hẹp ống sống, không phải huyết khối tĩnh mạch sâu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi theo chức năng (đi được bao xa, có phải dừng, dừng bao lâu), hỏi tư thế và nghỉ, hỏi sưng chân, hỏi hút thuốc cụ thể; khám mạch hai chân và tìm mạch mu chân, chày sau; đo ABI; mới đến chẩn đoán và xử trí (QĐ 2475/2022 mục 2.1.1: các câu hỏi về quãng đường, thời gian nghỉ, vị trí đau).",
+     "Vì sao là BĐMCD: đau bắp chân khi đi 150–200 m, hết sau vài phút dừng, mạch mu chân và chày sau phải mất, ABI phải 0,62 (≤ 0,90). Đau 2/3 trên bắp chân gợi ý động mạch đùi nông, 1/3 dưới gợi ý động mạch khoeo (QĐ 2475/2022 mục 2.1.2). Mạch khoeo phải yếu nên tổn thương nghiêng về tầng đùi–khoeo.",
+     "Phủ nhận triệu chứng: 'mỏi chút thôi' khi hỏi cảm giác, nhưng khi hỏi quãng đường thì có hạn chế rõ. Câu hỏi chức năng cho thông tin đúng hơn câu hỏi cảm giác.",
+     "Vì sao không phải hẹp ống sống: đau theo quãng đường, hết khi đứng nghỉ không cần cúi, không đau khi đứng lâu ở quầy, Lasègue âm tính, mạch chân mất (ACC/AHA 2024 Bảng 7). Vì sao không phải huyết khối tĩnh mạch sâu: không phù, không đau dọc tĩnh mạch, không yếu tố nguy cơ (Wells 2003).",
+     "Không có xét nghiệm máu: không biết LDL-C, đường huyết, creatinin. Vẫn xử trí được: statin cường độ cao bất kể LDL-C (QĐ 2475/2022 mục 3.2.2); đường huyết mao mạch 6,4 mmol/L không loại trừ đái tháo đường, cần sàng lọc khi bà đồng ý (QĐ 2475/2022 mục 3.2.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ba trụ cột điều trị nội khoa cho mọi người bệnh BĐMCD: bỏ thuốc lá, statin cường độ cao, chống kết tập tiểu cầu; cộng tập đi bộ và kiểm soát huyết áp (QĐ 2475/2022 mục 3.2, 3.3, 3.4.1; ACC/AHA 2024 mục 5.1–5.4).",
+     "Chưa có chỉ định tái thông: đau cách hồi cần thử điều trị nội khoa tối ưu gồm tập vận động trước (ACC/AHA 2024 mục 9.1 KC2; QĐ 2475/2022 mục 3.5.1).",
+     "Dặn dấu hiệu cảnh báo vì bệnh nhân hay giảm nhẹ triệu chứng: khi nặng lên bà có thể không tự đến."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 4 tuần",
+      "ghi_chu": "Statin cường độ cao: atorvastatin 40–80 mg hoặc rosuvastatin 20–40 mg, bất kể LDL-C ban đầu (QĐ 2475/2022 mục 3.2.2; ACC/AHA 2024 mục 5.2 KC1). Chưa có men gan, CK nền vì bà từ chối: không có trong tài liệu đã tải khuyến cáo xét nghiệm nền trước statin. Dặn báo ngay nếu đau cơ nhiều."
+     },
+     {
+      "thuoc": "Clopidogrel",
+      "ham_luong": "75 mg",
+      "lieu": "75 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "ACC/AHA 2024 mục 5.1 KC2 (clopidogrel 75 mg mỗi ngày). Có thể thay bằng aspirin 75–100 mg mỗi ngày (ESC 2024 Bảng khuyến cáo 14: 75–160 mg; ACC/AHA 2024 mục 5.1 KC3: 75–325 mg). Dặn chảy máu bất thường thì báo."
+     }
+    ],
+    "dan_do": [
+     "Bỏ thuốc lá hoàn toàn; hút thuốc làm bệnh nặng nhanh và tăng nguy cơ nhồi máu cơ tim, đột quỵ, mất chân (QĐ 2475/2022 mục 3.2.1, ACC/AHA 2024 mục 5.4). Hẹn nói chuyện về thuốc hỗ trợ cai khi bà sẵn sàng.",
+     "Đi bộ mỗi ngày 30–45 phút theo cách: đi đến khi đau vừa, đứng nghỉ cho hết, đi tiếp; ít nhất 3 buổi mỗi tuần, ít nhất 12 tuần; ghi sổ số phút và quãng đường (QĐ 2475/2022 mục 3.4.1; ESC 2024 Bảng khuyến cáo 13).",
+     "Uống thuốc mỗi ngày kể cả khi thấy khỏe; mang tất cả vỉ thuốc, kể cả thuốc nam, lần sau.",
+     "Chăm sóc bàn chân: nhìn kỹ chân mỗi tối, mang giày vừa mềm, không đi chân trần, không ngâm nước nóng (ACC/AHA 2024 mục 5.8).",
+     "Đến ngay nếu: đau bàn chân khi nằm nghỉ ban đêm, vết thương không lành, ngón chân tím đen, hoặc chân đột ngột lạnh, tái, tê hay yếu (QĐ 2475/2022 mục 3.1 tắc động mạch cấp: 6 chữ P).",
+     "Tái khám sau 4 tuần (mốc 4 tuần: không có trong tài liệu đã tải); nếu đồng ý thì lấy máu kiểm tra mỡ, đường, thận lần đó."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Bà Sáu tái khám sau 6 tuần (hẹn 4 tuần, bà đi trễ), con gái Hạnh đi cùng, mang theo vỉ thuốc huyết áp. Theo hướng dẫn lượt trước bà được kê atorvastatin 40 mg và clopidogrel 75 mg, dặn bỏ thuốc lá, tập đi bộ, chăm sóc chân. Bà nói 'chân vẫn chẳng đỡ'. Huyết áp 146/84 mmHg, mạch 80 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Sáu được nhập viện vì 'thuốc không đỡ, đi vẫn đau'. Bà không đau khi nghỉ, không có vết thương, ABI không đổi nên không có chỉ định nhập viện (ACC/AHA 2024 Bảng 4); nguyên nhân là bà chưa uống thuốc đủ. Bà nằm viện vài ngày, mất tiền, đến khi ra về vẫn sợ thuốc và không hiểu vì sao cần uống, nên lại bỏ.",
+    "chuyen_tuyen": "Bà Sáu được chuyển tuyến để chụp mạch và xét tái thông. Tái thông cho đau cách hồi chỉ khi đáp ứng kém với điều trị nội khoa tối ưu gồm tập vận động (ACC/AHA 2024 mục 9.1 KC2; QĐ 2475/2022 mục 3.5.1), mà bà chưa dùng đúng thuốc nền. Bà ngại chụp cản quang và chi phí, bỏ đi giữa chừng, và nỗi sợ thuốc vẫn chưa ai gỡ."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc kê lần trước uống rồi mà chân tôi có đỡ gì đâu. Vẫn đau như cũ, có khi còn hơn. Thuốc này chắc không hợp với tôi.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "146/84",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "tinh_trang",
+     "noi_dung": "Sau 6 tuần bà thấy 'chẳng đỡ'. Giờ đi khoảng 100 m từ cổng chợ là phải dừng, có hôm dừng hai lần mới về đến nhà. Bà nói thẳng: chuyến chợ buổi sáng mệt hơn trước.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có đỡ không' thì đáp 'cũng đỡ chút'. Chỉ nói đi được 100 m, dừng hai lần khi bác sĩ hỏi quãng đường cụ thể hoặc hỏi so với lần trước đi từ cổng chợ về nhà thế nào.",
+     "k": 1,
+     "y": "Quãng đường đi được so với lần trước"
+    },
+    {
+     "id": "statin",
+     "noi_dung": "Thuốc mỡ (atorvastatin) bà uống được khoảng 10 ngày thì ngưng vì hàng xóm nói 'thuốc đó hại gan, hại thận, uống là hết sức', cộng với đau mỏi người. Còn mấy viên trong hộp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc đều không' thì đáp 'đều lắm'. Chỉ thừa nhận khi bác sĩ hỏi từng thuốc, xem vỉ thuốc hoặc hỏi còn bao nhiêu viên.",
+     "k": 1,
+     "y": "Ngưng statin vì sợ hại gan: nguyên nhân không đỡ"
+    },
+    {
+     "id": "clopidogrel",
+     "noi_dung": "Thuốc loãng máu (clopidogrel) bà uống 'khi nhớ', chừng 3–4 ngày mỗi tuần. Đếm vỉ còn thừa nhiều viên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ yêu cầu xem vỉ thuốc hoặc hỏi tuần qua uống mấy ngày.",
+     "k": 1,
+     "y": "Uống clopidogrel không đều"
+    },
+    {
+     "id": "thuoc_ha",
+     "noi_dung": "Con gái mang theo vỉ thuốc huyết áp: là amlodipin 5 mg. Bà uống khi nhớ, nhiều hôm quên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc huyết áp đang dùng là amlodipin 5 mg, uống không đều"
+    },
+    {
+     "id": "hut_thuoc",
+     "noi_dung": "Bà bớt còn khoảng 5 điếu mỗi ngày, vẫn hút lén ở quầy. Bà nói bỏ hẳn thì 'buồn tay, bực người'. Bà nghe nói thuốc cai thuốc cũng tốn mà không chắc bỏ được.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có bỏ thuốc không' thì đáp 'bỏ rồi'. Chỉ nói số điếu khi bác sĩ hỏi hôm qua hút mấy điếu.",
+     "k": 1,
+     "y": "Hút thuốc còn 5 điếu/ngày"
+    },
+    {
+     "id": "di_bo",
+     "noi_dung": "Bà không tập đi bộ theo hướng dẫn: 'đi là đau nên thôi, ngồi cho đỡ'. Sổ ghi con gái đưa còn trống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không tập đi bộ"
+    },
+    {
+     "id": "khong_dau_nghi",
+     "noi_dung": "Ban đêm không đau bàn chân, ngủ yên, không phải thõng chân. Không có vết thương mới. Chân phải vẫn lạnh hơn chân trái.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa đau khi nghỉ, chưa vết thương (chưa CLTI)"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không khó thở khi nằm, không phù chân, không hồi hộp, không ngất. Không đau ngực khi đi bộ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không suy tim, không rối loạn nhịp: cần biết trước khi nghĩ đến cilostazol"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bà vẫn từ chối lấy máu, siêu âm, chụp: 'giờ tôi đang uống thuốc rồi thì thử máu làm gì'. Chịu làm điện tim.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ đề nghị xét nghiệm máu hoặc chụp. Nếu bác sĩ giải thích lợi ích cụ thể cho bà (biết có cần tăng thuốc không) thì bà nói 'để tôi nghĩ'.",
+     "k": 1,
+     "y": "Vẫn từ chối xét nghiệm máu và hình ảnh"
+    },
+    {
+     "id": "lo",
+     "noi_dung": "Bà sợ phải uống thuốc cả đời và sợ 'ăn thuốc nhiều hư người'. Con gái muốn mẹ bỏ bán hàng buổi sáng nhưng bà không nghe.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao ngại uống thuốc hoặc bà lo điều gì khi dùng thuốc lâu dài.",
+     "k": 1,
+     "y": "Nỗi sợ thuốc dài hạn: nguyên nhân tuân thủ kém"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, không đau mặt, nói nhiều. Cân nặng 50 kg như lần trước.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch như lần trước: bẹn hai bên bắt được, khoeo phải yếu, mu chân và chày sau phải không bắt được; trái yếu. Không âm thổi.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Chân phải lạnh, nhợt khi nâng, đỏ tím khi thõng, thời gian đổ đầy mao mạch 3 giây. Kẽ ngón 3–4 chân phải ẩm, trắng, nứt da dài khoảng 3 mm, không loét, không chảy dịch, không sưng đỏ. Không phù, không hoại tử.",
+     "k": 1,
+     "hien": "Không phù hai chân. Kẽ ngón 3–4 chân phải ẩm, có vết nứt nhỏ, không chảy dịch."
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 78 l/p, không rung nhĩ, không ngoại tâm thu thất, không ST chênh.",
+     "n": "Loại trừ rối loạn nhịp thất trước khi cân nhắc cilostazol, chống chỉ định ở suy tim, rối loạn nhịp thất (QĐ 2475/2022 mục 3.4.2; ACC/AHA 2024 mục 5.7 KC3)."
+    },
+    "abi": {
+     "v": "u",
+     "r": "ABI phải 0,60 (cổ chân 88 mmHg, cánh tay 146 mmHg). ABI trái 0,84.",
+     "ab": 1,
+     "n": "Gần như không đổi so với lần trước: không phải biến chứng mới mà là chưa điều trị nền. Không bắt buộc đo lại."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Bà không đồng ý lấy máu.",
+     "n": "Statin vẫn chỉ định bất kể LDL-C (QĐ 2475/2022 mục 3.2.2)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Bà không đồng ý lấy máu.",
+     "n": "Thiếu creatinin, kali nên chưa thêm ức chế men chuyển (QĐ 5904/2019 Phần 3 mục G)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu tĩnh mạch.",
+     "thay_the": "glu_mm"
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh động mạch chi dưới mạn tính, đau cách hồi bắp chân phải chưa đỡ do điều trị nền không được thực hiện (ngưng statin, uống clopidogrel không đều, còn hút thuốc, không tập đi bộ); chưa thiếu máu chi đe dọa",
+     "ok": 1,
+     "n": "Triệu chứng và ABI không đổi; không đau khi nghỉ, không loét (ACC/AHA 2024 Bảng 4). Thất bại do không tuân thủ, không phải do đề kháng thuốc: bà chưa dùng liệu pháp nền đủ liều đủ thời gian (QĐ 2475/2022 mục 3.2–3.4)."
+    },
+    {
+     "t": "Chẩn đoán sai từ đầu (hẹp ống sống, huyết khối tĩnh mạch sâu)",
+     "n": "Mạch chân phải mất và ABI 0,60 không đổi, đau theo quãng đường, vẫn không phù và không đau theo tư thế lưng (ACC/AHA 2024 Bảng 7). Không có lý do nghĩ lại chẩn đoán."
+    },
+    {
+     "t": "Thiếu máu chi đe dọa (CLTI) hoặc thiếu máu chi cấp",
+     "n": "Không đau bàn chân ban đêm, không vết thương, không hoại tử, không liệt hay mất cảm giác (ACC/AHA 2024 Bảng 4; QĐ 2475/2022 tắc động mạch chi dưới cấp, mục 3.1)."
+    },
+    {
+     "t": "Suy tim hoặc rối loạn nhịp thất",
+     "n": "Không khó thở, không phù, nhịp xoang đều; cần loại trừ trước cilostazol (QĐ 2475/2022 mục 3.4.2; ACC/AHA 2024 mục 5.7 KC3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chạy quy trình thất bại điều trị trước khi tăng bậc: hỏi từng thuốc và xem vỉ thuốc, lý do ngưng, số điếu thuốc, việc tập đi bộ; tìm nỗi sợ gốc rễ",
+     "v": "c",
+     "n": "Điều trị nội khoa bảo tồn là nền tảng cho mọi bệnh nhân BĐMCD (QĐ 2475/2022 mục 3.2). Cách hỏi tuân thủ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích statin giảm biến cố tim mạch và biến cố chi, uống bù từng bước; bắt đầu lại atorvastatin 40 mg tối",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.2.2; ACC/AHA 2024 mục 5.2 KC1 (COR 1, A). Số liệu an toàn gan, thận của statin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống clopidogrel 75 mg mỗi ngày đều (hoặc aspirin 75–100 mg), gắn vào giờ ăn sáng",
+     "v": "c",
+     "n": "ACC/AHA 2024 mục 5.1 KC2; ESC 2024 Bảng khuyến cáo 14 (I, A)."
+    },
+    {
+     "t": "Cai thuốc lá: nhắm bỏ hẳn, đề nghị thuốc hỗ trợ kèm tư vấn, hẹn ngày bỏ",
+     "v": "c",
+     "n": "ACC/AHA 2024 mục 5.4 KC1, KC2 (COR 1, A); QĐ 2475/2022 mục 3.2.1."
+    },
+    {
+     "t": "Chương trình đi bộ tại nhà có theo dõi: mục tiêu 30–45 phút mỗi ngày, ghi sổ, con gái nhắc, gọi điện hoặc nhắn tin mỗi tuần",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 13 (IIa, A: chương trình tại nhà có cấu trúc, theo dõi bằng điện thoại, sổ ghi); QĐ 2475/2022 mục 3.4.1."
+    },
+    {
+     "t": "Cilostazol 100 mg × 2 lần/ngày để tăng quãng đường đi",
+     "v": "a",
+     "n": "Chỉ định cho đau cách hồi (QĐ 2475/2022 mục 3.4.2; ACC/AHA 2024 mục 5.7 KC1, COR 1, A); không suy tim, điện tim bình thường. Chưa cần ngay vì bà chưa dùng liệu pháp nền; thêm sau khi tuân thủ ổn cũng đúng. Thận trọng khi dùng cùng clopidogrel vì nguy cơ chảy máu (QĐ 2475/2022 mục 3.4.2)."
+    },
+    {
+     "t": "Huyết áp: uống amlodipin 5 mg đều mỗi ngày, đo tại nhà, thêm ức chế men chuyển/chẹn thụ thể khi có creatinin và kali",
+     "v": "c",
+     "n": "Mục tiêu theo QĐ 2475/2022 mục 3.2.4 hoặc ACC/AHA 2024 mục 5.3 KC2 (xem lượt 1). Khi người bệnh từ chối xét nghiệm máu: amlodipin đơn trị rồi nâng bậc khi có creatinin, kali (sổ mâu thuẫn MT-0166)."
+    },
+    {
+     "t": "Chăm sóc kẽ ngón chân phải: giữ khô, đổi giày rộng mũi mềm, không ngâm nước nóng, thấy vết loét hoặc chảy dịch thì đến ngay",
+     "v": "c",
+     "n": "ACC/AHA 2024 mục 5.8 KC1–KC3 (giáo dục chăm sóc chân; khám chân mỗi lần khám; giày thích hợp); QĐ 2475/2022 mục 3.6 (giữ chân sạch, tránh trầy xước, giày vừa và mềm). Thuốc điều trị nấm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần kiểm tra tuân thủ, sau 12 tuần đánh giá lại quãng đường đi",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.4.1: tập ít nhất 12 tuần rồi đánh giá lại. Mốc 4 tuần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển tuyến chụp mạch, tái thông ngay vì thuốc 'không đỡ'",
+     "v": "w",
+     "n": "Chưa có điều trị nội khoa tối ưu: chưa dùng statin, thuốc chống kết tập tiểu cầu đều, chưa tập (ACC/AHA 2024 mục 9.1 KC2; QĐ 2475/2022 mục 3.5.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh động mạch chi dưới mạn tính, đau cách hồi bắp chân phải chưa đỡ (ABI phải 0,60, trái 0,84); chưa CLTI",
+     "Nguyên nhân không đỡ: ngưng statin vì sợ hại gan, uống clopidogrel không đều, còn hút 5 điếu/ngày, không tập đi bộ",
+     "Tăng huyết áp chưa kiểm soát (146/84 mmHg), uống amlodipin 5 mg không đều",
+     "Nứt kẽ ngón 3–4 chân phải, chưa nhiễm trùng, chưa loét"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình thất bại điều trị theo thứ tự: tuân thủ thuốc, yếu tố nguy cơ còn tiếp diễn (thuốc lá), tập vận động, rồi mới đến chẩn đoán sai hay biến chứng. Xem vỉ thuốc và hỏi từng thuốc cho kết quả khác với câu 'tôi uống đều lắm'.",
+     "Không có dấu hiệu tiến triển: ABI 0,60 gần như cũ, không đau khi nghỉ, không vết thương. Không đỡ ở đây do điều trị nền chưa thực sự được thực hiện (QĐ 2475/2022 mục 3.2–3.4).",
+     "Từ chối xét nghiệm vẫn còn: không ép; ghi nhận lại; nói rõ xét nghiệm giúp quyết định tăng thuốc huyết áp, thêm rivaroxaban hay không."
+    ],
+    "phan_tich_xu_tri": [
+     "Tăng bậc thuốc khi chưa dùng đúng thuốc nền là sai thứ tự; việc đầu tiên là làm bà uống lại và đều (QĐ 2475/2022 mục 3.2: điều trị nội khoa là nền tảng).",
+     "Huyết áp: xử trí theo nguyên tắc người từ chối xét nghiệm máu (sổ mâu thuẫn MT-0166): amlodipin đơn trị đều đặn, nâng bậc khi có creatinin, kali."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 4 tuần",
+      "ghi_chu": "QĐ 2475/2022 mục 3.2.2 (atorvastatin 40–80 mg); ACC/AHA 2024 mục 5.2 KC1. Dùng nốt số viên còn lại rồi cấp thêm."
+     },
+     {
+      "thuoc": "Clopidogrel",
+      "ham_luong": "75 mg",
+      "lieu": "75 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "ACC/AHA 2024 mục 5.1 KC2; có thể thay bằng aspirin 75–100 mg (ESC 2024 Bảng khuyến cáo 14: 75–160 mg)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng cùng giờ, cùng clopidogrel",
+      "so_ngay": "Dùng lâu dài; tái khám sau 4 tuần",
+      "ghi_chu": "Thuốc bà đã có (vỉ con gái mang theo). Nâng bậc khi có creatinin, kali (sổ mâu thuẫn MT-0166). Mục tiêu huyết áp theo QĐ 2475/2022 mục 3.2.4 hoặc ACC/AHA 2024 mục 5.3 KC2."
+     },
+     {
+      "thuoc": "Cilostazol (tùy chọn, chấm a)",
+      "ham_luong": "100 mg",
+      "lieu": "100 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Trước ăn 30 phút hoặc sau ăn 2 giờ",
+      "so_ngay": "Thử, đánh giá lại sau 12 tuần cùng quãng đường đi",
+      "ghi_chu": "QĐ 2475/2022 mục 3.4.2. Chống chỉ định: suy tim, rối loạn nhịp thất, dị ứng; thận trọng nguy cơ chảy máu cao. Thời gian thử thuốc: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bắt đầu lại thuốc mỡ đều mỗi tối; nếu đau cơ nhiều hoặc nước tiểu sẫm màu thì báo. Hàng xóm mỗi người một bệnh, thuốc này được khuyến cáo cho mọi người bị bệnh mạch chân (QĐ 2475/2022 mục 3.2.2).",
+     "Đặt hẹn ngày bỏ thuốc lá; bà chọn thuốc hỗ trợ nào thì dùng kèm (ACC/AHA 2024 mục 5.4 KC2).",
+     "Đi bộ theo sổ 30–45 phút mỗi ngày; con gái ghi số phút; không ngồi chờ hết đau mới đi (QĐ 2475/2022 mục 3.4.1).",
+     "Đến ngay nếu: đau chân khi nằm, vết loét mới, ngón chân tím đen, chân đột ngột lạnh tái (QĐ 2475/2022 mục 3.1 tắc động mạch cấp).",
+     "Tái khám sau 4 tuần (mốc 4 tuần: không có trong tài liệu đã tải), mang vỉ thuốc và sổ đi bộ; đánh giá lại sau 12 tuần (QĐ 2475/2022 mục 3.4.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Bà Sáu, 67 tuổi, con gái Hạnh đưa đến sau 4 tháng. Theo hướng dẫn bà đã đi bộ đều và thuốc nền đúng hướng; nhưng đợt rét đậm cuối tháng bà thấy chân phải lại đau buốt, ngủ không yên. Huyết áp 158/90 mmHg, mạch 84 l/p, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Sáu được cho về và hẹn tái khám sau 2 tuần, dặn tiếp tục tập đi bộ. Bà có đau khi nghỉ, loét kẽ ngón 3–4 chân phải hơn 2 tuần và ABI 0,42 nên đã là thiếu máu chi đe dọa, cần đánh giá tái thông (ACC/AHA 2024 mục 10.2 KC1; QĐ 2475/2022 mục 3.5.1). Hai tuần sau vết loét lan, ngón 4 tím đen, bà đến muộn và phải bàn chuyện cắt ngón chân trong khi lẽ ra còn cơ hội can thiệp bảo tồn chi.",
+    "theo_doi": "Bà Sáu được giữ lại phòng khám vài giờ theo dõi rồi cho về. Bệnh không biến đổi trong vài giờ mà do chân thiếu máu mạn tính, phòng khám không có chụp mạch hay can thiệp (QĐ 2475/2022 mục 3.5.1). Bà ngồi chờ cả buổi, con gái mất ngày công, và bà về nhà vẫn chưa có kế hoạch tái thông, bà tin 'chắc không có gì nặng' nên bỏ không đi tuyến trên."
+   },
+   "loi_mo": "Bác sĩ ơi, dạo này chân tôi lại đau, trời rét là đau thêm. Chắc do già thôi, bác sĩ cho thuốc giảm đau là được, đừng bắt tôi đi đâu nữa.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "158/90",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau lượt 2 bà uống thuốc đều, đi bộ theo sổ, bớt còn 2 điếu thuốc mỗi ngày. Sau 2 tháng đi được khoảng 400 m mới đau, bà mừng và hết thuốc trước Tết nên không mua tiếp vì 'đã khỏe'. Đợt rét đậm cuối tháng chân lại lạnh buốt, đau trở lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng ban đầu rồi tái phát: ngưng thuốc khi thấy khỏe, đợt lạnh thứ hai"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Bà hết atorvastatin và clopidogrel khoảng 5 tuần nay, không mua tiếp vì tiếc tiền, vì 'khỏe rồi thì thôi'. Hút lại khoảng 10 điếu mỗi ngày từ khi con trai làm ăn thua lỗ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc đều không' thì đáp 'cũng uống'. Chỉ nhận đã ngưng khi bác sĩ hỏi từng thuốc, thuốc hết chưa, hút mấy điếu mỗi ngày.",
+     "k": 1,
+     "y": "Ngưng thuốc nền và hút thuốc lại: nguyên nhân tái phát"
+    },
+    {
+     "id": "dau_nghi",
+     "noi_dung": "Hai tuần nay bàn chân phải đau nhói về đêm, thức giấc, phải thõng chân khỏi giường hoặc ngồi dậy xoa chân mới ngủ lại được. Bà nghĩ 'tuổi già đau xương' nên không nói con.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'chân có đau không' thì đáp 'đau chút'. Chỉ nói đau đêm khi bác sĩ hỏi đêm ngủ có thức giấc không, có phải thõng chân khỏi giường không.",
+     "k": 1,
+     "y": "Đau bàn chân khi nghỉ ban đêm, đỡ khi thõng chân: CLTI"
+    },
+    {
+     "id": "vet_loet",
+     "noi_dung": "Kẽ ngón 3–4 chân phải từ vết nứt cũ giờ thành vết loét khoảng 1 cm, đã 3 tuần không lành. Bà tự bôi thuốc nam, ngâm nước nóng. Vết loét không đau nhiều, ít dịch trong, không có mủ, không sốt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà giấu vì sợ bị cắt chân. Chỉ cho xem khi bác sĩ nói cần khám chân hoặc hỏi có vết thương không lành.",
+     "k": 1,
+     "y": "Vết loét không lành > 2 tuần, chưa nhiễm trùng"
+    },
+    {
+     "id": "khoi_phat_cap",
+     "noi_dung": "Đau không đến đột ngột, bàn chân không tái nhợt hay tê liệt đột ngột, không yếu chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không phải thiếu máu chi cấp"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bà lại từ chối lấy máu và chụp: 'đằng nào cũng sợ cắt chân, đi làm gì'. Khi được giải thích nguy cơ mất chân và rằng chỉ tuyến trên mới can thiệp được mạch, bà đồng ý đi với điều kiện có con Hạnh theo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ đề nghị xét nghiệm máu hoặc chụp. Nếu bác sĩ giải thích nguy cơ mất chân bằng lời đơn giản, nhắc đến nỗi sợ cắt chân của bà và nói con đi cùng, bà đồng ý chuyển tuyến.",
+     "k": 1,
+     "y": "Từ chối xét nghiệm tại phòng khám, đồng ý chuyển tuyến sau khi được giải thích"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt mặt vì mất ngủ. Sụt 2 kg còn 48 kg. Không sốt.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch bẹn hai bên bắt được; khoeo phải khó bắt; mu chân và chày sau phải không bắt được; trái yếu. Không âm thổi.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Chân phải lạnh, nhợt khi nâng, đỏ tím khi thõng, mao mạch ngón chân đổ đầy hơn 4 giây. Ngón 4 hơi tím sẫm đầu ngón. Kẽ ngón 3–4: vết loét tròn khoảng 1 × 0,8 cm, đáy nhợt, rìa gọn, ít dịch trong, không mủ, không đỏ lan, không có mùi. Không phù. Chân trái ấm hơn.",
+     "k": 1,
+     "hien": "Kẽ ngón 3–4 chân phải có vết loét khoảng 1 × 0,8 cm, ít dịch trong, không mủ, quanh vết loét không sưng đỏ. Ngón 4 hơi sẫm màu. Không phù."
+    }
+   },
+   "cls": {
+    "abi": {
+     "v": "e",
+     "r": "ABI phải 0,42 (cổ chân 66 mmHg, cánh tay cao hơn 158 mmHg). ABI trái 0,76 (120/158).",
+     "ab": 1,
+     "n": "ABI < 0,5: nguy cơ cắt cụt chi cao (QĐ 2475/2022 mục 2.2.1). Kèm đau khi nghỉ và loét: thiếu máu chi đe dọa (ACC/AHA 2024 mục 2.1, Bảng 4)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu ở phòng khám.",
+     "n": "Sẽ làm tại tuyến trên cùng bộ xét nghiệm chuẩn bị tái thông."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu tĩnh mạch.",
+     "thay_the": "glu_mm"
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu ở phòng khám."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh động mạch chi dưới mạn tính, tái phát nặng lên thành thiếu máu chi đe dọa (CLTI): đau khi nghỉ và loét kẽ ngón 3–4 chân phải kéo dài > 2 tuần, ABI phải 0,42; nguyên nhân tái phát: ngưng statin, clopidogrel, hút thuốc lại",
+     "ok": 1,
+     "n": "CLTI là đau khi nghỉ, vết thương không lành hoặc hoại tử kéo dài > 2 tuần (ACC/AHA 2024 mục 2.1, Bảng 4); đau khi nghỉ đỡ khi thõng chân. ABI < 0,5 nguy cơ cắt cụt cao (QĐ 2475/2022 mục 2.2.1). Giai đoạn Fontaine III–IV được xếp thiếu máu chi trầm trọng (QĐ 2475/2022 Phụ lục 01)."
+    },
+    {
+     "t": "Thiếu máu chi cấp",
+     "n": "Đau đến từ từ trong 2 tuần trên nền đau cách hồi, mạch mất từ trước, không liệt, không mất cảm giác đột ngột; thiếu máu chi cấp < 2 tuần, 6 chữ P (QĐ 2475/2022 tắc động mạch chi dưới cấp mục 3.1; ACC/AHA 2024 Bảng 4)."
+    },
+    {
+     "t": "Loét bàn chân do thần kinh/đái tháo đường",
+     "n": "Cảm giác monofilament chỉ giảm nhẹ; đau khi nghỉ đỡ khi thõng chân và mạch mất cho thấy nguyên nhân thiếu máu. Đái tháo đường chưa được loại trừ (chưa xét nghiệm máu); tuyến trên sẽ làm. Mức phân biệt loét thần kinh–thiếu máu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm trùng bàn chân",
+     "n": "Không mủ, không đỏ lan, không sốt, không mùi (QĐ 2475/2022 mục 3.6: dùng kháng sinh khi có nhiễm trùng)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến sớm đến cơ sở có phẫu thuật mạch máu hoặc can thiệp mạch để chụp mạch và đánh giá tái thông; không chờ lần hẹn thường",
+     "v": "c",
+     "n": "CLTI cần chỉ định tái thông (QĐ 2475/2022 mục 3.5.1); ACC/AHA 2024 mục 10.2 KC1, KC2 (tái thông bằng phẫu thuật, can thiệp hoặc kết hợp; hội chẩn nhóm đa chuyên khoa trước cắt cụt). Mức khẩn thời gian chuyển: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích bằng lời đơn giản: bệnh ở mạch chân đã nặng lên, nguy cơ mất chân nếu không có mạch máu; nói rõ ai đi cùng và chi phí sơ bộ; ghi hồ sơ nếu bà chưa đồng ý",
+     "v": "c",
+     "n": "Cách ghi từ chối chuyển tuyến: không có trong tài liệu đã tải. ABI < 0,5 là nguy cơ cắt cụt cao (QĐ 2475/2022 mục 2.2.1)."
+    },
+    {
+     "t": "Dùng lại ngay atorvastatin 40 mg và clopidogrel 75 mg (không ngưng khi chuyển tuyến); bỏ thuốc lá, hỗ trợ cai lần hai",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.2.1, 3.2.2, 3.3; ACC/AHA 2024 mục 5.1 KC2, 5.2 KC1, 5.4 KC1–2."
+    },
+    {
+     "t": "Chăm sóc vết loét: giữ khô, gạc mỡ không dính, bỏ giày chật, không bôi thuốc nam, không ngâm nước nóng; khi ngủ để chân thõng thấp hơn tim nếu đau",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.6 (vết loét giữ khô, gạc mỡ không dính; giường để chân thấp hơn mức tim); ACC/AHA 2024 Bảng 4 (đau khi nghỉ đỡ khi chân thấp). Việc không bôi thuốc nam, không ngâm nước nóng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rivaroxaban 2,5 mg × 2 lần/ngày phối hợp aspirin 85–100 mg trước khi tuyến trên quyết định",
+     "v": "a",
+     "n": "QĐ 2475/2022 mục 3.3: nên dùng cho BĐMCD có đau khi nghỉ, loét, nguy cơ chảy máu không cao; ACC/AHA 2024 mục 5.1 KC4 (COR 1, A). Chưa có công thức máu, creatinin nên để tuyến trên quyết định."
+    },
+    {
+     "t": "Kê kháng sinh uống thường quy cho vết loét",
+     "v": "w",
+     "n": "Vết loét không nhiễm trùng, QĐ 2475/2022 mục 3.6 chỉ dùng kháng sinh khi có nhiễm trùng."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần, tiếp tục tập đi bộ để cải thiện",
+     "v": "w",
+     "n": "Thiếu máu chi đe dọa cần đánh giá tái thông (ACC/AHA 2024 mục 10.2 KC1; QĐ 2475/2022 mục 3.5.1); tập đi bộ không thay được tái thông ở CLTI có vết loét."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh động mạch chi dưới mạn tính, tái phát nặng lên thành thiếu máu chi đe dọa: đau khi nghỉ và loét kẽ ngón 3–4 chân phải > 2 tuần, ABI phải 0,42",
+     "Nguyên nhân tái phát: ngưng statin, clopidogrel khi thấy khỏe; hút thuốc lại 10 điếu/ngày; giày chật, ngâm nước nóng, tự bôi thuốc nam",
+     "Không nhiễm trùng, không thiếu máu chi cấp",
+     "Đái tháo đường chưa được loại trừ (từ chối xét nghiệm máu)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi chức năng và hỏi đêm ngủ (đau khi nghỉ chỉ lộ khi hỏi có phải thõng chân), khám chân bỏ giày, khám mạch và vết loét, đo ABI.",
+     "Đây là tái phát: lượt 2 đáp ứng tốt khi bà uống đều và đi bộ, tái phát khi ngưng thuốc nền và hút lại. Nguyên nhân nền chưa được giải quyết là hành vi và niềm tin (khỏe thì ngưng; tiếc tiền thuốc), không phải thuốc kém.",
+     "CLTI: đau khi nghỉ ban đêm đỡ khi thõng chân, vết loét không lành trên 2 tuần, ABI 0,42 (ACC/AHA 2024 mục 2.1, Bảng 4; QĐ 2475/2022 mục 2.2.1).",
+     "Bà nói 'sợ cắt chân' nên giấu vết loét; khám chân bỏ giày là cách phát hiện.",
+     "Từ chối xét nghiệm máu vẫn còn nhưng không làm chậm quyết định chuyển tuyến; xét nghiệm sẽ làm ở nơi can thiệp."
+    ],
+    "phan_tich_xu_tri": [
+     "CLTI là chỉ định đánh giá tái thông; phòng khám không có chụp mạch, can thiệp, nên chuyển tuyến (QĐ 2475/2022 mục 3.5.1; ACC/AHA 2024 mục 10.2 KC1, KC2).",
+     "Cho về hẹn tái khám sau vài tuần là sai vì đau khi nghỉ kèm loét và ABI < 0,5 có nguy cơ cắt cụt cao; chờ thêm làm chậm cơ hội cứu chi. (ACC/AHA 2024 mục 10.2 KC1).",
+     "Tôn trọng quyền tự quyết: giải thích bằng nỗi sợ thực sự của bà; nếu bà vẫn không đồng ý thì ghi hồ sơ và hẹn gặp lại sớm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Dùng lâu dài, tiếp tục khi chuyển tuyến",
+      "ghi_chu": "QĐ 2475/2022 mục 3.2.2; ACC/AHA 2024 mục 5.2 KC1. Cấp đủ 3 tháng để bà không hết thuốc giữa chừng."
+     },
+     {
+      "thuoc": "Clopidogrel",
+      "ham_luong": "75 mg",
+      "lieu": "75 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng lâu dài, tiếp tục khi chuyển tuyến",
+      "ghi_chu": "ACC/AHA 2024 mục 5.1 KC2; ESC 2024 Bảng khuyến cáo 14. Tuyến trên sẽ quyết định kháng kết tập kép hoặc rivaroxaban 2,5 mg × 2 lần/ngày + aspirin sau tái thông (ACC/AHA 2024 mục 5.1 KC4–KC7)."
+     }
+    ],
+    "dan_do": [
+     "Mang theo giấy chuyển tuyến, tất cả thuốc và con gái; không ngâm nước nóng, không bôi thuốc nam lên vết loét.",
+     "Bỏ giày bít mũi cứng; giữ kẽ ngón khô, che gạc mỡ không dính (QĐ 2475/2022 mục 3.6).",
+     "Uống thuốc mỡ và thuốc loãng máu hằng ngày kể cả khi thấy khỏe và trong lúc chờ khám.",
+     "Bỏ thuốc lá: nói rõ hút thuốc là nguyên nhân bệnh quay lại; hẹn hỗ trợ cai tại tuyến trên.",
+     "Sau khi điều trị mạch, tái khám đều và tiếp tục thuốc, tập đi bộ."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Sáu đồng ý chuyển tuyến cùng con gái. Tại bệnh viện, bà được chụp mạch và tái thông nội mạch chi phải, vết loét lành sau khoảng hai tháng, giữ được chân. Bệnh quay lại vì ngưng thuốc nền và hút thuốc lại khi thấy khỏe; tái thông chỉ giải quyết đoạn mạch hẹp chứ không thay thế điều trị nền (QĐ 2475/2022 mục 3.1–3.3). Các quyết định đều đúng; bà chấp nhận đi thêm vì lần này được giải thích bằng chính nỗi sợ cắt chân của mình.",
+ "nhieu": [
+  "Đau gối thoái hóa khi leo cầu thang: không liên quan đau bắp chân khi đi bộ; đau khớp không hết nhanh khi dừng (ACC/AHA 2024 Bảng 7).",
+  "Thuốc nam túi nilon của hàng xóm và lời đồn 'thuốc mỡ hại gan': gây ngưng thuốc ở lượt 2; không có số liệu trong tài liệu đã tải nên đáp bằng lời giải thích lợi ích.",
+  "Đường huyết mao mạch 6,2–6,8 mmol/L khi chưa đói: không loại trừ, không khẳng định đái tháo đường; cần xét nghiệm khi bà đồng ý."
+ ],
+ "bai_hoc_bien": [
+  "Phủ nhận triệu chứng nặng: hỏi cảm giác ('đau không') bà đáp 'mỏi chút'; hỏi chức năng (đi bao xa, dừng mấy lần, đêm có phải thõng chân) mới ra bệnh. Cần hỏi lại ở mỗi lượt.",
+  "Bệnh nhân từ chối xét nghiệm: vẫn chẩn đoán được bằng hỏi, khám mạch và ABI không chích; statin bất kể LDL-C. Tôn trọng quyền tự quyết, giải thích bằng nỗi sợ thật, ghi nhận từ chối, để cửa mở.",
+  "Không đỡ ở lượt 2: chạy quy trình thất bại điều trị theo thứ tự: tuân thủ, yếu tố nguy cơ còn tiếp diễn, tập vận động; chỉ tái thông khi điều trị nội khoa tối ưu mà vẫn kém (ACC/AHA 2024 mục 9.1 KC2).",
+  "Tái phát: nguyên nhân nền (ngưng thuốc khi thấy khỏe, hút thuốc lại) chưa được giải quyết thì bệnh quay lại, lần này nặng hơn (CLTI)."
+ ],
+ "diem_nho": [
+  "ABI ≤ 0,90 chẩn đoán BĐMCD (ACC/AHA 2024 mục 3.1 KC2; QĐ 2475/2022 mục 2.2.1: < 0,9). ABI < 0,5: nguy cơ cắt cụt cao; > 1,4: động mạch cứng, cần TBI.",
+  "Mọi bệnh nhân BĐMCD có triệu chứng: bỏ thuốc lá, statin cường độ cao bất kể LDL-C, thuốc chống kết tập tiểu cầu đơn, tập đi bộ (QĐ 2475/2022 mục 3.2–3.4; ACC/AHA 2024 mục 5.1, 5.2, 5.4).",
+  "Cilostazol cho đau cách hồi (100 mg × 2 lần/ngày); chống chỉ định khi suy tim (QĐ 2475/2022 mục 3.4.2; ACC/AHA 2024 mục 5.7).",
+  "CLTI = đau khi nghỉ, vết loét không lành hoặc hoại tử > 2 tuần: chuyển tuyến đánh giá tái thông (ACC/AHA 2024 mục 2.1, 10.2; QĐ 2475/2022 mục 3.5.1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2475/QĐ-BYT 2022, Hướng dẫn chẩn đoán và điều trị bệnh động mạch ngoại biên (kho tltk-10000-ca) – Bệnh động mạch chi dưới mạn tính mục 1, 2.1.1–2.1.3, 2.2.1, 2.3, 3.1–3.6; Tắc động mạch chi dưới cấp mục 3.1; Phụ lục 01.",
+  "2024 ACC/AHA Guideline for the Management of Lower Extremity PAD (TL-0302) – mục 2.1, Bảng 4, 6, 7; 3.1; 5.1 KC1–KC13; 5.2 KC1; 5.3 KC2–3; 5.4 KC1–3; 5.7 KC1, KC3, KC4; 5.8 KC1–3; 9.1 KC2; 10.2 KC1–2.",
+  "2024 ESC Guidelines peripheral arterial and aortic diseases (TL-0058) – Bảng khuyến cáo 9 (mục 7.2.3 LDL-C < 1,4 mmol/L), Bảng 13 (tập vận động), Bảng 14 (kháng huyết khối).",
+  "BYT – QĐ 5904/QĐ-BYT 2019 (TL-0284) Phần 3 mục G (ức chế men chuyển: kiểm tra creatinin, kali).",
+  "Wells PS et al., N Engl J Med 2003 (TL-0114) – thang Wells huyết khối tĩnh mạch sâu."
+ ],
+ "phien_ban_ca": 1,
+ "ghi_chu_bien_tap": [
+  "2026-10-12 · viết: Sonnet. Tài liệu đã đọc: QĐ 2475/2022 (mục 2.1–3.6, tắc ĐM cấp mục 3, phụ lục); ACC/AHA 2024 PAD (TL-0302) Bảng 4, 6, 7, mục 3.1, 5.1–5.4, 5.7, 5.8, 9.1, 10.2; ESC 2024 PAD (TL-0058) Bảng khuyến cáo 9, 13, 14; Wells 2003 (TL-0114).",
+  "Thiếu tài liệu: liều thuốc hỗ trợ cai thuốc; ghi hồ sơ khi bệnh nhân từ chối; tái khám sau 4 tuần; thuốc điều trị nấm kẽ chân; an toàn gan của statin; xét nghiệm nền trước statin; thuốc giảm đau cho đau khi nghỉ.",
+  "Mâu thuẫn mới: mục tiêu huyết áp trong BĐMCD (QĐ 2475/2022 và ACC/AHA 2024). Dùng sổ MT-0166: người từ chối xét nghiệm máu thì amlodipin đơn trị trước."
+ ]
+}

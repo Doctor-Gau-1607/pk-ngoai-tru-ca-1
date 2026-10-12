@@ -1,0 +1,962 @@
+{
+ "ma_ca": "MT-1289",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_tang_acid_uric_mau_khong_trieu_chung",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "gioi": "Nam",
+  "chan_doan_dich": "Tăng acid uric máu không triệu chứng",
+  "chan_doan_phai_loai_tru": [
+   "Gút",
+   "Bệnh thận"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Thợ hàn",
+  "yeu_to_khoi_phat": "Phơi nắng lâu",
+  "thuoc_dang_dung": "Thuốc tránh thai đang dùng (thuốc của vợ, anh uống nhầm một viên)",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Tài",
+  "tuoi": 29,
+  "gioi": "Nam",
+  "nghe": "Thợ hàn điện kết cấu thép cho công ty xây dựng, ba tuần nay làm trên mái tôn ngoài trời, 10–12 giờ mỗi ngày",
+  "can_nang": 68,
+  "chieu_cao": 172,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'. Vợ gọi anh là 'ảnh' hoặc 'chồng tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, nói gọn, thực dụng, hay coi nhẹ ('chắc không sao đâu'). Tin thuốc tiệm, sợ mất việc nên ngại nói chuyện kiệt sức. Cố chấp khi đã nghĩ cần kháng sinh.",
+  "kieu_nhieu": "Đòi kháng sinh: lượt 1-2 anh đòi 'cho một đợt cho dứt điểm'; lượt 3 chị Thu đòi 'kháng sinh truyền cho thận khỏi nhiễm trùng'. Chỉ chịu khi bác sĩ giải thích đơn giản và có việc cụ thể làm thay (uống nước, thuốc đúng, hẹn có mốc).",
+  "nguoi_nha": "vợ",
+  "ten_nguoi_nha": "Chị Thu (vợ, 27 tuổi, đến ở lượt 3)",
+  "ngoai_hinh": {
+   "da": "#b8865f",
+   "toc": "#1c1612",
+   "kieuToc": "ngan",
+   "ao": "#4a5a70",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b896",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#c47a8a",
+    "aoKieu": "phong",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Phiếu khám sức khỏe công ty ghi acid uric cao; ho, rát họng ba ngày",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 29 tuổi, thợ hàn, đến khám một mình vì phiếu khám sức khỏe công ty ghi acid uric cao, kèm ho và rát họng ba ngày. Sinh hiệu lúc tiếp đón: HA 126/78 mmHg, mạch 80 l/p, nhiệt độ 37,4 độ.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Công ty khám sức khỏe nói acid uric của em cao, em sợ bị gút. Với lại mấy bữa nay em ho, rát họng. Bác sĩ kê giùm em ít kháng sinh cho dứt điểm, em còn phải đi làm.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "126/78",
+    "nhiet": "37,4",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba tuần trước công ty khám sức khỏe định kỳ, phiếu ghi acid uric cao. Ba ngày nay ngứa rát họng, ho khô, sổ mũi, hơi mệt. Muốn bác sĩ xem acid uric và cho kháng sinh cho họng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: acid uric cao, ho rát họng"
+    },
+    {
+     "id": "phieu_cty",
+     "noi_dung": "Phiếu ghi acid uric 520 µmol/L; các mục khác chỉ ghi 'bình thường', không số. Lấy máu cuối buổi sau một ngày làm ngoài nắng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả đã có và độ tin cậy"
+    },
+    {
+     "id": "khop",
+     "noi_dung": "Chưa bao giờ sưng đau khớp (ngón chân cái, cổ chân, gối, cổ tay), không đau đêm, không nổi hạt cứng dưới da. Chưa tiểu ra máu hay ra sỏi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa từng có cơn gút, sỏi thận"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Tiểu không buốt, không bọt nhiều, không phù. Cuối ngày làm nước tiểu sẫm màu, đi ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng thận, dấu hiệu cô đặc nước tiểu"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Thợ hàn điện kết cấu thép. Ba tuần nay làm trên mái tôn ngoài trời, nắng 38–39 độ, 10–12 giờ mỗi ngày, mồ hôi ướt áo. Ít uống nước giữa giờ vì ngại leo xuống giàn giáo đi tiểu, chừng 1 lít mỗi ngày, thêm vài ly trà đá.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: phơi nắng lâu, mất nước"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Chiều về nhậu với anh em 3–4 lon bia, 4–5 buổi một tuần, mồi hải sản, lòng, thịt nướng. Nước ngọt đóng chai 1–2 chai mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bia, purin, đồ ngọt"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Ba bị gút từ năm 45 tuổi, uống thuốc hạ acid uric. Mẹ cao huyết áp. Anh chưa đo huyết áp lần nào. Không đái tháo đường, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình, bệnh đi kèm"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Không có bệnh mạn tính, không uống thuốc đều, không lợi tiểu, không aspirin. Vợ uống thuốc tránh thai hằng ngày, để chung ngăn với vitamin của anh; hơn một tuần trước anh uống nhầm một viên, sau đó không có gì bất thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc tránh thai của vợ, uống nhầm một viên"
+    },
+    {
+     "id": "giam_dau",
+     "noi_dung": "Hai tuần nay đau mỏi vai gáy sau mỗi ngày cúi hàn. Anh mua thuốc giảm đau ở tiệm, viên nang ghi ibuprofen 400 mg, uống 1–2 viên mỗi ngày khi đau, khoảng 5 ngày rồi. Anh không nghĩ đó là thuốc quan trọng nên không kể.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc giảm đau chống viêm tự mua (NSAID): điểm dễ bỏ sót"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khô ba ngày, ngứa họng, hắt hơi, sổ mũi trong, hơi khàn. Không sốt, không khó thở, không đau ngực, không ho đàm. Vài đồng nghiệp cũng ho; anh hàn nên hít nhiều khói. Tiệm thuốc đưa vỉ amoxicillin nhưng anh chưa uống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm virus của ho, rát họng"
+    },
+    {
+     "id": "doi_ks",
+     "noi_dung": "'Hồi trước em đau họng uống kháng sinh hai ngày là hết. Bác sĩ cứ cho em một đợt cho chắc, ho dai thì em không đi làm được.'",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: đòi kháng sinh",
+     "nhieu": 1
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Công trình đang gấp, đốc công bắt tăng ca, anh kiệt sức, chỉ muốn nghỉ vài ngày nhưng sợ bị trừ lương, mất thưởng. Anh nghĩ có giấy bác sĩ ghi bệnh thì xin nghỉ được, nên mới đi khám 'acid uric' và 'họng'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: muốn được nghỉ việc",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao hôm nay anh quyết định đi khám, công việc dạo này ra sao, hoặc điều gì làm anh mệt hay lo nhất. Hỏi bệnh chung chung thì anh nói 'tại acid uric cao'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da sạm nắng, môi hơi khô, nếp véo da mất nhanh. Cân nặng 68 kg, cao 172 cm (BMI 23,0), vòng eo 84 cm.",
+     "k": 1,
+     "hien": "Tỉnh, da sạm nắng, môi hơi khô. Cân nặng 68 kg, vòng eo 84 cm."
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau họng có ít dịch trong chảy xuống, amidan không to, không mủ, không xuất tiết. Niêm mạc mũi phù nhẹ, dịch trong. Màng nhĩ bình thường.",
+     "k": 1,
+     "hien": "Họng đỏ nhẹ, amidan không to, không mủ. Mũi có dịch trong."
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ hai bên nhỏ, di động, không đau. Sụn vành tai hai bên nhẵn, không có hạt tôphi.",
+     "k": 1,
+     "hien": "Hạch cổ nhỏ, di động, không đau. Sụn vành tai nhẵn."
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Không khớp nào sưng nóng đỏ: ngón chân cái, cổ chân, gối, cổ tay, khuỷu vận động đủ. Cơ thang hai bên căng, ấn đau; cột sống cổ không điểm đau, không yếu cơ, không tê tay. Không hạt tôphi ở khuỷu, gân Achille.",
+     "k": 1,
+     "hien": "Các khớp không sưng nóng đỏ. Cơ thang hai bên căng đau. Không hạt cứng ở khuỷu, gót."
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,6 mmol/L · Creatinin 88 µmol/L · eGFR 104 mL/ph/1,73m²",
+     "n": "Không giảm GFR (BTM khi GFR < 60: KDIGO 2024 Bảng 1). Đây là mốc nền để so sánh các lượt sau: TTTC khi creatinin tăng ≥ 0,3 mg/dL (26,5 µmol/L) trong 48 giờ hoặc > 50% trong 7 ngày (QĐ 2388/2024 mục 4.11.1).",
+     "bang": {
+      "ure": 4.6,
+      "creat": 88,
+      "egfr": 104
+     }
+    },
+    "ua": {
+     "v": "e",
+     "r": "Tỷ trọng 1,022 · pH 6,0 · Không bạch cầu, nitrit, protein, glucose, ceton, hồng cầu",
+     "n": "Không protein, không hồng cầu: chưa có dấu chỉ điểm tổn thương thận (KDIGO 2024 Bảng 1: albuminuria, tiểu máu bền vững). Tỷ trọng hơi cao hợp với uống ít nước."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "UACR 8 mg/g",
+     "n": "< 30 mg/g là A1 (KDIGO 2024 Bảng 3), loại dấu chỉ điểm tổn thương thận."
+    },
+    "acid_uric": {
+     "v": "u",
+     "r": "515 µmol/L (8,7 mg/dL)",
+     "ab": 1,
+     "n": "Cao hơn 420 µmol/L (QĐ 361/2014 bài Bệnh gút mục 3.2). Đổi mg/dL × 59,48 = µmol/L (KDIGO 2024, bảng quy đổi). Dưới 9 mg/dL (≈ 535 µmol/L), ngưỡng khởi hạ acid uric của TQ 2024 mục 3.1 khi không bệnh đi kèm."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose 5,1 mmol/L",
+     "n": "Bình thường: không có bệnh chuyển hóa đi kèm (TQ 2024 Hình 1, chú thích: các bệnh đi kèm làm đổi quyết định hạ acid uric)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 4,9 · LDL-C 2,9 · HDL-C 1,1 · TG 1,6 mmol/L",
+     "n": "Không rối loạn lipid (TQ 2024 Hình 1, chú thích: rối loạn lipid là bệnh đi kèm)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 4 mg/L",
+     "n": "Không cần: họng có đặc điểm virus, không nghi viêm phổi (ACP 2016 Advice 1)."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Không cần: có ho, sổ mũi, khàn tiếng (IDSA 2012 khuyến cáo 4); không sốt, không xuất tiết, hạch không đau (ACP 2016: < 3 tiêu chuẩn Centor không cần xét nghiệm)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng acid uric máu không triệu chứng (515 µmol/L ≈ 8,7 mg/dL), chưa có cơn viêm khớp, chưa có tôphi, kèm yếu tố làm tăng: mất nước do nắng nóng, bia, purin, nước ngọt",
+     "ok": 1,
+     "n": "ACR 2020 Bảng 1: SU > 6,8 mg/dL chưa cơn gút hay tôphi. Ngưỡng > 420 µmol/L: QĐ 361/2014 mục 3.2. Mất nước, rượu bia, purin là yếu tố thuận lợi (mục 2.1, 3.1; QĐ 2388/2024 mục 4.11.2.1: mất mồ hôi gây mất nước)."
+    },
+    {
+     "t": "Viêm đường hô hấp trên cấp do virus (viêm họng–mũi), có thể kèm kích ứng do khói hàn",
+     "ok": 1,
+     "n": "Ho, sổ mũi, khàn tiếng, không sốt: đặc điểm virus (IDSA 2012 khuyến cáo 4; ACP 2016, mục Viêm họng). Kích ứng do khói hàn là nhận định của tác giả ca."
+    },
+    {
+     "t": "Mất nước nhẹ do nắng nóng và uống ít nước",
+     "ok": 1,
+     "n": "Môi khô, nước tiểu sẫm, tỷ trọng 1,022, uống chừng 1 lít/ngày khi mồ hôi nhiều. Mốc lượng nước: nhận định của tác giả ca."
+    },
+    {
+     "t": "Gút",
+     "n": "Chưa có cơn viêm khớp, không tôphi. Bennet và Wood cần tinh thể urat hoặc ≥ 2 yếu tố (hai đợt viêm khớp cấp, viêm khớp bàn–ngón chân cái, tôphi): không đủ (QĐ 361/2014 mục 3.3). Ba bị gút chỉ là yếu tố nguy cơ."
+    },
+    {
+     "t": "Bệnh thận (bệnh thận mạn, bệnh thận do acid uric)",
+     "n": "eGFR 104, UACR 8 mg/g, nước tiểu không protein, hồng cầu: không thỏa tiêu chuẩn BTM (KDIGO 2024 Bảng 1; QĐ 2388/2024 mục 1: > 3 tháng). Thận vẫn dễ tổn thương cấp khi mất nước và dùng NSAID (QĐ 2388/2024 mục 4.11.2.1)."
+    },
+    {
+     "t": "Bệnh chuyển hóa đi kèm (tăng huyết áp, đái tháo đường, rối loạn lipid, béo phì)",
+     "n": "HA 126/78, glucose 5,1 mmol/L, lipid trong giới hạn, BMI 23,0; nếu có bệnh đi kèm thì đổi quyết định hạ acid uric (TQ 2024 mục 3.1, Hình 1 chú thích)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: acid uric cao chưa phải gút; chưa cần thuốc hạ acid uric; theo dõi và đổi lối sống",
+     "v": "c",
+     "n": "ACR 2020 Bảng 1: có điều kiện KHÔNG khởi hạ acid uric khi SU > 6,8 mg/dL chưa cơn gút hay tôphi (bình luận: điều trị 24 người trong 3 năm mới ngừa một cơn). QĐ 2388/2024 mục 4.7.2: chưa đủ bằng chứng. TQ 2024 mục 3.1: chỉ khởi khi ≥ 9 mg/dL hoặc có bệnh đi kèm, ca này không thuộc (mục 5 sổ mâu thuẫn)."
+    },
+    {
+     "t": "Làm creatinin/eGFR, nước tiểu, UACR (mốc nền về thận); đo HA, đường huyết, mỡ máu để loại bệnh đi kèm",
+     "v": "c",
+     "n": "KDIGO 2024 Bảng 1, Bảng 3; QĐ 2388/2024 mục 4.11.1 (so với creatinin nền ở lượt sau); TQ 2024 mục 3.1, Hình 1 chú thích."
+    },
+    {
+     "t": "Hỏi và nói rõ: ngưng ibuprofen và mọi thuốc giảm đau chống viêm tự mua; giảm đau bằng paracetamol",
+     "v": "c",
+     "n": "NSAID và mất nước (mồ hôi) gây TTTC trước thận (QĐ 2388/2024 mục 4.11.2.1); QĐ 361/2014 Phụ lục NSAID mục 3.3: tránh NSAID nếu có thể ở nhóm nguy cơ. Paracetamol: bài Hội chứng cổ vai cánh tay mục 4.2.2."
+    },
+    {
+     "t": "Lối sống: bỏ bia rượu, bớt hải sản, nội tạng, thịt, nước ngọt; uống nhiều nước chia đều trong ngày",
+     "v": "c",
+     "n": "TQ 2024 khuyến cáo 15; KDIGO 2024 Practice Point 3.14.4; QĐ 361/2014 mục 4.2.1 (thịt không quá 150 g/24 giờ; nước 2–4 lít/24 giờ, tham chiếu từ bài gút)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích và nêu việc làm thay thế",
+     "v": "c",
+     "n": "ACP 2016 Advice 2, 4: chỉ kháng sinh khi xác định liên cầu, không cho cảm thường; IDSA 2012 khuyến cáo 4."
+    },
+    {
+     "t": "Hỏi động cơ thật; dặn dấu hiệu quay lại; hẹn tái khám sau 2 tuần, đo lại acid uric sau khoảng 3 tháng",
+     "v": "c",
+     "n": "TQ 2024 khuyến cáo 2: theo dõi acid uric đều đặn kèm đổi lối sống (khoảng cách đo: không có trong tài liệu đã tải; mốc 2 tuần, 3 tháng do tác giả ca đặt). Hỏi động cơ: kỹ năng giao tiếp, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấp giấy nghỉ 1–2 ngày ghi đúng bệnh thật (viêm đường hô hấp trên, mệt do nắng nóng)",
+     "v": "a",
+     "n": "Quy định cấp giấy nghỉ: không có trong tài liệu đã tải; quyết định lâm sàng của tác giả ca. Chấp nhận được nếu ghi trung thực."
+    },
+    {
+     "t": "Khởi allopurinol 100 mg/ngày (hoặc febuxostat) vì acid uric 515 µmol/L",
+     "v": "a",
+     "n": "Không phải đáp án chính (ACR 2020 Bảng 1; TQ 2024 mục 3.1). Chấm a vì TQ 2024 khuyến cáo 1–2 ủng hộ hạ acid uric nói chung và mục 5 sổ mâu thuẫn còn chờ bác sĩ quyết."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin, azithromycin) 'cho chắc'",
+     "v": "w",
+     "n": "ACP 2016 Advice 2, 4 và Bảng: kháng sinh không có lợi cho viêm họng virus, có tác dụng phụ (tiêu chảy, phát ban, Stevens–Johnson, C. difficile)."
+    },
+    {
+     "t": "Kê thêm NSAID (diclofenac, etoricoxib) cho đau vai gáy",
+     "v": "w",
+     "n": "Đang mất nước và đã dùng ibuprofen (QĐ 2388/2024 mục 4.11.2.1; QĐ 361/2014 Phụ lục NSAID mục 3.3); chọn bên thận trọng dù bài Hội chứng cổ vai cánh tay mục 4.2.2 có liệt kê NSAID."
+    },
+    {
+     "t": "Viết giấy nghỉ ghi 'gút' hoặc 'suy thận' để anh xin nghỉ được",
+     "v": "w",
+     "n": "Khai sai chẩn đoán trong giấy tờ y tế (nhận định đạo đức nghề nghiệp của tác giả ca)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng acid uric máu không triệu chứng (515 µmol/L ≈ 8,7 mg/dL), chưa có cơn gút, chưa tôphi, chức năng thận bình thường (eGFR 104, UACR 8 mg/g), chưa có bệnh chuyển hóa đi kèm",
+     "Yếu tố làm tăng: mất nước do nắng nóng, bia, ăn nhiều purin, nước ngọt; tiền sử gia đình có gút",
+     "Viêm đường hô hấp trên cấp do virus (có thể kích ứng khói hàn)",
+     "Đau cơ vai gáy do tư thế làm việc, đang tự dùng ibuprofen",
+     "Không phải gút; không phải bệnh thận; không phải viêm họng liên cầu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên hỏi: acid uric ở đâu, bao nhiêu; từng sưng đau khớp, sỏi, tiểu máu chưa; nghề, nắng nóng, lượng nước; rượu bia, ăn uống; MỌI thuốc, kể cả thuốc tự mua và thuốc người nhà; tiền sử gia đình; vì sao hôm nay đi khám. Khám: mất nước, họng, hạch, sụn vành tai và các khớp, tim phổi. Cận lâm sàng: creatinin, nước tiểu, UACR, acid uric, đường huyết, mỡ máu.",
+     "Không phải gút: Bennet và Wood cần tinh thể urat hoặc ≥ 2 yếu tố (QĐ 361/2014 mục 3.3); anh không có yếu tố nào. ACR 2020 Bảng 1: tăng acid uric không triệu chứng là SU > 6,8 mg/dL chưa cơn gút hay tôphi.",
+     "Không phải bệnh thận: BTM cần bất thường > 3 tháng (QĐ 2388/2024 mục 1; KDIGO 2024 Bảng 1: GFR < 60 hoặc ACR ≥ 30 mg/g); anh eGFR 104, UACR 8 mg/g. Một lần bình thường chưa bảo đảm về sau: thận dễ tổn thương cấp khi mất nước và dùng NSAID (QĐ 2388/2024 mục 4.11.2.1).",
+     "Không hạ acid uric bằng thuốc: ACR 2020 Bảng 1 và bình luận (chỉ khoảng 20% người SU > 9 mg/dL thành gút sau 5 năm); QĐ 2388/2024 mục 4.7.2. TQ 2024 mục 3.1 nghiêng về hạ khi ≥ 9 mg/dL hoặc có bệnh đi kèm: anh dưới ngưỡng (8,7) và đã loại bệnh đi kèm, nên hai nguồn cùng dẫn tới không dùng thuốc (mục 5 sổ mâu thuẫn, chờ bác sĩ quyết).",
+     "Họng: ho, sổ mũi, khàn tiếng là đặc điểm virus nên không test liên cầu (IDSA 2012 khuyến cáo 4); kháng sinh chỉ khi xác định liên cầu (ACP 2016 Advice 2). Siêu âm khớp/DECT hay CRP, X-quang ngực không đổi quyết định (TQ 2024 khuyến cáo 24 chỉ để dự báo cơn; ACP 2016 Advice 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không thuốc hạ acid uric, không kháng sinh; ngưng ibuprofen, giảm đau bằng paracetamol; lối sống và uống đủ nước là điều trị chính.",
+     "Creatinin nền hôm nay là bước quan trọng nhất của cả chuỗi: không có mốc thì lượt sau không đo được mức tăng (QĐ 2388/2024 mục 4.11.1).",
+     "Giấy nghỉ: lý do thật là kiệt sức vì nắng. Không bịa chẩn đoán; có thể cấp giấy nghỉ ngắn ghi bệnh thật và khuyên anh xin công ty giờ giải lao, bóng râm, nước uống. Quy định nghỉ ốm, an toàn lao động khi nắng nóng: không có trong tài liệu đã tải.",
+     "Thuốc tránh thai của vợ: một viên uống nhầm không liên quan; tài liệu đã tải không nêu tương tác ở nam. Khi sau này cần hạ acid uric thì hỏi kế hoạch sinh con (TQ 2024 khuyến cáo 19)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau vai gáy hoặc rát họng, tối đa 3 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, cách nhau ít nhất 6 giờ",
+      "so_ngay": "5 ngày, dùng khi đau",
+      "ghi_chu": "QĐ 361/2014 bài Hội chứng cổ vai cánh tay mục 4.2.2 (0,5–0,65 g × 2–4 viên/24 giờ, không quá 4 g); chọn ≤ 3 viên vì đang mất nước, theo mục 'Liều paracetamol tối đa' của sổ mâu thuẫn (Phụ lục NSAID mục 3.3: < 3 g/ngày ở nhóm nguy cơ cao)."
+     },
+     {
+      "thuoc": "Ibuprofen tự mua",
+      "ham_luong": "400 mg/viên",
+      "lieu": "NGƯNG",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "QĐ 2388/2024 mục 4.11.2.1 (NSAID và mất nước gây TTTC); QĐ 361/2014 Phụ lục NSAID mục 3.3."
+     }
+    ],
+    "dan_do": [
+     "Từ chối kháng sinh: 'Ho và rát họng của anh do virus. Kháng sinh không diệt virus, uống vào không hết ho nhanh hơn mà còn dễ tiêu chảy, nổi ban. Nếu sốt cao, đau họng có mủ, khó thở hay ho đàm vàng xanh thì tôi cho. Giờ anh uống nước ấm nhiều, nghỉ giọng, paracetamol khi khó chịu; khoảng một tuần sẽ đỡ.' (ACP 2016 Advice 2, 4.)",
+     "Giải thích acid uric: 'Acid uric 515 là cao nhưng anh chưa bị gút, thận đang bình thường. Phần lớn người như anh không bị gút; việc cần làm là bỏ thứ làm acid uric lên: bia, thiếu nước, lòng hải sản, nước ngọt.' (ACR 2020 Bảng 1.)",
+     "Nước và ăn uống: uống đều cả ngày, nhắm khoảng 2–4 lít/24 giờ khi ra nhiều mồ hôi (QĐ 361/2014 mục 4.2.1, tham chiếu từ bài gút), mang bình nước lên giàn; bỏ bia rượu; thịt không quá 150 g/24 giờ, bớt nội tạng, hải sản, nước ngọt (QĐ 361/2014 mục 4.2.1; TQ 2024 khuyến cáo 15; KDIGO 2024 Practice Point 3.14.4).",
+     "Thuốc: không ibuprofen hay thuốc giảm đau chống viêm mua ngoài tiệm; chỉ paracetamol theo toa. Cất thuốc tránh thai của vợ riêng.",
+     "Quay lại ngay nếu: sưng đau đột ngột một khớp, tiểu rất ít hoặc sẫm, nôn nhiều, tiểu máu, đau hông lưng dữ dội, sốt cao, khó thở. Hẹn tái khám 2 tuần; đo lại acid uric sau khoảng 3 tháng (mốc do tác giả ca đặt, không có trong tài liệu đã tải).",
+     "Công việc: 'Anh kiệt sức vì nắng là có thật, tôi ghi giấy nghỉ theo đúng bệnh. Anh xin công ty giờ giải lao, bóng râm, nước uống.'"
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 2 tuần theo hẹn. Vẫn mệt, đau đầu, ho chưa hết. Sinh hiệu: HA 112/68 mmHg, mạch 92 l/p, nhiệt độ 37,0 độ, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, em làm theo hết mà vẫn mệt, đau đầu, ho dai hai tuần rồi. Cho em kháng sinh đi, với lại ghi giùm em giấy nghỉ cả tuần.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "112/68",
+    "nhiet": "37,0",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "Hai tuần sau, vẫn mệt rũ, đau đầu âm ỉ nhất là buổi chiều, ho khô chưa dứt (ngày thứ 17), nước tiểu ít và sẫm màu. Cân giảm từ 68 còn 66 kg.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: không đỡ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bỏ bia được một tuần, cuối tuần rồi lại nhậu 3–4 lon. Nước chỉ 1–1,5 lít mỗi ngày vì trên giàn không tiện; ăn ít hơn do mệt. Vẫn làm mái tôn ngoài trời, nắng 38–39 độ; hai hôm nay hơi choáng khi đứng dậy, không ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ: nước, bia; nắng nóng vẫn tiếp diễn"
+    },
+    {
+     "id": "ibu2",
+     "noi_dung": "Paracetamol anh uống 1–2 viên không bớt đau vai gáy. Anh quay lại uống ibuprofen 400 mg, 3–4 viên mỗi ngày trong 10 ngày nay (khoảng 1.200–1.600 mg/ngày), nghĩ thuốc ở tiệm thì không hại.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc giảm đau chống viêm tự mua kéo dài: nguyên nhân thất bại điều trị và nguy cơ thận",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể anh còn uống thuốc giảm đau nào ngoài toa, thuốc tiệm, thuốc đau xương khớp, hoặc hỏi lại 'ibuprofen' bằng tên. Hỏi chung 'có uống thuốc gì không' thì anh nói 'không, toàn paracetamol'."
+    },
+    {
+     "id": "ho2",
+     "noi_dung": "Ho khô, không sốt, không đàm, không khó thở, không đau ngực. Vài đồng nghiệp hàn cũng ho kéo dài. Không có cơn sưng đau khớp nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho kéo dài không dấu hiệu viêm phổi"
+    },
+    {
+     "id": "doi_ks2",
+     "noi_dung": "'Ho dai thế này là viêm phổi rồi, vỉ amoxicillin em mua rồi, bác sĩ cho em uống đi.'",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: đòi kháng sinh",
+     "nhieu": 1
+    },
+    {
+     "id": "dong_co2",
+     "noi_dung": "Mỗi ngày bị đốc công thúc, anh kiệt sức, chỉ muốn nghỉ ít nhất vài ngày nhưng sợ bị đuổi. Anh nghe đồng nghiệp nói ghi 'gút' hay 'suy thận' vào giấy thì công ty cho nghỉ lâu.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: muốn nghỉ; sẵn sàng xin giấy ghi sai",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng về công việc, về lý do cần giấy nghỉ cả tuần, hoặc khi bác sĩ từ chối viết 'gút'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt, tỉnh, môi khô, niêm mạc khô, mắt hơi trũng, nếp véo da mất chậm. Cân nặng 66 kg (giảm 2 kg so với lượt 1).",
+     "k": 1,
+     "hien": "Mệt, tỉnh, môi khô, mắt hơi trũng. Cân nặng 66 kg."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 112/68, mạch 92. Đứng 3 phút: HA 98/62, mạch 110, choáng nhẹ (hạ HA tư thế, gợi ý giảm thể tích).",
+     "k": 1,
+     "hien": "Nằm: HA 112/68, mạch 92. Đứng 3 phút: HA 98/62, mạch 110, hơi choáng."
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran. Nhịp thở 18 l/p.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị đau nhẹ, không phản ứng thành bụng, gan lách không to.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn thượng vị hơi đau."
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,9 mmol/L · Creatinin 104 µmol/L · eGFR 86 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Creatinin +18% (88 → 104), ure tăng: chưa đạt TTTC (≥ 26,5 µmol/L trong 48 giờ hoặc > 50% trong 7 ngày: QĐ 2388/2024 mục 4.11.1, Bảng 30) nhưng là xu hướng xấu, khớp mất nước và NSAID (mục 4.11.2.1). Phải so với mốc nền lượt 1.",
+     "bang": {
+      "ure": 6.9,
+      "creat": 104,
+      "egfr": 86
+     }
+    },
+    "ua": {
+     "v": "e",
+     "r": "Tỷ trọng 1,030 · pH 5,5 · Ceton + · Không bạch cầu, nitrit, protein, glucose, hồng cầu",
+     "n": "Nước tiểu cô đặc, ceton do ăn ít; không protein, không hồng cầu (chưa có dấu tổn thương cầu thận)."
+    },
+    "acid_uric": {
+     "v": "u",
+     "r": "505 µmol/L (8,5 mg/dL)",
+     "ab": 1,
+     "n": "Gần như không đổi so với 515 µmol/L; vẫn dưới 9 mg/dL (TQ 2024 mục 3.1); không có bệnh đi kèm mới."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng acid uric máu không triệu chứng (505 µmol/L ≈ 8,5 mg/dL), không đổi chẩn đoán",
+     "ok": 1,
+     "n": "Không có cơn viêm khớp, không tôphi, vẫn dưới ngưỡng 9 mg/dL của TQ 2024 mục 3.1; ACR 2020 Bảng 1."
+    },
+    {
+     "t": "Mất nước do nắng nóng và uống ít (hạ HA tư thế, tỷ trọng nước tiểu 1,030, cân giảm 2 kg), creatinin có xu hướng tăng 88 → 104 µmol/L",
+     "ok": 1,
+     "n": "QĐ 2388/2024 mục 4.11.2.1 (mất mồ hôi); chưa đủ tiêu chuẩn TTTC (mục 4.11.1)."
+    },
+    {
+     "t": "Dùng NSAID tự mua (ibuprofen khoảng 1.200–1.600 mg/ngày × 10 ngày) trong lúc mất nước: nguy cơ cao tổn thương thận cấp",
+     "ok": 1,
+     "n": "QĐ 2388/2024 mục 4.11.2.1 (NSAID làm rối loạn tự điều hòa huyết động thận); QĐ 361/2014 Phụ lục NSAID mục 3.3. Thượng vị đau nhẹ gợi ý tác dụng phụ dạ dày."
+    },
+    {
+     "t": "Ho sau nhiễm virus hô hấp trên, kích ứng khói hàn; không viêm phổi",
+     "ok": 1,
+     "n": "ACP 2016 Advice 1 (ho cấp không kháng sinh trừ nghi viêm phổi); bảng ACP 2016: ho cấp có thể kéo dài tới 6 tuần."
+    },
+    {
+     "t": "Gút",
+     "n": "Vẫn không cơn viêm khớp, không tôphi; acid uric máu không là chẩn đoán gút (QĐ 361/2014 mục 3.3)."
+    },
+    {
+     "t": "Bệnh thận mạn hoặc bệnh thận do urat",
+     "n": "eGFR 86, nước tiểu không protein, không hồng cầu; thay đổi ngắn ngày theo mất nước và NSAID, không phải bất thường > 3 tháng (QĐ 2388/2024 mục 1; KDIGO 2024 Bảng 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chạy quy trình 'không đỡ': chẩn đoán đúng chưa, thuốc đúng chưa, tuân thủ ra sao (hỏi từng loại thuốc, nước, bia, nắng), biến chứng (thận)",
+     "v": "c",
+     "n": "Kỹ thuật của sổ cái cho biến 'không đỡ'; thuốc tự mua và tuân thủ là điểm chính."
+    },
+    {
+     "t": "Ngưng ibuprofen và mọi NSAID; paracetamol khi đau, tối đa 3 viên mỗi ngày",
+     "v": "c",
+     "n": "QĐ 2388/2024 mục 4.11.6.1 (ngừng thuốc gây độc thận); QĐ 361/2014 Phụ lục NSAID mục 3.3 (acetaminophen < 3 g/ngày ở nhóm nguy cơ); mục paracetamol sổ mâu thuẫn."
+    },
+    {
+     "t": "Bù nước uống có kế hoạch, ít nhất khoảng 2–3 lít chia đều, bỏ bia",
+     "v": "c",
+     "n": "QĐ 361/2014 bài Bệnh gút mục 4.2.1 (2–4 lít/24 giờ; tham chiếu từ bài gút); QĐ 2388/2024 mục 4.11.6.1 (đủ dịch). Dung dịch điện giải uống: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn xét nghiệm lại creatinin, ure, điện giải sau 3–5 ngày và tái khám; nêu dấu hiệu quay lại",
+     "v": "c",
+     "n": "QĐ 2388/2024 mục 4.11.1 (so với nền); mốc 3–5 ngày do tác giả ca đặt."
+    },
+    {
+     "t": "Không kê kháng sinh; thuyết phục bằng lời thoại cụ thể",
+     "v": "c",
+     "n": "ACP 2016 Advice 1."
+    },
+    {
+     "t": "Hỏi thẳng chuyện công việc; cấp giấy nghỉ 3 ngày ghi bệnh thật (mất nước do nắng nóng, viêm đường hô hấp trên)",
+     "v": "c",
+     "n": "Có mất nước và creatinin tăng thật, nghỉ để bù nước và tránh nắng là hợp lý; thời hạn do tác giả ca đặt, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê thêm hay đổi sang NSAID khác 'cho hết đau'",
+     "v": "w",
+     "n": "Creatinin đang tăng, mất nước: QĐ 2388/2024 mục 4.11.2.1, 4.11.6.1."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin, macrolid) cho ho 17 ngày",
+     "v": "w",
+     "n": "ACP 2016 Advice 1; bảng ACP 2016: macrolid gây nhiều tác dụng phụ hơn giả dược trong viêm phế quản cấp."
+    },
+    {
+     "t": "Viết 'gút' hoặc 'suy thận' vào giấy nghỉ",
+     "v": "w",
+     "n": "Khai sai chẩn đoán (nhận định đạo đức của tác giả ca)."
+    },
+    {
+     "t": "Cho về với lời dặn 'uống nhiều nước', không đo lại creatinin, không hẹn cụ thể",
+     "v": "w",
+     "n": "Bỏ mất xu hướng tăng creatinin và nguy cơ TTTC; đây là điểm gãy thứ hai của chuỗi (xem lượt 3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng acid uric máu không triệu chứng (505 µmol/L), không đổi",
+     "Mất nước do nắng nóng và uống ít; creatinin nền 88 → 104 µmol/L (+18%), chưa đủ tiêu chuẩn TTTC",
+     "Dùng ibuprofen tự mua kéo dài (nguyên nhân thật khiến 'không đỡ' và nguy cơ thận)",
+     "Ho kéo dài sau nhiễm virus, kích ứng khói hàn, không viêm phổi",
+     "Không phải gút, chưa có bệnh thận mạn"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình 'không đỡ': (1) Sai chẩn đoán? Không: vẫn không cơn viêm khớp. (2) Sai thuốc? Không có thuốc chính. (3) Không tuân thủ? Có: nước 1–1,5 lít, bia, vẫn làm ngoài nắng. (4) Thuốc khác? Có: ibuprofen 10 ngày, chỉ lộ khi hỏi đích danh. (5) Biến chứng? Creatinin +18%, hạ HA tư thế, cân giảm 2 kg (QĐ 2388/2024 mục 4.11.1: chưa đạt TTTC).",
+     "Mấu chốt: phải so creatinin 104 với mốc nền 88; một mình 104 vẫn nằm trong khoảng tham chiếu in trên phiếu nên dễ bị bỏ qua. TTTC chưa đạt (QĐ 2388/2024 mục 4.11.1): đây là lúc chặn, chưa phải lúc chữa. Ho 17 ngày không phải viêm phổi: sinh hiệu ổn, SpO₂ 98%, phổi sạch (ACP 2016 Advice 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng NSAID, bù nước, tránh nắng là ba việc đổi tiên lượng. Xét nghiệm lại sau 3–5 ngày; creatinin tiếp tục tăng hay không uống được thì chuyển bệnh viện (tiêu chuẩn nhập viện riêng: không có trong tài liệu đã tải; quyết định của tác giả ca).",
+     "Giấy nghỉ: lượt này có cơ sở y khoa thật (mất nước, creatinin tăng) nên giấy nghỉ ngắn đúng bệnh là hợp lý. Khi anh xin ghi 'gút' hoặc 'suy thận': từ chối nhẹ nhàng, đó là chẩn đoán sai và có thể gây hại cho quyền lợi của anh sau này.",
+     "Vẫn không hạ acid uric: 505 µmol/L (< 9 mg/dL), không bệnh đi kèm (ACR 2020 Bảng 1; TQ 2024 mục 3.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau, tối đa 3 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, cách nhau ít nhất 6 giờ",
+      "so_ngay": "5 ngày, dùng khi đau",
+      "ghi_chu": "QĐ 361/2014 bài Hội chứng cổ vai cánh tay mục 4.2.2; Phụ lục NSAID mục 3.3 (< 3 g/ngày ở nhóm nguy cơ); giữ nguyên toa lượt 1."
+     },
+     {
+      "thuoc": "Ibuprofen tự mua và mọi NSAID",
+      "ham_luong": "400 mg/viên",
+      "lieu": "NGƯNG",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "QĐ 2388/2024 mục 4.11.2.1, 4.11.6.1."
+     }
+    ],
+    "dan_do": [
+     "Từ chối kháng sinh lần hai: 'Anh ho 17 ngày nhưng không sốt, không khó thở, phổi nghe sạch. Ho do virus và khói hàn có thể kéo vài tuần, kháng sinh không rút ngắn được. Tôi cho xét nghiệm lại thận và hẹn kiểm tra; sốt, khó thở, ho đàm vàng xanh thì quay lại ngay.' (ACP 2016 Advice 1.)",
+     "Về thuốc: 'Ibuprofen anh mua ở tiệm là thuốc giảm đau chống viêm, uống lúc mất nước dễ hại thận. Từ hôm nay ngưng, chỉ dùng paracetamol.' Nước: mỗi giờ uống vài ngụm, khoảng 2–3 lít/ngày, bỏ bia (QĐ 361/2014 mục 4.2.1, tham chiếu).",
+     "Nghỉ ba ngày, tránh nắng. Xét nghiệm lại creatinin, điện giải sau 3–5 ngày (mốc do tác giả ca đặt, không có trong tài liệu đã tải); quay lại ngay nếu tiểu rất ít, nôn nhiều, choáng khi đứng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Tái khám sau 7 ngày (hẹn 5 ngày, anh đến muộn). Vợ đưa đi vì anh mệt lả, nôn, tiểu rất ít. Sinh hiệu: HA 104/62 mmHg, mạch 112 l/p, nhiệt độ 37,2 độ, nhịp thở 20 l/p, SpO₂ 98%.",
+   "ket_luan": "nhap_vien",
+   "loi_mo": "Bác sĩ ơi chồng tôi mấy hôm nay mệt lả, nôn, đi tiểu rất ít, nước tiểu sẫm như nước trà. Chắc thận nhiễm trùng, bác sĩ cho kháng sinh truyền đi!",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "104/62",
+    "nhiet": "37,2",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": [
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do3",
+     "noi_dung": "Hai ngày nay nôn, ăn uống không vô, tiểu ít (2–3 lần mỗi ngày, lượng ít, màu sẫm), mệt lả, đau mỏi người, đau thắt lưng hai bên âm ỉ. Cân nặng 63 kg.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: tiểu ít, nôn, mệt lả"
+    },
+    {
+     "id": "hen_tre",
+     "noi_dung": "Hẹn xét nghiệm lại sau 5 ngày nhưng công trình gấp, đốc công không cho nghỉ nên đến muộn hai ngày. Trong 7 ngày vẫn làm ngoài nắng, chỉ có hai ngày đầu được nghỉ theo giấy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tái khám trễ, tiếp tục làm ngoài nắng"
+    },
+    {
+     "id": "ibu3",
+     "noi_dung": "Đau vai gáy không bớt nên anh vẫn uống ibuprofen 400 mg, 4–5 viên mỗi ngày (khoảng 1.600–2.000 mg) cho tới hôm qua, còn uống thêm nước tăng lực. Anh nghĩ thuốc ở tiệm thì không sao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp tục NSAID liều cao: nguyên nhân chính"
+    },
+    {
+     "id": "nuoc3",
+     "noi_dung": "Vì nôn nên uống nước chừng nửa lít mỗi ngày, hai hôm nay gần như không ăn. Cuối tuần trước vẫn nhậu 4 lon bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước nặng, uống rượu bia"
+    },
+    {
+     "id": "loai_tru3",
+     "noi_dung": "Không sốt, không rét run, không tiểu buốt hay máu, không phát ban, không đau cơ dữ dội, không dùng thuốc nam thuốc bắc hay thuốc nào khác. Không có cơn sưng đau khớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại nhiễm trùng, tiêu cơ vân, thuốc nam, gút"
+    },
+    {
+     "id": "doi_ks3",
+     "noi_dung": "Chị Thu: 'Chồng tôi ho ba tuần giờ đau lưng, tiểu ít, đúng là nhiễm trùng rồi. Cho truyền kháng sinh mạnh đi bác sĩ.'",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: đòi kháng sinh",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt lả nhưng tỉnh, da khô, môi nứt, mắt trũng, nếp véo da mất rất chậm. Cân nặng 63 kg (giảm 5 kg so với lượt 1).",
+     "k": 1,
+     "hien": "Mệt lả, tỉnh, da khô, môi nứt, mắt trũng. Cân nặng 63 kg."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 104/62, mạch 112. Đứng 1 phút: HA 88/54, mạch 128, choáng, phải ngồi xuống.",
+     "k": 1,
+     "hien": "Nằm: HA 104/62, mạch 112. Đứng 1 phút: HA 88/54, mạch 128, choáng."
+    },
+    "tim": {
+     "a": "Tim đều 112 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim nhanh, đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đập nhanh, đều; T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran, không rale. Nhịp thở 20 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị đau nhẹ, không đề kháng, gan lách không to.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn thượng vị hơi đau."
+    },
+    "tiet_nieu": {
+     "a": "Ấn hố thắt lưng hai bên đau nhẹ, chạm thận âm tính, không cầu bàng quang.",
+     "k": 1,
+     "hien": "Ấn hố thắt lưng hai bên hơi đau, không cầu bàng quang."
+    },
+    "chi_duoi": {
+     "a": "Không phù; bắp chân mềm, không đau căng.",
+     "k": 1,
+     "hien": "Không phù chân, bắp chân mềm."
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 15,2 mmol/L · Creatinin 160 µmol/L · eGFR 51 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Creatinin gấp 1,8 lần mốc nền 88 và gấp 1,5 lần giá trị 7 ngày trước (104): TTTC giai đoạn 1 (QĐ 2388/2024 mục 4.11.5, Bảng 30: tăng 1,5–1,9 lần nền trong 7 ngày). Ure/creatinin cao hợp nguyên nhân trước thận (mục 4.11.2.1). eGFR không đáng tin khi creatinin đang đổi (nhận định tác giả ca).",
+     "bang": {
+      "ure": 15.2,
+      "creat": 160,
+      "egfr": 51
+     }
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 134 · K 4,8 · Cl 95 mmol/L",
+     "n": "Kali chưa cao, cần theo dõi hằng ngày trong TTTC (biến chứng cần xử lý: QĐ 2388/2024 mục 4.11.6.1).",
+     "bang": {
+      "na": 134,
+      "k": 4.8,
+      "cl": 95
+     }
+    },
+    "ua": {
+     "v": "e",
+     "r": "Tỷ trọng 1,026 · pH 5,5 · Ceton ++ · Protein vết · Không bạch cầu, nitrit, hồng cầu",
+     "n": "Nước tiểu cô đặc, ceton do nhịn ăn; không bạch cầu, nitrit: không hướng nhiễm trùng niệu (không có chỉ định kháng sinh)."
+    },
+    "acid_uric": {
+     "v": "u",
+     "r": "612 µmol/L (10,3 mg/dL)",
+     "ab": 1,
+     "n": "Tăng thứ phát vì giảm đào thải khi suy giảm chức năng thận (QĐ 361/2014 bài Bệnh gút mục 2.2: suy thận làm giảm thanh lọc acid uric). Không phải chỉ điểm để khởi thuốc lúc này; đo lại khi creatinin về nền."
+    },
+    "ck": {
+     "v": "u",
+     "r": "CK 168 U/L",
+     "n": "Loại tiêu cơ vân do làm việc nóng, nước tiểu sẫm. Ý nghĩa của CK trong TTTC: không có trong tài liệu gút, thận đã tải (mục chọn của tác giả ca)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Hai thận kích thước bình thường, nhu mô echo bình thường, không ứ nước, không sỏi.",
+     "n": "Loại nguyên nhân sau thận (sỏi, tắc nghẽn: QĐ 2388/2024 mục 4.11.2.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tổn thương thận cấp giai đoạn 1 (creatinin 88 → 104 → 160 µmol/L), nguyên nhân trước thận do mất nước (nắng nóng, uống ít, nôn) và ibuprofen liều cao kéo dài",
+     "ok": 1,
+     "n": "QĐ 2388/2024 mục 4.11.1 (tiêu chuẩn), 4.11.2.1 (mất nước qua da, NSAID), 4.11.5 Bảng 30 (giai đoạn 1). Biến chứng do bỏ sót, không phải bệnh thận mạn."
+    },
+    {
+     "t": "Tăng acid uric máu không triệu chứng (nền), nay acid uric 612 µmol/L do giảm đào thải khi TTTC",
+     "ok": 1,
+     "n": "Chẩn đoán đích không đổi; tăng thứ phát, đánh giá lại khi creatinin về nền (ACR 2020 Bảng 1)."
+    },
+    {
+     "t": "Mất nước mức vừa–nặng (nôn, hạ HA tư thế, tim nhanh, cân giảm 5 kg), nhịn ăn kèm ceton niệu",
+     "ok": 1,
+     "n": "QĐ 2388/2024 mục 4.11.6.1 (đảm bảo huyết động, đủ dịch). Mức độ mất nước: nhận định lâm sàng của tác giả ca."
+    },
+    {
+     "t": "Bệnh thận mạn hoặc bệnh thận do acid uric (cấp hay mạn)",
+     "n": "Creatinin 88 ở lượt 1, UACR 8 mg/g, nguyên nhân trước thận rõ, siêu âm thận bình thường (KDIGO 2024 Bảng 1; QĐ 2388/2024 mục 1). Bệnh thận do acid uric có nêu (mục 4.7.1) nhưng tài liệu đã tải không cho tiêu chuẩn chẩn đoán; xác nhận bằng eGFR, UACR sau hồi phục."
+    },
+    {
+     "t": "Nhiễm trùng thận (viêm thận bể thận)",
+     "n": "Không sốt, không rét run, nước tiểu không bạch cầu, nitrit; bạch cầu máu bình thường (QĐ 2388/2024 mục 4.11.2.2: viêm kẽ thận do vi khuẩn)."
+    },
+    {
+     "t": "Tiêu cơ vân, tắc nghẽn sau thận, thuốc nam, gút",
+     "n": "CK 168 U/L; siêu âm không ứ nước, không sỏi; không dùng thuốc nam; không cơn viêm khớp."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện (không phải cấp cứu), có người đi kèm: bù dịch tĩnh mạch có theo dõi nước tiểu, creatinin, điện giải hằng ngày",
+     "v": "c",
+     "n": "QĐ 2388/2024 mục 4.11.6.1 (điều trị nguyên nhân, đảm bảo huyết động, đủ dịch, xử lý biến chứng); mục viết cho TTTC trên nền BTM, dùng tham chiếu. Tiêu chuẩn nhập viện riêng: không có trong tài liệu đã tải; quyết định của tác giả ca (nôn, creatinin gấp 1,8 lần nền, hạ HA tư thế)."
+    },
+    {
+     "t": "Ngưng toàn bộ NSAID và mọi thuốc gây độc thận",
+     "v": "c",
+     "n": "QĐ 2388/2024 mục 4.11.6.1."
+    },
+    {
+     "t": "Không khởi thuốc hạ acid uric lúc đang TTTC; đo lại acid uric khi creatinin về nền",
+     "v": "c",
+     "n": "Acid uric tăng thứ phát (QĐ 361/2014 mục 2.2); ACR 2020 Bảng 1. Liều allopurinol theo eGFR: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về uống nhiều nước, hẹn vài ngày",
+     "v": "w",
+     "n": "Nôn không uống được, creatinin gấp 1,8 lần nền, hạ HA tư thế: không an toàn (QĐ 2388/2024 mục 4.11.6.1)."
+    },
+    {
+     "t": "Kê kháng sinh 'phủ nhiễm trùng thận' hoặc kháng sinh độc thận",
+     "v": "w",
+     "n": "Không bằng chứng nhiễm trùng; kháng sinh nhóm aminoglycosid và vancomycin cần tránh ở người có bệnh thận (QĐ 2388/2024 mục 7.4.2)."
+    },
+    {
+     "t": "Kê allopurinol hoặc febuxostat vì acid uric 612 µmol/L (≥ 9 mg/dL)",
+     "v": "w",
+     "n": "Giá trị tăng thứ phát do TTTC; TQ 2024 mục 3.1 ngưỡng ≥ 9 mg/dL áp cho tăng acid uric ổn định. Chọn bên thận trọng, liều theo chức năng thận: không có trong tài liệu đã tải (mục 5 sổ mâu thuẫn chờ bác sĩ quyết)."
+    },
+    {
+     "t": "Kê NSAID hoặc giảm đau chống viêm 'cho đỡ đau thắt lưng'",
+     "v": "h",
+     "n": "QĐ 2388/2024 mục 4.11.2.1, 4.11.6.1: NSAID là nguyên nhân gây TTTC và phải ngưng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tổn thương thận cấp giai đoạn 1, trước thận, do mất nước (nắng nóng, uống ít, nôn) và ibuprofen liều cao kéo dài; creatinin 88 → 104 → 160 µmol/L",
+     "Mất nước mức vừa–nặng, hạ HA tư thế",
+     "Tăng acid uric máu không triệu chứng nền; acid uric 612 µmol/L hiện tăng thứ phát do TTTC",
+     "Loại: nhiễm trùng thận, tiêu cơ vân, tắc nghẽn, bệnh thận mạn, gút"
+    ],
+    "phan_tich_chan_doan": [
+     "Truy nguyên điểm gãy (ca an toàn người bệnh): (1) Lượt 1 không đo creatinin nền hoặc không hỏi thuốc tự mua: không có mốc, không thấy ibuprofen. (2) Lượt 1 không dặn rõ ngưng NSAID, uống nước, bỏ bia. (3) Lượt 2 không hỏi đích danh thuốc tiệm và xem creatinin 104 là 'bình thường' vì không so với nền 88. (4) Lượt 2 không xét nghiệm lại sớm, không dặn dấu hiệu quay lại: anh trễ hẹn hai ngày. Gãy một mắt xích đã đủ chặn kết cục; khác ca 'xử trí đúng nhưng diễn tiến xấu'.",
+     "TTTC giai đoạn 1: creatinin gấp 1,5–1,9 lần nền trong 7 ngày (QĐ 2388/2024 mục 4.11.5, Bảng 30). Nguyên nhân trước thận: mất nước qua mồ hôi, nôn và NSAID làm rối loạn tự điều hòa huyết động thận (mục 4.11.2.1).",
+     "Acid uric 612 không đổi quyết định: tăng thứ phát do thận giảm đào thải (QĐ 361/2014 mục 2.2), đo lại khi creatinin về nền. KDIGO 2024 khuyến cáo 3.14.2 và QĐ 2388/2024 mục 4.7.2: không hạ acid uric để bảo vệ thận ở người không triệu chứng."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện vì nôn không uống được, creatinin gấp 1,8 lần nền, hạ HA tư thế, tim nhanh. Nguyên tắc: điều trị nguyên nhân, ngưng thuốc độc thận, đảm bảo huyết động và đủ dịch, xử lý biến chứng (QĐ 2388/2024 mục 4.11.6.1). Loại và tốc độ dịch: không có trong tài liệu đã tải; bệnh viện quyết.",
+     "Không kháng sinh: không bằng chứng nhiễm trùng; chị Thu thấy đau lưng, tiểu ít nên nghĩ nhiễm trùng. Nói rõ: 'Thận anh đang thiếu nước và bị thuốc giảm đau gây hại, kháng sinh không chữa được. Truyền đúng loại, đúng lượng mới là điều trị.'",
+     "Không hạ acid uric bằng thuốc khi TTTC; sau hồi phục quay về kế hoạch ban đầu (ACR 2020 Bảng 1); nếu acid uric ổn định ≥ 9 mg/dL thì cân nhắc theo TQ 2024 mục 3.1 (mục 5 sổ mâu thuẫn)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dịch truyền tĩnh mạch (loại và lượng do bệnh viện quyết)",
+      "ham_luong": "-",
+      "lieu": "Theo bác sĩ điều trị, theo huyết động và lượng nước tiểu",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay khi nhập viện",
+      "so_ngay": "Theo diễn tiến",
+      "ghi_chu": "QĐ 2388/2024 mục 4.11.6.1 (đủ dịch); loại dịch, tốc độ: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Ibuprofen và mọi NSAID",
+      "ham_luong": "-",
+      "lieu": "NGƯNG hoàn toàn",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "QĐ 2388/2024 mục 4.11.6.1."
+     }
+    ],
+    "dan_do": [
+     "Với chị Thu: 'Chị lo là đúng, nhưng thận anh Tài không nhiễm trùng: nước tiểu không bạch cầu, anh không sốt. Thận bị mất nước và thuốc ibuprofen anh uống mấy ngày. Anh cần nằm viện truyền dịch; kháng sinh không giúp, có loại còn hại thận.'",
+     "Với anh Tài, nói thật và không đổ lỗi: 'Thuốc giảm đau mua ở tiệm cũng hại thận, nhất là lúc mất nước. Từ giờ không dùng ibuprofen hay thuốc cùng nhóm, hỏi bác sĩ trước khi dùng thuốc nào.'",
+     "Sau xuất viện: tái khám đo creatinin, eGFR, UACR, acid uric (mốc do tác giả ca đặt). Công việc: uống nước đều, nghỉ bóng râm; công ty cần biết anh bị mất nước nặng. Quay lại ngay nếu nôn lại, tiểu rất ít, choáng, đau hông lưng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh nhập viện 3 ngày: truyền dịch, ngưng ibuprofen, theo dõi nước tiểu và điện giải. Tiểu nhiều lên sau 24 giờ, creatinin về 98 µmol/L ngày thứ 3, 90 µmol/L khi tái khám sau 2 tuần; acid uric đo lại 470 µmol/L khi thận ổn, vẫn không dùng thuốc hạ acid uric. Công ty chuyển anh sang việc trong nhà một thời gian. (Diễn tiến nằm viện do tác giả ca dựng.) Biến chứng do bỏ sót: ba mắt xích có thể chặn là creatinin nền và hỏi thuốc tự mua ở lượt 1, so xu hướng creatinin ở lượt 2, hẹn có mốc kèm dấu hiệu quay lại.",
+ "nhieu": [
+  "Đòi kháng sinh: lượt 1 cho họng virus, lượt 2 cho ho 17 ngày, lượt 3 vợ đòi 'kháng sinh cho nhiễm trùng thận'. Ba lần cần ba lời thoại khác nhau, không lần nào kê (ACP 2016 Advice 1, 2, 4).",
+  "Thuốc tránh thai của vợ uống nhầm một viên: không liên quan acid uric, thận hay khớp; dễ làm người học sa vào hướng ngoài lề. Việc đúng là hỏi, ghi nhận, trấn an.",
+  "Acid uric 515 µmol/L cùng tiền sử gia đình có gút dễ kéo người học tới 'gút' và kê allopurinol; ACR 2020 Bảng 1 và QĐ 2388/2024 mục 4.7.2 không ủng hộ."
+ ],
+ "bai_hoc_bien": [
+  "Tăng acid uric không triệu chứng (SU > 6,8 mg/dL, chưa cơn gút hay tôphi) không dùng thuốc hạ acid uric: ACR 2020 Bảng 1. TQ 2024 mục 3.1 chỉ khởi khi ≥ 9 mg/dL hoặc có bệnh đi kèm. Ca này dưới ngưỡng và đã loại bệnh đi kèm.",
+  "Việc đúng ở lượt 1 là các bước nền: creatinin/nước tiểu/UACR để có mốc, hỏi thuốc tự mua, dặn nước và bỏ bia (KDIGO 2024 Bảng 1; QĐ 2388/2024 mục 4.11.1; TQ 2024 khuyến cáo 15).",
+  "Lượt 'không đỡ': đi từng bước chẩn đoán, thuốc, tuân thủ, thuốc khác, biến chứng; hỏi đích danh thuốc tiệm; so xu hướng creatinin với mốc nền.",
+  "NSAID và mất nước (mồ hôi) là nguyên nhân trước thận gây TTTC; thợ làm ngoài nắng là nhóm nguy cơ cao (QĐ 2388/2024 mục 4.11.2.1)."
+ ],
+ "diem_nho": [
+  "Tăng acid uric không triệu chứng: ACR 2020 định nghĩa SU > 6,8 mg/dL, chưa cơn gút hay tôphi; khuyến cáo có điều kiện không khởi thuốc (Bảng 1); đổi mg/dL sang µmol/L nhân 59,48 (KDIGO 2024).",
+  "Gút: cần tinh thể urat hoặc ≥ 2 yếu tố của Bennet và Wood (QĐ 361/2014 bài Bệnh gút mục 3.3).",
+  "TTTC: creatinin tăng ≥ 0,3 mg/dL (26,5 µmol/L) trong 48 giờ hoặc > 50% trong 7 ngày; giai đoạn 1 là 1,5–1,9 lần nền (QĐ 2388/2024 mục 4.11.1, Bảng 30).",
+  "Viêm họng có ho, sổ mũi, khàn tiếng: không xét nghiệm liên cầu, không kháng sinh (IDSA 2012 khuyến cáo 4; ACP 2016 Advice 2, 4)."
+ ],
+ "nguon": [
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – bài Bệnh gút mục 2.1, 2.2, 3.1, 3.2, 3.3, 4.2.1; Phụ lục NSAID mục 3.3; bài Hội chứng cổ vai cánh tay mục 4.2.2.",
+  "BYT – QĐ 2388/QĐ-BYT 2024, Hướng dẫn chẩn đoán và điều trị bệnh thận mạn và một số bệnh lý thận – TL-0280 – mục 1 (định nghĩa BTM), 4.7.1, 4.7.2, 4.11.1, 4.11.2.1, 4.11.2.2, 4.11.2.3, 4.11.5 (Bảng 30), 4.11.6.1, 7.4.2.",
+  "ACR 2020 Guideline for the Management of Gout – TL-0318 – Bảng 1, Bảng 7, phần bình luận khuyến cáo tăng acid uric không triệu chứng.",
+  "2024 Update of Chinese Guidelines for Diagnosis and Treatment of Hyperuricemia and Gout, Part I (Sun 2025) – TL-0306 – Bảng 2 khuyến cáo 1, 2, 15, 19, 24; mục 3.1; Hình 1 chú thích.",
+  "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD – TL-0308 – Bảng 1, Bảng 3, bảng quy đổi đơn vị (urat 59,48); khuyến cáo 3.14.2; Practice Point 3.14.4.",
+  "ACP 2016 Appropriate antibiotic use for acute respiratory tract infection in adults (Ann Intern Med 2016;164:425-434) – TL-0156 – Advice 1, 2, 4; Bảng.",
+  "IDSA 2012 Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis – TL-0158 – khuyến cáo 4.",
+  "Sổ mâu thuẫn (tai-lieu/mau_thuan.md): 'Từ ca MT-0578' mục 5 (chờ bác sĩ quyết); 'Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp'; 'Viêm họng đỏ cấp' (nguyên tắc dấu hiệu virus)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (12/10/2026, viết: Sonnet). Tài liệu đã đọc: TL-0286 (bài Bệnh gút mục 2–4, Phụ lục NSAID mục 3.3, bài Hội chứng cổ vai cánh tay mục 4), TL-0280 (mục 1, 4.7, 4.11, 7.4.2), TL-0318 (Bảng 1, 7, bình luận), TL-0306 (Bảng 2, mục 3.1), TL-0308 (Bảng 1, 3, mục 3.14), TL-0156 (Advice 1–4, Bảng), TL-0158 (khuyến cáo 4).",
+  "Thiếu tài liệu đã tải: quy định giấy nghỉ; hướng dẫn nghề nghiệp khi làm việc nắng nóng và lượng nước cần uống ngoài bài gút; khoảng cách đo lại acid uric ở người không triệu chứng; ý nghĩa CK trong TTTC; tiêu chuẩn nhập viện TTTC ngoài nền BTM; loại và tốc độ dịch truyền; liều allopurinol/febuxostat theo eGFR; thuốc tránh thai uống nhầm ở nam; nhiễm độc kim loại khi hàn.",
+  "Mốc tái khám, dấu hiệu quay lại, kịch bản nằm viện, số liệu xét nghiệm là dữ kiện thiết kế của tác giả ca; creatinin 88 → 104 → 160 µmol/L chọn để lượt 3 gấp 1,5 lần trong 7 ngày (QĐ 2388/2024 mục 4.11.5).",
+  "Mâu thuẫn nguồn: áp dụng mục 5 của 'Từ ca MT-0578' (chờ bác sĩ quyết): ca viết phương án thận trọng không điều trị; SU < 9 mg/dL và không bệnh đi kèm nên hai nguồn cùng dẫn tới không dùng thuốc. Không có mục mâu thuẫn mới. Danh mục: dùng id sẵn có."
+ ]
+}

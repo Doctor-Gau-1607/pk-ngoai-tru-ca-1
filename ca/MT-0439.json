@@ -1,0 +1,836 @@
+{
+ "ma_ca": "MT-0439",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_rl_lipid_mau",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Bảo vệ",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Hiền",
+  "tuoi": 63,
+  "gioi": "Nam",
+  "nghe": "Bảo vệ tòa nhà văn phòng (trực camera ca đêm)",
+  "can_nang": 72,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, nói nhiều, hay kể chuyện nhà chuyện cơ quan, thương con gái út vừa lấy chồng. Sợ mất lòng tổ trưởng nên không dám nói thẳng việc bị xếp ca đêm liên tục. Hiểu biết y khoa ít, tin lời hàng xóm về thuốc.",
+  "kieu_nhieu": "Kể lể lộn xộn: một câu hỏi được trả lời bằng cả chuyện đám cưới con gái, chuyện bao tử hồi trẻ, chuyện tổ trưởng; ý chính nằm lẫn giữa. Chỉ trả lời gọn khi bác sĩ hỏi từng ý ngắn, có mốc thời gian, hoặc nhắc lại 'bác nói rõ giúp tôi: bao lâu, lúc nào, uống thuốc gì'. Dễ lạc sang chuyện khác sau mỗi câu.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c98f6b",
+   "toc": "#8a8a8a",
+   "kieuToc": "ngan",
+   "ao": "#3d4f66",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nhức mỏi cổ vai gáy, mệt, xin khám tổng quát",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang (kể cả chụp cột sống cổ). Không chụp CT, nội soi được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Trần Văn Hiền, 63 tuổi, bảo vệ tòa nhà, đái tháo đường típ 2 đang tiêm insulin. Đến vì nhức mỏi cổ vai gáy và mệt mấy tuần nay. Sinh hiệu: HA 146/90 mmHg, mạch 78 l/p, cân nặng 72 kg, cao 165 cm (BMI 26,4).",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Dạo này tôi mệt, cái cổ với hai bả vai cứng như đá, nhức hoài. Tôi trực camera ban đêm, ngồi trước cái màn hình mười hai tiếng. Mà bác sĩ biết không, tháng trước con gái út tôi lấy chồng, mệt lắm, bia bọt mấy bữa. Hồi trẻ tôi cũng bị bao tử... mà thôi. Bác sĩ coi giùm tôi cái cổ này.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "146/90",
+    "nhiet": "36,6",
+    "nhip_tho": 17,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nhức mỏi cổ vai gáy khoảng 3 tuần, kèm mệt và hay buồn ngủ, từ khi bị xếp trực camera ca đêm 12 giờ liên tục, ngồi gần như không đứng dậy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai), yếu tố khởi phát: ngồi trước màn hình lâu"
+    },
+    {
+     "id": "dau_co",
+     "noi_dung": "Đau âm ỉ cơ hai bên cổ và bả vai, tăng khi ngồi lâu, đỡ khi đứng dậy đi lại. Không lan xuống tay, không tê yếu tay, không đau đầu, không chóng mặt, không sốt, không té ngã hay chấn thương.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đau cơ cơ học, không dấu cảnh báo"
+    },
+    {
+     "id": "dtd",
+     "noi_dung": "Đái tháo đường típ 2 khoảng 12 năm. Tiêm insulin glargine 18 đơn vị mỗi tối, uống metformin 850 mg ngày 2 lần. Đường huyết đói tự đo ở nhà thường 8–10 mmol/L nhưng hay quên đo. HbA1c lần gần nhất cách đây 6 tháng là 8,1%. Chưa bị hạ đường huyết nặng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, thuốc đang dùng (insulin), kiểm soát đường huyết kém"
+    },
+    {
+     "id": "mo_mau",
+     "noi_dung": "Cách đây 3 năm đi khám có bác sĩ nói 'mỡ trong máu cao', dặn ăn kiêng, không cho thuốc. Từ đó không thử lại, ăn uống vẫn như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tăng mỡ máu chưa điều trị, không theo dõi"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Không sợ lạnh hơn người khác, không táo bón, giọng không khàn, da không khô bất thường, cân nặng ổn định mấy năm nay. Mệt và buồn ngủ rõ nhất khi trực đêm, ban ngày ngủ không đủ. Chưa từng bị bệnh tuyến giáp, không dùng amiodaron hay lithium, không xạ trị vùng cổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi triệu chứng suy giáp và thuốc gây suy giáp để loại trừ nguyên nhân thứ phát"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Trực đêm ăn mì gói, cơm hộp, bánh ngọt, uống nước ngọt. Bia 2–3 lon mỗi cuối tuần, gần đây uống nhiều hơn vì đám cưới. Bỏ thuốc lá 10 năm. Không tập thể dục. Ngồi gần như cả ngày làm việc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố lối sống gây tăng TG, tĩnh tại, rượu bia"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực, không khó thở khi leo cầu thang, đi bộ không bị đau bắp chân. Chưa từng đột quỵ. Bố mất vì đột quỵ lúc 70 tuổi. Mấy lần đo HA ở trạm y tế phường được 140/90, chưa uống thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng bệnh mạch vành, mạch máu, tiền sử gia đình, huyết áp"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không uống thuốc nào khác. Thỉnh thoảng xoa dầu gió, uống 1 viên paracetamol khi nhức cổ. Không uống thuốc lợi tiểu, thuốc chẹn beta, corticoid hay thuốc nội tiết.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc có thể làm tăng lipid máu (BYT 3879 II.2; ACC/AHA 2026 Bảng 23)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: ông muốn xin giấy nghỉ ốm khoảng 5 ngày. Ba tuần nay tổ trưởng xếp ông trực đêm liên tục, ông kiệt sức nhưng công ty chỉ cho nghỉ khi có giấy bác sĩ, không giấy thì bị trừ lương. Ông ngại nói thẳng vì sợ bác sĩ nghĩ mình xin giấy khống.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về công việc, ca trực, công ty có yêu cầu giấy tờ gì không, hoặc hỏi hôm nay ông muốn gì thêm ngoài khám cổ. Nếu bác sĩ chỉ hỏi bệnh mà không hỏi việc làm thì ông không nhắc.",
+     "k": 1,
+     "y": "Động cơ thật: xin giấy nghỉ ốm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhiều và hay lạc đề. Béo bụng, vòng eo 94 cm. Mặt không phù, da không khô, không vàng da.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau, di động theo nhịp nuốt. Cung giác mạc nhẹ hai mắt. Không ban vàng mi mắt. Hạch cổ không sờ thấy.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không u vàng gân gót, khuỷu, đầu gối; không ban vàng lòng bàn tay. Da ấm, hơi khô nhẹ ở cẳng chân, tóc và lông không thưa.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng béo, mềm, không đau, gan lách không sờ thấy, không âm thổi động mạch chủ bụng.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ thang và cơ nâng vai hai bên, ấn đau nhẹ điểm cơ, không điểm đau xương. Xoay, gập, ngửa cổ đủ tầm, đau nhẹ cuối tầm. Nghiệm pháp Spurling âm tính hai bên.",
+     "k": 0
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5 hai bên, gập cổ 5/5, ngồi xổm – đứng dậy dễ dàng. Không teo cơ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú. Phản xạ gân gót hai bên bình thường, thời gian thư giãn không chậm. Monofilament còn cảm nhận đủ ở bàn chân.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch cảnh, quay, mu chân, chày sau bắt rõ hai bên. Không âm thổi động mạch cảnh.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù, bàn chân không loét, không chai.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Vài vi phình mạch rải rác hai mắt, không xuất tiết, không tân mạch. Không thấy nhiễm lipid võng mạc (võng mạc không trắng như sữa).",
+     "k": 0
+    },
+    "ha_hai_tay": {
+     "a": "Tay phải 146/90, tay trái 144/88 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Lấy buổi sáng sau nhịn đói 10 giờ: Cholesterol TP 7,0 · LDL-C 4,5 · HDL-C 0,9 · TG 3,4 mmol/L (non-HDL-C 6,1 mmol/L)",
+     "ab": 1,
+     "n": "Đủ ngưỡng chẩn đoán: TC > 5,2, TG > 1,7, LDL-C > 2,58, HDL-C < 1,03 mmol/L (QĐ 3879/2014, RLLPM mục III.2). Lấy máu lúc đói (QĐ 3879 mục III.2); TG đã biết cao nên nên nhịn đói (ACC/AHA 2026 mục 3.5, giải thích KC 1). Non-HDL-C = TC − HDL-C."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,3 mIU/L · FT4 14 pmol/L (cả hai trong giới hạn của phòng xét nghiệm)",
+     "n": "Loại suy giáp: suy giáp tiên phát có TSH tăng cao và hormon tuyến giáp giảm (QĐ 3879/2014, Suy giáp ở người lớn mục IV.2.1, IV.3). Suy giáp chưa kiểm soát là nguyên nhân thứ phát của tăng LDL-C và TG (ACC/AHA 2026 Bảng 15, Bảng 23)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "9,6 mmol/L (đói)",
+     "ab": 1
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "8,4%",
+     "ab": 1,
+     "n": "Trên mục tiêu < 7% (ADA 2026 KC 6.3a). Đường huyết kiểm soát kém làm tăng TG (QĐ 3879 mục II.2; ACC/AHA 2026 Bảng 23)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,0 mmol/L · Creatinin 88 µmol/L · eGFR 83 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.0,
+      "creat": 88,
+      "egfr": 83
+     },
+     "n": "Bệnh thận mạn là nguyên nhân thứ phát của tăng lipid (ACC/AHA 2026 Bảng 15): không có."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 28 · ALT 41 U/L",
+     "n": "ALT nền trước điều trị (ESC/EAS 2019 Bảng 13); tăng nhẹ không chứng minh độc gan, không theo dõi thường quy (mục 8.1.4.2). Bệnh gan tắc mật là nguyên nhân thứ phát tăng LDL-C (ACC/AHA 2026 Bảng 15)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "14 mg/g (bình thường)",
+     "n": "Albumin niệu ≥ 30 µg/mg là yếu tố làm tăng nguy cơ ở người ĐTĐ (ACC/AHA 2026 Bảng 17): không có."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 118 U/L (trong giới hạn)",
+     "n": "CK nền không bắt buộc; ACC/AHA 2026 mục 4.2.11 KC 1 chỉ đo CK khi đau cơ nặng hoặc yếu cơ. ESC/EAS 2019 Bảng 13 có đo trước điều trị. Chấp nhận (sổ mâu thuẫn, ca MT-0425 mục 4)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 78 l/p, không ST-T bất thường, không sóng Q.",
+     "n": "Không triệu chứng tim: không bắt buộc tầm soát bệnh mạch vành (ADA 2026 KC 10.37a). Làm không hại."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan nhiễm mỡ độ nhẹ. Thận, tụy chưa thấy bất thường.",
+     "n": "Gan nhiễm mỡ thường kèm tăng TG (QĐ 3879 mục III.1.2). Không đổi xử trí."
+    },
+    "xq_khop": {
+     "v": "n",
+     "n": "Cơ sở không có X-quang. Đau cơ cơ học, không dấu thần kinh, không chấn thương: không có chỉ định hình ảnh (không có trong tài liệu đã tải; theo lâm sàng)."
+    },
+    "trop": {
+     "n": "Không đau ngực, ECG không thiếu máu."
+    },
+    "echo": {
+     "n": "Không triệu chứng tim mạch (ADA 2026 KC 10.37a)."
+    },
+    "lpa": {
+     "v": "a",
+     "r": "Lp(a) 22 mg/dL.",
+     "n": "Chấp nhận, không bắt buộc: ACC/AHA 2026 mục 3.4 KC 1 (COR 1) đo Lp(a) ít nhất một lần ở người lớn; ESC/EAS 2025 mục 6 cân nhắc đo ít nhất một lần, Lp(a) > 50 mg/dL (> 105 nmol/L) là yếu tố tăng nguy cơ. Kết quả 22 mg/dL không làm đổi quyết định điều trị."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu hỗn hợp (tăng LDL-C, tăng TG, giảm HDL-C) ở người ĐTĐ típ 2 dùng insulin, kiểm soát đường huyết kém; nguy cơ tim mạch cao, chưa có bệnh tim mạch xơ vữa",
+     "ok": 1,
+     "n": "LDL-C 4,5, TG 3,4, HDL-C 0,9 mmol/L (QĐ 3879 mục III.2); ĐTĐ 12 năm, tuổi 63, HA cao, HDL-C thấp: nhóm ĐTĐ 40–75 tuổi có thêm yếu tố nguy cơ (ADA 2026 KC 10.20; ACC/AHA 2026 mục 4.2.5)."
+    },
+    {
+     "t": "Yếu tố góp phần tăng lipid: ĐTĐ kiểm soát kém (HbA1c 8,4%), bia rượu, ăn nhiều đường bột và mỡ, ngồi nhiều",
+     "ok": 1,
+     "n": "QĐ 3879 mục II.2 (ĐTĐ, rượu, lối sống tĩnh tại); ACC/AHA 2026 Bảng 23. Sửa các yếu tố này giúp giảm TG (QĐ 3879 mục II.2) nhưng không thay được statin."
+    },
+    {
+     "t": "Đau cơ cổ vai gáy cơ học do ngồi lâu liên tục, mệt do trực đêm, thiếu ngủ",
+     "ok": 1,
+     "n": "Đau tăng khi ngồi, đỡ khi đi lại; Spurling âm tính, sức cơ 5/5, không dấu thần kinh. Là triệu chứng khiến ông đi khám, không phải do mỡ máu."
+    },
+    {
+     "t": "RL lipid thứ phát do suy giáp",
+     "n": "Loại: không sợ lạnh, không táo bón, giọng bình thường; tuyến giáp không to, phản xạ gót thư giãn bình thường; TSH 2,3 mIU/L (QĐ 3879 Suy giáp mục IV; ATA 2014: triệu chứng suy giáp như mệt, khô da, táo bón không nhạy cũng không đặc hiệu nên cần TSH)."
+    },
+    {
+     "t": "RL lipid thứ phát do thuốc (corticoid, thiazid, chẹn beta), bệnh thận, bệnh gan",
+     "n": "Không dùng thuốc nhóm này; eGFR 83, UACR 14 mg/g, men gan bình thường (ACC/AHA 2026 Bảng 15, Bảng 23)."
+    },
+    {
+     "t": "Tăng huyết áp (chưa xác nhận)",
+     "n": "146/90 một buổi khám; phải xác nhận bằng nhiều lần đo, gồm ngày khác (ADA 2026 KC 10.1, mục Screening and Diagnosis). Cho đo HA tại nhà (ADA 2026 KC 10.2)."
+    },
+    {
+     "t": "Viêm tụy cấp do tăng TG",
+     "n": "Không đau bụng; viêm tụy thường gặp khi TG > 10 g/L (11,3 mmol/L) (QĐ 3879 mục III.1.2); TG 3,4 mmol/L."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi công việc, ca trực, và giải thích trung thực về giấy nghỉ ốm; không cấp giấy 5 ngày theo yêu cầu vì khám không thấy bệnh làm ông không đủ sức làm việc",
+     "v": "c",
+     "n": "Giấy chỉ cấp khi người bệnh không đủ sức khỏe đi làm, phù hợp tình trạng sức khỏe (TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm; tài liệu đã tải không có điều này). Kiệt sức vì xếp ca đêm là vấn đề cần bàn với tổ trưởng, không giải quyết bằng giấy nghỉ ốm."
+    },
+    {
+     "t": "Hỏi để loại trừ suy giáp (lạnh, táo bón, khàn giọng, tăng cân), thuốc, khám tuyến giáp và phản xạ gân",
+     "v": "c",
+     "n": "Suy giáp là nguyên nhân thứ phát cần loại trước điều trị (ACC/AHA 2026 Bảng 15, Bảng 23; QĐ 3879 Suy giáp mục IV.1)."
+    },
+    {
+     "t": "Cho TSH và FT4",
+     "v": "c",
+     "n": "Chẩn đoán suy giáp dựa vào TSH tăng và hormon giảm (QĐ 3879 Suy giáp mục IV.3); ATA 2014: triệu chứng không nhạy, không đặc hiệu. Cho trước khi khởi statin để loại thứ phát (ACC/AHA 2026 mục 4.2.9, 'sau khi đánh giá và xử trí nguyên nhân thứ phát')."
+    },
+    {
+     "t": "Bộ mỡ máu lúc đói, đường huyết, HbA1c, creatinin – eGFR, men gan, UACR",
+     "v": "c",
+     "n": "Lipid trước khi bắt đầu statin (ADA 2026 KC 10.17); chẩn đoán RLLPM bằng lipid lúc đói (QĐ 3879 mục III.2); ĐTĐ: HbA1c, eGFR, UACR hằng năm (ADA 2026 mục 11)."
+    },
+    {
+     "t": "Bắt đầu atorvastatin 40 mg mỗi ngày, mục tiêu giảm LDL-C ≥ 50% và LDL-C < 1,8 mmol/L (non-HDL-C < 2,6 mmol/L)",
+     "v": "c",
+     "n": "ĐTĐ 40–75 tuổi có thêm yếu tố nguy cơ: statin cường độ cao, giảm ≥ 50%, LDL-C < 70 mg/dL (ADA 2026 KC 10.20, mức A, Bảng 10.1: atorvastatin 40–80 mg; ACC/AHA 2026 mục 4.2.5 KC 3, COR 2a). Nhắm < 1,4 mmol/L chấm a (sổ mâu thuẫn MT-0333)."
+    },
+    {
+     "t": "Ăn giảm đường bột, mỡ bão hòa; bỏ bia; đi bộ hoặc vận động vừa tối thiểu 150 phút mỗi tuần",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.9: 150 phút vận động vừa mỗi tuần, giảm đường tinh chế, mỡ bão hòa, giảm cân; QĐ 3879 mục IV.2–IV.3: vận động 30–45 phút mỗi ngày, 5 ngày mỗi tuần, hạn chế bia rượu. Dùng thuốc song song, không chờ."
+    },
+    {
+     "t": "Tối ưu đường huyết: đo đường huyết đói mỗi sáng, tăng insulin nền 2 đơn vị mỗi 3 ngày đến khi đường huyết đói 4,4–7,2 mmol/L; hạ 10–20% liều nếu hạ đường huyết không rõ nguyên nhân",
+     "v": "c",
+     "n": "ADA 2026 Hình 9.5 (bảng chỉnh liều insulin nền), Bảng 6.3 (đường huyết đói 80–130 mg/dL = 4,4–7,2 mmol/L), KC 10.15 (tối ưu đường huyết khi TG ≥ 1,7 mmol/L). Chuẩn bị chỉnh liều tại nhà: dặn tái khám sớm."
+    },
+    {
+     "t": "Đo HA tại nhà, ghi sổ; chưa khởi thuốc hạ áp chỉ dựa một lần đo",
+     "v": "c",
+     "n": "ADA 2026 mục Screening and Diagnosis KC 10.1–10.2: xác nhận bằng nhiều lần đo, có ngày khác; tự theo dõi tại nhà. THA khi ≥ 130/80 (ADA 2026); QĐ 5904/2019 Phần 3 ghi ≥ 140/90."
+    },
+    {
+     "t": "Hẹn lấy lại bộ mỡ máu sau 4–12 tuần (khoảng 8 tuần)",
+     "v": "c",
+     "n": "Lipid 4–12 tuần sau khởi statin hoặc đổi liều, sau đó hằng năm (ADA 2026 KC 10.17; ACC/AHA 2026 mục 3.5 KC 1: mỗi 6–12 tháng)."
+    },
+    {
+     "t": "Dặn đau ngực, khó thở, méo miệng, nói khó, yếu liệt nửa người, đau cơ dữ dội kèm nước tiểu sẫm thì đến cấp cứu ngay",
+     "v": "c",
+     "n": "Triệu chứng tim, thần kinh cần hỏi và dặn (QĐ 5904/2019 Phần 3 Bước 1); đau cơ nặng, yếu cơ cần đo CK (ACC/AHA 2026 mục 4.2.11 KC 1)."
+    },
+    {
+     "t": "Đo Lp(a) một lần trong đời nếu có điều kiện",
+     "v": "a",
+     "n": "ACC/AHA 2026 mục 3.4 KC 1 (COR 1): mọi người lớn đo ít nhất một lần; ESC/EAS 2025 mục 6: cân nhắc đo ít nhất một lần. Không làm không trừ điểm."
+    },
+    {
+     "t": "Atorvastatin 10–20 mg (cường độ vừa) hoặc chỉ ăn kiêng 2–3 tháng rồi mới dùng thuốc",
+     "v": "a",
+     "n": "QĐ 3879/2014 mục IV.4: lối sống 2–3 tháng không đạt mới dùng thuốc; atorvastatin 10–20 mg. ADA 2026 KC 10.20 và ACC/AHA 2026 mới hơn khuyên cường độ cao ngay cho ĐTĐ có yếu tố nguy cơ; ACC/AHA mục 4.2.5 KC 1 vẫn chấp nhận cường độ vừa (COR 1). Chấp nhận, không trừ điểm."
+    },
+    {
+     "t": "Phối hợp ezetimibe ngay từ lần đầu",
+     "v": "a",
+     "n": "ADA 2026 KC 10.21 và ACC/AHA 2026 mục 4.2.5 KC 5: thêm ezetimibe vào statin liều tối đa dung nạp khi chưa đạt mục tiêu (sổ mâu thuẫn MT-0425 mục 3). Phối hợp ngay chấm a."
+    },
+    {
+     "t": "Kê thuốc bảo vệ gan cùng statin",
+     "v": "a",
+     "n": "QĐ 3879 mục IV.4 (Chú ý) có ghi; ESC/EAS 2019 mục 8.1.4.2 không khuyên (sổ MT-0425 mục 5). Thuốc cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm fenofibrat ngay vì TG 3,4 mmol/L",
+     "v": "a",
+     "n": "QĐ 3879 mục IV.4.2: fibrat chỉ định khi tăng TG. ACC/AHA 2026 mục 4.2.9 KC 6 (COR 2a) và mục 4.2.1.3: thuốc giảm TG dành cho TG ≥ 500 mg/dL (5,7 mmol/L); ưu tiên statin trước. Chưa cần, chấp nhận."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm 5 ngày theo yêu cầu",
+     "v": "w",
+     "n": "Không phù hợp tình trạng sức khỏe (TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm); cấp khống làm sai lệch giấy tờ. Mệt vì xếp ca đêm không phải bệnh cần nghỉ 5 ngày."
+    },
+    {
+     "t": "Chuyển đi chụp X-quang cột sống cổ",
+     "v": "w",
+     "n": "Cơ sở không có X-quang; đau cơ cơ học, không dấu thần kinh, không chấn thương nên không có chỉ định (không có trong tài liệu đã tải; theo lâm sàng)."
+    },
+    {
+     "t": "Cho levothyroxin thử vì mệt, buồn ngủ",
+     "v": "w",
+     "n": "Chẩn đoán suy giáp cần TSH tăng, hormon giảm (QĐ 3879 Suy giáp mục IV.3); TSH 2,3 mIU/L nên không có chỉ định."
+    },
+    {
+     "t": "Phối hợp gemfibrozil với statin để hạ TG",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.1.3: không phối hợp gemfibrozil với statin vì tăng nguy cơ tác dụng phụ cơ; fenofibrat an toàn hơn. Niacin nên tránh vì dung nạp kém."
+    },
+    {
+     "t": "Chỉ cho thuốc giảm đau, dầu gió, bỏ qua lipid vì 'chưa có triệu chứng'",
+     "v": "w",
+     "n": "RLLPM thường không triệu chứng, bị phát hiện muộn qua biến chứng tim mạch (QĐ 3879 mục III.1); ĐTĐ cần lipid hằng năm (ADA 2026 KC 10.16)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu hỗn hợp: LDL-C 4,5, TG 3,4, HDL-C 0,9 mmol/L; non-HDL-C 6,1 mmol/L",
+     "ĐTĐ típ 2 12 năm đang dùng insulin glargine + metformin, HbA1c 8,4%, chưa đạt mục tiêu < 7%",
+     "Yếu tố thứ phát góp phần: ĐTĐ kiểm soát kém, bia rượu, ăn nhiều đường bột, ngồi nhiều",
+     "Đã loại suy giáp (TSH 2,3 mIU/L), thuốc, bệnh thận, bệnh gan",
+     "Nguy cơ tim mạch cao (ĐTĐ 40–75 tuổi, HA 146/90 chưa xác nhận, HDL-C thấp, bố mất vì đột quỵ lúc 70 tuổi, béo bụng)",
+     "Đau cơ cổ vai gáy cơ học do ngồi lâu; mệt do trực đêm thiếu ngủ",
+     "Lý do thật: xin giấy nghỉ ốm vì kiệt sức do bị xếp ca đêm liên tục"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: ông kể lộn xộn nên hỏi ngắn từng ý, có mốc thời gian. Triệu chứng chính là đau cơ cổ vai, không đặc hiệu cho mỡ máu. RLLPM không có triệu chứng đặc trưng, thường phát hiện qua xét nghiệm hoặc biến chứng (QĐ 3879 mục III.1). Điều khiến phải nghĩ tới: ĐTĐ 12 năm, tiền sử 'mỡ cao' 3 năm bỏ điều trị, ngồi nhiều, bia.",
+     "Khám: tuyến giáp không to, phản xạ gót thư giãn bình thường, không ban vàng, không u vàng gân, mạch ngoại biên rõ. Dấu ngoại biên của tăng lipid chỉ có ở một phần bệnh nhân (QĐ 3879 mục III.1.1); không có cũng không loại trừ.",
+     "Xét nghiệm: lipid lúc đói đủ ngưỡng chẩn đoán RLLPM (QĐ 3879 mục III.2): TC 7,0 > 5,2; TG 3,4 > 1,7; LDL-C 4,5 > 2,58; HDL-C 0,9 < 1,03 mmol/L. TG chiếm ưu thế cùng HDL-C thấp là kiểu rối loạn lipid của ĐTĐ típ 2 (ESC/EAS 2019 mục 9.4.1). Non-HDL-C 6,1 mmol/L phản ánh toàn bộ lipoprotein gây xơ vữa.",
+     "Loại trừ thứ phát (yêu cầu của ca): suy giáp, thuốc, thận, gan là các nguyên nhân thứ phát của tăng LDL-C hoặc TG (ACC/AHA 2026 Bảng 15, Bảng 23). TSH 2,3 mIU/L loại suy giáp (QĐ 3879 Suy giáp mục IV.2.1, IV.3). Triệu chứng suy giáp như mệt, khô da, táo bón không nhạy cũng không đặc hiệu (ATA 2014): mệt của ông có nguyên nhân khác là trực đêm. ĐTĐ kiểm soát kém và bia rượu là thứ phát có thật, làm nặng thêm nhưng không giải thích hết LDL-C 4,5 và không thay được thuốc.",
+     "Mức nguy cơ: ĐTĐ 40–75 tuổi có yếu tố nguy cơ khác (tuổi, THA, rối loạn lipid): statin cường độ cao, giảm ≥ 50%, LDL-C < 1,8 mmol/L (ADA 2026 KC 10.20, mức A). ACC/AHA 2026 mục 4.2.5 KC 1 nói cường độ vừa (COR 1), KC 3 nói cường độ cao hợp lý (COR 2a) với mục tiêu LDL-C < 70 mg/dL, non-HDL-C < 100 mg/dL. Hai nguồn cùng hướng cường độ cao; cường độ vừa vẫn chấp nhận.",
+     "Mục tiêu: BYT 3879/2014 (mục IV.4) khuyên lối sống 2–3 tháng rồi mới dùng thuốc, atorvastatin 10–20 mg; ADA 2026 và ACC/AHA 2026 (mới hơn 11 năm) khuyên statin cường độ cao cùng lối sống ngay. Đáp án theo ADA 2026 và ACC/AHA 2026 vì mới hơn; cách của QĐ 3879 chấm a vì tài liệu mới không nói cách chờ là có hại. ESC 2023 (T2DM nguy cơ rất cao) nhắm LDL-C < 1,4 mmol/L: chấm a (sổ mâu thuẫn MT-0333). Công cụ SCORE2-Diabetes và PREVENT: không có trong tài liệu đã tải nên không tính điểm nguy cơ.",
+     "Giấy nghỉ ốm: sau khi hỏi về công việc mới lộ ra ông kiệt sức vì ca đêm. Giấy chỉ cấp theo tình trạng sức khỏe (TT 56/2017/TT-BYT Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm). Ông không có bệnh làm mất khả năng làm việc nên không cấp 5 ngày; nói thẳng với ông, đề nghị ông trao đổi với tổ trưởng về ca trực và nghỉ phép."
+    ],
+    "phan_tich_xu_tri": [
+     "Statin cường độ cao là thuốc chính: atorvastatin 40–80 mg hoặc rosuvastatin 20–40 mg (ADA 2026 Bảng 10.1; ACC/AHA 2026 Bảng 6). Chọn atorvastatin 40 mg: dùng được bất kỳ giờ nào trong ngày vì thời gian bán thải dài (ACC/AHA 2026 Bảng 5). Tăng liều lên 80 mg ở lượt sau nếu chưa đạt mục tiêu và dung nạp tốt.",
+     "Chưa thêm thuốc khác: ezetimibe thêm khi đã dùng statin liều tối đa dung nạp mà chưa đạt (ADA 2026 KC 10.21; ACC/AHA 2026 mục 4.2.5 KC 5). TG 3,4 mmol/L chưa tới mức dùng thuốc hạ TG (≥ 5,7 mmol/L) (ACC/AHA 2026 mục 4.2.9); giảm TG bằng kiểm soát đường huyết, bỏ bia, vận động (QĐ 3879 mục II.2; ACC/AHA 2026 mục 4.2.9: giảm cân 5–10% làm TG giảm 20–30%).",
+     "Đường huyết: HbA1c 8,4% cao hơn mục tiêu < 7% (ADA 2026 KC 6.3a). Chỉnh insulin nền theo đường huyết đói (ADA 2026 Hình 9.5). Số đơn vị khởi điểm mới và đích cụ thể chỉnh theo từng người: ghi rõ tăng 2 đơn vị mỗi 3 ngày, giảm 10–20% khi hạ đường huyết. Không tăng thuốc khi chưa hướng dẫn đo đường huyết đúng.",
+     "Huyết áp: 146/90 chỉ một lần khám; chẩn đoán THA phải xác nhận nhiều lần đo (ADA 2026 KC 10.1). Cho đo tại nhà (KC 10.2), không khởi thuốc hạ áp hôm nay.",
+     "Theo dõi: lipid 4–12 tuần sau khởi statin (ADA 2026 KC 10.17; ACC/AHA 2026 mục 3.5 KC 1), chọn khoảng 8 tuần. Không cần CK hay men gan thường quy khi không có triệu chứng (ACC/AHA 2026 mục 4.2.11; ESC/EAS 2019 mục 8.1.4.2).",
+     "Điều không làm: chụp cột sống cổ, levothyroxin khi TSH bình thường, gemfibrozil cùng statin (ACC/AHA 2026 mục 4.2.1.3). Lp(a): app chưa có xét nghiệm này nên không chấm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày, ông chọn trước khi đi trực để dễ nhớ",
+      "so_ngay": "Dùng lâu dài; lấy lipid sau 4–12 tuần (hẹn 8 tuần)",
+      "ghi_chu": "Cường độ cao: atorvastatin 40–80 mg (ADA 2026 Bảng 10.1; ACC/AHA 2026 Bảng 6). Thận trọng khi bệnh gan; có thể tăng men gan, men cơ, nhất là người già hoặc dùng nhiều thuốc (QĐ 3879 mục IV.4.1). Đau cơ nặng, yếu cơ, nước tiểu sẫm: ngưng và đo CK (ACC/AHA 2026 mục 4.2.11 KC 1). Chống chỉ định trong thai kỳ: không liên quan ca này."
+     },
+     {
+      "thuoc": "Insulin glargine",
+      "ham_luong": "Bút tiêm đang dùng",
+      "lieu": "Giữ 18 đơn vị mỗi tối, tăng 2 đơn vị mỗi 3 ngày cho tới khi đường huyết đói 4,4–7,2 mmol/L; hạ 10–20% nếu hạ đường huyết không rõ nguyên nhân",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Tối, cùng giờ mỗi ngày",
+      "so_ngay": "Tiếp tục; báo ngay khi hạ đường huyết hoặc đường huyết đói < 4,4 mmol/L",
+      "ghi_chu": "Giữ nguyên thuốc đang dùng, chỉnh liều theo ADA 2026 Hình 9.5; đích đường huyết đói theo ADA 2026 Bảng 6.3. Kê glucagon cho người dùng insulin: ADA 2026 KC 6.16 (không bàn kỹ ở ca này)."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "850 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên thuốc đang dùng; eGFR 83 mL/ph/1,73m² nên không cần giảm liều (chống chỉ định khi eGFR < 30: QĐ 5481/2020 Phần 8 mục 1.2)."
+     }
+    ],
+    "dan_do": [
+     "Mỡ máu cao không đau không mệt nhưng làm xơ vữa mạch âm thầm; uống atorvastatin mỗi tối, không tự ngưng khi thấy khỏe (QĐ 3879 mục III.1, mục V).",
+     "Hạn chế bia rượu, nước ngọt, bánh, mì gói; ăn ít mỡ động vật, nhiều rau và cá (QĐ 3879 mục IV.3).",
+     "Đi bộ hoặc vận động vừa, tổng cộng ít nhất 150 phút mỗi tuần; khi trực đêm đứng dậy đi lại vài phút mỗi giờ (ACC/AHA 2026 mục 4.2.9).",
+     "Đo đường huyết đói mỗi sáng, ghi sổ; đo HA tại nhà sáng tối vài ngày trước tái khám (ADA 2026 KC 10.2).",
+     "Đi cấp cứu ngay nếu đau tức ngực, khó thở, méo miệng, nói khó, yếu liệt nửa người (QĐ 5904/2019 Phần 3 Bước 1); đau cơ dữ dội kèm nước tiểu sẫm màu thì ngưng thuốc và đến khám (ACC/AHA 2026 mục 4.2.11).",
+     "Giấy nghỉ ốm: bác sĩ không cấp vì bác không bệnh đến mức không đi làm được; chuyện bị xếp ca đêm liên tục bác nên nói thẳng với tổ trưởng, xin đổi ca hoặc nghỉ phép năm.",
+     "Tái khám sau 8 tuần (ADA 2026 KC 10.17: lipid 4–12 tuần), mang sổ đường huyết và HA tại nhà; lấy máu lúc đói."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 8 tuần",
+   "tiep_don": "Tái khám sau 8 tuần. Ông Hiền nói uống thuốc đều, cổ vai đỡ, nhưng mấy tuần nay mỏi hai bắp đùi nên lo thuốc hại cơ. Sinh hiệu: HA 138/84 mmHg, mạch 74 l/p, cân nặng 71 kg.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, cổ tôi đỡ chừng một nửa. Mà mấy tuần nay hai bắp đùi mỏi, đi lên cầu thang thấy nặng. Hàng xóm nói thuốc mỡ hại cơ hại gan lắm. Mà thôi, hôm đó tổ trưởng cho tôi đổi ca ngày rồi, nhờ bác sĩ nói chuyện đó. À, cái bút tiêm của tôi mới đổi hộp.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "138/84",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn 8 tuần. Cổ vai đỡ khoảng một nửa nhờ đổi sang ca ngày và đứng dậy đi lại. Mệt đỡ, ngủ đêm được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến đỡ một phần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống atorvastatin 40 mg mỗi tối trước khi đi làm bằng hộp thuốc chia ngày, quên khoảng 4 viên trong 8 tuần vào những hôm tăng ca. Tiêm insulin đều, đã tự tăng glargine lên 24 đơn vị theo hướng dẫn, đường huyết đói tuần qua 7–8 mmol/L, không hạ đường huyết. Metformin đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, kiểm soát đường huyết"
+    },
+    {
+     "id": "dau_dui",
+     "noi_dung": "Từ 3 tuần nay mỏi, nặng hai bắp đùi khi leo cầu thang, sau khi bắt đầu đi bộ 30 phút mỗi chiều 4 buổi mỗi tuần. Không yếu chân, đứng dậy từ ghế được, không đau dữ dội, nước tiểu vàng bình thường, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng cơ khi dùng statin: nhẹ, đối xứng, có yếu tố vận động mới"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Bỏ bia và nước ngọt, đi bộ như trên. Vẫn ăn mì gói khi tăng ca. Cân giảm 1 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thay đổi lối sống"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Vẫn không sợ lạnh, không táo bón, không tăng cân, giọng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ha_nha",
+     "noi_dung": "HA đo tại nhà 7 ngày trung bình 136/84 mmHg, cao nhất 142/88.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác nhận THA bằng đo tại nhà"
+    },
+    {
+     "id": "lo_thuoc",
+     "noi_dung": "Ông nghe hàng xóm nói thuốc mỡ phải uống cả đời, hại cơ, hại gan. Ông tính sau buổi này nếu bác sĩ không bảo 'có sao không' thì tự ngưng thuốc mỡ, chỉ giữ thuốc tiểu đường.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông có lo ngại gì về thuốc mỡ, hoặc hỏi vì sao quên thuốc, hoặc hỏi ông định thế nào với thuốc mỡ. Nếu bác sĩ chỉ hỏi thêm về bắp đùi thì ông không nói ra ý định tự ngưng.",
+     "k": 1,
+     "y": "Lo ngại thuốc, nguy cơ tự ngưng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói chuyện gọn hơn lần trước. Vòng eo 92 cm. Da không khô.",
+     "k": 0
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5. Ngồi xổm – đứng dậy được 5 lần liên tiếp không cần chống tay. Ấn bắp đùi không đau.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Cơ thang còn căng nhẹ hai bên, ấn đau nhẹ, xoay cổ đủ tầm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Phản xạ gân gót bình thường hai bên. Không dấu thần kinh khu trú.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Nhịn đói 10 giờ: Cholesterol TP 4,6 · LDL-C 2,6 · HDL-C 1,0 · TG 2,2 mmol/L (non-HDL-C 3,6 mmol/L). Lượt 1: LDL-C 4,5 · TG 3,4.",
+     "ab": 1,
+     "n": "LDL-C giảm 42% [(4,5 − 2,6)/4,5], TG giảm 35%. Statin cường độ cao kỳ vọng giảm ≥ 50% (ACC/AHA 2026 Bảng 6); mục tiêu LDL-C < 1,8 và non-HDL-C < 2,6 mmol/L (ADA 2026 KC 10.20; ACC/AHA 2026 mục 4.2.5 KC 3): chưa đạt."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 124 U/L (trong giới hạn)",
+     "n": "Đau cơ nhẹ, sức cơ bình thường: không cần đo CK (ACC/AHA 2026 mục 4.2.11 KC 1: CK khi đau cơ nặng hoặc yếu cơ). Làm: chấp nhận (sổ mâu thuẫn MT-0425 mục 4)."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 27 · ALT 40 U/L",
+     "n": "Không tăng so với lượt 1; không cần theo dõi thường quy (ESC/EAS 2019 mục 8.1.4.2). Làm: chấp nhận."
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "7,9%",
+     "ab": 1,
+     "n": "Giảm từ 8,4% nhưng chưa đạt < 7% (ADA 2026 KC 6.3a). HbA1c phản ánh khoảng 3 tháng nên chưa thể đã hết tác động của thay đổi mới."
+    },
+    "glu": {
+     "v": "e",
+     "r": "7,8 mmol/L (đói)",
+     "ab": 1
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Không làm lại",
+     "n": "Đã làm ở lượt 1 (TSH 2,3 mIU/L), không có triệu chứng suy giáp mới: không cần lặp. Hạ lipid không đủ để kết luận là do suy giáp."
+    },
+    "trop": {
+     "n": "Không đau ngực, đau cơ không phải đau cơ tim."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu hỗn hợp ở ĐTĐ típ 2 dùng insulin, đáp ứng một phần với atorvastatin 40 mg (LDL-C 4,5 → 2,6 mmol/L, giảm 42%), chưa đạt mục tiêu LDL-C < 1,8 mmol/L",
+     "ok": 1,
+     "n": "Đỡ một phần: thuốc có tác dụng, chưa đạt đích. Ông quên khoảng 4 viên trong 8 tuần, chưa phải thất bại điều trị; thất bại hay kháng thuốc chỉ nghĩ tới khi dùng đều, liều tối đa dung nạp mà vẫn xa mục tiêu (ADA 2026 KC 10.21; ACC/AHA 2026 mục 4.2.5 KC 5)."
+    },
+    {
+     "t": "Mỏi cơ đùi nhẹ liên quan vận động mới, có thể kèm kỳ vọng tiêu cực về statin; chưa đủ chẩn đoán đau cơ do statin",
+     "ok": 1,
+     "n": "Mỏi nhẹ, đối xứng, sức cơ 5/5, CK 124 U/L. Nhiều trường hợp do kỳ vọng của bệnh nhân (hiệu ứng 'drucebo') (ACC/AHA 2026 mục 4.2.11, giải thích KC 2); phải loại thứ phát, trong đó có suy giáp và ĐTĐ (ACC/AHA 2026 Bảng 24, mục 4.2.11 KC 1)."
+    },
+    {
+     "t": "THA giai đoạn 1 (HA nhà trung bình 136/84 mmHg)",
+     "ok": 1,
+     "n": "Đã xác nhận bằng nhiều lần đo tại nhà (ADA 2026 KC 10.1–10.2); ≥ 130/80 mmHg là THA theo ADA 2026 (QĐ 5904/2019 dùng ≥ 140/90). Mục tiêu < 130/80 nếu an toàn (ADA 2026 KC 10.4)."
+    },
+    {
+     "t": "Tổn thương cơ do statin nặng (tiêu cơ vân)",
+     "n": "Không yếu cơ, CK bình thường, nước tiểu không sẫm (ACC/AHA 2026 mục 4.2.11)."
+    },
+    {
+     "t": "Suy giáp mới xuất hiện",
+     "n": "TSH lượt 1 bình thường; không triệu chứng; không cần lặp. Nghĩ lại nếu LDL-C không giảm đúng kỳ vọng dù tuân thủ tốt hoặc xuất hiện triệu chứng suy giáp (ACC/AHA 2026 Bảng 15)."
+    },
+    {
+     "t": "Tổn thương gan do statin",
+     "n": "ALT 40 U/L không tăng (ESC/EAS 2019 mục 8.1.4.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi tuân thủ và lo ngại về thuốc; giải thích mỏi cơ đùi nhiều khả năng do bắt đầu đi bộ, sức cơ và CK bình thường, nguy cơ của việc ngưng statin lớn hơn",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 2 (COR 1): thừa nhận lo lắng, nói rõ nguy cơ tim mạch tăng khi ngưng statin, đưa lựa chọn khác. Đánh giá nguyên nhân thứ phát trước khi quy cho statin (KC 1; Bảng 24)."
+    },
+    {
+     "t": "Tiếp tục statin, tăng atorvastatin lên 80 mg mỗi ngày nếu dung nạp tốt",
+     "v": "c",
+     "n": "LDL-C 2,6 mmol/L > 1,8 mmol/L, giảm 42% < 50%: tăng cường (ACC/AHA 2026 mục 3.5, giải thích KC 1: đáp ứng chưa đủ thì tăng cường lối sống, tăng statin hoặc thêm thuốc không phải statin). Atorvastatin 40–80 mg là cường độ cao (ADA 2026 Bảng 10.1). Thêm ezetimibe khi đã dùng statin liều tối đa dung nạp mà chưa đạt (ADA 2026 KC 10.21; sổ mâu thuẫn MT-0425 mục 3). Liều cao tăng nguy cơ triệu chứng cơ (ACC/AHA 2026 Bảng 24): theo dõi sát."
+    },
+    {
+     "t": "Hẹn lấy lại lipid sau 4–12 tuần kể từ khi tăng liều; chưa đạt LDL-C < 1,8 mmol/L thì thêm ezetimibe 10 mg",
+     "v": "c",
+     "n": "ADA 2026 KC 10.17 (lipid 4–12 tuần sau đổi liều); ADA 2026 KC 10.21 và ACC/AHA 2026 mục 4.2.5 KC 5 (ezetimibe); ezetimibe 10 mg mỗi ngày (ACC/AHA 2026 Bảng 5, 'Ezetimibe 10 mg once daily'; QĐ 3879 mục IV.4.5). Ezetimibe giảm thêm khoảng 24% LDL-C (ESC/EAS 2019 mục 9.4.2.1)."
+    },
+    {
+     "t": "Tiếp tục tối ưu đường huyết: HbA1c 7,9%, tiếp tục chỉnh insulin nền theo đường huyết đói",
+     "v": "c",
+     "n": "ADA 2026 KC 6.3a (< 7%), Hình 9.5, Bảng 6.3; KC 10.15 (đường huyết tốt giúp giảm TG)."
+    },
+    {
+     "t": "Xác nhận THA bằng HA nhà (136/84); cho điều trị theo ADA 2026 hoặc theo dõi thêm theo QĐ 5904/2019",
+     "v": "c",
+     "n": "ADA 2026 KC 10.6: HA đã xác nhận ≥ 130/80 thì khởi thuốc và chỉnh tới mục tiêu cá nhân; QĐ 5904/2019 ngưỡng ≥ 140/90 (cũ hơn) chấp nhận chưa dùng thuốc. Thuốc cụ thể không bàn trong ca này."
+    },
+    {
+     "t": "Giữ lối sống đã thay đổi; đứng dậy đi lại giữa các giờ trực; dặn đau cơ nặng, nước tiểu sẫm thì ngưng thuốc và đến ngay",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.9 (150 phút vận động mỗi tuần), mục 4.2.11 KC 1 (CK khi đau cơ nặng hoặc yếu cơ)."
+    },
+    {
+     "t": "Nói với ông về công việc: ca ngày đã giúp đỡ mệt; không cần giấy nghỉ ốm",
+     "v": "c",
+     "n": "Giấy nghỉ ốm chỉ cấp khi bệnh làm không đủ sức làm việc (TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm)."
+    },
+    {
+     "t": "Thêm ezetimibe 10 mg ngay lượt này cùng atorvastatin 40 mg",
+     "v": "a",
+     "n": "ESC/EAS 2019 mục 9.4.2.1 và ACC/AHA 2026 mục 4.2.5 KC 5 cho phép; ACC/AHA và ADA 2026 KC 10.21 thêm sau statin liều tối đa dung nạp (sổ mâu thuẫn MT-0425 mục 3). Chấp nhận, không trừ điểm."
+    },
+    {
+     "t": "Đo CK hoặc men gan lại",
+     "v": "a",
+     "n": "Không bắt buộc khi đau cơ nhẹ, sức cơ bình thường (ACC/AHA 2026 mục 4.2.11 KC 1; ESC/EAS 2019 mục 8.1.4.2). Làm không hại."
+    },
+    {
+     "t": "Ngưng statin vài tuần để xem đau cơ có hết không, rồi dùng lại",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 2: nhấn mạnh nguy cơ tim mạch tăng khi ngưng statin ở ĐTĐ nguy cơ cao; đau nhẹ, sức cơ bình thường, có yếu tố vận động mới nên chưa có chỉ định ngưng."
+    },
+    {
+     "t": "Ngưng hẳn statin, chỉ dùng chế độ ăn",
+     "v": "h",
+     "n": "ĐTĐ 63 tuổi có nhiều yếu tố nguy cơ cần LDL-C < 1,8 mmol/L (ADA 2026 KC 10.20); bỏ statin vì đau cơ nhẹ làm tăng nguy cơ biến cố (ACC/AHA 2026 mục 4.2.11 KC 2, giải thích)."
+    },
+    {
+     "t": "Phối hợp gemfibrozil để giảm TG còn 2,2 mmol/L",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.1.3: không phối hợp gemfibrozil với statin (nguy cơ tác dụng phụ cơ); TG 2,2 mmol/L dưới ngưỡng thuốc hạ TG (≥ 5,7 mmol/L)."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm vì mỏi cơ đùi",
+     "v": "w",
+     "n": "Mỏi cơ nhẹ, đi làm được: không phù hợp tình trạng sức khỏe (TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu hỗn hợp, đáp ứng một phần với atorvastatin 40 mg: LDL-C 2,6 mmol/L (giảm 42%), TG 2,2 mmol/L, non-HDL-C 3,6 mmol/L; chưa đạt LDL-C < 1,8 và non-HDL-C < 2,6 mmol/L",
+     "ĐTĐ típ 2 dùng insulin, HbA1c 7,9%, đang giảm nhưng chưa đạt < 7%",
+     "THA đã xác nhận bằng đo tại nhà (136/84 mmHg)",
+     "Mỏi cơ đùi nhẹ liên quan vận động mới, chưa đủ chẩn đoán đau cơ do statin; sức cơ bình thường, CK bình thường",
+     "Ông có ý định tự ngưng statin vì lo ngại (nguy cơ lớn nhất của lượt này)"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: LDL-C giảm 42%, gần mức kỳ vọng của statin, kèm quên khoảng 4 viên: chưa phải kháng thuốc. Kỳ vọng statin cường độ cao giảm ≥ 50% (ACC/AHA 2026 Bảng 6), đáp ứng thay đổi giữa từng người (ACC/AHA 2026 mục 3.5). Thất bại điều trị cần dùng đều, liều tối đa dung nạp mà không đạt (ADA 2026 KC 10.21).",
+     "Đã loại trừ suy giáp ở lượt 1 (TSH 2,3 mIU/L); hỏi lại triệu chứng suy giáp, tuyến giáp không to nên không làm lại TSH. Suy giáp cũng làm tăng nguy cơ đau cơ khi dùng statin (ACC/AHA 2026 Bảng 24) nên cần nhớ nếu triệu chứng cơ nặng lên.",
+     "Mỏi đùi: bắt đầu đi bộ cùng thời điểm, đối xứng, sức cơ 5/5, CK 124 U/L. Đau cơ do statin điển hình là đau hoặc yếu cơ gốc chi đối xứng, mới xuất hiện trong vài tuần sau khởi hoặc tăng liều, đỡ sau khi ngưng thuốc (ACC/AHA 2026 mục 4.2.11 giải thích KC 1). Nhiều triệu chứng do kỳ vọng của bệnh nhân (ACC/AHA 2026 mục 4.2.11 giải thích KC 2). Chưa đủ chẩn đoán, không ngưng thuốc.",
+     "Lý do thật của lượt này là lo ngại về thuốc: ông định tự ngưng sau buổi khám. Hỏi 'ông nghĩ thế nào về thuốc mỡ' và hỏi vì sao quên thuốc mới lộ ra. Ngưng statin làm tăng nguy cơ tim mạch (ACC/AHA 2026 mục 4.2.11 KC 2).",
+     "THA: HA nhà 136/84 mmHg ≥ 130/80 nên chẩn đoán THA theo ADA 2026 KC 10.1 và khởi thuốc nếu xác nhận (KC 10.6). Bác sĩ cũng có thể theo QĐ 5904/2019 (≥ 140/90, cũ hơn): chưa cần thuốc; chấp nhận, vì QĐ 5904 vẫn là căn cứ hành nghề."
+    ],
+    "phan_tich_xu_tri": [
+     "Tăng atorvastatin lên 80 mg: cùng mức cường độ cao (ADA 2026 Bảng 10.1), tăng thêm một ít LDL-C; thêm ezetimibe khi đã dùng statin liều tối đa dung nạp mà chưa đạt (ADA 2026 KC 10.21; ACC/AHA 2026 mục 4.2.5 KC 5). Ở lượt này chưa đạt 'liều tối đa dung nạp' nên đáp án là tăng liều trước; thêm ezetimibe ngay chấm a (sổ mâu thuẫn MT-0425 mục 3). Ezetimibe giảm thêm khoảng 24% (ESC/EAS 2019 mục 9.4.2.1) và 10 mg mỗi ngày (ACC/AHA 2026 Bảng 5).",
+     "Hẹn lipid lại 4–12 tuần sau khi tăng liều (ADA 2026 KC 10.17; ACC/AHA 2026 mục 3.5 KC 1), chọn 8 tuần để quyết định thêm ezetimibe.",
+     "Thuốc đái tháo đường: giữ metformin; tiếp tục chỉnh glargine theo đường huyết đói (ADA 2026 Hình 9.5); HbA1c 7,9% sẽ giảm tiếp (ADA 2026 KC 6.3a < 7%).",
+     "Không đổi sang statin khác hay ngưng thuốc: chỉ khi triệu chứng cơ nặng, kéo dài hoặc CK cao (ACC/AHA 2026 mục 4.2.11 KC 1, Hình 18).",
+     "Điều không làm: ngưng thuốc thử, gemfibrozil cùng statin, niacin (ACC/AHA 2026 mục 4.2.1.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg hoặc 80 mg",
+      "lieu": "80 mg × 1 lần/ngày (viên 40 mg × 2) nếu dung nạp; nếu mỏi cơ nặng lên thì giữ 40 mg và thêm ezetimibe",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ mỗi ngày, chọn giờ ông nhớ nhất",
+      "so_ngay": "Dùng lâu dài; lấy lipid sau 4–12 tuần (hẹn 8 tuần)",
+      "ghi_chu": "Cường độ cao: atorvastatin 40–80 mg (ADA 2026 Bảng 10.1; ACC/AHA 2026 Bảng 6). Liều cao tăng nguy cơ triệu chứng cơ (ACC/AHA 2026 Bảng 24). Đau cơ nặng, yếu cơ, nước tiểu sẫm: ngưng và đo CK (ACC/AHA 2026 mục 4.2.11 KC 1)."
+     },
+     {
+      "thuoc": "Ezetimibe",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ với atorvastatin",
+      "so_ngay": "Chỉ thêm khi lipid sau 8 tuần vẫn LDL-C ≥ 1,8 mmol/L; dùng lâu dài",
+      "ghi_chu": "Liều 10 mg mỗi ngày (ACC/AHA 2026 Bảng 5; QĐ 3879 mục IV.4.5). Thêm vào statin liều tối đa dung nạp (ADA 2026 KC 10.21; ACC/AHA 2026 mục 4.2.5 KC 5). Chưa kê trong buổi này."
+     },
+     {
+      "thuoc": "Insulin glargine",
+      "ham_luong": "Bút tiêm đang dùng",
+      "lieu": "Giữ 24 đơn vị mỗi tối (tăng 2 đơn vị mỗi 3 ngày tới khi đường huyết đói 4,4–7,2 mmol/L, hạ 10–20% nếu hạ đường huyết)",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Tối, cùng giờ",
+      "so_ngay": "Tiếp tục",
+      "ghi_chu": "Giữ nguyên thuốc đang dùng, chỉnh liều theo ADA 2026 Hình 9.5, Bảng 6.3."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "850 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên thuốc đang dùng; eGFR 83 mL/ph/1,73m² (QĐ 5481/2020 Phần 8 mục 1.2: metformin chống chỉ định khi eGFR < 30)."
+     }
+    ],
+    "dan_do": [
+     "Thuốc mỡ cần dùng đều và lâu dài vì làm giảm nguy cơ nhồi máu, đột quỵ ở người tiểu đường; bác sẽ không ngưng khi chỉ mỏi nhẹ (ACC/AHA 2026 mục 4.2.11 KC 2).",
+     "Mỏi chân sau khi bắt đầu đi bộ là thường gặp; nếu đau nhiều, yếu chân, đi tiểu sẫm màu thì ngưng thuốc và đến khám ngay (ACC/AHA 2026 mục 4.2.11 KC 1).",
+     "Giữ bỏ bia, nước ngọt; ăn bớt mì gói; tiếp tục đi bộ ít nhất 150 phút mỗi tuần (ACC/AHA 2026 mục 4.2.9).",
+     "Đo đường huyết đói mỗi sáng và ghi sổ; tiếp tục đo HA tại nhà (ADA 2026 KC 10.2).",
+     "Nếu quên thuốc, uống bù ngay khi nhớ trong ngày; dùng hộp chia ngày, đặt nhắc giờ (ADA 2026 KC 10.17: theo dõi lipid giúp cải thiện tuân thủ). Số viên uống bù tối đa: không có trong tài liệu đã tải.",
+     "Đi cấp cứu ngay nếu đau ngực, khó thở, méo miệng, nói khó, yếu liệt nửa người (QĐ 5904/2019 Phần 3 Bước 1).",
+     "Tái khám sau 8 tuần với sổ đường huyết, HA nhà; lấy máu lúc đói (ADA 2026 KC 10.17)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Hiền uống đều atorvastatin 80 mg. Sau 8 tuần LDL-C còn 2,2 mmol/L, bác sĩ thêm ezetimibe 10 mg, ba tháng sau LDL-C 1,8 mmol/L, HbA1c 7,4%, HA nhà 128/80 mmHg. Tháng thứ 5 ông đau thắt ngực khi leo cầu thang, nhập viện vì hội chứng vành cấp không ST chênh, được can thiệp mạch vành, ra viện ổn định. Các quyết định đều đúng; điều trị mỡ máu giảm nguy cơ nhưng không xóa được nguy cơ tích lũy sau 12 năm ĐTĐ, tăng lipid và HA nhiều năm; nhóm ĐTĐ đang dùng statin vẫn còn nguy cơ còn lại cao (8,5% biến cố tim mạch trong 3,8 năm trong các thử nghiệm; ACC/AHA 2026 mục 4.2.5, giải thích KC 3). Kết cục xấu không có nghĩa xử trí sai.",
+ "nhieu": [
+  "Đám cưới con gái, chuyện bao tử hồi trẻ, chuyện tổ trưởng: kể lộn xộn nhưng chỉ có ca trực đêm là thông tin cần cho chẩn đoán và lý do thật.",
+  "Mệt và buồn ngủ: dễ dẫn tới nghĩ suy giáp, nhưng ông mệt vì trực đêm; loại suy giáp bằng hỏi triệu chứng, khám tuyến giáp, phản xạ gân và TSH.",
+  "Cổ vai nhức là chuyện chính ông kể, trong khi mỡ máu cao lại không có triệu chứng: dễ bỏ qua việc kiểm tra lipid ở người ĐTĐ."
+ ],
+ "bai_hoc_bien": [
+  "Kể lể lộn xộn: ngắt nhẹ, hỏi từng ý ngắn có mốc thời gian, tóm tắt lại cho bệnh nhân xác nhận. Ý chính thường nằm giữa các câu chuyện lạc đề.",
+  "Không điển hình: RLLPM hầu như không có triệu chứng; ĐTĐ 12 năm có 'mỡ cao' bỏ điều trị mới là lý do phải thử lipid và nghĩ tới bệnh, không phải đau cổ (QĐ 3879 mục III.1; ADA 2026 KC 10.16).",
+  "Loại trừ thứ phát trước khi gán nhãn nguyên phát: suy giáp, thuốc, thận, gan, ĐTĐ kiểm soát kém, bia rượu (ACC/AHA 2026 Bảng 15, Bảng 23). Triệu chứng suy giáp không nhạy cũng không đặc hiệu nên cần TSH (ATA 2014).",
+  "Lý do thật là giấy nghỉ ốm: hỏi về công việc, ca trực, nơi làm có yêu cầu giấy tờ gì không. Trả lời trung thực và đề xuất cách khác; cấp giấy khống là sai (TT 56/2017/TT-BYT Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm).",
+  "Không có X-quang: đau cơ cổ vai cơ học không dấu thần kinh thì khám lâm sàng đủ; hẹn tái khám có mốc, dặn dấu hiệu cần quay lại (không có trong tài liệu đã tải).",
+  "Đỡ một phần: phân biệt đáp ứng chậm và thất bại. Đo bằng % giảm LDL-C so với kỳ vọng, hỏi tuân thủ, rồi tăng cường theo bậc (ACC/AHA 2026 mục 3.5).",
+  "Mỏi cơ khi dùng statin: nhiều trường hợp do kỳ vọng tiêu cực; đánh giá nguyên nhân thứ phát, sức cơ, CK nếu nặng, không ngưng vội (ACC/AHA 2026 mục 4.2.11).",
+  "Xử trí đúng nhưng diễn tiến xấu: đánh giá quyết định theo dữ kiện lúc ra quyết định, không theo kết cục (chống outcome bias)."
+ ],
+ "diem_nho": [
+  "Chẩn đoán RLLPM: TC > 5,2; TG > 1,7; LDL-C > 2,58; HDL-C < 1,03 mmol/L, lấy lúc đói (QĐ 3879/2014 mục III.2).",
+  "ĐTĐ 40–75 tuổi có yếu tố nguy cơ khác: statin cường độ cao, giảm LDL-C ≥ 50%, LDL-C < 1,8 mmol/L (ADA 2026 KC 10.20; ACC/AHA 2026 mục 4.2.5 KC 3). Cường độ cao: atorvastatin 40–80 mg, rosuvastatin 20–40 mg (ADA 2026 Bảng 10.1).",
+  "Lipid trước khi khởi statin, 4–12 tuần sau khởi hoặc đổi liều, rồi hằng năm (ADA 2026 KC 10.17); ACC/AHA 2026 mục 3.5 KC 1: mỗi 6–12 tháng.",
+  "Nguyên nhân thứ phát tăng LDL-C: suy giáp, bệnh thận, bệnh gan tắc mật, ĐTĐ, Cushing, thuốc (ACC/AHA 2026 Bảng 15). Tăng TG: ĐTĐ kiểm soát kém, suy giáp chưa kiểm soát, rượu, thuốc (Bảng 23).",
+  "Thuốc hạ TG dành cho TG ≥ 5,7 mmol/L; gemfibrozil không dùng cùng statin (ACC/AHA 2026 mục 4.2.9, 4.2.1.3).",
+  "Đau cơ do statin: đánh giá thứ phát; CK khi đau nặng hoặc yếu cơ; thảo luận nguy cơ khi ngưng thuốc (ACC/AHA 2026 mục 4.2.11 KC 1–2, Bảng 24).",
+  "Lp(a) đo ít nhất một lần cho mọi người lớn (ACC/AHA 2026 mục 3.4 KC 1; ESC/EAS 2025 mục 6).",
+  "Giấy nghỉ ốm chỉ cấp theo tình trạng sức khỏe (TT 56/2017/TT-BYT Điều 20 khoản 1 điểm c)."
+ ],
+ "nguon": [
+  "ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA 2026 Guideline on the Management of Dyslipidemia (TL-0292; J Am Coll Cardiol 2026;87:2624-2757) – ĐÃ ĐỌC mục 3.4 (KC 1), 3.5 (KC 1), 4.2.1.3, 4.2.5 (KC 1, 3, 5; Bảng 17; Hình 9), 4.2.9 (KC 7; Bảng 23), 4.2.11 (KC 1, 2; Bảng 24), Bảng 5, 6, 8, 15, 23, 24.",
+  "ADA Standards of Care in Diabetes 2026 (TL-0296; kho cũ ADA 2026 S10) – ĐÃ ĐỌC mục 6 (KC 6.3a, Bảng 6.3), mục 9 (Hình 9.5), mục 10 (KC 10.1, 10.2, 10.4, 10.6, 10.7, 10.15–10.17, 10.20, 10.21, 10.37a; Bảng 10.1).",
+  "Bộ Y tế – QĐ 3879/QĐ-BYT 2014 (TL-0039) – ĐÃ ĐỌC Rối loạn lipid máu (mục II.2, III.1, III.2, IV.2–IV.4, V); Suy giáp ở người lớn (mục IV.1–IV.3, IV.5).",
+  "ESC/EAS 2019 Guidelines for the management of dyslipidaemias (TL-0320; Atherosclerosis 2019;290:140-205) – ĐÃ ĐỌC mục 8.1.4.2, 9.4.1, 9.4.2.1. Bảng khuyến cáo của bản này là hình ảnh, không có trong bản chữ.",
+  "ESC/EAS 2025 Focused Update (TL-0298) – ĐÃ ĐỌC mục 6 (Lp(a)).",
+  "ESC 2023 Guidelines on cardiovascular disease in patients with diabetes (TL-0311) – Bảng 7, Bảng khuyến cáo 'Lipids and diabetes' (mục tiêu LDL-C < 1,4 mmol/L ở T2DM nguy cơ rất cao).",
+  "ATA 2014 Guidelines for the treatment of hypothyroidism (TL-0326) – phần Thảo luận: triệu chứng suy giáp không nhạy, không đặc hiệu.",
+  "Bộ Y tế – QĐ 5904/2019 (TL-0284) Phần 3 Bước 1 (hỏi triệu chứng tim, thần kinh); QĐ 5481/2020 (TL-0031) Phần 8 mục 1.2 (metformin, eGFR < 30) – theo ca MT-0333.",
+  "Nguồn bổ sung tự tìm: Thông tư 56/2017/TT-BYT (sửa đổi bởi TT 18/2022/TT-BYT) – Điều 3 khoản 1, Điều 20 khoản 1 – https://caselaw.vn/van-ban-phap-luat/304150-thong-tu-56-2017-tt-byt-ve-huong-dan-luat-bao-hiem-xa-hoi-va-luat-an-toan-ve-sinh-lao-dong-thuoc-linh-vuc-y-te-do-bo-truong-bo-y-te-ban-hanh (chưa đối chiếu bản hiện hành sau Luật BHXH 2024)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (12/10/2026): viết: Sonnet. Tài liệu đã đọc: TL-0292 (ACC/AHA 2026) các mục nêu ở nguon; TL-0296/ADA 2026 S10, S6, S9; TL-0039 (QĐ 3879/2014: RLLPM và Suy giáp); TL-0320 mục 8.1.4.2, 9.4; TL-0298 mục 6; TL-0311; TL-0326.",
+  "Sổ mâu thuẫn: theo mục MT-0333 (mục tiêu LDL-C ở ĐTĐ có yếu tố nguy cơ), MT-0425 mục 1 (khi nào bắt đầu thuốc, mở rộng cho ĐTĐ), mục 3 (ezetimibe), mục 4 (CK), mục 5 (thuốc bảo vệ gan). Đề xuất mục mới: xem MT-0439_mau_thuan.md.",
+  "Chỗ thiếu tài liệu: công cụ PREVENT/SCORE2-Diabetes; thuốc bảo vệ gan cụ thể; số viên uống bù khi quên; tiêu chuẩn chọn thời điểm đổi từ atorvastatin 40 lên 80 mg ngoài bảng cường độ; giấy nghỉ ốm (nguồn tự tìm, chưa đối chiếu bản hiện hành); danh mục app chưa có Lp(a), apoB.",
+  "Âm thanh: tim mạch 78 và 74 l/p dùng AT-TIM-BT-NL-01 (≈60 l/p, mạch < 90 nên hợp); phổi bình thường.",
+  "12/10/2026 – trưởng nhóm (Opus) duyệt: thêm CLS lpa (id mới trong danh mục) ở lượt 1, chấm a."
+ ]
+}

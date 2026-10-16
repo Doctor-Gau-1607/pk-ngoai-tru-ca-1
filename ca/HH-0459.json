@@ -1,0 +1,756 @@
+{
+ "ma_ca": "HH-0459",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – bản nháp 16/10/2026",
+ "benh": "HH_viem_hong_lien_cau_nhom_a",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm họng do liên cầu nhóm A (GAS)",
+  "chan_doan_phai_loai_tru": [
+   "Áp xe quanh amidan",
+   "Bạch hầu"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Mở lại chẩn đoán",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Thợ hàn",
+  "yeu_to_khoi_phat": "Sau gắng sức nặng",
+  "thuoc_dang_dung": "Thuốc ho thảo dược",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Thanh Hằng",
+  "tuoi": 29,
+  "gioi": "Nữ",
+  "nghe": "Thợ hàn tại xưởng cơ khí (8 năm), lương khoán theo sản phẩm",
+  "can_nang": 52,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi chị Hằng là 'chị', chị xưng 'em'. Chồng là anh Quân, 31 tuổi, gọi bác sĩ là 'bác sĩ', xưng 'tôi'. Anh Quân hay gọi vợ là 'cô ấy' hoặc 'vợ tôi'.",
+  "tinh_cach": "Chị Hằng chịu khó, ít nói, quen nghe chồng quyết định; vì đau họng nên nói nhỏ, ngắn, hay ra hiệu cho chồng nói thay. Anh Quân thương vợ nhưng nóng ruột, hay nói trước, tin 'nóng trong do hàn nhiều' và tự mua siro ho thảo dược cho vợ.",
+  "kieu_nhieu": "Thân nhân trả lời thay: anh Quân giành trả lời mọi câu hỏi, khẳng định 'cô ấy ho nhiều' (thật ra chị chỉ hắng giọng), kể gộp, đoán thay triệu chứng, không biết chi tiết vợ giấu vì đau. Chỉ khi bác sĩ mời anh ra ngoài hoặc hỏi riêng chị, hoặc hỏi lại bằng câu cụ thể ('ho thật hay chỉ hắng cho đỡ vướng'), chị mới nói đúng. Anh cũng không để ý chị nói ngậm, khó há miệng, chảy dãi.",
+  "nguoi_nha": "Chồng, anh Quân, 31 tuổi, thợ cơ khí cùng xưởng, đi cùng và ngồi sát bên vợ. Hầu hết câu hỏi do anh trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi riêng chị thì chị tự trả lời (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Chồng (anh Quân)",
+  "ngoai_hinh": {
+   "da": "#d9a985",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#6b7a8f",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c98f6a",
+    "toc": "#1d1512",
+    "kieuToc": "ngan",
+    "ao": "#7a6a4f",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau họng, sốt ba ngày; chồng muốn khám tổng quát luôn",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT; cần hình ảnh thì dùng siêu âm hoặc chuyển tuyến."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Lê Thị Thanh Hằng, 29 tuổi, thợ hàn, chồng là anh Quân đưa đến lúc xưởng nghỉ trưa vì đau họng và sốt ba ngày. Anh Quân nói thay vợ, bảo chị 'nóng trong, ho nhiều' và xin khám tổng quát luôn. Chị ngồi cạnh, nói nhỏ, ra hiệu cho chồng trả lời. Sinh hiệu: nhiệt độ 38,6 °C, mạch 98 l/p, HA 112/70 mmHg, nhịp thở 18 l/p, SpO₂ 99% khí trời, cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hằng uống được, thở bình thường, mạch 98, HA 112/70, SpO₂ 99%, chưa có dấu hiệu nhiễm khuẩn nặng hay biến chứng mủ nên chưa có chỉ định vào viện (NICE NG84 2018 khuyến cáo 1.1.13 chỉ nêu chuyển viện khi nhiễm khuẩn nặng toàn thân hoặc biến chứng mủ). Nằm viện làm chị mất lương khoán, thêm chi phí, trong khi kháng sinh uống tại nhà là đủ (IDSA 2012 khuyến cáo 8).",
+    "chuyen_tuyen": "Chị Hằng chưa có dấu hiệu biến chứng hay nhiễm khuẩn nặng nên chưa có lý do chuyển tuyến (NICE NG84 khuyến cáo 1.1.13). Đi bệnh viện tỉnh gần 45 km tốn một buổi làm, chi phí và tiền xăng,; viêm họng liên cầu chưa biến chứng điều trị được ở tuyến cơ sở bằng penicillin hoặc amoxicillin (IDSA 2012 khuyến cáo 8)."
+   },
+   "loi_mo": "Bác sĩ ơi, vợ tôi nóng trong, ho mấy bữa nay, hàn ngày hàn đêm kiệt sức. Tôi đưa đi khám, bác sĩ khám kỹ giùm, khám tổng quát luôn cho yên tâm.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "112/70",
+    "nhiet": "38,6",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "(Anh Quân kể) Vợ tôi đau họng, sốt ba ngày, ho nhiều. Uống siro ho thảo dược tôi mua mà chưa bớt. Tôi đưa đi khám, tiện khám tổng quát luôn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cách đây 3 ngày xưởng gấp đơn hàng khung thép, chị hàn liền hai ca (khoảng 16 giờ) ngoài sân, dính mưa, kiệt sức. Tối hôm đó bắt đầu rát họng. Hôm sau nuốt đau rõ, sốt; đêm qua sốt cao nhất khoảng 38,5 °C, ớn lạnh, nhức đầu, đau mình mẩy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát đột ngột sau gắng sức, sốt"
+    },
+    {
+     "id": "ho_that",
+     "noi_dung": "Chị không ho. Chỉ hắng giọng cho đỡ vướng vì đau; chai siro ho thảo dược chồng mua để 'cho bớt rát', chị uống ngày 3 lần từ hôm kia.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Anh Quân khẳng định 'ho nhiều' ngay từ đầu. Chỉ khi bác sĩ hỏi riêng chị Hằng, hoặc hỏi cụ thể ho thật (ho khan, ho đờm, cơn ho) hay chỉ hắng giọng cho đỡ vướng, chị mới nói không ho.",
+     "k": 1,
+     "y": "Không ho (điểm Centor); anh Quân trả lời sai"
+    },
+    {
+     "id": "nuot_dau",
+     "noi_dung": "Nuốt nước bọt, nuốt cháo đều đau, đau lan lên hai tai. Ăn cháo, uống nước được. Há miệng bình thường, giọng hơi nhỏ do đau nhưng không khàn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau nuốt, không khít hàm"
+    },
+    {
+     "id": "khong_virus",
+     "noi_dung": "Không sổ mũi, không nghẹt mũi, không khàn tiếng, không loét miệng, không đỏ mắt, không tiêu chảy, không nổi ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu virus"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Bé Na, con gái 6 tuổi ở chung nhà, đau họng và sốt cách đây 1 tuần, tự hết sau 3 ngày, không đi khám. Chị ngủ chung giường với bé.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi trong nhà, ở xưởng hay con cái có ai đau họng, sốt gần đây. Anh Quân không nhớ chuyện này, chị Hằng nhắc.",
+     "k": 1,
+     "y": "Tiếp xúc gia đình"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc, thức ăn. Từng uống amoxicillin khi nhổ răng khôn, không sao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc (trước khi kê kháng sinh)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chỉ siro ho thảo dược (không rõ thành phần, mua ở tiệm thuốc) và 1 viên paracetamol 500 mg tối qua. Không dùng kháng sinh, corticoid, thuốc nền nào. Hơn 3 tháng nay không dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không bệnh nền, không hút thuốc, không có thai (kinh gần nhất cách đây 10 ngày).",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tiem_chung_dich_te",
+     "noi_dung": "Lúc nhỏ tiêm chủng đủ theo sổ. Không đi đâu xa, không ở vùng đang có dịch bạch hầu, không tiếp xúc người bị bạch hầu. Họng không có mảng nào dính khó bóc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ bạch hầu"
+    },
+    {
+     "id": "nghe_nghiep",
+     "noi_dung": "Thợ hàn 8 năm, xưởng có quạt hút, đeo khẩu trang vải, kính hàn. Không khó thở, đau ngực, khò khè. Chưa từng khám sức khỏe định kỳ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Thuê nhà gần xưởng, nhà cách phòng khám 15 phút xe máy. Lương khoán theo sản phẩm, nghỉ ngày nào mất ngày đó. Có thẻ BHYT. Hôm nay đi khám lúc xưởng nghỉ trưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện tái khám, an toàn khi về"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Anh Quân vừa nghe một đồng nghiệp ở xưởng được chẩn đoán bệnh phổi nghề nghiệp, lo vợ hít khói hàn 8 năm. Anh muốn kiểm tra phổi, huyết áp, đường huyết cho vợ. Đau họng chỉ là dịp đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi hai vợ chồng còn lo điều gì, muốn kiểm tra gì thêm, hoặc vì sao hôm nay chọn đi khám.",
+     "k": 1,
+     "y": "Động cơ thật: muốn kiểm tra tổng quát, lo khói hàn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, mặt đỏ, môi khô nhẹ. Sẹo bỏng hàn nhỏ cũ ở cẳng tay. Không vàng da, không phù. BMI 21,6.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng rộng, không khít hàm. Niêm mạc họng đỏ rực. Hai amidan sưng to, đỏ, đối xứng, nằm trong trụ; hai bên có chấm mủ trắng lau được bằng tăm bông, không giả mạc dính chảy máu khi bóc. Vài chấm xuất huyết ở khẩu cái mềm. Lưỡi gà đỏ, phù nhẹ, ở giữa; khẩu cái mềm hai bên cân đối. Giọng nói không ngậm. Hơi thở hôi. Mũi không dịch, màng nhĩ hai bên bình thường.",
+     "k": 1,
+     "hien": "Há miệng rộng. Họng đỏ rực. Hai amidan sưng to, đỏ, đối xứng, có chấm mủ trắng lau được. Vài chấm đỏ nhỏ ở khẩu cái mềm. Lưỡi gà đỏ nhẹ, ở giữa. Giọng không ngậm."
+    },
+    "dau_mat_co": {
+     "a": "Hạch góc hàm trước hai bên, mỗi bên 1–2 hạch 1–1,5 cm, di động, ấn đau. Cổ mềm, xoay được, không sưng đỏ vùng dưới hàm, không cổ bạnh. Tuyến giáp không to.",
+     "k": 1,
+     "hien": "Cổ mềm, xoay được. Sờ góc hàm hai bên thấy hạch 1–1,5 cm, di động, chị nhăn mặt khi ấn."
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, đều. Rì rào phế nang êm hai bên, không ran. Không tiếng thở rít.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, đều. Lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau. Gan không to, không sờ thấy lách.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da không nổi ban, không ban dạng sần như giấy nhám, không mẩn đỏ ở nếp gấp.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_lien_cau": {
+     "v": "u",
+     "r": "Dương tính (kháng nguyên liên cầu nhóm A).",
+     "n": "Nên làm khi có: IDSA 2012 (TL-0158) khuyến cáo 1 (mạnh, chứng cứ cao) làm test nhanh và/hoặc cấy họng vì lâm sàng đơn thuần không phân biệt được GAS với virus; test nhanh dương tính không cần cấy kiểm (khuyến cáo 1), ở người lớn test âm tính cũng không cần cấy kiểm (khuyến cáo 2). Cách khác: NICE NG84 2018 mục khung đầu, test nhanh liên cầu chưa khuyến cáo áp dụng thường quy, quyết định theo Centor/FeverPAIN (khuyến cáo 1.1.3, 1.1.10). Hai cách đều đúng (xem mục xử trí)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 13,2 G/L · Neutrophil 82% · Hb 128 g/L · TC 280 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 13.2,
+      "neu_pct": 82.0,
+      "neu": 10.8,
+      "lym_pct": 12.0,
+      "lym": 1.58,
+      "mono_pct": 5.0,
+      "mono": 0.66,
+      "eos_pct": 0.5,
+      "eos": 0.07,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 4.5,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 86.7,
+      "mch": 28.4,
+      "mchc": 328,
+      "rdw": 13.1,
+      "plt": 280
+     },
+     "n": "Không bắt buộc: giai đoạn đầu bạch cầu có thể chưa tăng, bội nhiễm thì đa nhân trung tính tăng (QĐ 5643/2015 (TL-0130), Viêm họng cấp tính, mục 3.2); WHO AWaRe 2022 tr. 47 ghi xét nghiệm máu thường không cần cho viêm họng. Chấp nhận, không đổi xử trí."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 62 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 62.0
+     },
+     "n": "Không bắt buộc: NICE NG84 2018 không dùng ngưỡng CRP cho viêm họng (dùng Centor/FeverPAIN, khuyến cáo 1.1.3). Mức tăng không phân biệt GAS với virus; không đổi xử trí."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Không có bệnh phẩm cần lấy.",
+     "n": "Không cần: bạch hầu nghi ngờ khi có giả mạc vùng hầu họng cộng yếu tố dịch tễ (QĐ 2957/2020 (TL-0129) mục 5.1); chị chỉ có chấm mủ lau được, không giả mạc dính, không dịch tễ. Bệnh phẩm lấy ở rìa giả mạc (mục 4.1)."
+    },
+    "aslo": {
+     "v": "n",
+     "r": "ASLO không làm.",
+     "n": "Không dùng chẩn đoán viêm họng cấp vì phản ánh nhiễm trùng cũ (IDSA 2012 (TL-0158) khuyến cáo 3, tr. e87)."
+    },
+    "cay_hong_gas": {
+     "v": "n",
+     "r": "Không cần cấy họng.",
+     "n": "Test nhanh dương tính không cần cấy kiểm; người lớn test âm tính cũng thường không cần cấy kiểm (IDSA 2012 (TL-0158) khuyến cáo 1, 2, tr. e87)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm họng cấp do liên cầu nhóm A (GAS): Centor 4/4, McIsaac 4/5, test nhanh dương tính",
+     "ok": 1,
+     "n": "Sốt ≥ 38 °C, không ho, hạch cổ trước sưng đau, amidan xuất tiết = Centor 4 (IDSA 2025 (TL-0140) Bảng 3, tr. i101: nguy cơ cao, khoảng 57% có GAS; McIsaac tuổi 15–44 cộng 0 điểm). WHO AWaRe 2022 Bảng 6.2 tr. 53–54: Centor 4 có 51–53% GAS. Thêm tiếp xúc gia đình (bé Na đau họng tuần trước; IDSA 2025 (TL-0140) tr. i97–98 coi tiếp xúc trong nhà là yếu tố nguy cơ cần cân nhắc test), test nhanh dương. Dữ kiện nhiễu: anh Quân nói 'ho nhiều' nhưng chị chỉ hắng giọng."
+    },
+    {
+     "t": "Viêm họng cấp do virus hoặc kích ứng do khói hàn",
+     "n": "Cái neo của anh Quân ('nóng trong, ho'). Ho, sổ mũi, khàn tiếng, loét miệng mới gợi ý virus (IDSA 2012 (TL-0158) khuyến cáo 4; tr. e91); chị không có dấu nào, lại sốt, hạch đau, amidan xuất tiết và test dương. Kích ứng do khói hàn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc dính chảy máu khi bóc, không sổ mũi lẫn máu, không dịch tễ, tiêm chủng đủ lúc nhỏ (QĐ 2957/2020 (TL-0129) mục 3.1.3, 5.1, 5.2). Chấm mủ trắng lau được thuộc nhóm viêm amidan hốc mủ do liên cầu (mục 5.3.1)."
+    },
+    {
+     "t": "Áp xe quanh amidan",
+     "n": "Há miệng rộng, không khít hàm, amidan hai bên đối xứng, lưỡi gà ở giữa, khẩu cái mềm cân đối, giọng không ngậm: chưa có dấu hiệu khu trú một bên. Là biến chứng tại chỗ có thể gặp của viêm họng liên cầu (QĐ 5643/2015 (TL-0130), Viêm họng cấp tính, mục 5; IDSA 2012 (TL-0158) tr. e89); phải dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Bệnh bạch cầu đơn nhân nhiễm trùng (EBV)",
+     "n": "EBV là nguyên nhân thường gặp của viêm họng cấp (IDSA 2012 (TL-0158) tr. e92, Bảng 3) và là chẩn đoán cần nhắc lại nếu diễn tiến không như mong đợi (NICE NG84 2018 khuyến cáo 1.1.5); lượt này chưa sờ thấy lách, hạch ở góc hàm trước, test GAS dương nên GAS giải thích đủ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Dùng thang điểm Centor/McIsaac, có test nhanh thì làm: điều trị kháng sinh khi dương tính HOẶC (nơi không có test) kháng sinh theo điểm Centor 3–4",
+     "v": "c",
+     "n": "IDSA 2012 (TL-0158) khuyến cáo 1, 8; IDSA 2025 (TL-0140) khuyến cáo (thang điểm, tr. i97–98) và Bảng 3; NICE NG84 2018 khuyến cáo 1.1.3, 1.1.10 (Centor 3–4: cân nhắc kháng sinh ngay hoặc đơn dự phòng); QĐ 5643/2015 (TL-0130), Viêm mũi họng cấp tính, mục 4.1 (điều trị như liên cầu khi chưa có xét nghiệm). Mâu thuẫn đã ghi trong sổ (mục 'Viêm họng đỏ cấp...', HH-0466): cả hai cách đều đúng."
+    },
+    {
+     "t": "Amoxicillin đường uống (500 mg × 3 lần/ngày, hoặc 1 g × 2 lần/ngày, hoặc 500 mg × 2 lần/ngày, hoặc 1 g × 1 lần/ngày) HOẶC penicillin V (500 mg × 4 lần/ngày hoặc 1 g × 2 lần/ngày), 10 ngày hoặc 5–10 ngày",
+     "v": "c",
+     "n": "Amoxicillin người lớn 500 mg q8h (bảng trẻ em ≥ 20 kg: 500 mg q8h hoặc 1 g q12h), 5 ngày nếu nguy cơ thấp tim thấp, 10 ngày nếu cao (WHO AWaRe 2022 (TL-0018) tr. 50, 53–54). Amoxicillin 50 mg/kg một lần (tối đa 1 g) hoặc 25 mg/kg (tối đa 500 mg) × 2 lần, 10 ngày (IDSA 2012 (TL-0158) Bảng 2, khuyến cáo 8); penicillin V 500 mg × 4 hoặc 1 g × 2, 5–10 ngày (NICE NG84 2018 Bảng 1, khuyến cáo 1.3.1). QĐ 5643 mục 4.3.1: 10 ngày. Số liệu thấp tim ở người lớn Việt Nam: không có trong tài liệu đã tải nên cả hai thời gian đều chấp nhận (sổ mâu thuẫn, HH-0466)."
+    },
+    {
+     "t": "Paracetamol 500 mg–1 g mỗi 4–6 giờ khi sốt hoặc đau, tối đa 4 g/ngày; uống đủ nước",
+     "v": "c",
+     "n": "WHO AWaRe 2022 (TL-0018) tr. 50 (≥ 30 kg: 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày); IDSA 2012 (TL-0158) khuyến cáo 10(i); NICE NG84 2018 khuyến cáo 1.2.1, 1.2.2."
+    },
+    {
+     "t": "Prednisolon 5 mg hoặc thuốc kháng viêm kèm theo",
+     "v": "a",
+     "n": "QĐ 5643/2015 (TL-0130), Viêm họng cấp tính, mục 4.2.1 liệt kê; IDSA 2012 (TL-0158) khuyến cáo 10(iii) không khuyến cáo corticoid (yếu, chứng cứ trung bình). Mâu thuẫn đã ghi trong sổ: chấm a."
+    },
+    {
+     "t": "Dặn quay lại ngay khi nặng lên nhanh hoặc xuất hiện nuốt nước bọt không được, khó há miệng, giọng như ngậm khoai, đau lệch một bên, khó thở; có phương án liên lạc",
+     "v": "c",
+     "n": "NICE NG84 2018 khuyến cáo 1.1.11 (khuyên tìm trợ giúp y tế khi triệu chứng xấu nhanh hoặc người bệnh rất yếu) và 1.1.13 (chuyển viện khi biến chứng mủ như quinsy); QĐ 5643/2015 (TL-0130), Viêm họng cấp tính, mục 4.2.3 (thể nặng hoặc có biến chứng cần chuyển chuyên khoa kịp thời). Mốc hẹn tái khám cụ thể 48–72 giờ là cách an toàn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trả lời nỗi lo của anh Quân: khám phổi, đo HA, hẹn khám sức khỏe nghề nghiệp sau khi khỏi họng; chưa chụp phim phổi hay xét nghiệm tổng quát hôm nay",
+     "v": "a",
+     "n": "Chị không có triệu chứng hô hấp, nghe phổi bình thường. Khuyến cáo khám sàng lọc cho thợ hàn: không có trong tài liệu đã tải; đây là cách làm thực hành của ca, nên chấm a."
+    },
+    {
+     "t": "Ciprofloxacin hoặc levofloxacin uống thay penicillin",
+     "v": "w",
+     "n": "IDSA 2012 (TL-0158) tr. e96: fluoroquinolon thế hệ cũ (ví dụ ciprofloxacin) có hoạt tính kém với GAS, không nên dùng; penicillin hoặc amoxicillin là lựa chọn đầu tay (khuyến cáo 8). Chị không dị ứng penicillin."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm họng cấp do liên cầu nhóm A, chưa biến chứng",
+     "Centor 4/4, McIsaac 4/5; test nhanh dương tính (IDSA 2025 (TL-0140) Bảng 3, tr. i101)",
+     "Dữ kiện nhiễu: chồng khai 'ho', thật ra không ho; lý do thật là muốn kiểm tra tổng quát vì lo khói hàn",
+     "Đã loại: viêm họng virus, bạch hầu, áp xe quanh amidan (chưa có dấu hiệu khu trú); EBV chưa loại tuyệt đối"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: tách chị Hằng ra hỏi riêng khi anh Quân nói thay. Hỏi cụ thể 'ho thật hay chỉ hắng' mới biết không ho, vì ho là một điểm của Centor (IDSA 2025 (TL-0140) Bảng 3, tr. i101). Hỏi tiếp xúc trong nhà (bé Na đau họng tuần trước), dị ứng, thuốc, dịch tễ bạch hầu.",
+     "Khám: amidan sưng đỏ đối xứng có chấm mủ lau được, hạch góc hàm trước đau, không giả mạc dính (bạch hầu: giả mạc dính chặt, bóc chảy máu, QĐ 2957/2020 mục 3.1.3), há miệng rộng, lưỡi gà ở giữa.",
+     "Điểm: Centor 4 cho nguy cơ GAS khoảng 57% ở người ≥ 15 tuổi (IDSA 2025 (TL-0140) Bảng 2, tr. i101); WHO AWaRe 2022 Bảng 6.2 ghi 51–53% và cảnh báo thang điểm chỉ kiểm chứng ở nước thu nhập cao. Vì vậy test nhanh dương tính chốt chẩn đoán (IDSA 2012 (TL-0158) khuyến cáo 1).",
+     "Cận lâm sàng: máu, CRP không phân biệt GAS với virus nên không bắt buộc; ASLO không dùng (IDSA 2012 (TL-0158) khuyến cáo 3); phết họng bạch hầu không cần (QĐ 2957/2020 mục 5.1).",
+     "Biến chứng cần nhớ: viêm tấy hoặc áp xe quanh amidan, khoang bên họng (QĐ 5643/2015 (TL-0130), Viêm họng cấp tính, mục 5). Mục tiêu điều trị chính là phòng biến chứng mủ và thấp tim (IDSA 2012 (TL-0158) tr. e89; AWaRe 2022 tr. 50: chỉ định rõ nhất của kháng sinh là phòng thấp tim ở nơi lưu hành)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: điều trị ngoại trú, về nhà. Không có dấu hiệu nhiễm khuẩn nặng hay biến chứng mủ nên chưa có chỉ định nhập viện hoặc chuyển tuyến (NICE NG84 2018 khuyến cáo 1.1.13).",
+     "Kháng sinh: ghi cả hai cách. Amoxicillin hoặc penicillin V; thời gian 10 ngày (IDSA 2012 (TL-0158) khuyến cáo 8; QĐ 5643/2015 (TL-0130) mục 4.3.1) hoặc 5 ngày (WHO AWaRe 2022 (TL-0018) tr. 50 khi nguy cơ thấp tim thấp; NICE NG84 2018 Bảng 1: 5–10 ngày, 10 ngày tăng khả năng diệt khuẩn). Hai nguồn khác nhau vì năm, bối cảnh nguy cơ thấp tim và mục tiêu (cắt triệu chứng so với diệt khuẩn); tài liệu đã tải không có số liệu thấp tim người lớn Việt Nam.",
+     "Giảm đau hạ sốt bằng paracetamol (WHO AWaRe 2022 (TL-0018) tr. 50). Ibuprofen nếu cần: tối đa 2,4 g/ngày (WHO AWaRe 2022 (TL-0018) tr. 50) hoặc thận trọng hơn ≤ 1.200 mg/ngày (NICE NG84 2018, phần chứng cứ tự chăm sóc), uống khi no.",
+     "Corticoid: QĐ 5643 mục 4.2.1 có prednisolon 5 mg, IDSA 2012 khuyến cáo 10(iii) không khuyến cáo; không cần.",
+     "Lý do thật: nói rõ chị không có triệu chứng phổi, nghe phổi bình thường; hẹn khám sức khỏe nghề nghiệp sau khi khỏi. Không chỉ định cả loạt xét nghiệm hôm nay vì không đổi xử trí.",
+     "Nghỉ làm vài ngày, giấy nghỉ ốm theo TT 56/2017/TT-BYT (Điều 3 khoản 1, Điều 20 khoản 1 điểm c). Thời điểm hết lây để đi làm lại: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg × 3 lần/ngày (AWaRe 2022 tr. 50), hoặc 1 g × 2 lần/ngày (AWaRe 2022 tr. 50 chỉ ghi ở bảng liều trẻ em ≥ 20 kg; phần người lớn ghi 500 mg × 3 lần/ngày), hoặc 500 mg × 2 lần/ngày hay 1 g × 1 lần/ngày (IDSA 2012 Bảng 2)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, cách nhau đều; bắt đầu ngay hôm nay",
+      "so_ngay": "10 ngày (IDSA 2012 khuyến cáo 8; QĐ 5643 mục 4.3.1) hoặc 5 ngày (AWaRe 2022 tr. 50 khi nguy cơ thấp tim thấp)",
+      "ghi_chu": "Thay thế: penicillin V 500 mg × 4 hoặc 1 g × 2 lần/ngày, 5–10 ngày (NICE NG84 Bảng 1). Dặn uống đủ ngày dù hết sốt sau 1–2 ngày. Chị không dị ứng penicillin. Dị ứng: cephalexin, clindamycin hoặc macrolid (IDSA 2012 khuyến cáo 9, Bảng 2)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg–1 g mỗi 4–6 giờ khi sốt trên 38,5 °C hoặc đau; tối đa 4 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần, cách ít nhất 4 giờ",
+      "so_ngay": "Trong 3–5 ngày đến khi hết sốt, đau",
+      "ghi_chu": "WHO AWaRe 2022 tr. 50 (≥ 30 kg); IDSA 2012 khuyến cáo 10(i); NICE NG84 khuyến cáo 1.2.1. Không uống kèm thuốc cảm khác có paracetamol."
+     },
+     {
+      "thuoc": "Nước muối sinh lý súc họng",
+      "ham_luong": "NaCl 0,9%",
+      "lieu": "Súc họng 3–4 lần/ngày",
+      "duong": "Tại chỗ",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Đến khi hết đau",
+      "ghi_chu": "QĐ 5643, Viêm họng cấp tính, mục 4.2.2 (xúc họng 3–4 lần/ngày, tên dung dịch trong bản chữ viết tắt không rõ). NICE NG84 khuyến cáo 1.2.4: không có chứng cứ cho thuốc súc miệng không thuốc dùng đơn độc."
+     }
+    ],
+    "dan_do": [
+     "Chị bị viêm họng do liên cầu: uống amoxicillin đúng liều, đủ số ngày đã dặn dù hết sốt sau 1–2 ngày, vì mục đích chính là diệt khuẩn để phòng biến chứng (IDSA 2012 tr. e89, khuyến cáo 8).",
+     "Quay lại ngay hoặc gọi phòng khám nếu: sốt cao hơn, đau họng nặng lên nhanh, nuốt nước bọt không được, khó há miệng, giọng như ngậm khoai, đau lệch một bên họng, khó thở, chảy dãi (NICE NG84 khuyến cáo 1.1.11, 1.1.13). Nếu sau 2–3 ngày uống thuốc chưa bớt sốt cũng quay lại tái khám (mốc của ca).",
+     "Giữ riêng ly, bát đũa; bé Na đau họng lại thì đưa đi khám. Không tự mua thêm siro ho; không dùng kháng sinh thừa của người khác.",
+     "Với anh Quân: hôm nay tập trung chữa họng; phổi nghe bình thường; hẹn khám sức khỏe định kỳ cho thợ hàn sau khi khỏi (không có trong tài liệu đã tải hướng dẫn cụ thể). Anh để chị tự kể triệu chứng, vì chị mới là người biết mình ho hay không."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Hai ngày sau chị Hằng quay lại cùng chồng, lần này anh Quân dìu chị đi. Chị ngồi nghiêng đầu sang phải, ôm cổ, hầu như không nói, hay nhổ nước bọt vào khăn. Anh Quân cho biết đã uống thuốc đủ nhưng không đỡ. Sinh hiệu: nhiệt độ 39,2 °C, mạch 112 l/p, HA 104/66 mmHg, nhịp thở 20 l/p, SpO₂ 98% khí trời, cân nặng 51 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Hằng đang sốt 39,2 °C, đau lệch một bên họng, khó há miệng, nhổ nước bọt, uống nước ít. Đổi sang kháng sinh uống khác rồi hẹn lại không giải quyết được tình trạng nghi viêm tấy hoặc ổ mủ quanh amidan, vì hình ảnh và dẫn lưu mới phân biệt được (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu, mục 4.2, 5.2, 5.3). Khi tại nhà không có kháng sinh tĩnh mạch hay bác sĩ Tai Mũi Họng, chị có thể mất nước, khó há miệng nặng hơn, khó thở, phải đi cấp cứu muộn đêm khuya; NICE NG84 2018 khuyến cáo 1.1.13 xếp quinsy và viêm tấy là chỉ định chuyển viện.",
+    "nhap_vien": "Phòng khám huyện không có bác sĩ Tai Mũi Họng, không có CT để phân biệt viêm tấy với ổ mủ (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.2) nên nhập viện tại chỗ chỉ truyền dịch, kháng sinh tiếp mà không giải quyết được câu hỏi chính. Chậm 12–24 giờ để chờ đáp ứng rồi mới chuyển làm chị đau dài hơn, tốn thêm chi phí hai lần, trong khi QĐ 5643 (mục 5.2, bài Nhiễm trùng khoang cổ sâu) coi không cải thiện sau 24–48 giờ điều trị nội khoa là lúc phải chụp lại và dẫn lưu."
+   },
+   "loi_mo": "Thuốc uống đủ rồi bác sĩ ơi, mà giờ còn nặng hơn, sốt nhiều, ăn cháo cũng không nổi. Cô ấy nói không ra hơi. Chắc thuốc không hợp, bác sĩ đổi thuốc mạnh hơn giùm.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "104/66",
+    "nhiet": "39,2",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "(Anh Quân kể) Thuốc uống đủ rồi mà nay còn nặng hơn: sốt cao, đau họng dữ, từ hôm qua ăn cháo cũng không nổi. Cô ấy nói không ra hơi. Chắc thuốc không hợp, xin bác sĩ đổi thuốc mạnh hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ, nặng lên sau điều trị"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Chị uống amoxicillin 500 mg × 3 lần/ngày đúng giờ, đủ 7 liều từ hôm khám, không bỏ liều, không nôn; uống paracetamol 500 mg 4–5 viên/ngày, hạ sốt được vài giờ. Chị đã ngưng siro ho. Không tự mua thêm kháng sinh, corticoid, thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, kiểm tra thuốc đã dùng"
+    },
+    {
+     "id": "nuot_dai",
+     "noi_dung": "Từ chiều qua đau dữ dội ở bên phải họng, nuốt nước bọt cũng đau nên chị nhổ nước bọt vào khăn, nước uống chảy ra mép. Đêm qua không ngủ được, chỉ ngồi, nghiêng đầu sang phải cho đỡ đau.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Anh Quân chỉ nói 'đau họng thôi'. Chỉ khi bác sĩ hỏi riêng chị, hoặc hỏi cụ thể nuốt được nước bọt không, có nhổ nước bọt, chảy dãi không, đau bên nào, ngủ nằm được không, chị mới kể.",
+     "k": 1,
+     "y": "Không nuốt được nước bọt, đau lệch bên phải"
+    },
+    {
+     "id": "khit_ham",
+     "noi_dung": "Từ sáng qua há miệng khó, chỉ há được khoảng hai ngón tay, nhai không nổi, ăn cháo loãng bằng muỗng nhỏ. Giọng như ngậm củ khoai nóng từ sáng nay.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Anh Quân tưởng vợ nói nhỏ vì mệt. Chỉ khi bác sĩ hỏi há miệng, nhai, giọng có khác thường không, chị mới nói.",
+     "k": 1,
+     "y": "Khó há miệng, giọng ngậm"
+    },
+    {
+     "id": "dau_tai",
+     "noi_dung": "Đau lan lên tai phải. Cổ phải cứng, quay sang trái đau kéo. Không đau tai trái.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau lan tai phải, hạn chế cử động cổ"
+    },
+    {
+     "id": "duong_tho",
+     "noi_dung": "Không khó thở, không thở rít, nằm nghiêng được. Không sưng đỏ ở cổ, không nổi ban, không đau hạ sườn trái. Nước tiểu ít và sẫm màu, hôm qua uống chừng nửa lít nước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đường thở, dấu hiệu lan sâu, mất nước"
+    },
+    {
+     "id": "khong_ho_nhieu",
+     "noi_dung": "Vẫn không ho. Bé Na hết hẳn đau họng. Không ai khác trong nhà hay xưởng bị.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Anh Quân có xe bán tải của xưởng, đưa vợ đi được ngay. Bệnh viện tỉnh có khoa Tai Mũi Họng cách khoảng 45 km, chừng một giờ. Có thẻ BHYT. Hai vợ chồng lo tốn tiền và mất ngày công.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, mặt đỏ bừng, môi khô nứt, mắt hơi trũng. Ngồi thẳng, nghiêng đầu sang phải, nước bọt ứ đọng, thỉnh thoảng nhổ vào khăn. Không tím, không thở rít.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng hạn chế, chỉ được khoảng hai khoát ngón tay. Giọng như ngậm khoai nóng. Amidan phải sưng căng, đẩy vào giữa; trụ trước phải và khẩu cái mềm bên phải phồng lồi, đỏ bóng; lưỡi gà phù, bị đẩy lệch sang trái. Amidan trái sưng đỏ nhẹ, có chấm mủ. Nhìn không phân biệt được vùng phồng là viêm tấy hay đã có ổ mủ, chưa thấy điểm vàng chín. Không giả mạc dính, không loét. Hơi thở rất hôi. Màng nhĩ phải bình thường.",
+     "k": 1,
+     "hien": "Há miệng chỉ được khoảng hai khoát ngón tay. Giọng ngậm. Bên phải: amidan sưng căng, khẩu cái mềm và trụ trước phồng lồi đỏ bóng; lưỡi gà phù, lệch sang trái. Amidan trái đỏ, có chấm mủ. Nước bọt ứ đọng. Hơi thở rất hôi."
+    },
+    "dau_mat_co": {
+     "a": "Hạch góc hàm phải khoảng 2 cm, đau; hạch bên trái nhỏ hơn. Cổ nghiêng sang phải, quay sang trái hạn chế do đau. Không cứng gáy, không sưng đỏ vùng cổ, không cổ bạnh, khí quản ở giữa, không có khí dưới da.",
+     "k": 1,
+     "hien": "Cổ nghiêng sang phải, quay sang trái đau. Hạch góc hàm phải to, đau. Không thấy sưng đỏ ở cổ. Khí quản ở giữa."
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Rì rào phế nang êm hai bên, không ran, không tiếng rít.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p, đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 112 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không sờ thấy lách, gan không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da không nổi ban. Nếp da véo hồi phục chậm hơn bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 17,8 G/L · Neutrophil 88% · Hb 125 g/L · TC 335 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 17.8,
+      "neu_pct": 88.0,
+      "neu": 15.66,
+      "lym_pct": 7.0,
+      "lym": 1.25,
+      "mono_pct": 4.5,
+      "mono": 0.8,
+      "eos_pct": 0.3,
+      "eos": 0.05,
+      "baso_pct": 0.2,
+      "baso": 0.04,
+      "rbc": 4.4,
+      "hgb": 125,
+      "hct": 0.38,
+      "mcv": 86.4,
+      "mch": 28.4,
+      "mchc": 329,
+      "rdw": 13.2,
+      "plt": 335
+     },
+     "n": "Hội chứng nhiễm trùng: bạch cầu tăng, chủ yếu đa nhân trung tính (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu, mục 4.1: bạch cầu > 11.000/mm³). Hỗ trợ đánh giá độ nặng, không phân biệt được viêm tấy với ổ mủ."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 142 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 142.0
+     },
+     "n": "CRP tăng cao hơn lượt 1 (62 mg/L), phù hợp với nhiễm trùng khu trú đang tiến triển. Không có ngưỡng CRP cho quyết định chuyển tuyến trong tài liệu đã tải (NICE NG84 không dùng CRP)."
+    },
+    "sa_co": {
+     "v": "a",
+     "r": "Siêu âm vùng cổ qua da: vùng quanh amidan phải phù nề, có vùng giảm âm không thuần nhất, chưa thấy ổ dịch rõ ranh giới. Khảo sát hạn chế do chị không ngả cổ được. Không loại trừ được ổ mủ nhỏ.",
+     "ab": 1,
+     "n": "Chấp nhận, không bắt buộc: siêu âm có thể giúp hướng dẫn chọc hút áp xe (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu, mục 4.2), nhưng ở đây không kết luận được; phân biệt viêm mô tế bào với áp xe cần CT có cản quang hoặc MRI (cùng mục). Không nên chờ kết quả này mà trì hoãn chuyển tuyến."
+    },
+    "ct_co": {
+     "v": "u",
+     "r": "(Nếu làm được ở nơi có CT) vùng quanh amidan phải phù nề lan tỏa, không có ổ dịch tạo vách, đường thở thông.",
+     "thay_the": "sa_co",
+     "n": "CT có cản quang giúp xác định chẩn đoán và phân biệt viêm mô tế bào với áp xe (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu, mục 4.2, 5.3). Phòng khám không có CT: thay bằng đánh giá lâm sàng và siêu âm, rồi chuyển tuyến có lý do."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Không có giả mạc để lấy bệnh phẩm.",
+     "n": "Không cần: vẫn không giả mạc dính, không dịch tễ (QĐ 2957/2020 (TL-0129) mục 5.1). Bạch hầu loại trừ trên lâm sàng; nếu tuyến trên nghi thì lấy bệnh phẩm ở rìa giả mạc (mục 4.1)."
+    },
+    "test_lien_cau": {
+     "v": "a",
+     "r": "Dương tính (tương tự lượt 1).",
+     "n": "Không cần làm lại: dương tính ở lượt 1; IDSA 2012 (TL-0158) khuyến cáo 6 không khuyến cáo test sau điều trị thường quy. Không đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm họng do liên cầu nhóm A diễn tiến biến chứng tại chỗ: viêm tấy quanh amidan phải, nghi áp xe quanh amidan, chưa loại trừ được ở cơ sở",
+     "ok": 1,
+     "n": "Nặng lên dù tuân thủ amoxicillin, xuất hiện triệu chứng lệch một bên (amidan phải căng, khẩu cái mềm phồng, lưỡi gà lệch), khó há miệng, giọng ngậm, nhổ nước bọt, bạch cầu 17,8 G/L. Viêm tấy hoặc áp xe quanh amidan là biến chứng tại chỗ của viêm họng liên cầu (QĐ 5643/2015, Viêm họng cấp tính mục 5; IDSA 2012 tr. e89). Vi khuẩn gặp: GAS và Fusobacterium necrophorum (IDSA 2012 Bảng 3, tr. e89; nguồn bổ sung tự tìm: Lindberg 2025, Eur J Clin Microbiol Infect Dis, doi 10.1007/s10096-025-05156-y: F. necrophorum 33%, GAS 28% trong 637 ổ áp xe quanh amidan, F. necrophorum hay gặp ở thanh niên)."
+    },
+    {
+     "t": "Áp xe quanh amidan đã hình thành ổ mủ, xác định chắc chắn tại phòng khám",
+     "n": "Không xác định, cũng không loại trừ được ở đây: không có CT, siêu âm không kết luận, không thấy điểm mủ rõ; QĐ 5643 (Nhiễm trùng khoang cổ sâu mục 4.2) nói chẩn đoán khó chỉ dựa vào bệnh sử và khám, hình ảnh giúp phân biệt viêm mô tế bào với áp xe. Ghi 'nghi áp xe' ở mục trên là đúng; xác định hay loại trừ do tuyến trên."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc dính chảy máu khi bóc, không dịch tễ, không cổ bạnh (QĐ 2957/2020 (TL-0129) mục 3.1.3, 3.2, 5.1). Lệch lưỡi gà và khẩu cái phồng một bên không phải đặc điểm bạch hầu họng."
+    },
+    {
+     "t": "Thất bại điều trị do không tuân thủ hoặc kháng thuốc",
+     "n": "Uống đủ 7 liều, không nôn. GAS vẫn nhạy penicillin (WHO AWaRe 2022 tr. 50); kháng macrolid mới là vấn đề (IDSA 2012 Bảng 2 chú thích c). Vì vậy 'đổi thuốc mạnh hơn' không giải thích và không giải quyết được tổn thương khu trú."
+    },
+    {
+     "t": "Áp xe thành sau họng hoặc nhiễm trùng khoang cổ sâu lan rộng",
+     "n": "Chưa có cổ sưng đỏ, cứng gáy, khó thở, thở rít (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.1). Là biến chứng phải theo dõi sát khi chuyển tuyến (mục 6)."
+    },
+    {
+     "t": "Bệnh bạch cầu đơn nhân nhiễm trùng (EBV)",
+     "n": "Không sờ thấy lách, không ban, tổn thương một bên rõ; không giải thích được lệch lưỡi gà và khó há miệng. Có thể đồng nhiễm; tuyến trên cân nhắc nếu cấy, hình ảnh không hợp (NICE NG84 khuyến cáo 1.1.5: nghĩ tới sốt viêm tuyến khi diễn tiến xấu)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bệnh viện tỉnh có khoa Tai Mũi Họng ngay trong ngày để đánh giá viêm tấy hay áp xe quanh amidan và xử lý",
+     "v": "c",
+     "n": "NICE NG84 2018 khuyến cáo 1.1.13 (chuyển viện khi biến chứng mủ như quinsy hoặc viêm tấy); QĐ 5643/2015, Viêm họng cấp tính, mục 4.2.3 (thể nặng hoặc có biến chứng cần chuyển chuyên khoa kịp thời) và Nhiễm trùng khoang cổ sâu mục 4.2, 5.2, 5.3 (hình ảnh phân biệt viêm mô tế bào với áp xe; không cải thiện sau 24–48 giờ nội khoa thì chụp lại và dẫn lưu). Phòng khám không có CT."
+    },
+    {
+     "t": "Chuẩn bị trước chuyển: để chị ngồi, theo dõi mạch, SpO₂, nhịp thở; dặn nhổ nước bọt, không nằm ngửa; viết thư chuyển (thời gian bệnh, test GAS dương, amoxicillin 7 liều không đáp ứng, dị ứng không); anh Quân đi cùng",
+     "v": "c",
+     "n": "Bảo đảm đường thở là ưu tiên khi có nguy cơ tắc nghẽn (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 5.1; khó thở tăng khi nằm ngửa, mục 4.1). Mẫu thư chuyển và quy trình bàn giao: không có trong tài liệu đã tải; đây là cách làm thực hành."
+    },
+    {
+     "t": "Paracetamol hạ sốt, giảm đau; hạn chế ăn đặc, không ép uống nhiều nếu đau",
+     "v": "c",
+     "n": "WHO AWaRe 2022 tr. 50 (paracetamol ≥ 30 kg: 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày); IDSA 2012 khuyến cáo 10(i)."
+    },
+    {
+     "t": "Cho liều kháng sinh tĩnh mạch đầu tiên trước khi đi nếu có sẵn (ceftriaxon 1–2 g + metronidazol 0,5 g), tuyến trên quyết định tiếp",
+     "v": "a",
+     "n": "QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 5.2 và bảng liều: cephalosporin thế hệ III (ceftriaxon 1–2 lọ 1 g × 1 lần/ngày) phối hợp metronidazol 0,5 g × 2–3 lần/ngày. Tài liệu đã tải không có bài riêng áp xe quanh amidan nên áp dụng theo bài khoang cổ sâu; chuyển ngay không chờ tiêm cũng đúng. Chấm a."
+    },
+    {
+     "t": "Xét nghiệm công thức máu, CRP trước chuyển",
+     "v": "a",
+     "n": "Giúp đánh giá mức độ nhiễm trùng (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.1) nhưng không đổi quyết định chuyển; không được làm chậm chuyển."
+    },
+    {
+     "t": "Rạch hoặc chọc hút ổ nghi áp xe ngay tại phòng khám không có Tai Mũi Họng, không CT",
+     "v": "w",
+     "n": "Chọc hút áp xe vùng cổ nên làm dưới hướng dẫn siêu âm hoặc CT để tránh các cấu trúc quan trọng (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 5.3); soi trực tiếp có thể làm vỡ ổ mủ gây viêm phổi hít (mục 5.1). Tài liệu đã tải không viết riêng cho áp xe quanh amidan; chấm w vì thiếu phương tiện và chuyên khoa ở đây."
+    },
+    {
+     "t": "Đổi sang kháng sinh uống phổ rộng hơn (amoxicillin/acid clavulanic hoặc fluoroquinolon) và hẹn tái khám sau 2 ngày",
+     "v": "w",
+     "n": "Kháng penicillin không phải nguyên nhân (WHO AWaRe 2022 tr. 50: GAS vẫn nhạy penicillin); fluoroquinolon cũ kém hoạt tính với GAS (IDSA 2012 tr. e96). Tình trạng cần xác định viêm tấy hay áp xe và dẫn lưu nếu có (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 5.2, 5.3), kháng sinh uống kéo dài không thay được."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm họng do liên cầu nhóm A (đã xác định bằng test nhanh ở lượt 1), nặng lên sau 2 ngày điều trị đúng",
+     "Biến chứng tại chỗ: viêm tấy quanh amidan phải, nghi áp xe quanh amidan; chưa xác định hay loại trừ được tại cơ sở (không CT)",
+     "Hội chứng nhiễm trùng rõ (39,2 °C, mạch 112, bạch cầu 17,8 G/L, CRP 142 mg/L), có mất nước nhẹ",
+     "Đã loại trên lâm sàng: bạch hầu, thất bại do kháng thuốc hoặc không tuân thủ, nhiễm trùng khoang cổ sâu lan rộng, đường thở còn thông"
+    ],
+    "phan_tich_chan_doan": [
+     "Điều buộc mở lại hồ sơ: chị tuân thủ đủ 7 liều amoxicillin mà sốt tăng, đau không giảm, lại xuất hiện triệu chứng mới lệch một bên (nuốt nước bọt không được, khó há miệng, giọng ngậm, đau lan tai phải, cổ nghiêng). Một viêm họng GAS đáp ứng điều trị không diễn tiến như vậy.",
+     "Phải hỏi riêng chị: anh Quân chỉ nói 'đau họng' và xin đổi thuốc, chị mới kể chuyện nhổ nước bọt và há miệng khó. Không đọc lại bệnh sử cũ mà kê tiếp; hỏi lại như một ca mới (NICE NG84 khuyến cáo 1.1.5: đánh giá lại khi xấu nhanh, nghĩ chẩn đoán khác, dấu hiệu bệnh nặng hơn).",
+     "Khám: amidan phải căng, khẩu cái mềm phồng, lưỡi gà lệch sang trái, hạn chế há miệng; cổ nghiêng, hạch góc hàm phải đau; không giả mạc dính, không cổ bạnh, không rít. Nhìn không phân biệt được viêm tấy với ổ mủ; cần hình ảnh (CT có cản quang hoặc MRI, siêu âm hướng dẫn chọc hút) (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.2).",
+     "Cận lâm sàng: bạch cầu 17,8 G/L, CRP 142 mg/L cho thấy nhiễm trùng khu trú đang tiến (QĐ 5643, Nhiễm trùng khoang cổ sâu mục 4.1); siêu âm qua da không kết luận. Không CT tại cơ sở, nên không chờ kết quả mà chuyển.",
+     "Loại trừ: bạch hầu (không giả mạc dính, không dịch tễ; QĐ 2957/2020 mục 5.1); thất bại do kháng thuốc (GAS nhạy penicillin, AWaRe 2022 tr. 50); khoang cổ sâu lan rộng (không sưng đỏ cổ, không khó thở).",
+     "Vi sinh: GAS và Fusobacterium necrophorum (kỵ khí) nên tuyến trên thường thêm thuốc kháng kỵ khí (IDSA 2012 Bảng 3, tr. e89; QĐ 5643, Nhiễm trùng khoang cổ sâu mục 3, 5.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí đúng: chuyển bệnh viện tỉnh có Tai Mũi Họng trong ngày, chị còn tỉnh táo, đường thở thông nên đi bằng xe của xưởng có anh Quân đi cùng (NICE NG84 khuyến cáo 1.1.13; QĐ 5643/2015, Viêm họng cấp tính mục 4.2.3). Lý do chuyển: nghi biến chứng mủ cần hình ảnh và có thể dẫn lưu, phòng khám không có CT hay chuyên khoa.",
+     "Trước chuyển: ngồi, theo dõi mạch, SpO₂, nhịp thở; dặn nhổ nước bọt; viết thư chuyển ghi test GAS dương, đã uống amoxicillin 7 liều, không dị ứng. Cho liều kháng sinh tĩnh mạch đầu theo bài khoang cổ sâu (QĐ 5643 mục 5.2) là chấp nhận được nhưng không bắt buộc, không chậm chuyển.",
+     "Việc không nên làm: đổi sang kháng sinh uống khác rồi hẹn lại, chọc hoặc rạch tại phòng khám không đủ phương tiện, soi thanh quản trực tiếp (QĐ 5643 mục 5.1, 5.3).",
+     "Nỗi lo thật: hai vợ chồng sợ tốn tiền và mất ngày công. Nói rõ vì sao phải đi ngay (ổ mủ nếu có thì kháng sinh uống không giải quyết được), giải thích thủ tục chuyển đúng tuyến theo thẻ BHYT; và nhắc anh Quân khám tổng quát để sau, chữa xong đợt này đã.",
+     "Tuyến trên: không có mủ thì là viêm tấy, kháng sinh tĩnh mạch; có mủ thì dẫn lưu (minh họa của ca; thời gian nằm viện, tỉ lệ: không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ceftriaxon",
+      "ham_luong": "Lọ 1 g",
+      "lieu": "1–2 g mỗi 24 giờ, liều đầu trước chuyển nếu có sẵn",
+      "duong": "Tiêm hoặc truyền tĩnh mạch",
+      "thoi_diem": "Một liều trước khi lên xe; tuyến trên quyết định các liều sau",
+      "so_ngay": "Một liều; tuyến trên quyết định",
+      "ghi_chu": "QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 5.2 (bảng liều: ceftriaxon 1 g/lọ, 1–2 lọ × 1 lần/ngày). Áp dụng bài khoang cổ sâu vì tài liệu không có bài áp xe quanh amidan. Chị không dị ứng penicillin; dị ứng cephalosporin: không có thông tin phản ứng chéo trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Metronidazol",
+      "ham_luong": "Chai 0,5 g",
+      "lieu": "0,5 g (1 chai) × 2–3 lần/ngày",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Cùng lúc liều ceftriaxon đầu, nếu có sẵn; tuyến trên quyết định",
+      "so_ngay": "Tuyến trên quyết định",
+      "ghi_chu": "QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 5.2 (ceftriaxon phối hợp metronidazol). Không bắt buộc cho phòng khám; chuyển ngay quan trọng hơn."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg (hoặc dạng truyền nếu không nuốt được)",
+      "lieu": "500 mg–1 g mỗi 4–6 giờ khi sốt hoặc đau, tối đa 4 g/ngày",
+      "duong": "Uống nếu nuốt được",
+      "thoi_diem": "Trước khi đi nếu sốt cao",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "WHO AWaRe 2022 tr. 50; IDSA 2012 khuyến cáo 10(i). Chị đã uống nhiều viên mỗi ngày: nhắc cộng dồn không quá 4 g."
+     }
+    ],
+    "dan_do": [
+     "Chị không phải dùng thuốc mạnh hơn: amoxicillin vẫn đúng với liên cầu, nhưng họng bên phải có thể đã thành ổ viêm tấy hoặc ổ mủ, cần bác sĩ Tai Mũi Họng nhìn, chụp hình và dẫn lưu nếu cần (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.2, 5.2, 5.3).",
+     "Trên đường đi: ngồi, đừng nằm ngửa, nhổ nước bọt; nếu khó thở, thở rít, chảy máu, lịm đi thì gọi cấp cứu 115 hoặc dừng ở cơ sở y tế gần nhất (QĐ 5643, Nhiễm trùng khoang cổ sâu mục 4.1, 5.1).",
+     "Mang theo thẻ BHYT và thư chuyển; nói rõ đã uống amoxicillin 7 liều, test liên cầu dương, không dị ứng thuốc. Anh Quân đi cùng và để chị tự kể khi bác sĩ hỏi.",
+     "Khám tổng quát để sau khi khỏi; hôm nay xử lý họng trước. Chị quay lại phòng khám sau khi ra viện."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Quân lái xe bán tải của xưởng đưa chị Hằng lên bệnh viện tỉnh trong buổi chiều, chị ngồi nghiêng đầu suốt chặng đường. Tại khoa Tai Mũi Họng, bác sĩ đánh giá có viêm tấy quanh amidan phải; hút kim chẩn đoán dưới siêu âm không ra mủ, nên không có áp xe và không cần rạch. Chị được nhập viện, truyền kháng sinh tĩnh mạch và dịch, sốt giảm sau khoảng một ngày, há miệng rộng lại sau hai ngày, ra viện chuyển sang kháng sinh uống đủ liệu trình (diễn tiến minh họa của ca; tài liệu đã tải không có số liệu cho từng bước). Anh Quân được hẹn khám sức khỏe định kỳ cho chị sau khi khỏi. Quyết định ở phòng khám đều đúng với dữ kiện lúc đó: lượt 1 điều trị đúng GAS và dặn dấu hiệu quay lại, lượt 2 mở lại hồ sơ và chuyển tuyến kịp thời. Áp xe quanh amidan đã được loại trừ bằng hút kim ở tuyến trên (chẩn đoán đích vẫn là viêm họng GAS).",
+ "nhieu": [
+  "Thân nhân trả lời thay: anh Quân khẳng định 'ho nhiều' (thật ra chị chỉ hắng giọng) làm điểm Centor tụt từ 4 xuống 3 nếu tin lời chồng; chị cũng giấu khó há miệng, nhổ nước bọt ở lượt 2 vì đau và vì để chồng nói. Hỏi riêng chị mới ra đúng (Centor tính 'không ho': IDSA 2025 (TL-0140) Bảng 3).",
+  "Lý do thật là muốn kiểm tra tổng quát (lo khói hàn): dễ sa đà chỉ định hàng loạt xét nghiệm; ở lượt 2 anh Quân xin 'đổi thuốc mạnh hơn' vì sợ tốn tiền chuyển viện. Siro ho thảo dược che lấp việc chị không ho thật."
+ ],
+ "bai_hoc_bien": [
+  "Bẫy mở lại chẩn đoán: chẩn đoán ban đầu (viêm họng GAS) đúng và điều trị đúng, nhưng diễn tiến không khớp (nặng lên, dấu hiệu lệch một bên, khó há miệng) buộc phải lật lại: biến chứng tại chỗ? chẩn đoán khác? kháng thuốc? không tuân thủ? (NICE NG84 khuyến cáo 1.1.5, 1.1.13; QĐ 5643/2015, Viêm họng cấp tính mục 4.2.3, 5).",
+  "Mốc buộc mở lại hồ sơ: sau khi uống đủ 7 liều amoxicillin mà sốt 39,2 °C, nuốt nước bọt không được, há miệng hạn chế, lưỡi gà lệch. Không phải 'thuốc yếu' mà là nghĩ tới ổ viêm tấy hoặc ổ mủ quanh amidan.",
+  "Người nhà trả lời thay thì phải tách bệnh nhân ra hỏi riêng; câu hỏi cụ thể ('ho thật hay chỉ hắng', 'nuốt được nước bọt không', 'há miệng được mấy ngón tay') cho thông tin mà câu hỏi chung không có.",
+  "Không CT: thay bằng lâm sàng, siêu âm khi có, và chuyển tuyến có lý do và chuẩn bị (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.2, 5).",
+  "Thang điểm Centor/McIsaac cho xác suất (Centor 4: khoảng 57%, IDSA 2025 Bảng 2–3) và mỗi điểm phụ thuộc đúng người được hỏi; WHO AWaRe 2022 cảnh báo thang điểm kiểm chứng ở nước thu nhập cao.",
+  "Lý do thật khác lý do khai: chữa họng trước, hẹn khám sức khỏe nghề nghiệp sau, không chỉ định tràn lan."
+ ],
+ "diem_nho": [
+  "Centor (sốt, không ho, hạch cổ trước đau, amidan xuất tiết hoặc sưng): 3–4 điểm cân nhắc kháng sinh ngay hoặc test (NICE NG84 khuyến cáo 1.1.10; IDSA 2025 Bảng 3).",
+  "Viêm họng GAS: penicillin hoặc amoxicillin; 10 ngày (IDSA 2012 khuyến cáo 8; QĐ 5643) hoặc 5 ngày khi nguy cơ thấp tim thấp (AWaRe 2022 tr. 50); NICE 5–10 ngày.",
+  "Chuyển viện khi viêm họng có biến chứng mủ (quinsy, viêm tấy, áp xe bên họng) hoặc nhiễm khuẩn nặng (NICE NG84 khuyến cáo 1.1.13); viêm họng đỏ thể nặng hoặc có biến chứng chuyển chuyên khoa kịp thời (QĐ 5643, Viêm họng cấp tính mục 4.2.3).",
+  "Nhiễm trùng khoang cổ sâu: chẩn đoán khó chỉ dựa khám; CT có cản quang/MRI phân biệt viêm mô tế bào với áp xe; không cải thiện sau 24–48 giờ nội khoa thì làm lại hình ảnh và dẫn lưu (QĐ 5643, mục 4.2, 5.2).",
+  "Nghi bạch hầu: giả mạc dính, bóc chảy máu, dịch tễ (QĐ 2957/2020 mục 3.1.3, 5.1); viêm amidan hốc mủ do liên cầu nằm trong chẩn đoán phân biệt (mục 5.3.1)."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh TMH – Viêm họng cấp tính mục 3.1–3.5, 4.1, 4.2.1–4.2.3, 5 (tr. 155–158); Viêm mũi họng cấp tính mục 4.1, 4.3.1, 5.2 (tr. 135–136); Nhiễm trùng khoang cổ sâu mục 3–6 (tr. 254–256)",
+  "TL-0158 · IDSA 2012 – Group A Streptococcal Pharyngitis – khuyến cáo 1–4, 6, 8–10, Bảng 2 (tr. e89), Bảng 3, tr. e91–e96",
+  "TL-0140 · IDSA 2025 – Update on GAS pharyngitis, clinical scoring – khuyến cáo (tr. i97–i98), Bảng 2, 3 (tr. i101)",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – chương 6 Pharyngitis tr. 47–54 (Bảng 6.2, liều amoxicillin và paracetamol tr. 50)",
+  "NICE NG84 2018 (kho cũ, 01 Hô hấp cấp tính/Quốc tế) – khuyến cáo 1.1.1–1.1.13, 1.2.1–1.2.4, 1.3.1, Bảng 1",
+  "TL-0129 · QĐ 2957/QĐ-BYT 2020 – Chẩn đoán, điều trị bạch hầu – mục 3.1, 3.2, 4.1, 5.1–5.3",
+  "Nguồn bổ sung tự tìm: Lindberg E và cs. 2025, Eur J Clin Microbiol Infect Dis 44(8):1925–1933, doi 10.1007/s10096-025-05156-y, PMID 40366504 (vi sinh áp xe quanh amidan)",
+  "Không có trong tài liệu đã tải: hướng dẫn riêng về áp xe quanh amidan (dấu hiệu, chọc hút/rạch, kháng sinh); số liệu thấp tim ở người lớn Việt Nam; hướng dẫn khám sàng lọc thợ hàn; thời điểm hết lây để đi làm lại; mốc hẹn tái khám 48–72 giờ"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-16 (bản 1): soạn theo đặc tả sổ cái HH-0459. Tài liệu đã đọc: xem mục nguon.",
+  "Thiết kế: chẩn đoán đích không đổi (viêm họng GAS). Lượt 1 đáp án về hẹn (amoxicillin); lượt 2 diễn tiến không đỡ, nghi viêm tấy/áp xe quanh amidan, đáp án chuyển tuyến vì không có CT. Áp xe quanh amidan loại trừ ở tuyến trên bằng hút kim (ket_cuc, minh họa, không số liệu nguồn). Bạch hầu loại trừ ở cả hai lượt.",
+  "Thiếu tài liệu: bài riêng về áp xe quanh amidan; ca dùng bài Nhiễm trùng khoang cổ sâu của QĐ 5643 cho hình ảnh học/dẫn lưu/kháng sinh tĩnh mạch. Các dấu hiệu lâm sàng (khít hàm, giọng ngậm, lưỡi gà lệch) mô tả theo thực hành, không có số đo ngưỡng từ tài liệu đã tải.",
+  "Cần thêm vào danh mục dùng chung: cls 'sa_co' (siêu âm vùng cổ/họng qua da, nhóm sieu_am) và 'ct_co' (CT vùng cổ có cản quang, nhóm ct). Xem HH-0459_de_xuat_danh_muc.json.",
+  "Chỉ số phiếu bảng tự bổ sung cho khớp bệnh cảnh (Neu cao thì Lym giảm; MCV, MCH, MCHC tính từ Hb, Hct, RBC).",
+  "Mâu thuẫn: dùng mục cũ (viêm họng đỏ cấp, corticoid, ibuprofen, bạch hầu); mục mới đề xuất trong HH-0459_mau_thuan.md."
+ ]
+}

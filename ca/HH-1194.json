@@ -1,0 +1,625 @@
+{
+ "ma_ca": "HH-1194",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình bản 3, nguồn kèm vị trí (2026-10-16)",
+ "benh": "HH_copd_dot_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COPD đợt cấp",
+  "chan_doan_phai_loai_tru": [
+   "Suy tim",
+   "Thuyên tắc phổi",
+   "Viêm phổi"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Bảo vệ",
+  "yeu_to_khoi_phat": "Sau ăn đồ sống (gỏi cá)",
+  "thuoc_dang_dung": "Đông y đắp ngoài da",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Nhàn",
+  "tuoi": 66,
+  "gioi": "Nữ",
+  "nghe": "Bảo vệ ca đêm ở cổng một trường tiểu học, làm 18 giờ đến 6 giờ, đã 9 năm; ngồi chòi bảo vệ, hay đi tuần sân trường",
+  "can_nang": 52,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' hoặc 'cô Nhàn'; bà xưng 'tôi' hoặc 'con' với bác sĩ trẻ hơn, gọi 'bác sĩ'. Con gái gọi bà là 'mẹ', xưng 'con' với bà, 'em' hoặc 'chị' với bác sĩ.",
+  "tinh_cach": "Hiền, nói nhỏ, hay lo xa, nghe gì cũng nghĩ tới điều xấu nhất. Tin bác sĩ nhưng không dám hỏi thẳng chuyện mình sợ; chỉ lộ ra khi được hỏi nhẹ nhàng, riêng.",
+  "kieu_nhieu": "Sợ hãi quá mức: mỗi lần ho là hỏi 'có sao không bác sĩ', hỏi lại nhiều lần, nghe 'không sao' vẫn chưa yên tâm; vào phòng chỉ nói 'tôi ho dữ quá', không nói nỗi sợ ung thư; nghe nhắc tới phim, máu, xét nghiệm là càng lo; cứ đòi 'chụp cho chắc' dù biết không có máy.",
+  "nguoi_nha": "Con gái, chị Lê Thị Hương, 38 tuổi, nhân viên bán hàng, chở mẹ đến cả hai lượt; thương mẹ, nôn nóng, xin 'chụp hình cho mẹ yên tâm'. Biết mẹ ho, khó thở, hút thuốc lá ngày trước; không biết nỗi sợ ung thư của mẹ. Trả lời thay khi hỏi giờ giấc, chuyện ăn uống, thuốc đắp (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Chị Hương (con gái)",
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#cfcac4",
+   "kieuToc": "ngan",
+   "ao": "#7a8f7b",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c08c66",
+    "toc": "#1d1917",
+    "kieuToc": "dai",
+    "ao": "#b5677d",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho, khó thở tăng 5 ngày, sợ bệnh nặng",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Trạm y tế xã không làm được xét nghiệm nào, không có X-quang, không có siêu âm. Có nhiệt kế, máy đo huyết áp, máy đo SpO₂, máy điện tim và buồng đệm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Trần Thị Nhàn, 66 tuổi, bảo vệ ca đêm ở trường tiểu học, con gái chở đến vì ho, khó thở tăng 5 ngày. Bà đã được chẩn đoán bệnh phổi, mang theo sổ khám. Sinh hiệu: nhiệt độ 37,2 °C, mạch 92 l/p, HA 130/78 mmHg, nhịp thở 22 l/p, SpO₂ 94%% khí trời, cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Nhàn thở 22 l/p, SpO₂ 94% khí trời, nói trọn câu, không tím, không rối loạn tri giác, không phù: chưa có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2) và đợt cấp nhẹ thì điều trị ngoại trú (QĐ 2131/2026 mục 3.4.1). Nằm viện, bà bị 'làm đủ thứ', càng tin mình mắc bệnh nặng, mất thu nhập ca đêm nhiều ngày, con gái phải nghỉ làm trông mẹ; ra viện vẫn dùng đúng những thuốc ngoại trú ở đây.",
+    "chuyen_tuyen": "Chuyển bà lên tuyến trên ngay để chụp CT ngực vì 'sợ ung thư' là quá mức: không có dấu hiệu nặng nên đợt cấp nhẹ điều trị ngoại trú (QĐ 2131/2026 mục 3.4.1); ho 5 ngày kèm sốt nhẹ không có, không ho ra máu, không sụt cân nên chưa có chỉ điểm ác tính (GOLD 2026 tr. 23–24: sụt cân là dấu hiệu cần tìm bệnh khác). CT ngực sàng lọc hằng năm chỉ khuyến cáo cho người 50–80 tuổi có tiền sử ≥ 20 bao-năm (USPSTF, trích trong GOLD 2026 chương 2, mục sàng lọc ung thư phổi); bà khoảng 18 bao-năm. Bà tốn tiền đi xa, mất đêm trực, và 'phải chuyển lên là bệnh nặng' làm nỗi sợ nhiều hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi ho dữ quá, thở nghe cò cử, mấy bữa nay mệt lắm. Có sao không bác sĩ? Tôi... tôi ho hoài vậy có sao không?",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "130/78",
+    "nhiet": "37,2",
+    "nhip_tho": 22,
+    "spo2": 94,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho và khó thở tăng 5 ngày, nghe cò cử. Vào phòng chỉ nói 'ho dữ quá', hỏi 'có sao không' nhiều lần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "copd_nen",
+     "noi_dung": "Hai năm trước khám ở bệnh viện huyện vì ho khạc đờm kéo dài, đo hô hấp ký: FEV1/FVC 0,60 sau thuốc giãn phế quản, FEV1 khoảng 55%% (có phiếu kết quả trong sổ khám). Chẩn đoán bệnh phổi tắc nghẽn mạn tính, kê ống hít giãn phế quản kéo dài mỗi sáng, chưa nhập viện lần nào, năm ngoái có 1 đợt ho nặng tự đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "COPD đã có hô hấp ký (nền để chẩn đoán đợt cấp)",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi có bệnh phổi, bệnh nền, đo hô hấp ký chưa, đang dùng ống hít, thuốc xịt gì; hoặc khi xem sổ."
+    },
+    {
+     "id": "thuoc_hit",
+     "noi_dung": "Vẫn hít ống thuốc mỗi sáng (một nang LAMA/LABA, 1 lần/ngày) đều, chưa bỏ ngày nào; con gái từng nhìn thấy bà hít đúng cách. Ống xịt cắt cơn chưa có trong nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc duy trì dùng đều, chưa có thuốc cắt cơn",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi thuốc đang dùng, có bỏ thuốc không, cách hít."
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cách đây 6 ngày đội bảo vệ liên hoan, ăn gỏi cá. Bà ăn gần hết đĩa nên cho rằng 'cá sống chạy lên phổi'. Cùng bàn có 2 người ho, sổ mũi. Ngày thứ hai sau tiệc bà bắt đầu ngứa họng, sổ mũi nhẹ; ngày thứ ba ho nhiều, khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: ăn gỏi cá (niềm tin sai) và tiếp xúc người ho (nhiễm virus hô hấp)",
+     "dieu_kien_lo": "Nói khi hỏi vì sao bệnh, bắt đầu từ lúc nào, trước đó ăn uống gì, tiếp xúc ai bệnh."
+    },
+    {
+     "id": "khong_tieu_hoa",
+     "noi_dung": "Sau bữa gỏi cá không đau bụng, không nôn, không tiêu chảy, không sặc hay nghẹn khi ăn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có triệu chứng tiêu hóa, không sặc (loại trừ viêm phổi hít, ngộ độc thức ăn)",
+     "dieu_kien_lo": "Nói khi hỏi triệu chứng tiêu hóa, sặc, nghẹn."
+    },
+    {
+     "id": "dom",
+     "noi_dung": "Đờm trắng đục, nhiều hơn thường ngày chừng 2 muỗng cà phê/ngày, không vàng xanh, không có máu. Ho nhiều nhất sáng sớm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đờm: trắng đục, không mủ, không máu",
+     "dieu_kien_lo": "Nói khi hỏi màu đờm, lượng đờm, có ho ra máu."
+    },
+    {
+     "id": "khong_sot",
+     "noi_dung": "Không sốt, không ớn lạnh, không đau ngực, không đau khi hít sâu, không ho ra máu. Có sổ mũi nhẹ, hơi rát họng 2 ngày đầu rồi hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không sốt, không đau ngực kiểu màng phổi, không ho ra máu",
+     "dieu_kien_lo": "Nói khi hỏi sốt, đau ngực, ho ra máu, triệu chứng đường hô hấp trên."
+    },
+    {
+     "id": "khong_sut_can",
+     "noi_dung": "Cân nặng 52 kg, ổn định hai năm nay; ăn uống bình thường, giọng không khàn, không nuốt vướng, không nổi hạch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không sụt cân, không khàn tiếng (không có dấu hiệu gợi ác tính)",
+     "dieu_kien_lo": "Nói khi hỏi sụt cân, ăn uống, khàn tiếng."
+    },
+    {
+     "id": "khong_suy_tim",
+     "noi_dung": "Không phù chân, không phải kê cao gối khi ngủ, không thức giấc vì khó thở, không hồi hộp; tiểu đêm 1 lần như mọi khi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có triệu chứng suy tim",
+     "dieu_kien_lo": "Nói khi hỏi phù, khó thở khi nằm, khó thở về đêm."
+    },
+    {
+     "id": "khong_hq",
+     "noi_dung": "Không đi xa, không nằm yên lâu, không phẫu thuật hay gãy xương gần đây, không đau hoặc sưng một bắp chân, không dùng thuốc nội tiết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không yếu tố nguy cơ huyết khối (loại trừ thuyên tắc phổi)",
+     "dieu_kien_lo": "Nói khi hỏi đi xa, bất động, đau bắp chân, tiền sử huyết khối."
+    },
+    {
+     "id": "hut_thuoc",
+     "noi_dung": "Hút thuốc lá từ 25 đến 50 tuổi, khoảng 7 điếu/ngày (tính ra khoảng 18 bao-năm), bỏ từ 16 năm nay. Hồi trẻ nấu bếp củi lâu năm. Nay trực đêm ở chòi gần bếp lò than của quán ngoài cổng trường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử hút thuốc và phơi nhiễm khói bụi",
+     "dieu_kien_lo": "Nói khi hỏi hút thuốc, khói bụi, nghề."
+    },
+    {
+     "id": "thuoc_dong_y",
+     "noi_dung": "Đau lưng đau gối nên đắp lá thuốc nam giã nát, đắp ngoài da mỗi tối trước ca trực; không uống thuốc đông y, không dùng thuốc tây nào khác, không dùng thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: đông y đắp ngoài da (thành phần không rõ)",
+     "dieu_kien_lo": "Nói khi hỏi đang dùng thuốc gì, kể cả thuốc nam, thuốc đắp."
+    },
+    {
+     "id": "so_ung_thu",
+     "noi_dung": "Bà sợ mình bị ung thư phổi: người bạn trực cùng ca (anh Hải, 61 tuổi) vừa mất 3 tháng trước vì ung thư phổi, lúc đầu cũng 'ho hoài'. Bà chưa kể ai, đêm nào ho cũng thức nghĩ 'tới lượt mình'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ mắc ung thư",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ nhàng, riêng, có sợ điều gì hơn cả cơn ho không, nghe ai bệnh tương tự không; hoặc hỏi trực tiếp có đang lo ung thư không."
+    },
+    {
+     "id": "tinh_cach",
+     "noi_dung": "Hỏi 'có sao không bác sĩ' nhiều lần; xin chụp hình 'cho chắc' (con gái cũng xin).",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu bệnh nhân: sợ hãi quá mức"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói trọn câu. Gầy vừa (BMI 22,5), môi và đầu chi hồng, không tím. Không vã mồ hôi.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, không mủ, không amiđan to. Mũi ít dịch trong. Hạch cổ không sờ thấy.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, thở ra kéo dài, không co kéo cơ hô hấp phụ. Lồng ngực hơi căng, gõ vang nhẹ hai bên. Rì rào phế nang giảm nhẹ, ran rít và ran ngáy rải rác hai phế trường thì thở ra, không ran nổ, không hội chứng đông đặc, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p, không co kéo cơ hô hấp phụ. Gõ vang nhẹ hai bên.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra."
+      },
+      {
+       "vi_tri": "Vùng giữa phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi, không T3. Tĩnh mạch cổ không nổi, phản hồi gan–tĩnh mạch cổ âm tính.",
+     "k": 1,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù. Hai bắp chân mềm, không đau, chu vi hai bên bằng nhau, không giãn tĩnh mạch.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi 30 m ngoài hành lang: SpO₂ 94%% → 93%%, mạch 92 → 104 l/p, nhịp thở 22 → 26 l/p, dừng lấy hơi sau 30 m, hồi phục sau 2 phút nghỉ (SpO₂ về 94%%).",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Lo lắng rõ, ngồi nắm chặt sổ khám, hỏi lại nhiều lần, hay nhìn con gái. Nói được mạch lạc. Khi được hỏi riêng nhẹ nhàng thì rơi nước mắt, kể chuyện anh Hải. Ngủ chập chờn vì ho và lo, không ý nghĩ tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 92 l/p, trục trung gian, sóng P bình thường, không dày thất phải, không block nhánh, ST–T bình thường, không loạn nhịp.",
+     "n": "Điện tim tìm rối loạn nhịp, thiếu máu cơ tim, dấu suy tim phải, trái (QĐ 2131/2026 Bảng 3.1). Điện tim bình thường không loại trừ hẳn thuyên tắc phổi, suy tim; cần ghép với khám và hỏi bệnh. Thăm dò này có sẵn tại phòng khám."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt cấp COPD mức nhẹ theo Rome (chưa có CRP), do nhiễm virus hô hấp, ngày 5",
+     "ok": 1,
+     "n": "COPD có hô hấp ký FEV1/FVC 0,60 (QĐ 2131/2026 mục 1.3.2). Đợt cấp là tình trạng nặng lên trong 14 ngày qua của khó thở và/hoặc ho khạc đờm (QĐ 2131/2026 mục 3.1); đã có COPD cộng triệu chứng xấu đi ≥ 2 ngày (Anthonisen, QĐ 2131/2026 mục 3.3.3). Rome nhẹ: VAS 4, nhịp thở 22 (< 24), mạch 92 (< 95), SpO₂ 94% (> 92%, thay đổi ≤ 3% so với 95% trong sổ); CRP không làm được (QĐ 2131/2026 Bảng 3.2; GOLD 2026 Hình 4.2). Yếu tố kích phát: tiếp xúc người ho, sổ mũi nhẹ gợi virus (QĐ 2131/2026 mục 3.2). Ăn gỏi cá không liên quan: không có tài liệu đã tải nêu gỏi cá gây đợt cấp COPD."
+    },
+    {
+     "t": "Suy tim",
+     "n": "Loại trừ trên lâm sàng: không phù, không khó thở khi nằm, tĩnh mạch cổ không nổi, tim không T3, điện tim bình thường; BNP không làm được (QĐ 2131/2026 Bảng 3.1 nêu BNP và điện tim để tìm suy tim). Suy tim là bệnh đồng mắc cần tìm khi khó thở nặng lên (QĐ 2131/2026 chương 4)."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Không đau ngực kiểu màng phổi, không ho ra máu, không đau, sưng bắp chân, không bất động hay phẫu thuật gần đây; đã có COPD và khò khè lan tỏa giải thích khó thở. D-dimer, CT không làm được (QĐ 2131/2026 Bảng 3.1). Khám không thể 'loại trừ' hoàn toàn: dặn dấu hiệu cảnh báo (đau ngực đột ngột, ho ra máu, ngất) để quay lại hoặc chuyển ngay (ESC 2019, TL-0089)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không sốt, đờm trắng đục, không đau ngực, không ran nổ hay hội chứng đông đặc; mạch dưới 100, thở dưới 24. X-quang không làm được (QĐ 2131/2026 Bảng 3.1: X-quang giúp phát hiện viêm phổi); quyết định dựa lâm sàng, hẹn tái khám sớm để xác nhận đáp ứng. Nếu sốt, đờm mủ, ran nổ xuất hiện thì xem lại (QĐ 2131/2026 Biểu đồ 3.1)."
+    },
+    {
+     "t": "Ung thư phổi, lao phổi",
+     "n": "Điều bà sợ nhất. Ho mới 5 ngày kèm sổ mũi, không sụt cân, không ho ra máu, không khàn tiếng, không hạch, nên không có chỉ điểm ác tính hay lao (sụt cân, mệt, yếu là dấu cần nghĩ tới bệnh khác, GOLD 2026 tr. 23–24; QĐ 2131/2026 mục 3.3.1). Không loại trừ được hoàn toàn khi không có hình ảnh: nếu ho kéo dài ≥ 3 tuần hoặc ho ra máu, sụt cân, đau ngực thì chụp phim (xin chuyển tuyến). Ung thư phổi là bệnh đồng mắc của COPD cần theo dõi (QĐ 2131/2026 chương 4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú; hẹn tái khám sau 5–7 ngày hoặc sớm hơn nếu nặng lên",
+     "v": "c",
+     "n": "Đợt cấp nhẹ điều trị ngoại trú (QĐ 2131/2026 mục 3.4.1); chưa có tiêu chuẩn nhập viện (mục 3.4.2). Tái khám sau đợt cấp: sớm < 4 tuần, muộn nhất < 12 tuần (QĐ 2131/2026 mục 3.4.4g); GOLD 2026 tr. 110: tái khám trong 1 tháng sau xuất viện. Hẹn 5–7 ngày ở ca này là quyết định của ca để xác nhận đỡ (số ngày: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Salbutamol xịt định liều 100 µg qua buồng đệm: 2–4 nhát mỗi 1 giờ cho 2–3 liều đầu, sau đó mỗi 2–4 giờ rồi 6–8 giờ tùy đáp ứng, hoặc 1–2 nhát mỗi 1 giờ cho 2–3 liều rồi mỗi 2–4 giờ; dạy kỹ thuật xịt",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.3a: 2–4 nhát/lần; GOLD 2026 tr. 102: 1–2 nhát/lần, không dùng liều SABA cao vì tác dụng phụ. Bà có mạch 92, 66 tuổi nên bắt đầu liều thấp. Thuốc cắt cơn bà chưa có trong nhà."
+    },
+    {
+     "t": "Tiếp tục thuốc giãn phế quản kéo dài (LAMA/LABA) đang dùng mỗi sáng",
+     "v": "c",
+     "n": "Tiếp tục dùng nếu đã dùng (QĐ 2131/2026 mục 3.4.3b). Ngưng thuốc duy trì đột ngột là yếu tố kích phát đợt cấp (mục 3.2); bà vẫn dùng đều."
+    },
+    {
+     "t": "Prednisolone 40 mg uống 1 lần buổi sáng x 5 ngày (hoặc 30–40 mg x 5 ngày), hoặc chưa dùng ở đợt cấp nhẹ",
+     "v": "a",
+     "n": "QĐ 2131/2026 mục 3.4.3c: prednisone/prednisolone 30–40 mg/ngày x 5 ngày; GOLD 2026 tr. 103: 40 mg prednisone x 5 ngày, khuyến cáo cho đợt cấp trung bình/nặng. Cả hai cách chấp nhận ở đợt nhẹ (mâu thuẫn đã ghi trong sổ từ ca HH-1192). Bà Nhàn thở 22, SpO₂ 94%: ca chọn ghi cả hai."
+    },
+    {
+     "t": "Không kê kháng sinh",
+     "v": "c",
+     "n": "Kháng sinh đường uống khi có cả 3 triệu chứng chính hoặc đờm mủ kèm 1 trong 2 triệu chứng còn lại (QĐ 2131/2026 mục 3.4.3d); GOLD 2026 tr. 105: khi có đờm mủ, ≤ 5 ngày. Bà chỉ tăng khó thở và tăng nhẹ lượng đờm, đờm trắng đục, không sốt: không đủ."
+    },
+    {
+     "t": "Giải thích, trấn an có cấu trúc: gọi tên nỗi sợ ung thư, nói rõ vì sao chưa nghĩ ung thư, nói rõ dấu hiệu nào sẽ cần chụp phim và đi tuyến trên",
+     "v": "c",
+     "n": "Lý do thật: sợ ung thư. Cách trấn an cụ thể không có trong tài liệu đã tải; đây là kỹ năng giao tiếp của ca. Cờ đỏ ung thư phổi/lao: sụt cân, mệt, yếu là dấu cần nghĩ tới bệnh đồng mắc (QĐ 2131/2026 mục 3.3.1; GOLD 2026 tr. 23–24)."
+    },
+    {
+     "t": "Chuyển tuyến chụp CT ngực hoặc làm thêm xét nghiệm để bà yên tâm",
+     "v": "a",
+     "n": "Không có chỉ định hiện tại; CT sàng lọc khuyến cáo cho 50–80 tuổi và ≥ 20 bao-năm (USPSTF, GOLD 2026 chương 2); bà khoảng 18 bao-năm. Chấm 'a' vì không gây hại, chỉ chiều theo nỗi sợ và tốn kém; chuyển khi có cờ đỏ thì đúng."
+    },
+    {
+     "t": "Nhập viện",
+     "v": "w",
+     "n": "Không có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2); nằm viện gây tốn kém, lo lắng thêm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đợt cấp COPD mức nhẹ theo Rome (chưa có CRP), ngày 5, yếu tố kích phát: nhiễm virus hô hấp (tiếp xúc người ho, sổ mũi nhẹ), phơi nhiễm khói bụi nghề; không dấu hiệu nhiễm khuẩn (đờm trắng)",
+     "COPD đã có hô hấp ký (FEV1/FVC 0,60, FEV1 khoảng 55%%), đang dùng LAMA/LABA, chưa có thuốc cắt cơn",
+     "Lo âu do sợ ung thư (bạn đồng nghiệp mất vì ung thư phổi)",
+     "Loại trừ trên lâm sàng: suy tim, thuyên tắc phổi, viêm phổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: lý do khám, thời gian, đờm (màu, lượng), sốt, ho ra máu, đau ngực, sụt cân; bệnh nền COPD và hô hấp ký; thuốc duy trì, thuốc đắp; hút thuốc, khói bụi; tiếp xúc người ho, ăn uống trước khi bệnh; sau cùng hỏi nhẹ nhàng nỗi sợ.",
+     "Chẩn đoán đợt cấp COPD: người đã có COPD và xấu đi ít nhất 2 ngày liên tục (Anthonisen, QĐ 2131/2026 mục 3.3.3), trong 14 ngày (mục 3.1). Triệu chứng chính hiện có: tăng khó thở, tăng nhẹ lượng đờm; đờm không mủ nên theo Anthonisen thuộc nhóm trung bình (2 triệu chứng chính) nhưng không có đờm mủ nên không dùng kháng sinh.",
+     "Rome nhẹ (QĐ 2131/2026 Bảng 3.2; GOLD 2026 Hình 4.2): VAS 4, nhịp thở 22, mạch 92, SpO₂ 94% (thay đổi so với 95% trong sổ ≤ 3%); CRP không có. Đợt cấp nhẹ điều trị ngoại trú (QĐ 2131/2026 mục 3.4.1).",
+     "Ăn gỏi cá không phải nguyên nhân: không có triệu chứng tiêu hóa, không sặc; khởi phát sau tiếp xúc người ho và sổ mũi gợi virus, nhóm nguyên nhân gặp nhiều nhất (nhiễm trùng chiếm 70–80% nguyên nhân đợt cấp, QĐ 2131/2026 mục 3.2).",
+     "Loại trừ: suy tim (không phù, tĩnh mạch cổ không nổi, điện tim bình thường); thuyên tắc phổi (không yếu tố nguy cơ, bắp chân mềm); viêm phổi (không sốt, không ran nổ; X-quang không có). Giới hạn của việc không có xét nghiệm: nêu rõ cho bệnh nhân, hẹn tái khám sớm.",
+     "Ung thư phổi: ho mới 5 ngày kèm sổ mũi, không sụt cân, không ho ra máu: chưa gợi ác tính; nhưng COPD là yếu tố nguy cơ độc lập của ung thư phổi (QĐ 2131/2026 chương 4); nếu ho kéo dài hoặc có cờ đỏ thì chụp phim."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú: đợt cấp nhẹ (QĐ 2131/2026 mục 3.4.1), không tiêu chuẩn nhập viện (mục 3.4.2); đây là ca không có xét nghiệm nào nên quyết định dựa lâm sàng và hẹn tái khám có mốc rõ.",
+     "Giãn phế quản tác dụng ngắn là thuốc đầu tay (QĐ 2131/2026 mục 3.4.3a; GOLD 2026 tr. 102); liều có hai khoảng khác nhau giữa hai nguồn: ghi cả hai.",
+     "Corticoid toàn thân 5 ngày: hai nguồn khác về chỉ định ở đợt nhẹ (QĐ 2131 mục 3.4.3c không giới hạn theo độ nặng; GOLD 2026 tr. 103 cho đợt trung bình/nặng); ca chấp nhận cả hai. Kháng sinh: không (QĐ 2131/2026 mục 3.4.3d).",
+     "Trấn an có cấu trúc: (1) hỏi riêng, gọi tên nỗi sợ; (2) nói bằng dữ kiện của chính bà: ho mới 5 ngày, sau tiếp xúc người ho, không sụt cân, không ho ra máu, nghe phổi khò khè giống COPD; (3) nói rõ giới hạn: phòng khám không chụp được phim; (4) cho kế hoạch cụ thể: hẹn tái khám, dấu hiệu cần đi tuyến trên chụp phim. Số liệu xác suất cụ thể: không có trong tài liệu đã tải.",
+     "Không chiều theo yêu cầu chụp hình/xét nghiệm: không có chỉ định ở đợt nhẹ; nếu muốn tầm soát ung thư phổi thì theo tiêu chuẩn tuổi, số bao-năm (GOLD 2026 chương 2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Salbutamol (bình xịt định liều + buồng đệm)",
+      "ham_luong": "100 µg/nhát",
+      "lieu": "1–2 nhát/lần (GOLD 2026) hoặc 2–4 nhát/lần (QĐ 2131/2026); bắt đầu 2 nhát vì mạch 92",
+      "duong": "Xịt hít qua buồng đệm",
+      "thoi_diem": "Ngày đầu có thể mỗi 1 giờ cho 2–3 liều đầu, sau đó mỗi 2–4 giờ, rồi mỗi 6–8 giờ khi khó thở",
+      "so_ngay": "Đến khi hết khò khè, thường vài ngày (số ngày: không có trong tài liệu đã tải)",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3a; GOLD 2026 tr. 102. Run tay, hồi hộp là tác dụng phụ: báo nếu mạch trên 120. Dạy xịt, lắc bình, nín thở 10 giây."
+     },
+     {
+      "thuoc": "Thuốc LAMA/LABA đang dùng (hít 1 nang buổi sáng)",
+      "ham_luong": "Theo thuốc bà đang có (ví dụ indacaterol/glycopyrronium 110/50 µg)",
+      "lieu": "1 nang/ngày",
+      "duong": "Hít bằng dụng cụ chuyên dụng",
+      "thoi_diem": "Buổi sáng, đều mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Tiếp tục thuốc duy trì (QĐ 2131/2026 mục 3.4.3b, Phụ lục 1). Kiểm tra kỹ thuật hít tại buổi khám."
+     },
+     {
+      "thuoc": "Prednisolone (nếu dùng)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "40 mg (8 viên) hoặc 30 mg (6 viên) 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3c: 30–40 mg x 5 ngày; GOLD 2026 tr. 103: 40 mg x 5 ngày. Có thể chưa dùng ở đợt nhẹ. Tác dụng phụ ngắn hạn (tăng đường huyết, mất ngủ, khó chịu dạ dày): hàm lượng viên 5 mg, hướng dẫn tác dụng phụ chi tiết không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Tái khám sau 5–7 ngày hoặc ngay nếu: khó thở nặng lên, nói không trọn câu, môi tím, lơ mơ, sốt, đờm vàng xanh, ho ra máu, đau ngực, sưng một bắp chân, phù chân (QĐ 2131/2026 mục 3.4.2).",
+     "Không cần kháng sinh vì đờm không mủ; không nhờ tiệm thuốc tự cho kháng sinh. Lá thuốc đắp ngoài da: không ảnh hưởng thuốc hít, nhưng thành phần không rõ nên không đắp lên vùng da trầy; tác dụng lên bệnh phổi: không có trong tài liệu đã tải.",
+     "Trấn an (kỹ năng giao tiếp, không cần nguồn): những gì khám cho thấy là đợt cấp của bệnh phổi bà đã biết, do cảm virus; ăn gỏi cá không làm bệnh phổi nặng lên. Nếu sau 3 tuần vẫn ho hoặc có sụt cân, ho ra máu thì sẽ chụp phim ở tuyến trên, và nói rõ điều đó trước để bà bớt lo.",
+     "Tránh khói: không ngồi gần bếp than, không hút thuốc, tránh người đang ho; hít thuốc đều mỗi sáng; mua thêm ống xịt cắt cơn để trong túi."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 7 ngày",
+   "tiep_don": "Bà Nhàn tái khám đúng hẹn sau 7 ngày, con gái chở đến. Bà dùng salbutamol xịt, hít thuốc duy trì đều, uống prednisolone đủ 5 ngày, không dùng kháng sinh. Bà nói ho 'gần hết', không khó thở khi nghỉ. Sinh hiệu: nhiệt độ 36,8 °C, mạch 78 l/p, HA 124/76 mmHg, nhịp thở 18 l/p, SpO₂ 96%% khí trời.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "nhap_vien": "Bà Nhàn đã hết khó thở khi nghỉ, thở 18 l/p, SpO₂ 96%, không sốt: không có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2). Nhập viện lúc này không thêm lợi ích, bà mất thêm nhiều ngày trực, tốn kém, và vẫn nhận lại cùng kế hoạch duy trì ngoại trú.",
+    "chuyen_tuyen": "Chuyển lên tuyến trên chụp CT ngực lúc bà đã đỡ hoàn toàn không có chỉ định: đợt cấp đã hết, không dấu hiệu cờ đỏ (sụt cân, ho máu), và CT sàng lọc chỉ cho người ≥ 20 bao-năm (USPSTF, trích trong GOLD 2026 chương 2); bà khoảng 18 bao-năm. Chi phí đi lại, phim chụp, nguy cơ phát hiện những bất thường vô hại khiến bà lo thêm; tái khám theo dõi COPD đúng hẹn tại tuyến cơ sở vẫn cần (QĐ 2131/2026 mục 3.4.4g)."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi hết ho gần rồi. Nhưng tôi vẫn còn lo... bác sĩ nói thiệt đi, phổi tôi có bị gì nặng không? Thôi bác sĩ cho tôi chụp một tấm cho yên tâm đi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "124/76",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_hoan_toan",
+     "noi_dung": "Ho còn rất ít, chỉ sáng sớm vài tiếng, đờm trắng ít như trước đợt bệnh. Không còn khò khè, ngủ ngon, đi bộ ra cổng trường 100 m không phải dừng. Uống đủ 5 ngày prednisolone, không tác dụng phụ ngoài hơi chua bụng 2 ngày đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ hoàn toàn: triệu chứng, khả năng gắng sức về nền"
+    },
+    {
+     "id": "khong_dau_hieu",
+     "noi_dung": "Vẫn không sốt, không ho ra máu, không đau ngực, cân nặng 52 kg như cũ, không khàn tiếng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không cờ đỏ ung thư, lao",
+     "dieu_kien_lo": "Nói khi hỏi sụt cân, ho máu, đau ngực, sốt, ra mồ hôi đêm."
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Hít thuốc sáng đều, xịt salbutamol 2 nhát mỗi 4–6 giờ ba ngày đầu, nay chỉ xịt khi thấy thở nặng, hai ngày nay không xịt lần nào. Con gái kiểm tra thấy bà hít đúng cách.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, kỹ thuật hít",
+     "dieu_kien_lo": "Nói khi hỏi dùng thuốc, cách hít, còn xịt cắt cơn không."
+    },
+    {
+     "id": "so_van_con",
+     "noi_dung": "Dù hết ho, bà vẫn mất ngủ vài đêm vì nghĩ tới anh Hải. Muốn chụp phim 'để biết chắc là không phải ung thư'. Đã kể cho con gái nghe sau lượt khám trước, nhẹ người hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi sợ ung thư còn lại; nhu cầu 'chụp cho chắc' (nhiễu)",
+     "dieu_kien_lo": "Nói khi hỏi bà còn lo điều gì, ngủ ra sao, nghĩ gì về bệnh của mình."
+    },
+    {
+     "id": "hut_tranh",
+     "noi_dung": "Từ khi khám đã không ngồi cạnh bếp than, nhưng ca trực vẫn ở gần cổng quán; chưa được tiêm ngừa cúm hay phế cầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phòng ngừa đợt cấp: khói bụi, chưa tiêm ngừa",
+     "dieu_kien_lo": "Nói khi hỏi phòng ngừa, tiêm chủng, môi trường làm việc."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui hơn lần trước, nói trọn câu, thở êm, không tím, không co kéo.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Rì rào phế nang còn hơi giảm hai đáy, không còn ran rít, ran ngáy hay ran nổ; thở ra không còn kéo dài rõ.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, không co kéo cơ hô hấp phụ.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang nghe được, không ran."
+      },
+      {
+       "vi_tri": "Vùng giữa phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang nghe được, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù, bắp chân mềm, không đau.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi 100 m: SpO₂ 96%% → 95%%, mạch 78 → 88 l/p, nhịp thở 18 → 20 l/p, không phải dừng.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Bớt căng thẳng nhưng vẫn hỏi lại 'có chắc không'. Tiếp xúc tốt, ngủ cải thiện, không ý nghĩ tự hại. Chấp nhận kế hoạch khi được giải thích cụ thể.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "n",
+     "r": "Không cần lặp lại: không đau ngực, không hồi hộp, mạch đều 78 l/p, điện tim lượt trước bình thường.",
+     "n": "Không có chỉ định lặp điện tim khi đã hết triệu chứng và điện tim trước bình thường (số liệu về chỉ định lặp: không có trong tài liệu đã tải)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt cấp COPD mức nhẹ, đã hồi phục sau điều trị ngoại trú; COPD ổn định, chưa tối ưu phòng ngừa (chưa tiêm ngừa, còn phơi nhiễm khói, chưa có thuốc cắt cơn)",
+     "ok": 1,
+     "n": "Hết khò khè, SpO₂ 96%%, thở 18, mạch 78 là về mức nền (khác lượt 1: SpO₂ 94%%, thở 22, mạch 92). Hồi phục: triệu chứng về nền, khám phổi hết ran. Thời gian đợt cấp: 'thường kéo dài 7–10 ngày' (GOLD 2026 tr. 100 (triệu chứng đợt cấp thường 7–10 ngày)); số liệu hồi phục chi tiết: không có trong tài liệu đã tải cho tuyến cơ sở."
+    },
+    {
+     "t": "Viêm phổi tiềm ẩn bị bỏ sót",
+     "n": "Loại trừ: hết ho, không sốt kể cả khi đã dùng corticoid, phổi hết ran, không đờm mủ (QĐ 2131/2026 Biểu đồ 3.1: nếu đáp ứng tốt thì tiếp tục điều trị). Không có X-quang nên theo dõi lâm sàng."
+    },
+    {
+     "t": "Ung thư phổi, lao phổi",
+     "n": "Không cờ đỏ: không sụt cân, ho máu, đau ngực, khàn tiếng; ho đã hết sau 7 ngày nên không phù hợp ho kéo dài do u (GOLD 2026 tr. 23–24). Nếu ho ≥ 3 tuần, sụt cân, ho máu, hoặc đợt cấp tái phát liên tục thì chụp phim ở tuyến trên; ngưỡng thời gian '3 tuần': nhận định của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Suy tim, thuyên tắc phổi",
+     "n": "Hết khó thở, mạch 78, không phù, không đau bắp chân, tim đều; đỡ nhanh với giãn phế quản không hợp thuyên tắc phổi hay suy tim."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho tiếp tục điều trị ngoại trú, ngưng salbutamol thường quy; chỉ xịt khi khó thở",
+     "v": "c",
+     "n": "Dùng SABA khi khó thở (QĐ 2131/2026 mục 3.4.3a: 'thuốc được dùng khi khó thở hoặc chia 3–4 lần/ngày'); đỡ thì ngưng dùng theo lịch."
+    },
+    {
+     "t": "Tiếp tục hít LAMA/LABA mỗi sáng; kiểm tra lại kỹ thuật hít",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.4g: kiểm tra phác đồ duy trì, đánh giá lại kỹ thuật dụng cụ phân phối thuốc; mục 5 (dùng thuốc đúng kỹ thuật, kiểm tra mỗi lần tái khám)."
+    },
+    {
+     "t": "Tư vấn tránh khói bụi, kê thuốc cắt cơn mang theo; tiêm ngừa cúm và phế cầu; tập phục hồi chức năng hô hấp",
+     "v": "c",
+     "n": "Đánh giá nhu cầu điều trị duy trì (QĐ 2131/2026 mục 3.4.4g). Tiêm chủng: khuyến cáo vắc xin cúm, phế cầu trong COPD (QĐ 2131/2026 chương 5; liều, thời điểm cụ thể: không có trong tài liệu đã tải). Phục hồi chức năng hô hấp sớm sau đợt cấp: khởi đầu < 3 tuần giúp cải thiện khả năng gắng sức (QĐ 2131/2026 mục 5, PHCN sau đợt cấp)."
+    },
+    {
+     "t": "Tái khám sớm < 4 tuần và muộn nhất < 12 tuần sau đợt cấp, đo hô hấp ký lại khi ổn; hẹn ngay nếu nặng lên",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.4g: tái khám sớm < 4 tuần, muộn nhất < 12 tuần; GOLD 2026 tr. 110: theo dõi trong 1 tháng, thêm lần ở 3 tháng. Đo chức năng hô hấp sau khi đợt cấp ổn định (QĐ 2131/2026 Bảng 3.1). Phòng khám không có hô hấp ký: chuyển bệnh viện huyện đo định kỳ."
+    },
+    {
+     "t": "Giải thích tiêu chí 'khỏi', trấn an dựa dữ kiện, giải thích cặn kẽ vì sao không chụp phim bây giờ và khi nào chụp",
+     "v": "c",
+     "n": "Triệu chứng về nền, khám phổi hết ran, không sốt, SpO₂ về nền: tiêu chí hồi phục dùng trong ca (nhận định của ca). Tái khám chụp phim khi cờ đỏ (sụt cân, mệt, yếu là dấu cần nghĩ bệnh khác, GOLD 2026 tr. 23–24)."
+    },
+    {
+     "t": "Chuyển tuyến chụp CT ngực cho yên tâm",
+     "v": "a",
+     "n": "Không có chỉ định; chấm 'a' vì không gây hại nhưng tốn kém, dễ tạo thêm lo lắng; bà chưa đủ ≥ 20 bao-năm cho CT sàng lọc (USPSTF trích trong GOLD 2026 chương 2)."
+    },
+    {
+     "t": "Nhập viện",
+     "v": "w",
+     "n": "Không có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đợt cấp COPD mức nhẹ đã hồi phục sau điều trị ngoại trú (SABA, LAMA/LABA, prednisolone 5 ngày)",
+     "COPD ổn định; cần phòng ngừa đợt cấp (tránh khói, tiêm ngừa, phục hồi chức năng hô hấp, thuốc cắt cơn)",
+     "Lo âu liên quan ung thư phổi, đã nhẹ hơn nhờ nói ra"
+    ],
+    "phan_tich_chan_doan": [
+     "Mốc hồi phục sau 7 ngày (đợt cấp thường 7–10 ngày, GOLD 2026 tr. 100): hết ho, hết ran, SpO₂, mạch, nhịp thở về nền; không cần kháng sinh, không cần xét nghiệm (không sốt, không đờm mủ).",
+     "Điều trị thành công cũng giúp bác sĩ yên tâm loại trừ viêm phổi, suy tim, thuyên tắc phổi mà không cần phim; vẫn dặn cờ đỏ.",
+     "Xác nhận 'khỏi': triệu chứng và gắng sức về nền, khám phổi sạch, sinh hiệu về nền. Cần chụp hoặc xét nghiệm kiểm tra dù đã khỏi khi: ho ≥ 3 tuần, sụt cân, ho máu, đau ngực, hoặc đợt cấp tái phát liên tục (GOLD 2026 tr. 23–24; ngưỡng 3 tuần: nhận định của ca)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng salbutamol theo giờ; giữ LAMA/LABA mỗi sáng (QĐ 2131/2026 mục 3.4.3b).",
+     "Đánh giá trước khi kết thúc đợt: tư vấn bỏ khói thuốc, kiểm tra phác đồ duy trì và hiểu biết của người bệnh, kỹ thuật hít, hướng dẫn thuốc dùng trong đợt cấp, kế hoạch theo dõi bệnh đồng mắc, tái khám sớm < 4 tuần và muộn nhất < 12 tuần (QĐ 2131/2026 mục 3.4.4g).",
+     "Phòng ngừa: PHCN hô hấp sớm sau đợt cấp (< 3 tuần) giúp cải thiện gắng sức (QĐ 2131/2026 mục 5); vắc xin theo QĐ 2131/2026 chương 5.",
+     "Không chụp phim: không có chỉ định, bà chưa đủ tiêu chuẩn CT sàng lọc (≥ 20 bao-năm, 50–80 tuổi, GOLD 2026 chương 2). Giải thích bằng dữ kiện: đợt cấp đã hết trong 7 ngày điều trị, không sụt cân, không ho máu; hẹn chụp ở tuyến trên nếu có cờ đỏ. Trấn an có cấu trúc, ghi nhận nỗi sợ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Salbutamol (bình xịt định liều + buồng đệm)",
+      "ham_luong": "100 µg/nhát",
+      "lieu": "1–2 nhát/lần (GOLD 2026) hoặc 2–4 nhát (QĐ 2131/2026)",
+      "duong": "Xịt hít qua buồng đệm",
+      "thoi_diem": "Chỉ khi khó thở, khò khè; mang theo người",
+      "so_ngay": "Dùng khi cần",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3a: dùng khi khó thở. Báo bác sĩ nếu phải xịt hơn 3 lần/ngày hai ngày liền (ngưỡng này: nhận định của ca, không có trong tài liệu đã tải)."
+     },
+     {
+      "thuoc": "Thuốc LAMA/LABA đang dùng (hít 1 nang buổi sáng)",
+      "ham_luong": "Theo thuốc bà đang có (ví dụ indacaterol/glycopyrronium 110/50 µg)",
+      "lieu": "1 nang/ngày",
+      "duong": "Hít bằng dụng cụ chuyên dụng",
+      "thoi_diem": "Buổi sáng, đều mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3b, Phụ lục 1."
+     }
+    ],
+    "dan_do": [
+     "Tái khám trong 4 tuần (muộn nhất 12 tuần) hoặc ngay khi ho kéo dài, sụt cân, ho ra máu, đau ngực, sốt, khó thở nặng (QĐ 2131/2026 mục 3.4.4g, 3.4.2).",
+     "Tránh khói bếp than, không hút thuốc; đeo khẩu trang tại chòi trực khi có khói; nhắc đội bảo vệ về tránh người đang ho.",
+     "Tiêm ngừa cúm và phế cầu khi có điều kiện; tập thở chúm môi, đi bộ mỗi ngày (QĐ 2131/2026 mục 5, PHCN hô hấp).",
+     "Về nỗi lo ung thư: nói rõ điều bác sĩ thấy (sạch, không cờ đỏ), điều chưa biết (chưa có phim), và khi nào sẽ chụp; mời con gái cùng nghe; nếu mất ngủ kéo dài vì lo thì đến khám lại."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Nhàn dùng salbutamol 3 ngày, hít thuốc đều và uống đủ 5 ngày prednisolone; ngày 7 hết ho gần hoàn toàn, SpO₂ 96%%. Sau khi được nói chuyện riêng, bà kể nỗi sợ ung thư, nghe giải thích kỹ vì sao chưa cần chụp, ngủ lại được. Bà tiêm ngừa cúm, hẹn tái khám trong 4 tuần, được chuyển bệnh viện huyện đo hô hấp ký lại khi ổn. COPD không nặng thêm, không phải nhập viện. Tiên lượng dài hạn, tỷ lệ tái phát đợt cấp: không có trong tài liệu đã tải cho ca này.",
+ "nhieu": [
+  "Hỏi 'có sao không' nhiều lần, nghe 'không sao' vẫn chưa yên: trấn an bằng dữ kiện của chính bà, không bằng câu chung chung.",
+  "Xin chụp hình 'cho chắc' (cả hai lượt, cả con gái): không chiều theo xét nghiệm khi không chỉ định và phòng khám cũng không làm được.",
+  "Niềm tin 'ăn gỏi cá nên cá sống chạy lên phổi' che nguyên nhân thật (virus, khói bụi)."
+ ],
+ "bai_hoc_bien": [
+  "Ca điển hình: đợt cấp COPD nhẹ có hô hấp ký sẵn, đờm không mủ nên không kháng sinh (QĐ 2131/2026 mục 3.4.3d); đáp ứng điều trị là bằng chứng ủng hộ chẩn đoán.",
+  "Không có xét nghiệm nào: lập luận hoàn toàn lâm sàng, tự nêu giới hạn và dặn dấu hiệu quay lại; không 'loại trừ' thuyên tắc phổi, viêm phổi chỉ bằng khám.",
+  "Lý do thật đến khám (sợ ung thư) lộ ra khi hỏi nhẹ nhàng, riêng; xử lý bằng trấn an có cấu trúc, không bằng xét nghiệm chiều lòng.",
+  "Lượt 2: khỏi hoàn toàn không đồng nghĩa hết việc: phòng ngừa, tái khám < 4 tuần, hô hấp ký, tiêm ngừa, PHCN (QĐ 2131/2026 mục 3.4.4g, 5)."
+ ],
+ "diem_nho": [
+  "Rome nhẹ: VAS < 5, thở < 24, mạch < 95, SaO₂ > 92% và thay đổi ≤ 3%, CRP < 10 (QĐ 2131/2026 Bảng 3.2; GOLD 2026 Hình 4.2).",
+  "Đợt cấp COPD ngoại trú: SABA ± SAMA, giữ LAMA/LABA, prednisolone 30–40 mg x 5 ngày (QĐ 2131 mục 3.4.3a–c), kháng sinh khi đờm mủ (mục 3.4.3d).",
+  "Tiêu chuẩn nhập viện (mục 3.4.2) và tái khám sau đợt cấp < 4 tuần, muộn nhất < 12 tuần (mục 3.4.4g).",
+  "CT ngực sàng lọc: 50–80 tuổi, ≥ 20 bao-năm (USPSTF, GOLD 2026 chương 2); COPD là yếu tố nguy cơ độc lập của ung thư phổi (QĐ 2131 chương 4)."
+ ],
+ "nguon": [
+  "TL-0120 · QĐ 2131/QĐ-BYT 2026 – COPD – mục 1.3.2, 3.1–3.4.4 (3.4.1, 3.4.2, 3.4.3a–d, 3.4.4g), Bảng 3.1, Bảng 3.2, Biểu đồ 3.1, chương 4, chương 5 (PHCN), Phụ lục 1",
+  "TL-0138 · GOLD 2026 – Hình 4.2 (Rome), chương 4 (tr. 102 SABA, 103 prednisone, 105 kháng sinh, 110 theo dõi), tr. 23–24 (sụt cân), chương 2 (sàng lọc ung thư phổi, USPSTF)",
+  "TL-0089 · ESC 2019 – Thuyên tắc phổi cấp – mục 4 (chẩn đoán, dấu hiệu cảnh báo)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-16 – soạn theo CLAUDE.md mục 3. Ca điển hình, không bẫy; đợt cấp nhẹ (Rome) ngoại trú, lượt 1 ve_hen, lượt 2 theo_doi (khỏi). Khóa cls: xn, xquang, sieu_am (kéo theo CT, nội soi); điện tim vẫn làm được tại chỗ.",
+  "Tài liệu đã đọc: TL-0120 chương 3 (3.1–3.4.4, Bảng 3.1, 3.2, Biểu đồ 3.1), chương 4, mục PHCN; TL-0138 GOLD 2026 tr. 23–24, 102–110, Hình 4.2, mục sàng lọc ung thư phổi.",
+  "Chỗ thiếu tài liệu: số ngày hẹn tái khám lượt 1 (nhận định của ca); ngưỡng 3 tuần cho chụp phim; an toàn lá thuốc nam đắp ngoài da; liều/lịch vắc xin; xác suất ung thư phổi. Mâu thuẫn dùng: liều SABA, corticoid cho đợt cấp nhẹ (đã có trong sổ từ HH-1192). Không tìm web."
+ ]
+}

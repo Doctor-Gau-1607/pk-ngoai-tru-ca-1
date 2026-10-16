@@ -1,0 +1,754 @@
+{
+ "ma_ca": "MT-0458",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_rllm_nguoi_rat_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Sau ăn quá nhiều đạm",
+  "thuoc_dang_dung": "Paracetamol liều thông thường",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Thị Lụa",
+  "tuoi": 82,
+  "gioi": "Nữ",
+  "nghe": "Hưu trí (giáo viên tiểu học)",
+  "can_nang": 48,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'tôi', gọi bác sĩ là 'bác sĩ'; gọi con gái là 'con Lan'.",
+  "tinh_cach": "Nghiêm nghị, ngăn nắp, từng dạy học nên hay hỏi lại từng chữ. Chồng mất vì đột quỵ nên rất sợ 'tai biến'. Hay đọc báo sức khỏe, nghe hàng xóm kể thuốc mỡ máu 'hại gan, yếu cơ, lú lẫn'. Tự đi chợ, nấu ăn, sinh hoạt độc lập.",
+  "kieu_nhieu": "Sợ hãi quá mức: hỏi dồn 'có phải sắp bị tai biến không', hỏi đến lần thứ hai ba dù đã được trả lời; đòi 'chụp hết mạch máu, chụp đầu cho yên tâm'. Đồng thời sợ thuốc: nghe nói statin hại gan thì lo, và có thể tự chỉnh thuốc theo nỗi sợ. Chỉ nói lý do thật (xin giấy khám sức khỏe) khi được hỏi thẳng về dự định sắp tới.",
+  "nguoi_nha": "Con gái đi cùng, đứng chờ bên ngoài, vào khi bà gọi",
+  "ten_nguoi_nha": "Phạm Thị Lan",
+  "ngoai_hinh": {
+   "da": "#e8c9a8",
+   "toc": "#d9d9d9",
+   "kieuToc": "ngan",
+   "ao": "#7a5a8a",
+   "aoKieu": "co_tron",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#dcae86",
+    "toc": "#2a1f1a",
+    "kieuToc": "dai",
+    "ao": "#3f7f6f"
+   }
+  }
+ },
+ "ly_do_kham": "Đầy bụng sau đám giỗ, lo mỡ máu cao",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Nguyễn Thị Lụa, 82 tuổi, hưu trí, đến cùng con gái. Hai hôm nay đầy bụng, nặng bụng sau đám giỗ, lo 'mỡ máu lên cao'. Sinh hiệu: HA 138/82 mmHg, mạch 76 l/p, cân nặng 48 kg, BMI 21,3. Cơ sở không có máy siêu âm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Lụa nhập viện 'theo dõi tai biến' dù không có dấu hiệu thần kinh, không đau ngực, tỉnh táo, sinh hiệu ổn. Ở tuổi 82, nằm viện không cần thiết dễ gây lú lẫn, ngã, mất ngủ; trong khi việc cần làm là xét nghiệm lipid và TSH, bàn thuốc hạ lipid sau khi cùng cân nhắc lợi hại ở người trên 75 tuổi (ACC/AHA 2026 mục 4.2.8.3 KC 1, 2) và hẹn tái khám sau khoảng 8 tuần (ESC/EAS 2019 Bảng 13). Bà vẫn ra về với nỗi sợ nguyên vẹn và chưa hiểu vì sao phải dùng thuốc.",
+    "chuyen_tuyen": "Bà Lụa được chuyển lên tuyến trên để chụp mạch máu, siêu âm động mạch cảnh 'cho chắc'. Không có chỉ định: bà không đau ngực, không triệu chứng thần kinh, và tài liệu đã tải không đưa hình ảnh mạch vào đánh giá RLLM thường quy ở người chưa có bệnh tim mạch xơ vữa. Bà tốn kém, mệt, con gái nghỉ làm đưa đi; các việc đáng làm tại chỗ (TSH, creatinin, ALT, tư vấn lối sống, cân nhắc statin liều thấp) bị chậm lại (ESC/EAS 2019 mục 9.3.2; QĐ 3879/2014 II.2).",
+    "theo_doi": "Bà Lụa chỉ được dặn 'ăn kiêng rồi khám lại khi nào thấy cần', không hẹn ngày, không làm TSH và creatinin, không bàn thuốc. Với LDL-C 4,5 mmol/L (> 2,58: QĐ 3879/2014 III.2) và nỗi sợ tai biến, bà dễ tự mua thuốc hoặc đi nghe lời hàng xóm; nguyên nhân thứ phát (suy giáp, thận) cũng không được loại trừ (QĐ 3879/2014 II.2). Lipid cần được kiểm lại sau khoảng 8 tuần khi đã có kế hoạch điều trị (ESC/EAS 2019 Bảng 13)."
+   },
+   "loi_mo": "Bác sĩ ơi, hôm giỗ ông nhà tôi, tôi ăn nhiều thịt với lòng quá, hai hôm nay bụng cứ nặng nặng. Con Lan nó bảo mỡ máu tôi cao lắm, sợ tai biến như ông nhà tôi. Bác sĩ khám kỹ cho tôi nhé.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/82",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai ngày nay đầy bụng, nặng bụng sau đám giỗ. Lo mỡ máu cao sẽ bị tai biến như chồng. Con gái bảo đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "dam_gio",
+     "noi_dung": "Hôm giỗ ăn nhiều thịt, lòng, giò mỡ, trứng; hôm sau hết đầy dần nhưng vẫn lo. Ngày thường ăn nhạt, ít thịt, ít uống rượu bia. Sáng nay ăn nhẹ một chén cháo rồi mới đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát; thời điểm ăn liên quan lipid không nhịn đói"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực, không khó thở khi leo cầu thang, không hồi hộp, không ngất. Không bị yếu liệt, méo miệng, nói khó thoáng qua. Chưa từng đột quỵ hay nhồi máu cơ tim.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ bệnh tim mạch xơ vữa đã có và cơn thiếu máu thoáng qua"
+    },
+    {
+     "id": "bung",
+     "noi_dung": "Đầy bụng nhẹ, hết dần, không nôn, không đau thượng vị dữ dội, đi tiêu bình thường, không phân đen.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "suy_giap",
+     "noi_dung": "Không sợ lạnh bất thường, không táo bón nặng, da khô theo tuổi, giọng không khàn, ngủ bình thường, không chậm chạp, cân nặng ổn nhiều năm. Từng đo tuyến giáp bình thường cách đây vài năm, giấy đã mất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng suy giáp (nguyên nhân thứ phát)"
+    },
+    {
+     "id": "nguyen_nhan_khac",
+     "noi_dung": "Không đái tháo đường, không bệnh thận, không phù, không vàng da. Không uống corticoid, thuốc lợi tiểu thiazid, thuốc nội tiết hay thuốc bắc. Không hút thuốc, hầu như không rượu bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân thứ phát (đái tháo đường, thận, thuốc)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chỉ uống paracetamol 500 mg, 1 viên mỗi lần, 2 đến 3 lần mỗi ngày (khoảng 1 đến 1,5 g/ngày) khi đau hai gối, đã khoảng 1 năm. Không dùng thuốc khác, không uống thuốc giảm đau nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều thông thường"
+    },
+    {
+     "id": "dau_goi",
+     "noi_dung": "Đau âm ỉ hai gối khi đi bộ lâu, nghỉ thì đỡ, đã nhiều năm. Không đau bắp chân hay đùi, không đau cơ khắp người, sức chân bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ghi nhận đau gối trước khi dùng statin (nền đau khớp, không phải đau cơ)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Chồng mất năm 70 tuổi vì đột quỵ. Mẹ mất vì già, không rõ bệnh. Các con khỏe, không ai bị mỡ máu cao sớm hay nhồi máu cơ tim khi còn trẻ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình; gợi ý tăng cholesterol máu gia đình thấp"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Tự nấu ăn, đi chợ, tắm giặt, quản lý tiền. Đi bộ buổi sáng khoảng 15 phút. Không té ngã năm nay, không quên lẫn, cân nặng ổn. Không có bệnh nặng nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chức năng và thể trạng, cơ sở để cân nhắc lợi hại thuốc hạ lipid ở người rất cao tuổi"
+    },
+    {
+     "id": "so_thuoc",
+     "noi_dung": "Nghe hàng xóm nói thuốc mỡ máu 'hại gan, yếu cơ, lú lẫn'. Nếu bác sĩ giải thích rõ lợi hại và cách theo dõi thì bà chịu thử thuốc liều thấp, nhưng vẫn lo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thái độ với thuốc; cần giải thích để tránh bỏ thuốc"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: Hội người cao tuổi của phường tổ chức chuyến hành hương 5 ngày, công ty du lịch yêu cầu giấy chứng nhận sức khỏe. Bà sợ khám ra 'mỡ máu cao' thì bị cấm đi, nên chưa dám nói với con. Khi nói ra thì xin bác sĩ 'viết giúp tôi là khỏe'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà sắp có dự định gì, đi xa không, cần giấy tờ gì, hoặc hỏi bà còn lo điều gì khác ngoài mỡ máu.",
+     "k": 1,
+     "y": "Động cơ thật: xin giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, dáng gầy nhẹ, BMI 21,3, vòng eo 78 cm. Da khô theo tuổi, không phù, không vàng da.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân sờ được, không hạch cổ. Mạch cảnh hai bên rõ, không âm thổi.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Có vòng cung giác mạc (arcus) hai mắt, không ban vàng mí mắt. Ở tuổi 82 dấu này không có giá trị chỉ điểm tăng cholesterol (QĐ 3879/2014 III.1.1: thường có giá trị với người dưới 50 tuổi).",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban vàng, không u vàng gân, không u vàng củ khuỷu và gối.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Thở đều 18 l/p, lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn nhẹ thượng vị hơi khó chịu, không đau khu trú, gan lách không to, không phản ứng thành bụng.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch mu chân, chày sau bắt rõ hai bên, không âm thổi động mạch đùi và cảnh.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù. Hai gối hơi to bản, lạo xạo khi gập duỗi.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Gối hai bên đau nhẹ khi ấn khe khớp, không nóng đỏ, tầm vận động gần đủ.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5 hai bên, đứng dậy khỏi ghế không cần chống tay.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, nói rõ, không liệt mặt, không liệt tay chân, phản xạ cân đối.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/82, đứng sau 3 phút 132/80 mmHg, không chóng mặt.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 7,2 · LDL-C 4,5 · HDL-C 1,4 · TG 2,0 mmol/L (lấy máu sau bữa sáng nhẹ, không nhịn đói)",
+     "ab": 1,
+     "n": "Chẩn đoán RLLM khi LDL-C > 2,58 hoặc cholesterol > 5,2 mmol/L (QĐ 3879/2014 III.2). Mẫu không đói: TG thường cao hơn khoảng 0,3 mmol/L, ít ý nghĩa lâm sàng, nhiều hướng dẫn chấp nhận (ESC/EAS 2019 mục 5.4.3); QĐ 3879/2014 III.2 đề nghị lấy lúc đói."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,4 mIU/L · FT4 trong giới hạn bình thường",
+     "n": "Suy giáp là nguyên nhân thứ phát của RLLM (QĐ 3879/2014 II.2; ESC/EAS 2019 mục 9.2 nhắc suy giáp là bệnh cảnh phối hợp gây rối loạn lipid). Loại trừ trước khi dùng thuốc."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 80 µmol/L · eGFR 63 mL/ph/1,73m²",
+     "n": "Bệnh thận là nguyên nhân thứ phát (QĐ 3879/2014 II.2) và quyết định khởi liều thấp ở người có suy thận (ESC/EAS 2019 mục 9.3.2)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose máu 5,3 mmol/L (sau bữa sáng nhẹ)",
+     "n": "Đái tháo đường là nguyên nhân thứ phát (QĐ 3879/2014 II.2)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 20 U/L",
+     "n": "ALT trước khi dùng statin (ESC/EAS 2019 Bảng 13)."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Protein âm tính · Glucose âm tính",
+     "n": "Hội chứng thận hư là nguyên nhân thứ phát (QĐ 3879/2014 II.2); chấp nhận."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "HbA1c 5,7%",
+     "n": "Chấp nhận nếu không có glucose; không bắt buộc."
+    },
+    "uacr": {
+     "v": "a",
+     "r": "UACR 12 mg/g",
+     "n": "Tìm tổn thương thận, không bắt buộc ở lượt này."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 76 l/p, trục bình thường, không sóng Q bệnh lý, không thay đổi ST-T.",
+     "n": "Không đau ngực: không bắt buộc; làm để trấn an vì đầy bụng sau ăn."
+    },
+    "lpa": {
+     "v": "a",
+     "r": "Lp(a) 22 mg/dL",
+     "n": "ESC/EAS 2019 Key message 5: đo một lần trong đời; ESC/EAS 2025 và ACC/AHA 2026 cùng khuyến cáo đo ít nhất một lần. Không ảnh hưởng quyết định ở bà."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,2 G/L · Hb 128 g/L · TC 245 G/L",
+     "n": "Chấp nhận, không đổi xử trí."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 98 U/L",
+     "n": "CK nền không bắt buộc; đo khi có đau cơ hoặc yếu cơ (ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 4.2.11 KC 1)."
+    },
+    "trop": {
+     "n": "Không đau ngực, ECG bình thường; triệu chứng chỉ là đầy bụng sau ăn nhiều đạm."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm. Siêu âm gan tìm gan nhiễm mỡ không đổi xử trí lượt này."
+    },
+    "echo": {
+     "n": "Cơ sở không có siêu âm; không có triệu chứng tim."
+    },
+    "abi": {
+     "n": "Không đau cách hồi, mạch ngoại biên rõ; không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu tăng cholesterol (LDL-C 4,5 mmol/L) ở người 82 tuổi, chưa có bệnh tim mạch xơ vữa, nghi do ăn uống, đã loại trừ suy giáp; đầy bụng sau ăn nhiều đạm",
+     "ok": 1,
+     "n": "LDL-C 4,5, cholesterol TP 7,2 mmol/L (QĐ 3879/2014 III.2); TSH bình thường; không đái tháo đường, thận, thuốc."
+    },
+    {
+     "t": "RL lipid thứ phát do suy giáp",
+     "n": "TSH 2,4, FT4 bình thường, không triệu chứng suy giáp (QĐ 3879/2014 II.2)."
+    },
+    {
+     "t": "RL lipid thứ phát do đái tháo đường, bệnh thận, hội chứng thận hư, thuốc",
+     "n": "Glucose 5,3, HbA1c 5,7%, creatinin 80, protein niệu âm tính, không dùng corticoid, thiazid, thuốc nội tiết (QĐ 3879/2014 II.2)."
+    },
+    {
+     "t": "Tăng cholesterol máu gia đình",
+     "n": "LDL-C 4,5 dưới 4,9 mmol/L, không u vàng, không bệnh tim mạch sớm trong gia đình (chồng đột quỵ 70 tuổi không tính); vòng cung giác mạc ở 82 tuổi không có giá trị (QĐ 3879/2014 III.1.1)."
+    },
+    {
+     "t": "Hội chứng vành cấp / cơn thiếu máu não thoáng qua",
+     "n": "Đầy bụng chỉ 2 ngày sau bữa ăn nhiều, hết dần; không đau ngực, không triệu chứng thần kinh, ECG bình thường."
+    },
+    {
+     "t": "Tăng lipid thoáng qua do bữa ăn nhiều đạm và mỡ",
+     "n": "Chỉ làm tăng TG nhẹ, ít đổi LDL-C (ESC/EAS 2019 mục 5.4.3); LDL-C cao kéo dài cần kiểm lại lúc đói sau điều trị khoảng 8 tuần (ESC/EAS 2019 Bảng 13)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Trấn an có cấu trúc: đầy bụng là do bữa cỗ, không phải tai biến; giải thích LDL-C cao là yếu tố nguy cơ chứ không phải bệnh sắp xảy ra",
+     "v": "c",
+     "n": "Nhiễu 'sợ hãi quá mức': trả lời một lần, rõ, kèm kế hoạch cụ thể; không dùng xét nghiệm hình ảnh để chiều lòng."
+    },
+    {
+     "t": "Hỏi thẳng dự định sắp tới, nhận ra bà cần giấy chứng nhận sức khỏe để đi hành hương; giải thích giấy ghi trung thực bệnh đang điều trị và thuốc đang dùng",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03 (TL-0668): người từ đủ 18 tuổi, phần 'Câu hỏi khác' liệt kê bệnh và thuốc đang dùng, có phân loại sức khỏe. Tài liệu đã tải không có điều khoản cấp giấy khi phát hiện RLLM nên ca ghi theo mẫu; ghi 'bình thường' sai sự thật chấm w (đã có trong sổ mâu thuẫn)."
+    },
+    {
+     "t": "Cùng bà cân nhắc lợi hại thuốc hạ lipid: bắt đầu atorvastatin liều thấp, hoặc thay đổi lối sống 2–3 tháng rồi mới dùng thuốc nếu chưa đạt",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.8.3 KC 2 (COR 2b, B-NR): trên 75 tuổi, kỳ vọng sống ≥ 2,5 năm, hợp lý khởi statin cường độ vừa sau thảo luận; KC 1 (COR 1): cân nhắc ưu tiên, chức năng, bệnh kèm, kỳ vọng sống. ESC/EAS 2019 Key message 10: cân nhắc theo mức nguy cơ và LDL-C nền, bắt đầu liều thấp. QĐ 3879/2014 IV.4: lối sống 2–3 tháng không đạt thì dùng thuốc. Hai cách khác nhau theo năm và bối cảnh, ca ghi cả hai (mục sổ MT-0425 mục 1, đọc lại theo quy tắc 12/10/2026)."
+    },
+    {
+     "t": "Atorvastatin 10 mg × 1 lần/ngày, kèm lối sống",
+     "v": "a",
+     "n": "Là nhánh dùng thuốc của mục trên; ca chọn nhánh này làm đường đi lượt 2. Liều 10–20 mg (QĐ 3879/2014 IV.4.1)."
+    },
+    {
+     "t": "Làm TSH, creatinin, glucose, ALT trước khi dùng thuốc",
+     "v": "c",
+     "n": "QĐ 3879/2014 II.2 (nguyên nhân thứ phát); ESC/EAS 2019 Bảng 13 (ALT trước điều trị)."
+    },
+    {
+     "t": "Tư vấn lối sống: bớt mỡ động vật, lòng đỏ trứng, tôm; thêm rau, dầu thực vật, cá; đi bộ đều theo sức",
+     "v": "c",
+     "n": "QĐ 3879/2014 IV.2–IV.3: vận động 30–45 phút/ngày, 5 ngày/tuần tùy sức khỏe; hạn chế mỡ bão hòa, cholesterol. Mức vận động cho người 82 tuổi: tài liệu đã tải không có số riêng."
+    },
+    {
+     "t": "Hẹn tái khám sau khoảng 8 tuần, lấy máu lúc đói đo lipid và ALT",
+     "v": "c",
+     "n": "ESC/EAS 2019 Bảng 13: lipid 8 (± 4) tuần sau khi bắt đầu điều trị; ALT một lần 8–12 tuần. QĐ 3879/2014 III.2: lấy máu lúc đói."
+    },
+    {
+     "t": "Giải thích paracetamol cho đau gối: tối đa dưới 3 g/ngày, không tự thêm thuốc giảm đau khác",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286): acetaminophen 0,5 g × 2–4 viên/24 giờ; người cao tuổi dưới 3 g/ngày theo mục sẵn có trong sổ (QĐ 361 Phụ lục NSAID mục 3.3)."
+    },
+    {
+     "t": "Lấy lipid đói lần hai rồi mới quyết thuốc",
+     "v": "a",
+     "n": "ESC/EAS 2019 Bảng 13: trước khi dùng thuốc cần ít nhất 2 lần đo cách nhau 1–12 tuần, trừ ca cần điều trị gấp. Chấp nhận khi bà chưa sẵn sàng; không có nguồn nào nói cách này gây hại."
+    },
+    {
+     "t": "Chụp CT mạch máu, CT sọ não hoặc gửi đi siêu âm động mạch cảnh cho chắc",
+     "v": "w",
+     "n": "Không triệu chứng thần kinh/tim; tài liệu đã tải không đưa hình ảnh mạch vào xử trí RLLM thường quy ở người chưa bệnh tim mạch xơ vữa. Cơ sở không có siêu âm."
+    },
+    {
+     "t": "Statin liều cao (atorvastatin 40–80 mg) ngay",
+     "v": "w",
+     "n": "Người 82 tuổi chưa có bệnh tim mạch xơ vữa: bằng chứng chỉ ủng hộ cường độ vừa (ACC/AHA 2026 mục 4.2.8.3 KC 2); ESC/EAS 2019 mục 9.3.2 khuyên bắt đầu liều thấp khi có nguy cơ tương tác hoặc suy thận."
+    },
+    {
+     "t": "Cấp giấy 'sức khỏe bình thường, không bệnh' để bà đi hành hương",
+     "v": "w",
+     "n": "Ghi sai sự thật so với mẫu giấy (TT 25/2026 Phụ lục XXIV Mẫu 03)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu tăng cholesterol (LDL-C 4,5; cholesterol TP 7,2 mmol/L), bệnh nhân 82 tuổi, chưa có bệnh tim mạch xơ vữa",
+     "Đã loại trừ suy giáp (TSH 2,4 mIU/L) và các nguyên nhân thứ phát khác",
+     "Đầy bụng thoáng qua sau bữa ăn nhiều đạm và mỡ, không có dấu hiệu cấp",
+     "Nhu cầu thật: giấy chứng nhận sức khỏe cho chuyến hành hương; nỗi sợ tai biến quá mức"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: lý do khám, khởi phát (bữa cỗ), triệu chứng tim mạch và thần kinh (loại trừ bệnh xơ vữa đã có), triệu chứng suy giáp, nguyên nhân thứ phát (đái tháo đường, thận, thuốc), thuốc đang dùng, gia đình, chức năng, rồi hỏi thẳng dự định sắp tới để ra lý do thật.",
+     "Chẩn đoán RLLM khi LDL-C > 2,58 hoặc cholesterol > 5,2 mmol/L (QĐ 3879/2014 III.2). Ở bà LDL-C 4,5 (174 mg/dL), dưới ngưỡng 4,9 mmol/L của nhóm LDL-C rất cao (ESC/EAS 2025 Bảng 3).",
+     "Mẫu lấy khi không nhịn đói: TG hơi cao nhưng LDL-C ít đổi; nhiều hướng dẫn chấp nhận mẫu không đói (ESC/EAS 2019 mục 5.4.3) trong khi QĐ 3879/2014 III.2 đề nghị lúc đói. Vì vậy cần đo lại lúc đói sau điều trị (ESC/EAS 2019 Bảng 13).",
+     "Loại suy giáp trước khi dùng thuốc: TSH, FT4 bình thường nên RLLM không do suy giáp (QĐ 3879/2014 II.2). Cùng kiểm glucose, creatinin, protein niệu cho các nguyên nhân thứ phát.",
+     "Công cụ tính nguy cơ: ACC/AHA 2026 mục 4.2.3 dùng PREVENT cho tuổi 30–79 (không áp dụng cho bà 82 tuổi); ESC/EAS 2025 Bảng 3 dùng SCORE2-OP cho tuổi 70–89; công cụ tính không có trong tài liệu đã tải nên ca không đưa con số nguy cơ 10 năm.",
+     "Áp dụng bằng chứng: người trên 75 tuổi bị loại khỏi phần lớn RCT; chỉ 8% người tham gia thử nghiệm statin trên 75 tuổi, chưa thấy giảm tử vong chung (ESC/EAS 2019 mục 9.3.1; ACC/AHA 2026 mục 4.2.8.3). Vì vậy quyết định dựa trên thảo luận với người bệnh."
+    ],
+    "phan_tich_xu_tri": [
+     "Hai cách đều đúng. Bắt đầu statin cường độ vừa sau thảo luận (ACC/AHA 2026 mục 4.2.8.3 KC 2, COR 2b; ESC/EAS 2019 Key message 10, bắt đầu liều thấp) hoặc thay đổi lối sống 2–3 tháng rồi mới dùng thuốc nếu chưa đạt (QĐ 3879/2014 IV.4). Ca đi theo nhánh dùng thuốc vì bà chấp nhận thuốc liều thấp.",
+     "Atorvastatin 10 mg: nằm trong khoảng 10–20 mg của QĐ 3879/2014 IV.4.1, cường độ vừa, kỳ vọng giảm LDL-C 30–49% (ACC/AHA 2026 mục 4.2.3, định nghĩa cường độ vừa). Mục tiêu hạ lipid cụ thể cho người trên 75 tuổi chưa bệnh xơ vữa: không có số riêng trong tài liệu đã tải.",
+     "Hẹn lại khoảng 8 tuần: lipid đói và ALT (ESC/EAS 2019 Bảng 13). Không đo CK thường quy; đo khi đau cơ hoặc yếu cơ (Bảng 13; ACC/AHA 2026 mục 4.2.11 KC 1). Ghi nhận trước thuốc: đau gối là đau khớp, sức cơ bình thường.",
+     "Giấy chứng nhận sức khỏe: ghi trung thực bệnh và thuốc đang dùng theo Mẫu số 03 (TT 25/2026 Phụ lục XXIV, TL-0668).",
+     "Không làm: CT mạch máu, chụp đầu, siêu âm động mạch cảnh; cơ sở không có siêu âm và không có chỉ định."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài; kiểm tra lipid và ALT sau khoảng 8 tuần",
+      "ghi_chu": "QĐ 3879/2014 IV.4.1: 10–20 mg/ngày, tối đa 80 mg; bắt đầu liều thấp ở người cao tuổi (ESC/EAS 2019 mục 9.3.2). Tác dụng phụ: tăng men gan, men cơ, thêm ở người già hoặc dùng nhiều thuốc (QĐ 3879/2014 IV.4.1). Giờ uống trong ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên/lần, 2–3 lần/ngày khi đau gối",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Khi đau; số ngày tối đa không có trong tài liệu đã tải",
+      "ghi_chu": "Giữ liều đang dùng, dưới 3 g/ngày ở người cao tuổi (QĐ 361/2014; mục sổ mâu thuẫn). Không tự thêm thuốc giảm đau khác."
+     }
+    ],
+    "dan_do": [
+     "Đầy bụng do bữa cỗ sẽ tự hết; hiện không có dấu hiệu tai biến. Nếu méo miệng, yếu liệt tay chân, nói khó, đau ngực hoặc khó thở đột ngột thì gọi cấp cứu ngay.",
+     "Uống atorvastatin mỗi ngày một viên vào một giờ cố định; đau cơ nhiều, yếu cơ, nước tiểu sẫm màu thì báo bác sĩ trước khi tự ngưng (ESC/EAS 2019 Bảng 13: đo CK khi đau cơ).",
+     "Ăn bớt mỡ động vật, lòng đỏ trứng, tôm; thêm rau, dầu thực vật, cá; đi bộ đều theo sức (QĐ 3879/2014 IV.2–IV.3).",
+     "Tái khám sau khoảng 8 tuần, sáng sớm nhịn đói để lấy máu đo lipid và ALT (ESC/EAS 2019 Bảng 13).",
+     "Giấy chứng nhận sức khỏe sẽ ghi bệnh và thuốc đang dùng; hỏi công ty du lịch về yêu cầu cụ thể trước khi quyết định đi."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 8 tuần",
+   "tiep_don": "Bà Lụa tái khám sau 8 tuần, đi cùng con gái. Bà nói 'uống thuốc rồi mà mỡ vẫn không giảm, hay là thuốc không hợp'. Sinh hiệu: HA 134/80 mmHg, mạch 74 l/p, cân nặng 48 kg. Lipid đói sáng nay: LDL-C 4,2 mmol/L (trước 4,5). Cơ sở không có siêu âm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Lụa nhập viện để tìm 'vì sao thuốc không có tác dụng', dù tình trạng ổn, không triệu chứng, ALT bình thường. Nằm viện ở tuổi 82 gây lo lắng và mất ngủ, còn nguyên nhân thực sự là uống thuốc không đều vì sợ tác dụng phụ, một việc chỉ cần hỏi kỹ, đếm viên và giải thích tại phòng khám (ESC/EAS 2019 mục 9.3.2). Bà càng tin thuốc nguy hiểm.",
+    "chuyen_tuyen": "Bà Lụa được chuyển lên chuyên khoa lipid hoặc làm thêm xét nghiệm gen, CT mạch máu vì 'không đáp ứng thuốc'. Mới dùng 8 tuần, uống không đều, LDL-C chỉ giảm nhẹ nên chưa thể gọi là kháng thuốc; bước đầu tiên là tìm nguyên nhân tuân thủ, kiểm TSH và ALT (ESC/EAS 2019 Bảng 13; QĐ 3879/2014 II.2). Bà tốn kém, mệt, và được xếp vào 'bệnh nặng' làm nỗi sợ tăng thêm.",
+    "theo_doi": "Bà Lụa chỉ được dặn 'cứ uống tiếp' mà không hỏi cách uống, không đếm viên, không giải thích. Bà tiếp tục uống cách ngày vì sợ hại gan, LDL-C vẫn cao, và nghĩ 'thuốc không hợp' nên có thể bỏ hẳn thuốc ở lần sau. Cần hẹn lại sau 8 tuần để kiểm lipid khi đã điều chỉnh cách dùng (ESC/EAS 2019 Bảng 13: 8 ± 4 tuần sau mỗi điều chỉnh)."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi uống thuốc mà mỡ vẫn cao, tôi lo quá. Hay là thuốc này không hợp với tôi? Con Lan nó đọc trên mạng nói phải chụp mạch máu xem sao.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "134/80",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "Uống thuốc 8 tuần mà mỡ vẫn cao, lo thuốc không hợp. Con gái đọc trên mạng bảo chụp mạch máu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bà uống thuốc 'khi nhớ', khoảng cách hai đến ba ngày một viên vì sợ hại gan. Hộp 28 viên mua cách 8 tuần còn 20 viên. Không ngưng hẳn, không tự mua thuốc khác.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể bà uống thuốc thế nào mỗi ngày, có quên hay bỏ ngày nào không, hoặc nhờ bà mang hộp thuốc ra đếm viên. Hỏi chung 'bà uống thuốc đều không' thì bà đáp 'có uống'.",
+     "k": 1,
+     "y": "Nguyên nhân thất bại: dùng không đều"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Không đau cơ, không yếu chân, không vàng da, không nước tiểu sẫm màu, không lú lẫn. Đầy bụng đã hết từ sau lượt trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tìm tác dụng phụ thật của thuốc"
+    },
+    {
+     "id": "loi_song2",
+     "noi_dung": "Ăn ít mỡ hơn, bớt lòng đỏ trứng, thêm rau. Đi bộ buổi sáng 20 phút. Cân nặng không đổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ lối sống"
+    },
+    {
+     "id": "suy_giap2",
+     "noi_dung": "Không có triệu chứng suy giáp mới: không sợ lạnh, không tăng cân, không táo bón nặng, không chậm chạp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân thứ phát xuất hiện sau"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Vẫn chỉ dùng paracetamol 500 mg, 1 viên, 2 lần mỗi ngày khi đau gối. Không uống thuốc bắc, thuốc khác, không bưởi hay nước ép bưởi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tương tác thuốc"
+    },
+    {
+     "id": "nhan_giay",
+     "noi_dung": "Chuyến hành hương sắp đến, hướng dẫn viên đã gọi nhắc xin giấy.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Sợ 'mạch máu tắc' vì mỡ không giảm. Sợ thuốc hại gan nên uống thưa. Nếu được giải thích cách theo dõi men gan thì bà đồng ý uống đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Gốc rễ của việc dùng thuốc không đều"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy nhẹ, cân nặng không đổi 48 kg, không vàng da, không phù.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5 hai bên, ấn cơ đùi và bắp chân không đau.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan không to.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 6,9 · LDL-C 4,2 · HDL-C 1,4 · TG 1,5 mmol/L (lấy máu lúc đói)",
+     "ab": 1,
+     "n": "LDL-C chỉ giảm khoảng 7%, dưới mức 30–49% của statin cường độ vừa (ACC/AHA 2026 mục 4.2.3, định nghĩa cường độ vừa). Đánh giá đáp ứng sau 8 (± 4) tuần (ESC/EAS 2019 Bảng 13); phải xét tuân thủ trước khi kết luận thất bại thuốc."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 22 · ALT 18 U/L",
+     "n": "ALT một lần 8–12 tuần sau khi bắt đầu thuốc (ESC/EAS 2019 Bảng 13); ALT bình thường giúp trấn an."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "TSH 2,5 mIU/L",
+     "n": "Lặp lại để chắc không có suy giáp xuất hiện sau, khi LDL-C không giảm như kỳ vọng; không bắt buộc vì lượt 1 đã bình thường."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 90 U/L",
+     "n": "Không đau cơ, sức cơ bình thường: không cần (ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 4.2.11 KC 1)."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Creatinin 82 µmol/L · eGFR 61 mL/ph/1,73m²",
+     "n": "Không đổi so với lượt 1."
+    },
+    "lpa": {
+     "n": "Đã đo ở lượt 1 hoặc không bắt buộc; không đổi xử trí."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm; ALT bình thường, không cần."
+    },
+    "echo": {
+     "n": "Không có triệu chứng tim, cơ sở không có siêu âm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu tăng cholesterol ở người 82 tuổi, chưa đáp ứng điều trị do dùng atorvastatin không đều vì sợ tác dụng phụ",
+     "ok": 1,
+     "n": "LDL-C 4,2 (giảm khoảng 7%), uống cách 2–3 ngày, đếm viên còn dư; ALT, CK bình thường; không đau cơ."
+    },
+    {
+     "t": "Statin không hiệu quả (kháng thuốc, đề kháng)",
+     "n": "Chưa thể kết luận: 8 tuần, uống không đều; phải đạt tuân thủ rồi đánh giá lại sau 8 ± 4 tuần (ESC/EAS 2019 Bảng 13)."
+    },
+    {
+     "t": "Suy giáp xuất hiện sau (nguyên nhân thứ phát)",
+     "n": "Không triệu chứng; TSH 2,5 bình thường (QĐ 3879/2014 II.2)."
+    },
+    {
+     "t": "Tác dụng phụ thật của statin (độc gan, bệnh cơ)",
+     "n": "ALT 18, CK 90, không đau cơ, sức cơ 5/5 (ESC/EAS 2019 Bảng 13)."
+    },
+    {
+     "t": "Tương tác thuốc làm giảm tác dụng",
+     "n": "Chỉ dùng paracetamol, không thuốc bắc, không bưởi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể cách uống thuốc, đếm viên; nhận ra uống thưa vì sợ hại gan",
+     "v": "c",
+     "n": "Quy trình thất bại điều trị: kiểm tra tuân thủ trước khi tăng thuốc; ESC/EAS 2019 mục 9.3.2 nêu tuân thủ ở người lớn tuổi là một vấn đề riêng."
+    },
+    {
+     "t": "Giải thích kết quả ALT và CK bình thường, cách theo dõi, cam kết uống mỗi ngày; nhờ con gái nhắc, dùng hộp chia ngày",
+     "v": "c",
+     "n": "ALT chỉ đo một lần sau 8–12 tuần, không theo dõi thường quy nếu không có triệu chứng gan (ESC/EAS 2019 Bảng 13). Hộp chia ngày: tài liệu đã tải không có."
+    },
+    {
+     "t": "Giữ nguyên atorvastatin 10 mg × 1 lần/ngày, uống mỗi ngày; không tăng liều ngay",
+     "v": "c",
+     "n": "Chưa dùng đủ liều đều; tăng liều/đổi thuốc/thêm thuốc khi đã tuân thủ mà chưa đạt (ESC/EAS 2019 Bảng 13: kiểm 8 ± 4 tuần sau điều chỉnh)."
+    },
+    {
+     "t": "Tăng atorvastatin lên 20 mg hoặc thêm ezetimib ngay",
+     "v": "a",
+     "n": "ACC/AHA 2026 mục 4.2.5 KC 5: thêm ezetimib/PCSK9 khi đã dùng statin liều tối đa dung nạp mà chưa đạt; ESC/EAS 2019 mục 9.4.2.1 (ezetimib giảm thêm khoảng 24%). Chấp nhận, nhưng chưa tuân thủ nên chưa phải bước đầu."
+    },
+    {
+     "t": "Hẹn tái khám sau 8 tuần, lipid đói và ALT; trấn an bằng kế hoạch rõ ràng",
+     "v": "c",
+     "n": "ESC/EAS 2019 Bảng 13: lipid 8 (± 4) tuần sau điều chỉnh; một năm một lần khi đã đạt, sớm hơn nếu có vấn đề tuân thủ."
+    },
+    {
+     "t": "Giữ lối sống đã làm; trả lời lại nỗi sợ 'tắc mạch' một lần, không chụp mạch",
+     "v": "c",
+     "n": "Nhiễu 'sợ hãi quá mức': không có xét nghiệm hình ảnh chiều lòng; cơ sở không có siêu âm."
+    },
+    {
+     "t": "Hoàn thiện giấy chứng nhận sức khỏe ghi trung thực RLLM đang điều trị atorvastatin 10 mg",
+     "v": "c",
+     "n": "TT 25/2026 Phụ lục XXIV Mẫu số 03 (TL-0668); không có điều khoản riêng cho trường hợp này trong tài liệu đã tải."
+    },
+    {
+     "t": "Đo CK, TSH lặp lại",
+     "v": "a",
+     "n": "Không có triệu chứng; không bắt buộc."
+    },
+    {
+     "t": "Ngưng statin vì 'không hợp'",
+     "v": "w",
+     "n": "Mới 8 tuần, uống không đều, không tác dụng phụ; không có căn cứ ngưng. Quyết định thôi thuốc phải dựa trên ưu tiên và nguy cơ của người bệnh (ACC/AHA 2026 mục 4.2.8.3 KC 1)."
+    },
+    {
+     "t": "Chụp CT mạch máu hoặc chuyển chuyên khoa lipid vì 'không đáp ứng'",
+     "v": "w",
+     "n": "Chưa đủ điều kiện gọi là kháng thuốc; không có chỉ định hình ảnh; cơ sở không có siêu âm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu tăng cholesterol, bệnh nhân 82 tuổi, chưa đáp ứng điều trị (LDL-C 4,5 xuống 4,2 mmol/L)",
+     "Nguyên nhân: dùng atorvastatin không đều vì sợ hại gan (tuân thủ kém)",
+     "Không có tác dụng phụ thật (ALT 18, CK 90, sức cơ bình thường); không có suy giáp xuất hiện sau (TSH 2,5)"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình thất bại điều trị: sai chẩn đoán (suy giáp, thứ phát), sai thuốc, không tuân thủ, tác dụng phụ, tương tác thuốc. Ở bà: uống cách 2–3 ngày, đếm viên còn dư (20/28); TSH, ALT, CK bình thường; không tương tác (QĐ 3879/2014 II.2; ESC/EAS 2019 Bảng 13).",
+     "LDL-C giảm khoảng 7% so với 30–49% kỳ vọng ở cường độ vừa (ACC/AHA 2026 mục 4.2.3, định nghĩa cường độ vừa) vì liều thực tế thấp hơn nhiều. Đánh giá sau 8 (± 4) tuần là mốc phù hợp (ESC/EAS 2019 Bảng 13).",
+     "Nỗi sợ tác dụng phụ (nhiễu 'sợ hãi quá mức') là gốc của việc dùng thuốc không đều; hỏi cụ thể cách uống mới ra, hỏi chung bà đáp 'có uống'."
+    ],
+    "phan_tich_xu_tri": [
+     "Không tăng thuốc khi chưa tuân thủ: giữ atorvastatin 10 mg, uống mỗi ngày; thêm ezetimib hoặc tăng liều chỉ khi đã tuân thủ mà chưa đạt (ACC/AHA 2026 mục 4.2.5 KC 5; ESC/EAS 2019 mục 9.4.2.1). Tăng liều hoặc thêm ezetimib ngay chấm chấp nhận.",
+     "Giải thích ALT, CK; hẹn lipid đói và ALT sau 8 tuần (ESC/EAS 2019 Bảng 13).",
+     "Không chụp mạch máu: không chỉ định, cơ sở không có siêu âm; trả lời nỗi sợ bằng số liệu của bà.",
+     "Hoàn thiện giấy chứng nhận sức khỏe ghi trung thực (TT 25/2026 Phụ lục XXIV Mẫu 03)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài; kiểm tra lipid đói và ALT sau 8 tuần",
+      "ghi_chu": "Giữ liều (QĐ 3879/2014 IV.4.1: 10–20 mg/ngày). Uống mỗi ngày, không uống cách ngày. Số viên cấp mỗi lần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên/lần, tối đa 2–3 lần/ngày khi đau gối",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Khi đau",
+      "ghi_chu": "Dưới 3 g/ngày ở người cao tuổi (QĐ 361/2014; mục sổ mâu thuẫn)."
+     }
+    ],
+    "dan_do": [
+     "Uống atorvastatin mỗi ngày một viên, đặt nhắc giờ; con gái kiểm tra hộp chia ngày hằng tuần.",
+     "Men gan và men cơ của bà bình thường; nếu đau cơ nhiều, yếu cơ, nước tiểu sẫm màu, vàng da thì báo bác sĩ trước khi tự ngưng thuốc.",
+     "Tái khám sau 8 tuần, sáng nhịn đói để đo lipid và ALT (ESC/EAS 2019 Bảng 13).",
+     "Tiếp tục ăn bớt mỡ động vật, tăng rau, đi bộ đều theo sức (QĐ 3879/2014 IV.2–IV.3).",
+     "Dấu hiệu đột quỵ (méo miệng, yếu liệt, nói khó) hoặc đau ngực: gọi cấp cứu ngay."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Lụa uống atorvastatin đều từ sau lượt 2, lipid đói tháng thứ 4 đạt LDL-C giảm rõ, không đau cơ, ALT bình thường. Tháng thứ 5 bà bị nhồi máu não ổ khuyết nhỏ ở bán cầu phải, yếu nhẹ tay trái, hồi phục gần hoàn toàn sau 3 tuần, đã nhỡ chuyến hành hương. Các quyết định đều đúng: ở người trên 75 tuổi, statin chỉ có chỉ định khá (COR 2b), thời gian để thấy lợi ích khoảng 2,5 năm, và chưa thấy giảm tử vong chung (ACC/AHA 2026 mục 4.2.8.3). Một biến cố sau khi xử trí đúng không chứng minh xử trí sai, và không phải lỗi của thuốc.",
+ "nhieu": [
+  "Đầy bụng sau bữa cỗ: nghĩ ngay tai biến hoặc nhồi máu cơ tim thì sai; không đau ngực, không triệu chứng thần kinh, ECG bình thường.",
+  "Vòng cung giác mạc ở 82 tuổi: không có giá trị chỉ điểm tăng cholesterol (QĐ 3879/2014 III.1.1).",
+  "Đau hai gối nền: ghi nhận trước thuốc để về sau không nhầm với đau cơ do statin."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi: bằng chứng RCT hạn chế, quyết định statin phải qua thảo luận ưu tiên, chức năng, bệnh kèm, kỳ vọng sống, không chỉ dựa tuổi (ACC/AHA 2026 mục 4.2.8.3 KC 1).",
+  "Lý do thật là cái giấy đi hành hương: hỏi dự định sắp tới; sợ 'khám ra bệnh' khiến người bệnh giấu lý do.",
+  "Sợ hãi quá mức: trả lời một lần, có kế hoạch; không dùng hình ảnh để chiều lòng; sợ cả bệnh lẫn thuốc nên dễ uống thưa.",
+  "Không đỡ ở lượt 2: chạy quy trình thất bại điều trị, kiểm tra tuân thủ trước khi tăng thuốc.",
+  "Xử trí đúng nhưng diễn tiến xấu: đánh giá quyết định theo dữ kiện lúc ra quyết định, không theo kết cục."
+ ],
+ "diem_nho": [
+  "RLLM khi LDL-C > 2,58 hoặc cholesterol > 5,2 mmol/L (QĐ 3879/2014 III.2).",
+  "Loại suy giáp và nguyên nhân thứ phát (đái tháo đường, thận, thuốc) trước khi dùng thuốc hạ lipid (QĐ 3879/2014 II.2).",
+  "Người trên 75 tuổi: statin cường độ vừa hợp lý sau thảo luận khi kỳ vọng sống ≥ 2,5 năm (ACC/AHA 2026 mục 4.2.8.3 KC 2); bắt đầu liều thấp (ESC/EAS 2019 mục 9.3.2).",
+  "Lipid 8 (± 4) tuần sau điều trị; ALT một lần 8–12 tuần; CK chỉ khi đau cơ (ESC/EAS 2019 Bảng 13)."
+ ],
+ "nguon": [
+  "BYT – QĐ 3879/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị bệnh nội tiết - chuyển hóa – TL-0039 – bài Rối loạn chuyển hóa lipid máu: mục II.2; III.1.1; III.2; IV.1–IV.4.1.",
+  "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia – TL-0292 – mục 4.2.8.3 (KC 1–4); mục 4.2.5 (KC 1, 5); mục 4.2.11 KC 1.",
+  "2019 ESC/EAS Guidelines for the management of dyslipidaemias – TL-0320 – mục 5.4.3; 9.3.1; 9.3.2; 9.4.2.1; Bảng 13; Key message 10.",
+  "2025 Focused Update of the 2019 ESC/EAS Guidelines – TL-0298 – Bảng 3 (nhóm nguy cơ SCORE2-OP).",
+  "BYT – TT 25/2026/TT-BYT, Phụ lục XXIV Mẫu số 03 (giấy khám sức khỏe người từ đủ 18 tuổi) – TL-0668.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – acetaminophen 0,5 g × 2–4 viên/24 giờ; Phụ lục NSAID mục 3.3 (theo mục sổ mâu thuẫn, chưa đọc lại)."
+ ],
+ "phien_ban_ca": "1 – nháp 16/10/2026",
+ "ghi_chu_bien_tap": [
+  "Viết ngày 16/10/2026. Tài liệu đã đọc: TL-0039 (bài RL chuyển hóa lipid máu), TL-0292 mục 4.2.8.3 và 4.2.5, TL-0320 mục 5.4.3, 9.3, Bảng 13, TL-0298 Bảng 3, TL-0668 Mẫu số 03, sổ mâu thuẫn (MT-0425, MT-0439, MT-1033).",
+  "Thiếu tài liệu: bảng khuyến cáo người cao tuổi của ESC/EAS 2019 (hình ảnh, bản chữ không có), công cụ SCORE2-OP, mục tiêu LDL-C riêng cho người trên 75 tuổi, giờ uống statin, số ngày paracetamol, mức vận động cho người 82 tuổi, quy định cấp giấy khám sức khỏe khi phát hiện bệnh.",
+  "Lượt 1: nhánh 'statin hoặc lối sống trước' gộp một mục c (quy tắc 12/10/2026); lượt 2 đi theo nhánh dùng thuốc."
+ ]
+}

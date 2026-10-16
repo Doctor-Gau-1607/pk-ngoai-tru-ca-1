@@ -1,0 +1,761 @@
+{
+ "ma_ca": "HH-1192",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình bản 3, nguồn kèm vị trí (2026-10-16)",
+ "benh": "HH_copd_dot_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COPD đợt cấp",
+  "chan_doan_phai_loai_tru": [
+   "Suy tim",
+   "Thuyên tắc phổi",
+   "Viêm phổi"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Thợ hồ",
+  "yeu_to_khoi_phat": "Sau sinh",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Lụa",
+  "tuoi": 42,
+  "gioi": "Nữ",
+  "nghe": "Phụ hồ, trộn vữa, khiêng xi măng ở các công trình nhà dân trong thị trấn; đi làm lại từ tuần thứ ba sau sinh",
+  "can_nang": 47,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'; chị xưng 'em', gọi bác sĩ là 'bác sĩ'. Chồng gọi chị là 'bà xã' hoặc 'nhà em', xưng 'tôi' với bác sĩ.",
+  "tinh_cach": "Nhanh nhẹn, chịu khó, nói nhanh, quen gồng gánh; sợ nghỉ ngày nào mất tiền công ngày đó. Ngại nói chuyện riêng tư (chuyện sinh con thêm) trước mặt chồng và người lạ. Quen tự mua thuốc ở tiệm, tin 'tiêm kháng sinh là mau khỏe'.",
+  "kieu_nhieu": "Đòi kháng sinh: vào phòng đã xin 'tiêm cho em mũi kháng sinh', bị từ chối thì nài ('hồi giờ ho là em uống Augmentin hết liền'). Từ chối xét nghiệm: không rút máu, không chụp phim, chỉ chịu những gì 'không đau, không tia'. Không coi thuốc đau khớp mua ở tiệm là 'thuốc'. Nỗi lo thật chỉ lộ khi bác sĩ hỏi riêng.",
+  "nguoi_nha": "Chồng, anh Lê Văn Đạt, 45 tuổi, thợ hồ cùng đội, chở chị bằng xe máy cả hai lượt; nóng ruột, ủng hộ chuyện 'tiêm cho mau để đi làm'. Anh biết chị ho, khó thở, chóng mặt, mệt từ sau sinh; không biết chị uống thuốc đau khớp, không biết nỗi lo chị giấu (vợ chồng và mẹ chồng muốn có thêm một bé trai). Anh trả lời thay khi hỏi sinh hoạt, công việc (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Anh Đạt (chồng)",
+  "ngoai_hinh": {
+   "da": "#c8946e",
+   "toc": "#1f1a17",
+   "kieuToc": "bui",
+   "ao": "#6d7f8f",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#b98259",
+    "toc": "#25201c",
+    "kieuToc": "ngan",
+    "ao": "#8a7a5c",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho, khó thở tăng 4 ngày, mới sinh 5 tuần",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Phạm Thị Lụa, 42 tuổi, phụ hồ, chồng chở đến vì ho, khó thở tăng 4 ngày, mới sinh con thứ ba cách đây 5 tuần, đang cho con bú. Chị đã được chẩn đoán bệnh phổi, mang sổ khám. Sinh hiệu: nhiệt độ 37,0 °C, mạch 96 l/p, HA 114/70 mmHg, nhịp thở 22 l/p, SpO₂ 94% khí trời, cân nặng 47 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Lụa thở 22 l/p, SpO₂ 94% khí trời, nói được câu ngắn, không tím, không rối loạn tri giác: chưa có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.1: đợt cấp nhẹ điều trị ngoại trú; mục 3.4.2). Nhập viện làm chị xa bé 5 tuần tuổi đang bú, mất tiền công nhiều ngày; nỗi sợ 'vô viện bị rút máu, chụp tia' dễ khiến chị bỏ về giữa chừng.",
+    "chuyen_tuyen": "Chuyển chị lên tuyến tỉnh ngay khi chưa có dấu hiệu nặng là quá mức: đợt cấp nhẹ có thể điều trị ngoại trú với thuốc giãn phế quản (QĐ 2131/2026 mục 3.4.1, 3.4.3; GOLD 2026 tr. 97). Chị tốn chi phí, thời gian đi xa, mất niềm tin vì thấy bị 'đẩy đi', dễ không tuân thủ chuyển viện, trong khi phòng khám làm được siêu âm, điện tim và dặn dò đầy đủ."
+   },
+   "loi_mo": "Bác sĩ ơi, em ho với khó thở mấy bữa nay, bác sĩ tiêm cho em mũi kháng sinh cho mau khỏi, mai em còn đi làm. Hồi giờ em ho là uống Augmentin hết liền hà.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "114/70",
+    "nhiet": "37,0",
+    "nhip_tho": 22,
+    "spo2": 94,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho, khó thở tăng 4 ngày. Vào phòng là xin ngay 'mũi kháng sinh cho mau khỏi' để mai còn đi làm và còn bồng con.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, mong muốn (đòi kháng sinh)"
+    },
+    {
+     "id": "copd_nen",
+     "noi_dung": "Năm ngoái (2025) khám ở bệnh viện tỉnh vì ho khò khè kéo dài, đo hô hấp ký: tắc nghẽn không hồi phục, FEV1/FVC 0,62 sau test giãn phế quản, FEV1 khoảng 58% (có phiếu kết quả trong sổ khám bệnh, chị mang theo). Được chẩn đoán bệnh phổi tắc nghẽn mạn tính, kê ống hít giãn phế quản tác dụng dài mỗi sáng. Chưa nhập viện, chưa có đợt cấp rõ trong năm trước.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi có bệnh phổi, bệnh nền, đã đo hô hấp ký, đã khám phổi ở đâu chưa; hoặc hỏi đang dùng ống hít, thuốc xịt gì.",
+     "k": 1,
+     "y": "COPD đã chẩn đoán bằng hô hấp ký (nền cho chẩn đoán đợt cấp)"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Có thai ở tuần thứ 8 thì chị bỏ ống hít 'sợ thuốc xịt vô phổi ảnh hưởng thai', suốt thai kỳ không dùng. Từ khi sinh đến nay vẫn chưa dùng lại vì đang cho con bú.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi ống hít còn dùng đều không, ngưng từ khi nào, vì sao.",
+     "k": 1,
+     "y": "Ngưng thuốc duy trì (yếu tố khởi phát đợt cấp)"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Từ 4 ngày nay ho nhiều hơn, khò khè, đờm trắng trong, nhiều hơn thường ngày (khoảng nửa chén mỗi sáng, trước chỉ 1–2 muỗng). Khó thở hơn: bưng xô vữa lên cầu thang giàn giáo phải dừng hai lần, nói liền câu dài thì hụt hơi. Không sốt, không rét run, không đau ngực, không ho ra máu. Ngủ được, kê hai gối vì ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tăng khó thở, tăng lượng đờm, đờm không mủ, không sốt (tiêu chuẩn Anthonisen)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Sinh con thứ ba (bé gái) cách đây 5 tuần ở bệnh viện huyện, sinh thường. Nghỉ ở nhà 2 tuần rồi đi làm lại: trộn vữa, khiêng bao xi măng, quét bụi vôi. Gần đây gió lùa, công trình bụi mù. Ở nhà vẫn nấu bếp củi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau sinh; bụi xi măng, khói bếp củi"
+    },
+    {
+     "id": "tien_su_hut",
+     "noi_dung": "Không hút thuốc lá, thuốc lào. Từ nhỏ đến năm 22 tuổi nấu bếp củi, trấu ở quê; 15 năm nay làm phụ hồ, hít bụi xi măng, vôi hằng ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ COPD ở người không hút thuốc"
+    },
+    {
+     "id": "sinh_no",
+     "noi_dung": "Lúc sinh 'ra máu nhiều', y tá nói 'hơi nhiều', được tiêm thuốc co tử cung, không truyền máu. Sau sinh không ai xét nghiệm máu lại; chưa đi khám hậu sản 6 tuần. Sau sinh không được cho uống sắt hay bổ sung gì. Sản dịch còn hồng nhạt, ít.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi chuyện sinh nở: sinh thế nào, mất máu nhiều không, sau sinh có xét nghiệm hay uống bổ sung gì, sản dịch hiện giờ.",
+     "k": 1,
+     "y": "Mất máu khi sinh, chưa kiểm tra Hb, không bổ sung sắt"
+    },
+    {
+     "id": "thieu_mau_tc",
+     "noi_dung": "Mệt hơn mức ho thông thường, hơi hồi hộp khi bưng nặng. Không chóng mặt, không tối sầm khi đứng dậy. Chị cho là 'thiếu ngủ với mất sức sau sinh'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi có mệt dù không ho, hồi hộp, chóng mặt.",
+     "k": 1,
+     "y": "Mệt, hồi hộp nhẹ: gợi ý thiếu máu, không do COPD giải thích hết"
+    },
+    {
+     "id": "giam_dau",
+     "noi_dung": "Từ khi đi làm lại 3 tuần nay đau lưng, đau hai bàn tay, khớp vai. Mua ở tiệm thuốc đầu chợ vỉ 'thuốc đau xương khớp' (vỏ ghi meloxicam 7,5 mg), uống 2 viên mỗi sáng sau ăn, có hôm thêm 1 viên buổi chiều. Mang theo vỏ thuốc trong túi áo. Không coi là 'thuốc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'đang uống thuốc gì' thì chị nói 'không uống gì'. Chỉ kể khi hỏi riêng có uống thuốc giảm đau, đau xương khớp, mua ở tiệm không, hoặc xin xem túi thuốc.",
+     "k": 1,
+     "y": "Thuốc giảm đau khớp tự mua (NSAID) khi đang cho con bú"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Hai tuần nay nóng rát thượng vị sau ăn, ợ chua, ăn kém; chị tưởng 'nóng trong'. Phân vàng nâu bình thường, không đen, không nhão, không có máu. Không nôn ra máu.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi đau bụng, ợ chua, màu phân, phân đen.",
+     "k": 1,
+     "y": "Triệu chứng dạ dày; phân chưa đen (chưa chảy máu rõ)"
+    },
+    {
+     "id": "phoi_hut",
+     "noi_dung": "Chân không sưng đau, không nằm lâu; không khó thở khi nằm, không đau ngực kiểu màng phổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Âm tính với huyết khối tĩnh mạch sâu, suy tim"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Đang cho bé 5 tuần bú sữa mẹ hoàn toàn, sợ thuốc nào cũng 'vô sữa'. Không đồng ý rút máu ('mất thêm máu, mất sữa, yếu thêm') và không đồng ý chụp X-quang hay CT ('tia hại buồng trứng, hại tử cung'). Đồng ý đo điện tim, siêu âm tim, siêu âm phổi, đo SpO₂, khám bụng, khám hậu môn nếu được giải thích.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ đề nghị xét nghiệm máu hoặc chụp phim hoặc hỏi vì sao chị không muốn.",
+     "k": 1,
+     "y": "Từ chối rút máu, chụp phim; những gì chị chấp nhận"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Điều chị lo nhất: chị 42 tuổi, chồng và mẹ chồng muốn có thêm một bé trai; chị sợ bệnh phổi, thuốc xịt, thuốc 'steroid', tia X, rút máu làm 'hư tử cung', sau này khó có thai. Chị đến khám một phần để hỏi chuyện này nhưng ngại nói trước mặt chồng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ mời anh Đạt ra ngoài hoặc hỏi riêng chị đang lo điều gì nhất, có dự định sinh thêm không, hoặc hỏi lý do thật sự chị từ chối chụp phim, rút máu.",
+     "k": 1,
+     "y": "Lý do thật: lo khả năng sinh sản"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói được câu ngắn rồi lấy hơi. Gầy (BMI 20,1). Da hơi xanh, kết mạc mắt và lòng bàn tay hơi nhợt. Môi, đầu chi không tím.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 114/70 mmHg, mạch 90 l/p. Đứng 1 phút: HA 112/70 mmHg, mạch 100 l/p, không chóng mặt, không tối sầm.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, thở ra kéo dài, không co kéo cơ hô hấp phụ. Lồng ngực hơi căng, gõ vang nhẹ hai bên, rung thanh giảm nhẹ. Rì rào phế nang giảm nhẹ, ran rít lan tỏa hai phế trường thì thở ra, không ran nổ, không hội chứng đông đặc, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p, không co kéo cơ hô hấp phụ. Gõ vang nhẹ hai bên.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra."
+      },
+      {
+       "vi_tri": "Vùng giữa phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi, không T3. Tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù. Hai bắp chân mềm, không đau, chu vi hai bên bằng nhau, không giãn tĩnh mạch.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị, không phản ứng thành bụng, không khối. Gan, lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân trong găng màu vàng nâu, thành khuôn, không nhão, không mùi tanh khác thường, không máu.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi 30 m (qua hết hành lang) thì phải dừng lấy hơi. SpO₂ 94% → 91%, mạch 96 → 114 l/p, nhịp thở 22 → 28 l/p. Ngồi nghỉ 3 phút SpO₂ về 94%, mạch 108.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 96 l/p, trục trung gian, không S1Q3T3, không block nhánh phải, ST–T bình thường, không loạn nhịp.",
+     "n": "Rối loạn nhịp, dấu suy tim phải/trái là các biểu hiện điện tim cần tìm trong đợt cấp (QĐ 2131/2026 Bảng 3.1). Không có dấu hiệu tâm phế cấp gợi ý thuyên tắc phổi; điện tim bình thường không loại trừ được thuyên tắc phổi."
+    },
+    "sa_phoi": {
+     "v": "u",
+     "ab": 0,
+     "r": "Siêu âm phổi 6 vùng mỗi bên: đường A chiếm ưu thế, màng phổi trượt tốt, không đường B, không đông đặc dưới màng phổi, không tràn dịch.",
+     "n": "ATS 2025 khuyến cáo 1: siêu âm phổi là lựa chọn thay thế chấp nhận được cho X-quang ở nơi có người làm thành thạo (có điều kiện, chứng cứ thấp). Không đông đặc: không ủng hộ viêm phổi; ý nghĩa của đường B với suy tim: không có trong tài liệu đã tải."
+    },
+    "echo": {
+     "v": "u",
+     "ab": 0,
+     "r": "Siêu âm tim: thất trái không giãn, EF 62%, không rối loạn vận động vùng. Thất phải không giãn, TAPSE 22 mm, áp lực động mạch phổi ước tính bình thường. Không tràn dịch màng ngoài tim. Tĩnh mạch chủ dưới 14 mm xẹp > 50% theo nhịp thở.",
+     "n": "Siêu âm tim phát hiện giãn thất phải, tăng áp động mạch phổi (QĐ 2131/2026 Bảng 3.1). EF bình thường, thất phải không giãn: không ủng hộ suy tim, thuyên tắc phổi nặng; không loại trừ được thuyên tắc phổi nhỏ. Hướng dẫn về bệnh cơ tim chu sinh: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "u",
+     "ab": 1,
+     "r": "(Chị Lụa không đồng ý rút máu: 'mất thêm máu, mất sữa'. Đã ghi nhận từ chối.)",
+     "n": "Công thức máu phát hiện thiếu máu trong đợt cấp COPD (QĐ 2131/2026 Bảng 3.1); chẩn đoán thiếu máu dựa vào lâm sàng và HGB (QĐ 1832/2022, Thiếu máu mục 3.1). GOLD 2026 (tr. 124): nên đo hemoglobin. Chưa có kết quả: chỉ nghi, chưa xác nhận."
+    },
+    "crp": {
+     "v": "u",
+     "ab": 1,
+     "r": "(Chị Lụa không đồng ý rút máu.)",
+     "n": "CRP ≥ 10 mg/L là một tiêu chí Rome (GOLD 2026 tr. 93)."
+    },
+    "ddimer": {
+     "v": "u",
+     "ab": 1,
+     "r": "(Chị Lụa không đồng ý rút máu. Đã ghi nhận từ chối.)",
+     "n": "D-dimer là xét nghiệm để loại trừ thuyên tắc phổi khi xác suất không cao (ESC 2019, mục 4.4); QĐ 2131/2026 Bảng 3.1: D-dimer tăng gợi ý huyết khối tắc động mạch phổi. Chị từ chối nên thuyên tắc phổi chưa được loại trừ bằng xét nghiệm: phải bù bằng lâm sàng, theo dõi sát, dặn dấu hiệu nguy hiểm."
+    },
+    "cxr": {
+     "v": "u",
+     "ab": 1,
+     "r": "(Chị Lụa không đồng ý chụp: 'tia hại buồng trứng, tử cung'. Đã ghi nhận từ chối.)",
+     "n": "X-quang giúp phát hiện viêm phổi, tràn khí, tràn dịch màng phổi (QĐ 2131/2026 Bảng 3.1). Liều hiệu dụng toàn thân của một phim X-quang ngực là 0,1 mSv; liều ước tính cho thai < 0,01 mGy, cho mô vú < 0,1 mGy (ESC 2019 PE, Bảng 6 chú thích b, Bảng 12). Số liệu về buồng trứng/khả năng sinh sản: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt cấp COPD mức nhẹ theo Rome (chưa có CRP), ngày 4, yếu tố khởi phát: bụi xi măng, khói bếp củi, ngưng thuốc duy trì từ thai kỳ; kèm bệnh dạ dày do thuốc kháng viêm không steroid (meloxicam tự mua, đang cho con bú) và nghi thiếu máu sau sinh (chưa xác nhận do từ chối xét nghiệm)",
+     "ok": 1,
+     "n": "COPD có hô hấp ký (QĐ 2131/2026 mục 1.3.2); ho, khó thở, đờm tăng trong 14 ngày (GOLD 2026 tr. 92; QĐ 2131 mục 3.1, 3.3.3). Rome nhẹ: VAS 4, thở 22, mạch 96, SpO₂ 94% (GOLD 2026 tr. 93). Còn dữ kiện COPD không giải thích (GOLD 2026 tr. 94: khó thở nặng lên mà thiếu triệu chứng khác thì xem xét bệnh đồng mắc): da niêm hơi nhợt, mệt, hồi hộp, SpO₂ tụt khi đi, nóng rát thượng vị, meloxicam 3 tuần (QĐ 361/2014 Phụ lục NSAID mục 3.2: chống chỉ định tuyệt đối khi cho con bú), mất máu khi sinh."
+    },
+    {
+     "t": "Bệnh dạ dày do NSAID (meloxicam tự mua), nghi thiếu máu sau sinh",
+     "ok": 1,
+     "n": "Chẩn đoán thứ hai, cốt lõi của bẫy. NSAID 3 tuần, nóng rát thượng vị 2 tuần, nữ; NSAID gây viêm, loét dạ dày tá tràng (QĐ 361/2014 Phụ lục NSAID mục 1, 3.3). Thiếu máu: mất máu khi sinh, chưa từng kiểm Hb, da niêm hơi nhợt, mệt, hồi hộp (QĐ 1832/2022 Thiếu máu mục 3.1a); chưa xác nhận vì thiếu HGB (mục 3.1b). Chưa có dấu chảy máu rõ (phân vàng nâu, không chóng mặt tư thế) nhưng phải dặn dấu hiệu xuất huyết tiêu hóa."
+    },
+    {
+     "t": "Suy tim (kể cả bệnh cơ tim chu sinh)",
+     "n": "Không nghĩ: không phù, không tĩnh mạch cổ nổi, không khó thở khi nằm, phổi chỉ có ran rít, không ran ẩm; siêu âm tim EF 62%, thất phải không giãn, IVC xẹp; điện tim bình thường. Phân biệt COPD với suy tim ứ huyết dựa trên tiền sử, X-quang, BNP, siêu âm (QĐ 2131/2026 mục 1.3.3; Bảng 3.1). Sau sinh vẫn phải nghĩ tới: không có hướng dẫn về bệnh cơ tim chu sinh trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Chưa thể loại trừ bằng xét nghiệm vì chị từ chối D-dimer, CT. Nguy cơ nền có: hậu sản (ESC 2019 Bảng 3, nhóm nguy cơ trung bình OR 2–9), ra máu nhiều lúc sinh (ESC 2019 mục 9.1). PERC không áp dụng được: SpO₂ 94% không > 94% (ESC 2019 mục 4.3: cần SaO₂ > 94%, mạch < 100, và chỉ dùng khi xác suất lâm sàng thấp). Hướng nhẹ: có chẩn đoán thay thế hợp lý (COPD đợt cấp điển hình: rít, đờm tăng), không dấu huyết khối tĩnh mạch chân, không ho ra máu, siêu âm tim thất phải bình thường. Ghi nhận từ chối, dặn dấu hiệu nguy hiểm, hẹn tái khám 3 ngày."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không nghĩ: không sốt, không đờm mủ, không đau ngực kiểu màng phổi, không hội chứng đông đặc, siêu âm phổi không đông đặc (QĐ 2147/2026 mục 3.1.1; ATS 2025 khuyến cáo 1). Chưa có X-quang vì chị từ chối: theo dõi sát (khi sốt, đờm mủ, đau ngực thì chụp lại)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kê kháng sinh; giải thích rõ lý do và hẹn đánh giá lại",
+     "v": "c",
+     "n": "Chỉ dùng kháng sinh khi có đủ 3 triệu chứng chính (tăng khó thở, tăng lượng đờm, đờm mủ) hoặc đờm mủ kèm 1 trong 2 triệu chứng còn lại (QĐ 2131/2026 mục 3.4.3d); GOLD 2026 tr. 103: ít nhất 2 triệu chứng trong đó có đờm mủ, đã cấy đờm dương tính đợt trước, hoặc thở máy. Chị đờm trắng, không sốt nên không đủ."
+    },
+    {
+     "t": "Salbutamol xịt định liều 100 µg qua buồng đệm: 2–4 nhát mỗi 1 giờ cho 2–3 liều đầu, sau đó mỗi 2–4 giờ rồi 6–8 giờ tùy đáp ứng, hoặc 1–2 nhát mỗi 1 giờ cho 2–3 liều rồi mỗi 2–4 giờ; dạy kỹ thuật xịt",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.3a: 2–4 nhát/lần; GOLD 2026 tr. 102: 1–2 nhát/lần, khuyến cáo không dùng liều SABA cao vì tác dụng phụ (chọn nhát thấp trước, chị hồi hộp). Không có trong tài liệu đã tải: an toàn thuốc khi cho con bú."
+    },
+    {
+     "t": "Dùng lại thuốc giãn phế quản kéo dài (LABA + LAMA) đang có, hít đều hằng ngày",
+     "v": "c",
+     "n": "Tiếp tục thuốc LAMA/LABA đã dùng (QĐ 2131/2026 mục 3.4.3b; GOLD 2026 tr. 102). Ngưng thuốc duy trì đột ngột là yếu tố kích phát đợt cấp (QĐ 2131 mục 3.2). Phụ lục 1: indacaterol/glycopyrronium 110/50 µg, hít 1 nang buổi sáng."
+    },
+    {
+     "t": "Corticoid toàn thân: prednisolon 40 mg uống buổi sáng x 5 ngày kèm thuốc ức chế bơm proton, hoặc chưa dùng corticoid ở lượt này vì đợt cấp mức nhẹ và nghi tổn thương dạ dày",
+     "v": "a",
+     "n": "QĐ 2131/2026 mục 3.4.3c: 30–40 mg/ngày x 5 ngày; GOLD 2026 tr. 102: 40 mg x 5 ngày, tóm tắt chương 4 khuyến cáo cho đợt cấp mức trung bình/nặng, và cảnh báo ngay cả đợt ngắn cũng tăng nguy cơ viêm phổi, nhiễm khuẩn huyết, tử vong. QĐ 361/2014 Phụ lục NSAID mục 3.3: kết hợp corticosteroid là yếu tố làm tăng nguy cơ biến chứng tiêu hóa. Hai cách đều chấp nhận."
+    },
+    {
+     "t": "Ngưng ngay meloxicam (và mọi thuốc kháng viêm không steroid); đau khớp dùng paracetamol 500 mg, tối đa 4 g/24 giờ",
+     "v": "c",
+     "n": "Chống chỉ định tuyệt đối NSAID: loét dạ dày tá tràng đang tiến triển, phụ nữ đang cho con bú (QĐ 361/2014 Phụ lục NSAID mục 3.2). Paracetamol 500–1.000 mg/lần, cách 6–8 giờ, không quá 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1). An toàn paracetamol khi cho con bú: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Omeprazol 20 mg uống buổi tối, theo dõi triệu chứng dạ dày; đề nghị lại công thức máu",
+     "v": "c",
+     "n": "QĐ 361/2014 Phụ lục NSAID mục 3.3: ức chế bơm proton (omeprazol 20 mg buổi tối) có hiệu quả dự phòng và điều trị tổn thương dạ dày tá tràng do NSAID. Thời gian 2 tuần và an toàn khi cho con bú: không có trong tài liệu đã tải (mốc 2 tuần do tác giả đặt, chờ đánh giá lại)."
+    },
+    {
+     "t": "Khai thác kỹ nỗi lo của chị (hỏi riêng), ghi nhận từ chối xét nghiệm vào hồ sơ, đề nghị lại công thức máu ở lượt sau",
+     "v": "c",
+     "n": "Tôn trọng quyền từ chối, không ép; có phương án B: siêu âm tim, siêu âm phổi, điện tim, khám da niêm, HA tư thế, theo dõi sát (GOLD 2026 tr. 94; QĐ 2131/2026 Bảng 3.1: công thức máu phát hiện thiếu máu)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày; dặn quay lại ngay nếu phân đen, nôn ra máu, ngất, khó thở tăng, đau ngực, sốt, đờm mủ, sưng đau một bên chân",
+     "v": "c",
+     "n": "Bệnh nhân ngoại trú phải được theo dõi sát và dặn quay lại khi nặng lên (GOLD 2026 tr. 98); QĐ 2131/2026 Biểu đồ 3.1: đánh giá đáp ứng sau 3–5 ngày. Mốc 3 ngày do ca chọn (nghi thiếu máu); số ngày tái khám cho đợt cấp COPD nhẹ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin-clavulanat, azithromycin) hoặc tiêm kháng sinh theo yêu cầu",
+     "v": "w",
+     "n": "Không đủ tiêu chuẩn (QĐ 2131/2026 mục 3.4.3d; GOLD 2026 tr. 103); kháng sinh còn làm tăng đề kháng và không giải quyết khó thở do thiếu máu."
+    },
+    {
+     "t": "Cho tiếp meloxicam hoặc đổi sang NSAID khác (diclofenac, ibuprofen) để đỡ đau lưng",
+     "v": "w",
+     "n": "Chống chỉ định khi cho con bú và khi nghi tổn thương dạ dày (QĐ 361/2014 Phụ lục NSAID mục 3.2); NSAID không dùng đồng thời hai loại (mục 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COPD đợt cấp mức nhẹ theo Rome, ngày 4 (GOLD 2026 tr. 93); đã có hô hấp ký FEV1/FVC 0,62, FEV1 58% (GOLD 2)",
+     "Yếu tố kích phát: bụi xi măng, vôi, khói bếp củi; ngưng thuốc giãn phế quản duy trì từ thai kỳ (QĐ 2131/2026 mục 3.2)",
+     "Nghi thiếu máu (chưa xác nhận vì từ chối xét nghiệm): mất máu khi sinh, không bổ sung sắt, thuốc NSAID 3 tuần; da niêm hơi nhợt, mệt, hồi hộp nhẹ, chưa có dấu chảy máu rõ (phân vàng nâu, HA tư thế bình thường)",
+     "Nghi tổn thương dạ dày do meloxicam (đau thượng vị 2 tuần), meloxicam chống chỉ định vì đang cho con bú",
+     "Thuyên tắc phổi chưa loại trừ hoàn toàn (hậu sản; chị từ chối D-dimer, CT); suy tim, viêm phổi không ủng hộ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám; bệnh nền và hô hấp ký; ống hít còn dùng không; diễn tiến ho, đờm (màu, lượng), sốt; yếu tố khởi phát (nghề, sinh nở); thuốc đang dùng kể cả thuốc tiệm; triệu chứng thiếu máu; dạ dày, màu phân; huyết khối, suy tim; hỏi riêng nỗi lo thật. Khám: sinh hiệu, da niêm, HA tư thế, phổi, tim, chân, bụng, hậu môn, phụ khoa; CLS chị chấp nhận: điện tim, siêu âm phổi, siêu âm tim.",
+     "Vì sao đợt cấp COPD: đã có tắc nghẽn bằng hô hấp ký (QĐ 2131/2026 mục 1.3.2), nặng lên trong 14 ngày với khó thở và tăng đờm (GOLD 2026 tr. 92), nghe ran rít (QĐ 2131 mục 3.3.1), có kích phát rõ (bụi, ngưng thuốc). Rome nhẹ: VAS 4, thở 22 < 24, mạch 96 ≥ 95 (1/5 tiêu chí), SpO₂ 94% ≥ 92% (GOLD 2026 tr. 93; chưa có CRP).",
+     "Dữ kiện KHÔNG được COPD nhẹ giải thích: da, niêm hơi nhợt; mệt, hồi hộp nặng hơn mức ho; SpO₂ tụt 94% xuống 91% khi đi 30 m với mạch tăng lên 114; nóng rát thượng vị 2 tuần cùng meloxicam. GOLD 2026 tr. 94: khó thở nặng lên mà không kèm các triệu chứng đợt cấp khác thì phải xem xét bệnh đồng mắc. Thiếu máu làm khó thở, hồi hộp (QĐ 1832/2022, Thiếu máu mục 3.1a) và hay gặp trong COPD (GOLD 2026 tr. 124: 7,5–34%).",
+     "Nguyên nhân thiếu máu nghĩ tới: mất máu khi sinh, thiếu sắt (nhu cầu thai kỳ, cho con bú; QĐ 1832/2022 Thiếu máu thiếu sắt mục 2.1), chảy máu tiêu hóa mạn do NSAID (mục 2.2). Phân hiện vàng nâu, chưa có dấu chảy máu; dặn dấu hiệu xuất huyết tiêu hóa.",
+     "Chẩn đoán thiếu máu cần HGB (QĐ 1832/2022, Thiếu máu mục 3.1b); phân độ nhẹ 90–120 g/L, vừa 60–< 90 g/L (mục 2.1a). Chị từ chối nên chỉ ghi 'nghi'. Không bỏ sót vì từ chối: ghi từ chối vào hồ sơ, hỏi lý do thật, hẹn nhắc lại.",
+     "Loại trừ: suy tim, viêm phổi bằng khám và siêu âm; thuyên tắc phổi chưa loại trừ được (hậu sản thuộc nhóm nguy cơ trung bình, ESC 2019 Bảng 3; PERC không áp dụng) nên cần safety-net và tái khám sớm."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: ngoại trú, tái khám 3 ngày (QĐ 2131/2026 mục 3.4.1: đợt cấp nhẹ điều trị ngoại trú; mục 3.4.2: chưa đủ tiêu chuẩn nhập viện). Nhưng phải làm đủ ba việc ngoài COPD: ngưng NSAID, bảo vệ dạ dày, theo dõi thiếu máu.",
+     "Từ chối kháng sinh mà giữ lòng tin, lời thoại mẫu: 'Em hiểu chị muốn mau khỏe để mai đi làm và còn lo cho bé. Đờm của chị vẫn trắng, chị không sốt; kháng sinh chỉ giúp khi đờm chuyển vàng xanh hoặc có sốt (QĐ 2131/2026 mục 3.4.3d). Uống hoặc tiêm lúc này không làm hết khó thở nhanh hơn, chỉ thêm tác dụng phụ. Em cho chị thuốc xịt mở đường thở, đây mới là thuốc làm chị dễ thở. Ba ngày nữa chị trở lại, nếu đờm mủ hoặc sốt thì em cho kháng sinh liền.'",
+     "Meloxicam phải ngưng ngay: chống chỉ định tuyệt đối khi cho con bú và khi loét đang tiến triển (QĐ 361/2014 Phụ lục NSAID mục 3.2), nguy cơ tiêu hóa tăng khi phối hợp corticoid (mục 3.3). Đau khớp dùng paracetamol (Phụ lục thuốc giảm đau mục 3.1).",
+     "Corticoid: QĐ 2131/2026 dùng 30–40 mg x 5 ngày cho đợt cấp ngoại trú; GOLD 2026 khuyến cáo cho mức trung bình/nặng và cảnh báo nguy cơ viêm phổi, tử vong. Ca nhẹ, nghi loét: không dùng là đáp án chuẩn; dùng kèm PPI cũng chấp nhận (chấm a). Sai: kháng sinh, NSAID, đóng hồ sơ sớm, ép rút máu hay chụp phim."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Salbutamol (bình xịt định liều + buồng đệm)",
+      "ham_luong": "100 µg/nhát",
+      "lieu": "2 nhát/lần (trong khoảng 1–2 nhát theo GOLD hoặc 2–4 nhát theo QĐ 2131)",
+      "duong": "Xịt hít qua buồng đệm",
+      "thoi_diem": "Mỗi 4 giờ khi khó thở, ngày đầu có thể mỗi 1–2 giờ trong 3 liều đầu; sau đó giảm dần mỗi 6–8 giờ",
+      "so_ngay": "Khoảng 5–7 ngày hoặc đến khi hết rít",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3a; GOLD 2026 tr. 102. Run tay, hồi hộp là tác dụng phụ: báo nếu mạch trên 120. Khi cho con bú: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Indacaterol/glycopyrronium (ống hít LABA + LAMA chị đã được kê)",
+      "ham_luong": "110/50 µg mỗi nang",
+      "lieu": "1 nang",
+      "duong": "Hít bằng dụng cụ chuyên dụng",
+      "thoi_diem": "Buổi sáng mỗi ngày, hít đều",
+      "so_ngay": "Dùng lại hằng ngày, không ngưng",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3b, Phụ lục 1. Nếu chị đã được kê thuốc khác cùng nhóm thì dùng đúng thuốc đó. Kiểm tra kỹ thuật hít."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên/lần (tối đa 2 viên/lần)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau khớp, cách nhau 6–8 giờ",
+      "so_ngay": "Khi cần; tối đa 4 g/24 giờ",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1. Thay meloxicam."
+     },
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "Viên 20 mg",
+      "lieu": "1 viên/lần",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối trước khi đi ngủ",
+      "so_ngay": "2 tuần rồi đánh giá lại",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3. Số ngày tự đặt; an toàn khi cho con bú: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Chị bị đợt cấp bệnh phổi tắc nghẽn mạn tính: dùng thuốc xịt mở đường thở và hít thuốc buổi sáng đều mỗi ngày, không tự bỏ (QĐ 2131/2026 mục 3.2: ngưng thuốc duy trì là yếu tố kích phát).",
+     "Không uống thuốc đau xương khớp mua ở tiệm (meloxicam) vì đang cho con bú và dạ dày đang đau (QĐ 361/2014 Phụ lục NSAID mục 3.2). Mang theo mọi vỏ thuốc khi tái khám.",
+     "Nghỉ bê vữa, xi măng vài ngày; đeo khẩu trang chống bụi; nấu bằng bếp ga (QĐ 2131/2026 mục 3.2: bụi nghề nghiệp, ô nhiễm là yếu tố kích phát).",
+     "Quay lại ngay hoặc đi cấp cứu nếu: phân đen sệt mùi hôi, nôn ra máu, ngất hoặc choáng khi đứng dậy, khó thở tăng, đau ngực, ho ra máu, sốt, đờm vàng xanh, sưng đau một bên bắp chân (GOLD 2026 tr. 98).",
+     "Tái khám sau 3 ngày (mốc ca tự đặt; theo dõi sát: GOLD 2026 tr. 98), sớm hơn nếu nặng lên. Lúc đó đề nghị lại xét nghiệm máu: chị có thể chọn, bác sĩ sẽ giải thích rõ lý do. Chuyện sinh thêm con: hẹn một buổi riêng với bác sĩ sản khoa."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Chị Lụa tái khám theo hẹn sau 3 ngày. Chị đã ngưng meloxicam, dùng salbutamol, hít thuốc duy trì, paracetamol, omeprazol; không dùng kháng sinh. Chị nói ho 'đỡ nhiều' nhưng còn mệt và chóng mặt. Sinh hiệu: nhiệt độ 37,0 °C, mạch 116 l/p, HA 100/60 mmHg (ngồi), nhịp thở 22 l/p, SpO₂ 95% khí trời.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Lụa tái khám với mạch 116, HA tụt 100 xuống 86 khi đứng, da nhợt nhiều và phân đen tanh: đang chảy máu tiêu hóa trên mất bù. Cho về uống sắt, omeprazol là coi 'ho đỡ' hơn các chỉ số; nguy cơ ngất, sốc, truyền máu cấp cứu ngay tối đó. Chỉ 0–1 điểm Glasgow-Blatchford mới cho về ngoại trú, chị có 12 điểm (ACG 2021 khuyến cáo 1).",
+    "theo_doi": "Giữ chị ở phòng khám truyền dịch là chọn nơi không có máu, không nội soi: nội soi cần trong 24 giờ (ACG 2021 khuyến cáo 5) và Hb 68 g/L đã dưới ngưỡng truyền 7 g/dL (khuyến cáo 2). Mất thêm vài giờ là trì hoãn truyền máu, cầm máu; nếu chảy máu tăng chị có thể sốc ngay tại phòng khám."
+   },
+   "loi_mo": "Bác sĩ, ho em đỡ nhiều rồi, nhưng em còn chóng mặt, mệt, tim đập hoài. Bác sĩ cho em thêm kháng sinh cho dứt hẳn nha. Mà em muốn hỏi thuốc xịt này có làm em khó có thai lại không?",
+   "sinh_hieu": {
+    "mach": 116,
+    "ha": "100/60",
+    "nhiet": "37,0",
+    "nhip_tho": 22,
+    "spo2": 95,
+    "canh_bao": [
+     "Mạch nhanh"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "Đến vì đúng hẹn và vì 'cái chóng mặt không hết, ho thì đỡ nhiều'. Chị vẫn muốn hỏi chuyện thuốc xịt có làm khó có thai không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lượt 2"
+    },
+    {
+     "id": "do_mot_phan",
+     "noi_dung": "Ho ít hơn, đờm trắng còn khoảng 1–2 muỗng, ít khò khè, ngủ được. Khó thở lúc nghỉ hết nhưng đi 100 m hoặc bế bé là hụt hơi, tim đập mạnh; chóng mặt, tối sầm khi đứng dậy; hôm qua suýt té khi bế bé, phải vịn tường, không ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ một phần: phần COPD cải thiện, phần còn lại không giải thích bởi COPD"
+    },
+    {
+     "id": "phan_den",
+     "noi_dung": "Từ chiều qua đi tiêu 2 lần phân đen, nhão như nhựa đường, mùi hôi tanh. Chị nghĩ do 'nóng trong'. Đau thượng vị đỡ hơn nhờ omeprazol, có buồn nôn nhẹ; loét đã có từ trước nên vẫn chảy. Không nôn ra máu.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chị không tự kể. Nói khi bác sĩ hỏi màu phân, phân đen, đi tiêu mấy lần, hoặc anh Đạt kể chị vào nhà vệ sinh lâu.",
+     "k": 1,
+     "y": "Phân đen (melena) mới xuất hiện"
+    },
+    {
+     "id": "tuan_thu2",
+     "noi_dung": "Đã ngưng meloxicam từ sau lượt trước (còn 8 viên trong vỉ); đau lưng dùng paracetamol 1 viên mỗi sáng và tối. Uống omeprazol 20 mg mỗi tối đủ 3 đêm. Xịt salbutamol 3–4 lần/ngày, hít thuốc buổi sáng đều (lần đầu hít lại sau 9 tháng, 'thấy dễ thở thật'). Không dùng prednisolon. Không dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ đơn lượt 1"
+    },
+    {
+     "id": "dong_y_xn",
+     "noi_dung": "Chị đồng ý rút máu lần này vì 'sợ quá, đi tiêu đen với chóng mặt'. Vẫn từ chối chụp phim ngực.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ đề nghị xét nghiệm máu lần nữa.",
+     "k": 1,
+     "y": "Thay đổi thái độ với xét nghiệm"
+    },
+    {
+     "id": "lo_that2",
+     "noi_dung": "Khi được hỏi riêng: sợ nằm viện, sợ truyền máu, sợ 'hư người' rồi không sinh được nữa; bé còn bú. Mẹ chồng ở cách 3 km.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng chị lo điều gì khi nghe chuyển viện, hoặc hỏi ai chăm bé.",
+     "k": 1,
+     "y": "Nỗi sợ khi chuyển viện, nhu cầu chăm con"
+    },
+    {
+     "id": "hoan_canh2",
+     "noi_dung": "Có thẻ BHYT. Bệnh viện tỉnh cách 28 km. Mẹ chồng có thể bế bé; chị vắt sữa giữ cho bé. Không sốt, đờm trắng, chân không sưng đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phương tiện, người chăm bé; phổi ổn định"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lừ đừ, nói chậm, da xanh rõ, kết mạc, niêm mạc môi và lòng bàn tay nhợt nhiều. Vã mồ hôi lạnh nhẹ ở trán. Chi lạnh nhẹ. Không tím.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 100/60 mmHg, mạch 104 l/p. Đứng 1 phút: HA 86/52 mmHg, mạch 128 l/p, chị choáng và phải ngồi xuống ngay.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không co kéo. Rì rào phế nang êm hơn, còn vài ran rít nhẹ đáy hai bên thì thở ra, không ran nổ, không đông đặc.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p, không co kéo cơ hô hấp phụ.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít nhẹ thì thở ra."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 116 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 116 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị, không phản ứng thành bụng, không khối, không gan lách to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Găng dính phân đen sệt như nhựa đường, bóng, mùi hôi tanh rất đặc trưng; không máu đỏ tươi, không khối trĩ chảy máu, không khối ở trực tràng.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù, bắp chân mềm, không đau, hai bên đều nhau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "ab": 1,
+     "r": "BC 11,0 G/L · Neutrophil 72% · Hb 68 g/L · MCV 77 fL · TC 430 G/L",
+     "n": "Thiếu máu vừa (60–< 90 g/L), hồng cầu hơi nhỏ, nhược sắc nhẹ: nền thiếu sắt (thai kỳ, cho con bú) cộng mất máu đang tiến triển (QĐ 1832/2022, Thiếu máu mục 2.1a, 4.1; Bảng 1 MCV < 80 fL gợi ý thiếu sắt). Tiểu cầu tăng phản ứng. Bạch cầu tăng nhẹ do stress, không đờm mủ.",
+     "bang": {
+      "wbc": 11.0,
+      "neu_pct": 72.0,
+      "neu": 7.9,
+      "lym_pct": 20.0,
+      "lym": 2.2,
+      "mono_pct": 6.0,
+      "mono": 0.66,
+      "eos_pct": 1.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.06,
+      "rbc": 2.8,
+      "hgb": 68,
+      "hct": 0.216,
+      "mcv": 77.0,
+      "mch": 24.3,
+      "mchc": 315,
+      "rdw": 16.5,
+      "plt": 430
+     }
+    },
+    "creat": {
+     "v": "u",
+     "ab": 1,
+     "r": "Ure 9,8 mmol/L · Creatinin 62 µmol/L · eGFR 110 mL/ph/1,73m²",
+     "n": "Ure tăng với creatinin bình thường gợi ý máu tiêu hóa trên được hấp thu (nhận định của ca, không có trong tài liệu đã tải). Ure 9,8 mmol/L tương đương BUN khoảng 27 mg/dL (đổi ×2,8: không có trong tài liệu đã tải, tự tính): 3 điểm Glasgow-Blatchford (ACG 2021 Bảng 2).",
+     "bang": {
+      "ure": 9.8,
+      "creat": 62,
+      "egfr": 110
+     }
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "ab": 1,
+     "r": "Ferritin 6 ng/mL · Sắt huyết thanh 3,1 µmol/L · Độ bão hòa transferrin 7%",
+     "n": "Ferritin < 30 ng/mL và/hoặc độ bão hòa transferrin < 30% xác định thiếu sắt (QĐ 1832/2022, Thiếu máu thiếu sắt mục 4.1). Không cần trước khi chuyển; làm tại bệnh viện không làm chậm."
+    },
+    "crp": {
+     "v": "a",
+     "ab": 1,
+     "r": "CRP 14 mg/L",
+     "n": "CRP ≥ 10 mg/L đạt thêm 1 tiêu chí Rome (GOLD 2026 tr. 93): tổng 2/5 tiêu chí (mạch, CRP): vẫn mức nhẹ, đợt cấp COPD đang đỡ.",
+     "bang": {
+      "crp": 14
+     }
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang nhanh 116 l/p, trục trung gian, ST–T bình thường, không loạn nhịp.",
+     "n": "Không bắt buộc; không làm chậm chuyển tuyến (QĐ 2131/2026 Bảng 3.1)."
+    },
+    "noi_soi": {
+     "v": "e",
+     "ab": 1,
+     "r": "(Phòng khám không có nội soi dạ dày – tá tràng.)",
+     "n": "ACG 2021 khuyến cáo 5: nội soi trong 24 giờ kể từ lúc đến viện với người nhập viện vì xuất huyết tiêu hóa trên. Phải làm ở tuyến trên; thay bằng khám bụng, thăm trực tràng, chuyển tuyến."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Xuất huyết tiêu hóa trên (nghi loét dạ dày – tá tràng do NSAID) gây thiếu máu vừa, mất bù (HA tụt tư thế, mạch nhanh); thiếu sắt nền sau sinh; đợt cấp COPD nhẹ đang đỡ",
+     "ok": 1,
+     "n": "Phân đen sệt mùi tanh (melena), Hb 68 g/L, ure tăng, HA tụt tư thế; NSAID 3 tuần + đau thượng vị là tiền sử (QĐ 361/2014 Phụ lục NSAID mục 3.2–3.3; ACG 2021 Bảng 2). Thiếu máu vừa 60–< 90 g/L (QĐ 1832/2022 mục 2.1a). Glasgow-Blatchford: Hb < 10 g/dL (6) + BUN khoảng 27 mg/dL (3) + HA tâm thu 100 (1) + mạch ≥ 100 (1) + melena (1) = 12 > 1, không thuộc nhóm nguy cơ rất thấp (ACG 2021 khuyến cáo 1)."
+    },
+    {
+     "t": "Đợt cấp COPD chưa đáp ứng điều trị",
+     "n": "Không đúng: ho, rít, đờm đều đỡ sau salbutamol và thuốc duy trì (GOLD 2026 tr. 99: triệu chứng đợt cấp thường kéo dài 7–10 ngày, đến 20% chưa hồi phục sau 8 tuần). Phần còn lại (mạch, HA, da nhợt, phân đen) không do COPD."
+    },
+    {
+     "t": "Suy tim; bệnh cơ tim chu sinh",
+     "n": "Không nghĩ: lượt 1 EF 62%, thất phải không giãn; không phù, tĩnh mạch cổ không nổi, không khó thở khi nằm; mạch nhanh, tụt HA tư thế giải thích bằng thiếu máu, giảm thể tích."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Không còn cần nghĩ: Hb 68 g/L giải thích khó thở, mạch nhanh; SpO₂ 95%, chân không sưng đau, siêu âm tim thất phải bình thường. Chưa chụp CT; nếu sau truyền máu còn khó thở thì xét lại (ESC 2019 mục 4.4)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không nghĩ: không sốt, đờm trắng, rì rào êm hơn, ít ran rít; phổi đang cải thiện."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay bệnh viện có nội soi và ngân hàng máu (bệnh viện tỉnh cách 28 km) bằng xe cứu thương có điều dưỡng; không cho chị tự đi xe máy",
+     "v": "c",
+     "n": "Glasgow-Blatchford 12 > 1: không điều trị ngoại trú (ACG 2021 khuyến cáo 1); nội soi trong 24 giờ cho người nhập viện (khuyến cáo 5). Tiêu chuẩn phương tiện vận chuyển, đường truyền, oxy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nằm đầu bằng, kê chân cao, nhịn ăn uống; ngưng mọi NSAID; mang theo vỏ thuốc và sổ khám; ghi giờ liều thuốc gần nhất vào phiếu chuyển",
+     "v": "c",
+     "n": "Chống chỉ định NSAID (QĐ 361/2014 Phụ lục NSAID mục 3.2). Phiếu chuyển tuyến theo mẫu của TT 01/2025/TT-BYT Phụ lục VI. Tư thế, nhịn ăn: nhận định của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo trước cho bệnh viện: Hb 68 g/L, HA tụt tư thế, melena, Glasgow-Blatchford 12, nghi loét do NSAID, có thể cần truyền máu và nội soi; kèm COPD và đang cho con bú",
+     "v": "c",
+     "n": "Truyền khối hồng cầu theo Hb và lâm sàng; QĐ 1832/2022 mục 4.1: duy trì Hb tối thiểu 80 g/L (bệnh tim, phổi mạn nên duy trì từ 90 g/L) hoặc ACG 2021 khuyến cáo 2: ngưỡng truyền 7 g/dL, có thể truyền sớm hơn khi tụt huyết áp. Hb 68 g/L đã dưới cả hai ngưỡng nên hai nguồn cùng dẫn tới truyền."
+    },
+    {
+     "t": "Cho về với sắt uống, omeprazol và hẹn tái khám",
+     "v": "w",
+     "n": "Không điều trị ngoại trú khi Glasgow-Blatchford > 1 (ACG 2021 khuyến cáo 1); phân đen tanh + HA tụt tư thế = đang mất máu."
+    },
+    {
+     "t": "Truyền dịch muối tại phòng khám và giữ theo dõi",
+     "v": "w",
+     "n": "Phòng khám không có máu, không nội soi; nội soi cần trong 24 giờ (ACG 2021 khuyến cáo 5). Trì hoãn làm chị nguy hiểm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Xuất huyết tiêu hóa trên, nghi loét dạ dày – tá tràng do NSAID (meloxicam 3 tuần khi đang cho con bú), mất bù: HA tụt tư thế, mạch 116, melena",
+     "Thiếu máu vừa, Hb 68 g/L, hồng cầu nhỏ nhược sắc nhẹ, thiếu sắt nền (ferritin 6 ng/mL) sau sinh",
+     "COPD đợt cấp nhẹ (Rome) đang đỡ sau salbutamol và thuốc duy trì",
+     "Loại trừ: suy tim, thuyên tắc phổi, viêm phổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Điểm gãy ở lượt trước (dữ kiện không do COPD giải thích) đã thành rõ: ho đỡ nhưng mạch 116, HA 100 xuống 86 khi đứng, da nhợt nhiều, phân đen tanh. Bài học GOLD 2026 tr. 94: triệu chứng không khớp với COPD thì tìm bệnh đồng mắc.",
+     "Đỡ một phần là bình thường với COPD: triệu chứng đợt cấp 7–10 ngày, đến 20% chưa hồi phục sau 8 tuần (GOLD 2026 tr. 99). Nhưng đỡ phần phổi mà mạch, HA, chóng mặt không đỡ nghĩa là có bệnh thứ hai chứ không phải thất bại điều trị COPD.",
+     "Melena: phân đen sệt, tanh, bóng. Ure tăng với creatinin bình thường gợi ý xuất huyết tiêu hóa trên (nhận định của ca, không có trong tài liệu đã tải).",
+     "Mức độ: Glasgow-Blatchford = 6 (Hb < 10) + 3 (BUN khoảng 27) + 1 (HA tâm thu 100, mức 100–109) + 1 (mạch ≥ 100) + 1 (melena) = 12; chưa ngất nên không cộng 2 (ACG 2021 Bảng 2). Chỉ 0–1 điểm mới cho về ngoại trú (khuyến cáo 1).",
+     "Nguyên nhân: NSAID 3 tuần cộng đau thượng vị 2 tuần; nữ, dùng NSAID là nhóm nguy cơ biến chứng tiêu hóa (QĐ 361/2014 Phụ lục NSAID mục 3.3). Thiếu sắt nền sau mất máu khi sinh làm Hb giảm nặng hơn."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: chuyển tuyến ngay (chuyen_tuyen) vì cần nội soi trong 24 giờ, ngân hàng máu, theo dõi huyết động (ACG 2021 khuyến cáo 1, 5). Không giữ ở phòng khám, không cho về.",
+     "Ngưỡng truyền máu: hai nguồn khác nhau (QĐ 1832/2022 mục 4.1: duy trì Hb ≥ 80 g/L, bệnh phổi mạn ≥ 90 g/L; ACG 2021 khuyến cáo 2: ngưỡng 7 g/dL, truyền sớm hơn nếu tụt huyết áp). Khác vì QĐ 1832 bàn thiếu máu nói chung, ACG bàn chảy máu tiêu hóa trên; Hb 68 g/L dưới cả hai nên quyết định truyền giống nhau.",
+     "Giải quyết nỗi sợ: hỏi riêng, thu xếp người chăm bé; ảnh hưởng của truyền máu, nội soi lên khả năng sinh sản: không có trong tài liệu đã tải.",
+     "Sai: cho về hẹn tái khám, truyền dịch tại phòng khám, kê thêm prednisolon hoặc NSAID, cho tự đi bằng xe máy."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc uống mang về",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Nhịn ăn uống trước nội soi",
+      "so_ngay": "Đến khi bệnh viện quyết định",
+      "ghi_chu": "ACG 2021 khuyến cáo 5 (nội soi trong 24 giờ). Thuốc ức chế bơm proton đường tĩnh mạch trước nội soi và liều chuyển: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc hít LABA + LAMA và salbutamol xịt đang dùng",
+      "ham_luong": "Như lượt 1",
+      "lieu": "Như lượt 1",
+      "duong": "Hít",
+      "thoi_diem": "Mang theo, báo bác sĩ viện",
+      "so_ngay": "Tiếp tục",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.4b: tiếp tục thuốc giãn phế quản kéo dài khi nhập viện. Ghi vào phiếu chuyển."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên/lần",
+      "duong": "Uống (khi được phép ăn uống)",
+      "thoi_diem": "Khi đau, cách 6–8 giờ",
+      "so_ngay": "Khi cần; tối đa 4 g/24 giờ",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1. Tuyệt đối không NSAID."
+     }
+    ],
+    "dan_do": [
+     "Chị đang mất máu từ dạ dày, cần vào bệnh viện tỉnh ngay để nội soi, có thể truyền máu; không tự đi xe máy (ACG 2021 khuyến cáo 1, 5).",
+     "Nằm yên, không ăn uống gì, anh Đạt đi cùng chị, mang thẻ BHYT, sổ khám, hô hấp ký, vỏ thuốc meloxicam, ống hít.",
+     "Thuốc đau xương khớp mua ở tiệm (meloxicam) bỏ hẳn; sau này đau lưng dùng paracetamol (QĐ 361/2014 Phụ lục NSAID mục 3.2).",
+     "Bé có mẹ chồng bế; chị vắt sữa nếu bệnh viện cho phép. Chuyện sinh thêm con: sau khi ổn, hẹn tư vấn sản khoa."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Xe cứu thương phòng khám đưa chị Lụa lên bệnh viện tỉnh trong 40 phút, anh Đạt đi cùng, mẹ chồng bế bé. Hb 66 g/L, truyền 2 đơn vị khối hồng cầu, Hb lên 89 g/L. Nội soi trong 24 giờ: loét hành tá tràng 1 cm, cầm máu qua nội soi (phân loại và cách cầm máu: không có trong tài liệu đã tải); H. pylori âm tính. Ngày 4 ra viện, dùng thuốc ức chế bơm proton, bổ sung sắt, thuốc hít duy trì; COPD không nặng thêm. Quyết định lượt 1 hợp lý với dữ kiện lúc đó; điểm gãy là chuỗi: không khám hậu sản, không xét nghiệm Hb sau sinh, thuốc đau khớp mua ở tiệm không ai hỏi, chị từ chối rút máu, và nếu dừng ở 'đợt cấp COPD' thì lượt hẹn sau mới có Hb. Nhờ hẹn 3 ngày và hỏi thuốc, chị được chuyển trước khi sốc. Thông tin về khả năng thụ thai: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Đòi kháng sinh cả hai lượt; đờm trắng, không sốt nên không có chỉ định (QĐ 2131/2026 mục 3.4.3d).",
+  "Mệt, hồi hộp, SpO₂ tụt khi đi dễ bị cho là do COPD hay salbutamol; khám da niêm, hỏi thuốc đau khớp mới thấy bệnh thứ hai.",
+  "Từ chối rút máu, chụp phim: lý do thật là lo khả năng sinh sản; thuốc 'đau xương khớp' không được chị coi là thuốc."
+ ],
+ "bai_hoc_bien": [
+  "Hai chẩn đoán cùng lúc: tìm thấy đợt cấp COPD rồi đóng hồ sơ. Phải liệt kê dữ kiện COPD KHÔNG giải thích (da niêm nhợt, mệt, hồi hộp, SpO₂ tụt khi đi, đau thượng vị, thuốc NSAID) rồi hỏi tiếp (GOLD 2026 tr. 94).",
+  "Đỡ một phần: phổi đỡ (đợt cấp 7–10 ngày, GOLD 2026 tr. 99) nhưng mạch, HA, da nhợt không đỡ nghĩa là có bệnh thứ hai.",
+  "Từ chối xét nghiệm: tôn trọng quyền tự quyết, ghi nhận vào hồ sơ, hỏi lý do thật bằng câu hỏi mở, nêu số liệu thật (0,1 mSv, ESC 2019), thay bằng phương án B (siêu âm tim, siêu âm phổi, điện tim, HA tư thế, khám da niêm, thăm trực tràng), hẹn sớm để nhắc lại.",
+  "Truy nguyên điểm gãy: sinh ra máu nhiều không xét nghiệm Hb, không khám hậu sản, tự mua thuốc, từ chối xét nghiệm, tái khám có mốc mới cứu chị."
+ ],
+ "diem_nho": [
+  "Kháng sinh đợt cấp COPD ngoại trú: đờm mủ cộng 1 trong 2 triệu chứng còn lại, hoặc cả 3 (QĐ 2131/2026 mục 3.4.3d); GOLD 2026 tr. 103: ít nhất 2 triệu chứng trong đó có đờm mủ; ≤ 5 ngày (ngoại trú).",
+  "NSAID chống chỉ định tuyệt đối: loét đang tiến triển, đang cho con bú (QĐ 361/2014 Phụ lục NSAID mục 3.2). Glasgow-Blatchford 0–1 mới cho về; nội soi trong 24 giờ; ngưỡng truyền 7 g/dL (ACG 2021 khuyến cáo 1, 2, 5).",
+  "Thiếu máu: nhẹ 90–120, vừa 60–< 90 g/L; thiếu sắt: ferritin < 30 ng/mL và/hoặc độ bão hòa transferrin < 30% (QĐ 1832/2022 mục 2.1a, thiếu máu thiếu sắt mục 4.1). Chụp X-quang ngực 0,1 mSv (ESC 2019)."
+ ],
+ "nguon": [
+  "TL-0120 · QĐ 2131/QĐ-BYT 2026 – COPD – mục 1.3.1–1.3.3, 3.1–3.4.4, Bảng 3.1, Biểu đồ 3.1, Phụ lục 1",
+  "TL-0138 · GOLD 2026 – Chương 4 (tr. 92–103), thiếu máu (tr. 124)",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 – Phụ lục NSAID mục 2, 3.2, 3.3; Phụ lục thuốc giảm đau mục 3.1",
+  "kho cũ · QĐ 1832/QĐ-BYT 2022 – Thiếu máu mục 2.1a, 3.1, 4.1; Thiếu máu thiếu sắt mục 2, 4.1, 5.2",
+  "TL-0076 · ACG 2021 – Upper GI and ulcer bleeding – Bảng 2 (Glasgow-Blatchford), khuyến cáo 1, 2, 5",
+  "TL-0089 · ESC 2019 – Thuyên tắc phổi cấp – Bảng 3, 6, 12; mục 4.3, 4.4, 9.1",
+  "TL-0141 · ATS 2025 – Viêm phổi cộng đồng – khuyến cáo 1 (siêu âm phổi)",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 3.1.1",
+  "TL-0003 · TT 01/2025/TT-BYT – Phụ lục VI (phiếu chuyển cơ sở khám bệnh, chữa bệnh)",
+  "Không có trong tài liệu đã tải: an toàn thuốc, truyền máu, nội soi khi cho con bú; ảnh hưởng COPD, thuốc, tia X lên khả năng sinh sản; bệnh cơ tim chu sinh; số ngày tái khám đợt cấp nhẹ; thời gian omeprazol sau NSAID; phân loại loét; tiêu chuẩn phương tiện vận chuyển"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-16 – bản 2 (sửa theo duyệt): soạn theo CLAUDE.md mục 3. Bẫy hai chẩn đoán: lượt 1 đợt cấp COPD nhẹ che bệnh dạ dày do meloxicam và thiếu máu sau sinh (chưa chảy máu rõ: mạch 96, HA tư thế bình thường, phân vàng nâu); dữ kiện COPD không giải thích: da niêm hơi nhợt, mệt, hồi hộp, SpO₂ tụt khi đi, nóng rát thượng vị, NSAID. Mốc mở: lượt 2 melena, mạch 116, HA tụt tư thế, Hb 68 g/L.",
+  "Tài liệu đã đọc: như phần nguồn (đã đọc TL-0120 chương 1, 3, Phụ lục 1; GOLD chương 4; ACG 2021 khuyến cáo 1–5).",
+  "Chỗ thiếu tài liệu: xem mục nguồn cuối. Không tìm web (an toàn thuốc khi cho con bú nên tra LactMed/NIH: nguồn bổ sung chưa tự tìm).",
+  "khoa_cls: null; ràng buộc là bệnh nhân từ chối (v 'u' kèm r ghi nhận từ chối) chứ không khóa nhóm CLS. Lượt 2 chị đồng ý rút máu, vẫn từ chối X-quang. Nội soi: v e kèm thay_the 'bung' (phòng khám không có nội soi).",
+  "Âm thanh: phổi ran rít AT-PHOI-RAN-RIT-01 (lượt 1 hai bên; lượt 2 đáy phải, đáy trái bình thường AT-PHOI-BT-NL-01); tim 96 l/p dùng AT-TIM-BT-NL-01, 116 l/p dùng AT-TIM-NHANH-01. Không dùng ảnh da.",
+  "Mâu thuẫn dùng (chi tiết: HH-1192_mau_thuan.md): liều salbutamol xịt; corticoid cho đợt cấp nhẹ; ngưỡng truyền máu. Số liệu phụ tự đặt: sinh hiệu, kết quả xét nghiệm lượt 2 (Hb 68 g/L, MCV 77, ure 9,8, ferritin 6), hồ sơ hô hấp ký (FEV1/FVC 0,62; FEV1 58%)."
+ ]
+}

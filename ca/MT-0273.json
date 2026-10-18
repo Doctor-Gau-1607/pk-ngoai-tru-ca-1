@@ -1,0 +1,912 @@
+{
+ "ma_ca": "MT-0273",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới, đối chiếu nguồn với kho tài liệu (2026-10-18)",
+ "benh": "MT_dtd_tip2_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Đái tháo đường type 2 (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "ĐTĐ type 1/LADA",
+   "ĐTĐ thứ phát"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Đáp án là chuyển tuyến",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Nhân viên ngân hàng",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt corticoid",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quốc Bảo",
+  "tuoi": 52,
+  "gioi": "Nam",
+  "nghe": "Nhân viên ngân hàng (chuyên viên tín dụng)",
+  "can_nang": 76,
+  "chieu_cao": 169,
+  "xung_ho": "Bác sĩ gọi ông là 'anh'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lịch sự, kỹ tính, hay tra Google và đọc nhóm chat đồng nghiệp trước khi đi khám. Sợ rủi ro, sợ 'để lâu thành nặng'; cuối quý bận chốt hồ sơ vay nên không muốn nghỉ ngày nào. Hiểu biết y khoa vừa phải, tin 'có kháng sinh cho chắc ăn'.",
+  "kieu_nhieu": "Đòi kháng sinh ngay từ đầu: 'bác sĩ kê cho tôi kháng sinh loại mạnh, uống ba ngày cho dứt'. Bị từ chối thì nhắc lại, dẫn chuyện đồng nghiệp 'cảm mấy hôm rồi nhập viện'. Dịu xuống khi bác sĩ ghi nhận nỗi lo, giải thích vì sao kháng sinh không giúp (và có hại với thuốc tiểu đường đang dùng), rồi hẹn lịch theo dõi rõ ràng; bị gạt đi thì sẽ tự mua.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a984",
+   "toc": "#1c1512",
+   "kieuToc": "ngan",
+   "ao": "#e6e9ee",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Ho, sổ mũi, rát họng 3 ngày, xin kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm glucose, HbA1c, ure, creatinin, điện giải, men gan, mỡ máu, CRP, nước tiểu); không có X-quang, siêu âm, CT, nội soi và không làm được xét nghiệm chuyên sâu (khí máu, UACR, kháng thể GAD, C-peptid, vitamin B12)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Phạm Quốc Bảo, 52 tuổi, nhân viên ngân hàng, đái tháo đường típ 2 khoảng 8 năm, uống metformin và gliclazide. Đến vì ho, sổ mũi, rát họng 3 ngày, muốn xin kháng sinh. Sinh hiệu: HA 134/84 mmHg, mạch 86 l/p, nhiệt độ 37,4 °C, cân nặng 76 kg, BMI 26,6.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Bảo bị cho nhập viện chỉ vì đường huyết 14,2 mmol/L, dù tỉnh, ăn uống được, ceton niệu âm. Nhiễm toan ceton cần ceton máu hoặc niệu (+) kèm toan chuyển hóa, tăng áp lực thẩm thấu cần glucose > 33,3 mmol/L (QĐ 5481 Phần 7 Bảng 7; ADA/EASD 2024 mục 3, Bảng 2), anh chưa đạt tiêu chí nào. Anh mất mấy ngày chốt hồ sơ cuối quý, tốn viện phí, ra viện vẫn chưa học tiêm insulin hay được dặn ngày ốm phải làm gì.",
+    "chuyen_tuyen": "Anh Bảo bị chuyển đi khám nội tiết ngay hôm nay. QĐ 5481 Phần 4 mục 9 chỉ cần gửi nội tiết khi không đạt mục tiêu hoặc phác đồ ngày càng phức tạp (tiêm insulin nhiều lần), trong khi một mũi insulin nền cộng thuốc uống làm được ngay tại phòng khám (ADA 2026 KC 9.20, Hình 9.5). QĐ 5904 viết cho trạm y tế xã, còn phòng khám có bác sĩ thì tự khởi insulin nền được. Chuyển đi chỉ làm anh mất một buổi, chưa được kê thuốc, còn mối lo kháng sinh chưa ai giải thích.",
+    "theo_doi": "Anh Bảo chỉ được dặn uống nhiều nước, nghỉ ngơi, giữ nguyên metformin và gliclazide, hẹn 3 tháng sau. HbA1c 9,6% trên hai thuốc, có khát và sụt cân thì không nên trì hoãn tăng cường điều trị (ADA 2026 KC 9.15; QĐ 5481 Phần 4 mục 4.2h). Đường huyết tiếp tục cao suốt những ngày ốm, anh không được dặn dấu hiệu phải đi khám ngay và cách xử trí khi ốm (ADA 2026 mục 6, Intercurrent illness), nên dễ chủ quan."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy hôm nay trời trở lạnh, tôi ho, sổ mũi, rát họng. Bác sĩ kê cho tôi kháng sinh uống ba ngày cho dứt nhé, cuối quý công việc dồn dập, tôi không nghỉ được đâu.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "134/84",
+    "nhiet": "37,4",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho, sổ mũi, hắt hơi, rát họng ba ngày nay từ khi trời trở lạnh. Làm ở ngân hàng, cuối quý không nghỉ được nên muốn bác sĩ kê kháng sinh uống ba ngày cho dứt. Có tiểu đường khoảng 8 năm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "tien_su_dtd",
+     "noi_dung": "Phát hiện tiểu đường 8 năm trước khi khám sức khỏe công ty. Đang uống metformin 1000 mg ngày 2 lần sau ăn và gliclazide MR 60 mg mỗi sáng, uống khá đều. HbA1c lần gần nhất 6 tháng trước là 8,1%. Ở nhà ít đo đường huyết, lần gần đây nhất khoảng 'mười mấy'. Mẹ cũng bị tiểu đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian bệnh, thuốc đang dùng, HbA1c cũ, tiền sử gia đình"
+    },
+    {
+     "id": "trieu_chung_dh",
+     "noi_dung": "Khoảng một tháng nay khát hơn, uống chừng 2,5 lít nước mỗi ngày, đêm dậy tiểu 2 lần, mệt hơn, sụt khoảng 2 kg dù ăn như cũ. Chiều đến thấy nhìn hơi mờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tăng đường huyết, sụt cân (tiêu chí dị hóa)"
+    },
+    {
+     "id": "cap_cuu_am",
+     "noi_dung": "Không buồn nôn, không nôn, không đau bụng, không thở nhanh hay thở sâu, ăn uống bình thường, đầu óc tỉnh táo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ biến chứng cấp (nhiễm toan ceton, tăng áp lực thẩm thấu)"
+    },
+    {
+     "id": "ho_hap",
+     "noi_dung": "Ho khan là chính, ít đờm trong, sổ mũi trong, hắt hơi, rát họng nhẹ. Hôm qua tự đo 37,4 °C. Không khó thở, không đau ngực, không ho ra máu, không đờm đặc vàng xanh kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm viêm đường hô hấp trên do virus, không dấu hiệu viêm phổi"
+    },
+    {
+     "id": "mat_corticoid",
+     "noi_dung": "Ba tuần nay hai mắt đỏ, ngứa mỗi khi trời trở lạnh hoặc gió. Anh lấy lọ thuốc nhỏ mắt dexamethason 0,1% còn dư từ lần trước, nhỏ mỗi mắt 4–5 lần mỗi ngày, vừa nhỏ là đỡ ngứa nên nhỏ tiếp, chưa đi khám mắt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể metformin và gliclazide. Chỉ kể khi bác sĩ hỏi thuốc nhỏ mắt, thuốc tự mua, hỏi về mắt đỏ ngứa hoặc hỏi có dùng thuốc nào chứa corticoid không.",
+     "k": 1,
+     "y": "Corticoid nhỏ mắt tự dùng kéo dài (thuốc đang dùng giấu)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: anh Tùng, 55 tuổi, ngồi cùng phòng và cũng bị tiểu đường, hai tuần trước 'cảm vài hôm' rồi phải vào viện nằm hồi sức vì 'nhiễm toan ceton'. Anh Bảo sợ cái 'cảm' của mình cũng thành như vậy, nghĩ kháng sinh sẽ chặn được, và muốn bác sĩ kiểm tra xem đường huyết của mình đã nguy hiểm chưa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh lo điều gì, vì sao nghĩ cần kháng sinh, có ai quen bị bệnh tương tự không, hoặc ghi nhận lo lắng của anh. Bị gạt đi thì chỉ nhắc lại 'cho tôi kháng sinh cho chắc'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ giống đồng nghiệp bị nhiễm toan ceton"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Cơm hộp trưa, hai ly cà phê sữa mỗi ngày, ngồi văn phòng gần 9 giờ, không tập thể dục, không hút thuốc. Chưa khám mắt định kỳ, thỉnh thoảng tê nhẹ đầu ngón chân, chân không loét. Chưa từng hạ đường huyết.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực, không khó thở khi gắng sức. Chưa biết mỡ máu, chưa dùng statin.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, dáng người hơi đậm. Cân nặng 76 kg, BMI 26,6, vòng eo 94 cm. Niêm mạc hơi khô, nếp véo da bình thường. Không thở sâu, hơi thở không mùi lạ.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, không giả mạc, không mủ, amidan không to. Niêm mạc mũi phù nề, dịch trong. Màng nhĩ hai tai bình thường. Không hạch cổ.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, rì rào phế nang rõ hai bên, không ran, không co kéo.",
+     "k": 1,
+     "hien": "Thở đều, tần số 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang rõ hai bên, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 86 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 86 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt cương tụ nhẹ, phù nhẹ, tiết tố nhầy ít. Giác mạc trong. Đồng tử đều, phản xạ ánh sáng tốt. Thị lực 9/10 hai mắt.",
+     "k": 1
+    },
+    "nhan_ap": {
+     "a": "Nhãn áp hai mắt trong giới hạn bình thường (phải 17, trái 18 mmHg).",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô, không loét, không chai. Monofilament 10 g cảm nhận đủ ở các vị trí. Mạch mu chân rõ.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "14,2 mmol/L (mẫu tĩnh mạch, ăn sáng cách 3 giờ)",
+     "ab": 1,
+     "bang": {
+      "glu": 14.2
+     }
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "14,9 mmol/L",
+     "ab": 1,
+     "n": "Mao mạch chỉ dùng theo dõi; chẩn đoán dựa glucose huyết tương tĩnh mạch (QĐ 5904 Phần 2, Bước 3)."
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "9,6%",
+     "ab": 1,
+     "n": "Mục tiêu < 7% (ADA 2026 KC 6.3a; QĐ 5481 Phần 4 Bảng 4). Đang dùng 2 thuốc mà 9,6%: cần tăng cường ngay (ADA 2026 KC 9.15)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Nước tiểu 10 thông số: glucose 3+, ceton âm tính, protein vết, không bạch cầu, không nitrit, không hồng cầu.",
+     "ab": 1,
+     "n": "Ceton âm tính giúp loại nhiễm toan ceton (QĐ 5481 Phần 7 mục 2.1).",
+     "bang": {
+      "u_sg": 1.025,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Vết",
+      "u_glu": "3+",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,1 mmol/L · Creatinin 88 µmol/L · eGFR 91 mL/ph/1,73m²",
+     "n": "Chọn thuốc, liều metformin (chống chỉ định khi eGFR < 30: QĐ 5481 PL01 mục 2) và là mức nền để so sánh khi tái khám.",
+     "bang": {
+      "ure": 5.1,
+      "creat": 88,
+      "egfr": 91
+     }
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 4,2 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.2,
+      "cl": 102
+     }
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,4 · LDL-C 3,3 · HDL-C 1,0 · TG 2,4 mmol/L",
+     "ab": 1,
+     "n": "ĐTĐ 40–75 tuổi cần statin (ADA 2026 KC 10.18; QĐ 5904 Phần 2, Bước 5B.4)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 28 · ALT 36 U/L"
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,6 G/L · Neutrophil 58% · Hb 148 g/L · TC 262 G/L",
+     "n": "Bạch cầu bình thường, ưu thế lympho: hợp viêm đường hô hấp trên do virus.",
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 58.0,
+      "neu": 4.41,
+      "lym_pct": 33.0,
+      "lym": 2.51,
+      "mono_pct": 7.0,
+      "mono": 0.53,
+      "eos_pct": 1.5,
+      "eos": 0.11,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.9,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 90.0,
+      "mch": 30.2,
+      "mchc": 336,
+      "rdw": 13.1,
+      "plt": 262
+     }
+    },
+    "crp": {
+     "v": "u",
+     "r": "6 mg/L",
+     "n": "Tăng nhẹ, không gợi ý nhiễm khuẩn nặng.",
+     "bang": {
+      "crp": 6
+     }
+    },
+    "uacr": {
+     "v": "a",
+     "r": "Linh báo: cơ sở không làm được UACR. Dùng tạm que nước tiểu (protein vết) và hẹn làm UACR ở nơi có điều kiện.",
+     "thay_the": "ua",
+     "n": "ADA 2026 KC 11.1a: UACR, eGFR ít nhất hằng năm. Một lần protein niệu vết khi đường huyết đang cao chưa kết luận."
+    },
+    "gad_cpep": {
+     "n": "Cơ sở không làm; chỉ cần nếu nghi típ 1/LADA (ADA 2026 Hình 2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 kiểm soát kém (HbA1c 9,6%, glucose 14,2 mmol/L, có triệu chứng và sụt cân), chưa có biến chứng cấp",
+     "ok": 1,
+     "n": "HbA1c 9,6% trên metformin + sulfonylurea (mục tiêu < 7%: ADA 2026 KC 6.3a); khát, tiểu đêm, sụt 2 kg; ceton niệu âm, tỉnh, không nôn, không đau bụng (QĐ 5481 Phần 7 mục 2.1)."
+    },
+    {
+     "t": "Viêm đường hô hấp trên / viêm phế quản cấp do virus, chưa có dấu hiệu viêm phổi hay nhiễm khuẩn nặng",
+     "ok": 1,
+     "n": "Ho khan, sổ mũi, hắt hơi, rát họng, nhiệt 37,4 °C, phổi trong, SpO2 98%, bạch cầu bình thường ưu thế lympho (WHO AWaRe 2022 mục 4, tr. 33–35)."
+    },
+    {
+     "t": "Viêm kết mạc dị ứng (giao mùa), đang tự dùng corticoid nhỏ mắt kéo dài",
+     "ok": 1,
+     "n": "Đỏ, ngứa theo thời tiết lạnh; corticoid nhỏ mắt chỉ vài ngày đến 7–10 ngày và phải theo dõi nhãn áp (QĐ 40/2015 tr. 41 viêm kết mạc dị ứng cấp; tr. 46 viêm kết giác mạc mùa xuân). Nhãn áp hiện bình thường."
+    },
+    {
+     "t": "ĐTĐ típ 1 / LADA",
+     "n": "52 tuổi, 8 năm đáp ứng thuốc uống, mẹ ĐTĐ, thừa cân, ceton niệu âm (QĐ 5481 Phần 2 Bảng 1). Chưa đạt mục tiêu trên thuốc không phải insulin là một gợi ý típ 1 (ADA 2026 mục 2, AABBCC): nếu sau này có ceton hoặc đáp ứng kém thì đo GAD, C-peptid (Hình 2.1)."
+    },
+    {
+     "t": "ĐTĐ thứ phát (corticoid, bệnh nội tiết, bệnh tụy)",
+     "n": "ĐTĐ có từ 8 năm trước khi nhỏ thuốc mắt; không dạng Cushing, không tiền sử viêm tụy (QĐ 5481 Phần 2 mục 2.4f, g). ADA 2026 mục 2 nêu nguy cơ với glucocorticoid liều toàn thân; ảnh hưởng của corticoid nhỏ mắt lên đường huyết không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm toan ceton / tăng áp lực thẩm thấu do tăng đường huyết",
+     "n": "Ceton niệu âm, glucose 14,2 (< 33,3), tỉnh táo, ăn uống được (QĐ 5481 Phần 7 Bảng 7; ADA/EASD 2024 Bảng 2)."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A / viêm phổi cộng đồng",
+     "n": "Ho và sổ mũi nổi bật, không sốt cao, họng không mủ (WHO AWaRe 2022 mục 6 viêm họng; mục 4). Phổi trong, SpO2 98%: không có chỉ định kháng sinh."
+    },
+    {
+     "t": "Tăng nhãn áp do corticoid",
+     "n": "Nhãn áp 17/18 mmHg; nhưng tiếp tục nhỏ sẽ có nguy cơ tăng nhãn áp, đục thủy tinh thể (QĐ 40/2015 tr. 46)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kê kháng sinh cho viêm đường hô hấp trên / viêm phế quản cấp; ghi nhận nỗi lo của anh, giải thích kháng sinh không có lợi và có thể gây hạ đường huyết khi dùng với gliclazide",
+     "v": "c",
+     "n": "WHO AWaRe 2022 mục 4 (tr. 34–35): nên báo trước bệnh tự khỏi, ho có thể kéo dài vài tuần, 'không khuyến cáo kháng sinh', màu đờm không phải dấu hiệu nhiễm khuẩn. ADA 2026 mục 6 (Intercurrent illness): sulfonylurea tương tác với fluoroquinolon, clarithromycin, sulfamethoxazole-trimethoprim, metronidazol, fluconazol gây hạ đường huyết."
+    },
+    {
+     "t": "Điều trị triệu chứng: paracetamol khi sốt hoặc đau họng",
+     "v": "c",
+     "n": "WHO AWaRe 2022 Bảng 4.2 (tr. 35): người lớn 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày."
+    },
+    {
+     "t": "Tăng cường điều trị đường huyết: thêm insulin nền (glargine 10 đơn vị hoặc 0,1–0,2 đơn vị/kg mỗi ngày) hoặc thuốc nhóm GLP-1 RA",
+     "v": "c",
+     "n": "Có triệu chứng, HbA1c 9,6%: ADA 2026 KC 9.20 và QĐ 5481 Phần 4 mục 4.2f (HbA1c ≥ 9%) cân nhắc insulin, Hình 9.5 khởi 10 đơn vị. ADA 2026 KC 9.21 và QĐ 5481 mục 4.2g ưu tiên GLP-1 RA khi chưa tăng đường huyết nặng. Không trì hoãn (KC 9.15). Ngưỡng HbA1c hai nguồn khác nhau (≥ 9% / > 10% hoặc có triệu chứng): ghi cả hai."
+    },
+    {
+     "t": "Giữ metformin 1000 mg × 2 lần/ngày; giữ gliclazide MR 60 mg nhưng theo dõi hạ đường huyết, giảm liều khi hạ hoặc khi glucose đói đạt mục tiêu",
+     "v": "c",
+     "n": "ADA 2026 KC 9.23: khi khởi insulin vẫn tiếp tục thuốc đang dùng; KC 9.17: xem lại thuốc có nguy cơ hạ đường huyết (sulfonylurea, insulin). QĐ 5481 Bảng 14: metformin 1–2,5 g/ngày, gliclazide PTC 30–120 mg/ngày."
+    },
+    {
+     "t": "Hướng dẫn tự đo đường huyết 2 lần/ngày (trước ăn sáng và tối), nhận biết và xử trí hạ đường huyết, kê glucagon",
+     "v": "c",
+     "n": "QĐ 5481 Phần 10 mục 2: insulin nền kèm thuốc uống đo 2 lần/ngày. Hạ đường huyết uống 15–20 g glucose (QĐ 5481 Phần 6 mục 1c) hoặc 10–15 g (QĐ 5904 Phần 2 Bước 4), đo lại sau 15 phút; glucagon (ADA 2026 KC 6.16)."
+    },
+    {
+     "t": "Dặn 'ngày ốm': vẫn tiêm insulin nền, uống đủ nước, đo đường huyết thường xuyên hơn, thử ceton niệu khi glucose > 11,1 mmol/L; nôn không uống được, nôn kéo dài, sốt cao, khó thở hay thở nhanh thì đến khám ngay",
+     "v": "c",
+     "n": "ADA 2026 mục 6 (Hyperglycemic crises): đo ceton khi bệnh và glucose > 200 mg/dL (11,1 mmol/L); người dùng insulin tích cực không ngưng insulin nền dù không ăn (với insulin nền đơn độc, tài liệu đã tải không nêu riêng; ca chọn tiếp tục tiêm); đến khám ngay nếu không uống được nước, nôn kéo dài, ceton hoặc glucose không cải thiện, thay đổi ý thức. Dấu hiệu DKA: QĐ 5481 Phần 7 mục 2.1."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mắt dexamethason tự mua; thay bằng thuốc nhỏ mắt kháng histamin / ổn định dưỡng bào, nước mắt nhân tạo; hẹn khám mắt kiểm tra nhãn áp",
+     "v": "c",
+     "n": "QĐ 40/2015 (TL-0242) mục Viêm kết giác mạc mùa xuân tr. 45–46: ngoài cơn kịch phát dùng ketotifen 0,025% × 2 lần/ngày hoặc olopatadine 0,2% × 1 lần/ngày, nước mắt nhân tạo × 4 lần/ngày; corticoid chỉ một đợt 7–10 ngày, biến chứng tăng nhãn áp, đục thủy tinh thể."
+    },
+    {
+     "t": "Statin cường độ trung bình (atorvastatin 10–20 mg), hoặc cường độ cao nếu có thêm yếu tố nguy cơ",
+     "v": "c",
+     "n": "ĐTĐ 40–75 tuổi chưa có ASCVD: ADA 2026 KC 10.18, Bảng 10.1 (atorvastatin 10–20 mg); KC 10.20: thêm yếu tố nguy cơ thì cường độ cao (atorvastatin 40–80 mg). QĐ 5904 Phần 2 Bước 5B.4: statin cho mọi ĐTĐ típ 2 từ 40 tuổi."
+    },
+    {
+     "t": "Hẹn tái khám sau 1 tuần (sớm hơn khi có dấu hiệu nặng), tiêm vắc xin cúm, phế cầu khi hết bệnh cấp, khám mắt, UACR khi ổn định",
+     "v": "c",
+     "n": "QĐ 5481 Phần 3 mục 2.3: đang chỉnh thuốc tái khám 0,5–1 tháng/lần; mốc 1 tuần là lựa chọn của ca vì vừa khởi insulin và đang ốm, không có trong tài liệu đã tải. Vắc xin: QĐ 5481 Phần 4 mục 8. UACR: ADA 2026 KC 11.1a."
+    },
+    {
+     "t": "Kê kháng sinh amoxicillin 'cho yên tâm'",
+     "v": "w",
+     "n": "Không có chỉ định ở viêm phế quản cấp và cảm lạnh do virus: WHO AWaRe 2022 mục 4 (tr. 35). Còn làm bệnh nhân tin rằng 'cảm thì phải có kháng sinh'."
+    },
+    {
+     "t": "Kê kháng sinh nhóm macrolid (clarithromycin) hoặc quinolon (levofloxacin) theo yêu cầu",
+     "v": "h",
+     "n": "Vừa không có chỉ định (AWaRe 2022 mục 4) vừa tương tác với sulfonylurea, có thể gây hạ đường huyết nặng (ADA 2026 mục 6, Intercurrent illness)."
+    },
+    {
+     "t": "Tăng metformin lên 3 g/ngày",
+     "v": "w",
+     "n": "Vượt liều tối đa 2,5 g/ngày (QĐ 5481 Phần 4 Bảng 14)."
+    },
+    {
+     "t": "Chỉ khuyên ăn kiêng, vận động, không đổi thuốc, hẹn 3 tháng",
+     "v": "w",
+     "n": "HbA1c 9,6%, có triệu chứng: không trì hoãn (ADA 2026 KC 9.15; QĐ 5481 Phần 4 mục 4.2h)."
+    },
+    {
+     "t": "Tiếp tục nhỏ dexamethason cho đỡ ngứa mắt",
+     "v": "w",
+     "n": "Đã quá đợt 7–10 ngày, nguy cơ tăng nhãn áp, đục thủy tinh thể (QĐ 40/2015 tr. 45–46)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 kiểm soát kém (HbA1c 9,6%, glucose 14,2 mmol/L), có triệu chứng tăng đường huyết và sụt cân 2 kg",
+     "Chưa có biến chứng cấp: ceton niệu âm, tỉnh, ăn uống được",
+     "Viêm đường hô hấp trên / viêm phế quản cấp do virus: không dấu hiệu viêm phổi, không có chỉ định kháng sinh",
+     "Viêm kết mạc dị ứng theo thời tiết, đang tự dùng dexamethason nhỏ mắt kéo dài 3 tuần (nhãn áp bình thường)",
+     "Rối loạn lipid máu (LDL-C 3,3; TG 2,4 mmol/L) chưa dùng statin; thừa cân (BMI 26,6)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi lý do và triệu chứng tăng đường huyết (khát, tiểu đêm, sụt cân), hỏi dấu hiệu nguy hiểm (nôn, đau bụng, thở sâu), hỏi thuốc tự mua kể cả thuốc nhỏ mắt, rồi khám (hô hấp, mắt, tình trạng mất nước) và xét nghiệm đường huyết, HbA1c, nước tiểu.",
+     "Kiểm soát kém: HbA1c 9,6% so với mục tiêu < 7% (ADA 2026 KC 6.3a; QĐ 5481 Bảng 4), có khát và sụt cân. Chưa biến chứng cấp vì ceton niệu âm, tỉnh, không nôn hay đau bụng (QĐ 5481 Phần 7 mục 2.1, Bảng 7; ADA/EASD 2024 Bảng 2).",
+     "Hô hấp: ho khan, sổ mũi, hắt hơi, rát họng, phổi trong, SpO2 98%, bạch cầu bình thường: nhiễm virus, kháng sinh không có lợi (WHO AWaRe 2022 mục 4). Nhưng ở người ĐTĐ đường huyết cao, bệnh cấp có thể dẫn tới biến chứng cấp (ADA 2026 mục 6; QĐ 5481 Phần 7 mục 1).",
+     "Mắt: dexamethason nhỏ 3 tuần vượt đợt 7–10 ngày, cần kiểm tra nhãn áp (QĐ 40/2015 tr. 45–46); ĐTĐ có trước 8 năm nên không phải ĐTĐ thứ phát.",
+     "Típ 2: 52 tuổi, thừa cân, mẹ ĐTĐ, 8 năm đáp ứng thuốc uống, ceton âm (QĐ 5481 Bảng 1); GAD, C-peptid chỉ khi nghi típ 1/LADA (ADA 2026 Hình 2.1).",
+     "Lý do thật: nỗi sợ giống anh Tùng. Nếu không hỏi 'anh lo điều gì' thì chỉ thấy một người cảm cúm đòi kháng sinh, bỏ sót đường huyết cao đang âm thầm làm tăng nguy cơ biến chứng cấp."
+    ],
+    "phan_tich_xu_tri": [
+     "Từ chối kháng sinh bằng lời thoại cụ thể (mục nhieu), thêm lý do riêng của anh: macrolid, quinolon làm gliclazide gây hạ đường huyết (ADA 2026 mục 6).",
+     "Tăng cường ngay (ADA 2026 KC 9.15): glargine 10 đơn vị giờ cố định, tăng 2 đơn vị mỗi 3 ngày tới glucose đói 4,4–7,2 mmol/L, hạ đường huyết không rõ nguyên nhân thì giảm 10–20% (Hình 9.5; QĐ 5481 Phần 4 mục 4.2); hoặc GLP-1 RA (KC 9.21), thuốc tiêm giá cao cần bàn với anh.",
+     "Khởi insulin trên nền sulfonylurea: xem lại gliclazide (KC 9.17), dạy xử trí hạ đường huyết, kê glucagon (KC 6.16).",
+     "Kế hoạch ngày ốm là phần quan trọng nhất lượt này vì anh đang cảm và đường huyết cao (ADA 2026 mục 6).",
+     "Mắt, statin: QĐ 40/2015 tr. 45–46; ADA 2026 KC 10.18, 10.20. Đáy mắt, UACR, vắc xin để dành khi ổn định."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine",
+      "ham_luong": "100 đơn vị/mL (bút 300 đơn vị)",
+      "lieu": "10 đơn vị × 1 lần/ngày",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Giờ cố định mỗi ngày, buổi tối",
+      "so_ngay": "Tăng 2 đơn vị mỗi 3 ngày đến khi glucose đói 4,4–7,2 mmol/L",
+      "ghi_chu": "ADA 2026 Hình 9.5; QĐ 5481 Phần 4 mục 4.2 (0,1–0,2 đơn vị/kg ≈ 8–15 đơn vị). Hoặc thay bằng GLP-1 RA (ADA 2026 KC 9.21); tên thuốc, liều GLP-1 RA không có trong tài liệu đã tải cho ca này. Giờ tiêm sáng hay tối: QĐ 5481 cho phép cả hai."
+     },
+     {
+      "thuoc": "Glucagon",
+      "ham_luong": "1 mg",
+      "lieu": "1 mg khi hạ đường huyết nặng, không tự uống được",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Khi cần (người nhà tiêm)",
+      "so_ngay": "Mang theo suốt thời gian dùng insulin",
+      "ghi_chu": "ADA 2026 KC 6.16; QĐ 5481 Phần 6 mục 3c. Chế phẩm sẵn có không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "1000 mg",
+      "lieu": "1000 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và sau ăn tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ liều (ADA 2026 KC 9.23); tối đa 2,5 g/ngày (QĐ 5481 Bảng 14). eGFR 91: không chỉnh. Ngưng khi nôn không ăn uống được hoặc nghi tổn thương thận cấp (ADA 2026 mục 6)."
+     },
+     {
+      "thuoc": "Gliclazide MR",
+      "ham_luong": "60 mg",
+      "lieu": "60 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, cùng bữa ăn",
+      "so_ngay": "Giữ liều, giảm khi hạ đường huyết hoặc khi glucose đói đạt mục tiêu",
+      "ghi_chu": "QĐ 5481 Bảng 14 (PTC 30–120 mg/ngày); ADA 2026 KC 9.17, 9.23. Không uống khi nhịn ăn hoặc nôn."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "ADA 2026 KC 10.18, Bảng 10.1 (cường độ trung bình 10–20 mg); nâng 40–80 mg nếu thêm yếu tố nguy cơ (KC 10.20). Giờ uống không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg–1 g/lần, cách nhau 4–6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau họng",
+      "so_ngay": "Tối đa 4 g/ngày; ngắn ngày khi còn triệu chứng",
+      "ghi_chu": "WHO AWaRe 2022 Bảng 4.2 (tr. 35). Số ngày dùng không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Ketotifen nhỏ mắt (hoặc olopatadine)",
+      "ham_luong": "0,025% (olopatadine 0,2%)",
+      "lieu": "1 giọt mỗi mắt × 2 lần/ngày (olopatadine 1 lần/ngày)",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Đến khi hết triệu chứng; dùng lại khi tái phát",
+      "ghi_chu": "QĐ 40/2015 tr. 45 (ketotifen 0,025% × 2 lần/ngày; olopatadine 0,2% × 1 lần/ngày). Số giọt mỗi lần không có trong tài liệu đã tải. Ngưng dexamethason."
+     }
+    ],
+    "dan_do": [
+     "Không dùng kháng sinh cho đợt cảm này; ho có thể kéo dài vài tuần, đờm vàng xanh không có nghĩa nhiễm khuẩn (WHO AWaRe 2022 mục 4).",
+     "Tiêm insulin giờ cố định mỗi tối, ngay cả khi đang ốm hoặc ăn kém; đo đường huyết trước ăn sáng và tối, ghi sổ; 3 ngày glucose đói vẫn > 7,2 mmol/L thì tăng 2 đơn vị (ADA 2026 Hình 9.5; QĐ 5481 Phần 10 mục 2).",
+     "Hạ đường huyết (đói lả, vã mồ hôi, run, < 3,9 mmol/L): uống ngay đường 15–20 g (QĐ 5481 Phần 6 mục 1c; QĐ 5904 ghi 10–15 g), đo lại sau 15 phút, chưa lên thì lặp lại; người nhà học cách tiêm glucagon (ADA 2026 KC 6.15, 6.16).",
+     "Đi khám ngay, không chờ hẹn, nếu: nôn hoặc không uống được nước, đau bụng, thở nhanh hay thở sâu, sốt cao, khó thở, ho đờm đặc kèm đau ngực, lơ mơ, hoặc ceton niệu dương tính với glucose > 11,1 mmol/L (ADA 2026 mục 6; QĐ 5481 Phần 7 mục 2.1).",
+     "Ngưng hẳn dexamethason nhỏ mắt; đi khám mắt trong vài ngày tới để đo nhãn áp (QĐ 40/2015 tr. 46). Tránh gió lạnh, bụi.",
+     "Tái khám sau 1 tuần, mang sổ đường huyết và các lọ thuốc đang dùng; vắc xin cúm, phế cầu khi hết bệnh (QĐ 5481 Phần 4 mục 8); khám mắt, làm UACR, đo lại huyết áp ngày khác khi ổn định."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 ngày",
+   "tiep_don": "Quay lại sớm sau 4 ngày (hẹn 7 ngày), tự đi taxi, ngồi gục ở ghế chờ. Sinh hiệu: nhiệt độ 38,8 °C, mạch 118 l/p, HA 98/58 mmHg, nhịp thở 28 l/p, SpO2 93%. Đường huyết mao mạch tại quầy: 25,8 mmol/L.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Bảo được kê kháng sinh uống, tăng insulin nền rồi cho về, hẹn 24 giờ. Anh đang nôn, thở nhanh sâu, ceton niệu 3+, glucose 26,4 mmol/L, creatinin tăng từ 88 lên 148 µmol/L và nghi viêm phổi, nghĩa là đã hết khả năng tự uống bù nước (ADA 2026 mục 6: phải đi khám ngay khi không uống được nước, nôn kéo dài; QĐ 5904 Phần 2 Bước 4A mục 4: sốt kèm glucose cao, viêm phổi thì chuyển tuyến). Ở nhà không truyền được dịch, không đo được pH, kali; đêm đó anh có thể lơ mơ, tụt huyết áp và vào cấp cứu muộn với nhiễm toan nặng hơn (QĐ 5481 Phần 7 mục 1).",
+    "theo_doi": "Anh Bảo được giữ ở phòng khám, truyền NaCl 0,9% và tiêm insulin dưới da theo dõi vài giờ. Phòng khám không có khí máu, không X-quang để xác định viêm phổi và không xét nghiệm lại điện giải, creatinin mỗi 2–4 giờ như phác đồ (QĐ 5481 Phần 7 mục 5.1; ADA/EASD 2024 mục 4). Không biết pH và kali nên có thể bỏ sót toan nặng hoặc tiêm insulin khi kali thấp.",
+    "nhap_vien": "Anh Bảo bị giữ lại giường lưu của chính cơ sở này để điều trị nội trú ngắn ngày. Cơ sở chỉ có xét nghiệm cơ bản, không khí máu, không X-quang, không theo dõi hồi sức, trong khi người có nhiễm trùng làm khởi phát cơn tăng đường huyết hoặc rối loạn tri giác nên xử trí ở nơi có ICU (ADA/EASD 2024 mục 4, Bảng 2). Chậm dịch truyền đủ liều, insulin và kháng sinh tĩnh mạch (QĐ 5481 Phần 7 mục 4; QĐ 2147/2026 mục 5.2)."
+   },
+   "loi_mo": "Bác sĩ ơi... tôi sốt, ho, mệt rũ, khát nước dữ lắm, đi tiểu hoài mà giờ lại nôn nữa. Tôi vẫn tiêm insulin đều đó. Có phải giống anh Tùng không?",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "98/58",
+    "nhiet": "38,8",
+    "nhip_tho": 28,
+    "spo2": 93,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "trieu_chung2",
+     "noi_dung": "Từ chiều hôm kia sốt, ho đờm vàng, đau nhói ngực phải mỗi khi hít sâu, mệt rũ. Hai ngày nay khát dữ dội, tiểu rất nhiều. Hôm nay tiểu ít lại, nước tiểu sẫm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng nhiễm khuẩn hô hấp dưới và tăng đường huyết nặng"
+    },
+    {
+     "id": "tieu_hoa2",
+     "noi_dung": "Sáng nay buồn nôn, nôn 3 lần, đau âm ỉ quanh rốn, từ tối qua không ăn nổi, uống nước vào lại nôn. Thở nhanh, hụt hơi, người lả.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu gợi ý nhiễm toan ceton, không uống bù được nước"
+    },
+    {
+     "id": "tuan_thu2",
+     "noi_dung": "Tiêm glargine 10 đơn vị đều ba tối, tối qua vẫn tiêm dù không ăn. Metformin và gliclazide đã bỏ từ sáng nay vì nôn. Đã ngưng thuốc nhỏ mắt dexamethason từ hôm khám. Không tự mua kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị lượt 1, yếu tố thúc đẩy không phải do bỏ insulin"
+    },
+    {
+     "id": "do_nha",
+     "noi_dung": "Sáng nay đo đường huyết ở nhà ra 24,6 mmol/L. Chưa thử ceton niệu vì không biết que ở đâu.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "than_kinh2",
+     "noi_dung": "Không co giật, không yếu liệt, không lú lẫn, không ho ra máu. Không tiêu chảy, không tiểu buốt, không đau lưng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "lo_lang2",
+     "noi_dung": "Anh nói: 'Giống anh Tùng rồi phải không bác sĩ?' Anh tự đi taxi tới, ân hận vì không đi sớm hơn.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt, nằm gục, tỉnh nhưng đáp chậm, nói ngắt quãng. Da khô, môi khô, niêm mạc miệng khô, nếp véo da mất chậm. Thở nhanh sâu, hơi thở mùi trái cây chín (acetone).",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p. Ran nổ nhỏ hạt vùng đáy phổi phải, rì rào phế nang giảm nhẹ và gõ đục nhẹ ở đáy phải. Phổi trái rì rào rõ.",
+     "k": 1,
+     "hien": "Thở nhanh, hơi sâu, tần số 28 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt ở đáy phổi phải."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 118 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh khoảng 115 l/p, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, đau nhẹ quanh rốn không khu trú, không phản ứng thành bụng, gan lách không to, nhu động ruột còn.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng, Glasgow 15. Không dấu thần kinh khu trú, không cứng gáy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "26,4 mmol/L",
+     "ab": 1,
+     "bang": {
+      "glu": 26.4
+     }
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "25,8 mmol/L",
+     "ab": 1
+    },
+    "ua": {
+     "v": "e",
+     "r": "Nước tiểu 10 thông số: glucose 4+, ceton 3+, protein vết, không bạch cầu, không nitrit, không hồng cầu.",
+     "ab": 1,
+     "n": "Ceton niệu ≥ 2+ là ceton đáng kể (ADA/EASD 2024 mục 4). Que nitroprusside chỉ đo acetoacetat, có thể đánh giá thấp lúc đầu (mục 3).",
+     "bang": {
+      "u_sg": 1.03,
+      "u_ph": 5.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Vết",
+      "u_glu": "4+",
+      "u_ket": "3+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 129 · K 5,2 · Cl 94 mmol/L",
+     "ab": 1,
+     "n": "Na hiệu chỉnh = 129 + 1,6 × (26,4 − 5,6)/5,6 ≈ 135 mmol/L; áp lực thẩm thấu hiệu dụng = 2 × 129 + 26,4 ≈ 284 mOsm/kg, chưa > 320 (QĐ 5481 Phần 7 mục 2.2, 2.4). Không có bicarbonat nên không tính được khoảng trống anion.",
+     "bang": {
+      "na": 129,
+      "k": 5.2,
+      "cl": 94
+     }
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 11,8 mmol/L · Creatinin 148 µmol/L (lượt 1: 88) · eGFR 49 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Creatinin tăng ≥ 1,5 lần mức nền trong 7 ngày: đủ tiêu chuẩn tổn thương thận cấp (KDIGO 2012 KC 2.1.1); ure > 7 mmol/L tính 1 điểm CURB-65 (QĐ 2147/2026 mục 3.2.1).",
+     "bang": {
+      "ure": 11.8,
+      "creat": 148,
+      "egfr": 49
+     }
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 17,6 G/L · Neutrophil 87% · Hb 156 g/L · TC 310 G/L",
+     "ab": 1,
+     "n": "Bạch cầu > 10 G/L, ưu thế đa nhân trung tính: nhiễm khuẩn (QĐ 2147/2026 mục 3.1.2); Hb tăng do cô đặc máu.",
+     "bang": {
+      "wbc": 17.6,
+      "neu_pct": 87.0,
+      "neu": 15.31,
+      "lym_pct": 8.0,
+      "lym": 1.41,
+      "mono_pct": 4.0,
+      "mono": 0.7,
+      "eos_pct": 0.5,
+      "eos": 0.09,
+      "baso_pct": 0.5,
+      "baso": 0.09,
+      "rbc": 5.1,
+      "hgb": 156,
+      "hct": 0.46,
+      "mcv": 90.0,
+      "mch": 30.6,
+      "mchc": 339,
+      "rdw": 13.0,
+      "plt": 310
+     }
+    },
+    "crp": {
+     "v": "u",
+     "r": "148 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 148
+     }
+    },
+    "abg": {
+     "v": "a",
+     "r": "Linh báo: cơ sở không có máy khí máu động mạch, không biết pH và bicarbonat.",
+     "n": "Không xác nhận được toan chuyển hóa (QĐ 5481 Phần 7 mục 3.1; ADA/EASD 2024 Bảng 2). Đây là lý do không thể điều trị tại chỗ: chuyển đi làm khí máu."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Linh báo: cơ sở không có máy điện tim 12 chuyển đạo.",
+     "n": "ADA/EASD 2024 mục 3: nghi cơn tăng đường huyết thì làm điện tim (sóng T cao do tăng kali, thiếu máu cơ tim); làm ở nơi chuyển tới."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Linh báo: cơ sở không có X-quang ngực.",
+     "n": "X-quang ngực là cận lâm sàng quan trọng của viêm phổi (QĐ 2147/2026 mục 3.1.3); chụp ở nơi chuyển tới."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 mất bù cấp, nghi nhiễm toan ceton (glucose 26,4 mmol/L, ceton niệu 3+, thở nhanh sâu, nôn, đau bụng, hơi thở mùi acetone), chưa xác nhận được vì không có khí máu",
+     "ok": 1,
+     "n": "Đã có ĐTĐ, glucose ≥ 11,1 mmol/L, ceton niệu ≥ 2+ (ADA/EASD 2024 mục 3–4); QĐ 5481 Phần 7 Bảng 7 cần thêm pH và bicarbonat. Yếu tố thúc đẩy là nhiễm trùng (QĐ 5481 Phần 7 mục 1)."
+    },
+    {
+     "t": "Viêm phổi cộng đồng nghi ngờ (thùy dưới phải), điểm CURB-65 = 2",
+     "ok": 1,
+     "n": "Sốt 38,8, ran nổ nhỏ hạt đáy phổi phải, đau ngực kiểu màng phổi, BC 17,6, CRP 148, ĐTĐ là bệnh đồng mắc (QĐ 2147/2026 mục 3.1, 5.3.1). CURB-65: ure > 7 và huyết áp tâm trương ≤ 60 = 2 điểm (mục 3.2.1). Chưa có X-quang."
+    },
+    {
+     "t": "Tổn thương thận cấp do mất nước (creatinin 88 → 148 µmol/L) và mất nước nặng",
+     "ok": 1,
+     "n": "Mạch 118, HA 98/58, da khô, tiểu ít, Hb tăng; KDIGO 2012 KC 2.1.1."
+    },
+    {
+     "t": "Tăng áp lực thẩm thấu do tăng đường huyết",
+     "n": "Glucose 26,4 (không > 33,3), áp lực thẩm thấu hiệu dụng ≈ 284 (không > 320), tỉnh táo (QĐ 5481 Phần 7 Bảng 7, mục 3.2)."
+    },
+    {
+     "t": "Nhiễm toan lactic do metformin",
+     "n": "Nôn, thiếu dịch, tổn thương thận cấp làm tăng nguy cơ nên chưa loại được; cần lactat, khí máu (QĐ 5481 Phần 7 mục 3.4). Đã ngưng metformin."
+    },
+    {
+     "t": "ĐTĐ típ 1 / LADA",
+     "n": "52 tuổi, 8 năm đáp ứng thuốc uống, thừa cân, mẹ ĐTĐ; DKA có nhiễm trùng thúc đẩy rõ (ADA/EASD 2024: nhiễm trùng, đặc biệt viêm phổi, là yếu tố thúc đẩy thường gặp nhất). Phân biệt bằng GAD, C-peptid khi ổn định (ADA 2026 Hình 2.1)."
+    },
+    {
+     "t": "ĐTĐ thứ phát do corticoid nhỏ mắt",
+     "n": "Đã ngưng thuốc nhỏ mắt từ lượt 1; glucocorticoid có thể thúc đẩy cơn tăng đường huyết (ADA 2026 mục 6) nhưng nhiễm trùng giải thích đủ."
+    },
+    {
+     "t": "Nguyên nhân bụng ngoại khoa / viêm tụy cấp",
+     "n": "Đau bụng và nôn gặp ở > 50% người DKA, thường hết khi bù dịch và sửa toan (ADA/EASD 2024 mục 3). Bụng mềm, không phản ứng thành bụng; theo dõi tiếp ở bệnh viện nếu còn đau sau điều trị."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định đây là mất bù cấp cần chuyển cấp cứu; chuyển tuyến bằng xe cấp cứu có nhân viên y tế đi kèm, không để anh tự đi taxi; báo trước cho nơi nhận",
+     "v": "c",
+     "n": "QĐ 5904 Phần 2 Bước 4A mục 4: chuyển tuyến trên khi có triệu chứng tăng glucose kèm mất nước, sốt kèm glucose cao, viêm phổi. ADA 2026 mục 6: đi khám ngay khi không uống được nước, nôn kéo dài; nghi HHS thì điều trị nội trú. ADA/EASD 2024 mục 3, 4: DKA vừa, nặng hoặc có bệnh nặng làm khởi phát điều trị ở đơn vị chăm sóc trung gian hoặc ICU. Loại xe, thời gian chuyển: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lập đường truyền tĩnh mạch ngay, bắt đầu truyền NaCl 0,9% trong lúc chờ xe: 15–20 mL/kg/giờ ≈ 1,1–1,5 L/giờ nếu không sốc, hoặc 500–1000 mL/giờ trong 2–4 giờ đầu, theo dõi sát nguy cơ quá tải dịch",
+     "v": "c",
+     "n": "QĐ 5481 Phần 7 mục 4.2a, d: NaCl 0,9%; có giảm thể tích nhưng không sốc 15–20 mL/kg/giờ. ADA/EASD 2024 mục 4: 500–1000 mL/giờ trong 2–4 giờ đầu khi không có bệnh thận hoặc tim. Hai nguồn khác tốc độ nên ghi cả hai (sổ mâu thuẫn mới). Tốc độ riêng cho đoạn chờ chuyển tại phòng khám không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tạm ngưng metformin và gliclazide; ghi rõ liều insulin glargine và giờ tiêm cuối để nơi nhận quyết định",
+     "v": "c",
+     "n": "ADA 2026 mục 6 (Intercurrent illness): ngưng metformin khi không duy trì được ăn uống hoặc nghi tổn thương thận cấp; QĐ 5481 Phần 7 mục 3.4 (toan lactic liên quan metformin). Insulin trong DKA do bệnh viện truyền tĩnh mạch (QĐ 5481 mục 4.4)."
+    },
+    {
+     "t": "Theo dõi sinh hiệu, SpO2, đường huyết mao mạch, tri giác trong lúc chờ; không cho ăn uống nếu còn nôn",
+     "v": "c",
+     "n": "QĐ 5481 Phần 7 mục 5.1: theo dõi đường huyết mao mạch, thể tích tuần hoàn. Nhịn ăn khi nôn, oxy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bàn giao: giấy chuyển tuyến ghi diễn tiến 4 ngày, thuốc đang dùng và liều insulin, kết quả glucose, ceton niệu, Na, K, creatinin, bạch cầu, CRP, sinh hiệu, thuốc và dịch đã cho, thời gian; gọi điện báo trước",
+     "v": "c",
+     "n": "Cách bàn giao không có trong tài liệu đã tải; là thực hành của ca. Nội dung xét nghiệm cần có: QĐ 5481 Phần 7 mục 2.2 (glucose, điện giải, ure, creatinin, công thức máu, ceton, khí máu, điện tim)."
+    },
+    {
+     "t": "Tiêm kháng sinh liều đầu tại phòng khám trước chuyển",
+     "v": "a",
+     "n": "QĐ 2147/2026 mục 5.2: kháng sinh sớm trong 4 giờ đầu sau nhập viện, nên đường truyền tĩnh mạch; không có hướng dẫn cho tuyến không có X-quang. Chấp nhận nếu không làm chậm chuyển."
+    },
+    {
+     "t": "Tiêm insulin dưới da tại phòng khám trước chuyển",
+     "v": "a",
+     "n": "QĐ 5481 Phần 7 mục 4.4d: DKA nhẹ có thể dùng insulin dưới da; nhưng không biết pH, và kali cần theo dõi trước khi cho insulin (mục 4.4a). Không làm cũng không trừ điểm."
+    },
+    {
+     "t": "Cho về nhà uống kháng sinh (amoxicillin/acid clavulanic), tăng insulin nền, hẹn tái khám sau 24 giờ",
+     "v": "w",
+     "n": "Đang nôn, mất nước, nghi DKA kèm viêm phổi, tổn thương thận cấp: ADA 2026 mục 6; QĐ 5904 Phần 2 Bước 4A mục 4; QĐ 5481 Phần 7 mục 1."
+    },
+    {
+     "t": "Giữ lại phòng khám điều trị: truyền dịch và insulin dưới da vài giờ rồi cho về nếu khá hơn",
+     "v": "w",
+     "n": "Không có khí máu, điện giải theo dõi mỗi 2–4 giờ, X-quang (QĐ 5481 Phần 7 mục 5.1; ADA/EASD 2024 mục 4)."
+    },
+    {
+     "t": "Truyền bicarbonat để chữa toan",
+     "v": "w",
+     "n": "Không biết pH; chỉ cân nhắc khi pH ≤ 6,9 (QĐ 5481 Phần 7 mục 4.5)."
+    },
+    {
+     "t": "Tiếp tục gliclazide và metformin, tăng liều insulin nền lên 20 đơn vị rồi đo lại",
+     "v": "w",
+     "n": "Thuốc uống khi nôn, nghi toan lactic, tổn thương thận cấp (ADA 2026 mục 6; QĐ 5481 Phần 7 mục 3.4); insulin dưới da liều cố định không thay được bù dịch và theo dõi (QĐ 5481 mục 4.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 mất bù cấp, nghi nhiễm toan ceton (glucose 26,4 mmol/L, ceton niệu 3+, thở nhanh sâu, hơi thở mùi acetone, nôn, đau bụng); chưa xác nhận được vì cơ sở không có khí máu",
+     "Yếu tố thúc đẩy: viêm phổi cộng đồng nghi ngờ thùy dưới phải (sốt 38,8, ran nổ đáy phổi phải, BC 17,6, CRP 148), CURB-65 = 2 điểm",
+     "Tổn thương thận cấp do mất nước (creatinin 88 → 148 µmol/L), mất nước nặng (mạch 118, HA 98/58)",
+     "Chưa tăng áp lực thẩm thấu (áp lực thẩm thấu hiệu dụng ≈ 284 mOsm/kg, glucose < 33,3 mmol/L)",
+     "Chưa loại được nhiễm toan lactic do metformin"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến từ lượt trước và triệu chứng tiêu hóa, hô hấp, hỏi có tiêm insulin không → khám toàn trạng, hô hấp, bụng → xét nghiệm glucose, nước tiểu, điện giải, creatinin, công thức máu, CRP → nhận ra không thể xác nhận pH/bicarbonat tại chỗ.",
+     "Nặng hơn so với lượt 1: lúc đó ceton âm, tỉnh, ăn uống được; nay nôn, thở sâu, ceton 3+, glucose 26,4 dù tiêm insulin nền đều. Cơn tăng đường huyết cần ba tiêu chí: tăng glucose hoặc đã có ĐTĐ, ceton máu hoặc niệu, toan chuyển hóa (ADA/EASD 2024 mục 3); QĐ 5481 Phần 7 Bảng 7 yêu cầu glucose ≥ 14,0 mmol/L cùng pH, bicarbonat. Hai nguồn đều cần khí máu mà cơ sở không có, nên ghi 'nghi'.",
+     "Viêm phổi là yếu tố thúc đẩy: nhiễm trùng, đặc biệt viêm phổi, là nguyên nhân thúc đẩy thường gặp nhất (ADA/EASD 2024 phần mở đầu; QĐ 5481 Phần 7 mục 1). CURB-65 = 2 (ure 11,8 > 7; huyết áp tâm trương 58 ≤ 60; nhịp thở 28 < 30; tỉnh; < 65 tuổi) cho nhóm nhập viện ngắn hạn (QĐ 2147/2026 mục 3.2.1); ĐTĐ là bệnh đồng mắc (mục 5.3.1), người nhập viện bắt đầu bằng kháng sinh tĩnh mạch (mục 5.2).",
+     "Không phải tăng áp lực thẩm thấu: glucose < 33,3, ALTT hiệu dụng 2 × 129 + 26,4 ≈ 284 < 320 (QĐ 5481 Phần 7 mục 2.4, Bảng 7). Na hiệu chỉnh ≈ 135 mmol/L (mục 2.2).",
+     "Tổn thương thận cấp: creatinin 148/88 = 1,7 lần mức nền (KDIGO 2012 KC 2.1.1). Kali 5,2 chưa cần bù; K > 5,3 thì tạm chưa bù, 3,3–5,3 thì pha KCl 20–30 mmol/L (QĐ 5481 mục 4.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến cấp cứu là hướng đúng vì: nôn không uống bù được, mất nước nặng, thở nhanh sâu, nghi viêm phổi, tổn thương thận cấp, cơ sở chỉ có xét nghiệm cơ bản, không khí máu, X-quang, điện tim, không theo dõi hồi sức (QĐ 5904 Phần 2 Bước 4A mục 4; ADA 2026 mục 6; ADA/EASD 2024 mục 4, Bảng 2).",
+     "Trước chuyển: đường truyền, NaCl 0,9% (15–20 mL/kg/giờ ≈ 1,1–1,5 L/giờ theo QĐ 5481 mục 4.2d, hoặc 500–1000 mL/giờ trong 2–4 giờ đầu theo ADA/EASD 2024 mục 4; hai nguồn khác nhau nên ghi cả hai), thận trọng quá tải dịch. Ở bệnh viện: bù kali theo kali máu, insulin regular tĩnh mạch 0,1 UI/kg rồi 0,1 UI/kg/giờ khi K ≥ 3,3, glucose 5% khi glucose xuống 11,0 mmol/L (QĐ 5481 Phần 7 mục 4.2–4.6).",
+     "Ngưng metformin, gliclazide; kháng sinh liều đầu trong 4 giờ đầu nhập viện (QĐ 2147/2026 mục 5.2); không tiêm bicarbonat khi chưa biết pH (QĐ 5481 mục 4.5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9%",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "15–20 mL/kg/giờ (≈ 1,1–1,5 L/giờ) hoặc 500–1000 mL/giờ",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay khi có đường truyền, trong lúc chờ xe",
+      "so_ngay": "Cho đến khi bàn giao",
+      "ghi_chu": "QĐ 5481 Phần 7 mục 4.2d (15–20 mL/kg/giờ, không sốc); ADA/EASD 2024 mục 4 (500–1000 mL/giờ trong 2–4 giờ đầu, thận trọng quá tải dịch). Tốc độ tại phòng khám trước chuyển không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "1000 mg",
+      "lieu": "TẠM NGƯNG",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Đến khi bệnh viện đánh giá lại",
+      "ghi_chu": "Nôn, tổn thương thận cấp, nguy cơ toan lactic (ADA 2026 mục 6; QĐ 5481 Phần 7 mục 3.4). Thời điểm dùng lại không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Gliclazide MR",
+      "ham_luong": "60 mg",
+      "lieu": "TẠM NGƯNG",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Đến khi ăn uống lại và bệnh viện đánh giá",
+      "ghi_chu": "Không ăn uống được: nguy cơ hạ đường huyết (QĐ 5481 Phần 4 mục 4.2j). Thời điểm dùng lại không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin glargine",
+      "ham_luong": "100 đơn vị/mL",
+      "lieu": "Ghi giờ và liều tiêm cuối (10 đơn vị tối qua); nơi nhận quyết định",
+      "duong": "Tiêm dưới da (tạm do bệnh viện chuyển insulin regular tĩnh mạch)",
+      "thoi_diem": "—",
+      "so_ngay": "Theo bệnh viện",
+      "ghi_chu": "Điều trị DKA bằng insulin regular tĩnh mạch ở bệnh viện (QĐ 5481 Phần 7 mục 4.4). Có hay không tiêm nền trong lúc truyền: không có trong tài liệu đã tải cho ca này."
+     }
+    ],
+    "dan_do": [
+     "Giải thích cho anh và người nhà: đường huyết rất cao kèm viêm phổi đang làm cơ thể mất nước và nhiễm toan nên phải vào bệnh viện ngay, không thể điều trị ở nhà hay ở phòng khám này.",
+     "Không tự uống thêm thuốc, kể cả kháng sinh và thuốc tiểu đường, trước khi vào viện; mang theo toàn bộ thuốc, bút insulin, sổ đường huyết và giấy chuyển tuyến.",
+     "Người nhà đi cùng anh, báo bệnh viện về bệnh nhân ĐTĐ có nghi nhiễm toan ceton và viêm phổi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Bảo được chuyển bằng xe cấp cứu tới bệnh viện tỉnh trong khoảng 40 phút. Khí máu pH 7,19, HCO3 11 mmol/L, β-hydroxybutyrat 5,4 mmol/L (DKA mức vừa), X-quang viêm phổi thùy dưới phải. Anh được truyền dịch, bù kali, insulin và kháng sinh tĩnh mạch, hết toan sau khoảng 18 giờ, xuất viện ngày thứ 6 với insulin nền và metformin. Kháng thể GAD âm tính, C-peptid còn: vẫn là ĐTĐ típ 2. Ba tháng sau HbA1c 7,3%; anh tiêm vắc xin cúm, phế cầu và rủ anh Tùng đi tái khám định kỳ. (Số liệu bệnh viện là tường thuật của ca.)",
+ "nhieu": [
+  "Đòi kháng sinh: bác sĩ nói, ví dụ: 'Tôi hiểu anh lo vì chuyện anh Tùng. Nhưng cảm lạnh và viêm phế quản do virus, kháng sinh không diệt được virus. Nó còn có thể làm thuốc gliclazide của anh gây hạ đường huyết. Điều giúp anh an toàn là tăng thuốc tiểu đường, nắm các dấu hiệu phải đi khám ngay và tái khám sau một tuần.' Ghi nhận nỗi lo rồi mới từ chối (WHO AWaRe 2022 mục 4; ADA 2026 mục 6).",
+  "Thuốc nhỏ mắt corticoid giấu: chỉ hiện ra khi hỏi thuốc nhỏ mắt hoặc thuốc tự mua."
+ ],
+ "bai_hoc_bien": [
+  "Bệnh nhân ĐTĐ đến vì bệnh cấp tính nhẹ: vẫn phải đo glucose, hỏi triệu chứng tăng đường huyết và dấu hiệu nguy hiểm (nôn, đau bụng, thở sâu); hỏi 'anh còn lo gì' để lộ lý do thật (ADA 2026 mục 6; QĐ 5481 Phần 7 mục 2.1).",
+  "Bệnh nhiễm trùng thông thường có thể thúc đẩy cơn tăng đường huyết: nhiễm trùng, đặc biệt viêm phổi, là yếu tố thúc đẩy phổ biến nhất (ADA/EASD 2024; QĐ 5481 Phần 7 mục 1). Cho kế hoạch ngày ốm và hẹn tái khám sớm khi khởi insulin.",
+  "Không kê kháng sinh cho bệnh virus (WHO AWaRe 2022 mục 4); kháng sinh nhóm quinolon, macrolid, SMX-TMP làm sulfonylurea gây hạ đường huyết (ADA 2026 mục 6).",
+  "Nhận ra giới hạn của tuyến mình: không có khí máu, X-quang, theo dõi hồi sức thì chuyển tuyến cấp cứu, trước đó lập đường truyền, bù dịch (QĐ 5904 Phần 2 Bước 4A; QĐ 5481 Phần 7 mục 4.2).",
+  "Nặng hơn ở lượt tái khám: đánh giá lại toàn diện, đừng neo vào chẩn đoán lượt trước; hỏi cả thuốc nhỏ mắt, thuốc tự mua."
+ ],
+ "diem_nho": [
+  "HbA1c < 7%; glucose đói 4,4–7,2 mmol/L (ADA 2026 KC 6.3a; QĐ 5481 Bảng 4). Có triệu chứng hoặc HbA1c ≥ 9% / > 10% / glucose ≥ 16,7: cân nhắc insulin (QĐ 5481 mục 4.2f; ADA 2026 KC 9.20); chưa tăng nặng thì ưu tiên GLP-1 RA (KC 9.21).",
+  "Cờ đỏ ĐTĐ cần đi khám ngay: nôn không uống được, nôn kéo dài, thở nhanh sâu, đau bụng, lơ mơ, ceton dương tính với glucose > 11,1 mmol/L (ADA 2026 mục 6; QĐ 5481 Phần 7 mục 2.1).",
+  "Tiêu chí DKA: glucose ≥ 11,1 hoặc đã có ĐTĐ, ceton máu ≥ 3,0 mmol/L (niệu ≥ 2+), pH < 7,3 hoặc HCO3 < 18 (ADA/EASD 2024 mục 3–4, Bảng 2). Tăng áp lực thẩm thấu: glucose > 33,3, ALTT hiệu dụng > 320 (QĐ 5481 Bảng 7).",
+  "Bù dịch DKA: NaCl 0,9% 15–20 mL/kg/giờ (QĐ 5481 mục 4.2d) hoặc 500–1000 mL/giờ trong 2–4 giờ đầu (ADA/EASD 2024 mục 4).",
+  "Sulfonylurea + quinolon, clarithromycin, SMX-TMP, metronidazol, fluconazol: nguy cơ hạ đường huyết (ADA 2026 mục 6)."
+ ],
+ "nguon": [
+  "ADA Standards of Care in Diabetes 2026 (TL-0296) – ĐÃ ĐỌC mục 2 (Hình 2.1, AABBCC, glucocorticoid), mục 6 (KC 6.3a, 6.15, 6.16; Intercurrent illness, Hyperglycemic crises), mục 9 (KC 9.15, 9.17, 9.20–9.23, Hình 9.5), mục 10 (KC 10.18, 10.20, Bảng 10.1), mục 11 (KC 11.1a). KC = khuyến cáo.",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 (TL-0031) – ĐÃ ĐỌC Phần 2 (Bảng 1, mục 2.4), Phần 3 (mục 2.3), Phần 4 (Bảng 4, mục 4.2a–k, Bảng 14, mục 8, 9), Phần 6 (mục 1c, 3c), Phần 7 (mục 1–5), Phần 10 mục 2.",
+  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 (TL-0284) Phần 2 (ĐTĐ tại trạm y tế xã) Bước 3, 4, 5 (viết cho trạm y tế xã; ca dùng tiêu chí chuyển tuyến làm tham chiếu).",
+  "Consensus ADA/EASD/JBDS/AACE/DTS 2024 – Hyperglycemic crises in adults with diabetes (TL-0064) – mục 3, Bảng 2, mục 4.",
+  "WHO AWaRe antibiotic book 2022 (TL-0018) – Primary health care mục 4 Bronchitis (tr. 33–35, Bảng 4.2), mục 6 Pharyngitis.",
+  "Bộ Y tế – QĐ 40/QĐ-BYT 2015 Hướng dẫn chẩn đoán và điều trị các bệnh về mắt (TL-0242) – Viêm kết mạc dị ứng cấp tính (tr. 40–41), Viêm kết giác mạc mùa xuân (tr. 44–46).",
+  "Bộ Y tế – QĐ 2147/QĐ-BYT 2026 Viêm phổi mắc phải cộng đồng ở người lớn (TL-0121) – mục 3.1.1–3.1.3, 3.2.1 (CURB-65), 5.2, 5.3.1; KDIGO 2012 AKI (TL-0329) KC 2.1.1."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-18: ca viết mới. Tài liệu đã đọc: TL-0296 (ADA 2026 mục 2, 6, 9, 10), TL-0031 (QĐ 5481), TL-0284 (QĐ 5904), TL-0064 (ADA/EASD 2024), TL-0018 (AWaRe 2022), TL-0242 (QĐ 40/2015), TL-0121 (QĐ 2147/2026), TL-0329 (KDIGO 2012).",
+  "Theo sổ mâu thuẫn 12/10/2026 ghi cả hai cách: ngưỡng HbA1c cân nhắc insulin (QĐ 5481 ≥ 9% / ADA 2026 > 10% hoặc có triệu chứng), glucose xử trí hạ đường huyết (10–15 g QĐ 5904 / 15–20 g QĐ 5481), tiêu chí glucose DKA (≥ 14,0 QĐ 5481 / ≥ 11,1 hoặc đã có ĐTĐ ADA/EASD 2024). Mâu thuẫn mới đề xuất: tốc độ NaCl 0,9% ban đầu trong DKA (MT-0273_mau_thuan.md).",
+  "Thiếu tài liệu: ảnh hưởng của corticoid nhỏ mắt lên đường huyết; xử trí DKA/viêm phổi trước chuyển ở tuyến chỉ có xét nghiệm cơ bản (lượng dịch, oxy, bàn giao, loại xe); giờ tiêm insulin nền; mốc tái khám 1 tuần; tên, liều GLP-1 RA; số giọt thuốc nhỏ mắt; thời điểm dùng lại metformin, gliclazide."
+ ]
+}

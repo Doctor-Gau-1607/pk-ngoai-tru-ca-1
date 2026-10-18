@@ -1,0 +1,906 @@
+{
+ "ma_ca": "MT-0649",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 18/10/2026",
+ "benh": "MT_btm_g3b_g4_tien_trien",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Bệnh thận mạn",
+  "chan_doan_phai_loai_tru": [
+   "Tổn thương thận cấp",
+   "Hẹp ĐM thận"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Bộ đội",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm, từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Vũ Thị Kim Oanh",
+  "tuoi": 51,
+  "gioi": "Nữ",
+  "nghe": "Bộ đội (thiếu tá hậu cần)",
+  "can_nang": 58,
+  "chieu_cao": 157,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nghiêm, gọn, quen ra quyết định nhanh; ghét để người khác thấy mình yếu, hay nhìn đồng hồ, trả lời ngắn khi bị hỏi chuyện riêng tư. Tiếc tiền vì con gái đang học đại học; tự trả tiền khám vì không muốn khám ở bệnh xá đơn vị. Hay tự tra mạng.",
+  "kieu_nhieu": "Ngại ngùng: lúc đầu chỉ khai mệt, ăn kém, nước tiểu bọt và xin kháng sinh; giấu ngứa khắp người, tiểu đêm, són tiểu khi ho vì nghĩ là bệnh phụ khoa. Chỉ nói khi bác sĩ hỏi riêng tư, nhẹ nhàng hoặc cam đoan giữ kín. Không đủ tiền: hỏi giá từng xét nghiệm, từ chối cái gì 'không đổi quyết định'; đồng ý khi bác sĩ giải thích thứ tự ưu tiên.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d6a47e",
+   "toc": "#2b221d",
+   "kieuToc": "ngan",
+   "ao": "#4a5a3c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mệt, ăn kém, nước tiểu nhiều bọt; tự uống amoxicillin 5 ngày không đỡ, xin đổi kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 51 tuổi, sĩ quan hậu cần quân đội, đến một mình bằng thường phục, nói gọn, hay nhìn đồng hồ. Chị cho là mình viêm đường tiểu, đã tự uống amoxicillin 5 ngày không đỡ, nay xin đổi kháng sinh và chỉ muốn thử nước tiểu «cho nhanh». Sinh hiệu lúc tiếp đón: mạch 84 l/p, HA 176/104 mmHg, nhiệt 36,8 độ, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nếu giữ chị Oanh nhập viện với chẩn đoán suy thận cấp để truyền dịch, chị mất nhiều ngày công, phải báo đơn vị (đúng điều chị ngại nhất) trong khi bệnh đã mạn: creatinin tăng chậm 20 tháng (112 → 141 → 168 µmol/L), thận nhỏ, không đạt tiêu chuẩn AKI (KDIGO AKI 2012 khuyến cáo 2.1.1; QĐ 2388 mục 4.11.1). Chị khó đủ 650.000 đồng, nhiều khả năng tự xin về và không quay lại.",
+    "chuyen_tuyen": "Nếu chuyển chị Oanh lên bệnh viện ngay, khám thận học là đúng hướng (QĐ 2388 mục 4.2) nhưng không cấp trong ngày. Chị đang ngại, chỉ có 650.000 đồng, nhiều khả năng không đi, và huyết áp 177/104 vẫn không được điều trị. Hợp lý hơn là bắt đầu thuốc bảo vệ thận ngay (KDIGO 2024 điểm thực hành 1.1.3.3) và kiểm tra sau 2–4 tuần (điểm thực hành 3.6.2)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi nghĩ mình bị viêm đường tiểu: nước tiểu có bọt, người mệt, ăn không ngon. Tôi tự mua amoxicillin uống 5 hôm mà không đỡ. Bác sĩ cho tôi loại kháng sinh khác, lấy mẫu nước tiểu thử giúp tôi. Tôi chỉ mang ít tiền thôi, làm cái nào cần thôi nhé.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "176/104",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 4–5 tháng nay mệt dần, ăn kém, sáng hay buồn nôn nhẹ; nước tiểu nhiều bọt khoảng 3 tháng. Chị tự cho là viêm đường tiểu nên 10 ngày trước mua amoxicillin 500 mg ở nhà thuốc gần doanh trại, uống 1 viên × 3 lần/ngày × 5 ngày, không đỡ. Nhà thuốc không hỏi gì, không đo huyết áp.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Khởi phát âm thầm; tự mua amoxicillin"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Không tiểu buốt, tiểu rắt, tiểu máu; không sốt, không đau hông lưng; lượng nước tiểu không giảm rõ. Chưa từng sỏi hay nhiễm trùng tiểu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có hội chứng nhiễm trùng tiểu"
+    },
+    {
+     "id": "ngai",
+     "noi_dung": "Hơn 2 tháng nay ngứa khắp người, nhất là lưng và bẹn, gãi trầy da, nặng về đêm nên mất ngủ. Tiểu đêm 3–4 lần, thỉnh thoảng són ít nước tiểu khi ho. Miệng có vị kim loại. Chị nghĩ là nấm hoặc bệnh phụ khoa, ngại nói, nhất là khi mình là chỉ huy đơn vị.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng tư, nhẹ nhàng về giấc ngủ, ngứa, tiểu đêm hoặc «chị còn khó chịu nào khó nói», hoặc cam đoan giữ kín.",
+     "k": 1,
+     "y": "Triệu chứng urê huyết bị giấu vì ngại (lý do thật)"
+    },
+    {
+     "id": "xn_cu",
+     "noi_dung": "Mang sổ khám sức khỏe định kỳ của đơn vị. 20 tháng trước: creatinin 112 µmol/L ghi «bình thường» (phiếu in khoảng chung 62–120), HA 150/90, protein niệu vết. 8 tháng trước: creatinin 141, ghi «hơi cao, uống nhiều nước, theo dõi». Không phiếu nào có eGFR; chưa ai làm lại xét nghiệm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bằng chứng tính mạn, tốc độ giảm eGFR; điểm gãy của chuỗi"
+    },
+    {
+     "id": "tha",
+     "noi_dung": "HA 140–150/90 ở các lần khám đơn vị khoảng 6 năm nay; chị cho là do căng thẳng nên chưa điều trị, không có máy đo ở nhà. Không đau đầu dữ dội, đau ngực, nhìn mờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tăng huyết áp nhiều năm chưa điều trị"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Ngoài amoxicillin: không NSAID, thuốc nam, thuốc «bổ thận», thực phẩm chức năng; thỉnh thoảng paracetamol 500 mg khi nhức đầu. Không dị ứng thuốc, dùng amoxicillin không ban, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc độc thận có tên"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Chị mang 650.000 đồng. Thẻ BHYT đăng ký ở bệnh xá đơn vị, khám ở đây chị tự trả; chị không muốn khám ở bệnh xá vì sợ bệnh bị ghi vào hồ sơ sức khỏe cán bộ. Con gái đang học đại học, chồng làm tự do. Chị hỏi giá trước từng xét nghiệm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc chi phí: xếp ưu tiên xét nghiệm"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi tựa lưng nghỉ 10 phút, băng đúng cỡ, đo hai lần cách 1 phút (QĐ 2388 mục 4.3.1): tay phải 178/104, tay trái 176/104 mmHg, mạch 84; hai tay chênh dưới 5 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Cân nặng 58 kg, cao 1,57 m, BMI 23,5. Da và kết mạc nhợt nhẹ. Không vã mồ hôi.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Hẹp tiểu động mạch lan tỏa, dấu bắt chéo động–tĩnh mạch rõ; không xuất huyết, xuất tiết, phù gai thị.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi, không T3, không tiếng cọ màng ngoài tim.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, không khối. Nghe thượng vị và hai bên cạnh rốn: không âm thổi. Không sờ thấy thận to, không cầu bàng quang. Gõ rung hố thắt lưng không đau.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Phù ấn lõm nhẹ (1+) hai mắt cá, không phù cùng cụt. Mạch mu chân bắt rõ.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Mẫu nước tiểu mới: vàng nhạt, trong; bọt mịn phủ mặt khoảng 3 phút mới tan.",
+     "k": 1,
+     "hien": "Vàng nhạt, trong, có bọt mịn."
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 12,4 mmol/L · Creatinin 168 µmol/L · eGFR 31,6 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 12.4,
+      "creat": 168,
+      "egfr": 31.6
+     },
+     "n": "G3b (QĐ 2388 mục 3.4.1, Bảng 7). So với 112 (eGFR 52) và 141 (eGFR 39) ở hai phiếu cũ, eGFR mất khoảng 12 mL/phút/năm, vượt 5 mL/phút/năm là tiêu chí chuyển bác sĩ thận (mục 4.2). Không đạt tiêu chuẩn AKI (KDIGO AKI 2012 khuyến cáo 2.1.1; QĐ 2388 mục 4.11.1)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 4,8 · Cl 104 mmol/L",
+     "ab": 0,
+     "bang": {
+      "na": 138,
+      "k": 4.8,
+      "cl": 104
+     },
+     "n": "Kali bình thường nên khởi thuốc RAS được; ngưỡng kali tối đa để khởi: không có trong tài liệu đã tải. Kiểm lại creatinin, kali sau 2–4 tuần (KDIGO 2024 điểm thực hành 3.6.2; QĐ 2388 mục 4.1.2.1)."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "UACR 940 mg/g (94 mg/mmol) – nhóm A3",
+     "ab": 1,
+     "n": "A3 là > 300 mg/g (QĐ 2388 Bảng 8); từ 700 mg/g không cần làm lại mẫu sáng hôm sau (mục 3.2.2). G3bA3 là ô đỏ: bác sĩ thận theo dõi (Bảng 9)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,012 · Protein 3+ · Hồng cầu âm tính · Bạch cầu âm tính · Nitrit âm tính · Glucose âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.012,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "3+",
+      "u_glu": "Âm tính",
+      "u_ery": "Âm tính"
+     },
+     "n": "Bạch cầu, nitrit âm: không nhiễm trùng tiểu, amoxicillin không có chỉ định. Không hồng cầu niệu; soi cặn không có trong danh mục."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L (ái toan 0,14) · Hb 104 g/L · MCV 87 fL · TC 246 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 63.0,
+      "neu": 4.28,
+      "lym_pct": 28.5,
+      "lym": 1.94,
+      "mono_pct": 6.0,
+      "mono": 0.41,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 3.7,
+      "hgb": 104,
+      "hct": 0.32,
+      "mcv": 87.0,
+      "mch": 28.1,
+      "mchc": 325,
+      "rdw": 14.0,
+      "plt": 246
+     }
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Thận phải 9,3 × 4,2 cm, thận trái 9,1 × 4,1 cm, cân xứng; nhu mô tăng âm, vỏ mỏng, mất ranh giới vỏ–tủy. Không sỏi, ứ nước, nang, khối. Bàng quang không tồn lưu nước tiểu.",
+     "ab": 1,
+     "n": "Thận nhỏ, vỏ mỏng là bằng chứng tính mạn (QĐ 2388 mục 3.3; KDIGO 2024 điểm thực hành 1.1.3.1); không ứ nước loại trừ tắc nghẽn; hai thận cân xứng chống hẹp động mạch thận một bên (ESC PAD 2024 Bảng 13). Số đo thận bình thường: không có trong tài liệu đã tải."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 84 l/p, PR 0,16 s, QRS hẹp, sóng T bình thường. Điện thế thất trái cao ở V5–V6.",
+     "ab": 1
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh thận mạn G3b A3 (eGFR 31,6; UACR 940 mg/g), tiến triển nhanh, nguyên nhân chưa rõ, nghi bệnh thận do tăng huyết áp mạn hoặc bệnh cầu thận mạn",
+     "ok": 1,
+     "n": "eGFR < 60 và UACR > 30 mg/g trên 3 tháng: creatinin 112 → 141 → 168 trong 20 tháng, thận nhỏ tăng âm (QĐ 2388 mục 3.3, Bảng 6; KDIGO 2024 điểm thực hành 1.1.3.1). Nguyên nhân chưa rõ, mất MLCT trên 5 mL/phút/năm: khám thận học (mục 4.2)."
+    },
+    {
+     "t": "Tăng huyết áp mạn chưa điều trị (177/104 mmHg), tổn thương cơ quan đích: thận, võng mạc, điện thế thất trái cao",
+     "ok": 1,
+     "n": "HA ≥ 140/90 (QĐ 2388 mục 4.3.1); chưa tới ngưỡng cơn THA 180/120 nên không cấp cứu."
+    },
+    {
+     "t": "Thiếu máu nhẹ do bệnh thận mạn (Hb 104 g/L); triệu chứng urê huyết sớm: mệt, chán ăn, buồn nôn, ngứa, tiểu đêm",
+     "ok": 1,
+     "n": "Hb < 120 g/L nữ (QĐ 2388 mục 4.4.1). Hỏi triệu chứng urê huyết ở mọi lần khám (KDIGO 2024 điểm thực hành 5.2.2.1); ngứa, tiểu đêm bị giấu vì ngại."
+    },
+    {
+     "t": "Tổn thương thận cấp (AKI)",
+     "n": "Creatinin tăng từ từ 20 tháng, không đạt tiêu chuẩn AKI (KDIGO AKI 2012 khuyến cáo 2.1.1; QĐ 2388 mục 4.11.1); thận nhỏ, thiếu máu. Chưa loại hẳn AKI nhẹ chồng lên: kiểm lại sau 2–4 tuần."
+    },
+    {
+     "t": "Hẹp động mạch thận",
+     "n": "Hai thận cân xứng, không âm thổi bụng, không phù phổi cấp, chưa dùng RAS; chỉ «suy thận chưa giải thích được» có thể thỏa (ESC PAD 2024 Bảng 13)."
+    },
+    {
+     "t": "Viêm đường tiểu hoặc viêm thận kẽ do amoxicillin",
+     "n": "Không triệu chứng tiết niệu, nitrit và bạch cầu niệu âm, không sốt, ban, ái toan 2%; creatinin đã tăng trước khi dùng thuốc (QĐ 2388 mục 4.11.2.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kê kháng sinh mới; giải thích vì sao không phải viêm đường tiểu",
+     "v": "c",
+     "n": "Nitrit, bạch cầu niệu âm, không triệu chứng. Tránh thuốc không cần thiết, rà thuốc độc thận ở BTM (QĐ 2388 mục 7.4.2; KDIGO 2024 điểm thực hành 4.1.1). Nếu cần amoxicillin sau này, chỉnh liều theo chức năng thận (QĐ 2388 mục 7.7.5)."
+    },
+    {
+     "t": "Giải thích đây là bệnh thận mạn có từ trước (G3b A3), không phải nhiễm trùng; nói trước từng xét nghiệm trả lời câu hỏi nào, cái nào hoãn, và cam đoan giữ kín",
+     "v": "c",
+     "n": "Có số đo cũ và thận nhỏ nên xác nhận tính mạn (QĐ 2388 mục 3.3; KDIGO 2024 điểm thực hành 1.1.3.2). Gói tối thiểu 470.000 đồng trong 650.000: creatinin–ure–eGFR, điện giải, UACR, nước tiểu, công thức máu, siêu âm bụng."
+    },
+    {
+     "t": "Bắt đầu losartan 25 mg (hoặc 50 mg) mỗi sáng; kiểm lại HA, creatinin, kali sau 2–4 tuần; không phối hợp ƯCMC",
+     "v": "c",
+     "n": "A3 không ĐTĐ: bắt đầu ƯCMC/ƯCTT (KDIGO 2024 khuyến cáo 3.6.1, 1B; QĐ 2388 mục 4.3.2.2). Khởi đầu 25 mg (QĐ 5904/2019 Phần 3 mục G) hoặc 50 mg (QĐ 2388 Bảng 12), tối đa 100 mg; 25 mg thận trọng hơn khi MLCT gần 30 (QĐ 2388 mục 7.4.2)."
+    },
+    {
+     "t": "Đặt mục tiêu HA tâm thu dưới 120 hoặc 120–129 mmHg nếu dung nạp, hạ dần; nới nếu choáng",
+     "v": "c",
+     "n": "KDIGO 2024 khuyến cáo 3.4.1 (2B): < 120; ESC 2026 mục 5.2.1, Bảng 9 (I, A): 120–129 khi eGFR ≥ 30, không chọn < 120 vì SPRINT đo không người đo cạnh và nguy cơ giảm eGFR. QĐ 2388 Bảng 11 liệt kê cả hai. Nới khi hạ HA tư thế (KDIGO điểm thực hành 3.4.1)."
+    },
+    {
+     "t": "Có chỉ định SGLT2i (dapagliflozin 10 mg/ngày): khởi cùng lúc với losartan hoặc sau lần kiểm tra creatinin–kali 2 tuần",
+     "v": "c",
+     "n": "eGFR ≥ 20 và UACR ≥ 200 mg/g, 1A (KDIGO 2024 khuyến cáo 3.7.2; QĐ 2388 mục 4.1.2.1; ESC 2026 Bảng 12). Thứ tự khởi RAS và SGLT2i chưa biết tối ưu (ESC 2026 mục 5.5.5); BHYT chi trả: không có trong tài liệu đã tải. Chị tự trả nên khởi sau 2 tuần cũng đúng."
+    },
+    {
+     "t": "Dặn ăn nhạt dưới 5 g NaCl/ngày; tránh NSAID, thuốc nam, thực phẩm chức năng; hỏi bác sĩ trước khi dùng thuốc hay thực phẩm bổ sung",
+     "v": "c",
+     "n": "Natri dưới 2 g (NaCl dưới 5 g): KDIGO 2024 khuyến cáo 3.3.2.1, ESC 2026 Bảng 8, QĐ 2388 mục 4.1.2.1. Tránh NSAID, không dùng bài thuốc dân gian (1B), hỏi bác sĩ trước thuốc không kê đơn và thực phẩm chức năng (QĐ 2388 mục 7.4.2; KDIGO điểm thực hành 4.1.3)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–3 tuần kèm creatinin, kali; giấy giới thiệu khám thận học có kế hoạch; atorvastatin 20 mg có thể khởi ngay hoặc ở lần sau",
+     "v": "c",
+     "n": "QĐ 2388 mục 4.2: nguyên nhân chưa rõ, mất MLCT > 5 mL/phút/năm, albumin niệu > 300 mg/g; Bảng 9: G3bA3 do bác sĩ thận theo dõi. KDIGO 2024 Hình 48: nguyên nhân chưa rõ, UACR > 700."
+    },
+    {
+     "t": "Chụp CT bụng có cản quang để tìm nguyên nhân",
+     "v": "w",
+     "n": "Cơ sở không có CT; thuốc cản quang iod bị hạn chế ở BTM (QĐ 2388 mục 7.5.1). Siêu âm đã trả lời câu hỏi cần thiết."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh thận mạn G3b A3 (eGFR 31,6; UACR 940 mg/g), tiến triển nhanh (mất khoảng 12 mL/phút/năm), nguyên nhân chưa rõ; nguy cơ rất cao (ô đỏ)",
+     "Tăng huyết áp mạn chưa điều trị (177/104) có tổn thương cơ quan đích: thận, võng mạc, điện thế thất trái",
+     "Thiếu máu nhẹ do bệnh thận mạn (Hb 104 g/L); triệu chứng urê huyết sớm (mệt, chán ăn, buồn nôn, ngứa, tiểu đêm)",
+     "Không nhiễm trùng tiểu, không đạt tiêu chuẩn AKI; hẹp động mạch thận chưa loại hẳn",
+     "Lý do thật: ngại ngùng nên giấu ngứa, tiểu đêm; ngân sách 650.000 đồng, sợ bệnh bị ghi vào hồ sơ sức khỏe"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi mốc cuối cùng thận bình thường, xin xem sổ khám sức khỏe cũ, hỏi riêng tư về ngủ, ngứa, tiểu đêm, rà thuốc có tên; (2) khám HA chuẩn hóa, đáy mắt, nghe bụng, phù; (3) xét nghiệm theo thứ tự đổi quyết định: creatinin–ure–eGFR, kali, UACR, nước tiểu, công thức máu, siêu âm bụng (470.000 đồng); (4) chẩn đoán; (5) xử trí.",
+     "Vì sao BTM chứ không phải viêm đường tiểu hay AKI: có số đo cũ, thận nhỏ tăng âm, thiếu máu, UACR 940 mg/g, nitrit và bạch cầu niệu âm (QĐ 2388 mục 3.3, Bảng 6; KDIGO 2024 điểm thực hành 1.1.3.1; KDIGO AKI 2012 khuyến cáo 2.1.1).",
+     "Điểm gãy của chuỗi: phiếu cũ in khoảng chung 62–120 µmol/L nên creatinin 112 ở nữ được ghi «bình thường» (khoảng nữ trong bảng tham chiếu app 53–100) và không ai tính eGFR dù KDIGO 2024 khuyến cáo 1.1.2.1 dùng eGFR để phân giai đoạn; lần 141 chỉ dặn «uống nhiều nước». Ngứa, tiểu đêm bị bỏ sót vì chị giấu: chỉ hỏi riêng tư, cam đoan giữ kín mới lộ."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh. Lời nói: «Chị Oanh, nước tiểu của chị không có dấu hiệu nhiễm trùng. Kháng sinh không làm chị đỡ mà còn khiến thận phải xử lý thêm thuốc. Thứ làm chị mệt, ngứa và có bọt là thận đang yếu từ trước. Tôi sẽ nói rõ từng bước và từng khoản tiền.» (QĐ 2388 mục 7.4.2).",
+     "Losartan 25 mg (QĐ 5904/2019 Phần 3 mục G) hoặc 50 mg (QĐ 2388 Bảng 12), kiểm sau 2–4 tuần; ngừng khi creatinin tăng trên 30% trong 4 tuần (KDIGO điểm thực hành 3.6.4) hoặc trên 25% (QĐ 2388 mục 7.4.2, thận trọng hơn). Mục tiêu HA tâm thu: dưới 120 (KDIGO) hoặc 120–129 mmHg (ESC 2026 mục 5.2.1), cả hai đều đúng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Losartan",
+      "ham_luong": "25 mg",
+      "lieu": "1 viên",
+      "duong": "uống",
+      "thoi_diem": "mỗi sáng",
+      "so_ngay": "Dùng lâu dài; kiểm HA, creatinin, kali sau 2–3 tuần rồi chỉnh liều",
+      "ghi_chu": "Khởi đầu 25 mg (QĐ 5904/2019 Phần 3 mục G) hoặc 50 mg (QĐ 2388 Bảng 12); không chỉnh liều theo chức năng thận (QĐ 2388 Bảng 12); không dùng cùng ƯCMC (KDIGO 2024 khuyến cáo 3.6.4)."
+     }
+    ],
+    "dan_do": [
+     "Ăn nhạt: bỏ muối để trên bàn ăn, bớt nước mắm, cá kho mặn, dưa muối, đồ chế biến sẵn (dưới 5 g NaCl/ngày; KDIGO 2024 khuyến cáo 3.3.2.1; QĐ 5904/2019 Phụ lục 3.2). Kali 4,8 nên chưa cần hạn chế kali. Không tự dùng thuốc nam, thực phẩm chức năng, thuốc giảm đau chống viêm, muối thay thế hay thức uống «bổ thận» khi chưa hỏi bác sĩ (QĐ 2388 mục 7.4.2).",
+     "Tái khám sau 2–3 tuần, mang sổ khám sức khỏe và vỏ thuốc; làm lại creatinin, kali trước khi tăng thuốc (KDIGO 2024 điểm thực hành 3.6.2). Thông tin bệnh được giữ bí mật y khoa; việc báo đơn vị là quyết định của chị."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ba tuần sau, chị Oanh trở lại đúng hẹn, mặc thường phục, trông mệt và xanh hơn lần trước. Chị nói «không đỡ, còn nặng hơn»: mệt, buồn nôn, ngứa nhiều hơn, hai chân phù. Chị mang theo máy đo huyết áp cổ tay mới mua và cuốn sổ ghi số đo. Sinh hiệu lúc tiếp đón: mạch 82 l/p, HA 168/100 mmHg, nhiệt 36,7 độ, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nếu giữ chị Oanh nhập viện vì kali 5,8, chị ở lại nhiều ngày, phải báo đơn vị và chi vượt xa 600.000 đồng, trong khi điện tim không có dấu đe dọa, không AKI, không yếu cơ. KDIGO 2024 Bảng 28 chỉ xếp xử trí tại bệnh viện cho kali 6,0–6,4 kèm AKI hoặc người không khỏe, và xử trí ngay từ 6,5. Nhiều khả năng chị xin về sớm và bỏ lịch khám thận học.",
+    "cap_cuu": "Nếu gọi 115 chuyển chị Oanh đi ngay, chị bị đưa vào phòng cấp cứu khi tri giác tỉnh, điện tim không có sóng T nhọn, PR dài hay QRS giãn. Cấp cứu hạ kali (canxi tĩnh mạch, glucose–insulin) dành cho kali trên 7 hoặc điện tim đe dọa (QĐ 2388 mục 4.9.3.1). Chị sẽ sợ tốn kém và đứt liên lạc với phòng khám, dù việc cần làm là bỏ muối kali và kiểm lại kali sau vài ngày."
+   },
+   "loi_mo": "Bác sĩ, tôi uống thuốc huyết áp đều rồi mà người còn mệt hơn, buồn nôn, ngứa cả đêm, chân phù lên. Số đo ở nhà vẫn 160–170. Tôi sợ thuốc này không hợp. Hôm nay tôi mang 600.000 đồng, bác sĩ làm cái nào bắt buộc thôi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "168/100",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống losartan 25 mg mỗi sáng đủ 21 ngày, không bỏ liều; không ho, không choáng, không đau đầu. Chưa mua dapagliflozin vì giá. HA đo ở nhà 3 ngày gần đây: 160–172/94–102. Lịch khám thận học đã hẹn, còn khoảng 4 tuần nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc tốt: loại trừ nguyên nhân «không đỡ» do bỏ thuốc"
+    },
+    {
+     "id": "trieu",
+     "noi_dung": "Mệt nhiều hơn, buồn nôn buổi sáng, ăn được nửa bát cơm; ngứa nặng về đêm. Hai chân phù hơn, tăng khoảng 1,5 kg. Hai lần buổi sáng thấy hồi hộp và tay chân tê rần vài phút. Vẫn đi tiểu bình thường, không giảm lượng nước tiểu, không nôn, không tiêu chảy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Dị cảm và hồi hộp gợi ý tăng kali; không có mất dịch hay thiểu niệu"
+    },
+    {
+     "id": "muoi_kali",
+     "noi_dung": "Sau lần khám trước, chị về «ăn nhạt» rất nghiêm túc: bỏ muối trên bàn ăn và mua loại «muối ăn kiêng ít natri cho người cao huyết áp» (thành phần có kali clorua) nêm nấu cả ngày, khoảng 5–6 g mỗi ngày. Chị nghĩ đó là gia vị, không phải thuốc nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể chị nêm nếm bằng gì, mua muối loại nào, hay có thực phẩm hoặc đồ uống mới nào thêm từ lần trước.",
+     "k": 1,
+     "y": "Nguồn kali ngoại sinh bị bỏ sót: muối thay thế chứa kali clorua cộng với losartan trên nền G4"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Chị mang 600.000 đồng và nói «chỉ làm cái nào bắt buộc». Chị đã kể ngứa và tiểu đêm lần trước nên lần này nói thẳng; vẫn ngại nhất là bệnh xá và hồ sơ đơn vị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc chi phí vẫn còn: ưu tiên kali, creatinin, điện tim"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Đo chuẩn hóa, hai lần cách 1 phút: tay phải 166/100, tay trái 168/102 mmHg, mạch 82 đều.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 170/102, mạch 80. Đứng 1 phút: 164/98, mạch 86. Đứng 3 phút: 162/98. Không hạ huyết áp tư thế, không choáng.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, da và kết mạc nhợt rõ hơn lần trước. Cân nặng 59,6 kg (tăng 1,6 kg so với 58 kg). Không vã mồ hôi.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, T1 T2 rõ, không âm thổi, không T3, không tiếng cọ màng ngoài tim.",
+     "k": 1,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Phù ấn lõm 2+ hai cẳng chân lên đến gối, mềm, không đau. Cùng cụt không phù.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 80 l/p, sóng P còn, PR 0,16 s, QRS 0,09 s, sóng T không cao nhọn. Điện thế thất trái cao như lần trước.",
+     "ab": 1,
+     "n": "Làm ngay khi nghi tăng kali (QĐ 2388 mục 4.9.2.2). Không có sóng T nhọn, PR dài hay QRS giãn: chưa có dấu điện tim đe dọa; điện tim bình thường không loại trừ tăng kali."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 136 · K 5,8 · Cl 105 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 136,
+      "k": 5.8,
+      "cl": 105
+     },
+     "n": "Kali 5,8 mmol/L mức vừa. KDIGO 2024 Bảng 28 chỉ nêu mốc xử trí tại bệnh viện cho kali 6,0–6,4 kèm AKI hoặc không khỏe và xử trí ngay từ 6,5; mốc riêng cho 5,5–5,9 và thời gian kiểm lại: không có trong tài liệu đã tải."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 14,6 mmol/L · Creatinin 190 µmol/L · eGFR 27,2 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 14.6,
+      "creat": 190,
+      "egfr": 27.2
+     },
+     "n": "Creatinin tăng 13% so với 168 trước losartan, dưới ngưỡng 25% (QĐ 2388 mục 7.4.2) và 30% (KDIGO 2024 điểm thực hành 3.6.4; QĐ 2388 mục 4.3.2.2)."
+    },
+    "abg": {
+     "v": "a",
+     "r": "pH 7,35 · PaCO₂ 35 · PaO₂ 92 mmHg · HCO₃⁻ 19 · BE −5 · SaO₂ 97%",
+     "ab": 1,
+     "bang": {
+      "fio2": 21,
+      "ph": 7.35,
+      "paco2": 35,
+      "pao2": 92,
+      "hco3": 19,
+      "be": -5,
+      "sao2": 97
+     },
+     "n": "HCO₃⁻ 19 mmol/L, chưa dưới 18 nên chưa có chỉ định bù natri bicarbonat (QĐ 2388 mục 4.1.2.2; KDIGO 2024 điểm thực hành 3.10.1). 250.000 đồng, không đổi quyết định hôm nay."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,6 G/L · Hb 100 g/L · MCV 86 fL · TC 240 G/L",
+     "bang": {
+      "wbc": 6.6,
+      "neu_pct": 62.0,
+      "neu": 4.09,
+      "lym_pct": 29.0,
+      "lym": 1.91,
+      "mono_pct": 6.0,
+      "mono": 0.4,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 3.5,
+      "hgb": 100,
+      "hct": 0.3,
+      "mcv": 85.7,
+      "mch": 28.6,
+      "mchc": 333,
+      "rdw": 14.2,
+      "plt": 240
+     }
+    },
+    "uacr": {
+     "v": "a",
+     "r": "UACR 1.010 mg/g – nhóm A3",
+     "n": "Gần như không đổi so với 940 mg/g; nhắc lại sau 1–3 tháng cùng chuyến khám thận học (KDIGO 2024 điểm thực hành 2.1.5: tăng gấp đôi mới cần tìm nguyên nhân)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng kali máu mức vừa (K 5,8 mmol/L) trên nền bệnh thận mạn G4 A3, do muối thay thế chứa kali clorua cộng thuốc ức chế RAS và giảm bài tiết của thận; điện tim chưa có dấu đe dọa",
+     "ok": 1,
+     "n": "Nguyên nhân tăng kali: giảm bài tiết (suy thận), thuốc ức chế RAS, kali đưa vào (QĐ 2388 mục 4.9.1)."
+    },
+    {
+     "t": "Bệnh thận mạn G4 A3 tiến triển (eGFR 27,2; UACR 1.010 mg/g), không có AKI chồng lên",
+     "ok": 1,
+     "n": "eGFR giảm 14% sau 3 tuần losartan, creatinin tăng 13% (< 25–30%); còn đi tiểu bình thường, không mất dịch, không hạ huyết áp tư thế (KDIGO AKI 2012 khuyến cáo 2.1.1)."
+    },
+    {
+     "t": "Tăng huyết áp chưa đạt mục tiêu (167/101 mmHg) với losartan 25 mg, đã tuân thủ",
+     "ok": 1,
+     "n": "Mới dùng liều khởi đầu và một thuốc; cần thêm thuốc thứ hai (QĐ 2388 mục 4.3.2.2; ESC 2026 mục 5.2.2). Chưa tăng losartan vì kali cao."
+    },
+    {
+     "t": "«Không đỡ» do không tuân thủ hay do thuốc không hợp",
+     "n": "Chị uống đều 21 ngày, không tác dụng phụ rõ; nguyên nhân chính là kali cao, huyết áp chưa đạt do liều và thuốc đơn độc, bệnh thận tiến triển (QĐ 2388 mục 4.3.2.2)."
+    },
+    {
+     "t": "Hẹp động mạch thận hai bên (creatinin tăng sau thuốc RAS)",
+     "n": "Creatinin chỉ tăng 13%, ít hơn ngưỡng 30% (KDIGO 2024 điểm thực hành 2.1.4, 3.6.4); ESC PAD 2024 Bảng 13 có mục «suy thận mới hoặc nặng thêm sau thuốc RAAS» chưa thỏa."
+    },
+    {
+     "t": "Tổn thương thận cấp chồng trên bệnh thận mạn",
+     "n": "Tăng 22 µmol/L trong 21 ngày, không đạt tiêu chuẩn tăng ≥ 26,5 µmol/L/48 giờ hay ≥ 1,5 lần/7 ngày (KDIGO AKI 2012 khuyến cáo 2.1.1; QĐ 2388 mục 4.11.1); không nôn, tiêu chảy, không hạ huyết áp tư thế."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng ngay muối ăn kiêng chứa kali clorua, dùng ít muối ăn thường (dưới 5 g NaCl/ngày); bỏ thực phẩm chế biến sẵn; không cần cắt hẳn rau quả tươi",
+     "v": "c",
+     "n": "Điều chỉnh chế độ ăn, hạn chế thực phẩm giàu kali (QĐ 2388 mục 4.9.3); bước 1 là xử trí yếu tố sửa được và đánh giá kali ăn vào (KDIGO 2024 Hình 32; điểm thực hành 3.11.5.1–3.11.5.2)."
+    },
+    {
+     "t": "Giữ losartan 25 mg, không tăng liều, xử trí kali trước; hoặc giảm liều losartan trong lúc kali 5,5–6,0",
+     "v": "c",
+     "n": "Hai cách đều đúng. KDIGO 2024 điểm thực hành 3.6.3, 3.6.5 và Hình 32: tăng kali do RAS thường xử trí bằng hạ kali, ngưng RAS là biện pháp cuối; QĐ 2388 mục 4.1.2.1 giống KDIGO (chỉ giảm/ngưng khi không kiểm soát được)."
+    },
+    {
+     "t": "Thêm amlodipin 5 mg mỗi sáng để đạt huyết áp; theo dõi HA ở nhà",
+     "v": "c",
+     "n": "Kết hợp thuốc ức chế RAS với chẹn canxi hoặc lợi tiểu (QĐ 2388 mục 4.3.2.2); ESC 2026 mục 5.2.2 khuyến khích thêm chẹn canxi dihydropyridin và/hoặc lợi tiểu."
+    },
+    {
+     "t": "Kiểm lại kali và creatinin sau khoảng 3–5 ngày, dặn dấu hiệu phải đến ngay (yếu cơ, hồi hộp, khó thở, ngất); tái khám sau 2–3 tuần",
+     "v": "c",
+     "n": "Mốc kiểm lại kali cho 5,5–5,9: không có trong tài liệu đã tải (KDIGO 2024 Bảng 28 chỉ nêu lặp lại trong 24 giờ cho 6,0–6,4 khi kết quả bất ngờ); chọn 3–5 ngày vì G4 và đang dùng RAS. Triệu chứng thần kinh cơ và tim mạch của tăng kali: QĐ 2388 mục 4.9.2.1."
+    },
+    {
+     "t": "Thuốc gắn kali (resin trao đổi ion 10–15 g × 2–3 lần/ngày hoặc thuốc polymer gắn kali) nếu kali vẫn cao sau khi sửa ăn uống",
+     "v": "a",
+     "n": "QĐ 2388 mục 4.9.3.1 (tăng kali mạn tính vừa phải trong suy thận mạn); ESC 2026 mục 6.2.3.2 (natri polystyrene sulfonate dùng được khi giá là yếu tố quan trọng, chưa có dữ liệu ngẫu nhiên); KDIGO 2024 Hình 32 bước 2."
+    },
+    {
+     "t": "Truyền glucose 10% kèm insulin, canxi tĩnh mạch hoặc khí dung salbutamol tại phòng khám",
+     "v": "w",
+     "n": "Chỉ dùng cho kali trên 7 hoặc điện tim đe dọa (QĐ 2388 mục 4.9.3.1); ở đây điện tim không có dấu đe dọa, không có chỉ định."
+    },
+    {
+     "t": "Giữ lịch khám thận học đã hẹn, nhắc thêm lý do mới: eGFR dưới 30, kali bất thường",
+     "v": "c",
+     "n": "QĐ 2388 mục 4.2: MLCT < 30 mL/phút/1,73m² và kali máu bất thường là tiêu chí khám thận học; KDIGO 2024 Hình 48 nêu eGFR < 30 và kali bất thường dai dẳng. Thời hạn khám: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng kali máu mức vừa (5,8 mmol/L) có nguyên nhân: muối thay thế kali clorua + losartan + bệnh thận mạn G4; điện tim chưa có dấu đe dọa",
+     "Bệnh thận mạn G4 A3 tiến triển (eGFR 27,2 mL/ph/1,73m²; UACR 1.010 mg/g), không có AKI chồng lên; thiếu máu nhẹ (Hb 100 g/L)",
+     "Tăng huyết áp chưa đạt mục tiêu (167/101 mmHg) dù tuân thủ losartan 25 mg; quá tải thể tích nhẹ (phù 2+, tăng 1,6 kg)",
+     "Ngại ngùng đã giảm nhưng vẫn giấu «muối ăn kiêng» vì nghĩ không phải thuốc; ngân sách 600.000 đồng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi kỹ thuốc đã uống đều chưa, rồi hỏi cụ thể ăn uống và gia vị mới từ lần trước (muối, nước uống, thực phẩm bổ sung); (2) khám huyết áp chuẩn hóa và tư thế, phù, tim, sức cơ; (3) điện tim và điện giải đồ trước, creatinin; hoãn khí máu, công thức máu, nước tiểu; (4) chẩn đoán; (5) xử trí.",
+     "Vì sao «không đỡ»: không phải do bỏ thuốc (uống đều 21 ngày). Dị cảm và hồi hộp gợi ý tăng kali, xác nhận bằng kali 5,8; nguồn kali ngoài thuốc là muối kali clorua. Bệnh thận vẫn tiến triển, huyết áp cần thêm thuốc thứ hai.",
+     "Bẫy: lời dặn «ăn nhạt» được hiểu thành «mua muối ăn kiêng». ESC 2024 THA khuyên thay natri bằng muối giàu kali ở người THA không có BTM vừa–nặng, còn ESC 2026 mục 5.1.2 và KDIGO 2024 Hình 33 cảnh báo ở BTM; hai văn bản không trái nhau mà áp dụng cho hai nhóm."
+    ],
+    "phan_tich_xu_tri": [
+     "Xử trí kali ngoại trú: bỏ nguồn kali (muối kali clorua, thực phẩm chế biến) là việc đầu tiên (KDIGO 2024 Hình 32, điểm thực hành 3.11.5.2; QĐ 2388 mục 4.9.3). Không có dấu điện tim đe dọa, không yếu cơ, kali dưới 6,0 nên về nhà kiểm lại sau 3–5 ngày (mốc cụ thể không có trong tài liệu đã tải). Thuốc gắn kali cân nhắc nếu vẫn cao (QĐ 2388 mục 4.9.3.1).",
+     "Losartan: giữ 25 mg và xử trí kali (KDIGO 2024 điểm thực hành 3.6.3, 3.6.5; QĐ 2388 mục 4.1.2.1) hoặc giảm liều khi kali 5,5–6,0 (ESC 2026 Hình 8). Không tăng liều lần này. Ngừng nếu kali ≥ 6,0 hoặc creatinin tăng trên 30% (25% theo QĐ 2388 mục 7.4.2).",
+     "Không nhập viện, không cấp cứu hạ kali: kali < 6,0, điện tim không đe dọa (KDIGO 2024 Bảng 28; QĐ 2388 mục 4.9.3.1). Lịch khám thận học giữ nguyên, bổ sung lý do eGFR < 30 và kali bất thường (QĐ 2388 mục 4.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên",
+      "duong": "uống",
+      "thoi_diem": "mỗi sáng",
+      "so_ngay": "Dùng lâu dài; đánh giá HA sau 2–4 tuần, tăng lên 10 mg nếu cần",
+      "ghi_chu": "Khởi đầu 5 mg, tối ưu 5–10 mg (QĐ 5904/2019 Phần 3 mục G); kết hợp thuốc RAS với chẹn canxi (QĐ 2388 mục 4.3.2.2). Có thể gây phù cổ chân."
+     },
+     {
+      "thuoc": "Losartan",
+      "ham_luong": "25 mg",
+      "lieu": "1 viên",
+      "duong": "uống",
+      "thoi_diem": "mỗi sáng",
+      "so_ngay": "Giữ nguyên liều, kiểm kali và creatinin sau 3–5 ngày",
+      "ghi_chu": "Giữ liều, xử trí kali trước (KDIGO 2024 điểm thực hành 3.6.3; QĐ 2388 mục 4.1.2.1) hoặc giảm liều khi kali 5,5–6,0 (ESC 2026 Hình 8). Ngừng nếu kali ≥ 6,0 hoặc creatinin tăng trên 30% (25% theo QĐ 2388 mục 7.4.2)."
+     }
+    ],
+    "dan_do": [
+     "Bỏ ngay hũ «muối ăn kiêng» (có kali clorua); nêm bằng ít muối ăn thường, dưới 5 g NaCl/ngày (KDIGO 2024 khuyến cáo 3.3.2.1). Hạn chế đồ chế biến sẵn, xúc xích, nước ép đóng chai; không cần bỏ rau quả tươi (KDIGO điểm thực hành 3.11.5.2). Nói thẳng, không trách: «Lời dặn ăn nhạt của tôi dễ bị hiểu thành mua muối thay thế; từ nay hỏi tôi trước mọi thứ cho vào miệng ngoài bữa ăn thường.»",
+     "Kiểm kali và creatinin sau 3–5 ngày (khoảng 110.000 đồng). Đến ngay khi yếu cơ, tê rần kéo dài, hồi hộp, khó thở, ngất, nôn nhiều hoặc tiểu rất ít (QĐ 2388 mục 4.9.2.1). Ngừng losartan tạm thời nếu nôn, tiêu chảy, ăn uống kém (ESC 2026 mục 5.5.5)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Ba tuần sau lần tái khám, chị Oanh đến, dáng mệt, hơi thở nhanh khi vừa đi từ cổng vào. Chị nói «tôi ăn không nổi, ngứa không ngủ được, lên hai tầng cầu thang là hụt hơi». Chị mang kết quả kali kiểm lại ngày thứ 5 sau lần khám trước: 5,3 mmol/L. Lịch khám thận học còn khoảng 1 tuần. Sinh hiệu lúc tiếp đón: mạch 92 l/p, HA 146/88 mmHg, nhiệt 36,8 độ, nhịp thở 20 l/p, SpO₂ 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Nếu cho chị Oanh về chờ lịch cũ thêm một tuần, chị mang Hb 94 g/L, bicarbonat 16 mmol/L và eGFR 24,9 mà không có bác sĩ thận xử trí. G4 A3 là ô nguy cơ cao nhất, cần bác sĩ thận theo dõi ít nhất 4 lần mỗi năm (QĐ 2388 mục 3.4.2, Bảng 9); nguy cơ suy thận hai năm trên 40% là lúc phải chuẩn bị đường vào mạch máu (KDIGO 2024 điểm thực hành 2.2.3). Chờ thêm dễ dẫn tới phải lọc máu cấp qua catheter khi chưa chuẩn bị.",
+    "nhap_vien": "Nếu nhập viện ngay hôm nay, chị Oanh tốn chi phí lớn so với 500.000 đồng đang có, phải báo đơn vị, trong khi chưa có chỉ định cấp: kali 5,1, không phù phổi, không rối loạn nhịp, huyết động ổn, pH 7,31 (cấp cứu toan khi pH dưới 7,10 hoặc bicarbonat dưới 8: QĐ 2388 mục 4.10.3.1). Rốt cuộc chị vẫn phải gặp bác sĩ thận."
+   },
+   "loi_mo": "Bác sĩ, kali đã xuống rồi mà tôi vẫn mệt hơn nhiều: ăn không vô, ngứa mất ngủ, đi lên cầu thang là hụt hơi. Tôi đang không làm việc nổi. Tôi còn 500.000 đồng thôi, bác sĩ làm giúp cái nào thật cần.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "146/88",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "trieu",
+     "noi_dung": "Mệt tăng dần, ăn được chưa đến nửa bát, buồn nôn buổi sáng, ngứa mất ngủ, tiểu đêm 4–5 lần. Hụt hơi khi leo hai tầng; nằm một gối hơi khó thở, hai gối thì ngủ được. Không đau ngực, không ngất, không yếu cơ, không tê rần. Vẫn đi tiểu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng thiếu máu, urê huyết và quá tải nhẹ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống đều losartan 25 mg và amlodipin 5 mg mỗi sáng 3 tuần, đã bỏ hẳn muối ăn kiêng, nêm ít muối thường. HA ở nhà 140–150/84–90. Kali kiểm lại ngày thứ 5: 5,3 mmol/L. Cổ chân phù hơn từ khi dùng amlodipin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt; kali đã giảm; không do bỏ thuốc"
+    },
+    {
+     "id": "chuoi",
+     "noi_dung": "Chị tự nhận: «Nếu hai năm trước có ai tính ra thận mình yếu thì đâu đến nông nỗi này.» Chị đồng ý đi khám thận học sớm nếu có giấy ghi rõ đây là bệnh thận mạn, vì chị lo nhất vẫn là hồ sơ sức khỏe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chuỗi bỏ sót trước đó và rào cản tâm lý cần gỡ để chị chịu chuyển tuyến"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Chị còn 500.000 đồng đến kỳ lương. Chị biết thẻ BHYT quân y dùng được ở bệnh viện tuyến trên nếu có giấy giới thiệu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc chi phí: chọn xét nghiệm đổi quyết định hôm nay"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Đo chuẩn hóa, hai lần cách 1 phút: tay phải 144/88, tay trái 148/88 mmHg, mạch 92 đều.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, thở hơi nhanh 20 l/p khi nói dài. Da và kết mạc nhợt rõ. Cân nặng 60,4 kg (tăng 2,4 kg so với 58 kg ban đầu). Không vã mồ hôi.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi, không T3, không tiếng cọ màng ngoài tim.",
+     "k": 1,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Phù ấn lõm 2+ hai cẳng chân, mềm, không đau; cùng cụt không phù.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 19,5 mmol/L · Creatinin 205 µmol/L · eGFR 24,9 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 19.5,
+      "creat": 205,
+      "egfr": 24.9
+     },
+     "n": "Creatinin tăng 22% so với 168 trước losartan (và 8% so với 190), dưới ngưỡng ngưng 25% (QĐ 2388 mục 7.4.2) và 30% (KDIGO 2024 điểm thực hành 3.6.4). eGFR 31,6 → 24,9 (−21%) vượt 20% nên cần tìm nguyên nhân (điểm thực hành 2.1.3): hợp lý là hiệu ứng huyết động khi huyết áp hạ từ 177/104 xuống 146/88 cộng bệnh tiến triển, không có mất dịch."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 137 · K 5,1 · Cl 106 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 137,
+      "k": 5.1,
+      "cl": 106
+     },
+     "n": "Kali giảm từ 5,8 xuống 5,1 sau khi bỏ muối kali clorua, vẫn dùng losartan: đúng hướng xử trí yếu tố sửa được trước, giữ RAS (KDIGO 2024 điểm thực hành 3.6.3, Hình 32)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 6,5 G/L · Hb 94 g/L · MCV 85 fL · TC 232 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 6.5,
+      "neu_pct": 62.0,
+      "neu": 4.03,
+      "lym_pct": 29.0,
+      "lym": 1.89,
+      "mono_pct": 6.0,
+      "mono": 0.39,
+      "eos_pct": 2.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 3.3,
+      "hgb": 94,
+      "hct": 0.28,
+      "mcv": 84.8,
+      "mch": 28.5,
+      "mchc": 336,
+      "rdw": 14.5,
+      "plt": 232
+     }
+    },
+    "abg": {
+     "v": "u",
+     "r": "pH 7,31 · PaCO₂ 32 · PaO₂ 94 mmHg · HCO₃⁻ 16 · BE −9 · SaO₂ 97%",
+     "ab": 1,
+     "bang": {
+      "fio2": 21,
+      "ph": 7.31,
+      "paco2": 32,
+      "pao2": 94,
+      "hco3": 16,
+      "be": -9,
+      "sao2": 97
+     },
+     "n": "HCO₃⁻ 16 mmol/L dưới 18: nhiễm toan chuyển hóa mạn do thận, có chỉ định uống natri bicarbonat, mục tiêu trên 22 (QĐ 2388 mục 4.1.2.2, 4.10.3.2; KDIGO 2024 điểm thực hành 3.10.1). pH 7,31 chưa phải toan cấp (cấp cứu khi pH dưới 7,10 hoặc bicarbonat dưới 8: QĐ 2388 mục 4.10.3.1)."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 64 µg/L · sắt huyết thanh 7 µmol/L · bão hòa transferrin 13%",
+     "ab": 1,
+     "n": "TSAT dưới 20% và ferritin dưới 100 µg/L: thiếu sắt tuyệt đối ở BTM chưa lọc máu (QĐ 2388 mục 4.4.1); cần bù sắt trước khi dùng ESA (mục 4.4.2.1). Bác sĩ thận làm được; 250.000 đồng, không đổi việc chuyển tuyến nên hoãn khi ngân sách hạn chế."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh thận mạn G4 A3 tiến triển (eGFR 24,9; UACR 1.020 mg/g) có biến chứng: thiếu máu (Hb 94 g/L), nhiễm toan chuyển hóa (HCO₃⁻ 16 mmol/L), tăng kali nhẹ đang giảm (5,1)",
+     "ok": 1,
+     "n": "Chỉ số G4 (QĐ 2388 Bảng 7); thiếu máu Hb < 120 g/L (mục 4.4.1); HCO₃⁻ < 18 (mục 4.1.2.2). Ô đỏ sẫm (G4–5 A3): bác sĩ thận theo dõi tối thiểu 4 lần/năm (Bảng 9)."
+    },
+    {
+     "t": "Tăng huyết áp mạn có tổn thương cơ quan đích, đang giảm (146/88) với losartan + amlodipin, chưa tới mục tiêu",
+     "ok": 1,
+     "n": "Giảm từ 177/104. Mục tiêu tâm thu dưới 120 hoặc 120–129 mmHg nếu dung nạp (KDIGO 2024 khuyến cáo 3.4.1; ESC 2026 mục 5.2.1, cá thể hóa khi eGFR < 30)."
+    },
+    {
+     "t": "Quá tải thể tích nhẹ (phù 2+, tăng 2,4 kg), chưa phù phổi",
+     "ok": 1,
+     "n": "Không ran, tĩnh mạch cổ không nổi, SpO₂ 97%. Phù có phần do amlodipin (QĐ 5904/2019 Phần 3 mục G) và phần do thận."
+    },
+    {
+     "t": "Tổn thương thận cấp chồng trên bệnh thận mạn",
+     "n": "Creatinin 168 → 190 → 205 trong 6 tuần, tăng dần 22%, không đạt tăng ≥ 26,5 µmol/L/48 giờ hay ≥ 1,5 lần/7 ngày (KDIGO AKI 2012 khuyến cáo 2.1.1); còn tiểu, không mất dịch."
+    },
+    {
+     "t": "Hẹp động mạch thận hai bên",
+     "n": "Creatinin tăng 22%, dưới 30% sau khi huyết áp hạ 31 mmHg tâm thu; không phù phổi cấp, kali đã giảm khi bỏ muối kali (ESC PAD 2024 Bảng 13 chưa thỏa mục «nặng thêm sau thuốc RAAS»)."
+    },
+    {
+     "t": "Mất máu tiêu hóa gây thiếu máu",
+     "n": "Hb giảm chậm, hồng cầu bình sắc, không phân đen, không đau thượng vị; nguyên nhân thiếu sắt cần tìm tiếp (QĐ 2388 mục 4.4.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển khám bác sĩ thận trong tuần này (sớm hơn lịch hẹn cũ), kèm giấy tóm tắt: G4 A3, mất khoảng 12 mL/phút/năm, thiếu máu, toan, kali, thuốc đang dùng; chuẩn bị điều trị thay thế thận",
+     "v": "c",
+     "n": "QĐ 2388 mục 4.2: MLCT < 30, thiếu máu, nhiễm toan, kali bất thường, mất MLCT > 5 mL/phút/năm; Bảng 9 ô đỏ sẫm. KDIGO 2024 Hình 48; điểm thực hành 2.2.1–2.2.3 (nguy cơ suy thận 2 năm trên 40% thì chuẩn bị đường vào mạch)."
+    },
+    {
+     "t": "Natri bicarbonat uống (HCO₃⁻ 16 mmol/L), mục tiêu trên 22; theo dõi huyết áp, phù, kali",
+     "v": "c",
+     "n": "QĐ 2388 mục 4.10.3.2: duy trì bicarbonat trên 22 mmol/L bằng uống natri bicarbonat 1–6 g/ngày; mục 4.1.2.2 và KDIGO 2024 điểm thực hành 3.10.1: điều trị khi dưới 18. Theo dõi không làm nặng huyết áp, kali hay phù (điểm thực hành 3.10.2)."
+    },
+    {
+     "t": "Giữ losartan 25 mg và amlodipin 5 mg, chưa tăng liều, kiểm lại creatinin, kali ở tuyến trên",
+     "v": "c",
+     "n": "Creatinin tăng 22% dưới ngưỡng 25% (QĐ 2388 mục 7.4.2) và 30% (KDIGO 2024 điểm thực hành 3.6.4; QĐ 2388 mục 4.3.2.2); tiếp tục ƯCMC/ƯCTT khi eGFR dưới 30 (KDIGO điểm thực hành 3.6.7; ESC 2026 mục 5.5.1). Ngừng nếu kali ≥ 6,0 (ESC 2026 Hình 8)."
+    },
+    {
+     "t": "Tiếp tục tránh muối kali clorua và thực phẩm chế biến sẵn; ăn nhạt dưới 5 g NaCl/ngày; hỏi bác sĩ trước thuốc hoặc thực phẩm bổ sung",
+     "v": "c",
+     "n": "KDIGO 2024 khuyến cáo 3.3.2.1, điểm thực hành 3.11.5.2; QĐ 2388 mục 7.4.2."
+    },
+    {
+     "t": "Bù sắt và thuốc kích thích tạo hồng cầu (ESA) ngay tại phòng khám",
+     "v": "w",
+     "n": "Chỉ khi thiếu sắt tuyệt đối đã được khắc phục mới dùng ESA (QĐ 2388 mục 4.4.2.1); liều sắt, ESA: không có trong tài liệu đã tải. Việc này do bác sĩ thận quyết định."
+    },
+    {
+     "t": "Cho về hẹn lại lịch khám thận học cũ, không điều chỉnh gì",
+     "v": "h",
+     "n": "Thiếu máu, toan và tốc độ mất eGFR đều là tiêu chí khám thận học sớm (QĐ 2388 mục 4.2); chờ thêm làm chậm xử trí biến chứng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh thận mạn G4 A3 (eGFR 24,9 mL/ph/1,73m²; UACR 1.020 mg/g), tiến triển nhanh, nguyên nhân chưa rõ; nguy cơ cao nhất (ô đỏ sẫm)",
+     "Biến chứng: thiếu máu (Hb 94 g/L, nghi thiếu sắt: TSAT 13%, ferritin 64), nhiễm toan chuyển hóa (HCO₃⁻ 16 mmol/L, pH 7,31), tăng kali nhẹ đang giảm (5,1)",
+     "Tăng huyết áp mạn có tổn thương cơ quan đích (146/88, chưa tới mục tiêu); quá tải thể tích nhẹ (phù 2+, tăng 2,4 kg)",
+     "Không AKI chồng lên; hẹp động mạch thận chưa loại hẳn; không có chỉ định nhập viện hay cấp cứu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi lại triệu chứng urê huyết và thiếu máu, thuốc đã dùng, muối và thức uống, kết quả kali đã kiểm; (2) khám huyết áp, cân nặng, phù, tim phổi; (3) xét nghiệm đổi quyết định hôm nay: creatinin, kali, công thức máu, khí máu (500.000 đồng gồm cả ferritin–TSAT thì vượt, nên làm sắt ở tuyến trên); (4) chẩn đoán biến chứng; (5) chuyển bác sĩ thận trong tuần.",
+     "Vì sao chuyển sớm: eGFR 24,9 và mất khoảng 12 mL/phút/năm; thiếu máu, nhiễm toan là tiêu chí chuyển (QĐ 2388 mục 4.2); G4 A3 do bác sĩ thận theo dõi ít nhất 4 lần/năm (Bảng 9). Công thức nguy cơ suy thận (KFRE): không có trong tài liệu đã tải, bác sĩ thận sẽ tính (KDIGO 2024 điểm thực hành 2.2.1–2.2.3).",
+     "Vì sao creatinin tăng thêm: huyết áp hạ từ 177/104 xuống 146/88 cộng bệnh tiến triển; mức 22% dưới ngưỡng ngưng thuốc 25–30% nên không ngừng losartan; vượt 20% nên đã tìm nguyên nhân (KDIGO 2024 điểm thực hành 2.1.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển khám thận học trong tuần (không nhập viện): kali 5,1, huyết động ổn, pH 7,31 chưa phải toan cấp (QĐ 2388 mục 4.10.3.1; KDIGO 2024 Bảng 28). Giấy ghi rõ chẩn đoán y khoa để chị yên tâm; BHYT quân y dùng được ở tuyến trên theo lời chị.",
+     "Natri bicarbonat: mục tiêu bicarbonat trên 22 mmol/L, liều 1–6 g/ngày (QĐ 2388 mục 4.10.3.2); khởi đầu 2 g/ngày chia 2 lần vì phù và huyết áp (KDIGO 2024 điểm thực hành 3.10.2). Liều khởi đầu cụ thể cho toan mạn: không có trong tài liệu đã tải.",
+     "Giữ losartan và amlodipin (không ngừng khi creatinin tăng 22%): QĐ 2388 mục 7.4.2 ngưỡng 25%, KDIGO 2024 điểm thực hành 3.6.4 ngưỡng 30%; tiếp tục RAS dù eGFR dưới 30 (điểm thực hành 3.6.7). Phù có thể tăng do amlodipin; lợi tiểu quai ưu tiên khi eGFR dưới 30 (ESC 2026 mục 5.2.2), liều: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri bicarbonat",
+      "ham_luong": "viên 500 mg",
+      "lieu": "2 viên × 2 lần/ngày (tổng 2 g/ngày)",
+      "duong": "uống",
+      "thoi_diem": "sau ăn sáng và sau ăn tối",
+      "so_ngay": "Đến khi khám thận học, chỉnh theo bicarbonat máu (mục tiêu trên 22 mmol/L)",
+      "ghi_chu": "Khoảng liều 1–6 g/ngày (QĐ 2388 mục 4.10.3.2); điều trị khi bicarbonat dưới 18 (mục 4.1.2.2; KDIGO 2024 điểm thực hành 3.10.1). Giảm hoặc báo nếu phù tăng, huyết áp tăng (điểm thực hành 3.10.2)."
+     },
+     {
+      "thuoc": "Losartan",
+      "ham_luong": "25 mg",
+      "lieu": "1 viên",
+      "duong": "uống",
+      "thoi_diem": "mỗi sáng",
+      "so_ngay": "Giữ nguyên đến khi khám thận học",
+      "ghi_chu": "Đang dùng, giữ nguyên: creatinin tăng 22% dưới 25% (QĐ 2388 mục 7.4.2) và 30% (KDIGO 2024 điểm thực hành 3.6.4). Ngừng tạm khi nôn, tiêu chảy, ăn uống kém (ESC 2026 mục 5.5.5)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên",
+      "duong": "uống",
+      "thoi_diem": "mỗi sáng",
+      "so_ngay": "Giữ nguyên đến khi khám thận học",
+      "ghi_chu": "Đang dùng, giữ nguyên (QĐ 5904/2019 Phần 3 mục G: 5–10 mg); có thể gây phù cổ chân."
+     }
+    ],
+    "dan_do": [
+     "Đi khám bác sĩ thận trong tuần với giấy tóm tắt; mang sổ khám sức khỏe cũ, kết quả hôm nay và vỏ thuốc. Nói rõ: đây là bệnh thận mạn có cách theo dõi và điều trị, không phải lỗi của chị; việc báo đơn vị là quyết định của chị sau khi bác sĩ thận tư vấn.",
+     "Tiếp tục ăn nhạt dưới 5 g NaCl/ngày, không muối kali, không thực phẩm bổ sung, không thuốc giảm đau chống viêm (KDIGO 2024 khuyến cáo 3.3.2.1; QĐ 2388 mục 7.4.2). Đo huyết áp và cân nặng mỗi sáng; quay lại ngay nếu tăng cân nhanh, khó thở nằm, tiểu ít, yếu cơ, hồi hộp, nôn nhiều, lú lẫn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Oanh được bác sĩ thận khám trong tuần, bắt đầu bù sắt và điều chỉnh bicarbonat, giữ losartan và amlodipin; kali về 4,9, HA nhà 128–134/76–82 sau 6 tuần, eGFR ổn quanh 24–26 trong 3 tháng sau đó. Điểm gãy nằm trước phòng khám này: phiếu khám sức khỏe 20 tháng trước ghi creatinin 112 µmol/L «bình thường» (khoảng chung cho hai giới), không tính eGFR; 8 tháng trước 141 «hơi cao» nhưng không lặp lại; nhà thuốc bán amoxicillin không hỏi. Phát hiện sớm hơn 20 tháng thì thận còn G3a và đã có thuốc bảo vệ thận.",
+ "nhieu": [
+  "Xin kháng sinh vì tự chẩn đoán viêm đường tiểu: nước tiểu không có nitrit, bạch cầu; từ chối bằng lời cụ thể và dẫn sang nguyên nhân thật (thận yếu từ trước).",
+  "Giấu ngứa, tiểu đêm vì ngại: chỉ lộ khi hỏi riêng tư, nhẹ nhàng, cam đoan giữ kín; ở lượt 2 vẫn giấu «muối ăn kiêng» vì cho là gia vị.",
+  "Không đủ tiền (650.000 → 600.000 → 500.000 đồng): gói tối thiểu lượt 1 khoảng 470.000 đồng; hoãn lipid, HbA1c, cystatin C, Doppler, sắt; mỗi xét nghiệm gắn với một quyết định."
+ ],
+ "bai_hoc_bien": [
+  "Creatinin trong khoảng tham chiếu của phiếu vẫn có thể là bất thường: nữ cần khoảng riêng và phải tính eGFR (KDIGO 2024 khuyến cáo 1.1.2.1); xin sổ khám cũ để tính tốc độ mất eGFR (QĐ 2388 mục 3.3, 4.2).",
+  "Người xin kháng sinh cho «viêm đường tiểu» mà nitrit và bạch cầu niệu âm, protein niệu 3+: nghĩ bệnh thận; không kê kháng sinh (QĐ 2388 mục 7.4.2).",
+  "Không đỡ sau điều trị: kiểm tuân thủ trước, rồi hỏi cụ thể mọi thứ bỏ vào miệng, kể cả gia vị. Muối thay thế kali clorua gây tăng kali ở người BTM dùng thuốc RAS (KDIGO 2024 Hình 33; ESC 2026 mục 5.1.2)."
+ ],
+ "diem_nho": [
+  "BTM: MLCT < 60 hoặc UACR > 30 mg/g trên 3 tháng (QĐ 2388 Bảng 6); G3b 30–44, G4 15–29 (Bảng 7); A3 > 300 mg/g (Bảng 8); G4A3 là ô đỏ sẫm, bác sĩ thận ≥ 4 lần/năm (Bảng 9).",
+  "Chuyển bác sĩ thận: nguyên nhân chưa rõ, MLCT < 30, mất MLCT > 5 mL/phút/năm, albumin niệu > 300 mg/g, kali bất thường, nhiễm toan, thiếu máu (QĐ 2388 mục 4.2; KDIGO 2024 Hình 48).",
+  "Thuốc ức chế RAS ở A3: kiểm HA, creatinin, kali sau 2–4 tuần; ngừng khi creatinin tăng trên 30% trong 4 tuần (KDIGO 2024 điểm thực hành 3.6.2, 3.6.4) hoặc trên 25% (QĐ 2388 mục 7.4.2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 2388/QĐ-BYT 2024 (TL-0280) – ĐÃ ĐỌC mục 3.2.2, 3.3–3.4 (Bảng 6–9), 4.1.1–4.1.2, 4.2, 4.3, 4.4, 4.6.3, 4.8.2.1, 4.9, 4.10.3, 4.11, 7.4.2, 7.5.1, 7.7.5.",
+  "Bộ Y tế – QĐ 5904/2019 (TL-0284) Phần 3 mục G, Phụ lục 3.2.",
+  "KDIGO 2024 bệnh thận mạn (TL-0308) – khuyến cáo 1.1.2.1, 3.3.2.1, 3.4.1, 3.6.1, 3.7.2, 3.15.1.1; điểm thực hành 1.1.3, 2.1.3–2.1.5, 2.2.1–2.2.3, 3.6.2–3.6.7, 3.10.1–3.10.2, 3.11.5, 4.1; Hình 32, 33, 48; Bảng 28.",
+  "ESC 2026 tim mạch–bệnh thận mạn (TL-0293) mục 5.1.2, 5.2, 5.5, 6.2.3.2, Bảng 8, 9, 12, Hình 8; ESC 2024 PAD (TL-0058) mục 8.3.2.1, Bảng 13; ESC 2024 THA (TL-0305) mục 8; VSH/VNHA 2024 (TL-0288) Bảng 4; KDIGO AKI 2012 (TL-0329) khuyến cáo 2.1.1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 18/10/2026. Đã đọc đúng đoạn trong bản chữ TL-0280 (QĐ 2388: mục 3.2.2, 3.3–3.4, 4.1–4.4, 4.9, 4.10.3, 4.11, 7.4.2, 7.5.1, 7.7.5), TL-0308 (KDIGO 2024: 1.1, 2.1, 2.2, 3.3–3.7, 3.10–3.11, 3.15, 4.1, 5.2, Hình 32, 33, 48, Bảng 28), TL-0293 (ESC 2026: 5.1.2, 5.2, 5.5, Hình 8, 6.2.3.2), TL-0058 (ESC PAD 2024 Bảng 13, 8.3.2.1), TL-0305 (ESC 2024 THA), TL-0329 (KDIGO AKI 2012 2.1.1), TL-0284 (QĐ 5904 Phần 3 mục G).",
+  "Không có trong tài liệu đã tải: công thức KFRE; thời hạn khám thận học; mốc kiểm lại kali cho 5,5–5,9; thứ tự khởi RAS và SGLT2i; BHYT chi trả dapagliflozin; liều khởi đầu natri bicarbonat cho toan mạn, liều sắt, ESA, lợi tiểu quai; kích thước thận bình thường; ngưỡng kali tối đa để khởi RAS; phosphate, PTH (không có trong danh mục CLS).",
+  "Số liệu xuyên 3 lượt: creatinin 112 (20 tháng trước) → 141 (8 tháng trước) → 168 → 190 → 205 µmol/L; eGFR (CKD-EPI 2021, nữ 51 tuổi) 31,6 → 27,2 → 24,9; K 4,8 → 5,8 → 5,1; Hb 104 → 100 → 94; HCO3 19 → 16; UACR 940 → 1.010 → 1.020. Khoa_cls khóa CT; kham.da k:0 nên không dùng ảnh da. Một số cls lượt sau không khai báo lại (siêu âm, canxi, UACR): app dùng kết quả lượt trước."
+ ]
+}

@@ -1,0 +1,529 @@
+{
+ "ma_ca": "MT-0460",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_rllm_dau_nguc_thanh_nguc_nguoi_nha_tra_loi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Kỹ sư cơ khí",
+  "yeu_to_khoi_phat": "Sau gắng sức nặng",
+  "thuoc_dang_dung": "Thuốc ho thảo dược",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Thị Hương",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Kỹ sư cơ khí (thiết kế và giám sát gia công ở xưởng chế tạo máy)",
+  "can_nang": 62,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'tôi' hoặc 'em', gọi bác sĩ là 'bác sĩ'; gọi chồng là 'anh nhà tôi'. Ông Khôi xưng 'tôi', gọi vợ là 'bà xã' hoặc 'cô ấy'.",
+  "tinh_cach": "Cẩn thận, thích con số và bản vẽ, nói chậm và chính xác khi chỉ có một mình. Có mặt chồng thì im lặng nhường chồng nói, sợ bị bảo 'lo xa'. Hiểu biết y khoa trung bình, hay tự tra thông tin trên mạng.",
+  "kieu_nhieu": "Thân nhân trả lời thay: ông Khôi trả lời trước mọi câu hỏi chung, gạt 'vợ tôi khỏe re, đau cơ thôi'. Chị Hương chỉ kể đặc điểm đau ngực, tiền sử gia đình bên nhà chị, thuốc ho đang uống và lý do thật khi bác sĩ hỏi thẳng chị hoặc mời ông Khôi ra ngoài; ông Khôi cũng không biết những chuyện này.",
+  "nguoi_nha": "Chồng, ông Lương Văn Khôi, 55 tuổi, kỹ thuật viên điện lạnh, đi cùng. Nhiệt tình, nói nhiều, hay đoán thay vợ. Ông biết: vợ bê khuôn thép hôm thứ bảy, ho vài hôm, ăn uống ở nhà. Ông KHÔNG biết đặc điểm đau ngực chi tiết, chuyện bà bị đồng nghiệp nhồi máu làm hoảng, bệnh sử bên nhà vợ, siro ho vợ tự mua. Khi bác sĩ hỏi chung (đau thế nào, có bệnh gì, đang uống thuốc gì) ông thường là người trả lời (nguoi_noi = nguoi_nha); chỉ khi bác sĩ hỏi thẳng chị Hương hoặc mời ông ra ngoài thì chị trả lời (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Ông Khôi (chồng)",
+  "ngoai_hinh": {
+   "da": "#dcae8c",
+   "toc": "#2a201b",
+   "kieuToc": "dai",
+   "ao": "#5f7f9a",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c99874",
+    "toc": "#2b1e17",
+    "kieuToc": "ngan",
+    "ao": "#8a7f6a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Đau ngực trái sau khi bê vật nặng, ho vài ngày",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Đoàn Thị Hương, 52 tuổi, kỹ sư cơ khí ở xưởng chế tạo máy, đến khám cùng chồng (ông Lương Văn Khôi, 55 tuổi). Ông Khôi nói vợ 'bê khuôn thép nặng thì đau ngực, ho mấy ngày' nên đưa đi khám. Sinh hiệu: HA 126/78 mmHg, mạch 76 l/p, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%, cân nặng 62 kg, BMI 24,8. Cơ sở không có máy CT.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hương bị giữ lại bệnh viện 'theo dõi đau ngực' dù đau tái hiện khi ấn vào bờ ức, đau không theo gắng sức, điện tâm đồ bình thường, troponin T hs dưới ngưỡng và SpO₂ 98%. Hai ngày nằm viện làm chị mất ngày công đúng tuần xưởng chạy đơn hàng, trong khi việc cần làm là xác nhận LDL-C 4,4 mmol/L, loại trừ thứ phát (TSH, glucose, creatinin: QĐ 3879/2014 mục II.2) và bàn statin. ESC 2024 CCS chỉ khuyến cáo chuyển cấp cứu khi lâm sàng hoặc điện tâm đồ gợi ý hội chứng vành cấp (Bảng khuyến cáo 1, I B).",
+    "chuyen_tuyen": "Chị Hương bị chuyển lên bệnh viện tỉnh chụp CT mạch vành 'cho chắc' vì cơ sở không có CT. Chị không đau thắt ngực khi gắng sức, điện tâm đồ bình thường; CT không quyết định việc cần làm hôm nay (loại thứ phát, lipid lần hai, bàn statin) mà tốn một ngày công và chi phí lớn. Điểm vôi hóa mạch vành chỉ là công cụ khi còn do dự ở nguy cơ ranh giới hoặc trung gian (ACC/AHA 2026 mục 4.2.3, khung CPR, Hình 5), không là bước bắt buộc.",
+    "theo_doi": "Chị Hương chỉ được dặn 'đau cơ, nghỉ vài hôm', không làm điện tâm đồ, không hẹn ngày, và không ai hỏi chuyện mỡ máu. Chị vẫn lo về tim nhưng không dám nói vì chồng bảo 'lo xa'; LDL-C 4,4 mmol/L không được phát hiện, bỏ lỡ cơ hội can thiệp sớm (ACC/AHA 2026 mục 4.2.3.7 nêu LDL-C 160–189 mg/dL là nhóm cần bàn thuốc; Bảng 13 xếp là yếu tố tăng nguy cơ). Điện tâm đồ được khuyến cáo ở mọi người báo đau ngực (ESC 2024 CCS, Bảng khuyến cáo 1, I C)."
+   },
+   "loi_mo": "Chào bác sĩ. Vợ tôi hôm thứ bảy bê cái khuôn thép nặng ở xưởng thì bị đau ngực, rồi ho mấy bữa nay. Tôi nghĩ chỉ là đau cơ thôi, nhưng cô ấy cứ lo nên tôi đưa đi. Bác sĩ khám qua cho cô ấy yên tâm.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "126/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai ngày trước (thứ bảy) chị cùng đồng nghiệp nâng khuôn thép khoảng 30 kg lên giá thì thấy nhói đau ngực trái. Từ đó còn nhói khi ho, hít sâu, xoay người hay với tay lên cao. Ho khan 5 ngày nay sau một đợt cảm nhẹ. Ông Khôi cho là đau cơ nên không lo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai); khởi phát sau gắng sức nặng"
+    },
+    {
+     "id": "chong_noi",
+     "noi_dung": "Ông Khôi tự tin kể thay: vợ 'khỏe re', 'chỉ đau cơ', thứ hai vẫn đi làm. Ông không hỏi vợ đau kiểu gì, không biết bên nhà vợ có ai bị bệnh tim, không biết vợ đang uống siro ho gì, và cho rằng vợ 'hay lo xa'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau ở bờ ức trái, như kim châm, rõ nhất ở một điểm cỡ đầu ngón tay, tăng khi hít sâu, ho, ngả người; ấn vào đúng chỗ đó thì đau. Không lan tay, hàm, lưng. Không vã mồ hôi, buồn nôn, khó thở, không cảm giác bóp nghẹt hay đè nặng. Đau suốt cả ngày chứ không theo từng cơn vài phút; hai ngày nay đỡ dần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Khi bác sĩ hỏi thẳng chị về tính chất đau (kiểu đau, vị trí, lan đi đâu, tăng khi nào, kéo dài bao lâu) hoặc mời ông Khôi ra ngoài. Hỏi chung thì ông Khôi trả lời 'đau cơ thôi'.",
+     "y": "Đặc điểm đau thành ngực (nhói, đau khi hít sâu và ho, ấn đau) làm giảm khả năng đau thắt ngực (ESC 2024 CCS, Hình 3)"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Ngoài lần nâng khuôn hôm thứ bảy, chị đi bộ nhanh và leo ba tầng xưởng mỗi ngày không thấy tức ngực hay hụt hơi, chưa từng hồi hộp, ngất, chưa bao giờ đau ngực khi nghỉ hay khi gắng sức khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi đau ngực khi đi bộ nhanh, leo cầu thang, hay mỗi lần gắng sức; hỏi chung 'có đau ngực khi làm việc không' thì ông Khôi trả lời 'không có'.",
+     "y": "Cờ đỏ: loại trừ đau thắt ngực khi gắng sức (ESC 2024 CCS, Hình 3, mục 3.1.1)"
+    },
+    {
+     "id": "ho_phoi",
+     "noi_dung": "Ho khan 5 ngày sau một đợt sổ mũi, đau họng chỉ 1 ngày; không sốt, không khạc đờm hay máu, không khó thở. Không sưng đau bắp chân, không đi xa hay nằm lâu, không phẫu thuật, không dùng thuốc ngừa thai hay nội tiết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ: sàng lọc viêm phổi, thuyên tắc phổi, tràn khí màng phổi (nguồn lâm sàng; ca không có tài liệu riêng)"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Chị tự mua siro ho thảo dược chai 100 ml ở hiệu thuốc đầu ngõ, uống 3 lần/ngày × 5 ngày, nhãn ghi 'chiết xuất thảo dược', không nhớ thành phần chi tiết. Không uống thuốc nào khác, chưa dùng thuốc hạ mỡ máu hay thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi chị đã uống gì cho ho, hoặc hỏi thuốc tự mua, thuốc thảo dược, thực phẩm chức năng; hỏi chung 'có đang uống thuốc không' thì ông Khôi nói 'không uống thuốc gì'.",
+     "y": "Thuốc đang dùng: thảo dược; thành phần và tương tác với statin không có trong tài liệu đã tải"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng được chẩn đoán tăng huyết áp, đái tháo đường, bệnh thận hay bệnh tim. Không hút thuốc; rượu bia rất ít (một ly nhỏ ngày lễ). Mãn kinh năm 50 tuổi, không dùng nội tiết. Sinh 2 con thuận, không tiền sản giật hay tiểu đường thai kỳ. Chưa từng thử mỡ máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ; loại trừ nguyên nhân thứ phát (QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 15, trong đó có giai đoạn mãn kinh)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ chị bị nhồi máu cơ tim lúc 60 tuổi và mất sau 2 năm; ba chị cao huyết áp, mất ở 76 tuổi do ung thư phổi. Anh trai 56 tuổi có mỡ máu cao, đang uống thuốc (chị không biết số đo). Không ai có u vàng hay bị bệnh tim mạch ở tuổi rất trẻ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng chị về bệnh bên nhà chị (cha mẹ, anh chị em); ông Khôi trả lời 'nhà bà ấy không ai bệnh gì'.",
+     "y": "Tiền sử gia đình: mẹ bị nhồi máu cơ tim trước 65 tuổi là yếu tố tăng nguy cơ (ACC/AHA 2026 Bảng 13)"
+    },
+    {
+     "id": "suy_giap",
+     "noi_dung": "Không sợ lạnh, không táo bón, da không khô, không phù mặt, giọng bình thường, không hồi hộp, không sụt cân; tăng khoảng 3 kg trong 3 năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng suy giáp (nguyên nhân thứ phát)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Cơm trưa ở căng tin xưởng nhiều thịt kho, đồ chiên; mỗi ngày 1–2 ly trà sữa; ít rau. Ngồi bàn thiết kế phần lớn ngày, không tập thể dục đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống góp phần tăng LDL-C (ACC/AHA 2026 Bảng 15: chế độ ăn nhiều chất béo bão hòa, tăng cân)"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Kỹ sư cơ khí, thiết kế và giám sát gia công, hiếm khi bê vật nặng; thứ bảy xưởng thiếu người nên chị phụ nâng khuôn. Làm 8 giờ/ngày, tiếp xúc dầu cắt gọt có đeo găng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: một đồng nghiệp cùng phòng thiết kế (54 tuổi) bị nhồi máu cơ tim tháng trước và phải đặt stent; chị 5 năm chưa khám tổng quát nên mượn chuyện đau ngực để đi khám 'xem tim, mỡ máu, đường huyết có sao không'. Chị không dám nói rõ vì chồng hay bảo chị 'lo xa'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng chị còn lo điều gì khác ngoài chuyện đau ngực, mong muốn gì khi đi khám, hoặc lần khám sức khỏe gần nhất.",
+     "y": "Động cơ thật: muốn kiểm tra tổng quát"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, BMI 24,8, vòng eo 82 cm; không vã mồ hôi, nói được câu dài, không khó thở.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không hạch cổ. Mạch cảnh rõ hai bên, không âm thổi. Tĩnh mạch cổ không nổi.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Không ban vàng mí mắt, không cung giác mạc.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran, không tiếng cọ màng phổi.",
+     "k": 0,
+     "hien": "Thở đều 18 l/p, lồng ngực cân đối, không co kéo.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau rõ ở bờ ức trái, khoang liên sườn 4 và sụn sườn 4–5, tái hiện đúng cơn đau nhói; không sưng nóng đỏ, lồng ngực không biến dạng. Không u vàng gân Achilles và gân duỗi bàn tay. Cột sống ngực không đau.",
+     "k": 1
+    },
+    "ha_hai_tay": {
+     "a": "HA tay phải 126/78, tay trái 124/76 mmHg, chênh dưới 10 mmHg.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mu chân, chày sau bắt rõ và đều hai bên; không âm thổi động mạch đùi.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Hai cẳng chân không phù, không sưng, bắp chân mềm, không đau khi ấn, hai bên cân đối.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không đau.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không u vàng, không ban vàng; da tay có vết dầu cắt gọt, không viêm da.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Nhịn đói 10 giờ: Cholesterol TP 6,5 · LDL-C 4,4 · HDL-C 1,3 · TG 1,8 mmol/L (non-HDL-C 5,2)",
+     "ab": 1,
+     "n": "LDL-C 4,4 mmol/L (khoảng 170 mg/dL) thuộc 160–189 mg/dL (4,1–4,9 mmol/L), mức 'cao' (QĐ 3879/2014 Bảng 2); cholesterol TP > 5,2, LDL-C > 2,58, TG > 1,7 mmol/L là rối loạn lipid (QĐ 3879/2014 mục III.2). LDL-C 160–189 mg/dL 'kéo dài' là yếu tố tăng nguy cơ (ACC/AHA 2026 Bảng 13); mới đo một lần nên cần lần hai để xác nhận (ESC/EAS 2019 Bảng 13). Lấy máu lúc đói (QĐ 3879/2014 mục III.2) hoặc không đói đều chấp nhận (ESC/EAS 2019 mục 5.4.3; ACC/AHA 2026 mục 3.5)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,1 mIU/L · FT4 trong giới hạn bình thường",
+     "n": "Suy giáp là nguyên nhân thứ phát cần loại trừ (QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 15); đánh giá chức năng giáp ít nhất một lần khi nghi bệnh mạch vành mạn (ESC 2024 CCS mục 3.1.2.2, Bảng khuyến cáo 2, I B)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose máu đói 5,0 mmol/L",
+     "n": "Đái tháo đường là nguyên nhân thứ phát (QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 15)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 66 µmol/L · eGFR 98 mL/ph/1,73m²",
+     "n": "Bệnh thận là nguyên nhân thứ phát (QĐ 3879/2014 mục II.2)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 44 · ALT 33 U/L (giới hạn trên của phòng xét nghiệm 40 U/L)",
+     "ab": 1,
+     "n": "AST tăng nhẹ, ALT bình thường: phù hợp nguồn gốc từ cơ sau nâng vật nặng. ALT trước điều trị là cần làm (ESC/EAS 2019 Bảng 13); ALT < 3 lần giới hạn trên không phải lý do tránh statin."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 245 U/L (giới hạn trên của phòng xét nghiệm 170 U/L)",
+     "ab": 1,
+     "n": "CK 1,4 lần giới hạn trên, dưới ngưỡng 4 lần (ESC/EAS 2019 Bảng 13: CK nền > 4 lần thì chưa khởi thuốc; cần nghĩ tới tăng CK thoáng qua do gắng sức). CK nền không thường quy (ACC/AHA 2026 mục 5.1 KC 5); đo hay không đều chấp nhận (sổ MT-0425 mục 4)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 76 l/p, trục bình thường, không sóng Q, không ST chênh lên hay chênh xuống, sóng T bình thường.",
+     "n": "Điện tâm đồ nghỉ 12 chuyển đạo khuyến cáo ở mọi người báo đau ngực, trừ khi có nguyên nhân rõ ràng không do tim (ESC 2024 CCS mục 3.1.2.1, Bảng khuyến cáo 1, I C). Bình thường không loại trừ hoàn toàn đau thắt ngực (ESC 2024 CCS mục 3.1.2.1), nên đặc điểm đau mới là yếu tố quyết định."
+    },
+    "trop": {
+     "v": "u",
+     "r": "Troponin T hs 5 ng/L (dưới ngưỡng của phòng xét nghiệm, 14 ng/L)",
+     "n": "Troponin hs để loại tổn thương cơ tim khi nghi hội chứng vành cấp (ESC 2024 CCS Bảng khuyến cáo 1, I B). Đau đã cách hai ngày, khả năng thấp: làm là hợp lý, không làm cũng chấp nhận."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Phổi sáng hai bên, không đông đặc, không tràn dịch hay tràn khí màng phổi; bóng tim bình thường; xương sườn, xương ức không thấy gãy.",
+     "n": "Chụp ngực chọn lọc khi nghi bệnh phổi (ESC 2024 CCS mục 3.1.2); khám phổi bình thường nên không bắt buộc."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,8 G/L · Hb 128 g/L · TC 262 G/L",
+     "n": "Công thức máu nằm trong xét nghiệm nên làm khi nghi bệnh mạch vành mạn (ESC 2024 CCS Bảng khuyến cáo 2, I B); chấp nhận, không đổi xử trí."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "HbA1c 5,4%",
+     "n": "Chấp nhận nếu không làm glucose đói; không bắt buộc."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Protein âm tính · Glucose âm tính",
+     "n": "Hội chứng thận hư là nguyên nhân thứ phát (QĐ 3879/2014 mục II.2); chấp nhận."
+    },
+    "lpa": {
+     "v": "a",
+     "r": "Lp(a) 18 mg/dL",
+     "n": "Đo ít nhất một lần trong đời cho mọi người lớn (ACC/AHA 2026 mục 3.4 KC 1; ESC/EAS 2025 Bảng khuyến cáo 4); 18 mg/dL thấp hơn ngưỡng cao 50 mg/dL (ACC/AHA 2026 Bảng 4), không đổi quyết định."
+    },
+    "ddimer": {
+     "v": "n",
+     "r": "D-dimer 0,3 µg/mL FEU (bình thường)",
+     "n": "Không cần: không sưng đau chân, không bất động hay phẫu thuật, mạch 76, SpO₂ 98%, đau tái hiện khi ấn. Tài liệu đã tải cho ca này không có thuật toán loại trừ thuyên tắc phổi: quyết định theo lâm sàng."
+    },
+    "ecg_gang_suc": {
+     "v": "n",
+     "r": "Không cần làm hôm nay.",
+     "n": "Đau không theo gắng sức, ấn đau tái hiện, điện tâm đồ nghỉ bình thường (ESC 2024 CCS Hình 3, mục 3.1.1). Nếu sau này có đau thắt ngực khi gắng sức thì đánh giá lại theo ESC 2024 CCS."
+    },
+    "ct_mach_vanh": {
+     "n": "Cơ sở không có CT. Không đo điểm vôi hóa mạch vành; quyết định statin dựa trên LDL-C, yếu tố tăng nguy cơ và thảo luận với chị (ACC/AHA 2026 mục 4.2.3.7). Công cụ PREVENT-ASCVD và SCORE2 không có trong tài liệu đã tải nên ca không tính điểm nguy cơ 10 năm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu tăng LDL-C (LDL-C 4,4 mmol/L, cholesterol TP 6,5, TG 1,8, HDL-C 1,3), chưa có bệnh tim mạch xơ vữa; yếu tố tăng nguy cơ: mẹ nhồi máu cơ tim lúc 60 tuổi, LDL-C 160–189 mg/dL (cần lần đo thứ hai xác nhận); đã loại trừ thứ phát",
+     "ok": 1,
+     "n": "TSH 2,1, glucose 5,0, creatinin 66, không dùng thuốc ảnh hưởng lipid (QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 13, 15). Mãn kinh là giai đoạn thay đổi sinh lý của LDL-C (ACC/AHA 2026 Bảng 15)."
+    },
+    {
+     "t": "Đau thành ngực cơ–xương sau gắng sức nặng (đau do tổn thương cơ liên sườn hoặc sụn sườn), không phải đau thắt ngực",
+     "ok": 1,
+     "n": "Đau nhói, tăng khi ho và hít sâu, ấn đau tái hiện, không theo gắng sức khác, điện tâm đồ và troponin hs bình thường (ESC 2024 CCS Hình 3 và mục 3.1.1: 'cố gắng tái hiện triệu chứng bằng cách ấn')."
+    },
+    {
+     "t": "RL lipid thứ phát do suy giáp",
+     "n": "TSH 2,1 mIU/L, không triệu chứng, tuyến giáp bình thường (QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 15)."
+    },
+    {
+     "t": "RL lipid thứ phát do đái tháo đường, bệnh thận, rượu, thuốc",
+     "n": "Glucose 5,0, HbA1c 5,4%, creatinin 66, nước tiểu không đạm, rượu rất ít, không dùng corticoid, thiazid, chẹn beta, estrogen (QĐ 3879/2014 mục II.2). Siro ho thảo dược: thành phần không rõ, tài liệu đã tải không nêu ảnh hưởng lipid."
+    },
+    {
+     "t": "Hội chứng vành cấp hoặc đau thắt ngực ổn định",
+     "n": "Đau nhói tại điểm, tăng khi hít sâu, ho; không khó thở, vã mồ hôi; không đau khi gắng sức khác; điện tâm đồ bình thường, troponin T hs dưới ngưỡng (ESC 2024 CCS Hình 3; Bảng khuyến cáo 1). Điện tâm đồ bình thường không loại trừ hẳn nên cần dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Thuyên tắc phổi, viêm phổi, tràn khí màng phổi",
+     "n": "SpO₂ 98%, mạch 76, phổi sạch, không sốt, không sưng chân, X-quang ngực bình thường."
+    },
+    {
+     "t": "Tăng cholesterol máu gia đình",
+     "n": "LDL-C 4,4 chưa tới 4,9 mmol/L (ngưỡng 190 mg/dL trong ACC/AHA 2026 mục 4.2.4.3), không u vàng gân, mẹ nhồi máu cơ tim lúc 60 tuổi (không phải bệnh tim sớm bất thường); xét nghiệm gen không làm được ở cơ sở."
+    },
+    {
+     "t": "Tiêu cơ vân hoặc bệnh cơ do gắng sức",
+     "n": "CK 245 U/L, 1,4 lần giới hạn trên; không đau cơ lan tỏa, không yếu cơ, không nước tiểu sẫm. Tăng CK thoáng qua do gắng sức là có thể (ESC/EAS 2019 Bảng 13)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng chị Hương (không để ông Khôi trả lời thay) về tính chất đau ngực, bệnh bên nhà chị, thuốc đang uống và chị mong muốn gì khi đi khám",
+     "v": "c",
+     "n": "Nhiễu 'thân nhân trả lời thay'. Khai thác triệu chứng đầy đủ về khởi phát, thời gian, tính chất, yếu tố tăng giảm là bước đầu (ESC 2024 CCS Bảng khuyến cáo 1, I C)."
+    },
+    {
+     "t": "Phân tích đặc điểm đau ngực, thử tái hiện bằng cách ấn, làm điện tâm đồ 12 chuyển đạo",
+     "v": "c",
+     "n": "ESC 2024 CCS mục 3.1.1, Hình 3 (đau nhói, tăng khi hít sâu hoặc ho, đau khi ấn xương sườn làm giảm khả năng bệnh mạch vành) và mục 3.1.2.1, Bảng khuyến cáo 1 (điện tâm đồ nghỉ ở mọi người báo đau ngực, I C)."
+    },
+    {
+     "t": "Troponin T hs",
+     "v": "a",
+     "n": "Chỉ cần khi nghi hội chứng vành cấp (ESC 2024 CCS Bảng khuyến cáo 1, I B). Đau cách hai ngày, điện tâm đồ bình thường, đặc điểm không điển hình: không bắt buộc."
+    },
+    {
+     "t": "Loại trừ nguyên nhân thứ phát: hỏi triệu chứng suy giáp, khám giáp, làm TSH, glucose, creatinin, men gan",
+     "v": "c",
+     "n": "QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 15; ESC 2024 CCS Bảng khuyến cáo 2 (chức năng giáp ít nhất một lần, I B)."
+    },
+    {
+     "t": "Khởi statin cường độ vừa theo đơn ngay (atorvastatin 10–20 mg), hoặc thay đổi lối sống 2–3 tháng rồi mới dùng thuốc nếu chưa đạt",
+     "v": "c",
+     "n": "Hai nguồn, ghi cả hai (sổ MT-0425 mục 1): ACC/AHA 2026 mục 4.2.3.7: LDL-C 160–189 mg/dL ở nguy cơ 10 năm < 3% thì statin cường độ vừa là hợp lý (COR 2a); nguy cơ 5–< 10% thì ít nhất cường độ vừa (COR 1); yếu tố tăng nguy cơ ở Bảng 13. QĐ 3879/2014 mục IV.1, IV.4: lối sống là chỉ định đầu tiên, thuốc khi 2–3 tháng không đạt. ESC/EAS 2025 Bảng 4: nguy cơ thấp hoặc trung bình với LDL-C 3,0–< 4,9 mmol/L thì thay đổi lối sống, cân nhắc thêm thuốc nếu không kiểm soát. Ca không tính được PREVENT hay SCORE2 (công cụ không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Atorvastatin 20 mg × 1 lần/ngày theo đơn",
+     "v": "a",
+     "n": "Nhánh dùng thuốc của mục trên, ca chọn làm đường đi. Atorvastatin 10 (20) mg là cường độ vừa (ACC/AHA 2026 Bảng 6); QĐ 3879/2014 mục IV.4.1: 10–20 mg/ngày."
+    },
+    {
+     "t": "Đặt mục tiêu LDL-C < 3,0 mmol/L hoặc < 2,6 mmol/L và giảm 30–49%",
+     "v": "c",
+     "n": "Theo sổ MT-0477 đề xuất 2: < 3,0 mmol/L (ESC/EAS 2019 Bảng 7, nguy cơ thấp, có thể cân nhắc) hoặc < 2,6 mmol/L (ACC/AHA 2026 mục 4.2.3.7 KC 6, nhóm nguy cơ 3–< 10%); giảm 30–49% với statin cường độ vừa (ACC/AHA 2026 Bảng 6). Khác nhau do SCORE2 so với PREVENT và do bốn năm cách nhau (2019 so với 2026)."
+    },
+    {
+     "t": "Lấy lần đo lipid thứ hai để xác nhận LDL-C; hẹn tái khám lipid 4–12 tuần sau khởi thuốc (hoặc 8 ± 4 tuần), ALT một lần",
+     "v": "c",
+     "n": "ESC/EAS 2019 Bảng 13: ít nhất hai lần đo cách 1–12 tuần trước khi dùng thuốc, trừ khi cần điều trị gấp; sau khởi thuốc 8 ± 4 tuần, ALT một lần sau 8–12 tuần. ACC/AHA 2026 mục 3.5 KC 1: lipid 4–12 tuần sau khởi thuốc, rồi mỗi 6–12 tháng. Đo ALT không bắt buộc (ACC/AHA 2026 mục 5.1 KC 6): làm hay không đều chấp nhận."
+    },
+    {
+     "t": "Giải thích đau thành ngực, dặn nghỉ gắng sức nặng, dặn dấu hiệu phải quay lại hoặc đi cấp cứu ngay (đau thắt hoặc đè ngực khi gắng sức hay lúc nghỉ, lan tay hoặc hàm, vã mồ hôi, khó thở)",
+     "v": "c",
+     "n": "Đặc điểm đau thắt ngực: bóp nghẹt, đè nặng, sau xương ức, lan tay hay hàm, khi gắng sức (ESC 2024 CCS Hình 3). Nếu lâm sàng hoặc điện tâm đồ gợi ý hội chứng vành cấp thì chuyển cấp cứu (ESC 2024 CCS Bảng khuyến cáo 1, I B). Thời gian nghỉ gắng sức không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn lối sống: giảm thịt mỡ, đồ chiên, trà sữa; thêm rau, cá; vận động ≥ 150 phút/tuần, thêm tập kháng lực 2 ngày/tuần (sau khi hết đau ngực)",
+     "v": "c",
+     "n": "QĐ 3879/2014 mục IV.2–IV.3 (30–45 phút/ngày, 5 ngày/tuần); ACC/AHA 2026 mục 4.1.4 KC 1 (≥ 150 phút/tuần aerobic vừa đến mạnh và kháng lực 2 ngày/tuần)."
+    },
+    {
+     "t": "Hỏi lý do thật, trấn an vì đồng nghiệp nhồi máu cơ tim; khám tổng quát đã gồm tim, lipid, đường huyết",
+     "v": "c",
+     "n": "Lý do thật 'muốn kiểm tra tổng quát'; quyết định cá thể hóa sau thảo luận nguy cơ - lợi ích (ACC/AHA 2026 mục 4.2.3.1)."
+    },
+    {
+     "t": "Đo Lp(a), CK nền, HbA1c, X-quang ngực, công thức máu; thuốc bảo vệ gan kèm statin",
+     "v": "a",
+     "n": "Lp(a): ACC/AHA 2026 mục 3.4 KC 1. CK nền không thường quy (ACC/AHA 2026 mục 5.1 KC 5; ESC/EAS 2019 Bảng 13). Thuốc bảo vệ gan: QĐ 3879/2014 mục IV.4 (Chú ý) khuyên dùng, hai hướng dẫn quốc tế không nêu (sổ MT-0425 mục 5)."
+    },
+    {
+     "t": "Chuyển tuyến chụp CT mạch vành hoặc đo điểm vôi hóa",
+     "v": "a",
+     "n": "Không bắt buộc: không đau thắt ngực, điện tâm đồ bình thường. Điểm vôi hóa là công cụ khi còn do dự ở nguy cơ ranh giới hoặc trung gian (ACC/AHA 2026 mục 4.2.3, khung CPR, Hình 5). Cơ sở không có CT."
+    },
+    {
+     "t": "Statin cường độ cao ngay (atorvastatin 40–80 mg)",
+     "v": "a",
+     "n": "Cường độ cao dành cho nguy cơ cao (ACC/AHA 2026 mục 4.2.3.7: nguy cơ ≥ 10%); ở LDL-C 160–189 mg/dL nguy cơ thấp đến trung gian, cường độ vừa là chọn lựa chính. Không nguồn nào nói cường độ cao gây hại ở bà."
+    },
+    {
+     "t": "Dùng men gạo đỏ hay thực phẩm chức năng 'hạ mỡ' thay cho lối sống hoặc statin",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.1.5 (COR 3: No Benefit, B-R): không khuyến cáo thực phẩm chức năng để hạ lipid. ESC/EAS 2025 mục 10, Bảng khuyến cáo 8 (Class III, B). Sổ MT-0523 mục 1."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu tăng LDL-C: cholesterol TP 6,5, LDL-C 4,4 (khoảng 170 mg/dL), TG 1,8, HDL-C 1,3 mmol/L; chưa có bệnh tim mạch xơ vữa",
+     "Yếu tố tăng nguy cơ: mẹ nhồi máu cơ tim lúc 60 tuổi; LDL-C 160–189 mg/dL (xác nhận bằng lần đo thứ hai); mãn kinh 2 năm. Đã loại trừ thứ phát: TSH 2,1, glucose 5,0, creatinin 66",
+     "Đau thành ngực cơ–xương sau nâng vật nặng (điện tâm đồ bình thường, troponin T hs 5 ng/L, CK 245 U/L tăng nhẹ do gắng sức, AST 44 U/L)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám và khởi phát (ông Khôi kể thay), rồi hỏi riêng chị Hương về tính chất đau (kim châm, tại một điểm, tăng khi hít sâu và ho, không khi gắng sức khác), thuốc đã uống (siro ho), tiền sử bản thân và gia đình (mẹ nhồi máu cơ tim lúc 60 tuổi), triệu chứng suy giáp, lối sống, lý do thật. Khám: tim, phổi, ấn thành ngực, giáp, u vàng gân, chân. CLS: điện tâm đồ, lipid, TSH, glucose, creatinin, men gan.",
+     "Cờ đỏ là đau ngực sau gắng sức ở người 52 tuổi mãn kinh. Phân biệt đau thắt ngực với đau thành ngực dựa vào tính chất đau: bóp nghẹt, đè nặng, sau xương ức, theo gắng sức, hết khi nghỉ là hướng thắt ngực; đau nhói, tăng khi hít sâu hoặc ho, ấn đau là hướng ít khả năng (ESC 2024 CCS Hình 3). Điện tâm đồ nghỉ 12 chuyển đạo là bắt buộc khi báo đau ngực (mục 3.1.2.1, Bảng khuyến cáo 1, I C).",
+     "Nhiễu thân nhân trả lời thay: ông Khôi gạt 'đau cơ thôi', 'nhà bà ấy không ai bệnh'. Chỉ khi hỏi thẳng chị hoặc mời ông ra ngoài mới biết mẹ chị nhồi máu cơ tim lúc 60 tuổi (yếu tố tăng nguy cơ, ACC/AHA 2026 Bảng 13), anh trai mỡ máu cao, siro ho tự mua và nỗi lo thật sau vụ đồng nghiệp bị nhồi máu.",
+     "Loại trừ thứ phát trước khi gọi là nguyên phát: TSH, glucose, creatinin (QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 15). Không đạt LDL-C ≥ 4,9 mmol/L nên không xếp tăng cholesterol máu nặng (ACC/AHA 2026 mục 4.2.4.3). Mới có một lần đo lipid: 'kéo dài' cần lần hai (ESC/EAS 2019 Bảng 13).",
+     "Tăng CK nhẹ (1,4 lần) và AST 44 U/L cùng chiều với tổn thương cơ sau nâng vật nặng, không chứng tỏ bệnh cơ hay bệnh gan (ESC/EAS 2019 Bảng 13: cân nhắc tăng CK thoáng qua do gắng sức). Không có CT: không đo điểm vôi hóa mạch vành, thay bằng LDL-C, yếu tố tăng nguy cơ và thảo luận; không chuyển tuyến chỉ để chụp."
+    ],
+    "phan_tich_xu_tri": [
+     "Đau thành ngực: giải thích, nghỉ gắng sức nặng, thuốc giảm đau khi cần; thời gian nghỉ không có trong tài liệu đã tải. Dặn dấu hiệu quay lại hay đi cấp cứu: đau bóp nghẹt, đè nặng khi gắng sức hay lúc nghỉ, lan tay hoặc hàm, vã mồ hôi, khó thở (ESC 2024 CCS Hình 3 và Bảng khuyến cáo 1).",
+     "Mỡ máu - hai cách, ghi cả hai (sổ MT-0425 mục 1): khởi atorvastatin 20 mg ngay, statin cường độ vừa là hợp lý ở LDL-C 160–189 mg/dL (ACC/AHA 2026 mục 4.2.3.7, COR 2a hoặc COR 1 tùy nhóm nguy cơ); hoặc thay đổi lối sống 2–3 tháng, không đạt thì dùng thuốc (QĐ 3879/2014 mục IV.1, IV.4; ESC/EAS 2025 Bảng 4). Hai nguồn khác năm (2014, 2019/2025, 2026) và khác công cụ nguy cơ; ca chọn nhánh dùng thuốc vì có mẹ nhồi máu cơ tim lúc 60 tuổi.",
+     "Mục tiêu LDL-C: < 3,0 mmol/L (ESC/EAS 2019 Bảng 7, nguy cơ thấp, có thể cân nhắc) hoặc < 2,6 mmol/L (ACC/AHA 2026 mục 4.2.3.7 KC 6), giảm 30–49% (Bảng 6). Con số 3,0 và 2,6 đều chấp nhận được; ca nói rõ 2,6 thận trọng hơn.",
+     "Theo dõi: lipid lần hai để xác nhận; sau khởi thuốc lipid 4–12 tuần (ACC/AHA 2026 mục 3.5 KC 1) hoặc 8 ± 4 tuần (ESC/EAS 2019 Bảng 13); ALT một lần sau 8–12 tuần (ESC/EAS 2019 Bảng 13), sau đó không đo thường quy (ESC/EAS 2019; ACC/AHA 2026 mục 5.1 KC 6). CK chỉ đo khi đau cơ (ESC/EAS 2019 Bảng 13).",
+     "Không dùng thực phẩm chức năng hạ mỡ thay cho thuốc hay lối sống (ACC/AHA 2026 mục 4.1.5; ESC/EAS 2025 Bảng khuyến cáo 8). Siro ho thảo dược: thành phần không rõ, tương tác với statin không có trong tài liệu đã tải, dặn mang chai lúc tái khám."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi ngày (sau bữa tối)",
+      "so_ngay": "Dùng lâu dài; lipid 4–12 tuần, ALT một lần sau 8–12 tuần",
+      "ghi_chu": "Cường độ vừa (ACC/AHA 2026 Bảng 6); QĐ 3879/2014 mục IV.4.1: 10–20 mg/ngày, tối đa 80 mg. Nhánh khởi thuốc ngay; nhánh lối sống 2–3 tháng thì chưa kê. Giờ uống không có trong tài liệu đã tải: chọn giờ dễ nhớ."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 viên, 3 lần/ngày khi đau, tối đa 4 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn khi đau ngực, đau khi ho",
+      "so_ngay": "Khi đau, ngừng khi hết đau; số ngày tối đa không có trong tài liệu đã tải",
+      "ghi_chu": "Liều người lớn lấy từ QĐ 361/2014 (TL-0286), Đau thắt lưng cấp mục 4.2.1: 0,5 g × 4–6 viên/24 giờ, tối đa 4000 mg/ngày; tài liệu đã tải không có hướng dẫn riêng cho đau thành ngực."
+     },
+     {
+      "thuoc": "Siro ho thảo dược chị tự mua",
+      "ham_luong": "100 ml/chai",
+      "lieu": "Có thể dùng tiếp theo nhãn nếu còn ho",
+      "duong": "Uống",
+      "thoi_diem": "Theo nhãn",
+      "so_ngay": "Hết chai; ngừng nếu ho hết",
+      "ghi_chu": "Thành phần và tương tác với atorvastatin không có trong tài liệu đã tải. Chị mang chai (hoặc ảnh nhãn) khi tái khám."
+     }
+    ],
+    "dan_do": [
+     "Đau ở thành ngực do cơ sườn bị căng khi nâng nặng, thường đỡ trong vài ngày; tránh nâng vật nặng, xoay vặn mạnh ở xưởng trong thời gian còn đau (số ngày không có trong tài liệu đã tải).",
+     "Đến cấp cứu ngay nếu đau bóp nghẹt hay đè nặng ngực khi đi bộ, leo cầu thang hoặc lúc nghỉ, lan tay, hàm, lưng, kèm vã mồ hôi, khó thở, buồn nôn (ESC 2024 CCS Hình 3; Bảng khuyến cáo 1).",
+     "Mỡ máu cao không đau nhưng làm xơ vữa mạch âm thầm; chị có mẹ bị nhồi máu cơ tim lúc 60 tuổi nên cần điều trị đều (ACC/AHA 2026 Bảng 13).",
+     "Giảm thịt mỡ, đồ chiên, trà sữa, lòng đỏ trứng, tôm; thêm rau, cá, dầu thực vật; hạn chế bia rượu (QĐ 3879/2014 mục IV.3). Khi hết đau ngực, đi bộ nhanh ≥ 150 phút mỗi tuần, tập kháng lực 2 ngày/tuần (ACC/AHA 2026 mục 4.1.4).",
+     "Nếu dùng atorvastatin: đau cơ nhiều, yếu cơ, nước tiểu sẫm hoặc vàng da thì ngưng thuốc và đến khám (ACC/AHA 2026 mục 4.2.11 KC 1).",
+     "Hẹn tái khám 4–12 tuần với lipid đói hoặc không đói và men gan (ACC/AHA 2026 mục 3.5; ESC/EAS 2019 Bảng 13); khi ổn định kiểm lipid mỗi 6–12 tháng. Lần sau nên để chị nói chuyện riêng với bác sĩ một lúc."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hương hết đau ngực sau khoảng một tuần, không tái phát khi đi làm lại. Lipid lần hai trước khi uống thuốc: LDL-C 4,3 mmol/L, xác nhận kết quả đầu. Chị khởi atorvastatin 20 mg theo đơn; sau 10 tuần LDL-C 2,5 mmol/L (giảm khoảng 43%, trong khoảng 30–49% của cường độ vừa), ALT bình thường, CK 130 U/L, không đau cơ. Chị đi bộ nhanh 30 phút, 5 ngày/tuần, giảm trà sữa; tiếp tục kiểm lipid mỗi 6–12 tháng (ACC/AHA 2026 mục 3.5).",
+ "nhieu": [
+  "Ông Khôi trả lời thay, gạt 'đau cơ thôi' và 'nhà bà ấy không ai bệnh': đặc điểm đau, mẹ nhồi máu cơ tim lúc 60 tuổi, siro ho và lý do thật chỉ có khi hỏi riêng chị Hương.",
+  "Đau ngực sau gắng sức là cờ đỏ dễ bị bỏ qua vì đã có 'lời giải thích' sẵn là bê vật nặng; điện tâm đồ bình thường không loại trừ hẳn đau thắt ngực nên đặc điểm đau mới quyết định (ESC 2024 CCS).",
+  "AST 44 U/L và CK 245 U/L tăng nhẹ sau nâng vật nặng: dễ nhầm với độc gan hay bệnh cơ; CK dưới 4 lần giới hạn trên không cản khởi statin (ESC/EAS 2019 Bảng 13).",
+  "Siro ho thảo dược tự mua: thành phần không rõ; phải hỏi thuốc tự mua và thảo dược, không chỉ 'có đang uống thuốc gì không'.",
+  "Cơ sở không có CT: không nên chuyển tuyến chỉ để đo điểm vôi hóa khi không có triệu chứng thắt ngực."
+ ],
+ "bai_hoc_bien": [
+  "Người nhà trả lời thay: tách bệnh nhân ra hỏi riêng khi cần; thông tin quan trọng (tiền sử gia đình, thuốc tự mua, nỗi lo thật) thường nằm ở người bệnh.",
+  "Đau ngực sau gắng sức: phân biệt thắt ngực với đau thành ngực bằng tính chất đau; làm điện tâm đồ ở mọi người báo đau ngực, dặn dấu hiệu quay lại.",
+  "Tìm rối loạn lipid khi khám tổng quát: loại trừ thứ phát (TSH, glucose, creatinin) trước khi gọi là nguyên phát; lipid cần hai lần đo trước thuốc dài hạn (ESC/EAS 2019 Bảng 13).",
+  "Khởi statin cường độ vừa hay lối sống trước: hai cách, ghi cả hai theo nguồn, cá thể hóa theo yếu tố tăng nguy cơ.",
+  "Không có CT: quyết định dựa vào LDL-C, yếu tố tăng nguy cơ và thảo luận."
+ ],
+ "diem_nho": [
+  "RLLM khi cholesterol TP > 5,2, LDL-C > 2,58, TG > 1,7 mmol/L (QĐ 3879/2014 mục III.2); loại trừ thứ phát: suy giáp, đái tháo đường, bệnh thận (mục II.2).",
+  "LDL-C 160–189 mg/dL: statin cường độ vừa là hợp lý ở nguy cơ thấp (COR 2a), ít nhất cường độ vừa ở nguy cơ 5–< 10% (COR 1) (ACC/AHA 2026 mục 4.2.3.7). Mẹ nhồi máu cơ tim trước 65 tuổi là yếu tố tăng nguy cơ (Bảng 13).",
+  "Điện tâm đồ nghỉ ở mọi người báo đau ngực (ESC 2024 CCS Bảng khuyến cáo 1, I C); đau nhói, tăng khi hít sâu và ho, ấn đau làm giảm khả năng bệnh mạch vành (Hình 3).",
+  "CK nền > 4 lần giới hạn trên thì chưa khởi thuốc; cân nhắc tăng CK thoáng qua do gắng sức (ESC/EAS 2019 Bảng 13). Lipid 4–12 tuần sau khởi thuốc (ACC/AHA 2026 mục 3.5)."
+ ],
+ "nguon": [
+  "BYT – QĐ 3879/QĐ-BYT 2014 (TL-0039) – Rối loạn lipid máu mục II.2, III.2, IV.1–IV.4 (4.1, 4.5, Chú ý), Bảng 2.",
+  "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia (TL-0292) – mục 3.4 KC 1, 3.5 KC 1, 4.1.4 KC 1, 4.1.5, 4.2.3 (khung CPR, Hình 5), 4.2.3.1, 4.2.3.7, 4.2.4.3, 4.2.11 KC 1, 5.1 KC 5–6; Bảng 4, 6, 13, 15.",
+  "2019 ESC/EAS Guidelines for the management of dyslipidaemias (TL-0320) – mục 5.4.3; Bảng 7, 13.",
+  "2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias (TL-0298) – Bảng 4; Bảng khuyến cáo 4 (Lp(a)), Bảng khuyến cáo 8.",
+  "2024 ESC Guidelines for the management of chronic coronary syndromes (TL-0304) – mục 3.1.1, Hình 3; mục 3.1.2.1, Bảng khuyến cáo 1; mục 3.1.2.2, Bảng khuyến cáo 2.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp (TL-0286) – Đau thắt lưng cấp mục 4.2.1 (liều paracetamol người lớn, dùng tham chiếu liều)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-18): viết. Tài liệu đã đọc: TL-0039 (RL lipid máu mục I–VI), TL-0292 (3.4, 3.5, 4.1.4, 4.1.5, 4.2.3.3 Bảng 13, 4.2.3.7, 4.2.11, 5.1, Bảng 6, 15), TL-0320 (5.4.3, Bảng 7, 13), TL-0298 (Bảng 4), TL-0304 (3.1.1 Hình 3, 3.1.2.1, 3.1.2.2), TL-0286 (liều paracetamol).",
+  "Sổ mâu thuẫn: áp dụng MT-0425 mục 1 (lối sống trước hay statin ngay: ghi cả hai), mục 3 (ezetimibe sau statin tối đa dung nạp; không bàn ở ca này), mục 4 (CK nền chấm a), mục 5 (thuốc bảo vệ gan chấm a); MT-0477 đề xuất 2 (mục tiêu LDL-C < 3,0 hoặc < 2,6 mmol/L ghi cả hai) và đề xuất 1 (ALT/CK); MT-0523 mục 2 (lipid đói hay không đói), mục 3 (hai lần đo lipid), mục 1 (thực phẩm chức năng chấm w). Không có mâu thuẫn mới.",
+  "Chỗ thiếu tài liệu: công cụ PREVENT-ASCVD, SCORE2 (nguy cơ 10 năm không tính); thuật toán loại trừ thuyên tắc phổi và hướng dẫn riêng cho đau thành ngực cơ–xương (trong ca ghi nguồn lâm sàng, ESC 2024 CCS chỉ cung cấp đặc điểm đau và vai trò điện tâm đồ); thời gian nghỉ gắng sức; tương tác siro thảo dược–statin; giờ uống statin; liều paracetamol riêng cho đau ngực (lấy tham chiếu QĐ 361/2014).",
+  "Âm thanh: mạch 76 l/p dùng AT-TIM-BT-NL-01 và AT-PHOI-BT-NL-01. Không có ảnh da (không có tổn thương da then chốt). Không dùng id danh mục mới: ck, trop, ecg, ecg_gang_suc, ddimer, lpa, ct_mach_vanh đều có sẵn."
+ ]
+}

@@ -1,0 +1,967 @@
+{
+ "ma_ca": "MT-0977",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_mvm_on_dinh",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Bệnh mạch vành mạn ổn định",
+  "chan_doan_phai_loai_tru": [
+   "Hội chứng vành cấp",
+   "Trào ngược"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Sen",
+  "tuoi": 68,
+  "gioi": "Nữ",
+  "nghe": "Nội trợ",
+  "can_nang": 58,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'bác'. Bà tự xưng 'tôi' hoặc 'bác', gọi bác sĩ là 'cô/cậu' hoặc 'bác sĩ' tùy tuổi.",
+  "tinh_cach": "Hiền, hay lo xa, nói vòng vo, hay mở đầu bằng chuyện người khác. Dành cả ngày chăm cháu ngoại, ngại làm phiền con. Dùng điện thoại xem video sức khỏe mỗi tối, tin những gì đọc được. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: mở đầu bằng 'cháu ho nên sợ lây', rồi nói 'tôi tra mạng thấy giống nhồi máu cơ tim ở phụ nữ, hay là trào ngược dạ dày'. Muốn bác sĩ xác nhận một trong hai cái tên, hay ngắt lời để hỏi lại 'có đúng không'. Khi được giải thích tôn trọng thì chịu kể đủ triệu chứng; nếu bị gạt đi thì im và nói 'chắc không sao'.",
+  "nguoi_nha": "Con gái (chị Lan) đi cùng, ngồi ngoài chờ; bà bảo 'đừng kể với con'.",
+  "ten_nguoi_nha": "Chị Lan",
+  "ngoai_hinh": {
+   "da": "#d9ab88",
+   "toc": "#cfcac3",
+   "kieuToc": "nu_ngan",
+   "ao": "#8a6f9e",
+   "aoKieu": "co_tron",
+   "kinh": true,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Ho 3 ngày, sợ lây từ cháu, mệt hơn thường",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Phạm Thị Sen, 68 tuổi, nội trợ, đến khám cùng con gái. Lý do khai: ho 3 ngày, sợ lây từ cháu ngoại, thấy mệt hơn thường. Sinh hiệu: HA 146/86 mmHg, mạch 74 l/p, nhiệt độ 36,8 độ, nhịp thở 17 l/p, SpO2 97%, cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Bà Sen bị đưa vào cấp cứu như nhồi máu cấp dù cơn ngắn, cùng ngưỡng gắng sức, troponin âm, điện tim không động học. Nằm một đêm rồi vẫn ra về mà chưa có kế hoạch chẩn đoán bệnh vành, con gái hoảng sợ, bà càng tin 'mình sắp chết' và dễ bỏ thuốc. Chuyển cấp cứu chỉ khi nghi HCV cấp (ESC 2024 Bảng KC 1, I B).",
+    "nhap_vien": "Bà nằm viện vài ngày 'theo dõi tim' dù không có dấu hiệu cấp. Tốn kém, mất ngủ vì dùng thuốc ngủ ở môi trường lạ, cháu ngoại không ai trông. Ra viện vẫn chưa biết có hẹp mạch vành hay không vì cơ sở không có CT, và chưa được dặn ngậm nitroglycerin khi đau.",
+    "theo_doi": "Giữ bà vài giờ rồi cho về mà không đổi gì. Bà về không có thuốc chống đau thắt ngực, không statin, không hẹn lại: cơn gắng sức tiếp tục, nỗi sợ nhồi máu tăng, LDL-C 3,9 mmol/L không được điều trị (ESC 2024 Bảng KC 18, I A; QĐ 2248/2023 mục 4.3.1b).",
+    "chuyen_tuyen": "Chuyển bà lên tuyến trên ngay để chụp mạch vành. Xác suất 14% (thấp) và triệu chứng ổn định nên chưa phải bước đầu: ESC 2024 Bảng KC 11 (I C) dành cho khả năng > 85%, triệu chứng kháng điều trị nội khoa, đau ở mức gắng sức thấp hoặc nguy cơ cao. Bà tốn tiền, đi theo lời con, rồi dễ mất theo dõi và bỏ thuốc."
+   },
+   "loi_mo": "Chào cô. Cháu ngoại tôi ho cả tuần nay, tôi bế nó nhiều nên sợ lây. Tôi cũng ho vài hôm, thấy mệt hơn mọi khi. Cô khám giùm tôi coi có sao không.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "146/86",
+    "nhiet": "36,8",
+    "nhip_tho": 17,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Cháu ngoại 4 tuổi ho cả tuần nay, bà bế cháu suốt nên sợ lây. Bà ho khan nhẹ 3 hôm, mệt hơn mọi khi nên đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan nhẹ 3 ngày, không sốt, không đờm, không chảy mũi nhiều. Ho không liên quan lúc đau hàm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ho là triệu chứng phụ, do tiếp xúc cháu"
+    },
+    {
+     "id": "dau_ham",
+     "noi_dung": "Khoảng 3 tuần nay, mỗi lần bế cháu lên dốc, leo cầu thang hoặc quét sân thì thấy nặng, tức ở góc hàm dưới bên trái lan xuống vùng thượng vị, kèm hụt hơi. Nghỉ 3–5 phút thì hết. Không đau giữa ngực, không đau khi nằm nghỉ. Bà nghĩ là 'đau răng', 'đau bao tử'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về vị trí đau, lúc nào đau, đau khi làm gì, nghỉ có đỡ không; hỏi 'đau ngực không' thì bà trả lời 'không đau ngực'.",
+     "y": "Đau hàm-thượng vị khi gắng sức, đỡ khi nghỉ (tương đương đau thắt ngực)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Lần đầu bế cháu leo 2 tầng chợ, phải dừng lại ở chiếu nghỉ. Mỗi tuần đau 3–4 lần, kiểu như nhau, không nặng dần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ ổn định: cùng ngưỡng gắng sức, không tăng dần, không đau lúc nghỉ"
+    },
+    {
+     "id": "khong_acs",
+     "noi_dung": "Không có cơn đau kéo dài trên 20 phút, không vã mồ hôi, không buồn nôn, không ngất. Cơn gần nhất cách đây 2 ngày, hết sau khi ngồi nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ hội chứng vành cấp"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Đau không liên quan bữa ăn, không nóng rát sau xương ức, không ợ chua, nằm xuống không đau thêm, uống thuốc dạ dày mua ngoài hai lần không đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ trào ngược"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Tăng huyết áp biết từ 5 năm, bác sĩ xã cho thuốc nhưng bà uống không đều, bỏ vì 'đo thấy bình thường'. Chưa từng thử mỡ máu, đường huyết. Mẹ mất đột ngột ở tuổi 58, không rõ nguyên nhân. Không hút thuốc, không uống rượu. Mãn kinh năm 50.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ: THA, gia đình có người mất sớm, chưa kiểm tra lipid"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mất ngủ nhiều năm, tối nào cũng uống một viên thuốc ngủ mua ở tiệm (con gái cho xem vỏ: diazepam 5 mg). Ngoài ra không uống thuốc gì thường xuyên.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì bà chỉ nói 'thuốc huyết áp bỏ rồi, không uống gì'. Chỉ kể thuốc ngủ khi bác sĩ hỏi ngủ nghỉ ra sao, có dùng thuốc ngủ, thuốc an thần không.",
+     "y": "Thuốc an thần đang dùng"
+    },
+    {
+     "id": "tra_mang",
+     "noi_dung": "Tối qua xem video thấy 'phụ nữ nhồi máu cơ tim thường không đau ngực mà đau hàm, mệt', thấy giống mình nên mất ngủ cả đêm, không dám nói con.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà có lo lắng gì, có đọc hay xem gì về bệnh, hoặc hỏi bà nghĩ mình bị gì; nói ra thì hỏi lại 'có đúng không bác sĩ' và xin 'thử máu tim cho chắc'.",
+     "y": "Chẩn đoán tự tra mạng và nỗi sợ thật"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: hàng xóm cùng tuổi mới mất vì nhồi máu cơ tim, bà sợ mình là người tiếp theo. Nói 'sợ lây ho' trước vì ngại bị cho là lo bò trắng răng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà sợ nhất điều gì, hoặc khi đã hỏi và thông cảm chuyện hàng xóm.",
+     "y": "Lý do thật đến khám: sợ nhồi máu cơ tim"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Ăn mặn, hay kho cá, thịt mỡ, ít rau. Không tập thể dục, đi bộ ra chợ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "khong_khac",
+     "noi_dung": "Không phù chân, không khó thở khi nằm, không hồi hộp, không ngất, không đau bắp chân. Không đái tháo đường đã biết.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà tỉnh, hơi gầy, da niêm hồng, không xanh tím, không phù.",
+     "k": 0
+    },
+    "ha_hai_tay": {
+     "a": "HA tay phải 146/86, tay trái 144/84 mmHg, hai tay chênh dưới 10 mmHg.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, T1 T2 rõ, không âm thổi, không T3, T4.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Phổi thông khí đều hai bên, không ran. Họng đỏ nhẹ.",
+     "k": 0,
+     "hien": "Thở đều, không khò khè.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị không đau, không phản ứng.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch cảnh, mạch quay, mạch mu chân rõ hai bên, không âm thổi động mạch cảnh và đùi.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù, không tĩnh mạch nổi, bắp chân mềm.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Ấn thành ngực, khớp ức sườn, vùng hàm và cơ cổ không tái hiện cơn đau.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 72 l/p, trục bình thường, sóng T dẹt nhẹ V5–V6, không chênh ST, không sóng Q bệnh lý.",
+     "ab": 1,
+     "n": "ESC 2024 Bảng KC 1 (I C): ECG 12 chuyển đạo cho mọi người đau ngực; nghi HCV cấp thì chuyển cấp cứu/lặp troponin (I B)."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Troponin ngoài cơn đau: âm tính (dưới ngưỡng).",
+     "n": "Một mẫu ngoài cơn là đủ cho ca này; đang đau hoặc đau mới thì lặp mẫu (ESC 2024 Bảng KC 1, I B). Đường cong troponin riêng cho CCS: không có trong tài liệu đã tải."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 6,1 · LDL-C 3,9 · HDL-C 1,2 · TG 1,7 mmol/L",
+     "ab": 1,
+     "n": "ESC 2024 Bảng KC 2 (I A); mục tiêu LDL-C < 1,4 mmol/L và giảm ≥ 50% (Bảng KC 18, I A)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "Glucose đói 5,4 mmol/L",
+     "n": "Loại trừ đái tháo đường (ESC 2024 Bảng KC 2, I B; là một yếu tố nguy cơ của RF-CL, Hình 4)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 74 µmol/L · eGFR 78 mL/ph/1,73m²",
+     "n": "ESC 2024 Bảng KC 2 (I B); cần trước khi dùng thuốc và theo dõi lâu dài."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,9 G/L · Hb 128 g/L · TC 270 G/L",
+     "n": "Hb 128 g/L: loại trừ thiếu máu gây đau ngực gắng sức (ESC 2024 Bảng KC 2, I B)."
+    },
+    "echo": {
+     "v": "e",
+     "r": "Thất trái không giãn, EF 60%, không rối loạn vận động vùng khi nghỉ, giãn nhĩ trái nhẹ, rối loạn tâm trương độ 1, van không hẹp hở đáng kể.",
+     "n": "ESC 2024 Bảng KC 4 (I B): đo EF, vận động vùng, bệnh van; chỉnh xác suất và phân tầng nguy cơ."
+    },
+    "ecg_gang_suc": {
+     "v": "a",
+     "r": "Chạy thảm 5 phút (Bruce giai đoạn 2), mạch 118 l/p. Đau hàm trái tái hiện ở phút 4, ST chênh xuống ngang 1 mm V5–V6, đỡ sau nghỉ 3 phút. Huyết áp tăng đáp ứng bình thường.",
+     "n": "ESC 2024 Bảng KC 5 (IIb B, IIb C): chỉ chỉnh xác suất và phân tầng nguy cơ, không thay chẩn đoán hình ảnh; bất thường nâng khả năng lên mức trung bình (Hình 4 bước 2). Chống chỉ định cụ thể của ECG gắng sức: không có trong tài liệu đã tải."
+    },
+    "ct_mach_vanh": {
+     "n": "Cơ sở không có CT. ESC 2024 Bảng KC 8 (I A) ưu tiên CCTA cho khả năng > 5–50% nhưng chỉ 'nếu có'; thay bằng ECG gắng sức hoặc siêu âm gắng sức (Bảng KC 9, I B, khả năng > 15–85%)."
+    },
+    "sa_tim_gang_suc": {
+     "n": "Cơ sở không có; hẹn làm ở tuyến trên (ESC 2024 Bảng KC 9, I B)."
+    },
+    "pcr_ho_hap": {
+     "n": "Ho khan nhẹ 3 ngày, không sốt, phổi sạch: không cần xét nghiệm virus (tiêu chuẩn: không có trong tài liệu đã tải)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tim phổi chưa thấy bất thường.",
+     "n": "Không bắt buộc; ho nhẹ, phổi sạch, không đổi xử trí. Chỉ định X-quang ngực trong CCS: không đối chiếu được trong phạm vi đã đọc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh mạch vành mạn ổn định (hội chứng vành mạn): đau hàm trái-thượng vị và hụt hơi khi gắng sức, đỡ khi nghỉ; nữ 68 tuổi, THA, LDL-C tăng, tiền sử gia đình, xác suất tiền nghiệm thấp–trung bình nhưng ECG gắng sức dương tính ranh giới",
+     "ok": 1,
+     "n": "ESC 2024 mục 3, Bảng KC 1: đau hàm, cổ, tay hoặc khó thở khi gắng sức là tương đương đau thắt ngực (IIa B). RF-CL (ESC 2024 Hình 4; Bảng KC 3, I B): nữ 60–69 tuổi, điểm triệu chứng 3, 2–3 yếu tố nguy cơ → 14% (thấp, > 5–15%). QĐ 2248/2023 Bảng 2 (PTP cũ): nữ 60–69 tuổi 16% nếu điển hình, 11% nếu không điển hình (mục 2.1.3; thiếu đau sau xương ức); ESC 2024 thay bằng RF-CL vì bảng cũ ước quá cao. ECG gắng sức bất thường chỉnh xác suất lên mức trung bình (> 15–50%) (Hình 4 bước 2, I; Bảng KC 3, I C). Khẳng định bằng hình ảnh/chức năng ở tuyến trên (lượt sau)."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "Cơn ngắn, cùng ngưỡng gắng sức, hết sau nghỉ, troponin âm, ECG không động học ST. Nghi HCV cấp thì chuyển cấp cứu hoặc lặp troponin (ESC 2024 Bảng KC 1, I B); đau trên 20 phút hoặc cả khi nghỉ thì nghĩ đau thắt ngực không ổn định/nhồi máu (QĐ 2248/2023 mục 2.1.1)."
+    },
+    {
+     "t": "Trào ngược dạ dày thực quản",
+     "n": "Đau không liên quan bữa ăn, không nóng rát, không đỡ với thuốc dạ dày; tái hiện khi gắng sức và kèm ST xuống. Người cao tuổi nữ dễ bị gán nhầm là 'đau bao tử'; ESC 2024 mục 3: ấn tìm tái hiện, thử nitroglycerin để phân loại triệu chứng."
+    },
+    {
+     "t": "Viêm đường hô hấp trên do tiếp xúc cháu",
+     "n": "Ho khan nhẹ 3 ngày, không sốt, phổi sạch, SpO2 97%: nhẹ, điều trị triệu chứng; không giải thích được đau hàm gắng sức."
+    },
+    {
+     "t": "Thiếu máu, bệnh van tim, rối loạn nhịp gây khó thở gắng sức",
+     "n": "Hb 128 g/L, tim đều không âm thổi, siêu âm không hẹp hở đáng kể (ESC 2024 mục 3: khám tìm thiếu máu, bệnh van, rối loạn nhịp)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khám có hệ thống về triệu chứng và yếu tố nguy cơ, tìm tương đương đau thắt ngực (đau hàm, hụt hơi), dùng RF-CL để ước xác suất",
+     "v": "c",
+     "n": "ESC 2024 Bảng KC 1 (hỏi bệnh, yếu tố nguy cơ: I C; tương đương đau thắt ngực: IIa B) và Bảng KC 3 (ước xác suất bằng RF-CL: I B)."
+    },
+    {
+     "t": "Làm ECG nghỉ, lipid, glucose, creatinin, công thức máu, siêu âm tim nghỉ",
+     "v": "c",
+     "n": "ESC 2024: ECG nghỉ cho người đau ngực (Bảng KC 1, I C); lipid kèm LDL-C (Bảng KC 2, I A); công thức máu, creatinin, đường huyết (Bảng KC 2, I B); siêu âm tim nghỉ (Bảng KC 4, I B)."
+    },
+    {
+     "t": "Troponin một mẫu ngoài cơn",
+     "v": "a",
+     "n": "ESC 2024 Bảng KC 1 (I B): lặp troponin khi nghi HCV cấp; triệu chứng 3 tuần, ổn định nên không bắt buộc. Một mẫu ngoài cơn chấp nhận được vì bà sợ nhồi máu."
+    },
+    {
+     "t": "ECG gắng sức tại cơ sở để chỉnh xác suất tiền nghiệm (không có CT mạch vành)",
+     "v": "a",
+     "n": "ESC 2024 Bảng KC 5: thay thế khi không có hình ảnh (IIb B), chỉnh xác suất ở khả năng thấp (IIb C). Bảng KC 13 (I B) ưu tiên CCTA hoặc hình ảnh chức năng; không có CT nên chấp nhận được, không bắt buộc nếu chuyển được lên làm siêu âm gắng sức ngay."
+    },
+    {
+     "t": "Đáp ứng nỗi sợ: giải thích đây không phải nhồi máu đang xảy ra mà là bệnh mạch vành mạn, tôn trọng cách bà tự tra",
+     "v": "c",
+     "n": "Bà tra đúng hướng tim mạch (đôi khi bệnh nhân đúng); phần sai là nhồi máu cấp và trào ngược."
+    },
+    {
+     "t": "Nitroglycerin ngậm dưới lưỡi khi đau",
+     "v": "c",
+     "n": "AHA/ACC 2023 mục 4.3.6, KC 4 (COR 1, B-NR): ngậm dưới lưỡi hoặc xịt để giảm đau ngay; ESC 2024 Bảng KC 16 (I B); QĐ 2248/2023 mục 4.3.2.1a: 0,3–0,6 mg mỗi 5 phút, tối đa 1,2 mg trong 15 phút."
+    },
+    {
+     "t": "Thuốc chống đau thắt ngực nền: chẹn beta (bisoprolol, metoprolol succinate) hoặc chẹn kênh canxi hoặc nitrat tác dụng dài",
+     "v": "c",
+     "n": "AHA/ACC 2023 mục 4.3.6 KC 1 (COR 1, B-R): chẹn beta, CCB hoặc nitrat tác dụng dài; ESC 2024 Bảng KC 16 (I B): chẹn beta và/hoặc CCB khởi đầu. QĐ 2248/2023 mục 4.3.2.1b nêu bisoprolol; chống chỉ định hen, co thắt phế quản, nhịp chậm, co thắt ĐMV. Chọn chẹn beta vì có THA, mạch 74 l/p. Bisoprolol khởi đầu 2,5 mg; chống chỉ định khi mạch < 55 l/p (QĐ 5904/2019 Phần 3 mục G). Chẹn beta không giảm biến cố khi chưa NMCT và EF > 50% (AHA/ACC 2023 mục 4.3.2 KC 4, 3: No Benefit): ở đây dùng để giảm triệu chứng."
+    },
+    {
+     "t": "Statin cường độ cao (atorvastatin 40–80 mg) nhắm LDL-C giảm ≥ 50% và < 1,4 mmol/L (ESC 2024, QĐ 2248) hoặc < 70 mg/dL (ACC/AHA 2026)",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, từ MT-0995). ESC 2024 Bảng KC 18 (I A) và QĐ 2248/2023 mục 4.3.1b: < 1,4 mmol/L (55 mg/dL) và giảm ≥ 50%; atorvastatin ≥ 40 mg cho mọi người HCMVM. ACC/AHA 2026 mục 4.2.6: ASCVD không nguy cơ rất cao: statin cường độ cao, giảm ≥ 50%, mục tiêu < 70 mg/dL (COR 1); thêm ezetimibe để đạt < 55 (COR 2a). AHA/ACC 2023 mục 4.2.6 KC 1 (COR 1, A): statin cường độ cao. Atorvastatin tối đa 80 mg (QĐ 5904/2019 Phần 3 mục G)."
+    },
+    {
+     "t": "Aspirin 75–100 mg/ngày: bắt đầu ngay, hoặc chờ bằng chứng bệnh vành tắc nghẽn rồi mới dùng",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, từ MT-0995). Ngay: AHA/ACC 2023 mục 4.3.1 KC 1 (COR 1, A): aspirin 81 mg (75–100) cho bệnh mạch vành mạn không có chỉ định chống đông. Chờ bằng chứng: QĐ 2248/2023 mục 4.3.1a (bằng chứng hình ảnh rõ ràng) và ESC 2024 Bảng KC 17 (I B: tắc nghẽn đáng kể). Khác nhau do dân số (bệnh đã xác lập so với nghi bệnh); không nguồn nào nói dùng sớm là có hại. Lượt sau viết như thể bà đã dùng aspirin; chưa dùng mà chờ hình ảnh ở lượt 3 cũng đúng."
+    },
+    {
+     "t": "Giảm ho: nghỉ, uống nước ấm; không cần kháng sinh",
+     "v": "c",
+     "n": "Ho khan nhẹ 3 ngày, không sốt, phổi sạch. Thuốc ho cụ thể: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Đưa vào CT mạch vành hoặc chụp mạch vành ngay trong ngày",
+     "v": "w",
+     "n": "Không có CT; chụp mạch vành xâm lấn khi chưa dùng thuốc nền, triệu chứng ổn định là quá tay (ESC 2024 Bảng KC 11, I C: chỉ cho khả năng > 85%, triệu chứng kháng điều trị nội khoa, đau ở mức gắng sức thấp hoặc nguy cơ cao)."
+    },
+    {
+     "t": "Chuyển cấp cứu, nhập viện theo dõi nhồi máu",
+     "v": "w",
+     "n": "Không có dấu hiệu HCV cấp (cơn ngắn, ổn định, troponin âm, ECG không động học ST): quá tay, tốn kém (ESC 2024 Bảng KC 1, I B: chuyển cấp cứu khi nghi HCV cấp)."
+    },
+    {
+     "t": "Cho thuốc dạ dày và về, coi là trào ngược",
+     "v": "w",
+     "n": "Bỏ sót CCS ở nữ cao tuổi có tương đương đau thắt ngực (ESC 2024 mục 3, IIa B)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh mạch vành mạn ổn định (nghi cao, chưa khẳng định bằng hình ảnh/chức năng), đau thắt ngực tương đương: đau hàm-thượng vị và hụt hơi khi gắng sức",
+     "Yếu tố nguy cơ: tăng huyết áp đã bỏ thuốc, rối loạn lipid (LDL-C 3,9 mmol/L), tiền sử gia đình mất sớm",
+     "Viêm đường hô hấp trên nhẹ (ho khan 3 ngày)",
+     "Lo âu liên quan tin tự tra, mất ngủ dùng thuốc ngủ"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: đau hàm trái-thượng vị và hụt hơi khi gắng sức, hết sau 3–5 phút nghỉ; bà không nói 'đau ngực'. Tương đương đau thắt ngực (ESC 2024 Bảng KC 1, IIa B); QĐ 2248/2023 mục 2.1.1: đau có thể lan lên hàm, thượng vị, kéo dài khoảng 3–5 phút.",
+     "Xác suất tiền nghiệm: RF-CL 14% (ESC 2024 Hình 4; điểm triệu chứng 3 = vị trí cổ/hàm + gắng sức + đỡ khi nghỉ) hoặc 16%/11% (QĐ 2248 Bảng 2). Mức 'thấp' không loại trừ: chỉnh theo ECG, siêu âm, ECG gắng sức (Bảng KC 3).",
+     "Loại HCV cấp: cơn ngắn, cùng ngưỡng, không đau nghỉ, troponin âm, ECG không động học ST (ESC 2024 Bảng KC 1, I B). Loại trào ngược: không liên quan bữa ăn, không nóng rát, thuốc dạ dày không đỡ, đau tái hiện khi gắng sức.",
+     "Ho do tiếp xúc cháu, độc lập với đau hàm; ESC 2024 mục 3.1: ho làm CCS ít khả năng, nên tách hai triệu chứng, không để ho che triệu chứng gắng sức.",
+     "Không có CT: thay bằng ECG gắng sức tại chỗ rồi siêu âm gắng sức ở tuyến trên (ESC 2024 Bảng KC 8, 9)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nitroglycerin ngậm khi đau (QĐ 2248 mục 4.3.2.1a; AHA/ACC 2023 mục 4.3.6 KC 4). Đau tăng, đau lúc nghỉ hoặc kéo dài → nghi HCV cấp, gọi cấp cứu (ESC 2024 Bảng KC 1). Mốc 'không hết sau 5 phút': không có trong tài liệu đã tải.",
+     "Chẹn beta làm thuốc nền; thêm thuốc thứ hai nếu còn triệu chứng (AHA/ACC 2023 mục 4.3.6 KC 1–2). Statin cường độ cao + mục tiêu LDL-C và aspirin: ghi cả hai cách như mục xử trí tương ứng.",
+     "HA 146/86 là số đo một lần, THA đã biết 5 năm. Ngưỡng 140/90 (VSH/VNHA 2024; QĐ 5481/2020) hay 130/80 (AHA/ACC 2025; ADA 2026): ca ghi cả hai.",
+     "Diazepam 5 mg: không đổi lượt này. AGS Beers 2023 Bảng 2: benzodiazepin nên tránh ở người ≥ 65 tuổi (nhận thức, mê sảng, té ngã, gãy xương; khuyến cáo mạnh); kế hoạch giảm dần: không có trong tài liệu đã tải.",
+     "Tái khám sau 4 tuần theo mốc kiểm lipid 4–12 tuần sau khởi statin (AHA/ACC 2023 mục 4.2.6 KC 3); lịch tái khám triệu chứng cho CCS mới khởi trị: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nitroglycerin ngậm dưới lưỡi",
+      "ham_luong": "0,4 mg/viên (viên 0,5 mg: tối đa 2 viên)",
+      "lieu": "Ngậm 1 viên khi đau; lặp mỗi 5 phút, tối đa 3 viên 0,4 mg/15 phút (không quá 1,2 mg)",
+      "duong": "Ngậm dưới lưỡi",
+      "thoi_diem": "Khi lên cơn, ngồi xuống",
+      "so_ngay": "Dùng khi cần",
+      "ghi_chu": "QĐ 2248/2023 mục 4.3.2.1a: 0,3–0,6 mg mỗi 5 phút, tối đa 1,2 mg/15 phút (AHA/ACC 2023 mục 4.3.6 KC 4); không dùng cùng sildenafil. Có thể đau đầu, chóng mặt."
+     },
+     {
+      "thuoc": "Bisoprolol",
+      "ham_luong": "2,5 mg",
+      "lieu": "2,5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dài hạn, đánh giá lại sau 4 tuần",
+      "ghi_chu": "QĐ 2248/2023 mục 4.3.2.1b; AHA/ACC 2023 mục 4.3.6 KC 1. Khởi đầu 2,5 mg, duy trì 2,5–10 mg; chống chỉ định hen cấp, mạch < 55 l/p (QĐ 5904/2019 Phần 3 mục G). Theo dõi nhịp chậm, hạ huyết áp."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "Cường độ cao ở CCS: ≥ 40 mg, tối đa 80 mg (ESC 2024 Bảng KC 18; QĐ 5904/2019 Phần 3 mục G). QĐ 5904 liệt kê khởi đầu 10 mg (bảng thuốc tuyến xã cho rối loạn lipid nói chung); ca CCS cần giảm ≥ 50% nên dùng 40 mg. Kiểm lipid 4–12 tuần sau (AHA/ACC 2023 mục 4.2.6 KC 3)."
+     },
+     {
+      "thuoc": "Aspirin",
+      "ham_luong": "81–100 mg",
+      "lieu": "75–100 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn no",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "Ngay (AHA/ACC 2023 mục 4.3.1 KC 1) hoặc chờ hình ảnh (QĐ 2248 mục 4.3.1a; ESC 2024 Bảng KC 17): cả hai chấp nhận. Liều 75–100 mg; không dùng nếu tiền sử xuất huyết (QĐ 5904 Phần 3 mục G)."
+     }
+    ],
+    "dan_do": [
+     "Cơn đau hàm-thượng vị khi gắng sức là biểu hiện của tim ở phụ nữ lớn tuổi; bà tra đúng hướng tim mạch, nhưng hiện chưa phải nhồi máu.",
+     "Ngậm nitroglycerin khi đau, ngồi xuống; đau lúc nghỉ, kéo dài, vã mồ hôi, ngất → gọi cấp cứu (115) ngay (ESC 2024 Bảng KC 1, I B).",
+     "Uống đều thuốc huyết áp, tim, mỡ máu mỗi ngày; không bỏ vì 'thấy bình thường'.",
+     "Giảm muối (dưới 5 g/ngày, QĐ 5904/2019 Phụ lục 3.2), hạn chế thịt mỡ; vận động vừa sức, tăng dần tới 30–60 phút/ngày dưới mức gây đau hàm (QĐ 2248/2023 Bảng 4). Ghi nhật ký cơn đau mang đến lần sau.",
+     "Chị Lan nên biết để đưa bà đi: bà ngại báo con; giải thích lý do cần người nhà.",
+     "Ho nhẹ: nghỉ, uống nước ấm, đeo khẩu trang khi gần cháu. Hẹn tái khám sau 4 tuần (mốc kiểm lipid, AHA/ACC 2023 mục 4.2.6 KC 3)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Bà Sen tái khám sau 4 tuần, dùng đều bisoprolol, atorvastatin, aspirin và nitroglycerin khi đau. Bà nói đỡ nhiều nhưng chưa hết hẳn. Sinh hiệu: HA 132/78 mmHg, mạch 58 l/p, SpO2 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Bà Sen bị đưa đi cấp cứu vì 'còn đau', nằm một đêm. Troponin âm, điện tim như cũ; bà bực, con gái tốn công, nghĩ thuốc không có tác dụng nên có thể bỏ thuốc. Việc cần làm (thêm thuốc thứ hai, hẹn siêu âm gắng sức) bị trì hoãn (AHA/ACC 2023 mục 4.3.6 KC 2); cơn không có dấu hiệu cấp (ESC 2024 Bảng KC 1, I B).",
+    "nhap_vien": "Bà nhập viện 'chỉnh thuốc' dù đau đã giảm và không có dấu cấp. Nằm viện vài ngày cho cùng kết quả như ngoại trú, mất ngủ vì đổi môi trường, cháu ngoại không ai trông, chi phí tăng mà siêu âm gắng sức vẫn chưa làm.",
+    "theo_doi": "Giữ bà vài giờ rồi cho về như cũ: không thêm thuốc, không đặt lịch siêu âm gắng sức. Cơn đau còn 1–2 lần/tuần kéo dài, LDL-C 2,2 mmol/L (85 mg/dL) chưa đạt mục tiêu, bà nghĩ 'thuốc chỉ đỡ chút' nên dễ nản bỏ thuốc.",
+    "chuyen_tuyen": "Chuyển bà lên tuyến trên khẩn cấp để chụp mạch vành. Đáp ứng một phần chưa phải thất bại, bà chưa dùng thuốc thứ hai: chụp xâm lấn khi chưa tối ưu nội khoa và chưa có xét nghiệm không xâm lấn là quá tay (ESC 2024 Bảng KC 11, I C: triệu chứng kháng điều trị, đau ở mức gắng sức thấp hoặc nguy cơ cao). Chi phí và nguy cơ thủ thuật tăng."
+   },
+   "loi_mo": "Dạ, uống thuốc bốn tuần nay tôi đỡ nhiều lắm, nhưng leo cầu thang bế cháu vẫn còn nặng cái hàm. Tôi có ngậm viên thuốc dưới lưỡi hai lần, đỡ liền. Vậy là thuốc không hợp, hay tim tôi sao hả cô?",
+   "sinh_hieu": {
+    "mach": 58,
+    "ha": "132/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_mot_phan",
+     "noi_dung": "Sau 4 tuần uống thuốc đều, bà thấy đỡ hẳn: đi chợ, bế cháu trên đường bằng không còn đau. Vẫn đau hàm khi leo 2 tầng hoặc bế cháu lên dốc, mỗi tuần 1–2 lần, phải ngồi nghỉ; ngậm nitroglycerin 2 lần, đỡ sau 2 phút, hơi đau đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần: cơn thưa hơn, cùng ngưỡng gắng sức, không đau lúc nghỉ"
+    },
+    {
+     "id": "khong_xau",
+     "noi_dung": "Không có cơn mới lúc nghỉ, không kéo dài, không nặng dần, không ngất. Không chóng mặt khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu thất bại sớm hay hội chứng vành cấp"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống bisoprolol và atorvastatin đều, không bỏ. Có ngậm viên nitroglycerin khi lên cơn như dặn. Không có tác dụng phụ ngoài đau đầu thoáng qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ"
+    },
+    {
+     "id": "ho_het",
+     "noi_dung": "Ho đã hết sau 1 tuần. Cháu ngoại khỏi.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Vẫn uống diazepam mỗi tối, ngủ được 5 giờ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Bà đỡ lo hơn vì biết 'không phải nhồi máu', nhưng vẫn muốn biết 'tim có bị hẹp không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mong đợi xác nhận bệnh"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "HA tay phải 132/78, tay trái 130/76 mmHg. Không hạ HA tư thế.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 58 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 58 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Phổi trong, không ran.",
+     "k": 0,
+     "hien": "Thở đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 58 l/p, PR 170 ms, không block, T dẹt V5–V6 như lần trước, không chênh ST.",
+     "n": "Chẹn beta: nhịp chậm, block nhĩ thất (QĐ 2248 mục 4.3.2.1b; QĐ 5904 Phần 3 mục G: mạch < 55 l/p; ESC 2024 Bảng KC 16). Ngưỡng PR: không có trong tài liệu đã tải."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "LDL-C 2,2 mmol/L (giảm 44% so với 3,9) · HDL-C 1,2 · TG 1,6 mmol/L",
+     "ab": 1,
+     "n": "LDL-C 2,2 mmol/L = 85 mg/dL, giảm 44%: chưa đạt ESC 2024 (< 1,4; Bảng KC 18, I A) lẫn ACC/AHA 2026 (< 70 mg/dL, mục 4.2.6). Tăng statin trước, ezetimibe khi vẫn chưa đạt; kiểm lại sau 4–12 tuần (AHA/ACC 2023 mục 4.2.6 KC 3, 10)."
+    },
+    "trop": {
+     "n": "Không có cơn mới lúc nghỉ, không đau kéo dài: không cần lặp (ESC 2024 Bảng KC 1, I B)."
+    },
+    "sa_tim_gang_suc": {
+     "n": "Cơ sở không có; hẹn tuyến trên (ESC 2024 Bảng KC 9, I B)."
+    },
+    "ct_mach_vanh": {
+     "n": "Cơ sở không có CT."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 72 µmol/L · eGFR 80 mL/ph/1,73m²"
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh mạch vành mạn ổn định, đáp ứng một phần với chẹn beta; chưa đạt mục tiêu lipid",
+     "ok": 1,
+     "n": "Triệu chứng giảm từ 3–4 lần xuống 1–2 lần/tuần, cùng ngưỡng gắng sức, không đau nghỉ: đáp ứng một phần là bình thường sau khởi trị, chưa phải thất bại (AHA/ACC 2023 mục 4.3.6, KC 2, COR 1: còn triệu chứng sau thuốc đầu → thêm thuốc nhóm khác)."
+    },
+    {
+     "t": "Hội chứng vành cấp / đau thắt ngực không ổn định",
+     "n": "Không đau lúc nghỉ, không tăng tần số, không cơn mới kéo dài; chỉ chuyển cấp cứu khi nghi HCV cấp (ESC 2024 Bảng KC 1, I B)."
+    },
+    {
+     "t": "Tác dụng phụ chẹn beta (nhịp chậm, block, hạ HA)",
+     "n": "Mạch 58 l/p, PR 170 ms, HA 132/78, không chóng mặt: chưa cần giảm liều, nhưng gần ngưỡng chống chỉ định mạch < 55 l/p (QĐ 5904/2019 Phần 3 mục G) nên không tăng. ESC 2024 Bảng KC 16: thận trọng khi rối loạn dẫn truyền nhĩ thất, hạ huyết áp. Ngưỡng PR: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trào ngược dạ dày",
+     "n": "Triệu chứng đáp ứng với thuốc tim mạch, không đổi trước đó với thuốc dạ dày."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra đáp ứng một phần: không phải thất bại, không phải HCV cấp; hỏi cơn, ngưỡng gắng sức, tuân thủ, tác dụng phụ",
+     "v": "c",
+     "n": "AHA/ACC 2023 mục 4.3.6 KC 2 (COR 1, B-R): còn triệu chứng sau thuốc đầu thì thêm nhóm khác. Dấu báo nguy: ESC 2024 Bảng KC 1 (I B)."
+    },
+    {
+     "t": "Thêm thuốc nhóm khác: amlodipine hoặc isosorbide mononitrate (nitrat tác dụng dài)",
+     "v": "c",
+     "n": "AHA/ACC 2023 mục 4.3.6 KC 1–2 (COR 1, B-R); ESC 2024 Bảng KC 16: chẹn beta + CCB dihydropyridine (IIa B) hoặc thêm nitrat tác dụng dài/ranolazine (IIa B). Ưu tiên amlodipine vì nhịp bình thường–chậm nên dùng dihydropyridine (QĐ 2248/2023 mục 4.3.2.1c); khởi đầu 5 mg, duy trì 5–10 mg (QĐ 5904/2019 Phần 3 mục G). Nitrat tác dụng dài tương đương: liều isosorbide mononitrate không có trong tài liệu đã tải; cần khoảng nghỉ 10–14 giờ/ngày (QĐ 2248 mục 4.3.2.1a). HA 132/78: theo dõi hạ huyết áp."
+    },
+    {
+     "t": "Giữ bisoprolol liều cũ, không tăng thêm",
+     "v": "c",
+     "n": "Mạch 58 l/p gần ngưỡng chống chỉ định < 55 l/p (QĐ 5904/2019 Phần 3 mục G). ESC 2024 mục 4.2.3: nhịp thấp thì ưu tiên thuốc khác nhóm hơn tăng chẹn beta."
+    },
+    {
+     "t": "Tăng atorvastatin lên 80 mg, đánh giá LDL-C sau vài tuần; chưa đạt thì thêm ezetimibe",
+     "v": "c",
+     "n": "LDL-C 3,9 → 2,2 mmol/L (151 → 85 mg/dL, −44%). ESC 2024 Bảng KC 18: statin cường độ cao tới liều tối đa dung nạp (I A), chưa đạt thì thêm ezetimibe (I B). ACC/AHA 2026 mục 4.2.6: mục tiêu < 70 mg/dL, ezetimibe để đạt < 55 (COR 2a). AHA/ACC 2023 mục 4.2.6 KC 10 (COR 2b, B-R): thêm ezetimibe khi LDL-C ≥ 70 mg/dL. Atorvastatin tối đa 80 mg (QĐ 5904/2019 Phần 3 mục G); ezetimibe 10 mg × 1 lần/ngày (ACC/AHA 2026 Bảng 5). Kiểm lipid sau 4–12 tuần (AHA/ACC 2023 mục 4.2.6 KC 3, COR 1, A)."
+    },
+    {
+     "t": "Giữ atorvastatin 40 mg, đo lại LDL-C sau 4–12 tuần",
+     "v": "a",
+     "n": "Mới 4 tuần; mốc kiểm lipid là 4–12 tuần sau khi bắt đầu hoặc chỉnh liều (AHA/ACC 2023 mục 4.2.6 KC 3, COR 1, A). Cả hai cách chấp nhận."
+    },
+    {
+     "t": "Hẹn siêu âm tim gắng sức ở tuyến trên (đặt lịch ngoại trú), do không có CT mạch vành",
+     "v": "c",
+     "n": "ESC 2024 Bảng KC 9 (I B): siêu âm gắng sức khi khả năng > 15–85%; ECG gắng sức bất thường ở lượt 1 đã nâng bà lên mức trung bình (Hình 4 bước 2). CCTA 'nếu có' (Bảng KC 8) nhưng không có CT tại chỗ."
+    },
+    {
+     "t": "Aspirin 75–100 mg/ngày đang dùng, tiếp tục (hoặc nếu chưa bắt đầu: chờ kết quả siêu âm gắng sức)",
+     "v": "a",
+     "n": "Tiếp tục (AHA/ACC 2023 mục 4.3.1 KC 1, COR 1, A) hoặc chờ bằng chứng tắc nghẽn (ESC 2024 Bảng KC 17, I B; QĐ 2248 mục 4.3.1a): cả hai chấp nhận."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện vì còn đau",
+     "v": "w",
+     "n": "Không có dấu hiệu cấp; đáp ứng một phần chưa phải thất bại (ESC 2024 Bảng KC 1, I B)."
+    },
+    {
+     "t": "Dừng chẹn beta vì mạch 58 l/p",
+     "v": "w",
+     "n": "Mạch 58 không triệu chứng, chưa dưới 55 l/p (QĐ 5904/2019 Phần 3 mục G): chưa có lý do dừng. Cơ chế cơn đau tăng lại khi dừng đột ngột: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm ivabradine để giảm tần số tim và cơn đau",
+     "v": "w",
+     "n": "EF 60%: AHA/ACC 2023 mục 4.3.6 KC 5 (3: Harm, B-R) ivabradine thêm vào điều trị chuẩn có thể gây hại ở người chức năng thất trái bình thường. ESC 2024 mục 4.2.3 và QĐ 2248 mục 4.3.2.1d cho dùng kèm hoặc thay chẹn beta (ESC nhắm rối loạn chức năng thất trái); chính một nguồn nói có hại nên chấm w (sổ mâu thuẫn, mục ivabradine)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh mạch vành mạn ổn định, đáp ứng một phần với điều trị nền",
+     "Rối loạn lipid chưa đạt mục tiêu (LDL-C 2,2 mmol/L, giảm 44%)",
+     "Tăng huyết áp, hiện kiểm soát 132/78 mmHg",
+     "Mất ngủ dùng diazepam"
+    ],
+    "phan_tich_chan_doan": [
+     "Đáp ứng một phần, không phải thất bại sớm: cơn giảm từ 3–4 xuống 1–2 lần/tuần, cùng ngưỡng gắng sức, nitroglycerin đỡ sau 2 phút, không đau nghỉ. Dấu báo nguy cần chuyển cấp cứu: cơn mới lúc nghỉ, kéo dài trên 20 phút (QĐ 2248/2023 mục 2.1.1) hoặc đổi tần số/cường độ (ESC 2024 mục 3; Bảng KC 1, I B).",
+     "Nhịp 58 l/p, PR 170 ms, HA 132/78: dung nạp chẹn beta nhưng gần ngưỡng mạch < 55 l/p (QĐ 5904/2019 Phần 3 mục G) nên không tăng liều.",
+     "LDL-C 3,9 → 2,2 mmol/L (−44%) sau 4 tuần: chưa đạt ESC 2024/QĐ 2248 (< 1,4 và ≥ 50%) lẫn ACC/AHA 2026 (< 70 mg/dL); còn ≥ 70 mg/dL (ngưỡng thêm ezetimibe, AHA/ACC 2023).",
+     "Không có CT: xác nhận bằng siêu âm gắng sức ở tuyến trên (ESC 2024 Bảng KC 9, I B), ngoại trú."
+    ],
+    "phan_tich_xu_tri": [
+     "Thêm thuốc thứ hai khác nhóm (AHA/ACC 2023 mục 4.3.6 KC 2): amlodipine hoặc nitrat tác dụng dài (ESC 2024 Bảng KC 16, IIa B); liều isosorbide: không có trong tài liệu đã tải. Giữ bisoprolol, không tăng (mạch 58 l/p).",
+     "Atorvastatin 80 mg hoặc giữ 40 mg đều chấp nhận; ezetimibe 10 mg khi vẫn chưa đạt (ESC 2024 Bảng KC 18; ACC/AHA 2026 Bảng 5); kiểm lipid sau 4–12 tuần (AHA/ACC 2023 mục 4.2.6 KC 3).",
+     "Hẹn siêu âm gắng sức ở bệnh viện tỉnh (ESC 2024 Bảng KC 9), tái khám khi có kết quả. Aspirin tiếp tục hoặc chờ hình ảnh. Không thêm ivabradine vì EF bình thường (AHA/ACC 2023 mục 4.3.6 KC 5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Bisoprolol",
+      "ham_luong": "2,5 mg",
+      "lieu": "2,5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "Giữ liều; mạch 58 l/p gần ngưỡng chống chỉ định < 55 l/p nên không tăng (QĐ 5904/2019 Phần 3 mục G)."
+     },
+     {
+      "thuoc": "Amlodipine (hoặc isosorbide mononitrate)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dài hạn, đánh giá lại sau 4 tuần",
+      "ghi_chu": "AHA/ACC 2023 mục 4.3.6 KC 2; QĐ 2248 mục 4.3.2.1c. Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ phù mắt cá chân, đỏ mặt, đánh trống ngực (QĐ 5904/2019 Phần 3 mục G). Thay bằng isosorbide mononitrate được: liều không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40–80 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "Tối đa 80 mg (QĐ 5904 Phần 3 mục G); 40–80 mg đều chấp nhận. Chưa đạt LDL-C: thêm ezetimibe 10 mg × 1 lần/ngày (ESC 2024 Bảng KC 18, I B; ACC/AHA 2026 Bảng 5)."
+     },
+     {
+      "thuoc": "Aspirin",
+      "ham_luong": "81–100 mg",
+      "lieu": "75–100 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "Tiếp tục (AHA/ACC 2023 mục 4.3.1 KC 1) hoặc chờ hình ảnh (ESC 2024 Bảng KC 17, I B). Liều 75–100 mg (QĐ 5904 Phần 3 mục G)."
+     },
+     {
+      "thuoc": "Nitroglycerin ngậm dưới lưỡi",
+      "ham_luong": "0,4 mg/viên (viên 0,5 mg: tối đa 2 viên)",
+      "lieu": "Ngậm 1 viên khi đau, tối đa 3 viên 0,4 mg/15 phút (không quá 1,2 mg)",
+      "duong": "Ngậm dưới lưỡi",
+      "thoi_diem": "Khi lên cơn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 2248/2023 mục 4.3.2.1a: 0,3–0,6 mg mỗi 5 phút, tối đa 1,2 mg/15 phút."
+     }
+    ],
+    "dan_do": [
+     "Đỡ một phần sau 4 tuần là bình thường; thuốc thứ hai sẽ giúp thêm (AHA/ACC 2023 mục 4.3.6 KC 2).",
+     "Vẫn ngậm nitroglycerin khi đau; đau lúc nghỉ, kéo dài hoặc tăng tần số → gọi cấp cứu (ESC 2024 Bảng KC 1, I B).",
+     "Đi siêu âm tim gắng sức ở bệnh viện tỉnh, mang toa thuốc và kết quả điện tim; bà đi cùng chị Lan.",
+     "Không tự ngưng bisoprolol; đứng dậy từ từ, báo nếu chóng mặt, ngất, mạch dưới 55 l/p (QĐ 5904/2019 Phần 3 mục G).",
+     "Giảm muối (dưới 5 g/ngày, QĐ 5904/2019 Phụ lục 3.2), hạn chế thịt mỡ; vận động vừa sức dưới ngưỡng gây đau hàm."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 8 tuần",
+   "tiep_don": "Bà Sen tái khám sau 8 tuần, mang giấy kết quả siêu âm tim gắng sức từ bệnh viện tỉnh, đã dùng đủ thuốc như hẹn. Sinh hiệu: HA 126/74 mmHg, mạch 60 l/p, SpO2 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Bà Sen bị đưa vào cấp cứu dù chỉ đau hàm 1 lần/tuần ở ngưỡng gắng sức cao, không đau lúc nghỉ. Bà tốn tiền, sợ lại, có thể mất tin vào chẩn đoán vừa yên tâm (chuyển cấp cứu chỉ khi nghi HCV cấp: ESC 2024 Bảng KC 1, I B).",
+    "nhap_vien": "Bà nhập viện để chụp mạch vành xâm lấn dù triệu chứng ổn dưới điều trị, vùng thiếu máu nhỏ, nguy cơ thấp–trung bình. Gia đình chịu chi phí và nguy cơ thủ thuật không cần thiết (QĐ 2248/2023 mục 4.4; ESC 2024 Bảng KC 11, I C).",
+    "theo_doi": "Giữ bà vài giờ rồi cho về như cũ, không giải thích kết quả, không xử trí phù cổ chân. Bà không hiểu bệnh, dễ bỏ amlodipine vì phù hoặc bỏ thuốc khi thấy khỏe.",
+    "chuyen_tuyen": "Chuyển bà lên tuyến trên để chụp mạch vành xâm lấn. Triệu chứng kiểm soát tốt, giảm vận động 2/16 phân đoạn, dưới ngưỡng nguy cơ cao ≥ 3/16 (ESC 2024 Bảng KC 14; QĐ 2248 Bảng 3): chưa cần tái thông (QĐ 2248 mục 4.4). Bà lỡ nhiều ngày chăm cháu, tốn chi phí."
+   },
+   "loi_mo": "Cô ơi, tôi đi siêu âm chạy bộ trên thảm rồi, đây là giấy. Bác sĩ trên đó nói tim hơi thiếu máu chút xíu thôi. Giờ tôi chỉ còn đau hàm có một lần, nhưng hai cổ chân hơi phù.",
+   "sinh_hieu": {
+    "mach": 60,
+    "ha": "126/74",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "sa_gang_suc",
+     "noi_dung": "Bà đã đi siêu âm tim gắng sức ở bệnh viện tỉnh, con gái chở. Giấy kết luận: chạy thảm tới 85% nhịp tim tối đa, xuất hiện đau hàm trái và giảm động thành trước vách, 2 phân đoạn, hồi phục sau nghỉ; EF 58% khi nghỉ; kết luận: thiếu máu cơ tim cục bộ vùng nhỏ, nguy cơ thấp–trung bình, đề nghị điều trị nội khoa tối ưu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Xác nhận bệnh mạch vành mạn bằng chức năng không xâm lấn"
+    },
+    {
+     "id": "trieu_chung3",
+     "noi_dung": "Cơn đau hàm thưa hơn nhiều: 1 lần/tuần, chỉ khi bế cháu leo cầu thang hai tầng; không còn đau lúc nghỉ. Không ngậm nitroglycerin tuần này.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng tốt sau thuốc thứ hai"
+    },
+    {
+     "id": "tuan_thu3",
+     "noi_dung": "Uống đều bisoprolol, amlodipine, atorvastatin 80 mg, aspirin. Hơi phù cổ chân buổi tối, không chóng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, tác dụng phụ"
+    },
+    {
+     "id": "an_tam",
+     "noi_dung": "Từ khi có giấy kết quả, bà nói 'biết mình bị gì là yên tâm', không còn nghĩ mình sắp chết, ngủ được 6 giờ, đã không xem video nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo lắng đã giải quyết"
+    },
+    {
+     "id": "loi_song3",
+     "noi_dung": "Bớt kho mặn, đi bộ chậm 20 phút mỗi sáng, nhờ chị Lan thay phần việc leo cầu thang.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "HA tay phải 126/74, tay trái 124/72 mmHg.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 60 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 60 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Phù cổ chân nhẹ hai bên, ấn lõm ít, không đau.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "LDL-C 1,6 mmol/L (giảm 59% so với 3,9) · HDL-C 1,3 · TG 1,4 mmol/L",
+     "ab": 1,
+     "n": "ESC 2024/QĐ 2248: giảm 59% đạt, LDL-C chưa dưới 1,4 mmol/L. ACC/AHA 2026: 62 mg/dL đạt < 70; AHA/ACC 2023 mục 4.2.6 KC 10: dưới 70 mg/dL nên chưa cần ezetimibe. Ghi cả hai."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 60 l/p, T dẹt V5–V6 như trước, không chênh ST."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 70 µmol/L · eGFR 82 mL/ph/1,73m²"
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 28 U/L",
+     "n": "Men gan sau statin liều cao bình thường. Mốc xét nghiệm men gan: không có trong tài liệu đã tải."
+    },
+    "ct_mach_vanh": {
+     "n": "Cơ sở không có CT; ca đã xác nhận bằng siêu âm gắng sức ở tuyến trên."
+    },
+    "trop": {
+     "n": "Không có đau lúc nghỉ hay cơn mới: không cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh mạch vành mạn ổn định, thiếu máu cục bộ vùng nhỏ (siêu âm gắng sức), triệu chứng kiểm soát tốt dưới điều trị nội khoa",
+     "ok": 1,
+     "n": "Siêu âm gắng sức xác nhận thiếu máu cục bộ (ESC 2024 Bảng KC 9, I B); giảm vận động 2/16 phân đoạn, dưới ngưỡng nguy cơ cao ≥ 3/16 (ESC 2024 Bảng KC 14, I B; QĐ 2248/2023 Bảng 3). Điều trị nội khoa tối ưu là then chốt (QĐ 2248 mục 4.4)."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "Không có đau lúc nghỉ, không tăng tần số; đã loại ở lượt 1 (ESC 2024 Bảng KC 1, I B)."
+    },
+    {
+     "t": "Phù cổ chân do amlodipine",
+     "n": "Phù nhẹ hai bên sau khi thêm amlodipine, không khó thở, EF 58%: tác dụng phụ thường gặp của CCB dihydropyridine; tần suất cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Suy tim",
+     "n": "EF 58%, không khó thở nằm, phù nhẹ mới sau thuốc, không tĩnh mạch cổ nổi: không phù hợp suy tim."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích kết quả siêu âm gắng sức: bệnh mạch vành mạn, nguy cơ thấp–trung bình, tiếp tục điều trị nội khoa tối ưu, chưa cần chụp mạch vành",
+     "v": "c",
+     "n": "QĐ 2248/2023 mục 4.4: điều trị nội khoa tối ưu là chìa khóa, tái thông theo chức năng (FFR). Siêu âm gắng sức nguy cơ cao khi giảm hoặc không vận động ≥ 3/16 vùng (QĐ 2248 Bảng 3; ESC 2024 Bảng KC 14): bà có 2 phân đoạn. Chụp mạch vành chỉ khi triệu chứng kháng điều trị, đau ở mức gắng sức thấp hoặc nguy cơ cao (ESC 2024 Bảng KC 11, I C)."
+    },
+    {
+     "t": "Tiếp tục bisoprolol, amlodipine (hoặc nitrat tác dụng dài), aspirin 75–100 mg, nitroglycerin khi đau",
+     "v": "c",
+     "n": "Aspirin: AHA/ACC 2023 mục 4.3.1 KC 1 (COR 1, A) và ESC 2024 Bảng KC 17 (I B; nay đã có thiếu máu cục bộ khách quan nên cả hai cùng chỉ định). Chống đau thắt ngực: AHA/ACC 2023 mục 4.3.6 KC 1–2, 4; ESC 2024 Bảng KC 16."
+    },
+    {
+     "t": "Xử trí phù cổ chân: giảm liều amlodipine hoặc đổi sang nitrat tác dụng dài",
+     "v": "a",
+     "n": "Cả hai chấp nhận: phù mắt cá chân là tác dụng phụ của amlodipine (QĐ 5904/2019 Phần 3 mục G); nitrat tác dụng dài thêm vào được (ESC 2024 Bảng KC 16, IIa B). Phù nhẹ không cần dừng ngay."
+    },
+    {
+     "t": "Mục tiêu LDL-C: ghi cả hai cách (ESC 2024 < 1,4 mmol/L; ACC/AHA 2026 < 70 mg/dL, đã đạt) và tiếp tục statin liều cao; thêm ezetimibe 10 mg nếu muốn đạt < 1,4",
+     "v": "c",
+     "n": "LDL-C 1,6 mmol/L (62 mg/dL, −59%). ESC 2024 Bảng KC 18 và QĐ 2248 mục 4.3.1b: < 1,4 mmol/L và ≥ 50%. ACC/AHA 2026 mục 4.2.6: < 70 mg/dL (COR 1), ezetimibe để đạt < 55 (COR 2a); AHA/ACC 2023 mục 4.2.6 KC 10: thêm ezetimibe chỉ khi ≥ 70 mg/dL. Ezetimibe 10 mg × 1 lần/ngày (ACC/AHA 2026 Bảng 5). Hai cách đều đúng."
+    },
+    {
+     "t": "Hẹn tái khám 3 tháng, vận động vừa sức, giảm muối, ghi nhật ký cơn đau; đánh giá lại ngay nếu cơn tăng tần số, đau lúc nghỉ hoặc kéo dài",
+     "v": "c",
+     "n": "Mốc 3 tháng theo kiểm lipid mỗi 3–12 tháng khi đã ổn định (AHA/ACC 2023 mục 4.2.6 KC 3, COR 1, A), tham khảo lịch 3–6 tháng năm đầu sau HCV cấp/tái thông (QĐ 2248 mục 4.5.1; ca này chưa có biến cố). Lịch riêng cho CCS ổn định: không có trong tài liệu đã tải. Dấu hiệu đánh giá lại ngay: ESC 2024 Bảng KC 1 (I B)."
+    },
+    {
+     "t": "Chuyển tuyến chụp mạch vành xâm lấn ngay vì có thiếu máu cục bộ",
+     "v": "w",
+     "n": "Triệu chứng kiểm soát tốt, vùng thiếu máu nhỏ, nguy cơ thấp–trung bình: chưa cần (QĐ 2248/2023 mục 4.4; ESC 2024 Bảng KC 11, I C)."
+    },
+    {
+     "t": "Nhập viện hoặc giữ lại theo dõi",
+     "v": "w",
+     "n": "Ổn định, không có dấu cấp (ESC 2024 Bảng KC 1, I B)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh mạch vành mạn ổn định, thiếu máu cục bộ vùng nhỏ thành trước-vách, kiểm soát triệu chứng tốt (CCS, nguy cơ thấp–trung bình)",
+     "Rối loạn lipid: LDL-C 1,6 mmol/L (62 mg/dL, giảm 59%)",
+     "Tăng huyết áp, kiểm soát 126/74",
+     "Phù cổ chân nhẹ do amlodipine",
+     "Mất ngủ, dùng diazepam"
+    ],
+    "phan_tich_chan_doan": [
+     "Siêu âm gắng sức dương tính (đau hàm tái hiện, giảm động thành trước vách 2 phân đoạn, hồi phục) xác nhận bệnh vành, thay CT mạch vành không có ở cơ sở (ESC 2024 Bảng KC 9, I B).",
+     "Triệu chứng giảm từ 3–4 lần/tuần xuống 1 lần/tuần dưới thuốc: đáp ứng nội khoa, chưa cần tái thông (QĐ 2248 mục 4.4).",
+     "LDL-C 1,6 mmol/L (62 mg/dL, −59%): đạt giảm ≥ 50% và < 70 mg/dL (ACC/AHA 2026; AHA/ACC 2023), chưa dưới 1,4 mmol/L (ESC 2024; QĐ 2248).",
+     "Phù cổ chân nhẹ sau amlodipine, không phải suy tim (EF 58%, không khó thở nằm); tần suất phù: không có trong tài liệu đã tải.",
+     "Nguy cơ cao khi siêu âm gắng sức giảm hoặc không vận động ≥ 3/16 vùng (QĐ 2248 Bảng 3; ESC 2024 Bảng KC 14); bà 2 phân đoạn: nguy cơ thấp–trung bình."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị nội khoa tối ưu: chẹn beta, thuốc thứ hai, nitroglycerin, statin liều cao, aspirin (ESC 2024; AHA/ACC 2023 mục 4.3.1, 4.3.6; QĐ 2248 mục 4.4). Phù cổ chân: giảm liều amlodipine hoặc đổi nitrat tác dụng dài (cả hai chấp nhận).",
+     "Mục tiêu LDL-C ghi cả hai cách; ezetimibe 10 mg tùy mục tiêu < 1,4 mmol/L (ESC 2024 Bảng KC 18; ACC/AHA 2026 Bảng 5). Chưa cần chụp mạch vành: triệu chứng ổn, nguy cơ thấp–trung bình.",
+     "Tái khám 3 tháng (mốc theo AHA/ACC 2023 mục 4.2.6 KC 3; lịch riêng cho CCS ổn định: không có trong tài liệu đã tải); đánh giá lại ngay nếu cơn tăng tần số, đau lúc nghỉ hoặc kéo dài (ESC 2024 Bảng KC 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Bisoprolol",
+      "ham_luong": "2,5 mg",
+      "lieu": "2,5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "AHA/ACC 2023 mục 4.3.6 KC 1; QĐ 2248 mục 4.3.2.1b. Mạch 60 l/p, trên ngưỡng chống chỉ định < 55 l/p (QĐ 5904/2019 Phần 3 mục G)."
+     },
+     {
+      "thuoc": "Amlodipine (hoặc isosorbide mononitrate)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày (giảm liều hoặc đổi nitrat tác dụng dài nếu phù tăng)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "Phù cổ chân nhẹ là tác dụng phụ đã biết (QĐ 5904/2019 Phần 3 mục G: khởi đầu 5 mg, duy trì 5–10 mg). Giảm liều hoặc đổi nitrat đều chấp nhận (ESC 2024 Bảng KC 16, IIa B); liều dưới 5 mg và liều nitrat: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "80 mg",
+      "lieu": "80 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "Cường độ cao, tối đa 80 mg (ESC 2024 Bảng KC 18, I A; QĐ 5904 Phần 3 mục G). Ezetimibe 10 mg × 1 lần/ngày thêm nếu muốn đạt < 1,4 mmol/L (ESC Bảng KC 18, I B)."
+     },
+     {
+      "thuoc": "Aspirin",
+      "ham_luong": "81–100 mg",
+      "lieu": "75–100 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Dài hạn",
+      "ghi_chu": "AHA/ACC 2023 mục 4.3.1 KC 1; ESC 2024 Bảng KC 17 (I B): có bằng chứng bệnh vành tắc nghẽn khách quan. Liều 75–100 mg (QĐ 5904 Phần 3 mục G)."
+     },
+     {
+      "thuoc": "Nitroglycerin ngậm dưới lưỡi",
+      "ham_luong": "0,4 mg/viên (viên 0,5 mg: tối đa 2 viên)",
+      "lieu": "Ngậm 1 viên khi đau, tối đa 3 viên 0,4 mg/15 phút (không quá 1,2 mg)",
+      "duong": "Ngậm dưới lưỡi",
+      "thoi_diem": "Khi lên cơn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 2248/2023 mục 4.3.2.1a."
+     }
+    ],
+    "dan_do": [
+     "Siêu âm gắng sức cho thấy thiếu máu cơ tim vùng nhỏ, chưa cần can thiệp; điều trị nội khoa là chính.",
+     "Uống đều thuốc cả đời; không tự bỏ khi thấy khỏe. Báo nếu phù tăng, chóng mặt.",
+     "Đau lúc nghỉ, cơn dài hơn hoặc nhiều hơn → gọi cấp cứu, đừng chờ hẹn (ESC 2024 Bảng KC 1, I B).",
+     "Vận động vừa sức dưới ngưỡng gây đau hàm, tăng dần tới 30–60 phút/ngày (QĐ 2248/2023 Bảng 4); giảm muối dưới 5 g/ngày (QĐ 5904/2019 Phụ lục 3.2), giảm mỡ; nhờ người thân phụ leo cầu thang.",
+     "Tái khám 3 tháng với nhật ký cơn đau (mốc theo AHA/ACC 2023 mục 4.2.6 KC 3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 8 tuần dưới chẹn beta, thuốc thứ hai, statin liều cao và aspirin, bà Sen còn đau hàm khoảng 1 lần/tuần ở ngưỡng gắng sức cao, LDL-C giảm 59%, siêu âm gắng sức xác nhận thiếu máu cục bộ vùng nhỏ nguy cơ thấp–trung bình. Bà yên tâm, ngủ được 6 giờ, tiếp tục điều trị nội khoa, tái khám 3 tháng.",
+ "nhieu": [
+  "Mang chẩn đoán tự tra trên mạng: bà tra đúng hướng tim mạch (đau hàm-mệt ở phụ nữ) nhưng gọi nhầm là nhồi máu đang xảy ra hoặc trào ngược; xử lý tôn trọng, nói rõ phần đúng và phần chưa đúng.",
+  "Lý do thật là sợ nhồi máu cơ tim, nói 'sợ lây ho' trước; chỉ lộ khi hỏi bà lo gì, xem gì."
+ ],
+ "bai_hoc_bien": [
+  "Không điển hình: nữ cao tuổi, không đau ngực, đau hàm-thượng vị và hụt hơi khi gắng sức là tương đương đau thắt ngực (ESC 2024 Bảng KC 1, IIa B). Suýt bỏ sót vì bà nói 'không đau ngực' và có ho che.",
+  "RF-CL 14% (QĐ 2248/2023 Bảng 2: 11–16%) là mức thấp nhưng không loại trừ: chỉnh bằng ECG, siêu âm, ECG gắng sức (ESC 2024 Hình 4 bước 2; Bảng KC 3).",
+  "Không có CT mạch vành: thay bằng ECG gắng sức tại chỗ rồi siêu âm gắng sức ở tuyến trên (ESC 2024 Bảng KC 8, 9).",
+  "Đỡ một phần ≠ thất bại: không đau nghỉ, cùng ngưỡng thì thêm thuốc khác nhóm (AHA/ACC 2023 mục 4.3.6 KC 2); đau nghỉ, kéo dài, đổi tần số thì nghi HCV cấp (ESC 2024 Bảng KC 1)."
+ ],
+ "diem_nho": [
+  "Chống đau thắt ngực: chẹn beta, CCB hoặc nitrat tác dụng dài (AHA/ACC 2023 mục 4.3.6 KC 1); thuốc thứ hai khác nhóm (KC 2); nitroglycerin cắt cơn 0,3–0,6 mg mỗi 5 phút, tối đa 1,2 mg/15 phút (QĐ 2248 mục 4.3.2.1a).",
+  "LDL-C < 1,4 mmol/L và ≥ 50% (ESC 2024 Bảng KC 18; QĐ 2248) hoặc < 70 mg/dL (ACC/AHA 2026 mục 4.2.6); kiểm lipid 4–12 tuần sau khởi trị (AHA/ACC 2023 mục 4.2.6 KC 3).",
+  "Aspirin 75–100 mg: dùng sớm (AHA/ACC 2023 mục 4.3.1 KC 1) hoặc khi có bằng chứng tắc nghẽn (ESC 2024 Bảng KC 17).",
+  "Chẹn beta: mạch < 55 l/p là chống chỉ định (QĐ 5904/2019 Phần 3 mục G); nhịp thấp thì thêm CCB dihydropyridine (QĐ 2248 mục 4.3.2.1c)."
+ ],
+ "nguon": [
+  "ESC 2024 CCS (TL-0304): mục 3 (Bảng KC 1–5, 8, 9, 11, 13, 14; Hình 4), mục 4.2 (Bảng KC 16), mục 4.3 (Bảng KC 17, 18). 'Bảng KC' = Recommendation Table.",
+  "AHA/ACC 2023 CCD (TL-0310): mục 4.2.6 (KC 1, 3, 10), 4.3.1 (KC 1), 4.3.2 (KC 4), 4.3.6 (KC 1, 2, 4, 5).",
+  "BYT QĐ 2248/2023 (kho cũ tltk-10000-ca): mục 2.1.1, 2.1.3, Bảng 2–4, mục 4.3.1–4.5.",
+  "BYT QĐ 5904/2019 (TL-0284): Phần 3 mục G (liều thuốc thiết yếu), Phụ lục 3.2 (muối).",
+  "ACC/AHA 2026 lipid (TL-0292): mục 4.2.6, Bảng 5. AGS Beers 2023 (TL-0022): Bảng 2."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-18 · bản 1 rồi hoàn thiện cùng ngày. Đã mở lại bằng rg và đối chiếu: ESC 2024 Hình 4 (nữ 60–69, điểm 3: 10/14/19%), Bảng KC 1–5, 8, 9, 11, 13, 14, 16–18; AHA/ACC 2023 mục 4.2.6, 4.3.1, 4.3.2, 4.3.6; QĐ 2248/2023 mục 2.1, Bảng 2–4, mục 4.3–4.5; QĐ 5904/2019 Phần 3 mục G; ACC/AHA 2026 mục 4.2.6, Bảng 5; AGS Beers 2023 Bảng 2.",
+  "Thiếu tài liệu: liều isosorbide mononitrate; liều amlodipine dưới 5 mg; ngưỡng PR; mốc gọi cấp cứu sau nitroglycerin; lịch tái khám riêng cho CCS ổn định (mốc 3 tháng theo kiểm lipid); chống chỉ định ECG gắng sức. CLS đề xuất: sa_tim_gang_suc.",
+  "Mâu thuẫn đã có trong sổ và đã áp dụng: LDL-C ở HCMVM, aspirin, RF-CL so với PTP, ivabradine (MT-0995); ngưỡng THA. Lượt 2 sau 4 tuần, lượt 3 sau 8 tuần (kiểm lipid 4–12 tuần, AHA/ACC 2023 mục 4.2.6 KC 3)."
+ ]
+}

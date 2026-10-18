@@ -1,0 +1,847 @@
+{
+ "ma_ca": "HH-1407",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-10-18",
+ "benh": "HH_dot_cap_gian_phe_quan",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Đợt cấp giãn phế quản",
+  "chan_doan_phai_loai_tru": [
+   "Lao phổi",
+   "COPD"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Thợ cắt tóc",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Văn Thịnh",
+  "tuoi": 49,
+  "gioi": "Nam",
+  "nghe": "Thợ cắt tóc nam, tự mở tiệm nhỏ trong hẻm chợ",
+  "can_nang": 58,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'anh' hoặc 'anh Thịnh'. Ông tự xưng 'tôi'. Vợ là chị Lan: bác sĩ gọi 'chị', chị xưng 'em' với bác sĩ và gọi chồng là 'anh ấy' hoặc 'ổng'.",
+  "tinh_cach": "Ít nói, hay đùa cho qua 'bệnh vặt của thợ cắt tóc', sĩ diện, sợ khách thấy mình ho thì bỏ đi. Đứng tiệm 10–11 giờ mỗi ngày nên quen đau lưng mỏi vai, uống thuốc giảm đau như uống nước. Tỉnh táo, trả lời đúng nhưng ngắn, để vợ kể thay.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Lan lên tiếng trước, kể bệnh theo cách của chị ('cảm gió', 'phạm phòng'), ngắt lời chồng, không biết nhiều chuyện riêng của anh. Hỏi chung thì chị trả lời; anh chỉ gật hoặc nói 'tầm tầm thôi'. Anh chỉ nói thật chuyện riêng (số viên thuốc giảm đau mỗi ngày, ho ra máu trước đây, nỗi sợ lao) khi bác sĩ hỏi thẳng anh và nhẹ nhàng, nhất là khi mời chị ra ngoài hoặc nói 'tôi hỏi riêng anh vài câu'. Hỏi chị những chuyện đó thì chị nói 'em không biết, anh ấy có nói đâu'.",
+  "nguoi_nha": "Vợ, chị Nguyễn Thị Lan, 46 tuổi, bán nước giải khát cạnh tiệm, đi cùng. Nói nhiều, lo lắng, hay trách chồng 'thuốc uống như ăn kẹo'. Chị biết: anh ho sáng 'từ hồi trẻ', mấy hôm nay sốt, ho đờm xanh, mệt; chị đo sốt 38,8 °C đêm ngày thứ 3 và mua thuốc cảm cho anh. Chị tin anh bị 'cảm gió' sau đêm thứ Bảy vợ chồng gần gũi rồi anh tắm nước lạnh. Chị KHÔNG biết anh uống nhiều viên paracetamol đau lưng mỗi ngày, KHÔNG biết anh từng khạc đờm lẫn máu, KHÔNG biết anh sợ bị lao lây cho cháu. Hầu hết câu hỏi do chị trả lời (nguoi_noi = nguoi_nha); khi bác sĩ hỏi thẳng anh những chuyện riêng thì anh trả lời (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Vợ (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#2b2420",
+   "kieuToc": "ngan",
+   "ao": "#6f8fa8",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a985",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#b0707a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho, sốt, mệt 4 ngày sau khi 'cảm gió'; vợ bắt đi khám",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám đa khoa tư nhân chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm CRP, ure, creatinin, men gan; tổng phân tích nước tiểu); không có X-quang, siêu âm, CT, nội soi và không làm Xpert, cấy đờm, hô hấp ký. Mẫu đờm gửi được Trung tâm Y tế huyện (Xpert, AFB, miễn phí) và bệnh viện huyện (nhuộm Gram, cấy, X-quang), cách 12 km, kết quả sau 1–5 ngày. Bệnh viện tỉnh (CT, hô hấp ký, khoa Hô hấp, Tai mũi họng) cách khoảng 45 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Đỗ Văn Thịnh, 49 tuổi, thợ cắt tóc, vợ đi cùng, đến khám vì ho, sốt, mệt 4 ngày. Sinh hiệu: nhiệt độ 37,8 °C, mạch 98 l/p, HA 126/80 mmHg, nhịp thở 22 l/p, SpO₂ 95% khí trời, cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Thịnh thở 22 l/p, SpO₂ 95%, đi bộ không phải dừng, không ho máu, uống được thuốc: chưa có đặc điểm đợt cấp nặng như thở nhanh, giảm oxy máu, ho máu, rối loạn huyết động hay tri giác (ERS 2025, câu hỏi tường thuật 2), nên không cần nhập viện hay kháng sinh tĩnh mạch (QĐ 708/2015 bài Giãn phế quản mục 4.3.1). Nằm viện làm anh nghỉ tiệm nhiều ngày, mất khách, tốn tiền mà không thêm lợi ích. Anh vốn ngại nhận mình bệnh nặng nên dễ từ chối rồi bỏ luôn hẹn tái khám.",
+    "chuyen_tuyen": "Chuyển ngay bệnh viện tỉnh cách khoảng 45 km chỉ vì phòng khám không có X-quang là chưa cần: anh ổn định, không có dấu hiệu nặng, X-quang làm được ở bệnh viện huyện cách 12 km, còn CT lớp mỏng xếp lịch sau khi hết đợt cấp (QĐ 4235/2012 bài Giãn phế quản mục 2.1.2). Anh mất cả ngày, vợ bỏ quán, chi phí tăng, trong khi kháng sinh uống và mẫu đờm gửi Xpert vẫn bắt đầu được ngay. Anh coi đây là bệnh vặt nên dễ bỏ cuộc, mất luôn đợt điều trị hôm nay."
+   },
+   "loi_mo": "Bác sĩ ơi, anh ấy bị cảm gió, ho với sốt mấy hôm nay mà cứ cố đi cắt tóc cho khách. Bác sĩ cho anh ấy thuốc cảm mạnh mạnh chút cho mau khỏi.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "126/80",
+    "nhiet": "37,8",
+    "nhip_tho": 22,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho, sốt, mệt 4 ngày. Vợ cho là cảm gió nên bắt đi khám; ông nói 'bệnh vặt'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "(Vợ kể, hơi ngượng) Tối thứ Bảy vợ chồng có gần gũi, xong ông tắm nước lạnh rồi nằm quạt. Sáng Chủ nhật ớn lạnh, đau mình, bắt đầu ho nhiều. Vợ cho là 'phạm phòng bị cảm gió'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "dieu_kien_lo": "Chị Lan kể khi bác sĩ hỏi bệnh bắt đầu hôm nào, trước đó làm gì, có gì khác thường; chị nói nhỏ, liếc chồng. Hỏi thẳng 'chuyện vợ chồng' thì chị mới nói rõ.",
+     "nhieu": 1
+    },
+    {
+     "id": "ho_man",
+     "noi_dung": "Ông ho khạc đờm vàng đục buổi sáng gần như quanh năm đã nhiều năm, mỗi ngày chừng một đến hai muỗng cà phê. Cứ vài tháng, mỗi lần 'trúng gió' đờm nhiều và xanh hơn, ho cả tuần mới đỡ. Ông cho là chuyện bình thường của người hít bụi tóc, xịt keo. Chưa bao giờ chụp phổi. Đợt này từ ngày 2 đờm vàng xanh đục, nhiều hơn (2–3 muỗng canh), không hôi, không máu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'ho mấy ngày' thì chỉ nói 4 ngày; vợ nói 'ho sáng quen rồi'. Chỉ kể đầy đủ khi bác sĩ hỏi trước đợt này buổi sáng có khạc đờm không, mỗi năm mấy đợt, hoặc hỏi riêng ông.",
+     "y": "Ho khạc đờm mủ mạn tính nhiều năm, từng đợt (gợi ý giãn phế quản)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Vợ đo 38,8 °C đêm ngày 3, ông run nhẹ; hôm nay chưa đo vì đã uống thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt"
+    },
+    {
+     "id": "ho_mau_cu",
+     "noi_dung": "Khoảng 5 năm trước, hai lần khạc đờm lẫn máu tươi trong vài ngày, tự hết, ông không đi khám và không nói ai vì sợ 'lao'. Lần này không có máu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Trước mặt vợ ông nói 'không có'. Chỉ thừa nhận khi bác sĩ mời chị Lan ra ngoài hoặc hỏi riêng ông, hỏi thẳng có bao giờ khạc đờm lẫn máu, ho ra máu không; ông ngập ngừng rồi kể nhỏ.",
+     "y": "Tiền sử ho máu (gợi ý giãn phế quản; buộc nghĩ tới lao)"
+    },
+    {
+     "id": "kho_tho",
+     "noi_dung": "Leo cầu thang một tầng phải dừng một lần. Nằm ngủ được, không khò khè về đêm. Trước đợt này đứng tiệm cả ngày không hụt hơi. Tức ngực trái dưới khi ho mạnh, không đau nhói khi hít sâu, không đau bắp chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khó thở gắng sức mới, không có khó thở mạn"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Ông đau lưng, mỏi vai gáy vì đứng cắt tóc 10–11 giờ mỗi ngày. Gần 4 tháng nay ông uống paracetamol 500 mg khoảng 6 viên mỗi ngày, mua không đơn ở nhà thuốc. Từ ngày 2 vợ mua thêm thuốc cảm nhiều thành phần, ông uống 2 viên mỗi ngày, trên vỉ ghi mỗi viên có paracetamol 500 mg: tổng 8 viên (4 g) mỗi ngày trong 3 ngày nay. Hai giờ trước đã uống 2 viên paracetamol. Không thuốc nào khác, không kháng sinh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì ông nói 'thuốc cảm với thuốc đau lưng thôi', vợ chỉ biết thuốc cảm. Chỉ khai số viên khi bác sĩ hỏi từng loại thuốc, mỗi ngày bao nhiêu viên, bao lâu, có thuốc cảm cộng thêm không, hoặc xin xem vỉ thuốc.",
+     "y": "Paracetamol liều cao kéo dài cộng thuốc cảm có paracetamol (làm mờ sốt; nguy cơ gan)"
+    },
+    {
+     "id": "hut_thuoc",
+     "noi_dung": "Không hút thuốc lá, thuốc lào bao giờ. Không uống rượu bia. Ở tiệm có xịt keo tóc, nhuộm tóc, bụi tóc; không tiếp xúc hóa chất công nghiệp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hút thuốc, rượu bia, phơi nhiễm nghề (cho COPD, nguy cơ gan)"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc nào, kể cả penicillin. Chưa bị bệnh gan, thận, tiểu đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc (trước khi kê kháng sinh), bệnh gan"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khoảng 7 tuổi bị viêm phổi nặng nằm viện hơn hai tuần (mẹ kể). Sau đó hay ho đờm mỗi khi trở trời. Không hen, không bệnh tim. Có hai con khỏe. Mũi hay nghẹt từng đợt, sáng khịt khạc nhầy ở họng nhiều năm, ông coi là bình thường; không chảy mũi vàng, không đau mặt, ngửi mùi bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm phổi nặng thuở nhỏ (nguyên nhân giãn phế quản thứ phát)"
+    },
+    {
+     "id": "lao_am",
+     "noi_dung": "Không sụt cân (còn tăng 1 kg mấy tháng nay), không ra mồ hôi đêm kéo dài, không sốt chiều kéo dài trước đợt này. Chưa từng điều trị lao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lao phổi"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông sợ mình bị lao và lây cho cháu ngoại 2 tuổi. Hai tháng trước một ông khách quen cùng xóm bị lao phổi phải nghỉ chơi; từ đó ông lo mỗi lần ho. Ông không dám nói với vợ vì sợ vợ bắt nghỉ tiệm, sợ khách biết thì bỏ đi.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng ông (mời chị Lan ra ngoài hoặc 'tôi hỏi riêng anh vài câu') và hỏi anh lo điều gì nhất, sợ bệnh gì, vì sao hôm nay chịu đi khám. Ông nói nhỏ rồi xin bác sĩ đừng nói với khách.",
+     "y": "Lý do thật: sợ lây bệnh cho người thân (cháu 2 tuổi), sợ mất khách"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy vừa (BMI 21,3), nói trọn câu, ho thỉnh thoảng. Không tím, không vàng da.",
+     "k": 0
+    },
+    "da_dau_mong": {
+     "a": "Móng tay hai bàn khum nhẹ, góc giữa móng và gốc móng mất, đầu ngón hơi to (dùi trống nhẹ). Móng chân bình thường.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Lồng ngực cân đối, di động đều. Rung thanh hai bên đều, gõ trong. Đáy phổi trái phía sau: ran nổ to hạt và ran ẩm cố định, kèm vài ran ngáy, không mất sau ho. Không hội chứng đông đặc, không ran rít. Phổi phải: rì rào phế nang êm dịu.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Lồng ngực cân đối, di động đều hai bên. Rung thanh hai bên đều, gõ trong hai phế trường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NO-TO-01",
+       "chu": "Ran nổ to hạt và ran ẩm vùng đáy sau trái, không mất sau khi ho."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 98 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, ít đờm nhầy ở thành sau họng. Niêm mạc mũi hồng nhạt, phù nhẹ cuốn dưới, không mủ ở khe giữa khi soi mũi trước. Không đau khi gõ vùng má, trán.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau hạ sườn phải, gan lách không sờ thấy. Không vàng củng mạc.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Hai bắp chân mềm, không đau khi bóp.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ 40 m trong hành lang không phải dừng. SpO₂ 95% lúc nghỉ, 93% sau đi bộ, nhịp thở 24 l/p, mạch 108.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 13,6 G/L · Neutrophil 78% · Hb 142 g/L · TC 288 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 13.6,
+      "neu_pct": 78.0,
+      "neu": 10.6,
+      "lym_pct": 14.0,
+      "lym": 1.9,
+      "mono_pct": 6.0,
+      "mono": 0.82,
+      "eos_pct": 1.5,
+      "eos": 0.2,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 4.9,
+      "hgb": 142,
+      "hct": 0.43,
+      "mcv": 87.8,
+      "mch": 29.0,
+      "mchc": 330,
+      "rdw": 13.1,
+      "plt": 288
+     },
+     "n": "Nhiễm khuẩn, không đổi quyết định hôm nay. Ngưỡng bạch cầu để chỉ định điều trị giãn phế quản: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "u",
+     "r": "64 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 64
+     },
+     "n": "Phù hợp nhiễm khuẩn cấp mức vừa. Ngưỡng CRP để chọn nơi điều trị: không có trong tài liệu đã tải."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 34 · ALT 38 U/L",
+     "ab": 0,
+     "n": "Cần làm vì ông uống paracetamol đúng ngưỡng 4 g mỗi ngày trong 3 ngày, trên nền khoảng 3 g mỗi ngày gần 4 tháng. AST hoặc ALT < 50 IU/L có tiên lượng tốt, > 50 IU/L là nguy cơ cao (QĐ 3610/2015 bài Ngộ độc paracetamol, mục dùng quá liều điều trị nhiều lần)."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,6 mmol/L · Creatinin 82 µmol/L · eGFR 100 mL/ph/1,73m²",
+     "ab": 0,
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 100
+     },
+     "n": "Không đổi liều kháng sinh. Có thể bỏ khi hạn chế tiền."
+    },
+    "xpert": {
+     "v": "e",
+     "r": "Cơ sở không làm Xpert hay soi AFB tại chỗ. Đờm buổi sáng lấy vào lọ vô khuẩn, gửi Trung tâm Y tế huyện (miễn phí theo chương trình chống lao); kết quả sau 1–2 ngày làm việc, có ở lượt tái khám.",
+     "ab": 0,
+     "n": "Ho kéo dài trên 2 tuần, kể cả ho máu, là triệu chứng nghi lao quan trọng nhất (QĐ 162/2024 Phần II mục 1.1, Bảng 1); Xpert là xét nghiệm ban đầu (mục 2.1 a, Bảng 3). Cũng là nỗi lo thật của ông."
+    },
+    "cay": {
+     "v": "u",
+     "r": "Cơ sở không nhuộm Gram hay cấy đờm. Cùng mẫu đờm (lấy trước liều kháng sinh đầu) gửi bệnh viện huyện: nhuộm Gram, cấy, kháng sinh đồ, kết quả sau 3–5 ngày (tự trả phí).",
+     "ab": 0,
+     "n": "Đờm vi sinh trước kháng sinh, cấy lại nếu không đáp ứng (ERS 2025, câu hỏi tường thuật 2); đổi kháng sinh theo kháng sinh đồ (QĐ 708/2015 mục 4.3.1). Kết quả về sau lượt này nên không quyết định liều đầu."
+    },
+    "cxr": {
+     "v": "e",
+     "r": "Cơ sở không chụp được. Nếu chụp ở bệnh viện huyện: tăng đậm vân phổi, vài đường ray và ổ sáng nhỏ vùng đáy trái; không hang, không đám đông đặc, góc sườn hoành nhọn, bóng tim bình thường.",
+     "ab": 1,
+     "n": "X-quang có thể thấy đường ray, ổ sáng nhỏ; 7–30% giãn phế quản có phim bình thường (QĐ 4235/2012 bài Giãn phế quản mục 2.1.2). Thiếu máy không phải lý do hoãn điều trị mà là lý do viết giấy chụp ở nơi có máy trong 1–2 ngày."
+    },
+    "ct_nguc": {
+     "v": "a",
+     "r": "Cơ sở không chụp được. CT lớp mỏng (làm sau đợt cấp, ở bệnh viện tỉnh): giãn phế quản thể trụ kèm vài ổ hình túi nhỏ ở phân thùy đáy thùy dưới trái, thành dày, nút nhầy; không hang, không khối u.",
+     "ab": 1,
+     "n": "CT lớp mỏng là tiêu chuẩn vàng chẩn đoán xác định (QĐ 4235/2012 mục 2.1.2; QĐ 708/2015 mục 3.2d). Chưa cần trong ngày vì đợt cấp ổn định."
+    },
+    "ho_hap_ky": {
+     "v": "a",
+     "r": "Cơ sở không đo được hô hấp ký. Làm khi hết đợt cấp ở bệnh viện tỉnh: FEV1/FVC sau test hồi phục 0,81, không tắc nghẽn.",
+     "ab": 0,
+     "n": "COPD chỉ xác định khi FEV1/FVC < 70% sau test hồi phục (QĐ 2767/2023 mục 1.2.2; GOLD 2026, Diagnosis). Mốc đo sau đợt cấp: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt cấp giãn phế quản mức nhẹ đến vừa, điều trị ngoại trú (chẩn đoán lâm sàng, chưa có CT xác nhận)",
+     "ok": 1,
+     "n": "Ho khạc đờm mủ nhiều năm, từng đợt, tiền sử ho máu, viêm phổi nặng thuở nhỏ, móng khum, ran nổ to và ran ẩm cố định đáy trái (QĐ 4235/2012 bài Giãn phế quản mục 2.1.1; QĐ 708/2015 mục 3.1). Đợt cấp: đờm đổi màu, nhiều hơn, sốt, mệt; chưa có đặc điểm nặng (ERS 2025, câu hỏi tường thuật 2). Không điển hình: đờm hằng ngày ít (mục 2.1.1: có thể dưới 10 ml/ngày), ông coi là bình thường, chưa bao giờ chụp phổi."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Chưa loại hẳn: ho khạc đờm kéo dài, từng ho máu (QĐ 162/2024 Phần II Bảng 1; QĐ 4235/2012 mục 2.2). Hướng giãn phế quản: không sụt cân, không mồ hôi đêm, ran đáy phổi chứ không đỉnh phổi. Gửi Xpert; chưa dùng fluoroquinolon khi lao chưa loại (QĐ 162/2024 Sơ đồ 1, chú thích *)."
+    },
+    {
+     "t": "COPD",
+     "n": "Không hút thuốc, không khó thở mạn, ran nổ cố định một vùng. COPD cần hô hấp ký FEV1/FVC < 70% sau test hồi phục (QĐ 2767/2023 mục 1.2.2; GOLD 2026, Diagnosis); bụi nghề là yếu tố nguy cơ nên hẹn đo. Giãn phế quản là chẩn đoán phân biệt của COPD (QĐ 2767/2023 mục 1.2.3)."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Chưa X-quang nên không loại hẳn, nhưng không đau màng phổi, không đông đặc, SpO₂ 95%. Kháng sinh chọn bao phủ cả hai khả năng (QĐ 708/2015 mục 2: S. pneumoniae là một trong các vi khuẩn gây bội nhiễm giãn phế quản)."
+    },
+    {
+     "t": "Viêm phế quản cấp ('cảm gió') đơn thuần",
+     "n": "Cái neo của vợ chồng. Đờm mủ nhiều năm, ho máu cũ, móng khum, ran cố định không giải thích được. Quan hệ vợ chồng và tắm nước lạnh chỉ là mốc thời gian: tài liệu đã tải không nêu là yếu tố khởi phát; virus là nguyên nhân thường gặp của đợt cấp (ERS 2025, câu hỏi tường thuật 2)."
+    },
+    {
+     "t": "Tổn thương gan do paracetamol dùng kéo dài",
+     "n": "Ngưỡng nguy cơ khi lặp lại > 4 g/ngày (QĐ 3610/2015); ông đúng 4 g trong 3 ngày trên nền 3 g. AST 34, ALT 38 U/L dưới 50: tiên lượng tốt. Không vàng da, không đau hạ sườn phải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú, hẹn tái khám sau 7 ngày hoặc sớm hơn khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "Chưa có đặc điểm đợt cấp nặng (ERS 2025, câu hỏi tường thuật 2); đường uống hay tiêm theo mức độ nhiễm khuẩn (QĐ 708/2015 mục 4.3.1). Mốc 7 ngày: nhận xét, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lấy đờm buổi sáng vào lọ vô khuẩn TRƯỚC liều kháng sinh đầu: gửi Xpert/AFB (Trung tâm Y tế huyện) và nhuộm Gram, cấy (bệnh viện huyện)",
+     "v": "c",
+     "n": "ERS 2025 (câu hỏi tường thuật 2): đờm vi sinh trước kháng sinh; QĐ 162/2024 Phần II mục 1.1 Bảng 1, mục 2.1 a (Xpert); QĐ 708/2015 mục 4.3.1 (đổi theo kháng sinh đồ)."
+    },
+    {
+     "t": "Amoxicillin/acid clavulanic uống 875/125 mg mỗi 12 giờ, tổng 14 ngày (ERS 2025) hoặc 10 ngày đến 2 tuần (QĐ 708/2015)",
+     "v": "c",
+     "n": "Nghi vi khuẩn tiết beta-lactamase thì dùng amoxicillin + acid clavulanic (QĐ 4235/2012 mục 3.1). Liều uống 875/125 mg mỗi 8–12 giờ (QĐ 2147/2026 Bảng 4.4) hoặc 1 g × 3 lần/ngày (QĐ 4235/2012 bài VPMPCĐ mục 3.2.2), chọn mỗi 12 giờ cho thận trọng. Thời gian: 14 ngày là chuẩn, ngắn hơn khi nhẹ hoặc vi khuẩn nhạy như S. pneumoniae (ERS 2025); 10 ngày đến 2 tuần (QĐ 708/2015 mục 4.3.3), 1–2 tuần (QĐ 4235/2012 mục 3.1). Liều uống riêng cho giãn phế quản: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dạy dẫn lưu đờm: ho khạc có kiểm soát, vỗ rung và tư thế dẫn lưu 2–3 lần/ngày trước bữa ăn, tăng dần 5–10–20 phút; uống đủ nước",
+     "v": "c",
+     "n": "QĐ 4235/2012 mục 3.2; QĐ 708/2015 mục 4.1; ERS 2025 khuyến cáo 2."
+    },
+    {
+     "t": "Hỏi từng loại thuốc, xem vỉ thuốc, làm AST/ALT; NGỪNG thuốc cảm có paracetamol; paracetamol chỉ khi sốt > 38,5 °C, 0,5 g/lần, không quá 4 viên mỗi ngày",
+     "v": "c",
+     "n": "Ngộ độc gặp ở người dùng kéo dài hoặc phối hợp nhiều thuốc chứa paracetamol; ngưỡng > 4 g/ngày; AST/ALT < 50 IU/L tiên lượng tốt (QĐ 3610/2015). Hạ sốt 0,5 g/lần, ngày không quá 4 viên (QĐ 4235/2012 bài Viêm phổi bệnh viện mục 3.4), thận trọng hơn ngưỡng 4 g. Thuốc thay cho đau lưng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết giấy chụp X-quang ngực ở bệnh viện huyện trong 1–2 ngày; CT lớp mỏng và hô hấp ký hẹn sau đợt cấp",
+     "v": "c",
+     "n": "X-quang gợi ý, CT xác định (QĐ 4235/2012 mục 2.1.2; QĐ 708/2015 mục 3.2d); hô hấp ký loại COPD (QĐ 2767/2023 mục 1.2.2)."
+    },
+    {
+     "t": "Mời chị Lan ra ngoài, hỏi riêng ông về ho máu, thuốc, nỗi lo; giải thích xét nghiệm lao miễn phí, kết quả giữ kín",
+     "v": "c",
+     "n": "Chỗ xử lý lý do thật (sợ lây cho cháu, sợ mất khách). Ông không nói trước mặt vợ. Biện pháp cụ thể để bảo vệ cháu: không có trong tài liệu đã tải; nhận xét: giảm tiếp xúc gần cho đến khi có Xpert."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay: khó thở tăng, khạc máu, sốt cao kéo dài, lơ mơ, vàng da, đau hạ sườn phải",
+     "v": "c",
+     "n": "Đặc điểm đợt cấp nặng (ERS 2025, câu hỏi tường thuật 2); dấu hiệu gan (QĐ 3610/2015, giai đoạn 2–3)."
+    },
+    {
+     "t": "Chuyển bệnh viện tỉnh chụp CT lớp mỏng ngay trong tuần",
+     "v": "a",
+     "n": "CT là tiêu chuẩn vàng (QĐ 4235/2012 mục 2.1.2) nhưng đợt cấp nhẹ có thể điều trị trước rồi chụp sau."
+    },
+    {
+     "t": "Ciprofloxacin hoặc levofloxacin uống ngay từ lượt đầu",
+     "v": "w",
+     "n": "Lao chưa loại: khi thử kháng sinh phổ rộng ngoài lao thì không dùng fluoroquinolon (QĐ 162/2024 Phần II, Sơ đồ 1 chú thích *)."
+    },
+    {
+     "t": "Thuốc ho (codein, dextromethorphan)",
+     "v": "w",
+     "n": "Không nên dùng thuốc giảm ho khi đang nhiễm trùng đường hô hấp dưới, cần ho để thải đờm (QĐ 4235/2012 bài Ho kéo dài mục 3.2)."
+    },
+    {
+     "t": "Macrolid dài ngày (erythromycin hoặc azithromycin) ngay",
+     "v": "w",
+     "n": "Dành cho người nguy cơ cao tái phát, phải loại NTM trước (ERS 2025 khuyến cáo 7); chưa có CT, chưa có đờm."
+    },
+    {
+     "t": "Tiếp tục thuốc cảm có paracetamol như cũ, thêm viên hạ sốt khi nóng",
+     "v": "h",
+     "n": "Lặp lại > 4 g/ngày là ngưỡng nguy cơ tổn thương gan; ông đã chạm 4 g, thêm viên nữa là vượt (QĐ 3610/2015)."
+    },
+    {
+     "t": "Cho về với chẩn đoán cảm cúm, uống thuốc cảm, không xét nghiệm đờm, không hẹn",
+     "v": "h",
+     "n": "Bỏ sót giãn phế quản và lao (QĐ 162/2024 Bảng 1: ho kéo dài là triệu chứng nghi lao quan trọng nhất)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đợt cấp giãn phế quản mức nhẹ đến vừa ở đáy phổi trái, nghĩ giãn phế quản thứ phát sau viêm phổi nặng thuở nhỏ; điều trị ngoại trú (chẩn đoán lâm sàng, chờ CT lớp mỏng)",
+     "Không có tiêu chuẩn đợt cấp nặng: thở 22 l/p, SpO₂ 95%, không ho máu, uống được thuốc (ERS 2025, câu hỏi tường thuật 2)",
+     "Dùng paracetamol cao kéo dài: khoảng 3 g/ngày gần 4 tháng, 4 g/ngày trong 3 ngày; AST 34, ALT 38 U/L chưa tổn thương gan (QĐ 3610/2015)",
+     "Lý do thật đi khám: sợ bị lao và lây cho cháu ngoại 2 tuổi",
+     "Đã nghĩ tới, chưa loại hẳn: lao phổi (chờ Xpert), COPD (chờ hô hấp ký), viêm phổi (chờ X-quang)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bệnh 4 ngày dễ nghĩ cảm gió; chỉ khi hỏi trước đợt này buổi sáng có khạc đờm không mới ra đờm mủ nhiều năm, đợt nặng mỗi lần trở trời, viêm phổi nặng thuở nhỏ. Khạc đờm kéo dài là triệu chứng rất quan trọng, lượng đờm có thể ít dưới 10 ml/ngày (QĐ 4235/2012 mục 2.1.1); giãn phế quản thứ phát sau viêm nhiễm (QĐ 708/2015 mục 2).",
+     "Hỏi riêng ông mới biết hai lần khạc đờm có máu cách 5 năm: ho máu có thể là triệu chứng duy nhất, tái phát nhiều lần, kéo dài nhiều năm (QĐ 4235/2012 mục 2.1.1). Cũng là chỗ lộ nỗi sợ lao.",
+     "Khám: ran nổ to, ran ẩm cố định đáy sau trái, ran ngáy chỉ nghe trong đợt cấp, móng khum (QĐ 4235/2012 mục 2.1.1; QĐ 708/2015 mục 3.1). Ran cố định một vùng khác ran rít lan tỏa của COPD (QĐ 2767/2023 mục 1.2.3).",
+     "Cận lâm sàng: BC 13,6 G/L, CRP 64 mg/L xác nhận nhiễm khuẩn, không đổi xử trí; AST, ALT dưới 50 IU/L (QĐ 3610/2015). X-quang bình thường ở 7–30% giãn phế quản; CT lớp mỏng mới là tiêu chuẩn vàng (QĐ 4235/2012 mục 2.1.2).",
+     "Vì sao 'không điển hình': đờm hằng ngày ít, người bệnh coi là bình thường, vợ chỉ thấy 'cảm gió', paracetamol làm mờ sốt (37,8 °C lúc khám dù đêm trước 38,8 °C).",
+     "Loại trừ: lao (QĐ 162/2024 Bảng 1; gửi Xpert, không fluoroquinolon khi chưa loại, Sơ đồ 1); COPD (cần hô hấp ký, QĐ 2767/2023 mục 1.2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú: không có đặc điểm nặng (ERS 2025, câu hỏi tường thuật 2; QĐ 708/2015 mục 4.3.1). Nhập viện hay chuyển tuyến ngay chỉ làm anh mất ngày công và tiền mà không đổi điều trị.",
+     "Lấy đờm trước liều kháng sinh đầu để gửi Xpert (QĐ 162/2024) và cấy (ERS 2025); hẹn kết quả ở lượt sau.",
+     "Amoxicillin/acid clavulanic vì nghi vi khuẩn tiết beta-lactamase (QĐ 4235/2012 mục 3.1). 14 ngày (ERS 2025) hoặc 10 ngày đến 2 tuần (QĐ 708/2015 mục 4.3.3): ERS cho phép ngắn hơn khi nhẹ hoặc vi khuẩn nhạy; chọn đủ 14 ngày vì chưa biết vi khuẩn, chưa có CT.",
+     "Dẫn lưu đờm 2–3 lần/ngày, kể cả khi không bội nhiễm (QĐ 4235/2012 mục 3.2; ERS 2025 khuyến cáo 2). Ông chưa bao giờ được dạy.",
+     "Paracetamol: ngừng thuốc cảm, chỉ uống khi sốt > 38,5 °C, tối đa 4 viên 0,5 g mỗi ngày (QĐ 4235/2012 bài Viêm phổi bệnh viện mục 3.4), thận trọng hơn ngưỡng 4 g (QĐ 3610/2015). Đau lưng: thuốc thay thế không có trong tài liệu đã tải, hẹn xử trí sau đợt cấp.",
+     "Không fluoroquinolon (lao chưa loại, QĐ 162/2024 Sơ đồ 1), không thuốc ho (QĐ 4235/2012 bài Ho kéo dài mục 3.2), không macrolid dài ngày khi chưa có CT và loại NTM (ERS 2025 khuyến cáo 7).",
+     "Với nỗi lo thật: nói riêng với ông rằng Xpert miễn phí, kết quả giữ kín, vài ngày có kết quả; trong lúc chờ hạn chế ôm hôn cháu (nhận xét, không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin/acid clavulanic",
+      "ham_luong": "Viên 875/125 mg",
+      "lieu": "1 viên × 2 lần/ngày (mỗi 12 giờ)",
+      "duong": "Uống",
+      "thoi_diem": "Đầu bữa ăn sáng và tối (nhận xét, không có trong tài liệu đã tải)",
+      "so_ngay": "14 ngày (ERS 2025) hoặc 10 ngày đến 2 tuần (QĐ 708/2015 mục 4.3.3); chưa đổi trước tái khám ngày 7",
+      "ghi_chu": "Liều 875/125 mg mỗi 8–12 giờ (QĐ 2147/2026 Bảng 4.4) hoặc 1 g × 3 lần/ngày (QĐ 4235/2012 VPMPCĐ mục 3.2.2). Không dị ứng penicillin; ure, creatinin bình thường nên không chỉnh liều."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên mỗi lần khi sốt > 38,5 °C, không quá 4 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt, cách nhau ít nhất 6 giờ (nhận xét)",
+      "so_ngay": "Chỉ khi còn sốt",
+      "ghi_chu": "QĐ 4235/2012 bài Viêm phổi bệnh viện mục 3.4. Ngừng hẳn thuốc cảm có paracetamol (QĐ 3610/2015: nguy cơ khi > 4 g/ngày, phối hợp nhiều thuốc). Không uống đều đặn mỗi ngày để giảm đau lưng."
+     }
+    ],
+    "dan_do": [
+     "Anh bị giãn phế quản: ống dẫn khí phổi trái giãn, đọng đờm nên hay viêm và ho đờm mỗi khi trở trời. Đợt này phải uống đủ kháng sinh theo đơn, không tự bỏ khi đã đỡ (QĐ 708/2015 mục 4.3.3).",
+     "Sáng và tối: nằm kê cao mông, ho khạc mạnh, chị Lan vỗ lưng, làm trước bữa ăn; làm cả khi không ho nhiều (QĐ 4235/2012 mục 3.2). Uống đủ nước.",
+     "Ngày mai mang đờm lấy buổi sáng đến Trung tâm Y tế huyện xét nghiệm lao, miễn phí, kết quả chỉ báo riêng anh. Chụp phim phổi ở bệnh viện huyện trong 1–2 ngày. Trong lúc chờ tạm tránh ôm hôn cháu. (QĐ 162/2024 Phần II mục 1.1)",
+     "Bỏ thuốc cảm. Paracetamol chỉ uống khi sốt trên 38,5 °C, mỗi lần 1 viên, một ngày không quá 4 viên; dùng nhiều ngày liền, nhiều viên có thể hại gan (QĐ 3610/2015).",
+     "Quay lại ngay nếu khó thở tăng, khạc ra máu, sốt cao kéo dài, lơ mơ, vàng mắt vàng da, đau hạ sườn phải. Tái khám đúng hẹn kể cả khi đã đỡ, mang theo vỉ thuốc.",
+     "Tiêm phòng cúm hằng năm sau khi khỏi; giữ ấm cổ ngực (QĐ 4235/2012 mục 4)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · Sau 7 ngày",
+   "tiep_don": "Ông Đỗ Văn Thịnh, 49 tuổi, vợ đi cùng, tái khám sau 7 ngày uống amoxicillin/acid clavulanic, mang kết quả xét nghiệm. Ông hết sốt, ho giảm nhưng đờm vẫn vàng, chưa sạch hẳn. Sinh hiệu: nhiệt độ 36,9 °C, mạch 82 l/p, HA 122/78 mmHg, nhịp thở 18 l/p, SpO₂ 97% khí trời, cân nặng 57,5 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho anh Thịnh uống nốt thuốc rồi hẹn lại ở đây là bỏ dở điều tra bệnh nền: anh ho đờm mủ nhiều năm, X-quang gợi ý giãn phế quản đáy trái nhưng chưa có CT lớp mỏng, chưa đo hô hấp ký, chưa tìm nguyên nhân, mà mọi bệnh nhân giãn phế quản mới chẩn đoán cần làm chuẩn các bước này (ERS 2025, câu hỏi tường thuật 1). Bệnh mũi xoang mới nặng lên cũng chưa được đánh giá, trong khi viêm mũi xoang là bệnh đồng mắc cần tìm và điều trị (ERS 2025, câu hỏi tường thuật 1; QĐ 708/2015 mục 5). Anh ngại tốn kém, nếu không có giấy chuyển rõ ràng thì khả năng không đi là cao, đợt cấp sau sẽ lại đến.",
+    "nhap_vien": "Nhập viện là quá tay: anh hết sốt, thở 18 l/p, SpO₂ 97%, không ho máu, đáp ứng kháng sinh uống, đợt cấp chưa nặng (ERS 2025, câu hỏi tường thuật 2: kháng sinh tĩnh mạch hoặc nằm viện khi đợt cấp nặng hoặc không đáp ứng thuốc uống). CT lớp mỏng, hô hấp ký và khám tai mũi họng đều làm ngoại trú có hẹn được. Nằm viện làm anh nghỉ tiệm nhiều ngày, tốn tiền, dễ từ chối và bỏ luôn việc đi khám chuyên khoa."
+   },
+   "loi_mo": "Anh ấy đỡ sốt rồi bác sĩ, mà ho còn đờm vàng. Hai bữa nay lại nghẹt mũi, nói giọng như bị ngạt. Chắc anh ấy cảm lại, bác sĩ cho thêm thuốc nghe.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "122/78",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết sốt từ ngày thứ 3 của thuốc. Ho giảm nhiều nhưng sáng nào cũng khạc đờm vàng đục, chừng một muỗng canh. Còn mệt nhẹ. Không khạc máu, không khó thở, không sụt cân, không mồ hôi đêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng một phần với kháng sinh, dấu hiệu nguy hiểm vắng mặt"
+    },
+    {
+     "id": "mui_moi",
+     "noi_dung": "Từ 3 ngày nay nghẹt mũi liên tục, chảy mũi vàng đặc, nước mũi chảy xuống họng nhất là buổi sáng, nặng má hai bên, ngửi mùi kém. Trước đợt này mũi chỉ nghẹt thoáng qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Vợ nhắc 'nghẹt mũi' ngay đầu. Ông chỉ kể chi tiết (mủ vàng, nặng má, mất mùi) khi bác sĩ hỏi mũi có chảy gì, có nặng mặt, ngửi mùi, nước mũi chảy xuống họng không.",
+     "y": "Triệu chứng mới: mũi xoang"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Ông uống đủ amoxicillin/acid clavulanic hai lần mỗi ngày, không bỏ liều; hai ngày đầu phân sệt một lần mỗi ngày rồi hết. Đã bỏ thuốc cảm từ hôm khám; paracetamol chỉ khi đau lưng, khoảng 2 viên mỗi ngày. Chị Lan vỗ lưng cho ông sáng tối, đờm ra dễ hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, thuốc đang dùng, dẫn lưu đờm"
+    },
+    {
+     "id": "phieu_xpert",
+     "noi_dung": "Phiếu Trung tâm Y tế huyện: Xpert MTB/RIF đờm 1 mẫu không phát hiện MTB; soi AFB trực tiếp âm tính. Ông cầm tờ giấy mấy hôm, chưa dám đưa vợ xem.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Đưa phiếu khi bác sĩ hỏi kết quả xét nghiệm đờm, phim chụp đã có chưa.",
+     "y": "Kết quả lao"
+    },
+    {
+     "id": "phieu_cay",
+     "noi_dung": "Phiếu bệnh viện huyện: nhuộm Gram đờm nhiều bạch cầu đa nhân, song cầu Gram dương; cấy mọc Streptococcus pneumoniae nhạy amoxicillin/acid clavulanic; không mọc Pseudomonas aeruginosa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả cấy đờm"
+    },
+    {
+     "id": "phieu_xq",
+     "noi_dung": "Phiếu X-quang ngực bệnh viện huyện: tăng đậm vân phổi, vài đường ray và ổ sáng nhỏ vùng đáy trái; không hang, không đông đặc, không tràn dịch, bóng tim bình thường; đề nghị chụp CT lớp mỏng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả X-quang"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông thở phào vì Xpert âm tính nhưng vẫn muốn bác sĩ nói chắc 'không phải lao'. Ông sợ nghe tin 'phải chụp CT, đi tỉnh' vì tốn tiền, nghỉ tiệm nhiều ngày.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông còn lo gì, hoặc khi nghe nhắc chuyển tuyến; ông nói nhỏ, vợ nghe thấy ngạc nhiên vì lần đầu biết chồng sợ lao.",
+     "y": "Nỗi lo còn lại: chắc chắn không phải lao, chi phí đi tỉnh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói trọn câu, không sốt, không tím, không vàng da. Móng tay khum nhẹ như lần trước.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Lồng ngực cân đối. Rung thanh hai bên đều, gõ trong. Đáy phổi trái phía sau: ran nổ to hạt còn nhưng thưa hơn lần trước, hết ran ngáy. Phổi phải: rì rào phế nang êm dịu.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p. Lồng ngực cân đối, di động đều hai bên. Rung thanh hai bên đều, gõ trong hai phế trường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NO-TO-01",
+       "chu": "Ran nổ to hạt vùng đáy sau trái, thưa hơn lần trước."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 82 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi đỏ, phù nề, cuốn dưới sưng. Khe giữa hai bên có dịch mủ nhầy vàng, mủ chảy xuống thành sau họng. Ấn đau nhẹ vùng má hai bên, gõ xoang hàm hơi đau. Họng ít đỏ. Màng nhĩ bình thường.",
+     "k": 1
+    },
+    "noi_soi_mui": {
+     "a": "Phòng khám không có ống nội soi mũi xoang. Nội soi làm ở khoa Tai mũi họng bệnh viện tỉnh: dịch mủ khe giữa hai bên, niêm mạc phù nề, không polyp.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau hạ sườn phải, không vàng da.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ 40 m trong hành lang không phải dừng. SpO₂ 97% lúc nghỉ, 96% sau đi bộ, nhịp thở 20 l/p, mạch 92.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 8,2 G/L · Neutrophil 62% · Hb 144 g/L · TC 262 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 8.2,
+      "neu_pct": 62.0,
+      "neu": 5.1,
+      "lym_pct": 28.0,
+      "lym": 2.3,
+      "mono_pct": 7.0,
+      "mono": 0.57,
+      "eos_pct": 2.5,
+      "eos": 0.21,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.9,
+      "hgb": 144,
+      "hct": 0.43,
+      "mcv": 87.8,
+      "mch": 29.4,
+      "mchc": 335,
+      "rdw": 13.0,
+      "plt": 262
+     },
+     "n": "Bạch cầu về bình thường: đáp ứng. Không đổi quyết định hôm nay; có thể bỏ khi hạn chế tiền."
+    },
+    "crp": {
+     "v": "a",
+     "r": "9 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 9
+     },
+     "n": "CRP giảm từ 64 xuống 9 mg/L: đáp ứng điều trị; khỏi chậm không phải thất bại điều trị."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 29 · ALT 31 U/L",
+     "ab": 0,
+     "n": "Làm lại sau khi ngừng thuốc cảm và giảm paracetamol (QĐ 3610/2015: theo dõi AST, ALT). Bình thường."
+    },
+    "xpert": {
+     "v": "e",
+     "r": "Phiếu đã có (xem lời kể): Xpert MTB/RIF không phát hiện MTB; AFB âm tính.",
+     "ab": 0,
+     "n": "Xpert âm cộng cấy ra S. pneumoniae và hình đường ray đáy trái làm lao ít khả năng; nghĩ lại nếu sụt cân, mồ hôi đêm, ho máu hoặc không đáp ứng (QĐ 162/2024 Phần II Bảng 1)."
+    },
+    "cay": {
+     "v": "e",
+     "r": "Phiếu đã có (xem lời kể): cấy mọc S. pneumoniae nhạy amoxicillin/acid clavulanic; không mọc P. aeruginosa.",
+     "ab": 1,
+     "n": "Kháng sinh đang dùng đúng, không đổi (QĐ 708/2015 mục 4.3.1: đổi theo đáp ứng lâm sàng và kháng sinh đồ). Phế cầu nhạy cho phép đợt ngắn hơn (ERS 2025, câu hỏi tường thuật 2) nhưng ông hồi phục chậm nên đủ 14 ngày."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Phiếu bệnh viện huyện đã có (xem lời kể): đường ray và ổ sáng nhỏ vùng đáy trái, không hang, không đông đặc.",
+     "ab": 1,
+     "n": "CT lớp mỏng mới là tiêu chuẩn vàng (QĐ 4235/2012 mục 2.1.2). Phòng khám không chụp được nên dùng phiếu đã có."
+    },
+    "ct_nguc": {
+     "v": "e",
+     "r": "Cơ sở không chụp được. Tại bệnh viện tỉnh: giãn phế quản thể trụ kèm vài ổ hình túi nhỏ ở phân thùy đáy thùy dưới trái, thành dày, nút nhầy; không hang, không nốt đông đặc, không khối u; các thùy khác bình thường.",
+     "ab": 1,
+     "n": "CT lớp mỏng xác định giãn phế quản, loại u và hang lao (QĐ 4235/2012 mục 2.1.2; QĐ 708/2015 mục 3.2d); dùng khi tìm nguyên nhân (ERS 2025, câu hỏi tường thuật 1). Cần chuyển tuyến để chụp."
+    },
+    "ho_hap_ky": {
+     "v": "e",
+     "r": "Cơ sở không đo được hô hấp ký. Tại bệnh viện tỉnh khi hết đợt cấp: FEV1/FVC sau test hồi phục 0,81, không tắc nghẽn.",
+     "ab": 0,
+     "n": "Loại COPD cần hô hấp ký (QĐ 2767/2023 mục 1.2.2; GOLD 2026, Diagnosis); cũng thuộc đánh giá chuẩn của ERS 2025, câu hỏi tường thuật 1."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt cấp giãn phế quản đang đáp ứng chậm với kháng sinh (ngày 8 của 14), kèm nghi viêm mũi xoang mạn đợt cấp (hội chứng xoang – phế quản); cần CT lớp mỏng và đánh giá nguyên nhân ở tuyến trên",
+     "ok": 1,
+     "n": "Hết sốt, CRP 64 xuống 9, ran thưa, cấy phế cầu nhạy thuốc đang dùng: đáp ứng; chưa hết đờm vì đợt cấp cần 10 ngày đến 2 tuần (QĐ 708/2015 mục 4.3.3; QĐ 4235/2012 mục 3.1). Mũi: nghẹt, mủ khe giữa, đau má, giảm ngửi mới 3 ngày; viêm mũi xoang mạn là triệu chứng kéo dài trên 12 tuần (QĐ 5643/2015 bài Viêm mũi xoang mạn tính mục 1, 3.1.1), ông nghẹt mũi nhiều năm nên nghi đợt cấp trên nền mạn, TMH xác định. Giãn phế quản kèm viêm đa xoang mạn là hội chứng xoang – phế quản (QĐ 4235/2012 mục 2.1.1, 3.3)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Xpert, AFB âm, cấy ra phế cầu, hết sốt khi dùng kháng sinh thường, X-quang không hang, không sụt cân (QĐ 162/2024 Phần II Bảng 1, Sơ đồ 1). Ít khả năng; theo dõi nếu sụt cân, mồ hôi đêm, ho máu."
+    },
+    {
+     "t": "COPD",
+     "n": "Không hút thuốc, không khó thở mạn, ran cố định đáy trái; hô hấp ký làm ở tuyến trên (QĐ 2767/2023 mục 1.2.2; GOLD 2026, Diagnosis)."
+    },
+    {
+     "t": "Nhiễm khuẩn mới / viêm phổi",
+     "n": "Hết sốt, SpO₂ 97%, không đông đặc; triệu chứng mới giải thích bằng mũi xoang. Không đổi kháng sinh (QĐ 708/2015 mục 4.3.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến có hẹn (giấy chuyển, không cấp cứu) lên bệnh viện tỉnh trong 1–2 tuần: khoa Hô hấp làm CT ngực lớp mỏng, hô hấp ký, tìm nguyên nhân; khoa Tai mũi họng nội soi mũi xoang",
+     "v": "c",
+     "n": "ERS 2025, câu hỏi tường thuật 1 (xét nghiệm chuẩn tìm nguyên nhân, độ nặng, bệnh đồng mắc cho mọi bệnh nhân mới chẩn đoán); CT là tiêu chuẩn vàng (QĐ 4235/2012 mục 2.1.2); hô hấp ký loại COPD (QĐ 2767/2023 mục 1.2.2); xoang mạn cần soi mũi, CT (QĐ 5643/2015 bài Viêm mũi xoang mạn tính mục 3.1). Thời hạn 1–2 tuần: nhận xét, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống nốt amoxicillin/acid clavulanic cho đủ 14 ngày, không đổi, không kéo dài",
+     "v": "c",
+     "n": "14 ngày là chuẩn (ERS 2025, câu hỏi tường thuật 2) hoặc 10 ngày đến 2 tuần (QĐ 708/2015 mục 4.3.3; QĐ 4235/2012 mục 3.1); tới 3 tuần chỉ khi nặng, kháng thuốc, Pseudomonas hoặc tụ cầu, không có ở ông."
+    },
+    {
+     "t": "Tiếp tục dẫn lưu đờm hằng ngày kể cả khi hết đợt cấp",
+     "v": "c",
+     "n": "QĐ 4235/2012 mục 3.2 (làm thường xuyên kể cả khi không bội nhiễm); ERS 2025 khuyến cáo 2."
+    },
+    {
+     "t": "Rửa mũi bằng nước muối sinh lý; thuốc xịt corticoid mũi và kháng sinh xoang để chuyên khoa quyết",
+     "v": "c",
+     "n": "Điều trị tại chỗ viêm mũi xoang mạn gồm rửa mũi nước muối sinh lý, xịt corticosteroid; toàn thân có kháng sinh 2–3 tuần, corticoid uống (QĐ 5643/2015 bài Viêm mũi xoang mạn tính mục 4.3.1). Liều thuốc xịt: không có trong tài liệu đã tải. Ông đã có kháng sinh đang dùng nên không thêm."
+    },
+    {
+     "t": "Không bắt đầu macrolid dài ngày tại phòng khám: để chuyên khoa quyết sau CT, đờm tìm NTM, đánh giá nguy cơ đợt cấp",
+     "v": "c",
+     "n": "ERS 2025 khuyến cáo 7: macrolid dài ngày cho người nguy cơ cao, loại NTM trước, thường azithromycin 250 mg mỗi ngày hoặc 3 lần/tuần, hoặc 500 mg 3 lần/tuần. QĐ 4235/2012 mục 3.3 và QĐ 708/2015 mục 4.3.4–4.3.5: erythromycin 10 mg/kg/ngày chia 2 lần, 6–24 tháng cho hội chứng xoang – phế quản, hoặc macrolid liều thấp khi tái phát từ 2 đợt/năm. Khác năm, thuốc và chỉ định; ca chỉ ghi để chuyên khoa chọn."
+    },
+    {
+     "t": "Nói rõ với ông: Xpert âm, cấy ra phế cầu, khả năng lao thấp; vì sao cần CT; giấy chuyển ghi đủ để chỉ đi một chuyến; nhờ vợ con hỗ trợ chi phí",
+     "v": "c",
+     "n": "Xử lý nỗi lo còn lại (chắc không phải lao, chi phí). Xpert âm không loại hẳn lao nếu diễn tiến khác dự kiến (QĐ 162/2024 Phần II Bảng 1). Quyền lợi BHYT cho CT, hô hấp ký: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn quay lại sớm: khạc máu, khó thở, sốt lại, đờm xanh nhiều hơn, vàng da",
+     "v": "c",
+     "n": "Đặc điểm đợt cấp nặng; không đáp ứng kháng sinh uống thì xem xét đổi thuốc hoặc nhập viện (ERS 2025, câu hỏi tường thuật 2). Ho máu theo mức độ (QĐ 4235/2012 mục 3.5)."
+    },
+    {
+     "t": "Nhập viện nội trú tại bệnh viện huyện cho đủ xét nghiệm",
+     "v": "a",
+     "n": "Không có chỉ định nằm viện (ERS 2025, câu hỏi tường thuật 2), nhưng gom được xét nghiệm cho người ở xa; chấm a vì tốn kém và nghỉ tiệm."
+    },
+    {
+     "t": "Đổi sang kháng sinh phổ rộng hơn vì 'chưa sạch đờm'",
+     "v": "w",
+     "n": "Đã đáp ứng và cấy nhạy thuốc đang dùng; đổi theo đáp ứng và kháng sinh đồ (QĐ 708/2015 mục 4.3.1). Đờm chưa sạch sau 7 ngày chưa là thất bại."
+    },
+    {
+     "t": "Thêm thuốc cảm, thuốc ho hoặc corticoid uống cho nghẹt mũi",
+     "v": "w",
+     "n": "Thuốc cảm có paracetamol cộng dồn (QĐ 3610/2015); thuốc giảm ho không dùng khi nhiễm trùng hô hấp dưới (QĐ 4235/2012 bài Ho kéo dài mục 3.2); corticoid uống trong viêm xoang mạn thuộc chuyên khoa (QĐ 5643/2015 mục 4.3.1)."
+    },
+    {
+     "t": "Cho về uống nốt thuốc, hẹn tái khám tại phòng khám, không chuyển tuyến",
+     "v": "w",
+     "n": "Bỏ dở chẩn đoán xác định và đánh giá nguyên nhân (ERS 2025, câu hỏi tường thuật 1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đợt cấp giãn phế quản đáy phổi trái đáp ứng một phần với amoxicillin/acid clavulanic (ngày 8): hết sốt, CRP 64 xuống 9 mg/L, ran thưa hơn, cấy phế cầu nhạy; chưa sạch đờm là bình thường ở tuần đầu",
+     "Triệu chứng mới: viêm mũi xoang đợt cấp trên nền nghi mạn (nghẹt mũi, mủ khe giữa, đau má, giảm ngửi) – nghi hội chứng xoang – phế quản",
+     "Giãn phế quản chưa xác định bằng CT lớp mỏng, chưa biết nguyên nhân, chưa phân nhóm nguy cơ: cần chuyển tuyến có hẹn",
+     "Đã loại trừ tương đối: lao phổi (Xpert, AFB âm, cấy phế cầu, X-quang không hang); COPD (không hút thuốc, ran cố định; chờ hô hấp ký); tổn thương gan do paracetamol (AST 29, ALT 31 U/L)",
+     "Nỗi lo còn lại: tốn tiền đi tỉnh, vẫn muốn chắc không phải lao"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao 'khỏi chậm' vẫn bình thường: kháng sinh thông thường 10 ngày đến 2 tuần, ERS 14 ngày (QĐ 708/2015 mục 4.3.3; ERS 2025, câu hỏi tường thuật 2). Sau 7 ngày: hết sốt, CRP giảm, ran thưa, cấy nhạy thuốc. Mốc thời gian đờm sạch: không có trong tài liệu đã tải. Lo khi sốt trở lại, khó thở, khạc máu, đờm tăng, SpO₂ giảm (đặc điểm đợt cấp nặng, ERS 2025).",
+     "Triệu chứng mới là chìa khóa: ông chỉ nói 'cảm lại'. Hỏi mũi có chảy gì, nặng mặt, ngửi mùi mới ra mủ vàng, đau má; khám thấy mủ khe giữa (QĐ 5643/2015 Viêm mũi xoang mạn tính mục 3.1.1). Ổ nhiễm khuẩn tai mũi họng cần điều trị triệt để để phòng đợt bội nhiễm (QĐ 708/2015 mục 5; QĐ 4235/2012 mục 4); hội chứng xoang – phế quản (QĐ 4235/2012 mục 3.3).",
+     "Kết quả mang theo: Xpert, AFB âm (QĐ 162/2024); cấy phế cầu nhạy; X-quang đường ray đáy trái, không hang (QĐ 4235/2012 mục 2.1.2). Cùng chiều giãn phế quản, không phải lao; Xpert âm một lần chưa loại tuyệt đối nếu diễn tiến khác dự kiến.",
+     "Đủ chẩn đoán lâm sàng nhưng chưa đủ bộ: ERS 2025 (câu hỏi tường thuật 1) cần HRCT, hô hấp ký, tìm nguyên nhân (immunoglobulin, IgE tổng, Aspergillus, bạch cầu ái toan, NTM), tính độ nặng, sàng lọc bệnh đồng mắc như viêm mũi xoang. Cơ sở này không làm được nên chuyển tuyến."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có hẹn, không cấp cứu: ông ổn định, không dấu nặng (ERS 2025, câu hỏi tường thuật 2). Nhưng mọi bệnh nhân giãn phế quản mới chẩn đoán cần bộ xét nghiệm chuẩn (ERS 2025, câu hỏi tường thuật 1) mà phòng khám thiếu X-quang, CT, hô hấp ký, xét nghiệm miễn dịch, nội soi mũi.",
+     "Uống nốt kháng sinh đủ 14 ngày, không đổi vì đã đáp ứng và cấy nhạy (QĐ 708/2015 mục 4.3.1); tới 3 tuần chỉ khi Pseudomonas, tụ cầu hoặc nặng (mục 4.3.3).",
+     "Dẫn lưu đờm hằng ngày kể cả khi hết đợt cấp (QĐ 4235/2012 mục 3.2).",
+     "Mũi xoang: rửa mũi nước muối, xịt corticoid theo TMH; không thêm kháng sinh hay corticoid uống ở đây (QĐ 5643/2015 mục 4.3.1).",
+     "Macrolid dài ngày không bắt đầu ở phòng khám: ERS 2025 khuyến cáo 7 cần loại NTM và nhóm nguy cơ cao; QĐ 4235/2012 mục 3.3 dùng erythromycin cho hội chứng xoang – phế quản. Hai nguồn khác thuốc và chỉ định, để chuyên khoa quyết.",
+     "Lời nói với ông: 'Xét nghiệm lao âm tính, tôi chưa thấy dấu hiệu lao. Nhưng muốn biết rõ phổi giãn ở đâu và vì sao, anh cần chụp CT và đo hơi thở ở tỉnh; tôi viết giấy rõ ràng để anh chỉ đi một chuyến.'"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin/acid clavulanic",
+      "ham_luong": "Viên 875/125 mg",
+      "lieu": "1 viên × 2 lần/ngày (tiếp tục đơn lượt 1)",
+      "duong": "Uống",
+      "thoi_diem": "Đầu bữa ăn sáng và tối (nhận xét, không có trong tài liệu đã tải)",
+      "so_ngay": "7 ngày nữa cho đủ 14 ngày (ERS 2025) hoặc 10 ngày đến 2 tuần (QĐ 708/2015 mục 4.3.3)",
+      "ghi_chu": "Không đổi: cấy phế cầu nhạy, hết sốt, CRP giảm (QĐ 708/2015 mục 4.3.1). Liều theo QĐ 2147/2026 Bảng 4.4."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 0,9%",
+      "ham_luong": "Dung dịch rửa mũi",
+      "lieu": "Rửa mỗi bên mũi, 2 lần/ngày (số lần: nhận xét)",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Đến khi khám tai mũi họng",
+      "ghi_chu": "QĐ 5643/2015 bài Viêm mũi xoang mạn tính mục 4.3.1: rửa mũi nước muối sinh lý. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên mỗi lần khi đau lưng, không quá 4 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần, cách nhau ít nhất 6 giờ (nhận xét)",
+      "so_ngay": "Chỉ khi cần; không dùng đều đặn nhiều tháng",
+      "ghi_chu": "Mức 0,5 g/lần, ngày không quá 4 viên theo QĐ 4235/2012 bài Viêm phổi bệnh viện mục 3.4 (áp dụng thận trọng); ngưỡng nguy cơ > 4 g/ngày (QĐ 3610/2015). Thuốc giảm đau thay thế lâu dài: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Anh đáp ứng với thuốc: hết sốt, xét nghiệm viêm giảm. Đờm chưa sạch ngay là bình thường; uống nốt số thuốc còn lại đủ 14 ngày, không bỏ liều (QĐ 708/2015 mục 4.3.3).",
+     "Chuyến đi tỉnh để chụp CT phổi, đo hơi thở và khám mũi: biết phổi giãn ở đâu, vì sao, có cần thuốc phòng đợt sau không. Tôi viết giấy chuyển ghi đủ bệnh sử, Xpert, cấy đờm, X-quang để anh chỉ đi một chuyến; hỏi trước bảo hiểm về chi phí.",
+     "Rửa mũi nước muối sáng tối (QĐ 5643/2015 mục 4.3.1). Không tự mua thuốc cảm có paracetamol; đau lưng uống mỗi lần 1 viên, một ngày không quá 4 viên.",
+     "Tiếp tục vỗ rung và dẫn lưu đờm sáng tối mỗi ngày, cả khi đã khỏe (QĐ 4235/2012 mục 3.2). Uống đủ nước.",
+     "Quay lại ngay nếu khạc ra máu, khó thở, sốt cao, đờm xanh nhiều hơn, vàng mắt vàng da. Tiêm cúm hằng năm (QĐ 4235/2012 mục 4).",
+     "Anh yên tâm: Xpert âm tính, ho của anh lúc này không là nguy cơ cho cháu. Anh nên nói với chị Lan nỗi lo này; chị đã biết và muốn cùng anh đi tỉnh."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông được chuyển bệnh viện tỉnh, chị Lan đi cùng. CT ngực lớp mỏng: giãn phế quản thể trụ kèm vài ổ hình túi nhỏ ở phân thùy đáy thùy dưới trái, thành dày, nút nhầy; không hang. Hô hấp ký sau test hồi phục: FEV1/FVC 0,81, không tắc nghẽn nên không phải COPD. Khoa Tai mũi họng soi mũi thấy mủ khe giữa hai bên và điều trị viêm mũi xoang; chuyên khoa làm xét nghiệm tìm nguyên nhân (ERS 2025, câu hỏi tường thuật 1) và quyết định điều trị dài hạn. Ông uống đủ 14 ngày kháng sinh, vỗ rung mỗi ngày; đờm còn vàng nhạt buổi sáng thêm vài tuần rồi sạch dần, chậm hơn ông và chị Lan mong đợi nhưng đúng quỹ đạo của đợt cấp có đáp ứng thuốc (tài liệu đã tải không nêu mốc hồi phục tiêu chuẩn). Ông giảm hẳn paracetamol, bỏ thuốc cảm, đi khám đau lưng riêng. Ông kể với chị Lan nỗi sợ lao; chị bảo 'sao anh không nói sớm'. Số liệu CT, hô hấp ký và diễn tiến là dữ kiện do người viết dựng, không phải số liệu tài liệu.",
+ "nhieu": [
+  "Thân nhân trả lời thay: chị Lan kể 'cảm gió', 'phạm phòng', không biết số viên paracetamol, ho máu cũ, nỗi sợ lao. Phải hỏi riêng ông mới ra ba chuyện then chốt.",
+  "Mốc 'sau quan hệ tình dục rồi tắm lạnh' kéo sang 'phạm phòng cảm gió'. Tài liệu đã tải không nêu đó là yếu tố khởi phát đợt cấp; virus là nguyên nhân thường gặp (ERS 2025, câu hỏi tường thuật 2).",
+  "Paracetamol liều cao kéo dài che mờ sốt (37,8 °C lúc khám dù đêm trước 38,8 °C) và đặt câu hỏi về gan; thuốc cảm cộng dồn paracetamol (QĐ 3610/2015).",
+  "Lượt 2: triệu chứng mới (mũi xoang) tưởng 'cảm lại', thực ra là bệnh đồng mắc của giãn phế quản."
+ ],
+ "bai_hoc_bien": [
+  "Ho khạc đờm sáng nhiều năm là bệnh mạn, không phải 'cảm gió': hỏi 'trước đợt này buổi sáng anh có khạc đờm không, mỗi năm mấy đợt' thay vì 'ho mấy ngày' (QĐ 4235/2012 bài Giãn phế quản mục 2.1.1).",
+  "Thân nhân trả lời thay: tách ông ra hỏi riêng cho ba chuyện nhạy cảm (ho máu cũ, số viên thuốc, nỗi lo). Không phán xét 'phạm phòng': chỉ là mốc thời gian, tài liệu đã tải không coi là nguyên nhân.",
+  "Hỏi từng loại thuốc, bao nhiêu viên mỗi ngày, bao lâu, có thuốc cảm cộng thêm không: paracetamol cộng dồn (QĐ 3610/2015). Thuốc hạ sốt đều đặn làm mờ sốt khi đo nhiệt độ.",
+  "Thiếu X-quang không phải lý do chờ: lấy đờm (Xpert, cấy) trước kháng sinh, viết giấy chụp ở nơi có máy, điều trị đủ ngày (ERS 2025, câu hỏi tường thuật 2; QĐ 162/2024).",
+  "Khỏi chậm hơn dự kiến: kiểm tra đáp ứng (sốt, CRP, ran), tuân thủ, kết quả cấy trước khi đổi thuốc (QĐ 708/2015 mục 4.3.1); thời gian 10 ngày đến 2 tuần hoặc 14 ngày.",
+  "Triệu chứng mới ở lượt tái khám là dữ kiện đắt: hỏi chủ động 'còn khó chịu gì khác', khám mũi họng; giãn phế quản đi cùng viêm mũi xoang mạn (ERS 2025, câu hỏi tường thuật 1; QĐ 4235/2012 mục 3.3).",
+  "Mọi bệnh nhân giãn phế quản mới chẩn đoán cần chuyển tuyến có hẹn để làm CT lớp mỏng, hô hấp ký, tìm nguyên nhân (ERS 2025, câu hỏi tường thuật 1): không cấp cứu nhưng không được bỏ."
+ ],
+ "diem_nho": [
+  "Đợt cấp giãn phế quản: đổi ho, lượng và độ đục đờm, khó thở, mệt, ho máu; đợt cấp nặng là cần nhập viện hoặc kháng sinh tĩnh mạch (ERS 2025, câu hỏi tường thuật 2).",
+  "Đờm vi sinh trước kháng sinh; 14 ngày là chuẩn (ERS 2025), 10 ngày đến 2 tuần (QĐ 708/2015 mục 4.3.3), tới 3 tuần khi Pseudomonas hoặc tụ cầu.",
+  "Dẫn lưu đờm 2–3 lần mỗi ngày, hằng ngày kể cả khi không bội nhiễm (QĐ 4235/2012 mục 3.2; ERS 2025 khuyến cáo 2).",
+  "Paracetamol: ngưỡng nguy cơ lặp lại > 4 g/ngày, AST hoặc ALT < 50 IU/L tiên lượng tốt (QĐ 3610/2015); hạ sốt 0,5 g/lần, không quá 4 viên mỗi ngày (QĐ 4235/2012 bài Viêm phổi bệnh viện mục 3.4).",
+  "Macrolid dài ngày: erythromycin cho hội chứng xoang – phế quản (QĐ 4235/2012 mục 3.3) hoặc azithromycin cho người nguy cơ cao, loại NTM trước (ERS 2025 khuyến cáo 7)."
+ ],
+ "nguon": [
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Bệnh hô hấp (bản 235 trang) – bài Giãn phế quản mục 2.1.1, 2.1.2, 2.2, 3.1–3.3, 3.5, 4 (tr. 107–111); bài Ho kéo dài mục 3.2; bài VPMPCĐ mục 3.2.2; bài Viêm phổi bệnh viện mục 3.4",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – chương Giãn phế quản mục 2, 3.1, 3.2d, 4.1, 4.3.1–4.3.5, 5",
+  "TL-0142 · ERS 2025 – Management of adult bronchiectasis – Bảng 1 (khuyến cáo 2, 7), câu hỏi tường thuật 1, 2",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Bệnh lao – Phần II mục 1.1 (Bảng 1), 2.1 a (Bảng 3), Sơ đồ 1 chú thích *",
+  "TL-0125 · QĐ 2767/QĐ-BYT 2023 – COPD – mục 1.2.2, 1.2.3",
+  "TL-0138 · GOLD 2026 – phần Diagnosis (hô hấp ký sau giãn phế quản FEV1/FVC < 0,7 là bắt buộc)",
+  "TL-0035 · QĐ 3610/QĐ-BYT 2015 – Chẩn đoán và xử trí ngộ độc – bài Ngộ độc paracetamol (mục Nguyên nhân; dùng quá liều điều trị nhiều lần; nhóm nguy cơ cao)",
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Tai mũi họng – bài Viêm mũi xoang mạn tính mục 1, 3.1.1, 4.3.1",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – Viêm phổi cộng đồng người lớn – Bảng 4.4 (chỉ dùng cho liều uống amoxicillin/acid clavulanic)",
+  "Không có trong tài liệu đã tải: liều uống riêng cho giãn phế quản (cefuroxim, amoxicillin/acid clavulanic); quan hệ tình dục hay tắm lạnh như yếu tố khởi phát đợt cấp; mốc đo hô hấp ký, CT và mốc đờm sạch sau đợt cấp; khẩu trang hay giữ khoảng cách với cháu nhỏ trong lúc chờ Xpert; liều thuốc xịt corticoid mũi; thuốc giảm đau thay paracetamol cho đau lưng mạn; quyền lợi BHYT cho CT và hô hấp ký"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-18 (bản 1): ca Đợt cấp giãn phế quản, 2 lượt, nam 49 tuổi thợ cắt tóc, vợ trả lời thay. Lượt 1 cho về hẹn 7 ngày (kháng sinh uống, đờm gửi Xpert và cấy, giấy chụp X-quang, bỏ thuốc cảm, hỏi riêng bệnh nhân). Lượt 2 chuyển tuyến có hẹn (triệu chứng mới mũi xoang, đáp ứng chậm, cần CT lớp mỏng và đánh giá nguyên nhân).",
+  "Tài liệu đã đọc: TL-0131 bài Giãn phế quản, Ho kéo dài mục 3.2, VPMPCĐ mục 3.2.2, Viêm phổi bệnh viện mục 3.4; TL-0015 chương Giãn phế quản; TL-0142 Bảng 1, câu hỏi tường thuật 1–3; TL-0123 Phần II mục 1–2, Sơ đồ 1; TL-0125 mục 1.2; TL-0138 Diagnosis; TL-0035 bài Ngộ độc paracetamol; TL-0130 bài Viêm mũi xoang mạn tính; TL-0121 Bảng 4.4. Chỗ thiếu: xem cuối trường nguon.",
+  "Sổ mâu thuẫn đã tra và theo: thời gian kháng sinh đợt cấp giãn phế quản (mục HH-1413), liều amoxicillin/acid clavulanic uống (mục HH-0916), thuốc giảm ho khi nhiễm trùng hô hấp dưới, fluoroquinolon khi chưa loại lao. Mục mới đề xuất: macrolid dài ngày cho giãn phế quản (erythromycin theo QĐ 4235/QĐ 708 so với azithromycin theo ERS 2025).",
+  "Số liệu phụ (công thức máu, CRP, AST/ALT, X-quang, Xpert, cấy) do người viết dựng cho khớp bệnh cảnh, không lấy từ tài liệu."
+ ]
+}

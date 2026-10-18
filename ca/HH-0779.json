@@ -1,0 +1,705 @@
+{
+ "ma_ca": "HH-0779",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_cum_mua",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Cúm mùa",
+  "chan_doan_phai_loai_tru": [
+   "COVID-19",
+   "Sốt xuất huyết giai đoạn sớm"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ đi học mẫu giáo",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục (của bố mẹ trong chu kỳ theo dõi rụng trứng, hai ngày trước khi bé sốt; chỉ liên quan đến nỗi lo của mẹ, không phải nguyên nhân bệnh của bé)",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài (mẹ tự cho mỗi 4 giờ suốt 3 ngày)",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản (mẹ đang cố có em; sợ mình đã lây cúm hoặc đang có thai mà bị cúm)"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Gia Khang",
+  "tuoi": 3,
+  "gioi": "Nam",
+  "nghe": "Học sinh mẫu giáo (lớp Lá)",
+  "can_nang": 14,
+  "chieu_cao": 95,
+  "xung_ho": "Bé gọi bác sĩ là 'bác', xưng 'con'. Mẹ xưng 'em' hoặc 'mẹ bé', gọi bác sĩ là 'bác sĩ', gọi con là 'bé' hoặc 'Khang'.",
+  "tinh_cach": "Bé nhút nhát, bám mẹ, ít nói khi ốm. Mẹ (chị Ngọc, 33 tuổi, kế toán) cẩn thận quá mức, hay tự cho thuốc, nói giảm triệu chứng vì sợ bị cho nhập viện và vì muốn mình bình tĩnh.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: mẹ nói 'bé chỉ ho chút xíu, vẫn chơi được, khỏe'. Thực tế bé ăn uống giảm, tiểu ít, ban đêm thở nhanh. Chỉ kể thật khi bác sĩ hỏi chức năng cụ thể: ăn bao nhiêu so với thường, uống bao nhiêu, tiểu mấy lần, ban đêm thở thế nào, chơi được bao lâu. Bác sĩ cần ghi nhận mẹ chăm con cẩn thận rồi hỏi tiếp, không trách chuyện cho paracetamol liều cao.",
+  "nguoi_nha": "Mẹ bé, chị Ngọc, 33 tuổi, đang điều trị hiếm muộn để có em. Mẹ trả lời hầu hết câu hỏi; mẹ chưa kể nỗi lo của mình về khả năng sinh sản nếu không được hỏi.",
+  "ten_nguoi_nha": "Mẹ bé, chị Ngọc",
+  "ngoai_hinh": {
+   "da": "#e8c39e",
+   "toc": "#1a1412",
+   "kieuToc": "ngan",
+   "ao": "#f2c14e",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b48c",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#7fa6c9",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt 3 ngày, ho",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám đa khoa tư nhân chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, sinh hóa nền, men gan, tổng phân tích nước tiểu) và điện tim. Không có X-quang, siêu âm, CT, nội soi; không có test nhanh cúm, NS1, PCR hô hấp. Bệnh viện nhi tỉnh cách khoảng 20 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 3 tuổi, 14 kg, mẹ đưa đến vì sốt từ 3 ngày nay, ho. Mẹ nói bé chỉ sốt và ho nhẹ. Sinh hiệu: nhiệt 38,4 °C, mạch 130 l/p, nhịp thở 36 l/p, SpO₂ 96%. Bé tỉnh, hơi mệt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang thở 36 l/p (dưới ngưỡng thở nhanh ≥ 40 l/p ở trẻ 1–5 tuổi, QĐ 708/2015 mục 3.1), không rút lõm, SpO₂ 96%, còn uống được từng ngụm: chưa có chỉ định nhập viện (SpO₂ < 92% mới nhập viện, QĐ 708 Phụ lục 1 khuyến cáo 5.3; cúm nhẹ điều trị ngoại trú, QĐ 1840/2025 mục III.2.2). Nằm viện làm bé tiếp xúc thêm nhiều mầm bệnh, mẹ nghỉ làm, tốn kém, và mẹ càng lo hơn.",
+    "theo_doi": "Chỉ hạ sốt và hẹn xem lại mà không kê oseltamivir cho bé 3 tuổi là bỏ lỡ cửa sổ điều trị sớm: trẻ < 5 tuổi là nhóm nguy cơ cúm nặng, cần kháng virus càng sớm càng tốt (QĐ 1840/2025 mục II.2.3, III.2.1). Bé đang ăn uống kém, tiểu ít; nếu mẹ tiếp tục cho paracetamol mỗi 4 giờ, bé vừa chưa được điều trị đặc hiệu vừa nguy cơ tổn thương gan do quá liều (tổng liều tối đa 60 mg/kg/24 giờ, QĐ 2760/2023 mục IV.A.1), mẹ còn giữ nguyên niềm tin 'bé chỉ ho nhẹ'."
+   },
+   "loi_mo": "Dạ chào bác sĩ, bé nhà em sốt ba hôm nay rồi, ho chút xíu thôi chứ bé vẫn khỏe, chơi được. Bác sĩ khám giúp em xem có cần kháng sinh không.",
+   "sinh_hieu": {
+    "mach": 130,
+    "ha": "Không đo",
+    "nhiet": "38,4",
+    "nhip_tho": 36,
+    "spo2": 96,
+    "canh_bao": [
+     "nhiet",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 3 ngày 38–39,5 °C, ho khan, sổ mũi. Mẹ xin khám xem có cần kháng sinh không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bé sốt đột ngột, kèm đau mình, quấy; ngày hôm đó lớp mẫu giáo có 5–6 bạn nghỉ vì sốt, ho (cúm đang lưu hành quanh bé).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát, tiếp xúc (QĐ 1840 mục II.2.4.1)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Từ hôm qua bé ăn chỉ được khoảng nửa bình thường, uống nước ít, bú sữa ngoài vài ngụm; nói 'không sao' vì bé còn chơi lúc hạ sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống (câu hỏi chức năng)",
+     "dieu_kien_lo": "Mẹ nói 'bé khỏe, chơi được'. Chỉ lộ khi bác sĩ hỏi cụ thể: ăn được bao nhiêu so với bình thường, uống bao nhiêu ml, lần tiểu gần nhất."
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Lần tiểu gần nhất cách đây khoảng 8 giờ, nước tiểu vàng đậm; hôm nay mới tiểu 2 lần (bình thường 4–5 lần).",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nước tiểu ít (dấu mất nước, NICE NG143 mục 1.7.2)",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ lộ khi hỏi số lần tiểu và màu nước tiểu hôm nay."
+    },
+    {
+     "id": "tho",
+     "noi_dung": "Ban đêm bé thở nhanh, thở phập phồng cánh mũi, mẹ thấy 'thở mệt' nhưng nghĩ do sốt. Không tím môi, không thở rít, không khò khè.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thở nhanh, thở gắng sức (QĐ 1840 mục II.2.3)",
+     "dieu_kien_lo": "Mẹ phủ nhận khó thở. Chỉ lộ khi hỏi 'ban đêm bé thở thế nào, bụng/ngực có phập phồng, có nhanh hơn lúc thường không'."
+    },
+    {
+     "id": "lu_di",
+     "noi_dung": "Khi hết sốt bé chơi được, nhưng lúc sốt cao bé nằm lì, ít cười, phải gọi mới trả lời; không co giật, không nôn tất cả.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tri giác, co giật, nôn (dấu hiệu nguy hiểm, WHO 2013 mục 4.4)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ tự cho paracetamol 250 mg (siro) mỗi 4 giờ, kể cả ban đêm, suốt 3 ngày vì 'sợ bé sốt co giật': khoảng 6 liều/ngày, mỗi liều khoảng 18 mg/kg. Không cho ibuprofen, aspirin, kháng sinh hay thuốc ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều cao"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, nặng 3 kg, chưa từng co giật, không bệnh phổi hay tim, chưa tiêm phòng cúm. Không đi vùng dịch sốt xuất huyết, không phát ban, không chảy máu cam hay chân răng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, yếu tố nguy cơ, loại trừ sốt xuất huyết"
+    },
+    {
+     "id": "noi_o",
+     "noi_dung": "Nhà ở phường nội thành, đi mẫu giáo; bố đi công tác, mẹ ở nhà. Gần đây trong nhà không ai ho sốt rõ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hoàn cảnh nhà"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ 33 tuổi đang điều trị hiếm muộn, cố có em; hai ngày trước khi bé sốt vợ chồng gần gũi đúng ngày theo dõi rụng trứng, nên mẹ sợ mình đã có thai mà lây cúm, hoặc cúm làm ảnh hưởng khả năng sinh sản. Mẹ chưa dám nói.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật sự đến khám",
+     "dieu_kien_lo": "Mẹ ngập ngừng. Chỉ nói khi bác sĩ hỏi mẹ có lo lắng gì khác, mẹ có triệu chứng không, hoặc nhẹ nhàng hỏi hoàn cảnh gia đình."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, mắt hơi trũng, môi khô nhẹ, niêm mạc miệng hơi khô, nước mắt còn khi khóc; da véo trở lại nhanh; mao mạch trở lại 2 giây. Mất nước nhẹ.",
+     "k": 1,
+     "hien": "Tỉnh, mệt, môi hơi khô."
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ nhỏ, di động. Cổ không cứng, không sưng bạnh.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không xuất tiết, không giả mạc. Mũi chảy nước trong. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 36 l/p, thở hơi nhanh, cánh mũi phập phồng nhẹ khi sốt, không rút lõm lồng ngực. Phổi thông khí đều, không ran, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 36 l/p. Không rút lõm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 130 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 130 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da ấm, không ban, không chấm xuất huyết, dây thắt âm tính.",
+     "k": 1,
+     "hien": "Không ban, không chấm xuất huyết."
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "u",
+     "r": "Cúm A dương tính (chỉ có nếu làm ở nơi có test).",
+     "ab": 1,
+     "n": "Phòng khám chỉ có xét nghiệm cơ bản, không có test nhanh cúm; không chờ test để điều trị vì cúm nghi ngờ có yếu tố nguy cơ cần kháng virus sớm (CDC 2026; QĐ 1840 mục II.2.1, III.2.1). Test âm tính cũng không loại trừ cúm."
+    },
+    "ns1": {
+     "v": "u",
+     "r": "NS1 âm tính (chỉ có nếu làm ở nơi có).",
+     "n": "Không làm được ở cơ sở. Sốt ngày 3 không ban, không chấm xuất huyết, tiểu cầu bình thường: theo dõi, tái khám; NS1 làm từ ngày 1–7 của bệnh (QĐ 2760/2023 mục III.1.1)."
+    },
+    "pcr_ho_hap": {
+     "v": "u",
+     "r": "Cúm A dương tính; SARS-CoV-2 âm tính (chỉ có ở nơi có PCR đa tác nhân).",
+     "n": "Không làm được tại cơ sở và không cần để quyết định điều trị. Xác định COVID-19 bằng kháng nguyên/PCR (QĐ 2671/2023 mục 2.1a) chỉ làm khi có điều kiện."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 6,1 G/L · Neutrophil 38% · Hb 118 g/L · TC 246 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 6.1,
+      "neu_pct": 38,
+      "neu": 2.3,
+      "lym_pct": 52,
+      "lym": 3.17,
+      "mono_pct": 8,
+      "mono": 0.49,
+      "eos_pct": 1.5,
+      "eos": 0.09,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.4,
+      "hgb": 118,
+      "hct": 0.35,
+      "mcv": 80,
+      "mch": 26.8,
+      "mchc": 335,
+      "rdw": 13.1,
+      "plt": 246
+     },
+     "n": "Làm được tại cơ sở. Bạch cầu không tăng, tiểu cầu bình thường ngày thứ 3 của sốt, Hct 0,35 không cô đặc: không hướng sốt xuất huyết sớm có dấu hiệu cảnh báo (QĐ 2760/2023 mục II.1.2: giảm tiểu cầu, Hct tăng). Không cần để quyết định điều trị cúm (CDC 2026: điều trị không chờ xét nghiệm)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 9 mg/L",
+     "ab": 0,
+     "n": "CRP thấp, không gợi ý bội nhiễm vi khuẩn; không kháng sinh cho cúm nhẹ (QĐ 1840 mục III.2.2). Làm hay không đều chấp nhận. Ngưỡng CRP của NICE NG237 không dùng cho trẻ (áp dụng người > 16 tuổi)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 32 U/L · ALT 24 U/L (bình thường)",
+     "ab": 1,
+     "n": "Bé uống khoảng 107 mg/kg/ngày × 3 ngày, vượt giới hạn 60 mg/kg/24 giờ (QĐ 2760/2023 mục IV.A.1). Liều gây ngộ độc cấp > 150 mg/kg (QĐ 3610/2015 mục 3); NAC chỉ định khi có tiền sử uống acetaminophen và có tổn thương gan ở bất kỳ mức độ nào (QĐ 3610/2015 mục 4.3). Cần xét nghiệm men gan để loại tổn thương gan trước khi cho về; kết quả bình thường nên giảm liều và theo dõi. Nếu men gan tăng thì phải chuyển viện dùng NAC (QĐ 3610/2015 mục 4.3)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 38 µmol/L",
+     "ab": 0,
+     "n": "Chức năng thận bình thường, không cần chỉnh liều oseltamivir (CDC 2026: chỉnh liều theo thận ở người suy thận; trẻ em: không có trong tài liệu đã tải)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Tỷ trọng 1,028; ceton (+); bạch cầu, nitrit âm tính.",
+     "ab": 1,
+     "n": "Nước tiểu cô đặc, ceton dương tính: bé ăn uống kém, mất nước nhẹ. Không có dấu nhiễm trùng tiết niệu. Dùng để đánh giá mất nước là chấp nhận được, không bắt buộc."
+    },
+    "cxr": {
+     "n": "Phòng khám không có X-quang. Không cần: chỉ định khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840 mục II.2.2); bé không rút lõm, SpO₂ 96%, phổi không ran."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm mùa nghi ngờ thể nhẹ, trẻ 3 tuổi (nhóm nguy cơ cúm nặng), mất nước nhẹ do ăn uống kém",
+     "ok": 1,
+     "n": "Triệu chứng viêm hô hấp cấp + sốt đột ngột + dịch tễ lớp mẫu giáo (QĐ 1840 mục II.1.1, II.2.4.1); trẻ < 5 tuổi là yếu tố nguy cơ nặng (mục II.2.3); không rối loạn tri giác, thở 36 < 40 l/p, SpO₂ 96%: chưa phải cúm nặng (mục II.2.3)."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue giai đoạn sớm",
+     "n": "Ít nghĩ: không ban, không chấm xuất huyết, dây thắt âm tính, tiểu cầu 246 G/L, Hct 0,35, có ho sổ mũi, nhiều bạn cùng lớp sốt ho. Không loại hẳn ở ngày 3: tái khám, tránh ibuprofen và aspirin (QĐ 2760/2023 mục II.1, IV.A.1)."
+    },
+    {
+     "t": "COVID-19",
+     "n": "Không phân biệt được chỉ bằng lâm sàng; cơ sở không có test kháng nguyên/PCR. Điều trị ngoại trú nhẹ chung với hướng cúm (hỗ trợ), tư vấn cách ly; xác định bằng test khi có điều kiện (QĐ 2671/2023 mục 2.1a)."
+    },
+    {
+     "t": "Viêm phổi bội nhiễm",
+     "n": "Chưa: thở 36 l/p < 40, không rút lõm, SpO₂ 96%, phổi không ran, CRP 9 mg/L (QĐ 708/2015 mục 3.1, 4.1)."
+    },
+    {
+     "t": "Dùng paracetamol quá liều điều trị nhiều lần (chưa có tổn thương gan)",
+     "n": "Bé uống khoảng 107 mg/kg/ngày trong 3 ngày (> 60 mg/kg/24 giờ, QĐ 2760/2023 mục IV.A.1; dưới ngưỡng ngộ độc cấp > 150 mg/kg, QĐ 3610/2015 mục 3). AST 32, ALT 24 bình thường nên chưa có chỉ định NAC (QĐ 3610/2015 mục 4.3). Giảm liều và dặn quay lại nếu vàng da, nôn nhiều, lừ đừ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kê oseltamivir 30 mg × 2 lần/ngày × 5 ngày (bé 14 kg, nhóm ≤ 15 kg), uống liều đầu ngay hôm nay, không chờ test",
+     "v": "c",
+     "n": "Trẻ < 5 tuổi là yếu tố nguy cơ cúm nặng; cúm nhẹ có yếu tố nguy cơ dùng kháng virus càng sớm càng tốt, oseltamivir đầu tay; ≤ 15 kg: 30 mg × 2 lần/ngày × 5 ngày (QĐ 1840/2025 mục II.2.3, III.2.1–2.2; CDC 2026 Bảng 3). Bé khởi bệnh ngày 3, WHO 2024 gợi ý điều trị trong 48 giờ (TL-0133) còn CDC 2026 vẫn điều trị người nặng/nguy cơ cao kể cả sau 48 giờ (xem sổ mâu thuẫn)."
+    },
+    {
+     "t": "Giảm liều paracetamol về 10–15 mg/kg/lần (14 kg: 140–210 mg, chọn 150 mg), cách ít nhất 6 giờ, tối đa 4 lần/ngày, chỉ khi bé sốt và khó chịu; không đánh thức bé để cho thuốc",
+     "v": "c",
+     "n": "AWaRe 2022: 10–15 mg/kg mỗi 6 giờ; QĐ 2760/2023 mục IV.A.1: không quá 60 mg/kg/24 giờ (14 kg: 840 mg); NICE NG143 mục 1.6.4–1.6.5: dùng khi trẻ khó chịu, không chỉ để hạ nhiệt độ. Liều gây ngộ độc > 150 mg/kg; NAC khi có tổn thương gan (QĐ 3610/2015 mục 3, 4.3)."
+    },
+    {
+     "t": "Bù nước: cho uống từng ngụm nhỏ, chia nhiều lần, ăn lỏng; nếu tiểu < 3 lần/ngày, nôn tất cả, lừ đừ thì quay lại ngay",
+     "v": "c",
+     "n": "Bù nước điện giải, dinh dưỡng cho trẻ nhỏ (QĐ 1840 mục III.2.2); dấu mất nước cần báo mẹ (NICE NG143 mục 1.7.2). Lượng nước cụ thể theo ml/kg: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng kháng sinh; giải thích cúm do virus, sốt thường 3–5 ngày, ho kéo dài hơn",
+     "v": "c",
+     "n": "Không khuyến cáo kháng sinh cho cúm nhẹ (QĐ 1840 mục II.1.1, III.2.2); WHO 2024: mạnh chống kháng sinh khi cúm không nặng, ít nghĩ bội nhiễm (TL-0133)."
+    },
+    {
+     "t": "Không dùng aspirin; không ibuprofen trong lúc sốt xuất huyết chưa loại trừ; không corticoid, không thuốc ho",
+     "v": "c",
+     "n": "Aspirin: hội chứng Reye (QĐ 1840 mục III.2.2). Ibuprofen, aspirin, analgin: chống chỉ định khi nghi dengue (QĐ 2760/2023 mục IV.A.1). Corticoid không dùng thường quy (QĐ 1840 mục III.2.3). Thuốc ho, long đờm, codein không dùng cho trẻ ho, cảm lạnh (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Dặn dấu hiệu nặng: thở nhanh ≥ 40 l/p, rút lõm ngực, tím môi, li bì khó gọi, co giật, nôn tất cả, không uống, tiểu rất ít, sốt lại sau khi đã hết, chảy máu, đau bụng; nghỉ mẫu giáo đến khi hết sốt; khẩu trang; tái khám sau 48–72 giờ (hoặc ngày thứ 5 của bệnh) hay khi nặng",
+     "v": "c",
+     "n": "Tư vấn theo dõi dấu hiệu cúm nặng để tái khám, nhập viện kịp thời (QĐ 1840 mục III.2.2); thở nhanh ≥ 40 l/p trẻ 1–5 tuổi (QĐ 708 mục 3.1); dấu hiệu nguy hiểm (WHO 2013 mục 4.4); dấu hiệu cảnh báo dengue (QĐ 2760/2023 mục II.1.2); biện pháp lây truyền (QĐ 1840 mục IV.2). Lịch tái khám cụ thể: không có trong tài liệu đã tải, do người soạn chọn."
+    },
+    {
+     "t": "Hỏi han mẹ, nhẹ nhàng hỏi mẹ có triệu chứng hô hấp, có thể có thai: nếu mẹ sốt ho thì đi khám ngay, thử thai khi trễ kinh; oseltamivir dùng được ở thai kỳ",
+     "v": "c",
+     "n": "Phụ nữ mang thai là nhóm nguy cơ cúm nặng (QĐ 1840 mục II.2.3); oseltamivir 'an toàn ở phụ nữ mang thai' (bảng III.2.1) và CDC 2026 ưu tiên oseltamivir, cùng liều như người không mang thai. Dự phòng sau phơi nhiễm cho người mẹ khỏe ngoại trú: tài liệu chỉ nêu cho người bệnh nội trú nguy cơ cao (QĐ 1840 mục IV.2), không có trong tài liệu đã tải cho tình huống này."
+    },
+    {
+     "t": "Làm men gan (AST, ALT) để loại tổn thương gan do paracetamol quá liều trước khi cho về; nếu men gan tăng thì chuyển viện dùng NAC",
+     "v": "c",
+     "n": "Tiền sử uống acetaminophen quá liều điều trị nhiều lần: NAC chỉ định khi có tổn thương gan ở bất kỳ mức độ nào (QĐ 3610/2015 mục 4.3); liều gây ngộ độc > 150 mg/kg (mục 3). Kết quả bình thường: giảm liều, theo dõi."
+    },
+    {
+     "t": "Xét nghiệm CTM, tổng phân tích nước tiểu để đánh giá sốt xuất huyết sớm và mất nước",
+     "v": "a",
+     "n": "Hợp lý, không bắt buộc: kháng virus không chờ xét nghiệm (CDC 2026); công thức máu giúp loại sốt xuất huyết sớm (QĐ 2760/2023 mục II.1.2)."
+    },
+    {
+     "t": "Kê baloxavir một liều (2 mg/kg do < 20 kg) thay oseltamivir",
+     "v": "a",
+     "n": "QĐ 1840 mục III.2.1 bảng baloxavir; mục IV.2 ghi baloxavir dự phòng cho trẻ ≥ 12 tuổi; mục cũ trong sổ mâu thuẫn (HH-0737) chấm a. Oseltamivir vẫn là đầu tay."
+    },
+    {
+     "t": "Chỉ điều trị triệu chứng, không kê kháng virus vì bé khỏe mạnh",
+     "v": "a",
+     "n": "WHO 2024 (TL-0133) không liệt kê trẻ < 5 tuổi trong yếu tố nguy cơ chính, nên trẻ khỏe mạnh có thể xếp nguy cơ thấp; QĐ 1840 và CDC 2026 xếp nguy cơ cao (xem sổ mâu thuẫn HH-0737 mục 1)."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin hoặc khác) vì bé sốt 3 ngày",
+     "v": "w",
+     "n": "Không dấu hiệu bội nhiễm; kháng sinh không khuyến cáo cho cúm nhẹ (QĐ 1840 mục III.2.2; WHO 2024 mạnh chống)."
+    },
+    {
+     "t": "Hạ sốt bằng ibuprofen hoặc aspirin",
+     "v": "w",
+     "n": "Aspirin: Reye (QĐ 1840 mục III.2.2). Ibuprofen khi dengue chưa loại trừ: QĐ 2760/2023 mục IV.A.1 (xem sổ mâu thuẫn HH-0737 mục 2)."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch / nhập viện theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Bé còn uống được, mất nước nhẹ, chưa có dấu nặng: bù đường uống (WHO 2013 mục 4.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm mùa nghi ngờ (chưa xác nhận test), thể nhẹ, trẻ 3 tuổi thuộc nhóm nguy cơ cúm nặng",
+     "Mất nước nhẹ do ăn uống kém, tiểu ít (bị mẹ nói giảm)",
+     "Dùng paracetamol quá liều điều trị (≈ 107 mg/kg/ngày × 3 ngày), men gan bình thường, chưa có chỉ định NAC",
+     "Đã loại: viêm phổi, sốt xuất huyết giai đoạn sớm (chưa loại hẳn, tái khám), COVID-19 (không test)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: sốt đột ngột, đau mình, ho khan, sổ mũi, nhiều bạn cùng lớp nghỉ bệnh = ca nghi ngờ cúm (QĐ 1840/2025 mục II.2.4.1). Lời mẹ 'bé khỏe, ho chút xíu' là nhiễu: phải dùng câu hỏi chức năng (ăn bao nhiêu so với thường, uống bao nhiêu, tiểu mấy lần, ban đêm thở thế nào) để lộ ăn kém, tiểu ít, thở nhanh khi ngủ.",
+     "Khám: thở 36 l/p dưới ngưỡng ≥ 40 l/p (QĐ 708 mục 3.1), không rút lõm, SpO₂ 96%, tỉnh, phổi sạch = chưa cúm nặng (QĐ 1840 mục II.2.3); mất nước nhẹ (môi khô, mao mạch 2 giây).",
+     "CLS cơ bản: CTM tiểu cầu bình thường, Hct không cao, không ban, dây thắt âm tính = ít nghĩ sốt xuất huyết (QĐ 2760/2023 mục II.1). CRP thấp: không bội nhiễm. Tiền sử paracetamol liều cao: phải làm men gan trước khi cho về; bình thường (AST 32, ALT 24) thì giảm liều, theo dõi; nếu men gan tăng ở bất kỳ mức nào thì chuyển viện dùng NAC (QĐ 3610/2015 mục 4.3). Cơ sở không có test cúm: chẩn đoán lâm sàng, không chờ test.",
+     "Lý do thật của mẹ (lo khả năng sinh sản, sợ có thai và lây cúm) là yếu tố cần hỏi mẹ; trả lời bằng thông tin: phụ nữ mang thai là nhóm nguy cơ, oseltamivir an toàn ở thai kỳ (QĐ 1840 mục II.2.3, III.2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Oseltamivir ngay vì trẻ < 5 tuổi có yếu tố nguy cơ (QĐ 1840 mục III.2.1–2.2; CDC 2026). WHO 2024 xếp trẻ khỏe mạnh có thể là nguy cơ thấp nên không khuyến cáo kháng virus; sổ mâu thuẫn ghi cả hai.",
+     "Hạ sốt chỉ khi bé khó chịu, 10–15 mg/kg mỗi 6 giờ (AWaRe 2022; NICE NG143 mục 1.6.4–1.6.5), không quá 60 mg/kg/24 giờ (QĐ 2760 mục IV.A.1). Không aspirin (QĐ 1840 mục III.2.2).",
+     "Không kháng sinh (QĐ 1840 mục III.2.2). Bù nước đường uống (QĐ 1840 mục III.2.2; WHO 2013 mục 4.4). Hẹn tái khám 48–72 giờ vì sốt xuất huyết chưa loại hẳn và phải đánh giá đáp ứng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Dạng bào chế sẵn có tại cơ sở: không có trong tài liệu đã tải (liều tính theo mg)",
+      "lieu": "30 mg/lần (bé 14 kg, nhóm ≤ 15 kg)",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu ngay hôm nay, sau đó sáng – tối cách 12 giờ",
+      "so_ngay": "5 ngày (10 liều)",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1 bảng oseltamivir (≤ 15 kg: 30 mg × 2 lần/ngày × 5 ngày); CDC 2026 Bảng 3. Tác dụng phụ: buồn nôn, nôn (CDC 2026 Bảng 1). Cách uống giảm nôn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (đơn chất)",
+      "ham_luong": "Dạng bào chế sẵn có tại cơ sở: không có trong tài liệu đã tải",
+      "lieu": "150 mg/lần (khoảng 11 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt và khó chịu, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần; tối đa 4 lần/24 giờ (≤ 60 mg/kg/24 giờ = 840 mg)",
+      "ghi_chu": "AWaRe 2022 (10–15 mg/kg mỗi 6 giờ); QĐ 2760/2023 mục IV.A.1; NICE NG143 mục 1.6.4–1.6.5. Ngừng liều cũ 250 mg mỗi 4 giờ. Không aspirin, ibuprofen; không dùng thêm thuốc cảm có paracetamol."
+     }
+    ],
+    "dan_do": [
+     "Nếu men gan tăng thì phải chuyển viện dùng NAC (QĐ 3610/2015 mục 4.3); vàng da, nôn nhiều, lừ đừ cũng quay lại ngay. Cho bé uống nước từng ngụm đều đặn, ăn lỏng chia nhỏ; đếm số lần tiểu hôm nay, nếu dưới 3 lần hoặc nước tiểu rất vàng đậm thì quay lại (NICE NG143 mục 1.7.2).",
+     "Quay lại ngay nếu bé thở nhanh, rút lõm ngực, tím môi, li bì khó gọi, co giật, nôn tất cả, không uống được, sốt lại sau khi đã hết, chảy máu, đau bụng (QĐ 1840 mục III.2.2; QĐ 708 mục 3.1; QĐ 2760/2023 mục II.1.2).",
+     "Nghỉ mẫu giáo đến khi hết sốt, bé và người nhà đeo khẩu trang khi gần nhau, rửa tay (QĐ 1840 mục IV.2).",
+     "Mẹ chú ý sức khỏe của mình: có sốt, ho thì đi khám sớm; trễ kinh thì thử thai (QĐ 1840 mục II.2.3).",
+     "Tái khám sau 2–3 ngày (lịch do người soạn chọn; không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Bé Khang tái khám ngày thứ 6 của bệnh, đã uống oseltamivir 3 ngày. Mẹ nói bé đỡ nhiều rồi. Sinh hiệu: nhiệt 37,3 °C, mạch 108 l/p, nhịp thở 28 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang đã hết sốt từ hôm qua, thở 28 l/p, SpO₂ 98%, phổi không ran, đang hồi phục dần: không có chỉ định nhập viện (tiêu chuẩn nặng: QĐ 1840/2025 mục II.2.3). Nhập viện lúc này khiến bé tiếp xúc mầm bệnh, mẹ nghỉ làm thêm, kế hoạch điều trị hiếm muộn của mẹ bị ảnh hưởng.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên để chụp phổi, xét nghiệm thêm khi bé hết sốt, không rút lõm, ho đã giảm là quá tay: ho kéo dài hơn sốt là bình thường (QĐ 1840 mục II.1.1), X-quang chỉ khi nghi viêm phổi hoặc suy hô hấp (mục II.2.2). Mẹ đi lại xa, bé mệt thêm, chi phí tăng mà không thay đổi điều trị."
+   },
+   "loi_mo": "Dạ bác sĩ, bé đỡ nhiều rồi, hết sốt rồi. Chỉ còn ho chút xíu với hơi mệt thôi, chắc không sao ạ?",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "Không đo",
+    "nhiet": "37,3",
+    "nhip_tho": 28,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết sốt từ hôm qua sau ngày thứ 5 của bệnh (sau 2 ngày uống oseltamivir); còn ho nhiều về đêm, ăn chỉ được khoảng 2/3 so với bình thường, mệt, ngủ nhiều ban ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Bé đi lại, chơi được từng lúc, nhưng chơi 10–15 phút là ngồi nghỉ, thích nằm; đêm qua ho làm thức giấc 2 lần, không tím, không khò khè, không thở nhanh khi ngủ nữa.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Chức năng: chơi, ngủ, thở (phân biệt hồi phục chậm với xấu đi)",
+     "dieu_kien_lo": "Mẹ nói 'bé khỏe rồi'. Chỉ lộ khi hỏi cụ thể bé chơi được bao lâu, ho ban đêm mấy lần, ăn uống so với trước."
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Uống nước đủ hơn, tiểu 4 lần hôm qua, nước tiểu vàng nhạt. Không nôn, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước đã cải thiện"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ đã chuyển sang paracetamol 150 mg khi sốt, dùng 3 lần trong 3 ngày qua, lần cuối cách đây 36 giờ. Uống oseltamivir đủ, bé nôn 1 lần sau liều ngày đầu, không nôn lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc: tuân thủ oseltamivir, paracetamol đã giảm"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không sốt lại, không đau tai, không co giật, không chảy máu, không phát ban, không đau bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu biến chứng hay cảnh báo dengue"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ trễ kinh 2 ngày, mới thử que thử thai ở nhà ra 1 vạch (âm tính) và vẫn lo mình lây cúm của con, lo bé bệnh làm chậm kế hoạch có em; mẹ có ho nhẹ, không sốt.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Nỗi lo của mẹ (khả năng sinh sản)",
+     "dieu_kien_lo": "Mẹ ngập ngừng. Chỉ nói khi bác sĩ hỏi mẹ có khỏe không, có lo gì thêm không."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, ngồi chơi, mệt nhẹ, niêm mạc ẩm, môi hồng, mao mạch 2 giây.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, mũi ít dịch trong. Màng nhĩ bình thường.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p, không rút lõm, không thở gắng sức. Phổi thông khí đều, không ran, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 28 l/p. Không rút lõm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 108 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh nhẹ, đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "n": "Không cần lặp lại: bé hết sốt, không dấu cảnh báo; CTM ngày 3 bình thường."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 30 U/L · ALT 22 U/L (bình thường)",
+     "ab": 1,
+     "n": "Làm lại men gan là hợp lý sau 3 ngày paracetamol liều cao, không bắt buộc nếu lượt 1 bình thường và đã giảm liều (QĐ 3610/2015 mục 4.3: NAC khi có tổn thương gan)."
+    },
+    "crp": {
+     "v": "n",
+     "n": "Không cần: không sốt lại, phổi sạch."
+    },
+    "cxr": {
+     "n": "Phòng khám không có X-quang. Không cần: bé không thở nhanh, không rút lõm, SpO₂ 98% (QĐ 1840 mục II.2.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm mùa đang hồi phục, ho còn kéo dài, ăn uống chưa trở lại bình thường (hồi phục chậm bình thường)",
+     "ok": 1,
+     "n": "Phần lớn chỉ sốt 3–5 ngày, ho kéo dài hơn và tự hồi phục (QĐ 1840 mục II.1.1); hết sốt, thở 28 l/p, SpO₂ 98%, phổi sạch."
+    },
+    {
+     "t": "Viêm phổi bội nhiễm sau cúm",
+     "n": "Chưa: không sốt lại, không thở nhanh (< 40 l/p), không rút lõm, không ran (QĐ 708 mục 3.1, 4.1; QĐ 1840 mục II.1.2). Dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ bình thường."
+    },
+    {
+     "t": "Tổn thương gan do paracetamol",
+     "n": "Không: men gan bình thường lượt 1 và lượt 2, liều đã giảm về 10–15 mg/kg (QĐ 3610/2015 mục 4.3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho uống nốt oseltamivir đủ 5 ngày (còn 4 liều), kể cả đã hết sốt",
+     "v": "c",
+     "n": "Liệu trình 5 ngày (QĐ 1840/2025 mục III.2.1; CDC 2026 Bảng 3). Nôn một lần sau liều đầu không phải lý do ngưng (CDC 2026 Bảng 1 ghi buồn nôn, nôn)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích ho có thể còn thêm 1–2 tuần, hồi phục dần",
+     "v": "c",
+     "n": "Ho kéo dài hơn sốt và tự hồi phục (QĐ 1840 mục II.1.1); không kháng sinh cho cúm nhẹ (mục III.2.2; WHO 2024). Thời gian ho cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì paracetamol đơn chất 10–15 mg/kg/lần, cách ít nhất 6 giờ, chỉ khi cần; không đánh thức bé; ngừng khi hết sốt",
+     "v": "c",
+     "n": "AWaRe 2022; QĐ 2760/2023 mục IV.A.1; NICE NG143 mục 1.6.4–1.6.5. Không aspirin (QĐ 1840 mục III.2.2)."
+    },
+    {
+     "t": "Tăng dinh dưỡng và bù nước: bữa nhỏ nhiều lần, nước đủ; ho đêm kê cao đầu, nước muối sinh lý nhỏ mũi",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2 (đảm bảo dinh dưỡng, đặc biệt trẻ nhỏ); nước muối sinh lý nhỏ mũi: WHO 2013 mục 4.4 (lưu ý, không dùng thuốc ho). Cách kê cao đầu: không có trong tài liệu đã tải, do người soạn chọn."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại: sốt lại, thở nhanh ≥ 40 l/p, rút lõm, li bì, bỏ ăn uống, nôn nhiều; nghỉ mẫu giáo thêm đến khi hết ho nhiều và hết sốt 24 giờ; tái khám sau 5–7 ngày nếu ho vẫn nặng",
+     "v": "c",
+     "n": "QĐ 1840 mục II.1.2 (biểu hiện nặng), III.2.2 (tư vấn theo dõi dấu hiệu nặng); QĐ 708 mục 3.1. Thời điểm cho đi học lại và lịch tái khám: không có trong tài liệu đã tải, do người soạn chọn."
+    },
+    {
+     "t": "Giải đáp nỗi lo của mẹ: que thử thai 1 vạch sớm có thể chưa chính xác, thử lại khi trễ kinh thêm và nếu có thai hoặc có triệu chứng hô hấp thì khám sớm; khẩu trang, rửa tay; oseltamivir dùng được ở thai kỳ",
+     "v": "c",
+     "n": "Phụ nữ mang thai là nhóm nguy cơ cúm nặng (QĐ 1840 mục II.2.3); oseltamivir an toàn ở thai kỳ (bảng III.2.1; CDC 2026); phòng lây truyền (mục IV.2). Độ chính xác que thử thai và tư vấn sinh sản: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chụp X-quang phổi hoặc làm xét nghiệm thêm cho chắc",
+     "v": "a",
+     "n": "Không cần (QĐ 1840 mục II.2.2: chỉ khi nghi viêm phổi/suy hô hấp); cơ sở không có X-quang; hợp lý nếu mẹ lo lắng quá."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến vì bé còn mệt, ho",
+     "v": "w",
+     "n": "Bé hết sốt, SpO₂ 98%, không thở nhanh, không rút lõm: không có chỉ định (QĐ 1840 mục II.2.3)."
+    },
+    {
+     "t": "Kê kháng sinh hoặc thuốc ho cho bé",
+     "v": "w",
+     "n": "Không có chỉ định kháng sinh cho cúm nhẹ (QĐ 1840 mục III.2.2); thuốc ho không dùng cho trẻ ho, cảm lạnh (WHO 2013 mục 4.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm mùa đang hồi phục tốt, hết sốt, ho kéo dài",
+     "Ăn uống chưa trở lại bình thường (hồi phục chậm bình thường, không phải thất bại điều trị)",
+     "Chưa có biến chứng viêm phổi, men gan cải thiện sau khi giảm liều paracetamol",
+     "Nỗi lo của mẹ về khả năng sinh sản cần được tư vấn"
+    ],
+    "phan_tich_chan_doan": [
+     "Mẹ nói 'bé đỡ nhiều': dùng câu hỏi chức năng để phân biệt hồi phục chậm bình thường với xấu đi: bé chơi được bao lâu, ho đêm mấy lần, ăn bao nhiêu, tiểu mấy lần, có sốt lại, thở nhanh khi ngủ không. Bé hết sốt, thở 28 l/p, SpO₂ 98%, phổi sạch, tiểu đủ = hồi phục đúng quỹ đạo (sốt 3–5 ngày, ho kéo dài hơn: QĐ 1840 mục II.1.1).",
+     "Chưa có dấu hiệu thất bại điều trị hay bội nhiễm: không sốt lại, không thở nhanh, không rút lõm (QĐ 1840 mục II.1.2; QĐ 708 mục 3.1). Cần dặn mẹ dấu hiệu quay lại vì biến chứng có thể xuất hiện sau khi hết sốt."
+    ],
+    "phan_tich_xu_tri": [
+     "Uống đủ 5 ngày oseltamivir (QĐ 1840 mục III.2.1). Không kháng sinh, không thuốc ho, hạ sốt chỉ khi cần (QĐ 1840 mục III.2.2; WHO 2013 mục 4.4). Hỗ trợ dinh dưỡng và nước.",
+     "Tư vấn mẹ: oseltamivir an toàn ở thai kỳ; phụ nữ mang thai là nhóm nguy cơ nên cần khám sớm khi có triệu chứng (QĐ 1840 mục II.2.3, III.2.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Như đơn lượt 1",
+      "lieu": "30 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng – tối cách 12 giờ",
+      "so_ngay": "Còn 4 liều, uống đủ 10 liều",
+      "ghi_chu": "Giữ nguyên đơn lượt 1: QĐ 1840/2025 mục III.2.1; CDC 2026 Bảng 3."
+     },
+     {
+      "thuoc": "Paracetamol (đơn chất)",
+      "ham_luong": "Như đơn lượt 1",
+      "lieu": "150 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt và khó chịu, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần; ≤ 4 lần/24 giờ (≤ 60 mg/kg/24 giờ)",
+      "ghi_chu": "AWaRe 2022; QĐ 2760/2023 mục IV.A.1; NICE NG143 mục 1.6.4–1.6.5. Không aspirin."
+     }
+    ],
+    "dan_do": [
+     "Ho còn kéo dài hơn sốt là bình thường; ăn uống sẽ trở lại dần (QĐ 1840 mục II.1.1).",
+     "Quay lại ngay nếu sốt lại, thở nhanh, rút lõm ngực, li bì, không uống, nôn nhiều (QĐ 1840 mục II.1.2).",
+     "Nghỉ mẫu giáo đến khi hết sốt 24 giờ và ho giảm; khẩu trang, rửa tay (QĐ 1840 mục IV.2).",
+     "Mẹ khám sớm nếu sốt, ho nặng, hoặc có thai; đã tiêm phòng cúm hằng năm cho bé từ mùa sau (QĐ 1840 mục IV.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé uống đủ 5 ngày oseltamivir, hết sốt sau 2 ngày, ho kéo dài thêm khoảng 10 ngày và ăn uống trở lại bình thường sau gần 2 tuần, không biến chứng (khỏi chậm hơn dự kiến). Men gan bình thường, không cần NAC. Mẹ thử thai lại sau một tuần, kết quả âm tính, không bị lây cúm.",
+ "nhieu": [
+  "Mẹ phủ nhận triệu chứng nặng: 'bé khỏe, chơi được, ho chút xíu' trong khi bé ăn nửa bữa, tiểu ít, thở nhanh khi ngủ. Câu hỏi chức năng lộ ra dấu thật."
+ ],
+ "bai_hoc_bien": [
+  "Phủ nhận triệu chứng nặng: dùng câu hỏi chức năng (ăn, uống, tiểu, ngủ, chơi bao lâu) thay câu hỏi cảm giác ('bé có sao không').",
+  "Trẻ < 5 tuổi là yếu tố nguy cơ cúm nặng; cúm nhẹ có yếu tố nguy cơ dùng kháng virus sớm, oseltamivir đầu tay, 30 mg × 2 lần/ngày × 5 ngày cho trẻ ≤ 15 kg (QĐ 1840/2025 mục II.2.3, III.2.1).",
+  "Paracetamol liều cao kéo dài: hỏi tên thuốc, liều, khoảng cách; tối đa 60 mg/kg/24 giờ (QĐ 2760/2023 mục IV.A.1).",
+  "Hồi phục chậm bình thường: ho kéo dài hơn sốt; thất bại điều trị hay bội nhiễm: sốt lại, thở nhanh, rút lõm (QĐ 1840 mục II.1.1–1.2)."
+ ],
+ "diem_nho": [
+  "Cúm trẻ < 5 tuổi: kháng virus không chờ test; không kháng sinh; không aspirin (QĐ 1840 mục III.2.1–2.2).",
+  "Dấu hiệu nặng: thở ≥ 40 l/p (1–5 tuổi), rút lõm, SpO₂ < 92%, li bì (QĐ 708 mục 3.1; Phụ lục 1 khuyến cáo 5.3)."
+ ],
+ "nguon": [
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 (cúm mùa) – mục II.1.1–1.2, II.2.1–2.4, III.2.1 (bảng oseltamivir, baloxavir), III.2.2, III.2.3, IV.1–2",
+  "TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (tóm tắt BMJ 2026;392:e087397) – Recommendations, Key issues",
+  "TL-0139 · CDC 2026 – Influenza Antiviral Medications: Summary for Clinicians – Bảng 1, 3 (bản chữ ghi mùa 2016–2017, không có baloxavir)",
+  "TL-0029 · QĐ 2760/QĐ-BYT 2023 (sốt xuất huyết Dengue) – mục II.1, III.1.1, IV.A.1 (paracetamol ≤ 60 mg/kg/24 giờ)",
+  "TL-3610 · QĐ 3610/QĐ-BYT 2015 (ngộ độc, kho cũ) – mục 3, 4.3",
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 (COVID-19) – mục 2.1a",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Viêm phổi cộng đồng ở trẻ em: mục 3.1, 4.1; Phụ lục 1 khuyến cáo 5.3, 5.12",
+  "TL-0262 · NICE NG143 (2021, cập nhật 2025) – mục 1.6.4–1.6.5, 1.7.2",
+  "TL-0018 · WHO AWaRe 2022 – paracetamol 10–15 mg/kg mỗi 6 giờ; TL-0250 · WHO Pocket book 2013 – mục 4.4",
+  "TL-0146 · NICE NG237 2024 – chỉ áp dụng > 16 tuổi, không dùng ngưỡng CRP cho bé",
+  "Không có trong tài liệu đã tải: dạng bào chế oseltamivir, paracetamol trẻ em; lượng nước bù theo ml/kg; lịch tái khám và thời điểm đi học lại; độ chính xác que thử thai; dự phòng sau phơi nhiễm cho người nhà khỏe ngoại trú; khuyến cáo WHO 2024 cho nhóm nguy cơ thấp (nằm trong infographic)"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-18): biến yếu tố khởi phát và lý do thật được diễn giải cho trẻ 3 tuổi: là nỗi lo của người mẹ (hiếm muộn, sợ lây cúm/có thai), không phải nguyên nhân bệnh của bé. Tài liệu đã đọc: TL-0122 (toàn văn), TL-0139 Bảng 3, TL-0029 mục IV.A.1, TL-0015, TL-0262, TL-0018.",
+  "Mâu thuẫn áp dụng theo mục cũ: HH-0737 mục 1 (kháng virus < 5 tuổi), mục 2 (ibuprofen), mục 3 (baloxavir)."
+ ]
+}

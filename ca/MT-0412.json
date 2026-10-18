@@ -1,0 +1,722 @@
+{
+ "ma_ca": "MT-0412",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_rllm_trung_nien_tu_dung_thuoc",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Hồng",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn nhà",
+  "can_nang": 56,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi bà là 'chị' hoặc 'bà Hồng'. Bà xưng 'tôi', gọi bác sĩ là 'bác sĩ'; gọi chồng là 'ông nhà tôi'.",
+  "tinh_cach": "Nhanh nhẹn, nói ngắn, làm việc nặng nên hay vội. Sợ mất việc, ngại bị trách nên giấu những việc nghĩ là 'làm sai' (tự uống thuốc của chồng). Tin kinh nghiệm truyền miệng ở công trình.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: uống atorvastatin 20 mg của chồng cho 'phiếu đẹp', không kể trừ khi hỏi thẳng về thuốc đã uống thêm (kể cả thuốc người khác). Hỏi chung 'thuốc đang dùng' thì chỉ kể warfarin. Chỉ nói lý do thật (xin giấy khám sức khỏe làm việc trên cao) khi được hỏi về việc làm sắp tới.",
+  "nguoi_nha": "Đi một mình",
+  "ten_nguoi_nha": "",
+  "ngoai_hinh": {
+   "da": "#d8a77f",
+   "toc": "#2a2522",
+   "kieuToc": "ngan",
+   "ao": "#6f8f9a",
+   "aoKieu": "co_tron",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Kiểm lại mỡ máu sau khi đổi thuốc chống đông",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Hồng, 52 tuổi, thợ sơn nhà, đến khám theo hẹn xem lại mỡ máu. Bà đang dùng thuốc chống đông (warfarin) vì huyết khối tĩnh mạch sâu chân trái, mới được đổi từ thuốc cũ sang warfarin cách đây 3 tuần. Sinh hiệu: HA 128/78 mmHg, mạch 74 l/p, SpO₂ 98%, cân nặng 56 kg, BMI 23,0. Cơ sở không có máy CT.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Hồng bị giữ lại viện 'theo dõi mỡ máu và thuốc chống đông' dù sinh hiệu ổn, không đau ngực, không triệu chứng chân hay phổi. Nằm viện không cần thiết làm bà mất mấy ngày công, trong khi việc cần làm là xác định mỡ máu nền, loại trừ nguyên nhân thứ phát (TSH, glucose, creatinin, men gan: QĐ 3879/2014 mục II.2), bàn statin cường độ vừa và hẹn lipid lại sau 4–12 tuần (ACC/AHA 2026 mục 3.5). Bà ra về vẫn chưa hiểu vì sao cần dùng thuốc lâu dài.",
+    "chuyen_tuyen": "Bà Hồng bị chuyển lên bệnh viện tỉnh để chụp CT mạch vành 'cho chắc' vì cơ sở không có CT. Bà không đau ngực, ECG bình thường, tài liệu đã tải không đặt hình ảnh mạch là bước thường quy trước khi quyết định statin ở người chưa có bệnh tim mạch xơ vữa; bà mất một ngày công và chi phí, còn việc cần làm ngay tại chỗ (loại trừ thứ phát, kê statin cường độ vừa có theo dõi, báo bác sĩ theo dõi kháng đông) bị chậm lại.",
+    "theo_doi": "Bà Hồng chỉ được dặn 'ăn bớt mỡ, uống tiếp thuốc cũ, khi nào thấy cần thì khám lại', không hẹn ngày và không làm TSH, không bàn thuốc hạ lipid. Bà vẫn tiếp tục tự uống thuốc mỡ của chồng không ai giám sát, trong khi bà đang dùng warfarin (ACC/AHA 2026 Bảng 27 xếp warfarin vào nhóm thuốc cần biện pháp giảm nguy cơ khi dùng với statin); LDL-C nền 4,6 mmol/L (> 4,1) chưa được xử trí và lipid không được kiểm lại đúng hẹn (ACC/AHA 2026 mục 3.5)."
+   },
+   "loi_mo": "Chào bác sĩ. Cách đây mấy tháng tôi bị tắc mạch ở chân, bác sĩ bảo thử máu có mỡ cao. Tuần trước đổi thuốc chống đông, họ dặn kiểm lại mỡ máu, nên tôi đến khám. Bác sĩ cứ khám cho tôi, tôi thợ sơn, làm cả ngày nên mong khám nhanh.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "128/78",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến khám theo dặn của bệnh viện huyện: kiểm lại mỡ máu sau khi đổi thuốc chống đông. Không đau ngực, không khó thở, không sưng đau chân mới.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "giay_cu",
+     "noi_dung": "Có tờ kết quả 4 tháng trước ở bệnh viện huyện khi nằm viện vì huyết khối chân: cholesterol toàn phần 7,0 · LDL-C 4,6 · HDL-C 1,3 · TG 1,9 mmol/L; ALT 28 U/L. Lúc đó chưa uống thuốc hạ mỡ nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giá trị lipid nền khi chưa dùng thuốc; cần thiết để đọc kết quả hôm nay"
+    },
+    {
+     "id": "tu_dung",
+     "noi_dung": "Bà tự uống atorvastatin 20 mg của chồng (ông bị mỡ máu, có sẵn hộp thuốc), mỗi tối 1 viên, được 5 ngày, từ hôm biết hẹn khám, vì nghĩ thuốc này làm mỡ máu hạ nhanh cho 'đẹp phiếu'. Bà không kể vì sợ bị trách; không đau cơ, không vàng da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà đã uống thêm thuốc gì, kể cả thuốc của người khác hay thuốc mỡ máu, trong những ngày gần đây; hỏi chung 'thuốc đang dùng' thì bà chỉ kể warfarin.",
+     "y": "Nhiễu: tự uống thuốc 5 ngày trước, làm kết quả lipid hôm nay thấp hơn nền"
+    },
+    {
+     "id": "khang_dong",
+     "noi_dung": "Bị huyết khối tĩnh mạch sâu cẳng chân trái cách đây 6 tháng. Ban đầu uống rivaroxaban, 3 tuần trước bác sĩ huyết học đổi sang warfarin 3 mg tối mỗi ngày vì chi phí; hẹn thử INR đều. INR lần gần nhất 2,3. Không chảy máu bất thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc kháng đông đang dùng; yếu tố khởi phát: đổi thuốc điều trị; cần lưu ý khi thêm statin"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ bị nhồi máu cơ tim lúc 62 tuổi. Bố huyết áp cao. Không ai trong nhà bị mỡ máu rất cao hay bệnh tim mạch ở tuổi trẻ. Chồng bị mỡ máu cao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình; tăng cholesterol gia đình ít khả năng"
+    },
+    {
+     "id": "man_kinh",
+     "noi_dung": "Mãn kinh từ năm 44 tuổi, không dùng nội tiết thay thế. Chưa từng thai nghén có tăng huyết áp, không buồng trứng đa nang.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mãn kinh sớm (< 45 tuổi) là yếu tố tăng nguy cơ ở phụ nữ"
+    },
+    {
+     "id": "suy_giap",
+     "noi_dung": "Không sợ lạnh, không táo bón, không chậm chạp hay buồn ngủ ban ngày, giọng không khàn, cân nặng ổn nhiều năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng suy giáp (nguyên nhân thứ phát)"
+    },
+    {
+     "id": "nguyen_nhan_khac",
+     "noi_dung": "Không đái tháo đường, không bệnh thận, không phù, không vàng da. Không dùng corticoid, thuốc lợi tiểu, thuốc chẹn beta, thuốc nội tiết. Không hút thuốc. Rượu bia ít, thỉnh thoảng 1 lon bia cuối tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân thứ phát khác và yếu tố nguy cơ"
+    },
+    {
+     "id": "lam_viec",
+     "noi_dung": "Thợ sơn nhà 20 năm, tiếp xúc sơn, dung môi hằng ngày, có đeo khẩu trang. Ăn cơm hàng gần công trình, nhiều đồ chiên, thịt mỡ; ít vận động ngoài công việc. Thỉnh thoảng đi công trình xa, ngủ lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề thợ sơn: dung môi có thể làm tăng men gan; ăn uống và vận động"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực, không hồi hộp, không khó thở khi leo thang, chưa từng đột quỵ hay nhồi máu cơ tim, không đau cách hồi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ bệnh tim mạch xơ vữa đã có"
+    },
+    {
+     "id": "chan_ngoai",
+     "noi_dung": "Chân trái hơi nặng khi đứng lâu, không sưng nóng đỏ mới, không đau bắp chân.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: một công ty xây dựng nhận bà làm sơn công trình cao tầng, yêu cầu giấy chứng nhận sức khỏe để làm việc trên cao. Bà sợ phiếu mỡ máu xấu và thuốc chống đông làm bà mất việc nên chưa nói; xin bác sĩ 'viết giúp là bình thường'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà sắp có việc làm hay giấy tờ gì, hỏi nghề và công việc sắp tới, hoặc hỏi bà còn lo điều gì khác ngoài mỡ máu.",
+     "y": "Động cơ thật: xin giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da sạm nắng, BMI 23,0, vòng eo 80 cm.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không hạch cổ. Mạch cảnh rõ hai bên, không âm thổi.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Không ban vàng mí mắt, vòng cung giác mạc không rõ.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không u vàng gân, không ban vàng, không u vàng củ khuỷu; da tay có dính vệt sơn, không viêm da tiếp xúc.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Thở đều 18 l/p, lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không đau.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch mu chân, chày sau bắt rõ hai bên, không âm thổi động mạch đùi.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Cẳng chân trái to hơn phải khoảng 1 cm, không nóng đỏ, không đau khi ấn bắp chân, không phù ấn lõm.",
+     "k": 0
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5 hai bên, không đau cơ khi ấn.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,6 · LDL-C 3,2 · HDL-C 1,3 · TG 1,6 mmol/L (nhịn đói 10 giờ)",
+     "ab": 1,
+     "n": "Kết quả hôm nay thấp hơn nền vì đã uống atorvastatin 20 mg 5 ngày; nền là LDL-C 4,6 mmol/L (180 mg/dL) trong tờ cũ, thuộc khoảng 160–189 mg/dL (4,1–4,9 mmol/L) (ACC/AHA 2026 mục 4.2.3.7). RLLM khi LDL-C > 2,58 hoặc cholesterol > 5,2 mmol/L (QĐ 3879/2014 mục III.2). Mức giảm LDL-C sau 5 ngày statin không có trong tài liệu đã tải: chỉ kết luận nền từ tờ cũ."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,3 mIU/L · FT4 trong giới hạn bình thường",
+     "n": "Suy giáp là nguyên nhân thứ phát của RLLM (QĐ 3879/2014 mục II.2); loại trừ trước khi điều trị lâu dài."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose máu đói 5,2 mmol/L",
+     "n": "Đái tháo đường là nguyên nhân thứ phát (QĐ 3879/2014 mục II.2)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 68 µmol/L · eGFR 94 mL/ph/1,73m²",
+     "n": "Bệnh thận là nguyên nhân thứ phát (QĐ 3879/2014 mục II.2)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 34 · ALT 52 U/L (giới hạn trên 40 U/L)",
+     "ab": 1,
+     "n": "ALT 1,3 lần giới hạn trên, dưới 3 lần: không phải lý do ngưng statin (ESC/EAS 2019 Bảng 13). Nền 28 U/L; tăng nhẹ có thể do statin 5 ngày và dung môi sơn; kiểm lại cùng lipid sau khởi thuốc. Tài liệu đã tải không nêu mức ALT riêng cho tiếp xúc dung môi."
+    },
+    "inr": {
+     "v": "u",
+     "r": "INR 2,3",
+     "n": "Cần biết INR nền trước khi thêm statin vì warfarin nằm trong nhóm thuốc dùng với statin có biện pháp giảm nguy cơ (ACC/AHA 2026 Bảng 27); lịch thử INR sau khi thêm statin không có trong tài liệu đã tải: theo bác sĩ theo dõi kháng đông."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 110 U/L",
+     "n": "CK nền không bắt buộc; đo khi có triệu chứng cơ (ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 4.2.11)."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Protein âm tính · Glucose âm tính",
+     "n": "Thận hư là nguyên nhân thứ phát (QĐ 3879/2014 mục II.2); chấp nhận."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "HbA1c 5,5%",
+     "n": "Chấp nhận nếu không làm glucose; không bắt buộc."
+    },
+    "lpa": {
+     "v": "a",
+     "r": "Lp(a) 31 mg/dL",
+     "n": "Đo ít nhất một lần trong đời (ACC/AHA 2026 mục 3.4 KC 1; ESC/EAS 2025 Bảng khuyến cáo 4); chưa đổi quyết định hôm nay."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 74 l/p, trục bình thường, không sóng Q, không thay đổi ST-T.",
+     "n": "Không đau ngực: không bắt buộc."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,5 G/L · Hb 130 g/L · TC 240 G/L",
+     "n": "Chấp nhận, không đổi xử trí."
+    },
+    "ct_mach_vanh": {
+     "n": "Cơ sở không có CT. Không đo điểm vôi hóa mạch vành; quyết định statin ở bà dựa trên LDL-C nền, yếu tố tăng nguy cơ và thảo luận (ACC/AHA 2026 mục 4.2.3.7). Công cụ ước nguy cơ PREVENT, SCORE2 không có trong tài liệu đã tải nên ca không tính điểm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu tăng LDL-C (nền 4,6 mmol/L ngày nằm viện), kết quả hôm nay bị hạ nhờ atorvastatin tự dùng 5 ngày; chưa có bệnh tim mạch xơ vữa; yếu tố tăng nguy cơ: mãn kinh sớm 44 tuổi, mẹ bị nhồi máu cơ tim; đã loại trừ thứ phát",
+     "ok": 1,
+     "n": "LDL-C nền 4,6; TSH 2,3; glucose, creatinin bình thường. Đọc kết quả hôm nay như kết quả đang điều trị (ACC/AHA 2026 mục 4.2.3.7; Bảng 13 về dấu ấn nguy cơ sinh sản)."
+    },
+    {
+     "t": "RL lipid thứ phát do suy giáp",
+     "n": "TSH 2,3 mIU/L, không triệu chứng, tuyến giáp bình thường (QĐ 3879/2014 mục II.2)."
+    },
+    {
+     "t": "RL lipid thứ phát do đái tháo đường, bệnh thận, rượu, thuốc",
+     "n": "Glucose 5,2, HbA1c 5,5%, creatinin 68, rượu ít, không dùng corticoid, thiazid, chẹn beta hay estrogen (QĐ 3879/2014 mục II.2); warfarin không nằm trong nguyên nhân thứ phát liệt kê."
+    },
+    {
+     "t": "Tăng cholesterol máu gia đình",
+     "n": "LDL-C nền 4,6 chưa tới 4,9 mmol/L (ACC/AHA 2026 mục 4.2.4.3 nêu ngưỡng 190 mg/dL), không u vàng, mẹ bị nhồi máu cơ tim lúc 62 tuổi; xét nghiệm gen không làm được ở cơ sở."
+    },
+    {
+     "t": "RLLM 'đã khỏi' vì LDL-C hôm nay 3,2 mmol/L",
+     "n": "Sai: 3,2 là kết quả khi đang uống statin 5 ngày; nền 4,6 mmol/L mới phản ánh bệnh."
+    },
+    {
+     "t": "Tổn thương gan do statin hoặc dung môi sơn",
+     "n": "ALT 52 U/L, tăng 1,3 lần, không triệu chứng; ngưỡng ngưng thuốc là ≥ 3 lần giới hạn trên (ESC/EAS 2019 Bảng 13)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể thuốc đã tự uống (tên, hàm lượng, số ngày), ghi nhận lipid hôm nay bị ảnh hưởng và dùng tờ kết quả cũ làm nền",
+     "v": "c",
+     "n": "Nhiễu 'tự uống thuốc trước 5 ngày'. Nền không dùng thuốc: LDL-C 4,6 mmol/L (ESC/EAS 2019 Bảng 7 chú thích b: nền là mức khi chưa dùng thuốc hạ lipid hoặc nền ngoại suy). Ca mô tả mức giảm sau 5 ngày không có số trong tài liệu đã tải."
+    },
+    {
+     "t": "Loại trừ nguyên nhân thứ phát: hỏi triệu chứng, khám giáp, làm TSH, glucose, creatinin, men gan",
+     "v": "c",
+     "n": "QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 15."
+    },
+    {
+     "t": "Ngưng dùng thuốc của chồng; khởi statin cường độ vừa theo đơn có theo dõi, hoặc thử lối sống 2–3 tháng trước rồi dùng thuốc",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.3.7: LDL-C 160–189 mg/dL ở nguy cơ 10 năm thấp thì statin cường độ vừa là hợp lý (COR 2a); nguy cơ trung bình 5–< 10% thì ít nhất cường độ vừa (COR 1). Ca không tính được PREVENT (công cụ không có trong tài liệu đã tải) nhưng cả hai nhánh cùng dẫn tới statin cường độ vừa. QĐ 3879/2014 mục IV.1, IV.4: lối sống 2–3 tháng không đạt thì dùng thuốc. Sổ mâu thuẫn MT-0425 mục 1: ghi cả hai."
+    },
+    {
+     "t": "Atorvastatin 20 mg × 1 lần/ngày theo đơn",
+     "v": "a",
+     "n": "Nhánh dùng thuốc của mục trên, ca chọn làm đường đi lượt 2. Atorvastatin 10 (20) mg là cường độ vừa (ACC/AHA 2026 Bảng 6); QĐ 3879/2014 mục IV.4.1: 10–20 mg/ngày."
+    },
+    {
+     "t": "Báo bác sĩ theo dõi kháng đông và hẹn thử INR sau khi thêm statin; không dùng fibrat",
+     "v": "c",
+     "n": "Warfarin thuộc nhóm dùng được với statin có biện pháp giảm nguy cơ (ACC/AHA 2026 Bảng 27); gemfibrozil, fenofibrat tránh dùng cùng statin (Bảng 27) và fibrat làm tăng tác dụng kháng vitamin K (QĐ 3879/2014 mục IV.4.2). Lịch INR cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn lối sống: giảm đồ chiên, mỡ động vật, bia; vận động đều",
+     "v": "c",
+     "n": "QĐ 3879/2014 mục IV.2–IV.3 (30–45 phút/ngày, 5 ngày/tuần); ACC/AHA 2026 mục 4.1.4 KC 1 (≥ 150 phút/tuần)."
+    },
+    {
+     "t": "Hẹn tái khám 8–12 tuần với lipid máu đói và men gan",
+     "v": "c",
+     "n": "Lipid 4–12 tuần sau khởi thuốc (ACC/AHA 2026 mục 3.5); 8 ± 4 tuần, ALT một lần (ESC/EAS 2019 Bảng 13)."
+    },
+    {
+     "t": "Hỏi dự định sắp tới, nhận ra bà cần giấy chứng nhận sức khỏe để làm việc trên cao; giấy ghi trung thực bệnh và thuốc đang dùng",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03 (TL-0668, đã dùng ở MT-0458): phần 'Câu hỏi khác' ghi bệnh và thuốc đang dùng. Viết 'bình thường' sai sự thật chấm w (sổ mâu thuẫn). Tài liệu đã tải không có điều khoản về RLLM và làm việc trên cao."
+    },
+    {
+     "t": "Đo Lp(a), CK nền, thuốc bảo vệ gan",
+     "v": "a",
+     "n": "Lp(a): ACC/AHA 2026 mục 3.4 KC 1. CK nền không thường quy (ESC/EAS 2019 Bảng 13). Thuốc bảo vệ gan: QĐ 3879/2014 mục IV.4 (Chú ý) khuyên dùng, hai hướng dẫn quốc tế không nêu (sổ MT-0425 mục 5)."
+    },
+    {
+     "t": "Cho bà tiếp tục tự dùng thuốc mỡ của chồng",
+     "v": "w",
+     "n": "Thuốc dùng không có đánh giá nguyên nhân thứ phát và theo dõi, bà lại đang dùng warfarin (ACC/AHA 2026 Bảng 27)."
+    },
+    {
+     "t": "Kê gemfibrozil hoặc fenofibrat",
+     "v": "w",
+     "n": "Tránh dùng cùng statin (ACC/AHA 2026 Bảng 27); làm tăng tác dụng thuốc kháng vitamin K (QĐ 3879/2014 mục IV.4.2); TG 1,6 mmol/L không có chỉ định."
+    },
+    {
+     "t": "Bảo bà ngưng warfarin để tránh tương tác với statin",
+     "v": "w",
+     "n": "Warfarin vẫn dùng được với statin có biện pháp giảm nguy cơ (ACC/AHA 2026 Bảng 27); ngưng kháng đông là quyết định của bác sĩ điều trị huyết khối, không thuộc tài liệu lipid đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu tăng LDL-C: nền 4,6 mmol/L (180 mg/dL), cholesterol TP 7,0, TG 1,9, HDL-C 1,3 (tờ cũ); hôm nay LDL-C 3,2 mmol/L dưới atorvastatin tự dùng 5 ngày",
+     "Chưa có bệnh tim mạch xơ vữa; yếu tố tăng nguy cơ: mãn kinh sớm (44 tuổi), mẹ bị nhồi máu cơ tim lúc 62 tuổi; huyết khối tĩnh mạch sâu cũ đang dùng warfarin",
+     "ALT 52 U/L (1,3 lần giới hạn trên), nhiều khả năng do statin vừa dùng và dung môi sơn; đã loại trừ suy giáp (TSH 2,3), đái tháo đường, bệnh thận"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi (theo ESC/EAS 2019 Bảng 13 và QĐ 3879/2014 mục II.2): lý do khám và tờ kết quả cũ, rồi thuốc (bà chỉ kể warfarin; phải hỏi 'có uống thêm thuốc nào, kể cả của người khác, thuốc mỡ máu' mới biết atorvastatin 5 ngày), tiền sử huyết khối và kháng đông, gia đình, mãn kinh, nghề và công việc sắp tới. Khám: giáp, da gân (u vàng), tim, mạch, cơ, chân. CLS: lipid đói, TSH, glucose, creatinin, men gan, INR.",
+     "Bẫy chính: đọc LDL-C 3,2 mmol/L như bệnh nhẹ. Đó là kết quả khi đã uống statin; nền 4,6 mmol/L trong khoảng 160–189 mg/dL (ACC/AHA 2026 mục 4.2.3.7). Thiếu tờ cũ thì không thể kết luận nền; khi đó cần lipid lại sau khi ngưng thuốc tự dùng (khoảng thời gian ngưng cần thiết không có trong tài liệu đã tải).",
+     "Loại trừ thứ phát trước khi gọi là nguyên phát (QĐ 3879/2014 mục II.2; ACC/AHA 2026 Bảng 15). Không đạt mức LDL-C ≥ 4,9 mmol/L nên không xếp tăng cholesterol nặng (mục 4.2.4.3).",
+     "Nguy cơ 10 năm theo PREVENT hoặc SCORE2 không tính được vì công cụ không có trong tài liệu đã tải; ca không đưa số, nhưng khoảng LDL-C 160–189 mg/dL và yếu tố tăng nguy cơ cùng cho statin cường độ vừa.",
+     "Lý do thật là cần giấy sức khỏe để làm việc trên cao; sợ mất việc nên bà giấu việc tự uống thuốc. Nếu không hỏi dự định, bà ra về với đơn mà không dám dùng đúng."
+    ],
+    "phan_tich_xu_tri": [
+     "Statin cường độ vừa: atorvastatin 20 mg (ACC/AHA 2026 Bảng 6, mục 4.2.3.7 COR 2a hoặc COR 1 tùy nhóm nguy cơ). Cách khác theo QĐ 3879/2014 mục IV.4: lối sống 2–3 tháng không đạt thì dùng thuốc. Hai nguồn khác năm (2014 và 2026), ca ghi cả hai; ca chọn dùng thuốc làm đường đi.",
+     "Mục tiêu: LDL-C giảm 30–49% và < 2,6 mmol/L (100 mg/dL) (ACC/AHA 2026 mục 4.2.3.7 KC 6; ESC/EAS 2019 Bảng 7, nguy cơ trung bình < 2,6).",
+     "Warfarin: statin dùng được với biện pháp giảm nguy cơ (ACC/AHA 2026 Bảng 27); báo bác sĩ theo dõi kháng đông để thử INR sau khi thêm thuốc (lịch cụ thể không có trong tài liệu đã tải). Tránh fibrat (QĐ 3879/2014 mục IV.4.2; ACC/AHA 2026 Bảng 27).",
+     "Hẹn lipid và ALT 8–12 tuần (ACC/AHA 2026 mục 3.5; ESC/EAS 2019 Bảng 13). ALT dưới 3 lần giới hạn trên thì tiếp tục thuốc.",
+     "Không có CT: không đo vôi hóa mạch vành, ca thay bằng LDL-C nền, yếu tố tăng nguy cơ và thảo luận cùng bà; không chuyển tuyến chỉ để chụp."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi ngày (sau bữa tối)",
+      "so_ngay": "Dùng lâu dài; lipid và ALT sau 8–12 tuần",
+      "ghi_chu": "Cường độ vừa (ACC/AHA 2026 Bảng 6); QĐ 3879/2014 mục IV.4.1: 10–20 mg/ngày, tối đa 80 mg. Bà dùng thuốc theo đơn, thay thuốc của chồng. Giờ uống không có trong tài liệu đã tải: chọn giờ dễ nhớ."
+     },
+     {
+      "thuoc": "Warfarin",
+      "ham_luong": "3 mg",
+      "lieu": "Giữ liều bác sĩ điều trị đã kê (3 mg tối)",
+      "duong": "Uống",
+      "thoi_diem": "Tối",
+      "so_ngay": "Tiếp tục theo bác sĩ huyết học",
+      "ghi_chu": "Không đổi; INR 2,3. Báo bác sĩ kháng đông để thử INR sau khi thêm statin (ACC/AHA 2026 Bảng 27). Liều và lịch INR không thuộc tài liệu lipid đã tải."
+     },
+     {
+      "thuoc": "Atorvastatin 20 mg của chồng",
+      "ham_luong": "20 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng nữa",
+      "so_ngay": "Ngưng từ hôm nay",
+      "ghi_chu": "Thuốc không có đơn và không theo dõi; bà đang dùng warfarin (ACC/AHA 2026 Bảng 27). Thay bằng atorvastatin theo đơn có hẹn lipid, ALT (ESC/EAS 2019 Bảng 13)."
+     }
+    ],
+    "dan_do": [
+     "Mỡ máu cao không đau nhưng làm xơ vữa mạch âm thầm; bà có thêm mãn kinh sớm và mẹ bị nhồi máu cơ tim nên cần điều trị đều (ACC/AHA 2026 Bảng 13).",
+     "Không tự dùng thuốc của người khác, đặc biệt khi đang uống warfarin; việc đổi thuốc phải báo bác sĩ kháng đông.",
+     "Đau cơ nhiều, yếu cơ, nước tiểu sẫm, vàng da thì ngưng thuốc và đến khám (ACC/AHA 2026 mục 4.2.11 KC 1). Chảy máu bất thường, bầm tím nhiều, phân đen thì đến khám sớm.",
+     "Ăn bớt đồ chiên, mỡ động vật, lòng đỏ trứng, tôm; thêm rau, cá, dầu thực vật; giảm bia (QĐ 3879/2014 mục IV.3). Đi bộ nhanh ≥ 150 phút mỗi tuần (ACC/AHA 2026 mục 4.1.4).",
+     "Đeo khẩu trang phù hợp khi sơn; men gan kiểm lại cùng lipid sau 8–12 tuần (ESC/EAS 2019 Bảng 13).",
+     "Tái khám 8–12 tuần với lipid đói (ACC/AHA 2026 mục 3.5). Giấy chứng nhận sức khỏe ghi đúng bệnh và thuốc đang dùng (TT 25/2026/TT-BYT Mẫu số 03)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 10 tuần",
+   "tiep_don": "Tái khám sau 10 tuần. Bà Hồng nói đã ngưng thuốc của chồng và uống atorvastatin 20 mg theo đơn, 'gần như đều', không đau cơ, đã bớt đồ chiên. Bà đã làm giấy khám sức khỏe để nhận việc. Sinh hiệu: HA 126/78 mmHg, mạch 72 l/p, SpO₂ 98%, cân nặng 55,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Hồng bị nhập viện vì 'mỡ máu chưa xuống', dù LDL-C đã giảm, bà không đau cơ, ALT bình thường và sinh hiệu ổn. Nằm viện không giải quyết nguyên nhân thật là uống thiếu liều khi đi công trình xa, làm bà nghỉ việc đúng lúc mới nhận việc mới; việc cần làm là kiểm tra tuân thủ, giữ liều và lipid lại sau 4–12 tuần (ACC/AHA 2026 mục 3.5).",
+    "chuyen_tuyen": "Bà Hồng được chuyển lên tuyến trên để 'hội chẩn thuốc mới' dù chưa dùng thuốc đều và chưa dùng tới liều statin tối đa dung nạp; thuốc không statin như ezetimibe chỉ thêm khi đã dùng statin tối đa dung nạp mà chưa đạt (ACC/AHA 2026 mục 4.2.4.3 (KC 3–4)). Bà tốn công và chi phí, trong khi nguyên nhân là quên thuốc vẫn chưa được xử lý.",
+    "theo_doi": "Bà Hồng được dặn 'tiếp tục thuốc, khi nào rảnh khám lại', không hẹn ngày, không bàn chuyện quên thuốc. Bà tiếp tục uống thiếu liều ở công trình xa, LDL-C vẫn trên mục tiêu 2,6 mmol/L (ESC/EAS 2019 Bảng 7) và không có mốc kiểm lipid lại (ACC/AHA 2026 mục 3.5)."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi uống thuốc theo đơn rồi, không đau cơ gì hết. Tôi làm giấy sức khỏe xong, nhận việc rồi. Hôm nay đến xem mỡ máu xuống chưa.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "126/78",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn 10 tuần, xem mỡ máu sau khi dùng thuốc. Đã nhận việc sơn công trình mới.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Thuốc uống 'gần như đều': ở nhà uống mỗi tối, nhưng mỗi tuần 2–3 đêm ngủ lại công trình xa thì không mang thuốc, bỏ liều. Tổng cộng khoảng 7 trên 10 liều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói số đêm bỏ thuốc khi bác sĩ hỏi cụ thể bà quên hay bỏ thuốc bao nhiêu lần mỗi tuần, hoặc hỏi lúc đi công trình xa; hỏi chung thì bà trả lời 'uống đều'.",
+     "y": "Đỡ một phần: tuân thủ chưa đủ giải thích mức giảm; phải hỏi cụ thể số đêm bỏ thuốc"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Không đau cơ, không yếu cơ, nước tiểu không sẫm, không vàng da, không buồn nôn. Không chảy máu cam hay bầm tím bất thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khai thác tác dụng phụ statin và biến chứng kháng đông"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Chỉ còn atorvastatin 20 mg và warfarin 3 mg. Đã bỏ hẳn thuốc của chồng. Không dùng thực phẩm chức năng hay thuốc bắc. INR gần nhất cách đây 3 tuần: 2,6, bác sĩ giữ liều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng và INR sau khi thêm statin"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Bớt đồ chiên, ăn cơm nhà nhiều hơn khi ở nhà; ở công trình xa vẫn ăn cơm hàng. Vận động ngoài công việc chưa có. Cân nặng giảm 0,5 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống; hồi phục chậm bình thường"
+    },
+    {
+     "id": "giay_kham",
+     "noi_dung": "Lý do khám lần này nay chỉ còn là kiểm lipid; bà đã nhận giấy sức khỏe có ghi huyết khối cũ, đang dùng warfarin và statin, công ty cho làm việc có điều kiện. Bà vẫn lo bị cho nghỉ nếu mỡ máu vẫn cao.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, BMI 22,8, vòng eo 79 cm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5, không đau cơ khi ấn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không đau.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không bầm tím, không chấm xuất huyết, không u vàng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,5 · LDL-C 3,3 · HDL-C 1,3 · TG 1,6 mmol/L (nhịn đói 10 giờ)",
+     "ab": 1,
+     "n": "LDL-C giảm 28% so với nền 4,6 (3,3/4,6), dưới mức 30–49% kỳ vọng của statin cường độ vừa (ACC/AHA 2026 mục 4.2.3.7); mục tiêu < 2,6 mmol/L chưa đạt (ESC/EAS 2019 Bảng 7). Bà chỉ dùng khoảng 70% số liều nên chưa kết luận thất bại thuốc."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 26 · ALT 31 U/L",
+     "ab": 1,
+     "n": "ALT trở về bình thường sau ngưng thuốc cũ và thời gian ít tiếp xúc dung môi hơn; kiểm men gan sau 8–12 tuần theo ESC/EAS 2019 Bảng 13."
+    },
+    "inr": {
+     "v": "u",
+     "r": "INR 2,5",
+     "n": "INR ổn định sau khi thêm statin; lịch thử INR không có trong tài liệu đã tải, theo bác sĩ kháng đông."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 105 U/L",
+     "n": "Không đau cơ nên không bắt buộc (ACC/AHA 2026 mục 4.2.11)."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 2,2 mIU/L",
+     "n": "Đã loại trừ ở lượt 1; không cần làm lại."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose máu đói 5,3 mmol/L",
+     "n": "Không đổi xử trí."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 72 l/p, không thay đổi ST-T.",
+     "n": "Không bắt buộc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu tăng LDL-C đáp ứng một phần với atorvastatin 20 mg (LDL-C 3,3 mmol/L, giảm 28% so với nền 4,6), chưa đạt mục tiêu; nguyên nhân chính là uống thiếu liều (khoảng 7/10 liều) khi đi công trình xa",
+     "ok": 1,
+     "n": "LDL-C 3,3 vs 4,6; tuân thủ 70%. Phân biệt hồi phục chậm với thất bại: thất bại chỉ kết luận khi dùng đều mà không giảm (ACC/AHA 2026 mục 3.5 nêu đánh giá rào cản tuân thủ)."
+    },
+    {
+     "t": "Thất bại điều trị với atorvastatin 20 mg (kháng statin)",
+     "n": "Chưa dùng đều; mức giảm 28% ở 70% liều không đủ để kết luận."
+    },
+    {
+     "t": "Tổn thương gan hoặc bệnh cơ do statin",
+     "n": "ALT 31 U/L, CK 105, không đau cơ (ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 4.2.11)."
+    },
+    {
+     "t": "RL lipid thứ phát mới xuất hiện (suy giáp, đái tháo đường)",
+     "n": "TSH 2,2, glucose 5,3."
+    },
+    {
+     "t": "Biến chứng chảy máu do tương tác warfarin–statin",
+     "n": "INR 2,5 ổn định, không bầm tím hay chảy máu (ACC/AHA 2026 Bảng 27 nêu warfarin cần biện pháp giảm nguy cơ)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể tuân thủ (số đêm bỏ thuốc) và xử lý: để thuốc trong túi đồ công trình, đặt nhắc giờ, uống cùng giờ mỗi ngày; chưa tăng liều khi chưa dùng đều",
+     "v": "c",
+     "n": "Đánh giá rào cản tuân thủ trước khi tăng cường điều trị (ACC/AHA 2026 mục 3.5, giải thích KC 1). Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm."
+    },
+    {
+     "t": "Giữ atorvastatin 20 mg, đặt mục tiêu giảm 30–49% và LDL-C < 2,6 mmol/L, hẹn lipid lại 4–12 tuần",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.3.7 KC 6 và mục 3.5 (4–12 tuần sau khởi hay tăng cường); ESC/EAS 2019 Bảng 7 (nguy cơ trung bình < 2,6) và Bảng 13 (8 ± 4 tuần)."
+    },
+    {
+     "t": "Tăng atorvastatin lên 40 mg ngay",
+     "v": "a",
+     "n": "Hợp lý để đạt mục tiêu nhưng chưa cần khi dùng 70% liều; liều tối đa 80 mg (QĐ 3879/2014 mục IV.4.1); warfarin cần biện pháp giảm nguy cơ, có thể giới hạn liều (ACC/AHA 2026 Bảng 27)."
+    },
+    {
+     "t": "Thêm ezetimibe 10 mg ngay",
+     "v": "a",
+     "n": "Chỉ định thêm khi đã dùng statin tối đa dung nạp mà chưa đạt (ACC/AHA 2026 mục 4.2.4.3 (KC 3–4); ESC/EAS 2019 mục 9.5.1.2); liều 10 mg (QĐ 3879/2014 mục IV.4.5). Sổ mâu thuẫn MT-0425 mục 3."
+    },
+    {
+     "t": "Theo dõi INR cùng bác sĩ kháng đông, nhắc chảy máu bất thường",
+     "v": "c",
+     "n": "ACC/AHA 2026 Bảng 27 (warfarin). Lịch INR cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích kết quả đã đạt một phần là bình thường ở 70% liều; tiếp tục lối sống; ghi trung thực tình trạng trong giấy sức khỏe",
+     "v": "c",
+     "n": "Thảo luận cá nhân hóa tăng tuân thủ (ACC/AHA 2026 mục 5.1 KC 1). Giấy: TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03 (TL-0668)."
+    },
+    {
+     "t": "Kiểm lipid mỗi 6–12 tháng khi ổn định",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 3.5; ESC/EAS 2019 Bảng 13 (hằng năm khi ổn định)."
+    },
+    {
+     "t": "Đo CK, thuốc bảo vệ gan",
+     "v": "a",
+     "n": "CK không bắt buộc khi không đau cơ; thuốc bảo vệ gan: QĐ 3879/2014 mục IV.4 (Chú ý), sổ MT-0425 mục 5."
+    },
+    {
+     "t": "Ngưng atorvastatin vì LDL-C chưa xuống",
+     "v": "w",
+     "n": "Chưa dùng đều; ngưng làm mất lợi ích giảm nguy cơ."
+    },
+    {
+     "t": "Kê fenofibrat hoặc gemfibrozil thêm",
+     "v": "w",
+     "n": "Tránh dùng cùng statin (ACC/AHA 2026 Bảng 27) và tăng tác dụng thuốc kháng vitamin K (QĐ 3879/2014 mục IV.4.2); TG 1,6."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu tăng LDL-C đáp ứng một phần với atorvastatin 20 mg: LDL-C 3,3 mmol/L (giảm 28% so với nền 4,6), cholesterol TP 5,5, TG 1,6, HDL-C 1,3",
+     "Nguyên nhân đáp ứng một phần: uống khoảng 7/10 liều (bỏ thuốc khi ngủ lại công trình xa), lối sống cải thiện chưa nhiều",
+     "ALT 31, CK 105, INR 2,5: dung nạp tốt, không tương tác rõ với warfarin"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: mới 10 tuần, thuốc dùng 70% liều, mức giảm 28% so với kỳ vọng 30–49% (ACC/AHA 2026 mục 4.2.3.7); chưa phải thất bại. Hỏi chung 'uống đều không' bà trả lời 'đều'; phải hỏi số đêm bỏ thuốc mới ra.",
+     "Dùng lại LDL-C nền 4,6 làm mốc tính % giảm (ESC/EAS 2019 Bảng 7 chú thích b: nền là mức khi chưa dùng thuốc hạ lipid); LDL-C 3,2 của lượt 1 là kết quả đang dùng thuốc 5 ngày, không dùng làm nền.",
+     "Dung nạp: không đau cơ, ALT bình thường (ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 4.2.11), INR ổn định.",
+     "Mục tiêu LDL-C chưa đạt (< 2,6 mmol/L) nhưng bước đầu tiên là dùng đều thuốc đang có, rồi mới tăng cường (ACC/AHA 2026 mục 3.5)."
+    ],
+    "phan_tich_xu_tri": [
+     "Xử lý tuân thủ trước, giữ atorvastatin 20 mg, lipid lại 4–12 tuần (ACC/AHA 2026 mục 3.5). Tăng 40 mg hoặc thêm ezetimibe 10 mg là hợp lý nhưng chưa cần ở lượt này (ACC/AHA 2026 mục 4.2.4.3 (KC 3–4); QĐ 3879/2014 mục IV.4.5); chấm a.",
+     "Nếu dùng đều 8–12 tuần mà LDL-C vẫn > 2,6 mmol/L thì mới tăng liều hoặc thêm ezetimibe (ESC/EAS 2019 mục 9.5.1.2: ezetimibe khi chưa đạt mục tiêu với liều statin tối đa dung nạp).",
+     "Phối hợp bác sĩ kháng đông về INR; không dùng fibrat (ACC/AHA 2026 Bảng 27; QĐ 3879/2014 mục IV.4.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi ngày (mang theo khi đi công trình)",
+      "so_ngay": "Dùng lâu dài; lipid sau 8–12 tuần",
+      "ghi_chu": "Giữ liều; tăng cường khi dùng đều mà chưa đạt (ACC/AHA 2026 mục 3.5, 4.2.5). Cường độ vừa (Bảng 6)."
+     },
+     {
+      "thuoc": "Warfarin",
+      "ham_luong": "3 mg",
+      "lieu": "Giữ liều bác sĩ điều trị",
+      "duong": "Uống",
+      "thoi_diem": "Tối",
+      "so_ngay": "Tiếp tục theo bác sĩ huyết học",
+      "ghi_chu": "INR 2,5; theo dõi cùng bác sĩ kháng đông (ACC/AHA 2026 Bảng 27). Liều không thuộc tài liệu lipid."
+     }
+    ],
+    "dan_do": [
+     "Thuốc mỡ chỉ có tác dụng khi uống đều mỗi ngày; để thuốc trong túi đồ nghề, đặt báo thức, uống cùng giờ.",
+     "Đau cơ nhiều, nước tiểu sẫm, vàng da, chảy máu bất thường thì đến khám (ACC/AHA 2026 mục 4.2.11 KC 1).",
+     "Giảm đồ chiên và mỡ động vật cả khi ăn cơm hàng; vận động ≥ 150 phút mỗi tuần (ACC/AHA 2026 mục 4.1.4).",
+     "Không tự thêm hay bớt thuốc; mọi đổi thuốc báo bác sĩ.",
+     "Tái khám 8–12 tuần với lipid đói và men gan; khi ổn định kiểm lipid mỗi 6–12 tháng (ACC/AHA 2026 mục 3.5)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Hồng dùng atorvastatin 20 mg đều hơn sau lượt 2 (mang thuốc theo, đặt báo thức). Lipid tháng thứ 5: LDL-C 2,5 mmol/L, ALT bình thường, INR ổn định, không đau cơ. Mục tiêu đạt chậm hơn dự kiến khoảng 2 tháng vì uống thiếu liều ở công trình xa; sau đó bà tiếp tục làm việc ổn định và kiểm lipid mỗi 6–12 tháng (ACC/AHA 2026 mục 3.5).",
+ "nhieu": [
+  "Tự uống atorvastatin của chồng 5 ngày: LDL-C và ALT hôm nay không phản ánh bệnh nền; phải hỏi thuốc đã uống thêm và dùng tờ cũ làm nền.",
+  "Chỉ kể warfarin khi hỏi chung 'thuốc đang dùng': thuốc kháng đông là thuốc then chốt khi thêm statin (ACC/AHA 2026 Bảng 27).",
+  "ALT tăng nhẹ 1,3 lần: dễ nhầm với độc gan statin; dưới 3 lần giới hạn trên thì tiếp tục (ESC/EAS 2019 Bảng 13).",
+  "Cơ sở không có CT: không nên chuyển tuyến chỉ để chụp CT mạch vành khi không có triệu chứng."
+ ],
+ "bai_hoc_bien": [
+  "Bẫy 'tự uống thuốc trước 5 ngày': kết quả lipid bị hạ; cần tờ nền cũ hoặc xét nghiệm lại sau ngưng thuốc.",
+  "Lý do thật là xin giấy sức khỏe để làm việc trên cao: hỏi dự định, việc làm sắp tới; giấy ghi trung thực.",
+  "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: kiểm tuân thủ cụ thể (số đêm bỏ thuốc) trước khi tăng liều.",
+  "Khi dùng warfarin: statin dùng được với biện pháp giảm nguy cơ; không dùng fibrat; phối hợp bác sĩ kháng đông.",
+  "Không có CT: quyết định statin dựa vào LDL-C nền, yếu tố tăng nguy cơ và thảo luận, không chuyển tuyến để chụp."
+ ],
+ "diem_nho": [
+  "RLLM khi LDL-C > 2,58 hoặc cholesterol > 5,2 mmol/L (QĐ 3879/2014 mục III.2); loại trừ thứ phát trước thuốc (mục II.2).",
+  "LDL-C 160–189 mg/dL: statin cường độ vừa là hợp lý ở nguy cơ thấp (COR 2a), ít nhất cường độ vừa ở nguy cơ 5–< 10% (COR 1) (ACC/AHA 2026 mục 4.2.3.7).",
+  "Mục tiêu LDL-C < 2,6 mmol/L ở nguy cơ trung bình (ESC/EAS 2019 Bảng 7); lipid 4–12 tuần sau khởi hay tăng cường, ALT 8 ± 4 tuần (ACC/AHA 2026 mục 3.5; ESC/EAS 2019 Bảng 13).",
+  "Warfarin dùng với statin có biện pháp giảm nguy cơ; tránh fibrat (ACC/AHA 2026 Bảng 27; QĐ 3879/2014 mục IV.4.2)."
+ ],
+ "nguon": [
+  "BYT – QĐ 3879/QĐ-BYT 2014 (TL-0039) – Rối loạn lipid máu mục II.2, III.2, Bảng 2, IV.1–IV.4 (4.1, 4.2, 4.5, Chú ý).",
+  "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia (TL-0292) – mục 3.4 KC 1, 3.5, 4.1.4, 4.2.3.7 (KC 1–2, 6), 4.2.4.3, 4.2.5, 4.2.11, 5.1; Bảng 6, 13, 15, 27.",
+  "2019 ESC/EAS Guidelines for the management of dyslipidaemias (TL-0320) – mục 9.5.1.2; Bảng 7, 13.",
+  "2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias (TL-0298) – Lp(a) Bảng khuyến cáo 4.",
+  "TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03 (TL-0668) – giấy chứng nhận sức khỏe."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-18): viết. Tài liệu đã đọc: TL-0039 (RL lipid máu mục II–IV), TL-0292 (4.2.3.7 KC, Bảng 13, 27, 3.5), TL-0320 (Bảng 7), TL-0298, TL-0668 (theo MT-0458).",
+  "Sổ mâu thuẫn: theo MT-0425 mục 1 (lối sống trước hay statin ngay: ghi cả hai), mục 3 (ezetimibe sau statin, ngay chấm a), mục 4, mục 5; MT-0477 (ghi cả hai nguồn khi khác nhóm nguy cơ). Không có mâu thuẫn mới.",
+  "Chỗ thiếu tài liệu: công cụ PREVENT-ASCVD, SCORE2 (nguy cơ 10 năm không tính); mức giảm LDL-C sau 5 ngày statin; thời gian ngưng statin để lipid trở lại nền; lịch INR sau khi thêm statin; liều/giới hạn atorvastatin với warfarin; giờ uống statin.",
+  "Âm thanh: mạch 74, 72 l/p dùng AT-TIM-BT-NL-01 và AT-PHOI-BT-NL-01. Không có ảnh da. Không dùng id danh mục mới."
+ ]
+}

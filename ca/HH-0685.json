@@ -1,0 +1,765 @@
+{
+ "ma_ca": "HH-0685",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình, nguồn kèm vị trí (2026-10-19)",
+ "benh": "HH_viem_phe_quan_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phế quản cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi cộng đồng",
+   "Ho gà"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Buôn bán nhỏ (sạp rau ở chợ sớm)",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết (đợt gió mùa lạnh đột ngột)",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt corticoid (tự mua, dùng kéo dài)",
+  "ly_do_that_su_den_kham": "Khó khăn tài chính, ngại xét nghiệm (muốn được 'truyền một chai là xong' để khỏi phải đi xét nghiệm)",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Văn Bảy",
+  "tuoi": 78,
+  "gioi": "Nam",
+  "nghe": "Bán rau ở sạp nhỏ tại chợ sớm (đứng sạp từ 3 giờ 30 đến 10 giờ sáng, ngoài trời, gió lùa)",
+  "can_nang": 58,
+  "chieu_cao": 162,
+  "xung_ho": "Bác sĩ gọi ông là 'ông' hoặc 'bác'; ông xưng 'tui', gọi bác sĩ là 'bác sĩ' hoặc 'cậu'. Con gái gọi ông là 'ba', xưng 'con' với bác sĩ.",
+  "tinh_cach": "Chân chất, nóng ruột, nói ít nhưng dứt khoát; tin 'bệnh gì cũng phải truyền chai nước mới mau hết'; sợ nghỉ chợ mất mối rau; ngại kể chuyện thuốc tự mua vì sợ bị trách.",
+  "kieu_nhieu": "Đòi truyền dịch: ngay câu đầu nói 'cậu truyền cho tui chai nước biển, hồi trước truyền là khỏe liền'; bị từ chối thì nhắc lại ở cuối buổi, chuyển sang 'vậy chích cho tui mũi gì cũng được'. Chỉ chịu thôi khi bác sĩ nói rõ vì sao không cần và chỉ ra việc cụ thể sẽ giúp ông mau đi chợ lại.",
+  "nguoi_nha": "Con gái, chị Phạm Thị Hạnh, 51 tuổi, bán rau chung sạp, chở ông bằng xe máy đến cả hai lượt; biết ba hay nhỏ thuốc mắt nhưng không biết là thuốc gì; lo ba 'ho mà ăn không vô'.",
+  "ten_nguoi_nha": "Chị Hạnh (con gái)",
+  "ngoai_hinh": {
+   "da": "#b98a68",
+   "toc": "#d8d8d8",
+   "kieuToc": "ngan",
+   "ao": "#6f7f8f",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c0916f",
+    "toc": "#2a2019",
+    "kieuToc": "bui",
+    "ao": "#8a6f9a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho 4 ngày sau đợt trời trở lạnh, đỏ mắt cộm mắt; xin 'truyền chai nước biển cho mau khỏe', không muốn làm nhiều xét nghiệm",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám Nội – đa khoa khu vực chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, CRP nhanh, tổng phân tích nước tiểu) và điện tim. Không có X-quang, siêu âm, CT, nội soi; không làm được hô hấp ký, PCR, cấy. X-quang ngực chỉ chụp được ở bệnh viện huyện cách 9 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · sáng thứ Năm (ngày 4 của bệnh)",
+   "tiep_don": "Ông Phạm Văn Bảy, 78 tuổi, bán rau ở chợ sớm, con gái chở bằng xe máy đến phòng khám Nội – đa khoa khu vực lúc 9 giờ 40 vì ho 4 ngày, mắt đỏ. Sáng thứ Hai trời trở lạnh đột ngột, ông vẫn đứng sạp từ 3 giờ 30 với áo sơ mi mỏng. Ông đưa theo túi nilon đựng mấy vỉ thuốc. Sinh hiệu: nhiệt 37,6 °C, mạch 92 l/p, HA 138/80 mmHg, nhịp thở 22 l/p, SpO₂ 95% khí trời.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Bảy 78 tuổi, nhiệt 37,6 °C, thở 22 l/p, SpO₂ 95%, tỉnh táo, phổi chỉ có ran ngáy, CRP 12 mg/L, chưa có dấu hiệu viêm phổi nên điều trị ngoại trú được (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1, 3). CRB-65 của ông chỉ 1 do tuổi; QĐ 2147/2026 mục 3.2.1 nói 1–2 điểm thì cân nhắc nhập viện nhưng phải đánh giá linh hoạt, mà ông chưa có chẩn đoán viêm phổi. Nằm viện làm ông nghỉ nhiều buổi chợ, chị Hạnh bỏ sạp, chi phí vượt khả năng; ông dễ tự xin về và bỏ luôn việc khám mắt, trong khi ngưng corticoid nhỏ mắt, giải thích, hẹn tái khám làm được ngay tại phòng khám.",
+    "chuyen_tuyen": "Chuyển ông lên bệnh viện huyện chụp X-quang ngay hôm nay là quá tay khi sinh hiệu ổn, SpO₂ 95%, không ran ẩm hay nổ, CRP thấp. QĐ 708/2015 mục 2 nói nên chụp khi trên 75 tuổi, còn CHEST 2020 khuyến cáo 1–2 không chụp thường quy mà chụp khi ho kéo dài hoặc nặng thêm; hẹn tái khám 48–72 giờ với tiêu chí chuyển rõ là đủ. Đi 9 km sau lưng con gái, chờ cả buổi, ông mất thu nhập và tốn tiền xét nghiệm mà ông đã nói không có; nhiều khả năng ông bỏ về giữa đường, không nghe dặn dấu hiệu nặng và không ai nhắc ngừng thuốc nhỏ mắt."
+   },
+   "loi_mo": "Cậu truyền cho tui chai nước biển đi, hồi trước tui ho truyền một chai là khỏe liền. Tui ho mấy bữa nay, ăn không vô, mà tui chỉ khám sơ sơ thôi nghen, đừng bắt tui làm xét nghiệm gì nhiều, tốn lắm.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "138/80",
+    "nhiet": "37,6",
+    "nhip_tho": 22,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho 4 ngày, ban đầu ho khan rồi có đờm; ăn bỏ một phần ba bữa, nằm trưa 2 hôm nay. Ông muốn truyền một chai nước biển cho mau khỏe để thứ Bảy còn đi chợ. Mắt đỏ, cộm nhưng ông coi là 'chuyện khác'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và nhiễu đòi truyền dịch; mắt đỏ nhắc qua loa để dễ bị bỏ sót"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Thứ Bảy trời nắng nóng. Sáng thứ Hai (ngày 1) gió mùa tràn về, trời lạnh hẳn, ông đứng sạp từ 3 giờ 30 chỉ mặc áo sơ mi. Trưa hôm đó hắt hơi, sổ mũi trong, rát họng; thứ Ba (ngày 2) bắt đầu ho khan; thứ Tư (ngày 3) ho có đờm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: thay đổi thời tiết; viêm long đường hô hấp trên trước, ho sau"
+    },
+    {
+     "id": "ho_dam",
+     "noi_dung": "Ho từng tràng ngắn, nhiều về sáng sớm và đêm; đờm trắng đục, dính, ít (khoảng nửa muỗng cà phê mỗi lần), không vàng xanh, không lẫn máu. Rát sau xương ức khi ho. Không ho thành cơn dài, không rít khi hít vào, không nôn sau ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kiểu ho và đờm: ủng hộ viêm phế quản, loại ho gà; đờm không phải đờm mủ"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không rét run (chưa đo sốt ở nhà). Đi từ nhà ra xe 30 m không hụt hơi, nằm gối thường, không đau ngực khi hít sâu, không ho máu, không phù chân, không tức ngực. Không đổ mồ hôi đêm, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu viêm phổi, suy tim, thuyên tắc phổi, lao hay ung thư"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Chị Hạnh: ba vẫn tự tắm, tự cân tiền, nhận ra khách quen, không lú lẫn, không té ngã; chỉ ăn kém và nằm trưa 2 hôm nay, 'lờ đờ hơn thường ngày'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ở người rất cao tuổi, biểu hiện không rầm rộ: ăn kém, lờ đờ; cần kiểm tra tri giác, không tự suy ra đã bình thường"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không tăng huyết áp, không đái tháo đường, không suy tim, không bệnh phổi hay thận đã biết, không nhập viện trong 1 năm, không uống corticoid, không hút thuốc (bỏ thuốc lá 20 năm). Mỗi năm khoảng 2 lần ho vài ngày mỗi khi trở trời, tự khỏi. Chưa tiêm cúm hay phế cầu. Chỉ uống thuốc bổ vitamin khi nhớ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền: để áp tiêu chí kháng sinh (QĐ 708 mục 4.1a); tiền sử ho theo mùa dùng cho bài học phòng ngừa"
+    },
+    {
+     "id": "mat_do",
+     "noi_dung": "Mắt trái đỏ, cộm như có cát, chảy nước, sáng dậy dính mi từ chiều thứ Ba (ngày 2). Hôm qua mắt phải đỏ nhẹ theo. Không đau nhức sâu, không nhìn mờ hơn thường ngày, không sợ ánh sáng nhiều. Cháu ngoại 5 tuổi bị đỏ mắt tuần trước, đã hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dữ kiện KHÔNG được giải thích bởi viêm phế quản: viêm kết mạc cấp lây từ cháu; chẩn đoán thứ hai"
+    },
+    {
+     "id": "thuoc_nho_mat",
+     "noi_dung": "Khoảng 3 tháng nay mắt hay cộm, đỏ mỗi khi đứng sạp gió bụi. Ông mua ở quầy thuốc đầu chợ lọ thuốc nhỏ mắt có chữ 'dexa' (dexamethasone), nhỏ cả hai mắt 3–4 lần/ngày, hết lọ lại mua, chưa từng đi khám mắt hay đo nhãn áp. Từ khi đỏ mắt ông nhỏ dày lên, khoảng 6 lần/ngày, vì thấy 'nhỏ vô là đỡ cộm'. Khi bác sĩ hỏi thuốc đang dùng ông chỉ nói 'không uống thuốc gì'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng thuốc nhỏ, thuốc bôi, thuốc mua ở tiệm, hoặc khi thấy mắt đỏ rồi hỏi 'bác đã nhỏ gì vào mắt chưa?'. Hỏi chung 'có dùng thuốc nào khác không' thì ông chỉ nói không.",
+     "k": 1,
+     "y": "Thuốc đang dùng: corticoid nhỏ mắt kéo dài không giám sát, nay nhỏ dày trên mắt nhiễm virus"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Khách ở chợ nhiều người ho, sổ mũi. Không ai ho thành cơn kéo dài, không ai ho lao hay ho gà. Cháu ngoại đỏ mắt tuần trước, ông bế cháu hằng ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc virus hô hấp và adenovirus mắt; không tiếp xúc ho gà hay lao"
+    },
+    {
+     "id": "tai_chinh",
+     "noi_dung": "Sạp rau thu chừng hai trăm nghìn một ngày, nghỉ buổi nào mất buổi đó. Ông nói thẳng: 'Tui chỉ có tiền khám với mua thuốc, xét nghiệm để khi nào nặng tính'. Nghe nhắc đi bệnh viện huyện chụp phổi thì ông lắc đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Ràng buộc tài chính; chỉ nhận một xét nghiệm nếu nói rõ nó đổi được quyết định"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông chọn phòng khám này vì rẻ và không dám ra bệnh viện sợ bị 'cho giấy đi xét nghiệm hết cái này tới cái kia'. Ông đòi truyền dịch vì nghĩ truyền một chai là xong luôn, khỏi bị bắt đi làm xét nghiệm, khỏi phải tái khám nhiều lần. Tuần trước vừa đóng tiền học cho cháu nên trong túi chỉ còn ít tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi nhẹ nhàng, không phán xét, tốt nhất khi chị Hạnh ra ngoài: 'Bác lo nhất điều gì khi đến khám hôm nay?' hoặc 'Vì sao bác muốn truyền chai nước?'.",
+     "k": 1,
+     "y": "Lý do thật đến khám: khó khăn tài chính, ngại xét nghiệm; truyền dịch là cách 'một lần cho xong'"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, trả lời đúng ngày giờ, nói trọn câu. Da niêm hồng, niêm mạc miệng ẩm, tĩnh mạch cổ không xẹp, không phù. Nước tiểu sáng nay vàng nhạt. Cân nặng 58 kg, cao 162 cm. Hơi mệt mặt, ngồi hơi gù.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai trái 1 cái bằng hạt đậu, di động, hơi đau khi ấn; không hạch cổ, không hạch trên đòn. Tuyến giáp không to.",
+     "k": 1,
+     "hien": "Có một hạch nhỏ trước tai trái; không hạch cổ."
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau có nhầy trong; amidan không to, không mủ. Niêm mạc mũi phù nhẹ, dịch trong.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không co kéo cơ hô hấp phụ. Rung thanh hai bên đều, gõ trong. Nghe: vài ran ngáy rải rác hai bên, giảm sau khi ho; không ran ẩm, ran nổ, không tiếng thở phế quản, không cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p, không co kéo. Rung thanh hai bên đều, gõ hai phổi trong.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa lưng phải (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Vài ran ngáy thưa, giảm sau khi ho."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Nhịp đều, tần số khoảng 92 l/p, T1 T2 rõ, không âm thổi, không T3. Mạch quay đều, bắt rõ.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 92 l/p."
+    },
+    "chi_duoi": {
+     "a": "Không phù hai cẳng chân, không đau bắp chân, không giãn tĩnh mạch.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi 40 m trong hành lang: nhịp thở lên 24 l/p, SpO₂ 95% xuống 94%, không hụt hơi, hồi phục sau 1 phút nghỉ.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "Tỉnh táo, nói đúng tuổi, tháng, nơi đang ở; đếm ngược 12 tháng đúng; 4AT 0 điểm.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt cương tụ lan tỏa, mắt trái nhiều hơn mắt phải; tiết tố nước trong, ít; có nang nhỏ ở kết mạc mi dưới; mi hơi phù, không giả mạc. Đồng tử đều tròn, phản xạ ánh sáng tốt. Thị lực không kính khoảng 6/10 hai mắt, như thường ngày theo chị Hạnh.",
+     "k": 1,
+     "hien": "Hai mắt đỏ, mắt trái nhiều hơn, chảy nước trong; đồng tử đều, phản xạ tốt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu, không ổ loét, không hình cành cây.",
+     "k": 1
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng ngón tay: hai nhãn cầu mềm tương đương, không cứng. Không đo bằng nhãn áp kế chạm giác mạc vì đang viêm kết mạc cấp lây (AAO 2018); đo chính xác ở bác sĩ nhãn khoa sau khi hết viêm.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "crp": {
+     "v": "u",
+     "r": "CRP 12 mg/L (xét nghiệm nhanh tại phòng khám)",
+     "ab": 0,
+     "bang": {
+      "crp": 12
+     },
+     "n": "NICE NG237 2024 KC 1.3.4: khi sau khám vẫn chưa rõ có cần kháng sinh ở nhiễm khuẩn hô hấp dưới, cân nhắc CRP tại chỗ: < 20 mg/L không kê thường quy; 20–100 kê hẹn dùng; > 100 kê ngay. Ông 78 tuổi, ăn kém, lờ đờ nên 'chưa chắc'; CRP rẻ nhất (80.000 đ) và đổi được quyết định. CHEST 2020 KC1 không làm CRP thường quy (sổ mâu thuẫn mục CRP). NG237 nêu CRP có thể không điển hình ở người rất cao tuổi, nên không dùng đơn độc."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,4 G/L · Neutrophil 68% · Hb 134 g/L · TC 238 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 9.4,
+      "neu_pct": 68.0,
+      "neu": 6.39,
+      "lym_pct": 22.0,
+      "lym": 2.07,
+      "mono_pct": 8.0,
+      "mono": 0.75,
+      "eos_pct": 1.5,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.4,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 90.9,
+      "mch": 30.5,
+      "mchc": 335,
+      "rdw": 13.9,
+      "plt": 238
+     },
+     "n": "Bạch cầu không > 10 G/L (QĐ 2147/2026 mục 3.1.2). Không đổi quyết định hôm nay; CHEST 2020 KC1 không làm thường quy; ông chỉ có tiền cho một xét nghiệm nên CRP được ưu tiên."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "X-quang ngực thẳng (chỉ chụp được ở bệnh viện huyện): hai phổi sáng, rốn phổi đậm nhẹ, không đám mờ, không tràn dịch.",
+     "ab": 0,
+     "thay_the": "crp",
+     "n": "Cơ sở không có X-quang. QĐ 708/2015 mục 2: nên chụp khi > 75 tuổi; CHEST 2020 KC1–2: không chụp thường quy (mục HH-0671 số 1: ghi cả hai). Thay thế: khám phổi kỹ, sinh hiệu, CRP, hẹn 48–72 giờ, tiêu chí chuyển chụp rõ."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "r": "PCR hoặc cấy Bordetella pertussis (không làm được ở cơ sở).",
+     "ab": 0,
+     "n": "Ho 4 ngày, không cơn, không nôn sau ho, không tiếng rít hít vào: chưa đủ nghĩ tới ho gà (ACCP 2006 KC5)."
+    },
+    "ho_hap_ky": {
+     "v": "n",
+     "r": "Hô hấp ký (không làm được ở cơ sở).",
+     "ab": 0,
+     "n": "CHEST 2020 KC1: không đo hô hấp ký thường quy khi nghi viêm phế quản cấp."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp ngày 4, nhiều khả năng do virus, ở người 78 tuổi; chưa có dấu hiệu viêm phổi (CRB-65 = 1 điểm, chỉ do tuổi)",
+     "ok": 1,
+     "n": "Viêm đường hô hấp trên rồi ho, rát sau xương ức, đờm trắng đục, phổi chỉ có ran ngáy giảm sau ho (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1; QĐ 708/2015 mục 2); virus chiếm 50–90% (QĐ 4235 mục 2.3.1); thay đổi thời tiết là nguyên nhân thuận lợi (QĐ 708 mục 3). Mấu chốt là loại trừ viêm phổi (QĐ 2147/2026 mục 3.1.1)."
+    },
+    {
+     "t": "Viêm kết mạc cấp hai mắt, nhiều khả năng do adenovirus (lây từ cháu, cùng đợt viêm đường hô hấp trên); chưa có tổn thương giác mạc",
+     "ok": 1,
+     "n": "Cộm, đỏ, chảy nước, dính mi, nang kết mạc, hạch trước tai, mắt thứ hai bị sau, kèm viêm đường hô hấp trên và tiếp xúc người đỏ mắt (AAO 2018, Bảng 1 Adenoviral; QĐ 40/2015, Viêm kết mạc cấp, mục 3, thể virus). Fluorescein không bắt màu, không hình cành cây nên chưa có loét hay viêm giác mạc herpes."
+    },
+    {
+     "t": "Dùng corticoid nhỏ mắt (dexamethasone) tự mua, kéo dài khoảng 3 tháng, không giám sát; nay nhỏ dày trên mắt đang viêm kết mạc cấp: cần ngưng và hẹn khám nhãn áp, đục thể thủy tinh",
+     "ok": 1,
+     "n": "Corticoid có thể kéo dài nhiễm adenovirus, làm nặng HSV; thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp; dùng corticoid nhỏ mắt kéo dài phải đo nhãn áp và giãn đồng tử định kỳ tìm tăng nhãn áp, đục thể thủy tinh (AAO 2018, Treatment). QĐ 40/2015: Viêm kết mạc cấp mục 4b thận trọng corticoid; Viêm kết giác mạc mùa xuân mục 4 theo dõi nhãn áp. Ông không dùng thuốc nào khác nên không có tương tác thuốc cần xét; hấp thu toàn thân của corticoid nhỏ mắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Nhiệt 37,6 (< 37,8), mạch 92, thở 22 (< 24 và < 30), SpO₂ 95%, 4AT 0, phổi không ran ẩm, nổ khu trú (QĐ 4235 mục 2.2), CRP 12 < 20 (NICE NG237 1.3.4); CRB-65 = 1 chỉ do tuổi (QĐ 2147/2026 mục 3.2.1). Không có X-quang nên không loại trừ tuyệt đối: dựa lâm sàng, CRP và hẹn 48–72 giờ."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Ho 4 ngày, không cơn ho, không nôn sau ho, không tiếng rít hít vào; ACCP 2006 (khuyến cáo 5, tr. 141S–142S) chỉ nghĩ tới khi ho > 2 tuần kèm các dấu đó."
+    },
+    {
+     "t": "Loét giác mạc hay viêm giác mạc herpes (mắt đỏ ở người đang nhỏ corticoid)",
+     "n": "Fluorescein không bắt màu, không hình cành cây, không đau nhức sâu. AAO 2018: corticoid làm nặng HSV; QĐ 40/2015, Viêm loét giác mạc do vi khuẩn, mục 4: chống chỉ định tuyệt đối corticoid khi ổ loét tiến triển."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Quyết định kháng sinh rõ ràng: không kê kháng sinh hôm nay, giải thích vì sao, hẹn tái khám 48–72 giờ",
+     "v": "c",
+     "n": "CHEST 2020 KC3; QĐ 4235/2012, Viêm phế quản cấp, mục 3: chỉ dùng khi ho > 7 ngày, đờm mủ rõ hoặc bệnh mạn tính nặng (suy tim, ung thư), ông chưa có; QĐ 708/2015 mục 4.1a: ông không đờm vàng xanh, không bệnh tim phổi thận gan, không đái tháo đường, không suy tim, không uống corticoid (corticoid nhỏ mắt không phải corticoid uống); NICE NG120 1.1.9, 1.1.15 (trên 65 tuổi cần ≥ 2 tiêu chí, ông 0). Các nguồn cùng hướng ở ca này."
+    },
+    {
+     "t": "Đo đủ nhịp thở, SpO₂ (kể cả sau đi bộ), tri giác (4AT) và loại trừ viêm phổi bằng lâm sàng + CRP vì không có X-quang; tính CRB-65",
+     "v": "c",
+     "n": "QĐ 2147/2026 mục 3.1.1 (người cao tuổi biểu hiện không rầm rộ), mục 3.2.1 (CRB-65 1–2 điểm cân nhắc nhập viện; CURB-65 0–1 ngoại trú; quyết định linh hoạt); NICE NG237 1.3.2: ngưỡng chuyển thấp hơn ở người yếu. Thiếu nhịp thở và SpO₂ là khoảng mù, không phải âm tính."
+    },
+    {
+     "t": "Hỏi ra mắt đỏ và thuốc nhỏ mắt tự mua; ngưng corticoid nhỏ mắt, rửa mắt nước muối 0,9% và nước mắt nhân tạo; không phối hợp kháng sinh–corticoid",
+     "v": "c",
+     "n": "AAO 2018 (Treatment): tránh dùng bừa kháng sinh, corticoid nhỏ mắt; QĐ 40/2015, Viêm kết mạc cấp, mục 4b: rửa mắt NaCl 0,9%, thận trọng corticoid. Cách ngừng: ngưng hẳn khi đang viêm kết mạc cấp (AAO: corticoid có thể kéo dài nhiễm adenovirus) HOẶC giảm dần dưới bác sĩ nhãn khoa vì đã dùng kéo dài (AAO: giảm từ từ đến liều thấp nhất); cả hai đúng (HH-0685_mau_thuan.md). Tần số nước mắt nhân tạo: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh nhỏ mắt: không dùng (AAO 2018) HOẶC tobramycin/fluoroquinolon nhỏ mắt (QĐ 40/2015 mục 4b)",
+     "v": "c",
+     "n": "AAO 2018 (Treatment – Adenoviral): thể virus không đáp ứng kháng sinh, kháng sinh có thể gây độc; QĐ 40/2015, Viêm kết mạc cấp mục 4b: aminoglycosid, fluoroquinolon nhỏ nhiều lần (viết cho thể mủ). Mục sổ TM-0072: ghi cả hai, đều đúng. Liều cho thể virus: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn bác sĩ nhãn khoa đo nhãn áp và giãn đồng tử tìm tăng nhãn áp, đục thể thủy tinh do corticoid; hoãn đo bằng nhãn áp kế đến khi hết viêm kết mạc lây",
+     "v": "c",
+     "n": "AAO 2018: dùng corticoid nhỏ mắt kéo dài phải đo nhãn áp và giãn đồng tử định kỳ; cân nhắc hoãn đo nhãn áp ở viêm kết mạc cấp để tránh lây (Prevention). QĐ 40/2015, Viêm kết giác mạc mùa xuân mục 4. Mốc đo nhãn áp: không có trong tài liệu đã tải; ca hẹn ở lượt 2."
+    },
+    {
+     "t": "Giải thích không cần truyền dịch, nêu cái thay thế cụ thể: uống nước ấm, ăn đủ bữa, giữ ấm",
+     "v": "c",
+     "n": "Không tài liệu hô hấp đã tải nào chỉ định truyền dịch cho viêm phế quản cấp; QĐ 708/2015 mục 4.3: uống nhiều nước; QĐ 4235/2012 mục 3: đủ nước uống, dinh dưỡng; nguyên tắc bù đường uống trước, truyền khi nôn nhiều hoặc không uống được (QĐ 2760/2023 B2 mục 1.2, 1.4, viết cho sốt xuất huyết). Ông uống được, niêm mạc ẩm, nước tiểu vàng nhạt."
+    },
+    {
+     "t": "Chọn xét nghiệm theo ngân sách: CRP (đổi được quyết định); bỏ CTM, PCT, test cúm, PCR ho gà và nói rõ vì sao",
+     "v": "c",
+     "n": "NICE NG237 1.3.3, 1.3.4; CHEST 2020 KC1; giá theo danh mục của app. Nói rõ xét nghiệm nào đổi được quyết định thì ông mới chịu làm."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay, phòng lây mắt, hẹn tái khám 5 ngày (hoặc 48–72 giờ nếu ho nặng thêm), giao tờ dặn cho chị Hạnh",
+     "v": "c",
+     "n": "NICE NG120 1.1.5; NG237 1.1.2; QĐ 2147 mục 3.1.1. AAO 2018: tránh tiếp xúc người khác 10–14 ngày từ khi mắt sau cùng khởi phát, nhất là nghề tiếp xúc khách hàng."
+    },
+    {
+     "t": "Acetylcystein hoặc dextromethorphan khi ho nhiều, ngủ không được",
+     "v": "a",
+     "n": "QĐ 4235/2012 mục 3 nêu dextromethorphan, acetylcystein; QĐ 708 mục 4.3, NICE NG120 1.1.7, CHEST 2020 KC3 không khuyến khích. Mục sổ HH-0671 số 3: chấm a."
+    },
+    {
+     "t": "Truyền dịch (chai nước biển, vitamin) theo yêu cầu của ông",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch cho viêm phế quản cấp ở người uống được (mục sổ 'truyền dịch theo yêu cầu')."
+    },
+    {
+     "t": "Kê kháng sinh 'cho chắc' hoặc corticoid uống/tiêm khi chưa có chỉ định",
+     "v": "w",
+     "n": "CHEST 2020 KC3, NICE NG120 1.1.6, 1.1.9 không kê; an toàn corticoid toàn thân ở người rất cao tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê thuốc nhỏ mắt phối hợp kháng sinh–corticoid hoặc cho nhỏ tiếp lọ dexamethasone để 'đỡ đỏ mắt'",
+     "v": "h",
+     "n": "AAO 2018: thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp; corticoid có thể kéo dài adenovirus, làm nặng HSV."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp (nhiều khả năng do virus) ngày 4 ở người 78 tuổi; chưa có dấu hiệu viêm phổi (CRB-65 = 1 điểm do tuổi)",
+     "Viêm kết mạc cấp hai mắt, nhiều khả năng do adenovirus, chưa tổn thương giác mạc (chẩn đoán thứ hai, không được giải thích bởi viêm phế quản)",
+     "Dùng corticoid nhỏ mắt (dexamethasone) tự mua kéo dài khoảng 3 tháng không giám sát; cần ngưng và khám nhãn áp, thể thủy tinh",
+     "Viêm phổi cộng đồng và ho gà chưa có bằng chứng; hẹn tái khám có mốc",
+     "Hoàn cảnh: khó khăn tài chính, ngại xét nghiệm; cơ sở không có X-quang"
+    ],
+    "phan_tich_chan_doan": [
+     "1) HỎI VÀ KHÁM. Mở câu hỏi mở, dựng dòng thời gian từ đợt gió mùa thứ Hai: sổ mũi, rát họng, ho khan, ho có đờm (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1). Hỏi kiểu ho, cơn ho, nôn sau ho (loại ho gà); khó thở, đau ngực, ho máu, ăn uống, lú lẫn; bệnh nền để áp tiêu chí kháng sinh (QĐ 708/2015 mục 4.1a). Hỏi tiếp 'ngoài ho còn khó chịu chỗ nào', thuốc nhỏ, thuốc tiệm. Khám: nhịp thở, SpO₂ kể cả sau đi bộ, 4AT, họng, phổi, tim, phù chân, mắt (kết mạc, fluorescein, nhãn áp ước lượng), hạch trước tai.",
+     "2) VÌ SAO LÀ VIÊM PHẾ QUẢN CẤP. Ho sau viêm đường hô hấp trên, rát sau xương ức, đờm trắng đục, không sốt cao, phổi chỉ có ran ngáy giảm sau ho (QĐ 4235 mục 2.1.1; QĐ 708 mục 2); thay đổi thời tiết là nguyên nhân thuận lợi (QĐ 708 mục 3). Hầu hết hết trong khoảng 1 tuần, ho có thể đến 20 ngày (QĐ 708 mục 2), 3–4 tuần vẫn thường gặp (NICE NG120 1.1.1).",
+     "3) LOẠI TRỪ VIÊM PHỔI KHI KHÔNG CÓ X-QUANG. Ở người cao tuổi biểu hiện có thể không rầm rộ (QĐ 2147/2026 mục 3.1.1) nên không dựa vào sốt. Ông dưới mọi ngưỡng: mạch 92, thở 22, nhiệt 37,6, SpO₂ 95%, 4AT 0, phổi không ran ẩm hay nổ khu trú (QĐ 708 mục 2; CHEST 2020 phần định nghĩa; QĐ 4235 mục 2.2). CRB-65 = 1 chỉ do tuổi: QĐ 2147 mục 3.2.1 cho CURB-65 0–1 điều trị ngoại trú, CRB-65 1–2 cân nhắc nhập viện và nhấn mạnh phải đánh giá linh hoạt; ông chưa có chẩn đoán viêm phổi nên theo dõi sát có mốc. CRP 12 < 20 hỗ trợ không kháng sinh (NICE NG237 1.3.4) nhưng không dùng đơn độc ở người rất cao tuổi. X-quang: QĐ 708 mục 2 (nên chụp khi > 75 tuổi) hoặc CHEST 2020 khuyến cáo 1–2 (không thường quy); cơ sở không có, thay bằng lâm sàng, CRP, hẹn 48–72 giờ.",
+     "4) LOẠI TRỪ HO GÀ. ACCP 2006 khuyến cáo 5: nghĩ tới khi ho > 2 tuần kèm cơn ho, nôn sau ho hoặc tiếng rít hít vào; ông ho 4 ngày, không có dấu nào. Ở người cao tuổi ho gà có thể chỉ là ho kéo dài không đặc hiệu (ACCP 2006, tr. 142S), nên nếu ho vượt 2 tuần phải nghĩ lại. Hướng dẫn BYT riêng về ho gà: không có trong tài liệu đã tải.",
+     "5) CHẨN ĐOÁN THỨ HAI: DỮ KIỆN NÀO KHÔNG ĐƯỢC GIẢI THÍCH BỞI VIÊM PHẾ QUẢN. Mắt đỏ, cộm, hạch trước tai và lọ thuốc nhỏ mắt. Cùng một đợt virus nên dễ nghĩ chỉ có một bệnh; ông lại nhắc mắt rất nhẹ và giấu lọ thuốc. Viêm kết mạc virus tự khỏi 5–14 ngày (AAO 2018, Bảng 1; QĐ 40/2015 mục 5: 5–10 ngày), nhưng corticoid đã dùng 3 tháng có thể gây tăng nhãn áp, đục thể thủy tinh và nay làm nặng nhiễm virus (AAO 2018). Nhãn áp kế chạm giác mạc nên hoãn vì đang lây, dùng ước lượng bằng tay."
+    ],
+    "phan_tich_xu_tri": [
+     "1) KHÁNG SINH: không kê (CHEST 2020 KC3; QĐ 4235 mục 3; QĐ 708 mục 4.1a; NICE NG120 1.1.9, 1.1.15). Giải thích: kháng sinh chỉ rút ngắn ho trung bình nửa ngày và gây tiêu chảy, buồn nôn (NG120 1.1.10). Nặng thêm sau 48–72 giờ thì cân nhắc kháng sinh nếu nghi bội nhiễm (CHEST 2020 KC4) và chuyển chụp X-quang.",
+     "2) KHÔNG TRUYỀN DỊCH, CÓ LỜI THAY THẾ. 'Bác muốn mau khỏe để đi chợ; việc giúp được là uống nước ấm, ăn đủ bữa, giữ ấm cổ ngực. Truyền chai nước không làm hết ho nhanh hơn mà bác nằm cả buổi và tốn tiền.' Nguồn: QĐ 708/2015 mục 4.3, QĐ 4235/2012 mục 3; chỉ định truyền dịch cho viêm phế quản cấp: không có trong tài liệu đã tải.",
+     "3) MẮT: ngưng lọ corticoid; rửa mắt NaCl 0,9%, nước mắt nhân tạo, chườm lạnh; kháng sinh nhỏ mắt không dùng (AAO) hoặc theo QĐ 40; hẹn nhãn khoa sau khi hết lây; rửa tay, khăn riêng, hạn chế tiếp xúc 10–14 ngày (AAO 2018); mang lọ thuốc đi khám.",
+     "4) XÉT NGHIỆM TRONG NGÂN SÁCH. Hỏi lý do thật nhẹ nhàng, nói rõ CRP đổi được quyết định và bỏ các xét nghiệm khác; chuyển chụp X-quang khi đạt tiêu chí chuyển, không thường quy."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên mỗi lần khi sốt ≥ 38,5 °C hoặc đau họng, cách nhau ít nhất 6 giờ; tối đa 4 viên (2 g) mỗi 24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi cần",
+      "so_ngay": "Tối đa 3–5 ngày, ngưng khi hết triệu chứng",
+      "ghi_chu": "QĐ 361/2014 (Phụ lục NSAID mục 3.3): người cao tuổi dưới 3 g/ngày; AHA/ACC 2025 Bảng 11: dưới 4 g/ngày; toa này 2 g/ngày, thấp hơn cả hai. Liều riêng cho người ≥ 75 tuổi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa mắt kèm nước mắt nhân tạo không chất bảo quản",
+      "ham_luong": "Lọ nhỏ mắt/rửa mắt",
+      "lieu": "Rửa mắt nhiều lần trong ngày; nhỏ nước mắt nhân tạo khi cộm",
+      "duong": "Nhỏ/rửa mắt",
+      "thoi_diem": "Nhiều lần trong ngày",
+      "so_ngay": "Đến khi hết cộm, đỏ (khoảng 5–14 ngày)",
+      "ghi_chu": "QĐ 40/2015 mục 4b (rửa mắt NaCl 0,9%); AAO 2018 (nước mắt nhân tạo, chườm lạnh). Số lần/ngày và thể tích: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Dexamethasone nhỏ mắt (lọ đang tự dùng)",
+      "ham_luong": "Lọ đang có",
+      "lieu": "NGƯNG; không kê thêm, không phối hợp kháng sinh–corticoid",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Ngưng từ hôm nay",
+      "so_ngay": "Bác sĩ nhãn khoa quyết định nếu cần giảm dần",
+      "ghi_chu": "AAO 2018 (Treatment): tránh corticoid bừa bãi; đã dùng kéo dài thì đo nhãn áp, giãn đồng tử. Cách ngừng: xem HH-0685_mau_thuan.md."
+     },
+     {
+      "thuoc": "Kháng sinh toàn thân, thuốc ho, long đờm",
+      "ham_luong": "-",
+      "lieu": "Không kê",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "CHEST 2020 KC3; QĐ 708/2015 mục 4.1a, 4.3; NICE NG120 1.1.6–1.1.9."
+     }
+    ],
+    "dan_do": [
+     "Uống nước ấm đủ, ăn đủ bữa, giữ ấm cổ và ngực khi ra sạp sáng sớm (QĐ 708/2015 mục 4.3, 5; QĐ 4235/2012 mục 3, 4).",
+     "Ho thường hết sau khoảng 1 tuần, có thể đến 20 ngày (QĐ 708 mục 2), vẫn bình thường đến 3–4 tuần (NICE NG120 1.1.5). Không cần kháng sinh vì bệnh do virus.",
+     "Quay lại ngay khi: sốt cao, rét run, thở nhanh hoặc khó thở, đau ngực, ho ra máu, ngủ li bì hay lú lẫn, bỏ ăn hẳn (QĐ 2147/2026 mục 3.1.1); mắt đau nhức, nhìn mờ, sợ ánh sáng (AAO 2018).",
+     "Không nhỏ lại lọ dexamethasone; mang lọ theo khi đi khám mắt. Rửa tay trước và sau khi chạm mắt, khăn riêng, không dụi mắt, hạn chế tiếp xúc gần 10–14 ngày kể từ khi mắt sau cùng đỏ (AAO 2018).",
+     "Tái khám sau 5 ngày; sớm hơn sau 48–72 giờ nếu ho nặng thêm. Ho > 3–4 tuần cũng phải khám lại (NICE NG120 1.1.5; CHEST 2020 KC2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sáng thứ Hai tuần sau (ngày 8 của bệnh)",
+   "tiep_don": "Ông Bảy đến theo hẹn lúc 8 giờ sáng thứ Hai, ngày 8 của bệnh, 4 ngày sau lần khám trước; chị Hạnh chở ông. Ông đã ngưng lọ dexamethasone theo dặn, uống nước ấm, nghỉ chợ hai buổi. Ông nói ho đã hết từ chiều Chủ nhật, mắt hết đỏ. Sinh hiệu: nhiệt 36,8 °C, mạch 76 l/p, HA 136/80 mmHg, nhịp thở 16 l/p, SpO₂ 97% khí trời; cân nặng 58,2 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Bảy hết ho từ chiều Chủ nhật, nhiệt 36,8 °C, thở 16 l/p, SpO₂ 97%, phổi hết ran, ăn uống bình thường: không còn gì cần nằm viện (QĐ 708/2015 mục 2: hầu hết hết trong khoảng 1 tuần). Nhập viện 'bồi bổ' làm ông nghỉ thêm nhiều buổi chợ, tốn tiền, đẩy lùi việc khám mắt và củng cố niềm tin phải truyền dịch mới khỏe.",
+    "chuyen_tuyen": "Chuyển ông chụp X-quang kiểm tra và khám mắt ngay hôm nay là quá tay: CHEST 2020 khuyến cáo 1–2 không chụp thường quy, ATS/IDSA 2019 (viết cho viêm phổi) không chụp lại khi triệu chứng hết trong 5–7 ngày. Mắt đã hết đỏ, giác mạc không bắt màu nên đo nhãn áp, giãn đồng tử hẹn sau khi hết lây (AAO 2018), không khẩn. Chuyến đi 9 km tốn tiền, dễ khiến ông ngại hơn với lần khám mắt thật sự cần."
+   },
+   "loi_mo": "Cậu coi, tui hết ho hết đỏ mắt rồi nghen. Mà trong người còn mệt mệt, cậu bồi bổ cho tui chai nước biển với vitamin cho lại sức đi, rồi cho tui lọ thuốc nhỏ mắt như cũ cho đỡ cộm. Tui còn tiền lắm đâu mà đi bệnh viện nữa.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "136/80",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "Ông đến theo hẹn, nói đã hết ho, hết đỏ mắt, nhưng 'còn mệt mệt' nên xin truyền chai nước biển với vitamin cho lại sức, và xin lọ thuốc nhỏ mắt cũ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và nhiễu đòi truyền dịch lần hai"
+    },
+    {
+     "id": "tien_trien",
+     "noi_dung": "Ho giảm rõ từ ngày 5, chiều Chủ nhật (ngày 7) hết ho và hết đờm. Sốt không còn, ăn lại hết bát cháo, ngủ ngon, không khó thở, không đau ngực, không ho máu. Hôm nay không ho nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quỹ đạo đỡ hoàn toàn: dựa vào tiêu chí cụ thể để xác nhận khỏi"
+    },
+    {
+     "id": "mat2",
+     "noi_dung": "Mắt trái hết đỏ từ thứ Bảy, mắt phải hết từ Chủ nhật, hết dính mi, còn hơi cộm buổi chiều. Nhìn không mờ, không sợ ánh sáng, không đau nhức. Chị Hạnh: mắt trái chị hơi đỏ từ hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm kết mạc cấp đang lui; lây trong nhà"
+    },
+    {
+     "id": "thuoc_mat2",
+     "noi_dung": "Ông bỏ lọ dexamethasone được 3 ngày, thấy cộm nên tối qua lén nhỏ lại 2 lần, không nói với con gái; lọ còn trong túi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi nhẹ nhàng, không trách: 'Từ lần trước bác có nhỏ lại thuốc đó lần nào không? Cộm thì bác làm gì?', hoặc xin xem túi thuốc.",
+     "k": 1,
+     "y": "Hành vi dùng lại corticoid: nguy cơ nền chưa xử lý, nguồn gốc của tái phát"
+    },
+    {
+     "id": "di_cho",
+     "noi_dung": "Ông đã đứng sạp trở lại hai sáng (thứ Bảy, Chủ nhật), nhận tiền và đưa rau cho khách bằng tay; không đeo khẩu trang. Hôm nay ông lại phải đi cân rau ngay sau khi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phòng lây mắt trong nghề bán hàng"
+    },
+    {
+     "id": "ho_nen",
+     "noi_dung": "Không sụt cân, không ho máu, không đổ mồ hôi đêm, không ho kéo dài trước đây; mỗi năm ho 2 lần theo mùa, lần nào cũng 3–7 ngày. Chưa tiêm cúm hay phế cầu; ngày nào ông cũng đứng sạp từ 3 giờ 30 không mặc áo ấm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nền chưa xử lý: tiêm phòng, giữ ấm; ho theo mùa lặp lại"
+    },
+    {
+     "id": "tai_chinh2",
+     "noi_dung": "Ông nghỉ hai buổi chợ nên 'hụt' gần nửa triệu. Ông nói thật: 'Bác sĩ dặn đi khám mắt ở bệnh viện, tui sợ tốn quá, định bụng thôi, thấy hết đỏ là được'. Chị Hạnh không biết ba còn nhỏ thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi về kế hoạch khám mắt và nỗi lo chi phí, tốt nhất khi chị Hạnh ra ngoài.",
+     "k": 1,
+     "y": "Lý do thật (tài chính) quay lại ở lượt 2: nguy cơ bỏ khám mắt và dùng lại corticoid"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui hơn lần trước, đi vào phòng khám tự đi. Da niêm hồng, niêm mạc ẩm. Cân nặng 58,2 kg (lần trước 58,0 kg), không sụt cân. Không phù.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai trái không còn sờ thấy, không hạch cổ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng hồng, không dịch sau họng; mũi thông, niêm mạc hồng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p, êm. Rì rào phế nang đều hai bên, không ran ngáy, ran ẩm hay ran nổ, không rít, không cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 16 l/p, êm. Rung thanh đều, gõ trong.",
+     "media": [
+      {
+       "vi_tri": "Giữa lưng phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Đi 40 m trong hành lang: nhịp thở 18 l/p, SpO₂ 97% không đổi, không hụt hơi, hồi phục ngay.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt hồng nhạt, còn vài mạch máu giãn nhẹ ở mắt trái; hết tiết tố, hết nang rõ, mi không phù. Đồng tử đều, phản xạ tốt. Thị lực không kính khoảng 6/10 hai mắt, như trước.",
+     "k": 1,
+     "hien": "Hai mắt gần trắng, hết tiết tố; đồng tử đều, phản xạ tốt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein: giác mạc hai mắt trong, không bắt màu, không chấm viêm giác mạc.",
+     "k": 1
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng ngón tay: hai nhãn cầu mềm tương đương. Đo chính xác bằng nhãn áp kế nên hẹn bác sĩ nhãn khoa sau khi hết thời gian lây (10–14 ngày từ khi mắt sau cùng đỏ, AAO 2018), kèm giãn đồng tử soi thể thủy tinh.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "crp": {
+     "v": "n",
+     "r": "CRP 3 mg/L (xét nghiệm nhanh)",
+     "ab": 0,
+     "bang": {
+      "crp": 3
+     },
+     "n": "Đã khỏi lâm sàng, không còn quyết định nào cần CRP; CHEST 2020 khuyến cáo 1 không làm thường quy. Thêm tốn tiền cho người ngại xét nghiệm."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "X-quang ngực thẳng (chỉ chụp được ở bệnh viện huyện): không đám mờ.",
+     "ab": 0,
+     "n": "Triệu chứng hết trong 1 tuần, sinh hiệu và khám phổi bình thường: không chụp kiểm tra thường quy (CHEST 2020 khuyến cáo 1–2; ATS/IDSA 2019 khuyến cáo không chụp lại khi triệu chứng hết trong 5–7 ngày, viết cho viêm phổi cộng đồng). Chụp X-quang nếu ho quay lại và kéo dài, sụt cân, ho máu (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2: lao, ung thư phổi)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp đã khỏi hoàn toàn (ngày 8): hết ho, hết đờm, sinh hiệu bình thường, phổi sạch, SpO₂ không tụt khi đi bộ",
+     "ok": 1,
+     "n": "Khỏi theo quỹ đạo thường gặp: hầu hết hết sau khoảng 1 tuần (QĐ 708/2015 mục 2), bệnh khỏi hoàn toàn không để lại di chứng (QĐ 4235/2012, Viêm phế quản cấp, mục 1). Tiêu chí xác nhận khỏi do ca đặt từ các nguồn trên: hết triệu chứng, sinh hiệu và khám phổi bình thường."
+    },
+    {
+     "t": "Viêm kết mạc cấp do virus đang lui, giác mạc không tổn thương; còn trong thời gian lây",
+     "ok": 1,
+     "n": "Tự khỏi 5–14 ngày (AAO 2018, Bảng 1; QĐ 40/2015 mục 5: 5–10 ngày). Lây tới 10–14 ngày từ khi mắt sau cùng khởi phát (AAO 2018). Chị Hạnh đang đỏ mắt trái chứng tỏ lây trong nhà."
+    },
+    {
+     "t": "Dùng corticoid nhỏ mắt tự mua kéo dài, vừa nhỏ lại sau khi được dặn ngưng; chưa có nhãn áp, thể thủy tinh",
+     "ok": 1,
+     "n": "Vấn đề nền chưa xử lý: hành vi dùng lại do cộm mắt và ngại chi phí khám mắt. AAO 2018: dùng corticoid kéo dài phải đo nhãn áp và giãn đồng tử định kỳ; QĐ 40/2015 mục 4 (Viêm kết giác mạc mùa xuân): theo dõi nhãn áp định kỳ."
+    },
+    {
+     "t": "Viêm phổi cộng đồng, ho gà (không còn nghi ngờ)",
+     "n": "Triệu chứng hết trong 1 tuần, không sốt, SpO₂ 97%, phổi sạch: loại viêm phổi. Ho gà: không có cơn ho, ho đã hết trong chưa đầy 2 tuần (ACCP 2006 khuyến cáo 5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng tiêu chí cụ thể (hết ho và đờm, hết sốt, ăn uống bình thường, nhịp thở và SpO₂ bình thường kể cả sau đi bộ, phổi hết ran) rồi kết thúc điều trị, không xét nghiệm hay X-quang kiểm tra",
+     "v": "c",
+     "n": "CHEST 2020 KC1–2: không thường quy, chỉ khám lại và xét nghiệm đích nếu ho kéo dài hoặc nặng thêm; ATS/IDSA 2019 (follow-up chest imaging, viết cho viêm phổi): không chụp lại khi triệu chứng hết trong 5–7 ngày; QĐ 708/2015 mục 2. Chụp X-quang kiểm tra (người > 75 tuổi) chấm a."
+    },
+    {
+     "t": "Ngưng thuốc: paracetamol chỉ khi còn sốt hoặc đau; không cần kháng sinh, thuốc ho, vitamin; hết cộm mắt thì ngưng nước mắt nhân tạo",
+     "v": "c",
+     "n": "CHEST 2020 KC3; QĐ 708 mục 4.3; AAO 2018. Thời gian dùng nước mắt nhân tạo: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi ra việc nhỏ lại dexamethasone; không dùng lại corticoid nhỏ mắt; hỏi nỗi lo chi phí, giúp lập kế hoạch khám nhãn khoa một lần (đo nhãn áp, giãn đồng tử) sau khi hết lây, sớm hơn nếu đau mắt, nhìn mờ",
+     "v": "c",
+     "n": "AAO 2018: tránh corticoid bừa; dùng kéo dài phải đo nhãn áp, giãn đồng tử; quay lại nếu còn đỏ, đau, nhìn mờ sau 2–3 tuần. Thời điểm đo nhãn áp sau khi hết lây: không có trong tài liệu đã tải; ca hẹn khoảng ngày 15–21. Giảm dần hay ngưng hẳn: HH-0685_mau_thuan.md. Giá khám mắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phòng lây: rửa tay, khăn riêng, không dụi mắt, đeo khẩu trang khi giao hàng, hạn chế chạm vào mắt, tiền; chị Hạnh theo dõi mắt trái, quay lại khi đau hoặc mờ",
+     "v": "c",
+     "n": "AAO 2018 (Adenoviral; Prevention): virus sống nhiều tuần trên bề mặt, tránh tiếp xúc 10–14 ngày từ khi mắt sau cùng khởi phát, đặc biệt nghề tiếp xúc khách hàng."
+    },
+    {
+     "t": "Giải thích 'còn mệt' là bình thường sau ốm, không cần truyền dịch; khen việc ông đã ngưng thuốc và nói thật",
+     "v": "c",
+     "n": "QĐ 708/2015 mục 4.3; QĐ 4235 mục 3. Chỉ định truyền dịch cho người đã khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phòng tái phát: giữ ấm khi đứng sạp lúc sáng sớm, tiêm cúm và phế cầu, tránh khói bụi; dặn khi nào cần đánh giá lại (ho > 3–4 tuần, tái phát nhiều lần, sụt cân, ho máu)",
+     "v": "c",
+     "n": "QĐ 4235/2012, Viêm phế quản cấp, mục 4; QĐ 708 mục 5; NICE NG120 1.1.5; CHEST 2020 KC2. Loại vắc xin, lịch tiêm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho chụp X-quang ngực ở bệnh viện huyện để chắc phổi đã sạch",
+     "v": "a",
+     "n": "QĐ 708/2015 mục 2: nên chụp khi > 75 tuổi; CHEST 2020 KC1–2: không thường quy. Cả hai hợp lệ (mục HH-0671 số 1)."
+    },
+    {
+     "t": "Truyền dịch bồi bổ, vitamin theo yêu cầu",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch cho người đã khỏi."
+    },
+    {
+     "t": "Kê lại thuốc nhỏ mắt dexamethasone hoặc thuốc phối hợp kháng sinh–corticoid cho đỡ cộm",
+     "v": "w",
+     "n": "AAO 2018: tránh corticoid bừa, thuốc phối hợp chống chỉ định trong viêm kết mạc cấp; dùng kéo dài phải theo dõi nhãn áp."
+    },
+    {
+     "t": "Kê kháng sinh 'phòng ho tái phát'",
+     "v": "w",
+     "n": "QĐ 4235 mục 3; CHEST 2020 KC3; NICE NG120 1.1.8–1.1.9."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp ngày 8, đã khỏi hoàn toàn (đỡ hoàn toàn khi tái khám)",
+     "Viêm kết mạc cấp do virus đang lui, giác mạc không tổn thương; còn trong thời gian lây (chị Hạnh đang đỏ mắt trái)",
+     "Dùng lại corticoid nhỏ mắt tự mua sau khi được dặn ngưng; cần khám nhãn áp và thể thủy tinh",
+     "Viêm phổi cộng đồng, ho gà: không còn nghi ngờ",
+     "Yếu tố nền chưa xử lý: chưa tiêm cúm, phế cầu, đứng sạp lạnh sáng sớm; khó khăn tài chính, ngại khám tiếp"
+    ],
+    "phan_tich_chan_doan": [
+     "1) HỎI VÀ KHÁM. Hỏi tiến triển từng triệu chứng, ăn uống, giấc ngủ, các dấu hiệu nặng; hỏi riêng mắt, thuốc nhỏ mắt, người nhà đỏ mắt, hoàn cảnh đi chợ và chi phí. Khám sinh hiệu, cân, phổi, đi bộ SpO₂, mắt, fluorescein, nhãn áp ước lượng.",
+     "2) VÌ SAO ĐỠ HOÀN TOÀN VÀ XÁC NHẬN KHỎI BẰNG GÌ. Hết ho và đờm từ ngày 7, sinh hiệu bình thường, phổi hết ran, SpO₂ 97% không tụt khi đi bộ, ăn uống bình thường: khớp quỹ đạo của viêm phế quản cấp (hết trong khoảng 1 tuần, QĐ 708/2015 mục 2; khỏi hoàn toàn không di chứng, QĐ 4235/2012 mục 1). Không cần chụp hay xét nghiệm kiểm tra khi đã khỏi và không có dấu báo động (CHEST 2020 khuyến cáo 1–2).",
+     "3) KHI NÀO CẦN XÉT NGHIỆM DÙ ĐÃ KHỎI. Ho quay lại và kéo dài trên 3–4 tuần, tái phát nhiều lần, sụt cân, ho máu, đổ mồ hôi đêm thì khám lại và xét nghiệm đích (NICE NG120 1.1.5; CHEST 2020 khuyến cáo 2); chẩn đoán phân biệt gồm lao, ung thư phổi, hen, giãn phế quản, suy tim (QĐ 4235 mục 2.2). X-quang kiểm tra cho người đã khỏi chấm a vì QĐ 708 mục 2 nêu người > 75 tuổi.",
+     "4) MẮT VÀ NGUY CƠ TÁI PHÁT. Mắt lui đúng tự nhiên 5–14 ngày (AAO 2018, Bảng 1), nhưng ông lén nhỏ lại dexamethasone và chị Hạnh đang đỏ mắt trái: bệnh còn lây, ông bán hàng phải phòng lây 10–14 ngày (AAO 2018). Khỏi không có nghĩa nguyên nhân đã được xử lý: ông vẫn đứng sạp sáng sớm không mặc ấm, chưa tiêm cúm và phế cầu, ngại khám mắt vì tiền; thay đổi thời tiết là nguyên nhân thuận lợi (QĐ 708 mục 3)."
+    ],
+    "phan_tich_xu_tri": [
+     "1) KẾT THÚC ĐIỀU TRỊ HÔ HẤP: ngưng mọi thuốc, không kháng sinh, không thuốc bổ, không X-quang kiểm tra (nếu ông muốn chụp cho chắc thì hợp lệ theo QĐ 708 mục 2 nhưng không bắt buộc).",
+     "2) KHÔNG TRUYỀN DỊCH LẦN HAI. 'Bác còn mệt vì mới ốm dậy, ăn đủ bữa, ngủ đủ, vài hôm là lại sức; truyền chai nước lúc này không giúp thêm, chỉ mất tiền.' (QĐ 708 mục 4.3; QĐ 4235 mục 3.) Cân nặng 58,2 kg không sụt cho thấy ăn uống đã hồi phục.",
+     "3) MẮT: không kê lại corticoid; hẹn nhãn khoa đo nhãn áp, giãn đồng tử khoảng ngày 15–21 (sau khi hết lây); quay lại sớm nếu đau nhức, nhìn mờ (AAO 2018). Giúp ông lập kế hoạch một lần khám với giấy giới thiệu ghi rõ việc cần làm để đỡ tốn tiền.",
+     "4) PHÒNG LÂY VÀ PHÒNG TÁI PHÁT: rửa tay, khăn riêng, khẩu trang khi giao hàng 10–14 ngày; giữ ấm, tiêm cúm và phế cầu (QĐ 4235 mục 4; QĐ 708 mục 5); đánh giá lại khi ho > 3–4 tuần hay tái phát (NICE NG120 1.1.5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc mới",
+      "ham_luong": "-",
+      "lieu": "Khỏi viêm phế quản cấp: ngưng paracetamol (chỉ dùng khi còn sốt, đau), không kháng sinh, không thuốc ho, không vitamin",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "CHEST 2020 khuyến cáo 3; QĐ 708/2015 mục 4.3; NICE NG120 1.1.6–1.1.9."
+     },
+     {
+      "thuoc": "Nước mắt nhân tạo không chất bảo quản (đã có)",
+      "ham_luong": "Lọ nhỏ mắt",
+      "lieu": "Nhỏ khi cộm; ngưng khi hết cộm",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Khi cộm",
+      "so_ngay": "Đến khi hết cộm",
+      "ghi_chu": "AAO 2018 (điều trị triệu chứng). Số lần và thời gian tối đa: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Dexamethasone nhỏ mắt (lọ trong túi)",
+      "ham_luong": "Lọ đang có",
+      "lieu": "KHÔNG dùng lại; đưa lọ theo khi khám nhãn khoa",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "-",
+      "so_ngay": "Bác sĩ nhãn khoa quyết định",
+      "ghi_chu": "AAO 2018 (Treatment); QĐ 40/2015 mục 4b. Cách ngừng khi đã dùng kéo dài: xem _mau_thuan.md."
+     }
+    ],
+    "dan_do": [
+     "Ho đã hết: không cần thuốc ho. Còn mệt là bình thường sau ốm; ăn đủ bữa, ngủ đủ, uống nước ấm (QĐ 708/2015 mục 4.3).",
+     "Không nhỏ lại lọ dexamethasone; cộm thì dùng nước mắt nhân tạo, rửa nước muối. Đau nhức, nhìn mờ, sợ ánh sáng thì đến khám mắt ngay (AAO 2018). Hẹn bác sĩ nhãn khoa khoảng ngày 15–21, mang theo lọ thuốc.",
+     "Đeo khẩu trang, rửa tay khi giao hàng và nhận tiền 10–14 ngày kể từ khi mắt sau cùng đỏ; chị Hạnh theo dõi mắt trái, khăn riêng (AAO 2018).",
+     "Giữ ấm cổ ngực khi đứng sạp sáng sớm; nên tiêm vaccin cúm và phế cầu (QĐ 4235/2012 mục 4; QĐ 708/2015 mục 5).",
+     "Quay lại khi ho trở lại kéo dài > 3–4 tuần, sốt, thở nhanh, khó thở, đau ngực, ho ra máu, sụt cân, ăn kém (NICE NG120 1.1.5; CHEST 2020 KC2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: lượt 1 đo đủ nhịp thở, SpO₂, 4AT, hỏi ra mắt đỏ và lọ dexamethasone tự mua, ngưng corticoid nhỏ mắt, không kháng sinh, không truyền dịch, chọn một xét nghiệm (CRP), hẹn 5 ngày. Lượt 2 (ngày 8): khỏi hoàn toàn, không chụp kiểm tra, hẹn nhãn khoa. Khoảng 5 tuần sau, đợt gió mùa đầu mùa đông, ông Bảy ho lại (đờm trắng, không sốt) 4 ngày, chị Hạnh chở đến, lần thứ ba trong năm. Đây không phải cùng một nhiễm trùng tái phát mà là lần nhiễm virus mới, vì yếu tố nền chưa được xử lý: vẫn đứng sạp 3 giờ 30 không mặc ấm, chưa tiêm cúm và phế cầu, ông đã bỏ khám nhãn khoa vì ngại tiền và vẫn nhỏ thuốc mắt khi cộm. Nhờ tờ dặn ông quay lại sớm; sinh hiệu bình thường, được trấn an như lần trước và rà lại phòng ngừa: giữ ấm, tiêm vaccin (QĐ 4235/2012 mục 4; QĐ 708/2015 mục 5), khám mắt, đánh giá lại nếu ho quá 3–4 tuần hoặc tái phát tiếp (NICE NG120 1.1.5; CHEST 2020 khuyến cáo 2). (2) Xử trí sai: truyền dịch, kháng sinh và cho nhỏ tiếp dexamethasone ở lượt 1. Ông tin 'truyền là khỏi' và đòi lại mỗi lần ho; kháng sinh gây tiêu chảy, buồn nôn mà chỉ rút ngắn ho khoảng nửa ngày (NICE NG120 1.1.10); corticoid nhỏ kéo dài làm viêm kết mạc virus kéo dài, nguy cơ tăng nhãn áp, đục thể thủy tinh (AAO 2018). Tái phát ở ca này là bài học về nguyên nhân nền chưa xử lý và tuân thủ, không phải chẩn đoán sai từ đầu.",
+ "nhieu": [
+  "Đòi truyền dịch: câu đầu của ông ở lượt 1 và lại xin 'bồi bổ' ở lượt 2; cần lập luận lợi–hại cụ thể (uống được, không mất nước) và lời thay thế nói được với người bán rau.",
+  "Khó khăn tài chính, ngại xét nghiệm: 'tui chỉ có tiền khám và mua thuốc'; chỉ nhận một xét nghiệm nếu nói rõ nó đổi được quyết định; ngại cả khám mắt ở lượt 2.",
+  "Mắt đỏ bị coi là 'chuyện khác' và lọ dexamethasone bị giấu: chỉ lộ khi hỏi riêng thuốc nhỏ, thuốc tiệm hoặc khi thấy mắt đỏ rồi hỏi tiếp.",
+  "Biểu hiện không rầm rộ ở người 78 tuổi (ăn kém, lờ đờ, sốt nhẹ): dễ vừa bỏ sót viêm phổi vừa lo thái quá; phải đo nhịp thở, SpO₂, 4AT và đọc CRB-65 đúng."
+ ],
+ "bai_hoc_bien": [
+  "Hai chẩn đoán cùng lúc: viêm phế quản cấp và viêm kết mạc cấp virus. Dữ kiện không được giải thích bởi chẩn đoán 1 (mắt đỏ, hạch trước tai, lọ thuốc nhỏ mắt) chống đóng hồ sơ quá sớm; luôn hỏi 'ngoài ho còn khó chịu chỗ nào' và hỏi riêng thuốc nhỏ, thuốc tiệm.",
+  "Người ≥ 75 tuổi: loại viêm phổi không dựa vào sốt; đo nhịp thở, SpO₂, tri giác, tính CRB-65 (tuổi cho sẵn 1 điểm), hẹn tái khám có mốc, tiêu chí chuyển rõ khi không có X-quang. Nhóm này bị loại khỏi hầu hết thử nghiệm nên mọi ngưỡng cần áp dụng có phán đoán (NICE NG237 1.3.2).",
+  "Đòi truyền dịch: đáp bằng lý do cụ thể (ông uống được, không mất nước) cộng việc giúp ông mau đi chợ lại; tìm lý do thật (ngại xét nghiệm, ngại tốn tiền).",
+  "Đỡ hoàn toàn: xác nhận khỏi bằng tiêu chí (hết ho, sinh hiệu, phổi, SpO₂ khi đi bộ), ngưng hết thuốc, không xét nghiệm kiểm tra thường quy nhưng dặn khi nào đánh giá lại (ho > 3–4 tuần, tái phát nhiều lần, sụt cân, ho máu).",
+  "Tái phát: khỏi không có nghĩa nguyên nhân đã xử lý. Tìm yếu tố nền (giữ ấm, vắc xin, khám mắt, dùng lại corticoid) và nói trước rằng trở trời có thể ho lại; ho ≥ 3 lần mỗi năm cần nghĩ tới bệnh nền."
+ ],
+ "diem_nho": [
+  "Viêm phế quản cấp: không kháng sinh thường quy (CHEST 2020 KC3; NICE NG120 1.1.9); ho hết trong khoảng 1 tuần, có thể đến 20 ngày (QĐ 708/2015 mục 2) hoặc 3–4 tuần (NG120 1.1.1). Corticoid nhỏ mắt không phải 'corticoid uống' trong tiêu chí kháng sinh (QĐ 708 mục 4.1a).",
+  "Viêm kết mạc cấp virus: không dùng bừa kháng sinh hay corticoid nhỏ mắt; thuốc phối hợp kháng sinh–corticoid chống chỉ định; corticoid kéo dài cần đo nhãn áp, giãn đồng tử; lây tới 10–14 ngày từ khi mắt sau cùng khởi phát (AAO 2018)."
+ ],
+ "nguon": [
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – Viêm phế quản cấp ở người lớn, mục 1, 2, 3, 4.1a, 4.2, 4.3, 5 (tr. 77–80)",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – bài Viêm phế quản cấp mục 1, 2.1.1, 2.2, 2.3.1, 3, 4",
+  "TL-0151 · CHEST Expert Cough Panel 2020 – Acute Cough Due to Acute Bronchitis in Immunocompetent Adult Outpatients, Chest 2020;157(5):1256-1265 – định nghĩa, khuyến cáo 1–4",
+  "TL-0156 · ACP/CDC 2016 – Appropriate Antibiotic Use for Acute Respiratory Tract Infection in Adults, Ann Intern Med 2016;164:425-434 – Advice 1",
+  "TL-0146 · NICE NG237 2024 – Suspected acute respiratory infection in over 16s – 1.1.2, 1.3.1–1.3.4 và phần lý giải CRP ở người rất cao tuổi",
+  "NICE NG120 2019 (cập nhật 2025) – Cough (acute): antimicrobial prescribing (kho cũ tltk-10000-ca) – 1.1.1, 1.1.5–1.1.10, 1.1.15, 1.2.2",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 3.1.1, 3.1.2, 3.2.1 (CURB-65, CRB-65)",
+  "TL-0160 · ACCP 2006 – Postinfectious cough (Braman SS), Chest 2006 số phụ – phần Pertussis, khuyến cáo 5, 6a (tr. 141S–142S)",
+  "TL-0266 · AAO Conjunctivitis Preferred Practice Pattern 2018 – Bảng 1 (Adenoviral), Prevention and control of infection, Treatment (Adenoviral, tr. 47–48), Follow-up",
+  "TL-0242 · QĐ 40/QĐ-BYT 2015 – Bệnh về mắt – Viêm kết mạc cấp mục 3, 4b, 5; Viêm kết giác mạc mùa xuân mục 4; Viêm loét giác mạc do vi khuẩn mục 4",
+  "TL-0153 · ATS/IDSA 2019 – Diagnosis and Treatment of Adults with CAP, Am J Respir Crit Care Med 2019;200(7):e45-e67 – follow-up chest imaging",
+  "TL-0029 · QĐ 2760/QĐ-BYT 2023 – Sốt xuất huyết Dengue, mục B2 1.2, 1.4 (chỉ làm nguyên tắc chung bù dịch đường uống trước)",
+  "QĐ 361/QĐ-BYT 2014 (TL-0286) – Phụ lục NSAID mục 3.3; AHA/ACC 2025 (TL-0297) – Bảng 11 (liều tối đa acetaminophen)"
+ ],
+ "ghi_chu_bien_tap": [
+  "19/10/2026 – viết: Sonnet. Ca 2 lượt tại phòng khám Nội – đa khoa khu vực (không X-quang, không siêu âm); cấu trúc tham khảo HH-0692 nhưng bệnh cảnh khác. Chẩn đoán thứ hai (viêm kết mạc cấp do virus + corticoid nhỏ mắt kéo dài) do người biên soạn chọn để 'hai chẩn đoán cùng lúc' và 'thuốc nhỏ mắt corticoid' có chỗ đứng; không đổi chẩn đoán đích.",
+  "Tài liệu đã đọc: TL-0015 (Viêm phế quản cấp, tr. 77–80); TL-0131 (Viêm phế quản cấp); TL-0151 (KC1–4, định nghĩa); TL-0156 (Advice 1); TL-0146 (1.1.1, 1.1.2, 1.3.1–1.3.4); NICE NG120 (1.1.1–1.1.19, 1.2.2); TL-0121 (3.1.1, 3.1.2, 3.2.1); TL-0160 (Pertussis, KC5, 6a); TL-0266 (Bảng 1, Treatment, Adenoviral); TL-0242 (Viêm kết mạc cấp, loét giác mạc, kết giác mạc mùa xuân); TL-0153 (follow-up chest imaging); TL-0286 (phụ lục NSAID).",
+  "Chỗ thiếu tài liệu: hấp thu toàn thân và tương tác của corticoid nhỏ mắt; cách ngừng corticoid nhỏ mắt dùng kéo dài khi có viêm kết mạc virus; thời điểm đo nhãn áp sau khi hết lây; tần suất nước mắt nhân tạo; liều kháng sinh nhỏ mắt cho thể virus; liều paracetamol riêng cho người ≥ 75 tuổi; loại vắc xin và lịch tiêm; giá khám mắt; ngưỡng CRP riêng cho người rất cao tuổi; chỉ định truyền dịch cho viêm phế quản (không có).",
+  "Mâu thuẫn: dùng các mục sẵn có trong sổ (X-quang > 75 tuổi; CRP; thuốc triệu chứng; ngưỡng sinh hiệu; tiêu chí kháng sinh > 80 tuổi; kháng sinh nhỏ mắt viêm kết mạc virus TM-0072; truyền dịch theo yêu cầu). Một đề xuất MỚI (cách ngừng corticoid nhỏ mắt dùng kéo dài) ở HH-0685_mau_thuan.md.",
+  "Danh mục: không cần mục mới. Tim ghi bằng chữ (tệp tim bình thường ≈ 60 l/p không khớp mạch 92); phổi dùng AT-PHOI-RAN-NGAY-01 và AT-PHOI-BT-NL-01."
+ ]
+}

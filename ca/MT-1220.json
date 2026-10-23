@@ -1,0 +1,511 @@
+{
+ "ma_ca": "MT-1220",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_bdmcd_man",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Bệnh động mạch chi dưới mạn",
+  "chan_doan_phai_loai_tru": [
+   "Hẹp ống sống",
+   "Huyết khối TM sâu"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Bảo vệ (ca đêm tại kho hóa chất công nghiệp: đứng gác cổng và đi tuần quanh dãy kho)",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất (ba tháng nay kho nhận thêm dung môi, ông đi tuần quanh dãy kho mới)",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng (vitamin B tổng hợp, viên chiết xuất ginkgo do con trai mua)",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc (sợ vitamin, thực phẩm chức năng hoặc hơi hóa chất làm tê yếu chân)"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Văn Tư",
+  "tuoi": 78,
+  "gioi": "Nam",
+  "nghe": "Bảo vệ ca đêm tại kho hóa chất khu công nghiệp, đứng gác cổng và đi tuần",
+  "can_nang": 58,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'ông'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'; gọi con trai là 'thằng Tín'.",
+  "tinh_cach": "Cựu quân nhân, nói ngắn, tự trọng, không thích bị coi là già yếu. Tự tra thuốc trên mạng rồi tự kết luận. Tin 'thuốc tây phản ứng' hơn là bệnh của mình. Làm việc đến nay vì lương hưu thấp, ngại nghỉ ca.",
+  "kieu_nhieu": "Tự uống thuốc 5 ngày trước khi đến: hỏi chung 'đang uống thuốc gì' thì chỉ kể vitamin và viên bổ con trai mua. Chỉ nói đã tự mua thuốc giảm đau-kháng viêm ở tiệm khi bác sĩ hỏi cụ thể thuốc tự mua, thuốc giảm đau, hoặc đã uống gì cho cái chân. Hỏi cảm giác 'đau không' thì đáp 'không đau, chỉ yếu và tê'. Kể tên thuốc theo hình dáng vỉ ('vỉ bạc, viên tròn vàng').",
+  "nguoi_nha": "con trai",
+  "ten_nguoi_nha": "Tín",
+  "ngoai_hinh": {
+   "da": "#b98a66",
+   "toc": "#d9d9d9",
+   "kieuToc": "ngan",
+   "ao": "#4a5a4f",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nghi ngờ tác dụng phụ của thuốc",
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 78 tuổi, bảo vệ ca đêm tại kho hóa chất, con trai Tín đưa đi khám. Ông nói gần đây hai chân tê yếu, nghi do viên vitamin và thực phẩm chức năng uống mấy tháng nay hoặc do hơi hóa chất ở chỗ làm. Huyết áp 128/72 mmHg, mạch 74 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Tư bị giữ lại nhập viện để chụp mạch và làm cho đủ xét nghiệm. Ông không đau khi nghỉ, không có vết loét hay hoại tử nên chưa phải thiếu máu chi đe dọa; phần điều trị nền (bỏ thuốc, statin, thuốc chống kết tập tiểu cầu, tập đi bộ) làm được ở ngoại trú (QĐ 2475/2022 mục 3.2–3.4; ACC/AHA 2024 mục 5.1–5.4, mục 6). Ông tốn viện phí, mất mấy ca trực, ngại trở lại và vẫn chưa uống viên thuốc nền nào.",
+    "chuyen_tuyen": "Ông Tư được gửi lên tuyến trên để chụp mạch và bàn chuyện tái thông. Tái thông chỉ là lựa chọn hợp lý khi đau cách hồi hạn chế sinh hoạt mà điều trị nội khoa tối ưu gồm tập vận động chưa đủ (ACC/AHA 2024 mục 9.1 KC2); ông chưa uống thuốc nền và chưa tập. Người ≥75 tuổi có suy yếu, giảm cơ, suy dinh dưỡng có kết cục tồi hơn sau tái thông (ACC/AHA 2024 mục 4.3, Bảng 10). Ông ngại đi xa nên có thể bỏ dở, về nhà vẫn hút thuốc và không uống thuốc."
+   },
+   "loi_mo": "Chào bác sĩ. Thằng Tín bắt tôi đi khám. Mấy tháng nay chân tôi cứ tê tê, yếu yếu, tôi nghi mấy viên vitamin với viên bổ nó mua cho tôi uống. Hay là hơi hóa chất ở kho. Bác sĩ xem giúp tôi, đừng nói tôi già.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "128/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 3 tháng nay công ty nhận thêm kho dung môi, ông đi tuần quanh dãy kho mới thì thấy hai chân tê yếu. Cũng khoảng đó con trai mua cho ông viên vitamin B tổng hợp và viên 'tuần hoàn não'. Ông nghi hai thứ đó hoặc hơi hóa chất làm tê chân, muốn biết có phải tác dụng phụ không. Không muốn bị bảo là già.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do thật: nghi tác dụng phụ của thuốc và hóa chất"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Mỏi nặng hai đùi mỗi lần đi tuần đã có từ khoảng 6 tháng nay, nhẹ lúc đầu, ông tưởng 'già nên yếu'. Tê và lạnh bàn chân mới rõ ra trong 3 tháng gần đây, đúng lúc đi tuần dãy kho mới (xa hơn) và bắt đầu uống viên con trai mua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng có trước viên vitamin; hỏi mốc thời gian"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Đi tuần từ cổng đến cuối dãy kho (khoảng 150–200 m) thì hai đùi và hai mông (bên phải nặng hơn) mỏi, nặng, chân yếu như muốn khuỵu, có lúc tê bàn chân. Phải dừng, đứng dựa tường 10–15 phút mới đi tiếp, rồi đi lại thì cơn lại đến sau chừng đó. Bắp chân không đau.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có đau chân không' thì đáp 'không đau, chỉ yếu và tê'. Chỉ kể khi bác sĩ hỏi theo chức năng: đi được bao xa, có phải dừng giữa đường không, dừng bao lâu mới đi tiếp, vùng nào mỏi (đùi, mông, bắp chân).",
+     "k": 1,
+     "y": "Mỏi yếu đùi-mông gắng sức, phải nghỉ trên 10 phút, không đau bắp chân"
+    },
+    {
+     "id": "tu_the",
+     "noi_dung": "Đứng gác cổng 4–5 giờ liền không sao. Ngồi hay cúi người không làm hết nhanh hơn đứng nghỉ thẳng. Không đau lưng, không tê từ lưng lan xuống chân, ưỡn lưng không nặng thêm. Ngồi xe máy hay xe đạp cả buổi cũng không mỏi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng không theo tư thế lưng, chỉ theo gắng sức đi bộ"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "5 ngày nay ông tự mua vỉ thuốc 'diclofenac 50 mg' ở tiệm đầu ngõ, uống 1 viên × 2 lần/ngày sau ăn (hết 10 viên), vì tưởng thấp khớp. Uống xong đi tuần vẫn mỏi yếu như cũ, không đỡ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể vitamin và viên bổ. Chỉ nói về vỉ thuốc giảm đau khi bác sĩ hỏi thuốc tự mua, thuốc giảm đau-kháng viêm, hoặc đã uống gì cho cái chân. Tên thuốc kể là 'vỉ bạc, viên tròn vàng', phải đưa vỉ rỗng mới đọc được tên.",
+     "k": 1,
+     "y": "Tự uống diclofenac 5 ngày, không hiệu quả"
+    },
+    {
+     "id": "vitamin",
+     "noi_dung": "Viên vitamin B tổng hợp 1 viên mỗi sáng và viên chiết xuất ginkgo 'tuần hoàn não' 1 viên × 2 lần/ngày, con trai mua online khoảng 3 tháng nay. Ông không uống thuốc nào khác, không có thuốc huyết áp, tiểu đường hay mỡ máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: vitamin, thực phẩm chức năng"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Kho chứa dung môi và phân bón. Ông ngồi chốt cổng và đi tuần bên ngoài, không vào khu pha chế, có khẩu trang. Không cay mắt, không chóng mặt, không buồn nôn. Ba đồng nghiệp cùng ca (trẻ hơn) không ai bị tê chân.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiếp xúc hóa chất gián tiếp, không triệu chứng nhiễm độc, đồng nghiệp không bị"
+    },
+    {
+     "id": "hut_thuoc",
+     "noi_dung": "Hút thuốc lá từ 18 tuổi, hiện khoảng 8–10 điếu/ngày, hút lén ở chòi gác. Ông đã tự giảm từ nửa bao.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có hút thuốc không' thì đáp 'bớt rồi, thỉnh thoảng thôi'. Chỉ nói số điếu thật khi bác sĩ hỏi hôm qua hút mấy điếu, hút từ năm nào.",
+     "k": 1,
+     "y": "Hút thuốc lá khoảng 60 năm, 8–10 điếu/ngày"
+    },
+    {
+     "id": "cuong",
+     "noi_dung": "Khoảng 2–3 năm nay ông khó cương, ngại nói với con trai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng một mình, hỏi tế nhị về chức năng sinh hoạt vợ chồng hoặc 'chuyện nam giới'. Hỏi lúc con trai có mặt thì ông gạt đi.",
+     "k": 1,
+     "y": "Rối loạn cương (gợi ý bệnh mạch tầng chủ-chậu)"
+    },
+    {
+     "id": "lanh",
+     "noi_dung": "Bàn chân hay lạnh, nhất là ban đêm nên ông đi tất. Không đau khi nằm nghỉ, không phải thõng chân khỏi giường, không vết thương hay chỗ nào đổi màu đen, vết xước ở chân vẫn lành bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chân lạnh, chưa đau khi nghỉ, chưa có vết thương"
+    },
+    {
+     "id": "khong_phu",
+     "noi_dung": "Không sưng chân, không đau dọc bắp chân, không nằm bất động, không mổ, không đi xe đường dài gần đây, chưa từng bị huyết khối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không gợi ý huyết khối tĩnh mạch sâu"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Uống diclofenac xong không đau thượng vị, không nôn, phân vàng, không đen. Không tiền sử loét dạ dày, chưa từng chảy máu tiêu hóa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không biến chứng tiêu hóa sau NSAID; an toàn dùng thuốc chống kết tập tiểu cầu"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng đo mỡ máu hay đường huyết. Không biết cao huyết áp. Không đau ngực, chưa đột quỵ. Cha mất vì tai biến lúc 72 tuổi. Không té ngã, nhưng 'hay vấp mũi giày' từ ít lâu nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử và yếu tố nguy cơ chưa được tầm soát"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Sống với con trai, tự đi lại, tự ăn mặc, ăn ngon, không sụt cân, trí nhớ ổn. Còn đi làm vì lương hưu thấp. Hai tháng nay đi tuần chậm hơn đồng nghiệp, ông sợ bị cho nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chức năng và suy yếu: còn tự lập, sợ mất việc"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 130/72, tay trái 128/70 mmHg. Hai tay chênh dưới 15 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Gầy, 58 kg, BMI 21,3. Tỉnh, nói rõ, khó chịu khi bị hỏi nhiều về tuổi. Da bàn chân khô, lông thưa.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p. T1, T2 rõ, không âm thổi, không T3/T4.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3/T4."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, không khối đập, không âm thổi dọc đường đi động mạch chủ bụng.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch cảnh bắt rõ hai bên, không âm thổi. Mạch bẹn hai bên yếu (phải yếu hơn trái), có âm thổi tâm thu nhẹ ở bẹn phải. Mạch khoeo phải không bắt được, trái yếu. Mạch mu chân và chày sau phải không bắt được; trái yếu.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bàn chân lạnh, phải lạnh hơn trái. Chân phải nhợt khi nâng 45° một phút, đỏ tím khi thõng xuống; lông thưa, móng dày, cơ mông và đùi teo nhẹ; thời gian đổ đầy mao mạch ngón chân phải 3 giây. Không phù, không giãn tĩnh mạch, bóp bắp chân không đau. Không loét, không hoại tử, kẽ ngón khô.",
+     "k": 1,
+     "hien": "Không phù hai chân. Không vết thương hở ở bàn chân, kẽ ngón khô."
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng không đau khi ấn gõ. Ưỡn lưng và cúi không gây tê hay mỏi chân. Lasègue âm tính hai bên. Khớp háng xoay trong và ngoài không đau. Gối lạo xạo nhẹ, không sưng.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Sức cơ 5/5 khi nghỉ, phản xạ gân gối và gót đều hai bên, cảm giác sợi monofilament còn đủ hai bàn chân.",
+     "k": 1
+    },
+    "dang_di_thang_bang": {
+     "a": "Tự đi, bước hơi chậm và ngắn, không cần gậy, quay người vững. Sau khi đi quanh phòng khoảng 150 m ông dừng lại, đứng thẳng dựa vào tường, nói hai đùi 'nặng như đeo chì'.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "abi": {
+     "v": "e",
+     "r": "ABI phải 0,58 (huyết áp tâm thu cổ chân cao nhất 75 mmHg; cánh tay cao hơn 130 mmHg). ABI trái 0,68 (88/130).",
+     "ab": 1,
+     "n": "ABI ≤ 0,90 là bất thường; xét nghiệm đầu tay khi có triệu chứng nghi BĐMCD (ACC/AHA 2024 mục 3.1 KC1, KC2; QĐ 2475/2022 mục 2.2.1: < 0,9, độ nhạy 79%, đặc hiệu 96%). Cần đo từng chân riêng; lấy chân thấp hơn để phân tầng nguy cơ (QĐ 2475/2022 mục 2.2.1). ABI hai bên cùng thấp phù hợp mạch mất ở bẹn."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol toàn phần 5,4; LDL-C 3,4; HDL-C 1,1; triglycerid 1,8 mmol/L (lấy máu lúc đói).",
+     "ab": 1,
+     "n": "LDL-C 3,4 mmol/L, xa đích < 1,4 mmol/L và giảm ≥ 50% (QĐ 2475/2022 mục 3.2.2; ESC 2024 Bảng khuyến cáo 9; ACC/AHA 2026 mục 4.2.6 KC4). Xét nghiệm mỡ máu nằm trong bộ xét nghiệm nền của người bệnh động mạch ngoại biên (ESC 2024 mục 5.1)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "Glucose máu đói 5,4 mmol/L.",
+     "n": "Mọi người bệnh BĐMCD nên được sàng lọc đái tháo đường, tiền đái tháo đường (QĐ 2475/2022 mục 3.2.3; ESC 2024 mục 5.1: đường huyết đói, HbA1c)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 92 µmol/L; ure 6,2 mmol/L; eGFR 73 mL/ph/1,73m².",
+     "bang": {
+      "ure": 6.2,
+      "creat": 92,
+      "egfr": 73
+     },
+     "ab": 0,
+     "n": "Cần eGFR và albumin niệu cho người bệnh tim mạch (ESC 2026 CVD–CKD, mục 3.3, Bảng khuyến cáo 3, I C) và để đánh giá nguy cơ chảy máu khi dùng thuốc kháng tiểu cầu. NSAID cần tránh nếu eGFR giảm (AGS Beers 2023, Bảng 6: tránh khi CrCl < 30)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hồng cầu 4,5 T/L; Hb 135 g/L; tiểu cầu 230 G/L; bạch cầu 6,8 G/L.",
+     "bang": {
+      "wbc": 6.8,
+      "rbc": 4.5,
+      "hgb": 135,
+      "hct": 0.41,
+      "mcv": 91,
+      "plt": 230
+     },
+     "ab": 0,
+     "n": "Công thức máu nằm trong bộ xét nghiệm nền (ESC 2024 mục 5.1) và cho biết nền Hb, tiểu cầu trước khi dùng thuốc kháng tiểu cầu, sau 5 ngày NSAID. Bình thường."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "HbA1c 5,6%.",
+     "n": "Có thể làm cùng đường huyết đói (ESC 2024 mục 5.1); không bắt buộc khi đường huyết đói đã bình thường."
+    },
+    "lpa": {
+     "v": "a",
+     "r": "Lp(a) 12 mg/dL.",
+     "n": "Đo Lp(a) ít nhất một lần trong đời (ESC 2024 mục 5.1). Không thay đổi xử trí hôm nay."
+    },
+    "uacr": {
+     "v": "a",
+     "r": "UACR 1,2 mg/mmol (bình thường < 3).",
+     "n": "Tầm soát bệnh thận bằng eGFR kèm albumin niệu ở người bệnh tim mạch (ESC 2026 CVD–CKD, mục 3.3, Bảng khuyến cáo 3, I C)."
+    },
+    "ddimer": {
+     "n": "Không có chỉ định: không phù một chân, không đau dọc tĩnh mạch sâu, không yếu tố nguy cơ huyết khối; điểm Wells thấp và chẩn đoán khác (động mạch) ít nhất cũng khả dĩ như HKTM sâu (Wells 2003 Bảng 1: chẩn đoán khác ít nhất khả dĩ bằng HKTM sâu: −2)."
+    },
+    "mri_cot_song": {
+     "n": "Không cần: đau không theo tư thế lưng, khám cột sống và thần kinh bình thường, mạch bẹn yếu và ABI hai bên thấp đã giải thích triệu chứng (ACC/AHA 2024 Bảng 7: hẹp ống sống đau mông, mặt sau chân, đỡ khi gập cột sống, nặng khi đứng và ưỡn). Làm MRI sẽ chỉ đưa thêm tổn thương thoái hóa tuổi già không liên quan."
+    },
+    "xq_cot_song": {
+     "n": "Không cần: cùng lý do với MRI cột sống. Thoái hóa cột sống phổ biến ở tuổi này nhưng không loại trừ BĐMCD, ABI đã loại."
+    },
+    "chi_mau": {
+     "n": "Không có chỉ định: ông không vào khu pha chế, không triệu chứng nhiễm độc, đồng nghiệp không bị, khám thần kinh bình thường. Chì hay hóa chất nghề nghiệp là nguyên nhân BĐMCD: không có trong tài liệu đã tải."
+    },
+    "b12": {
+     "n": "Không cần hôm nay: tê chỉ xuất hiện khi đi bộ, không tê khi nghỉ, monofilament còn đủ, phản xạ gân bình thường, không có triệu chứng thần kinh ngoại biên khi nghỉ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh động mạch chi dưới mạn tính, đau cách hồi không điển hình tầng chủ-chậu và đùi (mỏi yếu đùi-mông hai bên), ABI phải 0,58, trái 0,68, chưa thiếu máu chi đe dọa; kèm hút thuốc lá và LDL-C 3,4 mmol/L",
+     "ok": 1,
+     "n": "Mỏi yếu đùi, mông khi đi, phải nghỉ trên 10 phút (triệu chứng không điển hình, ACC/AHA 2024 Bảng 6; chỉ khoảng 1/3 người bệnh có đau cách hồi điển hình, mục 2.2), mạch bẹn yếu, mạch khoeo-mu chân-chày sau mất, rối loạn cương, ABI ≤ 0,90 (QĐ 2475/2022 mục 2.1.2, 2.2.1; ACC/AHA 2024 mục 3.1 KC2). Đau hông-mông gợi tổn thương tầng chủ-chậu (QĐ 2475/2022 mục 2.1.2)."
+    },
+    {
+     "t": "Hẹp ống sống thắt lưng (đau cách hồi thần kinh)",
+     "n": "Hẹp ống sống đau mông, mặt sau chân, đỡ khi gập cột sống, nặng khi đứng và ưỡn (ACC/AHA 2024 Bảng 7). Ở ông: đứng gác 4–5 giờ không đau, ưỡn lưng không nặng, không phải cúi hay ngồi mới đỡ, Lasègue âm tính, và mạch bẹn yếu cùng ABI thấp. Hai bệnh có thể cùng có ở tuổi này; ở đây mạch học đã giải thích đủ."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu / đau cách hồi tĩnh mạch",
+     "n": "Đau cách hồi tĩnh mạch căng như muốn nổ, đỡ khi gác chân, có tiền sử huyết khối tĩnh mạch chậu đùi và phù (ACC/AHA 2024 Bảng 7). Ông không sưng chân, không đau dọc tĩnh mạch sâu, không yếu tố nguy cơ (Wells 2003 Bảng 1), mạch mất."
+    },
+    {
+     "t": "Bệnh thần kinh ngoại biên do thuốc, vitamin hoặc hóa chất",
+     "n": "Tê chỉ khi đi bộ và hết khi nghỉ, monofilament và phản xạ bình thường; mỏi đùi có trước viên vitamin khoảng 3 tháng; đồng nghiệp cùng chỗ không bị. Hóa chất nghề nghiệp là nguyên nhân BĐMCD: không có trong tài liệu đã tải. B-complex không có lợi ích giảm MACE (ACC/AHA 2024 mục 5.6 KC4), nhưng đây không phải nguyên nhân bệnh."
+    },
+    {
+     "t": "Thoái hóa khớp háng, gối",
+     "n": "Hip arthritis đau bên hông-đùi, không đỡ nhanh khi nghỉ, đỡ khi không chịu sức nặng (ACC/AHA 2024 Bảng 7). Ông xoay háng không đau, gối chỉ lạo xạo nhẹ, triệu chứng hết nhanh khi dừng đi."
+    },
+    {
+     "t": "Thiếu máu chi đe dọa (CLTI)",
+     "n": "Không đau khi nghỉ, không vết thương, không hoại tử; CLTI là đau khi nghỉ, vết loét hoặc hoại tử kéo dài trên 2 tuần (ACC/AHA 2024 mục 2.1, Bảng 4). Cần dặn dấu hiệu báo ngay."
+    },
+    {
+     "t": "Thiếu máu chi cấp",
+     "n": "Khởi phát từ từ nhiều tháng, không đau liên tục, không tái nhợt đột ngột, không liệt, không mất cảm giác (ACC/AHA 2024 mục 2.1, Bảng 4; QĐ 2475/2022 Tắc động mạch chi dưới cấp mục 3.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đây là hẹp tắc động mạch chân do xơ vữa (hút thuốc, tuổi, mỡ máu), không phải do vitamin hay hơi hóa chất; mỏi đùi có trước vitamin",
+     "v": "c",
+     "n": "Nguyên nhân chủ yếu của BĐMCD là xơ vữa; yếu tố nguy cơ chính gồm hút thuốc, rối loạn lipid máu (QĐ 2475/2022 mục 1). Hóa chất nghề nghiệp gây BĐMCD: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng ngay diclofenac tự mua; không dùng thuốc kháng viêm không steroid để chữa triệu chứng chân",
+     "v": "c",
+     "n": "NSAID không chọn lọc COX-2 (gồm diclofenac): tránh dùng thường xuyên, nguy cơ chảy máu tiêu hóa, tăng huyết áp, tổn thương thận, nhất là ở người > 75 tuổi và người dùng thuốc chống kết tập tiểu cầu (AGS Beers 2023, Bảng 2, nhóm thuốc giảm đau). Triệu chứng chân do thiếu máu, không phải do viêm. Thuốc không giúp cải thiện nên cũng không có lý do tiếp tục."
+    },
+    {
+     "t": "Statin cường độ cao ngay: atorvastatin 40 mg tối (hoặc rosuvastatin 20 mg), nhắm LDL-C < 1,4 mmol/L và giảm ≥ 50%",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.2.2; ACC/AHA 2024 mục 5.2 KC1 (COR 1, A); ESC 2024 Bảng khuyến cáo 9; ACC/AHA 2026 mục 4.2.6 KC4 (nguy cơ rất cao: PAD có triệu chứng, tuổi > 65, đang hút thuốc, đích LDL-C < 55 mg/dL). Lợi ích của statin ở người > 75 tuổi đã có bệnh mạch tắc nghẽn tương tự người trẻ hơn (ESC/EAS 2019 mục 9.3.1); khởi liều thấp khi suy thận nặng hoặc dễ tương tác (mục 9.3.2) – ông eGFR 73, không dùng thuốc khác."
+    },
+    {
+     "t": "Thuốc chống kết tập tiểu cầu đơn: clopidogrel 75 mg mỗi ngày hoặc aspirin 75–100 mg mỗi ngày",
+     "v": "c",
+     "n": "Ở BĐMCD có triệu chứng: clopidogrel 75 mg (ACC/AHA 2024 mục 5.1 KC2, COR 1, B-R) hoặc aspirin 75–325 mg (KC3; ESC 2024 Bảng khuyến cáo 14: 75–160 mg, I A). ESC 2024 Bảng 14 cho phép cân nhắc clopidogrel hơn aspirin (IIb, B). Hai khoảng liều aspirin chồng nhau ở 75–100 mg."
+    },
+    {
+     "t": "Rivaroxaban 2,5 mg × 2 lần/ngày cộng aspirin liều thấp",
+     "v": "a",
+     "n": "ACC/AHA 2024 mục 5.1 KC4 (COR 1, A): hiệu quả giảm MACE và MALE ở PAD có triệu chứng. ESC 2024 Bảng khuyến cáo 14 (IIa, A): chỉ cân nhắc khi nguy cơ thiếu máu cục bộ cao (cụt chi, CLTI, tái thông, suy tim, đái tháo đường, bệnh ≥ 2 giường mạch, eGFR < 60) và nguy cơ chảy máu không cao; ông chưa thuộc nhóm này. QĐ 2475/2022 mục 3.3: không dùng nếu nguy cơ chảy máu cao (có nêu tuổi cao). Cả hai cách, bắt đầu bằng đơn trị kháng tiểu cầu đều chấp nhận."
+    },
+    {
+     "t": "Cai thuốc lá: khuyên bỏ ngay, hỏi lại mỗi lần khám, lập kế hoạch bỏ thuốc, đề nghị thuốc hỗ trợ kèm tư vấn",
+     "v": "c",
+     "n": "Cai thuốc là chỉ định tuyệt đối ở mọi giai đoạn (QĐ 2475/2022 mục 3.2.1); ACC/AHA 2024 mục 5.4 KC1, KC2 (varenicline, bupropion, thay thế nicotine kèm tư vấn); ESC 2024 Bảng khuyến cáo 7 (I, A). Liều thuốc hỗ trợ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chương trình đi bộ có cấu trúc tại nhà: đi đến khi mỏi vừa, nghỉ, đi lại, 30–45 phút mỗi ngày, ít nhất 3 buổi mỗi tuần, ít nhất 12 tuần; ghi sổ, con trai nhắc",
+     "v": "c",
+     "n": "QĐ 2475/2022 mục 3.4.1; ACC/AHA 2024 mục 6 KC1, KC2 (chương trình cộng đồng có cấu trúc, gồm tại nhà, COR 1, A); ESC 2024 Bảng khuyến cáo 13: tập có giám sát là đầu tay (I, A); khi không có thì tập tại nhà có theo dõi qua sổ, điện thoại (IIa, A). Chỉ lời khuyên 'cứ ra ngoài đi bộ' chưa đủ bằng chứng (ACC/AHA 2024 mục 6, giải thích khuyến cáo 7)."
+    },
+    {
+     "t": "Dặn chăm sóc bàn chân và dấu hiệu đến ngay: đau bàn chân khi nằm, vết thương không lành, ngón tím đen, chân lạnh tái đột ngột; nhờ con trai kiểm tra chân hằng ngày",
+     "v": "c",
+     "n": "ACC/AHA 2024 mục 5.8 KC1, KC2 (giáo dục tự chăm sóc chân, khám chân mỗi lần khám); dấu hiệu CLTI và thiếu máu chi cấp (ACC/AHA 2024 mục 2.1, Bảng 4; QĐ 2475/2022 Tắc động mạch chi dưới cấp mục 3.1)."
+    },
+    {
+     "t": "Vitamin B tổng hợp và viên ginkgo: ngưng hoặc tiếp tục đều chấp nhận; không coi là thuốc chữa chân",
+     "v": "a",
+     "n": "Vitamin B-complex không có lợi ích giảm MACE ở PAD (ACC/AHA 2024 mục 5.6 KC4: Không có lợi ích, B-R). Ginkgo biloba: kết quả không nhất quán nên ESC 2024 (mục 8.1.1.2.2, phần thuốc cải thiện khả năng đi bộ) không khuyến cáo cho đau cách hồi. Ginkgo kèm thuốc chống kết tập tiểu cầu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đánh giá lão khoa ngắn (suy yếu, ăn uống, vận động, đa thuốc) và hỏi mục tiêu của ông",
+     "v": "a",
+     "n": "ACC/AHA 2024 mục 4.3 KC1 (COR 2a, B-NR): người ≥ 75 tuổi có PAD nên được đánh giá hội chứng lão khoa để chăm sóc an toàn, phù hợp mục tiêu. Công cụ cụ thể (Clinical Frailty Scale…) nêu trong Bảng 10."
+    },
+    {
+     "t": "Cilostazol 100 mg × 2 lần/ngày để tăng quãng đường đi",
+     "v": "a",
+     "n": "Cilostazol chỉ định cho đau cách hồi (ACC/AHA 2024 mục 5.7 KC1, COR 1, A; QĐ 2475/2022 mục 3.4.2); chống chỉ định khi suy tim; thận trọng khi nguy cơ chảy máu cao; ESC 2024 nêu cilostazol làm tăng biến chứng chảy máu và cần thận trọng khi phối hợp thuốc chống kết tập tiểu cầu. Ông cao tuổi, bắt đầu thuốc kháng tiểu cầu: để sau 12 tuần tập nếu còn hạn chế."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần để xem tuân thủ thuốc, thuốc lá, quãng đường đi, LDL-C; mang theo vỉ thuốc",
+     "v": "c",
+     "n": "Mốc 4 tuần: không có trong tài liệu đã tải; chọn để kiểm tra tuân thủ. Đánh giá lại tập đi bộ sau 12 tuần (QĐ 2475/2022 mục 3.4.1)."
+    },
+    {
+     "t": "Chuyển tuyến ngay để chụp mạch và tái thông",
+     "v": "w",
+     "n": "Tái thông cho đau cách hồi chỉ khi đáp ứng kém điều trị nội khoa tối ưu gồm tập vận động (ACC/AHA 2024 mục 9.1 KC2; QĐ 2475/2022 mục 3.5.1). Ông chưa điều trị nền; người ≥ 75 tuổi cần cân nhắc rủi ro (ACC/AHA 2024 mục 4.3)."
+    },
+    {
+     "t": "Pentoxifylline hoặc thuốc giãn mạch chiết xuất thực vật để chữa đau cách hồi",
+     "v": "w",
+     "n": "Pentoxifylline không khuyến cáo (ACC/AHA 2024 mục 5.7 KC4: Không có lợi ích; QĐ 2475/2022 mục 3.4.2: hiện không còn sử dụng)."
+    },
+    {
+     "t": "Chống đông liều đầy đủ (heparin, warfarin hoặc DOAC liều điều trị) cho BĐMCD",
+     "v": "h",
+     "n": "ACC/AHA 2024 mục 5.1 KC13 (COR 3: Harm, A): không dùng chống đông liều đầy đủ khi không có chỉ định khác (rung nhĩ, van cơ học); ESC 2024 Bảng khuyến cáo 14 (III, A) cũng không khuyến cáo."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh động mạch chi dưới mạn tính, đau cách hồi không điển hình tầng chủ-chậu và đùi, ABI phải 0,58, trái 0,68",
+     "Chưa thiếu máu chi đe dọa; không phải thiếu máu chi cấp",
+     "Yếu tố nguy cơ: hút thuốc lá 8–10 điếu/ngày (khoảng 60 năm), LDL-C 3,4 mmol/L chưa điều trị, tuổi 78; đường huyết và chức năng thận bình thường",
+     "Không phải hẹp ống sống, không phải huyết khối tĩnh mạch sâu; triệu chứng không do vitamin, ginkgo hay hơi hóa chất",
+     "Tự dùng diclofenac 5 ngày không hiệu quả, cần ngưng; bệnh nhân ≥ 75 tuổi còn tự lập"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi theo chức năng (đi được bao xa, dừng bao lâu, mỏi vùng nào), hỏi theo tư thế, mốc thời gian và thuốc tự mua; hỏi riêng chuyện nam giới; khám mạch hai chân kể cả bẹn; đo ABI; tầm soát nguy cơ; mới đến chẩn đoán và xử trí (QĐ 2475/2022 mục 2.1.1: các câu hỏi về quãng đường, thời gian nghỉ, vị trí; ACC/AHA 2024 mục 2.2, Bảng 6).",
+     "Vì sao vẫn nghĩ tới BĐMCD dù không đau bắp chân: ACC/AHA 2024 mục 2.2 ghi chỉ khoảng 1/3 người bệnh có đau cách hồi điển hình, còn lại là triệu chứng gắng sức khác; Bảng 6 liệt kê 'yếu, tê hoặc mệt chân khi đi không đau' và 'khó chịu cơ cần nghỉ trên 10 phút'. Đau hông-mông gợi tầng chủ-chậu, mạch bẹn yếu (QĐ 2475/2022 mục 2.1.2); rối loạn cương cũng nằm trong Bảng 6.",
+     "Điều suýt làm bỏ sót: tuổi 78 ('già yếu'), ông không kêu đau, ông và bác sĩ dễ gán cho vitamin, hóa chất hay thoái hóa cột sống. Mốc thời gian phá vỡ lập luận này: mỏi có trước viên vitamin; đồng nghiệp cùng chỗ không bị; thần kinh khi nghỉ bình thường.",
+     "Phân biệt hẹp ống sống: nặng khi đứng và ưỡn, đỡ khi gập cột sống (ACC/AHA 2024 Bảng 7). Ông đứng gác hàng giờ không sao, không phải cúi mới hết, Lasègue âm tính, mạch bẹn yếu và ABI thấp. Phân biệt HKTM sâu: không phù, không đau dọc tĩnh mạch sâu (Wells 2003 Bảng 1).",
+     "Cận lâm sàng cần: ABI, mỡ máu, đường huyết đói, creatinin–eGFR (ESC 2024 mục 5.1; QĐ 2475/2022 mục 3.2.3; ESC 2026 CVD–CKD mục 3.3). Không cần MRI hay X-quang cột sống, D-dimer, chì máu, B12 vì không làm đổi xử trí (xem n từng mục). Nguồn lực đầy đủ nhưng vẫn không làm thừa.",
+     "Ghi chú áp dụng: người ≥ 75 tuổi chiếm ít trong thử nghiệm (ví dụ 8% số người dự thử nghiệm statin, ESC/EAS 2019 mục 9.3.1); ACC/AHA 2024 mục 4.3 khuyến cáo đánh giá hội chứng lão khoa; lợi ích statin ở người đã có bệnh mạch không phụ thuộc tuổi (ESC/EAS 2019 mục 9.3.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nền điều trị cho mọi người BĐMCD có triệu chứng: bỏ thuốc lá, statin cường độ cao bất kể LDL-C, thuốc chống kết tập tiểu cầu đơn, tập đi bộ có cấu trúc (QĐ 2475/2022 mục 3.2–3.4; ACC/AHA 2024 mục 5.1, 5.2, 5.4, 6).",
+     "Ngừng diclofenac: NSAID thường quy ở người > 75 tuổi, nhất là khi sắp dùng thuốc chống kết tập tiểu cầu (AGS Beers 2023, Bảng 2). Không có bằng chứng NSAID chữa triệu chứng do thiếu máu.",
+     "Mâu thuẫn mới đã ghi (rivaroxaban 2,5 mg × 2 cộng aspirin): ACC/AHA 2024 mục 5.1 KC4 (COR 1) so với ESC 2024 Bảng 14 (IIa, chỉ khi nguy cơ thiếu máu cục bộ cao và không nguy cơ chảy máu cao). Ca này đơn trị kháng tiểu cầu là đáp án chính; cộng rivaroxaban chấm a vì ông không thuộc nhóm nguy cơ thiếu máu cao theo ESC và đã dùng NSAID.",
+     "Chưa có chỉ định tái thông: ACC/AHA 2024 mục 9.1 KC2. Dặn khi nào quay lại sớm vì người cao tuổi hay giấu triệu chứng.",
+     "Mục tiêu huyết áp: ông chưa tăng huyết áp (128/72), không áp dụng; theo dõi mỗi lần khám."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 4 tuần",
+      "ghi_chu": "Statin cường độ cao: atorvastatin 40–80 mg hoặc rosuvastatin 20–40 mg, bất kể LDL-C ban đầu (QĐ 2475/2022 mục 3.2.2; ACC/AHA 2024 mục 5.2 KC1, Bảng 11). Dặn báo ngay nếu đau cơ nhiều. Xét nghiệm men gan/CK nền: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Clopidogrel",
+      "ham_luong": "75 mg",
+      "lieu": "75 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "ACC/AHA 2024 mục 5.1 KC2 (clopidogrel 75 mg mỗi ngày). Có thể thay bằng aspirin 75–100 mg mỗi ngày (ESC 2024 Bảng 14: 75–160 mg; ACC/AHA 2024 mục 5.1 KC3: 75–325 mg). Dặn báo phân đen, chảy máu bất thường."
+     }
+    ],
+    "dan_do": [
+     "Bỏ thuốc lá hoàn toàn: đây là việc quan trọng nhất cho chân và tim của ông (QĐ 2475/2022 mục 3.2.1; ACC/AHA 2024 mục 5.4). Tránh khói thuốc của người khác ở nơi làm việc (ACC/AHA 2024 mục 5.4 KC3). Hẹn bàn thuốc hỗ trợ khi ông sẵn sàng.",
+     "Ngưng thuốc giảm đau-kháng viêm tự mua; trước khi mua thuốc mới mang vỉ thuốc hoặc hỏi lại bác sĩ. Viên vitamin và ginkgo không phải thuốc chữa chân; ngưng hay tiếp tục đều được, không dùng thay thuốc kê hôm nay.",
+     "Uống atorvastatin buổi tối và clopidogrel buổi sáng đều đặn, kể cả khi thấy chân đỡ; ngưng thuốc là bệnh quay lại.",
+     "Đi bộ có kế hoạch: đi đến khi mỏi vừa, đứng nghỉ, đi tiếp; 30–45 phút mỗi ngày, ít nhất 3 buổi mỗi tuần, ít nhất 12 tuần, ghi sổ số phút và quãng đường (QĐ 2475/2022 mục 3.4.1). Việc đi tuần ở chỗ làm không tính là chương trình tập.",
+     "Tự kiểm tra chân mỗi ngày (nhờ con trai); giày vừa, mềm, không đi chân trần (ACC/AHA 2024 mục 5.8). Đến ngay khi: đau bàn chân khi nằm nghỉ, vết thương không lành, ngón chân tím đen, chân lạnh tái hoặc tê liệt đột ngột (ACC/AHA 2024 Bảng 4; QĐ 2475/2022 Tắc động mạch chi dưới cấp mục 3.1).",
+     "Báo ngay khi phân đen, nôn ra máu, bầm tím nhiều khi dùng clopidogrel. Nếu công việc gác đêm quá mệt, nói với bác sĩ để cùng tìm cách đi tuần chia nhỏ, có chỗ nghỉ.",
+     "Tái khám sau 4 tuần với vỉ thuốc và sổ đi bộ; xem lại LDL-C, quãng đường, thuốc lá, và nói chuyện về mục tiêu của ông (mốc 4 tuần: không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "khoa_cls": null,
+ "ket_cuc": "Ông Tư chấp nhận bỏ diclofenac, uống atorvastatin và clopidogrel, giảm thuốc lá còn nửa bao rồi bỏ hẳn sau tháng đầu. Đi bộ có sổ cùng con trai, sau 12 tuần ông đi tuần được trọn một vòng kho với ít lần dừng hơn. Ông không còn nghi vitamin hay hóa chất, nhờ được giải thích bằng chính mốc thời gian của mình. Không có thiếu máu chi đe dọa, không chảy máu tiêu hóa. Mọi quyết định đều đúng; chưa cần tái thông (ACC/AHA 2024 mục 9.1 KC2).",
+ "nhieu": [
+  "Tự uống diclofenac 5 ngày: không kể khi hỏi chung 'thuốc gì'; chỉ kể khi hỏi thuốc tự mua hoặc giảm đau. Không làm đỡ triệu chứng; là thuốc cần tránh ở người > 75 tuổi dùng kháng tiểu cầu (AGS Beers 2023, Bảng 2).",
+  "Vitamin B và ginkgo dễ bị đổ lỗi vì bắt đầu cùng thời gian triệu chứng tê rõ; mốc mỏi đùi có từ 6 tháng trước là câu hỏi phá nhiễu. Vitamin B không có lợi ích giảm MACE (ACC/AHA 2024 mục 5.6 KC4).",
+  "Hơi hóa chất ở kho làm ông tin nguyên nhân từ bên ngoài; đồng nghiệp cùng ca không bị, ông không vào khu pha chế; hóa chất nghề nghiệp gây BĐMCD: không có trong tài liệu đã tải.",
+  "Hỏi cảm giác 'đau không' ông đáp 'không đau, chỉ yếu tê'. Hỏi chức năng mới ra bệnh. Hút thuốc 'bớt rồi'; rối loạn cương chỉ nói khi hỏi riêng."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi không điển hình: mỏi yếu, nặng đùi, mông, nghỉ trên 10 phút, không đau bắp chân vẫn là BĐMCD (ACC/AHA 2024 mục 2.2, Bảng 6); đừng dừng ở 'già yếu' hoặc 'thoái hóa cột sống'.",
+  "Người tự dùng thuốc 5 ngày: hỏi tên, liều, số ngày, lý do và có đỡ không; đánh giá an toàn thuốc đó trước khi kê thuốc kháng tiểu cầu (AGS Beers 2023 Bảng 2).",
+  "Lý do thật là nỗi sợ thuốc/hóa chất: chỉ yên tâm khi có lời giải thích bằng mốc thời gian của chính ông. Nguồn lực đầy đủ không có nghĩa phải làm hết: ABI, mỡ máu, đường huyết, thận là đủ; MRI cột sống, D-dimer không cần.",
+  "Ca ổn định: đặt nền (bỏ thuốc, statin, kháng tiểu cầu đơn, tập đi bộ) rồi tái khám; chưa chuyển tuyến tái thông (ACC/AHA 2024 mục 9.1 KC2)."
+ ],
+ "diem_nho": [
+  "Chỉ khoảng 1/3 người PAD có đau cách hồi điển hình; triệu chứng gắng sức khác (yếu, tê, mệt, nghỉ > 10 phút) vẫn đáng nghi (ACC/AHA 2024 mục 2.2, Bảng 6). Hỏi cả rối loạn cương.",
+  "ABI ≤ 0,90 chẩn đoán BĐMCD (ACC/AHA 2024 mục 3.1 KC2; QĐ 2475/2022 mục 2.2.1: < 0,9). ABI > 1,40: động mạch cứng, đo TBI (ACC/AHA 2024 mục 3.1 KC5).",
+  "Mọi người BĐMCD có triệu chứng: bỏ thuốc lá, statin cường độ cao bất kể LDL-C, kháng tiểu cầu đơn, tập đi bộ; đích LDL-C < 1,4 mmol/L (QĐ 2475/2022 mục 3.2–3.4; ESC 2024 Bảng 9, 13, 14).",
+  "NSAID ở người > 75 tuổi dùng kháng tiểu cầu: tránh dùng thường xuyên (AGS Beers 2023, Bảng 2). Vitamin B-complex không giảm MACE (ACC/AHA 2024 mục 5.6 KC4)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2475/QĐ-BYT 2022, Hướng dẫn chẩn đoán và điều trị bệnh động mạch ngoại biên (kho tltk-10000-ca) – Bệnh động mạch chi dưới mạn tính mục 1, 2.1.1–2.1.3, 2.2.1, 3.2.1–3.2.4, 3.3, 3.4.1–3.4.2, 3.5.1; Tắc động mạch chi dưới cấp mục 3.1.",
+  "2024 ACC/AHA Guideline for the Management of Lower Extremity PAD (TL-0302) – mục 2.1, 2.2, Bảng 4, 5, 6, 7; 3.1 KC1–KC5; 4.3 KC1, Bảng 10; 5.1 KC1–KC4, KC13; 5.2 KC1, Bảng 11; 5.4 KC1–KC3; 5.6 KC4; 5.7 KC1, KC4; 5.8 KC1–KC2; 6 KC1–KC2 (giải thích khuyến cáo 7); 9.1 KC2.",
+  "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases (TL-0058) – mục 5.1, Bảng khuyến cáo 7, 9, 13, 14; mục 8.1.1.2.2 (ginkgo).",
+  "2026 ACC/AHA Guideline on the Management of Dyslipidemia (TL-0292) – mục 4.2.6, khuyến cáo 4.",
+  "2019 ESC/EAS Guidelines for the management of dyslipidaemias (TL-0320) – mục 9.3.1, 9.3.2 (người cao tuổi).",
+  "2026 ESC Guidelines for cardiovascular disease and chronic kidney disease (TL-0293) – mục 3.3, Bảng khuyến cáo 3.",
+  "AGS Beers Criteria 2023 (TL-0022) – Bảng 2 (thuốc giảm đau, NSAID không chọn lọc COX-2), Bảng 6 (NSAID khi CrCl < 30).",
+  "Wells PS et al., N Engl J Med 2003 (TL-0114) – Bảng 1, thang Wells huyết khối tĩnh mạch sâu."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-23 · viết: Sonnet. Tài liệu đã đọc: QĐ 2475/2022 (mục 1, 2.1–2.2, 3.1–3.4); ACC/AHA 2024 PAD (TL-0302) mục 2.1–2.2, Bảng 4–7, 3.1, 4.3 và Bảng 10, 5.1–5.8, 6, 9.1; ESC 2024 PAD (TL-0058) mục 5.1, Bảng 7, 9, 13, 14; ACC/AHA 2026 dyslipidemia (TL-0292) mục 4.2.6; ESC/EAS 2019 (TL-0320) mục 9.3; ESC 2026 CVD–CKD (TL-0293) mục 3.3; Beers 2023 (TL-0022); Wells 2003 (TL-0114).",
+  "Thiếu tài liệu: liều thuốc hỗ trợ cai thuốc; tái khám 4 tuần; xét nghiệm nền trước statin; hóa chất nghề nghiệp/ginkgo và nguy cơ chảy máu; tương tác ginkgo–kháng tiểu cầu; xử trí NSAID đã dùng 5 ngày (cần PPI hay không).",
+  "Mâu thuẫn mới: rivaroxaban 2,5 mg × 2 + aspirin (ACC/AHA 2024 so ESC 2024 và QĐ 2475/2022); ghi trong MT-1220_mau_thuan.md.",
+  "Không dùng ảnh da: không có tổn thương da then chốt (chỉ lông thưa, da khô, nhợt khi nâng chân). Mục đề xuất danh mục: siêu âm Doppler động mạch chi dưới và TBI (xem MT-1220_de_xuat_danh_muc.json)."
+ ]
+}

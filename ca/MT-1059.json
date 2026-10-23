@@ -1,0 +1,762 @@
+{
+ "ma_ca": "MT-1059",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_dtd_than_kinh_ngoai_bien",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "ĐTĐ biến chứng thần kinh ngoại biên",
+  "chan_doan_phai_loai_tru": [
+   "Thiếu B12",
+   "Bệnh TK do rượu"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Hưu trí (cựu giáo viên tiểu học)",
+  "yeu_to_khoi_phat": "Sau chơi thể thao (tập dân vũ nhiều hơn thường lệ, mang giày mới)",
+  "thuoc_dang_dung": "NSAID tự mua (diclofenac 50 mg), metformin, amlodipin",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm (để rút khỏi đội dân vũ mà không mất mặt)"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Bích",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Hưu trí (cựu giáo viên tiểu học)",
+  "can_nang": 50,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'cô'. Bà tự xưng 'cô', gọi bác sĩ là 'bác sĩ'; gọi con gái là 'con Mai'.",
+  "tinh_cach": "Nghiêm nghị, nói năng chuẩn mực kiểu cô giáo, tự trọng cao, ghét bị coi là yếu. Tin vào 'truyền nước, truyền thuốc bổ cho lại sức' vì nhiều lần ở trạm y tế truyền xong thấy khỏe. Tai hơi nặng, nghe rõ khi bác sĩ nói chậm. Không tự kể chuyện lo sợ của mình, phải được hỏi khéo.",
+  "kieu_nhieu": "Đòi truyền dịch: mở đầu và nhắc lại 'bác sĩ truyền cho cô chai nước, chai thuốc bổ thần kinh cho khỏe chân'. Nếu bị từ chối cụt ('không cần') bà nói 'các cô ở trạm trước truyền được'. Chỉ chịu khi bác sĩ giải thích lợi hại cụ thể cho bà (không thuốc truyền nào làm hết tê; kim tiêm, nước thừa bất lợi ở tuổi bà) và nêu việc làm thay thế rõ ràng. Con gái ủng hộ truyền. Hỏi chung 'đang uống thuốc gì' bà chỉ kể metformin, amlodipin; chỉ kể thuốc giảm đau tự mua khi được hỏi cụ thể thuốc giảm đau, thuốc mua ở tiệm, hoặc 'khi nhức chân cô làm gì'.",
+  "nguoi_nha": "Con gái, chị Mai, 52 tuổi, nhân viên văn phòng, đưa mẹ đi bằng xe máy, đang lo công việc nên hay nhìn đồng hồ. Chị biết: mẹ than tê, nóng chân về đêm, mất ngủ vài tuần nay, có uống thuốc giảm đau, mẹ hay mang giày thể thao mới đi tập. Chị KHÔNG biết chuyện mẹ muốn rút khỏi đội dân vũ vì sợ ngã trên sân khấu. Chị thường trả lời thay các câu về sinh hoạt, ăn uống, thuốc men (nguoi_noi = nguoi_nha); câu về cảm giác trong người thì bà tự trả lời.",
+  "ten_nguoi_nha": "Chị Mai (con gái)",
+  "ngoai_hinh": {
+   "da": "#d4a483",
+   "toc": "#d9d6d0",
+   "kieuToc": "bui",
+   "ao": "#8a5a7a",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a985",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#4f7f8f",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tê, nóng rát hai bàn chân, mất ngủ; xin truyền thuốc",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Cơ sở không có phòng xét nghiệm, X-quang, siêu âm (chỉ có máy đo đường huyết mao mạch và dụng cụ khám thần kinh: monofilament, âm thoa, kim, búa phản xạ)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Cô Lê Thị Bích, 78 tuổi, hưu trí (cựu giáo viên), đái tháo đường típ 2 và cao huyết áp nhiều năm, đi cùng con gái. Than hai bàn chân tê, nóng rát nhiều tuần nay, mất ngủ; xin truyền thuốc cho khỏe chân. Sinh hiệu: HA 146/82 mmHg, mạch 76 l/p, cân nặng 50 kg, BMI 22.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cô Bích, 78 tuổi, bị đưa vào bệnh viện huyện để truyền thuốc theo ý bà và con gái. Không có tiêu chuẩn nhập viện: chưa loét, chưa nhiễm trùng, đau điều trị được bằng thuốc uống bậc 1 (QĐ 3510 mục 3.4). Bà nằm viện nhiều ngày, mất giấc ngủ vì lạ chỗ, vẫn không được hỏi về diclofenac và giày chật; ra viện bà tưởng 'truyền rồi sẽ khỏi', không đi lấy máu và không bỏ thuốc giảm đau tự mua.",
+    "chuyen_tuyen": "Cô Bích được chuyển lên bệnh viện tỉnh 'làm điện cơ cho chắc'. Ca điển hình, đối xứng, không yếu vận động: điện cơ rất ít khi cần (ADA 2026 mục 12; QĐ 3510 mục 3.2.3). Bà mất một ngày đi lại xa, tốn tiền, quay về chưa bỏ diclofenac, chưa có thuốc giảm đau thần kinh và vẫn đau đêm.",
+    "theo_doi": "Cô Bích chỉ được dặn 'theo dõi thêm', không kê thuốc giảm đau thần kinh, không hẹn tái khám. Bà tiếp tục uống diclofenac liều cao dần, vẫn tập nhảy với giày chật, chân vẫn nóng rát mất ngủ. Mất cảm giác bảo vệ khiến chai và bóng nước ở ngón út dễ thành vết loét mà bà không thấy đau (ADA 2026 mục 12, KC 12.25); không ai kiểm tra chân lại."
+   },
+   "loi_mo": "Chào bác sĩ. Hai bàn chân cô tê rần, đêm nóng như lửa đốt, mấy tuần nay cô không ngủ được. Bác sĩ truyền cho cô chai nước, chai thuốc bổ thần kinh cho khỏe chân đi.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "146/82",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai bàn chân tê rần, nóng rát nhất là về đêm, mất ngủ hơn 5 tuần nay. Cô xin bác sĩ truyền chai nước, chai thuốc bổ thần kinh cho khỏe chân.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hơn 5 tuần trước cô tập dân vũ nhiều hơn thường lệ (2 giờ mỗi buổi, 5 buổi/tuần) để chuẩn bị hội diễn phường, mang đôi giày thể thao mới mua. Tối hôm đó hai bàn chân tê rần, nóng, từ đó nặng dần. Trước đó cô thỉnh thoảng thấy ngón chân tê nhẹ, tưởng do tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau tập nặng; triệu chứng đã có âm thầm từ trước"
+    },
+    {
+     "id": "tinh_chat",
+     "noi_dung": "Tê như đi tất dày ở cả hai bàn chân, lên tới nửa cẳng chân, hai bên như nhau. Nóng rát, như kim châm, nặng về đêm, tới mức mất ngủ, chạm chăn cũng khó chịu. Không yếu liệt chân, không đau lưng lan xuống chân. Tay không tê.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tê – nóng rát đối xứng ngọn chi, kiểu 'tất', nặng về đêm"
+    },
+    {
+     "id": "tien_su_dtd",
+     "noi_dung": "Đái tháo đường típ 2 đã 14 năm, uống metformin 500 mg ngày 2 lần sau ăn khoảng 9 năm. Lần cuối cô thử máu cách đây hơn một năm ở bệnh viện huyện, không nhớ con số, chỉ nhớ bác sĩ bảo 'tạm được'. Có cao huyết áp, uống amlodipin 5 mg buổi sáng. Chưa từng khám mắt, khám chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "ĐTĐ lâu năm, metformin kéo dài (nguy cơ thiếu B12), chưa tầm soát biến chứng"
+    },
+    {
+     "id": "thuoc_giam_dau",
+     "noi_dung": "Khoảng 3 tuần nay cô tự mua ở tiệm thuốc viên diclofenac 50 mg, uống 1 viên mỗi tối, nhiều hôm 2 viên, để 'đỡ nhức chân, chân tê đỡ'. Chưa uống thuốc dạ dày kèm. Thỉnh thoảng thấy ợ chua.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ nói metformin và amlodipin. Chỉ kể khi bác sĩ hỏi cụ thể thuốc giảm đau, thuốc mua ở tiệm, hoặc khi nhức chân cô làm gì.",
+     "k": 1,
+     "y": "NSAID tự mua ở người ≥ 75 tuổi, chưa biết chức năng thận"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Cô không uống rượu bia, chỉ nhấp chén nhỏ rượu thuốc ngày Tết. Không hút thuốc. Không tiếp xúc hóa chất, thuốc trừ sâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ bệnh thần kinh do rượu, nhiễm độc"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Cô ăn cơm ngày 3 bữa, có thịt, cá, trứng, không ăn chay. Không thấy lưỡi rát, không hay quên, không xanh xao, không đi cầu phân đen. Không thuốc nào khác ngoài các thuốc đã kể.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ ăn có đạm động vật, không dấu hiệu thiếu máu – giúp cân nhắc B12"
+    },
+    {
+     "id": "nga",
+     "noi_dung": "Cách đây 2 tuần, bước xuống bậc thềm vào buổi tối cô loạng choạng suýt ngã vì 'không biết chân đặt đâu', may bám được cột. Chưa té lần nào. Tối nhìn không rõ mép bậc thang.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất thăng bằng do thần kinh sợi lớn; nguy cơ té ngã"
+    },
+    {
+     "id": "giay_chan",
+     "noi_dung": "Đôi giày thể thao mới hơi chật mũi. Cô không thấy đau chân khi nhảy, về tháo giày mới thấy ngón út chân phải đỏ, có cái bóng nhỏ, cô tự lấy kim chích rồi để vậy, không đau.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về giày dép, chân có vết xước, phồng, chai hay chưa. Mặc định cô không nghĩ đó là vấn đề.",
+     "k": 1,
+     "y": "Tổn thương nhỏ ở chân không đau – dấu hiệu mất cảm giác bảo vệ"
+    },
+    {
+     "id": "loai_tru_khac",
+     "noi_dung": "Đi bộ chợ 500 m không phải dừng vì đau bắp chân. Đau lưng không có. Đại tiểu tiện bình thường, không chóng mặt khi đứng dậy, không đổ mồ hôi bất thường. Chân hơi khô nứt gót.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ đau cách hồi, hẹp ống sống; hỏi triệu chứng thần kinh tự chủ"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: cô là đội trưởng đội dân vũ phường, hội diễn còn khoảng 5 tuần. Cô thấy chân bước không vững, sợ ngã giữa sân khấu, sợ bị cả đội thương hại hay thay người, nên muốn xin một tờ giấy bác sĩ 'cho nghỉ ốm' để rút lui danh dự. Cô không dám nói ngay vì mất mặt, sợ con gái lo thêm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cô còn lo điều gì, hỏi về đội dân vũ, hội diễn, nỗi lo khi tập, hoặc hỏi cô cần giấy tờ gì. Khi nói ra thì xin 'tờ giấy nghỉ ốm' cho bà.",
+     "k": 1,
+     "y": "Động cơ thật: xin giấy nghỉ ốm để rút khỏi đội"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy nhỏ (50 kg, BMI 22). Da niêm hồng, không vàng da, lưỡi hồng không bóng. Không phù.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Cảm giác hai chân đối xứng, giảm dần từ ngọn lên. Monofilament 10 g (3 vị trí mỗi bàn chân: đầu ngón cái, đầu xương bàn chân I, V): không cảm nhận ở đầu ngón cái và xương bàn chân I hai bên, còn cảm nhận ở xương bàn chân V. Âm thoa 128 Hz: mất rung ở ngón cái hai bên, còn rung ở mắt cá. Kim châm: giảm tới nửa cẳng chân. Phản xạ gót mất hai bên, phản xạ gối giảm nhẹ. Sức cơ gốc và ngọn chi 5/5. Tay: cảm giác bình thường. Dấu Romberg: lắc lư khi nhắm mắt, không ngã.",
+     "k": 1,
+     "hien": "Làm các nghiệm pháp cảm giác theo đề nghị của bác sĩ."
+    },
+    "chi_duoi": {
+     "a": "Hai bàn chân khô, nứt gót nhẹ, không phù, không loét. Mép ngoài ngón út chân phải: chai nhỏ 4 mm, bên cạnh một bóng nước đã xẹp, nền hồng, không chảy dịch, không đỏ lan, không đau khi ấn. Không biến dạng ngón, không chân Charcot. Móng bình thường.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch mu chân, chày sau bắt rõ hai bên. Bàn chân ấm, thời gian đổ đầy mao mạch dưới 3 giây, không tái khi nâng chân. Không âm thổi động mạch.",
+     "k": 1
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi chậm, bước rộng, nhìn xuống chân, hơi loạng choạng khi quay người; nghiệm pháp đứng một chân chỉ giữ được 3 giây.",
+     "k": 1,
+     "hien": "Quan sát bà đi vài bước và quay người."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 146/82 mmHg, mạch 76; đứng sau 3 phút 138/80 mmHg, mạch 82. Hạ 8/2 mmHg, không triệu chứng: chưa hạ huyết áp tư thế (ngưỡng giảm > 20/10 mmHg, ADA 2026 mục 12).",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Gối hai bên lạo xạo nhẹ, không sưng nóng, tầm vận động đủ. Cột sống thắt lưng không điểm đau, Lasègue âm tính.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch lúc 8 giờ sáng (nhịn ăn khoảng 12 giờ): 7,8 mmol/L",
+     "ab": 0,
+     "n": "Máy đo mao mạch là cách duy nhất cơ sở có. Mục tiêu glucose đói 90–150 mg/dL (5,0–8,3 mmol/L) ở người nhiều bệnh, sức khỏe trung bình (QĐ 5481 Bảng 5): trong mục tiêu, nên không cần siết thêm thuốc hạ đường huyết."
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "HbA1c 7,9%",
+     "ab": 0,
+     "thay_the": "glu_mm",
+     "n": "Cơ sở không làm HbA1c; thay bằng đường huyết mao mạch và hỏi tiền sử. Mục tiêu HbA1c < 8,0% ở nhiều bệnh, sức khỏe trung bình (QĐ 5481 Bảng 5) hoặc < 7% theo ADA 2026 KC 6.3a, nới lỏng khi sức khỏe yếu (KC 6.5)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 88 µmol/L · eGFR 54 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Cơ sở không có. Cần để chỉnh liều pregabalin (QĐ 3510 mục 3.3.3.1), gabapentin (Beers 2023 Bảng 6: CrCl < 60 giảm liều), duloxetin (không dùng eGFR < 30: QĐ 3510 mục 3.3.3.2) và quyết định metformin (chống chỉ định eGFR < 30: QĐ 5481 PL01 mục 2). Chưa có thì dùng liều thận trọng."
+    },
+    "b12": {
+     "v": "e",
+     "r": "Vitamin B12 huyết thanh 190 pmol/L (thấp biên)",
+     "ab": 1,
+     "n": "Cơ sở không có. Có triệu chứng thần kinh + dùng metformin lâu (NICE NG239 KC 1.2.5, khung 2; ADA 2026 KC 3.10) nên lấy máu ở tuyến trên rồi mới bổ sung (KC 1.3.4)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,1 mUI/L",
+     "n": "Suy giáp là chẩn đoán phân biệt (QĐ 3510 mục 3.2.4); không có gợi ý lâm sàng, làm khi đi lấy máu."
+    },
+    "abi": {
+     "n": "Mạch bắt rõ, không đau cách hồi: chưa có chỉ định (ADA 2026 KC 12.27 chỉ gửi đo ABI khi mất/giảm mạch hoặc triệu chứng)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 biến chứng bệnh đa dây thần kinh ngoại biên có đau, mất cảm giác bảo vệ bàn chân (có chai và bóng nước ở ngón út phải)",
+     "ok": 1,
+     "n": "Tê – nóng rát đối xứng kiểu 'tất', nặng về đêm; mất monofilament, rung âm thoa và phản xạ gót hai bên (QĐ 3510 mục 3.2.1–3.2.2); ĐTĐ 14 năm, không rượu, loại các nguyên nhân khác bên dưới. Chẩn đoán là chẩn đoán loại trừ (ADA 2026 mục 12)."
+    },
+    {
+     "t": "Thiếu vitamin B12 (do metformin dùng lâu)",
+     "n": "Không loại hẳn được vì không có xét nghiệm: tê, mất thăng bằng cộng metformin 9 năm là chỉ định làm xét nghiệm (NICE NG239 KC 1.2.5; ADA 2026 KC 3.10). Nghiêng ít hơn vì ăn đủ đạm động vật, da niêm hồng, không rát lưỡi, không lú lẫn; nhưng không loại vì không thiếu máu (NICE KC 1.2.3). Cần lấy máu B12 ở tuyến trên."
+    },
+    {
+     "t": "Bệnh thần kinh do rượu",
+     "n": "Không uống rượu bia, chỉ chén rượu thuốc ngày Tết (QĐ 3510 mục 3.2.4; ADA 2026 mục 12 nêu rượu là nguyên nhân khác phải cân nhắc)."
+    },
+    {
+     "t": "Bệnh động mạch ngoại biên (đau chân sau khi nhảy)",
+     "n": "Mạch mu chân, chày sau rõ, bàn chân ấm, không đau bắp chân khi đi bộ 500 m (ADA 2026 KC 12.27)."
+    },
+    {
+     "t": "Hẹp ống sống thắt lưng / bệnh rễ thần kinh / thoái hóa khớp",
+     "n": "Không đau lưng, không đau lan, tê đối xứng hai bàn chân kiểu 'tất', Lasègue âm, sức cơ 5/5; ADA 2026 mục 12 chỉ cần chẩn đoán hình ảnh cột sống khi biểu hiện không điển hình. Khớp gối không sưng nóng, không giải thích được tê và mất cảm giác."
+    },
+    {
+     "t": "Suy giáp, suy thận (nguyên nhân chuyển hóa khác)",
+     "n": "Chưa loại được bằng xét nghiệm (QĐ 3510 mục 3.2.4); không có gợi ý lâm sàng. Suy thận phải xét vì quyết định liều thuốc: ghi vào việc cần lấy máu."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bệnh là biến chứng thần kinh do ĐTĐ lâu năm, tê – nóng rát là từ dây thần kinh, không phải do tập nhảy hay 'khớp'; tập nhiều chỉ làm lộ triệu chứng",
+     "v": "c",
+     "n": "Chẩn đoán lâm sàng bằng monofilament, âm thoa, kim, phản xạ gót (QĐ 3510 mục 3.2.2); ADA 2026 KC 12.18."
+    },
+    {
+     "t": "Ngưng diclofenac tự mua; khi đau khớp dùng paracetamol ≤ 500 mg/lần, dưới 3 g/ngày",
+     "v": "c",
+     "n": "Người > 75 tuổi: tránh NSAID dùng kéo dài (Beers 2023 Bảng 2); chưa biết chức năng thận (Beers Bảng 6: NSAID tránh khi CrCl < 30). QĐ 361/2014 Phụ lục NSAID (bảng nguy cơ cao: người cao tuổi, gầy yếu): paracetamol < 3 g/ngày, tránh NSAID nếu có thể. Phụ lục thuốc giảm đau của cùng QĐ 361 (mục 3.1) cho tối đa 4 g/ngày; chọn con số thận trọng hơn (< 3 g/ngày)."
+    },
+    {
+     "t": "Thuốc giảm đau thần kinh bậc 1: pregabalin liều khởi thấp (25 mg buổi tối, tăng chậm), hoặc duloxetin/gabapentin",
+     "v": "c",
+     "n": "Gabapentinoid, SNRI là lựa chọn bậc 1 (QĐ 3510 mục 3.4; ADA 2026 KC 12.22; AAN 2022). Người cao tuổi: tác dụng phụ nặng hơn, khởi liều thấp, tăng chậm (QĐ 3510 mục 3.3.3.1; ADA 2026 mục 12). Chưa có eGFR nên lấy hàng thấp của bảng chỉnh liều (QĐ 3510 mục 3.3.3.1)."
+    },
+    {
+     "t": "Gabapentin hoặc duloxetin thay cho pregabalin",
+     "v": "a",
+     "n": "Gabapentin: QĐ 3510 mục 3.3.3.1, giảm liều khi CrCl < 60 (Beers 2023 Bảng 6). Duloxetin 60 mg/ngày chỉ dùng khi eGFR ≥ 30 (QĐ 3510 mục 3.3.3.2), chưa biết nên kém ưu tiên."
+    },
+    {
+     "t": "Thêm alpha-lipoic acid 600 mg uống mỗi sáng 30 phút trước ăn",
+     "v": "a",
+     "n": "QĐ 3510 mục 3.3.2.1: ALA uống cần 3–5 tuần, ít tác dụng phụ, không cần chỉnh liều thận. Là khuyến cáo của văn bản BYT; không phải thuốc bậc 1 (QĐ 3510 mục 3.4)."
+    },
+    {
+     "t": "Hẹn đi lấy máu một lần ở tuyến trên: creatinin/eGFR, HbA1c, B12 (kèm TSH nếu tiện); lấy máu trước khi bổ sung B12",
+     "v": "c",
+     "n": "Cơ sở không có xét nghiệm nên không chẩn đoán/chỉnh liều đủ được tại chỗ. NICE NG239 KC 1.3.4 (lấy máu trước khi bổ sung), KC 1.2.5; ADA 2026 KC 3.10; QĐ 3510 mục 3.2.4."
+    },
+    {
+     "t": "Bổ sung vitamin B12 ngay trong lúc chờ xét nghiệm",
+     "v": "a",
+     "n": "NICE NG239 KC 1.3.7 cho phép cân nhắc nếu nghi thiếu do thuốc; KC 1.3.4 lấy máu trước. Liều khi thiếu do thuốc: tài liệu chỉ ghi uống hoặc tiêm bắp (KC 1.5.6), không nêu liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chăm sóc bàn chân: kiểm tra chân mỗi tối, không đi chân trần/dép mỏng, giày vừa chân đế mềm, cắt móng thẳng, bôi kem dưỡng gót; kiểm tra chân mỗi lần khám",
+     "v": "c",
+     "n": "Mất cảm giác bảo vệ: kiểm tra chân mọi lần khám (ADA 2026 KC 12.25), giáo dục tự chăm sóc chân (KC 12.30; QĐ 3510 mục 3.5); IWGDF 2023 (phòng loét, khuyến cáo 3–5): không đi chân trần/dép mỏng, rửa – lau khô, kem dưỡng, cắt móng thẳng, kiểm tra chân hằng ngày."
+    },
+    {
+     "t": "Giảm cường độ nhảy, tập thăng bằng và ngồi/đứng vững; không bỏ vận động",
+     "v": "c",
+     "n": "Người cao tuổi ĐTĐ nên tập dẻo và thăng bằng 2–3 lần/tuần (ADA 2026 KC 5.38). Mất thăng bằng và té ngã là hậu quả thần kinh sợi lớn (QĐ 3510 mục 3, Bảng 1)."
+    },
+    {
+     "t": "Hỏi ra lý do thật cần giấy; cấp giấy xác nhận tình trạng bệnh, khuyến cáo tạm ngừng tập nhảy 4 tuần",
+     "v": "c",
+     "n": "Bà hưu trí không đi làm nên không có giấy nghỉ ốm hưởng chế độ; giấy phù hợp là xác nhận bệnh. Quy định về giấy nghỉ ốm: TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm, sổ mâu thuẫn), không có trong tài liệu đã tải. Cấp ngắn ngày theo tình trạng thực là c (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm khống, nhiều ngày hoặc nhiều tháng cho bà",
+     "v": "w",
+     "n": "Không đúng tình trạng thực và bà không cần nghỉ làm; cấp khống/nhiều ngày chấm w theo sổ mâu thuẫn (giấy nghỉ ốm: TT 56/2017/TT-BYT, nguồn bổ sung tự tìm; không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Không siết thêm thuốc hạ đường huyết; giữ metformin 500 mg × 2 lần/ngày, chưa tăng liều khi chưa biết eGFR",
+     "v": "c",
+     "n": "Mục tiêu HbA1c < 8,0% (QĐ 5481 Bảng 5) hoặc < 7% nới lỏng theo sức khỏe (ADA 2026 KC 6.3a, 6.5); glucose mao mạch 7,8 mmol/L. Thận trọng metformin ở > 80 tuổi (QĐ 5481 PL01 mục 2); chống chỉ định eGFR < 30 (QĐ 5481 PL01 mục 2). ADA 2026 KC 12.20: kiểm soát đường huyết để làm chậm tiến triển."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần để đánh giá đáp ứng; quay lại sớm nếu có vết loét, đỏ sưng chân, ngã, chóng mặt nhiều, buồn ngủ quá mức",
+     "v": "c",
+     "n": "Đánh giá đáp ứng thuốc sau 2–4 tuần (QĐ 3510 mục 3.3.3). Kiểm tra chân mỗi lần khám (ADA 2026 KC 12.25)."
+    },
+    {
+     "t": "Truyền dịch (NaCl, glucose, vitamin tổng hợp) theo yêu cầu của bà và con gái",
+     "v": "w",
+     "n": "Không tài liệu đã tải nào chỉ định truyền dịch/vitamin cho tê bì do ĐTĐ (không có trong tài liệu đã tải). Điều trị đau là thuốc uống bậc 1 (QĐ 3510 mục 3.4). Ngoài lợi ích không có, truyền dịch ở người 78 tuổi chỉ thêm rủi ro."
+    },
+    {
+     "t": "Amitriptylin để giảm đau",
+     "v": "w",
+     "n": "QĐ 3510 mục 3.3.3.3 đưa TCA vào bậc 1 (12,5–25 mg/ngày), nhưng AGS Beers 2023 Bảng 2 khuyên tránh ở ≥ 65 tuổi (kháng cholinergic, an thần, hạ huyết áp tư thế); ADA 2026 mục 12 ghi tác dụng kháng cholinergic hay giới hạn liều ở ≥ 65 tuổi. Bà đã loạng choạng suýt ngã nên chấm w."
+    },
+    {
+     "t": "Tramadol hoặc opioid để giảm đau chân",
+     "v": "w",
+     "n": "QĐ 3510 mục 3.4: không dùng opioid, tramadol, tapentadol; AAN 2022 khuyến cáo 8a, 8b: không dùng."
+    },
+    {
+     "t": "Tiếp tục diclofenac vì 'đỡ nhức', thêm thuốc dạ dày",
+     "v": "h",
+     "n": "Người > 75 tuổi nguy cơ xuất huyết/loét tiêu hóa (Beers 2023 Bảng 2); chưa biết thận (Beers Bảng 6); bà đã có ợ chua. Bỏ NSAID là nguyên tắc, thuốc dạ dày không làm hết nguy cơ (Beers Bảng 2: giảm nhưng không loại bỏ)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái tháo đường típ 2 (14 năm), kiểm soát tạm chấp nhận được theo glucose mao mạch 7,8 mmol/L (chưa có HbA1c)",
+     "Biến chứng: bệnh đa dây thần kinh ngoại biên ĐTĐ thể có đau, tổn thương sợi lớn và sợi nhỏ, mất cảm giác bảo vệ bàn chân",
+     "Tổn thương nhỏ bàn chân: chai và bóng nước xẹp ngón út phải (chưa loét) do giày chật, không đau",
+     "Nguy cơ té ngã (mất thăng bằng, suýt ngã 1 lần)",
+     "Yếu tố thúc đẩy: tập dân vũ cường độ cao với giày mới; yếu tố nguy cơ thuốc: dùng NSAID tự mua ở người 78 tuổi",
+     "Chưa loại trừ: thiếu vitamin B12 do metformin 9 năm, suy thận (cả hai cần xét nghiệm ở tuyến trên)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: tê – nóng rát đối xứng ngọn chi kiểu 'tất', nặng về đêm, ĐTĐ 14 năm, chưa tầm soát biến chứng. Dấu hiệu sợi lớn (tê, mất thăng bằng) và sợi nhỏ (đau nóng rát, loạn cảm) đều có (QĐ 3510 mục 3.1–3.2.1, Bảng 1). Tập nhiều chỉ làm bà nhận ra triệu chứng đã có từ trước (ADA 2026 mục 12: tới 50% DPN có thể không triệu chứng).",
+     "Khám đủ ba bước: sợi lớn (monofilament 10 g, âm thoa 128 Hz, phản xạ gót), sợi nhỏ (kim châm), nhìn chân (QĐ 3510 mục 3.2.2; ADA 2026 KC 12.18, 12.24). Đều dương tính, đối xứng, từ xa lên gần. Mất monofilament ở ngón cái và xương bàn I là mất cảm giác bảo vệ, nguy cơ loét (ADA 2026 mục 12).",
+     "Chẩn đoán là chẩn đoán loại trừ (ADA 2026 mục 12; QĐ 3510 mục 3.2.4): rượu – không; bệnh mạch máu – mạch rõ, chân ấm, không đau cách hồi (ADA 2026 KC 12.27); hẹp ống sống – không đau lưng, Lasègue âm; khớp – không sưng. Không cần điện cơ vì biểu hiện điển hình (ADA 2026 mục 12; QĐ 3510 mục 3.2.3).",
+     "B12: metformin dài hạn làm tăng nguy cơ thiếu B12 và nặng thêm triệu chứng thần kinh (ADA 2026 mục 9; KC 3.10: kiểm tra định kỳ; mục 13: > 4 năm thì kiểm tra hằng năm). NICE NG239 KC 1.2.5: có triệu chứng + yếu tố nguy cơ thì làm xét nghiệm; KC 1.2.3: không thiếu máu cũng không loại trừ. Cơ sở không làm được nên không loại trừ, hẹn lấy máu.",
+     "Nhóm tuổi ≥ 75 (Applicability note): tài liệu đã tải không nêu liều hay hiệu quả riêng cho nhóm này; chỉ ghi tác dụng phụ thuốc chống co giật, SNRI nặng hơn ở người cao tuổi và nên khởi liều thấp, tăng chậm (QĐ 3510 mục 3.3.3.1, 3.3.3.2; ADA 2026 mục 12). Các chỉ số mục tiêu cần cá thể hóa (QĐ 5481 Bảng 5).",
+     "Lý do thật xin giấy nghỉ ốm: hỏi 'cô cần giấy này nộp cho ai, để làm gì' mới ra nỗi sợ ngã trên sân khấu, mất danh dự đội trưởng (xem su_that dong_co). Triệu chứng đêm hôm đó là thật; giấy nghỉ ốm khống thì không phù hợp."
+    ],
+    "phan_tich_xu_tri": [
+     "Không truyền dịch. Câu nói thay thế: 'Chân tê là do dây thần kinh bị đường huyết lâu năm làm yếu, truyền nước hay thuốc bổ không sửa được dây thần kinh; thuốc uống đúng loại mới làm dịu nóng rát. Cô lớn tuổi, truyền chỉ thêm kim tiêm và nước thừa'. Không tài liệu đã tải nào chỉ định truyền dịch/vitamin cho tê bì ĐTĐ; QĐ 3510 mục 3.3.2.1 chỉ nêu ALA truyền như lựa chọn tăng tốc, không bắt buộc.",
+     "Thuốc giảm đau bậc 1: gabapentinoid hoặc SNRI (QĐ 3510 mục 3.4; ADA 2026 KC 12.22; AAN 2022). Chọn pregabalin liều thấp vì uống buổi tối giúp ngủ, dễ tăng chậm; chưa biết eGFR nên lấy hàng thấp bảng chỉnh liều (QĐ 3510 mục 3.3.3.1). Dặn tác dụng phụ rất thường gặp: phù ngoại vi, chóng mặt, ngủ gà, mất điều vận (QĐ 3510 mục 3.3.3.1) vì bà đã loạng choạng.",
+     "Hai cách chấp nhận được cho người cao tuổi: pregabalin liều thấp, hoặc duloxetin 60 mg/ngày nếu eGFR ≥ 30 (QĐ 3510 mục 3.3.3.2; Beers 2023 Bảng 6). Amitriptylin có trong QĐ 3510 (12,5–25 mg/ngày) nhưng Beers 2023 Bảng 2 khuyên tránh ở ≥ 65 tuổi: ghi cả hai, chấm w cho bà vì đã loạng choạng. Opioid, tramadol: không dùng (QĐ 3510 mục 3.4; AAN 2022 khuyến cáo 8a, 8b).",
+     "Ngưng NSAID: > 75 tuổi tăng nguy cơ xuất huyết/loét (Beers 2023 Bảng 2); chưa biết thận (Beers Bảng 6). Giảm đau khớp bằng paracetamol: dưới 3 g/ngày ở người cao tuổi, gầy yếu (QĐ 361/2014 Phụ lục NSAID, bảng nguy cơ cao) hoặc tối đa 4 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); ghi cả hai, chọn dưới 3 g/ngày cho bà.",
+     "Không có xét nghiệm: chẩn đoán, khởi thuốc liều thấp, bỏ NSAID và dạy chăm sóc chân làm được tại chỗ. Việc phải gửi đi một lần: creatinin/eGFR (chỉnh liều pregabalin, an toàn metformin), HbA1c, B12 (± TSH). Lấy máu trước khi bổ sung B12 (NICE NG239 KC 1.3.4); cân nhắc bổ sung trong lúc chờ (KC 1.3.7), liều không có trong tài liệu đã tải.",
+     "Bàn chân: kiểm tra chân mọi lần khám (ADA 2026 KC 12.25), giáo dục (KC 12.30); IWGDF 2023 (khuyến cáo 2–5): khám lại 6–12 tháng ở nhóm risk 1, không đi chân trần/dép mỏng, rửa – lau khô kẽ ngón, kem dưỡng, cắt móng thẳng. Giày chật gây bóng nước: giày vừa, đế mềm.",
+     "Vận động: không bỏ hẳn; tập dẻo và thăng bằng 2–3 lần/tuần (ADA 2026 KC 5.38), giảm nhảy cường độ cao 4 tuần. Giấy: cấp giấy xác nhận tình trạng bệnh và đề nghị giảm tập (bà hưu trí, không phải giấy nghỉ ốm hưởng chế độ); TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm, không có trong tài liệu đã tải).",
+     "Tái khám sau 4 tuần: đánh giá đáp ứng thuốc sau 2–4 tuần (QĐ 3510 mục 3.3.3). Giảm đau 30–49% là có ý nghĩa lâm sàng, ≥ 50% là mạnh; chỉ coi thất bại khi đã chỉnh tới liều tối ưu khoảng 12 tuần mà không giảm đau đáng kể (QĐ 3510 mục 3.3.3, 3.4; AAN 2022)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pregabalin",
+      "ham_luong": "25 mg (viên nang)",
+      "lieu": "25 mg × 1 lần/ngày; sau 1 tuần nếu dung nạp tốt thêm 25 mg buổi sáng (25 mg × 2 lần/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Trước ngủ; liều thứ hai buổi sáng sau ăn",
+      "so_ngay": "Dùng đến lần tái khám sau 4 tuần",
+      "ghi_chu": "Khởi thấp, tăng chậm ở người cao tuổi (QĐ 3510 mục 3.3.3.1; ADA 2026 mục 12). Trần tạm 50 mg/lần × 3 lần/ngày khi chưa biết eGFR (hàng eGFR 30–60, QĐ 3510 mục 3.3.3.1); liều khởi 25 mg một lần/ngày là mức thận trọng suy ra từ bảng, tài liệu đã tải không nêu liều riêng cho ≥ 75 tuổi. Không ngưng đột ngột. Dặn: chóng mặt, buồn ngủ, phù chân (QĐ 3510 mục 3.3.3.1)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg/lần khi đau khớp, cách nhau ≥ 6 giờ, tối đa 5 viên/ngày (< 3 g)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần, ngắn ngày; không dùng thay thuốc giảm đau thần kinh",
+      "ghi_chu": "Thay diclofenac: người cao tuổi, gầy yếu dùng < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID, bảng nguy cơ cao); văn bản khác ghi đến 4 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); chọn < 3 g/ngày."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và sau ăn tối",
+      "so_ngay": "Giữ nguyên đang dùng, chưa tăng liều",
+      "ghi_chu": "Giữ nguyên liều đang dùng cho đến khi biết eGFR; chống chỉ định khi eGFR < 30, giảm liều khi eGFR 30–45 (QĐ 5481 PL01 mục 2); thận trọng ở > 80 tuổi (QĐ 5481 PL01 mục 2). Metformin dài hạn làm tăng nguy cơ thiếu B12 (ADA 2026 mục 9)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Giữ nguyên đang dùng",
+      "ghi_chu": "Đang dùng, giữ nguyên; chưa chỉnh khi HA 146/82 một lần, đo lại các lần tái khám (QĐ 5481 Bảng 5: mục tiêu < 140/90 ở người nhiều bệnh sức khỏe trung bình)."
+     },
+     {
+      "thuoc": "Alpha-lipoic acid (không bắt buộc)",
+      "ham_luong": "600 mg",
+      "lieu": "600 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30 phút trước ăn sáng",
+      "so_ngay": "Ít nhất 3–5 tuần mới thấy hiệu quả",
+      "ghi_chu": "QĐ 3510 mục 3.3.2.1; không phải bậc 1 (mục 3.4). Mục chấp nhận (a), không bắt buộc."
+     }
+    ],
+    "dan_do": [
+     "Uống pregabalin buổi tối, không tự tăng liều, không ngưng đột ngột; nếu chóng mặt, buồn ngủ, phù chân hay té thì báo ngay (QĐ 3510 mục 3.3.3.1).",
+     "Bỏ diclofenac và mọi thuốc giảm đau mua ở tiệm; muốn uống gì hỏi bác sĩ (Beers 2023 Bảng 2, 6).",
+     "Mỗi tối kiểm tra hai bàn chân, kể cả lòng bàn chân và kẽ ngón (nhờ con soi nếu nhìn không rõ); không đi chân trần, dép mỏng; giày vừa chân, đế mềm; cắt móng thẳng; bôi kem dưỡng gót (ADA 2026 KC 12.30; IWGDF 2023 khuyến cáo 3–5). Có bóng nước, vết xước, đỏ, sưng thì đến ngay.",
+     "Đi lấy máu một lần ở tuyến trên (creatinin, HbA1c, B12, nếu tiện TSH) trong vài tuần tới, mang kết quả đến tái khám (QĐ 3510 mục 3.2.4; NICE NG239 KC 1.3.4).",
+     "Giảm nhảy cường độ cao 4 tuần, tập thăng bằng và đi lại nhẹ, bám tay vịn ở bậc thềm, bật đèn buổi tối (ADA 2026 KC 5.38).",
+     "Tái khám sau 4 tuần để đánh giá hiệu quả (QĐ 3510 mục 3.3.3). Đến sớm nếu loét chân, chân đỏ sưng, ngã, chóng mặt nhiều, buồn ngủ quá mức."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (sau 4 tuần)",
+   "tiep_don": "Cô Bích tái khám sau 4 tuần cùng con gái. Cô đã bỏ diclofenac, uống pregabalin 25 mg tối rồi thêm 25 mg sáng, giữ metformin và amlodipin, soi chân hằng đêm. Cô cho biết đêm đỡ nóng rát một ít nhưng chân vẫn tê. Sinh hiệu: HA 140/80 mmHg, mạch 78 l/p, cân nặng 49,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cô Bích bị nhập viện 'truyền thuốc thần kinh, chỉnh thuốc' dù đáp ứng một phần sau 4 tuần là diễn tiến bình thường (QĐ 3510 mục 3.3.3, 3.4). Không có tiêu chuẩn nhập viện; bà lạ chỗ, mất ngủ hơn, buồn hơn vì xa bạn và con, và càng tin truyền thuốc mới 'có tác dụng', khó kiên nhẫn với thuốc uống.",
+    "chuyen_tuyen": "Cô Bích bị chuyển lên bệnh viện tỉnh vì 'thuốc không ăn thua', mất một ngày, tốn tiền. Ở đó bà bị đổi ngay sang thuốc mới dù đáp ứng 30% đã có ý nghĩa (QĐ 3510 mục 3.3.3, 3.4); việc lấy máu lẫn vào buổi khám và bà không hiểu mình cần làm gì tiếp.",
+    "theo_doi": "Cô Bích được dặn 'cứ uống tiếp, không đổi gì' và hẹn chung chung. Không tăng liều theo ngưỡng đáp ứng, không nhắc đi lấy máu nên chưa biết thận, B12 (QĐ 3510 mục 3.3.3, 3.2.4; NICE NG239 KC 1.3.4). Nỗi buồn mất vai trò không ai hỏi, bà ở nhà nhiều hơn, mất ngủ kéo dài và dễ bỏ thuốc vì cho là vô ích."
+   },
+   "loi_mo": "Bác sĩ ơi, cô uống thuốc 4 tuần rồi mà chân vẫn tê, đêm có đỡ nóng chút xíu thôi. Bạn cô bảo truyền thuốc bổ thần kinh vài ngày là hết, bác sĩ truyền cho cô đi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "140/80",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Uống thuốc 4 tuần rồi, đêm đỡ nóng rát một ít nhưng chân vẫn tê, chưa được như cô mong. Con gái bảo hỏi bác sĩ cho truyền thuốc bổ thần kinh cho nhanh, bạn trong đội truyền 5 ngày thấy hết tê.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám tái khám (lời khai)"
+    },
+    {
+     "id": "dap_ung",
+     "noi_dung": "Trước đây nóng rát về đêm cô chấm 7/10, nay khoảng 5/10. Ngủ được 5 tiếng thay vì 3–4 tiếng. Tê bì lòng bàn chân gần như không đổi. Cô nghĩ 'thuốc không ăn thua'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng một phần sau 4 tuần (giảm khoảng 30%)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Cô uống pregabalin đều: viên tối từ đầu, thêm viên sáng sau tuần đầu. Đã bỏ hẳn diclofenac; hai lần đau gối cô uống paracetamol 500 mg một viên. Vẫn uống metformin, amlodipin như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ; đã ngưng NSAID"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Ban ngày hơi buồn ngủ, nhất là buổi sáng. Khoảng 3 lần dậy đi tiểu đêm bị choáng thoáng qua, phải vịn tường, không ngã. Cuối ngày hai mắt cá hơi phù. Không khó thở, không buồn nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ: buồn ngủ, chóng mặt thoáng, phù mắt cá"
+    },
+    {
+     "id": "dau_hieu_bat_thuong",
+     "noi_dung": "Tê không lan lên đùi, không lan sang tay, không yếu chân mới, không khó đi, không rối loạn đại tiểu tiện, không sụt cân. Triệu chứng tiến triển chậm, cả hai bên như nhau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu bất thường gợi ý bệnh khác hoặc diễn tiến xấu"
+    },
+    {
+     "id": "xet_nghiem",
+     "noi_dung": "Cô chưa đi lấy máu ở bệnh viện tỉnh. Xa, con Mai bận đi làm, cô thấy uống thuốc đã đỡ nên chưa nghĩ cần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa làm xét nghiệm: chưa biết eGFR, B12, HbA1c"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Từ khi nghỉ tập, cô ở nhà nhiều, ít gặp bạn, thấy mình vô dụng, nghĩ mãi chuyện đội và hội diễn nên khó ngủ lại. Không nghĩ tới chuyện tự làm hại mình.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi từ khi nghỉ tập cô thấy thế nào, ban ngày làm gì, tâm trạng ra sao, còn gặp bạn trong đội không.",
+     "k": 1,
+     "y": "Mất vai trò, khí sắc trầm nhẹ, ảnh hưởng giấc ngủ"
+    }
+   ],
+   "kham": {
+    "than_kinh": {
+     "a": "Monofilament 10 g: vẫn không cảm nhận ở đầu ngón cái và xương bàn chân I hai bên (không đổi). Âm thoa 128 Hz: vẫn mất rung ở ngón cái hai bên. Phản xạ gót vẫn mất. Sức cơ 5/5. Không có vùng tê mới, không mất cảm giác ở đùi hay tay.",
+     "k": 1,
+     "hien": "Làm lại các nghiệm pháp cảm giác theo đề nghị."
+    },
+    "chi_duoi": {
+     "a": "Bóng nước ngón út phải đã khô, còn vết chai 3 mm, nền không đỏ, không loét. Phù ấn lõm nhẹ 1+ hai mắt cá, đối xứng, không đau bắp chân. Da gót bớt nứt.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 142/80 mmHg, mạch 74; đứng sau 3 phút 130/76 mmHg, mạch 82. Hạ 12/4 mmHg, bà nói hơi choáng nhẹ, chưa đạt hạ huyết áp tư thế (hạ > 20/10 mmHg: ADA 2026 mục 12).",
+     "k": 1
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi vững hơn lần trước, vẫn bước rộng; đứng một chân giữ được 5 giây.",
+     "k": 0,
+     "hien": "Quan sát bà đi vài bước và quay người."
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, nét mặt trầm, nói chậm khi nhắc đội dân vũ, khí sắc hơi thấp, tư duy mạch lạc, không ý tưởng tự hại. Chưa đủ tiêu chuẩn trầm cảm nặng; cần theo dõi.",
+     "k": 1,
+     "hien": "Hỏi chuyện tâm trạng."
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, nét mặt hơi mệt, cân nặng 49,5 kg. Da niêm hồng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch lúc 8 giờ sáng (nhịn ăn khoảng 12 giờ): 7,2 mmol/L",
+     "ab": 0,
+     "n": "Trong mục tiêu 90–150 mg/dL (5,0–8,3 mmol/L) ở người nhiều bệnh, sức khỏe trung bình (QĐ 5481 Bảng 5)."
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "HbA1c 7,9%",
+     "ab": 0,
+     "thay_the": "glu_mm",
+     "n": "Cơ sở không làm HbA1c; thay bằng đường huyết mao mạch."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 88 µmol/L · eGFR 54 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Cơ sở không có. Nếu bà đã lấy máu sẽ quyết định trần liều pregabalin (QĐ 3510 mục 3.3.3.1) và an toàn metformin (QĐ 5481 PL01 mục 2)."
+    },
+    "b12": {
+     "v": "e",
+     "r": "Vitamin B12 huyết thanh 190 pmol/L (thấp biên)",
+     "ab": 1,
+     "n": "Cơ sở không có. NICE NG239 KC 1.2.5, 1.3.4; ADA 2026 KC 3.10."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh đa dây thần kinh ĐTĐ có đau, đáp ứng một phần sau 4 tuần ở liều pregabalin thấp (giảm khoảng 30%), tác dụng phụ nhẹ",
+     "ok": 1,
+     "n": "Đau 7/10 giảm còn 5/10, ngủ 5 giờ; giảm 30–49% là có ý nghĩa lâm sàng (QĐ 3510 mục 3.3.3). Mới 4 tuần, liều chưa tối ưu: chưa phải thất bại (thất bại khi chỉnh liều tối ưu khoảng 12 tuần: QĐ 3510 mục 3.4; AAN 2022). Mất cảm giác bảo vệ không hồi phục theo thuốc giảm đau."
+    },
+    {
+     "t": "Thất bại điều trị hoặc nguyên nhân thần kinh khác (diễn tiến bất thường)",
+     "n": "Tê không lan lên, không yếu mới, đối xứng, tiến triển chậm: không có dấu hiệu không điển hình (ADA 2026 mục 12: chỉ cần thêm thăm dò khi không điển hình)."
+    },
+    {
+     "t": "Hạ huyết áp tư thế (thuốc, thần kinh tự chủ)",
+     "n": "Chuyển nằm – đứng hạ 12/4 mmHg, chưa đạt ngưỡng > 20/10 mmHg (ADA 2026 mục 12); chóng mặt thoáng là tác dụng phụ pregabalin (QĐ 3510 mục 3.3.3.1) và tuổi."
+    },
+    {
+     "t": "Phù do pregabalin (và amlodipin) so với suy thận, suy tim",
+     "n": "Phù nhẹ 1+ cuối ngày, không khó thở, tim phổi bình thường; phù ngoại vi rất thường gặp ở pregabalin (QĐ 3510 mục 3.3.3.1). Chưa loại suy thận vì chưa có creatinin."
+    },
+    {
+     "t": "Thiếu B12 (metformin) và bệnh thần kinh do rượu",
+     "n": "Chưa loại được B12 vì chưa lấy máu (NICE NG239 KC 1.2.5; ADA 2026 KC 3.10). Rượu: bà không uống (QĐ 3510 mục 3.2.4)."
+    },
+    {
+     "t": "Khí sắc trầm nhẹ do mất vai trò, đau và mất ngủ (chưa đủ chẩn đoán trầm cảm)",
+     "n": "Buồn, thấy vô dụng từ khi nghỉ tập, ngủ kém, không ý tưởng tự hại; AAN 2022 khuyên đánh giá khí sắc và giấc ngủ ở người đau thần kinh ĐTĐ (Level B)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: 4 tuần đã đỡ 30% là thuốc đang có tác dụng; chưa thất bại, đánh giá lại ở khoảng 12 tuần; tê và mất cảm giác bảo vệ không hết nhanh nên vẫn phải giữ thói quen chăm sóc chân",
+     "v": "c",
+     "n": "QĐ 3510 mục 3.3.3, 3.4; AAN 2022. Mất cảm giác bảo vệ: kiểm tra chân mọi lần khám (ADA 2026 KC 12.25)."
+    },
+    {
+     "t": "Tăng pregabalin từ từ: sáng 25 mg, tối 50 mg; trần 50 mg/lần × 3 lần/ngày cho tới khi biết eGFR",
+     "v": "c",
+     "n": "Chỉnh liều từ từ để tìm ngưỡng đáp ứng (QĐ 3510 mục 3.3.3); trần hàng eGFR 30–60 (QĐ 3510 mục 3.3.3.1). Tăng buổi tối vì buồn ngủ ban ngày và chóng mặt thoáng khi dậy đêm cần theo dõi."
+    },
+    {
+     "t": "Đổi sang duloxetin 60 mg/ngày ngay hôm nay",
+     "v": "a",
+     "n": "Bước 2 chỉ khi không giảm đau hoặc không dung nạp (QĐ 3510 mục 3.4, Hình 6); bà đã đáp ứng một phần, dung nạp được; duloxetin chỉ dùng khi eGFR ≥ 30 (QĐ 3510 mục 3.3.3.2), chưa biết eGFR."
+    },
+    {
+     "t": "Dặn dậy từ từ khi đi tiểu đêm (ngồi mép giường, bật đèn, bám tay vịn); đo HA tư thế mỗi lần khám; theo dõi phù",
+     "v": "c",
+     "n": "Chóng mặt, phù ngoại vi là tác dụng phụ rất thường gặp của pregabalin (QĐ 3510 mục 3.3.3.1). Cách dặn cụ thể là nhận định lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhấn mạnh việc đi lấy máu một lần ở tuyến trên (creatinin/eGFR, HbA1c, B12), hẹn ngày cụ thể và nhờ con đi cùng",
+     "v": "c",
+     "n": "QĐ 3510 mục 3.2.4; NICE NG239 KC 1.2.5, 1.3.4; ADA 2026 KC 3.10 (metformin > 4 năm, kiểm B12 hằng năm: mục 13). Không có eGFR thì không dám đưa pregabalin vượt trần."
+    },
+    {
+     "t": "Hỏi cảm xúc, giấc ngủ; giữ vai trò cho bà (cố vấn, huấn luyện ngồi), tập thăng bằng và dẻo 2–3 lần/tuần, dân vũ nhẹ không biểu diễn",
+     "v": "c",
+     "n": "AAN 2022: đánh giá khí sắc và giấc ngủ (Level B); người cao tuổi ĐTĐ tập dẻo và thăng bằng 2–3 lần/tuần (ADA 2026 KC 5.38). Nếu khí sắc xấu hơn hoặc có ý nghĩ tự hại thì chuyển tuyến chuyên khoa: tài liệu đã tải không nêu thang điểm cụ thể."
+    },
+    {
+     "t": "Tiếp tục tránh NSAID; paracetamol dưới 3 g/ngày khi đau gối",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2, 6; QĐ 361/2014 Phụ lục NSAID (bảng nguy cơ cao); một số văn bản cho tới 4 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1), chọn < 3 g/ngày."
+    },
+    {
+     "t": "Tái khám sau 4 tuần (đánh giá lại đau, tác dụng phụ, kết quả xét nghiệm, bàn chân)",
+     "v": "c",
+     "n": "Đánh giá đáp ứng sau 2–4 tuần mỗi lần đổi liều (QĐ 3510 mục 3.3.3); kiểm tra chân mỗi lần khám (ADA 2026 KC 12.25)."
+    },
+    {
+     "t": "Truyền dịch / 'thuốc bổ thần kinh' theo lời bạn bà kể",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải; QĐ 3510 mục 3.4 chỉ khuyến cáo thuốc uống bậc 1 và ALA là thuốc theo cơ chế bệnh sinh."
+    },
+    {
+     "t": "Ngưng pregabalin đột ngột vì 'uống 4 tuần mà chưa hết'",
+     "v": "w",
+     "n": "Thuốc chống co giật không ngừng đột ngột, giảm liều từ từ ít nhất 1 tuần (QĐ 3510 mục 3.3.3.1); đáp ứng 30% đã có ý nghĩa lâm sàng."
+    },
+    {
+     "t": "Thêm amitriptylin hoặc tramadol cho đỡ nhanh",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2 tránh amitriptylin ở ≥ 65 tuổi; QĐ 3510 mục 3.4 và AAN 2022 khuyến cáo 8a, 8b: không dùng opioid, tramadol."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh đa dây thần kinh ĐTĐ thể có đau, đáp ứng một phần (giảm khoảng 30%) sau 4 tuần pregabalin liều thấp",
+     "Tác dụng phụ nhẹ của pregabalin: buồn ngủ, chóng mặt thoáng, phù mắt cá nhẹ (chưa hạ huyết áp tư thế)",
+     "Mất cảm giác bảo vệ bàn chân còn nguyên, vết chai nhỏ, chưa loét",
+     "Khí sắc trầm nhẹ do mất vai trò, đau và mất ngủ",
+     "Chưa có eGFR, HbA1c, B12 (chưa đi lấy máu)"
+    ],
+    "phan_tich_chan_doan": [
+     "Đây là hồi phục chậm bình thường, chưa phải thất bại: giảm đau 30–49% là có ý nghĩa lâm sàng, ≥ 50% là mạnh; chỉ gọi thất bại khi đã chỉnh liều tới tối ưu khoảng 12 tuần mà không giảm đáng kể, hoặc tác dụng phụ lớn hơn lợi ích (QĐ 3510 mục 3.3.3, 3.4; AAN 2022). Chỉ khoảng 50% bệnh nhân đáp ứng với đơn trị (QĐ 3510 mục 3.4).",
+     "Phân biệt chậm bình thường với bất thường: tê đối xứng, không lan lên, không yếu mới, không rối loạn cơ tròn, khám không đổi là diễn tiến đúng; nếu bất đối xứng, yếu vận động, tiến triển nhanh, mất cơ tròn thì tìm nguyên nhân khác (ADA 2026 mục 12).",
+     "Mất cảm giác bảo vệ không hồi phục theo thuốc giảm đau: bàn chân vẫn thuộc nhóm nguy cơ loét suốt đời (ADA 2026 KC 12.25; IWGDF 2023).",
+     "Tác dụng phụ: chóng mặt, buồn ngủ, phù ngoại vi rất thường gặp ở pregabalin (QĐ 3510 mục 3.3.3.1) và nặng hơn ở người cao tuổi; amlodipin cũng có thể gây phù; chưa loại suy thận vì chưa có creatinin. HA tư thế hạ 12/4 mmHg, chưa đạt ngưỡng (ADA 2026 mục 12).",
+     "Chưa chuyển tuyến hay đổi thuốc: ca điển hình, đáp ứng một phần, dung nạp được, chưa biết eGFR nên duloxetin chưa an toàn (QĐ 3510 mục 3.3.3.2). Đáp ứng một phần thì tăng liều đến mức dung nạp tối đa hoặc phối hợp thuốc (QĐ 3510 mục 3.4, Hình 6)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tăng liều tiếp từ từ tới ngưỡng dung nạp (QĐ 3510 mục 3.3.3), nhưng khống chế trần 50 mg/lần × 3 lần/ngày vì chưa biết eGFR (QĐ 3510 mục 3.3.3.1) và tuổi 78, 50 kg. Tăng buổi tối trước vì ngủ kém là phiền nhất, và buồn ngủ ban ngày cần tránh tăng buổi sáng.",
+     "Không truyền dịch: cùng lý do lượt 1 (không có chỉ định trong tài liệu đã tải; QĐ 3510 mục 3.4). Câu nói thay thế: 'Cô đã đỡ 30% sau 4 tuần là thuốc đang có tác dụng, cần tăng chậm và thêm thời gian; truyền nước không làm dây thần kinh lành nhanh hơn mà chỉ thêm rủi ro ở tuổi cô'.",
+     "Việc cần thực hiện cụ thể: hẹn lấy máu (creatinin/eGFR, HbA1c, B12 ± TSH) ở bệnh viện tỉnh vào một buổi sáng con gái rảnh; ghi tờ giấy chỉ định cầm đi. Không có kết quả thì không tăng quá trần, không chuyển sang duloxetin, không tăng metformin.",
+     "Vận động và vai trò: tập thăng bằng, dẻo 2–3 lần/tuần (ADA 2026 KC 5.38); cho bà ở lại đội theo cách an toàn (cố vấn, tập ngồi). Giấy nghỉ ốm không còn cần."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pregabalin",
+      "ham_luong": "25 mg và 50 mg (viên nang)",
+      "lieu": "25 mg buổi sáng + 50 mg trước ngủ (75 mg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng sau ăn; tối trước ngủ",
+      "so_ngay": "2–4 tuần rồi đánh giá lại; chỉnh thêm khi có eGFR",
+      "ghi_chu": "Tăng từ từ (QĐ 3510 mục 3.3.3). Trần tạm 50 mg/lần × 3 lần/ngày khi chưa biết eGFR (hàng eGFR 30–60, QĐ 3510 mục 3.3.3.1). Dặn chóng mặt, buồn ngủ, phù; không ngưng đột ngột (QĐ 3510 mục 3.3.3.1)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg/lần khi đau gối, tối đa 5 viên/ngày (< 3 g)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "< 3 g/ngày ở người cao tuổi, gầy yếu (QĐ 361/2014 Phụ lục NSAID, bảng nguy cơ cao); văn bản khác cho tới 4 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1)."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và sau ăn tối",
+      "so_ngay": "Giữ nguyên đang dùng",
+      "ghi_chu": "Giữ nguyên đến khi biết eGFR; chống chỉ định eGFR < 30 (QĐ 5481 PL01 mục 2)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Giữ nguyên đang dùng",
+      "ghi_chu": "Đang dùng, giữ nguyên; có thể góp phần gây phù mắt cá, theo dõi (HA 140/80, QĐ 5481 Bảng 5)."
+     }
+    ],
+    "dan_do": [
+     "Uống pregabalin theo liều mới: sáng 25 mg, tối 50 mg; không tự tăng thêm, không ngưng đột ngột (QĐ 3510 mục 3.3.3.1).",
+     "Đứng dậy đêm thật chậm: ngồi mép giường một lúc, bật đèn, bám tay vịn; nếu ngã, choáng nhiều hoặc phù nhiều thì báo ngay.",
+     "Đi lấy máu ở bệnh viện tỉnh trong 2 tuần tới (creatinin, HbA1c, B12, nếu tiện TSH) và mang kết quả đến tái khám (QĐ 3510 mục 3.2.4; NICE NG239 KC 1.3.4).",
+     "Soi chân mỗi tối, giày rộng mũi, không đi chân trần; tái khám nếu có bóng nước, vết xước, đỏ sưng (ADA 2026 KC 12.30; IWGDF 2023).",
+     "Tập thăng bằng, dẻo 2–3 lần/tuần; giữ vai trò trong đội ở dạng cố vấn, gặp bạn thường xuyên (ADA 2026 KC 5.38).",
+     "Tái khám sau 4 tuần (QĐ 3510 mục 3.3.3). Đến sớm nếu tê lan lên đùi, yếu chân mới, tiểu khó, buồn rầu nặng hay có ý nghĩ làm hại bản thân."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Bích đi lấy máu ở bệnh viện tỉnh sau lượt 2: creatinin 88 µmol/L (eGFR 54), HbA1c 7,9%, vitamin B12 190 pmol/L (thấp biên, bổ sung theo bác sĩ tuyến trên). Pregabalin tăng dần tới 25 mg sáng + 50 mg tối; sau khoảng 12 tuần đau đêm còn 3/10 (giảm trên 50% so với 7/10), ngủ 6 giờ, nhưng tê bàn chân và mất monofilament vẫn còn. Chân không loét, không té. Bà không biểu diễn hội diễn nhưng làm cố vấn cho đội, tập ngồi và thăng bằng hằng tuần.",
+ "nhieu": [
+  "Đòi truyền dịch ('truyền chai nước, chai thuốc bổ thần kinh'): không có chỉ định trong tài liệu đã tải; thuốc bậc 1 là thuốc uống (QĐ 3510 mục 3.4). Cần câu nói thay thế dành riêng cho bà, không chỉ nói 'không cần'.",
+  "Con gái ủng hộ truyền 'cho mẹ nhanh khỏi' và nhìn đồng hồ: áp lực thời gian, dễ khiến bác sĩ nhượng bộ.",
+  "Chỉ kể metformin và amlodipin khi hỏi chung về thuốc; diclofenac tự mua chỉ lộ khi hỏi cụ thể thuốc giảm đau, thuốc mua ở tiệm.",
+  "Đau khớp gối lâu năm là mồi nhử cho bà tin 'tê chân do khớp' và dùng NSAID."
+ ],
+ "bai_hoc_bien": [
+  "Tê – nóng rát đối xứng ở người ĐTĐ lâu năm: khám monofilament 10 g, âm thoa 128 Hz, kim châm, phản xạ gót; chẩn đoán là chẩn đoán loại trừ (QĐ 3510 mục 3.2.2, 3.2.4; ADA 2026 KC 12.18).",
+  "Không xét nghiệm vẫn quyết định được: chẩn đoán, khởi thuốc liều thấp, bỏ NSAID, chăm sóc chân đều làm tại chỗ; việc cần xét nghiệm (eGFR, B12, HbA1c) thì chặn trần liều và hẹn lấy máu ở tuyến trên (QĐ 3510 mục 3.3.3.1; NICE NG239 KC 1.3.4).",
+  "≥ 75 tuổi: tài liệu đã tải không có liều riêng; khởi thấp, tăng chậm, tránh NSAID và TCA (Beers 2023 Bảng 2, 6; QĐ 3510 mục 3.3.3.1). Applicability note: bằng chứng giảm đau chủ yếu không riêng nhóm tuổi này.",
+  "Hỏi 'giấy dùng làm gì, nộp cho ai' để tìm lý do thật (sợ ngã trên sân khấu, mất vai trò), rồi xử lý nỗi sợ thay vì chỉ ký giấy.",
+  "Đáp ứng một phần sau 4 tuần ở liều thấp là bình thường: giảm 30–49% có ý nghĩa; chỉ gọi thất bại sau khoảng 12 tuần ở liều tối ưu (QĐ 3510 mục 3.3.3, 3.4). Biết phân biệt chậm bình thường với dấu hiệu bất thường (ADA 2026 mục 12).",
+  "Giảm đau thần kinh không làm hồi phục cảm giác bảo vệ: kiểm tra chân mọi lần khám (ADA 2026 KC 12.25)."
+ ],
+ "diem_nho": [
+  "Tầm soát DPN từ lúc chẩn đoán ĐTĐ típ 2 và ít nhất mỗi năm (QĐ 3510 mục 3.1; ADA 2026 KC 12.17). Tới 50% DPN có thể không triệu chứng (ADA 2026 mục 12).",
+  "Pregabalin: khởi 50 mg × 3 lần/ngày, tối đa 100 mg × 3 lần/ngày khi eGFR ≥ 60; eGFR 30–60: khởi 25 mg/lần, tối đa 50 mg/lần × 3 lần/ngày; eGFR 15–30: 25 mg, tối đa 75 mg/lần, 1–2 lần/ngày (QĐ 3510 mục 3.3.3.1).",
+  "Không dùng opioid, tramadol, tapentadol cho đau thần kinh ĐTĐ (QĐ 3510 mục 3.4; AAN 2022 khuyến cáo 8a, 8b).",
+  "Metformin dài hạn: kiểm B12 định kỳ (ADA 2026 KC 3.10), hằng năm khi > 4 năm (ADA 2026 mục 13); thiếu B12 có triệu chứng thần kinh tương tự DPN (QĐ 3510 mục 3.2.4).",
+  "Người cao tuổi ĐTĐ nên tập dẻo và thăng bằng 2–3 lần/tuần (ADA 2026 KC 5.38)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 3510/QĐ-BYT 2025 (TL-0279) – ĐÃ ĐỌC mục 3.1 (quy trình khám), 3.2.1–3.2.4 (triệu chứng, dấu hiệu, chẩn đoán phân biệt), 3.3.1–3.3.3 (ALA, benfotiamine, gabapentinoid, SNRI, TCA), Bảng 2, 3.4 (khuyến cáo, Hình 5–6), 3.5.",
+  "ADA Standards of Care 2026 (TL-0296; mục 12 bản kho cũ tltk-10000-ca) – ĐÃ ĐỌC mục 12 (Diagnosis, Neuropathic Pain Management, KC 12.17–12.25, 12.30), mục 3 (KC 3.10), mục 5 (KC 5.38), mục 9 (metformin và B12), mục 13 (người cao tuổi, B12 hằng năm khi dùng metformin > 4 năm).",
+  "AAN 2022 – Điều trị đau DPN bằng thuốc uống và tại chỗ (TL-0317) – tóm tắt khuyến cáo (đánh giá khí sắc/giấc ngủ, thuốc bậc 1, thất bại sau khoảng 12 tuần, khuyến cáo 8a, 8b opioid/tramadol).",
+  "AGS Beers 2023 (TL-0022) – Bảng 2 (NSAID, amitriptylin), Bảng 6 (gabapentin, pregabalin, duloxetin, NSAID theo CrCl).",
+  "NICE NG239 2024 (TL-0462) – khuyến cáo 1.2.1, 1.2.3, 1.2.5, khung 2 (metformin), 1.3.4, 1.3.6, 1.3.7, 1.5.6.",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 (TL-0031) – Phần 4 Bảng 5 (mục tiêu ở người cao tuổi), PL01 mục 2 (metformin); QĐ 361/QĐ-BYT 2014 (TL-0286) – Phụ lục NSAID (bảng nguy cơ cao), Phụ lục thuốc giảm đau mục 3.1; IWGDF 2023 (kho cũ tltk-10000-ca) – khuyến cáo phòng ngừa loét (screening 6–12 tháng cho risk 1, giáo dục chăm sóc chân). TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c – nguồn bổ sung tự tìm, theo sổ mâu thuẫn (không đối chiếu lại bản hiện hành)."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-10-23)",
+ "ghi_chu_bien_tap": [
+  "2026-10-23: viết mới. Đã đọc: QĐ 3510/2025 (TL-0279) mục 3.1–3.5 và Bảng 2; ADA 2026 mục 12 (kho cũ), 3.10, 5.38, 9, 13; AAN 2022 (TL-0317, phần tóm tắt); Beers 2023 (TL-0022) Bảng 2, 6; NICE NG239 (TL-0462) KC 1.2–1.5; QĐ 5481 Bảng 5, PL01; QĐ 361/2014 Phụ lục; IWGDF 2023.",
+  "Thiếu tài liệu: liều khởi pregabalin cho ≥ 75 tuổi chưa biết eGFR (suy ra từ bảng QĐ 3510 mục 3.3.3.1); liều bổ sung B12 khi thiếu do thuốc; thang sàng lọc trầm cảm; quy định giấy nghỉ ốm cho người hưu trí; cách dặn đứng dậy khi chóng mặt; AAN 2022 chỉ đọc phần tóm tắt.",
+  "Sổ mâu thuẫn đã áp dụng: mục tiêu HbA1c người cao tuổi (QĐ 5481 Bảng 5 / ADA 2026 KC 6.3a, 6.5); paracetamol < 3 g so với tối đa 4 g (QĐ 361/2014); truyền dịch theo yêu cầu (w); giấy nghỉ ốm (TT 56/2017). Đề xuất mục mới: TCA trong đau DPN ở ≥ 65 tuổi (QĐ 3510 / Beers 2023), xem nhap/MT-1059_mau_thuan.md.",
+  "Danh mục: không có mục khám 'bàn chân ĐTĐ' riêng; nghiệm pháp monofilament, âm thoa 128 Hz, kim, phản xạ gót ghi trong 'than_kinh', khám da bàn chân trong 'chi_duoi' ('am_thoa' trong danh mục là Weber/Rinne). Đề xuất: nhap/MT-1059_de_xuat_danh_muc.json."
+ ]
+}

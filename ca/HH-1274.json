@@ -1,0 +1,699 @@
+{
+ "ma_ca": "HH-1274",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình, nguồn kèm vị trí (2026-10-25)",
+ "benh": "HH_covid19",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COVID-19",
+  "chan_doan_phai_loai_tru": [
+   "Cúm mùa",
+   "Viêm phổi vi khuẩn"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Bác sĩ",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quang Vinh",
+  "tuoi": 33,
+  "gioi": "Nam",
+  "nghe": "Bác sĩ nội trú khoa Cấp cứu bệnh viện đa khoa tỉnh, trực 24 giờ mỗi tuần, hay ăn ngoài sau ca",
+  "can_nang": 68,
+  "chieu_cao": 173,
+  "xung_ho": "Bác sĩ gọi anh là “anh Vinh” hoặc “anh”. Anh gọi bác sĩ là “anh/chị” hoặc “đồng nghiệp”, tự xưng “tôi”, hay chêm thuật ngữ. Vợ gọi anh là “anh”, xưng “em” với bác sĩ.",
+  "tinh_cach": "Nói nhanh, tự tin, quen ra y lệnh; đã chẩn đoán xong trong đầu và chỉ đến “lấy đơn”. Tự mua thuốc theo kinh nghiệm bản thân. Rất sợ làm khoa thiếu người, ghét “ốm yếu”, giấu nỗi hoảng sợ sau vẻ chuyên nghiệp.",
+  "kieu_nhieu": "Đòi kháng sinh: vào phòng là nói chẩn đoán và đọc tên thuốc (“azithromycin 500 ba ngày, thêm levofloxacin cho nhanh”); bị từ chối thì nài lần hai bằng thuật ngữ (“không điển hình thì sao, Mycoplasma thì sao”, “bệnh nhân ở khoa em vẫn cho”). Lượt 2 đã khỏe vẫn xin một đợt kháng sinh “dứt ho” kèm troponin, siêu âm tim.",
+  "nguoi_nha": "Vợ, chị Thu, 31 tuổi, giáo viên tiểu học, lái xe chở anh đến lượt 1 vì anh run, nói “đầu nặng”; lượt 2 anh đi một mình. Lo lắng, kể được anh đêm qua ngồi dậy tự bắt mạch và uống prednisolon “như kẹo”; không biết hết nỗi sợ của anh. Con gái 4 tuổi ở nhà với ông bà ngoại.",
+  "ten_nguoi_nha": "Chị Thu (vợ)",
+  "ngoai_hinh": {
+   "da": "#cfa57f",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#3f5f7a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b48f",
+    "toc": "#241a14",
+    "kieuToc": "dai",
+    "ao": "#a86f6a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, rát họng, đau mỏi người sau ăn phở vỉa hè; xin kháng sinh vì phải đi trực",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên xét nghiệm và chẩn đoán hình ảnh đã về (cả hai buổi hẹn đều sau 17 giờ): phòng khám không làm được xét nghiệm máu, test nhanh, X-quang hay siêu âm; mẫu gửi đi (nếu có) chỉ có kết quả sáng hôm sau. Còn dùng được: ống nghe, nhiệt kế, huyết áp kế, máy đo SpO₂, máy điện tim, tủ thuốc cấp cứu. Phải quyết định trước khi có kết quả."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · tối thứ Sáu (ngày 2 của bệnh)",
+   "tiep_don": "Anh Trần Quang Vinh, 33 tuổi, bác sĩ khoa Cấp cứu, vợ chở đến lúc 19 giờ 20 tối thứ Sáu (sau 17 giờ, kỹ thuật viên đã về) vì sốt, rát họng, đau mỏi người từ hôm qua. Anh tự chẩn đoán là “viêm họng cấp sau ăn phở” và xin kê kháng sinh. Sinh hiệu: nhiệt 38,1 °C (đã uống paracetamol lúc 13 giờ), mạch 92 l/p, HA 122/76 mmHg, nhịp thở 18 l/p, SpO₂ 98% khí trời; 68 kg, 1,73 m.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện anh Vinh tối thứ Sáu vì “bác sĩ cấp cứu, tức ngực, sợ viêm cơ tim” là quá tay: anh sốt 38,1 °C, SpO₂ 98% kể cả sau đi bộ, phổi sạch, điện tim bình thường, tức ngực chỉ khi ho. Mức nhẹ điều trị tại nhà (QĐ 2671/2023 Bảng 4, tr. 32–33), CRB-65 = 0 điều trị ngoại trú (QĐ 2147/2026 mục 3.2.1). Anh chiếm giường cách ly mà không có thuốc đặc hiệu nào cần dùng, nỗi sợ nhồi máu càng chắc vì “nặng đến mức phải nằm viện”.",
+    "chuyen_tuyen": "Chuyển anh lên bệnh viện tỉnh trong đêm để làm troponin, siêu âm tim, CT ngực không có chỉ định ở COVID-19 mức nhẹ: X-quang giai đoạn sớm thường bình thường (QĐ 2671/2023 mục 4.5, tr. 23), chỉ định các xét nghiệm đó cho ca này không có trong tài liệu đã tải. Anh ngồi chờ nhiều giờ ở khu cấp cứu giữa người bệnh khác trong khi đang lây, dễ bị kéo thêm xét nghiệm từ kết quả bất thường ngẫu nhiên."
+   },
+   "loi_mo": "Tôi bị viêm họng cấp, sốt từ hôm qua, chắc do tối thứ Tư ăn phở vỉa hè. Kê cho tôi azithromycin 500 ba ngày kèm levofloxacin cho nhanh, mai tôi trực 24 giờ không nghỉ được. Còn hơi tức ngực nữa, chắc do ho thôi.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "122/76",
+    "nhiet": "38,1",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt, rát họng, đau mỏi người từ hôm qua. Anh đã tự chẩn đoán “viêm họng cấp sau ăn phở” và xin “azithromycin kèm levofloxacin cho nhanh” vì sáng mai (thứ Bảy) anh đã đăng ký trực cấp cứu 24 giờ. Anh nhắc thêm “hơi tức ngực, chắc do ho”.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, mong muốn kháng sinh, áp lực đi trực"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Thứ Hai anh trực chung ca với một điều dưỡng; thứ Ba chị sốt, thứ Tư test nhanh dương tính (anh biết qua nhóm chat khoa). Tối thứ Tư anh ăn phở vỉa hè gần bệnh viện. Sáng thứ Năm (ngày 1) rát họng, mỏi người; tối thứ Năm ớn lạnh, sốt, nhức đầu nhẹ. Hôm nay sốt 38–38,5 °C (uống paracetamol 1 g lúc 13 giờ), ho khan, nghẹt mũi nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dòng thời gian: tiếp xúc, ăn phở, khởi phát"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Ca trực thứ Hai chung phòng hồi sức với điều dưỡng sau đó dương tính, khoảng 8 giờ, anh đeo khẩu trang y tế (không N95). Khoa có thêm hai nhân viên sốt trong tuần. Anh đã tiêm đủ vắc xin COVID-19, mũi cuối cách đây 2 năm. Vợ và con gái 4 tuổi chưa có triệu chứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố dịch tễ: tiếp xúc gần người bệnh xác định"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Sốt, ớn lạnh từng đợt, đau mỏi cơ khắp người, nhức đầu nhẹ vùng trán, mệt. Ăn kém hơn thường lệ nhưng uống được nước. Không đau bụng, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hội chứng nhiễm virus hô hấp toàn thân"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Ho khan, không đờm, không ho ra máu, không khò khè, không khó thở khi leo 4 tầng cầu thang ở bệnh viện chiều nay; mùi vị bình thường. Nghẹt mũi nhẹ, rát họng 4/10, nuốt hơi đau, không thấy mủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa có triệu chứng hô hấp dưới; không khó thở"
+    },
+    {
+     "id": "nguc",
+     "noi_dung": "Tức nhói hai bên ngực dưới, 3/10, chỉ mỗi khi ho hoặc hít sâu, không liên tục. Không đè nặng sau xương ức, không lan tay hay hàm, không vã mồ hôi, buồn nôn hay ngất, không đau khi leo cầu thang. Bắp chân không đau, gần đây không đi xa bằng máy bay hay xe dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau ngực kiểu màng phổi theo ho, không theo gắng sức"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Chiều thứ Năm đi phân sệt một lần, không máu, không đau quặn. Người cùng ăn phở với anh khỏe, vợ không ăn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dữ kiện gây nhiễu: nghi ngộ độc thực phẩm"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Prednisolon 5 mg tự mua: mỗi lần rát họng hoặc viêm mũi dị ứng anh uống 4 viên (20 mg) buổi sáng trong 3 ngày, khoảng 3–4 đợt mỗi năm từ thời nội trú. Đợt này đã uống 20 mg sáng thứ Năm và 20 mg sáng thứ Sáu, định uống tới Chủ nhật “cho nhanh khỏi viêm”. Ngoài ra chỉ paracetamol 500 mg × 2 viên lúc 13 giờ. Không dị ứng thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung “đang uống thuốc gì” thì anh chỉ nói “paracetamol”. Chỉ nói ra khi bác sĩ hỏi riêng về thuốc tự mua, corticoid, thuốc anh vẫn uống mỗi khi viêm họng.",
+     "k": 1,
+     "y": "Thuốc đang dùng: corticoid tự mua"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, BMI 22,7, không hút thuốc lá, uống 1–2 lon bia cuối tuần. Không tăng huyết áp, đái tháo đường, bệnh phổi, bệnh thận; không HIV. Chưa kiểm tra mỡ máu 3 năm. Bố mất đột ngột vì nhồi máu cơ tim năm 51 tuổi; mẹ tăng huyết áp. Điện tim khám sức khỏe năm ngoái bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có yếu tố nguy cơ nặng; tiền sử gia đình tim mạch"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Tuần trước anh vừa cấp cứu một nam 26 tuổi sốc tim do viêm cơ tim sau COVID-19. Đêm qua anh tự bắt mạch thấy “hụt nhịp” và nhớ bố mất vì nhồi máu cơ tim ở tuổi 51. Anh sợ mình “sắp có chuyện” nên muốn kháng sinh, troponin, siêu âm tim “cho chắc”, nhưng ngại nói vì “làm bác sĩ không được hoảng”.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh lo nhất điều gì, hỏi gia đình có ai bệnh tim, hỏi vì sao anh nhắc tức ngực hai lần, hoặc sau khi trấn an bằng điện tim.",
+     "k": 1,
+     "y": "Lý do thật: sợ nhồi máu cơ tim như bố"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Anh sống cùng vợ và con gái 4 tuổi, nhà cách phòng khám 6 km. Ca trực thứ Bảy anh tự đăng ký, khoa thiếu người, nghỉ thì phải tự tìm người thay. Ở nhà có máy đo SpO₂ ngón tay và hai hộp test nhanh kháng nguyên SARS-CoV-2 còn hạn. Anh có BHYT, có xe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện cách ly, theo dõi, ràng buộc công việc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt vừa, nói liền câu dài, da niêm hồng, môi không tím, không phát ban. 68 kg, 1,73 m (BMI 22,7). Đi lại tự nhiên.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau họng ít nhầy trong; amidan hai bên không to, không mủ, không giả mạc. Niêm mạc mũi phù nhẹ, dịch trong. Màng nhĩ bình thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ trước đau, không hạch thượng đòn; tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p đều, không co kéo. Rung thanh, gõ hai bên bình thường. Rì rào phế nang êm hai phế trường, không ran, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p đều, không co kéo. Rung thanh, gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi, không T3, không tiếng cọ màng ngoài tim. Mạch quay đều, bắt rõ hai tay.",
+     "k": 1,
+     "hien": "Tim đều, tần số 92 l/p."
+    },
+    "co_xuong_khop": {
+     "a": "Ấn xương sườn, xương ức, khớp ức–sườn không đau; ép lồng ngực hai bên không đau, không tái hiện cơn tức ngực. Nhói chỉ xuất hiện khi ho sâu.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, không phù, không đau khi ấn, không giãn tĩnh mạch.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi hành lang 40 m và leo 2 tầng cầu thang không phải dừng, nói trọn câu. SpO₂ thấp nhất 98%; nhịp thở lên 22 rồi về 18 l/p sau một phút.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "u",
+     "ab": 1,
+     "r": "Tối nay phòng khám không làm được. Nếu làm (hoặc anh tự test kháng nguyên ở nhà sáng mai): SARS-CoV-2 dương tính, cúm A/B âm tính.",
+     "n": "Hữu ích để xác định ca và báo kiểm soát nhiễm khuẩn, nhưng không đổi xử trí hôm nay (mức nhẹ không yếu tố nguy cơ: COVID-19 và cúm đều không kháng virus, không kháng sinh). Ca nghi ngờ đã đủ: dịch tễ và ≥ 3 triệu chứng (QĐ 2671/2023 mục 2.1a, tr. 18); kháng nguyên dương tính cộng triệu chứng là ca xác định (mục 2.2b), nhạy kém PCR (mục 4.8.2b, tr. 29). WHO 2023 mục 3.5 (tr. 33, 35): tự xét nghiệm dương tính phù hợp COVID-19, âm tính không loại trừ; tự xét nghiệm được khuyến cáo mạnh. NICE NG237 2024 khuyến cáo 1.3.3: không dùng test nhanh để quyết định kháng sinh, có thể dùng cho kiểm soát nhiễm khuẩn."
+    },
+    "pcr_ho_hap": {
+     "v": "a",
+     "ab": 1,
+     "r": "Không lấy mẫu được tối nay (gửi mẫu: kết quả không có trong ngày). Nếu làm: SARS-CoV-2 dương tính, cúm A/B âm tính.",
+     "n": "Chấp nhận, không bắt buộc: RT-PCR nhạy, đặc hiệu cao (QĐ 2671/2023 mục 4.8.2a, tr. 29; WHO 2023 mục 3.5, tr. 33). Không chờ kết quả để quyết định."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Nếu gửi mẫu: kết quả sáng mai.",
+     "bang": {
+      "wbc": 4.4,
+      "neu_pct": 70,
+      "lym_pct": 21,
+      "lym": 0.92,
+      "mono_pct": 8,
+      "hgb": 148,
+      "plt": 172
+     },
+     "ab": 1,
+     "n": "Không cần: QĐ 2671/2023 mục 6.8.2 (tr. 53) làm công thức máu, CRP khi nghi nhiễm khuẩn; anh không có. Lympho giảm gặp ở COVID-19 (mục 4.2, tr. 23) nhưng không đổi xử trí."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Nếu gửi mẫu: CRP 14 mg/L (sáng mai).",
+     "bang": {
+      "crp": 14
+     },
+     "ab": 1,
+     "n": "Không cần: NICE NG237 2024 khuyến cáo 1.3.4 chỉ dùng CRP khi nghi nhiễm khuẩn hô hấp dưới chưa rõ cần kháng sinh; anh không có dấu hiệu hô hấp dưới."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Không làm được tối nay. Nếu gửi mẫu (sáng mai): troponin T hs trong giới hạn bình thường.",
+     "n": "Hai cách đều đúng. Không làm: đau nhói theo ho, không theo gắng sức, điện tim và khám bình thường; chỉ định troponin cho COVID-19 nhẹ: không có trong tài liệu đã tải. Hoặc gửi mẫu sáng mai để trấn an (QĐ 2671/2023 mục 4.4, tr. 23: troponin T tăng trong tổn thương tim). Không chờ kết quả để quyết định."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 90 l/p, trục trung gian, PR và QRS bình thường, ST–T bình thường, không ST chênh, không block, không ngoại tâm thu trong lúc ghi.",
+     "n": "Làm tại chỗ được và có ích cho đau ngực kèm nỗi sợ nhồi máu cơ tim: QĐ 2671/2023 mục 3.2.2 (tr. 19–20) nêu COVID-19 có thể gây viêm cơ tim, nhồi máu cơ tim, thuyên tắc phổi, triệu chứng thường không đặc hiệu (đau ngực, mệt, khó thở, ho). Chỉ định ECG riêng cho COVID-19 nhẹ: không có trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Phòng X-quang đã khóa. Nếu chụp: phổi hai bên bình thường.",
+     "n": "Không cần: giai đoạn sớm hoặc viêm hô hấp trên thì X-quang thường bình thường (QĐ 2671/2023 mục 4.5, tr. 23); mức nhẹ không viêm phổi (mục 5.2.1, tr. 31)."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "Nếu làm: âm tính.",
+     "n": "Không cần: Centor 1 điểm (sốt > 38,0 °C; có ho, hạch cổ không đau, amidan không mủ); WHO AWaRe 2022 (TL-0018) Pharyngitis, tr. 50: Centor 0–2 ít khả năng liên cầu, thường không cần xét nghiệm, chỉ điều trị triệu chứng."
+    },
+    "ns1": {
+     "v": "a",
+     "r": "Không làm được tối nay. Nếu gửi mẫu (sáng mai): NS1 âm tính.",
+     "n": "Chấp nhận: vùng có sốt xuất huyết lưu hành thì người sốt cần xét nghiệm theo quy trình bệnh đó (WHO 2023 mục 3.6 Remark 1, tr. 36). Triệu chứng hô hấp và dịch tễ COVID-19 nổi bật nên không bắt buộc; dặn quay lại khi xấu đi (QĐ 2760/2023 (TL-0029) mục IV.A.3b)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 mức độ nhẹ (ca bệnh nghi ngờ: có yếu tố dịch tễ và ≥ 3 triệu chứng), ngày 2 của bệnh, ở người 33 tuổi đã tiêm vắc xin, chưa có yếu tố nguy cơ bệnh diễn tiến nặng; kèm tức ngực kiểu màng phổi khi ho, điện tim bình thường",
+     "ok": 1,
+     "n": "Tiếp xúc gần người bệnh xác định cách đây 3 ngày (ủ bệnh 2–14 ngày: QĐ 2671/2023 mục 3.1, tr. 19) cộng sốt, đau họng, mệt, đau mỏi, nhức đầu, ho, nghẹt mũi (mục 2.1a, tr. 18). Mức nhẹ: không viêm phổi, không giảm oxy máu (mục 5.2.1, tr. 31). Yếu tố nguy cơ (Bảng 5, tr. 34: tuổi > 60, béo phì, bệnh nền, thai, HIV, hút thuốc lá, chưa tiêm vắc xin): anh không có."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Lâm sàng giống COVID-19 (QĐ 1840/2025 (TL-0122) mục II.1.1, tr. 7) nên cần test nhanh hoặc PCR để phân biệt (QĐ 2671/2023 mục 4.8.3, tr. 30). Dịch tễ nghiêng về COVID-19 và xử trí giống nhau: mức nhẹ không yếu tố nguy cơ không kháng virus, không kháng sinh (QĐ 1840 mục III.2.2, tr. 10–11)."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn (hoặc viêm phổi do COVID-19, mức trung bình)",
+     "n": "Viêm phổi điển hình sốt cao > 39 °C, rét run, đờm mủ, hội chứng đông đặc (QĐ 2147/2026 (TL-0121) mục 3.1.1, tr. 15); anh sốt 38,1 °C, không đờm, phổi sạch, SpO₂ không giảm sau đi bộ; mức trung bình thở 22–30 l/p (QĐ 2671 mục 5.2.2, tr. 31). CRB-65 = 0, điều trị ngoại trú (QĐ 2147 mục 3.2.1). Không loại hẳn: dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Viêm họng cấp do liên cầu nhóm A",
+     "n": "Centor 1 điểm (WHO AWaRe 2022 mục Pharyngitis, tr. 50: Centor 0–2 chỉ điều trị triệu chứng); amidan không mủ, hạch cổ không đau, kèm ho, nghẹt mũi, đau mỏi người toàn thân."
+    },
+    {
+     "t": "Ngộ độc thực phẩm / viêm dạ dày–ruột sau ăn phở vỉa hè",
+     "n": "Chỉ một lần phân sệt, không nôn, không đau bụng, người cùng ăn khỏe; triệu chứng hô hấp nổi bật. Tiêu chảy gặp ở 2–50% người COVID-19 (QĐ 2671/2023 mục 3.2.5, tr. 21)."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue",
+     "n": "Chưa loại hẳn ở ngày 2 của sốt (giai đoạn nguy hiểm thường vào ngày 3–7: QĐ 2760/2023 (TL-0029) mục II.2); ho, nghẹt mũi và dịch tễ COVID-19 nổi bật hơn. Dùng paracetamol, tránh ibuprofen (mục IV.A.1), dặn quay lại khi xấu đi."
+    },
+    {
+     "t": "Hội chứng vành cấp, viêm cơ tim hoặc thuyên tắc phổi (nguyên nhân tức ngực)",
+     "n": "Nhói theo ho, không theo gắng sức, điện tim bình thường, tim không âm thổi hay tiếng cọ, bắp chân bình thường. COVID-19 có thể gây các biến chứng này (QĐ 2671/2023 mục 3.2.2, tr. 19–20) nên ngưỡng quay lại thấp (WHO 2023 mục 3.22, tr. 108)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng thuốc tự mua (kể cả corticoid, thuốc vẫn uống mỗi khi viêm họng), tiền sử gia đình tim mạch, ai tiếp xúc, và hỏi anh lo nhất điều gì",
+     "v": "c",
+     "n": "Thuốc tự mua và nỗi lo thật chỉ lộ khi hỏi riêng; không có con số hay chỉ định cần dẫn nguồn."
+    },
+    {
+     "t": "Chẩn đoán trên lâm sàng và dịch tễ (ca nghi ngờ); khẳng định bằng test kháng nguyên anh tự làm ở nhà hoặc PCR sau, không chờ kết quả để quyết định hôm nay",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 2.1a, 2.2b (tr. 18) và mục 4.8.1 (tr. 28): ca nghi ngờ cần xét nghiệm khẳng định. WHO 2023 mục 3.5 (tr. 33, 35): kháng nguyên dùng được khi PCR không có; tự xét nghiệm kháng nguyên khuyến cáo mạnh. Tối nay phòng khám không làm được, mà kết quả không đổi xử trí mức nhẹ."
+    },
+    {
+     "t": "Không kê kháng sinh (azithromycin, levofloxacin, cephalosporin) cho COVID-19 mức nhẹ",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 6.8.1a (tr. 52), Bảng 6 (tr. 36): mức nhẹ không dùng kháng sinh nếu không có bằng chứng nhiễm khuẩn. WHO 2023 mục 3.6 (tr. 36): không dùng kháng sinh điều trị hay dự phòng ở COVID-19 nhẹ. Các nguồn cùng hướng."
+    },
+    {
+     "t": "Kê azithromycin, levofloxacin hoặc kháng sinh phổ rộng “cho chắc” vì anh là bác sĩ hay vì sợ viêm phổi không điển hình",
+     "v": "w",
+     "n": "Không nguồn nào nêu chỉ định cho COVID-19 nhẹ (QĐ 2671/2023 mục 6.8.1a; WHO 2023 mục 3.6). Anh không có dấu hiệu nhiễm khuẩn: không đờm mủ, phổi sạch, SpO₂ 98%."
+    },
+    {
+     "t": "Không kê kháng virus (nirmatrelvir/ritonavir, molnupiravir) vì anh không có yếu tố nguy cơ bệnh diễn tiến nặng",
+     "v": "c",
+     "n": "QĐ 2671/2023 Bảng 7 (tr. 37–38): nirmatrelvir/ritonavir cho mức nhẹ–trung bình CÓ ít nhất một yếu tố nguy cơ, trong 5 ngày từ khởi phát; molnupiravir cho người ≥ 18 tuổi có nguy cơ chuyển nặng (Bảng 6, tr. 35 ghi “Có” cho mức nhẹ, Bảng 7 giới hạn người có yếu tố nguy cơ). EPIC-SR (TL-0163, NEJM 2024) ở người nguy cơ chuẩn: hết triệu chứng 12 so với 13 ngày (P = 0,60). Kê kháng virus “để chắc” chấm w."
+    },
+    {
+     "t": "Ngưng prednisolon tự mua, không cần giảm liều dần",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 6.6.1a (tr. 45), Bảng 6 (tr. 35): mức nhẹ không dùng corticoid trừ khi có chỉ định khác. Mới dùng 2 ngày: ESE/Endocrine Society 2024 (TL-0063) R 2.1: dùng < 3–4 tuần ngưng không cần giảm liều. Nguy cơ của nhiều đợt ngắn lặp lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục hoặc tăng prednisolon “cho nhanh hết viêm, mai đi trực được”",
+     "v": "w",
+     "n": "Không chỉ định ở mức nhẹ (QĐ 2671/2023 mục 6.6.1a); dexamethason 6–12 mg chỉ cho mức nặng, nguy kịch (Bảng 6). Cúm cũng không dùng corticoid thường quy (QĐ 1840/2025 mục III.2.3, tr. 12)."
+    },
+    {
+     "t": "Hạ sốt giảm đau bằng paracetamol đơn chất 500 mg, 1–2 viên/lần khi sốt hoặc đau mỏi, cách ≥ 6 giờ, tối đa 3 g/ngày (hoặc 4 g/ngày), kèm uống đủ nước, ăn nhẹ",
+     "v": "c",
+     "n": "WHO 2023 mục 3.6 (tr. 36): COVID-19 nhẹ điều trị triệu chứng. Liều: QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.1 (tr. 202): 500–1.000 mg/lần, cách 6–8 giờ, ≤ 4 g/24 giờ; bậc 1: 500–3.000 mg/24 giờ; QĐ 2760/2023 mục IV.A.1: ≤ 60 mg/kg/24 giờ. Ghi 3 g vì thận trọng hơn; 4 g chấp nhận."
+    },
+    {
+     "t": "Dùng ibuprofen hoặc aspirin để hạ sốt, giảm đau",
+     "v": "w",
+     "n": "Chưa loại trừ sốt xuất huyết Dengue ở ngày 2: QĐ 2760/2023 mục IV.A.1 không dùng aspirin, analgin, ibuprofen. WHO 2023 mục 3.6 (Remark, tr. 36): chưa có bằng chứng NSAID gây tác dụng phụ nặng ở COVID-19; nên NSAID chỉ là lựa chọn sau khi đã loại trừ sốt xuất huyết."
+    },
+    {
+     "t": "Làm điện tim 12 chuyển đạo tại chỗ và giải thích kết quả cho anh; không chờ troponin",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 3.2.2 (tr. 19–20): đau ngực là biểu hiện tuần hoàn không đặc hiệu của COVID-19; WHO 2023 mục 3.22 (tr. 108): dặn nguy cơ nhồi máu cơ tim, viêm cơ–màng ngoài tim. Chỉ định ECG riêng cho COVID-19 nhẹ: không có trong tài liệu đã tải; làm vì nỗi sợ thật của anh."
+    },
+    {
+     "t": "Cách ly ở nhà: ít nhất 5 ngày kể từ triệu chứng đầu tiên và đeo khẩu trang đến hết ngày thứ 10, hoặc cách ly 10 ngày; không đi trực, báo trưởng khoa và kiểm soát nhiễm khuẩn",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 7.1 (tr. 74): cách ly ít nhất 5 ngày từ triệu chứng đầu tiên, nên đeo khẩu trang hết ngày thứ 10. WHO 2023 mục 3.2 (tr. 18): gợi ý 10 ngày (có điều kiện, bằng chứng rất thấp). Khác nhau vì BYT 2023 cho rút ngắn kèm khẩu trang, WHO ưu tiên giảm lây. Quy định riêng cho nhân viên y tế: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đi trực ngày mai “vì khoa thiếu người”, chỉ đeo khẩu trang",
+     "v": "h",
+     "n": "Virus phát tán từ 2 ngày trước triệu chứng, mạnh nhất 3 ngày đầu, khoảng 8 ngày; người cao tuổi, bệnh nền dễ diễn tiến nặng (QĐ 2671/2023 mục I, tr. 17), mà phòng cấp cứu đầy người như vậy."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc đến cấp cứu và giao người giám sát (vợ), hẹn tái khám tối thứ Năm tuần sau",
+     "v": "c",
+     "n": "QĐ 2671/2023 Bảng 4 (tr. 32–33): cảnh báo ở mức nhẹ gồm SpO₂ < 96%, sốt cao liên tục không giảm với paracetamol. WHO 2023 mục 3.6 (tr. 36): choáng váng, khó thở, đau ngực, mất nước thì đi khám khẩn; mục 3.22 (tr. 108). Mốc ngày 8: không có trong tài liệu đã tải; chọn sau giai đoạn toàn phát 4–5 ngày (QĐ 2671 mục 3.2, tr. 19)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 mức độ nhẹ (ca bệnh nghi ngờ: yếu tố dịch tễ và ≥ 3 triệu chứng), ngày 2 của bệnh; chưa có yếu tố nguy cơ bệnh diễn tiến nặng (QĐ 2671/2023 mục 2.1a, 5.2.1, Bảng 5)",
+     "Tức ngực nhói theo ho, điện tim bình thường, chưa gợi ý viêm cơ tim hay hội chứng vành; nỗi sợ nhồi máu cơ tim chưa nói ra",
+     "Đã loại: cúm mùa (không phân biệt được bằng lâm sàng nhưng xử trí giống nhau), viêm phổi vi khuẩn (CRB-65 = 0), viêm họng liên cầu (Centor 1), ngộ độc thực phẩm; sốt xuất huyết chưa loại hẳn nên tránh ibuprofen",
+     "Kèm theo: dùng prednisolon tự mua không có chỉ định, áp lực đi trực khi đang lây"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: dịch tễ (tiếp xúc), diễn tiến sốt–họng–mỏi, triệu chứng hô hấp, tức ngực (theo ho hay gắng sức), tiêu hóa sau ăn phở, thuốc đang dùng kể cả thuốc tự mua, tiền sử và gia đình tim mạch, điều kiện cách ly, nỗi lo thật. Khám: toàn trạng, họng–mũi, hạch, phổi (nghe), tim, thành ngực, bắp chân, đi bộ đo SpO₂. CLS: điện tim; test kháng nguyên và PCR không làm được tối nay nên không chờ kết quả.",
+     "Vì sao COVID-19: tiếp xúc gần người bệnh xác định cộng sốt, đau họng, mệt, đau mỏi, nhức đầu, ho, nghẹt mũi (≥ 3 triệu chứng) là ca nghi ngờ (QĐ 2671/2023 mục 2.1a, tr. 18); ủ bệnh 2–14 ngày (mục 3.1, tr. 19). Mức nhẹ vì không viêm phổi, không giảm oxy máu (mục 5.2.1, tr. 31).",
+     "Không phải cúm: lâm sàng giống (QĐ 1840/2025 mục II.1.1) nên cần test mới phân biệt (QĐ 2671 mục 4.8.3), nhưng dịch tễ là COVID-19 và xử trí giống nhau (QĐ 1840 mục III.2.2). Không phải viêm phổi: sốt 38,1 °C, không đờm mủ, phổi sạch, SpO₂ 98% sau đi bộ, CRB-65 = 0 (QĐ 2147/2026 mục 3.1.1, 3.2.1).",
+     "Tức ngực: COVID-19 có thể gây viêm cơ tim, nhồi máu cơ tim, thuyên tắc phổi (QĐ 2671/2023 mục 3.2.2), nhưng nhói theo ho, không theo gắng sức, điện tim và khám bình thường nên ít gợi ý. Không chứng minh được bằng troponin tối nay, nên ngưỡng quay lại thấp và dặn bằng lời cụ thể (WHO 2023 mục 3.22).",
+     "Ngoài giờ không có kỹ thuật viên: không chờ xét nghiệm; bù bằng hỏi dịch tễ, khám, SpO₂ sau đi bộ, điện tim, test anh tự làm sáng mai và tái khám có mốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Lời thoại từ chối mà giữ lòng tin: “Dạ, em hiểu anh làm cấp cứu, thấy bệnh nhân nặng nhiều nên muốn đánh chặn sớm, lại lo khoa thiếu người. Em khám kỹ rồi: phổi anh sạch, oxy 98% cả khi đi bộ, điện tim bình thường, không đờm mủ. Đây là COVID nhẹ do virus nên kháng sinh không rút ngắn bệnh mà chỉ thêm tác dụng phụ; hướng dẫn của Bộ Y tế và WHO đều không cho kháng sinh ở mức nhẹ. Em dặn anh dấu hiệu viêm phổi mà lúc đó em sẽ kê ngay, hẹn anh tối thứ Năm tuần sau, và anh báo khoa để có người trực thay.”",
+     "Kháng sinh không kê (QĐ 2671/2023 mục 6.8.1a, Bảng 6; WHO 2023 mục 3.6; QĐ 1840/2025 mục III.2.2). Kháng virus không kê vì không có yếu tố nguy cơ (QĐ 2671 Bảng 5, 7; EPIC-SR 2024 ở người nguy cơ chuẩn: hết triệu chứng 12 so với 13 ngày, P = 0,60). Các nguồn cùng hướng.",
+     "Prednisolon tự mua: ngưng, không cần giảm dần vì dưới 3–4 tuần (ESE/Endocrine Society 2024 R 2.1); mức nhẹ không dùng corticoid (QĐ 2671 mục 6.6.1a). Nói với anh như đồng nghiệp: không có chỉ định, không làm bệnh nhẹ hơn, thói quen này cần bỏ.",
+     "Hạ sốt bằng paracetamol đơn chất, ghi tối đa 3 g/ngày (bảng bậc 1 QĐ 361/2014: 500–3.000 mg/24 giờ), hoặc 4 g/ngày (Phụ lục mục 3.1), hoặc ≤ 60 mg/kg/24 giờ (QĐ 2760/2023); 3 g thận trọng hơn. Tránh ibuprofen khi chưa loại trừ sốt xuất huyết (QĐ 2760 mục IV.A.1).",
+     "Cách ly: ít nhất 5 ngày kèm khẩu trang đến hết ngày 10 (QĐ 2671 mục 7.1) hoặc 10 ngày (WHO 2023 mục 3.2); hai nguồn khác nhau vì năm và mục tiêu. Anh nghỉ trực thứ Bảy, báo khoa; vợ và con theo dõi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên/lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau mỏi, sau ăn, cách nhau ≥ 6 giờ",
+      "so_ngay": "Khi cần trong 3–5 ngày; tối đa 6 viên (3 g)/ngày",
+      "ghi_chu": "QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.1 (≤ 4 g/24 giờ) và bảng bậc 1 (500–3.000 mg/24 giờ); QĐ 2760/2023 mục IV.A.1 (≤ 60 mg/kg/24 giờ). Ghi 3 g vì thận trọng hơn. Không ibuprofen, aspirin."
+     },
+     {
+      "thuoc": "Prednisolon 5 mg (tự mua)",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "Ngưng, không kê",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng từ tối nay",
+      "so_ngay": "Không giảm liều dần",
+      "ghi_chu": "QĐ 2671/2023 mục 6.6.1a, Bảng 6: mức nhẹ không dùng corticoid; ESE/Endocrine Society 2024 R 2.1: dùng < 3–4 tuần ngưng không cần giảm liều."
+     }
+    ],
+    "dan_do": [
+     "Ở nhà, ngủ riêng, đeo khẩu trang khi ở chung, mở cửa thông gió. Cách ly ít nhất 5 ngày kể từ triệu chứng đầu tiên (thứ Năm) và đeo khẩu trang đến hết ngày thứ 10 (QĐ 2671/2023 mục 7.1, tr. 74), hoặc cách ly 10 ngày (WHO 2023 mục 3.2, tr. 18). Báo trưởng khoa, đổi ca thứ Bảy; vợ, con theo dõi (thời gian lây: QĐ 2671 mục I, tr. 17).",
+     "Sáng mai tự test kháng nguyên và chụp lại (WHO 2023 mục 3.5, tr. 35): dương tính phù hợp COVID-19, âm tính không loại trừ (Remark 4, tr. 33). Uống đủ nước, ăn nhẹ (mục 3.6, tr. 36). Có máy SpO₂ thì đo sáng–tối.",
+     "Quay lại hoặc đến cấp cứu ngay nếu: SpO₂ dưới 96% khi nghỉ hoặc khó thở khi đi lại, sốt cao liên tục không giảm với paracetamol (QĐ 2671/2023 Bảng 4, tr. 32–33); thở nhanh, ho đờm mủ, sốt trở lại sau khi đã hạ (nghĩ viêm phổi hay bội nhiễm: mục 6.8.1b, tr. 52).",
+     "Gọi 115 ngay nếu: đau ngực đè nặng, lan tay hoặc hàm, vã mồ hôi, hồi hộp kéo dài, ngất, khó thở nặng, lú lẫn, yếu liệt (WHO 2023 mục 3.22, tr. 108: tắc mạch phổi, nhồi máu cơ tim, rối loạn nhịp, viêm cơ–màng ngoài tim, suy tim, đột quỵ; mục 3.6, tr. 36).",
+     "Không uống thêm prednisolon, không ibuprofen hay aspirin (QĐ 2671/2023 mục 6.6.1a; QĐ 2760/2023 mục IV.A.1). Paracetamol tối đa 6 viên 500 mg mỗi ngày.",
+     "Tái khám tối thứ Năm tuần sau (ngày 8), mang ảnh kết quả test; đến sớm hơn nếu xấu đi (mốc ngày 8: không có trong tài liệu đã tải; chọn sau giai đoạn toàn phát, QĐ 2671 mục 3.2, tr. 19)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tối thứ Năm tuần sau (ngày 8 của bệnh)",
+   "tiep_don": "Tái khám theo hẹn lúc 18 giờ 50 tối thứ Năm (ngày 8 của bệnh; sau 17 giờ nên vẫn không có kỹ thuật viên), anh Vinh đến một mình bằng xe riêng, đeo khẩu trang. Anh nói đã khỏe hẳn, hết sốt từ Chủ nhật, chỉ còn ho khan vài tiếng buổi sáng, nhưng muốn “kiểm tra cho chắc” trước khi quay lại trực thứ Hai. Sinh hiệu: nhiệt 36,8 °C, mạch 66 l/p, HA 118/72 mmHg, nhịp thở 16 l/p, SpO₂ 99% khí trời.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện anh Vinh để làm troponin, siêu âm tim và theo dõi vì “sợ viêm cơ tim sau COVID-19” là quá tay: anh đã hết sốt 4 ngày, SpO₂ 99%, phổi sạch, điện tim lại bình thường, không đau ngực hay hụt hơi khi đi bộ nhanh 30 phút. Anh nằm viện thêm vài ngày không cần thiết, mất thêm ca trực, và nỗi sợ càng bị khẳng định (“phải nằm viện thì chắc có bệnh tim”); chỉ định các xét nghiệm đó cho người đã khỏi không có trong tài liệu đã tải (QĐ 2671/2023 mục 4.7.2, tr. 28 chỉ nêu siêu âm tim để đánh giá bệnh tim liên quan nhiễm trùng).",
+    "chuyen_tuyen": "Chuyển anh lên bệnh viện tỉnh ngay tối nay để làm siêu âm tim, troponin và chụp X-quang ngực “cho chắc” là không có chỉ định ở người đã khỏi hoàn toàn: phổi sạch, SpO₂ 99%, điện tim bình thường (QĐ 2671/2023 mục 4.5: giai đoạn sớm X-quang thường bình thường; WHO 2023 mục 3.22 chỉ theo dõi thêm khi còn triệu chứng kéo dài, mới hoặc thay đổi). Anh tốn thêm một buổi tối và chi phí, kết quả bất thường ngẫu nhiên có thể kéo thêm xét nghiệm, còn nỗi sợ nhồi máu cơ tim vẫn còn nguyên vì chưa được hỏi đến."
+   },
+   "loi_mo": "Em đỡ hẳn rồi, hết sốt từ hôm Chủ nhật, test hôm thứ Bảy dương tính vạch rõ, tối thứ Tư với sáng nay âm tính. Thứ Hai em trực lại được chưa? Trước khi đi, em muốn làm troponin với siêu âm tim, thêm một đợt azithromycin cho dứt ho, em sợ nó thành viêm phổi muộn.",
+   "sinh_hieu": {
+    "mach": 66,
+    "ha": "118/72",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "Anh đến theo hẹn, khỏe hẳn, muốn biết khi nào đi trực lại; anh xin troponin, siêu âm tim và “một đợt azithromycin dứt ho”.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lượt 2, ba yêu cầu"
+    },
+    {
+     "id": "tien_trien",
+     "noi_dung": "Hết sốt từ sáng Chủ nhật (ngày 4); lần cuối dùng paracetamol sáng Chủ nhật. Đau họng, đau mỏi hết ngày 5, hết mệt ngày 6. Hiện chỉ ho khan vài tiếng buổi sáng, không đờm, không khó thở, ăn ngủ bình thường. Chiều nay đi bộ nhanh 30 phút không tức ngực, không hụt hơi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ hoàn toàn: hết sốt, hết triệu chứng, chịu được gắng sức nhẹ"
+    },
+    {
+     "id": "test_nha",
+     "noi_dung": "Sáng thứ Bảy (ngày 3) anh tự test kháng nguyên: hai vạch, vạch T rõ (ảnh trong điện thoại). Tối thứ Tư (ngày 7) và sáng nay: chỉ một vạch C. Không làm PCR. Anh nghỉ trực thứ Bảy, đã có người thay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả test tự làm; cách ly đã thực hiện"
+    },
+    {
+     "id": "pred",
+     "noi_dung": "Từ tối thứ Sáu anh ngưng hẳn prednisolon. Không chóng mặt khi đứng dậy, không buồn nôn, không chán ăn, không mệt lả. Anh hỏi: “ngưng đột ngột có sao không?”.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngưng corticoid, không triệu chứng gợi ý suy thượng thận"
+    },
+    {
+     "id": "tim_lo",
+     "noi_dung": "Dù đã khỏi, hai đêm nay anh vẫn thấy 2–3 lần “hụt nhịp” khi nằm yên, tự bắt mạch 66 đều; đọc bài về viêm cơ tim sau COVID-19 và nghi mình thuộc nhóm đó. Đây là lý do thật anh xin troponin và siêu âm tim, không phải vì triệu chứng đang có.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao vẫn muốn troponin, siêu âm tim dù đã khỏi, hỏi có hồi hộp hay hụt nhịp không, hoặc sau khi giải thích điện tim.",
+     "k": 1,
+     "y": "Lý do thật: vẫn sợ tim, cảm giác hụt nhịp"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Thứ Hai 7 giờ anh trực cấp cứu. Điều dưỡng cùng ca đã đi làm lại hôm thứ Sáu. Vợ và con vẫn khỏe, đã đeo khẩu trang ở chung. Anh đeo khẩu trang đến hết ngày 10 (thứ Bảy).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện quay lại làm việc, lây cho gia đình"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, khỏe, da niêm hồng, nói liền câu dài, không mệt khi đứng dậy; huyết áp đứng không tụt.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hồng, không chất nhầy, amidan bình thường; niêm mạc mũi hồng, không dịch.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p đều. Rung thanh, gõ hai bên bình thường. Rì rào phế nang êm hai phế trường, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 16 l/p đều. Rung thanh, gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 66 l/p, T1 T2 rõ, không âm thổi, không T3, không tiếng cọ màng ngoài tim. Không phù, tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 66 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Đi hành lang 40 m và leo 2 tầng cầu thang không phải dừng. SpO₂ thấp nhất 99%; nhịp thở lên 20 rồi về 16 l/p sau một phút.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 64 l/p, trục bình thường, PR và QRS bình thường, ST–T bình thường, không ngoại tâm thu trong lúc ghi, giống điện tim ngày 2.",
+     "n": "Làm tại chỗ được; kết quả bình thường là bằng chứng trấn an cụ thể cho nỗi sợ nhồi máu cơ tim. Chỉ định ECG cho người COVID-19 đã khỏi: không có trong tài liệu đã tải; WHO 2023 mục 3.22 (tr. 108) chỉ yêu cầu dặn đi khám khi triệu chứng kéo dài, mới hoặc thay đổi."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Không làm được tối nay. Nếu gửi mẫu: troponin T hs trong giới hạn bình thường.",
+     "n": "Không cần: đã khỏi, không đau ngực hay hụt hơi khi gắng sức nhẹ, điện tim bình thường. Chỉ định troponin cho người đã khỏi COVID-19 nhẹ: không có trong tài liệu đã tải (QĐ 2671/2023 mục 4.4, tr. 23 nêu troponin T tăng trong tổn thương tim)."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Ngoài giờ không làm được. Nếu làm: chức năng tâm thu bình thường, không tràn dịch màng tim.",
+     "n": "Không cần: QĐ 2671/2023 mục 4.7.2 (tr. 28) nêu siêu âm tim đánh giá bệnh tim liên quan nhiễm trùng, viêm cơ tim, nhồi máu cơ tim; không có chỉ định cho người đã khỏi, không triệu chứng, điện tim bình thường trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Phòng X-quang đã khóa. Nếu chụp: phổi hai bên bình thường.",
+     "n": "Không cần: đã khỏi, không sốt, phổi sạch, SpO₂ 99%; mức nhẹ X-quang bình thường hoặc ít tổn thương (QĐ 2671/2023 mục 5.2.1). Chụp hoặc khám lại khi triệu chứng hô hấp kéo dài, mới hoặc thay đổi (WHO 2023 mục 3.22, tr. 108); số tuần cụ thể: không có trong tài liệu đã tải."
+    },
+    "flu": {
+     "v": "n",
+     "r": "Nếu làm: âm tính.",
+     "n": "Không cần để quay lại làm việc: QĐ 2671/2023 mục 7.1 (tr. 74) cho kết thúc cách ly khi đủ 5 ngày kèm khẩu trang đến ngày 10, hoặc khi xét nghiệm âm tính; WHO 2023 mục 3.2 (tr. 21) gợi ý dùng kháng nguyên nhanh để rút ngắn cách ly (bằng chứng rất thấp). Anh đã có hai test tự làm âm tính."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 mức nhẹ, ngày 8, đã khỏi lâm sàng (hết sốt từ ngày 4, hai test kháng nguyên tự làm âm tính, SpO₂ 99%, phổi sạch, điện tim bình thường); ho khan nhẹ còn sót",
+     "ok": 1,
+     "n": "Mức nhẹ không biến chứng (QĐ 2671/2023 mục 5.2.1, tr. 31). Test dương tính ngày 3 cộng triệu chứng là ca xác định (mục 2.2b, tr. 18). Ho còn vài tiếng sau khỏi là thường gặp: WHO 2023 mục 3.22 (tr. 108) nêu khoảng 1/3 người có triệu chứng ngoại trú chưa trở lại bình thường sau 2–3 tuần."
+    },
+    {
+     "t": "Viêm phổi muộn hoặc bội nhiễm vi khuẩn sau COVID-19",
+     "n": "Không sốt lại, ho khan không đờm mủ, phổi sạch, SpO₂ 99%, thở 16 l/p (QĐ 2147/2026 mục 3.1.1, tr. 15); không có bằng chứng nhiễm khuẩn nên không kháng sinh (QĐ 2671 mục 6.8.1a)."
+    },
+    {
+     "t": "Viêm cơ tim, viêm màng ngoài tim hoặc rối loạn nhịp sau COVID-19",
+     "n": "Không đau ngực, không hụt hơi khi đi bộ nhanh 30 phút, tim đều 66 l/p, điện tim bình thường. Cảm giác “hụt nhịp” khi nằm yên là triệu chứng cần hỏi nhưng ý nghĩa ngoại tâm thu thưa ở người trẻ khỏe: không có trong tài liệu đã tải. Nếu đau ngực, hồi hộp kéo dài, ngất hay khó thở thì làm ngay điện tim, troponin (QĐ 2671/2023 mục 3.2.2; WHO 2023 mục 3.22)."
+    },
+    {
+     "t": "Suy thượng thận do corticoid hoặc hội chứng cai corticoid",
+     "n": "Dùng 2 ngày: ESE/Endocrine Society 2024 R 2.1 ngưng không cần giảm liều, không cần xét nghiệm. Anh không chóng mặt tư thế, không buồn nôn, không mệt lả. Nguy cơ của nhiều đợt ngắn lặp lại mỗi năm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hội chứng COVID kéo dài (post COVID-19 condition)",
+     "n": "Chưa phải: WHO 2023 mục 3.22 (tr. 108) định nghĩa thường sau 3 tháng, triệu chứng kéo dài ít nhất 2 tháng không giải thích được bằng chẩn đoán khác. Anh đã hết gần hết triệu chứng ở ngày 8."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận đã khỏi lâm sàng bằng sinh hiệu, SpO₂ sau đi bộ, khám phổi–tim, điện tim; hết sốt và hết triệu chứng toàn thân; chỉ còn ho khan nhẹ",
+     "v": "c",
+     "n": "Tiêu chí mức nhẹ: không viêm phổi, không giảm oxy máu, tỉnh, tự phục vụ (QĐ 2671/2023 mục 5.2.1, tr. 31); SpO₂ ≥ 96% (Bảng 4, tr. 32–33). Số giờ hết sốt cần có trước khi quay lại làm việc: không có trong tài liệu đã tải; đây là ngày thứ 4 không sốt và không dùng hạ sốt."
+    },
+    {
+     "t": "Cho phép anh quay lại ca trực thứ Hai (ngày 12), đeo khẩu trang đến hết ngày 10 hoặc theo quy định đơn vị; tránh gắng sức nặng đến khi hết ho",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 7.1 (tr. 74): ≥ 5 ngày từ triệu chứng đầu tiên, nên đeo khẩu trang đến hết ngày thứ 10. WHO 2023 mục 3.2 (tr. 18): 10 ngày. Thứ Hai (ngày 12) đủ cả hai. WHO Topic 16 (tr. 125–126, viết cho COVID kéo dài): tránh gắng sức nặng đến khi hết triệu chứng tim–phổi; áp dụng gián tiếp."
+    },
+    {
+     "t": "Không kê kháng sinh “dứt ho” hay “dự phòng viêm phổi muộn” (ho khan, không sốt, phổi sạch)",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 6.8.1a (tr. 52), Bảng 6 (tr. 36); WHO 2023 mục 3.6 (tr. 36): không dùng kháng sinh điều trị hay dự phòng ở COVID-19 nhẹ. Cùng hướng."
+    },
+    {
+     "t": "Trấn an bằng điện tim, khám và giải thích; không làm thêm troponin, siêu âm tim, X-quang hay PCR lại; nói rõ khi nào cần các xét nghiệm đó",
+     "v": "c",
+     "n": "Điện tim bình thường, không triệu chứng tim–phổi. Làm thêm khi triệu chứng kéo dài, mới hoặc thay đổi (WHO 2023 mục 3.22, tr. 108). PCR lại không cần để kết thúc cách ly (QĐ 2671 mục 7.1). Chỉ định troponin, siêu âm tim cho người đã khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ định troponin, siêu âm tim hoặc CT ngực ngay cho anh “để chắc trước khi đi trực”",
+     "v": "w",
+     "n": "Không có chỉ định ở người đã khỏi, không triệu chứng, điện tim bình thường; kết quả ngẫu nhiên không giải quyết nỗi sợ."
+    },
+    {
+     "t": "Hỏi riêng vì sao anh vẫn muốn xét nghiệm tim dù đã khỏe, hỏi cảm giác hụt nhịp, hồi hộp, và gọi tên nỗi sợ nhồi máu cơ tim như bố",
+     "v": "c",
+     "n": "Nỗi sợ thật chỉ lộ khi hỏi riêng; trấn an có hiệu lực khi dựa trên điện tim và khám của chính anh. Không có con số cần dẫn nguồn."
+    },
+    {
+     "t": "Dặn: đau ngực, hồi hộp kéo dài, ngất, khó thở thì đến cấp cứu; ho hoặc mệt kéo dài, triệu chứng mới thì quay lại khám",
+     "v": "c",
+     "n": "WHO 2023 mục 3.22 (tr. 108): mọi người COVID-19 cần được dặn theo dõi triệu chứng; nếu còn kéo dài, mới hoặc thay đổi thì tìm chăm sóc; dặn cấp cứu cho tắc mạch phổi, nhồi máu cơ tim, rối loạn nhịp, viêm cơ–màng ngoài tim, suy tim, đột quỵ."
+    },
+    {
+     "t": "Không tự dùng prednisolon cho lần viêm họng hay viêm mũi sau; hỏi bác sĩ trước",
+     "v": "c",
+     "n": "Corticoid không có chỉ định ở COVID-19 nhẹ (QĐ 2671/2023 mục 6.6.1a) hay cúm không nặng (QĐ 1840/2025 mục III.2.3). Chỉ định prednisolon cho viêm họng hay viêm mũi dị ứng ở người này: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 mức nhẹ, ngày 8, đã khỏi lâm sàng; hai test kháng nguyên tự làm âm tính (ngày 7 và 8) sau test dương tính ngày 3; ho khan nhẹ còn sót",
+     "Điện tim bình thường, không đau ngực hay hụt hơi khi gắng sức nhẹ: chưa có dấu hiệu viêm cơ tim hay hội chứng vành",
+     "Đã loại: viêm phổi muộn hoặc bội nhiễm, suy thượng thận do corticoid, hội chứng COVID kéo dài",
+     "Kèm theo: nỗi sợ nhồi máu cơ tim còn (cảm giác hụt nhịp khi nằm yên); thói quen tự dùng prednisolon cần bỏ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn tiến từ lượt trước (hết sốt khi nào, triệu chứng còn lại, có dùng hạ sốt không), kết quả test tự làm, ngưng prednisolon và triệu chứng cai, gắng sức nhẹ có đau ngực hay hụt hơi, vì sao vẫn xin xét nghiệm tim, điều kiện quay lại trực. Khám: sinh hiệu, phổi (nghe), tim (nghe), đi bộ đo SpO₂. CLS: điện tim.",
+     "Khỏi lâm sàng: hết sốt từ ngày 4, hết đau họng và đau mỏi ngày 5, hết mệt ngày 6; SpO₂ 99%, phổi sạch, tim đều 66 l/p (QĐ 2671/2023 mục 5.2.1, tr. 31; Bảng 4, tr. 32–33). Ca xác định nhờ triệu chứng cộng test dương tính ngày 3 (mục 2.2b, tr. 18). Ho khan còn sót là thường gặp (WHO 2023 mục 3.22, tr. 108).",
+     "Nỗi sợ nhồi máu cơ tim: điện tim bình thường, không đau ngực, đi bộ nhanh 30 phút không hụt hơi. Troponin và siêu âm tim không có chỉ định trong tài liệu đã tải cho người đã khỏi, không triệu chứng; ngưỡng làm lại là triệu chứng tim–phổi kéo dài, mới hoặc thay đổi (WHO 2023 mục 3.22). Hội chứng COVID kéo dài chưa đặt ra: thường sau 3 tháng, triệu chứng ít nhất 2 tháng (WHO mục 3.22)."
+    ],
+    "phan_tich_xu_tri": [
+     "Lời thoại từ chối và trấn an: “Dạ, em hiểu anh muốn chắc ăn trước khi trực. Nhưng anh khỏi rồi: hết sốt bốn ngày, oxy 99%, phổi sạch, hai test gần nhất âm tính, điện tim hôm nay đẹp như hôm thứ Sáu. Ho vài tiếng buổi sáng là thường còn sau COVID, kháng sinh không làm nó hết nhanh hơn và hướng dẫn không cho kháng sinh khi không có dấu hiệu nhiễm khuẩn. Troponin hay siêu âm tim lúc này không có chỉ định; nếu anh đau ngực, hồi hộp kéo dài, ngất hay khó thở thì mình làm ngay. Em muốn hỏi riêng: anh vẫn lo chuyện tim như bố phải không?”",
+     "Kháng sinh không kê (QĐ 2671/2023 mục 6.8.1a; WHO 2023 mục 3.6). Xét nghiệm tim không làm vì đã khỏi, điện tim bình thường; bớt xét nghiệm không chỉ định cũng bớt kết quả ngẫu nhiên và lo âu.",
+     "Quay lại làm việc: thứ Hai (ngày 12) đủ ≥ 5 ngày kèm khẩu trang đến hết ngày 10 hoặc test âm tính (QĐ 2671 mục 7.1) và đủ 10 ngày (WHO 2023 mục 3.2): cả hai nguồn đều đạt, không phải chọn. Tránh gắng sức nặng đến khi hết ho.",
+     "Prednisolon: không dùng lại khi không có chỉ định (QĐ 2671 mục 6.6.1a); đã ngưng, không triệu chứng cai, không cần xét nghiệm (ESE/Endocrine Society 2024 R 2.1). Ngoài giờ không có kỹ thuật viên: lượt này không thiếu xét nghiệm cần thiết nào."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc mới",
+      "ham_luong": "Không",
+      "lieu": "Không",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Đã khỏi: không kháng sinh (QĐ 2671/2023 mục 6.8.1a; WHO 2023 mục 3.6), không corticoid (QĐ 2671 mục 6.6.1a). Thuốc ho cho ho khan sau COVID-19 nhẹ: không có chỉ định trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Anh khỏi rồi. Đi trực thứ Hai (ngày 12) được: đã quá 5 ngày kèm khẩu trang đến hết ngày 10 (QĐ 2671/2023 mục 7.1, tr. 74) và quá 10 ngày (WHO 2023 mục 3.2, tr. 18); quy định riêng của bệnh viện nếu có: không có trong tài liệu đã tải.",
+     "Ho khan buổi sáng có thể còn vài tuần; ho không giảm, mệt kéo dài hoặc triệu chứng mới thì quay lại khám (WHO 2023 mục 3.22, tr. 108: khoảng 1/3 người có triệu chứng ngoại trú chưa bình thường sau 2–3 tuần).",
+     "Đau ngực, hồi hộp kéo dài, ngất, khó thở: đến cấp cứu ngay, đừng chờ (WHO 2023 mục 3.22, tr. 108). Hụt nhịp thoáng qua không kèm triệu chứng khác chưa cần xét nghiệm ngay; ghi lại và báo nếu tăng.",
+     "Không tự uống prednisolon khi rát họng; cần thuốc thì khám trước (QĐ 2671/2023 mục 6.6.1a). Không kháng sinh khi không có dấu hiệu nhiễm khuẩn.",
+     "Tập thể lực trở lại từ từ, tránh gắng sức nặng đến khi hết ho (WHO 2023 Topic 16, tr. 125–126, áp dụng gián tiếp). Kiểm tra mỡ máu, huyết áp định kỳ vì bố mất vì nhồi máu cơ tim năm 51 tuổi (ngưỡng, lịch: không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Vinh nghỉ trực thứ Bảy, có người thay; hết sốt từ Chủ nhật (ngày 4); vợ và con gái không bị lây. Tối thứ Năm tuần sau anh tái khám đã khỏe, điện tim bình thường, được cho quay lại trực thứ Hai (ngày 12), đeo khẩu trang đến hết ngày 10 như đã dặn. Ho khan hết sau khoảng 2 tuần, không dùng kháng sinh. Anh ngừng thói quen tự uống prednisolon và nhờ vợ nhắc đi kiểm tra mỡ máu, huyết áp định kỳ. Xử trí lượt 1 và 2 đúng với dữ kiện lúc đó; nỗi sợ nhồi máu cơ tim chỉ giảm khi bác sĩ hỏi đến và trấn an bằng điện tim của chính anh, không phải bằng kháng sinh hay xét nghiệm thêm.",
+ "nhieu": [
+  "Đòi kháng sinh bằng thuật ngữ (“azithromycin kèm levofloxacin cho nhanh”) ở lượt 1 và “dứt ho” ở lượt 2: kỹ năng từ chối mà giữ lòng tin với đồng nghiệp.",
+  "Ăn phở vỉa hè và một lần phân sệt: dữ kiện gây nhiễu, kéo về ngộ độc thực phẩm, trong khi dịch tễ COVID-19 chỉ lộ khi hỏi tiếp xúc.",
+  "Tức ngực nhói theo ho cộng bố mất vì nhồi máu cơ tim: nguy cơ nền đáng tôn trọng nhưng không giải thích bệnh cấp 2 ngày; trấn an bằng điện tim, không bằng troponin hay siêu âm tim.",
+  "Prednisolon tự mua chỉ lộ khi hỏi riêng; không có chỉ định ở mức nhẹ nhưng ngưng không cần giảm liều dần vì mới dùng 2 ngày.",
+  "Áp lực đi trực khi đang lây: bác sĩ phải nói rõ lý do cách ly mà không làm anh mất mặt."
+ ],
+ "bai_hoc_bien": [
+  "Điểm dừng chẩn đoán: hỏi “dữ kiện nào KHÔNG được giải thích bởi COVID-19?”. Tức ngực nhói theo ho phải kiểm tra bằng điện tim và dặn ngưỡng quay lại, không bỏ qua.",
+  "Đòi kháng sinh: công nhận mong muốn thật, nêu chẩn đoán bằng kết quả khám của chính anh (phổi sạch, SpO₂ 98%, điện tim bình thường), rồi đưa việc thay thế (tờ dặn, mốc, tái khám) thay vì đơn trống.",
+  "Ngoài giờ không có kỹ thuật viên: không chờ test để quyết định; ca nghi ngờ đủ tiêu chuẩn lâm sàng và dịch tễ (QĐ 2671/2023 mục 2.1a).",
+  "Hai cách đều đúng: cách ly 5 ngày kèm khẩu trang đến hết ngày 10 (QĐ 2671 mục 7.1) hoặc 10 ngày (WHO 2023 mục 3.2); paracetamol tối đa 3 g hay 4 g/ngày (QĐ 361/2014).",
+  "Kháng virus không phải mặc định: nirmatrelvir/ritonavir dành cho người có yếu tố nguy cơ (QĐ 2671/2023 Bảng 7).",
+  "Tiêu chí “khỏi” ở lượt 2: hết sốt và triệu chứng, SpO₂ bình thường sau đi bộ, phổi sạch, điện tim bình thường; không cần PCR lại, X-quang, troponin, siêu âm tim. Số giờ hết sốt trước khi đi làm lại và quy định cho nhân viên y tế: không có trong tài liệu đã tải."
+ ],
+ "diem_nho": [
+  "Ca nghi ngờ = dịch tễ + ≥ 3 triệu chứng; ca xác định = triệu chứng + kháng nguyên hoặc RT-PCR dương tính (QĐ 2671/2023 mục 2.1a, 2.2). Mức nhẹ không viêm phổi, không giảm oxy máu (mục 5.2.1).",
+  "Mức nhẹ không kháng sinh (mục 6.8.1a), không corticoid (mục 6.6.1a); kháng virus chỉ khi có yếu tố nguy cơ (Bảng 5, 7). Hạ sốt giảm đau, bù nước, dinh dưỡng (WHO 2023 mục 3.6).",
+  "Cách ly ≥ 5 ngày từ triệu chứng đầu tiên và khẩu trang đến hết ngày 10 (QĐ 2671 mục 7.1) hoặc 10 ngày (WHO mục 3.2). Cảnh báo ở mức nhẹ: SpO₂ < 96%, sốt cao không giảm với paracetamol (Bảng 4); đau ngực, khó thở, choáng váng thì khám khẩn (WHO mục 3.6)."
+ ],
+ "nguon": [
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 · Hướng dẫn chẩn đoán và điều trị COVID-19 · mục I (tr. 17), 2.1a, 2.2 (tr. 18), 3.1 (tr. 19), 3.2.2 (tr. 19–20), 3.2.5 (tr. 21), 4.2, 4.4, 4.5 (tr. 23), 4.7.2 (tr. 28), 4.8.1–4.8.3 (tr. 28–30), 5.2.1–5.2.2 (tr. 31), Bảng 4 (tr. 32–33), Bảng 5 (tr. 34), Bảng 6 (tr. 35–36), Bảng 7 (tr. 37–38), 6.6.1a (tr. 45), 6.8.1–6.8.2 (tr. 52–53), 7.1 (tr. 74)",
+  "TL-0135 · WHO 2023 · Clinical management of COVID-19: living guideline, 18 August 2023 · mục 3.2 (tr. 18, 21), 3.5 (tr. 33, 35), 3.6 (tr. 36), 3.7 (tr. 37), 3.22 (tr. 108), Topic 16 (tr. 125–126); TL-0163 · EPIC-SR · NEJM 2024;390:1186–1195 · Abstract",
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 · Cúm mùa · mục I, II.1.1, II.2.3, II.2.4.1, III.2.2–III.2.3; TL-0121 · QĐ 2147/QĐ-BYT 2026 · VPMPCĐ người lớn · mục 3.1.1 (tr. 15), 3.2.1 (tr. 18–19); TL-0146 · NICE NG237 2024 · khuyến cáo 1.3.1–1.3.4; TL-0018 · WHO AWaRe 2022 · Pharyngitis (tr. 50)",
+  "TL-0063 · ESE/Endocrine Society 2024 · Eur J Endocrinol 190:G25–G51 · R 2.1; TL-0286 · QĐ 361/QĐ-BYT 2014 · Phụ lục thuốc giảm đau mục 2–3.1 (tr. 201–202); TL-0029 · QĐ 2760/QĐ-BYT 2023 · Sốt xuất huyết Dengue · mục II.2, IV.A.1, IV.A.3b",
+  "Không có trong tài liệu đã tải: chỉ định ECG, troponin, siêu âm tim, X-quang cho COVID-19 nhẹ có đau ngực hoặc đã khỏi; thang xác suất thuyên tắc phổi; số giờ hết sốt trước khi quay lại làm việc và quy định cho nhân viên y tế; nguy cơ nhiều đợt corticoid ngắn lặp lại; ảnh hưởng của corticoid sớm lên COVID-19 nhẹ; ý nghĩa ngoại tâm thu thưa; thời gian trả kết quả RT-PCR; mốc tái khám ngày 8; số tuần chụp lại X-quang; lịch tiêm vắc xin; lịch tầm soát mỡ máu"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25 – viết: Sonnet. Soạn mới theo CLAUDE.md mục 3; liều, ngưỡng, tiêu chuẩn đã mở lại bản chữ tài liệu để đối chiếu.",
+  "Tài liệu đã đọc: TL-0124 (mục I, 2–5, Bảng 4–7, 6.3.1, 6.6.1, 6.8, 7.1); TL-0135 (3.2, 3.5–3.7, 3.22, Topic 16); TL-0163 (Abstract); TL-0122 (I–III); TL-0121 (3.1.1, 3.2.1); TL-0146 (1.1–1.3); TL-0018 (Centor); TL-0063 (R 2.1); TL-0286 (Phụ lục thuốc giảm đau); TL-0029 (II.2, IV.A).",
+  "Mâu thuẫn ghi cả hai cách theo sổ: cách ly COVID-19 (QĐ 2671 mục 7.1 và WHO 2023 mục 3.2); paracetamol tối đa (QĐ 361/2014, QĐ 2760/2023). Ghi nhận mới: Bảng 6 và Bảng 7 QĐ 2671 về kháng virus mức nhẹ; NSAID trong COVID-19 (WHO) so với sốt xuất huyết (QĐ 2760). Chi tiết: HH-1274_mau_thuan.md.",
+  "Mâu thuẫn ghi cả hai cách theo sổ: cách ly COVID-19 (QĐ 2671 mục 7.1, WHO 2023 mục 3.2); paracetamol tối đa (QĐ 361/2014, QĐ 2760/2023). Chi tiết: HH-1274_mau_thuan.md.",
+  "khoa_cls: ‘xn’ và ‘sieu_am’. Âm thanh: phổi AT-PHOI-BT-NL-01 cả hai lượt; tim AT-TIM-BT-NL-01 chỉ lượt 2 (mạch 66). Không ảnh da, không đề xuất mục danh mục mới."
+ ]
+}

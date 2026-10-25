@@ -1,0 +1,727 @@
+{
+ "ma_ca": "HH-1077",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo CLAUDE.md mục 3 (2026-10-25)",
+ "benh": "HH_viem_thanh_quan_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm thanh quản cấp",
+  "chan_doan_phai_loai_tru": [
+   "Bạch hầu",
+   "Dị vật đường thở"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Cơ đỏ ngụy trang",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (mẹ đổi sang siro ho kháng histamin tự mua)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng (của bà ngoại, người trông bé; bé không dùng)",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân (bà ngoại có van tim cơ học, uống thuốc chống đông)"
+ },
+ "benh_nhan": {
+  "ten": "Hoàng Bảo Châu",
+  "tuoi": 0.75,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi (9 tháng), bú mẹ và ăn bột",
+  "can_nang": 8.4,
+  "chieu_cao": 71,
+  "xung_ho": "Bé gái 9 tháng, chưa nói, chỉ khóc và bập bẹ. Mẹ (chị Mai, 26 tuổi) bế bé, gọi bé là \"bé Châu\" hoặc \"con\", xưng \"em\" với bác sĩ; bác sĩ gọi mẹ là \"chị\". Bà ngoại (bà Hòa, 61 tuổi) ngủ cùng bé, xưng \"tôi\".",
+  "tinh_cach": "Chị Mai hiền, nói nhanh, hay cười trừ \"chắc không sao đâu\", vội kịp chuyến xe khách duy nhất về nhà lúc 11 giờ. Thương mẹ: bà thay van tim cơ học, uống thuốc chống đông mỗi tối, chị sợ bà ốm phải nhập viện. Bà Hòa ít nói, lo xa, để ý từng tiếng thở của cháu.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám 42 km đường đèo, xe khách một chuyến, sóng yếu, mưa là sạt đường. Mẹ lo kịp xe, coi \"bé ngoan, ngủ nhiều\" là bé đỡ, gọi tiếng rít ban đêm là \"khò khè cơ địa\" và không kể; chỉ bà ngoại kể khi được hỏi. Chai siro ho chỉ đưa khi được hỏi.",
+  "nguoi_nha": "Mẹ (chị Mai) và bà ngoại (bà Hòa) đi cùng cả ba lượt; mẹ trả lời hầu hết câu hỏi (nguoi_noi = nguoi_nha), bà bổ sung chuyện ban đêm.",
+  "ten_nguoi_nha": "Chị Mai (mẹ) và bà Hòa (bà ngoại)",
+  "ngoai_hinh": {
+   "da": "#f1d8c6",
+   "toc": "#2a1d17",
+   "kieuToc": "tre",
+   "ao": "#f4b6c2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#1c1512",
+    "kieuToc": "dai",
+    "ao": "#8fb4c9",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé gái 9 tháng ho, \"khò khè\" 3 ngày",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT (không cần: croup chẩn đoán bằng lâm sàng). Có: máy đo SpO₂, máy khí dung, bình oxy, X-quang ngực, xét nghiệm cơ bản, dexamethason, adrenaline 1/1000. Không có hồi sức, không đặt được nội khí quản. Bệnh viện tỉnh (nhi, hồi sức) cách 28 km, xe cấp cứu đến trong khoảng 40 phút."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 9 tháng, 8,4 kg, mẹ và bà ngoại bế đến lúc 9 giờ 30 vì ho và \"khò khè\" mấy hôm nay. Sinh hiệu: nhiệt 37,9 °C, mạch 120 l/p, nhịp thở 38 l/p, SpO₂ 97% khí trời. Bé tỉnh, đang bú mẹ, thỉnh thoảng ho.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện Châu vì mẹ sợ lây cho bà là không có chỉ định: bé tỉnh, bú được, chỉ rít khi khóc (độ I), SpO₂ 97%; độ I điều trị ngoại trú (QĐ 5643/2015, hạ thanh môn mục 4.2.1). Đặt kim truyền làm bé khóc, mà khóc làm phù nề thanh quản tăng (mục 4.2.3) và có thể gây tắc đường thở (WHO 2013 mục 4.6.1). Mẹ mất mấy ngày chi phí, bà ở nhà một mình.",
+    "chuyen_tuyen": "Chuyển Châu lên bệnh viện tỉnh ngay là quá tay: sau 42 km đường đèo bé còn thêm 28 km, khóc suốt chặng xe, trong khi độ I ngoại trú được (QĐ 5643/2015, hạ thanh môn mục 4.2.1); chuyển tuyến để dành cho độ IIB, III hoặc thất bại nội khoa (mục 4.2.3). Mẹ lỡ chuyến xe về và vẫn chưa được dặn cách canh tiếng thở ban đêm."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em ho với khò khè mấy bữa nay, chắc cơ địa giống thằng anh nó, hay khò khè mỗi lần trở trời. Bác sĩ cho em thuốc ho cho nó ngủ ngon rồi em về, nhà xa lắm, em phải kịp xe 11 giờ.",
+   "sinh_hieu": {
+    "mach": 120,
+    "ha": "Không đo",
+    "nhiet": "37,9",
+    "nhip_tho": 38,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé ho và \"khò khè\" 2–3 hôm nay, sốt nhẹ, bú hơi ít. Mẹ nghĩ bé \"cơ địa\" giống anh trai, xin thuốc ho cho bé ngủ ngon rồi về kịp xe 11 giờ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Ngày 0: sổ mũi, sốt nhẹ 37,8–38,2 °C. Ngày 1: ho khan. Chiều ngày 2: ho tiếng cứng \"ông ổng như chó sủa\", khóc khàn. Sáng nay bé chơi, cười; bú ít hơn nhưng vẫn bú, không chảy dãi, tiểu 5–6 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sổ mũi, sốt nhẹ rồi ho ông ổng, khàn tiếng; bú uống, chảy dãi"
+    },
+    {
+     "id": "tieng_dem",
+     "noi_dung": "Đêm qua khoảng 2 giờ bé tỉnh, bà nghe tiếng rít \"rè rè\" mỗi lần bé hít vào, rõ hơn khi khóc, không phải khò khè lúc thở ra; ngực không lõm, môi không tím. Bà bế đứng khoảng 20 phút thì êm. Mẹ gọi đó là \"khò khè cơ địa\" (anh trai 4 tuổi hay khò khè; bé Châu chưa từng khò khè, không chàm) nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ kể khi bác sĩ hỏi ban đêm bé ngủ yên không, tiếng ồn lúc hít vào hay thở ra, cái gì làm bé bớt. Bà ngoại (ngủ cùng) kể rõ hơn mẹ.",
+     "k": 1,
+     "y": "Tiếng rít thì hít vào ban đêm (cờ đỏ bị gọi là khò khè cơ địa)"
+    },
+    {
+     "id": "xam_nhap",
+     "noi_dung": "Không ho sặc hay tím tái đột ngột lúc ăn hoặc chơi. Bé ăn bột xay nhuyễn, chưa ăn lạc, hạt; bà luôn ở bên. Đồ chơi nhỏ của anh cất trên tủ cao, chưa thiếu món nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hội chứng xâm nhập (loại trừ dị vật)"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Sổ tiêm: 3 mũi vắc xin 5 trong 1 (bạch hầu – ho gà – uốn ván – viêm gan B – Hib) lúc 2, 3 và 4 tháng. Trong xóm không ai đau họng có màng trắng; nhà không đi vùng có dịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêm chủng, tiếp xúc bạch hầu"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chiều ngày 2 mẹ bỏ siro ho thảo dược, mua ở hiệu thuốc đầu xã siro ho \"cho trẻ em\" có kháng histamin gây buồn ngủ, cho bé uống nửa muỗng cà phê chiều, tối và 22 giờ đêm qua; từ đó bé ngủ nhiều hơn hẳn. Chai còn trong túi mẹ. Không kháng sinh, không hạ sốt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ coi là chuyện thường nên không kể; chỉ nói khi bác sĩ hỏi đã cho bé uống, xông hay bôi thuốc gì, hoặc xin xem chai thuốc.",
+     "k": 1,
+     "y": "Thuốc tự mua: đổi sang siro ho kháng histamin (yếu tố khởi phát)"
+    },
+    {
+     "id": "xa",
+     "noi_dung": "Nhà trên núi cách phòng khám 42 km đường đèo đất, xe máy khoảng 1,5 giờ; xe khách một chuyến về lúc 11 giờ; mưa là sạt đường. Trạm y tế xã cách nhà 4 km (có y tá). Điện thoại mẹ sóng yếu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khoảng cách, phương tiện, liên lạc"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ lo nhất là bé lây cho bà ngoại: bà thay van tim cơ học, uống warfarin mỗi tối, mẹ sợ bà ốm lại nhập viện. Mẹ hỏi đi hỏi lại \"bé có lây không\", muốn thuốc thật mạnh để bé khỏi nhanh. Bé không dùng thuốc kháng đông.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi ở nhà ai ở cùng, nhà có ai bệnh nền, hoặc hỏi nhẹ nhàng mẹ lo điều gì nhất. Bà ngoại xác nhận.",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bà ngoại (van tim, thuốc kháng đông của bà)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, nhìn theo, hơi mệt, bú lười nhưng vẫn bú. Môi hồng, niêm mạc ẩm, thóp phẳng, không chảy dãi.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, không giả mạc, không khối phồng thành sau họng. Mũi dịch trong, không chảy máu. Màng nhĩ hồng nhạt.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm nhỏ vài mm, di động, không đau. Cổ không bạnh.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 38 l/p. Khi bé yên: không rít, không rút lõm lồng ngực. Khi khóc: ho tiếng cứng như chó sủa, rít nhẹ thì hít vào, hết ngay khi nín. Đáy phổi hai bên: rì rào phế nang êm dịu, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 38 l/p. Bé yên thì không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm vú tốt, bú sâu 5 phút, có tiếng nuốt, không sặc, không chảy dãi, không rít khi bú.",
+     "k": 1
+    },
+    "soi_thanh_quan": {
+     "a": "Thử ép lưỡi, đưa gương soi: bé giãy khóc dữ dội, rít tăng rõ, môi xám nhẹ vài giây, SpO₂ tụt từ 97% xuống 92%. Dừng ngay, bế dỗ khoảng 5 phút mới hồi. Không thấy thanh môn.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "Phổi sáng đều hai bên, không đám mờ, không xẹp phổi, không ứ khí khu trú, trung thất ở giữa.",
+     "n": "Chấp nhận, không bắt buộc: loại bệnh phế quản phổi kèm theo (QĐ 5643, Viêm thanh quản cấp tính mục 3.2); phim cổ thẳng (hạ thanh môn mục 3.1.2) không có trong danh mục. Đi chụp làm bé khóc."
+    },
+    "phet_hong": {
+     "n": "Không làm kịp (cấy mất 2 ngày); không giả mạc nên chưa nghi bạch hầu (QĐ 2957/2020 mục 5.1). Ép lưỡi lấy bệnh phẩm làm bé khóc, rít tăng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thanh quản cấp hạ thanh môn (croup) do virus, khó thở thanh quản độ I",
+     "ok": 1,
+     "n": "Sốt nhẹ, ho, chảy mũi rồi khàn tiếng, ho ông ổng (QĐ 5643/2015, hạ thanh môn mục 3.1.1, 3.1.2 tr. 198); độ I: khàn tiếng, rít khi khóc (mục 3.1.2); croup ở trẻ 6 tháng – 5 tuổi (mục 1); cơn về đêm, sáng chơi bình thường (Viêm thanh quản cấp tính mục 3.4.1 tr. 163)."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc, hạch nhỏ di động, cổ không bạnh, mũi không chảy máu, đã tiêm 3 mũi 5 trong 1 (QĐ 2957/2020 mục 3.1.2, 3.1.3, 3.3; WHO 2013 Bảng 9). Bạch hầu thanh quản thường kèm bạch hầu họng (QĐ 2957 mục 3.3): nghĩ lại nếu có giả mạc, cổ bạnh."
+    },
+    {
+     "t": "Dị vật đường thở",
+     "n": "Không hội chứng xâm nhập, khởi phát từ từ sau sổ mũi, sốt (WHO 2013 Bảng 9; QĐ 5643, hạ thanh môn mục 3.1.1). Hội chứng xâm nhập chỉ khai thác được ở 93% (Dị vật đường thở mục 3.1.1): soi thanh khí quản nếu rít tái diễn hoặc nội khoa thất bại (hạ thanh môn mục 3.1.2)."
+    },
+    {
+     "t": "Viêm thanh thiệt, khò khè \"cơ địa\", hen, viêm tiểu phế quản, phản vệ, viêm phổi",
+     "n": "Không chảy dãi, bú được, tỉnh chơi, còn ho ông ổng, đã tiêm Hib (WHO 2013 Bảng 9; QĐ 5643 hạ thanh môn mục 3.1.3.2). Tiếng rít thì hít vào kèm ho ông ổng, giọng khàn, phổi không ran rít, chưa từng khò khè: không phải hen hay viêm tiểu phế quản (WHO 2013 mục 4.6, Bảng 6); không ban, không phù môi mặt; thở 38 l/p dưới ngưỡng 50 l/p (mục 4.1 tr. 76)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị tại nhà (độ I) kèm dặn dấu hiệu nặng bằng văn bản; không nhập viện, không chuyển tuyến",
+     "v": "c",
+     "n": "Độ I ngoại trú, hướng dẫn dấu hiệu nặng cần tái khám ngay (QĐ 5643/2015, hạ thanh môn mục 4.2.1); croup nhẹ chăm sóc tại nhà (WHO 2013 mục 4.6.1 tr. 102)."
+    },
+    {
+     "t": "Corticoid: dexamethason 0,15 mg/kg liều duy nhất (≈ 1,3 mg) HOẶC prednison 2 mg/kg × 2–3 ngày (≈ 17 mg/ngày), HOẶC không dùng, chỉ chăm sóc hỗ trợ",
+     "v": "c",
+     "n": "Hai nguồn khác nhau, cả hai chấp nhận. QĐ 3312/2015, Khó thở thanh quản ở trẻ em mục 2: độ 1 dùng hai thuốc trên. QĐ 5643 hạ thanh môn mục 4.2.1 (độ I) không nêu corticoid; WHO 2013 mục 4.6.1: croup nhẹ chăm sóc hỗ trợ, steroid nêu cho croup nặng. Xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Ngưng siro ho kháng histamin; không cho thuốc ho, an thần, thuốc ngủ",
+     "v": "c",
+     "n": "WHO 2013 mục 4.6.1 (tr. 104): không cho thuốc an thần hoặc giảm ho. Bé uống đến 22 giờ đêm qua nên có thể còn buồn ngủ: canh thở."
+    },
+    {
+     "t": "Giữ bé yên, bế đứng khi khóc hoặc rít, bú nhiều lần; không ép lưỡi, không để khóc kéo dài",
+     "v": "c",
+     "n": "Giữ yên trẻ hoặc cho cha mẹ bế, tránh để trẻ khóc (QĐ 5643 hạ thanh môn mục 4.2.3); nghỉ ngơi, uống nhiều nước (mục 4.2.1); WHO 2013 mục 4.6.1: khuyến khích bú mẹ, không dùng lều hơi nước."
+    },
+    {
+     "t": "Paracetamol 100 mg/lần chỉ khi sốt từ 39 °C làm bé khó chịu",
+     "v": "c",
+     "n": "WHO 2013 mục 10.3 (tr. 305): chỉ khi sốt ≥ 39 °C và bé khó chịu, 15 mg/kg mỗi 6 giờ; bảng liều (tr. 366): 100 mg cho 6–<10 kg. QĐ 5643 hạ thanh môn mục 4.2.1: 10–20 mg/kg. 100 mg ≈ 12 mg/kg nằm trong cả hai."
+    },
+    {
+     "t": "Dặn canh đêm bằng giấy: dấu phải đến ngay, số điện thoại phòng khám, trạm xã (4 km); tái khám mỗi ngày (trạm xã khám lại ngày mai, báo phòng khám); giải đáp nỗi lo lây bà (rửa tay, bà tránh hôn bế khi bé ho, bà ho sốt đi khám nơi theo dõi van tim)",
+     "v": "c",
+     "n": "QĐ 3312/2015, Khó thở thanh quản ở trẻ em mục 2: độ 1 điều trị ngoại trú, cần tái khám mỗi ngày. Nhà xa 42 km nên vẫn cho về (độ I ngoại trú, QĐ 5643 hạ thanh môn mục 4.2.1: hướng dẫn dấu hiệu nặng cần tái khám ngay) nhưng khám lại hằng ngày ở trạm xã 4 km và đến ngay khi có dấu hiệu. Viêm thanh quản cấp tính mục 6: theo dõi sát, tránh tiếp xúc người viêm hô hấp. Tương tác thuốc với warfarin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh",
+     "v": "a",
+     "n": "Không dấu nhiễm khuẩn. QĐ 5643 hạ thanh môn mục 4.2.2: kháng sinh uống từ độ IIA khi nhiễm trùng; WHO 2013 mục 4.6.1: không hiệu quả. Xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Tiếp tục siro ho kháng histamin, thuốc ngủ, hoặc truyền dịch, đặt kim tĩnh mạch",
+     "v": "w",
+     "n": "WHO 2013 mục 4.6.1 (tr. 104): không cho thuốc an thần, giảm ho; tránh truyền dịch vì đặt kim làm bé khó chịu, có thể gây tắc đường thở."
+    },
+    {
+     "t": "Ép lưỡi mạnh hoặc soi thanh quản để nhìn thanh môn",
+     "v": "h",
+     "n": "Ở trẻ em soi thanh quản gây co thắt, khó thở nặng thêm (QĐ 5643 hạ thanh môn mục 3.1.2); WHO 2013 mục 4.6.2: khám họng có thể làm tắc hoàn toàn đường thở."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thanh quản cấp hạ thanh môn (croup) do virus, khó thở thanh quản độ I, bé gái 9 tháng (QĐ 5643/2015, hạ thanh môn mục 1, 3.1.1, 3.1.2)",
+     "Yếu tố khởi phát: viêm mũi họng; chiều ngày 2 mẹ đổi sang siro ho kháng histamin tự mua làm bé ngủ nhiều (WHO 2013 mục 4.6.1)",
+     "Đã nghĩ tới và chưa thấy: bạch hầu, dị vật đường thở, viêm thanh thiệt, khò khè \"cơ địa\", phản vệ, viêm phổi",
+     "Cờ đỏ bị che: tiếng rít thì hít vào ban đêm bị gọi là \"khò khè cơ địa\". Lý do thật: sợ lây bà ngoại (van tim, thuốc chống đông). Nhà xa 42 km"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do → diễn tiến → ban đêm ngủ ra sao, tiếng ồn lúc hít vào hay thở ra, hỏi bà ngủ cùng → ban ngày chơi, bú → hội chứng xâm nhập → tiêm chủng → tiền sử khò khè → đã cho thuốc gì, xin xem chai → ai ở cùng, mẹ lo gì → nhà xa bao nhiêu.",
+     "Khám: nhìn bé yên rồi mới chạm; đếm nhịp thở, xem rút lõm khi yên và khi khóc; họng nhìn nhanh; hạch; nghe phổi; xem bú. Không soi thanh quản, không ép lưỡi (QĐ 5643, hạ thanh môn mục 3.1.2).",
+     "Cờ đỏ ngụy trang, lẽ ra phải dừng ở hai điểm. (1) Tiếng ồn thì hít vào kèm ho ông ổng, giọng khàn là stridor, khác khò khè thì thở ra của hen (WHO 2013 mục 4.6); \"giống anh\" là neo vào tiền sử người khác. (2) Siro đổi chiều ngày 2 làm bé \"ngoan\", che dấu hiệu mệt. Croup thường nhẹ ban ngày, nặng về đêm (Viêm thanh quản cấp tính mục 3.4.1). Bạch hầu thanh quản có thể khởi phát từ từ (QĐ 3312 mục 1.3.1); phết họng cấy mất 2 ngày; không CT."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: ngoại trú vì độ I (QĐ 3312/2015 mục 2; QĐ 5643 hạ thanh môn mục 4.2.1), nhưng \"trọn gói\" vì ở xa: dặn bằng văn bản, nơi gần nhất, số điện thoại, cách canh đêm. QĐ 3312 mục 2 yêu cầu tái khám mỗi ngày: nhà xa 42 km nên trạm xã khám lại hằng ngày, phòng khám gọi điện, đến ngay khi có dấu hiệu nặng.",
+     "Corticoid: hai cách đều đúng. QĐ 3312 viết theo phân độ cho khoa nhi (độ 1 dexamethason 0,15 mg/kg một liều hoặc prednison 2 mg/kg 2–3 ngày); QĐ 5643 và WHO 2013 cho croup nhẹ chỉ chăm sóc hỗ trợ; nhà xa có thể cho một liều ngay tại phòng khám. Nhập viện để tránh lây không phải chỉ định (QĐ 5643 hạ thanh môn mục 4.2.3; WHO 2013 mục 4.6.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dexamethason (tùy chọn)",
+      "ham_luong": "Ống 4 mg/1 mL",
+      "lieu": "0,15 mg/kg ≈ 1,3 mg (0,3 mL), một liều; hoặc thay bằng prednison 2 mg/kg (≈ 17 mg/ngày) × 2–3 ngày",
+      "duong": "Uống (hòa thìa nước) hoặc tiêm bắp",
+      "thoi_diem": "Một lần tại phòng khám",
+      "so_ngay": "1 liều",
+      "ghi_chu": "QĐ 3312/2015, Khó thở thanh quản ở trẻ em mục 2 (độ 1: dexamethason 0,15 mg/kg một liều hoặc prednison 2 mg/kg trong 2–3 ngày, tái khám mỗi ngày). Không dùng cũng được (QĐ 5643 hạ thanh môn mục 4.2.1; WHO 2013 mục 4.6.1). Ống 4 mg/mL: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Gói hoặc siro, tính theo mg",
+      "lieu": "100 mg/lần, cách ít nhất 6 giờ, tối đa 4 lần/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt từ 39 °C và bé khó chịu",
+      "so_ngay": "Khi cần, 1–3 ngày",
+      "ghi_chu": "WHO 2013 mục 10.3 (tr. 305) và bảng liều (tr. 366): 100 mg cho 6–<10 kg; QĐ 5643 hạ thanh môn mục 4.2.1: 10–20 mg/kg. Mỗi 6 giờ lấy theo WHO."
+     }
+    ],
+    "dan_do": [
+     "Bé viêm thanh quản do virus, thường nhẹ dần sau 3–5 ngày nhưng có thể nặng về đêm (QĐ 5643, hạ thanh môn mục 5.1; Viêm thanh quản cấp tính mục 3.4.1). Tiếng rít khi hít vào khác khò khè của anh: đó là dấu phải canh.",
+     "Bế đứng khi bé khóc, giữ yên, cho bú nhiều lần, ngủ chung phòng người lớn tỉnh táo. Bỏ chai siro cũ, không cho thuốc ho, thuốc ngủ.",
+     "Đi ngay (trạm xã hoặc gọi 115) nếu: rít cả khi nằm yên hoặc khi ngủ, thở nhanh, lõm hõm ức hay ngực khi hít vào, bú bỏ, môi tím, ngủ li bì khó gọi, khóc yếu đi (QĐ 5643 hạ thanh môn mục 3.1.2, 4.2.3). Bé \"ngoan hẳn đi\" khi đang rít là dấu nặng, không phải dấu đỡ.",
+     "Giấy dặn có số phòng khám, số cấp cứu 115 và tên trạm xã; tái khám mỗi ngày (trạm xã khám lại, báo về phòng khám; QĐ 3312/2015, Khó thở thanh quản ở trẻ em mục 2), đến ngay khi có dấu trên. Rửa tay trước khi bế bé; bà ho sốt đi khám nơi theo dõi van tim."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · hôm sau",
+   "tiep_don": "Bé Châu, 9 tháng, 8,4 kg, hôm qua đã khám và được cho về nhà điều trị. Sáng nay 9 giờ mẹ và bà ngoại bế lại vì bà thấy tiếng thở lạ; mẹ thấy bé \"ngoan\". Sinh hiệu: nhiệt 38,4 °C, mạch 158 l/p, nhịp thở 56 l/p, SpO₂ 91% khí trời. Bé nằm im trong lòng mẹ, ít phản ứng.",
+   "ket_luan": "cap_cuu",
+   "neu_sai": {
+    "ve_hen": "Cho Châu về sau khi adrenaline làm bé bớt rít là nguy hiểm: adrenaline chỉ cải thiện khoảng 2 giờ, tắc đường thở có thể đột ngột (WHO 2013 mục 4.6.1). Nhà cách 42 km đường đèo, ban đêm, bé đã kiệt sức với SpO₂ 91%, mẹ tưởng \"ngoan\" là khỏe nên không canh đêm.",
+    "theo_doi": "Giữ bé quan sát vài giờ tại phòng khám là chậm: không có hồi sức, không đặt nội khí quản, trong khi bé lờ đờ, rút lõm (QĐ 5643/2015, hạ thanh môn mục 4.2.3: lơ mơ, kiệt sức thì đặt nội khí quản). Nếu bé tím hay ngừng thở, phải đợi xe cấp cứu khoảng 40 phút.",
+    "nhap_vien": "Nhận bé nằm nội trú tại phòng khám không đúng chỗ: độ IIB, III phải nhập viện nơi đặt được nội khí quản (QĐ 5643/2015, hạ thanh môn mục 4.2.3; WHO 2013 mục 4.6.1). Mất giờ quý khi bé có thể kiệt sức nhanh.",
+    "chuyen_tuyen": "Để gia đình tự đưa bé lên tỉnh 28 km bằng xe máy hay taxi là chưa đủ an toàn: không oxy, không nhân viên y tế, không thuốc khí dung, bé xóc và khóc nhiều, mà khóc làm tăng phù nề thanh quản (QĐ 5643, hạ thanh môn mục 4.2.3). Phải chuyển bằng xe cấp cứu có nhân viên y tế đi cùng."
+   },
+   "loi_mo": "Bác sĩ ơi, bé đỡ rồi, nay ngoan lắm, không quấy khóc, ngủ nhiều, ho cũng ít đi. Có điều tiếng thở nghe hơi to, bà cứ bắt em đem lên khám lại cho chắc. Chắc không sao đâu bác sĩ ha?",
+   "sinh_hieu": {
+    "mach": 158,
+    "ha": "Không đo",
+    "nhiet": "38,4",
+    "nhip_tho": 56,
+    "spo2": 91,
+    "canh_bao": [
+     "mach",
+     "nhiet",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ chiều qua bé ít khóc, ngủ nhiều, ho ít, bú giảm còn một nửa; tối qua tiếng thở to dần. Mẹ coi đó là bé \"đỡ\"; bà mới là người lo và bắt đi. Mẹ làm đúng lời dặn: bỏ chai siro, không thuốc ho hay thuốc ngủ, bế đứng, chưa hạ sốt vì dưới 39 °C. Trạm xã đêm qua đóng cửa, chưa gọi ai.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dem_qua",
+     "noi_dung": "Từ khoảng 23 giờ đêm qua bé thở rít cả khi nằm yên và khi ngủ, mỗi lần hít vào lõm hõm ức; bà bế đứng vẫn không bớt. Bé khóc yếu hẳn, không còn gào như hôm trước, rồi lả đi ngủ. Mẹ nghĩ bé mệt nên ngủ ngoan.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không kể \"rít\" hay \"lõm\". Chỉ kể khi bác sĩ hỏi đêm qua bé ngủ thế nào, tiếng thở ồn cả khi nằm yên không, ngực có lõm khi hít không, khóc có to như hôm trước không. Bà ngoại nói rõ hơn mẹ.",
+     "k": 1,
+     "y": "Rít cả khi nằm yên, lõm ngực, khóc yếu, ngủ li bì (cờ đỏ bị gọi là \"ngoan\")"
+    },
+    {
+     "id": "xam_nhap",
+     "noi_dung": "Vẫn không ho sặc, không thấy bé ngậm gì; xấu dần từng ngày sau sổ mũi. Mỗi cữ bú vài phút rồi bỏ vú thở, còn nuốt được, không chảy dãi; tiểu lần cuối cách 6 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hội chứng xâm nhập âm tính; bú nuốt, mất nước"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ sợ nhập viện đông người, về lại mang bệnh lây bà (van tim, thuốc chống đông), mà bà đi theo bé thì ở nhà không ai nhắc giờ uống thuốc. Vì thế mẹ xin \"cho thuốc rồi về nhà theo dõi\".",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ đề nghị chuyển tuyến hoặc hỏi mẹ ngại điều gì. Mẹ im lặng, nhìn bà, rồi kể.",
+     "k": 1,
+     "y": "Lý do thật: ngại nhập viện vì lo lây bà và bà không ai nhắc thuốc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé nằm im trong lòng mẹ, mắt lờ đờ, khóc yếu khi bị chạm, quấy rất ngắn rồi lả đi. Môi hồng nhạt, đầu chi hơi lạnh, thóp phẳng, niêm mạc ẩm vừa, cánh mũi phập phồng.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 56 l/p. Rít thì hít vào nghe được cả khi bé nằm yên, rõ nhất ở vùng cổ, lan xuống hai phổi. Rút lõm hõm ức và lõm lồng ngực dưới rõ; đầu gật gù theo nhịp thở. Đáy phổi: thông khí giảm nhẹ, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 56 l/p. Rút lõm hõm ức và lõm lồng ngực dưới rõ, cánh mũi phập phồng.",
+     "media": [
+      {
+       "vi_tri": "Vùng cổ trước thanh quản, khí quản",
+       "id": "AT-HH-STRIDOR-01",
+       "chu": "Tiếng rít thanh quản thì hít vào, nghe được cả khi bé nằm yên."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Chỉ nhìn nhanh khi bé há miệng khóc, không đè lưỡi: họng đỏ nhẹ, không giả mạc. Mũi dịch trong. Cổ không bạnh, hạch nhỏ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "n": "Không chụp lúc này: bế đi, đặt nằm làm bé khóc có thể gây tắc đường thở, không đổi xử trí; chẩn đoán dựa vào lâm sàng (QĐ 3312/2015, Khó thở thanh quản ở trẻ em mục 1.1)."
+    },
+    "phet_hong": {
+     "n": "Không làm ở phòng khám (kết quả sau 2 ngày, ép lưỡi nguy hiểm). Không giả mạc, đã tiêm vắc xin; tuyến trên phết họng nếu có giả mạc (QĐ 2957/2020 mục 4.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thanh quản cấp hạ thanh môn (croup) nặng lên: khó thở thanh quản độ IIB, kiệt sức, thiếu oxy nhẹ",
+     "ok": 1,
+     "n": "Rít khi nằm yên (IIA), thở nhanh, rút lõm (IIB); III thêm vật vã hoặc tím (QĐ 5643/2015, hạ thanh môn mục 3.1.2). WHO 2013 mục 4.6.1: croup nặng khi rít lúc nghỉ, thở nhanh, rút lõm lồng ngực dưới, tím hoặc SpO₂ ≤ 90%. QĐ 3312 mục 1.2: độ 3 thêm lờ đờ. Lờ đờ, khóc yếu là kiệt sức. Nặng lên sau 24 giờ điều trị đúng là diễn tiến tự nhiên (mục 5.1)."
+    },
+    {
+     "t": "Bạch hầu thanh quản, dị vật đường thở",
+     "n": "Không giả mạc, cổ không bạnh, mũi không chảy máu, đã tiêm vắc xin, khởi phát sổ mũi rồi ho ông ổng (QĐ 2957/2020 mục 3.1.3, 3.3; WHO 2013 Bảng 9); không hội chứng xâm nhập, xấu dần từng ngày. Chưa loại hẳn: soi thanh khí quản, phết họng ở tuyến trên (QĐ 5643 hạ thanh môn mục 3.1.2)."
+    },
+    {
+     "t": "Viêm thanh thiệt, phản vệ, áp xe sau họng",
+     "n": "Không chảy dãi, còn ho ông ổng, đã tiêm Hib, không ban, không sưng thành sau họng (WHO 2013 Bảng 9; QĐ 5643 hạ thanh môn mục 3.1.3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Gọi 115, chuyển ngay bằng xe cấp cứu lên bệnh viện tỉnh (28 km, có nhi, hồi sức); nhân viên y tế đi cùng, mẹ bế bé, gọi báo trước cho nơi nhận",
+     "v": "c",
+     "n": "Độ IIB, III nhập viện; lơ mơ, kiệt sức thì đặt nội khí quản (QĐ 5643/2015, hạ thanh môn mục 4.2.3). QĐ 3312 mục 2: độ 2 nhập viện, độ 3 nằm cấp cứu. WHO 2013 mục 4.6.1: không đặt được nội khí quản tại chỗ thì chuyển khẩn cấp. Mục 4.2.2 (IIA ngoại trú \"nếu ở gần\") không áp dụng: bé IIB, ở xa."
+    },
+    {
+     "t": "Giữ bé yên trong lòng mẹ, không làm bé khóc; không đặt kim truyền, không ép lưỡi, không chụp phim lúc này",
+     "v": "c",
+     "n": "Giữ yên trẻ hoặc cho cha mẹ bế, tránh để trẻ khóc làm tăng phù nề (QĐ 5643 hạ thanh môn mục 4.2.3); WHO 2013 mục 4.6.1: tránh thủ thuật xâm lấn và truyền dịch."
+    },
+    {
+     "t": "Dexamethason 0,6 mg/kg một liều (≈ 5 mg), uống hoặc tiêm bắp, ngay tại phòng khám",
+     "v": "c",
+     "n": "QĐ 3312 mục 2 (độ 2, 3): 0,6 mg/kg tiêm bắp hoặc tĩnh mạch một lần, hoặc uống liều như trên. WHO 2013 mục 4.6.1 (tr. 103): uống một liều 0,6 mg/kg càng sớm càng tốt; bảng liều (tr. 361): tiêm bắp 5 mg/mL, 0,9 mL cho 6–<10 kg. QĐ 5643 hạ thanh môn mục 4.2.3: corticoid dạng chích. Uống ít làm bé khóc hơn."
+    },
+    {
+     "t": "Khí dung adrenaline 1/1000, 3 mL, theo dõi liên tục; lặp sau 30 phút – 1 giờ nếu còn khó thở; vẫn phải chuyển dù bé đỡ",
+     "v": "c",
+     "n": "QĐ 5643 hạ thanh môn mục 4.2.3: 2–5 mL, lặp 30 phút – 1 giờ. QĐ 3312 mục 2 (độ 3): 2–5 mL hoặc 0,4–0,5 mL/kg (tối đa 5 mL), tối đa 3 liều. WHO 2013 mục 4.6.1 và bảng liều (tr. 355): 0,5 mL/kg, 3 mL cho 6–<10 kg; thường chỉ tạm thời (khoảng 2 giờ)."
+    },
+    {
+     "t": "Oxy duy trì SaO₂ 92–96% bằng cách ít làm bé kích thích nhất, HOẶC chỉ cho oxy khi có dấu sắp tắc hoàn toàn đường thở",
+     "v": "c",
+     "n": "Hai nguồn khác nhau, cả hai chấp nhận. QĐ 5643 hạ thanh môn mục 4.2.3: oxy duy trì SaO₂ 92–96%; QĐ 3312 mục 2 (độ 3): SpO₂ > 95%. WHO 2013 mục 4.6.1 (tr. 104): tránh oxy trừ khi sắp tắc hoàn toàn vì gọng mũi làm bé kích thích. Xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Không kháng sinh tại phòng khám trước chuyển, HOẶC kháng sinh chích (cephalosporin thế hệ III) tại bệnh viện nếu có dấu nhiễm trùng",
+     "v": "c",
+     "n": "Hai nguồn khác nhau, cả hai chấp nhận. WHO 2013 mục 4.6.1 (tr. 104): kháng sinh không hiệu quả, không nên dùng. QĐ 5643 hạ thanh môn mục 4.2.2–4.2.3: uống nếu nhiễm trùng (IIA), chích cefotaxim 100–200 mg/kg/ngày hoặc ceftriaxon 75–100 mg/kg/ngày (IIB, III); QĐ 3312 mục 2: độ 3 cefotaxim hoặc ceftriaxon 3–5 ngày."
+    },
+    {
+     "t": "Giải thích vì sao phải đi ngay; xử lý nỗi lo lây bà và bà ở nhà không ai nhắc thuốc (bà về nhà bằng xe khách, nhờ hàng xóm nhắc); mẹ mang sổ tiêm và chai siro cũ",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp: mẹ xin \"cho thuốc rồi về\" vì lý do thật chưa được giải quyết."
+    },
+    {
+     "t": "Cho về nhà theo dõi sau khi bé đỡ nhờ dexamethason và adrenaline",
+     "v": "w",
+     "n": "Adrenaline chỉ cải thiện tạm thời, tắc đường thở có thể đột ngột (WHO 2013 mục 4.6.1); độ IIB, III phải nhập viện (QĐ 5643 hạ thanh môn mục 4.2.3)."
+    },
+    {
+     "t": "Ép lưỡi, soi thanh quản hoặc làm bé khóc để nhìn thanh môn",
+     "v": "h",
+     "n": "Gây co thắt, khó thở nặng thêm (QĐ 5643 hạ thanh môn mục 3.1.2); khám họng có thể làm tắc hoàn toàn (WHO 2013 mục 4.6.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thanh quản cấp hạ thanh môn (croup) nặng lên sau 24 giờ: khó thở thanh quản độ IIB, kiệt sức, SpO₂ 91% (QĐ 5643/2015, hạ thanh môn mục 3.1.2; WHO 2013 mục 4.6.1)",
+     "Cờ đỏ bị che: \"ngoan, ngủ nhiều, ít khóc, ho ít\" thực ra là khóc yếu, ho yếu, lờ đờ vì mệt và thiếu oxy; rít khi ngủ yên và lõm ngực bị bỏ qua",
+     "Chưa loại hẳn ở tuyến dưới: bạch hầu thanh quản, dị vật, viêm thanh thiệt. Chỉ định: gọi 115, chuyển cấp cứu lên bệnh viện tỉnh; xử lý lý do thật của mẹ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn tiến từ lúc về nhà → đêm qua ngủ thế nào, rít cả khi nằm yên, lõm ngực, khóc to như hôm trước không (hỏi bà) → mẹ làm đúng lời dặn → bú nuốt, tiểu → hội chứng xâm nhập → mẹ ngại gì khi nghe đến bệnh viện.",
+     "Khám: nhìn trước khi chạm; bé nằm im, lờ đờ, rút lõm, đầu gật gù là đủ; họng chỉ nhìn nhanh, không đè lưỡi.",
+     "Vì sao nặng lên: croup thường nặng về đêm ngày 2–3, có thể tái diễn nhiều tối (Viêm thanh quản cấp tính mục 3.4.1); thể nặng tiên lượng dè dặt (hạ thanh môn mục 5.1). Mẹ làm đúng nên không phải lỗi lượt 1. Chỗ gãy: ở nhà người ta tin vào \"ngoan\", \"ngủ nhiều\"; trạm xã đêm đóng cửa. Bé ngoan mà đang rít là bé kiệt sức."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: gọi 115, chuyển cấp cứu (QĐ 5643 hạ thanh môn mục 4.2.3; QĐ 3312 mục 2; WHO 2013 mục 4.6.1). Trong lúc chờ xe: giữ bé yên trong tay mẹ, dexamethason một liều, khí dung adrenaline, theo dõi SpO₂. Oxy và kháng sinh: hai nguồn khác nhau, đều chấp nhận.",
+     "Tại bệnh viện (để học): corticoid chích lặp mỗi 6–12 giờ, adrenaline lặp, nội khí quản nếu lơ mơ, kiệt sức, ưu tiên hơn mở khí quản, rút sau 24–48 giờ (QĐ 5643 hạ thanh môn mục 4.2.3). Mở khí quản: QĐ 5643 Viêm thanh quản cấp tính mục 4.1.2 ghi độ II mở cấp cứu; QĐ 3312 không khuyến cáo; WHO 2013 chỉ khi nhân viên có kinh nghiệm: việc của tuyến trên.",
+     "Lý do thật của mẹ: nói rõ mẹ đeo khẩu trang rửa tay khi về, bà về nhà bằng xe khách và nhờ hàng xóm nhắc thuốc; không thương lượng chuyện đi hay không."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dexamethason",
+      "ham_luong": "Ống 4 mg/1 mL",
+      "lieu": "0,6 mg/kg ≈ 5 mg (1,25 mL), một liều",
+      "duong": "Uống (hòa thìa nước) hoặc tiêm bắp",
+      "thoi_diem": "Ngay tại phòng khám, trước khi lên xe",
+      "so_ngay": "1 liều; bệnh viện quyết định lặp sau 6–12 giờ",
+      "ghi_chu": "QĐ 3312/2015, Khó thở thanh quản ở trẻ em mục 2 (độ 2, 3: 0,6 mg/kg); WHO 2013 mục 4.6.1 (tr. 103), bảng liều tr. 361 (tiêm bắp 5 mg/mL, 0,9 mL cho 6–<10 kg). Ống 4 mg/mL: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Adrenaline 1/1000 khí dung",
+      "ham_luong": "Ống 1 mg/1 mL (1/1000)",
+      "lieu": "3 mL khí dung; lặp sau 30 phút – 1 giờ nếu còn khó thở, tối đa 3 liều",
+      "duong": "Khí dung qua mặt nạ nhỏ, bé ngồi trong lòng mẹ",
+      "thoi_diem": "Ngay khi có thuốc, trước khi lên xe",
+      "so_ngay": "Liều đơn, lặp theo đáp ứng",
+      "ghi_chu": "QĐ 5643 hạ thanh môn mục 4.2.3 (2–5 mL); QĐ 3312 mục 2 (2–5 mL hoặc 0,4–0,5 mL/kg, tối đa 5 mL, 3 liều); WHO 2013 bảng liều (tr. 355): 0,5 mL/kg, 3 mL cho 6–<10 kg."
+     }
+    ],
+    "dan_do": [
+     "Bé nặng lên là do bệnh, không phải lỗi của mẹ hay bà; bà phát hiện đúng lúc. Từ giờ \"ngoan hẳn, ngủ li bì, khóc yếu\" ở bé đang rít là dấu nặng.",
+     "Mẹ đi cùng xe cấp cứu, bế bé tư thế bé thấy dễ nhất, giữ yên; mang sổ tiêm và chai siro cũ. Bà về bằng xe khách, uống thuốc chống đông đúng giờ; bà ho sốt thì đi khám nơi theo dõi van tim (tương tác với warfarin: không có trong tài liệu đã tải).",
+     "Khi ra viện: tái khám theo hẹn; sốt lại, ho nhiều, bú kém, thở nhanh hay rít lại thì quay lại ngay."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau ra viện",
+   "tiep_don": "Bé Châu, 9 tháng, 8,3 kg. Cách đây 3 ngày bé ra viện tỉnh sau 3 ngày nằm vì viêm thanh quản cấp nặng (không phải đặt nội khí quản). Mẹ và bà bế đến theo hẹn: từ tối qua bé sốt lại, ho ướt, bú giảm. Sinh hiệu: nhiệt 38,9 °C, mạch 150 l/p, nhịp thở 54 l/p, SpO₂ 94% khí trời. Bé tỉnh, quấy khi bế lên.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện lại vì sợ bỏ sót là quá tay với Châu: bé tỉnh, bú được, SpO₂ 94%, thở nhanh nhưng không rút lõm lồng ngực dưới, không dấu nguy hiểm toàn thân nên là viêm phổi không nặng, điều trị ngoại trú bằng amoxicillin uống (WHO 2013 Bảng 7, mục 4.2.2; QĐ 708/2015 mục 5.3b). Bé nằm lại bệnh viện cách nhà 70 km lần hai, bà ở nhà một mình thêm nhiều ngày, mẹ mất thêm chi phí."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết rít rồi, giọng cũng hết khàn, mà từ tối qua nó sốt lại, ho sụt sịt, bú ít. Chắc viêm thanh quản tái lại hả bác sĩ? Bác sĩ cho bé thuốc như bệnh viện cho lần trước đi, em muốn về trong buổi sáng.",
+   "sinh_hieu": {
+    "mach": 150,
+    "ha": "Không đo",
+    "nhiet": "38,9",
+    "nhip_tho": 54,
+    "spo2": 94,
+    "canh_bao": [
+     "mach",
+     "nhiet",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt lại từ tối qua 38,5–39 °C, ho ướt, bú giảm còn một nửa. Mẹ nghĩ bé \"tái lại viêm thanh quản\" và xin thuốc như lần trước.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "hoi_phuc",
+     "noi_dung": "Giấy ra viện: viêm thanh quản cấp hạ thanh môn nặng; dexamethason, khí dung adrenaline, oxy; không kháng sinh; dặn tái khám nếu sốt lại hoặc khó thở. Từ ngày thứ 2 ở viện bé hết rít, hết khàn; ra viện ngày thứ 7 của bệnh, hết sốt 2 ngày rồi sốt lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Croup đã ổn; sốt lại sau khi hết sốt"
+    },
+    {
+     "id": "tho",
+     "noi_dung": "Sáng nay bé thở nhanh, phì phò khi bú, nghỉ nhiều lần nhưng vẫn nuốt; không tím, không rít, không khàn, không ho ông ổng. Ho nghe có đờm. Không ho sặc, không thành cơn dữ dội.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thở nhanh, ho ướt, không rít (khác tái phát croup); xâm nhập âm tính"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà ngoại từ hôm qua cũng ho nhẹ và hơi sốt. Mẹ sợ bà ốm nặng vì van tim, sợ bé và bà lây qua lại; mẹ muốn \"thuốc mạnh như bệnh viện\" cho bé và khám luôn cho bà để khỏi tốn thêm chuyến.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi ở nhà ai ho sốt, hoặc mẹ lo gì nhất; bà ngoại ngồi cạnh gật đầu.",
+     "k": 1,
+     "y": "Lý do thật: sợ lây qua lại với bà ngoại"
+    },
+    {
+     "id": "xa",
+     "noi_dung": "Trạm y tế xã cách nhà 4 km, y tá có máy đo SpO₂ và ống nghe. Mẹ không thể quay lại phòng khám mỗi ngày; mưa là sạt đèo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng theo dõi sát tại địa phương"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, quấy khi bế lên, da nóng, môi hồng, niêm mạc hơi khô, thóp phẳng. Không lờ đờ, không tím.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 54 l/p. Cánh mũi phập phồng nhẹ khi bú; không rút lõm lồng ngực dưới; không rít khi nằm yên. Đáy phổi phải: ran nổ nhỏ hạt khu trú, rì rào giảm nhẹ; phổi trái êm.",
+     "k": 1,
+     "hien": "Nhịp thở 54 l/p. Cánh mũi phập phồng nhẹ, không rút lõm lồng ngực dưới.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt khu trú."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Bú từng cữ ngắn 3–4 phút, nghỉ thở nhiều lần, nuốt tốt, không bỏ bú, không nôn, không sặc.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "u",
+     "r": "Đám mờ không đồng nhất đáy phổi phải, có hình phế quản hơi. Không tràn dịch, không xẹp thùy, không ứ khí khu trú, trung thất ở giữa.",
+     "ab": 1,
+     "n": "Hữu ích dù WHO 2013 mục 4.1 (tr. 77) chỉ chụp ở viêm phổi nặng, không đáp ứng hoặc chẩn đoán chưa rõ: bé vừa ra viện vì rít, ở xa khó theo dõi, cần loại xẹp phổi, ứ khí khu trú (dị vật, QĐ 5643 Dị vật đường thở mục 3.2)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 18,2 G/L · Neutrophil 68% · Hb 108 g/L · TC 420 G/L",
+     "ab": 1,
+     "n": "Chấp nhận, không bắt buộc, không đổi xử trí."
+    },
+    "crp": {
+     "v": "a",
+     "r": "54 mg/L",
+     "ab": 1,
+     "n": "Chấp nhận, không bắt buộc, không đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng không nặng, biến chứng sau viêm thanh quản cấp hạ thanh môn đã ổn",
+     "ok": 1,
+     "n": "Ho kèm thở nhanh (54 l/p ≥ 50 ở trẻ 2–11 tháng), sốt, ran khu trú đáy phải, đám mờ đáy phải; SpO₂ 94%, không rút lõm lồng ngực dưới, bú được, tỉnh (WHO 2013 mục 4.1, Bảng 6, Bảng 7, mục 4.2.2). Viêm thanh quản cấp có thể tiến triển viêm phổi nhưng hiếm (QĐ 5643, Viêm thanh quản cấp tính mục 5)."
+    },
+    {
+     "t": "Viêm thanh quản tái phát",
+     "n": "Không khàn, không ho ông ổng, không rít; có thở nhanh, ho đờm, ran khu trú (QĐ 5643 hạ thanh môn mục 3.1.2). Viêm tiểu phế quản có ran lan tỏa kèm khò khè (WHO 2013 Bảng 6)."
+    },
+    {
+     "t": "Dị vật phế quản",
+     "n": "Không hội chứng xâm nhập, X-quang không xẹp phổi hay ứ khí một bên (QĐ 5643, Dị vật đường thở mục 3.1.1, 3.2). Nội soi nếu không đáp ứng amoxicillin hoặc tái đi tái lại một chỗ."
+    },
+    {
+     "t": "Viêm phổi nặng",
+     "n": "SpO₂ 94% (trên 90% của WHO 2013 Bảng 7 và trên 92% của QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3), không rút lõm, không rên, không bỏ bú, không li bì, không co giật. Nghĩ lại nếu xuất hiện."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú viêm phổi không nặng; cho liều amoxicillin đầu ngay tại phòng khám, dạy mẹ cho các liều sau",
+     "v": "c",
+     "n": "WHO 2013 mục 4.2.2 (tr. 86): thở nhanh, không dấu nặng thì điều trị ngoại trú, liều đầu tại phòng khám. QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3: SpO₂ < 92% hoặc yếu tố nguy cơ nặng thì nhập viện; bé SpO₂ 94%, không có."
+    },
+    {
+     "t": "Amoxicillin uống ≥ 40 mg/kg/liều × 2 lần/ngày (375 mg/liều) trong 3 hoặc 5 ngày, HOẶC 45 mg/kg/ngày chia 3 lần (125 mg × 3 lần) trong 5–7 ngày",
+     "v": "c",
+     "n": "Hai cách, đều đúng. WHO 2013 mục 4.2.2 (tr. 86): ít nhất 40 mg/kg/liều × 2 lần/ngày, 3 ngày nơi tỉ lệ HIV thấp, 5 ngày nơi cao; WHO 2024 (Table 1 khuyến cáo 1): 3 hoặc 5 ngày. QĐ 708/2015 mục 5.3b: 45 mg/kg/ngày chia 3 lần, ít nhất 5 ngày (5–7); nơi phế cầu kháng cao 75–90 mg/kg/ngày chia 2 lần. Ở xa, chọn 5 ngày. Xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Ở xa: nhờ trạm y tế xã (4 km) đếm nhịp thở và đo SpO₂ ngày mai; hẹn quay lại sau 3 ngày; ghi giấy dấu phải đi ngay và số điện thoại",
+     "v": "c",
+     "n": "WHO 2013 mục 4.2.2 (tr. 87): quay lại sau 3 ngày, sớm hơn nếu nặng hơn hay không bú được; khi quay lại kiểm tra thở chậm hơn, hết rút lõm, ít sốt, ăn tốt hơn, nếu không thì loại khò khè rồi nhập viện. QĐ 708 Phụ lục 1 khuyến cáo 5.3: hướng dẫn gia đình phát hiện dấu nặng. Trạm xã: cách làm của ca."
+    },
+    {
+     "t": "Paracetamol 100 mg/lần khi sốt ≥ 39 °C làm bé khó chịu; không cho thuốc ho codein, thuốc có atropin hay cồn; bú nhiều",
+     "v": "c",
+     "n": "WHO 2013 mục 10.3 (tr. 305), bảng liều (tr. 366): 10–15 mg/kg, 100 mg cho 6–<10 kg; mục 4.2.2 (tr. 86–87): nhu cầu dịch bình thường cộng thêm sữa mẹ, tránh atropin, codein, cồn."
+    },
+    {
+     "t": "Giải đáp nỗi lo lây qua lại với bà: rửa tay, bà đeo khẩu trang khi bế bé; bà ho sốt đi khám nơi theo dõi van tim, không tự mua thuốc",
+     "v": "c",
+     "n": "Tránh tiếp xúc người viêm hô hấp (QĐ 5643, Viêm thanh quản cấp tính mục 6). Tương tác thuốc với warfarin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dexamethason lại như lần trước vì nghĩ croup tái phát",
+     "v": "a",
+     "n": "Không bệnh cảnh croup (không rít, khàn, ho ông ổng) nên không có chỉ định (QĐ 5643 hạ thanh môn mục 3.1.2); tài liệu đã tải không nói corticoid hại trong viêm phổi trẻ em. Lỗi chính là bỏ sót viêm phổi."
+    },
+    {
+     "t": "Siro ho kháng histamin, thuốc ho có codein",
+     "v": "w",
+     "n": "WHO 2013 mục 4.2.2 (tr. 87): tránh thuốc có hại không cần thiết như atropin, codein, cồn; siro kháng histamin gây ngủ che dấu hiệu nặng (suy luận của ca)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng không nặng (thở nhanh 54 l/p, sốt, ran khu trú, đám mờ đáy phải), biến chứng sau viêm thanh quản cấp hạ thanh môn đã ổn (WHO 2013 mục 4.2.2, Bảng 7; QĐ 5643, Viêm thanh quản cấp tính mục 5)",
+     "Viêm thanh quản cấp hạ thanh môn đã khỏi, không tái phát. Đã nghĩ tới và chưa thấy: tái phát croup, dị vật phế quản, viêm tiểu phế quản, viêm phổi nặng, bạch hầu",
+     "Lý do thật: lo lây qua lại với bà ngoại; nhà xa, khó tái khám"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: sốt lại → giọng, rít, ho ông ổng có trở lại không (không) → giấy ra viện → thở, bú, li bì → hội chứng xâm nhập → ai ở nhà ho sốt, mẹ lo gì → trạm xã có gần không.",
+     "Bẫy neo: \"viêm thanh quản tái lại, cho thuốc như lần trước\". Bé vừa ra viện vì rít nên mẹ lẫn bác sĩ dễ ghi \"tái phát\" mà không đếm nhịp thở, nghe phổi. Viêm phổi sau viêm thanh quản hiếm (QĐ 5643, Viêm thanh quản cấp tính mục 5), vì hiếm nên dễ bỏ sót.",
+     "Không CT. X-quang ngực hữu ích để xác nhận và loại xẹp phổi, ứ khí khu trú. Công thức máu, CRP không đổi xử trí. Đếm nhịp thở khi bé yên: 54 l/p ≥ 50 là thở nhanh; SpO₂ 94%, không rút lõm, bú được, tỉnh là viêm phổi không nặng (WHO 2013 mục 4.1, Bảng 7)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: ngoại trú, liều amoxicillin đầu tại phòng khám, dạy mẹ cho các liều sau (WHO 2013 mục 4.2.2); vì ở xa \"trọn gói\": giấy dặn, trạm xã khám lại, số điện thoại. Kháng sinh tiêm không cần: bé uống được (QĐ 708 mục 5.3b).",
+     "Amoxicillin có hai cách đều đúng, khác nhau do năm, bằng chứng và lịch dùng: WHO 2013 và 2024 ≥ 40 mg/kg/liều × 2 lần/ngày, 3 hoặc 5 ngày; QĐ 708/2015 mục 5.3b 45 mg/kg/ngày chia 3 lần, 5–7 ngày. Liều WHO là 80 mg/kg/ngày, cao hơn.",
+     "Việc sai: kê lại dexamethason theo kiểu \"tái phát\", chỉ dặn \"tái khám nếu nặng\", cho siro ho, hoặc nhập viện lần hai không chỉ định. Bà đi khám nơi theo dõi van tim và INR (tương tác thuốc với warfarin: không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Gói bột 250 mg",
+      "lieu": "WHO: 375 mg (1½ gói) × 2 lần/ngày. QĐ 708: 125 mg (½ gói) × 3 lần/ngày",
+      "duong": "Uống, hòa thìa nước hoặc sữa mẹ vắt",
+      "thoi_diem": "Liều đầu tại phòng khám, các liều sau cách đều trong ngày",
+      "so_ngay": "5 ngày (WHO 3 hoặc 5 ngày; QĐ 708 5–7 ngày)",
+      "ghi_chu": "WHO 2013 mục 4.2.2 (tr. 86), WHO 2024 Table 1 khuyến cáo 1: ≥ 40 mg/kg/liều × 2 lần/ngày; QĐ 708/2015 mục 5.3b: 45 mg/kg/ngày chia 3 lần, ít nhất 5 ngày. Gói 250 mg: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Gói hoặc siro, tính theo mg",
+      "lieu": "100 mg/lần, cách ít nhất 6 giờ, tối đa 4 lần/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt từ 39 °C và bé khó chịu",
+      "so_ngay": "Khi cần, vài ngày",
+      "ghi_chu": "WHO 2013 mục 10.3 (tr. 305), bảng liều (tr. 366): 10–15 mg/kg, 100 mg cho 6–<10 kg."
+     }
+    ],
+    "dan_do": [
+     "Bé viêm phổi nhẹ đến vừa, uống kháng sinh đủ số ngày kể cả khi hết sốt. Cho bú nhiều, chia cữ nhỏ; không cho siro ho, thuốc ngủ, thuốc có codein, atropin hay cồn (WHO 2013 mục 4.2.2).",
+     "Đi ngay (trạm xã hoặc 115) nếu: thở nhanh hơn hoặc lõm lồng ngực, rên khi thở, bỏ bú, nôn mọi thứ, li bì, co giật, tím, hoặc rít trở lại (WHO 2013 Bảng 7; QĐ 5643 hạ thanh môn mục 3.1.2).",
+     "Nhờ trạm xã đếm nhịp thở, đo SpO₂ ngày mai; quay lại phòng khám sau 3 ngày (WHO 2013 mục 4.2.2). Thở không chậm, còn rút lõm hoặc sốt không giảm thì nhập viện tìm biến chứng. Rửa tay, bà đeo khẩu trang khi bế bé; bà ho sốt đi khám nơi theo dõi van tim."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Xe cấp cứu đưa bé Châu lên bệnh viện tỉnh ngày thứ 4 (oxy, dexamethason, khí dung adrenaline); ngày thứ 2 ở viện hết rít, không phải đặt nội khí quản (diễn tiến minh họa, tài liệu đã tải không có số liệu từng bước). Ra viện ngày thứ 7. Ba ngày sau bé sốt lại, thở nhanh: viêm phổi đáy phải không nặng, xử trí ngoại trú bằng amoxicillin uống, trạm xã khám lại, bé khỏi. Điểm gãy của chuỗi quyết định nếu bị bỏ sót: (1) hiệu thuốc bán siro kháng histamin cho bé 9 tháng đang ho ông ổng, không ai hỏi; (2) tiếng rít thì hít vào ban đêm bị gọi là \"khò khè cơ địa\"; (3) lượt 1 cho về mà không dặn bằng văn bản \"ngoan hẳn đi là dấu nặng\" kèm nơi đến và số điện thoại; (4) lượt 2 cho về khi adrenaline làm bé bớt rít, tắc đường thở có thể xảy ra giữa đường đèo; (5) lượt 3 ghi \"tái phát viêm thanh quản\", kê lại corticoid mà không đếm nhịp thở và nghe phổi, bỏ sót viêm phổi.",
+ "nhieu": [
+  "Ở xa, khó tái khám (42 km, xe một chuyến, sóng yếu): lượt 1 dặn trọn gói bằng văn bản; lượt 2 không cho về; lượt 3 nhờ trạm xã (4 km) khám lại.",
+  "Mẹ gọi tiếng rít thì hít vào là \"khò khè cơ địa\"; chỉ bà ngoại kể rõ khi được hỏi. Chai siro ho mẹ không kể. Không có CT: không cần (croup chẩn đoán bằng lâm sàng)."
+ ],
+ "bai_hoc_bien": [
+  "Cờ đỏ ngụy trang: \"khò khè cơ địa giống anh\" che tiếng rít thì hít vào ban đêm của croup. Hỏi tiếng ồn lúc hít vào hay thở ra, có bớt khi bế đứng không, hỏi người ngủ cùng bé (WHO 2013 mục 4.6).",
+  "\"Bé ngoan, ngủ nhiều, ít khóc\" ở bé đang rít là dấu kiệt sức, không phải dấu đỡ (QĐ 5643 hạ thanh môn mục 4.2.3; QĐ 3312 mục 1.2). Siro kháng histamin tự mua làm bé \"ngoan\" thêm (WHO 2013 mục 4.6.1: không cho thuốc an thần, giảm ho).",
+  "Croup nhẹ ban ngày, nặng ban đêm, có thể tái diễn nhiều tối (Viêm thanh quản cấp tính mục 3.4.1): hỏi về đêm trước khi cho về. Ở xa thì độ IIA \"ngoại trú nếu ở gần\" (hạ thanh môn mục 4.2.2) không áp dụng được.",
+  "Adrenaline khí dung chỉ cải thiện khoảng 2 giờ: bé nặng, nhà xa thì không cho về vì bớt rít (WHO 2013 mục 4.6.1). Sốt lại sau ra viện: đếm nhịp thở, nghe phổi tìm viêm phổi, đừng neo vào chẩn đoán cũ (QĐ 5643, Viêm thanh quản cấp tính mục 5).",
+  "Người nhà cần thuốc chống đông: giải quyết nỗi lo lây là một phần điều trị; thuốc cho người nhà không thuộc phòng khám nhi (tương tác với warfarin: không có trong tài liệu đã tải)."
+ ],
+ "diem_nho": [
+  "Croup: sốt nhẹ, ho, chảy mũi, 1–3 ngày sau khàn tiếng, ho ông ổng; trẻ 6 tháng – 5 tuổi; không soi thanh quản ở trẻ em (QĐ 5643/2015, hạ thanh môn mục 1, 3.1.1, 3.1.2).",
+  "Phân độ (QĐ 5643 hạ thanh môn mục 3.1.2): I khàn, rít khi khóc; IIA rít khi nằm yên; IIB thêm thở nhanh, rút lõm; III thêm vật vã hoặc tím. Điều trị: I ngoại trú; IIA ngoại trú nếu ở gần; IIB, III nhập viện, oxy SaO₂ 92–96%, corticoid chích, adrenaline 1/1000 2–5 mL (mục 4.2).",
+  "QĐ 3312 mục 2: độ 1 dexamethason 0,15 mg/kg hoặc prednison 2 mg/kg 2–3 ngày; độ 2 nhập viện, 0,6 mg/kg; độ 3 cấp cứu. WHO 2013 mục 4.6.1: kháng sinh không hiệu quả, tránh truyền dịch, adrenaline hiệu quả khoảng 2 giờ."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 (Tai Mũi Họng) · ĐÃ ĐỌC: Viêm thanh quản cấp tính hạ thanh môn mục 1–6 (tr. 198–202); Viêm thanh quản cấp tính mục 1–6 (tr. 162–165); Dị vật đường thở mục 3.1.1, 3.2 (tr. 215–217)",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015 (bệnh thường gặp ở trẻ em) · ĐÃ ĐỌC: Khó thở thanh quản ở trẻ em mục 1–2 (tr. 269–271)",
+  "TL-0250 · WHO Pocket book of hospital care for children 2013 · ĐÃ ĐỌC: mục 4.1 (tr. 76–77), 4.2 và Bảng 7 (tr. 80–87), 4.6 (tr. 102–105, Bảng 9), 10.3 (tr. 305), bảng liều (tr. 355, 361, 366)",
+  "TL-0129 · QĐ 2957/QĐ-BYT 2020 (bạch hầu) · ĐÃ ĐỌC: mục 3, 4.1, 5.1",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 (kháng sinh) · ĐÃ ĐỌC: viêm phổi trẻ em mục 5.3b, Phụ lục 1 khuyến cáo 5.3. TL-0245 · WHO 2024 (viêm phổi trẻ em) · ĐÃ ĐỌC: Table 1 khuyến cáo 1, 2a",
+  "Không có trong tài liệu đã tải: tương tác warfarin; lưu lượng oxy cho nhũ nhi; quy cách ống dexamethason 4 mg/mL, gói amoxicillin 250 mg; trạm xã khám lại hằng ngày (cách làm của ca); tỉ lệ viêm phổi sau croup."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25 · viết bản 1 theo đặc tả sổ cái HH-1077 (nhũ nhi nữ 9 tháng, cờ đỏ ngụy trang, nặng hơn ở lượt 2, ở xa khó tái khám, không CT, biến chứng do bỏ sót, 3 lượt). Tài liệu đã đọc: TL-0130 (hạ thanh môn, Viêm thanh quản cấp tính, Dị vật đường thở), TL-0037 (Khó thở thanh quản), TL-0250 (4.1, 4.2, 4.6, 10.3, bảng liều), TL-0129, TL-0015 (5.3), TL-0245 (Table 1).",
+  "Tên, cân nặng, sinh hiệu, khoảng cách 42/28 km, siro ho kháng histamin, bà ngoại có van tim, hồ sơ nằm viện, lịch trạm xã khám lại hằng ngày là thiết kế của ca. Âm thanh: stridor AT-HH-STRIDOR-01 lượt 2, ran nổ AT-PHOI-RAN-NO-01 lượt 3; không dùng ảnh da.",
+  "Mâu thuẫn mới (HH-1077_mau_thuan.md): corticoid ở croup độ I; kháng sinh, oxy trong croup trẻ em; nơi điều trị độ IIA/IIB và mở khí quản ở trẻ em. Theo mục cũ: amoxicillin trẻ 2–59 tháng; SpO₂ viêm phổi trẻ em; HH-1045; HH-1073."
+ ]
+}

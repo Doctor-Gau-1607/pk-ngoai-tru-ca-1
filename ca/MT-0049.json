@@ -1,0 +1,966 @@
+{
+ "ma_ca": "MT-0049",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_tha_nguyen_phat",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Lễ tân khách sạn",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Trần Minh Hải",
+  "tuoi": 48,
+  "gioi": "Nam",
+  "nghe": "Lễ tân khách sạn (làm ca đêm, đảo ca 2 tuần/lần)",
+  "can_nang": 76,
+  "chieu_cao": 169,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lễ phép, ăn nói khéo vì làm dịch vụ, hay cười xòa 'tôi khỏe, không sao đâu'. Tiếc ngày công vì nhà cách phòng khám khoảng 80 km, mỗi lần đi khám nghỉ trọn một ngày. Hiểu biết y khoa ít, hay đổ mọi chuyện cho 'hóa chất ở chỗ làm'.",
+  "kieu_nhieu": "Ở xa, khó tái khám: muốn xong trong một lần, hay hỏi 'có cách nào khỏi phải xuống lại không', hứa 'sẽ uống đều', rút ngắn điều trị khi thấy khỏe. Chỉ nói khó khăn thật (đường xa, ca đêm, tiền xe, quên thuốc khi đổi ca) khi bác sĩ hỏi thẳng 'anh về nhà bằng gì, mất bao lâu', 'mấy ngày quên uống'.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a981",
+   "toc": "#1f1712",
+   "kieuToc": "ngan",
+   "ao": "#3f5f7a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Nhức đầu, ngủ không ngon sau khi tiếp xúc hóa chất ở chỗ làm",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 48 tuổi, lễ tân khách sạn ở thị trấn ven biển cách phòng khám khoảng 80 km, đi một mình bằng xe khách. Anh kể hai tuần nay khách sạn đổi nước tẩy rửa mới, anh nhức đầu và ngủ không ngon, sợ bị nhiễm độc hóa chất. Hôm qua đo ở trạm y tế xã thấy 176/108 nên anh xuống khám. Sinh hiệu lúc tiếp đón: HA 174/106 mmHg, mạch 84 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Anh Hải bị chuyển cấp cứu như cơn THA cấp cứu. HA 174/106 mmHg thấp hơn ngưỡng chuyển khẩn (≥ 200/120, hoặc ≥ 180/110 kèm đau đầu dữ dội, nhìn mờ, đau ngực, dấu thần kinh; QĐ 5904 Phần 3 mục D.1), không có tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1). Anh mất ngày công, về vẫn chưa có đơn dài hạn.",
+    "chuyen_tuyen": "Anh Hải được gửi lên chuyên khoa tim mạch. QĐ 5904 chỉ chuyển khi THA < 40 tuổi, nghi thứ phát, nhiều bệnh nặng, chưa đạt dù ≥ 3 thuốc hoặc biến chứng nặng (Phần 1 Bước 4A); anh 48 tuổi, chưa dùng thuốc, phòng khám đã làm đủ xét nghiệm. Anh chậm khởi trị, tốn kém, dễ bỏ cuộc vì đường xa.",
+    "theo_doi": "Anh Hải được dặn bớt cà phê, bia, đổi nước tẩy rồi theo dõi, chưa dùng thuốc. HA ≥ 140/90 mmHg đã xác nhận thì khởi trị ngay (ESC 2024 Bảng khuyến cáo 16, I, A; QĐ 5904 Phần 1 mục A.5). Ở xa, không hẹn rõ, HA 170/100 kéo dài làm tăng nguy cơ đột quỵ; bố anh từng bị tai biến mạch máu não."
+   },
+   "loi_mo": "Chào bác sĩ. Hai tuần nay khách sạn tôi đổi loại nước tẩy mới, mùi hắc lắm. Từ đó tôi nhức đầu, ngủ không ngon. Hôm qua đo ở trạm y tế họ bảo huyết áp cao, nên tôi xuống đây xem có phải bị nhiễm hóa chất không.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "174/106",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nhức đầu âm ỉ hai tuần, ngủ không ngon. Khách sạn đổi nước tẩy mới mùi hắc nên anh nghi nhiễm hóa chất. Hôm qua trạm y tế xã đo 176/108 và dặn đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và số HA đo ở trạm y tế"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Thật ra anh muốn xin ít thuốc ngủ: làm ca đêm, ban ngày ngủ chập chờn 4–5 tiếng, nghe đồng nghiệp bảo uống thuốc ngủ là hết nhức đầu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'anh cần gì' thì nói 'khám xem có nhiễm độc không'. Chỉ nói về thuốc ngủ khi bác sĩ hỏi cụ thể về giấc ngủ, hỏi anh mong muốn gì từ buổi khám, hoặc hỏi lần thứ hai.",
+     "k": 1,
+     "y": "Động cơ thật: xin thuốc ngủ"
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Nhức âm ỉ hai bên gáy, nặng nhất lúc mới ngủ dậy rồi giảm dần. Không đau dữ dội đột ngột, không nôn, không nhìn mờ, không yếu liệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau đầu, dấu hiệu cảnh báo"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Dọn kho và nhà vệ sinh bằng nước tẩy mới thì cay mũi, cay mắt; đeo khẩu trang thì đỡ, ra khỏi phòng thì hết. Không ho, không khó thở, không buồn nôn, không nổi mẩn. Ba đồng nghiệp cùng dùng không ai nhức đầu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Ba năm trước khám sức khỏe cơ quan được nói HA 'hơi cao' (145/90), dặn ăn nhạt, không hẹn đo lại. Chưa uống thuốc HA. Chưa thử đường, mỡ máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử HA cao chưa được theo dõi"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Bố bị tai biến mạch máu não năm 61 tuổi. Mẹ cao huyết áp, uống thuốc ở trạm y tế.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn đêm mì gói, xúc xích, cá hộp, cơm hộp mặn, chấm nước mắm. Uống 4–5 ly cà phê mỗi đêm và một lon nước tăng lực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Muối, cà phê, nước tăng lực"
+    },
+    {
+     "id": "ruou_thuoc",
+     "noi_dung": "Sau ca đêm uống 2–3 lon bia 330 mL 'cho dễ ngủ', gần như mỗi ngày. Hút nửa gói thuốc lá mỗi ngày hơn 20 năm. Không tập thể dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu bia, thuốc lá, vận động"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Đảo ca mỗi 2 tuần. Ngủ ban ngày 4–5 giờ, chập chờn vì ồn. Vợ nói thỉnh thoảng ngáy nhẹ, không thấy ngưng thở; anh không bật dậy nghẹt thở, không ngủ gục khi chạy xe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấc ngủ, sàng lọc ngưng thở khi ngủ"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Chưa từng có cơn đổ mồ hôi, hồi hộp, nhức đầu từng đợt. Không yếu cơ, chuột rút, khát nhiều. Đêm đi tiểu 0–1 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc gợi ý THA thứ phát"
+    },
+    {
+     "id": "tim_than_kinh_am",
+     "noi_dung": "Không đau ngực, không khó thở khi lên ba tầng cầu thang, không phù chân, không tê yếu tay chân, méo miệng, nói khó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng cơ quan đích"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Uống vitamin tổng hợp, vitamin C sủi, dầu cá mua ở nhà thuốc, thất thường. Thỉnh thoảng một viên paracetamol; không thuốc cảm, thuốc nam, corticoid.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc, thực phẩm chức năng đang dùng"
+    },
+    {
+     "id": "di_lai",
+     "noi_dung": "Nhà cách phòng khám khoảng 80 km, xe khách gần 2 giờ mỗi chiều; mỗi lần khám nghỉ trọn một ngày, bị trừ công. Có điện thoại, dùng Zalo. Xin nghỉ trước thì xuống lại được khoảng một tháng một lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng tái khám (ở xa)"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 172/106, tay trái 170/104 mmHg (ngồi nghỉ 5 phút, đo hai lần cách 2 phút). Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 84 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3, T4."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp nhẹ, bắt chéo động mạch–tĩnh mạch nhẹ. Không xuất huyết, không xuất tiết, không phù gai thị.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mạch bẹn, mạch mu chân đều hai bên. Không âm thổi động mạch cảnh.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi họng hồng, không phù nề, không chảy dịch.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "BMI 26,6 kg/m². Vòng eo 93 cm. Không mặt tròn, không rạn da tím.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,0 mmol/L · Creatinin 82 µmol/L · eGFR 98 mL/ph/1,73m²"
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,1 · Cl 102 mmol/L",
+     "n": "K bình thường không loại trừ cường aldosteron (AHA/ACC 2025 mục 3.2.3.1)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "5,4 mmol/L"
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,7 · LDL-C 3,6 · HDL-C 1,0 · TG 2,3 mmol/L",
+     "ab": 1
+    },
+    "uacr": {
+     "v": "e",
+     "r": "9 mg/g",
+     "n": "< 30 mg/g: chưa có albumin niệu (VSH/VNHA 2024 Bảng 11); thường quy (ESC 2024 Bảng 8)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Không protein · Không glucose · Không hồng cầu"
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 84 l/p. Sokolow-Lyon 29 mm, không dày thất trái. Không ST–T bất thường.",
+     "n": "Dày thất trái khi Sokolow-Lyon > 35 mm (VSH/VNHA 2024 Bảng 11)."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,9 mIU/L",
+     "n": "Thường quy theo ESC 2024 Bảng 8; QĐ 5904 Phần 1 Bước 2 không liệt kê. Làm hay không đều không trừ điểm."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Aldosteron 11 ng/dL · Hoạt tính renin 1,5 ng/mL/giờ · ARR 7,3 (dưới ngưỡng sàng lọc)",
+     "n": "ESC 2024 Bảng khuyến cáo 13 (IIa): cân nhắc cho mọi người THA đã xác nhận; bắt buộc khi kháng trị, hạ kali (AHA/ACC 2025 mục 3.2.3.1). Chấm a."
+    },
+    "psg": {
+     "n": "Không ngưng thở chứng kiến, không buồn ngủ ban ngày, BMI 26,6: chưa có chỉ định; nghĩ lại nếu HA không đạt (ESC 2024 mục 7.6.4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2, mới chẩn đoán, chưa điều trị; nguy cơ tim mạch cao",
+     "ok": 1,
+     "n": "HA 160–179/100–109 mmHg là độ 2 (QĐ 5904 Phần 1 Bước 3A); cao ở hai nơi đo, HA 145/90 cách đây 3 năm; nguy cơ cao (VSH/VNHA 2024 Bảng 2: độ II, nhiều yếu tố nguy cơ). Chưa tổn thương cơ quan đích."
+    },
+    {
+     "t": "Mất ngủ do đảo ca đêm, cà phê, bia, thuốc lá (chẩn đoán kèm)",
+     "ok": 1,
+     "n": "Ngủ 4–5 giờ ban ngày, thêm cà phê, nước tăng lực, bia, thuốc lá (QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 mục 3)."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Không chỉ điểm ở VSH/VNHA 2024 Bảng 9, Đ2.4: khởi phát lúc 48 tuổi, K 4,1, không cơn từng đợt, creatinin và nước tiểu bình thường. Nghĩ lại nếu kháng trị."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA < 180/110, nhức đầu âm ỉ, không đau ngực, không dấu thần kinh, đáy mắt không xuất huyết (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1)."
+    },
+    {
+     "t": "Hội chứng ngưng thở khi ngủ tắc nghẽn",
+     "n": "Chỉ ngáy nhẹ, không ngưng thở chứng kiến, không buồn ngủ ban ngày, không béo phì (ESC 2024 mục 7.6.4; VSH/VNHA 2024 Bảng 9). Không triệu chứng chưa loại trừ hẳn: hỏi lại nếu HA không đạt."
+    },
+    {
+     "t": "Nhiễm độc, kích ứng do hóa chất tẩy rửa",
+     "n": "Cay mũi, cay mắt thoáng qua, hết khi ra ngoài; không ho, SpO₂ 98%, đồng nghiệp không bị. Hóa chất tẩy rửa không có trong danh mục chất làm tăng HA (AHA/ACC 2025 Bảng 11)."
+    },
+    {
+     "t": "Tăng huyết áp áo choàng trắng",
+     "n": "HA cao nhiều lần, nhiều nơi, độ 2; vẫn xác nhận ngoài phòng khám trong 1 tháng (ESC 2024 Bảng khuyến cáo 6, I, C)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khởi trị ngay bằng phối hợp hai thuốc: ức chế men chuyển (perindopril 5 mg) + chẹn kênh canxi (amlodipin 5 mg), 1 lần/ngày, ưu tiên viên phối hợp cố định nếu có; kèm thay đổi lối sống",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục C (sơ đồ tr. 5): THA độ 2 bắt đầu từ bước 2, C + A (amlodipin 5 mg + perindopril 5 mg). VSH/VNHA 2024 Bảng 4 (I, A); ESC 2024 Bảng khuyến cáo 16 (I, B): phối hợp ban đầu, ưu tiên viên cố định. Hàm lượng viên phối hợp tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xác nhận HA ngoài phòng khám trong vòng 1 tháng: hướng dẫn mua máy bắp tay, cách đo, ghi sổ, gửi số đo qua điện thoại",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 6 (I, C): HA 160–179/100–109 xác nhận càng sớm càng tốt (khoảng 1 tháng) bằng đo tại nhà hoặc 24 giờ; Bảng khuyến cáo 35 (I, B). VSH/VNHA 2024 Đ1.2.2: đo 3–7 ngày, 2 lần/ngày, trung bình ≥ 135/85 mmHg là THA; Đ4.6: theo dõi từ xa. QĐ 5904 Phụ lục 1.1: quy trình đo."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần kèm kali, creatinin; hẹn gọi điện giữa kỳ; có tác dụng phụ thì báo ngay, không đợi tới hẹn",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục C: tái khám sau 4 tuần; có tác dụng phụ thì không đợi. VSH/VNHA 2024 Đ4.1 (2–4 tuần/lần trong 2–3 tháng đầu), Đ5.4 (điện thoại). AHA/ACC 2025 mục 5.2.8: điện giải, creatinin 2–4 tuần sau khi bắt đầu ức chế men chuyển."
+    },
+    {
+     "t": "Giải thích nỗi lo hóa chất và cấp thuốc đủ đến ngày hẹn, uống 1 lần/ngày vào giờ cố định hợp với ca đêm",
+     "v": "c",
+     "n": "Hóa chất tẩy rửa không có trong danh mục chất làm tăng HA (AHA/ACC 2025 Bảng 11); xử trí ngộ độc hóa chất tẩy: không có trong tài liệu đã tải. Giờ cố định, thuận tiện (ESC 2024 mục 8.3.6, I, B); 1 lần/ngày (AHA/ACC 2025 mục 5.2.5, 1, B-R). Số viên dự phòng: ca thiết kế vì ở xa."
+    },
+    {
+     "t": "Hỏi nguyên nhân mất ngủ (đảo ca, cà phê, nước tăng lực, bia, thuốc lá), dặn vệ sinh giấc ngủ; chưa kê thuốc ngủ hằng đêm, hoặc nếu cân nhắc thuốc thì ngắn hạn tối đa 4 tuần sau quyết định chung",
+     "v": "c",
+     "n": "Ghi cả hai (sổ mâu thuẫn TT-0161). QĐ 2058/2020 Bài 27 mục 4.3: vệ sinh giấc ngủ, liệt kê cả benzodiazepin; mục 4.1: hạn chế lạm dụng nhóm giải lo âu gây nghiện. ESRS 2023 tóm tắt: thuốc ngủ ngắn hạn ≤ 4 tuần (A) khi liệu pháp không thuốc chưa đủ. Mất ngủ do ca đêm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm muối (natri khoảng 2 g, tức khoảng 5 g muối/ngày), bớt mì gói, đồ hộp; giảm cà phê, bỏ nước tăng lực; hạn chế bia, bỏ thuốc lá; vòng eo < 90 cm; vận động ≥ 150 phút/tuần",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15: natri 2 g/ngày, vận động ≥ 150 phút/tuần, bỏ thuốc lá (I, A), rượu < 100 g/tuần, tốt nhất tránh (I, B); mục 8.2.4: nước tăng lực làm tăng HA. QĐ 5904 Phần 1 mục D.1b–c: rượu bia ≤ 2 đơn vị/ngày, ≤ 10/tuần (Phần 3 F.6: 1 đơn vị = ¾ lon 330 mL). Cà phê: VSH/VNHA 2024 Hình 14 ghi 2–3 cốc, AHA/ACC 2025 Bảng 11 dưới 300 mg caffeine/ngày (MT-1226)."
+    },
+    {
+     "t": "Dặn bằng văn bản kèm số điện thoại phòng khám: nhức đầu dữ dội, nhìn mờ, đau ngực, yếu liệt, nói khó thì đến cơ sở y tế gần nhất ngay",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1: chuyển khẩn khi ≥ 200/120 mmHg hoặc ≥ 180/110 kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú. Ở xa nên dặn kỹ hơn."
+    },
+    {
+     "t": "Đơn trị amlodipin 5 mg",
+     "v": "w",
+     "n": "QĐ 5904 Phần 1 mục C: độ 2 bắt đầu từ phối hợp 2 thuốc; VSH/VNHA 2024 Bảng 4 (I, A). Chỉ chấp nhận khi chưa có creatinin, kali (sổ mâu thuẫn MT-0166); ca này đã có."
+    },
+    {
+     "t": "Cho ngậm nifedipin tác dụng nhanh để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2 (174/106 mmHg), mới chẩn đoán, chưa điều trị; nguy cơ tim mạch cao, chưa tổn thương cơ quan đích",
+     "Yếu tố nguy cơ: thừa cân, vòng eo 93 cm, LDL-C 3,6 mmol/L, hút thuốc, bia, ăn mặn, tiền sử gia đình đột quỵ",
+     "Mất ngủ do đảo ca đêm, cà phê, nước tăng lực, bia, thuốc lá",
+     "Không phải cơn THA cấp cứu, chưa có chỉ điểm thứ phát, không phải nhiễm độc hóa chất"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi theo thứ tự: lý do và số đo ở trạm y tế; đặc điểm nhức đầu; HA 145/90 cách đây 3 năm, tiền sử gia đình; ăn mặn, cà phê, bia, thuốc lá; thuốc tự mua; giấc ngủ; hỏi riêng về hóa chất. Hỏi 'anh mong gì từ buổi khám' mới lộ ý định xin thuốc ngủ.",
+     "THA độ 2: HA 160–179/100–109 mmHg (QĐ 5904 Phần 1 Bước 3A). Xác nhận ngoài phòng khám trong khoảng 1 tháng (ESC 2024 Bảng khuyến cáo 6); trung bình đo tại nhà ≥ 135/85 là THA (VSH/VNHA 2024 Đ1.2.2); anh ở xa nên đo tại nhà thực tế hơn. CLS cơ bản: creatinin, điện giải, glucose, mỡ máu, UACR, nước tiểu, ECG (QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8); siêu âm tim, Holter, TSH, aldosteron/renin là tùy chọn (a).",
+     "Không phải cơn cấp cứu (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Chưa nghĩ thứ phát: khởi phát lúc 48 tuổi, K 4,1, không cơn từng đợt, creatinin bình thường (VSH/VNHA 2024 Bảng 9); chưa có triệu chứng ngưng thở khi ngủ (ESC 2024 mục 7.6.4).",
+     "Hóa chất chỉ là nhiễu: cay mũi thoáng qua, đồng nghiệp không ai bị. Không hỏi ra thì nhắm sai nguyên nhân và anh ra về không có thuốc huyết áp."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám: khởi trị ngay phối hợp hai thuốc kèm lối sống (QĐ 5904 Phần 1 mục C; VSH/VNHA 2024 Bảng 4; ESC 2024 Bảng khuyến cáo 16); mục tiêu < 130/80 mmHg (VSH/VNHA 2024 Bảng 4), đạt trong 1–3 tháng (QĐ 5904 Phần 1 mục A.3).",
+     "Người ở xa: cấp thuốc đủ và dư vài ngày (thiết kế của ca), 1 lần/ngày giờ cố định hợp ca đêm (ESC 2024 mục 8.3.6), máy đo HA tại nhà, báo số qua điện thoại (VSH/VNHA 2024 Đ4.6, Đ5.4), dặn cấp cứu bằng văn bản (QĐ 5904 Phần 3 mục D.1).",
+     "Thuốc ngủ: giải thích nguyên nhân ngủ kém sửa được, chưa kê hằng đêm (QĐ 2058/2020 Bài 27 mục 4.1, 4.3; ESRS 2023 tóm tắt). Anh uống khoảng 2,7–4 đơn vị cồn/ngày, vượt ≤ 2 đơn vị của QĐ 5904 Phần 1 mục D.1c và < 100 g/tuần của ESC 2024 Bảng khuyến cáo 15."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày, gắn với việc làm hằng ngày (ví dụ ngay trước khi đi làm hoặc cùng bữa đầu ca)",
+      "so_ngay": "35 ngày (4 tuần + 7 ngày dự phòng); dùng lâu dài",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; kiểm tra creatinin, kali trước và 2–4 tuần sau (QĐ 5904 Phần 3 mục G; AHA/ACC 2025 mục 5.2.8). Tác dụng phụ: ho, tăng kali, phù mạch; chống chỉ định: có thai, tiền sử phù mạch với ức chế men chuyển (QĐ 5904 Phần 3 mục G)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ với perindopril",
+      "so_ngay": "35 ngày; dùng lâu dài",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Viên phối hợp perindopril/amlodipin nếu có (QĐ 5904 Phần 1 mục C); hàm lượng không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc một giờ cố định, kể cả khi thấy khỏe hoặc đổi ca; không tự ngưng (QĐ 5904 Phần 1 mục D.2).",
+     "Mua máy đo HA bắp tay; nghỉ 5 phút, đo sáng và tối 3–7 ngày trước hẹn, mỗi lần 2 lượt cách 1–2 phút, nhắn số đo qua điện thoại (VSH/VNHA 2024 Đ1.2.2).",
+     "Muối khoảng 5 g/ngày: bớt mì gói, đồ hộp, nước mắm (ESC 2024 Bảng khuyến cáo 15); bớt cà phê, bỏ nước tăng lực, giảm bia, bỏ thuốc lá. Ngủ giờ cố định, không cà phê, thuốc lá trước giờ ngủ (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Nhức đầu dữ dội, nhìn mờ, đau ngực, yếu liệt, nói khó: đến cơ sở y tế gần nhất ngay (QĐ 5904 Phần 3 mục D.1). Ho, sưng môi, phù chân, chóng mặt: gọi số trên phiếu, không đợi tới hẹn.",
+     "Tái khám sau 4 tuần, mang sổ đo HA và vỉ thuốc, làm kali, creatinin; không xuống được thì báo trước, không quá 8 tuần (VSH/VNHA 2024 Đ4.1, Đ5.4)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – tái khám sau 4 tuần",
+   "tiep_don": "Anh Hải tái khám đúng hẹn, đi xe khách từ sáng sớm. Anh nói uống thuốc 'khá đều', nhức đầu đỡ nhưng đo ở trạm y tế tuần trước vẫn 158/98. Sinh hiệu lúc tiếp đón: HA 164/100 mmHg, mạch 80 l/p.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Hải được chuyển tuyến trên với chẩn đoán 'THA kháng trị'. Chưa đủ tiêu chuẩn: phải dùng ≥ 3 thuốc có lợi tiểu mà không đạt (QĐ 5904 Phần 1 Bước 4A.3) và loại giả kháng trị trước (ESC 2024 Bảng 11); anh mới dùng 2 thuốc, bỏ khoảng một phần tư số liều. Anh mất ngày công, tiền xe, nguyên nhân thật chưa sửa.",
+    "nhap_vien": "Anh Hải nhập viện để hạ áp theo mong muốn 'đổi thuốc mạnh hơn'. THA nặng không có tổn thương cơ quan đích cấp không hạ áp nhanh, không thuốc tiêm (AHA/ACC 2025 mục 6.2). Anh tốn viện phí, nghỉ việc nhiều ngày, trong khi cần uống đều đúng giờ và bớt muối, cà phê, bia.",
+    "theo_doi": "Anh Hải được dặn giữ thuốc cũ, 'khó chịu thì xuống', không tìm nguyên nhân, không hẹn gọi điện. HA 164/100 còn xa mục tiêu < 130/80 (VSH/VNHA 2024 Bảng 4); cần tái khám 2–4 tuần/lần trong 2–3 tháng đầu (Đ4.1). Người ở xa không hẹn rõ thường mất theo dõi, dễ bỏ thuốc khi nhức đầu đỡ."
+   },
+   "loi_mo": "Chào bác sĩ. Thuốc tôi uống rồi, nhức đầu đỡ chút mà đo huyết áp vẫn cao. Chắc thuốc không hợp, bác sĩ đổi thuốc mạnh hơn cho tôi để khỏi phải xuống nhiều lần.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "164/100",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn. HA ở trạm y tế tuần trước 158/98 và 154/96. Nhức đầu giảm nhiều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, số đo gần đây"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Vỉ thuốc phát 5 tuần (35 viên mỗi loại) còn 14 viên: uống được khoảng 21 trong 28 ngày. Những hôm đổi ca về sáng ngủ li bì là quên; hôm hết ca muộn cũng quên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống đều không' thì nói 'đều chứ, thỉnh thoảng quên'. Chỉ nói số viên còn lại khi bác sĩ đề nghị xem vỉ thuốc hoặc hỏi cụ thể mấy ngày trong tuần quên, hôm đổi ca có uống không.",
+     "k": 1,
+     "y": "Không tuân thủ: đếm viên"
+    },
+    {
+     "id": "gio_uong",
+     "noi_dung": "Anh uống thuốc 'buổi sáng' theo lời dặn, nhưng sáng là lúc đang ngủ bù sau ca; những hôm làm đêm thì quên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giờ uống thuốc không hợp lịch ca"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Vẫn ăn mì gói, xúc xích buổi đêm vì 'nhạt quá nuốt không nổi'. Còn 3 ly cà phê mỗi đêm, bỏ nước tăng lực. Bia 1–2 lon sau ca. Hút nửa gói thuốc mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống chưa đổi"
+    },
+    {
+     "id": "muoi_kali",
+     "noi_dung": "Vợ mua giúp gói 'muối ăn kiêng ít natri' (trên bao có ghi kali clorua), nấu ở nhà khoảng 2 tuần nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Muối thay thế chứa kali khi đang dùng ức chế men chuyển"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Không ho, không phù chân, không chóng mặt khi đứng dậy, không đỏ bừng mặt, không sưng môi lưỡi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ của thuốc"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không nhức đầu dữ dội, không nhìn mờ, không đau ngực, không yếu liệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cảnh báo"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Vẫn ngủ 4–5 giờ, chập chờn; vợ nói vẫn ngáy nhẹ, không ngưng thở. Anh nhắc lại xin 'vài viên thuốc ngủ'. Vẫn chỉ dùng vitamin và dầu cá, không thuốc khác.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "di_lai",
+     "noi_dung": "Không xuống được mỗi 2 tuần. Xin nghỉ được thêm một lần khoảng 1–2 tháng nữa; gọi điện hoặc nhắn Zalo báo số đo HA thì được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lịch tái khám khả thi"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 162/100, tay trái 160/98 mmHg (ngồi nghỉ 5 phút, đo hai lần).",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù mắt cá.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA đứng sau 1 phút giảm 4/2 mmHg, không chóng mặt.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Cân nặng 76 kg, vòng eo 93 cm. Không thay đổi so với lượt 1.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 4,9 mmol/L",
+     "n": "K cao hơn lượt 1 (4,1) nhưng còn trong giới hạn: có muối kali cùng ức chế men chuyển nên phải theo dõi (ESC 2024 Bảng khuyến cáo 15, IIa, C; AHA/ACC 2025 mục 5.2.8)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 86 µmol/L (lượt 1: 82) · eGFR 94 mL/ph/1,73m²",
+     "n": "Tăng 5%: trong mức dự kiến khi dùng ức chế men chuyển; chỉ nghĩ lại khi eGFR giảm kéo dài > 30% (AHA/ACC 2025 mục 5.2.9)."
+    },
+    "aldo": {
+     "n": "Chưa kháng trị, đã có nguyên nhân giải thích (AHA/ACC 2025 mục 3.2.3.1); ức chế men chuyển có thể làm ARR âm tính giả (ESC 2024 Bảng 12)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2 chưa đạt mục tiêu do dùng thuốc không đều (giả kháng trị), giờ uống không hợp ca đêm và lối sống chưa đổi",
+     "ok": 1,
+     "n": "HA 164/100 vẫn trên mục tiêu < 130/80 (VSH/VNHA 2024 Bảng 4). Còn 14/35 viên; kém tuân thủ, ăn mặn là nguyên nhân giả kháng trị (ESC 2024 Bảng 11)."
+    },
+    {
+     "t": "Tăng huyết áp kháng trị",
+     "n": "Chỉ nghĩ khi ≥ 3 thuốc có lợi tiểu liều tối ưu không đạt, đã loại giả kháng trị (QĐ 5904 Phần 1 Bước 4A.3; ESC 2024 Bảng 10). Anh mới dùng 2 thuốc, bỏ khoảng 25% liều."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Chưa có chỉ điểm mới: K 4,9, creatinin ổn định, không cơn, đã có nguyên nhân giải thích (VSH/VNHA 2024 Bảng 9)."
+    },
+    {
+     "t": "Không dung nạp hoặc tác dụng phụ của thuốc",
+     "n": "Không ho, phù, chóng mặt tư thế, sưng môi lưỡi (QĐ 5904 Phần 3 mục G; VSH/VNHA 2024 Đ4.2)."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA < 180/110 mmHg, không triệu chứng nặng, không dấu thần kinh (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tìm và sửa nguyên nhân chưa đạt mục tiêu trước khi tăng bậc: kiểm tra tuân thủ (đếm viên), giờ uống, cách đo HA, muối, cà phê, bia, thuốc lá, thuốc tự mua",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục C (sơ đồ, bước 4) và C.6: xem lại việc dùng thuốc, lối sống. ESC 2024 Bảng 11: giả kháng trị do kém tuân thủ, đo sai, ăn mặn, rượu; AHA/ACC 2025 mục 5.2.5: đếm viên; tới 50% người ngừng thuốc sau 1 năm."
+    },
+    {
+     "t": "Giữ perindopril 5 mg + amlodipin 5 mg, chuyển viên phối hợp cố định nếu có, hoặc thêm thuốc thứ ba indapamid SR 1,5 mg",
+     "v": "c",
+     "n": "Ghi cả hai (tăng bậc khi tuân thủ kém). Cách 1: loại giả kháng trị trước khi lên 3 thuốc (ESC 2024 Bảng 10, 11; QĐ 5904 Phần 1 mục C bước 4). Cách 2: QĐ 5904 Phần 1 mục C bước 3: vượt mục tiêu > 5–10 mmHg sau 4 tuần thì thêm indapamid 1,5 mg. Ca chọn cách 1 vì còn 25% liều bỏ sót. Viên phối hợp cố định (ESC 2024 Bảng khuyến cáo 16, I, B)."
+    },
+    {
+     "t": "Gắn giờ uống với việc cố định hợp ca đêm, đặt báo thức điện thoại, hộp chia thuốc; cấp thuốc đến đúng ngày hẹn",
+     "v": "c",
+     "n": "ESC 2024 mục 8.3.6, Bảng khuyến cáo 16 (I, B): giờ thuận tiện nhất, thói quen cố định; AHA/ACC 2025 mục 5.2.5 (2a, B-R): nhắc nhở, đồng bộ ngày lấy thuốc với ngày hẹn; VSH/VNHA 2024 Đ5.2, Đ5.3."
+    },
+    {
+     "t": "Mua máy đo HA bắp tay, đo đúng cách, ghi sổ và gửi số đo qua điện thoại hai tuần một lần",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 35 (I, B); VSH/VNHA 2024 Đ1.2.2, Đ4.6; QĐ 5904 Phụ lục 1.1."
+    },
+    {
+     "t": "Hỏi về muối thay thế chứa kali: chưa tăng thêm, kiểm kali máu ở các lần sau",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15 (IIa, A cho muối kali; IIa, C theo dõi kali khi dùng ức chế men chuyển); AHA/ACC 2025 mục 5.1 khuyến cáo 4 (2a, A). K 4,9 mmol/L còn trong giới hạn."
+    },
+    {
+     "t": "Hẹn tái khám sau 4–8 tuần tùy lịch nghỉ, giữa kỳ gọi hoặc nhắn số đo HA; nếu 4 tuần sau HA nhà vẫn ≥ 140/90 thì phải xuống sớm",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ4.1 (2–4 tuần/lần trong 2–3 tháng đầu), Đ5.4; ESC 2024 Hình 18 (1–3 tháng, ưu tiên 1 tháng). Khoảng 4–8 tuần là thỏa hiệp vì ở xa (ca thiết kế)."
+    },
+    {
+     "t": "Hỏi lại giấc ngủ, chưa kê thuốc ngủ hằng đêm (hoặc thuốc ngắn hạn ≤ 4 tuần sau quyết định chung); chưa có triệu chứng ngưng thở khi ngủ",
+     "v": "c",
+     "n": "Như lượt 1: QĐ 2058/2020 Bài 27 mục 4.1, 4.3; ESRS 2023 tóm tắt (sổ mâu thuẫn TT-0161). Nghĩ lại ngưng thở khi ngủ nếu HA vẫn không đạt (ESC 2024 mục 7.6.4)."
+    },
+    {
+     "t": "Chuyển tuyến chuyên khoa vì THA kháng trị",
+     "v": "w",
+     "n": "Chưa đủ ≥ 3 thuốc, chưa loại giả kháng trị (QĐ 5904 Phần 1 Bước 4A.3; ESC 2024 Bảng 11)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2 chưa đạt mục tiêu (164/100 mmHg)",
+     "Nguyên nhân: không tuân thủ (còn 14/35 viên), giờ uống không hợp ca đêm, ăn mặn, cà phê, bia, thuốc lá",
+     "Chưa phải kháng trị; không tác dụng phụ; K 4,9 mmol/L, đang dùng muối kali",
+     "Không phải cơn cấp cứu; chưa có chỉ điểm thứ phát"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi lượt này là 'vì sao chưa đạt mục tiêu'. Hỏi tuân thủ cụ thể, xem vỉ thuốc, giờ uống, lối sống, thuốc tự mua, tác dụng phụ; khám tim, phổi, phù; kali, creatinin (AHA/ACC 2025 mục 5.2.8).",
+     "Không tuân thủ đứng đầu các nguyên nhân giả kháng trị (ESC 2024 Bảng 11). Anh nói 'khá đều' vì sợ bị trách; chỉ vỉ thuốc mới nói thật. Chưa kháng trị vì mới 2 thuốc (QĐ 5904 Phần 1 Bước 4A.3; ESC 2024 Bảng 10); chưa nghĩ thứ phát (VSH/VNHA 2024 Bảng 9)."
+    ],
+    "phan_tich_xu_tri": [
+     "Sửa nguyên nhân trước khi tăng thuốc: 1 lần/ngày, viên phối hợp, giờ uống gắn việc cố định, báo thức, hộp chia thuốc (ESC 2024 mục 8.3.6; AHA/ACC 2025 mục 5.2.5; VSH/VNHA 2024 Đ5.2–5.3). Thêm indapamid theo QĐ 5904 (bước 3) cũng đúng nhưng ca này sửa tuân thủ trước.",
+     "Muối kali + ức chế men chuyển: K 4,9 còn ổn, không tăng thêm, kiểm lại (ESC 2024 Bảng khuyến cáo 15). Ở xa: máy đo HA, nhắn số đo mỗi 2 tuần, hẹn 4–8 tuần (VSH/VNHA 2024 Đ4.6, Đ5.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định gắn với việc hằng ngày, đặt báo thức",
+      "so_ngay": "60 ngày (đến hẹn 8 tuần); dùng lâu dài",
+      "ghi_chu": "Giữ liều (QĐ 5904 Phần 3 mục G: khởi đầu 5 mg, duy trì 5–10 mg). Số ngày cấp: không có trong tài liệu đã tải, thiết kế vì ở xa."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ với perindopril",
+      "so_ngay": "60 ngày; dùng lâu dài",
+      "ghi_chu": "Giữ 5 mg; không phù mắt cá (QĐ 5904 Phần 3 mục G). Viên phối hợp cố định nếu có (ESC 2024 Bảng khuyến cáo 16)."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc giờ cố định, báo thức, hộp chia thuốc; hôm đổi ca vẫn uống. Mua máy đo HA bắp tay, đo sáng tối 3–7 ngày, nhắn số đo hai tuần một lần (VSH/VNHA 2024 Đ1.2.2, Đ4.6).",
+     "Muối 5 g/ngày, bớt mì gói; không thêm muối kali hay thuốc bổ chứa kali khi chưa hỏi; giảm cà phê, bia, thuốc lá (ESC 2024 Bảng khuyến cáo 15).",
+     "Ho khan, sưng môi, lưỡi, mặt, phù chân, chóng mặt: gọi ngay, không tự ngưng thuốc. Nhức đầu dữ dội, nhìn mờ, đau ngực, yếu liệt: đến cơ sở y tế gần nhất (QĐ 5904 Phần 3 mục D.1).",
+     "Tái khám sau 4–8 tuần, mang sổ đo HA và vỉ thuốc (VSH/VNHA 2024 Đ4.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 – tái khám sau 8 tuần",
+   "tiep_don": "Anh Hải tái khám sau 8 tuần (tháng thứ ba kể từ lúc bắt đầu thuốc); giữa kỳ đã nhắn số đo HA hai lần. Hai tuần nay anh ho khan, nhất là ban đêm, ngủ càng kém. Anh cho là do tầng khách sạn vừa sơn lại và lau sàn bằng nước tẩy mạnh. Sinh hiệu lúc tiếp đón: HA 142/88 mmHg, mạch 78 l/p.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Anh Hải được cho thuốc ho, vẫn giữ perindopril. Ho khô do ức chế men chuyển không đáp ứng thuốc ho (QĐ 5904 Phần 3 mục G: đổi sang chẹn thụ thể); ho làm anh mất ngủ thêm, nghĩ thuốc huyết áp gây hại rồi tự bỏ cả hai thuốc. Ở xa không quay lại, HA lên lại 160–170/100 mmHg và bố anh từng bị tai biến (QĐ 5904 Phần 1 mục D.2; VSH/VNHA 2024 Bảng 4).",
+    "chuyen_tuyen": "Anh Hải bị gửi hô hấp chụp CT ngực, nội soi vì 'ho kéo dài ở người hút thuốc'. Không có dấu nặng (sốt, sụt cân, ho máu), nguyên nhân do thuốc chưa được xét; QĐ 5904 chỉ chuyển khi nghi biến chứng nặng hoặc không đạt dù ≥ 3 thuốc (Phần 1 Bước 4A). Anh mất ngày công, tốn kém, vẫn ho vì thuốc cũ chưa đổi."
+   },
+   "loi_mo": "Chào bác sĩ. Thuốc huyết áp tôi uống đều rồi, nhưng hai tuần nay tôi ho khan hoài, nhất là ban đêm, ngủ càng không được. Chắc do khách sạn mới lau sàn bằng nước tẩy mạnh. Bác sĩ cho tôi ít thuốc ho với thuốc ngủ.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "142/88",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho khan hai tuần, nặng về đêm, mất ngủ. Anh nghi nước tẩy mới ở khách sạn, xin thuốc ho và thuốc ngủ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khô, ngứa rát họng, không đờm, không sốt, không khó thở, không khò khè, không ho ra máu. Nằm xuống ho nhiều làm tỉnh giấc. Ngày nghỉ ở nhà, không đến khách sạn, vẫn ho y như vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho khô vẫn còn khi không tiếp xúc hóa chất"
+    },
+    {
+     "id": "thoi_diem",
+     "noi_dung": "Ho bắt đầu khoảng chín tuần sau khi bắt đầu thuốc huyết áp; trước đó anh chưa ho, lượt 1 và lượt 2 đều không ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời điểm ho so với lúc bắt đầu thuốc"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Tầng khách sạn mới sơn lại và lau sàn bằng nước tẩy mạnh hơn tháng trước. Anh đeo khẩu trang. Ba đồng nghiệp cùng tầng không ai ho.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Uống đều hai viên mỗi sáng sau khi đặt báo thức, còn dư 3 viên. Không thuốc ho, thuốc cảm, thuốc giảm đau. Vẫn dùng muối ăn kiêng chứa kali ở nhà và vitamin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, muối kali"
+    },
+    {
+     "id": "ho_khac",
+     "noi_dung": "Không ợ nóng, ợ chua về đêm, không chảy mũi sau, không hen hay dị ứng, không khó thở khi lên cầu thang, không phù chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân ho khác (trào ngược, mũi, hen, tim)"
+    },
+    {
+     "id": "thuoc_la",
+     "noi_dung": "Hút 6–8 điếu mỗi ngày (giảm từ nửa gói). Trước đây có ho buổi sáng ít đờm trắng, khác với ho khô lần này. Không sụt cân, không sốt về chiều, không ra mồ hôi đêm, không ho ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hút thuốc lá, dấu hiệu cờ đỏ của ho kéo dài"
+    },
+    {
+     "id": "phu_mach",
+     "noi_dung": "Không sưng môi, lưỡi, mặt, không khó nuốt, không khàn tiếng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phù mạch"
+    },
+    {
+     "id": "ha_nha",
+     "noi_dung": "Đã mua máy đo bắp tay sau lượt 2. HA nhà sáng 138–146/86–90, tối 134–142/84–88, ghi sổ đủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA tại nhà"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Vẫn ngủ 4–5 giờ; ho về đêm làm tỉnh giấc. Anh xin 'ít viên thuốc ngủ cho qua cơn ho'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấc ngủ, ho là nguyên nhân thêm"
+    },
+    {
+     "id": "di_lai",
+     "noi_dung": "Lần sau chỉ xuống được sau 2–3 tháng. Sẵn sàng gọi điện, nhắn Zalo, đo HA ở nhà; có thể xét nghiệm máu ở bệnh viện huyện gần nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lịch theo dõi khả thi"
+    }
+   ],
+   "kham": {
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran ẩm, không ran rít.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, không chảy dịch mũi sau, amidan không to. Môi, lưỡi, mặt không phù.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù.",
+     "k": 0
+    },
+    "ha_hai_tay": {
+     "a": "Tay phải 142/88, tay trái 140/86 mmHg.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,6 mmol/L",
+     "n": "K trong giới hạn dù có muối kali và ức chế men chuyển; theo dõi sau khi đổi thuốc (ESC 2024 Bảng khuyến cáo 15, IIa, C; AHA/ACC 2025 mục 5.2.8)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 85 µmol/L · eGFR 95 mL/ph/1,73m²"
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tim, phổi chưa thấy bất thường.",
+     "n": "Chấp nhận vì hút thuốc hơn 20 năm; ho do ức chế men chuyển vẫn là chẩn đoán dựa trên hỏi bệnh. Hướng dẫn riêng về ho do thuốc: không có trong tài liệu đã tải."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 5,3 · LDL-C 3,4 · HDL-C 1,0 · TG 2,0 mmol/L",
+     "ab": 1
+    },
+    "ct_nguc": {
+     "n": "Không sốt, không sụt cân, không ho ra máu, khám phổi bình thường."
+    },
+    "ho_hap_ky": {
+     "n": "Không khò khè, không gợi ý hen."
+    },
+    "trop": {
+     "n": "Không đau ngực."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ho khan do ức chế men chuyển (perindopril) trên nền tăng huyết áp nguyên phát độ 2, HA gần đạt mục tiêu",
+     "ok": 1,
+     "n": "Ho khô bắt đầu sau khi dùng thuốc, còn khi nghỉ ở nhà, đồng nghiệp không ho, phổi bình thường; ho gặp ở 1–2% người dùng (QĐ 5904 Phần 3 mục G; VSH/VNHA 2024 Đ4.2). HA nhà 134–146/84–90, phòng khám 142/88: chưa đạt < 130/80 (VSH/VNHA 2024 Bảng 4)."
+    },
+    {
+     "t": "Ho do kích ứng hóa chất tẩy rửa",
+     "n": "Còn ho khi nghỉ ở nhà, đồng nghiệp cùng tầng không ho, ho bắt đầu sau thuốc chứ không sau lúc đổi nước tẩy."
+    },
+    {
+     "t": "Ho do hút thuốc lá, viêm phế quản mạn",
+     "n": "Ho khô mới, khác kiểu ho đờm buổi sáng cũ; không sốt, sụt cân, ho máu; phổi và X-quang bình thường."
+    },
+    {
+     "t": "Ho do trào ngược, hen, chảy mũi sau hoặc suy tim",
+     "n": "Không ợ chua, không khò khè, không dịch mũi sau, không khó thở khi gắng sức, không phù."
+    },
+    {
+     "t": "Phù mạch do ức chế men chuyển",
+     "n": "Không sưng môi, lưỡi, mặt, không khó nuốt (QĐ 5904 Phần 3 mục G liệt kê phù mạch)."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát hoặc cơn tăng huyết áp cấp cứu",
+     "n": "HA 142/88 đang giảm với 2 thuốc dùng đều, K và creatinin bình thường (VSH/VNHA 2024 Bảng 9; QĐ 5904 Phần 3 mục D.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra ho khan là tác dụng phụ của ức chế men chuyển: ngưng perindopril, đổi sang ức chế thụ thể angiotensin (telmisartan 40 mg × 1 lần/ngày), giữ amlodipin 5 mg",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục G: ức chế men chuyển gây ho (1–2%); chẹn thụ thể ít gây ho hơn, dùng thay khi ho nhiều; telmisartan khởi đầu 40 mg, duy trì 80 mg (sơ đồ Phần 1 mục C cũng ghi 40 mg). VSH/VNHA 2024 Đ4.2: ho khan, đổi thuốc. Không có trong tài liệu đã tải: thời gian ho hết sau ngưng thuốc."
+    },
+    {
+     "t": "Không dùng đồng thời ức chế men chuyển và ức chế thụ thể",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 16 (III, A); AHA/ACC 2025 mục 5.2.8: không dùng cùng lúc vì tăng nguy cơ tổn thương thận cấp."
+    },
+    {
+     "t": "Giải thích vì sao không phải hóa chất, dặn không tự ngưng thuốc huyết áp; vẫn hỏi và khám loại trừ nguyên nhân ho khác (trào ngược, mũi, hen, tim, dấu hiệu lao hoặc ung thư)",
+     "v": "c",
+     "n": "Ho còn khi nghỉ ở nhà, bắt đầu sau thuốc. Duy trì thuốc hạ áp suốt đời (VSH/VNHA 2024 Bảng 4, I, A); không tự ý bỏ thuốc (QĐ 5904 Phần 1 mục D.2). Cờ đỏ ho kéo dài: sổ mâu thuẫn ho kéo dài đã có; ở đây không có dấu nặng."
+    },
+    {
+     "t": "Hỏi và dặn phù mạch: sưng môi, lưỡi, mặt, khó nuốt hoặc khó thở thì đến cơ sở y tế gần nhất ngay",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục G: phù mạch là tác dụng phụ; chống chỉ định khi tiền sử phù mạch với ức chế men chuyển. Cách xử trí cấp tại cơ sở: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xét nghiệm kali, creatinin 2–4 tuần sau khi đổi thuốc (có thể làm ở bệnh viện huyện gần nhà, báo kết quả qua điện thoại); giữ đo HA tại nhà, nhắn số đo; hẹn tái khám 2–3 tháng",
+     "v": "c",
+     "n": "AHA/ACC 2025 mục 5.2.8: điện giải, creatinin 2–4 tuần sau khi bắt đầu hoặc chỉnh ức chế men chuyển/chẹn thụ thể; QĐ 5904 Phần 1 mục C: có tác dụng phụ thì không đợi 4 tuần; VSH/VNHA 2024 Đ4.1, Đ4.6; ESC 2024 Bảng khuyến cáo 15 (IIa, C). Làm ở bệnh viện huyện: ca thiết kế vì ở xa."
+    },
+    {
+     "t": "Giải thích ho là nguyên nhân thêm làm mất ngủ; chưa kê thuốc ngủ hằng đêm (hoặc thuốc ngắn hạn ≤ 4 tuần sau quyết định chung), tiếp tục vệ sinh giấc ngủ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.1, 4.3; ESRS 2023 tóm tắt (sổ mâu thuẫn TT-0161). Khi ngưng ức chế men chuyển, nguyên nhân thêm của mất ngủ mất đi."
+    },
+    {
+     "t": "Tiếp tục perindopril và kê thuốc ho",
+     "v": "w",
+     "n": "Ho do thuốc không giảm bằng thuốc ho; QĐ 5904 Phần 3 mục G: đổi sang chẹn thụ thể khi bệnh nhân ho nhiều."
+    },
+    {
+     "t": "Dùng cả perindopril lẫn telmisartan",
+     "v": "w",
+     "n": "ESC 2024 Bảng khuyến cáo 16 (III, A); AHA/ACC 2025 mục 5.2.8."
+    },
+    {
+     "t": "Ngưng cả hai thuốc huyết áp vì cho là 'thuốc gây hại'",
+     "v": "h",
+     "n": "VSH/VNHA 2024 Bảng 4 (I, A): duy trì thuốc suốt đời; QĐ 5904 Phần 1 mục D.2. Bố anh từng bị tai biến mạch máu não."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ho khan do ức chế men chuyển (perindopril), bắt đầu khoảng 9 tuần sau khi dùng thuốc",
+     "Tăng huyết áp nguyên phát độ 2 đang giảm (142/88; HA nhà 134–146/84–90), chưa đạt < 130/80",
+     "Mất ngủ thêm do ho; không phù mạch; K 4,6, creatinin ổn định",
+     "Không phải ho do hóa chất, hút thuốc, trào ngược, hen, suy tim; không phải THA thứ phát hay cơn cấp cứu"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: đặc điểm ho, thời điểm ho so với lúc bắt đầu thuốc, ho khi nghỉ ở nhà, đồng nghiệp có ho không; nguyên nhân khác (trào ngược, mũi, hen, tim, hút thuốc, cờ đỏ); sưng môi lưỡi; thuốc tự mua. Khám phổi, họng; điện giải, creatinin; X-quang ngực chấp nhận (a).",
+     "Hai manh mối 'không phải hóa chất': còn ho khi nghỉ ở nhà và ho bắt đầu sau thuốc. Anh quy cho hóa chất hai lần (nhức đầu, rồi ho): đây là điểm gãy dễ bỏ sót nhất; ho gặp ở 1–2% người dùng ức chế men chuyển (QĐ 5904 Phần 3 mục G).",
+     "HA 142/88: tốt hơn 174/106 nhưng chưa < 130/80 (VSH/VNHA 2024 Bảng 4). Chưa kháng trị, chưa nghĩ thứ phát."
+    ],
+    "phan_tich_xu_tri": [
+     "Đổi thuốc theo QĐ 5904 Phần 3 mục G: ngưng ức chế men chuyển, dùng chẹn thụ thể (telmisartan 40 mg), giữ amlodipin; không dùng cả hai nhóm (ESC 2024 Bảng khuyến cáo 16, III, A). Không chữa ho bằng thuốc ho; tránh thuốc cảm co mạch (AHA/ACC 2025 Bảng 11).",
+     "Kali, creatinin 2–4 tuần sau khi đổi (AHA/ACC 2025 mục 5.2.8). Ở xa: xét nghiệm tại bệnh viện huyện, báo qua điện thoại, hẹn 2–3 tháng kèm đo HA nhà (VSH/VNHA 2024 Đ4.6, Đ5.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Telmisartan",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ cố định với amlodipin",
+      "so_ngay": "Dùng lâu dài; cấp đến hẹn 8–12 tuần",
+      "ghi_chu": "Thay perindopril. Khởi đầu 40 mg, duy trì 80 mg; chống chỉ định có thai (QĐ 5904 Phần 3 mục G). Ngưng perindopril ngay, không dùng cùng lúc (ESC 2024 Bảng khuyến cáo 16). Số ngày cấp: không có trong tài liệu đã tải, thiết kế vì ở xa."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ với telmisartan",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên liều đang dùng (QĐ 5904 Phần 3 mục G: duy trì 5–10 mg)."
+     }
+    ],
+    "dan_do": [
+     "Ngưng perindopril, uống telmisartan và amlodipin một giờ cố định; ho giảm dần khi ngưng thuốc cũ (thời gian hồi phục: không có trong tài liệu đã tải). Không tự ngưng thuốc huyết áp (QĐ 5904 Phần 1 mục D.2). Không mua thuốc cảm thông mũi có pseudoephedrin, phenylephrin (AHA/ACC 2025 Bảng 11).",
+     "Sưng môi, lưỡi, mặt, khó nuốt, khó thở: đến cơ sở y tế gần nhất ngay (QĐ 5904 Phần 3 mục G). Nhức đầu dữ dội, nhìn mờ, đau ngực, yếu liệt: cấp cứu (QĐ 5904 Phần 3 mục D.1).",
+     "Đo HA nhà, nhắn số đo hai tuần một lần; mục tiêu < 130/80 mmHg (VSH/VNHA 2024 Bảng 4). Không thêm muối kali khi chưa kiểm kali (ESC 2024 Bảng khuyến cáo 15). Tái khám sau 2–3 tháng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Đường đi đúng: ở lượt 3 anh Hải đổi sang telmisartan 40 mg cùng amlodipin 5 mg, ho giảm dần, HA nhà về quanh 128–134/80–84 mmHg, tái khám 2–3 tháng một lần. Điểm gãy: ho khan ở người tiếp xúc hóa chất, hút thuốc, ở xa. Nếu ho bị gán cho hóa chất và chỉ cho thuốc ho, anh ho dai dẳng, mất ngủ thêm, tự bỏ cả hai thuốc, không quay lại; HA lên lại 160–170/100 mmHg và với tiền sử bố bị tai biến, anh có thể nhập viện vì đột quỵ sau vài tháng.",
+ "nhieu": [
+  "Hóa chất tẩy rửa ở khách sạn: cay mũi, mắt thoáng qua, đồng nghiệp không ai bị; không phải nguyên nhân nhức đầu (lượt 1) hay ho (lượt 3).",
+  "Xin thuốc ngủ là lý do thật; mất ngủ có nguyên nhân sửa được (ca đêm, cà phê, nước tăng lực, bia, thuốc lá), lượt 3 còn do ho.",
+  "Vitamin, dầu cá: không liên quan HA; điều đáng hỏi là muối ăn kiêng chứa kali khi dùng ức chế men chuyển.",
+  "Ở xa: nói 'uống khá đều' dù còn 14/35 viên; chỉ nói thật khi được xem vỉ thuốc."
+ ],
+ "bai_hoc_bien": [
+  "Ở xa, khó tái khám: xử trí trọn gói ngay lần đầu (thuốc cấp đủ, đo HA tại nhà, gọi điện giữa kỳ, dặn cấp cứu bằng văn bản), không giả định người bệnh sẽ quay lại (VSH/VNHA 2024 Đ4.6, Đ5.4).",
+  "Hỏi 'anh mong gì từ buổi khám' mới ra động cơ thật là xin thuốc ngủ; trả lời đúng nguyên nhân ngủ kém quan trọng hơn kê thuốc.",
+  "Không đỡ ở lượt 2 chưa phải kháng trị: xem vỉ thuốc, giờ uống hợp ca đêm, muối, cà phê, bia trước khi tăng thuốc (ESC 2024 Bảng 11).",
+  "Biến chứng do bỏ sót: ho khan lượt 3 dễ bị gán cho hóa chất; hỏi thời điểm ho so với thuốc và ho khi nghỉ ở nhà. Bỏ sót thì anh ở xa tự ngưng thuốc."
+ ],
+ "diem_nho": [
+  "THA độ 2 (160–179/100–109 mmHg) khởi trị phối hợp hai thuốc ngay kèm lối sống (QĐ 5904 Phần 1 mục C; ESC 2024 Bảng khuyến cáo 16).",
+  "HA phòng khám 160–179/100–109 mmHg: xác nhận bằng HA ngoài phòng khám trong khoảng 1 tháng (ESC 2024 Bảng khuyến cáo 6); trung bình đo tại nhà ≥ 135/85 mmHg là THA (VSH/VNHA 2024 Đ1.2.2).",
+  "Ức chế men chuyển gây ho ở 1–2% người dùng; ho khan thì đổi sang chẹn thụ thể, không dùng cả hai (QĐ 5904 Phần 3 mục G; ESC 2024 Bảng khuyến cáo 16)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 2, 3A, 4A, Bước 5 mục A, C – sơ đồ tr. 5 xem trên PDF, D); Phần 3 mục D.1, F.1, F.6, G; Phụ lục 1.1.",
+  "VSH/VNHA 2024 – Chiến lược quản lý THA tại Việt Nam – TL-0288 – Bảng 2, 4, 8, 9, 11; Đ1.2.2; Đ2.4; Đ4.1, Đ4.2, Đ4.6; Đ5.2–Đ5.4; Hình 14, 14.1.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – mục 7.6.4, 8.2.4, 8.3.6, 10.1.1; Bảng 8, 9, 10, 11, 12; Hình 18; Bảng khuyến cáo 6, 13, 15, 16, 35.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – mục 3.2.3.1, 5.1 (khuyến cáo 4), 5.2.5, 5.2.8, 5.2.9, 6.2; Bảng 11.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – mục 11.10.11.1.",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 (Mất ngủ không thực tổn) mục 4.1, 4.3.",
+  "ESRS – The European Insomnia Guideline 2023 – TL-0464 – tóm tắt (thuốc ngủ ngắn hạn ≤ 4 tuần), mục 3 (khai thác rượu và chất khác)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 25/10/2026. Đã đọc: TL-0284 (QĐ 5904/2019 Phần 1 Bước 2–5, Phần 3 D, F, G), TL-0288 (VSH/VNHA 2024), TL-0305 (ESC 2024), TL-0297 (AHA/ACC 2025), TL-0312 (ESH 2023 11.10.11.1), TL-0443 (QĐ 2058/2020 Bài 27), TL-0464 (ESRS 2023).",
+  "Thiếu: hàm lượng viên phối hợp cố định và telmisartan tại Việt Nam, công cụ PREVENT không có trong tài liệu đã tải; mất ngủ không truy cập được nguồn web bổ sung.",
+  "Mâu thuẫn ghi cả hai cách: thêm indapamid hay giữ 2 thuốc; rượu bia (MT-0049_mau_thuan.md)."
+ ]
+}

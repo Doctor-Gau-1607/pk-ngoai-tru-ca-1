@@ -1,0 +1,515 @@
+{
+ "ma_ca": "HH-0566",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình bản 3, nguồn kèm vị trí (2026-10-25)",
+ "benh": "HH_viem_phe_quan_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phế quản cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi cộng đồng",
+   "Ho gà"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Thị Mùi",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Bán xôi, bánh ở góc chợ bằng xe đẩy có bếp than, dậy nhóm bếp từ 3 giờ sáng",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ'. Cháu ngoại gọi bà là 'bà', xưng 'cháu'.",
+  "tinh_cach": "Nhanh nhẹn, hay cười, nói nhiều, tự hào 'bà khỏe lắm, chưa nằm viện bao giờ'. Thương cháu, sợ tốn tiền, sợ kim và máy móc vì chuyện của chồng. Tỉnh táo, trả lời đúng.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi 'có sốt không' thì 'không', 'có khó thở không' thì 'không, bà thở tốt', 'có đau ngực không' thì 'không đau'. Chỉ khai thật khi được hỏi theo việc làm hằng ngày (đẩy xe ra chợ có phải dừng không, leo thềm nhà có phải vịn không, đêm nào cũng đắp chăn dày chưa) hoặc khi cháu bổ sung. Ban đầu chỉ kể 'ho chút xíu'.",
+  "nguoi_nha": "Cháu ngoại gái, Thảo, 26 tuổi, bán hàng online, ở chung nhà, chở bà bằng xe máy. Thẳng tính, hay nói chen 'bà nói dối, hôm qua bà nằm cả ngày'. Cháu biết: bà ho đêm, nghỉ bán hai hôm, ăn ít, sờ trán thấy nóng hôm đầu; cháu cầm túi thuốc của bà. Cháu KHÔNG biết bà sợ bệnh viện vì chuyện ông ngoại và muốn nghe 'bà còn khỏe'. Cháu trả lời khi hỏi về thuốc, ăn uống, sinh hoạt (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Thảo (cháu ngoại)",
+  "ngoai_hinh": {
+   "da": "#c9a07f",
+   "toc": "#e6e3dc",
+   "kieuToc": "bui",
+   "ao": "#8a7f6a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#d9a985",
+    "toc": "#2a1d17",
+    "kieuToc": "dai",
+    "ao": "#6f8fa8",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho mấy hôm, bà muốn khám tổng quát luôn",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Đoàn Thị Mùi, 79 tuổi, bán xôi, bánh ở góc chợ, cháu ngoại chở đến phòng khám vì ho mấy hôm nay, bà nói tiện thể 'khám tổng quát luôn'. Sinh hiệu: nhiệt độ 37,2 °C, mạch 84 l/p, HA 142/80 mmHg, nhịp thở 20 l/p, SpO₂ 95% khí trời, cân nặng 46 kg, cao 150 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bà Mùi 79 tuổi vì 'tuổi cao, ăn kém' là quá tay: bà không sốt, thở 20 l/p, mạch 84, SpO₂ 95%, phổi không ran ẩm, ran nổ hay đông đặc, nên chưa có tiêu chí nghi viêm phổi (ACP/CDC 2016, Advice 1; CHEST 2020, phần định nghĩa; QĐ 708/2015 mục 2) và chưa có dấu hiệu bệnh nặng cần vào viện (NICE NG120 2019, khuyến cáo 1.1.14). Bà vốn sợ bệnh viện và từ chối lấy máu, chụp phim; vào viện sẽ bị đề nghị đúng những thứ đó, nhiều khả năng ký xin về trong ngày, mất thêm ngày bán hàng và viện phí, lần sau càng ngại đi khám.",
+    "chuyen_tuyen": "Chuyển bà lên bệnh viện tuyến trên khi chưa có triệu chứng hay dấu hiệu bệnh nặng hơn (nghĩ nhiễm khuẩn huyết, thuyên tắc phổi, ung thư phổi) là không cần (NICE NG120 2019, khuyến cáo 1.1.4; NICE NG237 2024, khuyến cáo 1.3.2 cho phép ngưỡng thấp hơn ở người yếu nhưng ở đây chưa chạm ngưỡng). Bà đã từ chối xét nghiệm nên chuyến đi xa không thêm dữ kiện, chỉ tốn tiền xe, nghỉ bán thêm, cháu phải nghỉ việc đi cùng; nghe 'phải chuyển lên trên', bà nhiều khả năng từ chối đi rồi về không có hướng dẫn theo dõi nào."
+   },
+   "loi_mo": "Tôi ho chút xíu thôi mà cháu nó cứ bắt đi. Thôi thì đi, nhờ bác sĩ khám tổng quát cho tôi luôn một thể.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "142/80",
+    "nhiet": "37,2",
+    "nhip_tho": 20,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho mấy hôm nay, ăn kém. Cháu bắt đi khám, bà tiện thể muốn khám tổng quát.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đợt gió mùa về, sáng sớm lạnh khoảng 13 °C, bà vẫn dậy 3 giờ, áo mỏng, đứng bếp rồi đẩy xe ra chợ. Ngày 1: ớn lạnh, hắt hơi, sổ mũi trong, rát họng. Ngày 2: ho khan. Ngày 3: ho có đờm, ra nhà thuốc đầu ngõ mua siro ho và gói thuốc cảm. Ngày 4–5 nghỉ bán. Hôm nay ngày 6.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau lạnh đột ngột, viêm long đường hô hấp trên rồi ho"
+    },
+    {
+     "id": "ho_dom",
+     "noi_dung": "Ho khan, từ ngày 3 có đờm trắng đục, nhiều buổi sáng và khi nằm. Đờm không vàng, không xanh, không máu. Ho từng tràng ngắn, không cơn dài không kịp thở, không tiếng rít khi hít vào, không nôn sau ho. Thức 2–3 lần mỗi đêm vì ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho đờm trắng, không cơn, không ho gà"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hai đêm đầu ớn lạnh, đắp hai lớp chăn, ra mồ hôi nhẹ rồi hết; cháu sờ trán thấy nóng nhưng nhà không có nhiệt kế. Ba hôm nay hết ớn lạnh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có sốt không' thì 'không, bà có sốt đâu'. Chỉ kể khi hỏi theo cảm giác, việc làm (ớn lạnh, đắp thêm chăn, ra mồ hôi, ai sờ trán thấy nóng) hoặc khi cháu bổ sung.",
+     "k": 1,
+     "y": "Có sốt nhẹ 2 đêm đầu, đã hết (phủ nhận)"
+    },
+    {
+     "id": "kho_tho",
+     "noi_dung": "Hôm kia đẩy xe từ nhà ra chợ (khoảng 200 m) phải dừng nghỉ 2 lần; leo 5 bậc thềm phải vịn tay. Nằm đầu thấp ngủ được, chân không phù. Đó là lý do bà nghỉ bán.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có khó thở không' thì 'không, bà thở tốt'. Chỉ kể khi hỏi theo việc làm: đẩy xe ra chợ có phải dừng không, leo thềm có vịn không, vì sao nghỉ bán, hoặc khi cháu nói.",
+     "k": 1,
+     "y": "Hụt hơi khi gắng sức nhẹ (phủ nhận)"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Mỗi lần ho tràng dài thì rát và tức sau xương ức; không đau nhói một bên, không đau tăng khi hít sâu, không đau khi không ho.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có đau ngực không' thì 'không đau'. Chỉ nói khi hỏi 'ho có rát hay tức ở đâu, lúc nào' hoặc đau khi hít sâu.",
+     "k": 1,
+     "y": "Rát sau xương ức khi ho, không đau kiểu màng phổi"
+    },
+    {
+     "id": "an_ngu",
+     "noi_dung": "Ba hôm nay ăn nửa bát cháo hoặc xôi mềm mỗi bữa, uống ít nước vì sợ đi tiểu đêm, nước tiểu hơi vàng. Tỉnh táo, tự đi vệ sinh, không té ngã.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bà không nhớ tên thuốc: 'thuốc huyết áp, thuốc bổ, thuốc ho, thuốc cảm, nhà thuốc đưa gì uống nấy'. Khi xem túi thuốc cháu cầm: (1) vỉ nhôm mất hộp, còn in 'Amlodipine 5 mg', 1 viên mỗi sáng khoảng 3 năm; (2) lọ nhựa viên trắng không nhãn, 'thuốc bổ xương', uống lúc nhớ; (3) chai siro ho nhãn 'bổ phế', uống 3 ngày, không biết thành phần; (4) gói thuốc cảm không nhãn, đã uống 2 gói, không biết có hạ sốt trong đó không. Bà và cháu không biết có từng uống corticoid hay không; không có kháng sinh trong túi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bà uống thuốc gì' thì 'thuốc huyết áp, thuốc bổ, không nhớ tên'. Chỉ kể chi tiết khi xin xem túi, vỉ, lọ thuốc bà mang theo, hoặc hỏi cháu từng loại: huyết áp, bổ, ho, cảm, kháng sinh, đau khớp.",
+     "k": 1,
+     "y": "Thuốc đang dùng chưa xác định hết: có amlodipin, ba loại không rõ thành phần"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Tăng huyết áp khoảng 3 năm. Không đái tháo đường, suy tim, hen hay bệnh phổi đã biết; chưa bao giờ nằm viện. Không hút thuốc, không rượu; ngồi gần bếp than mỗi sáng. Không dị ứng thuốc đã biết. Chưa tiêm vaccine cúm, phế cầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền: chỉ tăng huyết áp, không có tiêu chí nguy cơ cao"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bà đồng ý hỏi bệnh, nghe tim phổi, đo huyết áp, SpO₂, đi bộ thử. Bà KHÔNG đồng ý rút máu, chích đầu ngón tay, lấy đờm cấy, chụp X-quang. Lý do: ba năm trước chồng bị lấy máu mỗi tuần suốt hai tháng nằm viện rồi mất nên bà sợ kim; sợ tốn tiền; nghe 'chụp phim nhiều hại người già'. Nếu bác sĩ giải thích siêu âm phổi không chích, không tia thì bà đồng ý. Bà chịu tái khám nếu quyết định của mình được tôn trọng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: lý do và phần bà chấp nhận"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Hai tháng trước người bán cùng dãy chợ mất đột ngột vì 'tai biến'; từ đó bà muốn có người khám cho biết mình còn khỏe không. Cái ho chỉ là cớ vì cháu bảo 'ho thì đi khám luôn'. Bà mong bác sĩ nghe tim phổi, đo huyết áp rồi nói 'bà còn khỏe'; chưa nghĩ tới thử máu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì khiến bà đi khám đúng hôm nay, bà mong gì ở buổi khám, hoặc 'khám tổng quát' bà hiểu là khám những gì.",
+     "k": 0,
+     "y": "Động cơ thật: muốn được kiểm tra, trấn an sau cái chết của người quen"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Không ai trong nhà ho kéo dài; một khách quen ở chợ ho vài hôm rồi khỏi. Không đi xa, không tiếp xúc người ho gà, ho lao đã biết. Không sụt cân, mồ hôi trộm, ho ra máu, không ho kéo dài trước đây.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Bà góa, ở với cháu Thảo cách phòng khám 3 km, có xe máy và điện thoại, cháu làm việc ở nhà nên theo dõi được bà. Bà sợ nghỉ bán lâu mất mối khách.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói câu dài được, nói chuyện nhiều. Gầy (BMI 20,4). Môi hơi khô, niêm mạc hồng, không tím, chi ấm. Véo da mu tay nhăn lại chậm khoảng 2 giây.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, nách. Tĩnh mạch cổ không nổi khi ngồi 45 độ. Cổ mềm.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau họng có chất nhầy trong, amidan không to, không mủ. Niêm mạc mũi phù nhẹ, dịch trong. Màng nhĩ bình thường. Răng giả hàm trên.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, thở êm, không co kéo cơ hô hấp phụ. Lồng ngực cân đối, rung thanh hai bên đều, gõ trong khắp hai phổi. Nghe: rì rào phế nang rõ; vùng giữa lưng phải có vài ran ngáy thưa, giảm sau khi ho. Không ran ẩm, ran nổ hay ran rít, không tiếng thở phế quản, không hội chứng đông đặc, không cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, thở êm, không co kéo. Rung thanh hai bên đều, gõ hai phổi trong.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa lưng phải (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Vài ran ngáy thưa, giảm sau khi ho."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 84 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau, gan lách không to.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Hai cẳng chân không phù, bắp chân mềm không đau, hai bên bằng nhau.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi 30 m trong hành lang: nhịp thở lên 22 l/p, SpO₂ 95% còn 94%, hơi hụt hơi, hồi phục sau khoảng 1 phút nghỉ.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "4AT: tỉnh táo (0); định hướng đúng (0); đọc ngược các tháng đúng (0); không thay đổi cấp tính (0). Tổng 0/12: không gợi ý sảng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "(Bà Mùi không đồng ý chụp X-quang: 'chụp phim nhiều hại người già'. Đã ghi nhận từ chối vào hồ sơ. Không có kết quả.)",
+     "n": "Cả hai cách đều đúng: QĐ 708/2015 mục 2 nên chụp khi tuổi > 75 hoặc có dấu hiệu nghi viêm phổi; CHEST 2020 khuyến cáo 1–2 không chụp thường quy, chụp khi kéo dài hoặc nặng thêm. Bà từ chối nên dùng phương án B: siêu âm phổi, theo dõi có mốc."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "(Bà Mùi không đồng ý rút máu: 'lấy máu mất sức'. Đã ghi nhận từ chối vào hồ sơ. Không có kết quả.)",
+     "n": "CHEST 2020 khuyến cáo 1: không làm thường quy; QĐ 4235/2012 (Viêm phế quản cấp, mục 2.1.2): bạch cầu có thể tăng khi nhiễm vi khuẩn, không đổi xử trí. Không làm không trừ điểm."
+    },
+    "crp": {
+     "v": "u",
+     "r": "(Bà Mùi không đồng ý chích lấy máu đầu ngón tay. Đã ghi nhận từ chối vào hồ sơ. Không có kết quả.)",
+     "n": "NICE NG237 2024, khuyến cáo 1.3.4: khi còn chưa rõ có cần kháng sinh, CRP tại chỗ < 20 mg/L thì không kê thường quy. Hữu ích nhưng không bắt buộc (CHEST 2020 khuyến cáo 1 không làm thường quy); thiếu CRP không đổi quyết định vì đã đủ tiêu chí lâm sàng."
+    },
+    "sa_phoi": {
+     "v": "u",
+     "r": "Siêu âm phổi 6 vùng mỗi bên: dấu trượt màng phổi và đường A hai bên; vài đường B thưa (tối đa 2 mỗi vùng) ở hai đáy; không mảng đông đặc dưới màng phổi, không khí-phế-quản đồ, không tràn dịch màng phổi. (Bà đồng ý sau khi được giải thích: không chích, không tia.)",
+     "ab": 0,
+     "n": "ATS 2025, Khuyến cáo 1: siêu âm phổi thay X-quang được ở nơi có người làm thành thạo (có điều kiện, bằng chứng thấp); QĐ 2147/2026 mục 3.1.5: viêm phổi hiện đông đặc di động theo nhịp thở, có thể tràn dịch; đường B thưa có thể thấy ở phổi khỏe. Bình thường làm giảm khả năng viêm phổi nhưng không loại trừ."
+    },
+    "creat": {
+     "v": "n",
+     "n": "Không cần: không nghĩ viêm phổi nên không dùng CURB-65 (QĐ 2147/2026 mục 3.2.1); không kháng sinh cần chỉnh liều theo thận."
+    },
+    "flu": {
+     "v": "n",
+     "n": "NICE NG237 2024 khuyến cáo 1.3.3: không làm test nhanh để quyết định kháng sinh. Không chỉ định kháng virus: QĐ 708/2015 mục 4.1b dành oseltamivir cho thể nặng, trong 48 giờ đầu."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "n": "Không phù hợp lâm sàng (ho mới 5 ngày, không cơn). Ho gà hay bị bỏ sót khi ho quá 2 tuần ở người lớn (Pertussis Protocol, Manitoba 2025, TL-0145, mục 3); nghĩ lại nếu ho kéo dài."
+    },
+    "cay": {
+     "v": "n",
+     "n": "CHEST 2020 khuyến cáo 1: không cấy đờm thường quy. QĐ 4235/2012 (Viêm phế quản cấp, mục 2.3.2): xét nghiệm vi khuẩn thường âm tính. Bà cũng từ chối lấy bệnh phẩm."
+    },
+    "nt_probnp": {
+     "v": "n",
+     "n": "Không phù, tĩnh mạch cổ không nổi, nằm đầu thấp ngủ được, tiền sử không suy tim: đợt cấp suy tim loại trừ bằng lâm sàng (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp (nhiều khả năng do virus) ngày 6 sau nhiễm lạnh, biểu hiện không ồn ào ở người 79 tuổi: ho đờm trắng, mệt, ăn kém, hụt hơi khi gắng sức nhẹ",
+     "ok": 1,
+     "n": "Viêm long đường hô hấp trên rồi ho, đờm trắng, phổi bình thường hoặc ran ngáy (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1); nhiễm lạnh đột ngột là yếu tố thuận lợi (QĐ 708/2015 mục 3). Không có tiêu chí nghi viêm phổi: mạch 84, thở 20, nhiệt 37,2 °C, không ran ẩm, ran nổ, đông đặc (ACP/CDC 2016; CHEST 2020 phần định nghĩa); siêu âm phổi không đông đặc."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Chưa có bằng chứng: viêm phổi điển hình sốt cao, rét run, đau ngực màng phổi, ho đờm mủ, đông đặc (QĐ 4235/2012, Viêm phổi mắc phải ở cộng đồng, mục 2.1.1). Ở người cao tuổi có thể không rầm rộ (QĐ 2147/2026 mục 3.1.1) nên dùng sinh hiệu, khám phổi, siêu âm và hẹn khám lại có mốc. Chưa loại trừ tuyệt đối vì bà từ chối X-quang."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Ho mới 5 ngày, không cơn, không tiếng rít, không nôn sau ho, không tiếp xúc; kịch phát đến khoảng 10–14 ngày sau nhiễm (Pertussis Protocol, Manitoba 2025, TL-0145, mục 3). Nghĩ lại nếu ho quá 2 tuần hoặc thành cơn."
+    },
+    {
+     "t": "Đợt cấp suy tim",
+     "n": "Tăng huyết áp nhưng không phù, tĩnh mạch cổ không nổi, nằm đầu thấp vẫn ngủ được, tim không T3, phổi không ran ẩm (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2)."
+    },
+    {
+     "t": "Hen phế quản hoặc đợt cấp bệnh phổi mạn",
+     "n": "Không tiền sử hen hay bệnh phổi, không hút thuốc, không ran rít, ho không thành cơn về đêm theo kiểu hen (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2; CHEST 2020 phần định nghĩa loại trừ đợt cấp COPD, hen, giãn phế quản)."
+    },
+    {
+     "t": "Ho do thuốc ức chế men chuyển",
+     "n": "Thuốc huyết áp là amlodipin (chẹn kênh canxi, đọc được trên vỉ), không phải nhóm ức chế men chuyển (ho do thuốc phải đổi thuốc, QĐ 4235/2012, bài Ho kéo dài, Bảng 1.1); vì vậy phải xác định tên thuốc."
+    },
+    {
+     "t": "Lao phổi, ung thư phổi",
+     "n": "Ho mới 5 ngày, không sụt cân, mồ hôi trộm, ho máu, hút thuốc (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2). Nghĩ lại nếu ho quá 3–4 tuần (NICE NG120 2019, khuyến cáo 1.1.5)."
+    },
+    {
+     "t": "Cúm hoặc COVID-19",
+     "n": "Không xét nghiệm (bà từ chối, không đổi xử trí, NICE NG237 2024 khuyến cáo 1.3.3); điều trị hỗ trợ như nhau. Nghĩ lại nếu sốt cao hoặc nặng thêm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi theo việc làm hằng ngày thay vì cảm giác, hỏi riêng cháu về sốt, ăn uống, thuốc; khám phổi, đo SpO₂ nghỉ và đi bộ; đối chiếu tiêu chí nghi viêm phổi để loại trừ viêm phổi bằng lâm sàng",
+     "v": "c",
+     "n": "Nghi viêm phổi khi mạch > 100, thở > 24, nhiệt > 38 °C hoặc ran ẩm, ran nổ, đông đặc (QĐ 708/2015 mục 2; ACP/CDC 2016 Advice 1); CHEST 2020 dùng ngưỡng mạch ≥ 100, thở ≥ 30, nhiệt ≥ 37,8 °C. Bà dưới mọi ngưỡng. Người cao tuổi biểu hiện không rầm rộ (QĐ 2147/2026 mục 3.1.1)."
+    },
+    {
+     "t": "Hỏi lý do từ chối, giải thích từng xét nghiệm giúp được gì và không giúp gì hôm nay, ghi nhận từ chối vào hồ sơ, tôn trọng; phương án B: chẩn đoán lâm sàng, đề nghị siêu âm phổi (không kim, không tia), hẹn tái khám có mốc và tiêu chí quay lại",
+     "v": "c",
+     "n": "Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải (theo nguyên tắc tôn trọng quyền tự quyết của đặc tả). Chẩn đoán lâm sàng, không xét nghiệm thường quy (CHEST 2020 khuyến cáo 1; ACP/CDC 2016 Advice 1); siêu âm phổi thay X-quang (ATS 2025 Khuyến cáo 1; QĐ 2147/2026 mục 3.1.5)."
+    },
+    {
+     "t": "Chụp X-quang ngực một lần vì tuổi > 75 (QĐ 708) HOẶC không chụp thường quy khi sinh hiệu, khám phổi và siêu âm ổn, chỉ chụp khi ho kéo dài hoặc nặng thêm (CHEST); bà từ chối nên ghi nhận và theo phương án B",
+     "v": "c",
+     "n": "QĐ 708/2015 mục 2: nên chụp khi tuổi > 75. CHEST 2020 khuyến cáo 1–2: không chụp thường quy, chụp khi kéo dài hoặc nặng thêm. Khác năm và đối tượng (CHEST: người miễn dịch bình thường); cả hai đều đúng."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích vì sao không cần và nói rõ mốc nào sẽ cân nhắc lại",
+     "v": "c",
+     "n": "QĐ 4235/2012 (Viêm phế quản cấp, mục 3): chỉ khi ho trên 7 ngày, đờm mủ rõ, hoặc bệnh mạn tính nặng như suy tim, ung thư; QĐ 708/2015 mục 4.1a và NICE NG120 2019 khuyến cáo 1.1.15: 65–80 tuổi phải kèm ≥ 2 trong nhập viện năm trước, đái tháo đường, suy tim sung huyết, corticoid uống; CHEST 2020 khuyến cáo 3. Bà ngày 6, đờm trắng, không tiêu chí nào: các nguồn đồng thuận. Lọ thuốc không nhãn chưa loại trừ corticoid, ghi vào hồ sơ; một tiêu chí chưa đủ."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin/acid clavulanic, azithromycin, cefuroxim) 'cho chắc vì bà 79 tuổi'",
+     "v": "w",
+     "n": "Tuổi cao đơn thuần không phải chỉ định (QĐ 708/2015 mục 4.1a; NICE NG120 2019 khuyến cáo 1.1.15). Kháng sinh rút ngắn ho trung bình khoảng nửa ngày, gây tiêu chảy, buồn nôn (NICE NG120 1.1.10). Bảng II.1 QĐ 708 chỉ chọn thuốc khi đã có chỉ định."
+    },
+    {
+     "t": "Xem hết thuốc bà mang theo: tiếp tục amlodipin; ngưng gói thuốc cảm không nhãn (không kiểm soát được paracetamol cộng dồn); siro ho 'bổ phế': ngưng HOẶC dùng tiếp vài ngày; nhờ mang lọ 'thuốc bổ xương' lần sau",
+     "v": "c",
+     "n": "Siro bổ phế: QĐ 4235/2012, bài Ho kéo dài, Bảng 1.1 dùng thuốc bổ phế dạng xi rô; QĐ 708/2015 mục 4.3 và NICE NG120 2019 khuyến cáo 1.1.7: không có bằng chứng ủng hộ thuốc long đờm; không nguồn nào nói gây hại nên dùng tiếp hay ngưng đều đúng. Gói thuốc cảm không nhãn: nguyên tắc thận trọng, không có trong tài liệu đã tải; kháng histamin, thông mũi, codein không giúp giảm ho (NICE NG120 1.2.2); paracetamol không quá 4 viên 0,5 g/ngày (QĐ 4235/2012, Viêm phổi bệnh viện, mục 3.4)."
+    },
+    {
+     "t": "Điều trị hỗ trợ: uống đủ nước, ăn cháo, xôi mềm chia nhiều bữa nhỏ, nghỉ bán ít nhất vài ngày, giữ ấm, tránh khói bếp than; mật ong ấm nếu bà muốn",
+     "v": "c",
+     "n": "QĐ 4235/2012 (Viêm phế quản cấp, mục 3): nghỉ ngơi, giữ ấm, đủ nước uống, dinh dưỡng; QĐ 708/2015 mục 4.3, 5: uống nhiều nước, tránh khói bụi; NICE NG120 2019 khuyến cáo 1.2.1: mật ong bằng chứng hạn chế. Lượng nước cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol 500 mg khi sốt trên 38,5 °C hoặc đau mỏi, không quá 4 viên/ngày",
+     "v": "c",
+     "n": "QĐ 4235/2012, bài Viêm phổi bệnh viện, mục 3.4: paracetamol 0,5 g mỗi lần khi > 38,5 °C, không quá 4 viên/ngày. Liều riêng cho người 46 kg, 79 tuổi: không có trong tài liệu đã tải; chọn bên thận trọng."
+    },
+    {
+     "t": "Hẹn tái khám sau 48–72 giờ (hoặc gọi điện báo tình hình), dặn dấu hiệu phải quay lại ngay, và các mốc: ho còn sau 1 tuần vẫn có thể bình thường, ho quá 3–4 tuần thì khám lại để tìm nguyên nhân khác",
+     "v": "c",
+     "n": "Mốc 48–72 giờ: không có trong tài liệu đã tải; chọn của ca vì bà 79 tuổi, thiếu xét nghiệm, ngưỡng thấp hơn ở người yếu (NICE NG237 2024 khuyến cáo 1.3.2). Mốc ho: đến 20 ngày (QĐ 708/2015 mục 2) hoặc 3–4 tuần (NICE NG120 2019 khuyến cáo 1.1.1, 1.1.5); kéo dài hoặc nặng thêm thì khám lại, xét nghiệm đích (CHEST 2020 khuyến cáo 2; NICE NG120 1.1.19)."
+    },
+    {
+     "t": "Trả lời mong muốn 'khám tổng quát': nói những gì buổi khám hôm nay đã cho biết (tim phổi, huyết áp, SpO₂, tri giác), hẹn buổi khám sức khỏe riêng khi hết ho, để ngỏ xét nghiệm nếu bà đổi ý; không ép",
+     "v": "c",
+     "n": "Nội dung khám sức khỏe tổng quát cho người cao tuổi: không có trong tài liệu đã tải. HA 142/80 mmHg lúc đang bệnh cấp: không chỉnh thuốc hôm nay, đo lại khi khỏe."
+    },
+    {
+     "t": "Khí dung hoặc uống salbutamol vì nghe ran ngáy",
+     "v": "a",
+     "n": "QĐ 708/2015 mục 4.2: chỉ dùng khi nghe ran rít, ngáy (bà có ran ngáy thưa); NICE NG120 2019 khuyến cáo 1.1.6 và CHEST 2020 khuyến cáo 3: không kê thường quy khi không có bệnh đường thở nền. Cả hai đều đúng."
+    },
+    {
+     "t": "Dextromethorphan khi ho khan nhiều gây mất ngủ",
+     "v": "a",
+     "n": "QĐ 4235/2012 (Viêm phế quản cấp, mục 3): dextromethorphan 10–20 mg/24 giờ khi ho khan nhiều gây mất ngủ; QĐ 708/2015 mục 4.3: ít bằng chứng; CHEST 2020 khuyến cáo 3: không kê thường quy. Bà ho có đờm nên không phải đáp án chính."
+    },
+    {
+     "t": "Kê corticoid uống hoặc tiêm để 'dịu phế quản'",
+     "v": "w",
+     "n": "NICE NG120 2019 khuyến cáo 1.1.6 và CHEST 2020 khuyến cáo 3: không kê corticoid khi không có bệnh đường thở nền. An toàn ở người rất cao tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn tiêm vaccine phòng cúm và phế cầu sau khi khỏi, giữ ấm khi trời lạnh, tránh khói bếp",
+     "v": "c",
+     "n": "QĐ 4235/2012, Viêm phế quản cấp, mục 4: vaccin cúm, phế cầu, khuyến cáo mạnh cho người trên 65 tuổi; QĐ 708/2015 mục 5. Lịch tiêm: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp (nhiều khả năng do virus) ngày 6, khởi phát sau nhiễm lạnh đột ngột: ho đờm trắng, hụt hơi khi gắng sức nhẹ, ăn kém, mệt ở người 79 tuổi",
+     "Mất nước nhẹ do ăn uống kém (véo da chậm, môi khô)",
+     "Chưa có bằng chứng viêm phổi (sinh hiệu, khám phổi, siêu âm phổi bình thường); chưa loại trừ tuyệt đối vì bà từ chối X-quang và xét nghiệm máu",
+     "Ho gà không phù hợp (ho mới 5 ngày, không cơn, không tiếng rít, không nôn)",
+     "Tăng huyết áp đang dùng amlodipin 5 mg mỗi sáng, HA 142/80 mmHg lúc đang bệnh cấp",
+     "Thuốc tự dùng chưa xác định hết (gói thuốc cảm, lọ thuốc bổ xương không nhãn); không rõ có corticoid uống hay không",
+     "Bà từ chối xét nghiệm máu, đờm, X-quang: đã ghi nhận vào hồ sơ; đồng ý siêu âm phổi"
+    ],
+    "phan_tich_chan_doan": [
+     "1) THỨ TỰ HỎI BỆNH. Câu mở để bà tự kể, để cháu Thảo bổ sung; hỏi điều gì khiến bà đi khám đúng hôm nay để lộ mong muốn 'khám tổng quát' và nỗi lo sau cái chết của người quen. Dựng dòng thời gian: gió mùa, ớn lạnh, sổ mũi, rát họng, rồi ho (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1; QĐ 708/2015 mục 3: nhiễm lạnh đột ngột là yếu tố thuận lợi). Hỏi kiểu ho (khan hay đờm, màu đờm, thành cơn, tiếng rít, nôn sau ho) vừa xác lập viêm phế quản vừa loại ho gà.",
+     "2) NGƯỜI PHỦ NHẬN TRIỆU CHỨNG NẶNG. Hỏi 'có sốt, khó thở, đau ngực không' đều nhận 'không'. Chuyển sang câu chức năng: 'đẩy xe ra chợ có phải dừng không, leo thềm có vịn không, đêm nào ớn lạnh phải đắp thêm chăn, ho rát chỗ nào', và hỏi riêng cháu. Kết quả: ớn lạnh hai đêm đầu, dừng nghỉ 2 lần khi đẩy xe, rát sau xương ức. Đo SpO₂ nghỉ rồi sau đi bộ (95% còn 94%) để có số khách quan; ngưỡng tụt SpO₂ khi gắng sức: không có trong tài liệu đã tải, chỉ dùng làm mốc theo dõi.",
+     "3) THUỐC 'KHÔNG BIẾT TÊN'. Hỏi chung chỉ ra 'thuốc huyết áp, thuốc bổ'; phải xin xem túi thuốc hoặc hỏi cháu từng loại mới thấy vỉ amlodipin, lọ không nhãn, siro bổ phế, gói thuốc cảm. Ý nghĩa: loại ho do thuốc ức chế men chuyển (QĐ 4235/2012, bài Ho kéo dài, Bảng 1.1); tránh cộng dồn paracetamol; và tiêu chí 'đang dùng corticoid uống' của QĐ 708/2015 mục 4.1a, NICE NG120 2019 khuyến cáo 1.1.15: không xác định được thì ghi 'không rõ', không suy diễn.",
+     "4) VÌ SAO LÀ VIÊM PHẾ QUẢN CẤP. Ho có hoặc không đờm, không quá 3 tuần, không dấu hiệu lâm sàng gợi ý viêm phổi và không có chẩn đoán thay thế (CHEST 2020, phần định nghĩa). Đờm trắng đục, phổi bình thường hoặc ran ngáy (QĐ 4235/2012 mục 2.1.1). Virus chiếm 50–90% (mục 2.3.1) nên không cần xác định căn nguyên.",
+     "5) LOẠI TRỪ VIÊM PHỔI KHI KHÔNG CÓ XÉT NGHIỆM. (a) Nhiệt 37,2 °C, mạch 84, thở 20, dưới mọi ngưỡng (QĐ 708/2015 mục 2 và ACP/CDC 2016: mạch > 100, thở > 24, nhiệt > 38 °C, ACP áp dụng cho người dưới 70 tuổi; CHEST 2020: mạch ≥ 100, thở ≥ 30, nhiệt ≥ 37,8 °C). (b) Không ran ẩm, ran nổ, đông đặc (QĐ 4235/2012, Viêm phổi mắc phải ở cộng đồng, mục 2.1.1). (c) Siêu âm phổi không đông đặc, không tràn dịch (ATS 2025 Khuyến cáo 1; QĐ 2147/2026 mục 3.1.5). (d) Tri giác bình thường (4AT 0/12). Nếu là viêm phổi thì CRB-65 chỉ 1 điểm (tuổi) và 1–2 điểm là cân nhắc nhập viện (QĐ 2147/2026 mục 3.2.1): lý do tái khám sát.",
+     "6) GHI CHÚ KHẢ NĂNG ÁP DỤNG. ACP/CDC 2016 dành cho người lớn khỏe mạnh dưới 70 tuổi, CHEST 2020 cho người miễn dịch bình thường; người rất cao tuổi thường không nằm trong nghiên cứu nền. Bà 79 tuổi nên ngưỡng hành động thấp hơn (NICE NG237 2024 khuyến cáo 1.3.2; QĐ 708/2015 mục 2: tuổi > 75 là một chỉ định chụp X-quang). Số liệu riêng cho người ≥ 75 tuổi về siêu âm phổi, CRP: không có trong tài liệu đã tải.",
+     "7) LOẠI TRỪ HO GÀ. Ở người lớn thường nhẹ nhưng ho kéo dài trên 2 tuần; kịch phát (ho cơn không kịp hít vào, tiếng rít, nôn sau ho, nặng về đêm) đến khoảng 10–14 ngày sau nhiễm (Pertussis Protocol, Manitoba 2025, TL-0145, mục 3). Bà ho 5 ngày, tràng ngắn, không rít, không nôn: không phù hợp; dặn quay lại nếu ho thành cơn hoặc quá 2 tuần.",
+     "8) TÔN TRỌNG TỪ CHỐI. Hỏi lý do (chuyện của ông, sợ kim, sợ tốn tiền, sợ tia), giải thích ngắn từng xét nghiệm giúp gì và không giúp gì hôm nay: ở thể này xét nghiệm máu, CRP, X-quang không bắt buộc (CHEST 2020 khuyến cáo 1; ACP/CDC 2016 Advice 1) nên từ chối không làm hỏng chẩn đoán. Ghi: đã tư vấn, bà từ chối, hiểu hậu quả, đồng ý siêu âm và tái khám. Mẫu văn bản từ chối: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: ngoại trú, không kháng sinh, điều trị hỗ trợ, hẹn tái khám có mốc, dặn dấu hiệu nguy hiểm. Viêm phế quản cấp đơn thuần có thể tự khỏi (QĐ 4235/2012, mục 3); hầu hết không cần kháng sinh (QĐ 708/2015 mục 4.1a); NICE NG120 2019 khuyến cáo 1.1.9; CHEST 2020 khuyến cáo 3; ACP/CDC 2016 Advice 1.",
+     "Vì sao không kháng sinh dù 79 tuổi: QĐ 4235/2012 mục 3 chỉ định khi ho trên 7 ngày, đờm mủ rõ, bệnh mạn tính nặng như suy tim, ung thư; bà ngày 6, đờm trắng. QĐ 708/2015 mục 4.1a và NICE NG120 1.1.15: 65–80 tuổi cần ≥ 2 trong nhập viện năm trước, đái tháo đường, suy tim sung huyết, corticoid uống; bà có 0 (một yếu tố chưa xác định). Nếu sau này có chỉ định: beta-lactam + chất ức chế beta-lactamase 7–10 ngày (QĐ 708 mục 4.1b, Bảng II.1) hoặc doxycyclin 5 ngày, amoxicillin 500 mg × 3 lần/ngày 5 ngày (NICE NG120 Bảng 1); khác nhau vì năm và bối cảnh kháng thuốc, cả hai đều đúng.",
+     "Thuốc đang dùng: giữ amlodipin; ngưng gói thuốc cảm không nhãn; siro 'bổ phế' dùng tiếp vài ngày (QĐ 4235 Bảng 1.1) hoặc ngưng (QĐ 708 mục 4.3, NICE NG120 1.1.7). Không kê thường quy giãn phế quản, giảm ho, long đờm, corticoid (CHEST 2020 khuyến cáo 3): salbutamol, dextromethorphan chấm a, corticoid chấm w.",
+     "X-quang: chụp vì > 75 tuổi (QĐ 708/2015 mục 2) hoặc không chụp thường quy (CHEST 2020) đều đúng; bà từ chối nên phương án B: siêu âm phổi, theo dõi có mốc, nhắc lại đề nghị chụp phim nếu xấu đi hoặc ho quá 3–4 tuần (CHEST 2020 khuyến cáo 2: xét nghiệm đích gồm X-quang, đờm, PEF, công thức máu, CRP).",
+     "Hẹn 48–72 giờ vì chưa loại trừ tuyệt đối viêm phổi khi thiếu X-quang và xét nghiệm, người 79 tuổi biểu hiện không rầm rộ (QĐ 2147/2026 mục 3.1.1; NICE NG120 1.1.19). Mốc cụ thể: không có trong tài liệu đã tải.",
+     "Mong muốn 'khám tổng quát': đáp ứng phần làm được (khám đầy đủ, HA, SpO₂, tri giác) và trả lời trung thực; nội dung và lịch tầm soát cho người cao tuổi: không có trong tài liệu đã tải, nên hẹn buổi riêng khi hết ho."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê kháng sinh",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không dùng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Cân nhắc lại khi sốt lại, đờm mủ, khó thở hoặc ho xấu đi",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "QĐ 708/2015 mục 4.1a; QĐ 4235/2012, Viêm phế quản cấp, mục 3; NICE NG120 2019 khuyến cáo 1.1.9, 1.1.12; CHEST 2020 khuyến cáo 3, 4."
+     },
+     {
+      "thuoc": "Amlodipin (thuốc huyết áp đang dùng)",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "1 viên/lần, 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Tiếp tục như cũ",
+      "ghi_chu": "Thuốc đang dùng, giữ nguyên; HA 142/80 mmHg lúc đang bệnh cấp, đo lại khi khỏe. Không có tương tác cần xử trí trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên/lần, cách nhau ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt > 38,5 °C hoặc đau mỏi nhiều",
+      "so_ngay": "Khi cần, tối đa 4 viên/ngày, 3–5 ngày",
+      "ghi_chu": "QĐ 4235/2012, bài Viêm phổi bệnh viện, mục 3.4: 0,5 g mỗi lần khi > 38,5 °C, không quá 4 viên/ngày. Liều riêng cho người 46 kg, 79 tuổi: không có trong tài liệu đã tải, chọn bên thận trọng; không uống cùng thuốc cảm không rõ thành phần."
+     },
+     {
+      "thuoc": "Siro ho 'bổ phế' bà đang tự dùng (thành phần chưa rõ)",
+      "ham_luong": "Chai siro bà đã mua",
+      "lieu": "Theo nhãn trên chai nếu dùng tiếp",
+      "duong": "Uống",
+      "thoi_diem": "Khi ho nhiều",
+      "so_ngay": "Dùng tiếp vài ngày HOẶC ngưng; bà chọn",
+      "ghi_chu": "Dùng tiếp theo QĐ 4235/2012, bài Ho kéo dài, Bảng 1.1; ngưng theo QĐ 708/2015 mục 4.3 và NICE NG120 2019 khuyến cáo 1.1.7 (không có bằng chứng ủng hộ thuốc long đờm). Không nguồn nào nói gây hại. Liều siro: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Gói thuốc cảm không nhãn (đã uống 2 gói)",
+      "ham_luong": "Không rõ thành phần",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Nguyên tắc thận trọng khi không biết thành phần (không có trong tài liệu đã tải); tránh cộng dồn paracetamol quá 4 viên 0,5 g/ngày (QĐ 4235/2012, Viêm phổi bệnh viện, mục 3.4); kháng histamin, thông mũi, codein không giúp giảm ho (NICE NG120 2019 khuyến cáo 1.2.2)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh của bà là viêm phế quản cấp, thường do siêu vi, nhiều người tự khỏi. Phần lớn đỡ sau khoảng 1 tuần nhưng ho có thể kéo dài đến 20 ngày (QĐ 708/2015 mục 2), thậm chí 3–4 tuần vẫn bình thường (NICE NG120 2019 khuyến cáo 1.1.1, 1.1.5). Không cần kháng sinh vì không làm khỏi nhanh hơn mà dễ gây tiêu chảy, buồn nôn (NICE NG120 1.1.10, 1.1.12).",
+     "Cảm ơn bà đã nói rõ vì sao không muốn lấy máu, chụp phim. Hôm nay chưa cần để chữa; bà đổi ý lúc nào bác sĩ làm ngay. Đã ghi vào hồ sơ là bà từ chối, nên hẹn bà quay lại sớm để theo dõi kỹ hơn.",
+     "Nghỉ bán vài ngày, giữ ấm nhất là sáng sớm, đứng xa bếp than, uống nước ấm từng ngụm nhỏ, ăn cháo hoặc xôi mềm chia 5–6 bữa nhỏ, có thể pha mật ong ấm (QĐ 4235/2012, Viêm phế quản cấp, mục 3; QĐ 708/2015 mục 4.3, 5; NICE NG120 2019 khuyến cáo 1.2.1: mật ong bằng chứng hạn chế).",
+     "Mang TOÀN BỘ thuốc đang uống (cả lọ thuốc bổ xương) hoặc chụp hình gửi bác sĩ; không tự uống thêm thuốc cảm, thuốc ho, kháng sinh khi chưa hỏi. Tiếp tục thuốc huyết áp mỗi sáng, bỏ gói thuốc cảm không nhãn.",
+     "Cháu đo nhiệt độ sáng tối (mượn hoặc mua nhiệt kế), đếm nhịp thở lúc bà nghỉ; để ý bà lơ mơ, ít nói, bỏ ăn hơn (NICE NG237 2024 khuyến cáo 1.1.2).",
+     "QUAY LẠI NGAY hoặc đến bệnh viện nếu: sốt trên 38 °C; thở nhanh, thở mệt, nói không hết câu, môi tím; đau ngực nhói khi thở; ho ra máu, đờm vàng xanh đặc; lơ mơ, lú lẫn, té ngã; không ăn uống được hoặc nôn nhiều; đi tiểu ít (CHEST 2020 khuyến cáo 4; NICE NG120 2019 khuyến cáo 1.1.4, 1.1.19; QĐ 708/2015 mục 2). Gọi điện cho phòng khám nếu ngại đi xa.",
+     "Hẹn tái khám sau 48–72 giờ dù khỏe hơn (hoặc gọi điện báo tình hình). Ho quá 2 tuần hoặc thành cơn thì đến khám để xem xét ho gà; ho quá 3–4 tuần thì khám lại và nên chụp phim phổi (NICE NG120 1.1.5; CHEST 2020 khuyến cáo 2).",
+     "Khi khỏi: tiêm phòng cúm và phế cầu (QĐ 4235/2012, Viêm phế quản cấp, mục 4; QĐ 708/2015 mục 5); hẹn buổi khám sức khỏe riêng, đo lại huyết áp lúc khỏe."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: ngày 3 sau khám bà ăn được cả bát cháo, ngủ bớt thức giấc; ngày 8 của bệnh vẫn ho đờm trắng, bà lo, tự ra nhà thuốc mua amoxicillin uống 3 ngày vì 'bác sĩ không cho thuốc', ho không đổi và bà đi lỏng 2 ngày (NICE NG120 2019 khuyến cáo 1.1.10). Cháu gọi điện, bác sĩ nhắc lại mốc: ho đến 20 ngày (QĐ 708/2015 mục 2) hoặc 3–4 tuần vẫn có thể bình thường (NICE NG120 1.1.5), chỉ cần lo khi sốt lại, thở nhanh, đờm mủ, ho ra máu. Ngày 12 ho thưa, ngủ được; ngày 18 hết ho, mệt thêm một tuần mới đẩy xe trọn buổi. (2) Nếu kê kháng sinh 'cho chắc' mà không hẹn mốc: ho vẫn kéo dài tương tự (CHEST 2020 khuyến cáo 3), bà tưởng thuốc 'không hợp', bỏ dở rồi tự mua thêm; nếu sau này có viêm phổi thì bà không biết dấu hiệu phải quay lại, đến muộn (QĐ 2147/2026 mục 3.1.1). Bài học: quỹ đạo bình thường là ho giảm dần, hết trong khoảng 3 tuần, sinh hiệu ổn, ăn uống tăng lại; bất thường là sốt trở lại, thở nhanh, đờm mủ, đau ngực kiểu màng phổi, lú lẫn hoặc ho không giảm sau 3–4 tuần (NICE NG120 1.1.5, 1.1.19; CHEST 2020 khuyến cáo 2, 4). Nói trước 'ho còn được bao lâu' và hẹn mốc là phần điều trị quan trọng nhất của ca này.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: 'không sốt, không khó thở, không đau ngực' trong khi có ớn lạnh hai đêm đầu, dừng nghỉ khi đẩy xe, rát sau xương ức; hỏi theo việc làm và hỏi cháu mới lộ. Cả ba đều nhẹ, khớp viêm phế quản (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1).",
+  "Thuốc không rõ: trong túi có amlodipin, lọ không nhãn, siro bổ phế, gói thuốc cảm. Dễ nhầm: ho do thuốc ức chế men chuyển (loại được bằng vỉ in tên), cộng dồn paracetamol, tiêu chí 'corticoid uống' của QĐ 708/2015 mục 4.1a (không xác định được).",
+  "'Khám tổng quát' là động cơ thật: bà muốn nghe 'bà còn khỏe' sau cái chết của người quen, không muốn chích hay chụp phim; đề nghị 'làm đủ thứ' sẽ gặp từ chối ngay. Ran ngáy thưa và HA 142/80 mmHg lúc đang bệnh cấp không phải viêm phổi hay suy tim, không chỉnh thuốc huyết áp hôm nay."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi: viêm phế quản cấp có thể chỉ biểu hiện bằng mệt, ăn kém, hụt hơi nhẹ; viêm phổi cũng không rầm rộ nên 'không sốt, không khó thở' không đủ để yên tâm (QĐ 2147/2026 mục 3.1.1; NICE NG237 2024 khuyến cáo 1.3.2).",
+  "Người phủ nhận triệu chứng: hỏi bằng câu chức năng, hỏi người nhà riêng, đo SpO₂ nghỉ và sau đi bộ để có số khách quan.",
+  "Khi người bệnh từ chối xét nghiệm: hỏi lý do thật, giải thích giúp được gì và không giúp gì, ghi vào hồ sơ, tôn trọng, chuyển phương án B (khám lâm sàng, siêu âm phổi không tia, mốc tái khám, tiêu chí quay lại). Ở thể này xét nghiệm vốn không bắt buộc (CHEST 2020 khuyến cáo 1).",
+  "Xin xem toàn bộ thuốc: thuốc không nhãn, thuốc cảm, thuốc ho dễ cộng dồn paracetamol hoặc che mất tiêu chí chỉ định kháng sinh (QĐ 708/2015 mục 4.1a).",
+  "Diagnostic timeout: ho + mệt + ăn kém ở bà 79 tuổi còn có thể là viêm phổi, suy tim, ho do thuốc, ho gà, lao, ung thư (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2); mỗi điều có lý do loại trừ hoặc mốc theo dõi.",
+  "Nói trước thời gian bệnh (đến 20 ngày theo QĐ 708/2015 mục 2; 3–4 tuần theo NICE NG120 2019 khuyến cáo 1.1.5) để người bệnh bớt tự mua kháng sinh khi 'chưa hết ho'."
+ ],
+ "diem_nho": [
+  "Viêm phế quản cấp: khởi phát bằng viêm long đường hô hấp trên rồi ho; virus 50–90%; phổi thường bình thường hoặc ran ngáy (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1, 2.3.1).",
+  "Kháng sinh chỉ khi: QĐ 4235 mục 3 (ho > 7 ngày, đờm mủ rõ, bệnh mạn tính nặng như suy tim, ung thư); QĐ 708 mục 4.1a (cải thiện chậm, đờm mủ, bệnh tim phổi thận gan thần kinh cơ, suy giảm miễn dịch, > 65 tuổi kèm ≥ 2 hoặc > 80 tuổi kèm ≥ 1 yếu tố: nhập viện năm trước, đái tháo đường, suy tim, corticoid uống); NICE NG120 1.1.14–1.1.16.",
+  "Nghi viêm phổi khi mạch > 100, thở > 24, nhiệt > 38 °C hoặc ran ẩm, nổ, đông đặc (QĐ 708/2015 mục 2); CHEST 2020: mạch ≥ 100, thở ≥ 30, nhiệt ≥ 37,8 °C.",
+  "Mốc ho: bình thường đến 20 ngày (QĐ 708) hoặc 3–4 tuần (NICE NG120); khám lại, xét nghiệm đích nếu kéo dài hoặc nặng thêm (CHEST 2020 khuyến cáo 2)."
+ ],
+ "nguon": [
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Bệnh hô hấp – bài Viêm phế quản cấp mục 2.1.1, 2.1.2, 2.2, 2.3.1, 2.3.2, 3, 4; bài Viêm phổi mắc phải ở cộng đồng mục 2.1.1; bài Viêm phổi bệnh viện mục 3.4; bài Ho kéo dài Bảng 1.1",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – Viêm phế quản cấp ở người lớn mục 2, 3, 4.1–4.3, 5, Bảng II.1",
+  "TL-0151 · CHEST 2020 – Acute cough due to acute bronchitis in immunocompetent adult outpatients – phần định nghĩa, khuyến cáo 1–4",
+  "TL-0156 · ACP/CDC 2016 – Appropriate antibiotic use for acute respiratory tract infection in adults – Advice 1",
+  "TL-0146 · NICE NG237 2024 – Suspected acute respiratory infection in over 16s – khuyến cáo 1.1.2, 1.3.1–1.3.4",
+  "NICE NG120 2019 (cập nhật 2025) – Cough (acute): antimicrobial prescribing (kho cũ, 01 Hô hấp cấp tính/Quốc tế) – khuyến cáo 1.1.1, 1.1.4–1.1.7, 1.1.9, 1.1.10, 1.1.12, 1.1.14–1.1.16, 1.1.19, 1.2.1, 1.2.2",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 3.1.1, 3.1.5, 3.2.1",
+  "TL-0141 · ATS 2025 – Diagnosis and Management of CAP – Khuyến cáo 1 (siêu âm phổi)",
+  "TL-0145 · Pertussis (Whooping Cough) Specific Disease Protocol, Manitoba 2025 – mục 3 (lâm sàng)",
+  "Không có trong tài liệu đã tải: thủ tục và mẫu ghi nhận từ chối xét nghiệm; liều paracetamol riêng cho người rất cao tuổi nhẹ cân; thành phần thuốc không nhãn; ngưỡng SpO₂ tụt khi gắng sức; mốc tái khám 48–72 giờ; nội dung khám sức khỏe định kỳ cho người cao tuổi; lịch tiêm vaccine; lượng nước, liều mật ong và siro bổ phế"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25: soạn mới HH-0566. Ghi theo các mục mâu thuẫn có sẵn: HH-0671 (X-quang khi > 75 tuổi; CRP; thuốc triệu chứng; ngưỡng sinh hiệu; tiêu chí > 80 tuổi), HH-0692 (đờm vàng/bệnh tim: ca này đờm trắng nên các nguồn đồng thuận), HH-0650 (siro bổ phế).",
+  "Tài liệu đã đọc: TL-0131 (Viêm phế quản cấp; Viêm phổi cộng đồng 2.1.1; Viêm phổi bệnh viện 3.4; Ho kéo dài Bảng 1.1), TL-0015 (Viêm phế quản cấp ở người lớn), TL-0151 (định nghĩa, khuyến cáo 1–4), TL-0156 (Advice 1), TL-0146 (1.1.2, 1.3.1–1.3.4), NICE NG120 (1.1.1–1.2.2), TL-0121 (3.1.1, 3.1.5, 3.2.1), TL-0141 (Khuyến cáo 1), TL-0145 (mục 3).",
+  "Thiết kế: từ chối xét nghiệm diễn bằng cls kèm câu 'không đồng ý, đã ghi nhận', không dùng khoa_cls vì phòng khám có đủ máy; siêu âm phổi là lựa chọn bà chấp nhận. Ca không bẫy; đờm trắng, ngày 6 để QĐ 4235, QĐ 708, NICE, CHEST cùng đồng thuận không kháng sinh. Vỉ amlodipin đọc được; lọ và gói thuốc cảm không nhãn để ngỏ, ghi 'không rõ'. Chỗ thiếu tài liệu: xem dòng 'Không có trong tài liệu đã tải' ở trường nguon."
+ ]
+}

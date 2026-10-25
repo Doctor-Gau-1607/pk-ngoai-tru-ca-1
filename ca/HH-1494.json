@@ -1,0 +1,696 @@
+{
+ "ma_ca": "HH-1494",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 (2026-10-25)",
+ "benh": "Thuyên tắc phổi (người rất cao tuổi, không điển hình, tái khám sau 3 tháng)",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Thuyên tắc phổi",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Nhồi máu cơ tim",
+   "Bóc tách ĐMC"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hen",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Thị Mười",
+  "tuoi": 82,
+  "gioi": "Nữ",
+  "nghe": "Bán rau ở chợ huyện (tiểu thương)",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' hoặc 'dì'. Bà tự xưng 'tui', gọi bác sĩ là 'bác sĩ'. Chị Thảo gọi bà là 'má', xưng 'con' với bà và 'em' với bác sĩ.",
+  "tinh_cach": "Lì, siêng, tiết kiệm, hay nói 'tui khỏe re, hen tái lại thôi'. Tai hơi nặng nên hay hỏi lại. Tỉnh táo, trả lời đúng. Giữ tiền riêng, ngại làm phiền con. Tin mình bị hen từ lần khám ở trạm xã.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: bà chỉ đem theo 300.000 đồng, hỏi giá từng xét nghiệm trước khi làm, từ chối cái đắt ('chi cho tốn, cho tui thuốc hen là được'). Chỉ chịu làm khi bác sĩ nói rõ xét nghiệm đó đổi cách xử trí; chịu đi bệnh viện khi hiểu rằng ở đó mới chụp được cái cần chụp và có giấy chuyển tuyến BHYT.",
+  "nguoi_nha": "Con gái, chị Thảo, 56 tuổi, bán chung sạp rau, đưa má đi khám. Lo lắng nhưng chiều má. Chị biết má hụt hơi mấy hôm, hay ngồi nghỉ giữa chợ, ngủ gật ban ngày, và biết chuyến đi giỗ ở quê. Chị không để ý chân má, cũng không biết má chưa từng mua ống xịt hen vì tiếc tiền.",
+  "ten_nguoi_nha": "Chị Thảo (con gái)",
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#d8d8d4",
+   "kieuToc": "bui",
+   "ao": "#7a8f5a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a985",
+    "toc": "#2b1e17",
+    "kieuToc": "bui",
+    "ao": "#a35a6b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám bệnh hen, hụt hơi mấy bữa nay",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm (nên cũng không có CT, nội soi)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Đặng Thị Mười, 82 tuổi, bán rau ở chợ huyện, con gái đưa đến 'tái khám hen' theo hẹn lần khám ở trạm y tế xã 2 tháng trước, vì mấy hôm nay hụt hơi. Sinh hiệu: nhiệt độ 36,9 °C, mạch 104 l/p, HA 128/74 mmHg, nhịp thở 22 l/p, SpO₂ 92% khí trời, cân nặng 46 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Mười được kê thuốc xịt hen và hẹn lại, trong khi xác suất thuyên tắc phổi cao (Geneva giản lược 5, ESC 2019 Bảng 5). Bà không mua thuốc vì tiếc tiền, nên huyết khối ở chân tiếp tục tồn tại, có thể trôi lên phổi lần nữa; nhóm không được chẩn đoán đúng và không chống đông có số lần VTE và đột tử tim mạch tăng ở 3 tháng (ESC 2019 mục 7). Bà ngồi thở ở chợ, chị Thảo không biết dấu hiệu nguy hiểm để gọi 115.",
+    "theo_doi": "Giữ bà tại phòng khám theo dõi, cho nằm nghỉ và uống thuốc, hẹn hôm sau. Cơ sở không có siêu âm, CT nên không xác chẩn được; D-dimer dù dương hay âm cũng không loại trừ khi xác suất cao (ESC 2019 mục 4.11, III A). Mất một ngày quý giá trong 24–48 giờ đầu, lúc huyết động có thể xấu đi (ESC 2019 mục 3.3), và bà vẫn phải đi bệnh viện sau đó.",
+    "nhap_vien": "Cho bà nhập viện nội trú tại cơ sở này. Không có CT, không siêu âm tim hay siêu âm tĩnh mạch ép nên không xác nhận được chẩn đoán, không phân tầng được nguy cơ (RV, troponin; ESC 2019 mục 5), chỉ tốn tiền giường và xét nghiệm rồi vẫn phải chuyển. Bà có 300.000 đồng và sợ tốn kém nên có thể bỏ về giữa chừng.",
+    "cap_cuu": "Gọi xe cứu thương 115 chuyển cấp cứu hồi sức. Bà ổn định huyết động (HA tâm thu 128, không sốc) nên không thuộc thuyên tắc nguy cơ cao cần cấp cứu (ESC 2019 mục 4.11). Chi phí xe cấp cứu vượt khả năng của bà, bà và chị Thảo có thể từ chối đi; cho xe nhà đi cùng người nhà là đủ."
+   },
+   "loi_mo": "Tui đến khám lại cái bệnh hen mà bác sĩ. Mấy bữa nay hụt hơi, hen tái lại đó. Bác sĩ cho tui thuốc hen là được, đừng xét nghiệm chi cho tốn tiền, tui có ba trăm ngàn thôi.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "128/74",
+    "nhiet": "36,9",
+    "nhip_tho": 22,
+    "spo2": 92,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hụt hơi mấy hôm nay, nghĩ là hen tái lại nên đến khám lại theo hẹn lần trước (khám 2 tháng trước ở trạm y tế xã, được nói là hen).",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám / nhãn 'hen' (mỏ neo)"
+    },
+    {
+     "id": "di_xa",
+     "noi_dung": "6 ngày trước bà về quê chồng dự giỗ, đi xe khách giường ghế hẹp, mỗi chiều gần 9 tiếng, dọc đường chỉ xuống xe một lần đi vệ sinh, ít uống nước vì sợ đi tiểu. Ở quê 2 ngày rồi đi xe về. Hai ngày sau về mới bắt đầu hụt hơi.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi chung 'có gì khác thường dạo này' thì nói 'không, vẫn bán rau như mọi bữa'. Chỉ kể chuyến đi quê khi hỏi 'gần đây có đi xa, ngồi xe lâu, nằm một chỗ lâu không' hoặc khi chị Thảo được hỏi 'hôm giỗ má đi bằng gì'. Bà không nối chuyện đi xe với chuyện hụt hơi.",
+     "k": 1,
+     "y": "Ngồi lâu 9 giờ ngay trước khởi phát (yếu tố nguy cơ yếu)"
+    },
+    {
+     "id": "hut_hoi",
+     "noi_dung": "Hụt hơi tăng dần 4 ngày nay. Gánh rổ rau từ nhà ra chợ (khoảng 200 m) phải dừng nghỉ 2–3 lần, trước đây đi một mạch. Ngồi yên thì đỡ. Nằm ngủ được, không phải kê gối cao, không giật mình ban đêm. Hơi tức nhẹ ở ngực khi hít sâu hôm qua, thoáng qua, không đau thắt.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'có khó thở không' thì nói 'chút chút, hen mà'. Kể chi tiết khi hỏi theo việc làm: gánh rổ ra chợ, leo bậc thềm sạp, có phải dừng nghỉ không.",
+     "k": 1,
+     "y": "Khó thở gắng sức mới, tăng dần, không khò khè"
+    },
+    {
+     "id": "khong_khe",
+     "noi_dung": "Không khò khè, không ho, không khạc đờm, không ho ra máu, không sốt, không ớn lạnh. Hai tháng nay khò khè vài đêm lạnh lúc nghẹt mũi (là lúc được cho là hen), mấy hôm nay không khò khè. Chưa từng dùng thuốc xịt hen vì thấy đắt, nên không biết thuốc có đỡ không.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Trả lời đúng từng câu khi bác sĩ hỏi riêng: ho không, đờm không, khò khè đêm qua không, sốt không, ho ra máu không, đã xịt thuốc nào chưa.",
+     "k": 1,
+     "y": "Không ho, không đờm, không sốt, không khò khè; chưa dùng thuốc hen"
+    },
+    {
+     "id": "chan_trai",
+     "noi_dung": "Chân trái nặng và tức bắp chân từ 3 ngày nay, chiều thì hơi sưng mu bàn chân. Bà cho là do đứng bán cả ngày nên không nói với ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có đau chỗ nào khác không' thì nói 'không'. Kể khi bác sĩ hỏi riêng về chân: sưng, nặng, đau bắp chân, hai chân có bằng nhau không; hoặc khi bác sĩ khám chân và ấn vào bắp chân.",
+     "k": 1,
+     "y": "Dấu hiệu huyết khối tĩnh mạch sâu chân trái"
+    },
+    {
+     "id": "khong_dau_nguc",
+     "noi_dung": "Không đau ngực kiểu thắt hay đè, không đau lan tay hay hàm, không đau xé lưng, không vã mồ hôi, không buồn nôn. Có choáng thoáng qua một lần khi đứng dậy khỏi ghế hôm kia, không ngất, không té.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Trả lời khi hỏi riêng đau ngực, đau lưng, ngất, choáng, hồi hộp đánh trống ngực.",
+     "k": 1,
+     "y": "Không đau ngực điển hình, không đau xé (loại NMCT, bóc tách)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng bị huyết khối hay tắc mạch, không ung thư, không mổ hay gãy xương, không nằm viện trong năm nay, không dùng thuốc nội tiết, không hút thuốc. Huyết áp 'hơi cao' đo ở xã nhưng chưa uống thuốc. Hai tháng trước ở xã được cho một ống xịt (bà không mua).",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Trả lời khi hỏi tiền sử bệnh, phẫu thuật, thuốc, ung thư, từng nằm viện.",
+     "k": 1,
+     "y": "Không tiền sử VTE, phẫu thuật, ung thư (tính Wells, Geneva)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Nhỏ mũi naphazolin 0,05% mỗi lần 2 giọt mỗi bên, 3–4 lần/ngày, đã gần 6 tháng vì nghẹt mũi, không ngừng được. Không uống thuốc nào khác, không aspirin, không thuốc bắc.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'đang uống thuốc gì' thì nói 'không uống gì'. Chỉ kể thuốc nhỏ mũi khi hỏi thuốc nhỏ, xịt, thuốc tự mua ngoài tiệm.",
+     "k": 0,
+     "y": "Thuốc nhỏ mũi kéo dài (nhiễu)",
+     "nhieu": 1
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Bà chỉ đem 300.000 đồng, sợ xét nghiệm tốn kém, hỏi giá từng thứ. Thẻ BHYT đúng tuyến ở trạm y tế xã, phòng khám này tính tiền.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Không đủ tiền xét nghiệm (nhiễu)",
+     "nhieu": 1
+    },
+    {
+     "id": "chi_thao",
+     "noi_dung": "Chị Thảo: má dạo này ngủ gật ban ngày, ăn ít, đi chậm, sáng nay thấy má ngồi thở ở đầu hẻm. Chị không biết má phàn nàn chân.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Quan sát của người nhà"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, định hướng tốt, nói câu dài phải ngừng lấy hơi một lần. Gầy (BMI 20,4). Môi hồng, không tím, niêm mạc hồng, không phù mặt. Chi ấm.",
+     "k": 1,
+     "hien": "Tỉnh, nói câu dài phải ngừng lấy hơi. Gầy. Không tím."
+    },
+    "tim": {
+     "a": "Tim đều, 104 l/p, T1 T2 rõ, không âm thổi, không T3. T2 ở ổ van động mạch phổi nghe hơi mạnh hơn ở ổ van chủ. Mỏm tim không lệch.",
+     "k": 1,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, thở nông, đều. Gõ trong hai bên, rung thanh đều hai bên. Rì rào phế nang êm dịu hai phế trường, không ran nổ, không ran rít, không ran ngáy, không tiếng cọ màng phổi, thì thở ra không kéo dài.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Gõ trong hai bên, rung thanh đều hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Bắp chân trái to hơn phải: đo dưới lồi củ chày 10 cm, trái 31 cm, phải 28,5 cm. Ấn đau dọc bắp chân trái, phù lõm nhẹ mu chân trái. Không đỏ, không nóng, không giãn tĩnh mạch nông. Chân phải bình thường. Mạch mu chân hai bên rõ.",
+     "k": 1,
+     "hien": "Bắp chân trái 31 cm, bắp chân phải 28,5 cm (đo dưới lồi củ chày 10 cm). Ấn bắp chân trái thấy bà nhăn mặt. Phù nhẹ mu chân trái."
+    },
+    "ha_hai_tay": {
+     "a": "Tay phải 128/74 mmHg, tay trái 126/74 mmHg, chênh dưới 10 mmHg. Mạch quay hai tay đều, bắt rõ.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tĩnh mạch cổ không nổi. Không hạch cổ, không hạch thượng đòn.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc cuốn mũi đỏ, phù nề nhẹ, không mủ. Họng không đỏ, amidan không to.",
+     "k": 0
+    },
+    "sang_loc_sang": {
+     "a": "4AT = 0 (tỉnh táo, nói AMT4 đúng 4/4, đọc ngược các tháng đủ 7 tháng, không thay đổi cấp tính).",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 104 l/p, trục trung gian, QRS hẹp. Sóng T âm ở V1–V3. Không ST chênh lên hay xuống, không sóng Q bệnh lý, không S1Q3T3, không block nhánh phải.",
+     "ab": 1,
+     "n": "Sóng T đảo V1–V4 là dấu hiệu quá tải thất phải, nhưng ở ca nhẹ có khi chỉ có nhịp xoang nhanh (ESC 2019 mục 4.1); ECG không ST chênh lên nên không hướng tới STEMI; ECG làm trong 10 phút đầu khi nghi hội chứng vành cấp (ESC 2023 ACS, Hình 5). Giá 50.000 đồng, nằm trong 300.000 đồng của bà."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Bóng tim không to, hai phế trường sáng, không đông đặc, không tràn dịch màng phổi, hai góc sườn hoành nhọn. Trung thất không rộng, cung động mạch chủ vồng nhẹ do tuổi.",
+     "ab": 0,
+     "n": "X-quang ngực hay bình thường hoặc không đặc hiệu trong thuyên tắc phổi nhưng giúp loại viêm phổi, tràn dịch, trung thất rộng (ESC 2019 mục 4.1; QĐ 2147/2026 mục 3.1.3). Chi phí 100.000 đồng: hợp lý vì cùng ECG vẫn còn trong ngân sách và không làm chậm chuyển tuyến."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Troponin T hs 9 ng/L (ngưỡng < 14)",
+     "ab": 0,
+     "n": "Không phản đối nhưng tốn 150.000 đồng, cùng ECG và X-quang đã hết 300.000 đồng. Không đổi hướng xử trí vì dù âm tính vẫn phải chụp CT động mạch phổi; bệnh viện tuyến trên sẽ làm lại (troponin còn dùng để phân tầng nguy cơ, ESC 2019 mục 5.3.1)."
+    },
+    "ddimer": {
+     "v": "n",
+     "r": "D-dimer 2.150 µg/L FEU (ngưỡng theo tuổi 820 µg/L)",
+     "ab": 1,
+     "n": "Không cần: xác suất lâm sàng cao (Wells, Geneva), D-dimer không khuyến cáo vì kết quả bình thường cũng không loại trừ (ESC 2019 mục 4.11, Class III A; mục 7.1.2.1). Ở bà 82 tuổi độ đặc hiệu D-dimer chỉ khoảng 10% (ESC 2019 mục 4.4.1). Ngưỡng theo tuổi 82 × 10 = 820 µg/L (AHA/ACC 2026 mục 3.1.1 KC 2). Xét nghiệm 250.000 đồng, không đổi quyết định chuyển tuyến chụp CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thuyên tắc phổi cấp, xác suất lâm sàng cao, huyết động ổn định, có huyết khối tĩnh mạch sâu chân trái nghi ngờ; chưa xếp mức nặng; cần chụp CT động mạch phổi",
+     "ok": 1,
+     "n": "Hụt hơi mới tăng dần, SpO₂ 92%, mạch 104, thở 22, không khò khè, phổi sạch, X-quang sạch; chân trái to hơn 2,5 cm, đau bắp chân; ngồi xe 9 giờ. Geneva giản lược = 5 (mạch ≥ 95: 2; tuổi > 65: 1; đau chân một bên: 1; đau khi ấn và phù một bên: 1) là xác suất cao (ESC 2019 Bảng 5). Wells = 4,5 (dấu DVT 3 + mạch > 100 1,5), 'PE khả năng' (> 4); thêm 3 nếu coi PE là chẩn đoán nghĩ tới nhất thì 7,5, cao (AHA/ACC 2026 Bảng 3). PERC không áp dụng được (tuổi ≥ 50, mạch ≥ 100, SpO₂ < 95%). Ngồi xe 9 giờ chỉ là yếu tố nguy cơ yếu (OR < 2) (ESC 2019 Bảng 3)."
+    },
+    {
+     "t": "Hen phế quản tái phát (nhãn của lần khám trước, mỏ neo)",
+     "n": "Không khò khè, không ran rít, thì thở ra không kéo dài; hụt hơi mới 4 ngày với SpO₂ 92% và nhịp nhanh, chưa dùng thuốc nên không thể nói 'hen đỡ hay không'. Chẩn đoán hen trước đó không có đo lưu lượng đỉnh hay hô hấp ký (QĐ 1851/2020 mục 2.2). Hen có thể có sẵn nhưng không giải thích được chân trái to và nhịp nhanh. Không có đáp ứng thuốc để dựa vào."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không sốt, không ho, không khạc đờm, không ran nổ, không đông đặc; X-quang sạch (QĐ 2147/2026 mục 3.1.1, 3.1.3). Người rất cao tuổi có thể không rầm rộ nhưng ở đây không có triệu chứng hô hấp nhiễm khuẩn nào."
+    },
+    {
+     "t": "Nhồi máu cơ tim / hội chứng vành cấp",
+     "n": "Không đau ngực kiểu thắt, ECG không ST chênh lên, không Q mới; troponin T hs 9 ng/L nếu làm (ESC 2023 ACS, Hình 5: ECG trong 10 phút). T âm V1–V3 là dấu quá tải thất phải trong TTP (ESC 2019 mục 4.1) chứ không phải thiếu máu vùng trước vì không kèm ST chênh và triệu chứng; cần theo dõi nếu đau ngực xuất hiện."
+    },
+    {
+     "t": "Bóc tách động mạch chủ",
+     "n": "Không đau xé ngực lưng, huyết áp hai tay chênh dưới 10 mmHg, mạch đều hai tay, trung thất không rộng: ADD-RS = 0 (nguy cơ thấp, Rogers 2011, Hình 2). ADD-RS ≥ 1 mới là cờ đỏ phải loại trừ bóc tách trước khi chống đông (ghi chú chỉ mục TL-0107)."
+    },
+    {
+     "t": "Suy tim",
+     "n": "Tĩnh mạch cổ không nổi, không phù hai chân đối xứng, không ran ẩm, bóng tim không to trên X-quang, nằm đầu thấp ngủ được. NT-proBNP và siêu âm tim không làm được (không có siêu âm, bà không đủ tiền)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến trong ngày đến bệnh viện có CT để chụp CT động mạch phổi, kèm giấy chuyển tuyến BHYT và người nhà đi cùng; không nhập viện tại chỗ vì cơ sở không có siêu âm, CT",
+     "v": "c",
+     "n": "Xác suất lâm sàng cao thì phải chụp hình ảnh để xác định (CTPA; ESC 2019 mục 4.11; AHA/ACC 2026 mục 3.1.2 KC 1, Class 1 A). Cơ sở không có siêu âm nên không có siêu âm tĩnh mạch ép, siêu âm tim, cũng không có CT. Bà ổn định huyết động (HA tâm thu 128), không cần xe cấp cứu có hồi sức. Nói rõ chi phí và giấy chuyển tuyến vì bà đang lo tiền."
+    },
+    {
+     "t": "Cho liều chống đông đầu trước khi chuyển, nếu cơ sở có thuốc và bà không có chống chỉ định chảy máu",
+     "v": "a",
+     "n": "ESC 2019 mục 4.11 và 6.7: bắt đầu chống đông ngay, không chờ kết quả, khi xác suất cao hoặc trung gian (Class I C). Phác đồ liều đầu: rivaroxaban 15 mg × 2 lần/ngày × 21 ngày hoặc apixaban 10 mg × 2 lần/ngày × 7 ngày (AHA/ACC 2026 mục 5.2); liều LMWH không có trong bản chữ đã tải. Chấm 'a' vì AHA/ACC 2026 mục 4.2.1 KC 4 chỉ khuyến cáo (2a, C-EO) cho nghi ngờ nhóm C2 trở lên khi hình ảnh chậm; xem mâu thuẫn trong sổ."
+    },
+    {
+     "t": "Chuyển tuyến ngay, không cho thuốc chống đông tại phòng khám, để bệnh viện quyết định sau khi có CT",
+     "v": "a",
+     "n": "AHA/ACC 2026 mục 4.2.1 KC 4: chống đông chờ hình ảnh chỉ áp dụng cho nghi ngờ nhóm C2 trở lên và nguy cơ chảy máu thấp; bà 82 tuổi chưa có creatinin, cân nặng 46 kg nên cách này cũng hợp lý khi chuyển trong ngày. Hai cách đều chấm 'a' (không chọn một bên)."
+    },
+    {
+     "t": "Dặn nằm nghỉ, không gánh hàng, không tự chạy xe; nhờ chị Thảo đi cùng; gọi 115 nếu ngất, đau ngực, khó thở tăng, ho ra máu trên đường đi",
+     "v": "c",
+     "n": "Bà vẫn ổn định nhưng nguy cơ quá tải thất phải và huyết động xấu đi có thể xảy ra ở 24–48 giờ đầu (ESC 2019 mục 3.3)."
+    },
+    {
+     "t": "Gọi xe cứu thương 115 chuyển cấp cứu",
+     "v": "a",
+     "n": "Bà ổn định huyết động (không sốc, HA tâm thu 128), chuyển bằng xe thường có người nhà là đủ; gọi 115 không sai nhưng tốn kém hơn (nhiễu tiền). Cấp cứu hồi sức dành cho thuyên tắc nguy cơ cao có mất ổn định huyết động (ESC 2019 mục 4.11)."
+    },
+    {
+     "t": "Kê thuốc xịt hen và cho về, hẹn tái khám",
+     "v": "w",
+     "n": "Bỏ sót thuyên tắc phổi khi xác suất lâm sàng cao. Không dùng chiến lược chẩn đoán có kiểm chứng và không điều trị chống đông tăng số lần VTE và đột tử tim mạch ở 3 tháng (ESC 2019 mục 7)."
+    },
+    {
+     "t": "Cho kháng sinh theo viêm phổi",
+     "v": "w",
+     "n": "Không có sốt, ho đờm hay tổn thương phổi để chẩn đoán viêm phổi (QĐ 2147/2026 mục 3.1); kháng sinh không điều trị thuyên tắc phổi."
+    },
+    {
+     "t": "Tiêm tiêu sợi huyết tại phòng khám",
+     "v": "h",
+     "n": "Tiêu sợi huyết thường quy không khuyến cáo ở thuyên tắc nguy cơ trung bình hoặc thấp; chỉ dùng cứu nguy khi mất ổn định huyết động trên nền chống đông (ESC 2019 mục 6.7, Class III B và I B). Bà 82 tuổi nên nguy cơ chảy máu não cao hơn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thuyên tắc phổi cấp, xác suất lâm sàng cao (Geneva giản lược 5, Wells 4,5–7,5), huyết động ổn định, SpO₂ 92%",
+     "Nghi huyết khối tĩnh mạch sâu chân trái (chênh chu vi 2,5 cm, đau bắp chân)",
+     "Chưa phân tầng nguy cơ tử vong sớm (cần sPESI, siêu âm tim hoặc CT, troponin ở bệnh viện); đã biết sPESI ≥ 1 vì tuổi > 80 (ESC 2019 Bảng 7)",
+     "Đã loại trừ: viêm phổi, NMCT/hội chứng vành cấp, bóc tách ĐMC; không có bằng chứng hen đang hoạt động"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: (1) hụt hơi theo việc làm (gánh rổ, dừng nghỉ), (2) có ho, đờm, khò khè, sốt không, (3) đau ngực, đau lưng, ngất, (4) chân sưng đau không, (5) đi xa ngồi lâu, nằm lâu, mổ, ung thư, huyết khối cũ, (6) thuốc đang dùng và đã xịt thuốc hen chưa. Bà phủ nhận chung chung và gán mọi thứ cho 'hen', nên phải hỏi từng câu cụ thể; người rất cao tuổi thường không điển hình (ESC 2019 mục 4.1: triệu chứng không đặc hiệu).",
+     "Khám: SpO₂ 92% khí trời, mạch 104, thở 22; phổi sạch, không rít, không ran; T2 phổi mạnh nhẹ; chân trái to hơn 2,5 cm và đau bắp chân (thang điểm ESC 2019 Bảng 5; AHA/ACC 2026 Bảng 3). Đo hai tay và nghe mạch loại bóc tách (ADD-RS = 0).",
+     "CLS theo ngân sách 300.000 đồng: chọn ECG (50.000) và X-quang (100.000) vì rẻ, trả lời được 'có phải tim hay phổi nhiễm khuẩn không'. D-dimer (250.000) không dùng vì xác suất cao: D-dimer không khuyến cáo và không loại trừ (ESC 2019 mục 4.11, III A). Troponin (150.000) không đổi hướng. Siêu âm tĩnh mạch ép và siêu âm tim không làm được ở đây; CT động mạch phổi làm ở tuyến trên (AHA/ACC 2026 mục 3.1.2 KC 1: xác suất cao thì chụp hình ảnh).",
+     "Vì sao nghĩ TTP khi không đau ngực, không ho máu: dạng không điển hình ở người rất cao tuổi; yếu tố nguy cơ yếu (ngồi xe 9 giờ, tuổi); mạch nhanh + SpO₂ thấp không giải thích bởi hen khi không khò khè; chân một bên to. Tuổi > 80 làm D-dimer kém đặc hiệu (khoảng 10%, ESC 2019 mục 4.4.1); nghiên cứu ngưỡng theo tuổi có 766 người ≥ 75 tuổi, nhưng dùng cho xác suất thấp hoặc trung gian (ESC 2019 mục 4.4.1; AHA/ACC 2026 mục 3.1.1 KC 2).",
+     "Ghi chú áp dụng ≥ 75 tuổi: sPESI cộng 1 điểm khi tuổi > 80 nên bà không thuộc nhóm nguy cơ thấp để điều trị tại nhà (ESC 2019 Bảng 7; AHA/ACC 2026 mục 3.2.1). Tài liệu đã tải không có số liệu RCT riêng cho nhóm > 80 tuổi."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến trong ngày chụp CT động mạch phổi, vì cơ sở không có siêu âm, CT nên không xác chẩn và không phân tầng được (ESC 2019 mục 4.11, 7.1.2.1; AHA/ACC 2026 mục 3.1.2 KC 1). Không nhập viện tại chỗ vì cũng không chẩn đoán được.",
+     "Chống đông trước khi chuyển: hai cách hợp lệ. ESC 2019 mục 4.11 và 6.7: bắt đầu ngay khi xác suất cao hoặc trung gian (Class I C). AHA/ACC 2026 mục 4.2.1 KC 4: có thể chống đông khi hình ảnh chậm, từ nhóm C2 trở lên và nguy cơ chảy máu thấp (2a, C-EO). Khác nhau do ESC dùng xác suất trước xét nghiệm còn AHA/ACC dùng mức độ nặng; ca này chưa biết mức nặng nên cả cho thuốc hoặc chưa cho đều chấp nhận.",
+     "Không có siêu âm nên không dùng được chiến lược siêu âm tĩnh mạch ép để xác nhận bằng hình ảnh ngay (ESC 2019 mục 4.11, CUS Class I A); bà phải chụp CTPA ở bệnh viện, đồng thời bệnh viện sẽ làm siêu âm tim, sPESI, troponin để phân tầng.",
+     "Xử trí động cơ thật: bà đến vì 'tái khám hen', sợ tốn tiền. Nói thẳng: hen có thể có nhưng cái đang làm bà mệt là cục máu ở phổi; ở đây không có máy chụp nên cần đi nơi có. Tránh để bà tự quyết bỏ chuyển tuyến vì tiền: tính chi phí xét nghiệm đã làm, đưa giấy chuyển tuyến BHYT, nhờ chị Thảo đi cùng.",
+     "Những việc sai: kê thuốc hen và cho về (bỏ sót TTP, ESC 2019 mục 7); làm D-dimer dù xác suất cao (III A); tiêu sợi huyết (III B); kháng sinh theo viêm phổi; cho nhỏ mũi tiếp, không khai thác chân."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thuốc chống đông liều đầu (tùy chọn, a): rivaroxaban 15 mg",
+      "ham_luong": "Viên 15 mg",
+      "lieu": "15 mg",
+      "duong": "Uống, sau ăn",
+      "thoi_diem": "Một liều trước khi chuyển nếu cơ sở có thuốc và bà không có chảy máu",
+      "so_ngay": "Bệnh viện tiếp tục (rivaroxaban 15 mg × 2 lần/ngày × 21 ngày nếu chọn rivaroxaban)",
+      "ghi_chu": "AHA/ACC 2026 mục 5.2 (phác đồ khởi đầu); AHA/ACC 2026 mục 5.2.1 (uống cùng bữa ăn). Không bắt buộc, xem phân tích; liều enoxaparin/fondaparinux không có trong tài liệu đã tải. Chưa biết creatinin; Clcr ước khoảng 34 mL/ph (ESC 2019 mục 6.2.2 không giảm liều ở CrCl 30–60)."
+     },
+     {
+      "thuoc": "Không kê thuốc xịt hen, không kháng sinh",
+      "ham_luong": "-",
+      "lieu": "-",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "Hen chưa được xác nhận (QĐ 1851/2020 mục 2.2) và hụt hơi hiện tại do thuyên tắc, không phải hen hay viêm phổi (QĐ 2147/2026 mục 3.1)."
+     }
+    ],
+    "dan_do": [
+     "Đưa giấy chuyển tuyến BHYT, nhờ chị Thảo đi cùng ngay hôm nay, không gánh hàng, không tự chạy xe.",
+     "Gọi 115 nếu ngất, đau ngực, khó thở tăng, ho ra máu, chân sưng nhiều thêm trên đường đi (ESC 2019 mục 3.3: mất ổn định huyết động có thể xảy ra trong 24–48 giờ đầu).",
+     "Mang theo lọ thuốc nhỏ mũi đang dùng để bác sĩ tuyến trên biết thuốc; uống đủ nước, không ngồi lâu.",
+     "Nói rõ với bà: đây không phải chuyện hen mà bà lo, cục máu ở chân có thể trôi lên phổi; chụp ở nơi có máy là đúng cái cần chụp, không phải chụp thừa."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 3 tháng",
+   "tiep_don": "Bà Mười tái khám sau 3 tháng. Lượt trước bà được chuyển bệnh viện: CT động mạch phổi cho thấy thuyên tắc nhánh động mạch phân thùy dưới phải và dưới trái, không giãn thất phải, troponin bình thường, siêu âm Doppler có huyết khối tĩnh mạch khoeo–đùi trái; sPESI = 1 (tuổi > 80), bà nằm viện 4 ngày. Ra viện với rivaroxaban 15 mg × 2 lần/ngày trong 21 ngày rồi 20 mg × 1 lần/ngày. Sinh hiệu: nhiệt độ 36,7 °C, mạch 78 l/p, HA 132/78 mmHg, nhịp thở 18 l/p, SpO₂ 96% khí trời, cân nặng 46 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bà nhập viện lại để làm thêm CT và siêu âm tim kiểm tra. Bà đã hết triệu chứng, SpO₂ 96%, chức năng bình thường nên kiểm tra hình ảnh khi đã khỏi không có lợi (AHA/ACC 2026 mục 6.1 KC 4, COR 3). Bà mất ngày công, tốn tiền mà không đổi quyết định chống đông; còn dễ sợ bệnh viện nên bỏ tái khám tháng thứ 6.",
+    "chuyen_tuyen": "Chuyển tuyến để chụp CT/xạ hình hoặc siêu âm tim kiểm tra 'xem cục máu tan chưa'. Không có chỉ định vì bà hết hụt hơi, chỉ làm khi còn khó thở hoặc hạn chế vận động sau ≥ 3 tháng (AHA/ACC 2026 mục 6.1 KC 1 và KC 4). Chi phí chụp, cản quang với Clcr khoảng 34 mL/ph và quãng đường đi lại chỉ làm bà tiếc tiền thêm, dễ bỏ luôn thuốc chống đông.",
+    "theo_doi": "Giữ bà theo dõi tại phòng khám hoặc kéo dài thêm xét nghiệm mà không chốt kế hoạch thuốc. Bà ra về với câu hỏi 'ngưng được chưa' chưa được trả lời; đã có gián đoạn thuốc 3 ngày vì tiền, nếu không được bàn rõ thì bà có thể tự ngưng. Ngưng sai cách khiến nguy cơ tái phát tăng, mà tái phát sau TTP thường là TTP lại với tử vong gấp đôi (ESC 2019 mục 8)."
+   },
+   "loi_mo": "Tui khỏe rồi bác sĩ ơi, hết hụt hơi lâu rồi. Thuốc này mắc quá, tui định ngưng được không? Với lại bác sĩ coi lại giùm cái hen, cho tui thuốc hen cho chắc.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "132/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết hụt hơi từ lâu rồi, xin ngưng thuốc vì tiền thuốc mỗi tháng còn tự trả một phần. Tiện thể hỏi 'coi lại giùm cái hen' vì hẹn khám hen trước đây.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: xin ngưng thuốc chống đông vì tiền; hỏi hen"
+    },
+    {
+     "id": "het_tc",
+     "noi_dung": "Từ tuần thứ 2 sau khi ra viện bà hết hụt hơi, gánh rổ ra chợ một mạch như cũ, leo thềm sạp không phải nghỉ. Chân trái hết nặng sau khoảng 6 tuần, giờ chiều còn hơi sưng nhẹ mu chân. Không khò khè, không đau ngực.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi riêng: còn hụt hơi khi gánh hàng, leo thềm không; chân hai bên có bằng nhau không; có khò khè, đau ngực không.",
+     "k": 1,
+     "y": "Hồi phục lâm sàng hoàn toàn (không nghĩ tới CTEPD)"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không đi cầu phân đen, không chảy máu cam hay chân răng, không tiểu ra máu. Có vài vết bầm 1–2 cm ở cẳng tay do va vào sạp.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Trả lời khi hỏi riêng chảy máu cam, phân đen, tiểu máu, bầm da, té ngã.",
+     "k": 1,
+     "y": "Biến cố chảy máu: không có (đánh giá an toàn khi kéo dài chống đông)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Cách đây 2 tuần, bà hết thuốc 3 ngày vì chưa đủ tiền mua hộp mới, uống lại bình thường sau đó. Bà ngại nói vì sợ bị la.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'bà uống thuốc đều không' thì nói 'đều, đều'. Chỉ nói khi bác sĩ hỏi nhẹ nhàng có ngày nào hết thuốc, quên thuốc, bỏ thuốc vì tiền không, hoặc khi chị Thảo bật mí.",
+     "k": 1,
+     "y": "Tuân thủ thuốc: gián đoạn 3 ngày vì tiền"
+    },
+    {
+     "id": "cach_uong",
+     "noi_dung": "Bà uống viên thuốc lúc mới thức dậy, ngay trước khi ra chợ, chưa ăn gì; bữa sáng ăn ở chợ khoảng 9 giờ. Uống xong với nửa ly nước.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'bà uống thuốc lúc nào, trước hay sau ăn' thì mới kể.",
+     "k": 1,
+     "y": "Rivaroxaban 20 mg uống lúc đói (cần uống cùng bữa ăn)"
+    },
+    {
+     "id": "thuoc_mui",
+     "noi_dung": "Vẫn nhỏ mũi naphazolin 3 lần/ngày vì nghẹt mũi, chưa ngừng được.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi thuốc nhỏ, xịt, thuốc tự mua.",
+     "k": 0,
+     "y": "Thuốc nhỏ mũi kéo dài (nhiễu)",
+     "nhieu": 1
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Từ khi khỏi bà không khò khè đêm nào, chưa từng xịt thuốc hen. Bà vẫn tin mình bị hen và muốn bác sĩ 'cho thuốc hen dự phòng'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi về hen và thuốc hen.",
+     "k": 0,
+     "y": "Nhãn hen (mỏ neo cũ)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Bà mang 150.000 đồng, nói hôm nay chỉ làm xét nghiệm nào thật cần.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Không đủ tiền xét nghiệm (nhiễu)",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói chuyện liền mạch, không thở gắng. Da niêm hồng. Vài vết bầm 1–2 cm ở cẳng tay phải. Không chảy máu chân răng, không xuất huyết dưới da khác.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, 78 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Rì rào phế nang êm dịu hai phế trường, không ran, không ran rít, không cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p. Gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Bắp chân trái 29,5 cm, bắp chân phải 28,5 cm (đo dưới lồi củ chày 10 cm), chênh 1 cm. Không đau khi ấn. Phù nhẹ mu chân trái không lõm sâu. Không đỏ, không nóng.",
+     "k": 1,
+     "hien": "Bắp chân trái 29,5 cm, bắp chân phải 28,5 cm (đo dưới lồi củ chày 10 cm). Không đau khi ấn."
+    },
+    "dau_mat_co": {
+     "a": "Tĩnh mạch cổ không nổi. Niêm mạc kết mạc hồng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,0 mmol/L · Creatinin 82 µmol/L · eGFR 62 mL/ph/1,73m²",
+     "ab": 0,
+     "bang": {
+      "ure": 6.0,
+      "creat": 82,
+      "egfr": 62
+     },
+     "n": "Chức năng thận quyết định tiếp tục thuốc chống đông đường uống (ESC 2019 mục 8.4: đánh giá dung nạp, chức năng gan, thận, nguy cơ chảy máu theo định kỳ, Class I C; AHA/ACC 2026 mục 5.2.1). Clcr Cockcroft–Gault = (140 − 82) × 46 / (72 × 0,93) × 0,85 ≈ 34 mL/ph (QĐ 2388/2024 mục 7.7.2.1). Rivaroxaban, apixaban thận trọng khi CrCl 15–29, không dùng khi < 15 (ESC 2019 mục 6.7 chú thích d); CrCl 34 vẫn trên ngưỡng nhưng gần, nên làm lại khi quyết định kéo dài."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 121 g/L · BC 6,8 G/L · TC 238 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 60.0,
+      "neu": 4.1,
+      "lym_pct": 30.0,
+      "lym": 2.0,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.1,
+      "hgb": 121,
+      "hct": 0.37,
+      "mcv": 90.2,
+      "mch": 29.5,
+      "mchc": 327,
+      "rdw": 13.8,
+      "plt": 238
+     },
+     "n": "Hb và tiểu cầu để đánh giá nguy cơ chảy máu khi dùng thuốc chống đông kéo dài (ESC 2019 mục 8.4: đánh giá nguy cơ chảy máu, Class I C). Hb 121 g/L ở giới hạn dưới của nữ (120–150), không có biểu hiện chảy máu. Không bắt buộc nên chấm u."
+    },
+    "ddimer": {
+     "v": "n",
+     "r": "D-dimer 380 µg/L FEU",
+     "ab": 0,
+     "n": "Không cần: đã chẩn đoán xác định bằng CT; dùng D-dimer để quyết định kéo dài hoặc ngừng thuốc không có trong tài liệu đã tải. 250.000 đồng vượt ngân sách."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thuyên tắc phổi đã điều trị 3 tháng bằng rivaroxaban, hồi phục lâm sàng hoàn toàn, huyết khối tĩnh mạch sâu chân trái đang hồi phục; cần quyết định thời gian chống đông",
+     "ok": 1,
+     "n": "Hết hụt hơi, SpO₂ 96%, chân trái hết đau, chênh chu vi 1 cm. Khỏi lâm sàng: hết triệu chứng và chức năng bình thường; chụp CT hay xạ hình thông khí–tưới máu kiểm tra khi đã khỏi là không có lợi (AHA/ACC 2026 mục 6.1 KC 4, COR 3 No benefit). Mốc 3 tháng là lúc bàn thời gian chống đông (AHA/ACC 2026 mục 5.1.1 KC 2; ESC 2019 mục 8.3, 8.4)."
+    },
+    {
+     "t": "Tăng áp động mạch phổi huyết khối mạn / bệnh huyết khối tắc mạch phổi mạn (CTEPD)",
+     "n": "Không còn khó thở hay hạn chế vận động sau ≥ 3 tháng chống đông, gánh rổ như cũ, SpO₂ 96%: không có chỉ định tìm CTEPD (AHA/ACC 2026 mục 6.1 KC 1: chỉ khi còn khó thở hoặc hạn chế chức năng). Vẫn hỏi triệu chứng ở mọi lần khám ít nhất 1 năm (AHA/ACC 2026 mục 5.1.1 KC 3)."
+    },
+    {
+     "t": "Chảy máu liên quan thuốc chống đông / thiếu máu",
+     "n": "Chỉ có vài vết bầm nhỏ do va chạm, không chảy máu niêm mạc, Hb 121 g/L (nữ 120–150), tiểu cầu bình thường. Cần đánh giá lại nguy cơ chảy máu định kỳ (ESC 2019 mục 8.4, Class I C)."
+    },
+    {
+     "t": "Ung thư tiềm ẩn",
+     "n": "Ở người lớn tuổi bị TTP không có yếu tố nguy cơ lớn, ung thư được phát hiện ở 4–10% trong năm đầu; khoảng một nửa nhờ hỏi bệnh và khám kỹ (AHA/ACC 2026 mục 5.1.1 phần giải thích 8). Hỏi: không sụt cân, không ho ra máu, không ra máu bất thường; khám không hạch, không khối bụng."
+    },
+    {
+     "t": "Hen phế quản đang hoạt động",
+     "n": "Không khò khè đêm nào, không dùng thuốc hen mà vẫn khỏe, phổi sạch. Chẩn đoán hen trước đây chưa xác nhận (đo lưu lượng đỉnh hay hô hấp ký; QĐ 1851/2020 mục 2.2). Nếu khò khè tái diễn thì đo lưu lượng đỉnh (30.000 đồng)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không ngừng rivaroxaban hôm nay: tiếp tục đủ liều thêm 3 tháng nữa (tổng 6 tháng) rồi họp lại quyết định ngừng hay kéo dài",
+     "v": "c",
+     "n": "Ít nhất 3 tháng cho mọi người bị TTP (ESC 2019 mục 8.4, I A). ESC 2019 mục 8.4 chỉ khuyến cáo ngừng ở 3 tháng khi TTP lần đầu do yếu tố đảo ngược lớn (I B); ngồi xe 9 giờ là yếu tố đảo ngược nhỏ (ESC xếp 'long-haul' vào yếu tố nhẹ, Bảng 11) nên ESC khuyên cân nhắc kéo dài (IIa C). AHA/ACC 2026 mục 5.2 KC 1 (I A): TTP lần đầu không có yếu tố đảo ngược lớn thì chống đông kéo dài qua giai đoạn điều trị đầu 3–6 tháng là có lợi; Bảng 9 của AHA/ACC không liệt kê đi xa ngồi lâu. Hai nguồn khác nhau về mức khuyến cáo nhưng không ai khuyên ngừng ở tháng thứ 3."
+    },
+    {
+     "t": "Đánh giá an toàn trước khi tiếp tục: creatinin (Clcr), công thức máu, hỏi chảy máu, hỏi tuân thủ",
+     "v": "c",
+     "n": "ESC 2019 mục 8.4 (I C): đánh giá định kỳ dung nạp, tuân thủ, chức năng gan và thận, nguy cơ chảy máu. AHA/ACC 2026 mục 5.1.1 KC 4 và phần giải thích 4: đánh giá lại cân bằng nguy cơ chảy máu và tái phát. Chọn creatinin (50.000) và công thức máu (50.000), bỏ D-dimer (250.000) vì ngân sách 150.000 đồng và không đổi quyết định."
+    },
+    {
+     "t": "Đổi cách uống: rivaroxaban 20 mg uống cùng bữa ăn chính, không uống lúc đói",
+     "v": "c",
+     "n": "AHA/ACC 2026 mục 5.2.1: hấp thu đủ của rivaroxaban 15 mg và 20 mg cần uống cùng bữa ăn. Bà đang uống lúc đói trước khi ra chợ, hấp thu giảm thì hiệu quả điều trị giảm."
+    },
+    {
+     "t": "Nếu sau 6 tháng quyết định kéo dài: giảm liều rivaroxaban 10 mg × 1 lần/ngày hoặc apixaban 2,5 mg × 2 lần/ngày; không dùng aspirin thay thế khi uống được thuốc chống đông",
+     "v": "c",
+     "n": "ESC 2019 mục 8.4: sau 6 tháng chống đông đủ liều có thể giảm liều (IIa A); aspirin hoặc sulodexide chỉ khi từ chối hoặc không dung nạp mọi thuốc chống đông (IIb B). AHA/ACC 2026 mục 5.2 KC 7 (I A): nửa liều apixaban hoặc rivaroxaban được khuyến cáo khi kéo dài; KC 9 (2a): aspirin liều thấp chỉ khi có chống chỉ định hoặc từ chối chống đông. ESC dùng 'cân nhắc', AHA/ACC dùng 'khuyến cáo'; cả hai chung hướng giảm liều."
+    },
+    {
+     "t": "Ngừng rivaroxaban sau đúng 3 tháng sau khi đã nói rõ nguy cơ tái phát và chảy máu",
+     "v": "a",
+     "n": "AHA/ACC 2026 mục 5.2 KC 8 (2a, B-NR): yếu tố đảo ngược nhỏ thì chia sẻ quyết định ngừng ở cuối 3–6 tháng hoặc tiếp tục đều hợp lý. ESC 2019 mục 8.4 tối thiểu 3 tháng. Chấm 'a' vì chọn ngừng chỉ khi bà hiểu rủi ro; nếu ngừng vì tiền mà không bàn là sai."
+    },
+    {
+     "t": "Hẹn tái khám tháng thứ 6 để quyết định kéo dài; hỏi triệu chứng hô hấp và khả năng vận động ở mọi lần khám ít nhất 1 năm; tái khám sớm nếu hụt hơi, chân sưng đau, chảy máu",
+     "v": "c",
+     "n": "AHA/ACC 2026 mục 5.1.1 KC 2–4: khám ≤ 3 tháng để bàn thời gian chống đông; hỏi triệu chứng mỗi lần khám ≥ 1 năm; khi kéo dài chống đông thì đánh giá lại định kỳ lợi–hại."
+    },
+    {
+     "t": "Hỏi bệnh, khám toàn diện và sàng lọc ung thư theo tuổi theo hướng dẫn quốc gia",
+     "v": "c",
+     "n": "AHA/ACC 2026 mục 5.1.1 phần giải thích 8: hỏi bệnh, khám và sàng lọc theo tuổi là chiến lược phù hợp, 4–10% ung thư trong năm đầu khi không có yếu tố đảo ngược lớn."
+    },
+    {
+     "t": "Chụp CT động mạch phổi, xạ hình hoặc siêu âm tim lại 'xem cục máu tan chưa' khi đã hết triệu chứng",
+     "v": "w",
+     "n": "AHA/ACC 2026 mục 6.1 KC 4 (COR 3: No benefit): ở người đã hết triệu chứng và ít nghĩ CTEPD thì CTPA hay xạ hình kiểm tra mức tan huyết khối không có lợi. Tốn tiền, bức xạ, cản quang với thận Clcr 34. Cơ sở này không có siêu âm, CT."
+    },
+    {
+     "t": "Làm PET/CT hoặc bộ tầm soát ung thư mở rộng để tìm nguyên nhân",
+     "v": "w",
+     "n": "AHA/ACC 2026 mục 5.1.1 phần giải thích 10: tầm soát ung thư mở rộng chỉ tăng số ca phát hiện sớm, không giảm tử vong và tốn thêm thủ thuật, chi phí."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thuyên tắc phổi cấp đã điều trị 3 tháng bằng rivaroxaban, hồi phục lâm sàng hoàn toàn; huyết khối tĩnh mạch sâu chân trái đang hồi phục",
+     "Yếu tố thuận lợi: ngồi xe khách 9 giờ (yếu tố nhẹ), tuổi cao; không ung thư, không phẫu thuật, không thuốc nội tiết",
+     "Chức năng thận: Clcr Cockcroft–Gault ≈ 34 mL/ph, eGFR 62; Hb 121 g/L; không chảy máu",
+     "Hen: chưa xác nhận, hiện không có triệu chứng; không có CTEPD (hết triệu chứng sau ≥ 3 tháng chống đông)"
+    ],
+    "phan_tich_chan_doan": [
+     "Tiêu chí xác nhận khỏi: hết hụt hơi, làm lại được việc gắng sức như gánh rổ, SpO₂ 96% khí trời, mạch 78, thở 18, chân trái hết đau, chênh chu vi 1 cm. Không cần chụp lại hình ảnh để xem cục máu tan khi đã hết triệu chứng (AHA/ACC 2026 mục 6.1 KC 4, COR 3).",
+     "Khi nào mới cần kiểm tra thêm dù đã 'khỏi': còn khó thở hoặc hạn chế vận động sau ≥ 3 tháng chống đông thì làm siêu âm tim và xạ hình tưới máu để tìm CTEPD (AHA/ACC 2026 mục 6.1 KC 1–2; ESC 2019 mục 10.1); bà không thuộc nhóm này. Cơ sở không có siêu âm nên nếu cần phải chuyển.",
+     "Khi nào được ngưng thuốc: ít nhất 3 tháng cho mọi người (ESC 2019 mục 8.4, I A); ngưng ở 3 tháng khi có yếu tố đảo ngược lớn (phẫu thuật, nằm viện ≥ 3 ngày, gãy xương chân; ESC 2019 Bảng 11; AHA/ACC 2026 Bảng 9). Bà không có yếu tố lớn: ngồi xe 9 giờ là yếu tố nhẹ nên ESC cân nhắc kéo dài (IIa C) và AHA/ACC xếp 'không có yếu tố đảo ngược' (I A hoặc shared decision, 2a B-NR nếu coi là yếu tố nhẹ).",
+     "Vì sao xét nghiệm hôm nay chỉ là creatinin và công thức máu: để quyết định tiếp tục thuốc an toàn (ESC 2019 mục 8.4, I C). Clcr 34 mL/ph: thuốc kháng đông đường uống mới không giảm liều ở CrCl 30–60 trong thử nghiệm (ESC 2019 mục 6.2.2); thận trọng ở 15–29 (ESC 2019 mục 6.7 chú thích d). Tài liệu đã tải không nêu chỉnh liều rivaroxaban ở CrCl 30–49 riêng cho TTP.",
+     "Ghi chú áp dụng ≥ 75 tuổi: hai guideline đều không có khuyến cáo riêng cho nhóm > 80 tuổi; bà 82 tuổi, 46 kg nên nguy cơ chảy máu cao hơn, vì vậy cần đánh giá lại định kỳ (tài liệu đã tải không có bảng điểm chảy máu cụ thể)."
+    ],
+    "phan_tich_xu_tri": [
+     "Quyết định chính: tiếp tục rivaroxaban đủ liều đến tháng thứ 6, rồi họp lại cùng bà và chị Thảo. Lý do: ESC chỉ cho ngừng ở 3 tháng khi có yếu tố đảo ngược lớn (I B); AHA/ACC cho shared decision ở yếu tố nhỏ (2a) và có lợi khi kéo dài nếu không có yếu tố lớn (I A). Hai guideline khác mức khuyến cáo, không khác hướng.",
+     "Nếu kéo dài sau tháng thứ 6: giảm liều (rivaroxaban 10 mg × 1 hoặc apixaban 2,5 mg × 2; ESC 2019 mục 8.4 IIa A; AHA/ACC 2026 mục 5.2 KC 7 I A). Aspirin liều thấp chỉ khi không dùng được thuốc chống đông (ESC 2019 mục 8.4 IIb B; AHA/ACC 2026 mục 5.2 KC 9 2a).",
+     "Giải quyết nhiễu tiền: bà muốn ngưng vì giá thuốc. Nói rõ ngưng sai lúc làm tăng nguy cơ tái phát, mà tái phát sau TTP thường là TTP lại và tử vong gấp đôi so với tái phát sau DVT (ESC 2019 mục 8). Hỏi nhẹ nhàng về ngày hết thuốc, tìm nguồn BHYT chi trả, cân nhắc thuốc rẻ hơn tại nơi bà khám (tài liệu đã tải không có giá thuốc ở Việt Nam).",
+     "Uống rivaroxaban cùng bữa ăn (AHA/ACC 2026 mục 5.2.1); không tự ý ngưng; không uống thêm thuốc giảm đau NSAID tự mua là lời dặn thực hành, không có trong tài liệu đã tải.",
+     "Những việc sai: ngưng ngay vì hết triệu chứng không bàn, chụp CT/xạ hình kiểm tra khi đã khỏi, PET/CT tầm soát ung thư mở rộng, làm D-dimer để quyết định thời gian, chuyển tuyến hay nhập viện vô cớ, kê thuốc hen thường quy khi không có khò khè."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Rivaroxaban",
+      "ham_luong": "Viên 20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng bữa ăn chính (ví dụ bữa sáng), cùng giờ mỗi ngày",
+      "so_ngay": "Thêm 3 tháng (đến đủ 6 tháng sau chẩn đoán), rồi quyết định tiếp hay ngừng",
+      "ghi_chu": "Liều 15 mg × 2 trong 21 ngày đầu rồi 20 mg × 1/ngày: AHA/ACC 2026 mục 5.2 (nêu 15 mg × 2 trong 21 ngày; 20 mg × 1 chỉ nhắc ở phần chứng cứ, tài liệu đã tải không có bảng liều đầy đủ); uống cùng bữa ăn: AHA/ACC 2026 mục 5.2.1; không giảm liều ở CrCl 30–60: ESC 2019 mục 6.2.2. Không ngừng thuốc khi chưa bàn lại."
+     },
+     {
+      "thuoc": "Dự kiến tháng thứ 6 nếu quyết định kéo dài: rivaroxaban 10 mg hoặc apixaban 2,5 mg",
+      "ham_luong": "Viên 10 mg hoặc 2,5 mg",
+      "lieu": "Rivaroxaban 10 mg × 1 lần/ngày hoặc apixaban 2,5 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau 6 tháng chống đông đủ liều",
+      "so_ngay": "Không đặt ngày dừng, đánh giá lại định kỳ",
+      "ghi_chu": "ESC 2019 mục 8.4 (IIa A); AHA/ACC 2026 mục 5.2 KC 7 (I A). Chưa kê hôm nay."
+     }
+    ],
+    "dan_do": [
+     "Uống rivaroxaban cùng bữa ăn, đừng uống lúc đói; không tự ngưng dù đã khỏe và dù tốn tiền: hết thuốc phải báo trước, không để hết rồi mới nói.",
+     "Hẹn tái khám tháng thứ 6 (mang giấy ra viện); khám sớm nếu hụt hơi trở lại, chân sưng đau, ho ra máu hoặc chảy máu bất thường: đi cầu phân đen, chảy máu không cầm, ngã đập đầu (AHA/ACC 2026 mục 5.1.1 KC 1–3).",
+     "Hạn chế ngồi lâu một chỗ khi đi xe đường dài: xuống xe đi lại, uống đủ nước, hoạt động chân (là lời dặn thực hành, tài liệu đã tải chỉ nêu bất động là yếu tố nguy cơ yếu).",
+     "Hen: hiện không có triệu chứng nên chưa cần thuốc hen; nếu khò khè tái diễn thì đến đo lưu lượng đỉnh. Thuốc nhỏ mũi dùng hằng ngày gần 1 năm: tài liệu đã tải không nêu hướng dẫn, nên đi khám tai mũi họng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Mười được chuyển bệnh viện trong ngày, CT động mạch phổi xác nhận thuyên tắc phổi cùng huyết khối tĩnh mạch sâu chân trái. Bà nằm viện 4 ngày, ra viện với rivaroxaban, hết hụt hơi từ tuần thứ 2. Ở lượt 2, bà được bàn kỹ nhờ nói thẳng chuyện tiền thuốc, chỉnh cách uống cùng bữa ăn, dùng thêm 3 tháng đủ liều rồi quyết định tiếp theo cùng bà. Bà ra về yên tâm, hết hụt hơi, không chảy máu, và chị Thảo biết dấu hiệu cần quay lại. Đây là ca ổn định, xử trí đúng ở cả hai lượt, trọng tâm ở quy trình: nghĩ tới thuyên tắc khi bệnh nhân gán mọi thứ cho hen, xếp ưu tiên xét nghiệm khi ít tiền, và biết khi nào ngừng thuốc.",
+ "nhieu": [
+  "Nhãn 'hen' từ lần khám trước là cái neo: không khò khè, không ran rít, chưa dùng thuốc nên không có đáp ứng làm bằng chứng; chẩn đoán hen chưa đo lưu lượng đỉnh hay hô hấp ký (QĐ 1851/2020 mục 2.2).",
+  "Không đủ tiền xét nghiệm: 300.000 đồng ở lượt 1 chỉ vừa ECG + X-quang + troponin hoặc ECG + D-dimer; D-dimer (250.000) không khuyến cáo khi xác suất cao (ESC 2019 mục 4.11, III A) nên bỏ. Lượt 2 chỉ có 150.000 đồng: chọn creatinin và công thức máu.",
+  "Thuốc nhỏ mũi kéo dài ~6 tháng: gây nhiễu khi hỏi 'đang uống thuốc gì' (bà nói không); ảnh hưởng của thuốc này lên mạch và huyết áp không có trong tài liệu đã tải.",
+  "Chân trái nặng nhưng bà giấu vì nghĩ do đứng bán nhiều; chỉ phát hiện khi hỏi và khám chân. Ở lượt 2 bà giấu việc hết thuốc 3 ngày vì tiền."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi có thuyên tắc phổi có thể không đau ngực, không ho máu, chỉ hụt hơi gắng sức, mệt, ngủ gật (ESC 2019 mục 4.1: triệu chứng không đặc hiệu). Hỏi theo việc làm hằng ngày.",
+  "Nhãn bệnh cũ ('hen') làm lệch suy nghĩ: kiểm xem có khò khè, có đáp ứng thuốc không, rồi tính xác suất lâm sàng bằng thang điểm (Wells, Geneva), đừng dựa vào cảm giác.",
+  "Khám chân khi hụt hơi mà không có bệnh phổi rõ: đo chu vi hai bắp chân (Geneva/Wells cộng điểm dấu DVT; ESC 2019 Bảng 5; AHA/ACC 2026 Bảng 3).",
+  "Ở người > 80 tuổi, tuổi tự cộng 1 điểm sPESI nên không còn là nguy cơ thấp để điều trị tại nhà (ESC 2019 Bảng 7); D-dimer kém đặc hiệu (khoảng 10%, mục 4.4.1).",
+  "Nơi không có siêu âm, CT: quyết định đúng là chuyển tuyến đúng lúc chứ không cố làm xét nghiệm rẻ. Xếp ưu tiên: cái nào đổi quyết định thì làm.",
+  "Ở lượt tái khám: xác nhận khỏi bằng lâm sàng; không chụp lại hình ảnh khi đã hết triệu chứng (AHA/ACC 2026 mục 6.1 KC 4); chọn xét nghiệm an toàn thuốc (creatinin, Hb) thay vì D-dimer.",
+  "Nghe vấn đề tiền thuốc: bàn thẳng với bà thay vì để bà tự ngưng; hỏi nhẹ nhàng gián đoạn thuốc. Rivaroxaban 20 mg uống cùng bữa ăn."
+ ],
+ "diem_nho": [
+  "Xác suất lâm sàng (ESC 2019 Bảng 5): Geneva giản lược 0–1 thấp, 2–4 trung gian, ≥ 5 cao; Wells (AHA/ACC 2026 Bảng 3): chuẩn < 2 thấp, 2–6 trung gian, > 6 cao; Wells cải tiến > 4 'PE likely'.",
+  "D-dimer chỉ dùng khi xác suất thấp hoặc trung gian (ESC 2019 mục 4.11, I A); xác suất cao thì không (III A). Ngưỡng theo tuổi: tuổi × 10 µg/L cho người > 50 tuổi (ESC IIa B; AHA/ACC 3.1.1 KC 2).",
+  "Chống đông chờ hình ảnh: ESC 2019 mục 4.11/6.7 (I C) khi xác suất cao hoặc trung gian; AHA/ACC 2026 mục 4.2.1 KC 4 (2a C-EO) khi nghi nhóm C2 trở lên và nguy cơ chảy máu thấp.",
+  "Phác đồ DOAC đầu: apixaban 10 mg × 2 trong 7 ngày hoặc rivaroxaban 15 mg × 2 trong 21 ngày (AHA/ACC 2026 mục 5.2); rivaroxaban 15 và 20 mg phải uống cùng bữa ăn (mục 5.2.1).",
+  "Thời gian chống đông: ≥ 3 tháng cho mọi người (ESC 2019 mục 8.4 I A); ngừng ở 3 tháng khi có yếu tố đảo ngược lớn (I B); kéo dài nên cân nhắc khi yếu tố nhẹ hoặc không rõ (IIa); giảm liều sau 6 tháng (rivaroxaban 10 mg, apixaban 2,5 mg × 2; IIa A). AHA/ACC 2026 mục 5.2 KC 1–3, 7, 8.",
+  "Tái khám ≤ 3 tháng, hỏi triệu chứng mọi lần ≥ 1 năm (AHA/ACC 2026 mục 5.1.1 KC 2–3); còn khó thở sau ≥ 3 tháng thì tìm CTEPD (mục 6.1 KC 1–2), hết triệu chứng thì không chụp lại (KC 4, COR 3)."
+ ],
+ "nguon": [
+  "TL-0089 · ESC/ERS 2019 – Acute pulmonary embolism – mục 3.3, 4.1, 4.2, 4.4, 4.4.1, 4.11, 5.4–5.5 (Bảng 7, 8), 6.2.2, 6.7, 7, 7.1.2.1, 8, 8.3, 8.4, 10.1; Bảng 3, 5, 11",
+  "TL-0045 · AHA/ACC và 8 hội 2026 – Acute PE (Circulation 2026;153:e977) – mục 3.1.1, 3.1.2, 3.2.1, 4.1.1, 4.2.1, 5.1.1, 5.2, 5.2.1, 6.1; Bảng 3, 9",
+  "TL-0107 · Rogers 2011 – ADD-RS – Hình 2 (ADD-RS 0 nguy cơ thấp)",
+  "TL-0069 · ESC 2023 ACS – Hình 5 (ECG trong 10 phút)",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – Viêm phổi cộng đồng – mục 3.1.1, 3.1.3",
+  "TL-0127 · QĐ 1851/QĐ-BYT 2020 – Hen phế quản – mục 2.2 (đo lưu lượng đỉnh)",
+  "TL-0280 · QĐ 2388/QĐ-BYT 2024 – Bệnh thận mạn – mục 7.7.2.1 (Cockcroft–Gault)",
+  "Không có hướng dẫn BYT riêng cho chẩn đoán–điều trị TTP (TL-0126, QĐ 3908/2023 chỉ về dự phòng, không dùng trong ca)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25: viết bản 1 theo sổ cái HH-1494. Hai lượt: lượt 1 chuyển tuyến chụp CT động mạch phổi; lượt 2 sau 3 tháng, hết triệu chứng, bàn thời gian chống đông.",
+  "Đã đọc: TL-0089 (ESC 2019) Bảng 3, 5, 7, 8, 11, mục 4.4, 4.11, 6.7, 7.1.2.1, 8.3–8.4; TL-0045 (AHA/ACC 2026) Bảng 3, 9, mục 3.1, 4.1.1, 4.2.1, 5.1–5.2, 6.1; TL-0107 (ADD-RS); TL-0069 (ESC 2023 ACS, Hình 5); TL-0121 (QĐ 2147, mục 3.1); TL-0127 (hen, mục 2.2); TL-0137 (GINA 2026, chỉ xem lướt người lớn tuổi).",
+  "Thiếu tài liệu: liều LMWH/fondaparinux; liều duy trì rivaroxaban 20 mg × 1 và apixaban 5 mg × 2 (Supplementary Table 8 của ESC không có trong bản chữ; chỉ có gián tiếp ở AHA/ACC mục 5.2); chỉnh liều rivaroxaban theo Clcr 30–49 ngoài chú thích CrCl 15–29; ảnh hưởng của naphazolin lên mạch/huyết áp; giá thuốc rivaroxaban và chi phí tự trả tại Việt Nam; hướng dẫn ngừng thuốc nhỏ mũi; điểm chảy máu cho người > 80 tuổi.",
+  "Mạch 104 l/p ở lượt 1 dùng AT-TIM-NHANH-01 (≈ 115 l/p) nên chữ ghi 'nhịp nhanh đều' không nêu số khác. Đặc điểm tiếng chỉ ở trường 'a'. Chỉ số phiếu bảng do Claude tự đặt cho khớp bệnh cảnh (Hb 121, MCV = Hct/RBC; eGFR CKD-EPI 2021 nữ 82 tuổi creatinin 82 µmol/L ≈ 62).",
+  "Hai mâu thuẫn nguồn đề xuất ghi vào sổ: chống đông trước khi có hình ảnh; thời gian chống đông khi chỉ có yếu tố nhẹ (xem HH-1494_mau_thuan.md)."
+ ]
+}

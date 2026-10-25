@@ -1,0 +1,643 @@
+{
+ "ma_ca": "HH-0579",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_viem_phe_quan_cap_tre_hoc_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phế quản cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi cộng đồng",
+   "Ho gà"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau dùng thực phẩm chức năng",
+  "thuoc_dang_dung": "Kháng sinh đã dùng 3 ngày",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng lo lắng",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quốc Huy",
+  "tuoi": 11,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 6",
+  "can_nang": 36,
+  "chieu_cao": 143,
+  "xung_ho": "Bé 11 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ'. Mẹ xưng 'em' với bác sĩ (bác sĩ gọi mẹ là 'chị'), gọi con là 'cháu' hoặc 'thằng Huy'.",
+  "tinh_cach": "Huy hiếu động, đá bóng cho đội lớp, ghét bị coi là ốm. Mẹ 38 tuổi, kế toán, hay lướt mạng đọc về bệnh của con, lo xa, nói nhanh, muốn 'chắc ăn'.",
+  "kieu_nhieu": "Huy phủ nhận triệu chứng nặng: hỏi cảm giác ('con có mệt, khó thở, đau ngực không?') thì đều trả lời 'không sao ạ'. Chỉ khi bác sĩ hỏi chức năng cụ thể (đêm thức mấy lần vì ho, ăn hết bao nhiêu bữa, chạy bao lâu thì ho, leo ba tầng lên lớp có phải dừng không) hoặc hỏi mẹ thì mới lộ mức độ thật.",
+  "nguoi_nha": "Mẹ bé, chị Lan, 38 tuổi, đi cùng. Mẹ kể bệnh sử; Huy chỉ trả lời ngắn khi bác sĩ hỏi thẳng.",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#e0b48c",
+   "toc": "#1b1511",
+   "kieuToc": "ngan",
+   "ao": "#3f6fa8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#e3b48c",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#b05a6e",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho 5 ngày, đã uống kháng sinh 3 ngày vẫn ho",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (tối thứ Sáu): kỹ thuật viên đã về, phòng khám không làm được xét nghiệm máu, X-quang và siêu âm; mẫu gửi đi chỉ có kết quả sáng hôm sau, không kịp cho quyết định tối nay. Còn dùng được: ống nghe, nhiệt kế, máy đo SpO₂, cân, lưu lượng đỉnh kế do điều dưỡng Linh làm. Bệnh viện huyện cách 12 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 11 tuổi, 36 kg, học sinh lớp 6, mẹ đưa đến lúc 19 giờ 30 tối thứ Sáu vì ho 5 ngày, đã tự cho uống amoxicillin 3 ngày. Sinh hiệu: nhiệt 37,4 °C, mạch 88 l/p, nhịp thở 22 l/p, SpO₂ 98%. Bé tỉnh, nói 'con không sao'.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Huy đã hết sốt từ ngày thứ 3, SpO₂ 98%, thở 22 l/p (dưới ngưỡng thở nhanh ≥ 30 l/p của trẻ > 5 tuổi), không rút lõm lồng ngực: chưa có tiêu chuẩn viêm phổi, càng không viêm phổi nặng cần nhập viện (QĐ 3312/2015, Viêm phổi do vi khuẩn ở trẻ em mục 1; WHO 2013 Bảng 7). Nằm viện đêm thứ Sáu kéo theo truyền dịch, kháng sinh tiêm dù WHO AWaRe 2022 (tr. 31) nói tránh kháng sinh trong viêm phế quản, chi phí và nghỉ học, nghỉ làm của mẹ tăng, còn nỗi sợ 'bệnh nặng' của chị Lan thì được củng cố thêm.",
+    "chuyen_tuyen": "Chuyển Huy lên bệnh viện huyện ngay tối nay chỉ để chụp phổi là quá tay: bé hết sốt, thở 22 l/p, SpO₂ 98%, phổi không ran ẩm, ran nổ; WHO 2013 (tr. 77) chỉ chụp X-quang cho viêm phổi nặng, không đáp ứng, có biến chứng hoặc chẩn đoán chưa rõ, AWaRe 2022 (tr. 31): hình ảnh thường không cần. X-quang trong viêm phế quản cấp bình thường hoặc chỉ dày thành phế quản (QĐ 4235/2012, Viêm phế quản cấp mục 2.1.2), nên chuyến đi đêm tốn kém, bé mệt thêm mà xử trí không đổi, và dễ mang về một đơn kháng sinh khác."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em ho năm ngày rồi, em cho uống kháng sinh ba ngày mà vẫn ho. Em đọc trên mạng nói ho thế này dễ thành viêm phổi, ho gà lắm. Bác sĩ khám kỹ giúp em nhé.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "Không đo",
+    "nhiet": "37,4",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho 5 ngày: hai ngày đầu sổ mũi, hắt hơi, sốt; từ ngày 3 ho nhiều lên, ban đầu ho khan, nay có đờm trắng. Mẹ đã tự cho uống kháng sinh 3 ngày mà bé vẫn ho.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến"
+    },
+    {
+     "id": "tinh_chat_ho",
+     "noi_dung": "Ho rải rác cả ngày, nhiều nhất lúc sáng sớm và nửa đêm, kèm rát sau xương ức. Không thành cơn ho dồn dập, không ho đến tím mặt, không nôn sau ho, không có tiếng hú khi hít vào. Giữa các cơn ho bé thở bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất ho (loại trừ ho gà)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt 38,2 °C ở ngày 1 và 2, tự hết từ ngày 3 không cần hạ sốt; hai ngày nay không sốt lại. Sáng nay mẹ đo 37,2 °C.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không khó thở lúc nghỉ, không thở khò khè, không đau ngực kiểu nhói khi hít sâu, không ho ra máu, không sụt cân, uống nước được, không li bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng (viêm phổi)"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Huy nói 'con không sao', nhưng mẹ kể: đêm thức dậy 2–3 lần vì ho, ăn chỉ được khoảng 3/4 phần cơm, nghỉ buổi tập bóng vì chạy một lúc là ho từng chặp; leo ba tầng lên lớp không phải dừng, không thở dốc, vẫn đi học đủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Huy phủ nhận khi hỏi cảm giác. Chỉ lộ khi bác sĩ hỏi chức năng cụ thể (đêm ho mấy lần, ăn bao nhiêu, chạy bao lâu thì ho, leo cầu thang) hoặc hỏi thẳng mẹ.",
+     "k": 1,
+     "y": "Mức độ thật của triệu chứng (câu hỏi chức năng)"
+    },
+    {
+     "id": "tiep_xuc_tiem_chung",
+     "noi_dung": "Lớp có 6–7 bạn ho, sổ mũi tuần này; không ai ho kéo dài trên 2 tuần, không ai bị ho gà hay lao, trong nhà không ai ho lâu. Sổ tiêm chủng đủ 3 mũi vắc xin phối hợp có thành phần ho gà và mũi nhắc lúc 18 tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc và tiêm chủng (ho gà, lao)"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Mẹ mua ở nhà thuốc không có đơn, cho Huy uống amoxicillin 500 mg × 3 lần/ngày trong 3 ngày (ngày bệnh 2–4); sáng nay chưa cho, còn 6 viên. Mẹ nghĩ 'sốt hết nhờ kháng sinh' và định cho uống nốt. Không dị ứng thuốc, không nôn, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (kháng sinh 3 ngày)"
+    },
+    {
+     "id": "thuc_pham_chuc_nang",
+     "noi_dung": "Trước kỳ kiểm tra giữa kỳ, mẹ cho Huy uống siro 'tăng đề kháng' (quảng cáo có kẽm, vitamin C, chiết xuất thảo dược) 3 ngày. Hai ngày sau bé sổ mũi rồi ho; mẹ nghĩ do siro này gây 'nóng' hoặc do không hiệu quả.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát (thực phẩm chức năng), chỉ trùng thời điểm"
+    },
+    {
+     "id": "noi_lo_that",
+     "noi_dung": "Đêm qua mẹ đọc trên mạng và nhóm phụ huynh: 'ho trên 5 ngày ở trẻ là viêm phổi hoặc ho gà, phải chụp phổi, đổi kháng sinh mạnh'. Mẹ lo nhất ho gà vì bé ho về đêm, và mong có thuốc mạnh hơn cùng một tấm phim.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ kể khi bác sĩ hỏi 'chị lo điều gì nhất', 'chị nghĩ cháu bị gì' hoặc 'chị đã đọc gì về bệnh này'.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám (lo lắng từ thông tin trên mạng)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không hen, không khò khè tái diễn, không dị ứng thuốc hay thức ăn, không bệnh tim phổi, phát triển bình thường. Bố hút thuốc lá, thường hút ngoài ban công; bố mẹ không ai bị hen.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, khói thuốc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, nói chuyện bình thường, da hồng, niêm mạc ẩm, không tím, không co kéo cơ hô hấp. Cân nặng 36 kg.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, nhầy trong chảy xuống thành sau họng, amidan không to, không xuất tiết, không giả mạc. Màng nhĩ hai bên bình thường. Niêm mạc mũi phù nhẹ.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không rút lõm lồng ngực. Rì rào phế nang rõ hai bên; đáy phổi phải có vài tiếng ran ngáy thoáng qua, giảm sau khi ho; không ran ẩm, ran nổ, không tiếng thở phế quản, không rì rào giảm khu trú, gõ trong.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Có tiếng ran ngáy, thoáng qua."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 bình thường, không âm thổi."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ vài hạch nhỏ, di động, không đau. Cổ không cứng.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 8,4 G/L · Neutrophil 52% · Hb 134 g/L · TC 285 G/L",
+     "bang": {
+      "wbc": 8.4,
+      "neu_pct": 52,
+      "neu": 4.37,
+      "lym_pct": 36,
+      "lym": 3.02,
+      "hgb": 134,
+      "plt": 285
+     },
+     "n": "Không cần: viêm phế quản cấp thường không cần xét nghiệm (WHO AWaRe 2022, tr. 31, 33). Phòng khám cũng không làm được ngoài giờ."
+    },
+    "crp": {
+     "v": "n",
+     "r": "5 mg/L",
+     "n": "Không cần: CRP, procalcitonin chỉ là chỗ 'một số chuyên gia' dùng khi chưa rõ, tốn kém và có thể dẫn tới kê đơn không đúng do độ nhạy, độ đặc hiệu hạn chế (AWaRe 2022, tr. 33). Ngưỡng CRP cho trẻ em: không có trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Phổi sáng, rốn phổi đậm nhẹ, thành phế quản dày, không đám mờ.",
+     "n": "Không cần ở viêm phế quản (AWaRe 2022, tr. 31; WHO 2013, tr. 77). Phòng khám không có X-quang."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Chưa cần: ho mới 5 ngày, không cơn ho dồn dập, nôn sau ho hay tiếng hú (ACCP 2006 khuyến cáo 5 chỉ nghĩ ho gà khi ho > 2 tuần kèm các dấu hiệu đó)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp do virus ở trẻ 11 tuổi, chưa biến chứng, ngày bệnh thứ 5",
+     "ok": 1,
+     "n": "Khởi phát bằng viêm long đường hô hấp trên, sau xuống phế quản: ho khan rồi có đờm trắng, rát sau xương ức, sốt nhẹ 2 ngày đầu rồi hết, phổi chỉ có ran ngáy thoáng qua (QĐ 4235/2012, Viêm phế quản cấp mục 2.1.1; AWaRe 2022, tr. 32–33: khởi phát < 2 tuần, ho > 5 ngày, thường không nhanh tim, nhanh thở)."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Ít nghĩ: ở trẻ > 5 tuổi viêm phổi là ho, sốt kèm thở nhanh ≥ 30 l/p, rút lõm lồng ngực hoặc phổi có ran ẩm nhỏ hạt, ran nổ, giảm thông khí khu trú (QĐ 3312/2015, Viêm phổi do vi khuẩn ở trẻ em mục 1). Huy không sốt, thở 22 l/p, không rút lõm, SpO₂ 98%, không ran ẩm, ran nổ; vẫn chơi và đi học. Phải loại bằng lâm sàng vì tối nay không có X-quang."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Ít nghĩ: ho mới 5 ngày (nghi ngờ khi ho > 2 tuần kèm cơn ho dồn dập, nôn sau ho hoặc tiếng hú: ACCP 2006 khuyến cáo 5; WHO 2013 mục 4.7.1), có sốt, không cơn ho nào ngừng thở hay tím, đã tiêm đủ 3 mũi và nhắc (TT 10/2024), không tiếp xúc ca ho kéo dài. Ho gà ở trẻ lớn có thể không hú nên nếu ho kéo dài phải nghĩ lại."
+    },
+    {
+     "t": "Hen hoặc ho do co thắt phế quản",
+     "n": "Ít nghĩ: chưa từng khò khè tái diễn, không khó thở thành cơn, không tiền sử dị ứng hay hen trong nhà; ran ngáy thoáng mất sau ho (WHO 2013 Bảng 6, tr. 78: hen có khò khè, ho đêm hoặc khi gắng sức, đáp ứng giãn phế quản). Ho khi chạy ở đây xảy ra trong đợt nhiễm virus: nhớ xét lại nếu ho kéo dài."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; ngưng amoxicillin đang uống, không uống nốt 6 viên còn lại; giải thích bệnh do virus, hết sốt không phải nhờ thuốc",
+     "v": "c",
+     "n": "AWaRe 2022 (tr. 31, 33): hầu hết do virus, kháng sinh không lợi ích đáng kể mà có tác dụng phụ; NICE NG120 1.1.9–1.1.10: kháng sinh chỉ rút ngắn ho khoảng nửa ngày, có thể gây tiêu chảy, buồn nôn; WHO 2013 mục 4.4: không kháng sinh. Hai văn bản BYT về viêm phế quản cấp (QĐ 4235/2012 mục 3; QĐ 708/2015 mục 4.1) viết cho người lớn; bài cho trẻ em: không có trong tài liệu đã tải. Cách ngừng giữa chừng một đợt kháng sinh tự mua: không có trong tài liệu đã tải, ca suy từ các khuyến cáo trên."
+    },
+    {
+     "t": "Ngưng siro thực phẩm chức năng 'tăng đề kháng'",
+     "v": "c",
+     "n": "Không có chỉ định; hiệu quả và an toàn của thực phẩm chức năng này: không có trong tài liệu đã tải. Ho bắt đầu sau khi uống siro chỉ là trùng thời điểm với một đợt viêm đường hô hấp do virus, không chứng minh được quan hệ nhân quả."
+    },
+    {
+     "t": "Điều trị hỗ trợ tại nhà: uống đủ nước, nghỉ ngơi, nước muối sinh lý nhỏ mũi, mật ong trước ngủ; tránh khói thuốc lá quanh bé",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4: dịu họng, giảm ho bằng thức uống ấm ngọt, đủ nước, không nhỏ mũi thuốc; NICE NG120 1.2.1: mật ong (> 1 tuổi) có lợi ích hạn chế; AWaRe 2022 (tr. 32) và QĐ 4235/2012 mục 4: khói thuốc là yếu tố nguy cơ, cần tránh. Liều mật ong: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol khi sốt ≥ 38,5 °C hoặc bé khó chịu (500 mg/lần, tối đa 4 lần/ngày)",
+     "v": "c",
+     "n": "AWaRe 2022 (tr. 31, 35): ≥ 30 kg paracetamol 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; trần thận trọng hơn 60 mg/kg/ngày (QĐ 708/2015, Viêm màng não mủ mục 4.2) ≈ 2 g/ngày cho 36 kg; ngưỡng hạ sốt 38,5 °C (QĐ 3312/2015, Viêm phổi do vi khuẩn mục 4, phần 2.2) hoặc ≥ 39 °C làm bé khó chịu (WHO 2013 mục 4.4). Hiện bé không sốt nên chỉ dặn khi cần. Ibuprofen 200–400 mg mỗi 6–8 giờ (AWaRe) chấm a."
+    },
+    {
+     "t": "Không kê thuốc ho, long đờm, giãn phế quản thường quy",
+     "v": "c",
+     "n": "NICE NG120 1.1.6–1.1.7: không kê giãn phế quản, corticoid, long đờm khi không có bệnh đường thở nền; WHO 2013 mục 4.4: không cho thuốc long đờm. AWaRe 2022 (tr. 31): giãn phế quản khi khò khè, long đờm hoặc giảm ho 'có thể cân nhắc' theo thực hành địa phương; QĐ 708/2015 mục 4.2: giãn phế quản khi nghe ran rít, ngáy. Hai cách đều chấp nhận được."
+    },
+    {
+     "t": "Quyết định tối nay bằng lâm sàng: không X-quang, không chuyển tuyến; đo lại SpO₂ và nhịp thở; hẹn tái khám",
+     "v": "c",
+     "n": "Không X-quang vì chẩn đoán đủ bằng lâm sàng (AWaRe 2022, tr. 31; WHO 2013, tr. 77); thở 22 l/p < 30 l/p, không rút lõm, SpO₂ 98% (QĐ 3312/2015 mục 1; WHO 2013 Bảng 7: chưa có dấu hiệu viêm phổi → chăm sóc tại nhà). Ngưỡng mạch, nhịp thở bình thường theo tuổi cho trẻ 11 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 5 ngày nếu chưa đỡ, đến ngay nếu thở nhanh hoặc khó thở, sốt lại, ho thành cơn nôn hoặc hú; mốc ho kéo dài: ngày 14 (WHO 2013) hoặc 3–4 tuần (NICE)",
+     "v": "c",
+     "n": "WHO 2013 Bảng 7 (tr. 81): không viêm phổi thì tái khám sau 5 ngày nếu không đỡ; ho > 14 ngày chuyển sang mục ho mạn; mục 4.4: ho ≥ 14 ngày nghĩ lao, hen, ho gà. NICE NG120 1.1.1, 1.1.5: ho cấp thường khỏi trong 3–4 tuần, cần khám lại nếu không đỡ sau 3–4 tuần, hoặc xấu đi nhanh. AWaRe 2022 (tr. 32–33): ho thường kéo dài 10–20 ngày, có thể lâu hơn. Các mốc đo những việc khác nhau, nên dặn cả hai."
+    },
+    {
+     "t": "Salbutamol hít khi nghe ran rít, ngáy",
+     "v": "a",
+     "n": "QĐ 708/2015 mục 4.2 và QĐ 4235/2012 mục 3 (người lớn); AWaRe 2022 (tr. 31) cân nhắc khi khò khè; NICE NG120 1.1.6 không kê khi không có hen. Liều cho trẻ 11 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển bệnh viện huyện tối nay để chụp phổi cho yên tâm",
+     "v": "a",
+     "n": "QĐ 708/2015 mục 2 cho chụp khi thở > 24 l/p hoặc ran ẩm, nổ (người lớn); AWaRe 2022 và WHO 2013 (tr. 77) không cần với viêm phế quản. Không gây hại nhưng tốn kém, không đổi xử trí."
+    },
+    {
+     "t": "Thuốc ho có codein hoặc atropin, cồn",
+     "v": "h",
+     "n": "WHO 2013 mục 4.4: 'có thể có hại'; ERS 2019 khuyến cáo 6a (ghi chú): codein không khuyến cáo, nhất là ở trẻ em, do biến thiên chuyển hóa CYP2D6."
+    },
+    {
+     "t": "Kê hoặc đổi sang kháng sinh khác (amoxicillin–clavulanat, macrolid) vì đã uống 3 ngày mà vẫn ho",
+     "v": "w",
+     "n": "Ho 10–20 ngày là bình thường (AWaRe 2022, tr. 32–33), không phải thất bại điều trị; không có chỉ định (NICE NG120 1.1.9). Macrolid chỉ là lựa chọn của viêm phổi ở trẻ > 5 tuổi (QĐ 3312/2015 mục 4, phần 1.2), mà Huy không có viêm phổi. NICE NG120 1.1.19 nhắc việc dùng kháng sinh trước đó có thể làm vi khuẩn kháng."
+    },
+    {
+     "t": "Corticoid uống, truyền dịch hoặc giữ lại phòng khám truyền kháng sinh",
+     "v": "w",
+     "n": "Không có chỉ định: NICE NG120 1.1.6 không kê corticoid; WHO 2013 mục 4.4 chỉ cần uống đủ nước. Tỉ lệ biến cố của truyền dịch ở trường hợp này: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp do virus, ngày bệnh 5, chưa biến chứng",
+     "Chưa có dấu hiệu viêm phổi (không sốt, thở 22 l/p, không rút lõm, SpO₂ 98%, phổi không ran ẩm, ran nổ)",
+     "Chưa nghĩ ho gà (ho mới 5 ngày, không cơn ho dồn dập, nôn sau ho hay tiếng hú, đã tiêm đủ)",
+     "Đã uống kháng sinh tự mua 3 ngày không có chỉ định; đang dùng thực phẩm chức năng không rõ lợi ích",
+     "Phơi nhiễm khói thuốc lá trong nhà"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (khởi phát, tính chất ho, sốt, dấu hiệu nặng, hỏi chức năng) → khám tổng trạng, họng tai mũi, phổi, tim → cận lâm sàng (tối nay không làm được, không cần) → chẩn đoán → xử trí.",
+     "Vì sao viêm phế quản cấp: khởi phát sổ mũi, hắt hơi, sốt nhẹ rồi ho, đờm trắng, rát sau xương ức, phổi chỉ có ran ngáy thoáng qua (QĐ 4235/2012 mục 2.1.1). Cơn ho kéo dài > 5 ngày, khởi phát < 2 tuần, không nhanh tim hay nhanh thở (AWaRe 2022, tr. 32–33). Đờm vàng, xanh không có nghĩa nhiễm khuẩn (AWaRe 2022, tr. 29, 32–33).",
+     "Vì sao hỏi chức năng: Huy trả lời 'không sao' với mọi câu hỏi cảm giác. Hỏi cụ thể mới biết đêm ho 2–3 lần, ăn 3/4 phần, chạy là ho; leo ba tầng không dừng, chơi và học được, nên đây là mức nhẹ đến vừa (tài liệu đã tải không có thang chức năng cho trẻ; câu hỏi do ca thiết kế).",
+     "Loại viêm phổi cộng đồng: ở trẻ > 5 tuổi cần ho, sốt cộng ít nhất một dấu: thở ≥ 30 l/p, rút lõm lồng ngực, ran ẩm nhỏ hạt, ran nổ hoặc giảm thông khí khu trú (QĐ 3312/2015 mục 1); viêm phổi nặng khi SpO₂ < 90%, không uống được, li bì (QĐ 3312 mục 1; WHO 2013 Bảng 7). Huy không có dấu nào. Nhịp thở 22 l/p thấp hơn ngưỡng ≥ 30 l/p; chỉ QĐ 3312 nêu ngưỡng cho trẻ > 5 tuổi, WHO 2013 chỉ nêu đến 5 tuổi.",
+     "Loại ho gà: nghĩ tới khi ho > 2 tuần cộng cơn ho dồn dập, nôn sau ho hoặc tiếng hú (ACCP 2006 khuyến cáo 5; WHO 2013 mục 4.7.1, Bảng 6 tr. 78–79: có cơn ho, nôn, hú, không sốt, chưa tiêm). Huy ho mới 5 ngày, có sốt, đã tiêm 3 mũi và nhắc lúc 18 tháng (TT 10/2024).",
+     "Hen: WHO 2013 Bảng 6 (tr. 78) gợi ý hen khi tái diễn khò khè, ho đêm hoặc khi gắng sức, đáp ứng giãn phế quản. Huy ho khi chạy và ban đêm nhưng trong đợt nhiễm virus, chưa từng khò khè: ghi nhớ để đánh giá lại nếu ho kéo dài.",
+     "Thông tin trên mạng: mẹ lo vì 'ho trên 5 ngày là viêm phổi hoặc ho gà'. Tài liệu nói ngược lại: ho 10–20 ngày vẫn bình thường, dấu hiệu chẩn viêm phổi nằm ở nhịp thở, rút lõm và phổi, không ở số ngày ho (AWaRe 2022, tr. 32–33; QĐ 3312 mục 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh và ngưng amoxicillin: viêm phế quản gần như luôn do virus, kháng sinh không lợi ích đáng kể (AWaRe 2022, tr. 31, 33), chỉ rút ngắn ho khoảng nửa ngày và có tác dụng phụ (NICE NG120 1.1.10). Huy hết sốt vì virus tự giới hạn, không phải nhờ thuốc; sốt hết từ ngày 3 là diễn tiến thường. QĐ 4235/2012 mục 3 (ho > 7 ngày) và QĐ 708/2015 mục 4.1 (cải thiện chậm, đờm mủ) viết cho người lớn; hướng dẫn riêng cho trẻ em của Bộ Y tế: không có trong tài liệu đã tải, nên ca dùng WHO và NICE (viết cho cả trẻ em).",
+     "Ngưng thực phẩm chức năng: không có chỉ định; ho không chứng minh do siro (tài liệu không nói gì về siro).",
+     "Chăm sóc hỗ trợ: uống đủ nước, nước muối sinh lý, mật ong, tránh khói thuốc (WHO 2013 mục 4.4; NICE NG120 1.2.1; AWaRe 2022 tr. 32). Hạ sốt chỉ khi khó chịu.",
+     "Thuốc ho, long đờm, giãn phế quản: không thường quy (NICE NG120 1.1.6–1.1.7; WHO 2013 mục 4.4); AWaRe 2022 (tr. 31) và QĐ 708/2015 mục 4.2 cho phép trong một số tình huống. Codein, atropin: tránh (WHO 2013; ERS 2019).",
+     "Không X-quang, không chuyển tuyến: không cần cho viêm phế quản (AWaRe 2022, tr. 31); ngoài giờ không làm được xét nghiệm nên quyết định bằng dấu hiệu lâm sàng, kèm hẹn tái khám có mốc và dặn dấu hiệu quay lại.",
+     "Hẹn lại: sau 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7), mốc ho ≥ 14 ngày (WHO 2013 mục 4.4) hoặc 3–4 tuần (NICE NG120 1.1.5); đến ngay khi nặng lên nhanh (NICE NG120 1.1.19; WHO 2013 mục 4.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (viên hoặc siro)",
+      "ham_luong": "500 mg/viên (hoặc dạng sẵn có)",
+      "lieu": "500 mg/lần (≈ 14 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt ≥ 38,5 °C hoặc bé khó chịu; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt; tối đa 4 lần/24 giờ (2 g/ngày ≈ 55 mg/kg)",
+      "ghi_chu": "AWaRe 2022 (tr. 31, 35): ≥ 30 kg 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; trần thận trọng ≤ 60 mg/kg/ngày (QĐ 708/2015, Viêm màng não mủ mục 4.2). Ibuprofen 200–400 mg mỗi 6–8 giờ (AWaRe) chấp nhận. Không cho aspirin."
+     },
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ hoặc xịt rửa mỗi bên mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi, nhầy chảy xuống họng",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "WHO 2013 mục 4.4 (làm sạch mũi); số lần mỗi ngày: không có trong tài liệu đã tải. Không kê kháng sinh, không thuốc ho."
+     }
+    ],
+    "dan_do": [
+     "Huy bị viêm phế quản do virus, không phải viêm phổi hay ho gà: không sốt, thở 22 l/p, không rút lõm, SpO₂ 98%, phổi không ran ẩm, ran nổ. Ho thường kéo dài 10–20 ngày, có thể lâu hơn và hay ho về đêm (AWaRe 2022, tr. 32, 34).",
+     "Ngưng amoxicillin (đừng uống nốt 6 viên) và ngưng siro 'tăng đề kháng'; đừng tự mua kháng sinh hay thuốc ho (NICE NG120 1.1.9; WHO 2013 mục 4.4).",
+     "Cho bé uống đủ nước, nghỉ ngơi, nhỏ nước muối sinh lý khi nghẹt mũi, uống thìa mật ong trước ngủ để dịu họng. Nhờ bố hút thuốc ngoài nhà, không trong phòng bé. Bé có thể đi học nếu khỏe; ho khi chạy là bình thường trong đợt bệnh, tạm bớt đá bóng mạnh (lời khuyên theo triệu chứng, không có trong tài liệu đã tải).",
+     "Paracetamol 500 mg chỉ khi sốt ≥ 38,5 °C hoặc khó chịu, cách nhau ít nhất 6 giờ, không quá 4 lần/ngày (AWaRe 2022; QĐ 3312/2015).",
+     "Đưa Huy đến ngay (kể cả ban đêm) nếu thở nhanh, thở dốc, rút lõm ngực, thở rít, sốt lại, ho thành cơn nôn hoặc hú, ho ra máu, không uống được, li bì (WHO 2013 mục 4.4, 4.7.1; QĐ 3312/2015 mục 1; NICE NG120 1.1.19).",
+     "Tái khám sau 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7). Nếu ho còn sau ngày thứ 14 thì phải khám lại để tìm nguyên nhân khác như hen, ho gà, lao (WHO 2013 mục 4.4); ho đến 3–4 tuần vẫn còn trong giới hạn thường gặp của NICE NG120 1.1.5."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày",
+   "tiep_don": "Tái khám tối thứ Năm tuần sau (ngày ho thứ 10). Mẹ đã ngưng kháng sinh và siro, làm theo dặn dò. Bé hết sốt, ho giảm nhưng chưa hết; mẹ lo vì 'ho hơn 10 ngày rồi'. Sinh hiệu: nhiệt 36,9 °C, mạch 80 l/p, nhịp thở 20 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Huy hết sốt, thở 20 l/p, SpO₂ 99%, ho giảm dần và phổi hết ran: ho 10 ngày nằm trong khoảng 10–20 ngày thường gặp của viêm phế quản (AWaRe 2022, tr. 32–33), chưa tới mốc 14 ngày của WHO 2013 (mục 4.4) hay 3–4 tuần của NICE NG120 (1.1.5). Chuyển lên bệnh viện huyện để chụp phổi, xét nghiệm gây mất thêm một buổi học và công làm của mẹ, X-quang trong viêm phế quản thường bình thường hoặc chỉ dày thành phế quản (QĐ 4235/2012 mục 2.1.2), còn lời giải thích ‘ho là bình thường’ đã không được nói rõ cho chị Lan.",
+    "nhap_vien": "Nhập viện cho Huy khi đã hết sốt, ăn uống được, SpO₂ 99%, thở 20 l/p và không có dấu hiệu viêm phổi là không có chỉ định: nhập viện dành cho viêm phổi nặng (SpO₂ < 90%, không uống được, li bì: WHO 2013 Bảng 7; QĐ 3312/2015 mục 1). Bé phải nằm viện, bị tiêm truyền kháng sinh không cần và nghỉ học cả tuần; theo AWaRe 2022 (tr. 31), kháng sinh cho viêm phế quản là điều cần tránh."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu hết sốt rồi, nhưng ho chưa dứt, đã hơn mười ngày. Mạng nói ho quá mười ngày là ho gà, em lo quá. Cháu thì cứ bảo con khỏi rồi.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ lần khám trước bé không sốt lại, ăn hết suất, đêm chỉ thức 1 lần vì ho (trước đó 2–3 lần), ho ban ngày thưa hơn, đờm trắng ít. Mẹ đã cho ngưng amoxicillin và siro, dùng nước muối, mật ong buổi tối, bố hút thuốc ngoài sân.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau lượt 1 (đỡ một phần)"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Huy nói 'con hết ho rồi'. Mẹ kể: sáng ngủ dậy còn ho vài chặp, và bé đã đi đá bóng lại 2 buổi nên chạy khoảng 5–10 phút lại ho từng chặp phải ngồi nghỉ; không khò khè, không thở dốc, đi học đủ, ăn ngủ gần như bình thường.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Huy phủ nhận. Chỉ lộ khi bác sĩ hỏi chức năng cụ thể (đêm ho mấy lần, chạy bao lâu thì ho, đã đá bóng lại chưa) hoặc hỏi mẹ.",
+     "k": 1,
+     "y": "Mức độ thật còn lại (hồi phục từng phần)"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không sốt lại, không khó thở, không khò khè, không đau ngực, không ho ra máu, không sụt cân, không ra mồ hôi đêm. Không cơn ho dồn dập, không nôn sau ho, không tiếng hú.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng, ho gà, lao"
+    },
+    {
+     "id": "tien_su_hen",
+     "noi_dung": "Chưa từng khò khè, khó thở thành cơn hay dùng thuốc xịt. Bố bị viêm mũi dị ứng, bé thỉnh thoảng hắt hơi buổi sáng nhưng không ngứa mắt, không chàm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử hen, dị ứng (đánh giá ho kéo dài)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Vài bạn trong lớp vẫn còn ho nhưng đã đỡ dần. Không tiếp xúc người ho kéo dài trên 2 tuần, người ho gà hay lao; trong nhà không ai ho.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiếp xúc"
+    },
+    {
+     "id": "siro_moi",
+     "noi_dung": "Ngày thứ 8 mẹ mua thêm một chai siro ho 'bổ phế' từ thảo dược ở hiệu thuốc, cho uống 2 ngày thấy 'cũng hơi đỡ', hỏi bác sĩ có nên dùng tiếp không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thuốc ho tự mua"
+    },
+    {
+     "id": "noi_lo_that",
+     "noi_dung": "Mẹ lo ho gà vì đọc trên mạng 'ho quá 10 ngày'; mẹ mong bác sĩ cho chụp phổi hoặc xét nghiệm để 'chắc chắn'. Nghe giải thích có mốc và dấu hiệu cụ thể mẹ yên tâm hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi chị lo điều gì hoặc đã đọc gì.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật (lo lắng do thông tin trên mạng)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, hoạt bát, da hồng, niêm mạc ẩm, không tím. Cân nặng 36 kg.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, không xuất tiết, nhầy trong ít. Màng nhĩ bình thường.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không rút lõm. Rì rào phế nang rõ hai bên, không ran ngáy, ran rít, ran ẩm hay ran nổ; sau gắng sức nhẹ (leo cầu thang 3 tầng tại phòng khám) bé ho vài tiếng, phổi vẫn không ran, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ nhỏ, di động, không đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "n",
+     "r": "Phổi sáng, không đám mờ.",
+     "n": "Không cần: đang hồi phục, hết sốt, phổi hết ran; chụp lại ở ngày 10 không đổi xử trí. Chụp khi ho kéo dài hoặc nặng lên (WHO 2013, tr. 77). Phòng khám không có X-quang."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Chưa cần: ho chưa quá 14 ngày, không cơn ho dồn dập, nôn hay hú (ACCP 2006 khuyến cáo 5). Sẽ làm nếu ho kéo dài kèm các dấu đó (ACCP 2006 khuyến cáo 6a)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "BC 7,6 G/L · Neutrophil 50% · Hb 135 g/L · TC 270 G/L",
+     "n": "Không cần; ngoài giờ cũng không làm được (AWaRe 2022, tr. 31)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp do virus, ngày bệnh thứ 10, đang hồi phục chậm (ho còn trong khoảng thường gặp)",
+     "ok": 1,
+     "n": "Hết sốt, ho giảm dần, phổi hết ran. Ho 10–20 ngày là thường gặp, có thể lâu hơn (AWaRe 2022, tr. 32–33); ho cấp thường khỏi trong 3–4 tuần (NICE NG120 1.1.1). Đây là hồi phục chậm bình thường, không phải thất bại điều trị."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Không: không sốt lại, thở 20 l/p < 30 l/p, không rút lõm, phổi không ran, SpO₂ 99% (QĐ 3312/2015 mục 1). Nhớ nghĩ lại nếu sốt lại hoặc nặng lên (NICE NG120 1.1.19)."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Chưa nghĩ: chưa quá 2 tuần, không cơn ho dồn dập, nôn sau ho hay tiếng hú, đã tiêm đủ (ACCP 2006 khuyến cáo 5; WHO 2013 mục 4.7.1). Nghĩ lại nếu ho kéo dài và có các dấu này."
+    },
+    {
+     "t": "Hen hoặc ho do tăng đáp ứng đường thở sau nhiễm",
+     "n": "Chưa đủ: chưa từng khò khè, phổi không ran rít sau gắng sức; ho khi chạy trong đợt hồi phục viêm phế quản. Bố có viêm mũi dị ứng là một gợi ý để đánh giá lại nếu ho kéo dài hoặc khò khè (WHO 2013 Bảng 6, tr. 78; Bảng 10, tr. 110)."
+    },
+    {
+     "t": "Lao phổi hoặc nguyên nhân khác của ho mạn",
+     "n": "Chưa: không sụt cân, sốt kéo dài hay tiếp xúc lao, ho mới 10 ngày; ho ≥ 14 ngày mới cần xét lao, hen, ho gà (WHO 2013 mục 4.4, Bảng 6 tr. 79, mục 4.7)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kháng sinh; giải thích đây là hồi phục chậm bình thường, đáp ứng một phần chưa phải thất bại",
+     "v": "c",
+     "n": "AWaRe 2022 (tr. 31–33): ho thường kéo dài 10–20 ngày, nên báo trước cho bệnh nhân/cha mẹ; NICE NG120 1.1.9–1.1.10, 1.1.12. QĐ 4235/2012 (ho > 7 ngày) và QĐ 708/2015 (cải thiện chậm) viết cho người lớn; bài cho trẻ em: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn hai mốc: ho còn sau ngày 14 thì khám lại tìm nguyên nhân khác; ho đến 3–4 tuần vẫn có thể bình thường, nếu không đỡ sau 3–4 tuần thì khám lại ngay",
+     "v": "c",
+     "n": "WHO 2013 (mục 4.4, Bảng 7 tr. 81; mục 4.7): ho ≥ 14 ngày xét lao, hen, ho gà; NICE NG120 1.1.5: tự khỏi trong 3–4 tuần, khám lại nếu không đỡ sau 3–4 tuần. Hai mốc đo những việc khác nhau (WHO để không bỏ sót lao, ho gà; NICE nói về thời gian ho cấp do virus), nên dặn cả hai."
+    },
+    {
+     "t": "Ngưng siro ho thảo dược mới mua HOẶC dùng tiếp vài ngày nếu mẹ muốn",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 và NICE NG120 1.1.7: không dùng thuốc long đờm; QĐ 4235/2012 (Bảng 1.1 'thuốc bổ phế dạng xi rô' cho ho do viêm phế quản cấp virus; mục 3 long đờm) và AWaRe 2022 (tr. 31): có thể cân nhắc theo thực hành địa phương. Không nguồn nào nói thuốc này gây hại; thành phần của siro: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục chăm sóc hỗ trợ: uống đủ nước, mật ong trước ngủ, tránh khói thuốc, cho bé bớt đá bóng mạnh đến khi hết ho",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4; NICE NG120 1.2.1 (mật ong > 1 tuổi); AWaRe 2022 (tr. 32). Giữ bớt vận động mạnh: không có trong tài liệu đã tải, lời khuyên theo triệu chứng."
+    },
+    {
+     "t": "Đưa mẹ đi chụp phổi hoặc xét nghiệm ho gà ngay cho yên tâm",
+     "v": "a",
+     "n": "Không cần ở thời điểm này (AWaRe 2022, tr. 31; ACCP 2006 khuyến cáo 5 chỉ khi ho > 2 tuần kèm dấu hiệu); không gây hại nhưng không đổi xử trí. Chụp khi ho kéo dài hoặc nặng thêm (WHO 2013 tr. 77)."
+    },
+    {
+     "t": "Kê kháng sinh vì ho đã hơn 7 ngày hoặc vì đỡ chậm",
+     "v": "w",
+     "n": "AWaRe 2022 (tr. 31): tránh kháng sinh, không lợi ích đáng kể; NICE NG120 1.1.9–1.1.10. Chỉ định theo QĐ 4235/2012 và QĐ 708/2015 là cho người lớn (khác đối tượng)."
+    },
+    {
+     "t": "Salbutamol hít hoặc corticoid uống/hít thường quy cho ho còn lại",
+     "v": "w",
+     "n": "Phổi không ran rít, ngáy, chưa có hen (NICE NG120 1.1.6: không kê khi không có bệnh đường thở nền; QĐ 708/2015 mục 4.2: giãn phế quản chỉ khi nghe ran rít, ngáy). Thử điều trị hen không thay cho chẩn đoán: không có trong tài liệu đã tải cho trẻ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp do virus, ngày bệnh 10, đang hồi phục chậm bình thường",
+     "Không có dấu hiệu viêm phổi",
+     "Chưa nghĩ ho gà; chưa đủ cơ sở hen, lao",
+     "Đã ngưng kháng sinh và thực phẩm chức năng, đang dùng thêm siro ho thảo dược tự mua"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (diễn tiến so với lần trước, hỏi chức năng, dấu hiệu nặng, tiền sử dị ứng hen, tiếp xúc) → khám phổi sau gắng sức nhẹ → cận lâm sàng (không cần, ngoài giờ không làm được) → chẩn đoán → xử trí.",
+     "Vì sao 'đỡ một phần' vẫn là bình thường: hết sốt, ăn ngủ gần như bình thường, đêm thức 1 lần thay vì 2–3 lần, ho ban ngày thưa; ho viêm phế quản thường 10–20 ngày và có thể lâu hơn (AWaRe 2022, tr. 32–33), thường khỏi trong 3–4 tuần (NICE NG120 1.1.1). Thất bại điều trị hay chẩn đoán sai mới đáng nghĩ khi sốt lại, nặng lên nhanh, thở nhanh hoặc rút lõm (NICE NG120 1.1.19; QĐ 3312 mục 1).",
+     "Vì sao hỏi chức năng: Huy nói 'con hết ho rồi' nhưng chạy 5–10 phút lại ho và phải nghỉ; nếu chỉ hỏi cảm giác sẽ cho rằng bé đã khỏi hẳn và quay lại đá bóng mạnh.",
+     "Vì sao chưa nghĩ ho gà, hen, lao: ho chưa quá 14 ngày, không cơn ho dồn dập, nôn hay hú, đã tiêm đủ (ACCP 2006 khuyến cáo 5; WHO 2013 mục 4.7.1); chưa từng khò khè, phổi không ran rít (WHO 2013 Bảng 6 tr. 78); không sụt cân, tiếp xúc lao (WHO 2013 Bảng 6 tr. 79). Các nguyên nhân này chỉ cần tìm khi ho còn sau ngày 14 (WHO 2013 mục 4.4, Bảng 7).",
+     "Nỗi lo từ thông tin trên mạng: 'quá 10 ngày là ho gà' trái với tài liệu: ho gà là ho kéo dài > 2 tuần kèm cơn ho đặc hiệu (ACCP 2006 khuyến cáo 5). Giải thích bằng dấu hiệu cụ thể của Huy giúp mẹ yên tâm hơn là một tấm phim."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh: ho kéo dài hơn 7 ngày hoặc đỡ chậm không phải chỉ định ở trẻ em (AWaRe 2022, tr. 31; NICE NG120 1.1.9–1.1.10). Hai văn bản BYT nêu chỉ định rộng hơn (QĐ 4235/2012 mục 3: ho > 7 ngày; QĐ 708/2015 mục 4.1: cải thiện chậm) đều viết cho người lớn; bài cho trẻ em: không có trong tài liệu đã tải.",
+     "Hai mốc tái khám: ngày 14 (WHO 2013) và 3–4 tuần (NICE NG120 1.1.5). Khác nhau vì WHO ưu tiên không bỏ sót lao, hen, ho gà ở tuyến đầu, NICE nói về thời gian ho cấp do virus. Dặn cả hai.",
+     "Siro ho thảo dược: không dùng (WHO 2013, NICE NG120 1.1.7) hoặc dùng tiếp vài ngày (QĐ 4235/2012 Bảng 1.1; AWaRe 2022). Không nguồn nào nói có hại.",
+     "Chụp phổi, xét nghiệm ho gà ngay: không cần; chụp khi ho kéo dài hoặc nặng lên (WHO 2013, tr. 77), xét nghiệm ho gà khi ho > 2 tuần kèm dấu đặc hiệu (ACCP 2006 khuyến cáo 5, 6a).",
+     "Không salbutamol, corticoid: phổi không ran rít; thử thuốc hen che khuất chẩn đoán (NICE NG120 1.1.6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (viên hoặc siro)",
+      "ham_luong": "500 mg/viên (hoặc dạng sẵn có)",
+      "lieu": "500 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt lại hoặc bé khó chịu; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Khi cần; tối đa 4 lần/24 giờ",
+      "ghi_chu": "Như lượt 1: AWaRe 2022 (tr. 31, 35), trần ≤ 60 mg/kg/ngày (QĐ 708/2015). Hiện không sốt nên không cần dùng thường xuyên. Không kê kháng sinh."
+     }
+    ],
+    "dan_do": [
+     "Huy đang hồi phục viêm phế quản đúng đường: hết sốt, ho thưa hơn. Ho thường kéo dài 10–20 ngày, có thể lâu hơn (AWaRe 2022, tr. 32–33), thường khỏi trong 3–4 tuần (NICE NG120 1.1.1); đây không phải ho gà và không cần kháng sinh.",
+     "Hai mốc khám lại: nếu sau ngày thứ 14 vẫn còn ho thì đưa bé khám để tìm hen, ho gà, lao (WHO 2013 mục 4.4); nếu đến 3–4 tuần vẫn không đỡ thì khám lại (NICE NG120 1.1.5).",
+     "Đưa bé đến ngay nếu sốt lại, thở nhanh hoặc khó thở, rút lõm ngực, ho thành cơn dồn dập nôn hoặc hú, ho ra máu, không ăn uống được, li bì (WHO 2013 mục 4.4, 4.7.1; QĐ 3312/2015 mục 1; NICE NG120 1.1.19).",
+     "Tiếp tục uống đủ nước, mật ong trước ngủ, nước muối khi nghẹt mũi; giữ khói thuốc ra khỏi nhà. Siro ho thảo dược có thể ngưng hoặc dùng vài ngày, không dùng thuốc ho có codein (WHO 2013; ERS 2019).",
+     "Cho bé đi học bình thường; bớt đá bóng mạnh đến khi hết ho vì chạy sẽ làm ho lại (lời khuyên theo triệu chứng, không có trong tài liệu đã tải).",
+     "Không cần chụp phổi hay xét nghiệm ở thời điểm này; chỉ làm khi ho kéo dài hoặc nặng lên (WHO 2013, tr. 77)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Huy ho thưa dần, hết đêm thức dậy vì ho sau ngày 14, hết hẳn vào khoảng ngày 21; không sốt lại, không cần kháng sinh hay chụp phổi. Mẹ yên tâm vì có hai mốc khám lại rõ ràng và danh sách dấu hiệu quay lại; bé đá bóng lại sau khi hết ho. Hồi phục chậm hơn dự kiến của mẹ nhưng nằm trong khoảng ho 10–20 ngày đến 3–4 tuần của viêm phế quản (AWaRe 2022, tr. 32–33; NICE NG120 1.1.1).",
+ "nhieu": [
+  "Huy phủ nhận triệu chứng nặng: 'con không sao' với mọi câu hỏi cảm giác, chỉ lộ mức độ thật khi hỏi chức năng (đêm ho mấy lần, ăn bao nhiêu, chạy bao lâu thì ho).",
+  "Mẹ lướt mạng, tin 'ho trên 5 ngày là viêm phổi hoặc ho gà', muốn kháng sinh mạnh hơn và chụp phổi; nỗi lo thật chỉ lộ khi được hỏi.",
+  "Kháng sinh tự mua 3 ngày và hết sốt đúng lúc làm mẹ tin thuốc có tác dụng; siro 'tăng đề kháng' tạo ấn tượng gây bệnh do trùng thời điểm."
+ ],
+ "bai_hoc_bien": [
+  "Với trẻ hay chối 'không sao', dùng câu hỏi chức năng (ngủ, ăn, chơi, chạy, leo cầu thang) và hỏi cha mẹ, không hỏi cảm giác.",
+  "Số ngày ho không phân biệt viêm phế quản với viêm phổi hay ho gà: dựa vào nhịp thở (≥ 30 l/p ở trẻ > 5 tuổi), rút lõm, SpO₂, ran ở phổi và cơn ho đặc hiệu (QĐ 3312/2015 mục 1; ACCP 2006 khuyến cáo 5).",
+  "Hết sốt sau khi uống kháng sinh chưa chứng minh kháng sinh có tác dụng; viêm phế quản do virus tự khỏi (AWaRe 2022, tr. 31, 33).",
+  "Ngoài giờ không có xét nghiệm và X-quang vẫn quyết định được bằng lâm sàng, kèm mốc tái khám và dấu hiệu quay lại.",
+  "Đỡ một phần ở ngày 10 là hồi phục chậm bình thường chứ không phải thất bại điều trị; dặn hai mốc ngày 14 (WHO 2013) và 3–4 tuần (NICE NG120)."
+ ],
+ "diem_nho": [
+  "Viêm phổi trẻ > 5 tuổi: ho, sốt kèm thở nhanh ≥ 30 l/p, rút lõm hoặc ran ẩm, ran nổ, giảm thông khí khu trú (QĐ 3312/2015 mục 1). Viêm phế quản: ho 10–20 ngày, thường không sốt, không nhanh tim hay nhanh thở (AWaRe 2022, tr. 32–33).",
+  "Ho gà: nghĩ khi ho > 2 tuần kèm cơn ho dồn dập, nôn sau ho hoặc tiếng hú (ACCP 2006 khuyến cáo 5; WHO 2013 mục 4.7.1); trẻ đã tiêm đủ vẫn có thể mắc.",
+  "Không kháng sinh cho viêm phế quản cấp ở trẻ em (AWaRe 2022, tr. 31; WHO 2013 mục 4.4; NICE NG120 1.1.9). Thuốc ho codein hoặc atropin: tránh (WHO 2013 mục 4.4).",
+  "Tái khám: 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7); ho ≥ 14 ngày xét hen, ho gà, lao (WHO 2013 mục 4.4); 3–4 tuần chưa đỡ khám lại (NICE NG120 1.1.5)."
+ ],
+ "nguon": [
+  "TL-0018 · WHO AWaRe Antibiotic Book 2022 – Bronchitis: tr. 29 (thông điệp chính), tr. 30–31 (bảng tóm tắt người lớn, trẻ em), tr. 32–34 (lâm sàng, xét nghiệm, hình ảnh), tr. 35 (Bảng 4.2 ibuprofen, paracetamol)",
+  "TL-0250 · WHO Pocket book of hospital care for children 2013 – mục 4.1 (tr. 76–77, Bảng 6 tr. 77–79, Bảng 7 tr. 81), mục 4.4 Cough or cold (tr. 90–91), mục 4.7 và Bảng 10 (tr. 109–110), mục 4.7.1 Pertussis (tr. 111–112)",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015 – Viêm phổi do vi khuẩn ở trẻ em: mục 1 (chẩn đoán, ngưỡng thở nhanh trẻ > 5 tuổi ≥ 30 l/p), mục 4 (kháng sinh, hạ sốt ≥ 38,5 °C)",
+  "NICE NG120 (2019, cập nhật 2025) – Cough (acute): antimicrobial prescribing: khuyến cáo 1.1.1, 1.1.5–1.1.10, 1.1.12, 1.1.19, 1.2.1–1.2.2 (kho cũ tltk-10000-ca)",
+  "TL-0160 · ACCP 2006 – Postinfectious cough, phần B Pertussis: khuyến cáo 5, 6a",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Viêm phế quản cấp (mục 2.1.1, 2.1.2, 2.2, 3, 4) và Bảng 1.1 Tóm tắt điều trị ho (người lớn)",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Viêm phế quản cấp ở người lớn (mục 2, 4.1, 4.2, 4.3) và Viêm màng não mủ mục 4.2 (trần paracetamol 60 mg/kg/ngày)",
+  "TL-0005 · TT 10/2024/TT-BYT – bảng ho gà: 3 mũi vắc xin phối hợp và nhắc lại khi trẻ đủ 18 tháng",
+  "TL-0154 · ERS 2019 – Chronic cough in adults and children: khuyến cáo 6a (ghi chú codein ở trẻ em)",
+  "Không có trong tài liệu đã tải: hướng dẫn viêm phế quản cấp riêng cho trẻ em của Bộ Y tế; ngưỡng mạch, nhịp thở bình thường cho trẻ 11 tuổi; liều mật ong, liều salbutamol cho trẻ 11 tuổi; số lần nhỏ nước muối mỗi ngày; thành phần và an toàn của thực phẩm chức năng; hướng dẫn riêng về ngưng kháng sinh tự mua giữa chừng"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25: soạn bản 1 theo đặc tả sổ cái HH-0579 (viêm phế quản cấp ở bé trai 11 tuổi, 2 lượt, đỡ một phần, phủ nhận triệu chứng nặng, ngoài giờ không có kỹ thuật viên, kháng sinh tự mua 3 ngày). Ngày bệnh lượt 1 là 5, lượt 2 là 10 (mốc tái khám 5 ngày theo WHO 2013 Bảng 7).",
+  "Đã tra sổ mâu thuẫn và theo các mục cũ: thuốc triệu chứng (HH-0671 số 3), trần paracetamol 60 mg/kg/ngày so với 4 g/ngày (NH-0199 mục 6, HH-0187), ngưỡng thở nhanh trẻ > 5 tuổi ≥ 30 l/p (QĐ 3312), mốc ho kéo dài 14 ngày so với 3–4 tuần (HH-0610), thuốc ho bổ phế dạng xi rô (HH-0650), thuốc ho codein và atropin (NH-0259), X-quang cho viêm phế quản (HH-0671 số 1).",
+  "Tài liệu đã đọc lại bằng rg trước khi ghi: AWaRe 2022 tr. 29–35; WHO Pocket book 2013 mục 4.1, 4.4, 4.7, 4.7.1; QĐ 3312/2015 mục 1, 4; NICE NG120 1.1–1.2; ACCP 2006 khuyến cáo 5, 6a; QĐ 4235/2012 và QĐ 708/2015 phần viêm phế quản cấp; TT 10/2024; ERS 2019 khuyến cáo 6a.",
+  "Hai văn bản BYT về viêm phế quản cấp (QĐ 4235/2012, QĐ 708/2015) viết cho người lớn và có chỉ định kháng sinh rộng hơn (ho > 7 ngày, cải thiện chậm); bài cho trẻ em: không có trong tài liệu đã tải. Ca xem là khác đối tượng nên không tách thành mâu thuẫn, kê kháng sinh chấm w; đã ghi cả hai trong n.",
+  "Số liệu phụ (công thức máu, CRP, kết quả X-quang giả định, tên nhân vật, ngày bệnh, sổ tiêm chủng) do người soạn thiết kế cho khớp bệnh cảnh. Không có ảnh da nên không có tệp media. Tim lượt 1 và lượt 2 dùng tệp tim bình thường, không ghi tần số trong chữ."
+ ]
+}

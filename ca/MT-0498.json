@@ -1,0 +1,761 @@
+{
+ "ma_ca": "MT-0498",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_rl_lipid_mau",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Không yên tâm với chẩn đoán trước",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Trịnh Thị Hạnh",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa nhỏ trước nhà (gạo, nước ngọt, bánh kẹo), ngồi quán từ 5 giờ sáng đến 8 giờ tối",
+  "can_nang": 49,
+  "chieu_cao": 150,
+  "xung_ho": "Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ'. Gọi cháu gái là 'cháu Thảo' hoặc 'con Thảo'.",
+  "tinh_cach": "Lo xa, tiết kiệm, tự lập, vẫn tự tính tiền nhẩm nhanh. Hơi nặng tai, phải nói to và chậm. Tin những gì cháu gái đọc trên điện thoại và lời bà bán cá bên cạnh. Sợ nhất là liệt nằm một chỗ làm khổ con cháu; không thích uống nhiều thuốc.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: cháu Thảo tra ra 'mỡ máu cao + mệt + ho = suy giáp' và 'thuốc mỡ máu hại gan, yếu cơ, lú lẫn ở người già'. Bà gần như chắc mình bị suy giáp, xin thử tuyến giáp và 'thuốc tuyến giáp', còn thuốc mỡ máu thì chưa dám uống. Bị bác bỏ thẳng thì bà im lặng, gật đầu, về không làm theo. Chỉ chịu nghe khi bác sĩ ghi nhận điều bà lo, làm đúng xét nghiệm bà xin, rồi chỉ vào kết quả của chính bà.",
+  "nguoi_nha": "Cháu gái Thảo, 22 tuổi, sinh viên, chở bà đi khám. Bà tự trả lời hầu hết câu hỏi về bản thân (nguoi_noi = benh_nhan); cháu chen vào khi kể chuyện bà tra mạng, ngày đi du lịch, hoặc khi bà không nghe rõ (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Cháu gái Thảo",
+  "ngoai_hinh": {
+   "da": "#d4a27c",
+   "toc": "#e8e8e8",
+   "kieuToc": "bui",
+   "ao": "#7a5c8a",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b08c",
+    "toc": "#1d1512",
+    "kieuToc": "dai",
+    "ao": "#4f8a8b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mỡ máu cao, mệt, ho nhẹ; sợ bị suy giáp, xin khám lại",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm (không siêu âm bụng, tim, tuyến giáp, Doppler). Không chụp CT, nội soi được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Trịnh Thị Hạnh, 78 tuổi, bán tạp hóa nhỏ trước nhà, cháu gái Thảo chở đến. Mệt, ăn kém và ho nhẹ từ khi đi du lịch về 5 ngày. Bà cầm tờ xét nghiệm mỡ máu cao làm cách đây 3 tuần ở một phòng khám tư và một hộp thuốc chưa mở, muốn hỏi lại có đúng không và có phải do tuyến giáp không. Sinh hiệu: HA 128/74 mmHg, mạch 78 l/p, cân nặng 49 kg, cao 150 cm (BMI 21,8).",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Hạnh bị cho nhập viện 'kiểm tra tổng quát' vì mỡ máu cao, ho và sụt 2 kg, dù không sốt, SpO2 96%, phổi sạch, huyết động ổn. Bà đóng tiệm mấy ngày mất thu nhập, cháu Thảo nghỉ học trông bà. Việc cần làm vẫn là việc ngoại trú: loại thứ phát, thảo luận chia sẻ quyết định về statin, lấy lại lipid sau 4–12 tuần (ACC/AHA 2026 mục 3.5 KC 1; mục 4.2.8.3 KC 1). Nỗi lo 'thuốc có hại người già không' vẫn chưa được trả lời.",
+    "chuyen_tuyen": "Bà Hạnh bị chuyển lên bệnh viện tỉnh khám nội tiết và tim mạch vì nghi suy giáp và nguy cơ đột quỵ, trong khi TSH làm ngay tại đây bình thường và bà không có triệu chứng tim mạch hay thần kinh. Bà 78 tuổi, nặng tai, phải đi xe đường dài, tốn chi phí và cả ngày bán hàng. Statin cường độ vừa sau thảo luận khởi trị được ngay ở tuyến này (ACC/AHA 2026 mục 4.2.8.3 KC 2); việc bắt đầu thuốc bị lùi lại."
+   },
+   "loi_mo": "Chào bác sĩ. Cháu Thảo nó tra điện thoại, nó nói mỡ máu cao mà mệt với ho là suy giáp đó. Bác sĩ thử tuyến giáp giùm tôi. Ông bác sĩ bên kia kê thuốc mỡ bắt uống suốt đời, tôi nghe nói thuốc đó hại người già lắm nên chưa dám uống. Từ hồi đi du lịch về tới giờ tôi mệt, ho, ăn không ngon.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "128/74",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, ăn không ngon và ho nhẹ 5 ngày, từ khi đi du lịch về. Bà cầm tờ xét nghiệm mỡ máu cao, hỏi có đúng là mỡ máu cao không, có phải do tuyến giáp không, và có thật phải uống thuốc mỡ suốt đời không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám; yếu tố khởi phát: đi du lịch về"
+    },
+    {
+     "id": "chuyen_di",
+     "noi_dung": "Đi du lịch Tây Nguyên 6 ngày cùng hội người cao tuổi, về cách đây 5 ngày; nơi đó đang có dịch sốt xuất huyết theo loa phát thanh. Bà bị muỗi đốt vài vết. Giữa chuyến đi tiêu chảy 2 ngày rồi tự hết, ăn uống thất thường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố khởi phát: đi vùng dịch"
+    },
+    {
+     "id": "ho_met",
+     "noi_dung": "Ho khan buổi sáng, ít đờm trắng, 5 ngày. Không sốt (tự đo hôm qua 36,8), không khó thở, không ho ra máu, không đau ngực, đau cơ khớp, nổi ban, chảy máu chân răng hay cam, tiểu ra máu. Mệt rã rời, ăn ít hơn. Cân ở tiệm trước chuyến đi 51 kg, nay 49 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ ở người ≥ 75 tuổi sau chuyến đi: sốt, khó thở, xuất huyết, sụt cân, ăn kém"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Tự mua siro ho long đờm ở tiệm thuốc đầu ngõ, uống 3 hôm, ho đỡ ít, không biết tên hoạt chất. Không dùng thuốc nào khác: không thuốc huyết áp, lợi tiểu, chẹn beta, corticoid, nội tiết tố, thuốc tuyến giáp, thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng; loại thuốc làm tăng lipid (QĐ 3879 mục II.2)"
+    },
+    {
+     "id": "xet_nghiem_truoc",
+     "noi_dung": "Ba tuần trước, hội người cao tuổi bắt khám trước chuyến đi, bà làm ở phòng khám tư gần chợ, sau nhịn ăn sáng: Cholesterol TP 7,1 · LDL-C 4,8 · HDL-C 1,5 · TG 1,7 mmol/L. Bác sĩ đó nói 'mỡ máu cao nhiều, tuổi này dễ đột quỵ, uống atorvastatin 20 mg suốt đời', kê 30 viên. Hộp còn nguyên, bà chưa uống viên nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả lipid lần trước (đủ 2 lần cách nhau 1–12 tuần); chẩn đoán và toa trước"
+    },
+    {
+     "id": "tra_mang",
+     "noi_dung": "Cháu Thảo tra điện thoại: bài nói mỡ máu cao kèm mệt, ho, 'lạnh người' là suy giáp; bài khác nói thuốc mỡ máu 'hại gan, yếu cơ, lú lẫn ở người già'. Bà bán cá bên cạnh kể người quen uống thuốc mỡ máu bị yếu liệt. Bà muốn thử tuyến giáp và xin thuốc tuyến giáp nếu 'đúng là suy giáp'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Chẩn đoán tự tra trên mạng; nỗi sợ thuốc"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Không sợ lạnh hơn người cùng tuổi, không táo bón, giọng không khàn, da không khô bất thường, không phù mặt, tim không chậm, không tăng cân (đang sụt). Chưa từng bệnh tuyến giáp, không xạ trị cổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi triệu chứng suy giáp để loại nguyên nhân thứ phát (QĐ 3879, Suy giáp mục IV.1)"
+    },
+    {
+     "id": "an_kieng",
+     "noi_dung": "Từ khi cầm tờ xét nghiệm, bà bỏ gần hết thịt và trứng, chỉ ăn cháo trắng, rau luộc, uống nước đậu 'cho mỡ xuống'; trước đó thích thịt kho mỡ, ăn 2 bữa cơm/ngày. Không rượu bia, không thuốc lá. Sáng đi bộ ra chợ 15 phút, còn lại ngồi bán hàng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ ăn, kiêng quá mức, sụt cân nhanh (Bảng 15 ACC/AHA 2026)"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực, không hụt hơi khi bê thùng nước ngọt hay leo cầu thang, không đau bắp chân khi đi chợ, chưa từng thoáng yếu tay chân, méo miệng, nói khó; chưa đột quỵ hay nhồi máu. Huyết áp đo ở trạm y tế 120–130/70–80, đường huyết năm ngoái bình thường. Gia đình không ai bệnh tim mạch hay mỡ máu rất cao khi còn trẻ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng bệnh tim mạch xơ vữa; yếu tố nguy cơ khác"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Tự đi lại, bán hàng, tính tiền, lo ăn uống; chưa té ngã; nhai được; đọc chữ nhỏ phải đeo kính lão. Ở với con trai và cháu Thảo, goá chồng 8 năm. Ngủ 5–6 tiếng, từ khi nhận tờ xét nghiệm thì lo nên ngủ kém. Bà muốn còn khỏe để bán hàng đỡ đần con cháu và thấy cháu ra trường; sợ nhất là liệt nằm một chỗ, không thích uống nhiều thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chức năng, hoàn cảnh sống, ưu tiên của bà: cơ sở quyết định statin ở ≥ 75 tuổi (ACC/AHA 2026 mục 4.2.8.3 KC 1)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: bác sĩ phòng khám tư nói 'mỡ cao nhiều, tuổi này dễ đột quỵ, uống thuốc suốt đời' làm bà mất ngủ mấy đêm; cộng chuyện người quen yếu liệt, bà sợ cả hai đường: không uống thì đột quỵ, uống thì hại người. Bà đến để có người thứ hai nói rõ bà có thật sự cần uống không.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: không yên tâm với chẩn đoán trước",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao bà đến khám lại khi đã có toa, bà nghĩ gì về toa thuốc, bà có lo gì về thuốc, hoặc hỏi hôm nay bà muốn được giải đáp điều gì. Nếu bác sĩ chỉ hỏi bệnh và khám mà không hỏi những điều đó, bà chỉ nhắc chuyện tuyến giáp."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi nặng tai nên nói to thì nghe rõ. Gầy vừa, BMI 21,8 (49 kg, cao 150 cm), vòng eo 78 cm. Niêm mạc hồng, môi lưỡi ẩm, da hơi khô theo tuổi, không phù mặt, không vàng da.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau, di động theo nhịp nuốt. Không ban vàng mi mắt. Cung giác mạc rõ hai mắt (ở người ≥ 50 tuổi ít giá trị chỉ điểm, QĐ 3879/2014 mục III.1.1). Lưỡi không to, hạch cổ không sờ thấy.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không u vàng gân gót, gân duỗi các ngón, khuỷu, gối; không ban vàng lòng bàn tay. Da ấm, khô nhẹ ở cẳng chân. Lông mày còn đủ, tóc không thưa.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p, không co kéo.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều hai bên, gõ trong; nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Mềm, không đau, gan lách không sờ thấy, không khối, không âm thổi động mạch chủ bụng.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch cảnh, quay, mu chân, chày sau bắt rõ, đều hai bên. Không âm thổi động mạch cảnh và động mạch đùi.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5. Đứng lên khỏi ghế 5 lần không vịn tay trong 12 giây (đạt: dưới 14 giây, ICOPE 2025 Bảng 3.1). Đi lại vững, không té.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú, nói rõ, không méo miệng. Phản xạ gân gót hai bên bình thường, thư giãn không chậm.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Lấy buổi sáng sau nhịn đói 10 giờ: Cholesterol TP 6,9 · LDL-C 4,6 · HDL-C 1,6 · TG 1,5 mmol/L (non-HDL-C 5,3 mmol/L). LDL-C 4,6 mmol/L tương đương khoảng 178 mg/dL.",
+     "ab": 1,
+     "n": "Đủ ngưỡng: TC > 5,2 và LDL-C > 2,58 mmol/L (QĐ 3879/2014 mục III.2). Lần đo thứ hai (lần trước 4,8, cách 3 tuần): cần ≥ 2 lần cách 1–12 tuần trước khi điều trị (ESC/EAS 2019 Bảng 13). Mẫu đói theo QĐ 3879; không đói cũng đủ (ACC/AHA 2026 mục 3.5). LDL-C dưới 190 mg/dL: chưa phải tăng cholesterol nặng (ACC/AHA 2026 mục 4.2.4.3)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,4 mIU/L · FT4 14 pmol/L (cả hai trong giới hạn của phòng xét nghiệm; TSH tham chiếu 0,4–4,0 mIU/L)",
+     "n": "Suy giáp là nguyên nhân thứ phát của tăng LDL-C (QĐ 3879 mục II.2; ACC/AHA 2026 Bảng 15); chẩn đoán dựa vào TSH tăng và hormon giảm (QĐ 3879 Suy giáp mục IV.3). Triệu chứng không nhạy, không đặc hiệu nên cần TSH (ATA 2014 thảo luận 1c)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "Glucose máu đói 5,2 mmol/L",
+     "n": "Đái tháo đường là nguyên nhân thứ phát (QĐ 3879 mục II.2; ACC/AHA 2026 Bảng 15): không có."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,4 mmol/L · Creatinin 78 µmol/L · eGFR 67 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.4,
+      "creat": 78,
+      "egfr": 67
+     },
+     "n": "Bệnh thận mạn là nguyên nhân thứ phát (ACC/AHA 2026 Bảng 15; QĐ 3879 mục II.2): không có. Atorvastatin thải qua thận < 2% nên không chỉnh liều (ACC/AHA 2026 Bảng 7)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 24 · ALT 19 U/L",
+     "n": "ALT nền trước statin (ESC/EAS 2019 Bảng 13); bệnh gan tắc mật là nguyên nhân thứ phát (ACC/AHA 2026 Bảng 15). Bình thường."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Que nước tiểu: không protein, không glucose, không hồng cầu, bạch cầu và nitrit âm tính.",
+     "bang": {
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ery": "Âm tính",
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính"
+     },
+     "n": "Loại hội chứng thận hư (QĐ 3879 mục II.2)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Bóng tim không to, hai phổi sáng đều, không thâm nhiễm, góc sườn hoành nhọn.",
+     "n": "CHEST 2020 KC 1: không chụp thường quy khi nghi viêm phế quản cấp; QĐ 708/2015 (Viêm phế quản cấp ở người lớn, mục 2): chụp khi tuổi > 75. Hai nguồn khác đối tượng; chụp hay không đều chấp nhận khi sinh hiệu và khám phổi bình thường."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm. Khám bụng bình thường; gan nhiễm mỡ liên quan chủ yếu tăng TG (QĐ 3879 mục III.1.2), TG của bà 1,5 mmol/L."
+    },
+    "sa_giap": {
+     "n": "Cơ sở không có siêu âm. Tuyến giáp không to, không nhân, TSH và FT4 bình thường: không cần."
+    },
+    "ct_mach_vanh": {
+     "n": "Cơ sở không có CT. Điểm vôi hóa chỉ cân nhắc khi chưa quyết định được có dùng statin ở > 75 tuổi (ACC/AHA 2026 mục 4.2.8.3 KC 4, COR 2b); ở đây quyết định dựa trên thảo luận."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu tăng LDL-C (TC 6,9; LDL-C 4,6; HDL-C 1,6; TG 1,5 mmol/L), nghĩ nguyên phát, người 78 tuổi chưa có bệnh tim mạch xơ vữa (phòng ngừa tiên phát)",
+     "ok": 1,
+     "n": "TC > 5,2 và LDL-C > 2,58 mmol/L, hai lần đo cách 3 tuần (4,8 rồi 4,6) (QĐ 3879/2014 mục III.2; ESC/EAS 2019 Bảng 13). Không triệu chứng hay dấu hiệu bệnh mạch. LDL-C dưới 190 mg/dL, không u vàng gân, gia đình không bệnh tim mạch sớm: chưa nghĩ tăng cholesterol gia đình (ACC/AHA 2026 mục 4.2.4.3)."
+    },
+    {
+     "t": "Yếu tố góp phần làm tăng LDL-C trong tháng qua: sụt cân nhanh 2 kg, đổi khẩu phần",
+     "ok": 1,
+     "n": "Sụt cân nhanh là nguyên nhân sinh lý tăng LDL-C (ACC/AHA 2026 Bảng 15); không giải thích hết vì LDL-C đã 4,8 trước khi sụt cân."
+    },
+    {
+     "t": "Sụt 2 kg và ăn kém sau chuyến đi, kiêng khem quá mức (cờ đỏ ở người ≥ 75 tuổi, hiện nhẹ)",
+     "ok": 1,
+     "n": "Ăn kém là dấu cần đánh giá nguy cơ suy dinh dưỡng (ICOPE 2025 Bảng 3.1, mục 7.4.2); nguyên nhân rõ (tiêu chảy, ăn uống thất thường, bỏ thịt trứng). Không sốt, hạch, khối bụng nên theo dõi cân."
+    },
+    {
+     "t": "Viêm đường hô hấp trên nhẹ sau chuyến đi, không viêm phổi",
+     "ok": 1,
+     "n": "Ho 5 ngày, không sốt, SpO2 96%, nhịp thở 18, phổi sạch (CHEST 2020 KC 1–3)."
+    },
+    {
+     "t": "RL lipid thứ phát do suy giáp",
+     "n": "Loại: không sợ lạnh, táo bón, khàn giọng; mạch 78; tuyến giáp không to; phản xạ gót thư giãn bình thường; TSH 2,4 và FT4 14 trong giới hạn (QĐ 3879 Suy giáp mục IV.1–IV.3; ATA 2014 thảo luận 1c)."
+    },
+    {
+     "t": "RL lipid thứ phát khác: đái tháo đường, bệnh thận, hội chứng thận hư, bệnh gan, thuốc",
+     "n": "Glucose đói 5,2 mmol/L, eGFR 67, nước tiểu không protein, AST/ALT bình thường, không dùng thiazid, corticoid, estrogen, chẹn beta (QĐ 3879 mục II.2; ACC/AHA 2026 Bảng 15)."
+    },
+    {
+     "t": "Bệnh tim mạch xơ vữa có triệu chứng (đau thắt ngực, đi cách hồi, thiếu máu não thoáng qua)",
+     "n": "Không đau ngực, hụt hơi gắng sức, đau bắp chân; mạch ngoại biên đều. Nếu có thì là phòng ngừa thứ phát, mục tiêu khác hẳn (ACC/AHA 2026 mục 4.2.6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nghe và ghi nhận hai nỗi lo của bà (nghi suy giáp; sợ thuốc mỡ máu hại người già), không bác bỏ; kiểm tra tuyến giáp ngay hôm nay và cùng bà quyết định về thuốc",
+     "v": "c",
+     "n": "ESC/EAS 2019 mục 13, Box 10 (khám phá động cơ, lôi kéo người thân); ACC/AHA 2026 mục 4.2.8.3 KC 1 (dựa trên ưu tiên người bệnh). Suy giáp đúng là nguyên nhân thứ phát phải loại (QĐ 3879 mục II.2): bà có lý một phần."
+    },
+    {
+     "t": "Hỏi cờ đỏ sau chuyến đi (sốt, khó thở, ho ra máu, xuất huyết, sụt cân, ăn kém), đo SpO2, khám phổi",
+     "v": "c",
+     "n": "ICOPE 2025 Bảng 3.1: sụt trên 3 kg trong 3 tháng hoặc mất ngon miệng thì đánh giá sâu. CHEST 2020 KC 1–2: ho nhẹ không sốt, không ran thì không điều tra thường quy, khám lại nếu kéo dài hoặc nặng thêm."
+    },
+    {
+     "t": "Cho TSH và FT4",
+     "v": "c",
+     "n": "Loại suy giáp trước khi gán nhãn nguyên phát (ACC/AHA 2026 Bảng 15; QĐ 3879 Suy giáp mục IV.3). Làm đúng xét nghiệm bà xin giúp bà tin kết quả."
+    },
+    {
+     "t": "Lấy lại bộ mỡ máu (lần 2) cùng glucose đói, creatinin–eGFR, AST/ALT, nước tiểu",
+     "v": "c",
+     "n": "Hai lần đo cách 1–12 tuần trước khi điều trị, ALT nền (ESC/EAS 2019 Bảng 13); loại thứ phát (QĐ 3879 mục II.2; ACC/AHA 2026 Bảng 15)."
+    },
+    {
+     "t": "Khởi atorvastatin 10 mg/ngày (cường độ vừa) sau thảo luận lợi ích–nguy cơ; hoặc chỉ đổi lối sống 2–3 tháng rồi mới dùng thuốc nếu sau thảo luận bà muốn thử lối sống trước",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.8.3 KC 2 (COR 2b): > 75 tuổi, kỳ vọng sống ≥ 2,5 năm, có thể khởi statin cường độ vừa sau thảo luận; Bảng 6: atorvastatin 10 (20) mg. ESC/EAS 2019 mục 9.3.1, 14 điểm 10: ít chắc chắn ở > 75 tuổi dự phòng tiên phát, khởi liều thấp. QĐ 3879/2014 mục IV.1, IV.4: lối sống 2–3 tháng rồi atorvastatin 10–20 mg. Khác nhau vì năm ban hành và đối tượng; không khởi thuốc cũng hợp lý khi phù hợp ưu tiên người bệnh (ACC/AHA 2026 mục 4.2.8.3 giải thích 1)."
+    },
+    {
+     "t": "Statin cường độ cao (atorvastatin 40–80 mg, rosuvastatin 20–40 mg) ngay từ đầu",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.8.3 KC 2 chỉ nêu cường độ vừa ở > 75 tuổi; liều cao tăng nguy cơ đau cơ, mà nữ, ≥ 65 tuổi, BMI thấp đều là yếu tố nguy cơ (Bảng 24). Không nguồn nào nói gây hại rõ nên w, không phải h."
+    },
+    {
+     "t": "Khởi ezetimibe, kháng thể PCSK9 hoặc bempedoic acid trước khi dùng statin",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.3.7 KC 9–10: chỉ thêm khi đã dùng statin liều tối đa dung nạp mà chưa đạt, ở người nguy cơ cao."
+    },
+    {
+     "t": "Cho levothyroxine hoặc thuốc tuyến giáp theo yêu cầu của bà",
+     "v": "w",
+     "n": "TSH bình thường. ATA 2014 khuyến cáo 10a (mạnh): không dùng levothyroxine khi triệu chứng không đặc hiệu mà xét nghiệm tuyến giáp bình thường."
+    },
+    {
+     "t": "Mục tiêu giảm LDL-C ít nhất 30% so với 4,6 mmol/L (về khoảng 3,2 mmol/L hoặc thấp hơn)",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.3.7, phần giải thích: khi đã quyết định dùng statin, giảm LDL-C ≥ 30%. Tài liệu đã tải không nêu mục tiêu LDL-C tuyệt đối riêng cho > 75 tuổi dự phòng tiên phát (bảng mục tiêu ESC/EAS 2019 là hình ảnh)."
+    },
+    {
+     "t": "Ăn đủ 3 bữa, đủ đạm, thêm rau quả, ngũ cốc nguyên hạt, đổi mỡ động vật sang dầu thực vật; không nhịn ăn, không kiêng sạch thịt trứng; cân mỗi tuần",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.1.2.1 KC 1 (COR 1, B-R): nhiều rau quả, hạt, đậu, ngũ cốc nguyên hạt, thay mỡ bão hòa bằng mỡ không bão hòa; QĐ 3879 mục IV.3. ICOPE 2025 mục 7.1, 7.4.2: người cao tuổi ăn đủ, nhiều bữa nhỏ, giàu đạm, theo dõi cân."
+    },
+    {
+     "t": "Vận động vừa sức: đi bộ tăng dần tới 150 phút/tuần kèm 2 ngày tập sức bền nhẹ",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.1.4 KC 1 (COR 1, B-R): ≥ 150 phút/tuần vận động vừa-mạnh và kháng lực 2 ngày/tuần; QĐ 3879 mục IV.2: 30–45 phút/ngày, 5 ngày/tuần, tùy sức khỏe."
+    },
+    {
+     "t": "Hẹn tái khám sau 8 tuần: lấy lại bộ mỡ máu, hỏi cách uống thuốc và tác dụng không mong muốn; ALT một lần sau 8–12 tuần là tùy chọn",
+     "v": "c",
+     "n": "Lipid 4–12 tuần sau khởi, rồi mỗi 6–12 tháng (ACC/AHA 2026 mục 3.5 KC 1); 8 ± 4 tuần (ESC/EAS 2019 Bảng 13). ALT 8–12 tuần (ESC/EAS 2019 Bảng 13) hay không đo định kỳ (ACC/AHA 2026 mục 5.1): đều chấp nhận (sổ mâu thuẫn, ca MT-0421)."
+    },
+    {
+     "t": "Ho: không kháng sinh; ngưng siro long đờm khi hết đờm; dặn đến ngay khi sốt, khó thở, ho ra máu, đau ngực, yếu liệt, méo miệng, nói khó, hoặc đau cơ dữ dội kèm nước tiểu sẫm",
+     "v": "c",
+     "n": "CHEST 2020 KC 2–3: không kê thường quy kháng sinh, thuốc ho; khám lại nếu ho kéo dài hoặc nặng thêm. Đau cơ nặng, yếu cơ thì đo CK (ACC/AHA 2026 mục 4.2.11 KC 1)."
+    },
+    {
+     "t": "Thuốc bảo vệ gan kèm statin; đo Lp(a) hoặc CK nền",
+     "v": "a",
+     "n": "Sổ mâu thuẫn ca MT-0425 mục 4–5: QĐ 3879 mục IV.4 khuyên thuốc bảo vệ gan, ESC/EAS 2019 mục 8.1.4.2 và ACC/AHA 2026 không nêu. Lp(a): ACC/AHA 2026 mục 3.4 KC 1."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu tăng LDL-C (TC 6,9; LDL-C 4,6; HDL-C 1,6; TG 1,5 mmol/L), nghĩ nguyên phát, hai lần đo cách 3 tuần (4,8 rồi 4,6)",
+     "Phòng ngừa tiên phát ở người 78 tuổi, chưa bệnh tim mạch xơ vữa; LDL-C khoảng 178 mg/dL, dưới 190 mg/dL",
+     "Đã loại suy giáp (TSH 2,4 mIU/L), đái tháo đường, bệnh thận, hội chứng thận hư, bệnh gan, thuốc",
+     "Sụt 2 kg, ăn kém do tiêu chảy, ăn uống thất thường và kiêng quá mức (cờ đỏ ≥ 75 tuổi, theo dõi cân)",
+     "Viêm đường hô hấp trên nhẹ; không viêm phổi, không dấu hiệu sốt xuất huyết",
+     "Lý do thật: không yên tâm với chẩn đoán và toa của phòng khám trước, sợ thuốc mỡ máu"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: mỡ máu cao không có triệu chứng đặc trưng (QĐ 3879/2014 mục III.1); bà đến vì mệt, ho và nỗi sợ. Cần hỏi: cờ đỏ sau chuyến đi và sụt cân; triệu chứng tim mạch; triệu chứng suy giáp và thuốc; chế độ ăn thật; chức năng và điều bà ưu tiên, vì ở > 75 tuổi quyết định dùng statin dựa trên ưu tiên, chức năng, kỳ vọng sống chứ không chỉ tuổi (ACC/AHA 2026 mục 4.2.8.3 KC 1). Lý do thật chỉ lộ khi hỏi bà nghĩ gì về toa thuốc.",
+     "Khám và xét nghiệm: tuyến giáp, phản xạ gót, mạch ngoại biên, phổi đều bình thường; TC 6,9 > 5,2 và LDL-C 4,6 > 2,58 mmol/L (QĐ 3879 mục III.2), hai lần đo cách 3 tuần (ESC/EAS 2019 Bảng 13). Không có siêu âm: khám lâm sàng và TSH đủ để loại suy giáp; CT điểm vôi hóa mạch vành cũng không có và không bắt buộc (ACC/AHA 2026 mục 4.2.8.3 KC 4).",
+     "Loại trừ thứ phát (yêu cầu của ca): suy giáp, đái tháo đường, bệnh thận, hội chứng thận hư, bệnh gan tắc mật, thuốc (QĐ 3879 mục II.2; ACC/AHA 2026 Bảng 15). TSH 2,4 mIU/L (tham chiếu 0,4–4,0, ATA 2014) loại suy giáp. Bà tra mạng đúng một phần: suy giáp quả là nguyên nhân cần loại; nhưng mệt, ho, ăn kém của bà có nguyên nhân khác, và nhiều triệu chứng suy giáp không nhạy, không đặc hiệu (ATA 2014 thảo luận 1c). Sụt cân nhanh cũng làm tăng LDL-C (Bảng 15) nên lấy lại lipid khi cân ổn định.",
+     "Cờ đỏ dễ lướt: mệt, ho, ăn kém sau vùng dịch ở người 78 tuổi dễ kéo sang tìm sốt xuất huyết hay viêm phổi; hỏi và khám cho thấy không sốt, không xuất huyết, phổi sạch. Sụt cân, ăn kém cần theo dõi (ICOPE 2025 Bảng 3.1); nguyên nhân rõ nên theo dõi cân.",
+     "Khởi statin: ACC/AHA 2026 mục 4.2.8.3 KC 2 (COR 2b): > 75 tuổi, kỳ vọng sống ≥ 2,5 năm, có thể khởi statin cường độ vừa sau thảo luận; ở người 50–75 tuổi cần điều trị 100 người trong 2,5 năm để ngăn 1 biến cố tim mạch chính, chưa có số liệu cho > 75. ESC/EAS 2019 mục 9.3 và mục 14 điểm 10: cân nhắc theo nguy cơ và LDL-C nền, khởi liều thấp. QĐ 3879 mục IV.4: lối sống 2–3 tháng trước, atorvastatin 10–20 mg. Ghi cả hai cách (khởi sau thảo luận hoặc lối sống trước). Công cụ PREVENT, SCORE2-OP không có trong tài liệu đã tải.",
+     "Ghi chú áp dụng (≥ 75 tuổi): chỉ 8% người trong thử nghiệm statin dự phòng tiên phát từ 75 tuổi trở lên; lợi ích tương đối có thể thấp hơn, chưa chứng minh giảm tử vong chung (ACC/AHA 2026 mục 4.2.8.3 giải thích 2; ESC/EAS 2019 mục 9.3.1). Đáp án là thảo luận chia sẻ quyết định, không phải 'uống suốt đời' như phòng khám trước nói, cũng không phải 'không cần uống'. Lý do thật: bà muốn người thứ hai nói rõ có cần uống không. Ghi nhận cả hai nỗi sợ, chỉ kết quả TSH của chính bà, nói điều tài liệu ghi: đau cơ với CK bình thường thường gặp và phụ thuộc liều, viêm cơ và tiêu cơ vân hiếm, men gan trên 3 lần giới hạn trên hiếm, giảm nhận thức hiếm, nhẹ, hồi phục khi ngưng, không thấy trong thử nghiệm tiến cứu (ACC/AHA 2026 Bảng 25)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: về nhà, hẹn tái khám; không nhập viện hay chuyển tuyến (sinh hiệu ổn, không dấu hiệu nặng, mọi việc làm được ngoại trú).",
+     "Thuốc: atorvastatin 10 mg × 1 lần/ngày, cường độ vừa (ACC/AHA 2026 Bảng 6), trong khoảng 10–20 mg của QĐ 3879 mục IV.4.1; giờ nào cũng được vì bán thải dài (ACC/AHA 2026 Bảng 5). Mục tiêu giảm LDL-C ≥ 30% (mục 4.2.3.7). Lối sống 2–3 tháng rồi mới dùng thuốc (QĐ 3879 mục IV.4) nếu bà muốn thử trước: chấm a.",
+     "Không dùng: statin liều cao (Bảng 24); thuốc tuyến giáp khi TSH bình thường (ATA 2014 khuyến cáo 10a); ezetimibe hay PCSK9 khi chưa dùng statin (ACC/AHA 2026 mục 4.2.3.7 KC 9–10); kháng sinh cho ho không sốt (CHEST 2020 KC 3).",
+     "Ăn uống: bà kiêng quá mức. Hướng thực vật, thay mỡ bão hòa bằng mỡ không bão hòa (ACC/AHA 2026 mục 4.1.2.1 KC 1) nhưng đủ đạm, đủ bữa (ICOPE 2025 mục 7.1, 7.4.2).",
+     "Theo dõi: lipid 4–12 tuần sau khởi (ACC/AHA 2026 mục 3.5 KC 1), hẹn 8 tuần (ESC/EAS 2019 Bảng 13). CK, ALT không thường quy khi không triệu chứng (ACC/AHA 2026 mục 4.2.11, 5.1); ESC/EAS 2019 Bảng 13 có ALT một lần 8–12 tuần, đo cũng được. Lipid lúc đói (QĐ 3879 mục III.2) hay không đói (ACC/AHA 2026 mục 3.5): đều đúng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi tối, sau bữa tối hoặc khi đóng tiệm",
+      "so_ngay": "56 ngày (56 viên) rồi lấy lại lipid; dùng lâu dài nếu bà đồng ý",
+      "ghi_chu": "Cường độ vừa (ACC/AHA 2026 Bảng 6; mục 4.2.8.3 KC 2); trong khoảng 10–20 mg (QĐ 3879/2014 mục IV.4.1). Giờ nào cũng được (ACC/AHA 2026 Bảng 5). Đau cơ gốc chi hoặc nước tiểu sẫm thì đến khám (ACC/AHA 2026 mục 4.2.11)."
+     },
+     {
+      "thuoc": "Siro ho long đờm đang dùng",
+      "ham_luong": "Bà tự mua, không rõ hoạt chất",
+      "lieu": "Giữ liều trên nhãn hoặc ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Khi ho có đờm",
+      "so_ngay": "Ngưng khi hết đờm",
+      "ghi_chu": "Đang dùng, không đổi. CHEST 2020 KC 3: không kê thường quy thuốc ho; tương tác với statin: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống atorvastatin 10 mg mỗi tối cùng giờ; nhờ cháu Thảo cài chuông nhắc hoặc đặt hộp thuốc cạnh bình nước (ESC/EAS 2019 mục 13, Box 10). Hộp atorvastatin 20 mg của phòng khám trước: chưa dùng, mang cả hai hộp khi tái khám.",
+     "Ăn đủ 3 bữa, thêm cá, đậu, rau, trái cây; bớt thịt mỡ, lòng đỏ trứng nhưng đừng bỏ sạch, đừng nhịn ăn (ACC/AHA 2026 mục 4.1.2.1; ICOPE 2025 mục 7.1). Cân mỗi tuần, ghi sổ; sụt thêm thì đến sớm.",
+     "Đi bộ tăng dần theo sức tới 150 phút mỗi tuần (ACC/AHA 2026 mục 4.1.4); ngồi bán hàng thì đứng dậy đi lại mỗi giờ.",
+     "Thuốc tuyến giáp không cần vì TSH bình thường. Còn lo thì hỏi lại bác sĩ, đừng tự bỏ thuốc hay tự mua thuốc.",
+     "Đến ngay khi sốt, khó thở, ho ra máu, đau ngực, yếu liệt, méo miệng, nói khó, hoặc đau cơ dữ dội kèm nước tiểu sẫm.",
+     "Tái khám sau 8 tuần (ESC/EAS 2019 Bảng 13): lấy lại mỡ máu, mang hộp thuốc và sổ cân. Muốn thử lối sống trước khi uống thuốc thì nói để cùng thống nhất cách theo dõi."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 9 tuần theo hẹn, bà Hạnh đi cùng cháu Thảo. Bà nói đã uống thuốc mà vẫn mệt, 'chắc mỡ không giảm', lại bị chuột rút bắp chân ban đêm nên sợ thuốc hại cơ. Sinh hiệu: HA 130/76 mmHg, mạch 76 l/p, cân nặng 49,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Hạnh bị cho nhập viện vì 'mỡ máu không giảm, mệt, chuột rút', dù sinh hiệu ổn, sức cơ 5/5, nước tiểu vàng trong, CK 88 U/L. Ở viện bà bị lấy máu nhiều lần, ăn uống thất thường, cháu Thảo nghỉ học trông. Nguyên nhân thật là uống thuốc chưa đều và nỗi sợ chưa được giải tỏa, điều giường bệnh không giải quyết: khi LDL-C giảm không đủ, việc đầu tiên là xác nhận tuân thủ (ACC/AHA 2026 mục 4.2.3.7 giải thích; mục 3.5 KC 1).",
+    "chuyen_tuyen": "Bà Hạnh bị chuyển lên tuyến trên xét 'thuốc tiêm hạ mỡ' vì cho rằng không đáp ứng statin. Kháng thể PCSK9 chỉ nằm trong khuyến cáo khi đã dùng statin liều tối đa dung nạp, có hoặc không ezetimibe, ở người nguy cơ cao (ACC/AHA 2026 mục 4.2.3.7 KC 10, COR 2b), còn bà mới uống khoảng 38% số ngày thuốc liều thấp. Bà đi xa, tốn tiền, nghe thêm một chẩn đoán, và càng tin 'thuốc của tôi không hợp'."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi uống thuốc rồi mà vẫn mệt, trong người y như cũ. Lại còn chuột rút bắp chân ban đêm, tôi sợ thuốc nó làm tiêu cơ hỏng thận. Chắc thuốc này không hợp, hay là tuyến giáp mới đúng? Cháu nó nói mỡ không xuống thì phải tiêm thuốc gì đó mắc lắm.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "130/76",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến tái khám theo hẹn để thử lại mỡ máu. Bà nghĩ thuốc không có tác dụng vì còn mệt chiều tối, lại bị chuột rút bắp chân ban đêm 2–3 lần mỗi tuần; vẫn nghi tuyến giáp. Cháu Thảo đọc thấy 'mỡ không giảm thì phải tiêm thuốc'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám; tái khám không đỡ theo cảm nhận của bà"
+    },
+    {
+     "id": "hop_thuoc",
+     "noi_dung": "Bà mang hộp thuốc: nhận 56 viên atorvastatin 10 mg cách đây 9 tuần, còn 32 viên, tức mới uống 24 viên trong 63 ngày (khoảng 38%). Hộp atorvastatin 20 mg của phòng khám trước còn nguyên. Không dùng thuốc hay thực phẩm chức năng nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đếm viên: tuân thủ thật sự (bước đầu tiên khi thất bại điều trị)"
+    },
+    {
+     "id": "cach_uong",
+     "noi_dung": "Hai tuần đầu bà uống mỗi tối. Tuần thứ 3 bị chuột rút, cháu đọc trên mạng 'chuột rút là thuốc làm tiêu cơ, hỏng thận' nên bà bỏ vài hôm, sau đó chỉ uống những tối 'thấy khỏe và nhớ ra', khoảng 1–2 tối mỗi tuần. Bà đọc chữ nhỏ trên vỉ khó, ngồi bán hàng tới khuya rồi quên; cháu Thảo ở ký túc xá, chỉ về 3 ngày mỗi tuần nên không nhắc được. Bà không dám kể vì sợ bị rầy.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nguyên nhân thật của 'không đỡ': uống không đều vì sợ tác dụng phụ",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi nhẹ nhàng, không trách, cách bà uống thuốc cụ thể (uống lúc nào, bỏ hôm nào, vì sao), hoặc hỏi bà có khó chịu gì sau khi uống, hoặc xin xem hộp thuốc. Nếu chỉ hỏi 'bà uống thuốc đều không' thì bà đáp 'đều lắm' rồi đổi sang chuyện chuột rút."
+    },
+    {
+     "id": "chuot_rut",
+     "noi_dung": "Chuột rút bắp chân ban đêm 2–3 lần mỗi tuần từ tuần thứ 3, cả những tuần bà không uống thuốc. Không đau hay yếu cơ đùi, đứng lên ngồi xuống và leo cầu thang như trước. Nước tiểu vàng trong. Ban ngày bà uống ít nước vì sợ đi tiểu đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng cơ liên quan statin: tính chất, thời gian, tương quan với thuốc, dấu hiệu nặng (ACC/AHA 2026 mục 4.2.11)"
+    },
+    {
+     "id": "giap2",
+     "noi_dung": "Không sợ lạnh, không táo bón, giọng bình thường, da không khô hơn, không phù mặt, tim không chậm. Mệt đỡ nhiều so với 9 tuần trước, chỉ còn mệt chiều tối vì ngủ 5–6 tiếng và lo chuyện thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xem lại chẩn đoán: có dấu hiệu suy giáp mới không"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bà đã ăn lại 3 bữa, có cá, đậu hũ, thịt nạc, trứng gà 3 quả mỗi tuần. Ho hết sau khoảng một tuần, đã ngưng siro. Cân tăng từ 49 lên 49,5 kg. Đi bộ ra chợ sáng 20 phút.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Theo dõi cân, ăn uống, ho sau lượt 1"
+    },
+    {
+     "id": "y_muon2",
+     "noi_dung": "Bà vẫn muốn tránh liệt nằm một chỗ nhưng chưa tin thuốc. Bà hỏi nếu uống đều thì tránh được đột quỵ không, bao lâu mới thấy, và không uống nữa thì có sao không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ưu tiên của người bệnh; thảo luận lại lợi ích–nguy cơ (ACC/AHA 2026 mục 4.2.8.3 KC 1)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui hơn lần trước, cân 49,5 kg (BMI 22,0). Niêm mạc hồng, không phù mặt, không vàng da.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Giọng bình thường.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 16 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong; nhịp thở 16 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi 5/5, ngọn chi 5/5, ngồi xổm đứng dậy được có vịn nhẹ như lần trước. Đứng lên khỏi ghế 5 lần trong 11 giây.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, ấn không đau, không co cứng, không phù.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới vàng trong, không sẫm màu.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Lấy buổi sáng sau nhịn đói 10 giờ: Cholesterol TP 6,6 · LDL-C 4,4 · HDL-C 1,6 · TG 1,3 mmol/L (non-HDL-C 5,0 mmol/L). So với LDL-C 4,6 trước điều trị, giảm khoảng 4%.",
+     "ab": 1,
+     "n": "Atorvastatin 10 mg dự kiến giảm LDL-C 30–49% (ACC/AHA 2026 Bảng 6). Mức giảm 4% quá thấp so với kỳ vọng: nghi tuân thủ trước, rồi mới nghĩ đáp ứng kém hoặc thứ phát (ACC/AHA 2026 mục 4.2.3.7, giải thích: nếu LDL-C giảm không đủ thì xác nhận tuân thủ rồi mới tăng cường; mục 3.5: lipid đánh giá hiệu quả và tuân thủ). Lấy lipid 4–12 tuần sau khởi (ACC/AHA 2026 mục 3.5 KC 1; ESC/EAS 2019 Bảng 13)."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 2,2 mIU/L · FT4 14 pmol/L (trong giới hạn của phòng xét nghiệm)",
+     "n": "Không cần lặp lại: TSH 9 tuần trước bình thường, không triệu chứng mới. Làm thêm không hại và giúp bà yên tâm."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 22 · ALT 20 U/L",
+     "n": "ESC/EAS 2019 Bảng 13: ALT một lần 8–12 tuần sau khởi statin; ACC/AHA 2026 mục 5.1 không đo định kỳ. Đo hay không đều chấp nhận (sổ mâu thuẫn, ca MT-0421)."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 88 U/L (trong giới hạn)",
+     "n": "Không cần: ACC/AHA 2026 mục 4.2.11 KC 1 chỉ đo CK khi đau cơ nặng hoặc yếu cơ; ở đây là chuột rút, sức cơ 5/5, nước tiểu trong (sổ mâu thuẫn, ca MT-0425 mục 4). Đo để trấn an bà cũng chấp nhận."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 139 · K 4,1 · Cl 103 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.1,
+      "cl": 103
+     },
+     "n": "Hợp lý khi chuột rút ban đêm; bình thường. Tài liệu đã tải không nêu tiêu chí xét nghiệm điện giải cho chuột rút."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu tăng LDL-C, chưa đạt đáp ứng với atorvastatin 10 mg vì dùng thuốc không đều (khoảng 38% số ngày): LDL-C 4,6 xuống 4,4 mmol/L (giảm khoảng 4%)",
+     "ok": 1,
+     "n": "Hộp còn 32/56 viên sau 63 ngày. Giảm 4% so với kỳ vọng 30–49% của atorvastatin 10 mg (ACC/AHA 2026 Bảng 6): nguyên nhân là tuân thủ, không phải thuốc kém hiệu quả."
+    },
+    {
+     "t": "Chuột rút bắp chân ban đêm, không bằng chứng bệnh cơ do statin; nỗi sợ thuốc là rào cản tuân thủ",
+     "ok": 1,
+     "n": "Chuột rút cả khi nghỉ thuốc, sức cơ 5/5, nước tiểu trong, CK 88 U/L. Phần lớn triệu chứng cơ khi dùng statin là đau cơ chủ quan, một phần do kỳ vọng ('drucebo'); nữ, ≥ 65 tuổi, BMI thấp là nhóm nguy cơ cao hơn nên vẫn theo dõi (ACC/AHA 2026 mục 4.2.11 giải thích, Bảng 24)."
+    },
+    {
+     "t": "RL lipid thứ phát do suy giáp",
+     "n": "Vẫn loại: không triệu chứng mới, tuyến giáp bình thường, TSH 2,2 (lần trước 2,4) (QĐ 3879 Suy giáp mục IV.3)."
+    },
+    {
+     "t": "Bệnh cơ do statin, tiêu cơ vân",
+     "n": "Không đau hay yếu cơ gốc chi, sức cơ 5/5, nước tiểu vàng trong, CK 88 U/L; tiêu cơ vân là CK trên 10 lần giới hạn trên kèm tổn thương thận, hiếm (ACC/AHA 2026 Bảng 25)."
+    },
+    {
+     "t": "Kháng statin thật sự; tương tác thuốc",
+     "n": "Không kết luận được khi chưa uống đều; không dùng thuốc nào khác."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cách uống thuốc từng tuần, xem hộp và đếm viên, không buộc tội, trước khi kết luận thuốc 'không hợp' hoặc cần tăng cường",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.3.7, giải thích: nếu giảm LDL-C không đủ, xác nhận tuân thủ rồi mới cân nhắc tăng cường; mục 3.5: lipid để đánh giá hiệu quả và tuân thủ. ESC/EAS 2019 mục 13, Box 10: khám phá động cơ, tránh tranh luận vòng tròn."
+    },
+    {
+     "t": "Ghi nhận nỗi lo, giải thích chuột rút xảy ra cả khi nghỉ thuốc, sức cơ bình thường, nước tiểu trong, CK bình thường nên ít khả năng do thuốc; nói rõ nguy cơ khi ngưng hẳn",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 2 (COR 1, B-R): ghi nhận lo ngại, thông báo nguy cơ tim mạch khi ngưng, đưa lựa chọn khác; giải thích: nhiều triệu chứng do kỳ vọng. KC 1: CK chỉ khi đau nặng hoặc yếu cơ."
+    },
+    {
+     "t": "Tiếp tục atorvastatin 10 mg mỗi tối, chưa tăng liều hay thêm thuốc hôm nay; uống đều rồi lấy lại lipid sau 8–12 tuần",
+     "v": "c",
+     "n": "Chưa đánh giá được đáp ứng khi mới uống khoảng 38% số ngày (ACC/AHA 2026 mục 4.2.3.7 giải thích; mục 3.5 KC 1: 4–12 tuần sau khởi). ESC/EAS 2019 Bảng 13: 8 ± 4 tuần, sớm hơn khi có vấn đề tuân thủ."
+    },
+    {
+     "t": "Giúp uống đều: gắn với việc đóng tiệm buổi tối, hộp chia ngày chữ to, cháu Thảo cài chuông và gọi nhắc, bà tích dấu vào sổ mỗi tối",
+     "v": "c",
+     "n": "ESC/EAS 2019 mục 13, Box 10: lôi kéo người thân, mục tiêu cụ thể đo được, tư vấn theo thói quen; nhắc nhở điện tử giúp tuân thủ (mục 12)."
+    },
+    {
+     "t": "Nhắc lại thảo luận chia sẻ quyết định: lợi ích dự phòng, điều bà ưu tiên (không liệt), và để bà tự chọn tiếp tục",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.8.3 KC 1 và giải thích 1–2: xem lại quyết định theo thời gian, có người chăm sóc; ở người 50–75 tuổi cần điều trị 100 người trong 2,5 năm để ngăn 1 biến cố, chưa có số liệu cho > 75 tuổi."
+    },
+    {
+     "t": "Đổi sang statin khác (rosuvastatin 5 mg) hoặc uống atorvastatin cách ngày nếu bà vẫn sợ",
+     "v": "a",
+     "n": "ACC/AHA 2026 mục 4.2.11 giải thích 2: khai thác ý muốn thử statin khác hoặc dùng ít hơn mỗi ngày với statin tác dụng dài; rosuvastatin 5 mg cường độ vừa (Bảng 6)."
+    },
+    {
+     "t": "Tăng atorvastatin lên 20 mg hoặc thêm ezetimibe 10 mg ngay",
+     "v": "a",
+     "n": "QĐ 3879/2014 mục IV.4.1: atorvastatin 10–20 mg; thêm ezetimibe sau statin liều tối đa dung nạp (ACC/AHA 2026 mục 4.2.3.7 KC 9), thêm ngay chấm a (sổ mâu thuẫn, ca MT-0425 mục 3). Chưa đúng thứ tự khi bà chưa uống đều."
+    },
+    {
+     "t": "Nếu sau thảo luận bà không muốn dùng statin nữa: tôn trọng, theo dõi lối sống và lipid",
+     "v": "a",
+     "n": "ACC/AHA 2026 mục 4.2.8.3 giải thích 1: không khởi hoặc ngưng thuốc là hợp lý khi phù hợp ưu tiên người bệnh và lợi ích không vượt nguy cơ."
+    },
+    {
+     "t": "Ngưng statin ngay vì chuột rút mà không thảo luận lợi–hại",
+     "v": "w",
+     "n": "Trái ACC/AHA 2026 mục 4.2.11 KC 2: phải thông báo nguy cơ khi ngưng và đưa lựa chọn khác; không có nguồn nào nói chuột rút đơn thuần là chỉ định ngưng."
+    },
+    {
+     "t": "Cho coenzyme Q10 để phòng đau cơ",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 5.1 KC 4 (COR 3: No Benefit): không dùng thường quy coenzyme Q10 cho đau cơ liên quan statin."
+    },
+    {
+     "t": "Cho levothyroxine vì còn mệt",
+     "v": "w",
+     "n": "TSH 2,2 bình thường; ATA 2014 khuyến cáo 10a (mạnh): không dùng cho người triệu chứng không đặc hiệu, xét nghiệm tuyến giáp bình thường."
+    },
+    {
+     "t": "Chuyển tuyến để dùng thuốc tiêm PCSK9",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.3.7 KC 10 (COR 2b): chỉ khi đã dùng statin liều tối đa dung nạp, có hoặc không ezetimibe, ở người nguy cơ cao; bà chưa uống đều statin liều thấp."
+    },
+    {
+     "t": "Hẹn tái khám 8–12 tuần với bộ mỡ máu; nếu đạt đáp ứng thì lipid mỗi 6–12 tháng, sớm hơn khi có vấn đề tuân thủ",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 3.5 KC 1 (4–12 tuần sau khởi hoặc đổi liều, rồi mỗi 6–12 tháng); ESC/EAS 2019 Bảng 13."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu tăng LDL-C, chưa đáp ứng do dùng atorvastatin 10 mg không đều (24/63 viên, khoảng 38%): LDL-C 4,6 xuống 4,4 mmol/L (giảm khoảng 4%)",
+     "Chuột rút bắp chân ban đêm, không bằng chứng bệnh cơ do statin (sức cơ 5/5, nước tiểu trong, CK 88 U/L)",
+     "Rào cản tuân thủ: sợ thuốc theo thông tin trên mạng và lời người quen, đọc chữ nhỏ khó, không có người nhắc",
+     "Vẫn loại suy giáp (TSH 2,2 mIU/L), thứ phát khác; cân ổn định 49,5 kg"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hỏi 'bà uống thuốc đều không' chỉ nhận câu 'đều lắm'. Phải hỏi cụ thể từng tuần và xin xem hộp thuốc: còn 32/56 viên và lý do bỏ thuốc (chuột rút, sợ tiêu cơ) mới lộ ra. Hỏi thêm chuột rút có cả khi nghỉ thuốc không, có đau yếu cơ đùi, nước tiểu sẫm không (ACC/AHA 2026 mục 4.2.11).",
+     "Khám và xét nghiệm: sức cơ 5/5, bắp chân mềm, nước tiểu vàng trong (khám được dù không có xét nghiệm đắt tiền). LDL-C 4,4 so với 4,6 mmol/L, giảm khoảng 4%, trong khi atorvastatin 10 mg dự kiến giảm 30–49% (ACC/AHA 2026 Bảng 6): dấu hiệu tuân thủ kém, không phải thuốc vô hiệu (mục 4.2.3.7 giải thích; mục 3.5). CK, ALT, điện giải chỉ để trấn an (ACC/AHA 2026 mục 4.2.11 KC 1; mục 5.1).",
+     "Quy trình khi 'không đỡ': (1) tuân thủ; (2) chẩn đoán sai không: TSH 2,4 lần trước, không dấu hiệu mới; (3) thuốc và liều: chưa uống đủ để đánh giá; (4) tương tác: không thuốc khác; (5) thứ phát mới: cân tăng, không bệnh mới; (6) tác dụng phụ làm bỏ thuốc: chuột rút, không bằng chứng bệnh cơ. Nữ, ≥ 65 tuổi, BMI thấp là nhóm nguy cơ đau cơ cao hơn (ACC/AHA 2026 Bảng 24) nên vẫn theo dõi.",
+     "Bà đúng khi muốn được nghe nghiêm túc về chuột rút, sai khi coi đó là bệnh cơ do thuốc. 'Mỡ không giảm thì phải tiêm': kháng thể PCSK9 chỉ xét sau statin liều tối đa dung nạp (ACC/AHA 2026 mục 4.2.3.7 KC 10). Đo hay không CK/ALT khi chưa triệu chứng nặng (ACC/AHA 2026 so với ESC/EAS 2019 Bảng 13), thêm ezetimibe ngay hay tăng statin trước: ghi cả hai (sổ mâu thuẫn, ca MT-0425 mục 3–4, MT-0421)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: về nhà, hẹn tái khám. Không nhập viện hay chuyển tuyến: sinh hiệu ổn, không dấu hiệu bệnh cơ nặng; vấn đề là tuân thủ.",
+     "Thuốc: giữ atorvastatin 10 mg mỗi tối (ACC/AHA 2026 Bảng 6; QĐ 3879 mục IV.4.1), chưa tăng liều hay thêm thuốc vì chưa uống đều. Tăng lên 20 mg hoặc thêm ezetimibe ngay là cách khác, chấm a. Đổi rosuvastatin 5 mg hoặc uống cách ngày nếu bà vẫn sợ (ACC/AHA 2026 mục 4.2.11 giải thích 2).",
+     "Tuân thủ: hộp chia ngày chữ to, gắn giờ đóng tiệm, cháu Thảo nhắc qua điện thoại, sổ tích dấu (ESC/EAS 2019 mục 13, Box 10). Giải thích bằng số liệu của chính bà: LDL-C gần như không đổi vì uống ít.",
+     "Không cho: coenzyme Q10 (ACC/AHA 2026 mục 5.1 KC 4), levothyroxine khi TSH bình thường (ATA 2014 khuyến cáo 10a), PCSK9 (mục 4.2.3.7 KC 10), ngưng thuốc không thảo luận (mục 4.2.11 KC 2).",
+     "Theo dõi: lipid sau 8–12 tuần nếu uống đều (ACC/AHA 2026 mục 3.5 KC 1; ESC/EAS 2019 Bảng 13), sau đó mỗi 6–12 tháng; nếu vẫn không giảm dù uống đều thì mới tăng cường. Lợi ích ở tuổi > 75 còn bất định nên bà có quyền chọn, sau khi nghe đúng thông tin (ACC/AHA 2026 mục 4.2.8.3 KC 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi tối khi đóng tiệm, tích dấu vào sổ",
+      "so_ngay": "Còn 32 viên, cấp thêm 30 viên (đủ khoảng 9 tuần) rồi lấy lại lipid; dùng lâu dài nếu bà đồng ý",
+      "ghi_chu": "Giữ nguyên liều (ACC/AHA 2026 Bảng 6; QĐ 3879/2014 mục IV.4.1). Chưa tăng liều khi chưa uống đều (ACC/AHA 2026 mục 4.2.3.7 giải thích). Đau cơ gốc chi hoặc nước tiểu sẫm thì đến khám (mục 4.2.11 KC 1)."
+     }
+    ],
+    "dan_do": [
+     "Uống mỗi tối cùng giờ, tích dấu vào sổ; cháu Thảo gọi nhắc những ngày ở ký túc xá; nhờ hiệu thuốc dán chữ to lên hộp. Hộp bị bỏ nhiều thì mang đến cho bác sĩ đếm, không ai rầy bà.",
+     "Chuột rút ban đêm: uống đủ nước ban ngày, giãn cơ bắp chân trước khi ngủ (không có trong tài liệu đã tải). Chuột rút cả khi nghỉ thuốc nên chưa chắc do thuốc; đau yếu cơ đùi hoặc nước tiểu sẫm thì đến ngay.",
+     "Đừng tự bỏ thuốc vì tin trên mạng hay lời người quen; ghi lại điều nghe được và mang đến hỏi bác sĩ.",
+     "Ăn 3 bữa đủ đạm, cân mỗi tuần, đi bộ tăng dần (ACC/AHA 2026 mục 4.1.2.1, 4.1.4; ICOPE 2025 mục 7.4.2).",
+     "Tái khám sau 8–12 tuần (ESC/EAS 2019 Bảng 13): mỡ máu lúc đói, mang hộp thuốc. Đến sớm nếu sụt cân, đau cơ nặng, yếu liệt, méo miệng, đau ngực hay khó thở."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau cuộc nói chuyện thẳng thắn, bà Hạnh uống atorvastatin 10 mg đều nhờ chuông nhắc của cháu Thảo. Tám tuần sau LDL-C còn 3,0 mmol/L (giảm 35%), ALT bình thường, chuột rút giảm hẳn khi bà uống nước ban ngày. Bảy tháng sau, nhóm chat hội người cao tuổi lan tin 'thuốc mỡ máu làm người già lú lẫn'; bà lặng lẽ ngưng thuốc, không báo ai. Kiểm lipid định kỳ LDL-C trở lại 4,5 mmol/L (tái phát). Bác sĩ không trách, nhắc rằng báo cáo giảm nhận thức khi dùng statin hiếm, nhẹ, hồi phục khi ngưng và không thấy trong thử nghiệm tiến cứu (ACC/AHA 2026 Bảng 25), rồi để bà tự chọn. Các quyết định ở hai lượt đều đúng; tái phát đến từ niềm tin bên ngoài phòng khám, nên ở tuổi > 75 phải xem lại quyết định dùng statin theo thời gian (ACC/AHA 2026 mục 4.2.8.3 KC 1).",
+ "nhieu": [
+  "Mệt, ho, ăn kém sau chuyến đi vùng dịch dễ kéo sang tìm sốt xuất huyết hay viêm phổi; hỏi sốt, xuất huyết, khám phổi, SpO2 cho thấy không có.",
+  "Chẩn đoán tự tra 'suy giáp': bà đúng một phần vì suy giáp là nguyên nhân thứ phát cần loại (QĐ 3879 mục II.2); TSH bình thường. Không gọi bà là 'tra mạng bậy'.",
+  "Lượt 2, bà nói 'uống đều' nhưng uống 38% số ngày: phải xin xem hộp thuốc và hỏi cụ thể từng tuần."
+ ],
+ "bai_hoc_bien": [
+  "Rất cao tuổi, ghi chú áp dụng: chỉ 8% người trong thử nghiệm statin dự phòng tiên phát từ 75 tuổi trở lên, chưa chứng minh giảm tử vong chung; quyết định dựa trên ưu tiên, chức năng, đa bệnh, kỳ vọng sống chứ không chỉ tuổi (ACC/AHA 2026 mục 4.2.8.3 KC 1–2; ESC/EAS 2019 mục 9.3.1).",
+  "Không điển hình: RLLPM ở người 78 tuổi không triệu chứng, phát hiện nhờ đợt khám trước chuyến đi; ca đến vì mệt, ho và nỗi sợ (QĐ 3879 mục III.1).",
+  "Mang chẩn đoán tự tra: ghi nhận phần đúng (suy giáp là nguyên nhân cần loại), làm đúng xét nghiệm bà xin, chỉ vào kết quả của chính bà. Bác bỏ thẳng thì bà gật đầu rồi về không làm (ESC/EAS 2019 mục 13, Box 10).",
+  "Loại thứ phát trước khi gán nhãn nguyên phát: TSH, glucose, creatinin, nước tiểu, men gan, thuốc; sụt cân nhanh cũng tăng LDL-C (ACC/AHA 2026 Bảng 15; QĐ 3879 mục II.2). Triệu chứng suy giáp không nhạy, không đặc hiệu; không dùng levothyroxine khi TSH bình thường (ATA 2014 thảo luận 1c, khuyến cáo 10a).",
+  "Cờ đỏ ở người cao tuổi: sụt cân, ăn kém sau chuyến đi thì hỏi sốt, xuất huyết, hô hấp, tim mạch rồi theo dõi cân có mốc (ICOPE 2025 Bảng 3.1, mục 7.4.2).",
+  "Không đỡ: chạy quy trình thất bại điều trị: tuân thủ, chẩn đoán, thuốc và liều, tương tác, thứ phát, tác dụng phụ; đếm viên hiệu quả hơn hỏi 'có đều không' (ACC/AHA 2026 mục 4.2.3.7 giải thích). Tái phát: nguyên nhân nền là niềm tin và thông tin sai; xem lại thảo luận định kỳ, lôi kéo người thân (ESC/EAS 2019 mục 13)."
+ ],
+ "diem_nho": [
+  "Chẩn đoán RLLPM: TC > 5,2; TG > 1,7; LDL-C > 2,58; HDL-C < 1,03 mmol/L (QĐ 3879/2014 mục III.2). Trước điều trị ≥ 2 lần đo cách 1–12 tuần; sau khởi: 8 ± 4 tuần (ESC/EAS 2019 Bảng 13) hay 4–12 tuần rồi mỗi 6–12 tháng (ACC/AHA 2026 mục 3.5 KC 1).",
+  "Nguyên nhân thứ phát tăng LDL-C: suy giáp, bệnh thận, hội chứng thận hư, bệnh gan tắc mật, ĐTĐ, Cushing, thuốc, sụt cân nhanh (ACC/AHA 2026 Bảng 15).",
+  "> 75 tuổi, kỳ vọng sống ≥ 2,5 năm: có thể khởi statin cường độ vừa sau thảo luận (COR 2b); không khởi hoặc ngưng cũng hợp lý khi phù hợp ưu tiên (ACC/AHA 2026 mục 4.2.8.3 KC 1–2).",
+  "Cường độ vừa: atorvastatin 10 (20) mg, rosuvastatin (5) 10 mg, pravastatin 40 (80) mg, giảm LDL-C 30–49% (ACC/AHA 2026 Bảng 6); BYT 2014: atorvastatin 10–20 mg (QĐ 3879 mục IV.4.1).",
+  "Đau cơ khi dùng statin: loại nguyên nhân khác, CK khi đau nặng hoặc yếu cơ, ghi nhận lo ngại, nói rõ nguy cơ khi ngưng (ACC/AHA 2026 mục 4.2.11 KC 1–2). LDL-C giảm không đủ: xác nhận tuân thủ trước (mục 4.2.3.7 giải thích)."
+ ],
+ "nguon": [
+  "ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA 2026 Guideline on the Management of Dyslipidemia (TL-0292) – ĐÃ ĐỌC mục 3.5, 4.1.2.1, 4.1.4, 4.2.3.7 (KC 9–10, giải thích), 4.2.4.3, 4.2.8.3, 4.2.11, 5.1, Bảng 5, 6, 7, 15, 24, 25.",
+  "ESC/EAS 2019 Guidelines for the management of dyslipidaemias (TL-0320) – ĐÃ ĐỌC mục 5.4.3, 8.1.4.2, 9.3, 11 (Bảng 13), 12–13 (Box 10), 14. Bảng khuyến cáo người cao tuổi và bảng mục tiêu là hình ảnh, không có trong bản chữ.",
+  "Bộ Y tế – QĐ 3879/QĐ-BYT 2014 (TL-0039) – ĐÃ ĐỌC Rối loạn lipid máu (mục II.2, III.1, III.2, IV.1–IV.4) và Suy giáp ở người lớn (mục IV.1–IV.3).",
+  "ATA 2014 Guidelines for the treatment of hypothyroidism (TL-0326) – khuyến cáo 1c (thảo luận) và 10a. WHO 2025 ICOPE (TL-0016) – Bảng 3.1, mục 7.1, 7.4.2. CHEST 2020 Acute cough due to acute bronchitis (TL-0151) – khuyến cáo 1–3. QĐ 708/2015 (TL-0015) Viêm phế quản cấp ở người lớn mục 2."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (25/10/2026): viết: Sonnet. Tài liệu đã đọc: TL-0292 các mục ở nguon; TL-0320 mục 5.4.3, 8.1.4.2, 9.3, Bảng 13, 13–14; TL-0039 RLLPM và Suy giáp; TL-0326 khuyến cáo 1c, 10a; TL-0016 Bảng 3.1, mục 7; TL-0151; TL-0015 mục 2.",
+  "Sổ mâu thuẫn: MT-0425 mục 1, 3–5, MT-0421 (ALT), HH-0671 (X-quang ≥ 75 tuổi, thuốc ho). Mục mới đề xuất: MT-0498_mau_thuan.md.",
+  "Thiếu tài liệu: PREVENT/SCORE2-OP; mục tiêu LDL-C tuyệt đối cho > 75 tuổi dự phòng tiên phát; tương tác ambroxol–statin; lời khuyên chuột rút; tiêu chí xét nghiệm Dengue cho ca không sốt; thuốc bảo vệ gan cụ thể.",
+  "Không có siêu âm (khoa_cls.nhom = sieu_am): ca không cần, lý do ở cls abdus, sa_giap, ct_mach_vanh. Âm thanh: tim 78 và 76 l/p dùng AT-TIM-BT-NL-01; phổi AT-PHOI-BT-NL-01. Không dùng ảnh da. LDL-C 3,0 mmol/L (giảm 35%) trong ket_cuc là minh họa trong khoảng 30–49% (ACC/AHA 2026 Bảng 6)."
+ ]
+}

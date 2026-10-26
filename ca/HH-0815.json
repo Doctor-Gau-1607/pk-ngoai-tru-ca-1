@@ -1,0 +1,906 @@
+{
+ "ma_ca": "HH-0815",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 (2026-10-26)",
+ "benh": "HH_cum_mua",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Cúm mùa",
+  "chan_doan_phai_loai_tru": [
+   "COVID-19",
+   "Sốt xuất huyết giai đoạn sớm"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất (phun thuốc trừ sâu trước khi bệnh)",
+  "thuoc_dang_dung": "Vitamin và thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Sáu",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa và rau màu ở xã, tự phun thuốc cho vườn rau",
+  "can_nang": 64,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tôi'. Bà Lụa gọi chồng là 'ổng', xưng 'tôi' với bác sĩ.",
+  "tinh_cach": "Cần cù, nóng tính, nói nhanh, hay phàn nàn. Đã đi ba nơi, mỗi nơi một câu khác nhau nên không còn tin ai, mang theo cả túi thuốc và phiếu. Sợ nói ra điều lo nhất vì sợ bị cười là nhát. Tỉnh táo, trả lời đúng.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: vào là kể ngay ba nơi ba chẩn đoán khác nhau, đòi bác sĩ 'nói cho chắc'. Nghe đề nghị xét nghiệm thì cáu 'làm ba chỗ rồi, lại làm nữa', trừ khi bác sĩ xem phiếu cũ và giải thích xét nghiệm nào chưa làm. Dịu lại khi được nghe hết và được giải thích từng nơi. Điều lo thật (nhồi máu cơ tim) chỉ nói khi được hỏi thẳng ông sợ bệnh gì.",
+  "nguoi_nha": "Vợ, bà Lụa, 62 tuổi, bán rau ở chợ xã. Tin chồng 'ngấm thuốc sâu' vì hôm phun thuốc xong thì bệnh, đòi đi giải độc ở tỉnh. Hay nói chen. Biết: ông sốt, đau mình, ho, bỏ ăn, đi ba nơi, cháu nội 5 tuổi ho sốt trước đó mấy ngày. KHÔNG biết ông sợ nhồi máu, không biết anh ruột ông mất vì nhồi máu cơ tim chi tiết thế nào (ông chưa kể).",
+  "ten_nguoi_nha": "Bà Lụa (vợ)",
+  "ngoai_hinh": {
+   "da": "#b98563",
+   "toc": "#cfcac2",
+   "kieuToc": "ngan",
+   "ao": "#7b8a6e",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c4906d",
+    "toc": "#3a2b22",
+    "kieuToc": "bup",
+    "ao": "#a8745a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, đau mình, tức ngực khi ho hai ngày, khám ba nơi không khỏi",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Lê Văn Sáu, 66 tuổi, nông dân, bà Lụa (vợ) đưa đến vì sốt, đau mình, tức ngực khi ho hai ngày, đã khám ba nơi mà không khỏi. Ông mang theo túi thuốc. Sinh hiệu: nhiệt độ 37,9 °C, mạch 88 l/p, HA 134/82 mmHg, nhịp thở 20 l/p, SpO₂ 96% khí trời, cân nặng 64 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Sáu thở 20 l/p, SpO₂ 96%, uống được, test cúm A dương tính, ECG bình thường: cúm nhẹ có yếu tố nguy cơ, điều trị ngoại trú bằng kháng virus, hạ sốt, bù nước, hẹn tái khám; chỉ nhập viện khi có suy hô hấp, rối loạn tri giác hoặc sốc (QĐ 1840/2025 mục II.2.3, III.2.2). Nằm viện làm ông thêm một nơi lạ sau ba nơi đã mất niềm tin, mất những ngày công ngoài ruộng, tốn kém và nằm gần người bệnh hô hấp khác. Nỗi sợ nhồi máu của ông vẫn chưa được nói ra, nên ông vẫn tìm thêm xét nghiệm tim.",
+    "chuyen_tuyen": "Chuyển ông lên bệnh viện tỉnh khám tim mạch khi đau ngực tăng khi ho, ấn đau, ECG bình thường và không lan: bệnh cảnh không giống hội chứng vành cấp (ESC 2023 mục 3.1.1, 3.2). Ông đi xa cùng bà Lụa, chờ nhiều giờ, thêm xét nghiệm tim, trong lúc cúm A chưa được điều trị kháng virus dù thuốc nên dùng càng sớm càng tốt, lý tưởng trong 48 giờ (QĐ 1840 mục III.2.1; WHO 2024). Ông thêm tin rằng 'tim có vấn đề' và lại thêm một nơi khám."
+   },
+   "loi_mo": "Tôi sốt, nhức mình, tức ngực mấy ngày nay. Ba chỗ rồi mà vẫn không hết. Bác sĩ nói cho chắc coi tôi bị gì.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "134/82",
+    "nhiet": "37,9",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt, đau mình, tức ngực khi ho hai ngày nay. Đã khám ba nơi, uống thuốc mà không khỏi, vợ bắt đi khám lại cho chắc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Sáng ngày 0 ông phun thuốc trừ sâu cho vườn rau khoảng 3 giờ, đeo khẩu trang vải, không bao tay. Chiều cùng ngày bắt đầu ớn lạnh, nhức mình mẩy, sốt. Cả nhà tin 'ngấm thuốc sâu'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Khởi phát đột ngột, phơi nhiễm hóa chất",
+     "nhieu": 1
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Sốt tối đa 38,2 °C, đau nhức cơ bắp chân, lưng, bắp tay là chính, mệt rã rời, chán ăn. Ho khan ít. Không đau họng, sổ mũi, khó thở, nôn, đau bụng, tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng cúm không điển hình ở người cao tuổi"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Tức nặng hai bên ngực dưới và sườn, tăng khi ho, hít sâu, xoay mình, giảm khi nằm yên. Không lan vai, tay, hàm. Đi lại không đau thêm. Không vã mồ hôi lạnh, buồn nôn, hồi hộp.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi chung thì ông nói 'tức lắm, chắc tim'. Hỏi kỹ đau khi nào, lan đâu, đi bộ có đau thêm không mới kể như trên.",
+     "k": 1,
+     "y": "Tính chất đau ngực (kiểu thành ngực/màng phổi, không điển hình vành)"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Thuốc trừ sâu cho rau (vỏ chai chữ cypermethrin, ông không nhớ nhãn khác). Phun xong ông rửa tay, tắm, thay đồ. Không buồn nôn, chảy nước dãi, vã mồ hôi, co giật. Hai người cùng phun vẫn khỏe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ngộ độc thuốc trừ sâu"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Cháu nội 5 tuổi ở chung nhà ho sốt hơn 3 ngày trước, đã khỏi. Xóm nhiều người ho sốt tuần nay. Ông chưa tiêm vắc xin cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố dịch tễ cúm"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Ba nơi: (1) Tối ngày 0 nhà thuốc đầu xóm: Decolgen và Hapacol 500 mg, bảo 'cảm nắng'. (2) Sáng ngày 1 trạm y tế xã: khám họng, đo huyết áp, bảo 'nhiễm thuốc sâu nhẹ, viêm họng', cho vitamin C, paracetamol. (3) Chiều ngày 1 phòng khám tư bác sĩ T: bảo 'viêm phế quản', tiêm 1 mũi dexamethason 4 mg (ghi trong phiếu), cho amoxicillin–acid clavulanic 625 mg ngày 2 lần, dặn 'tuổi này đau ngực phải đi khám tim'. Không nơi nào thử cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều trị đã nhận (kháng sinh, corticoid, thuốc trùng paracetamol)",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_dang",
+     "noi_dung": "Decolgen 4 gói/ngày và Hapacol 500 mg 4 viên/ngày cùng lúc; amoxicillin–acid clavulanic 625 mg uống 4 liều từ chiều ngày 1; vitamin C sủi 1.000 mg mỗi sáng, vitamin tổng hợp, canxi–tảo biển uống hằng ngày từ lâu. Chưa dùng aspirin hay thuốc chống viêm khác. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, dị ứng, tổng liều paracetamol",
+     "nhieu": 2
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Phiếu phòng khám tư (ngày 1): công thức máu BC 4,9 G/L, Hb 144 g/L, TC 205 G/L; X-quang ngực thẳng: tim phổi bình thường; điện tim: nhịp xoang 84 l/p, không bất thường. Ông nói 'làm rồi mà vẫn bệnh'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xét nghiệm đã làm (không lặp lại vô ích)",
+     "nhieu": 1
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng khám bệnh, chưa đo huyết áp. Hút thuốc lào ngày vài điếu, 30 năm, còn hút. Rượu đế vài ly mỗi tuần. Không tiểu đường, bệnh phổi, thuốc huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, yếu tố nguy cơ tim mạch"
+    },
+    {
+     "id": "sxh",
+     "noi_dung": "Không chảy máu mũi, chân răng; không chấm đỏ; tiểu bình thường; không đau bụng, nhức hốc mắt. Xóm có người sốt xuất huyết cách đây một tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc sốt xuất huyết"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Hai ông bà ở với con trai, cháu; cách phòng khám 20 phút xe máy, có BHYT.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "anh_ruot",
+     "noi_dung": "Anh ruột ông mất đột ngột vì nhồi máu cơ tim năm 63 tuổi, sau mấy ngày 'mệt, tức ngực' cả nhà tưởng cảm. Nghe bác sĩ T dặn 'đi khám tim', ông mất ngủ, cứ tự bắt mạch.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi tiền sử gia đình hoặc hỏi ông sợ bệnh gì. Kể xong im, rồi nhỏ giọng: 'tôi sợ giống ảnh'.",
+     "k": 1,
+     "y": "Gia đình có nhồi máu cơ tim sớm"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông đi khám ba nơi vì sợ bị nhồi máu như anh trai, ngại nói vì sợ bị cười và sợ nghe 'đúng rồi'; giấu cả vợ. Chỉ nói 'tôi muốn biết bệnh gì cho chắc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng 'bác sợ bị bệnh gì nhất', hoặc 'vì sao bác khám tới ba nơi', và có thái độ lắng nghe. Hỏi chung chung thì ông nói 'muốn hết sốt thôi'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ nhồi máu cơ tim"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, định hướng tốt. Mặt đỏ, mắt hơi đỏ, người mệt, nằm nghiêng ôm sườn khi ho. Da niêm hồng, không vã mồ hôi lạnh. Cân nặng 64 kg, cao 163 cm (BMI 24,1).",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, không mủ, amidan không to. Niêm mạc mũi hồng, không chảy dịch.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Đồng tử 3 mm hai bên, đều, phản xạ ánh sáng tốt. Kết mạc không đỏ. Không chảy nước mắt hay nước dãi nhiều.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da khô ấm, không vã mồ hôi, không ban, không chấm xuất huyết.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Rung thanh đều hai bên, gõ trong. Rì rào phế nang êm dịu hai phế trường, không ran, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Rung thanh đều hai bên, gõ trong.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 88 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn dọc bờ sườn dưới hai bên và cơ liên sườn: đau, đúng cái đau ông than; ấn xong ông nói 'ừ đúng chỗ đó'. Đau tăng khi xoay mình. Cơ bắp chân, cơ lưng căng, đau khi bóp.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Hai bắp chân mềm, đau cơ lan tỏa khi bóp, không sưng một bên.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ. Tĩnh mạch cổ không nổi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "e",
+     "r": "Cúm A: dương tính · Cúm B: âm tính · SARS-CoV-2: âm tính",
+     "ab": 1,
+     "n": "Người có yếu tố nguy cơ: test nhanh sàng lọc (QĐ 1840/2025 mục II.2.1, II.2.3); WHO 2024 gợi ý test NAAT hoặc miễn dịch số cho cúm không nặng nguy cơ cao (BMJ 2026, phần Recommendations). Test nhanh COVID-19 kém nhạy hơn PCR (QĐ 2671/2023 mục 4.8.2b). NICE NG237 khuyến cáo 1.3.3 chỉ cấm dùng test cúm để quyết định kê kháng sinh, không mâu thuẫn."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 88 l/p, trục trung gian, không biến đổi ST–T, không block, không Q bệnh lý.",
+     "n": "ECG ngày 1 đã bình thường, đau ngực kiểu thành ngực: làm lại chấp nhận được, không bắt buộc. ECG là đầu tay khi nghi ACS, đọc trong 10 phút (ESC 2023 mục 3.2); giúp ông yên tâm."
+    },
+    "ns1": {
+     "v": "u",
+     "r": "NS1 âm tính · IgM âm tính · IgG âm tính",
+     "n": "NS1 từ ngày 1 đến ngày 7, ưu tiên 5 ngày đầu (QĐ 2760/2023 mục III.1.1); sắp vào giai đoạn nguy hiểm ngày 3–7 (mục II.2)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 4,6 G/L · Neutrophil 66% · Lym 22% · Hb 145 g/L · TC 208 G/L · Hct 0,43",
+     "bang": {
+      "wbc": 4.6,
+      "neu_pct": 66,
+      "neu": 3.04,
+      "lym_pct": 22,
+      "lym": 1.01,
+      "mono_pct": 10,
+      "mono": 0.46,
+      "eos_pct": 1.5,
+      "eos": 0.07,
+      "baso_pct": 0.5,
+      "baso": 0.02,
+      "rbc": 4.9,
+      "hgb": 145,
+      "hct": 0.43,
+      "mcv": 87.8,
+      "mch": 29.6,
+      "mchc": 337,
+      "rdw": 13.0,
+      "plt": 208
+     },
+     "n": "Đã có công thức máu ngày 1; làm lại để xem xu hướng tiểu cầu, Hct (QĐ 2760/2023 mục II.2) là chấp nhận được, không bắt buộc. Tiểu cầu > 100 G/L, Hct bình thường (mục II.1.2)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "12 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 12
+     },
+     "n": "Không bắt buộc (QĐ 1840 mục II.2.2: CRP cho cúm nặng). < 20 mg/L: không kháng sinh thường quy (NICE NG237 khuyến cáo 1.3.4)."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,2 mmol/L · Creatinin 84 µmol/L · eGFR 88 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.2,
+      "creat": 84,
+      "egfr": 88
+     },
+     "n": "Clcr Cockcroft–Gault ≈ 69 mL/ph (tính). CDC 2026 Bảng 5: Clcr 31–60 giảm còn 30 mg 2 lần/ngày; Clcr 61–90 vẫn 75 mg. QĐ 1840 mục III.2.1 không nêu chỉnh liều theo thận, không bắt buộc đo."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Troponin T hs 6 ng/L (ngưỡng < 14)",
+     "n": "hs-cTn dành cho nghi ACS (ESC 2023 mục 3.3.1). Ông đau tăng khi ho, ấn đau, ECG bình thường: không nghi ACS; làm cho yên tâm chấp nhận được."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Tim phổi bình thường.",
+     "n": "Đã có X-quang ngày 1 bình thường; chỉ chụp khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840 mục II.2.2). Lặp lại là vô ích."
+    },
+    "pche": {
+     "v": "a",
+     "r": "Cholinesterase huyết tương trong giới hạn bình thường (không giảm dưới 50% giá trị bình thường tối thiểu).",
+     "n": "Không có hội chứng cường cholin nên không cần; chẩn đoán xác định cần hội chứng M/N/thần kinh trung ương và pChE < 50% (QĐ 3610/2015 chương 6 mục 2.1). Làm thì bình thường, trấn an bà Lụa."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm mùa (cúm A) thể nhẹ ở người 66 tuổi có yếu tố nguy cơ cúm nặng, ngày thứ 3 của bệnh (khoảng 42 giờ), biểu hiện không điển hình (sốt nhẹ, ít triệu chứng hô hấp trên, đau cơ và tức ngực khi ho nổi bật), chưa biến chứng",
+     "ok": 1,
+     "n": "Khởi phát đột ngột sốt, ớn lạnh, đau cơ, mệt, ho khan; dịch tễ (cháu nội ho sốt, xóm nhiều người); triệu chứng có thể không điển hình ở người > 65 tuổi (QĐ 1840/2025 mục II.1.1, II.2.4.1). Test nhanh cúm A dương tính (mục II.2.4.2). Cúm nhẹ: không suy hô hấp (SpO₂ 96%, thở 20 l/p) (mục II.2.3). Yếu tố nguy cơ: > 65 tuổi (mục II.2.3; WHO 2024)."
+    },
+    {
+     "t": "COVID-19",
+     "n": "Test nhanh SARS-CoV-2 âm, đã xác định cúm A; test nhanh kém nhạy hơn PCR (QĐ 2671/2023 mục 4.8.2b), nếu bệnh không theo cúm thì làm PCR. Cúm nằm trong chẩn đoán phân biệt (mục 4.8.3)."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue giai đoạn sớm",
+     "n": "NS1, IgM âm; tiểu cầu 208 G/L, Hct 0,43; không chấm xuất huyết, không đau bụng, không chảy máu (QĐ 2760/2023 mục II.1, III.1.1). Chưa loại hẳn: ngày 3–7 là giai đoạn nguy hiểm (mục II.2), nên dặn dấu hiệu quay lại và chỉ dùng paracetamol (mục IV.A.1, IV.A.3)."
+    },
+    {
+     "t": "Ngộ độc thuốc trừ sâu (phospho hữu cơ, pyrethroid)",
+     "n": "Cái neo của cả nhà. Không hội chứng muscarin (đồng tử 3 mm, mạch 88, da khô, không tăng tiết), không máy cơ, tỉnh (QĐ 3610/2015 chương 6 mục 2.1); người cùng phun khỏe."
+    },
+    {
+     "t": "Hội chứng vành cấp / nhồi máu cơ tim",
+     "n": "Đau tăng khi ho, hít sâu, xoay mình; ấn bờ sườn tái hiện đau; không lan, không vã mồ hôi; ECG bình thường (ESC 2023 mục 3.1.1: đương lượng đau ngực là khó thở, đau thượng vị, lan tay, cổ, hàm; mục 3.2). Anh ruột nhồi máu, hút thuốc lào: nỗi sợ có cơ sở, nếu đau đổi tính chất thì làm lại ECG và hs-cTn (mục 3.3.1)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không khó thở, SpO₂ 96%, phổi sạch, X-quang ngày 1 bình thường (QĐ 1840 mục II.2.2). Theo dõi tiến triển (mục II.1.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú tại nhà, không nhập viện, không chuyển tuyến",
+     "v": "c",
+     "n": "Cúm nhẹ có yếu tố nguy cơ: điều trị ngoại trú, tư vấn theo dõi dấu hiệu nặng để tái khám hoặc nhập viện kịp thời (QĐ 1840/2025 mục III.2.2). Cúm nặng khi suy hô hấp, rối loạn tri giác, sốc (mục II.2.3); ông không có. Gia đình tái khám được trong 20 phút."
+    },
+    {
+     "t": "Kháng virus ngay hôm nay, không chờ thêm xét nghiệm: Oseltamivir 75 mg uống 2 lần/ngày × 5 ngày (QĐ 1840/2025 mục III.2.1; CDC 2026 Bảng 5: Clcr 61–90 vẫn 75 mg; IDSA 2018 khuyến cáo 18, 22), hoặc baloxavir 40 mg uống một liều duy nhất cho cân nặng 20–79 kg, trong 48 giờ khởi phát (WHO 2024; QĐ 1840 mục III.2.1 bảng baloxavir)",
+     "v": "c",
+     "n": "Hai cách cùng đúng: BYT 06/2025 chọn oseltamivir đầu tay, baloxavir khi không có oseltamivir (QĐ 1840 mục III.2.1); WHO 09/2024 gợi ý có điều kiện baloxavir trong 48 giờ cho cúm không nặng nguy cơ cao (BMJ 2026, phần Recommendations). Ông còn trong 48 giờ nên hợp cả hai; CDC 2026 cũng điều trị người ≥ 65 tuổi sớm, lý tưởng trong 48 giờ (Bảng 2, Summary). QĐ 1840 không nêu mốc 48 giờ."
+    },
+    {
+     "t": "Không dùng kháng sinh; ngưng amoxicillin–acid clavulanic đang uống",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2: không kháng sinh cho cúm nhẹ; WHO 2024: mạnh không dùng kháng sinh khi cúm không nặng, ít nghĩ bội nhiễm. Phổi sạch, CRP 12 mg/L (NICE NG237 khuyến cáo 1.3.4: < 20 không kê)."
+    },
+    {
+     "t": "Chỉ dùng paracetamol đơn chất 500 mg mỗi 6 giờ khi sốt ≥ 38,5 °C hoặc đau, tối đa 4 viên/ngày; bỏ Decolgen và Hapacol dùng chồng lên nhau",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2: không dùng thuốc chứa aspirin. Người cao tuổi acetaminophen < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3). Đơn chất vì chưa loại hẳn sốt xuất huyết (QĐ 2760/2023 mục IV.A.1: 10–15 mg/kg/lần, cách 4–6 giờ, ≤ 60 mg/kg/24 giờ). Decolgen cũng chứa paracetamol, trùng Hapacol."
+    },
+    {
+     "t": "Hỏi hết ba nơi khám, xem phiếu cũ, không lặp lại X-quang, công thức máu vô ích; giải thích từng nơi nói gì và vì sao chỉ ở đây mới thử cúm",
+     "v": "c",
+     "n": "Tái lập niềm tin, không lặp xét nghiệm vô ích; X-quang chỉ khi nghi viêm phổi hay suy hô hấp (QĐ 1840 mục II.2.2)."
+    },
+    {
+     "t": "Hỏi thẳng ông sợ bệnh gì; nói rõ đau ngực là đau thành ngực/màng phổi do ho (ấn đau, tăng khi ho), ECG bình thường; dặn đi cấp cứu nếu đau khi gắng sức, lan tay-hàm, vã mồ hôi, khó thở",
+     "v": "c",
+     "n": "Động cơ thật là sợ nhồi máu. ESC 2023 mục 3.1.1: đương lượng đau ngực gồm khó thở, đau thượng vị, lan tay, cổ, hàm; mục 3.2: ECG đầu tay. Mốc 'đau khi gắng sức' là lời dặn của ca, không có thành ngưỡng riêng trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn bù nước, ăn cháo, nghỉ ngơi, đeo khẩu trang, hạn chế tiếp xúc người nguy cơ; không phun thuốc, không ra ruộng khi còn sốt",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2 (bù nước, dinh dưỡng), IV.2 (hạn chế tiếp xúc, khẩu trang, vệ sinh tay). Lượng nước cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 48 giờ, hoặc quay lại ngay khi khó thở, thở nhanh, đau ngực nặng thêm, lú lẫn, hoặc các dấu hiệu sốt xuất huyết (nôn nhiều, đau bụng, chảy máu, tay chân lạnh, không tiểu > 6 giờ)",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2, II.1.2; NICE NG237 khuyến cáo 1.1.2; QĐ 2760/2023 mục IV.A.3 (dấu hiệu quay lại). Mốc 48 giờ: lịch hẹn của ca, tài liệu không nêu con số riêng."
+    },
+    {
+     "t": "Sau hồi phục, tiêm vắc xin cúm hằng năm",
+     "v": "c",
+     "n": "QĐ 1840 mục IV.1; CDC-ACIP 2025–26: người ≥ 65 tuổi ưu tiên vắc xin liều cao, có tá dược hoặc tái tổ hợp."
+    },
+    {
+     "t": "Kê kháng sinh phổ rộng (amoxicillin–acid clavulanic, ceftriaxon, levofloxacin) 'cho chắc'",
+     "v": "w",
+     "n": "QĐ 1840 mục III.2.2 và WHO 2024 (mạnh): không kháng sinh cho cúm nhẹ."
+    },
+    {
+     "t": "Tiêm hoặc uống corticoid (dexamethason, prednisolon) cho đỡ đau nhức",
+     "v": "w",
+     "n": "QĐ 1840 mục III.2.3: không dùng corticoid thường quy cho người nhiễm cúm; WHO 2024 khuyến cáo có điều kiện không dùng (cúm nặng). Ông đã nhận một mũi dexamethason ở phòng khám tư."
+    },
+    {
+     "t": "Ibuprofen hoặc thuốc giảm đau chống viêm khác để hạ sốt",
+     "v": "w",
+     "n": "QĐ 2760/2023 mục IV.A.1: không dùng ibuprofen, analgin, aspirin khi dengue chưa loại hẳn (nguy cơ xuất huyết, toan máu)."
+    },
+    {
+     "t": "Cho atropin hoặc đưa đi 'giải độc thuốc sâu' ở tỉnh",
+     "v": "w",
+     "n": "Không có hội chứng cường cholin; atropin dùng cho ngộ độc phospho hữu cơ đã chẩn đoán (QĐ 3610/2015, chương 6 mục 2.1, 3.1.1). Tác hại khi dùng không có ngộ độc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện, hoặc chuyển bệnh viện tỉnh khám tim mạch ngay",
+     "v": "w",
+     "n": "Cúm nhẹ, SpO₂ 96%, ECG bình thường, đau ngực kiểu thành ngực: không có chỉ định (QĐ 1840 mục III.2.2, III.2.4; ESC 2023 mục 3.2)."
+    },
+    {
+     "t": "Cho thuốc cảm hoặc hạ sốt có chứa aspirin",
+     "v": "h",
+     "n": "QĐ 1840 mục III.2.2: aspirin ở người bệnh cúm có thể gây hội chứng Reye đe dọa tính mạng, và có thể gây xuất huyết nếu là sốt xuất huyết (QĐ 2760 mục IV.A.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm mùa (cúm A, test nhanh dương tính), thể nhẹ, ngày thứ 3 của bệnh (khoảng 42 giờ), chưa biến chứng (QĐ 1840/2025 mục II.2.3, II.2.4)",
+     "Yếu tố nguy cơ cúm nặng: tuổi > 65; chưa tiêm vắc xin cúm; hút thuốc lào (QĐ 1840 mục II.2.3)",
+     "Bệnh cảnh không điển hình: sốt nhẹ, thiên về đau cơ và tức ngực khi ho, ít triệu chứng hô hấp trên (QĐ 1840 mục II.1.1)",
+     "Đau ngực kiểu thành ngực/màng phổi do ho, không phải hội chứng vành cấp (ECG bình thường, tăng khi ho, ấn đau)",
+     "Đã loại trừ: COVID-19 (test nhanh âm), sốt xuất huyết giai đoạn sớm (NS1, IgM âm, tiểu cầu, Hct bình thường; vẫn theo dõi ngày 3–7), ngộ độc thuốc trừ sâu (không hội chứng cường cholin), viêm phổi (phổi sạch, SpO₂ 96%)",
+     "Điều trị trước đó không phù hợp: kháng sinh không có chỉ định, một mũi dexamethason, hai thuốc chứa paracetamol dùng chồng"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: khởi phát đột ngột với ớn lạnh, sốt, đau cơ, mệt, ho khan, cháu nội ho sốt trước đó, xóm nhiều người ho sốt: nghi cúm (QĐ 1840 mục II.1.1, II.2.4.1). Ở tuổi 66 biểu hiện có thể không điển hình (mục II.1.1), sốt 37,9 °C, không đau họng, sổ mũi vẫn không loại trừ cúm.",
+     "Hỏi ba điều: (1) hóa chất: tên thuốc, triệu chứng cường cholin, người cùng phun; (2) đau ngực: tính chất, tăng khi ho, lan, gắng sức; (3) ba nơi đã làm gì, xem phiếu. Hỏi 'ông sợ bệnh gì' mới ra nỗi sợ nhồi máu như anh trai.",
+     "Khám: sinh hiệu ổn, phổi sạch, tim bình thường, ấn bờ sườn tái hiện đau, đồng tử 3 mm, da khô, không chấm xuất huyết; không hội chứng M, N hay thần kinh trung ương (QĐ 3610/2015 chương 6 mục 2.1).",
+     "Cận lâm sàng: cần nhất là test nhanh cúm/SARS-CoV-2 (QĐ 1840 mục II.2.1; WHO 2024) vì chưa nơi nào làm; NS1 vì ngày 3 (QĐ 2760 mục III.1.1, II.2). ECG lặp lại để trấn an. Không lặp X-quang, công thức máu đã có phiếu ngày 1.",
+     "Phân biệt: COVID-19 bằng test; sốt xuất huyết bằng NS1, tiểu cầu, Hct; ngộ độc thuốc sâu bằng khám; nhồi máu cơ tim bằng tính chất đau, ECG (ESC 2023 mục 3.1.1, 3.2); viêm phổi bằng khám và SpO₂."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú vì cúm nhẹ, SpO₂ 96%, uống được, có người nhà, ở gần (QĐ 1840 mục III.2.2); nhập viện khi suy hô hấp, rối loạn tri giác, sốc (mục II.2.3).",
+     "Kháng virus sớm vì ≥ 65 tuổi: oseltamivir 75 mg × 2 lần/ngày × 5 ngày (QĐ 1840 mục III.2.1) hoặc baloxavir 40 mg một liều (WHO 2024, trong 48 giờ). BYT 06/2025 chọn oseltamivir đầu tay, WHO 09/2024 gợi ý baloxavir cho nguy cơ cao; ca ghi cả hai. Clcr khoảng 69 mL/ph nên không giảm liều (CDC 2026 Bảng 5).",
+     "Dừng kháng sinh vì cúm nhẹ không có chỉ định (QĐ 1840 mục III.2.2; WHO 2024), CRP 12 mg/L (NICE NG237 khuyến cáo 1.3.4). Không corticoid (QĐ 1840 mục III.2.3).",
+     "Hạ sốt chỉ paracetamol đơn chất vì chưa loại hẳn sốt xuất huyết (QĐ 2760 mục IV.A.1), < 3 g/ngày ở người cao tuổi (QĐ 361/2014 Phụ lục NSAID mục 3.3); bỏ thuốc cảm trùng paracetamol.",
+     "Nỗi sợ nhồi máu: nói rõ đau thành ngực do ho, cho xem ECG, dặn dấu hiệu đi cấp cứu; giải thích vì sao ba nơi khác nhau."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "75 mg viên nang",
+      "lieu": "75 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, cách nhau khoảng 12 giờ, liều đầu ngay hôm nay",
+      "so_ngay": "5 ngày (10 liều)",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1; CDC 2026 Bảng 5 (Clcr 61–90 không giảm liều). Buồn nôn, nôn là tác dụng phụ thường gặp (IDSA 2018, phần thảo luận khuyến cáo 20–22; CDC 2026 Bảng 1); uống cùng bữa ăn để đỡ nôn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Baloxavir marboxil (thay oseltamivir, nếu chọn cách của WHO 2024)",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg một liều duy nhất (cân nặng 64 kg, nhóm 20–79 kg)",
+      "duong": "Uống",
+      "thoi_diem": "Một lần, trong 48 giờ kể từ khởi phát",
+      "so_ngay": "1 liều",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1 bảng baloxavir; WHO 2024 (BMJ 2026, phần Recommendations). Chọn một trong hai; phối hợp hai thuốc ức chế neuraminidase không khuyến cáo (IDSA 2018 khuyến cáo 20); phối hợp với oseltamivir: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg/lần, cách nhau ít nhất 6 giờ, tối đa 4 viên (2 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C hoặc đau nhức",
+      "so_ngay": "Đến khi hết sốt",
+      "ghi_chu": "QĐ 2760/2023 mục IV.A.1 (đơn chất; 10–15 mg/kg/lần, tổng ≤ 60 mg/kg/24 giờ); QĐ 361/2014 Phụ lục NSAID mục 3.3 (người cao tuổi < 3 g/ngày). 500 mg tương đương 7,8 mg/kg, dưới khoảng 10–15 mg/kg vì thận trọng ở người cao tuổi."
+     },
+     {
+      "thuoc": "Amoxicillin–acid clavulanic 625 mg, Decolgen, Hapacol",
+      "ham_luong": "đang dùng",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng nữa",
+      "ghi_chu": "Kháng sinh: QĐ 1840 mục III.2.2, WHO 2024. Decolgen và Hapacol trùng paracetamol; thuốc cảm cần xem thành phần, tránh aspirin (QĐ 1840 mục III.2.2)."
+     },
+     {
+      "thuoc": "Vitamin C sủi, vitamin tổng hợp, canxi–tảo biển",
+      "ham_luong": "đang dùng",
+      "lieu": "Giữ nguyên hoặc tạm ngưng tùy ông",
+      "duong": "Uống",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Như cũ",
+      "ghi_chu": "Giữ nguyên; tương tác với oseltamivir và tác dụng vitamin C liều cao trên cúm: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cúm do virus, sốt thường 3–5 ngày, ho kéo dài hơn rồi khỏi (QĐ 1840 mục II.1.1). Thuốc kháng virus rút ngắn bệnh chứ không cắt ngay triệu chứng (CDC 2026, Summary).",
+     "Ba nơi chưa ai thử cúm, hôm nay có kết quả. Ngưng kháng sinh. Paracetamol 500 mg không quá 4 viên/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); bỏ gói thuốc cảm trùng.",
+     "Đau ngực của ông là đau thành ngực do ho. Quay lại hoặc gọi cấp cứu ngay khi đau xuất hiện lúc gắng sức hoặc khi nghỉ không do ho, lan lên vai, tay, cổ hàm, kèm vã mồ hôi hoặc khó thở (ESC 2023 mục 3.1.1).",
+     "Quay lại ngay nếu khó thở, thở nhanh, lú lẫn (QĐ 1840 mục II.1.2); hoặc dấu hiệu sốt xuất huyết: nôn nhiều, đau bụng nhiều, chảy máu mũi, chân răng, tay chân lạnh ẩm, mệt lả, không tiểu trên 6 giờ, li bì (QĐ 2760/2023 mục IV.A.3).",
+     "Uống đủ nước, ăn cháo, ở nhà nghỉ, khẩu trang, rửa tay, tránh cháu nhỏ (QĐ 1840 mục IV.2); chưa phun thuốc, chưa ra ruộng khi còn sốt.",
+     "Hẹn tái khám sau 2 ngày; sau khỏi tiêm vắc xin cúm hằng năm (QĐ 1840 mục IV.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám theo hẹn, ngày thứ 5 của bệnh, ông Sáu đã uống oseltamivir 4 liều, bà Lụa đi cùng. Ông nói 'thuốc đắt vậy mà chưa đỡ', than ho nhiều hơn và ngực vẫn đau. Sinh hiệu: nhiệt độ 37,8 °C, mạch 84 l/p, HA 130/80 mmHg, nhịp thở 20 l/p, SpO₂ 97% khí trời, cân nặng 64 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Sáu ngày thứ 5, 37,8 °C, SpO₂ 97%, thở 20 l/p, X-quang sạch, CRP 11 mg/L, không dấu hiệu cúm nặng (khó thở, thở nhanh, suy hô hấp, rối loạn tri giác: QĐ 1840/2025 mục II.2.3) nên tiếp tục ngoại trú là đủ (mục III.2.2). Nhập viện làm lặp lại xét nghiệm, tốn kém, mất những ngày công, và dễ dẫn tới kháng sinh tĩnh mạch không có chỉ định (QĐ 1840 mục III.2.2). Ông và bà Lụa càng tin 'bệnh nặng thật, tim có chuyện' nên không hết lo.",
+    "chuyen_tuyen": "Chuyển ông lên tỉnh 'giải độc' hay khám tim khi không có hội chứng cường cholin, ECG và đau ngực kiểu thành ngực, hs-cTn bình thường nếu đo (QĐ 3610/2015 chương 6 mục 2.1; ESC 2023 mục 3.2, 3.3.1). Ông đi xa, tốn kém, thêm một nơi khám thứ năm nói thêm một chẩn đoán khác. Việc cần làm là nhắc uống đủ thuốc, ngưng thảo dược và hẹn khám lại, những việc làm được tại đây."
+   },
+   "loi_mo": "Uống thuốc hai ngày rồi mà tôi vẫn sốt, vẫn ho, ngực đau hoài. Thuốc này không ăn, bác sĩ cho đổi thuốc mạnh hơn đi.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "130/80",
+    "nhiet": "37,8",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đã uống thuốc đắt (oseltamivir) hai ngày mà vẫn sốt, vẫn ho, ngực càng ho càng đau, chưa đỡ. Đi theo hẹn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày 2 uống liều đầu lúc 9 giờ sáng, mỗi ngày 2 viên đúng giờ, bà Lụa nhắc và đếm vỉ (còn 6 viên). Sốt tối qua 38,2 °C, sáng nay 37,8 °C. Ho nhiều hơn, ít đờm trắng trong, không máu. Mệt, ăn nửa chén cháo. Buồn nôn nhẹ sau mỗi liều, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, diễn tiến sau 2 ngày kháng virus",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_them",
+     "noi_dung": "Đã ngưng kháng sinh và thuốc cảm từ hôm khám trước. Dùng oseltamivir, paracetamol 500 mg (hôm qua 3 viên). Bà Lụa mới mua gói bột thảo dược 'bổ gan giải độc', ông uống 2 gói. Vitamin vẫn dùng như cũ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'còn uống gì thêm không' thì ông nói 'không'. Chỉ nhắc gói bột giải độc của bà Lụa khi hỏi từng loại thuốc, thảo dược, thuốc nam bà mua thêm.",
+     "k": 1,
+     "y": "Thuốc đang dùng, thuốc mới tự mua (hỏi đúng tên và thành phần)"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Vẫn đau hai bên sườn và ngực dưới, đau mỗi khi ho; nằm yên thì hết. Không đau khi đi lại, không lan, không vã mồ hôi, không khó thở. Ông vẫn lo: 'đau hoài chắc tim có chuyện'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi có đau ngực không thì ông than đau nhiều. Hỏi đau thế nào mỗi khi nào mới kể như trên.",
+     "k": 1,
+     "y": "Đau ngực không tiến triển, không liên quan gắng sức"
+    },
+    {
+     "id": "kho_tho",
+     "noi_dung": "Không khó thở, đi bộ ra sân không hụt hơi. Không ho ra máu, không sốt rét run mới, không đau một bên cố định.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu biến chứng phổi"
+    },
+    {
+     "id": "sxh",
+     "noi_dung": "Không chảy máu mũi, chân răng; không nổi chấm; tiểu bình thường; không nôn nhiều; không đau bụng; không tay chân lạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cảnh báo sốt xuất huyết ngày 5"
+    },
+    {
+     "id": "tam_ly",
+     "noi_dung": "Ông mất ngủ hai đêm vì 'cứ sợ lên cơn đau tim'. Vợ ông, bà Lụa, vẫn nghĩ do ngấm thuốc sâu, đòi đi tỉnh giải độc. Ông nói 'bác sĩ nói tim ổn, nhưng cứ lo'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi đêm ngủ thế nào, còn lo điều gì, hoặc hỏi thẳng về nỗi sợ tim sau khi đã khám.",
+     "k": 1,
+     "y": "Nỗi sợ tim vẫn còn, cần trấn an có đo lường"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông sợ mình 'kém may' như anh khi uống thuốc hai ngày mà chưa hết sốt; chưa hiểu thuốc kháng virus chỉ rút ngắn bệnh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông mong thuốc cho kết quả thế nào, hoặc vì sao nghĩ thuốc không hiệu quả.",
+     "k": 1,
+     "y": "Kỳ vọng sai về thuốc kháng virus"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt nhưng ngồi nói chuyện bình thường, đỡ đỏ mặt hơn lần trước. Da niêm hồng, không vã mồ hôi.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Rung thanh đều, gõ trong. Ran ngáy rải rác hai phế trường, mất sau khi ho; đáy phổi hai bên rì rào êm, không ran nổ, không tam chứng đông đặc.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Rung thanh đều hai bên, gõ trong.",
+     "media": [
+      {
+       "vi_tri": "Giữa hai phế trường (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy rải rác, mất sau khi ho."
+      },
+      {
+       "vi_tri": "Hai đáy phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran nổ."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 84 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn bờ sườn dưới hai bên vẫn đau, tái hiện đúng cái đau khi ho; đau cơ bắp chân, lưng giảm so lần trước.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan không to, không đau hạ sườn phải.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết, nghiệm pháp dây thắt: không làm vì không có chỉ định.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay đều rõ, tay chân ấm, mao mạch hồi sắc < 2 giây.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "u",
+     "r": "Tim phổi bình thường. Không thâm nhiễm, không tràn dịch.",
+     "n": "Lần này có lý do mới: ngày 5, sốt dai dẳng, ho tăng, đau ngực chưa giảm ở người ≥ 65 tuổi, cần loại biến chứng viêm phổi (QĐ 1840/2025 mục II.1.2, II.2.2: X-quang khi nghi viêm phổi). Phim ngày 1 chụp trước các triệu chứng mới nên không thay thế được."
+    },
+    "crp": {
+     "v": "u",
+     "r": "11 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 11
+     },
+     "n": "< 20 mg/L: không cho kháng sinh thường quy (NICE NG237 khuyến cáo 1.3.4). QĐ 1840 mục II.2.2 chỉ làm CRP ở cúm nặng; ở đây dùng thêm để quyết định không kháng sinh khi bệnh nhân đòi 'thuốc mạnh hơn'."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 5,4 G/L · Neutrophil 62% · Hb 146 g/L · TC 196 G/L · Hct 0,43",
+     "bang": {
+      "wbc": 5.4,
+      "neu_pct": 62,
+      "neu": 3.35,
+      "lym_pct": 25,
+      "lym": 1.35,
+      "mono_pct": 10,
+      "mono": 0.54,
+      "eos_pct": 2.5,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.9,
+      "hgb": 146,
+      "hct": 0.43,
+      "mcv": 87.8,
+      "mch": 29.8,
+      "mchc": 340,
+      "rdw": 13.0,
+      "plt": 196
+     },
+     "n": "Ngày 5 nằm trong giai đoạn nguy hiểm của sốt xuất huyết ngày 3–7 (QĐ 2760/2023 mục II.2). TC giảm nhẹ từ 208 xuống 196 G/L vẫn bình thường (> 100 G/L), Hct vẫn 0,43, không tăng so với lượt trước."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 84 l/p, không biến đổi ST–T, không block.",
+     "n": "Hai ECG bình thường và đau vẫn kiểu thành ngực; làm lại để trấn an chấp nhận được, không bắt buộc (ESC 2023 mục 3.2)."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Troponin T hs 5 ng/L (ngưỡng < 14)",
+     "n": "Không nghi hội chứng vành cấp (ESC 2023 mục 3.3.1: dành cho nghi ACS); làm cho yên tâm chấp nhận được, không trừ điểm."
+    },
+    "flu": {
+     "v": "n",
+     "r": "Cúm A: dương tính (giữ kết quả lượt 1).",
+     "n": "Đã dương tính ở lượt 1; làm lại không đổi xử trí, vô ích."
+    },
+    "ns1": {
+     "v": "n",
+     "r": "NS1 âm tính · IgM âm tính · IgG âm tính",
+     "n": "Đã làm lượt 1; cúm A giải thích sốt, theo dõi bằng lâm sàng, Hct, tiểu cầu thay vì lặp NS1. IgM/IgG từ ngày 5 khi NS1 âm và còn nghi (QĐ 2760/2023 mục III.1.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm A không biến chứng, ngày thứ 5 của bệnh, đang đáp ứng điều trị kháng virus chậm (người ≥ 65 tuổi); không có thất bại điều trị",
+     "ok": 1,
+     "n": "Sốt 37,8 °C, SpO₂ 97%, thở 20 l/p, phổi không ran nổ, X-quang sạch, CRP 11 mg/L; không dấu cúm nặng (QĐ 1840/2025 mục II.1.2, II.2.3). Phần lớn sốt 3–5 ngày, ho kéo dài hơn (mục II.1.1). Kháng virus rút ngắn bệnh, không cắt triệu chứng ngay (CDC 2026, phần Summary)."
+    },
+    {
+     "t": "Viêm phổi do cúm hoặc bội nhiễm vi khuẩn",
+     "n": "Không khó thở, SpO₂ 97%, không ran nổ, X-quang sạch, CRP < 20 mg/L (QĐ 1840 mục II.1.2, II.2.2; NICE NG237 khuyến cáo 1.3.4). Dặn quay lại nếu sốt trở lại sau khi đã hết sốt, khạc đờm mủ, khó thở."
+    },
+    {
+     "t": "Thất bại điều trị do không tuân thủ, thuốc dùng thêm hoặc kháng thuốc",
+     "n": "Tuân thủ tốt (đếm vỉ thuốc, đúng giờ); đúng liều 75 mg 2 lần/ngày (QĐ 1840 mục III.2.1); thuốc mới là gói thảo dược chưa rõ thành phần, cần ngưng. Nghi kháng oseltamivir: giải trình tự, định tình trạng kháng chỉ khi có điều kiện và nghi biến chủng (mục II.2.1), không cần ngoại trú vì ông đang đỡ dần."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue (ngày 5, giai đoạn nguy hiểm)",
+     "n": "Không dấu hiệu cảnh báo (không đau bụng, không nôn nhiều, không chảy máu); Hct 0,43, tiểu cầu 196 G/L (QĐ 2760/2023 mục II.2). Đã có căn nguyên cúm A."
+    },
+    {
+     "t": "Hội chứng vành cấp / viêm cơ tim, màng ngoài tim",
+     "n": "Đau thành ngực khi ho, ấn tái hiện, ECG hai lần bình thường, hs-cTn 5 ng/L nếu đo (ESC 2023 mục 3.2, 3.3.1). Biến chứng tim do cúm không có trong tài liệu đã tải; theo dõi nếu đau thay đổi tính chất."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú tiếp, không nhập viện, không đổi chẩn đoán",
+     "v": "c",
+     "n": "Cúm nhẹ không biến chứng, SpO₂ 97% (QĐ 1840/2025 mục III.2.2). Chưa phải thất bại: sốt giảm (38,2 xuống 37,8 °C), thuốc mới dùng 2 ngày."
+    },
+    {
+     "t": "Chạy lần lượt các nguyên nhân 'không đỡ': tuân thủ thuốc (đếm vỉ), thuốc dùng thêm (hỏi từng loại), biến chứng phổi (khám, X-quang, CRP), chẩn đoán sai (xem lại test cúm, theo dõi sốt xuất huyết), kháng thuốc",
+     "v": "c",
+     "n": "Quy trình thất bại điều trị theo sổ cái. QĐ 1840 mục II.1.2, II.2.2 (X-quang khi nghi viêm phổi); QĐ 2760/2023 mục II.2 (ngày 3–7)."
+    },
+    {
+     "t": "Tiếp tục oseltamivir 75 mg uống 2 lần/ngày cho đủ 5 ngày (còn 6 liều); nếu ông đã chọn baloxavir ở lượt trước thì không cần dùng thêm thuốc kháng virus",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.1 (5 ngày); IDSA 2018 khuyến cáo 22 (5 ngày). Kéo dài tới 10 ngày chỉ cho cúm nặng và suy giảm miễn dịch (QĐ 1840 mục III.2.1, ghi chú *). Ông không thuộc nhóm đó."
+    },
+    {
+     "t": "Giải thích kháng virus không dập sốt ngay; tiếp tục không kháng sinh",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2; WHO 2024 (mạnh chống kháng sinh khi cúm không nặng); NICE NG237 khuyến cáo 1.3.4 (CRP < 20 không kê). CDC 2026 phần Summary: điều trị sớm rút ngắn thời gian sốt và triệu chứng."
+    },
+    {
+     "t": "Ngưng gói bột thảo dược 'bổ gan giải độc'; không dùng thêm thuốc không rõ thành phần; tiếp tục paracetamol đơn chất khi sốt ≥ 38,5 °C hoặc đau, tối đa 4 viên 500 mg/ngày",
+     "v": "c",
+     "n": "Gói thảo dược: tương tác với oseltamivir và độc gan của thảo dược không có trong tài liệu đã tải; thận trọng. Paracetamol: QĐ 2760/2023 mục IV.A.1; QĐ 361/2014 Phụ lục NSAID mục 3.3 (< 3 g/ngày ở người cao tuổi)."
+    },
+    {
+     "t": "Trấn an có số liệu về tim (ECG bình thường hai lần, đau do ho, ấn đau), làm lại ECG nếu đau đổi tính chất; nói với bà Lụa về 'giải độc' (khám loại cường cholin, người cùng phun khỏe)",
+     "v": "c",
+     "n": "Động cơ thật: sợ nhồi máu. ESC 2023 mục 3.1.1, 3.2. QĐ 3610/2015 chương 6 mục 2.1."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày (ngày thứ 8 của bệnh) hoặc quay lại ngay khi có dấu hiệu nặng; ho có thể còn kéo dài hơn sốt; chưa ra ruộng khi còn sốt",
+     "v": "c",
+     "n": "QĐ 1840 mục II.1.1 (ho kéo dài hơn), III.2.2, IV.2; NICE NG237 khuyến cáo 1.1.2. Mốc 3 ngày: theo dõi sau điều trị; tài liệu không nêu con số riêng."
+    },
+    {
+     "t": "Tiêm vắc xin cúm hằng năm sau hồi phục (ưu tiên liều cao, có tá dược hoặc tái tổ hợp cho người ≥ 65 tuổi)",
+     "v": "c",
+     "n": "QĐ 1840 mục IV.1; CDC-ACIP 2025–26."
+    },
+    {
+     "t": "Làm lại ECG và troponin hs cho yên tâm",
+     "v": "a",
+     "n": "ESC 2023 mục 3.2, 3.3.1: dành cho nghi ACS; không có chỉ định, chấp nhận được vì ông đang lo, không bắt buộc."
+    },
+    {
+     "t": "Chuyển sang baloxavir 40 mg vì 'oseltamivir không hiệu quả'",
+     "v": "a",
+     "n": "Không có tài liệu đã tải nói về đổi thuốc khi chưa đỡ sau 2 ngày; QĐ 1840 mục III.2.1 xếp baloxavir là thay thế khi không có oseltamivir. Không cần đổi vì ông đang đỡ dần."
+    },
+    {
+     "t": "Tăng liều oseltamivir gấp đôi (150 mg × 2 lần/ngày)",
+     "v": "w",
+     "n": "IDSA 2018 khuyến cáo 21: không dùng thường quy liều cao hơn liều được cấp phép."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin–acid clavulanic, levofloxacin) vì còn sốt, ho đờm",
+     "v": "w",
+     "n": "Không có bằng chứng bội nhiễm: CRP 11 mg/L, X-quang sạch, đờm trong. QĐ 1840 mục III.2.2; WHO 2024; NICE NG237 khuyến cáo 1.3.4."
+    },
+    {
+     "t": "Corticoid toàn thân",
+     "v": "w",
+     "n": "QĐ 1840 mục III.2.3: không corticoid thường quy cho người nhiễm cúm."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện tỉnh 'giải độc' hay khám tim",
+     "v": "w",
+     "n": "Không dấu cúm nặng, không biến chứng, không cường cholin (QĐ 1840 mục II.2.3; QĐ 3610/2015 chương 6 mục 2.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm A không biến chứng, ngày thứ 5 của bệnh, ngày thứ 2 của kháng virus; không thất bại điều trị (QĐ 1840/2025 mục II.2.3, III.2.1)",
+     "Hồi phục chậm ở người 66 tuổi: mệt, ho tăng, đau thành ngực do ho, sốt hạ dần (37,8 °C)",
+     "Đã loại trừ: viêm phổi hoặc bội nhiễm (X-quang sạch, CRP 11 mg/L, SpO₂ 97%), sốt xuất huyết giai đoạn nguy hiểm (không dấu cảnh báo, Hct, tiểu cầu bình thường), hội chứng vành cấp (ECG, tính chất đau), không tuân thủ (đúng giờ, đếm vỉ), ngộ độc thuốc trừ sâu",
+     "Vấn đề thuốc: gói thảo dược tự mua không rõ thành phần; nhiễu: nỗi sợ nhồi máu cơ tim và niềm tin 'ngấm thuốc sâu'"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: liều và giờ uống oseltamivir, đếm vỉ thuốc, từng loại thuốc và thảo dược mới, ho, đờm, đau ngực, khó thở, dấu hiệu sốt xuất huyết. Sốt hạ từ 38,2 xuống 37,8 °C, không khó thở; ho tăng, ít đờm trong.",
+     "Khám: SpO₂ 97%, ran ngáy mất sau ho, không ran nổ, không đông đặc; ấn bờ sườn tái hiện đau; bụng, da không dấu cảnh báo sốt xuất huyết (QĐ 2760/2023 mục II.2).",
+     "Cận lâm sàng có lý do mới: X-quang, CRP vì sốt dai dẳng ngày 5 và đau ngực chưa giảm (QĐ 1840 mục II.2.2); công thức máu theo dõi tiểu cầu, Hct ngày 3–7 (QĐ 2760/2023 mục II.2). Không lặp test cúm, NS1. ECG, troponin chỉ để trấn an.",
+     "Kết luận: không thất bại điều trị; cúm ở người cao tuổi hồi phục chậm. Chỉnh kỳ vọng: kháng virus rút ngắn bệnh chứ không cắt ngay (CDC 2026, Summary)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú tiếp, hoàn tất oseltamivir 5 ngày (QĐ 1840 mục III.2.1; IDSA 2018 khuyến cáo 22); không kéo dài 10 ngày vì không cúm nặng, không suy giảm miễn dịch (QĐ 1840 mục III.2.1, ghi chú).",
+     "Không kháng sinh: CRP 11 mg/L (NICE NG237 khuyến cáo 1.3.4), X-quang sạch (QĐ 1840 mục III.2.2; WHO 2024). Không tăng liều oseltamivir (IDSA 2018 khuyến cáo 21), không corticoid (QĐ 1840 mục III.2.3).",
+     "Ngưng thảo dược không rõ thành phần. Paracetamol đơn chất khi cần, < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+     "Trấn an có số liệu về tim và 'ngấm thuốc sâu', dặn dấu hiệu quay lại, hẹn khám, tiêm vắc xin cúm sau hồi phục (QĐ 1840 mục IV.1; CDC-ACIP 2025–26)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "75 mg viên nang",
+      "lieu": "75 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, cách nhau khoảng 12 giờ",
+      "so_ngay": "Uống nốt 6 liều còn lại (đủ 5 ngày)",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1; IDSA 2018 khuyến cáo 22. Buồn nôn nhẹ thường gặp (CDC 2026 Bảng 1); nôn nhiều hoặc phát ban nặng thì quay lại (CDC 2026 Bảng 1: phản ứng da nặng sau lưu hành)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg/lần, cách nhau ít nhất 6 giờ, tối đa 4 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C hoặc đau",
+      "so_ngay": "Đến khi hết sốt",
+      "ghi_chu": "QĐ 2760/2023 mục IV.A.1; QĐ 361/2014 Phụ lục NSAID mục 3.3."
+     },
+     {
+      "thuoc": "Gói bột thảo dược 'bổ gan giải độc'",
+      "ham_luong": "đang dùng",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "Thành phần và tương tác: không có trong tài liệu đã tải; ngưng cho an toàn."
+     },
+     {
+      "thuoc": "Vitamin C, vitamin tổng hợp, canxi–tảo biển",
+      "ham_luong": "đang dùng",
+      "lieu": "Giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Như cũ",
+      "ghi_chu": "Giữ nguyên, đang dùng từ trước; không ảnh hưởng điều trị cúm theo tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Kháng virus rút ngắn bệnh chứ không cắt ngay sốt, ho; sốt thường 3–5 ngày, ho kéo dài hơn (QĐ 1840 mục II.1.1). Uống đủ 6 liều còn lại.",
+     "Không cần kháng sinh vì chưa có dấu hiệu nhiễm khuẩn: phổi sạch, CRP thấp.",
+     "Đau ngực của ông là đau thành ngực do ho; tim bình thường (ECG hai lần). Đau khi gắng sức, lan tay hàm, vã mồ hôi, khó thở: đi cấp cứu ngay (ESC 2023 mục 3.1.1).",
+     "Quay lại ngay nếu sốt trở lại sau khi đã hết, ho đờm mủ, khó thở, thở nhanh, lú lẫn (QĐ 1840 mục II.1.2); hoặc nôn nhiều, đau bụng, chảy máu, tay chân lạnh, không tiểu > 6 giờ (QĐ 2760/2023 mục IV.A.3).",
+     "Ngưng gói thảo dược, không tự mua thêm thuốc. Ở nhà đến khi hết sốt, khẩu trang, tránh cháu nhỏ (QĐ 1840 mục IV.2).",
+     "Hẹn tái khám sau 3 ngày; sau khỏi tiêm vắc xin cúm hằng năm (QĐ 1840 mục IV.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Sáu uống đủ 5 ngày oseltamivir (hoặc một liều baloxavir ở lượt 1 nếu chọn cách đó), bỏ gói thảo dược. Sốt hết vào ngày thứ 6 của bệnh, ho còn thêm khoảng một tuần, đau ngực giảm theo ho (sốt 3–5 ngày, ho kéo dài hơn: QĐ 1840/2025 mục II.1.1). Ông tin vào hai điện tim và lời giải thích về cơn đau thành ngực, ngủ lại được; bà Lụa thôi chuyện đi tỉnh giải độc. Không biến chứng. Ông hỏi chuyện tiêm vắc xin cúm cho cả nhà. Điểm khó của ca là giữ niềm tin của người đã đi ba nơi và nghe ra nỗi sợ nhồi máu.",
+ "nhieu": [
+  "Phun thuốc trừ sâu rồi bệnh cùng ngày: cái neo 'ngấm thuốc sâu'. Không hội chứng cường cholin, người cùng phun khỏe, cháu nội ho sốt trước đó (QĐ 3610/2015 chương 6 mục 2.1; QĐ 1840/2025 mục II.2.4.1).",
+  "Ba nơi, ba chẩn đoán (cảm nắng; nhiễm thuốc sâu, viêm họng; viêm phế quản, 'đi khám tim'), kháng sinh, một mũi dexamethason, thuốc cảm trùng paracetamol. Không lặp xét nghiệm đã làm; chỉ làm cái chưa ai làm (test cúm, NS1).",
+  "Thuốc đang dùng là vitamin và thực phẩm chức năng (tương tác với oseltamivir: không có trong tài liệu đã tải); lượt 2 thêm gói thảo dược tự mua cần ngưng."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 65 tuổi bị cúm có thể sốt nhẹ, ít đau họng, sổ mũi; đau cơ, tức ngực khi ho nổi bật (QĐ 1840/2025 mục II.1.1). Dịch tễ (cháu ho sốt, xóm nhiều người) giúp nghĩ tới.",
+  "Ba nơi khám, không nơi nào thử cúm: xem lại phiếu cũ, nói rõ cái đã làm đủ (X-quang, công thức máu ngày 1) và cái chưa làm (test cúm, NS1), rồi chỉ làm cái chưa làm.",
+  "Hỏi thẳng 'bác sợ bệnh gì nhất': nỗi sợ nhồi máu như anh trai là lý do thật; ECG bình thường và ấn đau tái hiện đau cho phép trấn an có cơ sở (ESC 2023 mục 3.1.1, 3.2).",
+  "Phơi nhiễm hóa chất không đồng nghĩa ngộ độc: tìm hội chứng M, N, thần kinh trung ương (QĐ 3610/2015 chương 6 mục 2.1) trước khi cho rằng 'ngấm thuốc sâu'.",
+  "Kháng virus cho người ≥ 65 tuổi dù cúm nhẹ; BYT chọn oseltamivir, WHO gợi ý baloxavir trong 48 giờ; ghi cả hai (QĐ 1840 mục III.2.1; WHO 2024).",
+  "'Không đỡ' sau 2 ngày kháng virus chưa phải thất bại: chạy quy trình (tuân thủ, thuốc thêm, biến chứng, chẩn đoán sai, kháng thuốc), rồi chỉnh kỳ vọng (QĐ 1840 mục II.1.1).",
+  "Không kháng sinh, không corticoid ở cúm nhẹ (QĐ 1840 mục III.2.2, III.2.3; WHO 2024); CRP < 20 mg/L là điểm tựa không kê (NICE NG237 khuyến cáo 1.3.4).",
+  "Chưa loại hẳn sốt xuất huyết ở ngày 3: paracetamol đơn chất, không ibuprofen, aspirin; dặn dấu hiệu quay lại (QĐ 2760/2023 mục II.2, IV.A.1, IV.A.3)."
+ ],
+ "diem_nho": [
+  "Cúm nhẹ ngoại trú chỉ dùng kháng virus khi có yếu tố nguy cơ (> 65 tuổi, bệnh nền, suy giảm miễn dịch, trẻ < 5 tuổi, thai kỳ), càng sớm càng tốt (QĐ 1840/2025 mục II.2.3, III.2.1–2.2).",
+  "Oseltamivir 75 mg × 2 lần/ngày × 5 ngày; baloxavir 40 mg một liều cho 20–79 kg, trong 48 giờ theo WHO 2024; không dùng thuốc hạ sốt chứa aspirin (QĐ 1840 mục III.2.1–2.2).",
+  "Cúm nặng: suy hô hấp (khó thở, thở nhanh, cần hỗ trợ để SpO₂ > 95%), rối loạn tri giác, sốc (QĐ 1840 mục II.2.3); kháng sinh chỉ khi nặng hoặc nghi bội nhiễm (mục III.2.3).",
+  "Sốt xuất huyết: NS1 từ ngày 1 đến ngày 7 (ưu tiên 5 ngày đầu); giai đoạn nguy hiểm ngày 3–7 (QĐ 2760/2023 mục II.2, III.1.1).",
+  "ESC 2023: nghi ACS thì ECG trong 10 phút (mục 3.2), hs-cTn (mục 3.3.1)."
+ ],
+ "nguon": [
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – Hướng dẫn chẩn đoán và điều trị cúm mùa – mục II.1.1–1.2, II.2.1–2.4, III.2.1–2.4, IV.1–2",
+  "TL-0133 · WHO 2024 Clinical practice guidelines for influenza (BMJ 2026;392:e087397) – Recommendations, Key issues",
+  "TL-0139 · CDC 2026 Influenza Antiviral Medications – Summary, Bảng 1, 2, 5",
+  "IDSA 2018 Seasonal Influenza (kho cũ) – khuyến cáo 18, 20–22",
+  "TL-0146 · NICE NG237 2024 (cập nhật 9/2025) – khuyến cáo 1.1.2, 1.3.2–1.3.4",
+  "TL-0029 · QĐ 2760/QĐ-BYT 2023 – Sốt xuất huyết Dengue – mục II.1–2, III.1.1, IV.A.1, IV.A.3",
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 – COVID-19 – mục 4.8.2b, 4.8.3",
+  "TL-0035 · QĐ 3610/QĐ-BYT 2015 – ngộ độc – chương 6 (phospho hữu cơ) mục 2.1, 3.1.1",
+  "TL-0069 · ESC 2023 Acute Coronary Syndromes – mục 3.1.1, 3.2, 3.3.1",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 – Phụ lục NSAID mục 3.3",
+  "CDC-ACIP 2025 – Seasonal influenza vaccines 2025–26 (≥ 65 tuổi)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-26: soạn lần đầu theo sổ cái HH-0815. Chẩn đoán đích cúm A, loại trừ COVID-19 và sốt xuất huyết giai đoạn sớm.",
+  "Lượt 1 ở khoảng 42 giờ kể từ khởi phát (trong cửa sổ 48 giờ của WHO 2024); lượt 2 ngày 5 của bệnh. Kháng virus gộp 'oseltamivir hoặc baloxavir' (BYT 2025 và WHO 2024), cả hai chấm c.",
+  "Thiếu tài liệu: tương tác thảo dược với oseltamivir; cách giảm buồn nôn khi uống oseltamivir; biến chứng tim của cúm; xử trí khi không đỡ sau 2 ngày kháng virus; mốc 'đau khi gắng sức' là lời dặn của ca. Bản chữ CDC 2026 là nội dung mùa 2016–2017, không có baloxavir.",
+  "Chỉ số phụ tự bổ sung cho khớp bệnh cảnh: công thức máu, ure 5,2, creatinin 84 µmol/L, eGFR CKD-EPI 2021 ≈ 88, Clcr Cockcroft–Gault ≈ 69 mL/ph, CRP 12 và 11 mg/L, hs-cTn 6 và 5 ng/L.",
+  "Âm thanh: tim AT-TIM-BT-NL-01; phổi lượt 1 AT-PHOI-BT-NL-01; lượt 2 AT-PHOI-RAN-NGAY-01 và AT-PHOI-BT-NL-01 (đáy). X-quang, ECG bằng chữ."
+ ]
+}

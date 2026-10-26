@@ -1,0 +1,531 @@
+{
+ "ma_ca": "HH-1068",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình bản 3, nguồn kèm vị trí (2026-10-26)",
+ "benh": "HH_viem_thanh_quan_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm thanh quản cấp",
+  "chan_doan_phai_loai_tru": [
+   "Bạch hầu",
+   "Dị vật đường thở"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Tự ngưng thuốc đang dùng",
+  "thuoc_dang_dung": "Statin đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao"
+ },
+ "benh_nhan": {
+  "ten": "Võ Văn Tư",
+  "tuoi": 79,
+  "gioi": "Nam",
+  "nghe": "Bán tạp hóa nhỏ ở đầu chợ, ngồi sạp từ 4 giờ sáng đến chiều, rao hàng và nói chuyện với khách cả ngày",
+  "can_nang": 52,
+  "chieu_cao": 162,
+  "xung_ho": "Bác sĩ gọi ông là 'ông' hoặc 'bác'; ông xưng 'tui' hoặc 'bác', gọi bác sĩ là 'bác sĩ' hoặc 'cậu/cô' tùy tuổi. Con trai gọi ông là 'ba', xưng 'con' với ba và 'tôi' với bác sĩ.",
+  "tinh_cach": "Hiền, chậm rãi, nói nhỏ và ngắn gọn, trả lời đủ khi được hỏi, không giấu gì nhưng cũng ít tự kể. Quen coi mệt mỏi là 'già rồi'. Hay nghe người bán hàng quanh chợ mách thuốc, tin 'thuốc mỡ hại gan'.",
+  "kieu_nhieu": "Hợp tác tốt: ngồi yên, há miệng, hít thở theo hướng dẫn, đưa túi thuốc khi được hỏi. Không nhiễu cố ý; chỉ khó ở chỗ giọng nhỏ nên con trai phải nhắc lại, và ông không tự kể là đã ngưng thuốc mỡ hay muốn xin giấy sức khỏe nếu bác sĩ không hỏi.",
+  "nguoi_nha": "Con trai, anh Nghĩa, 47 tuổi, chạy xe tải nhỏ, chở ba đi khám sau giờ dọn hàng. Lo ba ăn ít, ngủ nhiều ban ngày, 'nói nghe như thì thầm'. Biết ba bỏ ăn mấy bữa, không biết ba ngưng thuốc mỡ, không biết chuyện giấy sức khỏe.",
+  "ten_nguoi_nha": "Anh Nghĩa (con trai)",
+  "ngoai_hinh": {
+   "da": "#b98e6a",
+   "toc": "#d9d9d6",
+   "kieuToc": "bui",
+   "ao": "#8a8f7a",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#b0805c",
+    "toc": "#2a2019",
+    "kieuToc": "ngan",
+    "ao": "#4a5a6a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, ăn kém, ho khan mấy ngày, con trai thấy ba nói nhỏ như thì thầm",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên đã về: phòng khám tối nay không làm được xét nghiệm máu, test nhanh, X-quang hay CT; mẫu gửi đi (nếu có) chỉ có kết quả sáng hôm sau. Còn dùng được: ống nghe, nhiệt kế, huyết áp kế, máy đo SpO₂, máy điện tim, máy đo đường huyết mao mạch, dụng cụ soi thanh quản gương."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Võ Văn Tư, 79 tuổi, bán tạp hóa nhỏ ở chợ, con trai chở đến lúc 18 giờ 45 vì mệt, ăn kém, ho khan mấy hôm nay. Sinh hiệu: nhiệt độ 36,8 °C, mạch 64 l/p, HA 146/78 mmHg, nhịp thở 20 l/p, SpO₂ 95% khí trời, cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Tư thở 20 l/p, SpO₂ 95%, không rít, không khó thở thanh quản, soi thấy dây thanh đỏ phù nhẹ di động đều. Viêm thanh quản cấp ở người lớn không gây nguy hiểm và hồi phục tốt; chỉ khó thở thanh quản mới cần xử trí cấp (QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 4.1.2, 5). Nằm viện làm ông mất ngày bán, anh Nghĩa phải bỏ chuyến xe để trông ba, tốn chi phí và ông chung phòng với người bệnh khác; những nguy cơ riêng của nằm viện ở người 79 tuổi: không có trong tài liệu đã tải.",
+    "chuyen_tuyen": "Chuyển ông lên bệnh viện tuyến trên để nội soi ống mềm hoặc chụp CT cổ là không cần: phòng khám đã soi gương thấy rõ dây thanh sung huyết phù nhẹ, hai bên di động, không u, không giả mạc. AAO-HNSF 2018 (nguồn bổ sung tự tìm; tóm tắt AAFP 2018, https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html) khuyến cáo không chụp CT hoặc MRI khi khàn chưa soi, và chỉ soi lại nếu khàn không hết sau 4 tuần. Ông 79 tuổi đang mệt, ăn kém, phải đi xe tối xa nhà, tốn cả đêm lẫn tiền, trong khi phòng khám vẫn theo dõi và tái khám được."
+   },
+   "loi_mo": "Dạ bác sĩ, mấy bữa nay tui thấy mệt, ăn không ngon, ho khan hoài. Thằng con nói tui nói nghe như thì thầm. Chắc già rồi bác sĩ.",
+   "sinh_hieu": {
+    "mach": 64,
+    "ha": "146/78",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mấy bữa nay thấy mệt, ăn không ngon, ho khan hoài. Con trai nói ba nói nghe như thì thầm. Ông nghĩ 'già rồi nên yếu giọng'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: mệt, ăn kém, ho khan, giọng yếu (không điển hình)"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Ngày 1 (6 ngày trước): sổ mũi trong, hơi ớn lạnh, không đo sốt. Ngày 2–3: ho khan từng tiếng, ăn ít vì chán ăn, ngủ nhiều ban ngày. Từ ngày 3–4 giọng nhỏ dần, nói thều thào; ông không thấy mình 'khàn', chỉ thấy 'nói hụt hơi'. Hai ngày nay đỡ sổ mũi nhưng vẫn ho, ăn ít. Không thấy nóng sốt, không đau họng, không khó thở, không nghe tiếng rít, không đau khi nuốt, không chảy nước dãi, không ho ra đờm hay ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: viêm đường hô hấp trên rồi giọng yếu dần, không dấu hiệu tắc nghẽn"
+    },
+    {
+     "id": "khong_xam_nhap",
+     "noi_dung": "Không bị hóc, nghẹn, sặc xương hay hạt gì; không có cơn ho sặc sụa, tím tái nào. Ăn cơm, cháo nuốt bình thường, chỉ ăn ít vì chán. Răng giả tháo lắp hàm trên còn đủ, không mất, không nuốt nhầm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không hội chứng xâm nhập; răng giả còn đủ (loại trừ dị vật)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Không đi đâu xa, không ai quanh sạp bị bệnh họng có màng hay phải nhập viện. Vài người bán hàng cạnh sạp mấy tuần nay cũng ho, khàn tiếng. Ông không nhớ đã tiêm vắc xin gì lúc lớn tuổi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dịch tễ bạch hầu âm tính; có người quanh ho khàn (gợi virus)"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Ông uống atorvastatin 20 mg mỗi tối hơn 2 năm do bác sĩ cho vì mỡ máu cao khi khám sức khỏe (không nhớ con số). Ba tuần trước ông tự ngưng, không báo ai, vì người bán hàng bên cạnh nói 'thuốc mỡ hại gan, yếu cơ' và ông thấy mỏi chân. Ngoài ra không dùng thuốc thường xuyên nào khác, không thuốc tự mua trong đợt này, chỉ uống nước chanh mật ong.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thuốc đang dùng thường xuyên, thuốc mỡ, hoặc hỏi có thuốc nào ông ngưng hay bỏ không. Hỏi chung 'có uống thuốc gì không' ông nói 'không, tui khỏe lắm'.",
+     "k": 1,
+     "y": "Tự ngưng atorvastatin 3 tuần trước (yếu tố khởi phát; thuốc đang dùng)"
+    },
+    {
+     "id": "moi_chan",
+     "noi_dung": "Mỏi hai bắp chân vào cuối ngày do ngồi, đứng cả ngày ở sạp, không đau cơ, không yếu khi đứng lên khỏi ghế hay giơ tay chải đầu, nước tiểu vàng bình thường. Đã mỏi như vậy từ trước khi uống thuốc mỡ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông mỏi chân ra sao, có yếu cơ, đau cơ, nước tiểu sẫm màu không.",
+     "k": 0,
+     "y": "Neo 'thuốc mỡ làm yếu cơ' (không có triệu chứng cơ do statin)"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Hút thuốc lào khoảng 35 năm, bỏ 8 năm nay. Không uống rượu bia. Không ợ chua, không nghẹn. Cả ngày rao hàng, nói lớn, mở quạt thổi thẳng vào người.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dùng giọng nhiều (QĐ 5643 mục 2.2); tiền sử hút thuốc lào: lý do hẹn soi lại nếu khàn kéo dài"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Chưa ai nói ông bị cao huyết áp hay tiểu đường. Không bệnh tim phổi, không đột quỵ, không nhồi máu cơ tim. Không dị ứng thuốc. Ngủ ngáy nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bệnh nền: rối loạn lipid đang dùng statin; không tiểu đường"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ngoài chuyện mệt, ông muốn xin giấy khám sức khỏe để nộp ban quản lý chợ gia hạn chỗ ngồi bán, hẹn nộp trong tuần. Ông tính 'khám sơ sơ rồi ký giùm' vì tối nay phòng khám vắng. Ông ngại nói vì sợ bị từ chối lúc đang ốm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ngoài chuyện mệt, ho còn cần giúp gì, hoặc hỏi sắp tới có cần giấy tờ gì không.",
+     "k": 1,
+     "y": "Lý do thật: xin giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy (BMI 19,8), da niêm hồng, không tím, không mất nước rõ (môi hơi khô, da còn đàn hồi). Ngồi thẳng, nói thều thào nhưng nói được câu dài, không phải ngừng lấy hơi.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ. Vùng trước thanh quản không sưng, ấn không đau. Khí quản ở giữa. Tuyến giáp không to. Tĩnh mạch cổ không nổi.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng tốt. Răng giả tháo lắp hàm trên chắc, không lung lay. Niêm mạc họng đỏ nhẹ, ít nhầy thành sau họng. Amidan nhỏ, không sưng, không giả mạc, không loét. Lưỡi gà ở giữa. Mũi: niêm mạc phù nhẹ, ít dịch trong. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "soi_thanh_quan": {
+     "a": "Soi gương gián tiếp, ông hợp tác. Niêm mạc vùng thanh môn và tiền đình thanh quản đỏ, phù nhẹ. Hai dây thanh sung huyết đỏ, phù nhẹ, khép không kín khi phát âm, có ít nhầy ở mép trước. Hai dây thanh di động đối xứng. Không u, không loét, không giả mạc. Nắp thanh môn mỏng, không phù. Khe thanh môn rộng. Không thấy dị vật.",
+     "k": 1,
+     "hien": "Soi thanh quản: dây thanh đỏ, phù nhẹ, khép không kín khi phát âm, có ít nhầy ở mép trước."
+    },
+    "quan_sat_nuot": {
+     "a": "Uống từng ngụm nước và ăn miếng bánh mì mềm: nuốt dễ, không ho sặc, giọng không ướt sau nuốt, thời gian trôi bình thường, không vướng ở vị trí nào.",
+     "k": 1,
+     "hien": "Uống nước, ăn bánh mì mềm: nuốt dễ, không ho sặc."
+    },
+    "sang_loc_sang": {
+     "a": "4AT: tỉnh táo; trả lời đúng tuổi, năm sinh, nơi đang ở; đọc ngược các tháng đúng (từ tháng 12 đến tháng 7 trước khi dừng); con trai cho biết không lú lẫn, không thay đổi hành vi so với thường ngày. Tổng 0 điểm: không gợi ý sảng.",
+     "k": 1,
+     "hien": "4AT: tỉnh táo, định hướng đúng, đọc ngược các tháng đúng."
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, thở êm, không co kéo. Rung thanh, gõ hai bên bình thường. Rì rào phế nang êm dịu hai bên, không ran, không tiếng rít.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, thở êm, không co kéo. Rung thanh, gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 64 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 64 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5 hai bên, gập cổ tốt, ngồi xổm đứng dậy được không cần vịn. Bắp chân mềm, ấn không đau.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau, gan lách không sờ thấy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về); nếu gửi mẫu, kết quả sáng hôm sau: BC 7,9 G/L · Neutrophil 62% · Hb 128 g/L · TC 215 G/L",
+     "bang": {
+      "wbc": 7.9,
+      "neu_pct": 62.0,
+      "neu": 4.9,
+      "lym_pct": 27.0,
+      "lym": 2.1,
+      "mono_pct": 8.0,
+      "mono": 0.6,
+      "eos_pct": 2.0,
+      "eos": 0.2,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.2,
+      "hgb": 128,
+      "hct": 0.38,
+      "mcv": 90.5,
+      "mch": 30.5,
+      "mchc": 337,
+      "rdw": 13.8,
+      "plt": 215
+     },
+     "n": "QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 3.2: công thức máu có thể thấy bạch cầu tăng; không bắt buộc. Gửi mẫu hay không đều chấp nhận, nhưng không chờ kết quả để quyết định tối nay."
+    },
+    "crp": {
+     "v": "a",
+     "r": "Tối nay không làm được. Nếu gửi mẫu, sáng hôm sau: CRP 7 mg/L",
+     "bang": {
+      "crp": 7.0
+     },
+     "n": "Không có chỉ định riêng trong QĐ 5643/2015 (TL-0130) cho viêm thanh quản người lớn. CRP thấp ủng hộ nhiễm virus (nhận xét biên tập)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tối nay không chụp được (ngoài giờ, kỹ thuật viên đã về). Nếu chụp sáng hôm sau: nhu mô phổi hai bên sáng, không đám mờ, góc sườn hoành nhọn, bóng tim không to; không thấy dị vật cản quang vùng cổ.",
+     "n": "QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 3.2: chụp X-quang tim phổi để loại trừ bệnh phế quản phổi kèm theo. Ở người rất cao tuổi mệt, ăn kém, viêm phổi có thể không điển hình (nhận xét biên tập; không có trong tài liệu đã tải); tối nay thay bằng khám phổi, nhịp thở 20 l/p, SpO₂ 95%, và hẹn chụp sáng mai nếu còn mệt, ăn kém."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch (điều dưỡng Linh): 5,9 mmol/L",
+     "bang": {
+      "glu": 5.9
+     },
+     "n": "Đái tháo đường ở người lớn tuổi là điều kiện thuận lợi của viêm thanh quản (QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 2.2). Không bắt buộc; ông không tiểu đường."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 64 l/p, trục trung gian, PR 0,18 giây, QRS hẹp, không biến đổi ST–T.",
+     "n": "Không có chỉ định riêng trong viêm thanh quản (QĐ 5643/2015, TL-0130). Làm hay không đều chấp nhận."
+    },
+    "phet_hong": {
+     "v": "n",
+     "n": "Bạch hầu nghi ngờ khi có giả mạc vùng hầu họng cộng yếu tố dịch tễ (QĐ 2957/2020 (TL-0129), mục 5.1). Ông không giả mạc khi soi họng và thanh quản, không dịch tễ; không có chỉ định, lại ngoài giờ không làm được."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "n": "Không có chỉ định; ngoài giờ không có kỹ thuật viên nên cũng không làm được. AAO-HNSF 2018 (nguồn bổ sung tự tìm; tóm tắt AAFP 2018, https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html): không chụp CT hoặc MRI trước khi soi thanh quản khi khàn tiếng."
+    },
+    "liver": {
+     "v": "n",
+     "n": "Ông đã ngưng statin 3 tuần và không có triệu chứng cơ hay gan; ACC/AHA 2026 Dyslipidemia (TL-0292) mục 4.2.11 khuyến cáo 1 chỉ đòi CK và đo sức cơ khi đau cơ hoặc yếu cơ nặng. Ông không có; không cần men gan, CK tối nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thanh quản cấp do virus, ngày 6, người lớn rất cao tuổi, thể nhẹ, chưa khó thở thanh quản",
+     "ok": 1,
+     "n": "Tiền sử viêm đường hô hấp trên, giọng yếu dần, ho khan, soi thấy niêm mạc và dây thanh sung huyết đỏ, phù, khép không kín, có nhầy mép trước (QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 3.1, 3.3); virus là tác nhân thường gặp (mục 2.1); bệnh dưới 3 tuần (mục 1); dùng giọng gắng sức là điều kiện thuận lợi (mục 2.2). Ở người lớn thường không có khó thở (mục 3.1). Biểu hiện không điển hình: ông không than khàn, không sốt, không đau họng, chỉ mệt, ăn kém, ho; vẫn nghĩ tới vì con trai nhận ra giọng thay đổi và soi thấy tổn thương."
+    },
+    {
+     "t": "Tự ngưng atorvastatin 3 tuần chưa bàn với bác sĩ, trên nền rối loạn lipid máu",
+     "ok": 1,
+     "n": "Thông tin lộ khi hỏi thuốc đang dùng. Quyết định tiếp tục hay ngừng statin ở người cao tuổi dựa trên ưu tiên của người bệnh, thể trạng, bệnh kèm, thuốc dùng nhiều, tuổi thọ, không chỉ dựa vào tuổi (ACC/AHA 2026 Dyslipidemia (TL-0292), mục 4.2.8.3, khuyến cáo 1, COR 1, C-EO); khi bệnh nhân có lo ngại tác dụng phụ, bác sĩ ghi nhận lo ngại và nói rõ nguy cơ tim mạch tăng khi ngưng (mục 4.2.11, khuyến cáo 2, COR 1, B-R). Lượng LDL-C của ông: không có số liệu."
+    },
+    {
+     "t": "Bạch hầu (thanh quản)",
+     "n": "Bạch hầu thanh quản thường đi kèm bạch hầu họng với giả mạc dai dính, bóc chảy máu, ho ông ổng, khàn tiếng, khó thở chậm thì hít vào, rít (QĐ 2957/2020 (TL-0129), mục 3.1.3, 3.3; QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 3.4.1). Họng và thanh quản của ông không giả mạc, không sốt, không hạch bạnh cổ, không khó thở, không dịch tễ (mục 5.1). Ông không nhớ tiêm chủng nên không loại trừ bằng tiền sử tiêm; điều loại trừ là không giả mạc và không dịch tễ."
+    },
+    {
+     "t": "Dị vật đường thở (thanh quản), kể cả răng giả hoặc xương cá",
+     "n": "Hội chứng xâm nhập khai thác được ở 93% bệnh nhân (QĐ 5643/2015, Dị vật đường thở, mục 3.1.1). Rối loạn phản xạ họng, thanh quản ở người già là một nguyên nhân (mục 2). Ông không có cơn ho sặc sụa, tím tái; khởi phát từ từ sau sổ mũi; nuốt dễ không sặc; răng giả còn đủ; không khó thở, không tiếng rít; soi thanh quản không thấy dị vật. Chẩn đoán phân biệt này cũng nêu trong Viêm thanh quản cấp tính, mục 3.5."
+    },
+    {
+     "t": "Viêm nắp thanh môn (viêm thanh thiệt)",
+     "n": "Nghĩ khi nuốt đau, nhiều nước bọt, cổ ngả về trước, khó thở tăng khi nằm ngửa (QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 3.4.1). Ông nuốt dễ, không chảy dãi, nắp thanh môn mỏng khi soi."
+    },
+    {
+     "t": "Sảng giảm động (nguyên nhân mệt, ngủ nhiều, ăn kém)",
+     "n": "Cần để ý thay đổi ở người cao tuổi: ít vận động, ít nói, kém tập trung, giảm ăn (NICE CG103 2010 (TL-0108), khuyến cáo 1.3.2, hypoactive delirium). 4AT 0 điểm cho thấy sảng và suy giảm nhận thức vừa đến nặng ít có khả năng (Validation of the 4AT 2014 (TL-0597), phần Methods). Ông tỉnh, định hướng đúng; mệt và ăn kém do bệnh nhiễm virus."
+    },
+    {
+     "t": "Viêm phổi ở người rất cao tuổi (mệt, ăn kém, ho khan)",
+     "n": "Nên nghĩ vì triệu chứng không điển hình ở tuổi này (nhận xét biên tập; đặc điểm triệu chứng người ≥75 tuổi: không có trong tài liệu đã tải). Ông thở 20 l/p, SpO₂ 95%, phổi không ran, không sốt. QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 3.2 nêu X-quang tim phổi để loại trừ bệnh phế quản phổi kèm theo; tối nay không chụp được nên hẹn chụp sáng mai nếu còn mệt, ăn kém hoặc khi có dấu hiệu nặng. Viêm thanh quản có thể tiến triển thành viêm phế quản, viêm phổi nhưng hiếm (mục 5)."
+    },
+    {
+     "t": "Ung thư thanh quản hoặc khàn tiếng kéo dài do nguyên nhân khác (hút thuốc lào 35 năm)",
+     "n": "Khàn mới 6 ngày, khởi phát sau cảm, dây thanh di động đối xứng, không u. AAO-HNSF 2018 (nguồn bổ sung tự tìm; tóm tắt AAFP 2018, https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html): soi thanh quản nếu khàn không hết sau 4 tuần; tiền sử hút thuốc lào làm việc theo dõi này quan trọng hơn (nguy cơ từng yếu tố: không có trong tài liệu đã tải). Cần hẹn soi lại hoặc chuyển tai mũi họng nếu quá 4 tuần."
+    },
+    {
+     "t": "Mệt, yếu cơ do statin",
+     "n": "Ông đã dùng atorvastatin 2 năm trước khi mỏi chân, mỏi từ trước khi thuốc bắt đầu, sức cơ 5/5, nước tiểu bình thường, đã ngưng 3 tuần mà vẫn mệt. Hội chứng cơ do statin thường là đau hoặc yếu cơ gốc chi hai bên, đối xứng, xuất hiện trong vài tuần sau khi bắt đầu hoặc tăng liều (ACC/AHA 2026 Dyslipidemia (TL-0292), mục 4.2.11, phần giải thích). Ông không có."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị ngoại trú, có con trai ở cùng, hẹn tái khám sau 3 ngày hoặc sớm hơn nếu nặng lên",
+     "v": "c",
+     "n": "Viêm thanh quản cấp ở người lớn không nguy hiểm và hồi phục tốt (QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 5); chỉ khó thở thanh quản độ I mới cần điều trị nội khoa, độ II trở lên mở khí quản cấp cứu (mục 4.1.2); ông không khó thở. Mốc 3 ngày: không có trong tài liệu đã tải; lựa chọn của ca vì ông 79 tuổi, ăn kém, tối nay không có xét nghiệm."
+    },
+    {
+     "t": "Kiêng nói (kể cả thì thầm), tránh lạnh, tránh quạt thổi thẳng, nghỉ bán vài ngày",
+     "v": "c",
+     "n": "'Quan trọng nhất là kiêng nói, tránh lạnh' (QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 4.1.1); tránh lạm dụng giọng quá sức (mục 6). Thì thầm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh (AAO-HNSF 2018), hoặc kê kháng sinh beta-lactam hay macrolid theo QĐ 5643/2015",
+     "v": "c",
+     "n": "Hai cách ghi theo sổ mâu thuẫn (đã ghi từ ca HH-1045): AAO-HNSF 2018 (nguồn bổ sung tự tìm; tóm tắt AAFP 2018, https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html) khuyến cáo mạnh không kê kháng sinh cho khàn tiếng vì phần lớn do virus; QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 4.1.1, 4.2.1 liệt kê beta-lactam (amoxicilin, cefuroxim...) và macrolid (azithromycin...) cho viêm thanh quản cấp. Khác nhau do năm ban hành và bằng chứng. Cả hai cách đều chấp nhận; liều kháng sinh: không có trong mục này của QĐ 5643."
+    },
+    {
+     "t": "Corticoid uống ngắn ngày",
+     "v": "a",
+     "n": "QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 4.2.2 liệt kê prednisolon, methylprednisolon, dexamethason; AAO-HNSF 2018 (nguồn bổ sung tự tìm; tóm tắt AAFP 2018, https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html): không kê corticoid cho khàn tiếng trước khi soi thanh quản (đã soi). Liều và thời gian: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xúc họng bằng dung dịch sát khuẩn, giảm viêm tại chỗ",
+     "v": "a",
+     "n": "QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 4.2.3."
+    },
+    {
+     "t": "Paracetamol khi sốt hoặc đau họng; không dùng aspirin hoặc NSAID thêm",
+     "v": "c",
+     "n": "Hạ sốt, giảm đau (QĐ 5643/2015, mục 4.2.4). Người cao tuổi, gầy yếu: acetaminophen dưới 3 g/ngày (QĐ 361/2014 (TL-0286), Phụ lục NSAID); dưới 4 g/ngày (AHA/ACC 2025 (TL-0297), Bảng 11). Con số thận trọng hơn là dưới 3 g; ca kê tối đa 2 g/ngày."
+    },
+    {
+     "t": "Không dùng kháng histamin thế hệ 1 (clorpheniramin, trong thuốc cảm) để trị ho, sổ mũi",
+     "v": "w",
+     "n": "Kháng histamin thế hệ 1 có tác dụng kháng cholinergic mạnh, nên tránh ở người cao tuổi (AGS Beers 2023 (TL-0022), Bảng 2, khuyến cáo mạnh), nguy cơ lú lẫn, khô miệng. Mục 4.1.1 QĐ 5643/2015 liệt kê kháng histamin H1 chung chung (khác đối tượng)."
+    },
+    {
+     "t": "Hỏi ra việc tự ngưng atorvastatin 3 tuần, nghe lý do, nói rõ nguy cơ tim mạch tăng khi ngưng và bàn lại cách dùng; không cần quyết ngay tối nay",
+     "v": "c",
+     "n": "ACC/AHA 2026 Dyslipidemia (TL-0292), mục 4.2.11, khuyến cáo 2 (COR 1, B-R): ghi nhận lo ngại của người bệnh, nói rõ nguy cơ ASCVD tăng khi ngưng statin, nêu phương án thay thế; mục 4.2.8.3, khuyến cáo 1 (COR 1, C-EO): quyết định dựa trên ưu tiên, thể trạng, bệnh kèm, tuổi thọ, không chỉ tuổi. Ông không có bằng chứng triệu chứng cơ do statin; tối nay đang ốm cấp nên thời điểm bàn lại là lựa chọn của ca."
+    },
+    {
+     "t": "Kê lại atorvastatin ngay tối nay theo liều cũ",
+     "v": "a",
+     "n": "ACC/AHA 2026 Dyslipidemia (TL-0292), mục 4.2.11, ý 2 phần giải thích: tái khởi động thuốc bảo vệ tim mạch là thiết yếu để đạt giảm nguy cơ tối đa. Chấp nhận. Có nên khởi động lại đúng lúc đang viêm cấp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn bàn lại statin khi tái khám, chưa kê lại tối nay",
+     "v": "a",
+     "n": "ACC/AHA 2026 Dyslipidemia (TL-0292), mục 4.2.8.3: quyết định không bắt đầu hoặc ngừng statin ở người cao tuổi là hợp lý khi phù hợp ưu tiên người bệnh và nguy cơ lớn hơn lợi ích; phải qua thảo luận, xem lại theo thời gian. Chấp nhận nếu có hẹn cụ thể."
+    },
+    {
+     "t": "Hẹn chụp X-quang ngực và công thức máu, CRP sáng mai hoặc khi tái khám nếu còn mệt, ăn kém",
+     "v": "a",
+     "n": "QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 3.2 (công thức máu, X-quang tim phổi loại trừ bệnh phế quản phổi). Mốc thời gian: lựa chọn của ca."
+    },
+    {
+     "t": "Khàn tiếng quá 4 tuần thì soi lại thanh quản hoặc chuyển tai mũi họng; nhấn mạnh vì tiền sử hút thuốc lào",
+     "v": "c",
+     "n": "AAO-HNSF 2018 (nguồn bổ sung tự tìm; tóm tắt AAFP 2018, https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html): soi thanh quản nếu khàn không hết sau 4 tuần. Hút thuốc lào làm tăng nguy cơ đến mức nào: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn quay lại ngay hoặc đi cấp cứu nếu khó thở, thở rít, nuốt đau nhiều, chảy nước dãi, ho ra máu, sốt cao, lú lẫn, bỏ ăn uống, tiểu ít",
+     "v": "c",
+     "n": "Khó thở thanh quản độ II trở lên phải mở khí quản cấp cứu (QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 4.1.2); biểu hiện viêm nắp thanh môn (mục 3.4.1); thay đổi hành vi, giảm ăn, giảm tập trung gợi ý sảng giảm động (NICE CG103 2010 (TL-0108), khuyến cáo 1.3.2). Dấu hiệu mất nước, tiểu ít: nhận xét biên tập."
+    },
+    {
+     "t": "Chưa cấp giấy chứng nhận sức khỏe tối nay: hẹn khám đầy đủ khi hết bệnh cấp",
+     "v": "a",
+     "n": "Khám sức khỏe theo yêu cầu: phải khám đầy đủ nội dung theo chuyên khoa (TT 32/2023/TT-BYT (TL-0669), Điều 36 khoản 5); nếu không khám đủ thì chỉ kết luận từng chuyên khoa, không phân loại sức khỏe (Điều 32 khoản 3). Có hoãn cấp khi đang bệnh cấp hay không: không có trong tài liệu đã tải; lựa chọn của ca."
+    },
+    {
+     "t": "Cấp ngay giấy chứng nhận sức khỏe loại tốt dù không khám đủ nội dung",
+     "v": "w",
+     "n": "Trái TT 32/2023/TT-BYT (TL-0669), Điều 32 khoản 3, Điều 36 khoản 5."
+    },
+    {
+     "t": "Chụp CT hoặc MRI cổ để tìm nguyên nhân khàn",
+     "v": "w",
+     "n": "AAO-HNSF 2018 (nguồn bổ sung tự tìm; tóm tắt AAFP 2018, https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html): không chụp CT hoặc MRI trước khi soi thanh quản."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thanh quản cấp do virus, ngày 6, người lớn rất cao tuổi (79 tuổi), thể nhẹ, chưa khó thở thanh quản, biểu hiện không điển hình (mệt, ăn kém, giọng yếu, không sốt)",
+     "Tự ngưng atorvastatin 20 mg 3 tuần do lo ngại tác dụng phụ, trên nền rối loạn lipid máu; không có triệu chứng cơ do statin",
+     "Đã loại trừ: bạch hầu (không giả mạc, không dịch tễ), dị vật đường thở kể cả răng giả (không hội chứng xâm nhập, nuốt dễ, soi không thấy), viêm nắp thanh môn, sảng giảm động (4AT 0)",
+     "Chưa loại hẳn viêm phổi do tối nay không chụp được X-quang: dựa vào nhịp thở, SpO₂, nghe phổi và hẹn chụp nếu còn mệt, ăn kém",
+     "Lý do thật đi khám: xin giấy chứng nhận sức khỏe để gia hạn chỗ bán ở chợ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do (ông than mệt, ăn kém, ho chứ không than khàn), diễn tiến theo ngày, khởi đầu bằng sổ mũi; hóc, sặc, nghẹn, răng giả; nuốt đau, chảy dãi, khó thở, tiếng rít; thuốc đang dùng thường xuyên và thuốc nào đã bỏ; hút thuốc, rượu, dùng giọng; tiếp xúc, dịch tễ; thay đổi hành vi (con trai); và 'ngoài chuyện này ông còn cần gì'.",
+     "Khám: nhìn họng, sờ cổ, nghe phổi, nghe tim, sàng lọc sảng 4AT, quan sát nuốt, sức cơ, và soi thanh quản gương. Soi thanh quản là bước xác định: niêm mạc và dây thanh sung huyết đỏ, phù, khép không kín, nhầy mép trước, di động đối xứng (QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 3.1, 3.3).",
+     "CLS: tối nay ngoài giờ, không có kỹ thuật viên nên không làm được xét nghiệm, X-quang, CT, nội soi; còn điện tim, đường huyết mao mạch, ống nghe, SpO₂. Công thức máu, X-quang ngực nằm trong mục 3.2 QĐ 5643/2015 nhưng không bắt buộc; không chờ kết quả để quyết định tối nay. Cấy họng bạch hầu và CT không có chỉ định.",
+     "Vì sao viêm thanh quản do virus: giọng yếu sau sổ mũi, đỏ phù dây thanh, dưới 3 tuần (mục 1, 2.1, 3.3), quanh sạp có người ho khàn. Vì sao không điển hình: người ≥75 tuổi có thể biểu hiện bằng mệt, ăn kém thay vì khàn tiếng, sốt (nhận xét biên tập; đặc điểm này ở tuổi này: không có trong tài liệu đã tải). Chi tiết cứu chẩn đoán: con trai nhận ra giọng khác thường và soi thanh quản thấy tổn thương.",
+     "Applicability note: QĐ 5643/2015 và tóm tắt AAO-HNSF 2018 không có phần riêng cho người ≥75 tuổi; ngưỡng, thời gian, liều ở nhóm này không có trong tài liệu đã tải. Ca dùng mức thận trọng: có con trai ở cùng, tái khám sớm, chuẩn bị X-quang sáng mai.",
+     "Vì sao không phải bạch hầu và dị vật: xem phần chẩn đoán phân biệt (QĐ 2957/2020 (TL-0129) mục 3.3, 5.1; QĐ 5643/2015 Dị vật đường thở mục 3.1.1). Vì sao không phải sảng: 4AT 0 điểm (TL-0597); vì sao không phải hội chứng cơ do statin: không có đau hoặc yếu cơ gốc chi, mỏi từ trước, sức cơ 5/5 (ACC/AHA 2026 (TL-0292) mục 4.2.11)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, hẹn tái khám sớm; không nhập viện, không chuyển tuyến vì không khó thở thanh quản, SpO₂ ổn (QĐ 5643/2015 mục 4.1.2, 5). Kết cục tốt của viêm thanh quản người lớn là cơ sở, nhưng với người 79 tuổi ăn kém tối nay không có xét nghiệm nên an toàn dựa vào người nhà và mốc tái khám.",
+     "Điều trị chính: kiêng nói, tránh lạnh (mục 4.1.1, 6), nâng đỡ dinh dưỡng và điện giải (mục 4.1.1, 4.2.5), xúc họng sát khuẩn tại chỗ (mục 4.2.3), paracetamol khi cần (mục 4.2.4; liều tối đa theo QĐ 361/2014 hoặc AHA/ACC 2025, con số thận trọng hơn là dưới 3 g/ngày).",
+     "Kháng sinh: có hai cách ghi. AAO-HNSF 2018 (qua AAFP 2018) khuyến cáo mạnh không kê kháng sinh cho khàn tiếng; QĐ 5643/2015 (mục 4.1.1, 4.2.1) có liệt kê beta-lactam, macrolid. Khác nhau do năm và bằng chứng; cả hai chấp nhận. Corticoid: QĐ 5643 mục 4.2.2 liệt kê, AAO-HNSF 2018 không kê trước khi soi; đã soi nên chấp nhận.",
+     "Statin: điều quan trọng thứ hai của ca. Ông tự ngưng vì nghe mách. Cách làm đúng là hỏi ra, ghi nhận lo ngại, nói rõ nguy cơ tim mạch tăng khi ngưng, đánh giá có triệu chứng cơ thật không (ACC/AHA 2026 (TL-0292) mục 4.2.11 khuyến cáo 1, 2), và tôn trọng ưu tiên người bệnh vì ở tuổi 79 quyết định tiếp tục hay ngừng cân nhắc thể trạng, bệnh kèm, thuốc, tuổi thọ (mục 4.2.8.3 khuyến cáo 1). Kê lại ngay hoặc hẹn bàn lại đều chấp nhận.",
+     "Giấy khám sức khỏe: nói rõ sẽ làm khi ông hết bệnh; khám theo yêu cầu phải đủ nội dung hoặc chỉ kết luận từng chuyên khoa đã khám (TT 32/2023/TT-BYT (TL-0669) Điều 32 khoản 3, Điều 36 khoản 5).",
+     "Lời thoại mẫu: 'Dạ ông bị viêm thanh quản do siêu vi, nghỉ giọng là chính. Phổi ông nghe sạch, thở ổn, đầu óc tỉnh. Mấy hôm nay ông ăn ít, con trai nhớ cho ông ăn cháo, uống đủ nước. Thuốc mỡ ông bỏ 3 tuần nay, cháu muốn hiểu thêm lý do; bỏ thuốc không làm ông khàn nhưng có thể tăng nguy cơ tim mạch, mình bàn lại khi ông khỏe. Giấy sức khỏe cháu làm khi ông khỏe, khám đủ mới ký.' (QĐ 5643/2015 mục 4.1.1; TT 32/2023/TT-BYT Điều 36 khoản 5; ACC/AHA 2026 mục 4.2.11)",
+     "Kết cục: ca ghi rõ 'xử trí ẩu nhưng may mắn không sao': bệnh tự giới hạn nên ngay cả xử trí qua loa (kê kháng sinh, thuốc ho, ký giấy, quên hỏi thuốc mỡ) cũng khỏi sau vài ngày. Kết cục tốt không hợp thức hóa cách làm đó."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên khi sốt từ 38,5 °C hoặc đau họng nhiều, cách nhau ít nhất 6 giờ, tối đa 4 viên (2 g) mỗi 24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần, sau ăn",
+      "so_ngay": "Chỉ khi có triệu chứng, tối đa vài ngày",
+      "ghi_chu": "Hạ sốt, giảm đau (QĐ 5643/2015 (TL-0130), mục 4.2.4). Người cao tuổi, gầy yếu: acetaminophen dưới 3 g/ngày (QĐ 361/2014 (TL-0286), Phụ lục NSAID); dưới 4 g/ngày (AHA/ACC 2025 (TL-0297), Bảng 11); 2 g thấp hơn cả hai (con số thận trọng hơn là dưới 3 g). Ngưỡng 38,5 °C: không có trong tài liệu đã tải, lựa chọn của ca. Không dùng aspirin, NSAID thêm."
+     },
+     {
+      "thuoc": "Dung dịch súc họng sát khuẩn, giảm viêm tại chỗ",
+      "ham_luong": "Theo nhãn thuốc (tên và nồng độ cụ thể không có trong tài liệu đã tải; QĐ 5643/2015 chỉ ví dụ 'BBM')",
+      "lieu": "Súc họng, không nuốt, 3 lần mỗi ngày",
+      "duong": "Súc họng",
+      "thoi_diem": "Sau ăn và trước khi ngủ",
+      "so_ngay": "3–5 ngày",
+      "ghi_chu": "QĐ 5643/2015 (TL-0130), Viêm thanh quản cấp tính, mục 4.2.3. Số lần và số ngày: không có trong tài liệu đã tải, lựa chọn của ca."
+     },
+     {
+      "thuoc": "Kháng sinh (tùy chọn)",
+      "ham_luong": "Không kê là một cách chấp nhận",
+      "lieu": "Cách 1: không kê (AAO-HNSF 2018, qua AAFP 2018). Cách 2: beta-lactam hoặc macrolid theo QĐ 5643/2015, mục 4.2.1; liều: không có trong mục này",
+      "duong": "Uống",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Hai nguồn khác nhau, xem sổ mâu thuẫn (mục từ HH-1045). Cả hai chấp nhận."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "Viên 20 mg (ông đã dùng 2 năm, đã ngưng 3 tuần)",
+      "lieu": "Phương án A: dùng lại 20 mg mỗi tối. Phương án B: chưa dùng lại, hẹn bàn khi tái khám",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối (nếu dùng lại)",
+      "so_ngay": "Quyết định lúc tái khám",
+      "ghi_chu": "ACC/AHA 2026 Dyslipidemia (TL-0292), mục 4.2.11 khuyến cáo 2 (COR 1, B-R), mục 4.2.8.3 khuyến cáo 1 (COR 1, C-EO). Cường độ statin và đích LDL-C cho ông: không có số liệu LDL-C, không có trong ca; không kê liều cao hơn."
+     }
+    ],
+    "dan_do": [
+     "Kiêng nói, nói thì thầm cũng không nên, giữ ấm cổ họng, tránh lạnh, không để quạt thổi thẳng, nghỉ bán vài ngày, nhờ người nhà trông sạp (QĐ 5643/2015 (TL-0130) mục 4.1.1, 6).",
+     "Ăn cháo, súp, uống nước đủ; ông và con trai theo dõi ăn uống, tiểu, tỉnh táo mỗi ngày (QĐ 5643/2015 mục 4.1.1: nâng cao đề kháng, bổ sung dinh dưỡng, điện giải; số lượng nước: không có trong tài liệu đã tải).",
+     "Không uống thêm thuốc cảm hay thuốc ho tự mua có clorpheniramin; mang túi thuốc khi đi khám (AGS Beers 2023 (TL-0022) Bảng 2).",
+     "Quay lại hoặc đi cấp cứu ngay nếu khó thở, thở rít, nuốt đau nhiều, chảy nước dãi, ho ra máu, sốt cao, lú lẫn, bỏ ăn uống, tiểu ít (QĐ 5643/2015 mục 4.1.2, 3.4.1; NICE CG103 2010 (TL-0108) khuyến cáo 1.3.2).",
+     "Tái khám sau 3 ngày (mốc của ca; không có trong tài liệu đã tải); nếu còn mệt, ăn kém thì sáng mai chụp X-quang ngực và thử máu (QĐ 5643/2015 mục 3.2). Khàn tiếng quá 4 tuần phải soi lại hoặc đến tai mũi họng, nhất là ông từng hút thuốc lào (AAO-HNSF 2018).",
+     "Thuốc mỡ: đừng tự bỏ hoặc nghe mách; mang thuốc đến tái khám để bàn, vì ngưng thuốc có thể tăng nguy cơ tim mạch (ACC/AHA 2026 (TL-0292) mục 4.2.11 khuyến cáo 2).",
+     "Giấy khám sức khỏe cho chợ: làm khi ông hết bệnh, khám đủ nội dung rồi mới cấp; mang giấy yêu cầu của ban quản lý chợ (TT 32/2023/TT-BYT (TL-0669) Điều 32 khoản 3, Điều 36 khoản 5)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Tư về nhà cùng anh Nghĩa. Xử trí chuẩn: nghỉ giọng, tái khám sớm, bàn lại thuốc mỡ. Nhưng đây là ca 'xử trí ẩu nhưng may mắn không sao': viêm thanh quản do virus ở người lớn tự giới hạn (QĐ 5643/2015, mục 5), nên nếu bác sĩ làm qua loa (kê kháng sinh và thuốc ho tự chọn, không soi thanh quản, không hỏi thuốc đang dùng, ký giấy sức khỏe cho nhanh) ông vẫn khỏi sau chừng 7–10 ngày. Ông cũng may là 3 tuần không dùng statin chưa có biến cố tim mạch, 6 ngày ăn kém chưa gây mất nước nặng hay viêm phổi. May mắn đó không chứng minh cách làm qua loa là đúng.",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt: trả lời đủ khi được hỏi, nhưng ít tự kể; không nói ra việc ngưng thuốc mỡ hay xin giấy sức khỏe nếu bác sĩ không hỏi.",
+  "Triệu chứng không điển hình: ông không than khàn, không sốt, không đau họng; chỉ mệt, ăn kém, ho, con trai mới nhận ra giọng thay đổi.",
+  "Neo 'già rồi nên yếu': cả ông và bác sĩ dễ gạt mệt, ăn kém, giọng nhỏ sang tuổi tác, bỏ sót soi thanh quản và đánh giá nuốt, tỉnh táo.",
+  "Neo 'thuốc mỡ làm yếu cơ': ông tin mỏi chân và mệt do statin; thực ra mỏi chân có từ trước, sức cơ bình thường.",
+  "Ngoài giờ, không xét nghiệm: dễ muốn hẹn mai thử máu, chụp phim rồi mới xử trí, hoặc kê kháng sinh 'cho chắc'.",
+  "Lý do thật xin giấy khám sức khỏe, ngại nói vì sợ bị từ chối."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi bị bệnh hô hấp trên có thể chỉ mệt, ăn kém, giọng nhỏ; hỏi người nhà về thay đổi giọng, hành vi, ăn uống và sàng lọc sảng (NICE CG103 2010 (TL-0108) khuyến cáo 1.3.2; 4AT (TL-0597)).",
+  "Viêm thanh quản cấp người lớn: kiêng nói, tránh lạnh (QĐ 5643/2015 (TL-0130) mục 4.1.1); không phải mọi khàn tiếng đều cần kháng sinh (AAO-HNSF 2018) nhưng QĐ 5643 có liệt kê; khàn quá 4 tuần phải soi lại.",
+  "Loại trừ bạch hầu bằng giả mạc và dịch tễ (QĐ 2957/2020 (TL-0129) mục 5.1), loại trừ dị vật bằng hội chứng xâm nhập và quan sát nuốt, kể cả răng giả (QĐ 5643/2015 Dị vật đường thở mục 2, 3.1.1).",
+  "Ngoài giờ không xét nghiệm: quyết định dựa vào khám, sinh hiệu, SpO₂ và an toàn sau khi về (người ở cùng, mốc tái khám); không giữ lại hoặc chuyển tuyến chỉ vì thiếu xét nghiệm.",
+  "Người tự ngưng statin: hỏi ra lý do, ghi nhận lo ngại, nói rõ nguy cơ tim mạch khi ngưng, cân nhắc ưu tiên và thể trạng ở người cao tuổi (ACC/AHA 2026 (TL-0292) mục 4.2.8.3, 4.2.11).",
+  "Khám sức khỏe theo yêu cầu: chỉ kết luận phạm vi đã khám (TT 32/2023/TT-BYT Điều 32 khoản 3).",
+  "Kết cục tốt không hợp thức hóa cách làm qua loa."
+ ],
+ "diem_nho": [
+  "Viêm thanh quản cấp: niêm mạc, dây thanh sung huyết, phù, khép không kín, nhầy mép trước; dưới 3 tuần (QĐ 5643/2015 mục 1, 3.1).",
+  "Khó thở thanh quản độ I điều trị nội khoa, độ II mở khí quản cấp cứu, độ III mở khí quản kèm hồi sức (QĐ 5643/2015 mục 4.1.2).",
+  "Hội chứng xâm nhập khai thác được ở 93% dị vật đường thở; người già rối loạn phản xạ họng, thanh quản là nguyên nhân (QĐ 5643/2015 Dị vật đường thở mục 2, 3.1.1).",
+  "Bạch hầu thanh quản: ho ông ổng, khàn, khó thở chậm thì hít vào, thường đi kèm bạch hầu họng; ca nghi ngờ cần giả mạc cộng dịch tễ (QĐ 2957/2020 mục 3.3, 5.1).",
+  "Hội chứng cơ do statin: đau hoặc yếu cơ gốc chi hai bên, đối xứng, vài tuần sau khi bắt đầu hoặc tăng liều (ACC/AHA 2026 mục 4.2.11).",
+  "Paracetamol người cao tuổi, gầy yếu: dưới 3 g/ngày (QĐ 361/2014) hoặc dưới 4 g/ngày (AHA/ACC 2025); chọn thận trọng.",
+  "Kháng histamin thế hệ 1: tránh ở người cao tuổi (AGS Beers 2023 Bảng 2)."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 · Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng · Viêm thanh quản cấp tính mục 1, 2.1, 2.2, 3.1–3.5, 4.1.1, 4.1.2, 4.2.1–4.2.5, 5, 6; Dị vật đường thở mục 2, 3.1.1, 3.1.3",
+  "TL-0129 · QĐ 2957/QĐ-BYT 2020 · Hướng dẫn chẩn đoán, điều trị bệnh bạch hầu · mục 3.1.3, 3.3, 5.1",
+  "TL-0292 · ACC/AHA multisociety 2026 · Guideline on the management of dyslipidemia · JACC 2026;87(19):2624–2757 · mục 4.2.8.3 (khuyến cáo 1, 2), mục 4.2.11 (khuyến cáo 1, 2)",
+  "TL-0022 · AGS Beers 2023 · Bảng 2 (kháng histamin thế hệ 1)",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 · Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp · Phụ lục NSAID (acetaminophen dưới 3 g/ngày ở người cao tuổi, gầy yếu)",
+  "TL-0297 · AHA/ACC 2025 · Guideline for prevention, detection, evaluation and management of high blood pressure · Bảng 11 (acetaminophen dưới 4 g/ngày)",
+  "TL-0108 · NICE CG103 2010 · Delirium: prevention, diagnosis and management · khuyến cáo 1.3.2 (sảng giảm động)",
+  "TL-0597 · Validation of the 4AT, a new instrument for rapid delirium screening (Age and Ageing 2014) · phần Methods (cách tính điểm)",
+  "TL-0669 · TT 32/2023/TT-BYT · Quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh · Điều 32 khoản 3, Điều 36 khoản 5 (khám sức khỏe)",
+  "Nguồn bổ sung tự tìm: AAO-HNSF 2018, Clinical practice guideline: hoarseness (dysphonia) (update), Stachler và cs., doi 10.1177/0194599817751030; đọc qua tóm tắt AAFP 2018 https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html (không mở lại được trong lượt này; nội dung dùng đúng như đã ghi trong sổ mâu thuẫn từ ca HH-1045)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-26 · viết: Sonnet · bản 1, soạn mới theo CLAUDE.md mục 3.",
+  "Tài liệu đã đọc: TL-0130 (Viêm thanh quản cấp tính toàn bài, Dị vật đường thở mục 1–3.1.3), TL-0129 (mục 3.1–3.3, 5.1), TL-0292 (mục 4.2.6, 4.2.8.3, 4.2.11), TL-0022 (Bảng 2), TL-0286 (Phụ lục NSAID), TL-0297 (Bảng 11), TL-0108 (khuyến cáo 1.3.2), TL-0597 (Methods), TL-0669 (Điều 32, 36).",
+  "Chỗ thiếu tài liệu: (1) mốc tái khám 3 ngày và mốc chụp X-quang sáng mai; (2) ngưỡng sốt 38,5 °C để dùng paracetamol, số lần súc họng; (3) liều kháng sinh, corticoid trong viêm thanh quản người lớn; (4) đặc điểm biểu hiện không điển hình của viêm thanh quản và viêm phổi ở người ≥75 tuổi; (5) nguy cơ nằm viện ở người 79 tuổi; (6) mức nguy cơ ung thư thanh quản theo hút thuốc lào; (7) có hoãn cấp giấy khám sức khỏe khi đang bệnh cấp; (8) thời điểm khởi động lại statin lúc đang bệnh cấp; (9) AAO-HNSF 2018 chỉ đọc bản tóm tắt AAFP, không mở lại được trang trong lượt này.",
+  "Mâu thuẫn: kháng sinh, corticoid trong viêm thanh quản cấp (QĐ 5643/2015 và AAO-HNSF 2018) đã có trong sổ từ HH-1045; ca ghi cả hai cách giống mục đó. Không phát sinh mâu thuẫn mới; paracetamol người cao tuổi (QĐ 361/2014 và AHA/ACC 2025) đã ghi trong sổ.",
+  "Âm thanh: tim mạch 64 l/p dùng AT-TIM-BT-NL-01; phổi AT-PHOI-BT-NL-01. Không có ảnh da (không dấu hiệu da then chốt).",
+  "Nhóm khoa_cls ['xn']: app tự kéo theo khóa X-quang, CT, nội soi; ECG và đường huyết mao mạch vẫn làm được. Soi thanh quản dùng khám 'soi_thanh_quan' (gương), không phải CLS nội soi.",
+  "Giới hạn thiết kế: tên thuốc thương mại không dùng; việc ông ngưng statin, mốc tái khám, liều atorvastatin 20 mg là thiết kế."
+ ]
+}

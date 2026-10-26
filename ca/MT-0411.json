@@ -1,0 +1,634 @@
+{
+ "ma_ca": "MT-0411",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_rl_lipid_mau",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Đáp án là chuyển tuyến",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Bảo vệ (chung cư, trực ca đêm 22 giờ đến 6 giờ sáng)",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố (bữa khuya vỉa hè ba tuần trước)",
+  "thuoc_dang_dung": "Corticoid tự mua (prednisolon 5 mg, 2 viên mỗi sáng, sáu tuần)",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Châu Văn Thạnh",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Bảo vệ chung cư, trực ca đêm 22 giờ đến 6 giờ sáng; ngồi trực, đi tuần, ban ngày ngủ bù",
+  "can_nang": 84,
+  "chieu_cao": 164,
+  "xung_ho": "Bác sĩ gọi ông là 'chú'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Con trai gọi ông là 'ba', xưng 'con' với bác sĩ.",
+  "tinh_cach": "Ít nói, giọng trầm, quen nhẫn nhịn và chịu đau ('chịu được'). Ba tuần qua đi ba nơi, nơi nào cũng cho thuốc dạ dày rồi dặn kiêng ăn, nên mệt và nản, không còn tin khám thêm có ích. Sợ mất việc: ca đêm chỉ có hai bảo vệ, nghỉ không báo bị trừ công, quản lý đã nhắc ông vì ngủ gật. Hiểu biết y khoa ít: gọi mọi cơn đau bụng là 'bao tử', gọi prednisolon là 'thuốc xương'.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mệt mỏi, mất niềm tin. Mở đầu bằng 'chỗ nào cũng cho thuốc bao tử rồi bảo về'. Nếu bác sĩ hỏi lại từ đầu như chưa ai khám hoặc đòi làm lại xét nghiệm thì nản, nói 'làm rồi mà, giấy tờ đây' nhưng không tự đưa giấy. Hỏi chung 'đau thế nào' thì 'bao tử cũ thôi, chịu được'; hỏi chung 'đang uống thuốc gì' chỉ kể thuốc bao tử; hỏi chung 'có uống bia không' thì 'thỉnh thoảng'. Chỉ nói thật và đưa túi giấy khi bác sĩ hỏi cụ thể (vị trí, lan đi đâu, tư thế, thuốc tự mua, số lon bia, có mang kết quả cũ không). Dịu lại khi bác sĩ đọc hết giấy cũ, nói ba nơi đã làm gì, rồi hỏi ông lo nhất điều gì. Nghe tới 'chuyển viện' thì từ chối thẳng ('tôi chỉ xin viên thuốc ngủ'), đổi ý khi biết con trai báo được đồng nghiệp trông ca.",
+  "nguoi_nha": "Con trai, anh Tuấn, 36 tuổi, chạy xe công nghệ, chở ba đến và ngồi cạnh. Thương ba, nói thẳng, hay chen vào. Biết ba mất ngủ vì đau, biết ba nhậu hôm sinh nhật đồng nghiệp, đang cầm túi ni lông đựng giấy tờ và thuốc của cả ba nơi. Không biết hết thuốc ba tự mua, nhưng có thấy vỉ thuốc trắng trong túi áo ba.",
+  "ten_nguoi_nha": "Anh Tuấn (con trai)",
+  "ngoai_hinh": {
+   "da": "#b08a66",
+   "toc": "#7b7b7b",
+   "kieuToc": "ngan",
+   "ao": "#3d4f63",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#bf9a74",
+    "toc": "#1f1814",
+    "kieuToc": "ngan",
+    "ao": "#2f6f5e",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau bao tử ba tuần nay, đi khám ba nơi chưa hết, xin khám lại",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (21 giờ 40 tối thứ Tư), kỹ thuật viên xét nghiệm và kỹ thuật viên chẩn đoán hình ảnh đã về: phòng khám tối nay không làm được xét nghiệm máu (kể cả lipid, lipase, điện giải, creatinin, công thức máu), X-quang, siêu âm; mẫu máu gửi đi chỉ có kết quả sau 7 giờ 30 sáng mai. Còn dùng được: ống nghe, nhiệt kế, huyết áp kế, máy đo SpO₂, máy đo đường huyết mao mạch, que thử nước tiểu 10 thông số, máy điện tim, bộ truyền dịch. Quyết định tối nay phải đưa ra trước khi có kết quả."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Châu Văn Thạnh, 66 tuổi, bảo vệ chung cư (trực ca đêm), con trai là anh Tuấn chở đến lúc 21 giờ 40 tối thứ Tư (ngoài giờ). Ông nói đau bao tử ba tuần nay, đã khám ba nơi mà chưa hết, xin khám lại. Điều dưỡng Linh: mạch 104 l/p, HA 146/90 mmHg, nhiệt 37,8 °C, nhịp thở 22 l/p, SpO₂ 96%, cân nặng 84 kg, chiều cao 164 cm, BMI 31,2.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Thạnh được kê thêm thuốc bao tử và một viên thuốc ngủ (diazepam hoặc zolpidem), dặn kiêng ăn rồi cho về trực đêm. Triglycerid 17,6 mmol/L trên phiếu cũ vượt ngưỡng nguy cơ viêm tụy (ESC/EAS 2019 mục 9.1.4.1: > 10 mmol/L; ACC/AHA 2026 mục 4.2.9: ≥ 1.000 mg/dL), nay lại đau lan sau lưng, nôn, mạch 104, thở 22, nhưng tối nay phòng khám không có lipase, siêu âm hay khí máu để xác định (IAP/APA 2025 Bảng 1 KC 1). Thuốc ngủ ở người 66 tuổi làm tăng nguy cơ lú lẫn, ngã (AGS Beers 2023 Bảng 2) và có thể che dấu hiệu nặng dần; dịch truyền sớm trong 24 giờ đầu là điều quan trọng nhất (ACG 2024 Bảng 3 KC 11), nên nếu đến sáng ông mới nhập viện thì vào trong tình trạng mất nước và đau nặng hơn, trong khi ông tiếp tục nghĩ mình chỉ bị bao tử.",
+    "theo_doi": "Ông Thạnh được giữ lại phòng khám, uống nước, tiêm thuốc giảm đau và chờ xét nghiệm lúc 7 giờ 30 sáng mai. Ông thuộc nhóm nguy cơ diễn tiến nặng (tuổi > 55, BMI > 30, mạch > 90 và nhịp thở > 20: ACG 2024 Bảng 4) cần nơi theo dõi huyết động, nước tiểu, SpO₂ nhiều giờ liền và hồi sức dịch sớm (ACG 2024 Bảng 3 KC 5, 6, 11), còn phòng khám đêm nay không có lipase, creatinin, khí máu hay chỗ hồi sức; khi không đủ năng lực tại chỗ thì phải chuyển (IAP/APA 2025 Bảng 1 KC 6). Suy cơ quan kéo dài quá 48 giờ là yếu tố quyết định tử vong (IAP/APA 2025 Bảng 1 KC 5), và ông còn mất thêm nhiều giờ chưa dùng được insulin hay nhịn ăn có theo dõi (IAP/APA 2025 Bảng 1 KC 64, 66)."
+   },
+   "loi_mo": "Chào bác sĩ. Cái bao tử của tôi đi ba chỗ rồi mà uống thuốc hoài không hết. Chỗ nào cũng cho thuốc bao tử rồi dặn kiêng ăn, bảo về. Thôi bác sĩ coi giùm tôi, tôi còn phải về trực đêm.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "146/90",
+    "nhiet": "37,8",
+    "nhip_tho": 22,
+    "spo2": 96,
+    "canh_bao": [
+     "Mạch nhanh 104 l/p",
+     "Nhịp thở nhanh 22 l/p",
+     "Nhiệt 37,8 °C"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau bao tử ba tuần nay, đi ba nơi (phòng khám tư, bệnh viện huyện, một phòng khám tư khác) đều được cho thuốc bao tử mà không hết, mấy hôm gần đây còn nặng hơn. Con trai chở đi vì thấy ba ngồi ôm bụng cả ngày. Ông xin 'coi lại cái bao tử' và 'cho thêm thuốc gì uống cho đỡ'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau giữa bụng trên, âm ỉ liên tục ba tuần nay; bốn ngày nay đau dữ hơn, lan xuyên ra sau lưng. Nằm ngửa đau tăng, ngồi dựa hoặc cúi người ra trước thì đỡ. Không thành cơn quặn, không liên quan đi cầu. Ăn vào đau tăng nên ăn rất ít.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đau bụng thế nào' thì nói 'bao tử cũ, chịu được'. Chỉ kể đủ khi bác sĩ hỏi cụ thể vị trí, có lan đi đâu không, tư thế nằm ngồi, liên quan bữa ăn; hoặc khi anh Tuấn chen vào ('ba kêu đau xuyên ra sau lưng đó').",
+     "k": 1,
+     "y": "Đặc điểm đau: thượng vị lan ra lưng, tăng khi nằm ngửa, đỡ khi cúi trước"
+    },
+    {
+     "id": "non_mat_nuoc",
+     "noi_dung": "Hôm nay nôn hai lần, dịch vàng, không máu. Ớn lạnh nhẹ buổi chiều, không đo sốt. Chán ăn, uống ít vì sợ nôn, nước tiểu vàng sậm và ít hơn thường lệ. Đi cầu phân vàng, không đen, không lỏng; bụng chướng, trung tiện ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, mất nước, không có phân đen hay nôn ra máu"
+    },
+    {
+     "id": "giay_to_cu",
+     "noi_dung": "Anh Tuấn cầm túi ni lông giấy tờ. Nơi 1 (phòng khám tư, ba tuần trước): không xét nghiệm, 'viêm dạ dày', omeprazol 20 mg và sucralfat. Nơi 2 (bệnh viện huyện, 12 ngày trước): nội soi dạ dày viêm xung huyết nhẹ hang vị, test H. pylori âm tính; siêu âm bụng gan nhiễm mỡ độ 2, túi mật không sỏi, đường mật không giãn, tụy khó quan sát vì hơi ruột; omeprazol 40 mg, domperidon 10 mg. Nơi 3 (phòng khám tư khác, 6 ngày trước, lấy máu lúc đói): glucose 8,9 mmol/L; cholesterol toàn phần 14,2; triglycerid 17,6; HDL-C 0,7 mmol/L; LDL-C 'không tính được'; AST 58, ALT 64 U/L; phòng xét nghiệm ghi 'huyết thanh đục như sữa'. Bác sĩ nơi này dặn 'mỡ máu cao, đường hơi cao', kiêng mỡ, bớt bia, uống thuốc bao tử, khám lại sau một tháng. Không nơi nào đo lipase hay amylase.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ông không chủ động đưa ('làm rồi mà, chỗ nào cũng làm'). Chỉ để anh Tuấn lôi túi giấy ra khi bác sĩ hỏi có mang kết quả hoặc đơn thuốc cũ không, hoặc hỏi từng nơi đã làm gì; kể con số khi bác sĩ đọc phiếu.",
+     "k": 1,
+     "y": "Kết quả cũ: triglycerid 17,6 mmol/L, huyết thanh đục; chẩn đoán và thuốc của ba nơi"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tuần trước ông ăn khuya ở quán vỉa hè gần chung cư (lòng heo xào, nem chua) với hai lon bia; sáng hôm sau bắt đầu đau thượng vị âm ỉ. Ông và nơi khám đầu đều nghĩ 'ngộ độc thức ăn, viêm bao tử'. Bốn ngày trước, tối sinh nhật đồng nghiệp: thịt nướng, gà rán, khoảng 6 lon bia; từ đêm đó đau dữ hơn và lan ra sau lưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: ăn khuya vỉa hè; bữa tiệc nhiều mỡ và bia"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Sáu tuần nay đau hai đầu gối khi đi tuần, ông ra tiệm thuốc mua 'thuốc xương': viên nén trắng 5 mg (vỏ vỉ ghi prednisolon), uống 2 viên mỗi sáng đều đặn, đã mua thêm hai lần. Uống vào thấy khỏe, đỡ đau gối, ăn ngon, lên 4 kg, mặt 'tròn ra', da dễ bầm. Ông không coi đó là thuốc nên không kể với ba nơi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể thuốc bao tử. Chỉ kể khi bác sĩ hỏi thuốc tự mua, thuốc xương khớp, thuốc giảm đau, thuốc bổ, hoặc hỏi đau gối đã uống gì; hoặc anh Tuấn nhắc 'ba có vỉ thuốc trắng trong túi áo đó'.",
+     "k": 1,
+     "y": "Corticoid tự mua: tên, liều, thời gian"
+    },
+    {
+     "id": "thuoc_ke_don",
+     "noi_dung": "Ba tuần nay uống omeprazol 40 mg buổi sáng, domperidon 10 mg trước ăn, thỉnh thoảng sucralfat. Không dùng thuốc giảm đau nhóm NSAID, không aspirin, không thuốc huyết áp hay thuốc đường.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ruou_bia",
+     "noi_dung": "Hơn 8 năm nay, sau mỗi ca sáng ông uống 2–3 lon bia 'cho dễ ngủ', ngày nghỉ khoảng 5 lon. Từ khi đau giảm còn 1 lon, riêng bữa sinh nhật bốn hôm trước uống khoảng 6 lon. Sáng nay chưa uống.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống rượu bia không' thì nói 'thỉnh thoảng'. Chỉ kể số lon khi bác sĩ hỏi cụ thể mỗi ngày bao nhiêu lon, lần uống gần nhất, hoặc hỏi cách ông ru ngủ sau ca đêm.",
+     "k": 1,
+     "y": "Rượu bia: lượng, thói quen, lần gần nhất"
+    },
+    {
+     "id": "an_uong_van_dong",
+     "noi_dung": "Ăn khuya mì xào, cơm chiên, thịt mỡ; uống 2 chai nước ngọt mỗi ngày, ít rau. Ngồi trực suốt ca, hầu như không vận động. Tăng 4 kg trong sáu tuần.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "duong_mau",
+     "noi_dung": "Chưa bao giờ được báo tiểu đường. Anh ruột bị tiểu đường. Hai tuần nay khát nước hơn, đêm dậy tiểu hai lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ đái tháo đường: tiền sử gia đình, khát, tiểu đêm"
+    },
+    {
+     "id": "trieu_chung_giap",
+     "noi_dung": "Không sợ lạnh (ca đêm vẫn mặc áo mỏng), không táo bón, da không khô, giọng bình thường, không thấy chậm chạp. Từ khi đau thì hay hồi hộp nhẹ. Chưa ai nói ông có bệnh tuyến giáp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc suy giáp (nguyên nhân thứ phát của tăng lipid)"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Mất ngủ năm ngày nay: ban ngày nằm giường cũng không ngủ được vì đau, ngồi dựa ghế chợp mắt được một, hai giờ. Trước đây trực đêm 8 năm, ngủ bù ban ngày 7–8 giờ vẫn ổn, chưa từng dùng thuốc ngủ thường xuyên. Tuần này hai lần uống 1 viên diazepam 5 mg đồng nghiệp cho, ngủ được vài giờ nhưng sáng dậy lờ đờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Mất ngủ mới 5 ngày do đau; thuốc ngủ đã dùng"
+    },
+    {
+     "id": "co_do_am",
+     "noi_dung": "Không đau ngực, không khó thở, không hồi hộp trống ngực, không nôn ra máu hay đi cầu phân đen, không vàng da, không ngất. Không té ngã gần đây.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ (tim mạch, xuất huyết tiêu hóa)"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Hơn một năm chưa đo huyết áp. Chưa từng bị sỏi mật hay viêm tụy. Cha mất vì đột quỵ năm 71 tuổi. Không hút thuốc. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "nghi_ngo_thuc_an",
+     "noi_dung": "Cả ông lẫn nơi khám đầu tin là ngộ độc đồ ăn vỉa hè, nhưng không ai cùng ăn bị bệnh; ông không tiêu chảy, không sốt cao.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "ca_truc",
+     "noi_dung": "Ca trực 22 giờ đến 6 giờ, chỉ có hai bảo vệ. Tối nay ông nhờ đồng nghiệp trông giùm một lúc, hẹn quay lại trước 23 giờ. Nghỉ không báo trước bị trừ công; tuần trước quản lý đã nhắc ông hai lần vì ngủ gật trong ca.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rào cản chuyển tuyến: ca trực, sợ mất việc"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Điều ông thật sự muốn là ngủ được: mấy đêm không chợp mắt, hôm kia ngủ gật bị quản lý nhắc 'lần nữa là nghỉ'. Đồng nghiệp bảo xin bác sĩ viên thuốc ngủ là xong. Ông không nghĩ bao tử nặng thêm, và sợ 'vào bệnh viện nữa' vì ba lần rồi chẳng hết, vừa tốn tiền vừa mất việc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm chú lo nhất, hôm nay chú mong bác sĩ giúp gì, hoặc vì sao đêm nay đi khám lại. Nếu bác sĩ không hỏi, cuối buổi ông tự xin: 'Bác sĩ cho tôi viên thuốc ngủ đi.'",
+     "k": 1,
+     "y": "Lý do thật: muốn thuốc ngủ để giữ việc; sợ tốn tiền, mất việc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc chậm, vẻ mệt, ngồi hơi cúi về trước, tay ôm bụng trên. Cân nặng 84 kg, BMI 31,2, vòng eo 102 cm. Mặt tròn, má hồng, vùng gáy–cổ đầy mỡ; da cẳng tay mỏng, vài mảng bầm 1–2 cm. Môi và lưỡi khô, nếp véo da mất chậm. Không vàng da, không vàng củng mạc, không phù. Hơi thở không mùi đặc biệt.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 146/90 mmHg, mạch 100 l/p. Đứng sau 3 phút: HA 124/80 mmHg, mạch 118 l/p, ông chóng mặt nhẹ, phải vịn thành giường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, di động theo nhịp nuốt. Không hạch cổ. Mi mắt không ban vàng, không cung giác mạc. Niêm mạc miệng khô.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, nhanh 104 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, nhanh, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, nông, đều, không co kéo. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Thở nông, đều, nhịp thở 22 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng hơi chướng, cân đối, không sẹo. Thượng vị ấn đau rõ, có đề kháng nhẹ vùng thượng vị, không co cứng thành bụng, không phản ứng dội; hố chậu và hạ vị mềm. Murphy âm tính. Nhu động ruột giảm nhẹ. Gan to 2 cm dưới bờ sườn, mềm, bờ tù; lách không sờ thấy; không khối. Không bầm tím quanh rốn hay hai hông.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù. Không u vàng gân Achille, khuỷu hay gối. Hai gối lạo xạo khi gập, không nóng đỏ, không tràn dịch.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không u vàng dạng sẩn ở khuỷu, mông hay lưng; không vàng da. Da cẳng tay mỏng, vài mảng bầm 1–2 cm, không rạn da tím rõ.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp nhẹ; chưa thấy dấu nhiễm lipid võng mạc (mạch máu không trắng sữa); không xuất huyết, không xuất tiết.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng không đau, không cầu bàng quang.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng, không run tay, không dấu thần kinh khu trú.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch (điều dưỡng Linh): 13,2 mmol/L.",
+     "ab": 1,
+     "n": "Glucocorticoid gây kháng insulin; theo dõi đường huyết ngẫu nhiên hoặc sau ăn (ADA 2026 mục 2, KC 2.18). Một giá trị trong bệnh cấp chưa đủ chẩn đoán đái tháo đường, cần xác nhận khi ổn định (ADA 2026 mục 2). Insulin là thuốc đầu tay hạ triglycerid khi đái tháo đường kèm viêm tụy (IAP/APA 2025 Bảng 1 KC 64): quyết định ở bệnh viện."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Que thử nước tiểu 10 thông số (điều dưỡng Linh): glucose 2+, ceton âm tính, protein vết, hồng cầu âm tính, bạch cầu âm tính, nitrit âm tính, tỷ trọng 1.030, pH 5.",
+     "n": "Ceton âm tính: không phải nhiễm toan ceton. Tỷ trọng cao phù hợp mất nước. Không thay được xét nghiệm máu."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Điện tâm đồ (điều dưỡng Linh): nhịp xoang nhanh 102 l/p, QRS hẹp, không ST chênh lên hay chênh xuống, không sóng Q bệnh lý, sóng T không đảo.",
+     "n": "Đau thượng vị ở người 66 tuổi béo, tăng lipid, tăng đường huyết phải loại trừ nhồi máu cơ tim; không có dấu thiếu máu cục bộ cấp. Khuyến cáo điện tim cho đau thượng vị: không có trong tài liệu đã tải."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Đã có phiếu cách 6 ngày trong túi giấy: triglycerid 17,6 mmol/L, cholesterol toàn phần 14,2, HDL-C 0,7 mmol/L, huyết thanh đục sữa. Không lặp lại ở đây.",
+     "n": "Phiếu cũ đã đủ chẩn đoán: triglycerid > 1,7 mmol/L là rối loạn (QĐ 3879/2014, Rối loạn lipid máu mục III.2); ≥ 11,3 mmol/L (1.000 mg/dL) là mức rất nặng (ACC/AHA 2026 mục 4.2.9). Đo lại ở bệnh viện để theo dõi, không để quyết định chuyển. Triglycerid > 4,5 mmol/L: không tính LDL-C bằng công thức Friedewald (ESC/EAS 2019 tr. 155), dùng non-HDL-C hoặc apoB (ACC/AHA 2026 mục 4.2.9 KC 7)."
+    },
+    "lipase": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Mẫu gửi đi có kết quả sau 7 giờ 30 sáng mai: quá muộn để quyết định tối nay; sẽ làm ngay khi tới bệnh viện.",
+     "n": "Chẩn đoán viêm tụy cấp cần 2 trong 3 tiêu chí: đau bụng phù hợp, lipase hoặc amylase > 3 lần giới hạn trên, hình ảnh (IAP/APA 2025 Bảng 1 KC 1; ACG 2024 mục Diagnosis). Tối nay chỉ có tiêu chí lâm sàng nên ghi 'nghi', không chờ lipase để chuyển. Amylase có thể bình thường trong viêm tụy do tăng triglycerid (ACG 2024 mục Diagnosis)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Mẫu gửi đi có kết quả sau 7 giờ 30 sáng mai: quá muộn để quyết định tối nay; sẽ làm ngay khi tới bệnh viện.",
+     "n": "Hematocrit ≥ 44 hoặc tăng dần báo hiệu thể nặng (ACG 2024 Bảng 4)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Mẫu gửi đi có kết quả sau 7 giờ 30 sáng mai: quá muộn để quyết định tối nay; sẽ làm ngay khi tới bệnh viện.",
+     "n": "BUN > 20 mg/dL hoặc creatinin tăng là yếu tố nguy cơ thể nặng (ACG 2024 Bảng 4); creatinin còn quyết định dùng fenofibrat (ACC/AHA 2026 Bảng 26)."
+    },
+    "canxi": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Mẫu gửi đi có kết quả sau 7 giờ 30 sáng mai: quá muộn để quyết định tối nay; sẽ làm ngay khi tới bệnh viện.",
+     "n": "Tìm nguyên nhân khác của viêm tụy (IAP/APA 2025 Bảng 1 KC 2)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Mẫu gửi đi có kết quả sau 7 giờ 30 sáng mai: quá muộn để quyết định tối nay; sẽ làm ngay khi tới bệnh viện.",
+     "n": "Tìm nguyên nhân do mật (IAP/APA 2025 Bảng 1 KC 2); fenofibrat chống chỉ định khi bệnh gan hoạt động (ACC/AHA 2026 Bảng 26)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên chẩn đoán hình ảnh đã về). Sẽ làm ở bệnh viện.",
+     "n": "Siêu âm bụng tìm sỏi mật nên làm ở mọi người viêm tụy cấp (ACG 2024 Bảng 2 KC 1; IAP/APA 2025 Bảng 1 KC 2). Siêu âm 12 ngày trước: túi mật không sỏi nhưng tụy khó quan sát."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Làm ở tuyến trên khi ổn định.",
+     "n": "Suy giáp là nguyên nhân thứ phát (ACC/AHA 2026 Bảng 23); chẩn đoán dựa TSH tăng (QĐ 3879/2014, Suy giáp ở người lớn mục IV.3). Lâm sàng không gợi ý, không quyết định việc chuyển."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về).",
+     "n": "Điện tim không thiếu máu cục bộ, đau kiểu viêm tụy; troponin làm ở bệnh viện nếu còn nghi ngờ. Khuyến cáo troponin cho đau thượng vị: không có trong tài liệu đã tải."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Mẫu gửi đi có kết quả sau 7 giờ 30 sáng mai: quá muộn để quyết định tối nay; sẽ làm ngay khi tới bệnh viện.",
+     "n": "Làm khi ổn định, sau khi ngưng corticoid (ADA 2026 mục 2)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Mẫu gửi đi có kết quả sau 7 giờ 30 sáng mai: quá muộn để quyết định tối nay; sẽ làm ngay khi tới bệnh viện.",
+     "n": "Hỗ trợ tiên lượng thể nặng (IAP/APA 2025 Bảng 1 KC 4)."
+    },
+    "ct_bung": {
+     "n": "Không CT sớm để xác định chẩn đoán hay độ nặng: ACG 2024 Bảng 3 KC 1; IAP/APA 2025 Bảng 1 KC 7 (CT khi chẩn đoán còn mơ hồ hoặc không đáp ứng điều trị, tốt nhất sau ≥ 72–96 giờ). Tối nay cũng không làm được."
+    },
+    "cxr": {
+     "n": "Không khó thở, phổi không ran, SpO₂ 96%; tối nay không làm được."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu: tăng triglycerid rất nặng (17,6 mmol/L, huyết thanh đục sữa), thứ phát do prednisolon tự mua, rượu bia, ăn uống nhiều đường và mỡ, tăng đường huyết, béo phì; nghi viêm tụy cấp do tăng triglycerid, nguy cơ diễn tiến nặng; cần chuyển tuyến ngay",
+     "ok": 1,
+     "n": "Triglycerid > 1,7 mmol/L là rối loạn (QĐ 3879/2014, Rối loạn lipid máu mục III.2); ≥ 11,3 mmol/L (1.000 mg/dL) là mức rất nặng, ngưỡng nguy cơ viêm tụy (ACC/AHA 2026 mục 4.2.9 KC 6); ESC/EAS 2019 mục 9.1.4.1 nêu > 10 mmol/L (880 mg/dL), cả hai đều đúng. Nguyên nhân thứ phát: glucocorticoid, rượu, ăn nhiều đường và mỡ, đường huyết tăng (ACC/AHA 2026 Bảng 23). Đau thượng vị lan sau lưng, nôn, SIRS 2 tiêu chí (ACG 2024 Bảng 4) là tiêu chí lâm sàng của viêm tụy cấp; chưa có lipase nên ghi 'nghi' (IAP/APA 2025 Bảng 1 KC 1)."
+    },
+    {
+     "t": "Rối loạn lipid thứ phát do suy giáp",
+     "ok": null,
+     "n": "Suy giáp chưa kiểm soát là nguyên nhân thứ phát (ACC/AHA 2026 Bảng 23; QĐ 3879/2014, Rối loạn lipid máu mục II.2). Tuyến giáp không to, mạch nhanh chứ không chậm, da không khô, không phù: không gợi ý. TSH chưa làm được tối nay; làm khi ổn định, không quyết định việc chuyển."
+    },
+    {
+     "t": "Viêm dạ dày, loét dạ dày tá tràng (kể cả do corticoid), trào ngược dạ dày thực quản",
+     "ok": null,
+     "n": "Là chẩn đoán ba nơi trước đã gán (neo). Đau lan sau lưng, nôn, mạch 104, thở 22, 37,8 °C, đề kháng thượng vị, hạ HA tư thế và triglycerid 17,6 mmol/L không giải thích bằng viêm dạ dày. Loét do corticoid vẫn phải nhớ nhưng không có thủng hay xuất huyết (bụng không co cứng, không phân đen)."
+    },
+    {
+     "t": "Nhồi máu cơ tim thành dưới",
+     "ok": null,
+     "n": "Phải loại trừ ở người 66 tuổi béo, tăng lipid, tăng đường huyết. Điện tim không ST chênh, không sóng Q. Troponin làm ở bệnh viện nếu còn nghi ngờ; khuyến cáo troponin cho đau thượng vị: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Sỏi mật, viêm túi mật, viêm đường mật, viêm tụy cấp do sỏi",
+     "ok": null,
+     "n": "Murphy âm, không vàng da, không sốt rét run; siêu âm bụng 12 ngày trước không sỏi mật. Siêu âm bụng vẫn nên làm ở mọi người viêm tụy cấp để tìm sỏi (ACG 2024 Bảng 2 KC 1; IAP/APA 2025 Bảng 1 KC 2), làm ở bệnh viện."
+    },
+    {
+     "t": "Thủng tạng rỗng, tắc ruột, nhồi máu mạc treo",
+     "ok": null,
+     "n": "Bụng chướng nhẹ, không co cứng, không phản ứng dội, không sốc. X-quang bụng tối nay không làm được; chuyển tuyến có hình ảnh học bao trùm khả năng này."
+    },
+    {
+     "t": "Đái tháo đường mất bù, nhiễm toan ceton, tăng áp lực thẩm thấu",
+     "ok": null,
+     "n": "Đường huyết 13,2 mmol/L trong bệnh cấp ở người dùng corticoid; ceton niệu âm tính nên không phải nhiễm toan ceton. Cần xác nhận khi ổn định (ADA 2026 mục 2)."
+    },
+    {
+     "t": "Suy thượng thận do glucocorticoid (nguy cơ) và khủng hoảng thượng thận",
+     "ok": null,
+     "n": "Prednisolon 10 mg/ngày sáu tuần (> 3–4 tuần: ESE-ES 2024 R 2.1) có thể ức chế trục thượng thận; nôn, đau bụng, hạ HA tư thế gặp trong khủng hoảng thượng thận (ESE-ES 2024 Bảng 9). Xử trí như người có nguy cơ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến ngay trong đêm bằng xe cứu thương có nhân viên y tế đến bệnh viện có lipase, khí máu, siêu âm bụng và hồi sức; không chờ xét nghiệm sáng mai",
+     "v": "c",
+     "n": "Nghi viêm tụy cấp có SIRS, tuổi > 55, BMI > 30 (ACG 2024 Bảng 4) nên vào giường có theo dõi (ACG 2024 Bảng 3 KC 5, 6); tại chỗ không đủ năng lực thì chuyển, kể cả chuyển phòng ngừa khi SIRS kéo dài (IAP/APA 2025 Bảng 1 KC 6). Triglycerid 17,6 mmol/L vượt ngưỡng viêm tụy (ESC/EAS 2019 mục 9.1.4.1). Tuyến nhận cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mở đường truyền tĩnh mạch, truyền Ringer lactat: 10 mL/kg (khoảng 840 mL) trong giờ đầu vì có giảm thể tích (hạ HA tư thế, tỷ trọng nước tiểu cao), sau đó 1,5 mL/kg/giờ (khoảng 126 mL/giờ), tiếp tục trên xe; theo dõi mạch, HA, SpO₂, nước tiểu",
+     "v": "c",
+     "n": "ACG 2024 Bảng 2 KC 3, 4 và Bảng 3 KC 10–12: Ringer lactat vừa phải, thêm bolus 10 mL/kg khi giảm thể tích, 1,5 mL/kg/giờ khi chưa giảm thể tích, thận trọng nếu bệnh tim hoặc thận. IAP/APA 2025 Bảng 1 KC 10, 11: Ringer lactat, 1,5 mL/kg/giờ, bolus khi giảm thể tích. Hai nguồn thống nhất."
+    },
+    {
+     "t": "Tiêm hydrocortison 100 mg bắp (hoặc tĩnh mạch) ngay trước chuyển, bàn giao rõ là đang dùng prednisolon 10 mg/ngày sáu tuần",
+     "v": "c",
+     "n": "Dùng glucocorticoid > 3–4 tuần có thể suy thượng thận (ESE-ES 2024 R 2.1). Nôn kéo dài thì dùng đường tiêm (R 3.1B; Bảng 8: hydrocortison 100 mg tiêm bắp ngay, lặp lại sau 6 giờ nếu cần, huyết động không ổn thì nhập viện)."
+    },
+    {
+     "t": "Không ăn, không uống trong lúc chờ chuyển vì đang nôn; không tự ý cho ăn lại ở nhà",
+     "v": "c",
+     "n": "Hai nguồn, hai bối cảnh, đều đúng: IAP/APA 2025 KC 66: viêm tụy do tăng triglycerid nhịn ăn 48 giờ đầu; KC 22: ăn lại khi thèm ăn và không nôn; ACG 2024 Bảng 2 KC 10, 11: thể nhẹ ăn sớm 24–48 giờ tùy dung nạp. Ông đang nôn nên chưa ăn; cách ăn lại do bệnh viện quyết."
+    },
+    {
+     "t": "Giảm đau đường tiêm trước chuyển: opioid hoặc thuốc kháng viêm không steroid (NSAID); theo dõi nhịp thở sau khi dùng",
+     "v": "c",
+     "n": "IAP/APA 2025 (giảm đau): opioid hoặc NSAID đều được, opioid tốt hơn khi đau nặng. Liều: không có trong tài liệu đã tải. NSAID ở người mất nước nên thận trọng thận: suy luận lâm sàng."
+    },
+    {
+     "t": "Không kê thuốc ngủ (benzodiazepin, thuốc nhóm Z); nói rõ đêm nay ông sẽ ở bệnh viện và được giảm đau",
+     "v": "c",
+     "n": "Tránh benzodiazepin và nhóm Z ở người ≥ 65 tuổi vì lú lẫn, ngã (AGS Beers 2023 Bảng 2); thuốc ngủ còn che dấu hiệu nặng dần (suy luận lâm sàng). Mất ngủ do prednisolon: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không ngưng đột ngột prednisolon; ghi rõ liều, thời gian dùng và lần uống gần nhất vào thư chuyển để bệnh viện quyết định liều",
+     "v": "c",
+     "n": "Dùng > 3–4 tuần thì giảm liều dần có theo dõi (ESE-ES 2024 R 2.1, R 2.2). Liều giảm cụ thể do bác sĩ nội tiết quyết: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gọi điện báo trước cho bệnh viện, bàn giao theo thứ tự tình trạng, triệu chứng, sinh hiệu, kết quả cũ, việc đã làm; người nhà đi cùng xe, mang theo phiếu xét nghiệm cũ và thuốc đang dùng",
+     "v": "c",
+     "n": "Mẫu SBAR và thư chuyển tuyến: không có trong tài liệu đã tải. Phiếu cũ giúp bệnh viện không phải chờ kết quả (IAP/APA 2025 Bảng 1 KC 1)."
+    },
+    {
+     "t": "Giải thích cho ông và anh Tuấn: bệnh không phải bao tử mà là mỡ máu rất cao có thể gây viêm tụy; vì sao không cho thuốc ngủ; ngưng rượu và đường; dặn sau ra viện kiểm soát prednisolon, đường huyết, mỡ máu",
+     "v": "c",
+     "n": "Xử trí nguyên nhân thứ phát và lối sống là bước đầu (ACC/AHA 2026 mục 4.2.9 KC 1, Bảng 23). Kỹ thuật giải thích: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền NaCl 0,9% thay Ringer lactat theo lượng như trên",
+     "v": "a",
+     "n": "ACG 2024 Bảng 2 KC 4 chỉ 'gợi ý' Ringer lactat hơn NaCl 0,9% (điều kiện, chứng cứ thấp); IAP/APA 2025 Bảng 1 KC 10 khuyến cáo mạnh hơn. Dịch đẳng trương vẫn dùng được khi không có Ringer lactat."
+    },
+    {
+     "t": "Không tiêm hydrocortison tại phòng khám, để bệnh viện quyết định",
+     "v": "a",
+     "n": "ESE-ES 2024 Bảng 8 nêu tiêm ngay khi nôn kéo dài; nếu phòng khám không có thuốc thì ghi vào thư chuyển và báo bệnh viện. Không phạt vì đã xử trí chuyển ngay."
+    },
+    {
+     "t": "Kê thuốc ngủ (diazepam, zolpidem) cho ông ngủ",
+     "v": "w",
+     "n": "Tránh benzodiazepin và nhóm Z ở người ≥ 65 tuổi (AGS Beers 2023 Bảng 2); che mờ diễn tiến viêm tụy; đây cũng là lý do thật ông đến khám, nên là chỗ dễ sa bẫy."
+    },
+    {
+     "t": "Ngưng hẳn prednisolon ngay tối nay",
+     "v": "w",
+     "n": "Dùng > 3–4 tuần thì không ngưng đột ngột (ESE-ES 2024 R 2.1, R 2.2; Bảng 3 nguy cơ khủng hoảng thượng thận)."
+    },
+    {
+     "t": "Cho kháng sinh dự phòng",
+     "v": "w",
+     "n": "Không khuyến cáo kháng sinh dự phòng trong viêm tụy cấp (IAP/APA 2025 Bảng 1, mục kháng sinh: khuyến cáo mạnh, chứng cứ cao; ACG 2024 Bảng 2 KC 8)."
+    },
+    {
+     "t": "Kê thêm thuốc bao tử và cho về, hẹn khám lại",
+     "v": "h",
+     "n": "Bỏ sót viêm tụy cấp do tăng triglycerid ở người có SIRS, tuổi > 55, BMI > 30, đã đi ba nơi với cùng một chẩn đoán sai (neo)."
+    },
+    {
+     "t": "Giữ lại phòng khám qua đêm chờ xét nghiệm lúc 7 giờ 30 sáng",
+     "v": "h",
+     "n": "Phòng khám đêm không có lipase, creatinin, khí máu, chỗ hồi sức; dịch sớm quan trọng nhất trong 24 giờ đầu (ACG 2024 Bảng 3 KC 11). Chuyển khi không đủ năng lực: IAP/APA 2025 Bảng 1 KC 6."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh chính: tăng triglycerid rất nặng (17,6 mmol/L; huyết thanh đục sữa; cholesterol toàn phần 14,2 mmol/L, HDL-C 0,7 mmol/L trên phiếu 6 ngày trước) thuộc rối loạn lipid máu hỗn hợp.",
+     "Nguyên nhân thứ phát cộng dồn: prednisolon 10 mg/ngày tự mua sáu tuần (mặt tròn, da mỏng, bầm gợi ý nhiễm corticoid); rượu bia hằng ngày; bữa khuya nhiều mỡ và đường; béo phì (BMI 31,2); tăng đường huyết 13,2 mmol/L trong bệnh cấp.",
+     "Biến chứng đang nghi: viêm tụy cấp do tăng triglycerid, có SIRS 2 tiêu chí, giảm thể tích (hạ HA tư thế), chưa phân độ được vì chưa có lipase, khí máu, hình ảnh.",
+     "Nguy cơ kèm theo: suy thượng thận do glucocorticoid; các chẩn đoán loại trừ: suy giáp, nhồi máu cơ tim, bệnh đường mật, viêm loét dạ dày."
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: mở bằng câu hỏi về ba nơi đã khám và thuốc đã dùng; hỏi 'thuốc tự mua' và 'rượu' bằng câu cụ thể mới ra prednisolon và bia hằng ngày; hỏi đau lan sau lưng, nôn, bữa ăn trước khi đau, giấy tờ cũ trong túi.",
+     "Dữ kiện then chốt: phiếu cũ (triglycerid 17,6 mmol/L, huyết thanh đục sữa) đã đủ để chẩn đoán, không lặp lại ở phòng khám đêm; prednisolon, rượu, bữa khuya là nguyên nhân thứ phát (ACC/AHA 2026 Bảng 23).",
+     "Khám: mạch 104, thở 22, 37,8 °C (đủ 2 tiêu chí SIRS: ACG 2024 Bảng 4); HA tụt khi đứng (146/90 xuống 124/80 mmHg, mạch 100 lên 118) là giảm thể tích; ấn đau thượng vị có đề kháng, bụng chướng, nhu động giảm; mặt tròn, da mỏng, bầm gợi ý nhiễm corticoid.",
+     "Chẩn đoán viêm tụy cấp cần 2 trong 3: đau bụng phù hợp, lipase hoặc amylase > 3 lần giới hạn trên, hình ảnh (IAP/APA 2025 Bảng 1 KC 1). Tối nay mới có tiêu chí đau nên ghi 'nghi'; amylase có thể bình thường giả trong viêm tụy do tăng triglycerid (ACG 2024, phần Diagnosis).",
+     "Ngưỡng nguy cơ viêm tụy: > 10 mmol/L = 880 mg/dL (ESC/EAS 2019 mục 9.1.4.1) hoặc ≥ 1.000 mg/dL = 11,3 mmol/L (ACC/AHA 2026 mục 4.2.9; ACG 2024 Bảng 3 KC 2). Con số cắt hơi khác nhau, 17,6 mmol/L vượt cả hai.",
+     "Nguy cơ thể nặng: tuổi > 55, BMI > 30, SIRS (ACG 2024 Bảng 4), nên cần giường có theo dõi (ACG 2024 Bảng 3 KC 5, 6) và chuyển nếu tại chỗ không đủ năng lực (IAP/APA 2025 Bảng 1 KC 6).",
+     "Bẫy: ba nơi trước đều cho thuốc bao tử nên dễ neo vào 'đau bao tử'; lý do thật ông đến là xin thuốc ngủ, dễ khiến bác sĩ cho thuốc ngủ rồi cho về.",
+     "Loại trừ: suy giáp (TSH làm ở tuyến trên, lâm sàng không gợi ý); nhồi máu cơ tim (điện tim không thiếu máu); bệnh đường mật (Murphy âm, vẫn cần siêu âm lại); thủng/tắc ruột (bụng không co cứng); nhiễm toan ceton (ceton niệu âm tính)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến ngay trong đêm, không chờ kết quả sáng: đủ tiêu chí lâm sàng và nguy cơ nặng nhưng thiếu mọi công cụ theo dõi (ACG 2024 Bảng 3 KC 5, 6; IAP/APA 2025 Bảng 1 KC 6).",
+     "Dịch là việc quan trọng nhất trước chuyển: Ringer lactat, 10 mL/kg (khoảng 840 mL) khi giảm thể tích, rồi 1,5 mL/kg/giờ (khoảng 126 mL/giờ). ACG 2024 (Bảng 2 KC 3, 4; Bảng 3 KC 10–12) và IAP/APA 2025 (Bảng 1 KC 10, 11) thống nhất; dịch sớm trong 24 giờ đầu quan trọng nhất (ACG 2024 Bảng 3 KC 11), thận trọng nếu có bệnh tim hoặc thận.",
+     "Dinh dưỡng: IAP/APA 2025 nhịn ăn 48 giờ đầu cho viêm tụy do triglycerid (KC 66) và ăn lại khi thèm ăn, không nôn (KC 22); ACG 2024 Bảng 2 KC 10, 11 cho ăn sớm 24–48 giờ ở thể nhẹ. Bối cảnh khác nhau; ông đang nôn nên chưa ăn.",
+     "Hạ triglycerid ở bệnh viện: insulin là thuốc đầu tay ở người đái tháo đường, có thể cân nhắc ở người không đái tháo đường; gạn huyết tương chỉ khi suy cơ quan kéo dài và triglycerid rất cao (IAP/APA 2025 Bảng 1 KC 64, 65). Liều insulin: không có trong tài liệu đã tải.",
+     "Corticoid: dùng > 3–4 tuần nên coi như có nguy cơ suy thượng thận, không ngưng đột ngột (ESE-ES 2024 R 2.1, R 2.2); nôn kéo dài thì dùng đường tiêm, hydrocortison 100 mg tiêm bắp ngay, lặp lại sau 6 giờ nếu cần (ESE-ES 2024 R 3.1B, Bảng 8).",
+     "Không kê thuốc ngủ (AGS Beers 2023 Bảng 2). Giảm đau: opioid hoặc NSAID đều được (IAP/APA 2025, mục giảm đau), liều không có trong tài liệu đã tải. Không kháng sinh dự phòng (IAP/APA 2025, mục kháng sinh; ACG 2024 Bảng 2 KC 8). Không CT sớm (ACG 2024 Bảng 3 KC 1).",
+     "Điều trị lâu dài do bệnh viện: fenofibrat 40–200 mg/ngày (chống chỉ định suy thận nặng, bệnh gan hoạt động, bệnh túi mật: ACC/AHA 2026 Bảng 5, Bảng 26) hoặc omega-3 ethyl ester 4 g/ngày (Bảng 5); ngưng rượu, giảm đường, mỡ 10–15% tổng năng lượng đến khi triglycerid hạ (ACC/AHA 2026 mục 4.2.9 KC 1, mục 4.1.6); theo dõi non-HDL-C hoặc apoB (mục 4.2.9 KC 7).",
+     "Thư chuyển: sinh hiệu, hạ HA tư thế, triglycerid cũ, prednisolon, rượu, thuốc đã tiêm và giờ tiêm. Mẫu thư và SBAR: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat truyền tĩnh mạch",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "10 mL/kg (khoảng 840 mL ở 84 kg) trong giờ đầu vì có giảm thể tích, sau đó 1,5 mL/kg/giờ (khoảng 126 mL/giờ)",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay tại phòng khám, tiếp tục trên xe",
+      "so_ngay": "Đến khi bệnh viện tiếp nhận",
+      "ghi_chu": "ACG 2024 Bảng 2 KC 3, 4; Bảng 3 KC 10–12; IAP/APA 2025 Bảng 1 KC 10, 11. Nếu không có Ringer lactat dùng NaCl 0,9%. Theo dõi mạch, HA, SpO₂, nước tiểu."
+     },
+     {
+      "thuoc": "Hydrocortison natri succinat",
+      "ham_luong": "Lọ 100 mg",
+      "lieu": "100 mg một lần",
+      "duong": "Tiêm bắp hoặc tĩnh mạch",
+      "thoi_diem": "Ngay trước khi chuyển",
+      "so_ngay": "1 lần; lặp lại sau 6 giờ nếu cần do bệnh viện quyết",
+      "ghi_chu": "ESE-ES 2024 R 3.1B, Bảng 8 (nôn kéo dài, stress vừa và nặng). Nếu phòng khám không có thuốc: ghi vào thư chuyển."
+     },
+     {
+      "thuoc": "Prednisolon (thuốc tự mua) 5 mg",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "Không ngưng đột ngột; liều tiếp theo do bệnh viện quyết, không uống thêm tối nay",
+      "duong": "Uống hoặc thay bằng đường tiêm khi nôn",
+      "thoi_diem": "Theo bệnh viện",
+      "so_ngay": "Giảm liều dần sau khi bác sĩ nội tiết đánh giá",
+      "ghi_chu": "ESE-ES 2024 R 2.1, R 2.2, R 3.1B. Liều giảm cụ thể: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc giảm đau (opioid hoặc NSAID)",
+      "ham_luong": "Theo thuốc sẵn có của phòng khám",
+      "lieu": "Liều từng thuốc: không có trong tài liệu đã tải",
+      "duong": "Tiêm",
+      "thoi_diem": "Trước chuyển khi đau",
+      "so_ngay": "Đến khi bệnh viện tiếp nhận",
+      "ghi_chu": "IAP/APA 2025 (giảm đau): opioid hoặc NSAID đều được; opioid tốt hơn khi đau nặng. Theo dõi nhịp thở."
+     },
+     {
+      "thuoc": "Thuốc ngủ (diazepam, zolpidem)",
+      "ham_luong": "Không kê",
+      "lieu": "Không kê",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "(nguồn: AGS Beers 2023 Bảng 2) tránh benzodiazepin và nhóm Z ở người ≥ 65 tuổi."
+     },
+     {
+      "thuoc": "Insulin",
+      "ham_luong": "Không dùng tại phòng khám",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Truyền tĩnh mạch ở bệnh viện",
+      "thoi_diem": "Sau khi có triglycerid, đường huyết, kali",
+      "so_ngay": "Theo bệnh viện",
+      "ghi_chu": "IAP/APA 2025 Bảng 1 KC 64: insulin là thuốc đầu tay hạ triglycerid ở người đái tháo đường, có thể cân nhắc ở người không đái tháo đường."
+     },
+     {
+      "thuoc": "Fenofibrat (khởi sau ổn định)",
+      "ham_luong": "Viên 160 mg hoặc 200 mg tùy chế phẩm",
+      "lieu": "40–200 mg một lần/ngày tùy chế phẩm",
+      "duong": "Uống",
+      "thoi_diem": "Sau khi ăn lại được, do bệnh viện quyết",
+      "so_ngay": "Dài hạn, theo triglycerid",
+      "ghi_chu": "ACC/AHA 2026 Bảng 5, Bảng 26 (chống chỉ định suy thận nặng, bệnh gan hoạt động, bệnh túi mật); cần creatinin, men gan trước khi dùng; không khởi tối nay."
+     },
+     {
+      "thuoc": "Omega-3 ethyl ester (khởi sau ổn định)",
+      "ham_luong": "Viên 1 g",
+      "lieu": "4 g một hoặc hai lần/ngày cùng bữa ăn",
+      "duong": "Uống",
+      "thoi_diem": "Sau khi ăn lại được",
+      "so_ngay": "Dài hạn, theo triglycerid",
+      "ghi_chu": "ACC/AHA 2026 Bảng 5; mục 4.2.9 KC 6; không khởi tối nay."
+     }
+    ],
+    "dan_do": [
+     "Với ông Thạnh: 'Ba nơi cho thuốc bao tử là hợp lý với triệu chứng, nhưng tờ xét nghiệm ông mang theo cho thấy mỡ máu cao gấp nhiều lần bình thường, có thể làm viêm tụy; đau lan ra sau lưng, nôn thì nằm ở nhà không an toàn.'",
+     "Vì sao không cho thuốc ngủ: người lớn tuổi dùng thuốc ngủ dễ té, lú; đêm nay ông cần được theo dõi. Hỏi ông lo gì về ca trực để cùng tìm cách xin nghỉ; giấy nghỉ ốm: không có trong tài liệu đã tải.",
+     "Với anh Tuấn: đi cùng xe, mang túi giấy tờ cũ và các hộp thuốc ông đang uống, nói với bác sĩ bệnh viện về prednisolon và rượu.",
+     "Không ăn, không uống trong lúc chờ; khát thì báo điều dưỡng làm ẩm môi. Không tự mua thuốc bao tử, thuốc ngủ hay prednisolon.",
+     "Đau tăng, nôn nhiều, khó thở, lơ mơ, tay chân lạnh: gọi cấp cứu bất kể giờ nào.",
+     "Sau ra viện: ngưng rượu bia hẳn, hạn chế đường và mỡ, đi bộ đều; khám lại đường huyết, HbA1c (ADA 2026 mục 2), TSH; đo triglycerid lúc đói sau khoảng 1 tháng (ACG 2024, phần Etiology).",
+     "Phiếu nhận xét: nếu đã cho thuốc ngủ hoặc cho về, xem lại vì sao 'đau bao tử ba nơi' là bẫy neo và vì sao triglycerid cao như trên đủ để chuyển mà không cần chờ lipase."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Thạnh đồng ý đi sau khi bác sĩ hỏi ông lo gì về ca trực và nói thẳng rằng thuốc ngủ đêm nay không an toàn; anh Tuấn đi cùng xe. Tại bệnh viện: lipase gấp hơn 3 lần giới hạn trên (IAP/APA 2025 Bảng 1 KC 1), triglycerid 24,3 mmol/L trước khi truyền, creatinin và canxi bình thường, siêu âm bụng không sỏi mật. Chẩn đoán viêm tụy cấp do tăng triglycerid mức vừa; bù dịch, nhịn ăn 48 giờ đầu, insulin truyền tĩnh mạch, hydrocortison tiêm rồi giảm prednisolon dần theo bác sĩ nội tiết, TSH bình thường. Ra viện sau 8 ngày với fenofibrat, omega-3 và hẹn tái khám; ông bỏ rượu, đổi sang ca trực ban ngày và HbA1c được kiểm tra.",
+ "nhieu": [
+  "Ba nơi khám không khỏi: ông kể rằng mọi nơi đều cho thuốc bao tử rồi bảo về. Ông hơi mất tin và nói gọn, nên hỏi chung chung chỉ nghe 'đau bao tử'. Cách giữ lòng tin: công nhận ba nơi đều hợp lý với triệu chứng, rồi hỏi từng việc cụ thể (đau lan, nôn, thuốc tự mua, rượu, giấy tờ cũ).",
+  "Lý do thật là xin thuốc ngủ: ông nhắc 'tôi còn phải về trực đêm' và mất ngủ nhiều đêm, nhưng chỉ nói ra khi được hỏi khéo. Bác sĩ cho thuốc ngủ thì thấy ông hài lòng và về ngay, bỏ sót viêm tụy.",
+  "Người nhà và giấy tờ: anh Tuấn mang theo túi giấy tờ nhưng chỉ đưa khi được hỏi; ông ngại kể prednisolon tự mua và rượu bia vì sợ bị trách."
+ ],
+ "bai_hoc_bien": [
+  "Đau thượng vị kéo dài ở người từng khám nhiều nơi: thoát khỏi chẩn đoán neo bằng việc hỏi lại từ đầu, hỏi thuốc tự mua, rượu và xem giấy tờ cũ.",
+  "Triglycerid > 10 mmol/L (880 mg/dL: ESC/EAS 2019 mục 9.1.4.1) hoặc ≥ 11,3 mmol/L (1.000 mg/dL: ACC/AHA 2026 mục 4.2.9) kèm đau bụng là viêm tụy cho đến khi chứng minh khác; phiếu cũ đủ để chẩn đoán, không lặp lại.",
+  "Chuyển tuyến khi thiếu công cụ: dịch Ringer lactat 1,5 mL/kg/giờ, bolus 10 mL/kg khi giảm thể tích (ACG 2024; IAP/APA 2025 Bảng 1 KC 10, 11), nhịn ăn lúc đang nôn, giảm đau, không thuốc ngủ (AGS Beers 2023 Bảng 2).",
+  "Corticoid tự mua > 3–4 tuần: không ngưng đột ngột; nôn kéo dài thì dùng đường tiêm (ESE-ES 2024 R 2.1, R 3.1B, Bảng 8)."
+ ],
+ "diem_nho": [
+  "Chẩn đoán viêm tụy cấp: 2 trong 3 tiêu chí (đau bụng phù hợp, lipase hoặc amylase > 3 lần giới hạn trên, hình ảnh) (IAP/APA 2025 Bảng 1 KC 1).",
+  "SIRS: mạch > 90, nhịp thở > 20, nhiệt > 38 hoặc < 36 °C, bạch cầu > 12.000 hoặc < 4.000 (ACG 2024 Bảng 4). Yếu tố nguy cơ thể nặng: tuổi > 55, BMI > 30, hematocrit ≥ 44, BUN > 20 mg/dL.",
+  "Dịch: Ringer lactat; 1,5 mL/kg/giờ; thêm bolus 10 mL/kg khi giảm thể tích (ACG 2024 Bảng 3 KC 10–12; IAP/APA 2025 Bảng 1 KC 10, 11).",
+  "Viêm tụy do tăng triglycerid: insulin đầu tay ở người đái tháo đường; nhịn ăn 48 giờ đầu (IAP/APA 2025 Bảng 1 KC 64, 66). Fenofibrat 40–200 mg/ngày; omega-3 ethyl ester 4 g/ngày (ACC/AHA 2026 Bảng 5).",
+  "Benzodiazepin và nhóm Z: tránh ở người ≥ 65 tuổi (AGS Beers 2023 Bảng 2).",
+  "Glucocorticoid > 3–4 tuần: giảm dần, không ngưng đột ngột; nôn kéo dài thì hydrocortison 100 mg tiêm bắp (ESE-ES 2024 R 2.1, Bảng 8)."
+ ],
+ "nguon": [
+  "ACG Clinical Guideline: Management of Acute Pancreatitis 2024 (TL-0060; bản chữ ACG 2024 - Management of acute pancreatitis) – ĐÃ ĐỌC Bảng 2 (KC 1–11), Bảng 3 (KC 1–12), Bảng 4, phần Etiology, Initial management, Nutrition.",
+  "IAP/APA Revised Guidelines on Acute Pancreatitis 2025 (TL-0199) – ĐÃ ĐỌC Bảng 1 KC 1, 2, 6, 10, 11, 22, giảm đau, kháng sinh, KC 64–66. KC = câu hỏi (Q) đánh số trong tài liệu.",
+  "ACC/AHA Guideline Management of Dyslipidemia 2026 (bản chữ ACC-AHA 2026) – ĐÃ ĐỌC mục 4.1.6 KC 1, mục 4.2.9 KC 1, 6, 7; Bảng 5, Bảng 23, Bảng 26.",
+  "ESC/EAS Guidelines for the management of dyslipidaemias 2019 (TL-0320) – ĐÃ ĐỌC mục 9.1.4.1 (ngăn viêm tụy do tăng triglycerid nặng). ESC/EAS 2025 Focused update (TL-0298) – đã đọc, không bổ sung về viêm tụy.",
+  "ESE/Endocrine Society Guideline Glucocorticoid-induced adrenal insufficiency 2024 (bản chữ ESE-ES 2024) – ĐÃ ĐỌC R 2.1, 2.2, 3.1A, 3.1B; Bảng 1, 3, 8, 9.",
+  "AGS Beers Criteria 2023 (TL-0022) – ĐÃ ĐỌC Bảng 2 (benzodiazepin, nhóm Z).",
+  "Bộ Y tế – QĐ 3879/QĐ-BYT 2014 (Hướng dẫn chẩn đoán và điều trị bệnh nội tiết – chuyển hóa) – ĐÃ ĐỌC Rối loạn lipid máu mục II.2, III.2; Suy giáp ở người lớn mục IV.3.",
+  "ADA Standards of Care in Diabetes 2026 (TL-0296, mục 2: TL-0674) – ĐÃ ĐỌC mục 2 (KC 2.18; xác nhận chẩn đoán)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 26/10/2026, bản 1. Đã đọc: ACG 2024, IAP/APA 2025, ACC/AHA 2026 (mục 4.2.9, Bảng 5, 23, 26), ESC/EAS 2019 mục 9.1.4.1, ESE-ES 2024, AGS Beers 2023, QĐ 3879/2014, ADA 2026 mục 2. Ca không dùng ảnh da (không có dấu hiệu da then chốt); âm thanh tim nhanh AT-TIM-NHANH-01 (mạch 104) và phổi bình thường AT-PHOI-BT-NL-01.",
+  "Thiếu tài liệu: liều opioid và NSAID cho viêm tụy; liều insulin trong viêm tụy do tăng triglycerid; liều giảm prednisolon; khuyến cáo troponin cho đau thượng vị; ngưỡng giảm thể tích khi đứng; mẫu SBAR và thư chuyển; tuyến nhận; giấy nghỉ ốm cho người trực ca; mất ngủ do prednisolon.",
+  "Mâu thuẫn mới (ghi cả hai): ngưỡng triglycerid nguy cơ viêm tụy (ESC/EAS 2019 mục 9.1.4.1: > 10 mmol/L so với ACC/AHA 2026 mục 4.2.9: ≥ 1.000 mg/dL = 11,3 mmol/L); nhịn ăn 48 giờ (IAP/APA 2025 KC 66) so với ăn sớm 24–48 giờ (ACG 2024 Bảng 2 KC 10). Xem MT-0411_mau_thuan.md.",
+  "Ngưỡng SIRS trong ACG 2024 Bảng 4 in là '> 2 tiêu chí' (bản chữ), có thể lỗi in của '≥ 2'; ca dùng 2 tiêu chí vì ca có thêm yếu tố nguy cơ khác."
+ ]
+}

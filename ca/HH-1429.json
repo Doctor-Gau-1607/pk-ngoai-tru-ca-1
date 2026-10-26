@@ -1,0 +1,921 @@
+{
+ "ma_ca": "HH-1429",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo kho tài liệu (2026-10-26)",
+ "benh": "HH_viem_phoi_khong_dien_hinh_mycoplasma",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phổi không điển hình (Mycoplasma)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi điển hình",
+   "Lao phổi"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ (lượt 2: macrolid không hiệu quả sau 3 ngày)",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau ăn hải sản (tiệc nhà ngoại, ăn tôm, ghẹ)",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư (ông nội mất vì ung thư phổi sau nhiều tháng ho)"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Minh Khôi",
+  "tuoi": 12,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 7, đi học bằng xe đạp, hay đá bóng",
+  "can_nang": 40,
+  "chieu_cao": 151,
+  "xung_ho": "Bác sĩ gọi bé là 'em', gọi mẹ là 'chị'. Khôi xưng 'em', gọi bác sĩ là 'bác sĩ'; gọi mẹ là 'mẹ'. Mẹ xưng 'tôi' hoặc 'em' với bác sĩ, gọi con là 'con' hoặc 'cháu', gọi Khôi là 'thằng Khôi'.",
+  "tinh_cach": "Khôi hiền, hợp tác, ham đá bóng nên mong khỏi để đi học. Em nhạy cảm, hay đọc tin trên mạng, rất thương ông nội. Mẹ (chị Thu, 40 tuổi, nhân viên văn phòng) lo nhưng nghe lời bác sĩ, tin hải sản là 'nóng trong'.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời đủ khi hỏi đúng, uống thuốc đúng giờ, tái khám đúng hẹn; không đòi thuốc, không từ chối xét nghiệm. Khó khăn chỉ là thông tin: mẹ gán cho hải sản, Khôi giấu nỗi sợ ung thư, chỉ nói khi được hỏi riêng, nhẹ nhàng.",
+  "nguoi_nha": "Mẹ đi cùng, trả lời thay Khôi các câu chung. Mẹ biết: Khôi ho, sốt chiều, ăn tiệc hải sản trước đó. Mẹ KHÔNG biết Khôi sợ giống ông nội (ông mất vì ung thư phổi 4 tháng trước). Khôi chỉ kể khi mẹ ra ngoài hoặc được hỏi riêng.",
+  "ten_nguoi_nha": "Chị Thu (mẹ)",
+  "ngoai_hinh": {
+   "da": "#d9ad86",
+   "toc": "#1c1612",
+   "kieuToc": "ngan",
+   "ao": "#4a6fa5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b48e",
+    "toc": "#2a1c14",
+    "kieuToc": "ngan",
+    "ao": "#8a6fa3",
+    "aoKieu": "so_mi",
+    "kinh": true,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho 8 ngày, sốt chiều tối sau bữa tiệc hải sản; mẹ nghĩ do dị ứng",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Em Nguyễn Minh Khôi, 12 tuổi, học sinh lớp 7, mẹ đưa đến vì ho 8 ngày và sốt chiều tối; mẹ nghĩ do ăn hải sản ở tiệc nhà ngoại. Sinh hiệu: nhiệt độ 37,9 °C, mạch 96 l/p, huyết áp 105/65 mmHg, nhịp thở 24 l/p, SpO₂ 97% khí trời, cân nặng 40 kg, cao 151 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Khôi thở 24 l/p (dưới ngưỡng thở nhanh ≥ 30 l/p của trẻ > 5 tuổi), SpO₂ 97%, uống được, tỉnh táo, nên là viêm phổi không nặng, điều trị tại nhà (QĐ 101/2014 mục V.1–V.2, VII.1). Nằm viện làm em nghỉ học thêm, gia đình tốn kém, và nỗi sợ 'bệnh nặng như ông nội' tăng lên trong khi thuốc vẫn là macrolid uống như ở nhà.",
+    "theo_doi": "Chỉ cho thuốc ho, thuốc dị ứng hoặc giữ theo dõi mà không kê kháng sinh là bỏ sót viêm phổi: ho, sốt kèm khám phổi bất thường đã đủ chẩn đoán (QĐ 101 mục V.1) và kháng sinh uống được chỉ định (mục VII.1.1). Khôi tiếp tục sốt chiều, ho đêm, nghỉ học dài hơn; thuốc ho chứa codein hoặc atropin không nên dùng (WHO Pocket book 2013, TL-0250 mục 4.4). Mẹ vẫn tin 'dị ứng hải sản', còn Khôi vẫn giấu nỗi sợ ung thư."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu ăn tôm ghẹ ở tiệc nhà ngoại Chủ nhật tuần trước rồi ho tới giờ, tôi nghĩ do nóng trong hay dị ứng hải sản. Bác sĩ cho cháu thuốc ho với thuốc dị ứng nhé.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "105/65",
+    "nhiet": "37,9",
+    "nhip_tho": 24,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho 8 ngày, sốt chiều tối. Mẹ đưa đi khám vì ho đêm làm cả nhà mất ngủ; mẹ nghĩ do ăn hải sản nên muốn xin thuốc ho, thuốc dị ứng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ngày 1 đau họng, mệt. Từ ngày 2 ho khan từng cơn, nhiều về đêm và khi chạy hay cười lớn; vài ngày nay có ít đờm trắng trong. Không ho ra máu, không nôn sau ho, không rít, không tím.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho khan kéo dài, khởi phát từ từ, dưới 2 tuần"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Từ ngày 2 sốt 37,8–38,5 °C chiều tối, sáng hết; ớn lạnh nhẹ, đau đầu, mỏi người, ăn kém. Chưa uống thuốc hạ sốt hay kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt chiều, triệu chứng toàn thân"
+    },
+    {
+     "id": "hai_san",
+     "noi_dung": "Chủ nhật (ngày 0) tiệc mừng thọ bà ngoại có tôm, ghẹ, mực; cả nhà ăn, không ai ngứa hay nôn. Khôi ăn xong không nổi mề đay, không ngứa, không sưng môi, không khò khè, không đau bụng hay tiêu chảy. Triệu chứng đau họng, sốt bắt đầu hôm sau.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Lớp có 3 bạn ho kéo dài 2–3 tuần, 1 bạn nghỉ học. Trong nhà không ai ho, không ai điều trị lao; Khôi đã chích BCG.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ học đường, loại trừ lao"
+    },
+    {
+     "id": "tho",
+     "noi_dung": "Không khó thở, không thở rít. Vẫn đi bộ đến trường nhưng chạy là ho. Ăn uống kém; tiểu bình thường; không phát ban, không đau khớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng, tổn thương ngoài phổi"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không hen, không viêm mũi dị ứng, không chàm. Không dị ứng thuốc, thức ăn. Tiêm chủng đủ. Không dùng thuốc thường xuyên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, dị ứng thuốc trước khi kê kháng sinh"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Ông nội ho dai dẳng mấy tháng, được chẩn đoán ung thư phổi rồi mất 4 tháng trước. Khôi ho đến ngày 8, đọc mạng thấy 'ho kéo dài là ung thư phổi' nên rất sợ, không dám nói vì mẹ còn buồn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng Khôi (mẹ ra ngoài hoặc bác sĩ hỏi nhẹ nhàng 'em có lo điều gì không') hoặc hỏi trong nhà có ai từng ho lâu, mắc bệnh phổi. Khôi nói nhỏ, mắt đỏ. Hỏi chung chung thì chỉ nói 'em không sao'.",
+     "k": 1,
+     "y": "Lý do thật: sợ mắc ung thư"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt, gầy vừa (BMI 17,5). Da niêm hồng, môi không tím. Nói câu dài không phải dừng lấy hơi. Ho vài tiếng khi hít sâu. Không rút lõm lồng ngực.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p, không rút lõm. Rung thanh hai bên đều, gõ trong. Đáy phổi phải phía sau: ran nổ nhỏ hạt thưa, rõ cuối thì hít vào sâu, giảm khi ho. Phổi trái: rì rào phế nang êm, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 24 l/p. Không rút lõm lồng ngực. Rung thanh hai bên đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt cuối thì hít vào."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 96 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không mủ. Mũi hồng, không dịch mủ. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ hai bên nhỏ dưới 1 cm, mềm, di động, không đau. Không hạch thượng đòn, hạch nách. Tuyến giáp bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da không ban, không mề đay, không phù mạch, không hồng ban hình bia. Niêm mạc miệng không loét.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ nhanh 3 phút trong hành lang: SpO₂ 97% → 96%, nhịp thở 26 l/p, mạch 108, ho vài tiếng. Không hụt hơi, không tím.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "Thâm nhiễm dạng lưới và nốt mờ không đều vùng đáy phổi phải, lan quanh rốn phổi phải; không đông đặc thùy, không hang, không tràn dịch màng phổi. Phổi trái trong. Bóng tim bình thường.",
+     "ab": 1,
+     "n": "Chấm a. QĐ 101/2014 mục VI.1: X-quang là bằng chứng khách quan nhưng 2–3 ngày đầu có thể bình thường, vi khuẩn không điển hình hay gặp tổn thương khoảng kẽ; mục VII.1.1: kháng sinh uống khi không có xét nghiệm. QĐ 3312/2015 bài Không điển hình mục 4: tổn thương tổ chức kẽ, hình lưới (sổ NH-0619 #2). Phim còn giúp trấn an Khôi."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 11,2 G/L · Neutrophil 68% · Hb 132 g/L · TC 290 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 11.2,
+      "neu_pct": 68.0,
+      "neu": 7.62,
+      "lym_pct": 23.0,
+      "lym": 2.58,
+      "mono_pct": 7.0,
+      "mono": 0.78,
+      "eos_pct": 1.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.06,
+      "rbc": 4.7,
+      "hgb": 132,
+      "hct": 0.4,
+      "mcv": 85.1,
+      "mch": 28.1,
+      "mchc": 330,
+      "rdw": 12.8,
+      "plt": 290
+     },
+     "n": "Chấm a. QĐ 3312 bài Không điển hình mục 4: bạch cầu tăng hoặc tăng nhẹ; QĐ 101 mục VI.2: bình thường nếu vi khuẩn không điển hình. Không đổi xử trí."
+    },
+    "crp": {
+     "v": "a",
+     "r": "34 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 34
+     },
+     "n": "Chấm a. QĐ 3312 mục 4: CRP thường tăng cao; QĐ 101 mục VI.2: bình thường nếu vi khuẩn không điển hình (sổ NH-0619 #4). Ngưỡng CRP ở trẻ em: không có trong tài liệu đã tải."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Test nhanh cúm A/B và SARS-CoV-2: âm tính.",
+     "n": "Chấm a. Không đổi xử trí; NICE NG250 2025 khuyến cáo 1.4.5: không làm xét nghiệm vi sinh thường quy cho trẻ viêm phổi không nặng."
+    },
+    "mycoplasma": {
+     "v": "n",
+     "r": "Chưa cần: kết quả không đổi xử trí hôm nay.",
+     "n": "Không cần hôm nay: NICE NG250 2025 phần Rationale: không có bằng chứng về xét nghiệm Mycoplasma, kết quả có thể không đổi kê đơn; macrolid vẫn đầu tay (QĐ 101 mục VII.1.1b). Làm khi không đáp ứng (Liang 2026 mục 3.3.3; NICE 1.11.5): xem lượt 2."
+    },
+    "xpert": {
+     "v": "n",
+     "r": "Khôi không khạc đờm được (đờm ít, trắng trong).",
+     "n": "Không cần: ho mới 8 ngày, dưới mốc 2 tuần, không sụt cân, không tiếp xúc lao (QĐ 162/2024 Phần II mục 1.1 Bảng 1). Nghĩ lại lao nếu viêm phổi không đáp ứng kháng sinh 2 tuần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng không nặng nghi do Mycoplasma pneumoniae (vi khuẩn không điển hình), thiếu niên 12 tuổi",
+     "ok": 1,
+     "n": "Học sinh, ho khan thành cơn, sốt chiều, 3 bạn cùng lớp ho lâu, thực thể nghèo nàn nhưng có ran nổ đáy phải, X-quang tổn thương khoảng kẽ, BC tăng nhẹ (QĐ 3312 bài Không điển hình mục 3–5). Mycoplasma có thể tới 50% nguyên nhân ở trẻ > 5 tuổi (QĐ 101 mục IV); bùng phát khoảng 4 năm một lần, hay ở trẻ học đường (NICE NG250 2025 ghi chú Bảng 1–2). Thở 24 l/p, SpO₂ 97%, uống được: không nặng (QĐ 101 mục V). ICD-10 J18.9, J15.7 khi xác định (TT 06/2026)."
+    },
+    {
+     "t": "Viêm phổi điển hình do phế cầu",
+     "n": "Khởi phát từ từ, không rét run, đờm không mủ, không đau ngực màng phổi, không đông đặc thùy. Xét lại nếu macrolid thất bại (QĐ 101 mục VII.1.2)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho mới 8 ngày, không sụt cân, không mồ hôi đêm, không tiếp xúc lao, đã chích BCG (QĐ 162/2024 Phần II mục 1.1 Bảng 1). Xét lại nếu không đáp ứng kháng sinh 2 tuần."
+    },
+    {
+     "t": "Ho do dị ứng hải sản",
+     "n": "Không mề đay, ngứa, phù mạch, khò khè sau ăn; cả nhà ăn không ai bệnh; sốt và ran đáy phổi. Tài liệu đã tải không đề cập dị ứng hải sản gây ho."
+    },
+    {
+     "t": "Hen phế quản hoặc ho gà",
+     "n": "Ho đêm, ho khi chạy giống hen, nhưng có sốt, ran nổ (không rít), không tiền sử dị ứng. Ho gà: không cơn ho rũ rượi; tiêu chuẩn ho gà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ung thư phổi (nỗi lo của Khôi)",
+     "n": "Khởi phát cấp có sốt, ran đáy phổi, thâm nhiễm khoảng kẽ: bệnh cảnh nhiễm trùng. Tần suất ung thư phổi ở trẻ em: không có trong tài liệu đã tải. Ho quá 8 tuần thì tìm nguyên nhân khác (ACCP 2006, TL-0160 khuyến cáo 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú tại nhà, hẹn khám lại sau 2–3 ngày hoặc sớm hơn nếu có dấu hiệu nặng",
+     "v": "c",
+     "n": "QĐ 101/2014 mục VII.1, VII.1.2 (khám lại sau 3 ngày hoặc sớm hơn); QĐ 3312 bài Viêm phổi do vi khuẩn mục 4.1; QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3: hẹn 2 ngày (sổ HH-0876 ghi cả hai)."
+    },
+    {
+     "t": "Macrolid uống: azithromycin 10 mg/kg/ngày một lần lúc đói (40 kg: 400 mg) trong 3–5 ngày, hoặc clarithromycin 15 mg/kg/ngày chia 2 lần (300 mg × 2) trong 7 ngày (hoặc 250–500 mg × 2 lần/ngày trong 5 ngày)",
+     "v": "c",
+     "n": "QĐ 101 mục VII.1.1b: trẻ > 5 tuổi M. pneumoniae thường gặp nhất, macrolid đầu tay (azithromycin 3–5 ngày, clarithromycin 7 ngày); QĐ 3312 mục 4.1.2 (azithromycin 5 ngày, thuốc khác 7–10 ngày); NICE NG250 2025 Bảng 2 (12–17 tuổi, nghi không điển hình): clarithromycin 250–500 mg × 2 lần/ngày × 5 ngày; QĐ 708/2015 mục 5.3c: azithromycin 10 mg/kg ngày đầu rồi 5 mg/kg × 4 ngày. Các nguồn khác nhau, đều đúng (sổ NH-0619 #1, HH-1450 #1). Kháng macrolid cao ở Đông Á (Liang 2026 mục 3.1.1); số liệu Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt paracetamol 10–15 mg/kg/lần (500 mg) khi sốt ≥ 38,5 °C, cách ít nhất 6 giờ, tối đa 4 viên 0,5 g/ngày; uống đủ nước, ăn chia nhỏ bữa",
+     "v": "c",
+     "n": "QĐ 3312 bài Viêm phổi do vi khuẩn mục 4 (2.2): ≥ 38,5 °C, 10–15 mg/kg/lần cách 6 giờ; WHO Pocket book 2013 mục 4.4: ≥ 39 °C (sổ NH-0199 mục 3); trần 4 viên 0,5 g/ngày: QĐ 4235/2012 mục 3.4; QĐ 101 mục VII.1."
+    },
+    {
+     "t": "Giải thích với mẹ vì sao ho này không do hải sản: không ban, ngứa, khò khè; đây là viêm phổi do vi khuẩn lây ở lớp; không cần thuốc dị ứng, không dùng thuốc ho ức chế",
+     "v": "c",
+     "n": "QĐ 101 mục IV, V.1 (chẩn đoán dựa vào ho, sốt kèm khám phổi bất thường); WHO Pocket book 2013 mục 4.4: không dùng thuốc ho chứa atropin, codein, rượu. Thuốc kháng dị ứng: tài liệu đã tải không nêu chỉ định."
+    },
+    {
+     "t": "Nói riêng với Khôi khi mẹ ra ngoài, hỏi em còn lo điều gì; ghi nhận nỗi sợ giống ông nội và trả lời trung thực, chỉ khẳng định điều có nguồn",
+     "v": "c",
+     "n": "Xử lý lý do thật (sợ ung thư): nếu không gỡ, Khôi tiếp tục lo âu và có thể giấu triệu chứng. Nói: có sốt, ran ở phổi, X-quang kiểu nhiễm khuẩn nên nghĩ nhiều là viêm phổi chữa được; hẹn xem lại; ho quá 8 tuần mới nghĩ nguyên nhân khác (ACCP 2006 khuyến cáo 3). Tần suất ung thư phổi ở trẻ em: không có trong tài liệu đã tải, không hứa tuyệt đối."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đi khám ngay (thở ≥ 30 l/p, rút lõm, khó thở, không uống được, lơ mơ, tím, SpO₂ < 90%, sốt kéo dài thêm 3 ngày) và biện pháp hạn chế lây (khẩu trang, rửa tay, không dùng chung đồ ăn)",
+     "v": "c",
+     "n": "QĐ 101 mục V.1–V.2, VII.1; NICE NG250 2025 khuyến cáo 1.10.3–1.10.4; Liang 2026 mục 2.5.1: lây qua giọt bắn, tay, đồ dùng, cả thời kỳ ủ bệnh 1–3 tuần. Thời gian nghỉ học/cách ly: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Amoxicillin đơn trị 500 mg × 3 lần/ngày × 5 ngày (hoặc 80 mg/kg/ngày chia 2) vì nghĩ viêm phổi thường",
+     "v": "a",
+     "n": "NICE NG250 2025 Bảng 2: 12–17 tuổi amoxicillin 500 mg × 3 lần/ngày × 5 ngày khi không nghi không điển hình; ca này gợi ý Mycoplasma, kháng tự nhiên beta-lactam (QĐ 101 mục IV). Không nguồn nào nói có hại nên a; dự kiến không đáp ứng."
+    },
+    {
+     "t": "Kháng sinh tiêm (ceftriaxon) hôm nay",
+     "v": "w",
+     "n": "Sổ NH-0619 #1: kháng sinh tiêm cho viêm phổi không nặng chấm w (QĐ 101 mục VII.1); beta-lactam, Mycoplasma kháng tự nhiên (mục IV)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng không nặng nghi do Mycoplasma pneumoniae, thiếu niên 12 tuổi (ICD-10 J18.9, J15.7 khi xác định; TT 06/2026)",
+     "Mức độ không nặng: thở 24 l/p, SpO₂ 97%, uống được, tỉnh táo (QĐ 101 mục V.1–V.2)",
+     "Đã nghĩ tới và loại trừ: phế cầu, lao phổi, dị ứng hải sản, hen, ho gà; nỗi lo ung thư của Khôi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám; diễn tiến ho, sốt (dưới 2 tuần, QĐ 162/2024 Bảng 1); bữa hải sản và phản ứng dị ứng; tiếp xúc lớp học; dấu hiệu nặng; tiền sử, dị ứng thuốc; hỏi riêng Khôi nỗi lo.",
+     "Khám: sinh hiệu gần bình thường nên dễ lướt qua; then chốt là ran nổ nhỏ hạt đáy phổi phải khi hít sâu (QĐ 3312 bài Không điển hình mục 3: thực thể nghèo nàn). Da không ban loại trừ dị ứng; đo SpO₂ khi đi bộ.",
+     "Vì sao nghĩ Mycoplasma: trên 5 tuổi là nguyên nhân thường gặp nhất (QĐ 101 mục VII.1.1b), tới 50% (mục IV); bùng phát theo chu kỳ (NICE ghi chú Bảng 1–2); lây qua giọt bắn, ủ bệnh 1–3 tuần (Liang 2026 mục 2.5.1) nên không liên quan bữa hải sản; X-quang khoảng kẽ (QĐ 101 mục VI.1).",
+     "Loại trừ: phế cầu (không rét run, không đông đặc thùy); lao (ho mới 8 ngày, QĐ 162/2024 Bảng 1); dị ứng hải sản (không ban, ngứa, khò khè).",
+     "Lý do thật: Khôi sợ ung thư vì ông nội; chỉ biết khi hỏi riêng."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú vì không dấu hiệu nặng, có mẹ ở nhà (QĐ 101 mục VII.1; QĐ 3312 bài Viêm phổi do vi khuẩn mục 4.1).",
+     "Macrolid uống ngay (QĐ 101 mục VII.1.1b; QĐ 3312 mục 4.1.2). Liều và số ngày khác nhau giữa các văn bản (azithromycin 3–5 hoặc 5 ngày; clarithromycin 7 ngày hoặc 5 ngày NICE): ghi cả hai, đều đúng. Kháng macrolid cao ở Đông Á (Liang 2026 mục 3.1.1) nên hẹn lại 2–3 ngày là then chốt (QĐ 101 mục VII.1.2).",
+     "Không chích ceftriaxon, không thuốc ho ức chế (QĐ 101 mục IV; WHO Pocket book 2013 mục 4.4).",
+     "Hỏi riêng Khôi về nỗi lo, nói thật điều có nguồn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Azithromycin (Lựa chọn A)",
+      "ham_luong": "Viên 250 mg",
+      "lieu": "10 mg/kg/ngày × 40 kg = 400 mg/ngày một lần (làm tròn theo viên: thực hành); QĐ 708/2015 mục 5.3c: ngày đầu 10 mg/kg rồi 5 mg/kg × 4 ngày",
+      "duong": "Uống một lần/ngày lúc đói",
+      "thoi_diem": "Bắt đầu hôm nay, cùng giờ mỗi ngày",
+      "so_ngay": "3–5 ngày (QĐ 101 mục VII.1.1b); 5 ngày (QĐ 3312 mục 4.1.2)",
+      "ghi_chu": "QĐ 101/2014 mục VII.1.1b; QĐ 3312/2015 mục 4.1.2. Tác dụng phụ: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Clarithromycin (Lựa chọn B, thay azithromycin)",
+      "ham_luong": "Viên 250 mg",
+      "lieu": "15 mg/kg/ngày chia 2 lần = 600 mg/ngày (300 mg × 2, làm tròn 250 mg × 2); NICE: 250–500 mg × 2 lần/ngày",
+      "duong": "Uống chia 2 lần, cách nhau 12 giờ",
+      "thoi_diem": "Sáng và tối, bắt đầu hôm nay",
+      "so_ngay": "7 ngày (QĐ 101 mục VII.1.1b) hoặc 5 ngày (NICE NG250 2025 Bảng 2)",
+      "ghi_chu": "QĐ 101 mục VII.1.1b; NICE NG250 2025 Bảng 2 và khuyến cáo 1.6.6 (dừng sau 5 ngày nếu ổn định)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg mỗi lần (10–15 mg/kg/lần)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C (QĐ 3312) hoặc ≥ 39 °C làm khó chịu (WHO 2013); cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần, tối đa 4 viên/ngày",
+      "ghi_chu": "QĐ 3312 mục 4 (2.2); QĐ 4235/2012 mục 3.4 (trần 4 viên 0,5 g/ngày); WHO Pocket book 2013 mục 4.4."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc đủ ngày dù hết sốt; trở lại sau 2–3 ngày (QĐ 101 mục VII.1.2).",
+     "Đi khám ngay nếu thở ≥ 30 l/p, khó thở, rút lõm, không uống được, lơ mơ, tím, hoặc sốt không giảm sau 3 ngày thuốc (QĐ 101 mục V.2; NICE khuyến cáo 1.10.3).",
+     "Khôi đeo khẩu trang, rửa tay, không dùng chung ly bát; ho có thể kéo dài tới 4 tuần (NICE khuyến cáo 1.10.2). Lời với Khôi: 'Ho của em do một loại vi khuẩn lây ở lớp, thuốc này chữa được. Em sợ giống ông là dễ hiểu; bác sĩ sẽ theo dõi cùng em đến khi hết ho.'",
+     "Không dùng thuốc ho, không cần thuốc dị ứng, không cần kiêng hải sản (tài liệu đã tải không đề cập kiêng hải sản)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (sau 3 ngày macrolid, ngày bệnh thứ 11)",
+   "tiep_don": "Khôi tái khám theo hẹn sau 3 ngày uống azithromycin: vẫn ho nhiều, vẫn sốt chiều tối. Sinh hiệu: nhiệt độ 38,3 °C, mạch 104 l/p, huyết áp 105/65 mmHg, nhịp thở 26 l/p, SpO₂ 96% khí trời, cân nặng 39 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Khôi thở 26 l/p, SpO₂ 96%, uống được, tỉnh táo: bệnh không thuyên giảm nhưng không nặng lên, nên đổi thuốc và theo dõi ngoại trú (QĐ 101/2014 mục VII.1.2: nhập viện khi còn thở nhanh hoặc có dấu nặng). Nằm viện làm Khôi sợ 'bệnh nặng như ông nội', nghỉ học thêm, tốn kém, trong khi thuốc đổi đúng vẫn là doxycyclin hoặc quinolon uống (Liang 2026 mục 3.3.3).",
+    "theo_doi": "Cho Khôi uống tiếp azithromycin mà không đổi thuốc là bỏ sót thất bại macrolid: kháng macrolid kéo dài thêm sốt khoảng 5 ngày, ho khoảng 4 ngày (Liang 2026 mục 3.3.1) và nên đổi sang tetracyclin hoặc quinolon nếu không hiệu quả sau 3 ngày (mục 3.3.3). Khôi sốt thêm nhiều ngày, thâm nhiễm lan rộng, có thể phải nhập viện; mẹ mất lòng tin, Khôi càng sợ."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu uống thuốc đủ 3 ngày rồi mà vẫn sốt, ho còn nhiều hơn, đêm nào cũng thức dậy. Có phải thuốc không hợp hay cháu bị bệnh gì nặng hơn không?",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "105/65",
+    "nhiet": "38,3",
+    "nhip_tho": 26,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sau 3 ngày uống thuốc vẫn sốt, ho nhiều hơn, mẹ lo thuốc không hợp.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lại"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Uống azithromycin đủ 3 ngày, mỗi sáng lúc đói, không bỏ liều, không nôn. Không dùng thêm thuốc nào khác. Không phản ứng với thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Vẫn sốt 38,0–38,5 °C mỗi chiều tối, chưa ngày nào hết; có đêm ra mồ hôi. Sáng thường hết sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt không giảm sau 3 ngày"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho nhiều hơn, thành cơn, đêm thức 3–4 lần; hôm nay ho ít đờm trắng đặc; đau ê ngực khi ho nhiều. Không ho ra máu, không khó thở, không tím.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho nặng hơn"
+    },
+    {
+     "id": "ngoai_phoi",
+     "noi_dung": "Không phát ban, không đau khớp, không vàng da, nước tiểu bình thường, không đau bụng, không đau tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc tổn thương ngoài phổi"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Lớp có thêm bạn thứ tư nghỉ học vì ho. Trong nhà vẫn không ai ho.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Khôi ho đến ngày 11 và sốt chưa hết nên càng sợ giống ông nội; em hỏi mẹ 'có phải con bị như ông không', mẹ ngỡ ngàng vì chưa biết em lo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi riêng Khôi hoặc hỏi nhẹ nhàng em lo gì, hoặc khi mẹ hỏi 'sao con lại sợ'. Khôi rơm rớm nước mắt; nếu bác sĩ đã nói chuyện lượt 1 thì em chịu mở lời ngay.",
+     "k": 1,
+     "y": "Lý do thật: sợ ung thư"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt hơn, mặt đỏ do sốt, môi khô nhẹ, nói câu dài được. Không tím, không rút lõm lồng ngực.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p, không rút lõm. Rung thanh hai bên đều, gõ trong. Đáy phổi phải: ran nổ nhỏ hạt nhiều hơn hôm trước, lan lên giữa phổi phải; đáy phổi trái mới có vài ran nổ. Không có hội chứng đông đặc, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 26 l/p. Không rút lõm lồng ngực. Rung thanh hai bên đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt cuối thì hít vào."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Vài ran nổ nhỏ hạt cuối thì hít vào."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 104 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da không ban, không hồng ban hình bia, không phát ban sẩn. Niêm mạc miệng không loét; kết mạc không viêm.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ 3 phút: SpO₂ 96% → 95%, nhịp thở 28 l/p, mạch 116, ho nhiều. Không tím.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "So với phim ngày 8: thâm nhiễm lưới nốt đáy phổi phải lan rộng lên vùng giữa; đáy phổi trái xuất hiện đám mờ nhỏ; không đông đặc thùy, không tràn dịch màng phổi, không hang.",
+     "ab": 1,
+     "n": "Chấm a. Không đáp ứng macrolid: phim đánh giá lan rộng, loại tràn dịch (QĐ 101/2014 mục VI.1; QĐ 3312 bài Không điển hình mục 4). Không đổi xử trí vì đã đủ dữ kiện đổi thuốc."
+    },
+    "mycoplasma": {
+     "v": "a",
+     "r": "IgM kháng Mycoplasma pneumoniae: dương tính (kết quả trong ngày).",
+     "ab": 1,
+     "n": "Chấm a: không đổi thuốc đã chọn (beta-lactam kháng tự nhiên, QĐ 101 mục IV). Hữu ích khi không đáp ứng (Liang 2026 mục 3.3.3; NICE NG250 2025 khuyến cáo 1.11.5) và để giải thích cho mẹ (sổ HH-0915). Thử gen kháng macrolid: không có trong tài liệu đã tải cho Việt Nam."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 12,4 G/L · Neutrophil 72% · Hb 131 g/L · TC 310 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 12.4,
+      "neu_pct": 72.0,
+      "neu": 8.93,
+      "lym_pct": 20.0,
+      "lym": 2.48,
+      "mono_pct": 6.5,
+      "mono": 0.81,
+      "eos_pct": 1.0,
+      "eos": 0.12,
+      "baso_pct": 0.5,
+      "baso": 0.06,
+      "rbc": 4.7,
+      "hgb": 131,
+      "hct": 0.4,
+      "mcv": 85.1,
+      "mch": 27.9,
+      "mchc": 328,
+      "rdw": 12.9,
+      "plt": 310
+     },
+     "n": "Chấm a. Tăng bạch cầu nhẹ, không giúp chọn thuốc (QĐ 3312 bài Không điển hình mục 4)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "58 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 58
+     },
+     "n": "Chấm a. Ngưỡng CRP ở trẻ em: không có trong tài liệu đã tải (sổ NH-0619 #4)."
+    },
+    "xpert": {
+     "v": "n",
+     "r": "Khôi chưa khạc được đờm mủ để lấy mẫu.",
+     "n": "Chưa cần: ho mới 11 ngày, không tiếp xúc lao (QĐ 162/2024 Phần II mục 1.1 Bảng 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi do Mycoplasma pneumoniae không đáp ứng macrolid sau 3 ngày (nghi kháng macrolid), chưa có dấu hiệu nặng",
+     "ok": 1,
+     "n": "Sốt, ho không giảm sau 3 ngày azithromycin, ran lan, X-quang lan, IgM dương tính; thở 26 l/p, SpO₂ 96%: không thuyên giảm nhưng không nặng lên (QĐ 101 mục VII.1.2). Macrolid không hiệu quả sau 3 ngày thì xét tetracyclin hoặc quinolon (Liang 2026 mục 3.3.3). Tỉ lệ kháng macrolid ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm phổi do phế cầu hoặc bội nhiễm vi khuẩn khác",
+     "n": "Không rét run, không đông đặc thùy, không tràn dịch. QĐ 101 mục VII.1.2 cho phép đổi hoặc kết hợp amoxicillin khi bệnh không thuyên giảm."
+    },
+    {
+     "t": "Tổn thương ngoài phổi do Mycoplasma",
+     "n": "Không ban, đau khớp, vàng da, tiểu bất thường, đau bụng (QĐ 3312 bài Không điển hình mục 3: tổn thương ngoài phổi gợi ý; Liang 2026 phần tóm tắt: viêm cơ tim, thuyên tắc phổi ở ca nặng)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Mới 11 ngày, khởi phát cấp, không tiếp xúc (QĐ 162/2024 Phần II mục 1.1 Bảng 1: ở trẻ em nghĩ lao khi viêm phổi cấp không đáp ứng kháng sinh 2 tuần)."
+    },
+    {
+     "t": "Ung thư phổi (nỗi lo của Khôi)",
+     "n": "Nhiễm trùng cấp có sốt, ran lan, IgM dương tính; ung thư phổi ở trẻ em: không có trong tài liệu đã tải. Ho quá 8 tuần thì tìm nguyên nhân khác (ACCP 2006 khuyến cáo 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng azithromycin, đổi sang doxycyclin 200 mg ngày đầu rồi 100 mg × 1 lần/ngày × 4 ngày (tổng 5 ngày) hoặc levofloxacin (QĐ 3312: 20 mg/kg/ngày), hoặc theo QĐ 101 đổi/kết hợp amoxicillin 80 mg/kg/ngày chia 2 × 5 ngày",
+     "v": "c",
+     "n": "Ghi cả hai hướng (sổ HH-1450 #2). NICE NG250 2025 Bảng 2: doxycyclin 12–17 tuổi 200 mg ngày 1 rồi 100 mg × 1 × 4 ngày; Liang 2026 mục 3.1.1: tetracyclin đầu tay cho trẻ ≥ 8 tuổi khi macrolid kháng, mục 3.3.3: macrolid không hiệu quả sau 3 ngày thì chuyển tetracyclin hoặc quinolon; QĐ 3312 bài Không điển hình mục 6.3: quinolon là nhóm tiếp theo (levofloxacin 20 mg/kg/ngày), nhưng Liang mục 3.1.1 giới hạn quinolon ở trẻ cho ca đặc biệt nên doxycyclin thận trọng hơn; QĐ 101 mục VII.1.2: không thuyên giảm mà không nặng lên, trẻ > 5 tuổi đổi hoặc kết hợp amoxicillin 80 mg/kg/ngày chia 2 × 5 ngày. Liều doxycyclin cho trẻ 12 tuổi theo QĐ 2147/2026: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích với mẹ và Khôi: macrolid không hiệu quả vì có thể vi khuẩn kháng thuốc này (thường gặp ở Đông Á), không phải bệnh nặng hơn hay ca bị bỏ sót; đổi thuốc đúng loại",
+     "v": "c",
+     "n": "Liang 2026 mục 3.1.1: kháng macrolid ~80% Trung Quốc, > 50% Nhật, < 10% Mỹ; Việt Nam: không có trong tài liệu đã tải. QĐ 101 mục IV: Mycoplasma bị diệt bởi macrolid, tetracyclin, quinolon."
+    },
+    {
+     "t": "Tiếp tục ngoại trú, hẹn khám lại sau 2–3 ngày; nhập viện nếu thở ≥ 30 l/p, SpO₂ < 90%, không uống được, lơ mơ hoặc nặng lên",
+     "v": "c",
+     "n": "QĐ 101 mục VII.1.2 (còn thở nhanh hoặc dấu nặng thì nhập viện), mục V.2; NICE NG250 2025 khuyến cáo 1.11.1, 1.10.3. Nhập viện/chuyển nhi ngay chấm a (NICE 1.11.3; sổ NH-0619 #3)."
+    },
+    {
+     "t": "Hạ sốt paracetamol như lượt 1, uống đủ nước, ăn chia nhỏ bữa",
+     "v": "c",
+     "n": "QĐ 3312 mục 4 (2.2); WHO Pocket book 2013 mục 4.4; QĐ 101 mục VII.1."
+    },
+    {
+     "t": "Gặp riêng Khôi: nhắc lại nỗi sợ giống ông nội, nói rõ bệnh hiện nay là nhiễm trùng chữa được và vì sao phải đổi thuốc; hẹn xem lại cho tới khi hết ho",
+     "v": "c",
+     "n": "Xử lý lý do thật; không gỡ thì Khôi và mẹ tưởng 'chữa không khỏi'. Tần suất ung thư phổi ở trẻ em: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu nặng và lây lan như lượt 1; báo mẹ nếu thấy ban, đau khớp, tiểu sẫm, đau ngực nặng",
+     "v": "c",
+     "n": "QĐ 101 mục V.2; NICE NG250 2025 khuyến cáo 1.10.3–1.10.4; QĐ 3312 bài Không điển hình mục 3 (tổn thương ngoài phổi)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện nhi ngay hôm nay",
+     "v": "a",
+     "n": "NICE NG250 2025 khuyến cáo 1.11.3, 1.2.6; QĐ 101 mục VII.1.2 chỉ nhập viện khi còn thở nhanh hoặc dấu nặng, Khôi chưa có. Cả hai cách chấp nhận được."
+    },
+    {
+     "t": "Tiếp tục azithromycin cho đủ 5 ngày rồi xem lại",
+     "v": "a",
+     "n": "Không nguồn nói có hại, nhưng macrolid không hiệu quả sau 3 ngày thì xét đổi (Liang 2026 mục 3.3.3). Hậu quả: neu_sai (theo_doi)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi do Mycoplasma pneumoniae không đáp ứng macrolid sau 3 ngày (nghi kháng macrolid), IgM dương tính; chưa nặng (ICD-10 J15.7; TT 06/2026 Phụ lục ICD-10)",
+     "Mức độ: thở 26 l/p, SpO₂ 96%, uống được, tỉnh táo; bệnh không thuyên giảm nhưng không nặng lên (QĐ 101 mục VII.1.2)",
+     "Đã nghĩ tới: phế cầu/bội nhiễm, tổn thương ngoài phổi, lao, ung thư phổi (nỗi lo của Khôi)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: uống đủ thuốc không; sốt, ho sau 3 ngày (QĐ 101 mục VII.1.2); dấu nặng; tổn thương ngoài phổi; nỗi lo của Khôi.",
+     "Khám: ran lan rộng hơn lượt 1, thở 26 l/p, SpO₂ 96% (QĐ 101 mục V.1); da, màng nhĩ không bất thường.",
+     "Cận lâm sàng: X-quang thâm nhiễm lan; IgM dương tính (NICE khuyến cáo 1.11.5); BC, CRP tăng nhẹ.",
+     "Thất bại macrolid: nghĩ Mycoplasma kháng macrolid (Liang 2026 mục 3.1.1); chưa nghĩ lao vì chưa quá 2 tuần (QĐ 162/2024 Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Đổi sang tetracyclin hoặc quinolon (Liang 2026 mục 3.3.3; QĐ 3312 mục 6.3), hoặc đổi/kết hợp amoxicillin (QĐ 101 mục VII.1.2): ghi cả hai hướng. Doxycyclin thận trọng hơn quinolon ở trẻ (Liang mục 3.1.1); NICE 5 ngày cho 12–17 tuổi.",
+     "Không nhập viện vì chưa thở nhanh, chưa giảm oxy, uống được (QĐ 101 mục VII.1.2); hẹn lại 2–3 ngày; sốt thường hết sau 3–4 ngày điều trị đúng (NICE khuyến cáo 1.10.2).",
+     "Nói riêng với Khôi về nỗi sợ ung thư: hỏi lại, nghe, trả lời thật."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Doxycyclin (Lựa chọn A)",
+      "ham_luong": "Viên 100 mg",
+      "lieu": "Ngày 1: 200 mg; ngày 2–5: 100 mg một lần/ngày (NICE NG250 2025 Bảng 2, 12–17 tuổi)",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu hôm nay, thay azithromycin, cùng giờ mỗi ngày",
+      "so_ngay": "5 ngày (NICE); QĐ 2147/2026 mục 5.4.1.7 cho người lớn 7–10 ngày",
+      "ghi_chu": "NICE NG250 2025 Bảng 2; Liang 2026 mục 3.1.1 (≥ 8 tuổi); QĐ 2147 mục 5.4.1.7 (người lớn: 100 mg × 2 lần/ngày × 7–10 ngày). Tác dụng phụ: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Levofloxacin (Lựa chọn B, thay doxycyclin)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "QĐ 3312 mục 6.3: 20 mg/kg/ngày (= 800 mg/ngày ở 40 kg), một lần/ngày; liều tối đa trẻ em: không có trong tài liệu đã tải; người lớn QĐ 2147/2026 dùng 750 mg mỗi 24 giờ (mục 5.4.1.7, dòng Chlamydia/Legionella) – lấy 750 mg/ngày là con số thận trọng hơn",
+      "duong": "Uống",
+      "thoi_diem": "Hôm nay, thay azithromycin",
+      "so_ngay": "1–2 tuần (QĐ 3312 mục 2.3, viêm phổi nặng); thời gian cho viêm phổi không nặng: không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 3312/2015 mục 6.3; Liang 2026 mục 3.1.1: quinolon ở trẻ cho ca đặc biệt, dưới chuyên khoa nên doxycyclin ưu tiên."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần, tối đa 4 viên/ngày",
+      "ghi_chu": "Giữ nguyên như lượt 1 (QĐ 3312 mục 4 (2.2); QĐ 4235/2012 mục 3.4)."
+     }
+    ],
+    "dan_do": [
+     "Uống doxycyclin đủ 5 ngày, không dùng thêm azithromycin; hẹn lại sau 2–3 ngày (QĐ 101 mục VII.1.2). Sốt dự kiến hết sau 3–4 ngày (NICE khuyến cáo 1.10.2).",
+     "Đi khám ngay nếu thở ≥ 30 l/p, khó thở, tím, không uống được, lơ mơ, đau ngực nặng, sốt không giảm sau 3 ngày thuốc mới (QĐ 101 mục V.2; NICE 1.10.3).",
+     "Khôi nghỉ học, đeo khẩu trang ở nhà, rửa tay (Liang 2026 mục 2.5.1). Lời với Khôi: 'Thuốc cũ không đủ mạnh với vi khuẩn này nên đổi thuốc đúng loại. Bác sĩ nghe em lo giống ông; ho của em là nhiễm trùng và đang được chữa.'"
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 (sau 2 tuần, ngày bệnh thứ 25)",
+   "tiep_don": "Khôi tái khám sau 2 tuần: hết sốt, còn ho khan nhẹ. Mẹ muốn biết khi nào hết ho, có phải chụp phim lại và thật sự có an toàn không. Sinh hiệu: nhiệt độ 36,7 °C, mạch 80 l/p, huyết áp 100/65 mmHg, nhịp thở 18 l/p, SpO₂ 99% khí trời, cân nặng 40 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển Khôi lên chuyên khoa chụp CT ngực hoặc nội soi phế quản vì 'còn ho' là quá tay: hết sốt, phổi hết ran, ho giảm dần, đúng kiểu ho sau nhiễm cho phép chờ tới 8 tuần (ACCP 2006 khuyến cáo 1, 3), có thể kéo dài tới 4 tuần sau viêm phổi ở trẻ (NICE NG250 2025 khuyến cáo 1.10.2). Gia đình mất cả ngày, tốn kém, thêm tia mà không đổi điều trị; đi viện lớn khiến Khôi và mẹ tin em 'bệnh nặng như ông'.",
+    "nhap_vien": "Giữ Khôi nằm viện theo dõi ho khi em đã hết sốt, thở 18 l/p, SpO₂ 99% là không có chỉ định (QĐ 3312/2015 bài Viêm phổi do virus, phần bệnh nhân xuất viện: tỉnh táo, hết sốt, giảm ho, không khó thở, phổi hết ran). Em nghỉ học thêm, tốn kém, tiếp xúc nhiễm khuẩn bệnh viện, và tin ho còn là bệnh nặng."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu hết sốt rồi nhưng còn ho khan buổi sáng với tối, ba tuần rồi. Cháu cứ hỏi có phải giống ông nội không. Bác sĩ chụp phim lại cho chắc, được không?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "100/65",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết sốt; còn ho khan nhẹ. Mẹ muốn chắc là hết bệnh và hỏi chụp phim lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Uống doxycyclin đủ 5 ngày, không nôn, không đau bụng nhiều. Sốt hết sau ngày thứ 2 của thuốc mới (ngày bệnh thứ 13); từ đó ăn ngủ tốt, đi học lại từ ngày 20.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng điều trị, tuân thủ"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan vài tiếng buổi sáng và khi cười nói nhiều, ít hơn mỗi tuần; không đêm nào thức vì ho; không đờm, không ho ra máu, không khò khè, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho sau nhiễm, đang giảm dần"
+    },
+    {
+     "id": "khac",
+     "noi_dung": "Không sốt lại, không sụt cân (cân tăng 1 kg), không đổ mồ hôi đêm, không ban, đau khớp. Không dùng thuốc ho hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ lao, biến chứng, tái phát"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Khôi tự mở lời: em đọc trên mạng ho quá 3 tuần là ung thư, ông nội cũng ho lâu, em chưa dám nói vì mẹ buồn. Mẹ vừa biết, rơm rớm nước mắt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi riêng Khôi, hoặc hỏi 'em lo điều gì khi ho còn kéo dài', hoặc khi mẹ hỏi 'sao con cứ hỏi giống ông'. Nếu bác sĩ đã hỏi ở các lượt trước thì em kể ngay.",
+     "k": 1,
+     "y": "Lý do thật: sợ mắc ung thư"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào, tinh thần tốt. Nói câu dài, không ho khi nói. Cân 40 kg (tăng 1 kg so với lượt 2). Không tím, không rút lõm.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Rung thanh hai bên đều, gõ trong. Phổi hai bên rì rào phế nang êm dịu, không ran nổ, không ran rít, không cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p. Rung thanh hai bên đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 80 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, thượng đòn, nách. Tuyến giáp bình thường.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hồng, mũi thông, không chảy dịch sau họng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "Phổi hai bên sáng; thâm nhiễm lưới đã tan gần hết, còn vài nét mờ nhẹ đáy phổi phải; không hạch rốn phổi to, không tràn dịch, không khối.",
+     "ab": 1,
+     "n": "Chấm a: không bắt buộc. NICE NG250 2025 khuyến cáo 1.12.1 và Rationale: X-quang theo dõi không hữu ích ở trẻ em, thiếu niên; chỉ cân nhắc 6 tuần cho người có nguy cơ ung thư phổi, > 50 tuổi hoặc triệu chứng kéo dài (1.12.2) theo quyết định chung (1.12.3). Có thể chụp để trấn an nếu gia đình đồng thuận; không đổi xử trí."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Không cần: hết sốt, khám phổi bình thường.",
+     "n": "Không cần khi lâm sàng ổn (QĐ 3312 bài Viêm phổi do virus, phần xuất viện). Ngưỡng CRP ở trẻ em: không có trong tài liệu đã tải."
+    },
+    "mycoplasma": {
+     "v": "n",
+     "r": "Không cần lặp lại.",
+     "n": "Đã chẩn đoán, đáp ứng điều trị; theo dõi kháng thể: không có trong tài liệu đã tải."
+    },
+    "xpert": {
+     "v": "n",
+     "r": "Không có đờm để lấy mẫu.",
+     "n": "Không cần: ho giảm dần, hết sốt sau đổi thuốc, không tiếp xúc lao (QĐ 162/2024 Phần II mục 1.1 Bảng 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi do Mycoplasma pneumoniae đã đáp ứng điều trị (doxycyclin), còn ho khan sau nhiễm trùng",
+     "ok": 1,
+     "n": "Hết sốt ngày bệnh thứ 13 (sau 2 ngày thuốc mới), phổi hết ran, SpO₂ 99%, cân tăng. Ho kéo dài sau Mycoplasma ở trẻ thường gặp (ho > 21 ngày ở 28% trẻ nhỏ sau Mycoplasma: ACCP 2006) và có thể tới 4 tuần (NICE NG250 2025 khuyến cáo 1.10.2). Ho 3–8 tuần sau nhiễm, không còn viêm phổi: ho bán cấp sau nhiễm (ACCP khuyến cáo 1), tự khỏi; kháng sinh không có vai trò (khuyến cáo 4a, người lớn)."
+    },
+    {
+     "t": "Ung thư phổi hoặc u trung thất (nỗi lo của Khôi)",
+     "n": "Nhiễm trùng cấp có sốt, ran, IgM dương tính, đáp ứng kháng sinh đúng; không hạch, không sụt cân, X-quang không khối. Ho quá 8 tuần thì xét nguyên nhân khác (ACCP 2006 khuyến cáo 3). Tần suất ung thư phổi ở trẻ em: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Khởi phát cấp, đáp ứng điều trị; không sụt cân, sốt, mồ hôi đêm (QĐ 162/2024 Phần II mục 1.1 Bảng 1 ở trẻ em)."
+    },
+    {
+     "t": "Hen, trào ngược hoặc viêm mũi xoang gây ho kéo dài",
+     "n": "Không khò khè, không ho đêm, không chảy dịch sau họng. Nếu ho quá 8 tuần thì xét hen, trào ngược, ho đường thở trên (ACCP 2006 khuyến cáo 2–3)."
+    },
+    {
+     "t": "Viêm phổi tái phát hoặc điều trị chưa đủ",
+     "n": "Không sốt lại, phổi không ran, X-quang gần trong."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kê kháng sinh mới; giải thích ho sau viêm phổi là bình thường, có thể kéo dài tới 4 tuần và tự khỏi",
+     "v": "c",
+     "n": "ACCP 2006 khuyến cáo 4a (người lớn): kháng sinh không có vai trò trong ho sau nhiễm; NICE NG250 2025 khuyến cáo 1.10.2: ho có thể kéo dài tới 4 tuần, không cần khám lại nếu trẻ khỏe; 1.6.6: dừng kháng sinh sau 5 ngày nếu ổn định."
+    },
+    {
+     "t": "Gặp riêng Khôi rồi cùng mẹ: hỏi nỗi sợ ung thư giống ông nội; nói sự thật có nguồn (nhiễm trùng đã đáp ứng thuốc, phổi hết ran, hạch không to, cân tăng; ho quá 8 tuần mới tìm thêm nguyên nhân); để mẹ nghe và an ủi",
+     "v": "c",
+     "n": "Gỡ lý do thật (sợ ung thư); ACCP 2006 khuyến cáo 3; NICE NG250 2025 khuyến cáo 1.10.2. Tần suất ung thư phổi ở trẻ em: không có trong tài liệu đã tải, không hứa tuyệt đối."
+    },
+    {
+     "t": "Quyết định chung về chụp X-quang theo dõi: không cần thường quy cho trẻ; có thể chụp để trấn an nếu gia đình rất lo",
+     "v": "c",
+     "n": "NICE NG250 2025 khuyến cáo 1.12.1–1.12.3 và Rationale: X-quang theo dõi không hữu ích cho trẻ, thiếu niên; quyết định chung. Chụp hay không đều chấp nhận (sổ NH-0619 #2)."
+    },
+    {
+     "t": "Cho về, hẹn tái khám nếu ho còn sau 8 tuần từ lúc khởi phát (tức khoảng 4 tuần nữa) hoặc có sốt lại, khó thở, ho ra máu, sụt cân, ho đêm nhiều",
+     "v": "c",
+     "n": "ACCP 2006 khuyến cáo 3 (ho > 8 tuần xét chẩn đoán khác); NICE NG250 2025 khuyến cáo 1.10.3–1.10.4; QĐ 162/2024 Bảng 1."
+    },
+    {
+     "t": "Dặn hạn chế lây khi còn ho, vệ sinh tay, nghỉ ngơi, dinh dưỡng; chưa có vaccin đặc hiệu",
+     "v": "c",
+     "n": "QĐ 3312/2015 bài Không điển hình mục 7: chưa có vaccin đặc hiệu, phòng bệnh dựa vào dinh dưỡng, tiêm chủng đủ lịch; Liang 2026 mục 2.5.1. Thời gian nghỉ học, cách ly: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ho có codein, atropin hoặc rượu, hoặc thuốc ức chế ho",
+     "v": "w",
+     "n": "WHO Pocket book 2013 (TL-0250) mục 4.4: không dùng thuốc ho chứa atropin, codein hoặc dẫn xuất, rượu."
+    },
+    {
+     "t": "Corticoid uống hoặc ipratropium cho ho sau nhiễm",
+     "v": "a",
+     "n": "ACCP 2006 khuyến cáo 4b–4d (người lớn): ipratropium hít, prednisone ngắn ngày cho cơn ho nặng; liều cho thiếu niên: không có trong tài liệu đã tải. Ho đang giảm nên không cần."
+    },
+    {
+     "t": "Chụp CT ngực hoặc nội soi phế quản",
+     "v": "a",
+     "n": "Không chỉ định: X-quang gần trong, ho giảm, hết sốt (NICE NG250 2025 khuyến cáo 1.12.1); thêm tia, tốn kém. Tài liệu đã tải không nêu chỉ định CT ở ca này."
+    },
+    {
+     "t": "Kê tiếp kháng sinh để 'chữa dứt điểm ho'",
+     "v": "w",
+     "n": "ACCP 2006 khuyến cáo 4a: kháng sinh không có vai trò trong ho sau nhiễm; NICE 1.6.6: dừng kháng sinh sau 5 ngày khi ổn định."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi do Mycoplasma pneumoniae đã đáp ứng doxycyclin; còn ho sau nhiễm trùng (ho bán cấp sau nhiễm), ổn định, khỏi bệnh",
+     "Đã nghĩ tới và loại trừ: ung thư phổi/u trung thất, lao, hen/trào ngược/viêm mũi xoang, viêm phổi tái phát",
+     "Lý do thật của buổi khám: Khôi sợ mắc ung thư như ông nội"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: sốt hết khi nào sau đổi thuốc; ho hiện nay; sụt cân, mồ hôi đêm, ban; nỗi lo của Khôi.",
+     "Khám: hết sốt, phổi hết ran, SpO₂ 99%, hạch không to, cân tăng.",
+     "Cận lâm sàng: X-quang gần trong, không bắt buộc (NICE khuyến cáo 1.12); không cần lặp xét nghiệm.",
+     "Ho 3–8 tuần sau nhiễm, không còn viêm phổi: ho bán cấp sau nhiễm, tự khỏi (ACCP 2006 khuyến cáo 1). Ho quá 8 tuần: xét hen, trào ngược, ho đường thở trên (khuyến cáo 2–3) hoặc lao nếu có sụt cân, sốt (QĐ 162/2024 Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kê kháng sinh: doxycyclin đủ 5 ngày (NICE khuyến cáo 1.6.6); kháng sinh không có vai trò với ho sau nhiễm (ACCP khuyến cáo 4a).",
+     "Không cần X-quang theo dõi thường quy ở trẻ (NICE khuyến cáo 1.12.1, Rationale), chụp theo quyết định chung nếu gia đình rất lo; CT, nội soi không có chỉ định.",
+     "Hẹn xem lại nếu ho còn sau 8 tuần từ lúc khởi phát (ACCP 2006 khuyến cáo 3).",
+     "Gỡ lý do thật: nói riêng với Khôi rồi cùng mẹ; thông báo trung thực điều biết và chưa biết."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc mới",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không kháng sinh, không thuốc ho",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Ho khan giảm dần trong vài tuần (NICE 1.10.2: tới 4 tuần)",
+      "ghi_chu": "ACCP 2006 khuyến cáo 4a; NICE NG250 2025 khuyến cáo 1.6.6, 1.10.2; WHO Pocket book 2013 mục 4.4."
+     }
+    ],
+    "dan_do": [
+     "Ho nhẹ có thể còn vài tuần; hẹn tái khám nếu ho còn sau 8 tuần từ ngày khởi phát (ACCP 2006 khuyến cáo 3) hoặc sốt lại, khó thở, ho ra máu, sụt cân (NICE khuyến cáo 1.10.3).",
+     "Theo NICE 2025 khuyến cáo 1.10.2. Lời với Khôi và mẹ: 'Phổi em gần sạch, hạch không to, cân đang lên. Bệnh của em là nhiễm trùng và đã khỏi nhờ thuốc; ho còn lại là ho sau viêm, hay gặp và thường hết trong vài tuần. Bác sĩ không hứa chắc 100%, nên nếu ho còn sau 8 tuần mình xem lại thêm.'",
+     "Nếu Khôi còn lo hoặc mất ngủ, quay lại nói với bác sĩ (hỗ trợ tâm lý khi mất người thân: không có trong tài liệu đã tải).",
+     "Chưa có vaccin đặc hiệu (QĐ 3312 bài Không điển hình mục 7). Thời gian nghỉ học: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Khôi uống azithromycin 3 ngày nhưng vẫn sốt và ho nặng hơn; ở lượt 2 bác sĩ đổi sang doxycyclin. Sốt hết sau 2 ngày thuốc mới, ho thưa dần. Ở lượt 3 Khôi hết sốt, phổi hết ran, nói được nỗi sợ ung thư giống ông nội; mẹ ôm con, hai mẹ con hiểu nhau hơn. Ho nhẹ còn thêm khoảng 2 tuần rồi hết (NICE NG250 2025 khuyến cáo 1.10.2: ho có thể kéo dài tới 4 tuần), em đi đá bóng lại như cũ. Ca không có biến cố; kết thúc ổn định, khỏi bệnh.",
+ "nhieu": [
+  "Bữa tiệc hải sản trước khi bệnh: mẹ gán cho 'dị ứng/nóng trong'. Không ban, ngứa, khò khè; cả nhà ăn không ai bệnh; bệnh thật là Mycoplasma lây ở lớp (Liang 2026 mục 2.5.1).",
+  "Ho đêm và khi chạy giống hen; ran nổ (không rít), sốt chiều và dịch tễ lớp học chỉ về viêm phổi không điển hình.",
+  "Sinh hiệu gần bình thường, thực thể nghèo nàn (QĐ 3312 bài Không điển hình mục 3): dễ bỏ sót nếu không nghe kỹ đáy phổi phải.",
+  "Macrolid thất bại ở lượt 2: kháng macrolid cao ở Đông Á (Liang 2026 mục 3.1.1); ho sau nhiễm ở lượt 3 làm Khôi và mẹ nghĩ tới ung thư (ACCP 2006)."
+ ],
+ "bai_hoc_bien": [
+  "Trẻ trên 5 tuổi viêm phổi: nghĩ Mycoplasma, macrolid uống (QĐ 101/2014 mục VII.1.1b); beta-lactam kháng tự nhiên (mục IV).",
+  "Hẹn khám lại 2–3 ngày là một phần điều trị: không giảm sốt sau 3 ngày thì đổi tetracyclin hoặc quinolon (Liang 2026 mục 3.3.3), hoặc đổi/kết hợp amoxicillin (QĐ 101 mục VII.1.2); ghi cả hai.",
+  "Học sinh hợp tác tốt vẫn có thể giấu điều sợ nhất: hỏi riêng, nhẹ nhàng; người nhà có thể cũng không biết.",
+  "Ho sau viêm phổi có thể kéo dài tới 4 tuần (NICE khuyến cáo 1.10.2), tự khỏi; chỉ tìm nguyên nhân khác khi ho quá 8 tuần (ACCP 2006). Không chụp X-quang theo dõi thường quy ở trẻ (NICE khuyến cáo 1.12)."
+ ],
+ "diem_nho": [
+  "Trẻ > 5 tuổi: thở nhanh khi ≥ 30 l/p; viêm phổi nặng khi có dấu toàn thân nặng, suy hô hấp, SpO₂ < 90% (QĐ 101/2014 mục V.1–V.2).",
+  "Macrolid đầu tay: azithromycin 10 mg/kg/ngày 3–5 ngày; clarithromycin 15 mg/kg/ngày chia 2, 7 ngày (QĐ 101 mục VII.1.1b); 5 ngày theo NICE (Bảng 2).",
+  "Không thuyên giảm mà không nặng lên: doxycyclin 200 mg ngày 1 rồi 100 mg/ngày (NICE Bảng 2, 12–17 tuổi), hoặc levofloxacin 20 mg/kg/ngày (QĐ 3312 mục 6.3), hoặc đổi/kết hợp amoxicillin (QĐ 101 mục VII.1.2)."
+ ],
+ "nguon": [
+  "TL-0243 · QĐ 101/QĐ-KCB 2014 – viêm phổi cộng đồng ở trẻ em – mục IV, V.1–V.2, VI.1–VI.2, VII.1–VII.1.2",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015 – bài Viêm phổi do vi khuẩn ở trẻ em mục 1, 2, 4.1.2 (tr. 262–265); bài Viêm phổi không điển hình ở trẻ em mục 3–7 (tr. 266–268); bài Viêm phổi do virus, phần xuất viện (tr. 261)",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – viêm phổi cộng đồng ở trẻ em mục 5.3c; Phụ lục 1 khuyến cáo 5.3",
+  "NICE NG250 2025 – Pneumonia (kho cũ, 01 Hô hấp cấp tính/Quốc tế) – khuyến cáo 1.2.6, 1.4.5, 1.6.6, 1.10.2–1.10.4, 1.11.1, 1.11.3, 1.11.5, 1.12.1–1.12.3 (+ Rationale); Bảng 2; ghi chú Bảng 1–2",
+  "TL-0136 · Liang 2026 – Mycoplasma pneumoniae Infection (Open J Epidemiol) – mục 2.5.1, 3.1.1, 3.3.1, 3.3.3",
+  "TL-0160 · ACCP 2006 – Postinfectious Cough – khuyến cáo 1–4",
+  "TL-0250 · WHO Pocket book 2013 – mục 4.4; TL-0123 · QĐ 162/2024 – Phần II mục 1.1 Bảng 1; TL-0121 · QĐ 2147/2026 – mục 5.4.1.7; TL-0131 · QĐ 4235/2012 – mục 3.4; TL-0001 · TT 06/2026 – ICD-10",
+  "Không có trong tài liệu đã tải: tỉ lệ Mycoplasma kháng macrolid ở Việt Nam; tần suất ung thư phổi ở trẻ em; thời gian nghỉ học/cách ly; tác dụng phụ doxycyclin, azithromycin; thời gian levofloxacin cho viêm phổi không nặng ở trẻ; tiêu chuẩn ho gà; hỗ trợ tâm lý khi mất người thân; dị ứng hải sản gây ho"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 26/10/2026 (HH-1429, bản 1). Đã đọc: TL-0243 mục IV–VII; TL-0037 hai bài viêm phổi trẻ em, bài không điển hình; NICE NG250 khuyến cáo 1.2, 1.4–1.6, 1.10–1.12, Bảng 2; TL-0136 mục 2.5, 3.1, 3.3; TL-0160; TL-0123 Bảng 1; TL-0121 mục 5.4.1.7; TL-0250 mục 4.4.",
+  "Biến sổ cái: nam 12 tuổi (dùng văn bản BYT trẻ em + NICE 12–17 tuổi vì QĐ 2147/2026 dành cho người lớn); 'Sau ăn hải sản' = tiệc ngày 0 làm mẹ gán nguyên nhân; thuốc: không; lý do thật = sợ ung thư (ông nội); lượt 2 không đỡ sau macrolid 3 ngày; nguồn lực đầy đủ nên khoa_cls null.",
+  "Áp dụng sổ: NH-0619 #1–#4; HH-1450 #1–#2; HH-1451 #1; HH-0876; HH-0915; NH-0199 mục 3. Không có mâu thuẫn thật mới (HH-1429_mau_thuan.md). Âm thanh: AT-PHOI-RAN-NO-01, AT-PHOI-BT-NL-01, AT-TIM-BT-NL-01, AT-TIM-NHANH-01 (mạch 104). Không ảnh da."
+ ]
+}

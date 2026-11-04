@@ -1,0 +1,656 @@
+{
+ "ma_ca": "HH-1474",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – bản đầu (2026-11-04)",
+ "benh": "HH_di_vat_duong_tho",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Dị vật đường thở",
+  "chan_doan_phai_loai_tru": [
+   "Viêm thanh quản",
+   "Hen phế quản"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Bảo Châu",
+  "tuoi": 4.25,
+  "gioi": "Nữ",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 17.0,
+  "chieu_cao": 104,
+  "xung_ho": "Bé gái 4 tuổi 3 tháng, học lớp mẫu giáo bé. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'con' hoặc 'bé Châu'. Bé xưng 'con', gọi bác sĩ là 'bác', nói được câu ngắn, hay nhìn mẹ trước khi trả lời.",
+  "tinh_cach": "Bé nhút nhát, bám váy mẹ, ngoan khi được dỗ, thích tô màu; khi nghe phổi thì ho nhẹ một hai tiếng rồi cười ngượng. Mẹ là kế toán, đi thẳng từ cơ quan sang, nói nhanh, hay nhìn đồng hồ, lễ phép nhưng thúc: chỉ muốn 'xong sớm' để lấy tờ giấy cho con đi học lại.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: mẹ tự cho bé uống siro amoxicillin dư và siro ho thảo dược, nhưng hỏi chung 'bé uống thuốc gì chưa' thì chỉ nói 'thuốc tim thôi'. Chỉ khai khi bác sĩ hỏi cụ thể từng loại, mấy ngày, hoặc tủ thuốc ở nhà. Mẹ coi nhẹ cơn ho ('ho chút xíu') và quy cho thuốc mới của bác sĩ tim mạch, vì chỉ cần tờ giấy.",
+  "nguoi_nha": "Mẹ bé, chị Phạm Thu Hà, 32 tuổi, kế toán, đi một mình bế bé (nguoi_noi = nguoi_nha). Chị biết: bé ho khan gần ba tuần, thuốc tim (warfarin, aspirin) và lịch thử INR, chuyện tự cho thuốc, cô giáo đòi giấy. Chị KHÔNG nhớ tin nhắn của cô kể bé sặc hạt dưa ở lớp (đọc lướt lúc họp); chỉ nhớ lại khi bác sĩ hỏi cụ thể ngày bắt đầu ho hoặc chuyện ở lớp. Bố bé đi công tác, tối nay về.",
+  "ten_nguoi_nha": "Chị Hà (mẹ)",
+  "ngoai_hinh": {
+   "da": "#f3d2b3",
+   "toc": "#1a1410",
+   "kieuToc": "tre",
+   "ao": "#f4b6c2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "so",
+   "nguoiNha": {
+    "da": "#e9bf9a",
+    "toc": "#1c1511",
+    "kieuToc": "buoc",
+    "ao": "#b9c7d6",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé gái 4 tuổi ho khan kéo dài gần ba tuần, mẹ đưa đi khám",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám đa khoa quận không có máy CT. Còn làm được trong giờ hành chính: xét nghiệm máu, X-quang, siêu âm. Phòng khám không có ống soi phế quản và không có bác sĩ gây mê nhi; việc nội soi làm ở bệnh viện tuyến trên."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – chiều thứ Sáu, mẹ xin giấy sức khỏe",
+   "tiep_don": "Chiều thứ Sáu, 16 giờ 20, phòng khám đa khoa quận trong giờ hành chính: làm được xét nghiệm máu, X-quang, siêu âm; không có máy CT. Chị Phạm Thu Hà bế bé Trần Bảo Châu, 4 tuổi, 17 kg, đến vì bé ho khan gần ba tuần (chị nói 'ho chút xíu thôi'); chị đi thẳng từ cơ quan sang, mang theo sổ theo dõi tim mạch của bé. Điều dưỡng Linh đã đo: nhiệt độ 36,9 °C, mạch 96 l/p, nhịp thở 24 l/p, SpO₂ 97% khí trời. Bé tỉnh, hồng hào, ngồi trong lòng mẹ, thỉnh thoảng ho khan một tiếng.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cấp giấy 'đủ sức khỏe', cho siro ho rồi hẹn tuần sau: hạt dưa vẫn nằm trong phế quản phải, bé đi học lại, ho và khò khè không đỡ. Dị vật lưu trên 1 tuần có tổ chức viêm sùi quanh dị vật, dần gây viêm phế quản, áp xe, xẹp phổi, giãn phế quản (QĐ 3312/2015, Dị vật đường thở mục 3.2, 5); hạt di động có thể bít thanh môn gây ngạt bất cứ lúc nào (TL-0130 mục 1, 5), giữa lớp học nơi không ai biết bé có dị vật.",
+    "theo_doi": "Giữ bé vài giờ hoặc hẹn đầu tuần sau với một đợt kháng sinh mới: dị vật không tự biến mất, thêm một tuần là thêm một tuần viêm (TL-0130 mục 4.3: soi gắp sớm thì ít tai biến khi chưa có áp xe phổi, xẹp phổi, viêm phổi). Thêm kháng sinh lên nền warfarin làm INR khó đoán hơn (AHA 2017 Bảng 7: warfarin có nhiều tương tác thuốc, thức ăn, bệnh).",
+    "nhap_vien": "Nhập viện nội khoa tại bệnh viện quận để khí dung, truyền kháng sinh: nơi này không soi gắp được (TL-0130 mục 3.3, 4.3); bé mất thêm một hai ngày rồi vẫn phải chuyển, trong khi INR cao hơn đích mà bác sĩ tim mạch nhi chưa được báo."
+   },
+   "loi_mo": "Chào bác sĩ, con em ho khan cũng gần ba tuần nay, ho chút xíu thôi chứ không sốt. Bác sĩ khám giúp em cho nhanh nha, em còn phải về sớm.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 24,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé ho khan dai dẳng gần ba tuần. Bé không sốt, vẫn ăn chơi gần như bình thường. Mẹ nghĩ không có gì nặng, mong bác sĩ khám nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra: ho kéo dài (≥ 14 ngày là ho mạn theo WHO 2013 mục 4.7)"
+    },
+    {
+     "id": "khoi_dau",
+     "noi_dung": "Trước đó bé khỏe: không sổ mũi, không sốt, chưa từng khò khè. Ho khan bắt đầu đột ngột vào một chiều cách đây 21 ngày, không ai trong nhà ốm cùng lúc. Ho từng cơn ngắn, không ông ổng, giọng không khàn, không rít khi hít vào; nhiều hơn khi chạy nhảy, cười đùa và khi nằm; vẫn ngủ được.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi bé khỏe thế nào trước đó, ho bắt đầu hôm nào, đột ngột hay từ từ, có sổ mũi sốt không, kiểu ho ra sao.",
+     "k": 1,
+     "y": "Khởi phát đột ngột trên nền khỏe, không giống nhiễm virus"
+    },
+    {
+     "id": "sac",
+     "noi_dung": "Đúng chiều bắt đầu ho, lớp có ngày hội nhỏ, bạn chia hạt dưa cho các bé. Cô giáo thấy bé vừa cười đùa vừa ngậm hạt dưa thì ho sặc sụa, mặt đỏ rồi tím môi chừng nửa phút; cô vỗ lưng, bé khóc, ho ra ít nước dãi rồi chơi lại. Chiều đó cô nhắn cho mẹ: 'Bé Châu sặc hạt dưa chút xíu, giờ ổn rồi chị nhé'. Mẹ đang họp, đọc lướt rồi quên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nhớ khi bác sĩ hỏi cụ thể: bé có sặc, hóc, tím tái, ngậm hạt hay vật nhỏ không; hoặc hôm bắt đầu ho ở lớp có chuyện gì, cô giáo có nhắn gì. Hỏi chung 'có sặc không' mẹ đáp 'không'; hỏi hôm bắt đầu ho thì mẹ ngập ngừng, mở điện thoại đọc lại tin của cô.",
+     "k": 1,
+     "y": "Hội chứng xâm nhập ở lớp (hạt dưa): chìa khóa chẩn đoán, bị bỏ sót vì chỉ có cô giáo chứng kiến"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ ngày thứ 4–5 mẹ áp tai vào lưng bé nghe tiếng 'khè khè' nhẹ khi bé thở ra, rõ hơn ở bên phải. Nhiệt độ cao nhất 37,4 °C. Ăn chơi gần như bình thường, cân nặng không sụt, không nôn sau ho, không tím theo cơn, không ho ra đờm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho khan + khò khè khu trú một bên, không sốt"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Cách đây 5 ngày thấy ho dai, mẹ tự lấy siro amoxicillin dư từ lần viêm họng hồi tháng 8 cho uống ngày 2 lần, 4 ngày thì hết chai; kèm siro ho thảo dược 5 ml × 3 lần/ngày trong 5 ngày mua ở hiệu thuốc. Bé không đỡ. Không cho ibuprofen hay thuốc nào khác. Mẹ không báo bác sĩ tim mạch.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi mẹ có tự cho bé thuốc gì, thuốc còn dư ở nhà, mỗi loại mấy ngày, liều bao nhiêu, đã đỡ chưa. Hỏi chung chung chỉ nhận 'thuốc tim thôi'.",
+     "k": 1,
+     "y": "Tự dùng thuốc 5 ngày: kháng sinh không đáp ứng + ảnh hưởng INR",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_tim",
+     "noi_dung": "Bé bị Kawasaki lúc 14 tháng tuổi, truyền immunoglobulin muộn ngày thứ 9, sau đó phình động mạch vành phải lớn (8,5 mm). Trước đây tiêm enoxaparin dưới da; 24 ngày trước bác sĩ tim mạch nhi đổi sang warfarin uống (1 mg × 1,5 viên mỗi tối) và aspirin 81 mg × 1 viên mỗi sáng. INR gần nhất cách đây 9 ngày: 2,3 (đích 2–3). Mẹ ghi sổ đều, chưa quên liều nào.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi bé có bệnh gì, đang uống thuốc gì, thuốc nào mới đổi gần đây, INR lần cuối, sổ theo dõi.",
+     "k": 1,
+     "y": "Thuốc kháng đông đang dùng; yếu tố khởi phát: đổi thuốc điều trị 24 ngày trước"
+    },
+    {
+     "id": "doi_thuoc",
+     "noi_dung": "Mẹ tin ho do thuốc mới: 'từ hồi đổi sang thuốc uống là bé ho, thuốc nóng'. Ho bắt đầu cách lúc đổi thuốc khoảng 3 ngày. Mẹ chưa hỏi bác sĩ tim mạch vì sợ bị bảo ngưng thuốc.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi mẹ nghĩ vì sao bé ho, ho có liên quan chuyện gì mới xảy ra gần đây.",
+     "k": 0,
+     "y": "Mỏ neo: quy ho cho thuốc mới (trùng thời điểm ngẫu nhiên)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Đủ tháng, 3,2 kg khi sinh; tiêm chủng đủ theo lịch gồm BCG. Không chàm, chưa từng khò khè; gia đình không ai bị hen. Không dị ứng thuốc, thức ăn. Không ai hút thuốc trong nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, tiêm chủng, dị ứng, hen/chàm"
+    },
+    {
+     "id": "sang_loc_lao_ho_ga",
+     "noi_dung": "Không tiếp xúc người ho kéo dài hay nghi lao. Không ho thành tràng kèm tiếng rít, không nôn sau ho, không sụt cân, không sốt về chiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Sàng lọc lao, ho gà"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Cô chủ nhiệm nhắn: bé nghỉ 1 tuần vì ho, trường chỉ nhận lại khi có giấy bác sĩ xác nhận đủ sức khỏe đi học, và bé còn thiếu hồ sơ khám sức khỏe đầu năm. Mẹ đang chạy hạn báo cáo cuối tháng, không muốn bé nghỉ thêm; chỉ mong lấy tờ giấy rồi về, ngại nói vì sợ bị từ chối.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ nói khi bác sĩ hỏi hôm nay mẹ mong điều gì nhất, bé đi học chưa, trường có cần giấy tờ gì; hoặc khi bác sĩ báo phải chuyển viện thì mẹ nói 'em cần giấy cho cô'.",
+     "k": 1,
+     "y": "Lý do thật: xin giấy chứng nhận sức khỏe cho trường mẫu giáo"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Bệnh viện Nhi tỉnh cách khoảng 25 km (xe khoảng 40 phút), có tai mũi họng nội soi, gây mê nhi, tim mạch nhi, hồi sức; bác sĩ tim mạch nhi của bé làm ở đó. Bố đi công tác, tối nay mới về; chị gọi được taxi hoặc nhờ đồng nghiệp lái xe. Thẻ bảo hiểm y tế trẻ em còn hạn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện chuyển tuyến: nơi đến, phương tiện, người đi cùng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "k": 1,
+     "a": "Bé tỉnh, nhút nhát bám mẹ, hồng hào, môi và đầu chi không tím lúc yên. Nói câu ngắn rõ, giọng không khàn. Da ấm, đổ đầy mao mạch dưới 2 giây, niêm mạc ẩm. Không bầm máu dưới da, không chấm xuất huyết, không chảy máu chân răng hay chảy máu mũi (đang dùng warfarin và aspirin). Không rút lõm ngực, không phập phồng cánh mũi, không thở rít lúc yên."
+    },
+    "nhan_tram_tre": {
+     "k": 0,
+     "a": "Cân nặng 17,0 kg, chiều cao 104 cm; không sụt cân từ lúc ho."
+    },
+    "hong_tai_mui": {
+     "k": 0,
+     "a": "Họng sạch, amidan không to, không mủ. Mũi khô. Màng nhĩ bình thường. Không thấy dị vật trong miệng."
+    },
+    "phoi": {
+     "k": 1,
+     "a": "Nhịp thở 24 l/p, đều (đếm đủ 1 phút khi bé yên). Lồng ngực phải hơi căng và di động kém hơn bên trái; gõ hơi vang ở nửa dưới phổi phải. Phổi phải: rì rào phế nang giảm ở nửa dưới, nghe ran rít khu trú ở cuối thì thở ra, đổi nhẹ sau khi bé ho; không ran ẩm, không ran nổ. Phổi trái: rì rào phế nang êm, không ran. Không rút lõm ngực.",
+     "hien": "Nhịp thở 24 l/p, đều. Lồng ngực phải hơi căng và di động kém hơn bên trái; gõ hơi vang ở nửa dưới phổi phải. Không rút lõm ngực, không phập phồng cánh mũi.",
+     "media": [
+      {
+       "vi_tri": "Phổi phải (phía sau, nửa dưới)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Phổi phải: rì rào phế nang giảm, ran rít khu trú ở cuối thì thở ra."
+      },
+      {
+       "vi_tri": "Phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Phổi trái: rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "k": 0,
+     "a": "Tim đều, 96 l/p, T1 T2 rõ, không âm thổi, không tiếng ngựa phi. Mạch quay và mạch bẹn rõ, đều hai bên. Gan không to."
+    },
+    "bung": {
+     "k": 0,
+     "a": "Bụng mềm, gan lách không to."
+    },
+    "quan_sat_nuot": {
+     "k": 0,
+     "a": "Cho uống từng ngụm nước và ăn một miếng bánh mềm: nuốt gọn, không ho sặc, giọng không ướt sau nuốt."
+    },
+    "soi_thanh_quan": {
+     "k": 0,
+     "a": "Không làm: bé không hợp tác, soi lúc này dễ kích thích co thắt thanh quản (TL-0130, Viêm thanh quản cấp hạ thanh môn mục 3.1.2); bé không khàn tiếng, không rít. Nội soi thanh khí phế quản để xác định và gắp dị vật làm ở nơi có gây mê (TL-0130, Dị vật đường thở mục 3.3, 4.3)."
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "u",
+     "ab": 1,
+     "r": "Phim thẳng, chụp thì hít vào và thì thở ra tối đa (bé làm theo lệnh được). Thì hít vào gần như bình thường: không đông đặc, không tràn dịch, không thấy dị vật cản quang. Thì thở ra: phổi phải còn sáng hơn trái (ứ khí), góc sườn hoành phải phẳng, trung thất lệch nhẹ sang trái.",
+     "n": "Chụp thì thở ra tối đa để thấy ứ khí, xẹp phổi, lệch trung thất (WHO 2013 mục 4.7.3, tr. 119). Dị vật hữu cơ hiếm thấy trực tiếp, chủ yếu thấy biến chứng (TL-0130 mục 3.2; QĐ 3312/2015, Dị vật đường thở mục 3.3). Phim hít vào bình thường không loại trừ dị vật; không chờ phim mà trì hoãn nội soi."
+    },
+    "inr": {
+     "v": "e",
+     "ab": 1,
+     "r": "INR 3,4 (đích của bé 2,0–3,0; lần đo 9 ngày trước 2,3).",
+     "n": "Bé uống warfarin, đích INR 2–3 (AHA 2017, Large and Giant Aneurysms, Thromboprophylaxis mục 3: Class IIa, LOE B; Bảng 7); Bảng 7: thử INR khi có bệnh, đổi thuốc, đổi ăn uống. Ho 3 tuần, tự uống kháng sinh 4 ngày, sắp gây mê: INR trên đích phải báo tim mạch nhi và tuyến nhận. Tương tác amoxicillin–warfarin, cách xử trí INR trên đích, số ngày ngưng warfarin trước soi: không có trong tài liệu đã tải. Không tự chỉnh liều tại phòng khám."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Bạch cầu 9,2 G/L, tiểu cầu 280 G/L, Hb 124 g/L; không có dấu hiệu nhiễm khuẩn rõ.",
+     "n": "Xét nghiệm máu ít giá trị chẩn đoán dị vật (TL-0130, Dị vật đường thở mục 3.2). Không đổi quyết định."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "r": "Cơ sở không có máy CT.",
+     "n": "Không cần để quyết định: nội soi vừa xác định vừa lấy dị vật (TL-0130, Dị vật đường thở mục 3.3, 4.3; QĐ 3312/2015 mục 8.2). Giá trị CT trong dị vật: không có trong tài liệu đã tải. Thiếu CT không phải lý do hoãn chuyển."
+    },
+    "noi_soi_pq": {
+     "v": "a",
+     "ab": 1,
+     "r": "Phòng khám không có ống soi phế quản và bác sĩ gây mê nhi; không làm được ở đây. (Nếu soi ống cứng ở tuyến trên: thấy một mảnh hạt dưa ở phế quản gốc phải, niêm mạc phù nề, có mô hạt quanh dị vật.)",
+     "n": "Ý định đúng: nội soi là chẩn đoán xác định và để gắp (TL-0130 mục 3.3, 4.3; QĐ 3312/2015 mục 4.1, 8.2), nhưng phải làm ở bệnh viện có gây mê nên đáp án là chuyển tuyến."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "r": "Không làm được tại giường; sẽ cho kết quả sau.",
+     "n": "Không ho thành tràng, không nôn sau ho, đã tiêm chủng (WHO 2013 Bảng 6, mục 4.7.1)."
+    },
+    "xpert_tre": {
+     "v": "n",
+     "r": "Không phát hiện MTB (nếu làm).",
+     "n": "Không tiếp xúc nguồn lao, không sụt cân, không sốt kéo dài, có BCG; ho khởi phát đột ngột sau sặc (WHO 2013 Bảng 10)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Dị vật đường thở nghi cao (mảnh hạt dưa ở phế quản gốc phải), 3 tuần sau hội chứng xâm nhập; chưa suy hô hấp; ứ khí phổi phải",
+     "ok": 1,
+     "n": "Hội chứng xâm nhập (ho sặc sụa, tím môi khi ngậm hạt dưa) (TL-0130, Dị vật đường thở mục 3.1.1; QĐ 3312/2015 mục 3.1); ho khởi phát đột ngột trên nền khỏe; khò khè một bên, rì rào phế nang giảm nửa dưới phổi phải (TL-0130 mục 3.1.3; WHO 2013 mục 4.7.3, Bảng 6, 8, 10; GINA 2026 Box 10-4); không đáp ứng kháng sinh. Thể dị vật bỏ quên (QĐ 3312 mục 4.1). Xác định bằng nội soi (TL-0130 mục 3.3)."
+    },
+    {
+     "t": "Viêm thanh quản cấp (croup)",
+     "n": "Croup: sốt nhẹ, ho, chảy mũi 1–3 ngày rồi khàn tiếng, khó thở thanh quản, ho ông ổng (TL-0130, Viêm thanh quản cấp hạ thanh môn mục 3.1.1–3.1.2; WHO 2013 Bảng 9)."
+    },
+    {
+     "t": "Hen phế quản / khò khè ở trẻ ≤ 5 tuổi",
+     "n": "GINA 2026 Box 10-4 (tr. 199): khởi phát đột ngột kèm khò khè một bên nghĩ dị vật. Bé chưa từng khò khè, không chàm, gia đình không hen, ho khan thuần. Hen đáp ứng giãn phế quản, dị vật thì không (WHO 2013 Bảng 8, mục 4.5."
+    },
+    {
+     "t": "Viêm phổi / viêm phế quản",
+     "n": "Không sốt, thở 24 l/p (ngưỡng thở nhanh 1–5 tuổi ≥ 40 l/p; WHO 2013 mục 4.1, tr. 76), không ran ẩm, phim hít vào không đông đặc."
+    },
+    {
+     "t": "Ho gà / lao",
+     "n": "Không ho thành tràng, không nôn sau ho, đã tiêm chủng (WHO 2013 Bảng 6); không tiếp xúc nguồn lao, không sụt cân, có BCG (WHO 2013 Bảng 10)."
+    },
+    {
+     "t": "Ho do thuốc kháng đông mới đổi",
+     "n": "Tác dụng phụ warfarin ghi ở AHA 2017 Bảng 7: chảy máu, vôi hóa khí quản, rụng tóc, giảm mật độ xương; ho không có trong danh sách. Ho khởi phát đột ngột sau sặc, chỉ trùng thời điểm đổi thuốc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bé ngay trong ngày đến bệnh viện Nhi tỉnh (có nội soi phế quản và gây mê nhi) để soi gắp dị vật; không chờ sang tuần sau, không chờ CT, không điều trị thử",
+     "v": "c",
+     "n": "TL-0130, Dị vật đường thở: mục 3.3 (nội soi xác định), 4 (lấy bỏ dị vật càng sớm càng tốt), 4.3 (soi gắp sớm ít tai biến khi chưa có áp xe phổi, xẹp phổi, viêm phổi). QĐ 3312/2015: Dị vật đường thở mục 4.1 (dị vật bỏ quên: chỉ định soi phế quản), 8.2, 10 (nghi hóc cần đưa bệnh viện ngay); Cấp cứu cơ bản mục 4 (tắc nghẽn đường thở không rõ nguyên nhân dù còn tự thở phải đưa ngay tới bệnh viện)."
+    },
+    {
+     "t": "Gọi điện trực tiếp cho bác sĩ tai mũi họng và tim mạch nhi nơi nhận; bàn giao: tuổi, cân nặng, hội chứng xâm nhập 3 tuần trước, khò khè phổi phải, phim ứ khí, thuốc (warfarin 1,5 mg tối, aspirin 81 mg sáng, đổi từ enoxaparin 24 ngày trước), INR 3,4, kháng sinh tự cho; đem sổ INR và phim đi kèm",
+     "v": "c",
+     "n": "QĐ 3312/2015, Vận chuyển an toàn bệnh nhân trẻ em mục 2: giải thích cho bố mẹ, khám nhanh, liên hệ điện thoại trực tiếp người có trách nhiệm chuyên môn nơi nhận, xác định nơi đến, giữ liên lạc. AHA 2017 Bảng 7: aspirin ngưng 7 ngày, LMWH ngưng 24 giờ, UFH cầu nối khi cần đảo ngược kháng đông trước thủ thuật xâm lấn; số ngày ngưng warfarin và xử trí INR 3,4: không có trong tài liệu đã tải, thuộc tim mạch nhi và gây mê nơi nhận."
+    },
+    {
+     "t": "Không tự đổi liều warfarin hay aspirin ở phòng khám; tối nay chưa cho thuốc kháng đông cho đến khi tim mạch nhi bệnh viện quyết định; không cho bé ăn uống thêm vì sắp gây mê",
+     "v": "c",
+     "n": "AHA 2017 Bảng 7: warfarin chỉnh theo INR, đảo ngược được bằng vitamin K. Số giờ nhịn ăn trước gây mê: không có trong tài liệu đã tải (QĐ 3312/2015, Dị vật đường thở mục 9 chỉ nêu nhịn ăn 2–3 giờ sau soi)."
+    },
+    {
+     "t": "Đi ô tô có hai người lớn (một người ngồi cạnh bé quan sát môi, nhịp thở), hoặc xe cấp cứu nếu không tự đi được; mang sổ tim mạch, thuốc, phim; điện thoại thông suốt. SpO₂ 97%: chưa cần oxy, chưa cần còi hú; cho oxy nếu SpO₂ < 90% (WHO 2013) hoặc < 92% (QĐ 708/2015)",
+     "v": "c",
+     "n": "QĐ 3312/2015, Vận chuyển mục 2–3, 3.1.2. Ngưỡng oxy: WHO 2013 Bảng 7 là < 90%, QĐ 708/2015 Phụ lục 1 khuyến cáo 5.12 là < 92% (sổ mâu thuẫn đã ghi; 92% thận trọng hơn)."
+    },
+    {
+     "t": "Dạy mẹ xử trí khi bé ho yếu, không khóc nói được hoặc tím: còn ho mạnh thì để ho; không hiệu quả thì vỗ lưng 5 lần rồi ép ngực 5 lần (QĐ 3312/2015) hoặc ấn bụng 5 lần (WHO 2013 Chart 3), nhìn miệng lấy vật thấy được, lặp lại, gọi cấp cứu; không móc họng mù",
+     "v": "c",
+     "n": "Mâu thuẫn thật về trẻ lớn: QĐ 3312/2015, Cấp cứu cơ bản mục 4 (Hình 12, tr. 45–47): vỗ lưng + ép ngực vì ấn bụng có thể gây chấn thương bụng. WHO 2013 Chart 3 (tr. 8, trẻ > 1 tuổi): vỗ lưng 5 lần rồi ấn bụng (Heimlich) 5 lần; TL-0130 mục 4.1: Heimlich khi đang ngạt thở. (ERC 2025 First Aid, TL-0143, chỉ nêu cho người lớn và dẫn sang hướng dẫn nhi khoa riêng, không có trong tài liệu đã tải.) Cả hai cách đều chấp nhận. Móc họng: QĐ 3312/2015, Hồi sức cơ bản (không dùng tay móc mù) và ERC 2025 First Aid cho người lớn (Do NOT use blind finger sweeps) đều không móc mù; TL-0130 mục 4.1 cho ngón tay kéo dị vật tròn nhẵn đã rơi xuống họng, nên chỉ lấy khi nhìn thấy."
+    },
+    {
+     "t": "Chưa cấp giấy xác nhận đủ sức khỏe hôm nay; giải thích vì sao, ghi giấy chuyển viện, hẹn hoàn tất giấy sau khi bé được gắp dị vật và tái khám",
+     "v": "c",
+     "n": "Giấy khám sức khỏe trẻ dưới 6 tuổi: Mẫu số 01, Phụ lục XXIV, TT 25/2026/TT-BYT (TL-0668): có mục Hô hấp (tiếng thở bất thường, nghe phổi), kết luận Bình thường / Có nguy cơ mắc lao / Có vấn đề về sức khỏe; hôm nay bé có bệnh cần xử trí nên không ghi Bình thường. CV 5008/BYT-KCB 2026 mục 3c: kiểm tra sức khỏe đầu năm học theo TTLT 13/2016; tiêu chuẩn vào học: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nói chuyện với mẹ: hỏi mẹ mong điều gì hôm nay; nói rõ vì sao lần này khác (khò khè một bên, chuyện hạt dưa) và phải đi trong ngày; không trách mẹ quên tin nhắn; nhắn cô giáo; dặn không cho bé ăn hạt dưa, hạt bí, lạc",
+     "v": "c",
+     "n": "Xử lý lý do thật 'xin giấy' và nhiễu 'tự dùng thuốc' (kỹ năng giao tiếp; không có trong tài liệu đã tải). Phòng ngừa: TL-0130 mục 6; QĐ 3312/2015, Dị vật đường thở mục 10 (không cho trẻ ăn hạt na, lạc, hạt dưa, hạt bí...)."
+    },
+    {
+     "t": "Thử một liều salbutamol để phân biệt hen trước khi quyết định chuyển",
+     "v": "a",
+     "n": "WHO 2013 mục 4.5.2: nếu chưa chắc, cho một liều giãn phế quản nhanh. Không hại nhưng không được làm chậm việc chuyển; dị vật không đáp ứng giãn phế quản (WHO 2013 Bảng 8)."
+    },
+    {
+     "t": "Cấp giấy 'đủ sức khỏe đi học' hoặc kết luận 'Bình thường' để bé về lớp ngay",
+     "v": "w",
+     "n": "Bé có dị vật chưa lấy, có thể ngạt bất cứ lúc nào (TL-0130 mục 5); Mẫu số 01 (TT 25/2026) đòi kết luận đúng; cô giáo sẽ không biết bé có dị vật và dùng kháng đông."
+    },
+    {
+     "t": "Kê kháng sinh mới, siro ho, thuốc long đờm hoặc corticoid rồi hẹn tái khám tuần sau",
+     "v": "w",
+     "n": "Không sốt, không ran ẩm, phim không đông đặc; kháng sinh đã không đỡ (WHO 2013 mục 4.7.3). WHO 2013 mục 4.4: không cho thuốc ho chứa codein hay atropin ở trẻ. Dị vật cần lấy ra (TL-0130 mục 4)."
+    },
+    {
+     "t": "Ấn bụng, dốc ngược bé hoặc móc họng bằng ngón tay khi bé vẫn đang ho và thở được",
+     "v": "w",
+     "n": "QĐ 3312/2015, Cấp cứu cơ bản mục 4: trẻ ho được thì khuyến khích ho, chỉ can thiệp khi ho không hiệu quả; TL-0130 mục 4.1: Heimlich chỉ khi đang ngạt thở."
+    },
+    {
+     "t": "Tự quyết định ngưng hẳn warfarin và aspirin của bé vì sợ chảy máu khi soi",
+     "v": "h",
+     "n": "Phình mạch vành lớn có nguy cơ huyết khối mạch vành đặc biệt cao (AHA 2017, Large and Giant Aneurysms, Thromboprophylaxis). Cách ngưng, thời gian ngưng, cầu nối do tim mạch nhi và gây mê quyết (Bảng 7)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Dị vật đường thở nghi cao: mảnh hạt dưa ở phế quản gốc phải, 3 tuần sau hội chứng xâm nhập ở lớp mẫu giáo; thể bỏ quên (TL-0130, Dị vật đường thở mục 3.1.1, 3.1.3; QĐ 3312/2015, Dị vật đường thở mục 3.2, 4.1; WHO 2013 mục 4.7.3)",
+     "Chưa suy hô hấp (SpO₂ 97%, thở 24 l/p, ngưỡng thở nhanh 1–5 tuổi ≥ 40; WHO 2013 mục 4.1), ứ khí phổi phải; không cấp cứu tối khẩn nhưng phải soi gắp trong ngày vì dị vật lưu trên 1 tuần có tổ chức viêm sùi (QĐ 3312/2015 mục 3.2)",
+     "Bệnh nền: Kawasaki lúc 14 tháng, phình mạch vành phải lớn (8,5 mm), warfarin (mới đổi từ enoxaparin 24 ngày) + aspirin 81 mg; INR hôm nay 3,4 trên đích 2–3 (AHA 2017, Bảng 7)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: câu then chốt là ho bắt đầu lúc nào, đột ngột hay từ từ, hôm đó xảy ra chuyện gì. Ho khan đột ngột trên nền khỏe, không sốt, 21 ngày, kháng sinh không đỡ. Hội chứng xâm nhập chỉ khai thác được ở 93% (TL-0130 mục 3.1.1); ở đây người chứng kiến là cô giáo, mẹ quên nên phải hỏi 'hôm bắt đầu ho ở lớp có chuyện gì, cô có nhắn gì'. Hỏi chung 'có sặc không' sẽ nhận 'không'. WHO 2013 mục 4.1, 4.7 dặn hỏi sặc ở mọi trẻ ho; ho từ 14 ngày là ho mạn.",
+     "Khám: ngực phải căng hơn, gõ hơi vang, rì rào phế nang giảm và ran rít khu trú nửa dưới phổi phải, không rút lõm: một bên khác một bên là điểm mấu chốt (TL-0130 mục 3.1.3; WHO 2013 Bảng 8; GINA 2026 Box 10-4). Phim thở ra thấy ứ khí phổi phải (WHO 2013 mục 4.7.3); phim hít vào có thể bình thường; công thức máu ít giá trị (TL-0130 mục 3.2). INR bắt buộc vì sắp gây mê: 3,4. CT không có nhưng không cần: nội soi mới xác định và điều trị (TL-0130 mục 3.3).",
+     "Không phải croup (không prodrome, khàn, ông ổng; TL-0130 Viêm thanh quản cấp hạ thanh môn mục 3.1.1–3.1.2) hay hen (không tiền sử khò khè, không đáp ứng giãn phế quản; WHO 2013 Bảng 8; GINA 2026 Box 10-4).",
+     "Diagnostic timeout: ba tuần ho khan một bên, không sốt, kháng sinh không đỡ, mẹ nói 'do thuốc mới' và vội lấy giấy: dừng lại hỏi điều gì xảy ra đúng ngày bắt đầu ho. Gỡ hai mỏ neo: ho do thuốc mới (không có trong tác dụng phụ warfarin; AHA 2017 Bảng 7) và 'ho dai thì thêm kháng sinh'."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển trong ngày để soi gắp; không chờ CT, không điều trị thử (TL-0130 mục 4, 4.3).",
+     "Bàn giao qua điện thoại, báo warfarin/aspirin và INR 3,4; tim mạch nhi và gây mê quyết việc ngưng kháng đông (AHA 2017 Bảng 7).",
+     "Chưa cấp giấy 'đủ sức khỏe' (Mẫu số 01, TT 25/2026); không kê kháng sinh, thuốc ho, corticoid (WHO 2013 mục 4.4, 4.7.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy qua mặt nạ có túi dự trữ (dự phòng trên đường chuyển)",
+      "ham_luong": "Oxy y tế",
+      "lieu": "Chỉ khi SpO₂ < 90% (WHO 2013 Bảng 7) hoặc < 92% (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.12); lưu lượng lít/phút: không có trong tài liệu đã tải",
+      "duong": "Hít",
+      "thoi_diem": "Khi SpO₂ tụt dưới ngưỡng hoặc bé tím, rít",
+      "so_ngay": "Trong lúc vận chuyển",
+      "ghi_chu": "WHO 2013 Bảng 7; QĐ 708/2015 khuyến cáo 5.12; QĐ 3312/2015, Vận chuyển mục 3.1.2."
+     },
+     {
+      "thuoc": "Warfarin (đang dùng, tim mạch nhi kê)",
+      "ham_luong": "Viên 1 mg",
+      "lieu": "Hiện 1,5 mg mỗi tối; KHÔNG tự đổi tại phòng khám",
+      "duong": "Uống",
+      "thoi_diem": "Tối nay: chờ tim mạch nhi bệnh viện quyết định",
+      "so_ngay": "Theo tim mạch nhi",
+      "ghi_chu": "AHA 2017 Bảng 7: INR đích 2–3; INR hôm nay 3,4. Xử trí INR trên đích, ngưng trước nội soi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Aspirin (đang dùng, tim mạch nhi kê)",
+      "ham_luong": "Viên 81 mg",
+      "lieu": "81 mg (≈ 4,8 mg/kg) mỗi sáng; KHÔNG tự đổi tại phòng khám",
+      "duong": "Uống",
+      "thoi_diem": "Theo quyết định của tim mạch nhi và gây mê",
+      "so_ngay": "Theo tim mạch nhi",
+      "ghi_chu": "AHA 2017 Bảng 7: aspirin 3–5 mg/kg/ngày, tối đa 81–325 mg, ngưng 7 ngày trước thủ thuật xâm lấn (tuyến nhận quyết). Không dùng ibuprofen/NSAID kèm aspirin (Class III, LOE B)."
+     }
+    ],
+    "dan_do": [
+     "Bé nghi có mảnh hạt dưa trong phế quản: phải nội soi lấy ra bằng gây mê ở bệnh viện, thuốc ho hay kháng sinh không chữa được (TL-0130 mục 4). Đi ngay chiều nay; phòng khám đã gọi báo bệnh viện.",
+     "Mang sổ tim mạch, sổ INR, mọi thuốc đang uống, phim X-quang, giấy chuyển viện. Nói với bác sĩ gây mê: bé uống warfarin và aspirin, INR hôm nay 3,4 (đích 2–3; AHA 2017 Bảng 7), đã uống kháng sinh tự mua 4 ngày.",
+     "Trên đường đi một người lớn ngồi cạnh bé, nhìn môi và nhịp thở. Bé ho yếu, không khóc được, tím: dừng xe gọi cấp cứu, vỗ lưng 5 lần rồi ép ngực 5 lần (hoặc ấn bụng 5 lần theo WHO 2013), nhìn miệng; bé còn ho mạnh thì để ho (QĐ 3312/2015, Cấp cứu cơ bản mục 4).",
+     "Không cho ăn hạt dưa, hạt bí, lạc và hạt nhỏ; không để bé cười đùa khi ăn (TL-0130 mục 6; QĐ 3312/2015, Dị vật đường thở mục 10). Không tự mua kháng sinh, siro ho hay ibuprofen; hỏi tim mạch nhi trước khi dùng thuốc mới vì warfarin dễ bị ảnh hưởng (AHA 2017 Bảng 7).",
+     "Giấy sức khỏe cho trường: chị nhắn cô giáo bé đang điều trị dị vật; sau khi gắp và hết triệu chứng, quay lại khám để nhận giấy (Mẫu số 01, TT 25/2026)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – 12 ngày sau, tái khám sau soi gắp",
+   "tiep_don": "Mười hai ngày sau lượt 1, sáng thứ Hai, 9 giờ 30, cùng phòng khám. Chị Hà bế bé Châu đến theo hẹn, mang giấy ra viện của Bệnh viện Nhi tỉnh và sổ INR; chị nói bé khỏe hẳn, xin hoàn tất giấy sức khỏe để bé đi học lại. Điều dưỡng Linh đo: nhiệt độ 36,8 °C, mạch 92 l/p, nhịp thở 22 l/p, SpO₂ 99% khí trời. Bé tươi, chạy quanh phòng, hỏi bác sĩ có kẹo không.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện hô hấp hoặc nằm theo dõi 'cho chắc': bé hết triệu chứng, SpO₂ 99%, hai phổi nghe đều, biên bản soi ghi gắp trọn, không có chỉ định. Bé nghỉ học thêm, mẹ nghỉ việc, thêm lần lấy máu và thủ thuật ở trẻ đang dùng warfarin + aspirin (chảy máu là tác dụng phụ ghi ở AHA 2017 Bảng 7).",
+    "chuyen_tuyen": "Chuyển lại Bệnh viện Nhi chỉ để soi kiểm tra: soi ống cứng phải gây mê lại và ngưng rồi dùng lại thuốc kháng đông (AHA 2017 Bảng 7: aspirin ngưng 7 ngày, LMWH 24 giờ trước thủ thuật xâm lấn) khi bé đã hết triệu chứng. Tài liệu đã tải không nêu soi kiểm tra thường quy.",
+    "theo_doi": "Hẹn tái khám hô hấp mỗi tuần, chưa cho đi học: sau 12 ngày hết triệu chứng, phổi nghe đều, không còn lý do theo dõi dày; bé nghỉ dài, mẹ sốt ruột, dễ bỏ lịch thử INR đúng lúc cần."
+   },
+   "loi_mo": "Bác sĩ ơi, con em hết ho hẳn rồi, ăn chơi như cũ. Bác sĩ khám lại giùm rồi cho em xin cái giấy để cô cho con đi học lại nha.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ đưa bé tái khám sau khi ra viện và xin giấy sức khỏe để bé đi học lại; trường chỉ nhận lại khi có giấy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám và mong đợi của mẹ"
+    },
+    {
+     "id": "ra_vien",
+     "noi_dung": "Đêm lượt 1 bé nhập Bệnh viện Nhi tỉnh; tim mạch nhi hội chẩn với gây mê, điều chỉnh warfarin và aspirin quanh lúc soi (có trong giấy, mẹ không nhớ). Soi phế quản ống cứng dưới gây mê: gắp một mảnh hạt dưa mủn và hai mảnh vụn ở phế quản gốc phải, niêm mạc phù nề, có mô hạt quanh dị vật, hút rửa; soi lại không còn dị vật. Nằm viện 2 ngày, ra viện với amoxicillin/acid clavulanic 5 ngày, đã uống đủ, hết cách đây 6 ngày. Dùng lại warfarin 1,5 mg và aspirin 81 mg như cũ từ ngày ra viện; INR lúc ra viện 2,5.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi giấy ra viện, bệnh viện đã làm gì, lấy ra được gì, còn sót không, thuốc gì sau ra viện.",
+     "k": 1,
+     "y": "Dị vật đã gắp trọn qua nội soi (bằng chứng không còn sót)"
+    },
+    {
+     "id": "hien_nay",
+     "noi_dung": "Bé hết ho từ ngày thứ 3 sau soi. Không khò khè, không sốt, ăn chơi như cũ, ngủ ngon, tăng 0,5 kg. Không ho khi ăn uống. Mẹ đếm không còn tiếng khè khè khi áp tai vào lưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí lâm sàng xác nhận khỏi"
+    },
+    {
+     "id": "thuoc_nay",
+     "noi_dung": "Chỉ uống warfarin 1,5 mg mỗi tối và aspirin 81 mg mỗi sáng; kháng sinh đã hết. Còn nửa chai siro ho thảo dược, mẹ hỏi cho uống tiếp 'cho sạch đờm' được không. INR gần nhất 2,5 lúc ra viện, cách nay 6 ngày; chưa thử lại từ khi hết kháng sinh.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi bé đang uống thuốc gì, kháng sinh đã hết chưa, còn thuốc dư, INR lần cuối.",
+     "k": 1,
+     "y": "Ngưng thuốc tự mua; INR sau đợt kháng sinh"
+    },
+    {
+     "id": "yeu_cau_truong",
+     "noi_dung": "Cô chủ nhiệm cần giấy khám sức khỏe cho trẻ dưới 6 tuổi (mẫu Bộ Y tế) vì hồ sơ đầu năm còn thiếu; cô hỏi bé có chạy nhảy, vận động mạnh được không, có cần lưu ý gì về thuốc tim. Trường đã bỏ hạt dưa, lạc khỏi bữa phụ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi trường cần giấy gì, cô dặn gì, sinh hoạt ở lớp ra sao.",
+     "k": 1,
+     "y": "Nội dung cần ghi vào giấy và dặn nhà trường"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "k": 1,
+     "a": "Bé tươi, hồng hào, chạy nhảy, nói chuyện lưu loát. Môi hồng, không rút lõm ngực. Không bầm máu, không chấm xuất huyết, không chảy máu chân răng. Tăng 0,5 kg so với lượt 1 (17,5 kg)."
+    },
+    "phoi": {
+     "k": 1,
+     "a": "Nhịp thở 22 l/p, đều. Lồng ngực cân đối, di động đều hai bên, gõ trong đều hai phổi. Rì rào phế nang êm, đều hai bên, hết ran rít bên phải, không ran ẩm. Sau khi ho gắng sức, nghe lại không đổi.",
+     "hien": "Nhịp thở 22 l/p, đều. Lồng ngực cân đối, di động đều hai bên, gõ trong đều hai phổi. Không rút lõm ngực.",
+     "media": [
+      {
+       "vi_tri": "Phổi phải (phía sau, nửa dưới)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Phổi phải: rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Phổi trái: rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "k": 0,
+     "a": "Tim đều, 92 l/p, T1 T2 rõ, không âm thổi. Mạch quay, bẹn rõ đều. Gan không to."
+    },
+    "nhan_tram_tre": {
+     "k": 0,
+     "a": "Cân nặng 17,5 kg, chiều cao 104 cm."
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "Phim thẳng thì hít vào và thở ra: hai phổi sáng đều, hết ứ khí phổi phải, trung thất ở giữa, góc sườn hoành hai bên nhọn, không xẹp phổi, không đông đặc.",
+     "n": "Không bắt buộc khi đã hết triệu chứng; tài liệu đã tải không có khuyến cáo chụp kiểm tra thường quy sau gắp dị vật. Chụp một phim ghi nhận hết ứ khí là hợp lý vì lượt 1 có ứ khí và dị vật lưu 3 tuần có mô hạt, biến chứng muộn xẹp phổi, giãn phế quản (QĐ 3312/2015, Dị vật đường thở mục 3.2, 5). Không chụp cũng không trừ điểm."
+    },
+    "inr": {
+     "v": "u",
+     "r": "INR 2,6 (đích 2,0–3,0).",
+     "n": "Thử INR khi có bệnh, đổi thuốc, vừa xong đợt kháng sinh (AHA 2017 Bảng 7); hết kháng sinh 6 ngày, INR trở lại trong đích. Lịch thử sau đó do tim mạch nhi (Bảng 7: tối thiểu mỗi tháng khi đã ổn)."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "r": "Cơ sở không có máy CT.",
+     "n": "Không cần: đã gắp trọn, hết triệu chứng. Vai trò CT sau gắp: không có trong tài liệu đã tải."
+    },
+    "noi_soi_pq": {
+     "v": "n",
+     "r": "Phòng khám không có ống soi phế quản.",
+     "n": "Không chỉ định: biên bản soi sạch, hết triệu chứng. Soi lại khi ho, khò khè một bên hoặc viêm phổi tái phát; tiêu chí soi kiểm tra thường quy: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Dị vật đường thở (mảnh hạt dưa, phế quản gốc phải) đã gắp trọn qua nội soi ống cứng; khỏi hoàn toàn về lâm sàng sau 12 ngày, không biến chứng",
+     "ok": 1,
+     "n": "Biên bản nội soi gắp trọn, soi lại sạch. Hết ho, hết khò khè một bên, rì rào phế nang đều, SpO₂ 99%, không sốt, tăng cân (dấu hiệu định khu của TL-0130 mục 3.1.3 đã hết). QĐ 3312/2015, Cấp cứu cơ bản mục 4: sau khi dị vật ra phải đánh giá lâm sàng vì có thể còn sót một phần."
+    },
+    {
+     "t": "Phình động mạch vành phải lớn sau bệnh Kawasaki, đang uống warfarin + aspirin, INR 2,6 trong đích",
+     "ok": 1,
+     "n": "Phình lớn (≥ 8 mm hoặc Z ≥ 10): nguy cơ huyết khối mạch vành đặc biệt cao; aspirin liều thấp + warfarin INR 2–3 (AHA 2017, Large and Giant Aneurysms, Thromboprophylaxis mục 3: Class IIa, LOE B; Bảng 7)."
+    },
+    {
+     "t": "Sót dị vật hoặc xẹp phổi / viêm phổi tồn lưu",
+     "n": "Biên bản soi sạch; phổi nghe đều, không ran, không sốt, thở 22 l/p (< 40; WHO 2013 mục 4.1). Dị vật sót sẽ gây khò khè một bên, ho dai (TL-0130 mục 3.1.3)."
+    },
+    {
+     "t": "Viêm thanh quản cấp",
+     "n": "Không khàn, không rít, không ho ông ổng; hết ho ngay sau lấy dị vật nên không phải viêm virus (TL-0130, Viêm thanh quản cấp hạ thanh môn mục 3.1.1)."
+    },
+    {
+     "t": "Hen phế quản / khò khè tái diễn",
+     "n": "Khò khè một bên biến mất sau khi lấy dị vật, không dùng giãn phế quản hay corticoid, nên không phải hen (GINA 2026 Box 10-4, tr. 199; WHO 2013 Bảng 8)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng tiêu chí: hết ho và khò khè, rì rào phế nang đều hai bên, SpO₂ bình thường, không sốt, ăn chơi như cũ, cộng biên bản nội soi gắp trọn; đọc giấy ra viện, không chỉ nghe lời mẹ",
+     "v": "c",
+     "n": "TL-0130, Dị vật đường thở mục 3.1.3, 3.3; QĐ 3312/2015, Cấp cứu cơ bản mục 4 (đánh giá lâm sàng sau khi dị vật ra vì có thể còn sót). Số ngày theo dõi sau gắp để coi là khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thêm kháng sinh hay thuốc ho; ngưng hẳn siro ho thảo dược còn dư",
+     "v": "c",
+     "n": "Đã đủ đợt kháng sinh của bệnh viện, bé hết triệu chứng, không sốt; thời gian kháng sinh sau gắp dị vật: không có trong tài liệu đã tải (TL-0130 mục 4.3 chỉ nêu có thể hút rửa, bơm kháng sinh khi soi). WHO 2013 mục 4.4: không cho thuốc ho chứa codein hay atropin ở trẻ."
+    },
+    {
+     "t": "Thử INR hôm nay vì vừa qua bệnh, nhập viện và đợt kháng sinh; tiếp tục warfarin 1,5 mg tối, aspirin 81 mg sáng như tim mạch nhi dặn, không tự đổi liều; hẹn tim mạch nhi đúng lịch",
+     "v": "c",
+     "n": "AHA 2017 Bảng 7: thử INR khi có bệnh, đổi thuốc; INR đích 2–3. Large and Giant Aneurysms: đánh giá tim mạch mỗi 3–6 tháng sau năm đầu (Class IIa, LOE C). Liều do tim mạch nhi quyết."
+    },
+    {
+     "t": "Cấp giấy khám sức khỏe trẻ dưới 6 tuổi theo Mẫu số 01 (Phụ lục XXIV, TT 25/2026/TT-BYT): khám đủ các mục; kết luận 'Có vấn đề về sức khỏe', ghi rõ: di chứng phình mạch vành sau Kawasaki đang dùng kháng đông + aspirin, theo dõi tim mạch; dị vật đường thở đã gắp, hiện không triệu chứng; đủ điều kiện đi học, tránh hoạt động va chạm",
+     "v": "c",
+     "n": "Mẫu số 01, Phụ lục XXIV, TT 25/2026/TT-BYT (TL-0668): kết luận Bình thường / Có nguy cơ mắc lao / Có vấn đề về sức khỏe, có dòng ghi rõ và tư vấn."
+    },
+    {
+     "t": "Dặn tránh hoạt động có nguy cơ va chạm, chấn thương vì đang dùng kháng đông; nhắn cô giáo: bé uống warfarin + aspirin, ngã đập đầu, chảy máu không cầm hoặc bầm lớn thì đưa đi khám ngay; nhà trường tập xử trí sặc",
+     "v": "c",
+     "n": "AHA 2017, Large and Giant Aneurysms, Physical activity mục 2: hoạt động có nguy cơ va chạm, chấn thương cần hạn chế hoặc điều chỉnh khi dùng kháng đông (Class I, LOE B); chảy máu là tác dụng phụ warfarin (Bảng 7). Mức báo động cụ thể (đập đầu...): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho nhập viện, chuyển lại bệnh viện để soi kiểm tra hoặc kê thêm kháng sinh 'cho chắc'",
+     "v": "w",
+     "n": "Bé hết triệu chứng, biên bản soi sạch. Soi ống cứng phải gây mê và ngưng thuốc kháng đông (AHA 2017 Bảng 7); tiêu chí soi kiểm tra: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kết luận 'Bình thường' trên giấy, không ghi thuốc kháng đông và phình mạch vành, hoặc cho bé chạy nhảy mọi trò chơi va chạm như các bạn",
+     "v": "w",
+     "n": "Mẫu số 01 (TT 25/2026) yêu cầu kết luận đúng; bỏ sót làm cô giáo không biết bé dùng kháng đông (AHA 2017, Physical activity mục 2: Class I, LOE B)."
+    },
+    {
+     "t": "Tự ngưng warfarin và aspirin vì 'bé đã hết bệnh phổi'",
+     "v": "h",
+     "n": "Phình mạch vành lớn có nguy cơ huyết khối mạch vành đặc biệt cao (AHA 2017, Large and Giant Aneurysms, Thromboprophylaxis); chỉ tim mạch nhi quyết định ngưng hoặc đổi."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Dị vật đường thở (mảnh hạt dưa) đã gắp trọn qua nội soi ống cứng ở phế quản gốc phải; khỏi hoàn toàn sau 12 ngày, không biến chứng (TL-0130, Dị vật đường thở mục 3.1.3; QĐ 3312/2015 mục 8.2)",
+     "Phình động mạch vành phải lớn sau Kawasaki, aspirin 81 mg + warfarin 1,5 mg, INR 2,6 trong đích 2–3 (AHA 2017, Bảng 7)",
+     "Đã hết kháng sinh của bệnh viện 6 ngày; đủ điều kiện đi học, giấy ghi 'Có vấn đề về sức khỏe' với nội dung tim mạch, không phải 'Bình thường'"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: xem giấy ra viện (lấy ra gì, soi lại có sạch không); hết triệu chứng từ khi nào; thuốc đang uống, kháng sinh đã hết chưa, INR lần cuối; trường cần giấy gì. Biên bản nội soi quan trọng hơn lời mẹ vì dị vật có thể sót (QĐ 3312/2015, Cấp cứu cơ bản mục 4).",
+     "Tiêu chí khỏi: lâm sàng đủ bốn ý (hết ho, hết khò khè một bên, phổi nghe đều, ăn chơi như cũ) cộng bằng chứng gắp trọn. Chụp kiểm tra là tùy (tài liệu đã tải không đòi hỏi; hợp lý khi từng có ứ khí hoặc dị vật lưu lâu); chụp và chuyển lại ngay khi triệu chứng tái phát."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kê thuốc hô hấp, không thêm kháng sinh (WHO 2013 mục 4.4); giữ warfarin/aspirin, thử INR (AHA 2017 Bảng 7).",
+     "Giấy Mẫu số 01 kết luận đúng sự thật; không nhập viện, không soi lại vì thêm rủi ro gây mê và ngưng kháng đông (AHA 2017 Bảng 7)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Warfarin (giữ nguyên theo tim mạch nhi)",
+      "ham_luong": "Viên 1 mg",
+      "lieu": "1,5 mg mỗi tối, không đổi tại phòng khám",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, cùng giờ mỗi ngày",
+      "so_ngay": "Dài hạn theo tim mạch nhi",
+      "ghi_chu": "AHA 2017 Bảng 7: warfarin dài hạn cho phình mạch vành lớn/khổng lồ, INR 2–3 (Class IIa, LOE B); liều chỉnh theo INR; giữ nguyên, thử INR hôm nay."
+     },
+     {
+      "thuoc": "Aspirin (giữ nguyên theo tim mạch nhi)",
+      "ham_luong": "Viên 81 mg",
+      "lieu": "81 mg (≈ 4,6 mg/kg) mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, sau ăn",
+      "so_ngay": "Dài hạn theo tim mạch nhi",
+      "ghi_chu": "AHA 2017 Bảng 7: aspirin 3–5 mg/kg/ngày, tối đa 81–325 mg; giữ nguyên; không dùng ibuprofen/NSAID kèm aspirin (Class III, LOE B)."
+     }
+    ],
+    "dan_do": [
+     "Bé khỏi dị vật: hết ho, hết khò khè, phổi nghe đều, bệnh viện đã gắp trọn. Không cần thuốc ho hay kháng sinh; ngưng siro ho thảo dược còn dư.",
+     "Tiếp tục warfarin 1,5 mg mỗi tối và aspirin 81 mg mỗi sáng đúng như tim mạch nhi dặn, không tự ngưng hay đổi liều dù phổi đã khỏi. Thử INR hôm nay; tim mạch nhi tái khám đúng lịch (AHA 2017: mỗi 3–6 tháng sau năm đầu). Khi bé bệnh, đổi thuốc hoặc uống kháng sinh phải báo để thử INR (Bảng 7); không tự mua kháng sinh, siro ho, ibuprofen.",
+     "Không cho ăn hạt dưa, hạt bí, lạc, hạt nhỏ; không để bé cười đùa khi ăn. Cô giáo học xử trí sặc: ho mạnh thì để ho; ho yếu, tím thì vỗ lưng 5 lần rồi ép ngực 5 lần (hoặc ấn bụng 5 lần theo WHO 2013) và gọi cấp cứu.",
+     "Quay lại ngay khi ho kéo dài trở lại, khò khè một bên, sốt, bỏ ăn, ho khi ăn (TL-0130 mục 5: dị vật sót gây biến chứng muộn)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Đêm lượt 1 bé được nội soi phế quản ống cứng dưới gây mê tại Bệnh viện Nhi tỉnh: gắp trọn mảnh hạt dưa mủn ở phế quản gốc phải, có mô hạt quanh dị vật, hút rửa, soi lại sạch; nằm viện 2 ngày, uống amoxicillin/acid clavulanic 5 ngày. Sau 12 ngày hết ho, hết khò khè, phổi nghe đều, INR trở lại 2,6 trong đích. Bé được cấp giấy khám sức khỏe Mẫu số 01 ghi trung thực bệnh nền Kawasaki đang dùng kháng đông, đi học lại, tránh hoạt động va chạm; trường bỏ hạt khỏi bữa phụ và cô giáo được hướng dẫn xử trí sặc. Ổn định, khỏi bệnh.",
+ "nhieu": [
+  "Tự uống thuốc 5 ngày trước (amoxicillin dư + siro ho): không đỡ, mẹ tưởng 'viêm', làm INR khó đoán; chỉ lộ khi hỏi từng loại thuốc.",
+  "Mỏ neo 'ho do thuốc mới': ho khởi phát 3 ngày sau khi đổi enoxaparin sang warfarin, trùng ngẫu nhiên; ho không có trong tác dụng phụ warfarin (AHA 2017 Bảng 7).",
+  "Lý do thật là xin giấy sức khỏe: mẹ giảm nhẹ triệu chứng và thúc làm nhanh; chiều theo thì cấp giấy 'đủ sức khỏe' cho trẻ còn dị vật."
+ ],
+ "bai_hoc_bien": [
+  "Ho khan kéo dài ở trẻ khỏe, khởi phát đột ngột, khò khè một bên: hỏi 'hôm bắt đầu ho xảy ra chuyện gì, ai trông bé, bé ngậm ăn gì'; hỏi cả người trông trẻ (cô giáo, ông bà).",
+  "Xin giấy sức khỏe khi bệnh chưa xử trí xong: không kết luận 'Bình thường'; nói rõ lý do, hẹn hoàn tất sau điều trị; giấy ghi đúng bệnh nền.",
+  "Khỏi sau gắp dị vật = hết triệu chứng + phổi nghe đều + biên bản soi gắp trọn; chụp kiểm tra là tùy; chụp lại và chuyển lại khi triệu chứng trở lại."
+ ],
+ "diem_nho": [
+  "Dị vật đường thở: 75% ở trẻ dưới 4 tuổi, hội chứng xâm nhập khai thác được ở 93% (TL-0130, Dị vật đường thở mục 1, 3.1.1); lứa nhà trẻ mẫu giáo, 60% là thực vật (QĐ 3312/2015, mục 2).",
+  "Dị vật phế quản: rì rào phế nang giảm một bên, ran rít khu trú (TL-0130 mục 3.1.3); X-quang hiếm thấy dị vật, thường thấy ứ khí, xẹp phổi (mục 3.2); chụp thì thở ra tối đa (WHO 2013 mục 4.7.3). Nội soi là chẩn đoán xác định, lấy dị vật càng sớm càng tốt (TL-0130 mục 3.3, 4).",
+  "Phình mạch vành lớn sau Kawasaki: aspirin liều thấp + warfarin INR 2–3 (Class IIa, LOE B); thử INR khi có bệnh, đổi thuốc; hạn chế hoạt động va chạm khi dùng kháng đông (Class I, LOE B) (AHA 2017, Bảng 7)."
+ ],
+ "nguon": [
+  "TL-0130 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – ĐÃ ĐỌC: Dị vật đường thở (mục 1–6, tr. 214–219); Viêm thanh quản cấp hạ thanh môn (mục 1–4, tr. 198–200)",
+  "TL-0037 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015 (QĐ 3312/2015), Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – ĐÃ ĐỌC: Dị vật đường thở (chương Hô hấp, mục 1–10, tr. 279–282); Cấp cứu cơ bản, dị vật đường thở (mục 4, tr. 44–48); Vận chuyển an toàn bệnh nhân trẻ em (mục 1–3.1.3, tr. 67–69); Hồi sức cơ bản",
+  "TL-0250 – WHO Pocket book of hospital care for children, ấn bản 2, 2013 (WHO 2013) – ĐÃ ĐỌC: Chart 3 (tr. 8); mục 4.1 (tr. 76); Bảng 6, 7, 8, 9, 10; mục 4.4, 4.5.2, 4.6.1, 4.7, 4.7.3 (tr. 119)",
+  "TL-0137 – GINA 2026 – ĐÃ ĐỌC: Chương 10, Box 10-4 (tr. 198–199)",
+  "TL-0095 – AHA Scientific Statement 2017, Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease (AHA 2017), Circulation 2017;135:e927–e999 – ĐÃ ĐỌC: Bảng 7 (e951–e952); Large and Giant Aneurysms (Thromboprophylaxis, Physical activity, tần suất đánh giá tim mạch)",
+  "TL-0143 – ERC Guidelines 2025 First Aid (ERC 2025) – ĐÃ ĐỌC: mục Choking (chỉ người lớn)",
+  "TL-0668 – Bộ Y tế, Thông tư 25/2026/TT-BYT, Phụ lục XXIV, Mẫu số 01 giấy khám sức khỏe trẻ em dưới 06 tuổi (TT 25/2026) – ĐÃ ĐỌC: toàn mẫu",
+  "TL-0666 – Bộ Y tế, Công văn 5008/BYT-KCB 2026 – ĐÃ ĐỌC: toàn văn, mục 3c"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 2026-11-04. Mẫu tham khảo nhịp độ và cách ghi nguồn: HH-1473 (cùng chẩn đoán, nhũ nhi, đã xuất); nội dung viết lại từ tài liệu gốc.",
+  "Biến lạ: 'thuốc kháng đông đang dùng' ở trẻ 4 tuổi giải bằng bệnh Kawasaki phình mạch vành lớn (warfarin + aspirin, AHA 2017 Bảng 7); 'đổi thuốc điều trị' = đổi enoxaparin sang warfarin 24 ngày trước (AHA 2017: chuyển LMWH sang warfarin khi phình mạch ngừng to lên), là mỏ neo (mẹ quy ho cho thuốc mới), không phải nguyên nhân dị vật.",
+  "Không có trong tài liệu đã tải: giờ nhịn ăn trước gây mê; ngưng warfarin trước nội soi và xử trí INR trên đích; tương tác amoxicillin–warfarin; lưu lượng oxy cho trẻ 17 kg; kháng sinh sau gắp dị vật; X-quang kiểm tra sau gắp; vai trò CT; mức báo động va chạm/chảy máu khi dùng kháng đông.",
+  "Mâu thuẫn mới (HH-1474_mau_thuan.md): sơ cứu sặc nặng ở trẻ > 1 tuổi (ép ngực theo QĐ 3312/2015 hay ấn bụng theo WHO 2013/TL-0130). Tình tiết dựng không có nguồn: quãng 25 km, INR 3,4/2,6, số liệu xét nghiệm phụ, diễn biến nội soi, giấy ra viện. Không ảnh da, không đề xuất mục danh mục mới."
+ ]
+}

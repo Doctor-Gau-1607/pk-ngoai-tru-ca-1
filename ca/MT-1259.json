@@ -1,0 +1,775 @@
+{
+ "ma_ca": "MT-1259",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-11-04)",
+ "benh": "MT_dtd_tip2_kiem_soat_kem",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "ĐTĐ kiểm soát kém (HbA1c cao)",
+  "chan_doan_phai_loai_tru": [
+   "Nhiễm trùng",
+   "Tuân thủ kém"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Bích",
+  "tuoi": 67,
+  "gioi": "Nữ",
+  "nghe": "Nội trợ",
+  "can_nang": 54,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cẩn thận, hay lo xa, nói nhỏ nhẹ, thích kể chuyện nhà. Con gái hay tra mạng đọc cho bà nghe nên bà tin 'trên mạng nói vậy'. Nghe đến 'đột tử', 'nhồi máu' là run. Ngại hỏi lại bác sĩ, nhưng sẽ nói thật nếu được hỏi han tử tế.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: ngay từ đầu nói chắc nịch 'tôi bị lao, lây từ ông nhà' (con gái tra mạng: tiểu đường + sụt ký + người nhà ho = lao). Không chịu nghe 'chưa chắc'; chỉ yên tâm khi được khám, chụp phim và giải thích bằng kết quả. Bà không hoàn toàn sai: ở chung nhà với người ho kéo dài thì đúng là phải xem xét lao. Lý do thật (sợ nhồi máu như bà hàng xóm) chỉ lộ khi bác sĩ hỏi bà lo điều gì nhất hoặc hỏi về tim.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d8b08c",
+   "toc": "#b9b4ad",
+   "kieuToc": "ngan",
+   "ao": "#8a6f9e",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Mệt, khát nước nhiều, đường huyết đo ở nhà cao; muốn đổi thuốc tiểu đường",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – Khám lần đầu",
+   "tiep_don": "Bà Lê Thị Bích, 67 tuổi, nội trợ, đái tháo đường típ 2 và tăng huyết áp nhiều năm. Đến vì mệt, khát nước, đường huyết đo ở nhà cao. Sinh hiệu: HA 126/76 mmHg, mạch 88 l/p, cân nặng 54 kg, BMI 23,1.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Bích nhập viện chỉ để 'chỉnh đường huyết' dù tỉnh, ăn uống được, ceton niệu âm, không có tiêu chuẩn nhập viện (QĐ 5481 Phần 7 mục 2.1). Bà sợ nằm viện nên càng tin mình bệnh nặng, trong khi việc cần làm ở ngoại trú là thêm insulin nền, dạy tự theo dõi đường huyết và tự chỉnh liều (ADA 2026 mục 9: hướng dẫn tự chỉnh liều cải thiện kiểm soát đường huyết). Ông nhà ở nhà một mình, ho vẫn chưa được đi khám.",
+    "chuyen_tuyen": "Bà được chuyển lên bệnh viện lớn 'khám lao và tim' trong khi X-quang ngực làm ngay tại chỗ được, không triệu chứng hô hấp, điện tim bình thường (ADA 2026 KC 10.37a: không tầm soát mạch vành thường quy khi không triệu chứng). Bà tốn ngày, tốn tiền, đường huyết vẫn 12–16 mmol/L vì chưa ai đổi thuốc, nên triệu chứng khát và sụt cân tiếp tục (ADA 2026 KC 9.15: không trì hoãn điều chỉnh thuốc).",
+    "theo_doi": "Bà chỉ được dặn 'ăn kiêng thêm, uống thuốc đều' và hẹn lại sau vài tháng. HbA1c 9,6% kèm khát, tiểu đêm và sụt 3 kg là dấu hiệu dị hóa; để nguyên phác đồ metformin + gliclazid là trì hoãn điều trị (ADA 2026 KC 9.15, mục 9: insulin nên được cân nhắc khi có dị hóa; QĐ 5481 Phần 4 mục 4.2f, h). Bà tiếp tục sụt cân, mệt, và vẫn tin mình bị lao hoặc sắp nhồi máu."
+   },
+   "loi_mo": "Chào bác sĩ. Dạo này tôi mệt, khát nước hoài, đo đường ở nhà toàn trên mười mấy. Con gái tôi tra mạng, nói tiểu đường mà sụt ký, ông nhà lại ho hoài là tôi bị lao rồi. Bác sĩ chụp phổi cho tôi, rồi đổi thuốc giùm.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "126/76",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, khát nhiều, đêm dậy tiểu 3 lần khoảng 5–6 tuần nay. Đường huyết máy ở nhà (con gái mua) buổi sáng 12–16 mmol/L, tuần nay không xuống.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, triệu chứng tăng đường huyết"
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Sụt khoảng 3 kg trong 2 tháng (57 xuống 54 kg) dù ăn như thường, không ăn kiêng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Sụt cân ngoài ý muốn (dị hóa; cũng là dấu hiệu nghi lao)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "ĐTĐ típ 2 khoảng 12 năm, tăng huyết áp 8 năm. Thuốc: metformin 850 mg ngày 2 lần sau ăn, gliclazid MR 60 mg sáng, amlodipin 5 mg, atorvastatin 40 mg tối. HbA1c cách đây 8 tháng 8,1%.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian bệnh, thuốc đang dùng, HbA1c cũ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống thuốc đều: hộp chia sẵn theo ngày trong tuần, con gái soi hộp mỗi cuối tuần, chưa sót ngày nào. Ăn 2 chén cơm mỗi bữa, ít bánh kẹo, thỉnh thoảng một chén chè cuối bữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc và ăn uống (loại trừ tuân thủ kém)"
+    },
+    {
+     "id": "cap_cuu_am",
+     "noi_dung": "Không đau bụng, buồn nôn, thở sâu hay lú lẫn; ăn uống được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ biến chứng cấp"
+    },
+    {
+     "id": "nhiem_trung",
+     "noi_dung": "Không sốt, không ho, không khạc đờm, không ra mồ hôi đêm. Không tiểu buốt, tiểu rắt. Chân không loét, răng miệng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ổ nhiễm trùng"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Ông nhà (69 tuổi, hút thuốc lá 30 năm) ho khạc đờm khoảng 5 tuần, chưa chịu đi khám; hai vợ chồng ngủ chung phòng. Bà lo bị lây.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc hộ gia đình với người ho kéo dài"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Không đau, tức ngực khi gắng sức hay leo cầu thang, không khó thở, không ngất. Thỉnh thoảng tối nằm yên tim đập nhanh vài phút rồi tự hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tim mạch"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà hàng xóm cùng tuổi, cũng tiểu đường, mất đột ngột tuần trước vì nhồi máu cơ tim. Bà sợ mình là người kế tiếp nên mới đòi khám và đổi thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo lắng nhất điều gì, hỏi về tim, đau ngực, hồi hộp, hoặc quan tâm đến cảm xúc của bà.",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ nhồi máu cơ tim"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Uống diazepam 5 mg (viên Seduxen) mỗi tối khoảng 3 năm theo toa cũ, thiếu là mất ngủ cả đêm. Không kể vì nghĩ đó là thuốc ngủ chứ không phải thuốc bệnh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì bà chỉ kể bốn thuốc tiểu đường, huyết áp, mỡ máu. Chỉ kể khi bác sĩ hỏi thuốc ngủ, an thần, giấc ngủ hoặc thuốc ngoài toa.",
+     "k": 0,
+     "y": "Thuốc an thần đang dùng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy hơn tuổi, BMI 23,1, môi hơi khô, da niêm hồng, không vàng da, không hạch cổ nách.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran. Nhịp thở 18 l/p.",
+     "k": 1,
+     "hien": "Thở đều 18 l/p, lồng ngực di động đều hai bên.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô, không loét, mạch mu chân rõ; monofilament 10 g cảm nhận đủ các vị trí; không phù.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Không thấy vi phình mạch, xuất tiết hay xuất huyết võng mạc hai mắt.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "12,8 mmol/L",
+     "ab": 1
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "9,6%",
+     "ab": 1,
+     "n": "Mục tiêu cho người cao tuổi khỏe mạnh < 7,0–7,5% (ADA 2026 KC 13.7a, Bảng 13.2; QĐ 5481 Bảng 5: < 7,5%)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 71 µmol/L · eGFR 82 mL/ph/1,73m²",
+     "n": "Quyết định chọn thuốc và liều metformin (ADA 2026 mục 9: chống chỉ định khi eGFR < 30)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Glucose 3+ · Ceton âm tính · Protein âm tính · Bạch cầu, nitrit âm tính",
+     "ab": 1,
+     "n": "Loại trừ nhiễm toan ceton và nhiễm trùng tiết niệu (QĐ 5481 Phần 7 mục 1: nhiễm trùng là yếu tố thúc đẩy biến chứng cấp)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 137 · K 4,2 mmol/L"
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 126 g/L · BC 7,6 G/L · TC 285 G/L",
+     "n": "Bạch cầu bình thường, không hướng tới nhiễm trùng."
+    },
+    "crp": {
+     "v": "a",
+     "r": "4 mg/L (không tăng)"
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 3,9 · LDL-C 1,7 · HDL-C 1,2 · TG 1,9 mmol/L",
+     "n": "Đang dùng atorvastatin 40 mg; LDL-C < 1,8 mmol/L đạt mục tiêu (ADA 2026 KC 10.20)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "18 mg/g (bình thường)"
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 86 l/p, không sóng Q bệnh lý, không thay đổi ST–T.",
+     "n": "Bà hồi hộp lúc nằm và sợ nhồi máu; điện tim bình thường nên không cần thăm dò mạch vành thêm (ADA 2026 KC 10.37a, 10.37b)."
+    },
+    "cxr": {
+     "v": "e",
+     "r": "Hai phổi sáng, không thâm nhiễm, không hang, không tràn dịch màng phổi; bóng tim không to.",
+     "n": "Tiếp xúc hộ gia đình với người ho kéo dài, có ĐTĐ và sụt cân: cần loại trừ lao hoạt động (BYT 2024 Hướng dẫn lao, Phần II mục 1.1 Bảng 1, mục 1.3; Phần IV mục 1.2.2). Không cần CT."
+    },
+    "xpert": {
+     "v": "a",
+     "r": "Bà không ho, không khạc ra đờm nên không lấy được mẫu đạt. Làm khi xuất hiện ho khạc.",
+     "n": "Xét nghiệm đờm dành cho người có triệu chứng hô hấp (BYT 2024 Phần II mục 1.1 Bảng 1: ho > 2 tuần)."
+    },
+    "igra": {
+     "v": "n",
+     "r": "Chưa có ý nghĩa",
+     "n": "Chỉ định cho người tiếp xúc của người bệnh lao phổi đã xác định (BYT 2024 Phần IV mục 1.2.2); ông nhà chưa được chẩn đoán."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "r": "Cơ sở không có máy CT; X-quang ngực đủ trả lời câu hỏi hiện tại.",
+     "thay_the": "cxr"
+    },
+    "trop": {
+     "v": "n",
+     "r": "Troponin T hs < 14 ng/L",
+     "n": "Không đau ngực, điện tim bình thường (ADA 2026 KC 10.37a)."
+    },
+    "ecg_gang_suc": {
+     "v": "n",
+     "r": "Không thực hiện",
+     "n": "Không triệu chứng gắng sức, điện tim bình thường: không tầm soát thường quy (ADA 2026 KC 10.37a)."
+    },
+    "b12": {
+     "v": "a",
+     "r": "Vitamin B12 330 pmol/L (bình thường)",
+     "n": "Dùng metformin 12 năm nên đo B12 định kỳ (ADA 2026 mục 9)."
+    },
+    "gad_cpep": {
+     "v": "n",
+     "r": "Không cần",
+     "n": "12 năm đáp ứng thuốc uống, BMI 23,1, ceton niệu âm: nghiêng típ 2 (QĐ 5481 Bảng 1; ADA 2026 Hình 2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái tháo đường típ 2 kiểm soát kém (HbA1c 9,6%), có triệu chứng tăng đường huyết và sụt cân (dấu hiệu dị hóa), chưa có nhiễm toan ceton",
+     "ok": 1,
+     "n": "HbA1c 9,6%, glucose đói 12,8 mmol/L; khát, tiểu đêm, sụt 3 kg; ceton niệu âm. Mục tiêu < 7,0–7,5% (ADA 2026 KC 13.7a; QĐ 5481 Bảng 5)."
+    },
+    {
+     "t": "Nhiễm trùng làm tăng đường huyết, nhất là lao phổi hoạt động",
+     "n": "Không sốt, ho, mồ hôi đêm; CRP, bạch cầu, nước tiểu bình thường; X-quang ngực sạch. Vẫn phải theo dõi vì tiếp xúc hộ gia đình và sụt cân (BYT 2024 Phần II mục 1.3)."
+    },
+    {
+     "t": "Tuân thủ điều trị kém",
+     "n": "Hộp thuốc chia ngày được con gái kiểm tra, ăn uống không bất thường. Kiểm soát kém do bệnh tiến triển trên phác đồ hiện tại (ADA 2026 mục 9: ĐTĐ típ 2 là bệnh tiến triển, KC 9.15)."
+    },
+    {
+     "t": "ĐTĐ típ 1 / LADA",
+     "n": "12 năm đáp ứng thuốc uống, BMI 23,1, ceton âm: nghiêng típ 2 (QĐ 5481 Bảng 1; ADA 2026 Hình 2.1)."
+    },
+    {
+     "t": "Nhiễm toan ceton do ĐTĐ",
+     "n": "Không đau bụng, buồn nôn, thở sâu; ceton niệu âm (QĐ 5481 Phần 7 mục 2.1)."
+    },
+    {
+     "t": "Bệnh mạch vành, nhồi máu cơ tim (nỗi lo của bà)",
+     "n": "Không đau ngực khi gắng sức, điện tim bình thường; không tầm soát thường quy khi không triệu chứng (ADA 2026 KC 10.37a), có triệu chứng mới thì thăm dò (KC 10.37b)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chụp X-quang ngực loại trừ lao hoạt động; giải thích không cần CT",
+     "v": "c",
+     "n": "Tiếp xúc hộ gia đình + ĐTĐ + sụt cân (BYT 2024 Phần II mục 1.3, Bảng 1). Bà nói đúng ở chỗ phải xem xét lao, chưa đúng ở chỗ đã bị lao. Cơ sở không có CT."
+    },
+    {
+     "t": "Dặn ông nhà đi khám ngay (xét nghiệm đờm, X-quang); dặn bà quay lại sớm nếu ho > 2 tuần, sốt chiều, ra mồ hôi đêm",
+     "v": "c",
+     "n": "BYT 2024 Phần II mục 1.1 Bảng 1: ho > 2 tuần là triệu chứng nghi lao quan trọng nhất; sốt chiều, ra mồ hôi đêm, gầy sút đi kèm."
+    },
+    {
+     "t": "Hỏi bà lo điều gì nhất, giải thích điện tim bình thường, không đau ngực nên chưa cần thăm dò mạch vành; dặn dấu hiệu phải đi cấp cứu",
+     "v": "c",
+     "n": "ADA 2026 KC 10.37a không tầm soát thường quy khi không triệu chứng; KC 10.37b thăm dò nếu có triệu chứng hoặc điện tim bất thường."
+    },
+    {
+     "t": "Thêm insulin nền (glargine) 8 đơn vị buổi tối, tiếp tục metformin",
+     "v": "c",
+     "n": "ADA 2026 KC 9.20 và mục 9 (Combination Therapy): cân nhắc insulin khi có triệu chứng hoặc dị hóa (sụt cân ngoài ý muốn), Hình 9.5: 10 đơn vị hoặc 0,1–0,2 đơn vị/kg. QĐ 5481 Phần 4 mục 4.2f: dị hóa, triệu chứng, HbA1c ≥ 9%; liều nền 0,1–0,2 đơn vị/kg. 8 đơn vị = 0,15 đơn vị/kg. Metformin duy trì: QĐ 5481 mục 4.2d, Bảng 14 (1–2,5 g/ngày)."
+    },
+    {
+     "t": "Thay vì insulin: thêm GLP-1 RA (kèm theo dõi cân nặng)",
+     "v": "a",
+     "n": "ADA 2026 KC 9.21 và QĐ 5481 mục 4.2g ưu tiên GLP-1 RA khi chưa tăng đường huyết nặng; nhưng KC 9.20 và mục 4.2f xếp triệu chứng, sụt cân là chỉ điểm insulin. Thận trọng GLP-1 RA khi sụt cân ngoài ý muốn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đánh giá lại gliclazid MR khi thêm insulin: giảm từ 60 xuống 30 mg buổi sáng",
+     "v": "c",
+     "n": "ADA 2026 KC 9.17 (xem lại sulfonylurea khi thêm thuốc mới), KC 13.13, 13.14a; QĐ 5481 mục 4.2j (thận trọng ở người lớn tuổi); AGS Beers 2023 Bảng 2: tránh sulfonylurea (kể cả gliclazid) trừ khi có rào cản dùng thuốc khác."
+    },
+    {
+     "t": "Giữ gliclazid MR 60 mg hoặc ngưng hẳn",
+     "v": "a",
+     "n": "ADA 2026 KC 9.23: tiếp tục thuốc đang dùng nếu dung nạp; AGS Beers 2023: tránh sulfonylurea. Cả hai đều chấp nhận được nếu dạy phòng hạ đường huyết."
+    },
+    {
+     "t": "Dạy nhận biết và xử trí hạ đường huyết; hướng dẫn người nhà dùng glucagon nếu có",
+     "v": "c",
+     "n": "ADA 2026 KC 6.18, 6.16, 6.15; QĐ 5481 Phần 6 mục 1c, 3c; Phần 9 mục 7a. Glucose uống 15–20 g (QĐ 5481) hoặc 10–15 g (QĐ 5904/2019, xử trí cấp cứu hạ glucose máu), thử lại sau 15 phút. Glucagon có sẵn ở Việt Nam hay không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đo đường huyết đói mỗi sáng và trước ăn tối, ghi sổ; tự tăng 2 đơn vị mỗi 3 ngày đến khi đói 4,4–7,2 (hoặc 5,0–7,2) mmol/L, dừng tăng nếu < 3,9",
+     "v": "c",
+     "n": "ADA 2026 Hình 9.5 (tăng 2 đơn vị mỗi 3 ngày), Bảng 13.2 (đói 80–130 mg/dL); QĐ 5481 Bảng 5 (90–130 mg/dL), Phần 10 mục 2 (đo 2 lần/ngày). Chậm hơn, 1–2 đơn vị mỗi 1–2 lần/tuần, là cách QĐ 5481 Phần 4 mô tả cho phác đồ nền–nhanh và hỗn hợp; không có mô tả riêng cho insulin nền đơn độc."
+    },
+    {
+     "t": "Ghi nhận diazepam 5 mg mỗi tối ở người 67 tuổi: không ngưng đột ngột, hẹn lập kế hoạch giảm dần ở lượt sau",
+     "v": "c",
+     "n": "AGS Beers 2023 Bảng 2: tránh benzodiazepin (té ngã, lú lẫn); Joint CPG 2025 (TL-0575) khuyến cáo 2 và 27: không ngưng đột ngột, nên giảm dần ở người cao tuổi."
+    },
+    {
+     "t": "Ngưng diazepam ngay trong lượt này",
+     "v": "w",
+     "n": "Joint CPG 2025 (TL-0575) Key takeaway 1–3, khuyến cáo 2, Bảng 3: dùng ≥ 3 tháng, ≥ 4 ngày/tuần là có nguy cơ cai; giảm liều đột ngột có thể gây hội chứng cai nặng, nguy hiểm tính mạng."
+    },
+    {
+     "t": "Giữ amlodipin 5 mg và atorvastatin 40 mg",
+     "v": "c",
+     "n": "HA 126/76 đạt < 130/80 (ADA 2026 Bảng 13.2) và < 140/90 (QĐ 5481 Bảng 5); LDL-C 1,7 < 1,8 mmol/L (ADA 2026 KC 10.20)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần chỉnh insulin; đo HbA1c lại sau 3 tháng",
+     "v": "c",
+     "n": "QĐ 5481 Bảng 2, mục 4.2i: HbA1c mỗi 3 tháng khi đổi liệu pháp; ADA 2026 KC 9.14: xem lại mỗi 3–6 tháng. Khoảng 2 tuần để chỉnh insulin là lựa chọn của người viết ca, không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 kiểm soát kém (HbA1c 9,6%, glucose đói 12,8 mmol/L), có triệu chứng tăng đường huyết và sụt cân do dị hóa",
+     "Nguyên nhân: bệnh tiến triển trên liều thuốc hiện tại; tuân thủ tốt, chưa thấy ổ nhiễm trùng",
+     "Tiếp xúc hộ gia đình với người ho kéo dài: lao hoạt động chưa thấy (X-quang ngực bình thường), cần theo dõi",
+     "Tăng huyết áp và rối loạn lipid máu đạt mục tiêu",
+     "Lo sợ nhồi máu cơ tim; không triệu chứng mạch vành, điện tim bình thường",
+     "Dùng diazepam kéo dài ở người cao tuổi, cần kế hoạch giảm dần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi triệu chứng và sụt cân, hỏi thuốc và tuân thủ, hỏi người nhà ho, khám phổi, rồi đường huyết, HbA1c, nước tiểu, X-quang ngực, điện tim.",
+     "HbA1c 9,6% so với mục tiêu < 7,0–7,5% (ADA 2026 KC 13.7a; QĐ 5481 Bảng 5); khát, tiểu đêm, sụt 3 kg cho thấy dị hóa (ADA 2026 mục 9).",
+     "Loại trừ tuân thủ kém bằng bằng chứng: hộp thuốc chia ngày, con gái kiểm tra mỗi tuần. Bệnh tiến triển nên cần tăng cường điều trị, không trì hoãn (ADA 2026 KC 9.15).",
+     "Loại trừ nhiễm trùng: không sốt, ho, mồ hôi đêm; CRP, bạch cầu, nước tiểu, X-quang ngực bình thường. Nhiễm trùng là yếu tố thúc đẩy tăng đường huyết cấp (QĐ 5481 Phần 7 mục 1). Cờ đỏ là sụt cân kèm tiếp xúc hộ gia đình với người ho kéo dài trên nền ĐTĐ (BYT 2024 Phần II mục 1.3); X-quang bình thường và chưa có ho nên chưa nghĩ lao hoạt động, nhưng vẫn dặn tái khám.",
+     "Nỗi sợ nhồi máu chỉ lộ khi hỏi bà lo gì nhất; không đau ngực gắng sức và điện tim bình thường nên không thăm dò thêm (ADA 2026 KC 10.37a, 10.37b)."
+    ],
+    "phan_tich_xu_tri": [
+     "Có triệu chứng và dị hóa, HbA1c 9,6% nên thêm insulin nền: ADA 2026 KC 9.20, Hình 9.5; QĐ 5481 mục 4.2f. GLP-1 RA cũng chấp nhận được (ADA 2026 KC 9.21; QĐ 5481 mục 4.2g).",
+     "Gliclazid tăng nguy cơ hạ đường huyết khi cộng insulin, người cao tuổi nên xem lại liều hoặc ngưng (ADA 2026 KC 9.17, 13.13, 13.14a; AGS Beers 2023).",
+     "Tự theo dõi và tự chỉnh liều insulin cải thiện kiểm soát đường huyết (ADA 2026 mục 9); phải dạy hạ đường huyết trước khi cho insulin (ADA 2026 KC 6.18).",
+     "Lao: X-quang ngực và dặn tái khám; xét nghiệm đờm khi có ho (BYT 2024 Phần II mục 1.1). Ông nhà cần được khám để cắt nguồn lây nếu có.",
+     "Diazepam: giữ nguyên liều, lên kế hoạch giảm dần (AGS Beers 2023; Joint CPG 2025 khuyến cáo 2, 27)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine U100 (bút tiêm)",
+      "ham_luong": "100 đơn vị/mL",
+      "lieu": "8 đơn vị mỗi lần",
+      "duong": "Tiêm dưới da bụng, luân phiên vị trí",
+      "thoi_diem": "Mỗi tối lúc 21 giờ, giờ cố định",
+      "so_ngay": "Dùng lâu dài, chỉnh liều theo đường huyết đói; tái khám sau 2 tuần",
+      "ghi_chu": "ADA 2026 Hình 9.5: khởi đầu 10 đơn vị hoặc 0,1–0,2 đơn vị/kg, tăng 2 đơn vị mỗi 3 ngày đến đói đạt mục tiêu, giảm 10–20% nếu hạ đường huyết không rõ lý do; QĐ 5481 Phần 4: 0,1–0,2 đơn vị/kg, tiêm giờ cố định, kiểm tra vùng tiêm mỗi lần tái khám (mục 4.2k)."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "850 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên; QĐ 5481 Bảng 14: 1–2,5 g/ngày sau ăn; eGFR 82 không phải chỉnh (ADA 2026 mục 9: chống chỉ định eGFR < 30)."
+     },
+     {
+      "thuoc": "Gliclazid MR",
+      "ham_luong": "30 mg",
+      "lieu": "30 mg × 1 lần/ngày (giảm từ 60 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, cùng bữa sáng",
+      "so_ngay": "Dùng đến khi lượt sau đánh giá lại",
+      "ghi_chu": "QĐ 5481 Bảng 14: 30–120 mg dạng phóng thích chậm, uống 1 lần/ngày; giảm khi thêm insulin (ADA 2026 KC 9.17); Beers 2023 khuyên tránh. Giữ 60 mg hoặc ngưng đều chấp nhận."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên, đang dùng; HA 126/76 đạt mục tiêu (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5)."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên, đang dùng; statin cường độ cao, LDL-C 1,7 đạt < 1,8 mmol/L (ADA 2026 KC 10.20)."
+     },
+     {
+      "thuoc": "Diazepam",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày (liều đang dùng, chưa đổi)",
+      "duong": "Uống",
+      "thoi_diem": "Tối",
+      "so_ngay": "Chờ kế hoạch giảm dần ở lượt sau",
+      "ghi_chu": "Không ngưng đột ngột (Joint CPG 2025 khuyến cáo 2); người cao tuổi nên giảm dần (khuyến cáo 27); Beers 2023 Bảng 2: tránh."
+     }
+    ],
+    "dan_do": [
+     "Đo đường huyết đói mỗi sáng và trước bữa tối, ghi sổ, mang sổ và máy đến tái khám (QĐ 5481 Phần 10 mục 2).",
+     "Chỉnh insulin: nếu đói còn trên 7,2 mmol/L (hoặc trên 130 mg/dL) 3 ngày liền thì tăng 2 đơn vị; nếu có số dưới 3,9 mmol/L thì dừng tăng và báo (ADA 2026 Hình 9.5, Bảng 13.2).",
+     "Hạ đường huyết: run, hồi hộp, vã mồ hôi, đói, hoa mắt. Uống ngay nước đường hoặc ăn kẹo (15–20 g glucose theo QĐ 5481, hoặc 10–15 g theo QĐ 5904/2019), đo lại sau 15 phút, ăn nhẹ; không bỏ bữa (QĐ 5481 Phần 6 mục 1c, 3b).",
+     "Điện tim và X-quang ngực của bà bình thường. Đi cấp cứu ngay nếu đau tức ngực khi gắng sức hoặc kéo dài, khó thở, ngất (ADA 2026 KC 10.37b).",
+     "Ông nhà phải đi khám lao; bà quay lại sớm nếu ho trên 2 tuần, sốt chiều, ra mồ hôi đêm hoặc sụt cân tiếp (BYT 2024 Phần II mục 1.1 Bảng 1).",
+     "Không tự ngưng thuốc ngủ đột ngột; lần sau sẽ bàn cách giảm dần (Joint CPG 2025 khuyến cáo 2, 27).",
+     "Tái khám sau 2 tuần; HbA1c đo lại sau 3 tháng (QĐ 5481 Bảng 2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám sau 2 tuần",
+   "tiep_don": "Bà Lê Thị Bích tái khám sau 2 tuần, mang theo máy và sổ ghi đường huyết. Bà đang tiêm insulin glargine buổi tối, uống metformin và gliclazid MR 30 mg. Sinh hiệu: HA 124/72 mmHg, mạch 82 l/p, cân nặng 54,4 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Bích nhập viện vì 'cơn nghi nhồi máu' đã tự hết sau khi uống nước đường, đường huyết lúc đó 3,5 mmol/L (hạ đường huyết mức 1, ADA 2026 Bảng 6.4). Nằm viện làm bà càng tin mình có bệnh tim và sợ tiêm insulin hơn, trong khi việc cần làm là ngưng gliclazid, không bỏ bữa và tiếp tục chỉnh insulin nền (ADA 2026 KC 13.14a, Hình 9.5). Bà dễ ngại tăng liều, đường huyết đói kéo dài trên mục tiêu.",
+    "chuyen_tuyen": "Bà được chuyển tuyến trên làm nghiệm pháp gắng sức hoặc chụp mạch vành dù không đau ngực, điện tim bình thường (ADA 2026 KC 10.37a: không tầm soát thường quy khi không triệu chứng; cơ sở không có CT). Bà tốn ngày và tiền, trong lúc đó gliclazid vẫn được uống nên cơn hạ đường huyết có thể tái phát khi bỏ bữa, và nỗi sợ nhồi máu càng sâu thêm.",
+    "theo_doi": "Bà chỉ được trấn an 'đỡ rồi, cứ uống thuốc như cũ' mà không đổi gliclazid. Sulfonylurea cộng insulin ở người 67 tuổi có nguy cơ hạ đường huyết lặp lại (ADA 2026 KC 6.13, Bảng 6.5; AGS Beers 2023 Bảng 2), mỗi cơn lại làm bà tin mình nhồi máu, dễ tự giảm insulin và để đường huyết đói không đạt mục tiêu."
+   },
+   "loi_mo": "Chào bác sĩ. Khát đỡ nhiều rồi, đêm chỉ dậy tiểu một lần. Nhưng hôm thứ ba tôi lên cơn, tim đập thình thịch, run tay, ướt đẫm mồ hôi, chắc là nhồi máu thật rồi, may mà qua được. Bác sĩ coi tim giùm tôi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "124/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "cai_thien",
+     "noi_dung": "Khát đỡ nhiều, đêm tiểu 1 lần, cân nặng không giảm thêm. Đường huyết đói ở nhà 8,6–10,2 mmol/L (trước đây 12–16).",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng với insulin nền sau 2 tuần"
+    },
+    {
+     "id": "insulin",
+     "noi_dung": "Tiêm glargine 21 giờ mỗi tối ở bụng, đổi chỗ. Tuần đầu 8 đơn vị; sợ hạ đường huyết nên chỉ tăng một lần lên 10 đơn vị rồi giữ nguyên. Chưa có cơn hạ ban đêm. Metformin và gliclazid 30 mg uống đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Liều insulin thực tế, mức tự chỉnh liều"
+    },
+    {
+     "id": "con_cuong",
+     "noi_dung": "Chiều thứ ba lúc 16 giờ, run tay, hồi hộp, vã mồ hôi, hoa mắt khoảng 15 phút. Con gái đo 3,5 mmol/L. Bà uống một ly nước đường, 10–15 phút sau hết; không đau ngực, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn hồi hộp, vã mồ hôi: hạ đường huyết, không phải nhồi máu"
+    },
+    {
+     "id": "bo_bua",
+     "noi_dung": "Hôm đó bà bận nấu cúng nên bỏ bữa trưa, chỉ ăn sáng sớm, vẫn uống gliclazid buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguyên nhân thúc đẩy hạ đường huyết"
+    },
+    {
+     "id": "dau_nguc2",
+     "noi_dung": "Ngoài cơn đó không đau tức ngực, không khó thở khi leo cầu thang; những lần hồi hộp lúc nằm yên buổi tối không còn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Triệu chứng tim mạch khác"
+    },
+    {
+     "id": "chong",
+     "noi_dung": "Ông nhà đã đi khám: xét nghiệm đờm âm tính, X-quang là viêm phế quản mạn do hút thuốc; bác sĩ cho thuốc và dặn bỏ thuốc lá. Bà hết lo bị lao, không ho, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Kết quả khám của người tiếp xúc"
+    },
+    {
+     "id": "thuoc_ngu2",
+     "noi_dung": "Vẫn uống diazepam 5 mg mỗi tối; nhớ bác sĩ dặn không tự bỏ nên chưa dám giảm, muốn biết bao giờ bỏ được.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc ngủ an thần"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da niêm hồng, hết khô môi, không run.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "da": {
+     "a": "Thành bụng hai bên chỗ tiêm: không bầm, không cục chai, không viêm đỏ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 9,1 mmol/L (máy phòng khám); máy của bà đọc 9,4 mmol/L cùng lúc."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 80 l/p, không thay đổi ST–T, giống phim lượt trước.",
+     "n": "Không đau ngực nên không bắt buộc lặp lại (ADA 2026 KC 10.37a)."
+    },
+    "hba1c": {
+     "v": "n",
+     "r": "9,3%",
+     "n": "Đo sau 2 tuần chưa phản ánh hiệu quả; làm lại sau 3 tháng (QĐ 5481 Bảng 2, mục 4.2i)."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Troponin T hs < 14 ng/L",
+     "n": "Cơn đã qua, không đau ngực, glucose lúc đó 3,5 mmol/L, hết sau uống đường (ADA 2026 KC 10.37a)."
+    },
+    "ecg_gang_suc": {
+     "v": "n",
+     "r": "Không thực hiện",
+     "n": "Không triệu chứng gắng sức: không tầm soát thường quy (ADA 2026 KC 10.37a)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 đáp ứng một phần với insulin nền (đói 8,6–10,2 mmol/L, chưa đạt 4,4–7,2), kèm một cơn hạ đường huyết mức 1 do gliclazid và bỏ bữa",
+     "ok": 1,
+     "n": "Đói giảm từ 12–16 xuống 8,6–10,2 sau 2 tuần, mới 10 đơn vị (0,18 đơn vị/kg) nên chưa đủ liều. 3,5 mmol/L là mức 1 (ADA 2026 Bảng 6.4)."
+    },
+    {
+     "t": "Nhồi máu cơ tim hoặc hội chứng vành cấp",
+     "n": "Run, hồi hộp, vã mồ hôi 15 phút, glucose 3,5 mmol/L, hết sau uống đường, không đau ngực, điện tim bình thường: triệu chứng giao cảm của hạ đường huyết (ADA 2026 mục 6; QĐ 5481 Phần 9 mục 7a)."
+    },
+    {
+     "t": "Thất bại điều trị sớm, cần đổi phác đồ",
+     "n": "Mới 2 tuần, liều chưa đủ; HbA1c chỉ đánh giá sau 3 tháng (QĐ 5481 Bảng 2, mục 4.2i)."
+    },
+    {
+     "t": "Hạ đường huyết do insulin nền quá liều",
+     "n": "Xảy ra 16 giờ sau bỏ bữa trưa, cách xa mũi glargine tối; glargine không có đỉnh (QĐ 5481 Phần 6 mục 3d); nguyên nhân rõ là bỏ bữa cộng sulfonylurea."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích cơn run, hồi hộp, vã mồ hôi là hạ đường huyết (3,5 mmol/L), không phải nhồi máu; không thăm dò mạch vành",
+     "v": "c",
+     "n": "ADA 2026 Bảng 6.4 (mức 1: < 3,9 và ≥ 3,0 mmol/L), mục 6 (triệu chứng run, tim nhanh, vã mồ hôi); KC 10.37a. KC 6.10: đối chiếu số đo với triệu chứng ở mỗi lần khám."
+    },
+    {
+     "t": "Ngưng gliclazid MR",
+     "v": "c",
+     "n": "ADA 2026 KC 13.14a, 9.17; AGS Beers 2023 Bảng 2; QĐ 5481 Phần 6 mục 3d: người uống sulfonylurea cần được theo dõi vì kéo dài hạ đường huyết; insulin nền đã đảm nhận phần hạ đường huyết nền. Phần giảm đói nhờ insulin sẽ bù."
+    },
+    {
+     "t": "Giữ gliclazid MR 30 mg, dặn ăn đủ bữa",
+     "v": "a",
+     "n": "ADA 2026 KC 9.23 cho tiếp tục thuốc đang dùng; nhưng cơn hạ đã xảy ra ở liều này (Beers 2023 khuyên tránh)."
+    },
+    {
+     "t": "Không giảm insulin nền vì nguyên nhân đã rõ; tiếp tục tăng 2 đơn vị mỗi 3 ngày đến đói 4,4–7,2 (hoặc 5,0–7,2) mmol/L",
+     "v": "c",
+     "n": "ADA 2026 Hình 9.5: giảm 10–20% chỉ khi hạ đường huyết không rõ lý do; QĐ 5481 Phần 4 (mục insulin): xác định nguyên nhân, không rõ mới giảm; Bảng 13.2 và QĐ 5481 Bảng 5 cho mục tiêu đói."
+    },
+    {
+     "t": "Giảm insulin nền 10–20% sau cơn hạ",
+     "v": "a",
+     "n": "Không có hại, nhưng đường huyết đói đã trên mục tiêu và cơn hạ không do insulin nền."
+    },
+    {
+     "t": "Củng cố xử trí hạ đường huyết: không bỏ bữa, mang sẵn đường; 15–20 g glucose hoặc 10–15 g, thử lại sau 15 phút, ăn nhẹ; hướng dẫn glucagon nếu có",
+     "v": "c",
+     "n": "ADA 2026 KC 6.15, 6.16, 6.18; QĐ 5481 Phần 6 mục 1c, 3b, 3c (15–20 g; 300 mL nước hoa quả ≈ 15 g glucose); QĐ 5904/2019 (xử trí cấp cứu hạ glucose máu): 10–15 g."
+    },
+    {
+     "t": "Khám vùng tiêm, hướng dẫn lại kỹ thuật tiêm và luân phiên vị trí",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 4.2k: kiểm tra vùng da tiêm mỗi lần tái khám."
+    },
+    {
+     "t": "Lập kế hoạch giảm diazepam: bắt đầu 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần",
+     "v": "c",
+     "n": "Joint CPG 2025 (TL-0575) khuyến cáo 6, 27; AGS Beers 2023 Bảng 2. Cách chia viên 5 mg thành liều nhỏ hơn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng diazepam đột ngột",
+     "v": "w",
+     "n": "Joint CPG 2025 khuyến cáo 2: tránh ngưng đột ngột ở người đã phụ thuộc vì có thể gây hội chứng cai nặng."
+    },
+    {
+     "t": "Đo HbA1c lại sau 3 tháng; nếu đói đã đạt mà HbA1c chưa đạt thì thêm GLP-1 RA hoặc insulin bữa ăn",
+     "v": "c",
+     "n": "QĐ 5481 Bảng 2 và Phần 4 (nền rồi thêm nhanh trước ăn), mục 4.2g; ADA 2026 KC 9.22. Hẹn chỉnh insulin sau 2–4 tuần: lựa chọn của người viết ca, không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 đáp ứng một phần với insulin nền sau 2 tuần (đói 8,6–10,2 mmol/L), chưa đủ liều",
+     "Một cơn hạ đường huyết mức 1 (3,5 mmol/L) do gliclazid và bỏ bữa trưa, bà tưởng là nhồi máu",
+     "Không có bằng chứng bệnh mạch vành: không đau ngực, điện tim bình thường",
+     "Người tiếp xúc hộ gia đình đã loại trừ lao (chồng viêm phế quản mạn, bà không triệu chứng)",
+     "Dùng diazepam kéo dài ở người cao tuổi, bắt đầu kế hoạch giảm dần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi cơn lên cơn (giờ, bữa ăn, số đo), hỏi liều insulin thật sự đang tiêm, khám vùng tiêm, đo đường huyết, rồi mới nghĩ tim.",
+     "Đáp ứng một phần là bình thường sau 2 tuần ở liều thấp: đói từ 12–16 xuống 8,6–10,2 mmol/L; thất bại điều trị thật sự phải đánh giá bằng HbA1c sau 3 tháng và khi đã chỉnh đủ liều (QĐ 5481 Bảng 2; ADA 2026 Hình 9.5).",
+     "Cơn run, hồi hộp, vã mồ hôi kèm 3,5 mmol/L và hết sau uống đường là hạ đường huyết mức 1 (ADA 2026 Bảng 6.4). Cơn xảy ra buổi chiều sau bỏ bữa trưa trên nền gliclazid, không phải ban đêm nên không do glargine (QĐ 5481 Phần 6 mục 3d).",
+     "Không đau ngực, điện tim bình thường: không thăm dò mạch vành (ADA 2026 KC 10.37a). Nỗi sợ của bà đã có giải thích cụ thể, cần nói rõ bằng chính số đo của bà.",
+     "Chồng đã được khám, bà không có triệu chứng hô hấp nên không cần làm thêm IGRA hay xét nghiệm đờm (BYT 2024 Phần IV mục 1.2.2: dành cho người tiếp xúc hộ gia đình với người bệnh lao phổi)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng gliclazid: đã có hạ đường huyết, người cao tuổi, insulin nền đã gánh phần hạ đường huyết (ADA 2026 KC 13.14a; Beers 2023). Giữ 30 mg là chấp nhận được.",
+     "Không giảm insulin: nguyên nhân rõ (ADA 2026 Hình 9.5). Tiếp tục chỉnh để đói 4,4–7,2 mmol/L; bà đang tự giữ 10 đơn vị vì sợ nên cần trấn an và đưa quy tắc dừng rõ ràng.",
+     "Giảm diazepam từ từ, đồng thuận với bà (Joint CPG 2025 khuyến cáo 2, 6, 27).",
+     "Khi đói đạt mục tiêu mà HbA1c vẫn trên mục tiêu thì thêm thuốc: GLP-1 RA được ưu tiên (ADA 2026 KC 9.22; QĐ 5481 mục 4.2g), hoặc insulin bữa ăn (QĐ 5481 Phần 4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine U100 (bút tiêm)",
+      "ham_luong": "100 đơn vị/mL",
+      "lieu": "10 đơn vị hiện tại, tăng 2 đơn vị mỗi 3 ngày đến khi đói 4,4–7,2 mmol/L",
+      "duong": "Tiêm dưới da bụng",
+      "thoi_diem": "Mỗi tối 21 giờ",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "ADA 2026 Hình 9.5; QĐ 5481 Phần 4 (nền–nhanh/hỗn hợp: tăng 1–2 đơn vị mỗi 1–2 lần/tuần, chậm hơn, phù hợp người sợ hạ đường huyết). Dừng tăng khi có số < 3,9 mmol/L."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "850 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên, đang dùng (QĐ 5481 Bảng 14)."
+     },
+     {
+      "thuoc": "Gliclazid MR",
+      "ham_luong": "30 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng nữa",
+      "so_ngay": "Ngưng từ hôm nay",
+      "ghi_chu": "Cơn hạ đường huyết ở liều 30 mg (ADA 2026 KC 13.14a; Beers 2023 Bảng 2). Giữ 30 mg cũng chấp nhận được."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên, đang dùng; HA 124/72 (ADA 2026 Bảng 13.2)."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên, đang dùng (ADA 2026 KC 10.20)."
+     },
+     {
+      "thuoc": "Diazepam",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg mỗi tối trong thời gian bàn kế hoạch; sau đó giảm 5–10% mỗi 2–4 tuần",
+      "duong": "Uống",
+      "thoi_diem": "Tối",
+      "so_ngay": "Giảm dần theo kế hoạch đã thỏa thuận",
+      "ghi_chu": "Joint CPG 2025 khuyến cáo 6, 27: không quá 25% mỗi 2 tuần. Cách chia viên 5 mg: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bữa trưa không bỏ; nếu buộc phải bỏ bữa thì bớt hoặc ngưng thuốc sáng theo hướng dẫn và đo đường huyết sớm (ADA 2026 KC 6.18).",
+     "Luôn mang theo đường hoặc kẹo; khi run, hồi hộp, vã mồ hôi thì đo đường huyết, uống 15–20 g glucose (QĐ 5481 Phần 6 mục 1c) hoặc 10–15 g (QĐ 5904/2019), đo lại sau 15 phút, ăn nhẹ.",
+     "Người nhà biết dấu hiệu hạ đường huyết nặng và cách xử trí; hỏi mua glucagon nếu có (ADA 2026 KC 6.16; QĐ 5481 Phần 6 mục 3c).",
+     "Tiếp tục tăng insulin 2 đơn vị mỗi 3 ngày nếu đói còn trên 7,2 mmol/L; dừng khi có số dưới 3,9 và báo phòng khám (ADA 2026 Hình 9.5).",
+     "Đau tức ngực khi gắng sức, khó thở, ngất thì đi cấp cứu ngay; cơn run vã mồ hôi mà đo đường huyết thấp là hạ đường huyết, không phải nhồi máu (ADA 2026 KC 10.37b, Bảng 6.4).",
+     "Không tự ngưng diazepam; giảm theo kế hoạch hẹn từng bước (Joint CPG 2025).",
+     "Tái khám sau 2–4 tuần; HbA1c đo sau 3 tháng (QĐ 5481 Bảng 2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ngưng gliclazid, tăng glargine dần lên 16 đơn vị sau 3 tuần, đường huyết đói 5,5–7,0 mmol/L, không còn hạ đường huyết vì bà không bỏ bữa. HbA1c sau 3 tháng 8,2% (chưa đạt < 7,5%: hồi phục chậm hơn dự kiến), nên thêm GLP-1 RA; sau 6 tháng 7,3%, cân nặng về 56 kg. Ông nhà được điều trị viêm phế quản mạn, bà không có triệu chứng hô hấp. Diazepam giảm còn 2,5 mg sau 3 tháng. Bà hết sợ nhồi máu khi hiểu cơn run vã mồ hôi là hạ đường huyết.",
+ "nhieu": [
+  "Mang chẩn đoán tự tra trên mạng ('tôi bị lao'): không bác bỏ mà đáp ứng bằng X-quang ngực và giải thích; bà đúng ở chỗ phải xem xét lao (BYT 2024 Phần II mục 1.3), sai ở chỗ đã bị lao.",
+  "Cơn hồi hộp vã mồ hôi sau bỏ bữa dễ bị hiểu là nhồi máu: đối chiếu số đo đường huyết với triệu chứng (ADA 2026 KC 6.10)."
+ ],
+ "bai_hoc_bien": [
+  "Lý do thật (sợ nhồi máu như bà hàng xóm) chỉ lộ khi hỏi 'bà lo nhất điều gì' hoặc hỏi về tim; sau đó trấn an bằng điện tim và số đo thật, không trấn an suông.",
+  "ĐTĐ kiểm soát kém: trước khi tăng thuốc phải loại trừ nhiễm trùng và tuân thủ kém bằng bằng chứng (hộp thuốc, người nhà kiểm tra), rồi tăng cường điều trị không trì hoãn (ADA 2026 KC 9.15).",
+  "Sụt cân ngoài ý muốn trên người ĐTĐ có hai nghĩa: dị hóa (cân nhắc insulin, ADA 2026 mục 9) và nghi lao khi có tiếp xúc (BYT 2024 Phần II Bảng 1). Làm cả hai việc.",
+  "Đáp ứng một phần sau 2 tuần ở liều insulin thấp không phải thất bại: chỉnh đủ liều và chờ HbA1c 3 tháng (QĐ 5481 Bảng 2); khi có hạ đường huyết thì tìm nguyên nhân trước khi giảm liều (ADA 2026 Hình 9.5).",
+  "Thuốc ngủ an thần không được kể trừ khi hỏi riêng: hỏi 'có thuốc ngủ, thuốc an thần không'; không ngưng đột ngột, giảm dần (Joint CPG 2025)."
+ ],
+ "diem_nho": [
+  "Mục tiêu người cao tuổi khỏe mạnh: HbA1c < 7,0–7,5%, đói 80–130 mg/dL (4,4–7,2 mmol/L), HA < 130/80 (ADA 2026 Bảng 13.2); QĐ 5481 Bảng 5: HbA1c < 7,5%, đói 90–130 mg/dL, HA < 140/90.",
+  "Cân nhắc insulin khi có triệu chứng tăng đường huyết hoặc dị hóa, HbA1c > 10% hoặc glucose ≥ 16,7 mmol/L (ADA 2026 KC 9.20); QĐ 5481 mục 4.2f: dị hóa, triệu chứng, HbA1c ≥ 9%.",
+  "Insulin nền: 10 đơn vị hoặc 0,1–0,2 đơn vị/kg, tăng 2 đơn vị mỗi 3 ngày (ADA 2026 Hình 9.5); hạ đường huyết không rõ lý do thì giảm 10–20%.",
+  "Hạ đường huyết mức 1: < 3,9 và ≥ 3,0 mmol/L; glucose 15–20 g (QĐ 5481) hoặc 10–15 g (QĐ 5904/2019), thử lại sau 15 phút; kê glucagon cho người dùng insulin (ADA 2026 KC 6.15, 6.16).",
+  "Người tiếp xúc hộ gia đình + ĐTĐ + sụt cân: X-quang ngực; ho > 2 tuần mới làm xét nghiệm đờm (BYT 2024 Phần II mục 1.1, 1.3).",
+  "Benzodiazepin ở người cao tuổi: tránh (Beers 2023); không ngưng đột ngột, giảm 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần (Joint CPG 2025 khuyến cáo 6)."
+ ],
+ "nguon": [
+  "ADA Standards of Care in Diabetes 2026 (TL-0296) – ĐÃ ĐỌC mục 6 (KC 6.10, 6.13, 6.15, 6.16, 6.18, Bảng 6.4, 6.5), mục 9 (KC 9.14, 9.15, 9.17, 9.20–9.23, Hình 9.5, phần Combination Therapy), mục 10 (KC 10.20, 10.37a–b), mục 13 (KC 13.7a, 13.13, 13.14a, Bảng 13.2), Hình 2.1. KC = khuyến cáo.",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 ĐTĐ típ 2 (TL-0031) – ĐÃ ĐỌC Phần 3 (Bảng 2), Phần 4 (Bảng 4, 5; mục 4.2d, f, g, h, i, j, k; Hình 3 và chiến lược insulin), Phần 6 (mục 1c, 3b–d), Phần 7 (mục 1, 2.1), Phần 9 (mục 7a), Phần 10 (mục 2), Phụ lục 01 Bảng 14.",
+  "Bộ Y tế – QĐ 5904/QĐ-BYT/2019 (TL-0284), phần ĐTĐ, xử trí cấp cứu hạ glucose máu (10–15 g glucose).",
+  "Bộ Y tế 2024 – Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh Lao (TL-0123; bản chữ chưa ghi số QĐ) – Phần II mục 1.1 Bảng 1, mục 1.3; Phần IV mục 1.2.2.",
+  "AGS Beers Criteria 2023 (TL-0022) – Bảng 2: benzodiazepin, sulfonylurea.",
+  "Joint Clinical Practice Guideline on Benzodiazepine Tapering 2025 (TL-0575) – Key takeaways 1–5, khuyến cáo 2, 6, 27."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-04: viết mới. Tài liệu đã đọc: TL-0296 (ADA 2026, các mục nêu ở nguon), TL-0031 (QĐ 5481/2020), TL-0284 (QĐ 5904/2019 phần hạ glucose), TL-0123 (BYT 2024 Lao), TL-0022 (Beers 2023), TL-0575 (Joint BZD 2025).",
+  "Biến sổ cái: nhiễu 'tự tra mạng' = chẩn đoán lao do con gái tra (bà đúng một phần: phải xem xét lao); cờ đỏ = sụt cân + tiếp xúc hộ gia đình với người ho kéo dài trên nền ĐTĐ; lý do thật sợ nhồi máu (giấu, lượt 1) tái hiện ở lượt 2 qua cơn hạ đường huyết; thuốc ngủ an thần = diazepam, giấu; khởi phát = chồng ho; không có CT = khoa_cls 'ct', ct_nguc có thay_the cxr; kết cục khỏi chậm = HbA1c 3 tháng 8,2% rồi 7,3% sau 6 tháng.",
+  "Mâu thuẫn: ngưỡng HbA1c dùng insulin (QĐ 5481 ≥ 9% so với ADA 2026 > 10%) không ảnh hưởng ca này vì bà có triệu chứng và dị hóa, cả hai nguồn đều cho insulin; lượng glucose xử trí hạ đường huyết ghi cả 15–20 g (QĐ 5481) và 10–15 g (QĐ 5904) theo mục đã có; mục tiêu HA ghi cả < 130/80 (ADA) và < 140/90 (QĐ 5481) theo mục đã có; mục tiêu đói 80–130 (ADA) và 90–130 mg/dL (QĐ 5481) và tốc độ chỉnh insulin: xem MT-1259_mau_thuan.md.",
+  "Chỗ thiếu tài liệu: glucagon có sẵn ở Việt Nam hay không; cách chia viên diazepam 5 mg thành liều nhỏ; thận trọng GLP-1 RA khi sụt cân ngoài ý muốn; khoảng tái khám 2 tuần (lựa chọn của người viết ca); tỉ lệ lao ở người ĐTĐ tiếp xúc hộ gia đình không có trong tài liệu đã tải.",
+  "Lượt 2 viết như thể lượt 1 xử trí đúng: glargine 8 đơn vị, gliclazid MR giảm 30 mg, giữ metformin, amlodipin, atorvastatin, diazepam; bà tự tăng chậm lên 10 đơn vị vì sợ hạ đường huyết."
+ ]
+}

@@ -1,0 +1,504 @@
+{
+ "ma_ca": "HH-0180",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-04)",
+ "benh": "HH_cam_lanh",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm hô hấp trên cấp do virus (cảm lạnh)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu nhóm A",
+   "Cúm mùa"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau gắng sức nặng",
+  "thuoc_dang_dung": "Thuốc ho thảo dược",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng lo lắng",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Trương Khánh Vy",
+  "tuoi": 13,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 8 trường THCS, thành viên đội điền kinh của trường (chạy 800 m và 1.500 m, tập 4 chiều mỗi tuần), đang chuẩn bị thi Hội khỏe Phù Đổng cấp huyện",
+  "can_nang": 41,
+  "chieu_cao": 152,
+  "xung_ho": "Vy gọi bác sĩ là “bác sĩ”, xưng “con”. Chị Hà (mẹ) gọi bác sĩ là “bác sĩ”, xưng “em”, gọi con là “con” hoặc “bé Vy”. Bác sĩ gọi Vy là “cháu” hoặc “Vy”, gọi mẹ là “chị”.",
+  "tinh_cach": "Học khá, nhút nhát, hay lo xa và nghĩ ngay đến điều xấu nhất; sợ bệnh vì từng thấy ông ngoại phải cấp cứu; thích cầm điện thoại đọc tin ban đêm. Nghe “không sao đâu” mà không được giải thích thì càng lo; được nghe, nhìn và đo từng phần rồi giải thích bằng việc cụ thể thì dần bình tĩnh.",
+  "kieu_nhieu": "Sợ hãi quá mức: mắt rưng rưng, tay run và lạnh ẩm, nói nhanh, thở nhanh nông khi kể, hỏi dồn cùng một câu (“con có sao không”, “cổ con cứng rồi phải không”, “con có chết không”). Tự gán triệu chứng của mình vào bệnh nặng. Bác sĩ chỉ đáp “không sao” thì em hỏi lại nhiều lần; hỏi đúng nỗi sợ, cho em nghe tim, nhìn họng, đo oxy rồi giải thích từng bước thì em dịu dần. Em không phủ nhận hay giấu triệu chứng thật, chỉ không tự kể chuyện đã đọc mạng thâu đêm.",
+  "nguoi_nha": "Mẹ ruột, chị Lương Thị Hà, 41 tuổi, kế toán, xin nghỉ nửa buổi đưa con đi. Lo lắng, bị con lây lo: tối qua con khóc, chị thấy bài “bé gái 12 tuổi tử vong vì viêm màng não, ban đầu chỉ giống cảm” trong điện thoại con, chụp màn hình mang theo, muốn chụp CT đầu và kháng sinh “mạnh” cho chắc. Chị biết: con chạy quá sức hôm thứ Năm, sốt hai ngày đầu, ho, sổ mũi, uống siro ho thảo dược. Chị KHÔNG biết con đã đọc tin bệnh nặng nhiều đêm và tưởng mình cứng cổ. Khi bác sĩ hỏi bệnh sử, thuốc, tiếp xúc, chị thường trả lời trước (nguoi_noi = nguoi_nha), Vy chen vào sửa.",
+  "ten_nguoi_nha": "Chị Hà (mẹ ruột)",
+  "ngoai_hinh": {
+   "da": "#e3b996",
+   "toc": "#1b1410",
+   "kieuToc": "buoc",
+   "ao": "#8fb3d1",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d9a985",
+    "toc": "#2b1e17",
+    "kieuToc": "ngan",
+    "ao": "#6b7f94",
+    "aoKieu": "so_mi",
+    "kinh": true,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Rát họng, ho, sổ mũi 4 ngày, sốt hai ngày đầu; con sợ bị bệnh nặng, mẹ đưa đi khám và muốn chụp chiếu cho chắc",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT; chụp CT phải chuyển lên bệnh viện tuyến trên (xa, mất nửa ngày). Xét nghiệm máu, test nhanh, X-quang, điện tim vẫn làm được tại chỗ. Quyết định dựa vào hỏi bệnh, khám, SpO₂ và thang điểm lâm sàng; chuyển tuyến chỉ khi có lý do."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé Trương Khánh Vy, 13 tuổi, học sinh lớp 8, đến khám lúc 8 giờ sáng thứ Hai cùng mẹ là chị Hà. Mắt đỏ hoe, tay ôm chặt điện thoại của mẹ, nói nhanh. Rát họng, ho khan, sổ mũi 4 ngày, sốt hai ngày đầu; mẹ nói con “sợ bệnh nặng lắm” và nhờ bác sĩ “chụp chiếu cho chắc”. Sinh hiệu: mạch 92 l/p, HA 104/64 mmHg, nhiệt độ 37,4 °C (đo tai), nhịp thở 20 l/p, SpO₂ 99% khí trời, cân nặng 41 kg, chiều cao 152 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bé Vy “theo dõi cho chắc” vì em sợ và mẹ lo là không có chỉ định: em nói trọn câu, nhịp thở 20 l/p, SpO₂ 99%, hết sốt gần một ngày, cổ mềm, tim phổi bình thường; cảm lạnh xử trí ngoại trú bằng điều trị triệu chứng (ACP/CDC 2016, tr. 431; WHO Pocket book 2013 mục 4.4). Em nằm cạnh trẻ ốm nặng hơn, bị lấy máu, nghe tiếng cấp cứu nên càng tin mình bệnh rất nặng, nghỉ học vài ngày, mẹ mất thêm ngày công. Nỗi sợ thật (những bài đọc trên mạng) vẫn chưa ai hỏi, về nhà em lại thức đêm đọc tiếp.",
+    "chuyen_tuyen": "Chuyển bé Vy lên tuyến trên chụp CT đầu và phổi “cho chắc” là quá tay: không đau đầu dữ dội, không nôn, không li bì, cổ mềm, Kernig và Brudzinski âm tính, tim phổi bình thường, không dấu hiệu biến chứng cần hình ảnh (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 5.2.2; WHO AWaRe 2022 tr. 49). Cả nhà mất nguyên một ngày đi đường xa và chi phí, em chịu tia X và chờ trong khu cấp cứu đông người; kết quả bình thường nhưng em kết luận “phải chụp CT tức là bệnh nặng”. Nỗi sợ không hết, tối đó em vẫn mất ngủ."
+   },
+   "loi_mo": "Bác sĩ ơi, con bị nặng lắm phải không bác sĩ? Họng con rát, con ho, mà sáng nay cổ con cứng cứng, đầu con cũng nhức... Con sợ lắm. Con có sao không? Có phải con bị gì nguy hiểm không bác sĩ? Mẹ ơi con sợ... Bác sĩ chụp cho con đi, con muốn biết chắc.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "104/64",
+    "nhiet": "37,4",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Rát họng, ho khan, sổ mũi 4 ngày, sốt hai ngày đầu. Em rất sợ mình bị bệnh nặng; mẹ đưa đi khám và muốn “chụp chiếu cho chắc”.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và nỗi sợ nói ngoài miệng"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày 0 (thứ Năm): tập chạy dài rồi thi thử 1.500 m, uống nước đá, dầm mưa; tối mệt rã, họng hơi rát. Ngày 1 (thứ Sáu): sốt 38,4 °C (nhiệt kế điện tử), nhức đầu vùng trán, mỏi cơ đùi, bắp chân, vai, họng rát nhiều, nghỉ học. Ngày 2 (thứ Bảy): sáng sớm 38,0 °C rồi hết sốt; hắt hơi, chảy mũi nước trong, bắt đầu ho khan; mẹ mua siro ho thảo dược. Ngày 3 (Chủ nhật): không sốt (chiều 37,2 °C), họng đỡ, nghẹt mũi, ho khan nhiều hơn, giọng hơi khàn. Hôm nay (ngày 4): họng gần hết đau, ho khan lác đác, nghẹt mũi, nước mũi vàng nhạt, chưa sốt lại.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói đúng thứ tự khi bác sĩ hỏi từng ngày, ngày nào sốt, triệu chứng nào đến trước. Hỏi chung chỉ nói “con bị ho, sổ mũi, sốt”.",
+     "k": 1,
+     "y": "Trục thời gian: sốt sớm 2 ngày rồi hết, triệu chứng mũi và ho đến sau, không đỡ rồi xấu lại"
+    },
+    {
+     "id": "sot_dau_co",
+     "noi_dung": "Sốt cao nhất 38,4 °C ngày 1, 38,0 °C sáng ngày 2, từ chiều ngày 2 không sốt lại. Không rét run. Nhức đầu vùng trán nhẹ, không dữ dội; mỏi cơ khắp người, nhiều nhất ở đùi và bắp chân (vừa chạy nhiều vừa sốt). Không nôn, không tiêu chảy, không phát ban. Ăn ít hai ngày đầu, nay ăn cơm gần bình thường, uống và tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi sốt mấy độ, mấy ngày, có rét run, đau đầu, đau cơ, nôn, phát ban không, và ăn uống, tiểu tiện thế nào.",
+     "k": 1,
+     "y": "Sốt và đau cơ sớm làm giống cúm hoặc liên cầu (nét không điển hình); không có cờ đỏ toàn thân"
+    },
+    {
+     "id": "ho_mui_hong",
+     "noi_dung": "Ho khan ít, ngứa cổ, không đờm, không khò khè, không khó thở khi leo cầu thang, không đau ngực. Nghẹt mũi hai bên, hắt hơi, nước mũi từ trong sang vàng nhạt. Họng đau khi nuốt nhẹ, nay gần hết. Không đau mặt, đau răng hàm trên, đau tai, không chảy máu cam, mắt không đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Có ho, sổ mũi, khàn tiếng: đặc điểm virus; chưa gợi viêm xoang vi khuẩn"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không đau đầu dữ dội, không nôn vọt, không sợ ánh sáng, không li bì, không ngất, không khó thở, không đau ngực, không hồi hộp lúc nghỉ (chỉ tim đập nhanh khi hoảng sợ). Không đau họng lệch một bên, không khó há miệng, không chảy dãi, không sưng đau ở cổ. Mắt không sưng, không nhìn đôi.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi từng dấu hiệu nặng (đau đầu dữ dội, nôn, sợ ánh sáng, li bì, khó thở, đau ngực, ngất, khó nuốt, chảy dãi, sưng cổ, đau mắt).",
+     "k": 1,
+     "y": "Hỏi đóng cờ đỏ (màng não, phổi, tim, họng sâu, hốc mắt)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Trong lớp nhiều bạn ho, sổ mũi; hai bạn nghỉ tuần trước vì “cúm” (không biết có xét nghiệm hay không). Em dùng chung chai nước với bạn cùng đội. Ở nhà ba đi công tác xa; em trai 7 tuổi khỏe.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi ở lớp, ở nhà có ai ho, sốt, sổ mũi; hỏi chung quanh em, người sống chung.",
+     "k": 1,
+     "y": "Nguồn lây hợp lý của cảm lạnh; chưa có xác nhận cúm"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Thứ Năm tập chạy dài rồi thi thử 1.500 m chọn đội đi thi Phù Đổng, em cố về nhất, mệt nhoài, uống nửa chai nước đá rồi dầm mưa 20 phút. Em và mẹ đều nghĩ “chạy quá sức nên bị bệnh nặng”. Từ đó em nghỉ học, nghỉ tập; muốn khỏi nhanh để khỏi mất suất vào đội, nhưng cũng sợ chạy lại sẽ “đột tử”.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi chuyện xảy ra trước khi bệnh, tập luyện, thi đấu, mưa nắng, việc học.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mốc thời gian dễ bị coi là nguyên nhân (nhiễu); nghề học sinh, vận động viên trường"
+    },
+    {
+     "id": "mang_so",
+     "noi_dung": "Từ ngày 2, mỗi đêm Vy lén đọc trên điện thoại: bài “bé gái 12 tuổi tử vong vì viêm màng não, ban đầu chỉ giống cảm”, bài “cúm A biến chứng viêm phổi trắng ở học sinh”, bài “học sinh đột tử khi chạy lúc đang ốm”. Đêm Chủ nhật đọc đến 2 giờ sáng, nằm gối cao nghiêng đầu cầm điện thoại, sáng dậy cổ gáy ê mỏi nên tưởng cứng cổ, tim đập nhanh, khóc. Em không dám kể vì sợ mẹ lo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi em sợ gì nhất, đã đọc hay xem gì, đêm qua ngủ thế nào, vì sao hôm nay đến khám, hoặc hỏi nhẹ nhàng về điện thoại. Hỏi “có sao không” hay giải thích chung thì em hỏi dồn lại và không kể.",
+     "k": 1,
+     "y": "Lý do thật: đọc thông tin trên mạng rồi lo lắng quá mức"
+    },
+    {
+     "id": "me_noi",
+     "noi_dung": "(Chị Hà nói) “Em xem trên mạng, bé 12 tuổi cũng bắt đầu như con em rồi mất. Bác sĩ chụp CT đầu cho con, chụp phổi, cho kháng sinh liều mạnh, em mới yên tâm.” Chị đưa ảnh chụp màn hình. Chị chấp nhận nghe giải thích nếu được cho biết cụ thể con không có dấu hiệu nào của bệnh đó.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi chị lo gì, chị muốn làm gì cho con, hoặc khi hỏi người nhà đi cùng.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yêu cầu chụp CT, kháng sinh “cho chắc” của người nhà (nhiễu)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chỉ uống siro ho thảo dược từ ngày 2: chai 90 ml mẹ mua ở nhà thuốc đầu ngõ, nhãn dùng cho trẻ trên 6 tuổi, 5 ml × 3 lần/ngày, thành phần ghi chiết xuất lá thường xuân, húng chanh, mật ong, bạc hà; nhãn không ghi codein, cồn, paracetamol, kháng histamin. Đã uống khoảng 7 lần. Không uống thuốc hạ sốt, thuốc cảm, kháng sinh. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi đã uống thuốc gì, có thuốc hạ sốt, thuốc cảm, kháng sinh không, dị ứng thuốc; chị Hà đưa chai thuốc khi được xin xem nhãn.",
+     "k": 1,
+     "y": "Thuốc đang dùng và dị ứng thuốc (trước khi kê đơn)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không hen, không chàm, không dị ứng, không bệnh tim, chưa từng ngất khi chạy, chưa nằm viện. Tiêm đủ chương trình tiêm chủng, chưa tiêm cúm. Không ai trong gia đình đột tử sớm hay bệnh tim (mẹ xác nhận).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, tiền sử tim, hen, tiêm chủng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lo âu rõ: mắt đỏ hoe, nói nhanh, tay hơi run, lạnh ẩm. Nói trọn câu, không hổn hển, không dùng cơ hô hấp phụ; thở nhanh nông khi kể về nỗi sợ, đều lại khi được trấn an. Giọng hơi khàn. Da niêm hồng, môi không tím, chi ấm. BMI 17,7 kg/m².",
+     "k": 1,
+     "hien": "Tỉnh, lo âu rõ, mắt đỏ hoe, nói nhanh, tay hơi run và lạnh ẩm. Nói trọn câu, không hổn hển, giọng hơi khàn. Da niêm hồng, môi không tím."
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm: cúi cằm chạm ngực, ngửa và xoay hai bên hết tầm, không đau. Cơ thang hai bên căng, ấn đau nhẹ (đau cơ). Kernig và Brudzinski âm tính. Hạch cổ trước hai bên mỗi bên 1 hạch 0,5 cm, mềm, di động, ấn không đau; không hạch thượng đòn. Không sợ ánh sáng. Kết mạc không đỏ, mi không phù, nhãn cầu không lồi, vận nhãn đủ, không nhìn đôi.",
+     "k": 1,
+     "hien": "Cổ mềm, cúi chạm ngực được, xoay hai bên đủ tầm. Cơ thang hai bên căng nhẹ khi ấn. Hạch cổ trước hai bên nhỏ khoảng 0,5 cm, mềm, ấn không đau. Kết mạc không đỏ, mi không phù, vận nhãn đủ."
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng hết cỡ. Lưỡi gà ở giữa. Hai amidan độ I, niêm mạc đỏ nhẹ, không sưng to, không xuất tiết, không chấm mủ. Thành sau họng đỏ nhẹ, vài hạt lympho, dịch nhầy chảy từ vòm xuống. Khẩu cái không chấm xuất huyết, không loét miệng. Mũi: niêm mạc sung huyết, cuốn dưới phù nề, dịch nhầy vàng nhạt hai bên, không mủ thành dòng từ khe giữa. Ấn gõ điểm xoang trán, xoang hàm không đau. Màng nhĩ hai bên bóng, nón sáng rõ.",
+     "k": 1,
+     "hien": "Há miệng được hết cỡ. Họng đỏ nhẹ, thành sau có dịch nhầy. Hai amidan nằm gọn trong trụ, không thấy mủ hay mảng trắng. Lưỡi gà ở giữa. Mũi sung huyết, dịch nhầy vàng nhạt hai bên. Ấn điểm xoang không đau. Màng nhĩ hai bên bình thường."
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, đều. Lồng ngực cân đối, di động đều, không co kéo. Rung thanh đều, gõ trong. Rì rào phế nang êm dịu hai bên, không ran nổ, ẩm, rít, ngáy; không khò khè khi thở ra gắng sức.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, đều. Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu hai bên, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 92 l/p, T1 T2 rõ, không âm thổi, không T3, không tiếng cọ. Mạch quay đều, rõ hai bên. Không phù chi dưới, gan không to.",
+     "k": 1,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, trả lời đúng, không li bì. Sức cơ 5/5 bốn chi, phản xạ gân xương đều, dây sọ không dấu khu trú, đi lại vững. Không dấu màng não.",
+     "k": 1,
+     "hien": "Tỉnh, trả lời đúng, định hướng đủ. Sức cơ đều bốn chi, đi lại vững."
+    },
+    "di_bo_spo2": {
+     "a": "Đi lên xuống hai tầng cầu thang (khoảng 3 phút): mạch lên 108 l/p, nhịp thở 24 l/p, SpO₂ 99%, nói được trọn câu, không khó thở, không đau ngực. Nghỉ 2 phút mạch về 90 l/p.",
+     "k": 0,
+     "hien": "Sau đi lên xuống hai tầng cầu thang: mạch 108 l/p, nhịp thở 24 l/p, SpO₂ 99%, nói trọn câu, không đau ngực. Nghỉ 2 phút mạch về 90 l/p."
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết dưới da, không mề đay. Da khô bình thường, môi không khô nứt.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,2 G/L · Neutrophil 53,5% · Lymphocyte 35% · Hb 128 g/L · TC 268 G/L",
+     "bang": {
+      "wbc": 6.2,
+      "neu_pct": 53.5,
+      "neu": 3.32,
+      "lym_pct": 35.0,
+      "lym": 2.17,
+      "mono_pct": 8.0,
+      "mono": 0.5,
+      "eos_pct": 3.0,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.6,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 84.8,
+      "mch": 27.8,
+      "mchc": 328,
+      "rdw": 12.9,
+      "plt": 268
+     },
+     "n": "Chấp nhận, không cần: viêm mũi họng cấp thường không cần cận lâm sàng (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.2); xét nghiệm máu thường không cần (WHO AWaRe 2022 tr. 49). Bình thường, không đổi xử trí. Ngưỡng theo tuổi 13: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 5 mg/L",
+     "bang": {
+      "crp": 5
+     },
+     "n": "Chấp nhận, không cần. Ngưỡng CRP cho trẻ 13 tuổi: không có trong tài liệu đã tải; ngưỡng < 20 mg/L của NICE NG237 2024 (khuyến cáo 1.3.4) viết cho người từ 16 tuổi nghi nhiễm khuẩn hô hấp dưới, chỉ để tham chiếu."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Cúm A/B âm tính · SARS-CoV-2 âm tính",
+     "n": "Chấp nhận, không cần: sốt chỉ hai ngày đầu, chưa có ca cúm xác nhận quanh em (QĐ 1840/2025 mục II.1.1, II.2.4.1); âm tính không loại trừ hẳn (mục II.2.1, II.2.4.3). Cúm hay cảm lạnh, em khỏe nên xử trí tại nhà như nhau (mục II.2.3, III.2.2)."
+    },
+    "test_lien_cau": {
+     "v": "a",
+     "r": "Âm tính",
+     "n": "Chấp nhận, không cần: có ho, sổ mũi, khàn tiếng nên thường không test (IDSA 2012 khuyến cáo 4). Làm cũng hợp lý vì tuổi 13 và McIsaac 2 điểm (IDSA 2012 Bảng 4; IDSA 2025 Bảng 3). Nếu test nhanh âm ở trẻ, IDSA 2012 khuyến cáo 1 nói cấy họng xác nhận; ca này đặc điểm virus rõ nên không cấy."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không chụp. Nếu chụp: phổi trong, không thâm nhiễm.",
+     "n": "Không cần: không khó thở, không đau ngực, phổi sạch, SpO₂ 99%, không sốt. Tiêu chí nghi viêm phổi (ACP/CDC 2016 tr. 426) viết cho người lớn, Vy không có tiêu chí nào; ngưỡng cho trẻ 13 tuổi: không có trong tài liệu đã tải. X-quang chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840/2025 mục II.2.2; WHO AWaRe 2022 tr. 49)."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Không làm. Nếu làm: nhịp xoang 90 l/p, không bất thường.",
+     "n": "Không cần: không đau ngực, không hồi hộp lúc nghỉ, không ngất, tim đều, không thổi. Chỉ định điện tim hay troponin ở trẻ cảm lạnh: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm hô hấp trên cấp do virus (cảm lạnh), ngày bệnh thứ 4, thể nhẹ, chưa biến chứng, tự giới hạn",
+     "ok": 1,
+     "n": "Sốt 38,4 °C hai ngày đầu, nhức đầu, mỏi cơ, rát họng; hắt hơi, chảy mũi, nghẹt mũi, ho khan, khàn nhẹ đến sau; nay hết sốt, họng đỏ nhẹ không xuất tiết, hạch nhỏ mềm không đau, phổi sạch, SpO₂ 99%. Cảm lạnh có thể gồm hắt hơi, chảy mũi, đau họng, ho, sốt nhẹ, nhức đầu, mệt (ACP/CDC 2016 Bảng tr. 427, tr. 431); nhiễm virus hô hấp có ho, nhức đầu, đau cơ (WHO AWaRe 2022 tr. 49); viêm mũi họng do virus có thể sốt 38–39 °C, nhức đầu, đau mình mẩy, nước mũi lúc đầu trong sau đục (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.1). Nét không điển hình: sốt và đau cơ sớm làm giống cúm hoặc liên cầu, lẫn với đau cơ sau chạy sức (cơ chế đau cơ sau gắng sức: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Centor 1 điểm (sốt > 38 °C; có ho, hạch cổ trước không đau, amidan không xuất tiết; WHO AWaRe 2022 tr. 50); McIsaac 2 điểm (thêm 1 điểm tuổi 3–14), nhóm trung gian 20,8–33,6% (IDSA 2025 Bảng 3). Có ho, sổ mũi, khàn tiếng là đặc điểm virus rõ nên thường không test (IDSA 2012 khuyến cáo 4). Liên cầu hay gặp ở trẻ 5–15 tuổi (IDSA 2012 Bảng 4), nên test nhanh cũng chấp nhận được. Điểm số chỉ giúp nhận ra nguy cơ thấp (IDSA 2025, nhận xét 1)."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Sốt, nhức đầu, mỏi cơ nên giống cúm (QĐ 1840/2025 mục II.1.1). Khác: sốt chỉ hai ngày rồi hết, không rét run, triệu chứng mũi họng và ho nổi bật; bạn nghỉ vì “cúm” chưa được xác nhận (mục II.2.4.1); test nhanh âm không loại trừ hẳn (mục II.2.1, II.2.4.3). Cúm nhẹ chỉ dùng kháng virus khi có yếu tố nguy cơ (mục III.2.2); Vy khỏe, không thuộc nhóm nguy cơ (mục II.2.3), nên cúm hay cảm lạnh đều xử trí tại nhà như nhau."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Nỗi sợ chính của Vy. Không đau đầu dữ dội, không nôn vọt, không sợ ánh sáng, không li bì; cổ mềm, cúi chạm ngực, Kernig và Brudzinski âm tính; ê cơ thang do nằm gối cao xem điện thoại, không phải cứng gáy. Dấu màng não gồm Kernig và Brudzinski (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 5.2.2). Phác đồ viêm màng não nằm ngoài phạm vi ca."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Không khó thở, nhịp thở 20 l/p, SpO₂ 99% kể cả sau đi cầu thang, phổi rì rào êm, không sốt khi khám. Vy không có tiêu chí nào trong bộ tiêu chí nghi viêm phổi ở người lớn (ACP/CDC 2016 tr. 426); ngưỡng cho trẻ 13 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm cơ tim",
+     "n": "Nỗi sợ thứ hai (“đột tử khi chạy lúc đang ốm”). Không đau ngực, không hồi hộp lúc nghỉ, không ngất, tim đều, không thổi, không T3, không tiền sử gia đình đột tử. Tiêu chuẩn chẩn đoán, chỉ định điện tim hoặc troponin ở trẻ cảm lạnh, hướng dẫn quay lại thể thao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm mũi xoang cấp do vi khuẩn",
+     "n": "Mới ngày 4, nước mũi vàng nhạt chưa phải bằng chứng. Nghĩ tới khi triệu chứng xấu đi sau 5–7 ngày hoặc kéo dài hơn 10 ngày (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.1, 3.2.1); hoặc sốt > 39 °C kèm dịch mủ hoặc đau mặt ≥ 3 ngày liên tiếp, hoặc xấu lại sau đợt đỡ (ACP/CDC 2016 Advice 3). Chưa có tiêu chí nào."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng nỗi sợ của Vy (em sợ gì nhất, đã đọc hay xem gì, đêm qua ngủ ra sao, vì sao hôm nay đến khám) và hỏi chị Hà lo gì, muốn làm gì; ghi nhận nỗi sợ trước khi giải thích",
+     "v": "c",
+     "n": "Lý do thật nằm sau câu “con có sao không”: tin đọc trên mạng. Đáp “không sao đâu” không gỡ được. Kỹ năng giao tiếp; người bệnh hài lòng nhờ được giải thích đủ thời gian hơn là nhờ toa thuốc (ACP/CDC 2016 tr. 431)."
+    },
+    {
+     "t": "Dựng lại bệnh sử theo từng ngày (sốt ngày 1–2 rồi hết, triệu chứng mũi và ho đến sau) và hỏi đóng cờ đỏ: đau đầu dữ dội, nôn vọt, sợ ánh sáng, li bì, khó thở, đau ngực, hồi hộp lúc nghỉ, ngất, khó nuốt, chảy dãi, sưng cổ, đau hay sưng mắt",
+     "v": "c",
+     "n": "Tìm bệnh hiếm nhưng nặng ở người đau họng (ACP/CDC 2016 tr. 428); biến chứng viêm mũi họng, viêm xoang (QĐ 5643/2015, Viêm mũi họng cấp tính mục 5.2; Viêm mũi xoang cấp tính mục 5.2.1, 5.2.2); biểu hiện nặng do virus (QĐ 1840/2025 mục II.1.2)."
+    },
+    {
+     "t": "Khám có hệ thống và nói cho Vy nghe từng kết quả: cổ mềm, Kernig và Brudzinski, họng, mũi, mắt, phổi, tim, thần kinh; đo SpO₂ sau gắng sức nhẹ (lên xuống cầu thang)",
+     "v": "c",
+     "n": "Dấu màng não: QĐ 5643/2015, Viêm mũi xoang cấp tính mục 5.2.2; tiêu chí nghi viêm phổi: ACP/CDC 2016 tr. 426 (người lớn). Ngưỡng SpO₂ sau gắng sức: không có trong tài liệu đã tải; làm để Vy tự thấy con số."
+    },
+    {
+     "t": "Chấm điểm Centor (1) và McIsaac (2); thấy có ho, sổ mũi, khàn tiếng thì không nghĩ liên cầu",
+     "v": "c",
+     "n": "Centor 0–2 điểm chỉ điều trị triệu chứng (WHO AWaRe 2022 tr. 50); McIsaac thêm tuổi 3–14 cộng 1, điểm số giúp nhận ra nguy cơ thấp, không thay phán đoán (IDSA 2025 Bảng 3, nhận xét 1). Có ho, sổ mũi, khàn tiếng thì thường không test (IDSA 2012 khuyến cáo 4)."
+    },
+    {
+     "t": "Gỡ nỗi sợ bằng chính kết quả của em: cổ mềm cúi chạm ngực (ê cơ do tư thế), phổi sạch, SpO₂ 99%, tim đều, hết sốt; nói rõ điều đã loại trừ, vì sao tin, khi nào cần quay lại; để Vy tự xem số oxy, tự cúi cổ",
+     "v": "c",
+     "n": "Trấn an có cấu trúc, không cần nguồn. Tiêu chuẩn viêm cơ tim và hướng dẫn thể thao sau nhiễm virus: không có trong tài liệu đã tải, nên chỉ khẳng định điều đo được hôm nay."
+    },
+    {
+     "t": "Không chụp CT, X-quang, xét nghiệm “cho chắc”, không chuyển tuyến để chụp CT; giải thích với mẹ rằng dù phòng khám có CT thì em cũng không có chỉ định",
+     "v": "c",
+     "n": "Hình ảnh không phân biệt được virus hay vi khuẩn, tăng chi phí ít nhất 4 lần (ACP/CDC 2016 tr. 430); hình ảnh xoang không rõ trừ khi có biến chứng (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.2, tr. 109); CT khi nghi biến chứng (mục 5.2.2; IDSA ABRS 2012 khuyến cáo 24); WHO AWaRe 2022 tr. 49. “Không có CT” không phải lý do chính."
+    },
+    {
+     "t": "Kết luận cảm lạnh nhẹ, điều trị ngoại trú tại nhà; giải thích thời gian bệnh: họng hết trong vài ngày, sổ mũi và ho có thể đến khoảng 2 tuần, ho đến vài tuần",
+     "v": "c",
+     "n": "Hai mốc: virus tự khỏi sau 3–5 ngày (QĐ 5643/2015, Viêm mũi họng cấp tính mục 5.1); cảm lạnh đến 14 ngày, ho đến 6 tuần (ACP/CDC 2016 Bảng tr. 427, tr. 429, 431; WHO Pocket book 2013 mục 4.4). Khác nhau vì QĐ 5643 nói triệu chứng cấp, các nguồn kia nói cả đợt (sổ HH-0136). Điều trị ngoại trú: WHO Pocket book mục 4.4 (trẻ nhỏ)."
+    },
+    {
+     "t": "Không kê kháng sinh, giải thích vì sao (cảm lạnh, Centor thấp, nước mũi vàng nhạt không phải bằng chứng nhiễm khuẩn) HOẶC kê kháng sinh theo QĐ 5643/2015 (penicillin V hoặc amoxicillin 10 ngày)",
+     "v": "c",
+     "n": "Cách 1, không kháng sinh: ACP/CDC 2016 Advice 4 (tr. 431; Bảng tr. 427 “never indicated”); WHO Pocket book 2013 mục 4.4; WHO AWaRe 2022 tr. 50; IDSA 2012 khuyến cáo 4; WHO 2024 về cúm (BMJ 2026;392:e087397 tr. 4). Cách 2, kháng sinh: QĐ 5643/2015, Viêm mũi họng cấp tính mục 4.1 (mọi viêm mũi họng đỏ cấp điều trị như do liên cầu khi chưa phân loại), mục 4.3.1 (penicillin V hoặc amoxicillin 10 ngày; liều trẻ em ghi “50–100 UI/kg” nguyên văn, liều amoxicillin trẻ em không nêu; AWaRe 2022 tr. 50: ≥ 20 kg amoxicillin 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ). Khác nhau vì QĐ 5643 (2015) điều trị kinh nghiệm khi chưa phân biệt, các nguồn 2012–2025 coi ho, sổ mũi, khàn tiếng là đủ để không kháng sinh. Cả hai cách đều đúng."
+    },
+    {
+     "t": "Hạ sốt, giảm đau khi cần (đau họng, nhức đầu, sốt): paracetamol 500 mg mỗi lần, cách nhau 4–6 giờ; tối đa 4 viên (2 g)/24 giờ",
+     "v": "c",
+     "n": "Ba mốc cho trẻ ≥ 30 kg: tối đa 4 g/ngày (WHO AWaRe 2022 tr. 50); 15 mg/kg/lần, không quá 60 mg/kg/24 giờ ≈ 2,4 g (QĐ 3312/2015, Co giật do sốt mục 4.1; QĐ 708/2015 mục 4.2); người dân không quá 3 g/ngày (QĐ 3610/2015 mục 6). Mốc thận trọng nhất 60 mg/kg nên tối đa 4 viên 500 mg (sổ mâu thuẫn HH-0484). Ngưỡng nhiệt độ để hạ sốt ở thiếu niên: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi thuốc đang dùng và xem nhãn siro thảo dược (codein, atropin, cồn, paracetamol, kháng histamin); không kê thêm thuốc ho chứa codein, atropin, cồn hay thuốc tiêu nhầy, thuốc nhỏ mũi có hoạt chất",
+     "v": "c",
+     "n": "WHO Pocket book 2013 mục 4.4: không cho thuốc chứa atropin, codein, cồn (có thể có hại), thuốc tiêu nhầy, thuốc nhỏ mũi có hoạt chất; viết cho trẻ nhỏ, ACP/CDC 2016 tr. 428 lại liệt kê codein, dextromethorphan cho người lớn, nên không nguồn nào cấm riêng cho tuổi 13. Siro đang dùng không chứa các chất đó."
+    },
+    {
+     "t": "Nước muối sinh lý 0,9% nhỏ hoặc rửa mũi khi nghẹt; uống nước ấm ngọt nhiều lần, ngủ đủ, nghỉ ngơi",
+     "v": "c",
+     "n": "WHO Pocket book 2013 mục 4.4 (thức uống ngọt ấm); rửa mũi nước muối nêu ở viêm xoang (ACP/CDC 2016 tr. 431; QĐ 5643/2015, Viêm mũi xoang cấp tính mục 4.2.1, tr. 112). Số lần, lượng nước: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn kỹ dấu hiệu quay lại bằng lời Vy hiểu được, viết ra giấy (đau đầu dữ dội, nôn vọt, cứng cổ; sốt trở lại sau khi đã đỡ, sưng đỏ hay đau mi mắt; khó thở, đau ngực; đau họng một bên, khó há miệng, chảy dãi; nước mũi quá 10 ngày); hẹn xem lại ngày bệnh thứ 10 hoặc sớm hơn nếu xấu đi; ho trên 14 ngày thì tìm nguyên nhân khác",
+     "v": "c",
+     "n": "Màng não: QĐ 5643/2015, Viêm mũi xoang cấp tính mục 5.2.2. Hốc mắt: mục 5.2.1; EPOS 2020 Bảng 4.5.1. Sốt trở lại sau khi đã đỡ, > 10 ngày: ACP/CDC 2016 Advice 3; quay lại nếu xấu đi hoặc quá thời gian dự kiến: tr. 431. Họng sâu: tr. 428. Thở nhanh, không uống được: WHO Pocket book 2013 mục 4.4; ho ≥ 14 ngày: cùng mục. Ngày hẹn cụ thể: không có trong tài liệu đã tải, mốc 10 ngày là đề xuất theo Advice 3."
+    },
+    {
+     "t": "Dặn Vy nghỉ tập nặng cho đến khi hết sốt, hết mỏi cơ và khỏe hẳn, sau đó tập lại từ từ; đi học lại khi hết sốt và ăn uống bình thường",
+     "v": "a",
+     "n": "Tài liệu đã tải không có khuyến cáo về nghỉ tập, quay lại thể thao hay đi học sau cảm lạnh; đây là lời dặn thực hành thận trọng, chấm a và ghi rõ không có nguồn."
+    },
+    {
+     "t": "Làm công thức máu, CRP, test nhanh cúm và liên cầu, X-quang ngực hoặc xoang, điện tim để Vy và mẹ yên tâm",
+     "v": "a",
+     "n": "Không có chỉ định, không đổi xử trí (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.2; ACP/CDC 2016 tr. 426, 430; WHO AWaRe 2022 tr. 49; QĐ 1840/2025 mục II.2.2). Không nguồn nào nói gây hại nên chấm a; test liên cầu hợp lý ở tuổi 13 (IDSA 2012 Bảng 4; IDSA 2025 Bảng 3)."
+    },
+    {
+     "t": "Thuốc cảm phối hợp (kháng histamin–giảm đau–thông mũi), kháng histamin đơn lẻ, kẽm hoặc vitamin C nếu Vy khó chịu; tiếp tục siro ho thảo dược",
+     "v": "a",
+     "n": "ACP/CDC 2016 tr. 431: kháng histamin đơn độc hại nhiều hơn lợi, thuốc phối hợp giúp 1/4 người bệnh; kẽm chỉ có ích nếu dùng trong 24 giờ đầu; không bằng chứng cho vitamin C, thảo dược. Hiệu quả siro thảo dược, liều kháng histamin và kẽm cho tuổi 13: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh phổ rộng (amoxicillin–clavulanat, cephalosporin thế hệ 3, macrolid, levofloxacin) hoặc tiêm kháng sinh “liều mạnh” cho yên lòng mẹ",
+     "v": "w",
+     "n": "Cảm lạnh: kháng sinh không có lợi, tăng tác dụng phụ (ACP/CDC 2016 Advice 4, tr. 431); biến chứng 5–25%, C. difficile nặng nhất (tr. 429). Áp lực người nhà không phải chỉ định (tr. 431)."
+    },
+    {
+     "t": "Chụp CT, nhập viện, truyền dịch hoặc chuyển tuyến chỉ vì em sợ và mẹ lo",
+     "v": "w",
+     "n": "Em uống được, nói trọn câu, SpO₂ 99%, hết sốt, không dấu màng não: không tài liệu đã tải chỉ định nhập viện hay truyền dịch cho cảm lạnh. CT ngay chấm w theo sổ mâu thuẫn HH-1012; chỉ khi nghi biến chứng (QĐ 5643 mục 5.2.2; IDSA ABRS 2012 khuyến cáo 24)."
+    },
+    {
+     "t": "Dùng aspirin để hạ sốt hoặc giảm đau",
+     "v": "w",
+     "n": "Aspirin nên tránh ở trẻ (IDSA 2012 khuyến cáo 10(ii), mục IV), không dùng khi cúm chưa loại trừ vì hội chứng Reye (QĐ 1840/2025 mục III.2.2); QĐ 5643/2015 mục 4.3.2 vẫn liệt kê aspirin. Theo sổ HH-0084, chấm w."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm hô hấp trên cấp do virus (cảm lạnh), ngày bệnh thứ 4, thể nhẹ, chưa biến chứng, tự giới hạn",
+     "Centor 1 điểm, McIsaac 2 điểm (nhóm trung gian) nhưng có ho, sổ mũi, khàn tiếng nên không nghĩ liên cầu (WHO AWaRe 2022 tr. 50; IDSA 2025 Bảng 3; IDSA 2012 khuyến cáo 4)",
+     "Đã loại trừ hoặc chưa nghĩ: viêm họng liên cầu nhóm A, cúm mùa (không xác nhận, em không có yếu tố nguy cơ nên xử trí như nhau), viêm màng não, viêm phổi, viêm cơ tim, viêm mũi xoang vi khuẩn (chưa đủ tiêu chí), áp xe quanh amidan",
+     "Dữ kiện nhiễu: sốt 38,4 °C và đau cơ sớm, chạy quá sức trước khi bệnh, ê cổ gáy do tư thế đọc điện thoại, mạch và nhịp thở hơi nhanh do hoảng sợ, nước mũi vàng nhạt, yêu cầu CT và kháng sinh của mẹ",
+     "Lý do thật: đọc tin mạng về viêm màng não, viêm phổi, đột tử khi chạy lúc đang ốm, rồi lo sợ quá mức; mẹ lây lo theo"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: dựng lại từng ngày. Sốt 38,4 °C ngày 1 và 38,0 °C sáng ngày 2 rồi hết, nhức đầu, mỏi cơ; sau đó hắt hơi, chảy mũi, nghẹt mũi, ho khan, khàn nhẹ: hình dạng nhiễm virus hô hấp trên, có thể có sốt nhẹ, nhức đầu, mệt (ACP/CDC 2016 Bảng tr. 427; WHO AWaRe 2022 tr. 49; QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.1). Không điển hình ở chỗ sốt và đau cơ đến sớm, giống cúm hoặc liên cầu, lẫn với đau cơ sau chạy sức. Điều giữ đúng hướng: sốt ngắn, ho và sổ mũi rõ, họng sạch, hạch nhỏ không đau.",
+     "Nỗi sợ là phần khó nhất. Em không giấu triệu chứng mà giấu chuyện đã đọc tin mạng suốt đêm; chỉ lộ khi hỏi “con sợ gì nhất, đã đọc gì”. Cổ ê do nằm gối cao xem điện thoại: cổ mềm, cúi chạm ngực, Kernig và Brudzinski âm tính, không đau đầu dữ dội, không nôn, không li bì nên không phải viêm màng não (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 5.2.2). Khi nghỉ mạch 92 l/p, tim đều, không thổi, SpO₂ không tụt sau đi cầu thang.",
+     "Khám: nói trọn câu, họng đỏ nhẹ không xuất tiết, hạch trước cổ nhỏ mềm không đau, điểm xoang không đau, phổi sạch, nhịp thở 20, SpO₂ 99%; Vy không có tiêu chí nghi viêm phổi nào (ACP/CDC 2016 tr. 426, viết cho người lớn; ngưỡng trẻ 13 tuổi: không có trong tài liệu đã tải). Centor 1, McIsaac 2 (IDSA 2025 Bảng 3), nhưng có ho, sổ mũi, khàn tiếng nên không test (IDSA 2012 khuyến cáo 4); làm cũng được. Công thức máu, CRP, test cúm, liên cầu nếu làm đều bình thường hoặc âm tính. Cơ sở không có CT nhưng có cũng không chỉ định: hình ảnh không phân biệt virus hay vi khuẩn, tăng chi phí ít nhất 4 lần (ACP/CDC 2016 tr. 430; WHO AWaRe 2022 tr. 49)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, tự chăm sóc tại nhà, dặn kỹ dấu hiệu quay lại, hẹn xem lại. Cảm lạnh lành tính, điều trị triệu chứng là xử trí phù hợp (ACP/CDC 2016 tr. 431); ngoại trú (WHO Pocket book 2013 mục 4.4, viết cho trẻ nhỏ). Với em 13 tuổi sợ hãi, “cho về” chỉ an toàn khi nỗi sợ được trả lời bằng việc cụ thể và gia đình biết khi nào quay lại.",
+     "Kháng sinh: ACP/CDC 2016 Advice 4, WHO Pocket book 2013 mục 4.4, WHO AWaRe 2022 tr. 50, IDSA 2012 khuyến cáo 4 không kê; QĐ 5643/2015 (Viêm mũi họng cấp tính mục 4.1, 4.3.1) điều trị kháng sinh kinh nghiệm cho mọi viêm mũi họng đỏ cấp. Hai cách đều đúng, khác do năm ban hành và cách nhìn (sổ HH-0136). Kháng sinh phổ rộng hoặc tiêm “liều mạnh” cho yên lòng là sai (ACP/CDC 2016 Advice 4, tr. 429).",
+     "Hạ sốt giảm đau chỉ khi khó chịu: paracetamol 500 mg mỗi 4–6 giờ, tối đa 4 viên (2 g)/ngày theo mốc thận trọng nhất 60 mg/kg (QĐ 3312/2015; QĐ 708/2015), cạnh 3 g (QĐ 3610/2015) và 4 g (WHO AWaRe 2022 tr. 50). Không aspirin (IDSA 2012 khuyến cáo 10(ii); QĐ 1840/2025 mục III.2.2). Siro thảo dược không codein, atropin, cồn, paracetamol nên có thể tiếp tục; không thêm thuốc ho chứa codein, atropin, cồn (WHO Pocket book 2013 mục 4.4).",
+     "Gỡ lý do thật: hỏi nỗi sợ, nghe, rồi trả lời từng nỗi sợ bằng kết quả khám của chính em (cổ mềm, phổi sạch, SpO₂ 99%, tim đều), không bằng “không sao đâu”. Với mẹ: công nhận nỗi lo, giải thích vì sao CT và kháng sinh không giúp con, đưa việc cụ thể (dấu hiệu quay lại, hẹn xem lại) thay cho một toa thuốc hay một lần chụp. Hướng dẫn không đọc tin bệnh trước khi ngủ.",
+     "Không CT, không X-quang, không nhập viện, truyền dịch, chuyển tuyến: không nhiễm khuẩn nặng, biến chứng mủ hay dấu màng não (QĐ 5643/2015 mục 5.2). Hẹn xem lại ngày 10 hoặc sớm hơn vì biến chứng xoang thường xuất hiện khi triệu chứng xấu lại sau đợt đỡ (ACP/CDC 2016 Advice 3). Thời điểm tập thể thao lại: không có trong tài liệu đã tải; khuyên nghỉ tập nặng đến khi khỏe hẳn (lời dặn thực hành)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (acetaminophen)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên (500 mg) mỗi lần, cách nhau ít nhất 4–6 giờ; tối đa 4 viên (2 g)/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau họng, nhức đầu hoặc sốt; uống sau ăn",
+      "so_ngay": "Khi cần, khoảng 3–5 ngày; ngừng khi hết khó chịu",
+      "ghi_chu": "Trẻ ≥ 30 kg: WHO AWaRe 2022 tr. 50 (500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày); QĐ 3312/2015 (Co giật do sốt mục 4.1) và QĐ 708/2015 mục 4.2 (15 mg/kg/lần ≈ 615 mg, không quá 60 mg/kg/24 giờ ≈ 2,4 g); QĐ 3610/2015 mục 6 (người dân không quá 3 g/ngày). Chọn mốc thận trọng nhất (2 g). Siro đang dùng không chứa paracetamol. Không aspirin."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ hoặc rửa mũi",
+      "ham_luong": "Lọ nhỏ mũi 0,9% hoặc bình rửa mũi",
+      "lieu": "2–3 giọt mỗi bên hoặc rửa nhẹ, số lần theo mức nghẹt",
+      "duong": "Nhỏ hoặc rửa mũi",
+      "thoi_diem": "Khi nghẹt mũi, trước khi ngủ",
+      "so_ngay": "Khi cần, đến khi hết nghẹt",
+      "ghi_chu": "Rửa mũi nước muối nêu ở viêm xoang (ACP/CDC 2016 tr. 431; QĐ 5643/2015, Viêm mũi xoang cấp tính mục 4.2.1, tr. 112). Số giọt, số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "KHÔNG kê: kháng sinh, aspirin, corticoid, thuốc ho chứa codein/atropin/cồn, thuốc tiêu nhầy, thuốc cảm phối hợp, thuốc an thần, truyền dịch",
+      "ham_luong": "—",
+      "lieu": "Không dùng",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Kháng sinh: ACP/CDC 2016 Advice 4 (hoặc theo QĐ 5643/2015 mục 4.1, 4.3.1, cách thứ hai chấp nhận được). Aspirin: IDSA 2012 khuyến cáo 10(ii); QĐ 1840/2025 mục III.2.2. Thuốc ho: WHO Pocket book 2013 mục 4.4. Corticoid: IDSA 2012 khuyến cáo 10(iii)."
+     }
+    ],
+    "dan_do": [
+     "Vy bị cảm lạnh do virus, đang ngày thứ 4, bệnh nhẹ và sẽ tự khỏi. Họng thường hết trong vài ngày, sổ mũi và ho có thể còn đến khoảng 2 tuần, ho có thể lâu hơn (ACP/CDC 2016 tr. 429, 431; QĐ 5643/2015, Viêm mũi họng cấp tính mục 5.1; WHO Pocket book 2013 mục 4.4). Hôm nay cô đã nghe tim, nghe phổi, kiểm tra cổ, đo oxy: cổ mềm, tim bình thường, phổi sạch, oxy 99%. Cổ ê là do tư thế nằm xem điện thoại; không có dấu hiệu viêm màng não hay viêm phổi.",
+     "Không cần kháng sinh vì không giúp khỏi nhanh hơn mà có tác dụng phụ (ACP/CDC 2016 Advice 4). Không cần chụp CT: bệnh viện lớn cũng không chụp cho trường hợp này (ACP/CDC 2016 tr. 430). Uống đủ nước, ngủ đủ, nước muối nhỏ mũi khi nghẹt; paracetamol 500 mg khi đau họng, nhức đầu hoặc sốt, cách nhau 4–6 giờ, không quá 4 viên mỗi ngày, không uống aspirin. Tiếp tục siro ho được nếu thấy dễ chịu; không uống thêm thuốc ho hay thuốc cảm khác khi chưa hỏi bác sĩ.",
+     "Quay lại hoặc đến bệnh viện ngay nếu: đau đầu dữ dội, nôn vọt, cứng cổ, sợ ánh sáng, li bì; sốt trở lại hoặc sốt mới xuất hiện sau khi đã đỡ, sưng đỏ hoặc đau mi mắt, nhìn đôi hoặc mờ, đau khi liếc; thở nhanh hoặc khó thở, đau ngực, ngất; đau họng một bên, khó há miệng, chảy dãi, cổ sưng đau; không uống được, yếu dần; nghẹt mũi, nước mũi quá 10 ngày không đỡ (nguồn: xem mục dặn dấu hiệu quay lại ở phần xử trí: QĐ 5643/2015 mục 5.2.1, 5.2.2; EPOS 2020 Bảng 4.5.1; ACP/CDC 2016 Advice 3, tr. 428; WHO Pocket book 2013 mục 4.4).",
+     "Hẹn xem lại vào ngày bệnh thứ 10 nếu còn nghẹt mũi, nước mũi hoặc ho nhiều, hoặc sớm hơn nếu xấu đi (ACP/CDC 2016 tr. 431, Advice 3); ho trên 14 ngày thì cần tìm nguyên nhân khác (WHO Pocket book 2013 mục 4.4). Ngày hẹn cụ thể: không có trong tài liệu đã tải.",
+     "Với Vy: tối nay để điện thoại ngoài phòng ngủ, không đọc tin về bệnh trước khi ngủ; lo điều gì thì ghi ra giấy rồi hỏi mẹ hoặc bác sĩ. Vy nghỉ tập nặng đến khi hết mỏi cơ và khỏe hẳn rồi tập lại từ từ; đi học lại khi hết sốt và ăn uống bình thường (lời dặn thực hành, thời điểm cụ thể không có trong tài liệu đã tải). Rửa tay thường xuyên, che miệng khi ho, không dùng chung chai nước; rửa tay là biện pháp tốt nhất để giảm lây (ACP/CDC 2016 tr. 431)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "(Diễn tiến dưới đây là dữ kiện thiết kế của ca, không phải số liệu từ tài liệu.) Vy nghe giải thích xong thì bình tĩnh hơn, đêm đó ngủ được; mẹ cùng em để điện thoại ngoài phòng ngủ. Ngày 5–7 họng hết đau, ho còn ít, em hỏi bao giờ được tập lại. Ngày 8 (4 ngày sau khám) Vy sốt trở lại 39,1 °C, nhức đầu vùng trán và quanh mắt phải, nghẹt mũi nặng, nước mũi vàng đặc. Tối ngày 9 mi mắt phải sưng đỏ, đau khi đảo mắt, nhìn hơi mờ. Chị Hà đọc lại tờ dặn (sốt mới sau khi đã đỡ, sưng mi mắt), đưa con quay lại phòng khám ngay trong đêm. Bác sĩ khám: 38,9 °C, mi phải phù đỏ, đau khi liếc sang bên, ấn đau vùng sàng; nghĩ viêm xoang sàng biến chứng hốc mắt. Cơ sở không có CT và đây là dấu hiệu cần chuyển ngay (EPOS 2020 Bảng 4.5.1), nên bác sĩ gọi bệnh viện tỉnh, chuyển Vy bằng xe cấp cứu cùng bản tóm tắt. Tại đó CT có cản quang (IDSA ABRS 2012 khuyến cáo 24) cho thấy viêm mô tế bào hốc mắt do viêm xoang sàng, chưa có áp xe; Vy được kháng sinh tiêm tĩnh mạch, nằm viện 5 ngày, ra viện mắt hồi phục bình thường, nghỉ tập thêm hai tuần và lỡ kỳ thi Phù Đổng. Đây là kết cục thiết kế của ca, không phải số liệu từ tài liệu; chẩn đoán ở lượt khám vẫn là cảm lạnh vì lúc đó chưa có dấu hiệu biến chứng, và tờ dặn cùng việc hẹn xem lại giúp phát hiện sớm, chuyển tuyến kịp thời.",
+ "nhieu": [
+  "Sợ hãi quá mức: Vy hỏi dồn “con có chết không”, nghe “không sao đâu” thì hỏi lại. Nỗi sợ gốc là tin mạng, chỉ lộ khi hỏi “con sợ gì nhất, đã đọc gì” (ACP/CDC 2016 tr. 431).",
+  "Cổ ê do nằm gối cao xem điện thoại, em tưởng “cứng cổ”: khám cổ mềm, Kernig và Brudzinski âm tính (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 5.2.2).",
+  "Sốt 38,4 °C, nhức đầu, mỏi cơ sớm và chạy quá sức hôm thứ Năm: dễ nghĩ cúm hoặc bệnh nặng do gắng sức; sốt chỉ hai ngày rồi hết (QĐ 1840/2025 mục II.1.1; ACP/CDC 2016 Bảng tr. 427).",
+  "Mạch 92, thở 20 hơi nhanh khi hoảng sợ; nước mũi vàng nhạt ngày 4 chưa phải viêm xoang vi khuẩn (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.1; ACP/CDC 2016 Advice 3). Mẹ đòi CT, kháng sinh: áp lực người nhà không phải chỉ định (tr. 431)."
+ ],
+ "bai_hoc_bien": [
+  "Không điển hình: sốt 38,4 °C và đau cơ sớm giống cúm hoặc liên cầu, lẫn với đau cơ sau chạy sức. Cảm lạnh vẫn có thể sốt nhẹ, nhức đầu, mệt (ACP/CDC 2016 tr. 431); viêm mũi họng do virus có thể sốt 38–39 °C, đau mình mẩy (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.1). Giữ đúng hướng nhờ sốt ngắn, ho và sổ mũi rõ, họng sạch.",
+  "Sợ hãi quá mức: hỏi đúng nỗi sợ, khám cho em thấy, nói rõ điều đã loại trừ và vì sao tin, rồi hẹn xem lại. “Không sao đâu” là câu trấn an rỗng; xét nghiệm chiều lòng là cách trấn an đắt và không bền.",
+  "“Cơ sở không có CT” không phải lý do chính để không chụp: có CT cũng không chỉ định (ACP/CDC 2016 tr. 430; QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.2). CT chỉ khi nghi biến chứng (mục 5.2.2; IDSA ABRS 2012 khuyến cáo 24), lúc đó phải chuyển tuyến có lý do.",
+  "Dặn dấu hiệu quay lại cụ thể là xử trí chủ động: sốt trở lại sau khi đã đỡ, sưng đỏ mi mắt, nhìn đôi cần chuyển ngay (ACP/CDC 2016 Advice 3; QĐ 5643/2015 mục 5.2.1; EPOS 2020 Bảng 4.5.1).",
+  "Nguồn cho tuổi 13: ACP/CDC 2016 viết cho người lớn, NICE NG237 từ 16 tuổi (không dùng), WHO Pocket book chủ yếu cho trẻ nhỏ; dùng WHO AWaRe 2022 phần trẻ em (tr. 49–50), IDSA 2012, QĐ 5643/2015, QĐ 3312/2015 và nói rõ giới hạn."
+ ],
+ "diem_nho": [
+  "Centor (WHO AWaRe 2022 tr. 50): sốt > 38 °C, không ho, hạch cổ trước đau, amidan xuất tiết; 0–2 điểm chỉ điều trị triệu chứng. McIsaac thêm tuổi 3–14 cộng 1, 15–44 cộng 0, ≥ 45 trừ 1 (IDSA 2025 Bảng 3): 2–3 điểm là nguy cơ trung gian 20,8–33,6%.",
+  "Cảm lạnh: virus, tự giới hạn, đến 14 ngày, ho đến 6 tuần, không kháng sinh (ACP/CDC 2016 tr. 429, 431); QĐ 5643/2015 mục 5.1 viết 3–5 ngày cho triệu chứng cấp.",
+  "Nghĩ viêm xoang vi khuẩn khi > 10 ngày không đỡ, hoặc sốt > 39 °C kèm dịch mủ hoặc đau mặt ≥ 3 ngày liên tiếp, hoặc xấu lại sau đợt đỡ (ACP/CDC 2016 Advice 3). Phù hoặc đỏ quanh mắt: chuyển ngay hoặc nhập viện (EPOS 2020 Bảng 4.5.1)."
+ ],
+ "nguon": [
+  "TL-0156 · ACP/CDC 2016 – Appropriate Antibiotic Use for ARTI in Adults, Ann Intern Med 164:425–434 – tr. 426, Bảng tr. 427, tr. 428 (viêm họng, Centor), tr. 429 (Advice 1–4), tr. 430 (viêm xoang, hình ảnh), tr. 431 (cảm lạnh, Advice 3, 4)",
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh Tai Mũi Họng – Viêm mũi họng cấp tính mục 3.1.1, 3.1.2, 4.1, 4.3.1, 5.1, 5.2; Viêm họng cấp tính mục 4.2.1; Viêm mũi xoang cấp tính mục 3.1.1 (tr. 108), 3.1.2 (tr. 109), 3.2.1, 4.2.1 (tr. 111–112), 5.2.1, 5.2.2 (tr. 113)",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – Pharyngitis, phần trẻ em tr. 49–50 (Centor, xét nghiệm, hình ảnh, liều paracetamol)",
+  "TL-0158 · IDSA 2012 – GAS Pharyngitis, CID 2012;55:e86–e102 – khuyến cáo 1, 4, 10(ii), 10(iii), Bảng 4 (bản HTML trong kho, không có số trang)",
+  "TL-0140 · IDSA 2025 – GAS Pharyngitis update (Part 1), CID 2026;82(Suppl 3):i97–i104 – khuyến cáo, nhận xét 1, Bảng 3",
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – Cúm mùa – mục II.1.1, II.1.2, II.2.1, II.2.2, II.2.3, II.2.4.1, II.2.4.3, III.2.2, III.2.3",
+  "TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (BMJ 2026;392:e087397, tr. 4)",
+  "TL-0250 · WHO Pocket book of hospital care for children 2013 – mục 4.4, tr. 90–91 (viết cho trẻ nhỏ)",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015 – Co giật do sốt mục 4.1; TL-0015 · QĐ 708/QĐ-BYT 2015 – mục 4.2 (paracetamol 15 mg/kg, không quá 60 mg/kg/24 giờ); QĐ 3610/QĐ-BYT 2015 – Ngộ độc paracetamol mục 6 (tltk-10000-ca, mục 00 Dùng chung)",
+  "TL-0087 · EPOS 2020 – Bảng 4.5.1 (phù, đỏ quanh mắt: chuyển ngay); TL-0159 · IDSA ABRS 2012, CID 2012;54:1041–1045 – khuyến cáo 24 (CT cản quang khi nghi biến chứng mủ); TL-0146 · NICE NG237 2024 chỉ để tham chiếu CRP (khuyến cáo 1.3.4; viết cho người từ 16 tuổi)",
+  "Không có trong tài liệu đã tải: ngưỡng sinh hiệu, công thức máu, CRP theo tuổi 13; chỉ định điện tim, troponin, tiêu chuẩn viêm cơ tim ở trẻ cảm lạnh; nghỉ tập, quay lại thể thao, đi học lại sau cảm lạnh; hiệu quả siro thảo dược; liều kháng histamin, kẽm cho 13 tuổi; liều amoxicillin trẻ em trong QĐ 5643; liều nước muối rửa mũi; can thiệp lo âu do tin mạng; ngày hẹn tái khám cụ thể"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: Sonnet 5.5, 04/11/2026. Tài liệu đã đọc: TL-0156 (tr. 426–431), TL-0130 (Viêm mũi họng cấp tính mục 1–5; Viêm mũi xoang cấp tính mục 3–5), TL-0018 (tr. 47–50), TL-0158 (khuyến cáo 1–10), TL-0140 (khuyến cáo, Bảng 3), TL-0122 (mục I–IV), TL-0133 (tr. 4), TL-0250 (mục 4.4), TL-0037 (Co giật do sốt mục 4.1), TL-0015 (mục 4.2), QĐ 3610/2015 (Ngộ độc paracetamol), TL-0087 (Bảng 4.5.1), TL-0159 (khuyến cáo 24). Đã tra sổ mâu thuẫn: thời gian cảm lạnh (HH-0136), kháng sinh viêm họng đỏ cấp, aspirin (HH-0084), hình ảnh viêm xoang (HH-1012), paracetamol thiếu niên ≥ 30 kg (HH-0484).",
+  "Biến sổ cái: nữ 13 tuổi, học sinh; không điển hình; không bẫy cấu trúc; 1 lượt; sợ hãi quá mức; không có CT; khởi phát sau gắng sức nặng; siro ho thảo dược; lý do thật là đọc tin mạng; kết cục chuyển tuyến kịp thời (biến chứng hốc mắt ngày 9, nhờ tờ dặn). Không mâu thuẫn mới. Tên nhân vật, số liệu xét nghiệm, sinh hiệu, kết cục là chi tiết do người viết dựng; CTM phụ tính khớp. Ca 13 tuổi nên NICE NG237 (≥ 16 tuổi) và ACP/CDC (người lớn) chỉ dùng có ghi chú giới hạn. Mạch 92 dùng tệp tim bình thường."
+ ]
+}

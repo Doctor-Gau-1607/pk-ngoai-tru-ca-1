@@ -1,0 +1,643 @@
+{
+ "ma_ca": "MT-0626",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_benh_than_man",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Bệnh thận mạn",
+  "chan_doan_phai_loai_tru": [
+   "Tổn thương thận cấp",
+   "Hẹp ĐM thận"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Thiện",
+  "tuoi": 78,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (nghỉ hưu, ở nhà lo cơm nước, giặt giũ và chăm vợ)",
+  "can_nang": 58,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là \"bác\". Ông tự xưng \"tôi\", gọi bác sĩ là \"bác sĩ\". Chị Mai gọi ông là \"ba\", xưng \"con\", gọi bác sĩ là \"bác sĩ\".",
+  "tinh_cach": "Hiền, nói chậm, sợ làm phiền con cái, quen lo cho vợ trước và coi mình là người khỏe. Hay kể chuyện nhà, chợ, hàng xóm trước khi vào chuyện chính. Ngại nói chuyện đi tiểu và té ngã vì xấu hổ và sợ con lo.",
+  "kieu_nhieu": "Kể lể lộn xộn: trả lời một câu hỏi bằng ba chuyện không liên quan (bà nhà đau gối, giá cá, ông hàng xóm chạy thận), nhảy thời điểm, lẫn tháng. Hỏi ngắn, từng ý, hoặc chốt lại \"tức là...\" thì ông trả lời đúng; hỏi dài, nhiều ý thì ông chọn ý dễ kể. Không phải sa sút trí tuệ: mở túi giấy tờ thì ông nhớ đúng các mốc khám.",
+  "nguoi_nha": "Chị Mai, 51 tuổi, con gái, nhân viên ngân hàng, ở cách nhà ba cây số, đưa ba đi khám. Thấy ba ăn ít, mệt, ngủ gật trước ti vi; xếp thuốc cho ba vào hộp chia ngày. Không biết ba té ngã hay uống thuốc nam. Hay ngắt lời ba để bổ sung.",
+  "ten_nguoi_nha": "Chị Mai (con gái)",
+  "ngoai_hinh": {
+   "da": "#cfa07c",
+   "toc": "#d9d9d9",
+   "kieuToc": "ngan",
+   "ao": "#8a9a7a",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dcae8b",
+    "toc": "#2a1d18",
+    "kieuToc": "dai",
+    "ao": "#4f6b8a",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Con gái đưa đi khám vì ăn ít, mệt, hay ngủ gật; ông nói chỉ đến lấy thuốc huyết áp",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu; sinh hóa gồm glucose đói, mỡ máu, ure, creatinin kèm eGFR, điện giải, acid uric; tổng phân tích nước tiểu) và điện tim. Không có siêu âm, X-quang, CT, nội soi; không làm UACR, cystatin C, HbA1c, canxi, NT-proBNP. Mẫu nước tiểu làm UACR và siêu âm gửi bệnh viện huyện, trả sau 1–2 ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 78 tuổi, ở nhà nội trợ lo cơm nước và chăm vợ. Con gái là chị Mai đưa đi khám vì thấy ba ăn ít, mệt, hay ngủ gật. Ông nói mình chỉ đến lấy thuốc huyết áp (đang uống hai viên mỗi sáng). Mang theo túi ni lông giấy tờ cũ. Sinh hiệu lúc tiếp đón: HA 142/78 mmHg, mạch 70 l/p, nhiệt độ 36,7 °C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Thiện bị nhập viện \"để chữa suy thận\" dù creatinin 130 µmol/L gần như không đổi so với 132 hồi tháng 4 và không đạt tiêu chuẩn tổn thương thận cấp (tăng ≥ 26,5 µmol/L trong 48 giờ hoặc ≥ 50% trong 7 ngày; QĐ 2388 mục 4.11.1). BTM G3a A2 ổn định do bác sĩ không chuyên Thận theo dõi được (QĐ 2388 Bảng 9, 10). Bà Sáu ở nhà một mình, con gái phải nghỉ làm, tiền viện phí tăng; ông về nhà càng tin mình bệnh nặng và có thể bị ngưng losartan \"cho khỏi hại thận\", trái điểm thực hành 3.6.4 của KDIGO 2024. Tiểu đêm, té ngã và thuốc nam vẫn chưa ai hỏi tới.",
+    "chuyen_tuyen": "Ông bị chuyển khẩn lên khoa Thận tuyến tỉnh, trong khi chưa có tiêu chí chuyển khẩn: eGFR 48 (> 30), không giảm > 20% so với nền, không đái máu, que nhúng chỉ 1+ (QĐ 2388 mục 4.2; KDIGO 2024 Hình 48). Chị Mai nghỉ làm đưa ba đi, tốn tiền, nghe \"phải lên khoa Thận\" ông tin mình sắp chạy thận như ông Tư và có thể bỏ tái khám. Việc cần làm trước là UACR và siêu âm ở bệnh viện huyện, theo dõi ngay tại phòng khám."
+   },
+   "loi_mo": "Chào bác sĩ. Tui đi lấy thuốc huyết áp thôi, con Mai nó cứ bắt đi khám tổng quát. Hồi sáng tui định nấu cháo cho bà nhà tui, bả đau cái gối mấy năm nay, mà hổm rày cá ngoài chợ không tươi, mắc quá trời. Ông Tư xóm trên mới bị chạy thận, tội lắm, tui có qua thăm... Mà tui khỏe, đâu có bệnh gì đâu bác sĩ, cho tui lấy thuốc rồi về kẻo bà ở nhà một mình.",
+   "sinh_hieu": {
+    "mach": 70,
+    "ha": "142/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Mai bắt đi khám vì ba ăn ít, mệt, hay ngủ gật trước ti vi từ vài tháng nay. Ông nói mình khỏe, chỉ cần lấy thuốc huyết áp và về với bà.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám do con gái thúc; mục đích tự nêu là lấy thuốc"
+    },
+    {
+     "id": "thuoc_hien_tai",
+     "noi_dung": "Mỗi sáng sau ăn uống hai viên con gái xếp sẵn trong hộp chia ngày: amlodipin 5 mg và losartan 50 mg. Ông không nhớ tên thuốc, chỉ nhớ \"viên trắng tròn, viên vàng nhạt\", và đưa hộp thuốc cho bác sĩ xem. Ít khi quên liều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc hạ áp đang dùng (tên, liều, tuân thủ)"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Biết cao huyết áp 14 năm nay, uống amlodipin 5 mg từ lâu. Tháng 3 năm nay đi khám ở bệnh viện huyện thấy áp huyết 156/88, bác sĩ cho uống thêm viên losartan. Máy đo huyết áp ở nhà hỏng hơn một năm, không đo lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử THA, thời điểm khởi losartan, không có số HA tại nhà"
+    },
+    {
+     "id": "tui_giay",
+     "noi_dung": "Túi giấy tờ, ông lấy ra lẫn thứ tự: (1) Tháng 9 năm ngoái, khám sức khỏe người cao tuổi ở trạm y tế: creatinin 121 µmol/L, eGFR 53. (2) Tháng 3 năm nay, bệnh viện huyện: creatinin 124, eGFR 52, HA 156/88, kê thêm losartan 50 mg. (3) Tháng 4 năm nay, kiểm tra sau 4 tuần uống losartan: creatinin 132, eGFR 48, kali 4,5 mmol/L. Chưa ai giải thích eGFR cho ông; ông nghĩ \"cho về chắc là bình thường\".",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả creatinin, eGFR các lần trước: chứng minh tính mạn và không tăng sau khởi losartan"
+    },
+    {
+     "id": "tieu_dem",
+     "noi_dung": "Mấy tháng nay đêm dậy đi tiểu ba lần, dòng nước tiểu yếu hơn trước, phải đứng chờ một lúc mới ra, tiểu xong còn cảm giác chưa hết. Ông thấy xấu hổ nên chưa nói với ai, kể cả con gái.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung \"có gì bất thường khi đi tiểu không\" thì ông gạt đi \"bình thường\". Chỉ kể khi bác sĩ hỏi cụ thể số lần dậy tiểu ban đêm, sức mạnh dòng tiểu, hoặc hỏi giấc ngủ có bị ngắt quãng không.",
+     "k": 1,
+     "y": "Tiểu đêm, dòng tiểu yếu: triệu chứng đường tiểu dưới, cần loại trừ tắc nghẽn"
+    },
+    {
+     "id": "met_ngu_gat",
+     "noi_dung": "Ban đêm ngủ chập chờn vì dậy tiểu, ban ngày mệt và ngủ gật. Ăn ít vì lo và \"mất ngon\", cân nặng từ 60 kg năm ngoái còn 58 kg. Không buồn nôn, không ngứa da, không khó thở, không phù chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mệt, ngủ gật do ngủ ngắt quãng; không có triệu chứng ure máu cao"
+    },
+    {
+     "id": "te_nga",
+     "noi_dung": "Hai tháng trước, dậy đi tiểu ban đêm, ông trượt chân ngã ngồi trong nhà tắm, trầy khuỷu tay, không gãy xương. Không nói với ai vì sợ con lo rồi bắt nghỉ nấu ăn cho bà. Không chóng mặt khi đứng dậy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể có té, trượt chân, suýt ngã chưa, hoặc về chuyện đi nhà vệ sinh ban đêm; nếu chị Mai đang nghe thì ông né, kể rõ hơn khi được hỏi riêng.",
+     "k": 1,
+     "y": "Té ngã: ảnh hưởng mục tiêu huyết áp ở người cao tuổi"
+    },
+    {
+     "id": "thuoc_nam",
+     "noi_dung": "Hai tháng nay mỗi sáng ông uống một chén nước sắc \"thuốc nam bổ thận\" do ông Tư hàng xóm cho gói lá. Ông không biết thành phần. Không nói với chị Mai vì sợ bị la.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể thuốc nam, thuốc bắc, thuốc bổ, nước sắc. Hỏi \"có thuốc gì khác không\" thì ông nói \"không\".",
+     "k": 1,
+     "y": "Thuốc nam, thuốc tự dùng giấu con cái"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông sợ phải chạy thận như ông Tư (một tuần ba lần, con cái khổ sở, bán cả đất) nên chần chừ không đi khám, giấu chuyện đi tiểu. Ông cũng sợ chi phí đè lên con gái và không còn ai lo cho bà Sáu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm ông lo nhất, vì sao mấy tháng nay chần chừ không đi khám, hoặc hỏi về chuyện ông Tư. Hỏi \"ông có lo gì không\" chung chung thì ông nói \"không có\".",
+     "k": 1,
+     "y": "Động cơ thật: sợ chạy thận và sợ làm phiền con cái"
+    },
+    {
+     "id": "khong_nsaid",
+     "noi_dung": "Không uống thuốc giảm đau chống viêm (diclofenac, meloxicam, ibuprofen). Thỉnh thoảng đau gối, uống một viên paracetamol 500 mg vài lần mỗi tháng. Chưa chụp CT hay tiêm thuốc cản quang.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ NSAID và thuốc cản quang"
+    },
+    {
+     "id": "loai_aki",
+     "noi_dung": "Mấy tháng nay không sốt, không nôn, không tiêu chảy, không bị bệnh nặng nào, không phải nhịn ăn. Uống khoảng 1,5 lít nước mỗi ngày. Lượng nước tiểu không giảm. Không dùng thuốc lợi tiểu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ yếu tố khởi phát tổn thương thận cấp (mất nước, bệnh cấp)"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Nước tiểu vàng trong, không đỏ, không nâu, không buốt rát, không đau hông lưng. Chưa từng bị sỏi thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không đái máu, không nhiễm trùng tiểu, không sỏi"
+    },
+    {
+     "id": "phu_kho_tho",
+     "noi_dung": "Không phù chân, không khó thở khi leo cầu thang hay khi nằm, không đau ngực, không hồi hộp.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tien_su_khac",
+     "noi_dung": "Không đái tháo đường, chưa bị nhồi máu cơ tim hay đột quỵ, không gút. Hút thuốc lá khoảng 15 năm, bỏ cách đây 20 năm. Không uống rượu. Không ai trong nhà bị bệnh thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh đồng mắc, yếu tố nguy cơ tim mạch, tiền sử gia đình"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ông tự nấu: kho cá mặn, canh nêm nước mắm, thích dưa cải muối. Thịt ăn ít, chủ yếu cá và rau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn mặn, lượng đạm ăn vào"
+    },
+    {
+     "id": "chuyen_vat",
+     "noi_dung": "Ông kể sang chuyện bà Sáu đau gối, con rể đổi việc, giá cá ngoài chợ, mái bếp dột, rồi quay lại câu hỏi cũ.",
+     "che_do": "tu_ke",
+     "nhieu": 1,
+     "k": 0
+    },
+    {
+     "id": "dau_lung_cu",
+     "noi_dung": "Thỉnh thoảng đau lưng âm ỉ từ hồi trẻ khiêng bao gạo, ông tưởng là \"đau thận\" và hỏi bác sĩ có phải thận hư không. Đau tăng khi cúi, giảm khi nằm nghỉ, không sốt, không tiểu buốt.",
+     "che_do": "khi_hoi",
+     "nhieu": 1,
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi nghỉ 5 phút, băng tay phù hợp, hai lần cách 2 phút: tay phải 142/78 và 138/76; tay trái 140/76 mmHg. Hai tay chênh dưới 10 mmHg. Huyết áp trung bình khoảng 140/77 mmHg, đang dùng amlodipin và losartan.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút 142/78; đứng 1 phút 130/72; đứng 3 phút 128/70 mmHg. Giảm 14/8 mmHg, mạch 70 → 76 l/p, không chóng mặt.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Gầy, 58 kg, cao 163 cm (BMI khoảng 21,8). Tỉnh, tiếp xúc tốt, nói dài và hay lạc ý nhưng định hướng đủ. Da niêm hồng, không phù mặt. Có vết trầy cũ đã lành ở khuỷu tay phải.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 70 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 70 l/p. Mỏm tim khoang liên sườn V.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau. Không âm thổi cạnh rốn hay hai hố thắt lưng khi nghe. Không sờ thấy thận to hay khối. Gõ trên xương mu trong, không có cầu bàng quang.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Chạm thận âm tính hai bên, không đau góc sườn lưng. Không cầu bàng quang.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, bẹn, khoeo, mu chân bắt rõ, đều hai bên. Không âm thổi động mạch cảnh.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù. Cơ cẳng chân mềm, teo nhẹ theo tuổi.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Cơ thắt bình thường. Tuyến tiền liệt to nhẹ, mật độ chắc đều như cao su, rãnh giữa còn, không nhân cứng, không đau. Găng không dính máu.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp nhẹ, không xuất huyết, không xuất tiết, gai thị rõ bờ.",
+     "k": 0
+    },
+    "nhan_thuc_moca": {
+     "a": "MoCA 26/30 (mất điểm ở nhớ lại từ và trì hoãn), ông học hết cấp 3. Không phát hiện sa sút trí tuệ; việc kể lể dài dòng và lạc ý là cách nói chuyện của ông.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi chậm, bước ngắn nhưng vững, quay người ba bước, không loạng choạng. Đứng một chân giữ được 6 giây.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 9,2 mmol/L · Creatinin 130 µmol/L · eGFR 48 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 9.2,
+      "creat": 130,
+      "egfr": 48
+     },
+     "n": "Bốn mốc trong 14 tháng: creatinin 121 → 124 → 132 → 130 µmol/L (eGFR CKD-EPI 2021 khoảng 53, 52, 48, 48): eGFR < 60 trên 3 tháng đủ tiêu chuẩn BTM, không dựa vào một lần đo (QĐ 2388/2024 mục 3.3, Bảng 6; KDIGO 2024 điểm thực hành 1.1.3.1–1.1.3.2). 45–59 là G3a (Bảng 7). Sau khi thêm losartan, creatinin tăng khoảng 6% và eGFR giảm khoảng 8%, dưới ngưỡng 30% (KDIGO điểm thực hành 3.6.4, 2.1.4; QĐ 2388 mục 3.4.2, 4.3.2.2) và dưới 25% (mục 7.4.2). Không tăng ≥ 26,5 µmol/L trong 48 giờ hay ≥ 50% trong 7 ngày: không phải tổn thương thận cấp (QĐ 2388 mục 4.11.1; KDIGO AKI 2012 khuyến cáo 2.1.1). CrCl Cockcroft–Gault khoảng 34 mL/ph, kém chính xác ở người gầy (QĐ 2388 mục 7.7.2.1)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,6 · Cl 103 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.6,
+      "cl": 103
+     },
+     "n": "Kali 4,6 mmol/L, bình thường khi đang dùng losartan. Nếu tăng kali, ưu tiên giảm kali máu hơn là bỏ thuốc (KDIGO 2024 điểm thực hành 3.6.3; QĐ 2388 mục 4.1.2.1)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Protein 1+ · Hồng cầu âm tính · Bạch cầu âm tính · Nitrit âm tính · Glucose âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.014,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "1+",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Que nhúng protein 1+ nằm trong nhóm A2 \"vết – 1+\" (QĐ 2388 Bảng 8), chỉ là ước lượng. Không hồng cầu niệu, không bạch cầu: không gợi ý viêm cầu thận hay nhiễm trùng tiểu (QĐ 2388 mục 3.2.2; KDIGO 2024 Hình 48: chuyển khi albumin niệu ≥ 300 mg/g kèm đái máu)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "Phòng khám không làm được UACR. Hẹn lấy nước tiểu đầu buổi sáng giữa dòng, gửi bệnh viện huyện (trả sau 1–2 ngày).",
+     "thay_the": "ua",
+     "n": "UACR là chỉ số ưu tiên; nếu không định lượng được thì dùng que nhúng (QĐ 2388 mục 3.2.2). Nhóm A quyết định tần suất theo dõi (Bảng 9) và chỉ định SGLT2i (UACR ≥ 200 mg/g; KDIGO 2024 khuyến cáo 3.7.2), nên cần có số thật. Hôm nay phân nhóm A2 tạm theo que nhúng."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L · Hb 134 g/L · MCV 90 fL · TC 232 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 60.0,
+      "neu": 4.08,
+      "lym_pct": 30.0,
+      "lym": 2.04,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.45,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 90.0,
+      "mch": 30.1,
+      "mchc": 335,
+      "rdw": 13.5,
+      "plt": 232
+     },
+     "n": "Hb 134 g/L không thiếu máu (thiếu máu khi Hb < 130 g/L ở nam; QĐ 2388 mục 4.4.1). Mệt và ăn kém không do thiếu máu."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose đói 5,4 mmol/L",
+     "bang": {
+      "glu": 5.4
+     },
+     "n": "Không đái tháo đường: loại bệnh thận do đái tháo đường khỏi diện nguyên nhân, không cần HbA1c."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 5,3 · LDL-C 3,2 · HDL-C 1,2 · TG 1,9 mmol/L",
+     "ab": 1,
+     "n": "Cần bộ mỡ nền khi phát hiện BTM mới (ESC 2026 Bảng khuyến cáo 10, I, C). Statin có chỉ định ở tuổi ≥ 50 và eGFR < 60 bất kể mức LDL (KDIGO 2024 khuyến cáo 3.15.1.1, 1A; ESC 2026 Bảng khuyến cáo 10, I, A). LDL-C 3,2 mmol/L khoảng 124 mg/dL; mục tiêu < 70 mg/dL ở BTM giai đoạn 3 (QĐ 2388 mục 4.1.2.1)."
+    },
+    "acid_uric": {
+     "v": "a",
+     "r": "Acid uric 386 µmol/L",
+     "n": "Bình thường, không có gút. Tăng acid uric không triệu chứng cũng không điều trị hạ acid uric để làm chậm BTM (KDIGO 2024 khuyến cáo 3.14.2, 2D; QĐ 2388 mục 4.1.2.1)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 68 l/p, đều. Trục trung gian, QRS hẹp, Sokolow-Lyon 31 mm, không ST chênh, không sóng T cao nhọn, không rung nhĩ.",
+     "n": "Không sóng T cao nhọn (phù hợp kali bình thường), Sokolow-Lyon dưới 35 mm. Không bắt buộc cho chẩn đoán BTM."
+    },
+    "cystatin_c": {
+     "v": "a",
+     "r": "Phòng khám không làm được cystatin C.",
+     "n": "Cystatin C giúp khi creatinin kém tin cậy vì khối cơ thấp (KDIGO 2024 điểm thực hành 1.2.2.6, Bảng 8). Ông gầy, 58 kg, nhưng creatinin ổn định ở bốn mốc nên chưa cần ngay. Không có sẵn: có thể làm ở tuyến trên khi cần."
+    },
+    "canxi": {
+     "v": "n",
+     "r": "Phòng khám không làm được canxi máu.",
+     "n": "Canxi giảm và phospho tăng thường từ giai đoạn 4 (QĐ 2388 mục 4.8.2.1). Chưa cần ở G3a."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Thận phải 9,5 × 4,5 cm, thận trái 9,7 × 4,6 cm, cân xứng, nhu mô hơi tăng âm, vỏ còn dày, không sỏi, không ứ nước.",
+     "ab": 1,
+     "n": "Phòng khám không có siêu âm; hẹn bệnh viện huyện, không khẩn. Cho biết kích thước, độ dày vỏ, ứ nước (QĐ 2388 mục 3.2.2, 3.3); hai thận cân xứng góp phần loại trừ hẹp động mạch thận (ESC PAD 2024 Bảng 13: chênh kích thước thận không giải thích được)."
+    },
+    "sa_tlt": {
+     "v": "u",
+     "r": "Tuyến tiền liệt to nhẹ, nước tiểu tồn lưu khoảng 40 mL, bàng quang thành đều, hai thận không ứ nước.",
+     "ab": 1,
+     "n": "Tiểu đêm, dòng yếu, tuyến tiền liệt to nhẹ: cần loại trừ tắc nghẽn đường tiểu, một yếu tố khởi động tổn thương thận (QĐ 2388 mục 2.2.2, 3.2.2). Hẹn bệnh viện huyện cùng đợt siêu âm thận."
+    },
+    "doppler_than": {
+     "n": "Không có chỉ định: không THA khởi phát sớm, không kháng trị, không âm thổi bụng, không phù phổi cấp, không tăng creatinin sau khi thêm losartan (ESC PAD 2024 Bảng 13). Phòng khám cũng không có siêu âm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh thận mạn G3a, A2 tạm tính theo que nhúng (eGFR 48 mL/ph/1,73m², protein niệu 1+), nguyên nhân nghi do tăng huyết áp lâu năm và tuổi cao, ổn định 14 tháng",
+     "ok": 1,
+     "n": "eGFR 53 → 52 → 48 → 48 trong 14 tháng, mạn tính > 3 tháng (QĐ 2388 mục 3.3, Bảng 6; KDIGO 2024 điểm thực hành 1.1.3.1). G3a: 45–59 (Bảng 7). A2: que nhúng \"vết – 1+\" (Bảng 8), cần UACR xác nhận. THA và tuổi cao làm thận dễ tổn thương (QĐ 2388 mục 2.2.1–2.2.2); chưa có siêu âm hay sinh thiết nên nguyên nhân mới là nghi."
+    },
+    {
+     "t": "Tăng huyết áp 14 năm, HA 140/77 mmHg trên amlodipin 5 mg và losartan 50 mg, chưa tới mục tiêu nhưng có nguy cơ té ngã",
+     "ok": 1,
+     "n": "HA ≥ 140/90 là THA (QĐ 2388 mục 4.3.1). Từng té ngã nên giảm cường độ hạ áp (KDIGO 2024 điểm thực hành 3.4.1); HA đứng giảm 14/8, không triệu chứng."
+    },
+    {
+     "t": "Rối loạn lipid máu (LDL-C 3,2 mmol/L) ở người BTM tuổi ≥ 50",
+     "ok": 1,
+     "n": "Chỉ định statin theo tuổi và eGFR, không cần mức LDL (KDIGO 2024 khuyến cáo 3.15.1.1; ESC 2026 Bảng khuyến cáo 10)."
+    },
+    {
+     "t": "Triệu chứng đường tiểu dưới (tiểu đêm 3 lần, dòng yếu), tuyến tiền liệt to nhẹ; chưa loại trừ tắc nghẽn",
+     "ok": 1,
+     "n": "Phì đại tuyến tiền liệt là yếu tố khởi động tổn thương thận (QĐ 2388 mục 2.2.2). Tiểu đêm gây mất ngủ, mệt và té ngã. Cần siêu âm thận–bàng quang; điều trị phì đại tuyến tiền liệt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tổn thương thận cấp trên nền mạn",
+     "n": "Không: creatinin 132 → 130 µmol/L sau 7 tháng, không tăng ≥ 26,5 µmol/L trong 48 giờ hay ≥ 50% trong 7 ngày (QĐ 2388 mục 4.11.1; KDIGO AKI 2012 khuyến cáo 2.1.1); không bệnh cấp, mất nước, NSAID hay cản quang."
+    },
+    {
+     "t": "Hẹp động mạch thận",
+     "n": "Không có dấu gợi ý (ESC PAD 2024 Bảng 13): THA khởi phát khoảng 64 tuổi, không kháng trị, không âm thổi bụng, không phù phổi cấp, creatinin tăng khoảng 6% sau losartan (< 30%). Chưa siêu âm nên chưa loại trừ hoàn toàn (tuổi > 65, tỉ lệ hẹp ≥ 60% khoảng 6,8%, ESC PAD 2024 mục 8.3.2.1.1): theo dõi creatinin khi tăng thuốc."
+    },
+    {
+     "t": "Sa sút trí tuệ",
+     "n": "Kể lể lộn xộn là cách nói chuyện; MoCA 26/30, nhớ đúng mốc xét nghiệm khi mở túi giấy."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bằng lời dễ hiểu: thận giảm chức năng nhẹ đến vừa (giai đoạn 3a), ổn định 14 tháng, không phải ai cũng tiến tới chạy thận; việc cần làm là giữ huyết áp, tránh thuốc hại thận, theo dõi đều",
+     "v": "c",
+     "n": "Không phải mọi người bệnh BTM đều diễn tiến đến giai đoạn cuối (QĐ 2388 mục 4.1.2). Trả lời đúng nỗi lo thật thì ông mới nói thêm và chịu theo dõi."
+    },
+    {
+     "t": "Hỏi riêng ông về tiểu tiện, té ngã và thuốc tự dùng",
+     "v": "c",
+     "n": "Bác sĩ không chuyên Thận phải phát hiện nguyên nhân chức năng thận: thuốc hạ áp quá nhiều, NSAID, giảm thể tích (QĐ 2388 Bảng 10, G1–3a)."
+    },
+    {
+     "t": "Ngưng thuốc nam; dặn không dùng thuốc nam, thuốc bổ, thuốc giảm đau chống viêm; đau gối dùng paracetamol; hỏi bác sĩ trước khi dùng thuốc không kê đơn",
+     "v": "c",
+     "n": "Không dùng bài thuốc dân gian thảo dược ở người BTM (QĐ 2388 mục 7.4.2, 1B); tránh NSAID, dùng paracetamol thay (mục 7.4.2); rà thuốc không kê đơn và thảo dược (KDIGO 2024 điểm thực hành 4.1.3)."
+    },
+    {
+     "t": "Giữ nguyên losartan 50 mg và amlodipin 5 mg hôm nay; không ngưng losartan vì eGFR thấp",
+     "v": "c",
+     "n": "Tiếp tục ức chế RAS trừ khi creatinin tăng > 30% trong 4 tuần sau khởi trị hay tăng liều (KDIGO 2024 điểm thực hành 3.6.4, 3.6.7); QĐ 2388 mục 7.4.2 dùng ngưỡng thận trọng hơn: ngừng khi kali tăng hoặc creatinin tăng > 25%. Ông tăng khoảng 6%, kali 4,6. Kết hợp với chẹn kênh canxi (QĐ 2388 mục 4.3.2.2)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–4 tuần với sổ HA nhà, UACR và siêu âm; lúc đó cân nhắc tăng losartan tới liều tối đa dung nạp, kiểm HA tư thế; kiểm huyết áp, creatinin, kali 2–4 tuần sau mỗi lần tăng liều",
+     "v": "c",
+     "n": "Ức chế RAS dùng liều cao nhất được phép và dung nạp (KDIGO 2024 điểm thực hành 3.6.1; QĐ 2388 mục 4.1.2.1); losartan tối đa 100 mg, không chỉnh theo thận (QĐ 2388 Bảng 12). Kiểm sau 2–4 tuần (KDIGO điểm thực hành 3.6.2; QĐ 2388 mục 4.3.2.2) hoặc 7–14 ngày (ADA 2026, mục đã có trong sổ). Ông từng té ngã, HA đứng giảm 14/8 nên tăng từ từ."
+    },
+    {
+     "t": "Tăng losartan lên 100 mg ngay hôm nay",
+     "v": "a",
+     "n": "Hợp lý nếu ưu tiên liều tối đa (KDIGO điểm thực hành 3.6.1; QĐ 2388 Bảng 12) với HA 140/77, kali 4,6. Thận trọng vì té ngã và HA đứng giảm 14/8 (KDIGO điểm thực hành 3.4.1)."
+    },
+    {
+     "t": "Mục tiêu HA tâm thu: < 120 mmHg nếu dung nạp (KDIGO) hoặc 120–129 mmHg nếu dung nạp (ESC 2026, VSH/VNHA) hoặc 130 đến < 140 mmHg ở ≥ 65 tuổi (QĐ 5904); giảm cường độ ở người yếu, nguy cơ té ngã. Ở ông trước mắt nhắm dưới 140/90, tránh hạ áp tư thế",
+     "v": "c",
+     "n": "Mâu thuẫn đã ghi trong sổ, cả hai đều đúng: KDIGO 2024 khuyến cáo 3.4.1 (2B) và điểm thực hành 3.4.1 (giảm cường độ ở người yếu, té ngã); ESC 2026 Bảng khuyến cáo 9 (I, A); QĐ 2388 Bảng 11 (KDIGO và VSH/VNHA 120–129/70–79); QĐ 5904/2019 Phần 1 Bước 5 mục A.2 (≥ 65 tuổi: 130 đến < 140). Khác nhau do năm, tuyến y tế, đối tượng."
+    },
+    {
+     "t": "Hướng dẫn đo HA tại nhà (máy bắp tay), ghi sổ sáng–tối, mang đến lần tái khám",
+     "v": "c",
+     "n": "ESC 2026 Bảng khuyến cáo 9: đo HA ngoài phòng khám ở người BTM (I, C); ông không có số HA nhà."
+    },
+    {
+     "t": "Khởi statin: atorvastatin 10–20 mg buổi tối, hôm nay hoặc ở lần hẹn 2–4 tuần để chỉnh từng thuốc một",
+     "v": "c",
+     "n": "Statin ở ≥ 50 tuổi và eGFR < 60, không giới hạn tuổi trên (KDIGO 2024 khuyến cáo 3.15.1.1, 1A); ESC 2026 Bảng khuyến cáo 10 (I, A); QĐ 2388 mục 4.6.3.1 và Bảng 20 (atorvastatin 20 mg, 4D); QĐ 5904 Phần 3 mục G (khởi đầu 10 mg). Liều riêng cho người 78 tuổi gầy: không có trong tài liệu đã tải (sổ đã ghi). Liều cao hơn chấm a."
+    },
+    {
+     "t": "Muối < 5 g/ngày (< 2 g natri): bớt nước mắm, dưa muối, cá kho mặn; protein khoảng 0,8 g/kg/ngày (khoảng 46 g), không kiêng đạm khắt khe vì ông gầy, ăn ít",
+     "v": "c",
+     "n": "KDIGO 2024 khuyến cáo 3.3.2.1 (2C); QĐ 2388 mục 4.1.1, 4.1.2.1 (< 5 g NaCl; mục 4.1.1 có chỗ ghi 6 g, sổ đã ghi). Đạm: KDIGO khuyến cáo 3.3.1.1 (2C, 0,8 g/kg/ngày ở G3–G5), người cao tuổi yếu cân nhắc đạm và năng lượng cao hơn (điểm thực hành 3.3.1.5). Chế độ ít đạm 0,55–0,60 g/kg/ngày do bác sĩ giám sát (QĐ 2388 mục 4.1.1): chấm a."
+    },
+    {
+     "t": "Dạy quy tắc \"ngày ốm\": nôn, tiêu chảy, sốt cao hoặc ăn uống kém thì tạm ngưng losartan và liên hệ phòng khám; khi khỏi uống lại, ghi ngày uống lại",
+     "v": "c",
+     "n": "KDIGO 2024 mục 4.3, điểm thực hành 4.3.2, Hình 47: tạm ngưng ức chế RAS, lợi tiểu, NSAID, SGLT2i khi bệnh cấp mất nước; chứng cứ phòng AKI còn ít, lỗi thường gặp nhất là quên uống lại. QĐ 2388 mục 7.4.2: tạm ngừng thuốc ức chế RAAS khi eGFR < 60 mắc kèm bệnh nghiêm trọng."
+    },
+    {
+     "t": "Hẹn siêu âm thận–bàng quang–tuyến tiền liệt và UACR nước tiểu sáng ở bệnh viện huyện (không khẩn)",
+     "v": "c",
+     "n": "UACR và siêu âm hoàn tất phân tầng A và tìm nguyên nhân (QĐ 2388 mục 3.2.2, 3.3, 3.4.2); tiểu đêm kèm tuyến tiền liệt to cần loại trừ tắc nghẽn (mục 2.2.2). Điều trị phì đại tuyến tiền liệt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Theo dõi tại phòng khám ít nhất 2 lần/năm (creatinin, kali, UACR); chuyển bác sĩ Thận khi eGFR < 30, eGFR giảm > 20% so với nền, UACR > 300 mg/g kèm hồng cầu niệu, UACR tăng gấp đôi hoặc > 700 mg/g, kali bất thường, thiếu máu",
+     "v": "c",
+     "n": "QĐ 2388 Bảng 9: G3a A2 là nhóm \"cam\", khám ít nhất 2 lần/năm, bác sĩ không chuyên Thận theo dõi được, chuyển nếu albumin niệu tăng hoặc MLCT giảm, nhất là người < 70 tuổi; Bảng 10. Tiêu chí chuyển: QĐ 2388 mục 4.2; KDIGO 2024 Hình 48 và điểm thực hành 2.1.3–2.1.5."
+    },
+    {
+     "t": "Hẹn khám bác sĩ chuyên khoa Thận theo lịch để tìm nguyên nhân (không khẩn)",
+     "v": "a",
+     "n": "QĐ 2388 mục 4.2 và KDIGO 2024 Hình 48 đều nêu \"nguyên nhân chưa rõ\" là chỉ định chuyển; nhưng ở G3a A2 ổn định nghi do THA và tuổi, Bảng 9 và 10 cho theo dõi tại phòng khám: cả hai chấp nhận (sổ đã ghi mục ngưỡng chuyển bác sĩ thận)."
+    },
+    {
+     "t": "Cân nhắc thêm thuốc ức chế SGLT2 (empagliflozin hoặc dapagliflozin 10 mg/ngày) sau khi có UACR; khởi nếu UACR ≥ 200 mg/g",
+     "v": "a",
+     "n": "KDIGO 2024 khuyến cáo 3.7.2 (1A): eGFR ≥ 20 và UACR ≥ 200 mg/g, hoặc suy tim; 3.7.3 (2B): eGFR 20–45 và UACR < 200. QĐ 2388 mục 4.1.2.1, ESC 2026 Bảng khuyến cáo 12 (I, A) cùng ngưỡng. Ông eGFR 48, chưa có UACR nên hôm nay chưa đủ tiêu chí. Lợi ích nhất quán theo tuổi và mức yếu (ESC 2026 mục 14.1). Giá thuốc, độ sẵn có ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kiêng đạm cực đoan (chế độ rất ít đạm, dưới 0,55 g/kg/ngày) hoặc tự kiêng thịt cá",
+     "v": "w",
+     "n": "Chế độ rất ít đạm chỉ cho người có nguy cơ suy thận, theo dõi chặt, kèm keto-acid (KDIGO 2024 điểm thực hành 3.3.1.2); người cao tuổi yếu cân nhắc đạm cao hơn (điểm thực hành 3.3.1.5)."
+    },
+    {
+     "t": "Ngưng losartan vì \"hại thận\", hoặc thay bằng thuốc bổ thận",
+     "v": "w",
+     "n": "Creatinin không tăng > 30%: không ngừng (KDIGO điểm thực hành 3.6.4, 3.6.7); QĐ 2388 mục 4.1.2.1 chỉ giảm hoặc ngừng khi tụt HA hay tăng kali không kiểm soát được; không dùng thảo dược (mục 7.4.2, 1B)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh thận mạn G3a (eGFR 48 mL/ph/1,73m²), A2 tạm tính theo que nhúng protein 1+, ổn định 14 tháng; nguyên nhân nghi do tăng huyết áp lâu năm và tuổi cao",
+     "Tăng huyết áp 14 năm, HA 140/77 mmHg trên amlodipin 5 mg + losartan 50 mg; từng té ngã một lần khi đi tiểu đêm",
+     "Rối loạn lipid máu, LDL-C 3,2 mmol/L (khoảng 124 mg/dL), có chỉ định statin theo tuổi và eGFR",
+     "Triệu chứng đường tiểu dưới (tiểu đêm 3 lần, dòng yếu), tuyến tiền liệt to nhẹ; mệt và ngủ gật do ngủ ngắt quãng",
+     "Không phải tổn thương thận cấp; chưa có dấu hiệu hẹp động mạch thận; chưa thiếu máu, chưa rối loạn kali"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: ông kể lộn xộn nên hỏi ngắn, từng ý, chốt lại bằng \"tức là...\"; mở túi giấy tờ cũ vì đó là bằng chứng quan trọng nhất; hỏi riêng về tiểu tiện, té ngã, thuốc nam; hỏi điều ông lo nhất; rồi khám và xét nghiệm.",
+     "Vì sao là BTM: eGFR 53 → 52 → 48 → 48 trong 14 tháng và que nhúng protein 1+; không chẩn đoán từ một lần đo (QĐ 2388/2024 mục 3.3, Bảng 6; KDIGO 2024 điểm thực hành 1.1.3.1–1.1.3.2). G3a theo Bảng 7; nhóm A2 theo que nhúng (Bảng 8), UACR phòng khám không làm được nên hẹn.",
+     "Vì sao không phải tổn thương thận cấp: creatinin 132 → 130 trong 7 tháng, không bệnh cấp, không NSAID hay cản quang; không đạt tiêu chuẩn AKI (QĐ 2388 mục 4.11.1; KDIGO AKI 2012 khuyến cáo 2.1.1).",
+     "Vì sao chưa nghĩ hẹp động mạch thận: dữ kiện gợi ý (ESC PAD 2024 Bảng 13) là THA nặng khởi phát muộn kèm BTM, âm thổi bụng, THA kháng trị, phù phổi cấp, creatinin tăng sau thuốc RAS; ông không có, creatinin chỉ tăng khoảng 6% (< 30%: KDIGO điểm thực hành 3.6.4; QĐ 2388 mục 3.4.2). Chưa có Doppler nên chưa loại trừ hoàn toàn: theo dõi creatinin khi tăng liều.",
+     "Nguyên nhân: THA lâu năm và tuổi cao (QĐ 2388 mục 2.2.1–2.2.2); không đái tháo đường, không hồng cầu niệu, không phù. Tiểu đêm, dòng yếu, tuyến tiền liệt to nhẹ: tắc nghẽn là yếu tố khởi động tổn thương (mục 2.2.2) nên phải hẹn siêu âm.",
+     "Mệt và ngủ gật ban ngày do dậy tiểu 3 lần; Hb 134 g/L không thiếu máu (QĐ 2388 mục 4.4.1), không ngứa, không buồn nôn: chưa có triệu chứng ure máu cao. Té ngã khi đi tiểu đêm là nguy cơ thật, ảnh hưởng mục tiêu huyết áp (KDIGO 2024 điểm thực hành 3.4.1).",
+     "Applicability note (≥ 75 tuổi): thử nghiệm thường loại hoặc ít người cao tuổi; phân tích theo nhóm tuổi cho lợi ích nhất quán (ESC 2026 mục 14.1). Cân nhắc mức yếu, nguy cơ té ngã, nguyện vọng của ông khi chọn mức hạ áp và số thuốc; KDIGO 3.15.1.1 không nêu giới hạn tuổi trên của statin."
+    ],
+    "phan_tich_xu_tri": [
+     "Ca ổn định, không cấp cứu, không nhập viện, không chuyển khẩn: G3a A2 do bác sĩ không chuyên Thận theo dõi được, ít nhất 2 lần/năm (QĐ 2388 Bảng 9, 10); eGFR 48 > 30, không giảm > 20% so với nền, không đái máu (QĐ 2388 mục 4.2; KDIGO 2024 Hình 48). Chuyển khẩn hay nhập viện làm ông tin mình sắp chạy thận và bỏ theo dõi.",
+     "Giữ losartan 50 mg + amlodipin 5 mg: ức chế RAS là nền tảng (KDIGO 2024 điểm thực hành 3.6.1; ESC 2026 Bảng khuyến cáo 12; QĐ 2388 mục 4.3.2.2), kết hợp chẹn kênh canxi (QĐ 2388 mục 4.3.2.2). Không ngưng khi creatinin tăng khoảng 6% (KDIGO điểm thực hành 3.6.4; QĐ 2388 mục 7.4.2: 25%). Không phối hợp thêm ức chế men chuyển hay chẹn thụ thể (KDIGO khuyến cáo 3.6.4, 1B).",
+     "Mục tiêu HA: < 120 (KDIGO), 120–129 (ESC 2026, VSH/VNHA) hoặc 130 đến < 140 ở ≥ 65 tuổi (QĐ 5904), cả ba ghi trong sổ. Ông 78 tuổi, từng té ngã, HA đứng giảm 14/8 nên tăng thuốc từ từ (KDIGO điểm thực hành 3.4.1). Kiểm HA, creatinin, kali 2–4 tuần sau mỗi lần tăng liều (KDIGO điểm thực hành 3.6.2); ngưng khi creatinin tăng > 30% (KDIGO) hay > 25% (QĐ 2388 mục 7.4.2) hoặc kali không kiểm soát.",
+     "Statin: có chỉ định ở ≥ 50 tuổi và eGFR < 60 (KDIGO khuyến cáo 3.15.1.1; ESC 2026 Bảng khuyến cáo 10). Atorvastatin 10 mg khởi đầu (QĐ 5904 Phần 3 mục G) đến 20 mg (QĐ 2388 Bảng 20). Không dùng simvastatin > 20 mg khi đang dùng amlodipin (QĐ 5904 Phần 3 mục G). Liều riêng cho 78 tuổi: không có trong tài liệu đã tải.",
+     "Thuốc nam và NSAID: ngưng thuốc nam, không NSAID, dùng paracetamol (QĐ 2388 mục 7.4.2; KDIGO điểm thực hành 4.1.3). Hỏi để thấy ông giấu vì sợ bị la, không phê phán.",
+     "Ngày ốm: tạm ngưng losartan khi mất nước và nhớ uống lại (KDIGO 2024 mục 4.3, Hình 47); chứng cứ phòng AKI còn yếu. SGLT2i: chờ UACR, khuyến cáo 1A nếu ≥ 200 mg/g (KDIGO 3.7.2; QĐ 2388 mục 4.1.2.1; ESC 2026 Bảng 12); hôm nay chưa đủ tiêu chí.",
+     "Giấu bệnh vì sợ: nếu không hỏi riêng thì không biết tiểu đêm, té ngã; không nói rõ nỗi sợ chạy thận thì ông không tái khám. Giải thích đúng, đặt lịch rõ ràng là một phần điều trị (QĐ 2388 mục 4.1.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Losartan",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn, cùng giờ (hộp chia ngày của chị Mai)",
+      "so_ngay": "Dùng lâu dài; kiểm HA, creatinin, kali sau 2–4 tuần nếu tăng liều",
+      "ghi_chu": "Giữ nguyên liều hôm nay. Khởi đầu 50 mg, tối đa 100 mg, không chỉnh theo chức năng thận (QĐ 2388/2024 Bảng 12); lần hẹn cân nhắc 100 mg nếu HA còn cao và đứng không tụt (KDIGO 2024 điểm thực hành 3.6.1). Ngừng khi kali tăng không kiểm soát hoặc creatinin tăng > 30% (KDIGO điểm thực hành 3.6.4) hay > 25% (QĐ 2388 mục 7.4.2). Tạm ngưng khi nôn, tiêu chảy, ăn uống kém (KDIGO Hình 47)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg/viên",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng lúc với losartan",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ phù mắt cá, đỏ mặt (QĐ 5904/2019 Phần 3 mục G). Không tăng liều hôm nay vì HA đứng giảm 14/8 và ông từng té ngã."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "10 mg hoặc 20 mg/viên",
+      "lieu": "10–20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối; bắt đầu hôm nay hoặc ở lần hẹn 2–4 tuần",
+      "so_ngay": "Dùng lâu dài; chỉnh liều theo LDL-C và dung nạp",
+      "ghi_chu": "KDIGO 2024 khuyến cáo 3.15.1.1 (1A); QĐ 2388 Bảng 20 (20 mg, 4D); QĐ 5904 Phần 3 mục G (khởi đầu 10 mg, tối đa 80 mg). Báo khi đau cơ, nước tiểu sẫm, vàng da (QĐ 2388 mục 4.6.3.2). Liều riêng cho tuổi 78: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (khi đau gối)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg × 1 viên/lần khi đau, tối đa 4 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Dùng khi cần",
+      "ghi_chu": "Thay NSAID (QĐ 2388 mục 7.4.2; KDIGO Bảng 31). Thoái hóa khớp gối 1–2 g/ngày (QĐ 361/2014 mục 4.2.2); người cao tuổi, gầy: dưới 3 g/ngày (Phụ lục NSAID mục 3.3); nguồn khác tối đa 4 g/ngày (Phụ lục thuốc giảm đau mục 3.1), chọn mức thận trọng."
+     }
+    ],
+    "dan_do": [
+     "Thận của ông còn khoảng một nửa sức lọc (giai đoạn 3a), mấy lần xét nghiệm trong 14 tháng gần như không đổi. Không phải ai cũng chạy thận; việc ông cần làm là giữ huyết áp, tránh thuốc hại thận, đi xét nghiệm đều (QĐ 2388 mục 4.1.2, Bảng 9).",
+     "Đừng giấu: tiểu đêm, té ngã, thuốc nam đều cần nói với bác sĩ; ông có thể nói riêng nếu ngại con lo.",
+     "Ngưng thuốc nam, thuốc bổ, nước sắc; không dùng thuốc giảm đau chống viêm (ibuprofen, diclofenac, meloxicam); đau gối dùng paracetamol; hỏi bác sĩ trước khi uống thuốc mới (QĐ 2388 mục 7.4.2).",
+     "Uống thuốc mỗi sáng theo hộp chị Mai xếp. Nôn, tiêu chảy, sốt, ăn uống kém: tạm ngưng losartan, gọi phòng khám; khi khỏi uống lại và ghi ngày uống lại (KDIGO 2024 Hình 47).",
+     "Muối dưới 5 g/ngày: bớt nước mắm, kho mặn, dưa muối (KDIGO khuyến cáo 3.3.2.1). Ăn đủ đạm khoảng 46 g/ngày (cá, trứng, đậu), không kiêng khắt khe vì ông gầy (KDIGO khuyến cáo 3.3.1.1, điểm thực hành 3.3.1.5).",
+     "Đo HA tại nhà bằng máy bắp tay, ngồi nghỉ 5 phút, sáng và tối, ghi sổ. Ban đêm bật đèn, dép chống trượt, ngồi dậy từ từ khi đi tiểu (nguy cơ té ngã: KDIGO điểm thực hành 3.4.1). Vận động nhẹ dần đến khoảng 150 phút mỗi tuần (QĐ 2388 mục 4.1.1).",
+     "Lấy nước tiểu đầu buổi sáng làm UACR và siêu âm thận ở bệnh viện huyện trong 1–2 tuần; tái khám sau 2–4 tuần mang kết quả và sổ HA, sau đó ít nhất 2 lần mỗi năm (QĐ 2388 Bảng 9).",
+     "Quay lại sớm nếu phù chân hoặc mặt, nước tiểu ít hẳn hoặc đỏ, khó thở, chóng mặt ngất, té ngã, không đi tiểu được."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 3 tuần, ông Thiện quay lại với sổ huyết áp nhà 128–136/70–76 mmHg. UACR 78 mg/g (A2); siêu âm: hai thận 9,5–9,7 cm cân xứng, không ứ nước, tuyến tiền liệt to nhẹ, tồn lưu khoảng 40 mL; creatinin 128 µmol/L, kali 4,5 mmol/L. Ông đã ngưng thuốc nam, kể được chuyện tiểu đêm và té ngã; chị Mai sắp xếp giờ làm để phụ chăm bà Sáu. Sau 12 tháng eGFR vẫn quanh 47–49, ông không phải lọc máu. Các quyết định đều đúng; sự ổn định đến từ việc phát hiện điều ông giấu.",
+ "nhieu": [
+  "Chuyện ông Tư chạy thận, chợ cá, con rể đổi việc, mái bếp dột: lạc đề nhưng có chuyện chạy thận là nguồn nỗi sợ thật. Bác sĩ nên nghe một đoạn rồi dẫn lại bằng câu hỏi ngắn.",
+  "Đau lưng cũ (hồi khiêng gạo): ông tưởng là đau thận. Đau cơ học, không sốt, không tiểu buốt, không đau góc sườn lưng; không liên quan BTM.",
+  "Hay nói \"tui khỏe, chỉ lấy thuốc\": gạt đi triệu chứng thật. Hỏi cụ thể từng ý (đi tiểu ban đêm, té ngã, thuốc nam) thì ông nói."
+ ],
+ "bai_hoc_bien": [
+  "Kể lể lộn xộn không đồng nghĩa với sa sút trí tuệ: làm MoCA và nghe túi giấy tờ trước khi gán \"lẫn\"; hỏi ngắn, từng ý, chốt lại bằng \"tức là...\".",
+  "Giấu triệu chứng vì ngại: tiểu đêm, té ngã, thuốc nam chỉ lộ khi hỏi cụ thể và hỏi riêng. Hỏi \"có gì khác không\" thì được câu trả lời \"không\".",
+  "Chứng minh tính mạn tính bằng số cũ: eGFR < 60 phải kéo dài trên 3 tháng, không chẩn đoán từ một lần đo (QĐ 2388 mục 3.3; KDIGO 2024 điểm thực hành 1.1.3.1–1.1.3.2). Túi giấy tờ cũ là bằng chứng quý nhất ở phòng khám chỉ có xét nghiệm cơ bản.",
+  "Phòng khám không có siêu âm và UACR: que nhúng cho nhóm A tạm, hẹn UACR và siêu âm, không cần Doppler thận hay CT cản quang.",
+  "Applicability note: người ≥ 75 tuổi hiếm trong thử nghiệm; phân tích theo nhóm tuổi cho lợi ích nhất quán (ESC 2026 mục 14.1). Chọn mục tiêu HA, số thuốc theo mức yếu, nguy cơ té ngã (KDIGO 2024 điểm thực hành 3.4.1).",
+  "Nỗi lo thật (sợ chạy thận) quyết định ông có theo dõi hay không: giải thích đúng, không chuyển khẩn khi chưa có tiêu chí."
+ ],
+ "diem_nho": [
+  "BTM: eGFR < 60 hoặc UACR > 30 mg/g kéo dài từ 3 tháng (QĐ 2388 mục 3.3, Bảng 6). G3a 45–59 (Bảng 7). Que nhúng \"vết – 1+\" tương ứng A2 (Bảng 8).",
+  "G3a A2 là nhóm \"cam\": khám xét nghiệm ít nhất 2 lần/năm, bác sĩ không chuyên Thận theo dõi được; chuyển nếu albumin niệu tăng hoặc eGFR giảm, nhất là người < 70 tuổi (QĐ 2388 Bảng 9).",
+  "Ức chế RAS tiếp tục trừ khi creatinin tăng > 30% trong 4 tuần hoặc kali không kiểm soát (KDIGO 2024 điểm thực hành 3.6.4–3.6.5); QĐ 2388 mục 7.4.2 dùng ngưỡng 25%.",
+  "Tránh NSAID, thuốc nam, thuốc cản quang không cần thiết (QĐ 2388 mục 7.4.2); dạy quy tắc ngày ốm và nhớ uống lại (KDIGO 2024 Hình 47).",
+  "Statin ở ≥ 50 tuổi và eGFR < 60 (KDIGO 3.15.1.1, 1A); SGLT2i khi UACR ≥ 200 mg/g (KDIGO 3.7.2)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2388/QĐ-BYT 2024, Hướng dẫn chẩn đoán và điều trị bệnh thận mạn và một số bệnh lý thận – TL-0280 – mục 2.2.1–2.2.3, 3.2.2, 3.2.3, 3.3 (Bảng 6), 3.4.1 (Bảng 7), 3.4.2 (Bảng 8, 9), 3.5, 4.1.1, 4.1.2, 4.1.2.1, 4.2 (Bảng 10), 4.3.2.1 (Bảng 11), 4.3.2.2 (Bảng 12), 4.4.1, 4.6.3.1–4.6.3.2 (Bảng 20), 4.8.2.1, 4.11.1, 7.4.2, 7.7.2.1",
+  "KDIGO 2024 CKD Guideline – TL-0308 – điểm thực hành 1.1.3.1–1.1.3.2, 1.2.2.6, 2.1.1–2.1.5, 3.3.1.1, 3.3.1.5, 3.3.2.1, 3.4.1, 3.6.1–3.6.7, 3.7.2–3.7.3, 3.14.2, 3.15.1.1, 4.1.3, 4.3.2, 5.1.1; Bảng 8, 31; Hình 47, 48",
+  "KDIGO 2012 AKI Guideline – TL-0329 – khuyến cáo 2.1.1",
+  "ESC 2026 CV-CKD – TL-0293 – Bảng khuyến cáo 9, 10, 12; mục 14.1",
+  "ESC 2024 Peripheral arterial and aortic diseases – TL-0058 – mục 8.3.2.1.1–8.3.2.1.3, Bảng 13",
+  "BYT – QĐ 5904/QĐ-BYT 2019, Hướng dẫn chẩn đoán, điều trị và quản lý một số bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 Bước 5 mục A.2; Phần 3 mục G",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (04/11/2026): viết theo QĐ 2388/2024 (TL-0280), KDIGO 2024 (TL-0308), ESC 2026 CV-CKD (TL-0293), ESC PAD 2024 (TL-0058), KDIGO AKI 2012 (TL-0329), QĐ 5904/2019 (TL-0284). Mâu thuẫn đã có trong sổ và ghi cả hai cách: HATT mục tiêu ở BTM, ngưỡng creatinin để ngừng ức chế RAS (25% hay 30%), mốc kiểm creatinin–kali (7–14 ngày hay 2–4 tuần), muối (5 g hay 6 g), đạm 0,8 g/kg hay 0,55–0,60 g/kg, atorvastatin 10 hay 20 mg ở người ≥ 75 tuổi, ngưỡng chuyển bác sĩ thận.",
+  "Chỗ thiếu tài liệu: liều statin riêng cho người 78 tuổi; điều trị phì đại tuyến tiền liệt và PSA; giá và độ sẵn có của SGLT2i ở Việt Nam; quy đổi que nhúng ra mg/g (Bảng 8 chỉ ghi \"vết – 1+\" là A2). Quy tắc ngày ốm có chứng cứ yếu (KDIGO ghi rõ).",
+  "Dữ kiện hồ sơ cũ (09/2025, 03/2026, 04/2026), siêu âm, UACR, kết cục do tác giả dựng cho bài, không phải số liệu thật."
+ ]
+}

@@ -1,0 +1,631 @@
+{
+ "ma_ca": "MT-0304",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_dtd_tip2_theo_doi_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Đái tháo đường type 2 (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "ĐTĐ type 1/LADA",
+   "ĐTĐ thứ phát"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm, từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Gia đình thúc ép đi khám"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Lụa",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Giáo viên tiểu học hưu trí",
+  "can_nang": 52,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'; gọi con gái là 'con Hương'.",
+  "tinh_cach": "Nhẹ nhàng, lịch sự, hay xin lỗi vì làm phiền người khác. Nói chậm, thỉnh thoảng quên chi tiết, nhìn sang con gái. Cho rằng 'già thì mệt là thường', ngại tốn tiền, sợ nhất là bị bắt tiêm thuốc. Hiểu biết y khoa ít, biết mình bị tiểu đường và huyết áp.",
+  "kieu_nhieu": "Hợp tác tốt: trả lời thật khi được hỏi, không giấu cố ý. Nhưng bà không nhớ chính xác tên thuốc, số liều, và không coi cơn run là chuyện cần kể; các chi tiết đó cần hỏi cụ thể, hoặc hỏi con gái (nguoi_noi = nguoi_nha cho việc uống thuốc, cơn ngồi bệt, trí nhớ).",
+  "nguoi_nha": "Con gái, chị Hương, 50 tuổi, ở cách 3 km, ghé nhà mỗi chiều sau giờ làm. Lo lắng, hay nói thay mẹ. Chị biết: mẹ ăn ít, gầy, quên thuốc, uống trùng thuốc, lần ngồi bệt giữa bếp, hay hỏi lại. Chị KHÔNG biết chuyện amoxicillin tự mua và nỗi sợ tiêm của mẹ.",
+  "ten_nguoi_nha": "Chị Hương (con gái)",
+  "ngoai_hinh": {
+   "da": "#e3bf9f",
+   "toc": "#d9d6d0",
+   "kieuToc": "bui",
+   "ao": "#8a6f9b",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e2b08a",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#5f8f6f",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, con gái bắt đi khám",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Phạm Thị Lụa, 79 tuổi, giáo viên tiểu học hưu trí, đái tháo đường típ 2 khoảng 12 năm và tăng huyết áp, uống thuốc ở nhà. Con gái đưa đi khám định kỳ vì dạo này bà mệt, ăn ít. Sinh hiệu: HA 138/78 mmHg, mạch 76 l/p, cân nặng 52 kg, BMI 23.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Lụa, 79 tuổi, bị nhập viện chỉ để chỉnh đường huyết, dù ăn uống được, không toan ceton và không hạ đường huyết nặng (QĐ 5481 Phần 6, Phần 7 mục 2.1). Đổi nơi ở, giờ ăn, ngủ lạ làm người giảm nhận thức nhẹ dễ lú lẫn, bỏ ăn, mất ngủ (NICE CG103 mục 1.1.1, 1.2.1: tuổi ≥ 65 và suy giảm nhận thức là yếu tố nguy cơ mê sảng). Nguyên nhân thật là glimepiride, quên thuốc và ăn uống thất thường vẫn chưa được giải quyết, ra viện bà lại về chung một hộp thuốc cũ, chị Hương mất ngày công và tiền viện phí.",
+    "chuyen_tuyen": "Bà Lụa bị chuyển lên bệnh viện tuyến trên để 'kiểm tra trí nhớ và chụp CT não' trong khi chưa sàng lọc đủ nguyên nhân đảo ngược (hạ đường huyết, B12, giáp, trầm cảm: ADA 2026 KC 6.20, 13.2), còn chỉ định chụp não không có trong tài liệu đã tải. Chị Hương nghỉ làm cả ngày đưa mẹ đi. Glimepiride vẫn chưa ngưng nên cơn hạ đường huyết tiếp diễn trong thời gian chờ lịch hẹn.",
+    "theo_doi": "Bà Lụa chỉ được dặn uống thuốc đều và hẹn 3 tháng sau, vẫn giữ glimepiride 2 mg. Cơn run, vã mồ hôi lúc 10–11 giờ còn tiếp diễn, bà tiếp tục ăn bánh ngọt chữa cơn và HbA1c không xuống. Hạ đường huyết ở người cao tuổi có thể gây té ngã, chấn thương, tai nạn (ADA 2026 mục 6, phần 'Hypoglycemia'); quên rồi uống trùng glimepiride làm tăng nguy cơ cơn nặng hơn (ADA 2026 KC 6.19; AGS Beers 2023 Bảng 2)."
+   },
+   "loi_mo": "Chào bác sĩ. Con gái nó bắt tôi đi khám chứ tôi thấy cũng bình thường, già rồi thì mệt chút thôi. Làm phiền bác sĩ quá.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/78",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Dạo này mệt, ăn ít hơn trước. Con gái bắt đi khám chứ bà thấy 'già thì mệt chút thôi'. Bị đái tháo đường khoảng 12 năm, tăng huyết áp khoảng 10 năm, uống thuốc ở nhà mỗi ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 3 tháng nay mệt dần, không có ngày nào đột ngột. Ăn kém, mau no, mỗi bữa chỉ nửa chén cơm hoặc chén cháo. Sụt khoảng 3 kg (từ 55 xuống 52 kg), áo quần rộng ra. Không sốt, không đau bụng, không nôn, không tiêu chảy, phân vàng, không phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát âm thầm, sụt cân, ăn kém"
+    },
+    {
+     "id": "trieu_chung_tang_dh",
+     "noi_dung": "Uống nước nhiều hơn trước một chút, đêm dậy tiểu 2 lần (trước đây 0–1 lần). Không đau bụng, không buồn nôn nặng, không thở nhanh sâu, không lơ mơ, vẫn uống được nước, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tăng đường huyết; loại trừ biến chứng cấp (nhiễm toan ceton, tăng áp lực thẩm thấu)"
+    },
+    {
+     "id": "benh_su_dtd",
+     "noi_dung": "Chẩn đoán đái tháo đường năm 67 tuổi, uống thuốc từ đó, chưa từng tiêm insulin, chưa từng nằm viện vì đường huyết. HbA1c cách đây 8 tháng (khám ở bệnh viện huyện) là 7,2%, bác sĩ nói 'tốt'. Từ đó chưa thử lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian bệnh, HbA1c cũ đạt mục tiêu: lần này là tái phát"
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Bà mang theo túi thuốc: metformin 500 mg sáng và tối; glimepiride 2 mg sáng; amlodipin 5 mg sáng; atorvastatin 10 mg tối. Không dùng corticoid, thuốc nam, thuốc bắc, thực phẩm chức năng. Đơn thuốc lấy ở trạm y tế, cũ khoảng 1 năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (sulfonylurea ở người rất cao tuổi)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "(Con gái kể) Bà tự chia thuốc trong ngăn tủ, hay quên: bữa tối thường quên metformin; khoảng 2–3 ngày mỗi tuần quên liều sáng; có hôm uống glimepiride hai lần vì 'không nhớ đã uống chưa'. Chị Hương phát hiện khi đếm vỉ thuốc còn thừa. Bà nói: 'Cứ để tôi tự uống được rồi'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi về cách uống thuốc, có quên liều không, ai chia thuốc, hoặc hỏi con gái về thuốc của mẹ.",
+     "k": 1,
+     "y": "Tuân thủ kém, nguy cơ uống trùng sulfonylurea"
+    },
+    {
+     "id": "ha_duong",
+     "noi_dung": "Khoảng 1–2 tháng nay, vài lần buổi sáng (10–11 giờ) bà run tay, vã mồ hôi, hồi hộp, hoa mắt, đói lả. Bà ăn vội cái bánh ngọt hoặc uống nước đường thì đỡ sau 10–15 phút. Bà không cho là bệnh nên không kể. (Con gái kể) Tuần trước chị thấy mẹ ngồi bệt dưới sàn bếp, mặt tái, ướt mồ hôi, nói 'không sao', ăn viên kẹo thì đỡ. Chưa từng ngất, co giật, lú lẫn nặng, chưa té ngã.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'còn khó chịu gì' hoặc 'có đường huyết thấp không' (dùng từ chuyên môn) thì bà nói không. Chỉ kể khi bác sĩ hỏi cụ thể có cơn run tay, vã mồ hôi, hồi hộp, hoa mắt, đói lả, có lúc phải ăn đường hay bánh gấp, hoặc khi hỏi con gái có thấy mẹ lúc nào lạ không.",
+     "k": 1,
+     "y": "Cơn hạ đường huyết nhẹ tái diễn do glimepiride"
+    },
+    {
+     "id": "che_do_an",
+     "noi_dung": "Mau no, răng yếu nhai khó nên ăn ít; bỏ bữa sáng nếu chưa đói. Hay ăn bánh ngọt, chè, uống nước mía vì 'dễ nuốt' và để phòng cơn run. Ít thịt cá, ăn nhiều cháo trắng. Chưa từng được tư vấn dinh dưỡng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dinh dưỡng, ăn đường để chữa cơn run"
+    },
+    {
+     "id": "amoxicillin",
+     "noi_dung": "5 ngày nay ho khan nhẹ, ngứa họng, không sốt, không khó thở, đờm trong. Bà nghĩ 'mệt vì nhiễm trùng' nên ra tiệm thuốc đầu ngõ mua amoxicillin 500 mg, uống 1 viên ngày 3 lần, đã uống 5 ngày, còn vài viên. Ho đã giảm nhiều.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể thuốc tiểu đường, huyết áp, mỡ máu. Chỉ kể amoxicillin khi bác sĩ hỏi thuốc tự mua, kháng sinh, thuốc ho cảm, hoặc hỏi dạo này có ho, sốt, đau họng gì không.",
+     "k": 1,
+     "y": "Kháng sinh tự mua cho ho nhẹ"
+    },
+    {
+     "id": "nhan_thuc",
+     "noi_dung": "(Con gái kể) Khoảng nửa năm nay mẹ hay hỏi lại cùng một câu, để quên nồi trên bếp, cất đồ sai chỗ. Vẫn tự nấu ăn đơn giản, tự đi chợ gần nhà, tự tắm; nhờ con trả tiền điện nước. Không lạc đường, không nói sai người thân. Bà nói 'già thì hay quên'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giảm nhận thức nhẹ, ảnh hưởng tuân thủ thuốc"
+    },
+    {
+     "id": "te_nga_tam_trang",
+     "noi_dung": "Không té ngã trong năm qua; đi chậm, không dùng gậy. Không chóng mặt khi đứng dậy. Ngủ được, vẫn đi chùa với bạn, không buồn chán hay bi quan. Không dùng thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "bien_chung",
+     "noi_dung": "Thỉnh thoảng tê nhẹ đầu ngón chân, không đau rát, không loét. Mắt hơi mờ khi đọc báo, đã đeo kính lão; khám mắt lần cuối cách đây 2 năm ở bệnh viện huyện, 'không sao'. Chưa bao giờ có đạm niệu theo lời bà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng biến chứng mạn, lần khám mắt cuối"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực, không khó thở khi đi lại trong nhà hay leo vài bậc thềm, không phù chân. Không tiền sử đột quỵ hay nhồi máu cơ tim. Huyết áp đo ở trạm y tế gần đây khoảng 140/80.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "xa_hoi",
+     "noi_dung": "Góa chồng 6 năm, sống một mình; con gái 50 tuổi ở cách 3 km ghé mỗi chiều, con trai làm việc ở xa. Không hút thuốc, không rượu. Nhà có máy thử đường huyết nhưng 'để trong ngăn kéo' đã lâu không dùng. Sống bằng lương hưu, không khó khăn lớn về tiền.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: bà không thấy mình có bệnh gì nặng. Chị Hương thúc ép đi khám vì mấy tuần nay thấy mẹ ăn ít, gầy, hay quên và có lần ngồi bệt giữa bếp. Bà ngại làm phiền con, ngại tốn tiền, và sợ nhất là bác sĩ 'cho thêm thuốc, bắt tiêm' như bà bạn cùng xóm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà tự muốn đi khám hay ai bảo đi, bà lo điều gì, hoặc hỏi thẳng nỗi sợ về thuốc, tiêm insulin. Khi nói ra thì xin 'cho uống thuốc thôi, đừng tiêm'.",
+     "k": 1,
+     "y": "Động cơ thật: gia đình thúc ép; sợ tiêm insulin, thêm thuốc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, trả lời chậm, thỉnh thoảng nhìn sang con gái. Cân nặng 52 kg, cao 1,50 m, BMI 23,1 (sổ khám cũ 55 kg). Vòng eo 82 cm. Niêm mạc hồng nhạt, môi hơi khô, da nhăn khô, độ đàn hồi giảm nhẹ. Không phù. Không dấu mất nước nặng.",
+     "k": 1,
+     "hien": "Cân 52 kg, BMI 23,1. Tỉnh, tiếp xúc chậm."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 140/80 mmHg, mạch 74 l/p; đứng 3 phút 134/78 mmHg, mạch 80 l/p. Không chóng mặt khi đứng.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, lồng ngực cân đối. Rì rào phế nang êm, không ran. Họng đỏ nhẹ.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, không co kéo.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, gan lách không sờ thấy, không khối u.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô, móng dày nhẹ, không loét, không chai, không biến dạng. Mạch mu chân và chày sau bắt được hai bên. Monofilament 10 g: cảm nhận đủ ở 3 vị trí mỗi bàn chân; âm thoa 128 Hz: còn cảm nhận rung ở ngón cái hai bên. Không phù.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Đục thủy tinh thể nhẹ hai mắt. Võng mạc: không vi phình mạch, không xuất tiết, không xuất huyết, không tân mạch: chưa có bệnh võng mạc ĐTĐ.",
+     "k": 0
+    },
+    "nhan_thuc_moca": {
+     "a": "MoCA 20/30: mất điểm ở nhớ muộn (nhớ 1/5 từ), định hướng thời gian (sai thứ trong tuần), vẽ đồng hồ. Mini-Cog 2/5 (nhớ lại 0/3 từ, vẽ đồng hồ đúng). Chưa kết luận sa sút trí tuệ: cần loại trừ nguyên nhân có thể đảo ngược (hạ đường huyết, B12, giáp, trầm cảm).",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Khí sắc ổn, không buồn chán, ngủ tốt, không ý tưởng tự hại. GDS-5: 1/5 điểm. Không ảo giác, không hoang tưởng.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy khỏi ghế không cần tay vịn, đi chậm bước ngắn, không loạng choạng, quay người ổn.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "9,6 mmol/L",
+     "ab": 1,
+     "n": "Glucose đói mục tiêu người phức tạp/trung gian 5,0–8,3 mmol/L (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5: 90–150 mg/dL)."
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "8,7%",
+     "ab": 1,
+     "n": "Mục tiêu < 8,0% (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5). Cách đây 8 tháng 7,2%: tái phát."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "8,9 mmol/L (đo lúc khám, bà ăn sáng cách 1 giờ)",
+     "n": "Đo tại giường giúp loại trừ hạ đường huyết ngay lúc khám; không thay được việc ghi nhật ký đường huyết lúc có triệu chứng (ADA 2026 KC 6.10)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 84 µmol/L · eGFR 61 mL/ph/1,73m²",
+     "n": "Quyết định liều metformin (giảm liều khi eGFR 30–45, chống chỉ định < 30: QĐ 5481 PL01 mục 2) và liều DPP-4i (sitagliptin giảm 50 mg khi eGFR 30–50: PL01 mục 6a); eGFR, UACR ít nhất hằng năm (ADA 2026 KC 11.1a).",
+     "bang": {
+      "creat": 84,
+      "egfr": 61
+     }
+    },
+    "uacr": {
+     "v": "e",
+     "r": "18 mg/g (bình thường)",
+     "n": "Một lần bình thường; lặp lại hằng năm (ADA 2026 KC 11.1a)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 4,6 · LDL-C 2,4 · HDL-C 1,3 · TG 1,8 mmol/L",
+     "n": "Đã dùng statin: ADA 2026 KC 10.22 tiếp tục khi > 75 tuổi; đo lại hằng năm (KC 10.17)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L · Hb 126 g/L · TC 245 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "rbc": 4.2,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 91.0,
+      "mch": 30.0,
+      "mchc": 330,
+      "rdw": 13.4,
+      "plt": 245,
+      "neu_pct": 62.0,
+      "lym_pct": 28.0,
+      "mono_pct": 7.0,
+      "eos_pct": 2.5,
+      "baso_pct": 0.5
+     },
+     "n": "Không thiếu máu, không bạch cầu tăng: không gợi ý nhiễm khuẩn nặng; Hb bình thường làm HbA1c đáng tin."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 22 · ALT 18 U/L"
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 4,2 mmol/L",
+     "n": "Không mất nước, không rối loạn điện giải."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Glucose 1+ · Ceton âm · Protein âm · Bạch cầu âm · Nitrit âm",
+     "n": "Ceton âm: không nghĩ nhiễm toan ceton (QĐ 5481 Phần 7 mục 2.1)."
+    },
+    "b12": {
+     "v": "u",
+     "r": "Vitamin B12 410 ng/L",
+     "n": "Metformin 12 năm làm tăng nguy cơ thiếu B12, nên định lượng định kỳ (ADA 2026 Bảng 9.2); kết quả > 350 ng/L: ít khả năng thiếu B12 (NICE NG239 2024, bảng diễn giải B12 toàn phần). Loại trừ nguyên nhân đảo ngược của giảm nhận thức."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 2,1 mIU/L; FT4 bình thường.",
+     "n": "Mệt, sụt cân, giảm nhận thức: loại trừ rối loạn giáp là hợp lý nhưng ADA 2026 Bảng 4.1 chỉ đưa TSH cho ĐTĐ típ 1; không tài liệu đã tải nêu cho ĐTĐ típ 2 cao tuổi: chấp nhận."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 74 l/p, không bất thường.",
+     "n": "QĐ 5481 Bảng 2: điện tim ở lần đánh giá đầu; không bắt buộc ở bà (đã theo dõi nhiều năm)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tim, phổi chưa thấy bất thường.",
+     "n": "Ho nhẹ không sốt, phổi sạch: CHEST 2020 không chụp thường quy; QĐ 708/2015 mục 2 nên chụp khi > 75 tuổi (sổ mâu thuẫn, mục từ HH-0671): chấp nhận."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan nhiễm mỡ nhẹ. Tụy quan sát được, kích thước bình thường, ống tụy không giãn. Thận hai bên bình thường, không ứ nước.",
+     "n": "Sụt cân 3 kg, ĐTĐ cao tuổi: khảo sát tụy khi nghi ĐTĐ thứ phát là hợp lý (ADA 2026 Hình 2.1 chú thích 7); QĐ 5481 Bảng 2 có siêu âm bụng ở lần đầu. Không bắt buộc."
+    },
+    "gad_cpep": {
+     "n": "Không chỉ định. BMI 23 và sụt cân là hai đặc điểm 'ít điển hình típ 2' (ADA 2026 Hình 2.1 chú thích 5), nhưng khởi phát 67 tuổi, 12 năm đạt HbA1c 7,2% với thuốc uống, không toan ceton: típ 2 nên được nghĩ mạnh ở người cao tuổi (chú thích 7). Kháng thể chỉ làm khi có đặc điểm chồng lấn típ 1 (KC 2.10)."
+    },
+    "echo": {
+     "n": "Không triệu chứng tim; ADA 2026 KC 10.37a: không tầm soát bệnh mạch vành thường quy."
+    },
+    "ct_bung": {
+     "n": "Cơ sở không có CT; không tài liệu đã tải nào đưa CT vào đánh giá ĐTĐ."
+    },
+    "ct_nao": {
+     "n": "Cơ sở không có CT. Giảm nhận thức nhẹ tiến triển chậm, không dấu thần kinh khu trú: ADA 2026 KC 6.20, 13.2 chỉ yêu cầu sàng lọc nhận thức; chỉ định chẩn đoán hình ảnh não: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 tái phát mất kiểm soát (HbA1c 8,7%, trước đó 7,2%) ở người 79 tuổi nhiều bệnh; nguyên nhân do dùng thuốc không đều (giảm nhận thức nhẹ, quên và uống trùng liều) và ăn uống thất thường; kèm hạ đường huyết nhẹ tái diễn do glimepiride",
+     "ok": 1,
+     "n": "HbA1c 8,7% so với mục tiêu < 8,0% (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5). Quên liều và uống trùng glimepiride, ăn bánh ngọt chữa cơn run, MoCA 20/30. Cơn run 10–11 giờ sáng, đỡ khi ăn đường: hạ đường huyết nhẹ (QĐ 5481 Phần 6 mục 2: mức 1 < 3,9 mmol/L, chưa có số đo)."
+    },
+    {
+     "t": "Giảm nhận thức nhẹ, nguy cơ suy dinh dưỡng (sụt 3 kg/3 tháng)",
+     "ok": 1,
+     "n": "Mini-Cog 2/5 (< 3 gợi ý sa sút trí tuệ: ADA 2026 Bảng 13.1); sụt cân không chủ ý và ăn kém: sàng lọc MNA-SF (Bảng 13.1). B12 và TSH bình thường, GDS-5 1/5: chưa thấy nguyên nhân đảo ngược; theo dõi và đánh giá lại."
+    },
+    {
+     "t": "ĐTĐ típ 1 / LADA",
+     "n": "Khởi phát 67 tuổi, đáp ứng thuốc uống 12 năm, không toan ceton: nghiêng típ 2 (ADA 2026 Hình 2.1 chú thích 7). BMI 23 và sụt cân là điểm lệch, nhưng được giải thích bởi ăn kém và tăng đường huyết; không làm kháng thể (KC 2.10)."
+    },
+    {
+     "t": "ĐTĐ thứ phát (bệnh tụy, thuốc)",
+     "n": "Không dùng corticoid hay thuốc gây ĐTĐ, không đau bụng, không tiền sử viêm tụy, siêu âm tụy bình thường (ADA 2026 mục 2, Hình 2.1 chú thích 7: có thể cần xét ĐTĐ do bệnh tụy khi nghi)."
+    },
+    {
+     "t": "Nhiễm toan ceton / tăng áp lực thẩm thấu",
+     "n": "Không đau bụng, nôn, thở sâu, lơ mơ; ceton niệu âm, glucose 9,6 mmol/L (QĐ 5481 Phần 7 mục 2.1; ADA/EASD 2024 mục 3)."
+    },
+    {
+     "t": "Nhiễm khuẩn hô hấp cần kháng sinh",
+     "n": "Ho khan nhẹ, không sốt, phổi sạch, bạch cầu bình thường, X-quang bình thường: viêm đường hô hấp trên, không dùng kháng sinh (NICE NG120 2019, 1.1.8)."
+    },
+    {
+     "t": "Nguyên nhân khác gây mệt, sụt cân (ung thư, giáp, thiếu máu, thiếu B12)",
+     "n": "TSH, Hb, B12 bình thường; siêu âm bụng không khối; sụt cân chậm, giải thích được bởi ăn kém. Theo dõi cân mỗi lần khám; sụt tiếp sẽ phải tìm thêm (nguồn riêng cho khối u: không có trong tài liệu đã tải)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác định nhóm sức khỏe: nhiều bệnh/giảm nhận thức nhẹ, đặt mục tiêu HbA1c < 8,0% (đường huyết đói 5,0–8,3 mmol/L); không nhắm < 7%",
+     "v": "c",
+     "n": "ADA 2026 KC 13.7b, Bảng 13.2 (phức tạp/trung gian: < 8,0%, đói 90–150 mg/dL) hoặc QĐ 5481 Phần 4 Bảng 5 (nhiều bệnh, sức khỏe trung bình: < 8,0%, đói 90–150 mg/dL): hai nguồn trùng. ADA KC 6.3a (< 7%) dành cho nhiều người lớn, KC 6.5 nới lỏng khi có giảm nhận thức, bệnh đi kèm."
+    },
+    {
+     "t": "Ngưng glimepiride (hạ đường huyết, ăn kém, uống trùng liều), thay bằng thuốc ít gây hạ đường huyết: ức chế DPP-4 (linagliptin 5 mg hoặc sitagliptin 100 mg), giữ metformin",
+     "v": "c",
+     "n": "ADA 2026 KC 13.13, 13.14a, 6.6, 6.19: giảm bậc thuốc gây hạ đường huyết hoặc đổi sang nhóm nguy cơ thấp; AGS Beers 2023 Bảng 2: tránh sulfonylurea (mọi loại) làm thuốc bậc 1–2, mức khuyến cáo mạnh. QĐ 5481 Phần 4 mục 4.2e, 4.2j, PL01 mục 6a: nguy cơ hạ đường huyết cao thì ưu tiên DPP-4i; thận trọng sulfonylurea ở người lớn tuổi."
+    },
+    {
+     "t": "Đổi sang sulfonylurea tác dụng ngắn hơn (gliclazide MR 30 mg hoặc glipizide), giữ metformin, theo dõi hạ đường huyết sát",
+     "v": "a",
+     "n": "AGS Beers 2023 Bảng 2: nếu buộc dùng thì chọn loại tác dụng ngắn (glipizide) hơn loại dài (glimepiride); QĐ 5481 PL01 mục 1c: gliclazide ít gây hạ đường huyết hơn. Chấp nhận nhưng vẫn là nhóm nguy cơ cao ở người quên thuốc, ăn kém."
+    },
+    {
+     "t": "Đổi metformin sang dạng phóng thích chậm (XR) 1.000 mg uống 1 lần/ngày cùng bữa sáng; gom mọi thuốc vào một giờ (sau ăn sáng) để đơn giản hóa phác đồ",
+     "v": "c",
+     "n": "QĐ 5481 Bảng 14, PL01 mục 8: metformin XR 500–2.000 mg uống 1 lần giúp tuân thủ, thuốc phối hợp liều cố định giảm số viên; ADA 2026 Bảng 13.3: đơn giản hóa phác đồ khi nhận thức giảm. eGFR 61: không chỉnh liều (QĐ 5481 PL01 mục 2: giảm liều khi eGFR 30–45); thận trọng khi > 80 tuổi."
+    },
+    {
+     "t": "Giải quyết tuân thủ cùng con gái: hộp chia thuốc theo ngày, con gái kiểm tra/đếm thuốc mỗi chiều, thu lại thuốc cũ trong tủ, nói rõ vì sao không cần tiêm insulin",
+     "v": "c",
+     "n": "ADA 2026 KC 13.1 (đánh giá khả năng tự quản lý, người hỗ trợ), KC 6.20 (nhận thức giảm thì tăng cảnh giác hạ đường huyết), Bảng 13.3 (đơn giản hóa khi nhận thức giảm). QĐ 5481 Phần 3 mục 2.1: đánh giá tuân thủ và rào cản."
+    },
+    {
+     "t": "Sàng lọc hội chứng lão khoa: nhận thức (Mini-Cog/MoCA), trầm cảm (GDS-5), té ngã, dinh dưỡng (MNA-SF); định lượng B12 (metformin lâu năm) và TSH",
+     "v": "c",
+     "n": "ADA 2026 KC 13.2 và Bảng 13.1 (sàng lọc ít nhất hằng năm); KC 6.20; Bảng 9.2 (metformin: theo dõi B12)."
+    },
+    {
+     "t": "Hướng dẫn ăn đủ bữa, chia nhỏ bữa, đủ đạm (ít nhất 0,8 g/kg/ngày), không bỏ bữa, bỏ nước ngọt và bánh ngọt uống thường xuyên; không giảm cân chủ động",
+     "v": "c",
+     "n": "ADA 2026 KC 13.11a, 13.11b: đủ đạm và vận động sức cản để giữ khối cơ ở người cao tuổi; Bảng 13.1 (MNA-SF)."
+    },
+    {
+     "t": "Dạy bà và con gái nhận biết, xử trí hạ đường huyết: uống 15–20 g glucose hoặc 10–15 g, đo lại sau 15 phút, nhắc lại nếu còn thấp rồi ăn nhẹ",
+     "v": "c",
+     "n": "QĐ 5481 Phần 6 mục 1c: 15–20 g glucose, thử lại sau 15 phút; QĐ 5904/2019 Phần 3 Bước 4: 10–15 g glucose. ADA 2026 KC 6.15 (ưu tiên glucose, nhắc lại sau 15 phút), KC 6.18 (giáo dục có cấu trúc). Hai con số, không nguồn nào nói con số kia gây hại."
+    },
+    {
+     "t": "Ngưng amoxicillin tự mua, không kê thêm kháng sinh; dặn khi nào cần khám lại vì ho",
+     "v": "c",
+     "n": "NICE NG120 2019 mục 1.1.8: không kháng sinh cho ho do nhiễm hô hấp trên ở người không ốm nặng, không thuộc nhóm nguy cơ biến chứng; 1.1.15: > 65 tuổi cần ≥ 2 tiêu chí (hoặc > 80 tuổi và ≥ 1); bà 79 tuổi chỉ có 1 (đái tháo đường), chưa đủ."
+    },
+    {
+     "t": "Giữ amlodipin 5 mg; mục tiêu huyết áp < 140/90 mmHg hoặc < 130/80 mmHg nếu đạt được an toàn, không tăng thuốc khi có nguy cơ té ngã",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 Bảng 5: < 140/90 (người cao tuổi); ADA 2026 KC 13.9: < 130/80 khi đạt được an toàn, nới lỏng (ví dụ < 140/90) khi sức khỏe kém hoặc nguy cơ tác dụng phụ. HA 138/78, đứng không tụt: giữ nguyên."
+    },
+    {
+     "t": "Tiếp tục atorvastatin 10 mg",
+     "v": "c",
+     "n": "ADA 2026 KC 10.22: > 75 tuổi đã dùng statin thì tiếp tục; KC 13.10: cá thể hóa theo thời gian hưởng lợi."
+    },
+    {
+     "t": "Hẹn khám mắt (soi đáy mắt đã làm hôm nay, bình thường), khám bàn chân mỗi lần, UACR và eGFR hằng năm; cá thể hóa sàng lọc biến chứng theo mức ảnh hưởng chức năng",
+     "v": "c",
+     "n": "ADA 2026 KC 13.8, KC 12.5 (không có bệnh võng mạc, đường huyết trong mục tiêu: 1–2 năm); QĐ 5904/2019 Phần 3 mục F (2 năm nếu bình thường) hoặc QĐ 2558/2022 Bảng 5 (3–6 tháng); KC 11.1a."
+    },
+    {
+     "t": "Cho về, hẹn tái khám sau 2–4 tuần cùng con gái (xem nhật ký hạ đường huyết, cân nặng); HbA1c lại sau 3 tháng",
+     "v": "c",
+     "n": "QĐ 5481 Phần 3 mục 2.3: đang điều chỉnh thuốc tái khám 0,5–1 tháng/lần, HbA1c 3 tháng một lần; ADA 2026 KC 6.2: đánh giá mỗi 3 tháng khi thay đổi điều trị. Không có tiêu chuẩn nhập viện (QĐ 5481 Phần 6, Phần 7)."
+    },
+    {
+     "t": "Thêm thuốc ức chế SGLT2 (dapagliflozin hoặc empagliflozin)",
+     "v": "a",
+     "n": "QĐ 5481 Phần 4 mục 4.2e: nguy cơ hạ đường huyết cao thì ưu tiên DPP-4i, SGLT2i, GLP-1. Nhưng ăn kém, sụt cân, nguy cơ giảm thể tích và nhiễm trùng sinh dục (QĐ 5481 PL01 mục 7; ADA 2026 Bảng 9.2); chưa có bệnh tim mạch, suy tim, bệnh thận mạn (ADA 2026 KC 9.10)."
+    },
+    {
+     "t": "Thêm GLP-1 RA (thuốc tiêm hoặc uống)",
+     "v": "a",
+     "n": "QĐ 5481 Phần 4 mục 4.2e. Gây buồn nôn, sụt cân: không hợp người đang ăn kém, sụt cân (ADA 2026 Bảng 9.2); giá cao, bà sợ tiêm."
+    },
+    {
+     "t": "Khởi insulin nền",
+     "v": "w",
+     "n": "HbA1c 8,7% dưới cả hai ngưỡng cân nhắc insulin (QĐ 5481 Phần 4 mục 4.2f: ≥ 9%; ADA 2026 KC 9.20: > 10%), không triệu chứng nặng; bà quên thuốc, giảm nhận thức, nguy cơ hạ đường huyết cao (ADA 2026 KC 6.20, Bảng 6.5)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến chỉ để chỉnh đường huyết hay chụp CT sọ não",
+     "v": "w",
+     "n": "Không có tiêu chuẩn nhập viện: ăn uống được, không toan ceton, không hạ đường huyết nặng (QĐ 5481 Phần 6, Phần 7 mục 2.1). Nằm viện làm tăng nguy cơ mê sảng ở người giảm nhận thức (NICE CG103, mục 1.1.1, 1.2.1). Chỉ định CT sọ: không có trong tài liệu đã tải; cơ sở không có CT."
+    },
+    {
+     "t": "Giữ nguyên toa cũ (glimepiride 2 mg), chỉ dặn uống đều, hẹn 3 tháng",
+     "v": "w",
+     "n": "Bỏ qua hạ đường huyết tái diễn và sulfonylurea nguy cơ cao (ADA 2026 KC 6.19, 13.14a; AGS Beers 2023 Bảng 2); HbA1c 8,7% cần đổi chiến lược, không trì hoãn (QĐ 5481 Phần 4 mục 4.2h–i)."
+    },
+    {
+     "t": "Tăng glimepiride lên 4 mg để nhanh đạt HbA1c < 7%",
+     "v": "h",
+     "n": "Đã có cơn hạ đường huyết, quên và uống trùng liều, ăn kém. Glimepiride tác dụng dài gây hạ kéo dài (AGS Beers 2023 Bảng 2); QĐ 5481 Phần 4 mục 4.2j: cẩn thận sulfonylurea ở người lớn tuổi; ADA 2026 KC 13.13."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái tháo đường típ 2 (12 năm), tái phát mất kiểm soát: HbA1c 8,7% (trước 7,2%), mục tiêu < 8,0%",
+     "Yếu tố làm nặng: dùng thuốc không đều (quên liều, uống trùng glimepiride), ăn uống thất thường và dùng đường để chữa cơn run",
+     "Hạ đường huyết nhẹ tái diễn nghi do glimepiride (chưa có số đo lúc triệu chứng)",
+     "Giảm nhận thức nhẹ (MoCA 20/30, Mini-Cog 2/5), chưa kết luận sa sút trí tuệ",
+     "Nguy cơ suy dinh dưỡng: ăn kém, sụt 3 kg trong 3 tháng",
+     "Tăng huyết áp (138/78 mmHg, amlodipin 5 mg), rối loạn lipid máu đang dùng statin (LDL-C 2,4 mmol/L)",
+     "Viêm đường hô hấp trên nhẹ; kháng sinh tự mua không có chỉ định",
+     "Chưa thấy biến chứng thận (UACR 18 mg/g), võng mạc (đục thủy tinh thể nhẹ), thần kinh bàn chân"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: lý do và khởi phát (âm thầm 3 tháng) → tiền sử đái tháo đường, HbA1c cũ → thuốc đang dùng và cách uống (hỏi cả con gái) → hạ đường huyết → ăn uống → thuốc tự mua → nhận thức, té ngã, tâm trạng → biến chứng → xã hội, nỗi sợ thật. Hỏi chung chung bỏ sót amoxicillin và cơn run (QĐ 5481 Phần 3 mục 2.1; ADA 2026 KC 6.10).",
+     "Khám: cân nặng và tình trạng dinh dưỡng, huyết áp nằm đứng, tim phổi (ho), chân và monofilament, đáy mắt, sàng lọc nhận thức và trầm cảm, dáng đi (ADA 2026 KC 13.2, Bảng 13.1; QĐ 5481 Phần 3 mục 2.2).",
+     "Cận lâm sàng cần: HbA1c, glucose, creatinin/eGFR, UACR, lipid, CTM; B12 và TSH vì mệt, sụt cân, giảm nhận thức. Không cần: GAD/C-peptid, lipase, CT (ADA 2026 KC 2.10; Hình 2.1).",
+     "HbA1c 8,7% so với mục tiêu: bà 79 tuổi, nhiều bệnh (tăng huyết áp, rối loạn lipid, giảm nhận thức nhẹ), cần người hỗ trợ → nhóm phức tạp/trung gian, mục tiêu < 8,0% (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5, hai nguồn trùng). Mục tiêu < 7% (ADA 2026 KC 6.3a) không phù hợp với bà (KC 6.5, 13.7b).",
+     "Vì sao 'tái phát': HbA1c 7,2% cách 8 tháng; nay 8,7% (mục tiêu < 8,0%: ADA 2026 Bảng 13.2) do thuốc dùng không đều (hộp thuốc tự chia, nhận thức giảm, đếm vỉ thấy thừa) và ăn thất thường. Hạ đường huyết nhẹ do glimepiride kèm ăn bánh ngọt để chữa cơn run làm đường huyết dao động; HbA1c trung bình vẫn cao.",
+     "Hạ đường huyết: run, vã mồ hôi, đói lả lúc 10–11 giờ, đỡ sau ăn đường, trên glimepiride + bỏ bữa. QĐ 5481 Phần 6 mục 2 định nghĩa mức 1 (< 3,9 mmol/L); không đo được lúc có cơn nên là 'nghi'. Nhận thức giảm làm tăng nguy cơ hạ đường huyết (ADA 2026 KC 6.20). Bắt buộc rà soát phác đồ (QĐ 5481 Phần 6 mục 1e; ADA 2026 KC 6.19).",
+     "Típ 2 hay típ 1/LADA: ADA 2026 Hình 2.1 chú thích 5 nêu BMI ≥ 25, không sụt cân là đặc điểm típ 2; bà BMI 23 và sụt 3 kg. Nhưng khởi phát 67 tuổi, 12 năm đạt mục tiêu với thuốc uống, không ceton; chú thích 7: ở người cao tuổi nên nghĩ mạnh đến típ 2. Không làm GAD (KC 2.10). Thứ phát: không thuốc, không bệnh tụy.",
+     "Giảm nhận thức: Mini-Cog 2/5 (< 3 gợi ý), MoCA 20/30. Tìm nguyên nhân đảo ngược: hạ đường huyết, B12 (410 ng/L > 350: ít khả năng thiếu, NICE NG239 2024), TSH, trầm cảm (GDS-5 1/5). ADA 2026 KC 6.20, 13.2.",
+     "Amoxicillin tự mua: ho khan 5 ngày, không sốt, phổi sạch, bạch cầu bình thường, X-quang bình thường → không có chỉ định (NICE NG120 2019, 1.1.8). Bà 79 tuổi chỉ có 1 tiêu chí (đái tháo đường): chưa thuộc nhóm nguy cơ biến chứng (1.1.15 cần ≥ 2 tiêu chí khi > 65 tuổi, hoặc ≥ 1 khi > 80 tuổi). Kháng sinh không giải thích được diễn tiến 3 tháng.",
+     "Lý do thật: con gái thúc ép; bà ngại làm phiền, sợ tiêm và thêm thuốc. Nói ra được thì bà chấp nhận phác đồ ít viên, một lần/ngày (ADA 2026 KC 13.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Mục tiêu HbA1c < 8,0% và đường huyết đói 5,0–8,3 mmol/L (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5).",
+     "Bước 1: bỏ nguyên nhân gây hại, không tăng thuốc. Ngưng glimepiride (ADA 2026 KC 13.13, 13.14a, 6.6; Beers 2023 Bảng 2). Thay bằng DPP-4i: linagliptin 5 mg uống 1 lần/ngày, không chỉnh liều theo eGFR (QĐ 5481 PL01 mục 6a); hoặc sitagliptin 100 mg/ngày khi eGFR > 50, giảm 50 mg khi eGFR 30–50. DPP-4i dùng đơn độc không gây hạ đường huyết, giảm HbA1c khoảng 0,5–1,4% (QĐ 5481 PL01 mục 6a). ADA 2026 Bảng 9.2: DPP-4i hiệu lực trung bình, nguy cơ hạ đường huyết: không, cân nặng trung tính.",
+     "Bước 2: giữ metformin (eGFR 61), đổi XR 1.000 mg uống 1 lần sáng; gom tất cả thuốc vào bữa sáng (QĐ 5481 Bảng 14, PL01 mục 8; ADA 2026 Bảng 13.3). Từ 4 lần uống/ngày xuống 1 lần: phù hợp người nhận thức giảm.",
+     "Bước 3: nền tảng tuân thủ: hộp thuốc 7 ngày, con gái kiểm tra mỗi chiều, đưa máy thử đường huyết ra dùng khi có triệu chứng và 2–3 lần/tuần, ghi sổ (QĐ 5481 Phần 3 mục 2.1; ADA 2026 KC 13.1, Bảng 13.3). Glucagon: chưa cần sau khi ngưng sulfonylurea (ADA 2026 KC 6.16 chỉ cho người dùng insulin hoặc nguy cơ cao).",
+     "Bước 4: dinh dưỡng: ăn đủ đạm, bữa nhỏ nhiều lần, không bỏ bữa, thay bánh ngọt/nước mía bằng thức ăn đủ chất; chỉ dùng đường khi có cơn hạ đường huyết thật (ADA 2026 KC 13.11a, 6.15; QĐ 5481 Phần 6 mục 1c). Sụt cân tiếp thì phải tìm nguyên nhân khác.",
+     "Huyết áp: 138/78, nằm đứng không tụt. QĐ 5481 Bảng 5: < 140/90; ADA 2026 KC 13.9: < 130/80 nếu đạt an toàn. Giữ amlodipin, không tăng thuốc khi nguy cơ té ngã (đây là ca đã thuộc mục 'Huyết áp mục tiêu ở người cao tuổi bị ĐTĐ' của sổ mâu thuẫn, ghi cả hai).",
+     "Lipid: tiếp tục atorvastatin 10 mg; tăng cường độ cao: chấp nhận, không bắt buộc (ADA 2026 KC 10.22, 10.23).",
+     "Biến chứng: đáy mắt hôm nay bình thường, không có bệnh võng mạc → lặp lại 1–2 năm (ADA 2026 KC 12.5) hoặc 2 năm (QĐ 5904 mục F). Bàn chân khám mỗi lần; UACR/eGFR hằng năm (KC 11.1a). Sàng lọc cá thể hóa, ưu tiên điều ảnh hưởng chức năng (KC 13.8).",
+     "Không nhập viện: ăn uống được, không toan ceton, không hạ đường huyết nặng; nằm viện làm tăng nguy cơ mê sảng ở người giảm nhận thức (NICE CG103 1.2.1). Hẹn tái khám 2–4 tuần: kiểm tra hạ đường huyết, cân nặng, tuân thủ; HbA1c lại sau 3 tháng (QĐ 5481 Phần 3 mục 2.3; ADA 2026 KC 6.2).",
+     "Mâu thuẫn nguồn đã có trong sổ (HbA1c người cao tuổi, huyết áp mục tiêu, lượng glucose xử trí hạ, khám mắt): ghi cả hai cách. Không có mâu thuẫn mới."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Metformin XR (dạng phóng thích chậm)",
+      "ham_luong": "500 mg",
+      "lieu": "1.000 mg (2 viên 500 mg) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Đổi từ metformin thường 500 mg × 2 lần để chỉ phải uống 1 lần (QĐ 5481 Bảng 14: XR 500–2.000 mg uống 1 lần; PL01 mục 8). eGFR 61: không giảm liều (PL01 mục 2: giảm khi eGFR 30–45); thận trọng ở > 80 tuổi. Theo dõi B12 định kỳ (ADA 2026 Bảng 9.2)."
+     },
+     {
+      "thuoc": "Linagliptin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng cùng các thuốc khác",
+      "so_ngay": "Dùng lâu dài; đánh giá lại HbA1c sau 3 tháng",
+      "ghi_chu": "Thay cho glimepiride; không chỉnh liều theo eGFR (QĐ 5481 PL01 mục 6a, Bảng 14). Hoặc sitagliptin 100 mg/ngày vì eGFR > 50 (giảm 50 mg khi eGFR 30–50). Ngưng và đi khám nếu đau bụng dữ dội, nôn (viêm tụy: ADA 2026 Bảng 9.2). Có viên phối hợp linagliptin/metformin XR giúp bớt viên (QĐ 5481 PL01 mục 8)."
+     },
+     {
+      "thuoc": "Glimepiride",
+      "ham_luong": "2 mg",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng từ hôm nay; thu lại phần thuốc còn thừa trong tủ",
+      "so_ngay": "Không dùng tiếp",
+      "ghi_chu": "Hạ đường huyết nhẹ tái diễn, quên và uống trùng liều (ADA 2026 KC 13.14a; AGS Beers 2023 Bảng 2). Chấp nhận thay bằng gliclazide MR 30 mg hoặc glipizide nếu bà không dùng được DPP-4i (QĐ 5481 PL01 mục 1c, 1d)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng (gom chung để dễ nhớ) hoặc buổi tối trước khi ngủ",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên. Giờ uống: trước khi đi ngủ (QĐ 5481 Phần 4 mục 6.1.3f) hoặc lúc thuận tiện nhất (ESC 2024 Bảng khuyến cáo 16): ở bà chọn giờ dễ nhớ nhất. Theo dõi phù mắt cá."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng cùng các thuốc khác",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "> 75 tuổi đã dùng statin thì tiếp tục (ADA 2026 KC 10.22). Giờ uống atorvastatin: không có trong tài liệu đã tải; gom vào một giờ để đơn giản hóa phác đồ (ADA 2026 Bảng 13.3). Lipid lại hằng năm (KC 10.17)."
+     },
+     {
+      "thuoc": "Amoxicillin (đang tự dùng)",
+      "ham_luong": "500 mg",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Không uống nốt vài viên còn lại",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "Ho khan nhẹ không sốt: không dùng kháng sinh (NICE NG120 2019, 1.1.8) – nguồn: NICE NG120 2019, 1.1.8. Ho nhẹ tự khỏi; tái khám nếu sốt, ho đờm mủ, khó thở."
+     }
+    ],
+    "dan_do": [
+     "Mục tiêu của bà là đường huyết ổn, không bị run tay vã mồ hôi, không phải 'đường huyết thật thấp'. HbA1c dưới 8% là đủ cho tuổi và sức khỏe của bà (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5).",
+     "Chỉ uống thuốc một lần mỗi ngày, ngay sau ăn sáng, 3 viên theo hộp thuốc chia sẵn (ADA 2026 Bảng 13.3). Con gái đếm hộp thuốc mỗi chiều; thấy ngày nào thuốc còn nguyên thì báo bác sĩ, không uống bù.",
+     "Không còn thuốc nào gây đường huyết thấp, bà không cần tiêm insulin. Ngưng hẳn glimepiride và amoxicillin; đem hết thuốc cũ trong tủ cho con gái hoặc trạm y tế.",
+     "Nếu run tay, vã mồ hôi, hoa mắt: ngồi xuống, uống nước đường chứa 15–20 g glucose (khoảng 3 muỗng cà phê đầy đường/glucose pha nước; nguồn khác ghi 10–15 g), đo lại sau 15 phút, còn run thì uống nhắc lại rồi ăn nhẹ (QĐ 5481 Phần 6 mục 1c; QĐ 5904/2019 Phần 3 Bước 4; ADA 2026 KC 6.15). Không ăn bánh ngọt hằng ngày để phòng cơn run.",
+     "Ăn đủ 3 bữa chính cộng 1–2 bữa phụ nhỏ; thêm trứng, cá, đậu hũ, sữa không đường để đủ đạm (ADA 2026 KC 13.11a). Không bỏ bữa sáng. Thay nước mía, chè, nước ngọt bằng nước lọc. Đi bộ nhẹ mỗi ngày nếu khỏe (KC 13.11b).",
+     "Đưa máy thử đường huyết ra dùng: khi có cơn run, khi ốm hoặc ăn kém, và 2–3 buổi sáng/tuần trước ăn; ghi sổ mang theo khi tái khám (QĐ 5481 Phần 3, hướng dẫn tự theo dõi). Mục tiêu đói 5,0–8,3 mmol/L.",
+     "Khi ốm, nôn, tiêu chảy, không ăn uống được: nhắn con gái và đến khám sớm, không tự uống thêm hay bỏ thuốc (hướng dẫn 'ngày ốm' cho metformin: không có trong tài liệu đã tải).",
+     "Ho nhẹ, uống nước ấm; đi khám ngay nếu sốt, khó thở, ho đờm mủ, lơ mơ, co giật, đau bụng dữ dội, nôn liên tục (QĐ 5481 Phần 6, Phần 7; ADA 2026 Bảng 9.2 với DPP-4i).",
+     "Chăm sóc bàn chân hằng ngày; đo huyết áp tại nhà hoặc trạm y tế; khám mắt lại sau 1–2 năm hoặc sớm nếu mờ mắt (ADA 2026 KC 12.5). Tiêm phòng cúm, phế cầu (QĐ 5481 Phần 4 mục 8, 9).",
+     "Tái khám sau 2–4 tuần, mang theo hộp thuốc, sổ đường huyết; HbA1c lại sau 3 tháng. Con gái đi cùng để bàn việc đánh giá trí nhớ tiếp và người trông nom lâu dài (QĐ 5481 Phần 3 mục 2.3; ADA 2026 KC 6.2, 13.2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau khi ngưng glimepiride, đổi metformin XR và linagliptin uống một lần buổi sáng, bà hết cơn run; HbA1c sau 3 tháng 7,9% (đạt < 8%), sổ đường huyết đói 6,5–8 mmol/L. Nhưng 5 tháng sau, khi chị Hương đi công tác 3 tuần, bà bỏ hộp thuốc, quay lại ăn bánh ngọt và bỏ bữa sáng; HbA1c lên 8,6%, cân nặng xuống 50 kg: tái phát. Bài học rút ra là hệ thống hỗ trợ (người kiểm tra thuốc, hộp thuốc, bữa ăn) quan trọng hơn thêm thuốc; gia đình bàn lại việc người trông nom và hẹn đánh giá nhận thức chuyên sâu.",
+ "nhieu": [
+  "Kháng sinh tự mua (amoxicillin) cho ho nhẹ: dễ bị bắt vào làm 'nguyên nhân' của mệt; ho nhẹ không sốt, phổi sạch, không có chỉ định kháng sinh (NICE NG120 2019 mục 1.1.8).",
+  "Bà không coi cơn run là bệnh và chỉ kể khi được hỏi cụ thể; hỏi 'có hạ đường huyết không' bằng từ chuyên môn thì bà nói không.",
+  "Sụt cân 3 kg và BMI 23 làm nghĩ đến típ 1/LADA hoặc ĐTĐ thứ phát (ADA 2026 Hình 2.1 chú thích 5), nhưng bối cảnh ở người cao tuổi nghiêng típ 2 (chú thích 7)."
+ ],
+ "bai_hoc_bien": [
+  "Mất kiểm soát đường huyết ở người rất cao tuổi: tìm hệ thống hỗ trợ và thuốc nguy cơ, không phản xạ tăng thuốc. Hỏi riêng người nhà về cách uống thuốc (ADA 2026 KC 13.1, 6.20).",
+  "Sulfonylurea ở người > 75 tuổi ăn kém, quên thuốc: hạ đường huyết nhẹ dễ bị bỏ qua. Ngưng hoặc đổi sang nhóm nguy cơ thấp (ADA 2026 KC 13.13, 13.14a; AGS Beers 2023 Bảng 2).",
+  "Mục tiêu HbA1c cá thể hóa: < 8,0% cho nhóm phức tạp/trung gian (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5). Cắt phần nhận thức/dinh dưỡng vào đánh giá mỗi năm (KC 13.2).",
+  "Lý do thật (con gái thúc ép, sợ tiêm) phải được hỏi ra và đáp lại bằng phác đồ uống một lần, không insulin."
+ ],
+ "diem_nho": [
+  "Mục tiêu người cao tuổi nhóm phức tạp/trung gian: HbA1c < 8,0%; đói 90–150 mg/dL (5,0–8,3 mmol/L); lúc đi ngủ 100–180 mg/dL; HA < 130/80 (ADA 2026 Bảng 13.2). QĐ 5481 Bảng 5: < 8,0%; 90–150; 100–180; < 140/90.",
+  "Hạ đường huyết mức 1 < 3,9 và ≥ 3,0 mmol/L; mức 2 < 3,0; mức 3 rối loạn ý thức (QĐ 5481 Phần 6 mục 2). Rà soát phác đồ khi có nhiều cơn (mục 1e).",
+  "Sàng lọc hội chứng lão khoa hằng năm: Mini-Cog (< 3 gợi ý sa sút trí tuệ), GDS-5 (≥ 2), MNA-SF (8–11 nguy cơ, 0–7 suy dinh dưỡng), STEADI (ADA 2026 KC 13.2, Bảng 13.1).",
+  "DPP-4i dùng đơn độc không gây hạ đường huyết; linagliptin không chỉnh liều theo thận, sitagliptin 100 mg (giảm 50 mg khi eGFR 30–50) (QĐ 5481 PL01 mục 6a).",
+  "B12 toàn phần: < 180 ng/L xác nhận thiếu, 180–350 chưa xác định, > 350 ít khả năng (NICE NG239 2024).",
+  "> 75 tuổi đã dùng statin thì tiếp tục (ADA 2026 KC 10.22). Kháng sinh cho ho do nhiễm hô hấp trên: không (NICE NG120 2019 mục 1.1.8)."
+ ],
+ "nguon": [
+  "ADA Standards of Care 2026 (TL-0296) – ĐÃ ĐỌC mục 2 (Hình 2.1 chú thích 5, 7; KC 2.10; ĐTĐ do bệnh tụy), 6 (KC 6.1–6.8, 6.10, 6.13, 6.15–6.20, Bảng 6.3), 9 (Bảng 9.2; metformin và B12), 10 (KC 10.17, 10.22, 10.23, 10.37a), 11 (KC 11.1a), 12 (KC 12.4–12.5), 13 (KC 13.1–13.2, 13.4, 13.7a–c, 13.8–13.10, 13.11a–b, 13.13, 13.14a–b; Bảng 13.1, 13.2, 13.3). KC = khuyến cáo.",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 (TL-0031) – ĐÃ ĐỌC Phần 3 (mục 2.1–2.3), Phần 4 (mục 2, 4.2e–j, Bảng 5), Phần 6 (mục 1, 2), Phần 7 mục 2.1; PL01 (mục 1, 2, 6a, 7, 8; Bảng 14).",
+  "Bộ Y tế – QĐ 5904/2019 (TL-0284) Phần 3 mục F, Bước 4 (xử trí hạ glucose máu); QĐ 2558/2022 võng mạc ĐTĐ (TL-0543) Bảng 5; QĐ 708/2015 viêm phế quản cấp (TL-0015) mục 2 (theo sổ mâu thuẫn, mục HH-0671).",
+  "AGS Beers 2023 (TL-0022) Bảng 2 – sulfonylurea; NICE NG120 2019 (cập nhật 2025) ho cấp, mục 1.1.8, 1.1.9, 1.1.15 (kho cũ tltk-10000-ca); NICE NG239 2024 (TL-0462) thiếu B12, bảng diễn giải kết quả; NICE CG103 2010 (TL-0108) mê sảng, mục 1.1.1, 1.2.1; ESC 2024 tăng huyết áp, Bảng khuyến cáo 16 (theo sổ mâu thuẫn); CHEST 2020 viêm phế quản (theo sổ mâu thuẫn).",
+  "Nguồn bổ sung tự tìm: không dùng. Chỗ không có trong tài liệu đã tải: giờ uống atorvastatin; hướng dẫn 'ngày ốm' cho metformin; điểm cắt MoCA; chỉ định chẩn đoán hình ảnh não ở giảm nhận thức nhẹ; nguồn riêng về chẩn đoán phân biệt sụt cân ở người cao tuổi."
+ ],
+ "phien_ban_ca": "1 – 2026-11-04",
+ "ghi_chu_bien_tap": [
+  "2026-11-04: ca mới, 1 lượt. Biến sổ cái: hưu trí (giáo viên tiểu học hưu trí), khởi phát âm thầm (3 tháng mệt, ăn kém, sụt 3 kg), tự mua amoxicillin (hộp giấu, chỉ lộ khi hỏi thuốc tự mua), gia đình thúc ép đi khám (lý do thật giấu, lộ khi hỏi 'ai bảo đi khám, bà sợ gì'), kết cục tái phát (ket_cuc), không CT (khoa_cls), bệnh nhân hợp tác tốt (kieu_nhieu), loại trừ típ 1/LADA và ĐTĐ thứ phát trong chan_doan. Applicability note ≥ 75 tuổi: mục tiêu HbA1c theo ADA 2026 Bảng 13.2 và QĐ 5481 Bảng 5, hai nguồn trùng.",
+  "Mâu thuẫn áp dụng từ sổ: mục tiêu HbA1c người cao tuổi (hai nguồn cùng < 8,0%), huyết áp mục tiêu người cao tuổi ĐTĐ (ghi cả hai), lượng glucose xử trí hạ đường huyết (ghi cả 15–20 g và 10–15 g), khám đáy mắt (ADA 1–2 năm, QĐ 5904 2 năm, QĐ 2558 3–6 tháng), ngưỡng insulin (không tới ngưỡng), X-quang ngực ở > 75 tuổi ho nhẹ (a). Không có mâu thuẫn mới.",
+  "Chưa có tài liệu đã tải: giờ uống atorvastatin; hướng dẫn 'ngày ốm' cho metformin; điểm cắt MoCA; chỉ định hình ảnh học não; số liệu eGFR/creatinin ghi 'ước tính' không nêu công thức. Danh mục: đã có b12, gad_cpep, glu_mm; không cần mục mới."
+ ]
+}

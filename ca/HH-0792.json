@@ -1,0 +1,831 @@
+{
+ "ma_ca": "HH-0792",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình bản 3, nguồn kèm vị trí (2026-11-04)",
+ "benh": "HH_cum_mua",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Cúm mùa",
+  "chan_doan_phai_loai_tru": [
+   "COVID-19",
+   "Sốt xuất huyết giai đoạn sớm"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Chủ quán ăn",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Tô Thị Mỹ Dung",
+  "tuoi": 49,
+  "gioi": "Nữ",
+  "nghe": "Chủ quán bún bò ở thị xã, nấu nước lèo từ 4 giờ sáng, bán đến 14 giờ, có 3 nhân viên",
+  "can_nang": 64,
+  "chieu_cao": 157,
+  "xung_ho": "Bác sĩ gọi chị 'chị Dung'; chị xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Chồng gọi vợ là 'bà xã' hoặc 'bả', xưng 'tôi' với bác sĩ.",
+  "tinh_cach": "Nhanh nhẹn, lo toan, quen gánh quán một mình, hay nói 'tôi khỏe lắm, không sao đâu'. Sợ nghỉ bán mất khách quen, sợ nghe hai chữ 'bệnh tim' vì cha mất đột ngột.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi 'khó thở không, đau ngực không' thì đáp 'không, hơi nhói chút thôi'; chỉ khai thật khi hỏi bằng việc cụ thể (bưng nồi nước lèo, leo cầu thang, cơn nhói xảy ra lúc nào). Xin 'thuốc ho long đờm cho đỡ ho' để mai còn bán; nỗi sợ nhồi máu cơ tim chỉ lộ khi được hỏi về gia đình và nỗi lo.",
+  "nguoi_nha": "Chồng, anh Lâm Quốc Hòa, 52 tuổi, phụ bếp và chở vợ bằng xe máy cả hai lượt. Anh biết chuyến đi, người bạn cùng tour ho sốt, que thuốc trong tủ nhà; không biết chuyện đường huyết, không biết cơn nhói ngực, không biết vì sao vợ sợ tim. Hỏi giờ giấc, ăn uống, thuốc đã uống thì anh trả lời thay (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Anh Hòa (chồng)",
+  "ngoai_hinh": {
+   "da": "#d3a583",
+   "toc": "#2b2420",
+   "kieuToc": "ngan",
+   "ao": "#a86a6a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c4936c",
+    "toc": "#3a3028",
+    "kieuToc": "ngan",
+    "ao": "#6b7f8f",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, ho, đau mình sau chuyến du lịch về; xin thuốc ho long đờm",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám có xét nghiệm máu cơ bản, test nhanh cúm và COVID-19, NS1, điện tim, X-quang ngực, đường huyết mao mạch. Không có siêu âm (kể cả siêu âm tim, siêu âm phổi, siêu âm bụng)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Tô Thị Mỹ Dung, 49 tuổi, chủ quán bún bò, chồng chở đến vì sốt, ho, đau mình từ hôm qua, mới đi du lịch về 3 ngày. Chị nói chỉ xin thuốc ho. Sinh hiệu: nhiệt độ 38,4 °C, mạch 96 l/p, HA 134/84 mmHg, nhịp thở 20 l/p, SpO₂ 97% khí trời, cân nặng 64 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Dung sốt ngày 2, thở 20 l/p, SpO₂ 97%, ECG và troponin bình thường, uống được: đây là cúm nhẹ điều trị ngoại trú, chỉ nhập viện khi có dấu hiệu nặng như khó thở, thở nhanh, rối loạn tri giác (QĐ 1840/2025 mục II.2.3, III.2.2). Nằm viện làm chị mất ít nhất vài ngày bán quán, chồng phải lo thêm chi phí, chị nằm chung buồng với người bệnh hô hấp khác, và nỗi sợ 'bệnh tim' của chị càng nặng hơn vì tin mình bị bệnh nặng.",
+    "chuyen_tuyen": "Chuyển chị Dung lên bệnh viện tỉnh chỉ vì cơn nhói ngực và không có siêu âm là quá tay: ECG và hs-cTn đã làm tại chỗ bình thường, đau thành ngực tái hiện khi ấn, không có chỉ định siêu âm tim lúc này (ESC 2023 ACS mục 3.2, 3.3.4.1.1). Chị đi xa vài giờ khi đang sốt 38 độ, mệt, ngồi chờ ở khu cấp cứu đông, chồng nghỉ bán cả ngày, còn lời giải thích đơn giản về cơn nhói và hẹn tái khám đã đủ an toàn."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi bị cảm thôi, ho nhiều quá mà mai còn nấu quán. Bác sĩ cho tôi thuốc ho long đờm là được, tôi khỏe lắm, không sao đâu.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "134/84",
+    "nhiet": "38,4",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt, ho, đau mình từ chiều hôm qua; chỉ xin 'thuốc ho long đờm cho đỡ ho' để mai còn nấu và bán quán. Chị nói đã tự uống thuốc cảm, 'chắc cảm thường thôi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra, giảm nhẹ"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Chiều hôm qua đang rửa rau thì ớn lạnh, run, sốt 38,7 °C (nhiệt kế điện tử) kèm nhức đầu, đau cơ khắp người, nhức mỏi hai bắp chân. Đêm qua sốt 39 °C, không ngủ được, ho khan từng cơn. Sáng nay rát họng, nghẹt mũi, ăn kém, uống được nước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát đột ngột ngày 2: sốt cao, ớn lạnh, đau cơ, ho khan (cúm)"
+    },
+    {
+     "id": "chuyen_di",
+     "noi_dung": "Vợ chồng đi tour 6 ngày cùng nhóm 8 người bạn buôn bán, ra Hà Nội – Ninh Bình – Sa Pa, về nhà cách đây 3 ngày (xe khách giường nằm, homestay, muỗi đốt nhiều ở Ninh Bình). Hướng dẫn viên nói 'ngoài đó đang có dịch cúm, sốt xuất huyết'; cả nhóm hầu như không đeo khẩu trang.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi gần đây có đi đâu xa, đi du lịch, ở nơi có dịch không.",
+     "k": 1,
+     "y": "Yếu tố khởi phát: du lịch vùng có dịch, muỗi đốt"
+    },
+    {
+     "id": "ban_di_cung",
+     "noi_dung": "Chị Lan, bạn ngồi cạnh trên xe suốt chuyến, ho sốt từ ngày thứ 4 của tour, xuống xe vẫn ho; về nhà chị Lan đi khám và được bảo 'cúm'. Chồng chị Dung chưa bị gì.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi có ai cùng đi hay người xung quanh bị bệnh giống vậy không.",
+     "k": 1,
+     "y": "Tiếp xúc gần người có hội chứng cúm: dịch tễ cúm"
+    },
+    {
+     "id": "nhoi_nguc",
+     "noi_dung": "Từ khoảng 1 giờ sáng nay nhói ở ngực trái, dưới vú, như kim châm, rộng một đốt ngón tay; mỗi lần ho, hít sâu hoặc xoay người thì nhói vài giây rồi hết; nằm yên không đau, không lan vai hay hàm, không vã mồ hôi, không buồn nôn, không đè nặng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có đau ngực, khó thở không' thì chị đáp 'không, hơi nhói chút thôi'. Chỉ khai chi tiết khi bác sĩ hỏi cụ thể về cơn nhói (vị trí, ho, hít sâu, lan, vã mồ hôi) hoặc ấn vào thành ngực.",
+     "k": 1,
+     "y": "Đau ngực kiểu thành ngực/màng phổi lúc ho: cờ đỏ cần loại trừ nguyên nhân tim"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Chị đáp 'không khó thở'. Hỏi việc cụ thể: hôm qua còn bưng nồi nước lèo 12 lít từ bếp ra quán một mạch (khoảng 15 m); sáng nay bưng giữa chừng phải đặt xuống nghỉ một lần, 'chắc tại không ngủ'. Leo 15 bậc cầu thang lên nhà vẫn được nhưng chậm.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bằng hoạt động hằng ngày (bưng nồi, leo cầu thang, nói chuyện, đi bộ), không chỉ hỏi có khó thở không.",
+     "k": 1,
+     "y": "Mệt và giảm sức làm việc, không có khó thở lúc nghỉ"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Năm 2023 khám sức khỏe được báo 'đường trong máu cao', uống metformin 4 tháng rồi tự ngưng vì 'thấy khỏe', không tái khám. Dạo này khát nước, tiểu đêm 1–2 lần. Không tăng huyết áp, không bệnh tim, không bệnh phổi, không hút thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có bệnh gì không' thì đáp 'không, tôi khỏe'. Chỉ khai khi hỏi riêng về tiểu đường, đường huyết, huyết áp, bệnh tim, thuốc từng dùng.",
+     "k": 1,
+     "y": "Đái tháo đường týp 2 không điều trị: yếu tố nguy cơ cúm nặng; nguy cơ tim mạch"
+    },
+    {
+     "id": "so_tim",
+     "noi_dung": "Cha chị mất đột ngột lúc 54 tuổi vì nhồi máu cơ tim, đang làm ruộng thì ngã xuống; năm nay chị 49 tuổi. Tuần trước một chị bạn cùng chợ vừa đặt stent tim. Đêm qua cơn nhói làm chị thức trắng, sợ 'tới số rồi'; chưa nói với chồng, chỉ xin thuốc ho.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi gia đình có ai bị bệnh tim, đột tử không, hoặc hỏi chị lo lắng điều gì nhất, vì sao hôm nay mới đi khám, và sau khi đã hỏi kỹ cơn nhói.",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ nhồi máu cơ tim (cha mất vì nhồi máu cơ tim)"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Từ sáng qua chị mua siro 'long đờm' ở quầy thuốc đầu chợ (nhãn ghi ambroxol), uống 2 muỗng 3 lần/ngày, ho vẫn không đỡ. Hạ sốt: paracetamol 500 mg uống 2 lần, mỗi lần 2 viên.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi đã uống thuốc gì.",
+     "k": 1,
+     "y": "Thuốc ho long đờm đang dùng"
+    },
+    {
+     "id": "ibuprofen",
+     "noi_dung": "Chồng đưa thêm ibuprofen 400 mg từ tủ thuốc nhà vì thấy vợ đau mình quá: chị uống 1 viên tối qua và 1 viên sáng nay.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'thuốc gì' thì chỉ kể siro và paracetamol. Chỉ nói khi bác sĩ hỏi riêng thuốc giảm đau, kháng viêm khác, hoặc xin xem tủ thuốc.",
+     "k": 0,
+     "y": "Dùng ibuprofen khi chưa loại trừ sốt xuất huyết"
+    },
+    {
+     "id": "loai_dengue",
+     "noi_dung": "Không nổi ban, không chảy máu chân răng hay chảy máu mũi, không đau bụng, không nôn, không đi tiêu phân đen. Hơi nhức khi liếc mắt sang hai bên. Không mất mùi, không mất vị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa có dấu hiệu gợi ý sốt xuất huyết hay COVID-19 điển hình"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Chưa tiêm vắc xin cúm năm nay. Ngưng kinh hơn 1 năm. Không có thai. Không dị ứng thuốc. Không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiêm chủng, thai kỳ (liên quan chọn thuốc kháng virus)"
+    },
+    {
+     "id": "quan",
+     "noi_dung": "Quán mở 6–14 giờ, 40–60 tô mỗi buổi, chị đứng bếp và tự múc cho khách; đi khám xong định về nấu cho kịp trưa.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề: tiếp xúc nhiều người, sợ nghỉ bán"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mặt đỏ bừng, mắt đỏ, da nóng ẩm, vẻ mệt nhưng tự đi vào phòng. Nói được câu dài nhưng ngắt để ho. BMI 26,0.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không mủ, không giả mạc. Niêm mạc mũi phù nề, dịch trong. Không hạch cổ.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co kéo. Rung thanh và gõ bình thường. Rì rào phế nang êm dịu hai bên, không ran, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, không co kéo. Rung thanh và gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi, không T3, không tiếng cọ màng ngoài tim. Tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn khoảng liên sườn 5 trái, đường nách trước, đau chói đúng chỗ chị chỉ, cùng điểm gây nhói; xoay thân và hít sâu làm nhói tăng. Không sưng nóng đỏ, không bóng nước dọc khoanh da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da nóng ẩm, không ban, không chấm xuất huyết dưới da. Dây thắt không làm.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù, bắp chân mềm, không đau khi bóp, hai chân đối xứng.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi 40 m không phải dừng. SpO₂ 97% → 95%, nhịp thở 22 l/p, hồi phục sau 1 phút.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "e",
+     "r": "Cúm A dương tính · SARS-CoV-2 âm tính",
+     "ab": 1,
+     "n": "Người có yếu tố nguy cơ hoặc nghi cúm: dùng test nhanh sàng lọc (QĐ 1840/2025 mục II.2.1); NICE NG237 khuyến cáo 1.3.3: không dùng test cúm để quyết định kháng sinh; ở đây test dùng cho chẩn đoán và quyết định kháng virus."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 96 l/p, trục trung gian. Không ST chênh lên hay chênh xuống, sóng T không đảo, không Q bệnh lý, không block.",
+     "ab": 0,
+     "n": "Đau ngực ở phụ nữ 49 tuổi có đái tháo đường và tiền sử gia đình đột tử: làm điện tim ngay khi tiếp xúc, đọc trong 10 phút (ESC 2023 ACS, mục 3.2). Cơn nhói giống đau thành ngực vẫn chưa loại được ACS khi chưa có ECG."
+    },
+    "trop": {
+     "v": "u",
+     "r": "Troponin T hs 5 ng/L (ngưỡng < 14), lấy khoảng 8 giờ sau khi bắt đầu nhói.",
+     "ab": 0,
+     "n": "ESC 2023 ACS mục 3.3: nghi ACS thì đo hs-cTn ngay. Ở đây nghi ngờ thấp (đau tái hiện khi ấn, ECG bình thường) nên làm là hợp lý, không bắt buộc; kết quả phải đọc cùng lâm sàng và ECG (mục 3.3.4.1.1). Ngưỡng rule-out một mẫu: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 4,6 G/L · Neutrophil 66% · Lympho 22% · Hb 128 g/L · TC 205 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 4.6,
+      "neu_pct": 66.0,
+      "neu": 3.04,
+      "lym_pct": 22.0,
+      "lym": 1.01,
+      "mono_pct": 11.0,
+      "mono": 0.51,
+      "eos_pct": 0.5,
+      "eos": 0.02,
+      "baso_pct": 0.5,
+      "baso": 0.02,
+      "rbc": 4.35,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 89.7,
+      "mch": 29.4,
+      "mchc": 328,
+      "rdw": 13.4,
+      "plt": 205
+     },
+     "n": "Bạch cầu thấp nhẹ, Hct và tiểu cầu bình thường: hợp cả cúm lẫn giai đoạn sốt của sốt xuất huyết (QĐ 2760/2023 mục II.1.2), nên chỉ làm mốc so sánh."
+    },
+    "ns1": {
+     "v": "u",
+     "r": "NS1 âm tính · IgM âm tính · IgG âm tính",
+     "ab": 0,
+     "n": "Sốt ngày 2 sau chuyến đi vùng có muỗi: tìm NS1 từ ngày 1 đến ngày 7, ưu tiên 5 ngày đầu; IgM, IgG chỉ có ích từ ngày 5 (QĐ 2760/2023 mục III.1.1). NS1 âm tính cùng cúm A dương tính làm sốt xuất huyết ít khả năng, vẫn dặn dấu hiệu cảnh báo."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 13,2 mmol/L (không nhịn đói, đang sốt)",
+     "ab": 1,
+     "n": "Tăng đường huyết khi sốt, người đái tháo đường chưa điều trị: xác nhận cần kiểm soát; HbA1c cho bức tranh 3 tháng."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "HbA1c 8,6%",
+     "ab": 1,
+     "n": "Mục tiêu A1C < 7% (ADA 2026, khuyến cáo 6.3a): 8,6% là kiểm soát kém sau khi tự ngưng metformin. Có thể làm khi hẹn khám đái tháo đường."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 12 mg/L",
+     "ab": 1,
+     "n": "Không cần: NICE NG237 khuyến cáo 1.3.4 chỉ dùng CRP khi chưa rõ có cần kháng sinh cho nhiễm khuẩn hô hấp dưới; < 20 mg/L không kê thường quy."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tim phổi bình thường. Không đông đặc, góc sườn hoành nhọn, bóng tim không to.",
+     "ab": 0,
+     "n": "X-quang chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840/2025 mục II.2.2). Nhói ngực kèm sốt có thể là lý do chụp; phổi không ran, SpO₂ 97% nên cũng chấp nhận không chụp."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,9 mmol/L · Creatinin 68 µmol/L · eGFR 98 mL/ph/1,73m²",
+     "ab": 0,
+     "n": "Không bắt buộc trước oseltamivir ở người không bệnh thận; chỉnh liều oseltamivir theo Clcr: không có trong QĐ 1840."
+    },
+    "ddimer": {
+     "n": "Không cần: không phù chân, không ho máu, SpO₂ 97%; D-dimer hay tăng khi đang nhiễm virus."
+    },
+    "pct": {
+     "n": "Không cần: không nghi bội nhiễm (QĐ 1840/2025 mục II.2.2)."
+    },
+    "echo": {
+     "n": "Phòng khám không có siêu âm; không cần ở lượt này vì ECG, troponin và tim nghe bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm mùa thể nhẹ ngày 2 (cúm A, test nhanh dương tính) ở người có yếu tố nguy cơ (đái tháo đường týp 2 chưa điều trị); đau ngực kiểu thành ngực do ho, đã loại trừ hội chứng vành cấp trên lâm sàng, ECG, troponin; chưa dùng thuốc phù hợp (ibuprofen, siro long đờm)",
+     "ok": 1,
+     "n": "Ca nghi ngờ: viêm hô hấp cấp + tiếp xúc gần người nghi cúm và khu vực có dịch (QĐ 1840/2025 mục II.2.4.1); ca khẳng định nhờ test nhanh (mục II.2.4.2). Đái tháo đường là bệnh nền thuộc nhóm nguy cơ cúm nặng (mục II.2.3)."
+    },
+    {
+     "t": "Cúm A thể nhẹ",
+     "ok": 1,
+     "n": "Chấp nhận làm chẩn đoán chính (QĐ 1840 mục II.2.3); hồ sơ nên ghi thêm đái tháo đường."
+    },
+    {
+     "t": "COVID-19",
+     "n": "Có dịch tễ và ≥ 3 triệu chứng nên đủ ca nghi ngờ (QĐ 2671/2023 mục 2.1a), phải nghĩ tới; nhưng test SARS-CoV-2 âm tính, cúm A dương tính, bạn đi cùng được bảo 'cúm', không mất mùi vị. Test kháng nguyên kém nhạy hơn RT-PCR (mục 4.8.2b): nặng dần thì làm lại."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue giai đoạn sớm",
+     "n": "Có vùng muỗi, đau cơ, sốt ngày 2 nên phải loại trừ (QĐ 2760/2023 mục II.1.1); nhưng không ban, không chảy máu, NS1 âm tính, Hct và tiểu cầu bình thường, lại có cúm A dương tính. Chưa loại hết nên hẹn ngày 5 và dặn dấu hiệu cảnh báo (mục IV.A.3)."
+    },
+    {
+     "t": "Hội chứng vành cấp / nhồi máu cơ tim",
+     "n": "Nhói vài giây, tái hiện khi ho, hít sâu, ấn thành ngực; không đè nặng, không lan, không vã mồ hôi; ECG không đổi, troponin không tăng (ESC 2023 ACS mục 3.1, 3.2, 3.3.4.1.1). Vẫn phải nghĩ tới vì đái tháo đường và cha chết đột ngột."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 20 l/p, SpO₂ 97%, phổi không ran, không đờm mủ; X-quang chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840 mục II.2.2)."
+    },
+    {
+     "t": "Viêm cơ tim hoặc màng ngoài tim do virus",
+     "n": "Chưa có dữ kiện: ECG không đổi ST–T, troponin không tăng (troponin cũng tăng trong viêm cơ tim – ESC 2023 ACS, phần tổn thương cơ tim), tim nghe không tiếng cọ. Tỉ lệ gặp ở cúm: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kháng virus cúm: oseltamivir 75 mg uống 2 lần/ngày x 5 ngày, bắt đầu ngay hôm nay; HOẶC không dùng kháng virus, chỉ điều trị triệu chứng và theo dõi",
+     "v": "c",
+     "n": "Cả hai cách đều đúng. (1) QĐ 1840/2025 mục II.2.3, III.2.1–2.2: đái tháo đường là bệnh nền nguy cơ cúm nặng; cúm nhẹ có yếu tố nguy cơ thì dùng kháng virus càng sớm càng tốt, oseltamivir đầu tay 75 mg x 2 lần/ngày x 5 ngày; CDC (TL-0139, Bảng 2, bản 2016–2017) cũng xếp đái tháo đường vào nhóm cần điều trị. (2) WHO 2024 (TL-0133, phần Key issues): nguy cơ chính chỉ gồm ≥ 65 tuổi, suy giảm miễn dịch, tim mạch, thần kinh, hô hấp mạn – không có đái tháo đường – nên chị là nguy cơ thấp; khuyến cáo cho nhóm này nằm trong infographic (bản chữ không đọc được), theo ghi chú danh mục TL-0133 là không khuyến cáo kháng virus. Khác nhau vì danh sách bệnh nền khác nhau."
+    },
+    {
+     "t": "Baloxavir 40 mg uống liều duy nhất thay oseltamivir",
+     "v": "a",
+     "n": "QĐ 1840/2025 mục III.2.1: dùng khi không có oseltamivir, người 20–80 kg uống 40 mg một liều (chị 64 kg); không dùng khi có thai hoặc cho con bú (chị đã mãn kinh). Chị mới sốt khoảng 18 giờ, còn trong 48 giờ (WHO 2024)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích vì sao",
+     "v": "c",
+     "n": "Không khuyến cáo kháng sinh cho cúm nhẹ (QĐ 1840/2025 mục III.2.2); WHO 2024: khuyến cáo mạnh không dùng kháng sinh ở cúm không nặng, ít khả năng bội nhiễm (TL-0133, phần Recommendations); NICE NG237 khuyến cáo 1.3.1, 1.3.4."
+    },
+    {
+     "t": "Paracetamol 500 mg uống 1–2 viên/lần khi sốt hoặc đau mình, cách nhau 6–8 giờ, tối đa 4 g/24 giờ; ngưng ibuprofen, không aspirin; uống đủ nước",
+     "v": "c",
+     "n": "QĐ 1840/2025 mục III.2.2: hạ sốt giảm đau không chứa aspirin (hội chứng Reye), bù nước điện giải. QĐ 361/2014 Phụ lục thuốc giảm đau bậc 1 (mục 3.1): paracetamol 500–1.000 mg/lần, cách 6–8 giờ, không quá 4 g/24 giờ. QĐ 2760/2023 mục IV.A.1: khi sốt xuất huyết chưa loại trừ chỉ dùng paracetamol đơn chất, không aspirin, analgin, ibuprofen vì có thể gây xuất huyết."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày (ngày 5 của bệnh) dù thấy khỏe; dặn quay lại ngay khi sốt tăng lại, khó thở, thở nhanh, đau ngực kiểu đè, lan, vã mồ hôi, đau bụng nhiều, nôn nhiều, chảy máu, tay chân lạnh, lơ mơ",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2 (tư vấn theo dõi dấu hiệu cúm nặng, mục II.1.2 viêm phổi tiến triển); QĐ 2760 mục IV.A.3b (dấu hiệu quay lại khám); NICE NG237 khuyến cáo 1.1.2. Triệu chứng tương đương đau ngực: ESC 2023 ACS mục 3.1."
+    },
+    {
+     "t": "Giải thích cơn nhói ngực là do ho, đã làm điện tim và troponin bình thường; hỏi chị lo điều gì và trấn an có cơ sở",
+     "v": "c",
+     "n": "ECG trong 10 phút và hs-cTn khi nghi ACS (ESC 2023 ACS mục 3.2, 3.3); trấn an dựa trên kết quả vừa có, không hứa 'tim chắc chắn không sao'."
+    },
+    {
+     "t": "Hẹn khám đái tháo đường sau khi hết cúm (1–2 tuần): tái đánh giá, khởi trị lại theo kết quả, mục tiêu A1C < 7%",
+     "v": "a",
+     "n": "ADA 2026, khuyến cáo 6.3a. Chọn thuốc cụ thể: không có trong tài liệu đã tải theo phạm vi ca."
+    },
+    {
+     "t": "Đeo khẩu trang, rửa tay, hạn chế tiếp xúc người khác, nhất là người có yếu tố nguy cơ; không múc, nấu trực tiếp cho khách khi còn sốt, ho nhiều",
+     "v": "c",
+     "n": "QĐ 1840 mục IV.2: người nhiễm cúm cần hạn chế tiếp xúc, dùng khẩu trang, vệ sinh bàn tay và bề mặt. Số ngày nghỉ bán cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc long đờm: không bắt buộc, có thể ngưng",
+     "v": "a",
+     "n": "Không có khuyến cáo về siro long đờm cho ho do cúm trong tài liệu đã tải; CHEST 2020 (viêm phế quản cấp, gợi ý 3) khuyên không kê thường quy – suy rộng, để tham khảo."
+    },
+    {
+     "t": "Kê kháng sinh 'phòng bội nhiễm' vì chị đau ngực và có đái tháo đường",
+     "v": "w",
+     "n": "Không có chỉ định (QĐ 1840 mục III.2.2; WHO 2024)."
+    },
+    {
+     "t": "Dexamethason hoặc corticoid để 'giảm nhói, giảm ho cho mau khỏe'",
+     "v": "w",
+     "n": "Không dùng corticoid thường quy cho cúm (QĐ 1840 mục III.2.3); chị đang tăng đường huyết (13,2 mmol/L)."
+    },
+    {
+     "t": "Kê ibuprofen, diclofenac hoặc aspirin giảm đau nhức",
+     "v": "w",
+     "n": "QĐ 1840 mục III.2.2 (aspirin); QĐ 2760 mục IV.A.1 (aspirin, analgin, ibuprofen) khi chưa loại hẳn sốt xuất huyết."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm A thể nhẹ, ngày 2 (test nhanh dương tính), ca khẳng định",
+     "Có yếu tố nguy cơ cúm nặng: đái tháo đường týp 2 chưa điều trị (HbA1c 8,6%) – theo QĐ 1840; theo WHO 2024 chị thuộc nhóm nguy cơ thấp",
+     "Đau ngực kiểu thành ngực do ho; đã loại trừ hội chứng vành cấp (ECG, hs-cTn bình thường)",
+     "Đã loại trừ giai đoạn đầu COVID-19 (test kháng nguyên âm) và sốt xuất huyết Dengue (NS1 âm, Hct, tiểu cầu bình thường) trong giới hạn xét nghiệm sớm",
+     "Dùng thuốc chưa phù hợp: ibuprofen khi chưa loại trừ sốt xuất huyết; siro long đờm không cần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn tiến, du lịch và tiếp xúc, thuốc đã dùng (hỏi riêng giảm đau), cơn nhói ngực và câu hỏi chức năng (bưng nồi, leo cầu thang), bệnh nền, tiền sử gia đình tim mạch và nỗi lo của chị.",
+     "Vì sao nghĩ cúm: khởi phát đột ngột sốt, ớn lạnh, đau cơ, nhức đầu, ho khan (QĐ 1840/2025 mục II.1.1) cộng yếu tố dịch tễ (bạn đi cùng bị cúm, vùng có dịch – mục II.2.4.1); test nhanh cúm A dương tính khẳng định (mục II.2.4.2). Thể nhẹ vì chỉ triệu chứng hô hấp trên, không khó thở, thở 20 l/p, SpO₂ 97% (mục II.2.3).",
+     "Cờ đỏ là cơn nhói ngực: phụ nữ 49 tuổi, đái tháo đường, cha chết đột ngột. Đặc điểm vài giây, kiểu kim châm, ho và hít sâu làm nặng, ấn thành ngực đau, không lan, không vã mồ hôi là thành ngực/màng phổi; ECG trong 10 phút và hs-cTn không tăng (ESC 2023 ACS mục 3.2, 3.3) cho phép cho về có dặn dò.",
+     "Vì sao chưa là COVID-19 hay sốt xuất huyết: test SARS-CoV-2 âm tính cùng cúm A dương tính, không mất mùi vị (QĐ 2671/2023 mục 2.1a, 4.8.2b); sốt xuất huyết giai đoạn sốt có Hct bình thường, bạch cầu giảm, tiểu cầu còn > 100 G/L nên các xét nghiệm đó không loại được (QĐ 2760/2023 mục II.1.2), phải dựa NS1 âm, không dấu hiệu cảnh báo và hẹn tái khám.",
+     "Không có siêu âm: dùng lâm sàng, ECG, troponin, X-quang khi cần; không chuyển tuyến chỉ để siêu âm vì chưa có chỉ định."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: điều trị ngoại trú, hẹn tái khám có mốc ngày 5, dặn dấu hiệu quay lại (QĐ 1840 mục III.2.2).",
+     "Kháng virus – hai cách đều đúng: oseltamivir (QĐ 1840/2025, đái tháo đường là nguy cơ; CDC Bảng 2 bản 2016–2017 cũng vậy) hoặc không kháng virus (WHO 2024, đái tháo đường không thuộc yếu tố nguy cơ chính). Chị còn trong 48 giờ nên thuốc có hiệu lực tối đa; WHO nhấn mạnh trong 48 giờ. Baloxavir 40 mg một liều là phương án thay thế (QĐ 1840 mục III.2.1).",
+     "Không kháng sinh, không corticoid (QĐ 1840 mục III.2.2, III.2.3; WHO 2024); không NSAID, không aspirin khi chưa loại sốt xuất huyết (QĐ 2760 mục IV.A.1).",
+     "Lời thoại mẫu: 'Chị bị cúm A. Tôi vừa kiểm tra tim: điện tim và men tim bình thường, cơn nhói là do ho làm đau thành ngực. Nhưng chị có đường huyết cao nên dễ bị nặng hơn; tôi cho thuốc, hẹn chị ba ngày nữa, hôm nay chị nên nghỉ quán, đeo khẩu trang.'",
+     "Hỏi nỗi sợ thật: 'Chị lo điều gì nhất khi nhói ngực?' – chị mới kể cha mất vì nhồi máu cơ tim. Trấn an dựa trên ECG, troponin; không bỏ qua nguy cơ tim mạch của người đái tháo đường."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Viên nang 75 mg",
+      "lieu": "75 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng – tối cách 12 giờ; liều đầu ngay hôm nay",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1–2.2 (chị có đái tháo đường). Theo WHO 2024 chị là nguy cơ thấp nên có thể không dùng; cả hai cách đều đúng."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên/lần (500–1.000 mg), tối đa 4 g/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C hoặc đau mình, cách nhau 6–8 giờ",
+      "so_ngay": "Đến khi hết sốt",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau bậc 1, mục 3.1; QĐ 1840 mục III.2.2 (không aspirin); QĐ 2760 mục IV.A.1 (chỉ paracetamol đơn chất khi chưa loại trừ sốt xuất huyết). Không dùng chung gói thuốc cảm có paracetamol."
+     }
+    ],
+    "dan_do": [
+     "Uống nhiều nước (nước lọc, oresol hoặc nước cháo loãng pha muối), ăn đủ; theo QĐ 1840 mục III.2.2 bù nước điện giải và dinh dưỡng.",
+     "Tái khám sau 3 ngày; quay lại ngay hoặc gọi 115 nếu khó thở, đau ngực đè nặng hay lan, vã mồ hôi, sốt tăng lại, đau bụng nhiều, nôn nhiều, chảy máu, tay chân lạnh, lơ mơ, không uống được (QĐ 1840 mục II.1.2, III.2.2; QĐ 2760 mục IV.A.3b; ESC 2023 ACS mục 3.1).",
+     "Nghỉ quán, đeo khẩu trang, rửa tay; số ngày nghỉ cụ thể: không có trong tài liệu đã tải (QĐ 1840 mục IV.2).",
+     "Không tự uống ibuprofen hoặc kháng sinh; mang theo mọi lọ thuốc khi tái khám.",
+     "Hẹn khám đái tháo đường sau khi hết cúm (HbA1c 8,6%, mục tiêu < 7% – ADA 2026 khuyến cáo 6.3a); sau khi khỏi nên tiêm vắc xin cúm mùa theo hướng dẫn Bộ Y tế (QĐ 1840 mục IV.1).",
+     "Nên nói với chồng kết quả và nỗi sợ tim, để vợ chồng cùng nhận biết dấu hiệu cần cấp cứu."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (sau 3 ngày)",
+   "tiep_don": "Chị Dung quay lại đúng hẹn, ngày thứ 5 của bệnh, chồng chở đến. Chị đã dùng thuốc theo đơn lượt trước, hết sốt từ tối ngày 4, còn ho và mệt. Sinh hiệu: nhiệt độ 37,3 °C, mạch 84 l/p, HA 128/80 mmHg, nhịp thở 18 l/p, SpO₂ 97% khí trời.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Dung đã hết sốt, thở 18–20 l/p, SpO₂ 96–97%, ran ngáy thoảng mất sau ho: đây là hồi phục chậm của cúm nhẹ (ho có thể kéo dài hơn sốt – QĐ 1840/2025 mục II.1.1), không có dấu hiệu cúm nặng (mục II.2.3). Nhập viện không thêm lợi ích, làm chị mất thêm nhiều ngày bán quán và tiếp xúc người bệnh nặng, còn nỗi sợ 'tim có gì giấu' của chị thành nỗi sợ 'bệnh nặng thật'.",
+    "chuyen_tuyen": "Chuyển chị Dung lên tuyến trên để siêu âm tim, chụp CT ngực vì 'còn mệt, còn nhói' là quá tay: ECG và hs-cTn lượt trước bình thường, đau giảm dần, CT ngực chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840/2025 mục II.2.2). Chị mất thêm một ngày đi lại, tốn kém, gặp thêm phim chụp có thể thấy dấu vết nhỏ khiến chị lo thêm, trong khi cách đúng là giải thích bằng kết quả đã có và hẹn lại."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi đỡ nhiều rồi, hết sốt rồi, giờ còn ho với hơi mệt thôi. Bác sĩ cho tôi giấy cho đi bán lại, mai thứ bảy khách đông lắm.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "128/80",
+    "nhiet": "37,3",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến đúng hẹn. Chị nói 'đỡ nhiều rồi, hết sốt rồi', còn ho và hơi mệt; xin giấy khỏi bệnh để mai (thứ bảy) bán lại vì khách đông.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và mong muốn đi bán lại ngay"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Hết sốt từ tối ngày 4 (37,4 °C lúc 20 giờ, sáng nay 36,9 °C), không sốt lại. Ho nhiều hơn mấy hôm trước, ít đờm trắng đục, không đờm xanh, không ho ra máu. Ăn được nửa chén cơm, ngủ hay thức vì ho. Người mệt rã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hết sốt (đúng mốc 3–5 ngày), còn ho và mệt: hồi phục chậm của cúm"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Đã uống đủ thuốc theo đơn lượt trước (đến sáng nay 7 liều thuốc kháng virus, còn 3 viên nếu có dùng); paracetamol chỉ uống 2 lần trong ngày đầu rồi thôi; ngưng ibuprofen và siro long đờm. Không tự mua thêm kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ đơn, không tự thêm kháng sinh"
+    },
+    {
+     "id": "nhoi_nguc",
+     "noi_dung": "Hỏi 'còn đau ngực không' thì chị đáp 'hết rồi'. Hỏi lúc ho mạnh hoặc hít sâu: còn nhói nhẹ ở chỗ cũ, ít hơn và ngắn hơn hôm trước; nằm yên, đi bộ, leo cầu thang không đau, không đè nặng, không lan, không vã mồ hôi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung thì chị đáp 'hết rồi'. Chỉ khai thật khi hỏi cụ thể lúc ho, hít sâu, xoay người.",
+     "k": 1,
+     "y": "Đau thành ngực đang giảm, không phải đau kiểu mạch vành"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Leo 15 bậc cầu thang không phải dừng. Chiều qua thử bưng nồi nước lèo 12 lít ra quán: đặt xuống nghỉ một lần, ngồi 10 phút mới hết mệt, không hụt hơi, không nhói ngực.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bằng việc cụ thể.",
+     "k": 1,
+     "y": "Sức đang hồi phục dần, chưa trở lại như trước"
+    },
+    {
+     "id": "lo_tim",
+     "noi_dung": "Đêm qua chị vẫn thức nghe tim đập, vẫn lo 'có giấu gì trong tim không' dù điện tim bình thường; muốn xin 'siêu âm tim cho chắc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị còn lo lắng điều gì, hoặc hỏi đêm ngủ thế nào, hoặc nhắc lại kết quả điện tim.",
+     "k": 1,
+     "y": "Nỗi sợ nhồi máu cơ tim còn nguyên, cần giải thích tiếp"
+    },
+    {
+     "id": "duong_huyet",
+     "noi_dung": "Mấy hôm nay vẫn khát nước nhiều, tiểu đêm 2 lần. Chưa uống lại metformin vì 'sợ thuốc nặng gan khi đang bệnh'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đái tháo đường chưa điều trị, vẫn triệu chứng tăng đường huyết"
+    },
+    {
+     "id": "lay_nhiem",
+     "noi_dung": "Chồng chị từ sáng nay hắt hơi, sổ mũi, nhiệt kế 37,6 °C; nhân viên quán chưa ai bệnh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lây trong gia đình; nghề chủ quán ăn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, mặt hồng hơn lần trước, da không còn nóng ẩm. Vẻ mệt, thỉnh thoảng ho khan.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, không co kéo. Rung thanh và gõ bình thường. Ran ngáy thoảng ở đáy phổi phải, mất sau khi ho; đáy trái rì rào phế nang êm dịu. Không ran ẩm nổ, không tiếng thở phế quản.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, không co kéo. Rung thanh và gõ hai bên bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy thoảng, mất sau khi ho."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi, không tiếng cọ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, không mủ. Niêm mạc mũi hết phù nề.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Ấn liên sườn 5 trái đường nách trước còn đau nhẹ, ít hơn lần đầu; xoay thân không gây nhói. Không sưng nóng đỏ.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù, bắp chân mềm, không đau khi bóp.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi 40 m không phải dừng. SpO₂ 97% → 96%, nhịp thở 20 l/p, hồi phục ngay.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "crp": {
+     "v": "a",
+     "r": "CRP 16 mg/L",
+     "ab": 1,
+     "n": "Không bắt buộc khi đã hết sốt, phổi không ran ẩm. Nếu làm: < 20 mg/L thì không kê kháng sinh thường quy (NICE NG237 khuyến cáo 1.3.4)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tim phổi bình thường, không đông đặc, không tràn dịch màng phổi.",
+     "ab": 0,
+     "n": "Không cần: hết sốt, SpO₂ 96–97%, phổi chỉ ran ngáy thoảng (QĐ 1840/2025 mục II.2.2). Chụp theo ý chị vẫn chấp nhận."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 84 l/p. Không thay đổi ST–T, giống điện tim lượt trước.",
+     "ab": 0,
+     "n": "Không cần lặp lại khi đau giảm, không đổi tính chất (ESC 2023 ACS mục 3.2: lặp lại khi triệu chứng thay đổi); làm để trấn an vẫn chấp nhận."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 11,8 mmol/L (không nhịn đói)",
+     "ab": 1,
+     "n": "Còn cao khi chưa điều trị đái tháo đường; xử trí ở lần khám đái tháo đường (ADA 2026 khuyến cáo 6.3a)."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "HbA1c 8,6%",
+     "ab": 1,
+     "n": "Kết quả như lượt 1 nếu chưa làm: kiểm soát kém, cần tái đánh giá và khởi trị lại (ADA 2026 khuyến cáo 6.3a)."
+    },
+    "trop": {
+     "n": "Không cần: đau đang giảm, kiểu thành ngực, ECG và troponin lượt trước bình thường (ESC 2023 ACS mục 3.3.4.1.1 – kết hợp lâm sàng và ECG)."
+    },
+    "echo": {
+     "n": "Phòng khám không có siêu âm; chị xin nhưng không có chỉ định (tim nghe và ECG bình thường). Không chuyển tuyến chỉ để trấn an; còn lo sau khi hết cúm thì hẹn khám tim mạch thường quy."
+    },
+    "ctm": {
+     "n": "Không cần: đã hết sốt, đang hồi phục, không dấu hiệu cảnh báo sốt xuất huyết."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm A thể nhẹ, ngày 5, đáp ứng điều trị tốt (đã hết sốt, ho và mệt hậu cúm); đau thành ngực do ho đang giảm; đái tháo đường týp 2 chưa điều trị",
+     "ok": 1,
+     "n": "Cúm thường sốt 3–5 ngày, ho kéo dài hơn và tự hồi phục (QĐ 1840/2025 mục II.1.1): chị hết sốt ngày 4 là khớp mốc; hồi phục chậm bình thường, chưa phải thất bại điều trị."
+    },
+    {
+     "t": "Cúm A thể nhẹ đang hồi phục",
+     "ok": 1,
+     "n": "Chấp nhận (QĐ 1840 mục II.1.1, II.2.3); nên ghi thêm đái tháo đường và dặn mốc ho > 3 tuần."
+    },
+    {
+     "t": "Viêm phổi bội nhiễm sau cúm",
+     "n": "Chưa nghĩ: hết sốt, thở 18 l/p, SpO₂ 96–97%, không ran ẩm, đờm trắng; sốt lại hoặc khó thở tăng mới gợi ý (QĐ 1840 mục II.1.2)."
+    },
+    {
+     "t": "Cúm nặng lên / thất bại điều trị",
+     "n": "Không: không khó thở, không thở nhanh, SpO₂ không tụt, tri giác bình thường (QĐ 1840 mục II.2.3)."
+    },
+    {
+     "t": "Hội chứng vành cấp hoặc viêm cơ tim",
+     "n": "Đau giảm, không đổi tính chất, không đau khi gắng sức, ECG và troponin lượt trước bình thường (ESC 2023 ACS mục 3.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về, không nhập viện, không chuyển tuyến; hẹn tái khám theo lịch hoặc khi có dấu hiệu; xác nhận hết sốt, chưa cần xét nghiệm thêm",
+     "v": "c",
+     "n": "Cúm nhẹ điều trị ngoại trú (QĐ 1840/2025 mục III.2.2), hết sốt đúng mốc 3–5 ngày (mục II.1.1)."
+    },
+    {
+     "t": "Uống nốt đủ 5 ngày thuốc kháng virus nếu đã dùng (còn 3 viên); không kéo dài hơn",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.1: oseltamivir 5 ngày; dùng đến 10 ngày chỉ ở người cúm nặng và suy giảm miễn dịch (chú thích bảng). Nếu lượt trước chọn không dùng kháng virus theo WHO 2024 thì không bắt đầu lúc này (đã quá 48 giờ)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích ho sau cúm có thể kéo dài; quay lại nếu sốt lại, khó thở hoặc ho > 3 tuần",
+     "v": "c",
+     "n": "Không dùng kháng sinh cho cúm nhẹ (QĐ 1840 mục III.2.2); NICE NG237 khuyến cáo 1.3.1, 1.3.4. CHEST 2020 (TL-0151): viêm phế quản cấp kéo dài ≤ 3 tuần, ho dai dẳng hoặc nặng thêm thì khám lại và xem xét xét nghiệm có mục tiêu (gợi ý 2); kháng sinh khi nghi bội nhiễm vi khuẩn (gợi ý 4)."
+    },
+    {
+     "t": "Giải thích tiếp về tim: ECG, troponin bình thường, đau thành ngực đang giảm; hỏi đêm ngủ và nỗi lo; dặn dấu hiệu cần cấp cứu (đè nặng ngực, lan tay hoặc hàm, vã mồ hôi, khó thở)",
+     "v": "c",
+     "n": "ESC 2023 ACS mục 3.1 (triệu chứng tương đương đau ngực), mục 3.3.4.1.1. Siêu âm tim không có chỉ định và phòng khám không có máy; nếu chị còn lo sau khi khỏi, hẹn khám tim mạch thường quy."
+    },
+    {
+     "t": "Hẹn khám đái tháo đường trong 1–2 tuần: tái đánh giá, khởi trị lại, mục tiêu A1C < 7%; chưa dùng corticoid",
+     "v": "c",
+     "n": "ADA 2026, khuyến cáo 6.3a. Chọn thuốc cụ thể: không có trong tài liệu đã tải theo phạm vi ca."
+    },
+    {
+     "t": "Nghỉ thêm cho đến khi hết ho nhiều, đeo khẩu trang và rửa tay khi quay lại quán; chồng sốt nhẹ nên theo dõi",
+     "v": "c",
+     "n": "QĐ 1840 mục IV.2 (hạn chế tiếp xúc, khẩu trang, vệ sinh tay). Thời gian chính xác có thể quay lại nấu ăn, bán hàng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ho hoặc long đờm khi cần; paracetamol khi đau hoặc sốt",
+     "v": "a",
+     "n": "Không bắt buộc (CHEST 2020, gợi ý 3). Paracetamol theo QĐ 361/2014 Phụ lục thuốc giảm đau bậc 1 mục 3.1."
+    },
+    {
+     "t": "Tiêm vắc xin cúm mùa sau khi hồi phục",
+     "v": "a",
+     "n": "QĐ 1840 mục IV.1."
+    },
+    {
+     "t": "Kê kháng sinh 'cho chắc' vì ho còn nhiều hoặc chị xin",
+     "v": "w",
+     "n": "Không có chỉ định (QĐ 1840 mục III.2.2; NICE NG237 khuyến cáo 1.3.4: CRP < 20 mg/L không kê)."
+    },
+    {
+     "t": "Dùng corticoid uống để cắt ho hoặc cho đỡ mệt",
+     "v": "w",
+     "n": "Không dùng corticoid thường quy cho cúm (QĐ 1840 mục III.2.3); đái tháo đường chưa điều trị."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến để làm siêu âm tim, CT ngực",
+     "v": "w",
+     "n": "Không có dấu hiệu nặng (QĐ 1840 mục II.2.3); CT ngực chỉ khi nghi viêm phổi hoặc suy hô hấp (mục II.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm A thể nhẹ, ngày 5, đã hết sốt, hồi phục chậm bình thường (ho và mệt hậu cúm)",
+     "Đau thành ngực do ho, đang giảm; đã loại trừ hội chứng vành cấp ở lượt 1",
+     "Đái tháo đường týp 2 chưa điều trị (HbA1c 8,6%), cần khám và khởi trị lại",
+     "Lo âu về bệnh tim chưa nguôi, cần giải thích tiếp",
+     "Không có bội nhiễm vi khuẩn, không thất bại điều trị"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi then chốt lượt này: hồi phục chậm bình thường hay thất bại điều trị sớm. Mốc sốt 3–5 ngày, ho kéo dài hơn (QĐ 1840/2025 mục II.1.1): chị hết sốt ngày 4, đúng mốc; thất bại sẽ có sốt kéo dài hoặc sốt lại, khó thở, SpO₂ tụt (mục II.1.2, II.2.3).",
+     "Dữ kiện quyết định: không sốt lại, thở 18–20 l/p, SpO₂ 96–97% (QĐ 1840 mục II.2.3), ran ngáy thoảng mất sau ho, đi bộ SpO₂ chỉ giảm 1%. Chị nói 'đỡ nhiều' nhưng sức làm việc chưa trở lại: hỏi bằng hoạt động mới thấy hồi phục từng phần.",
+     "Đau ngực: hỏi 'còn đau không' chị đáp 'hết rồi'; hỏi lúc ho mạnh thì còn nhẹ. Kiểu đau không đổi, giảm dần, ấn thành ngực ít đau hơn: không cần làm lại troponin (ESC 2023 ACS mục 3.3.4.1.1).",
+     "Nỗi sợ tim vẫn nguyên dù xét nghiệm bình thường: giải thích tiếp bằng kết quả cụ thể; siêu âm tim không có chỉ định."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, không nhập viện, không chuyển tuyến; tái khám theo lịch hoặc khi có dấu hiệu (QĐ 1840 mục III.2.2).",
+     "Không kháng sinh, không corticoid (QĐ 1840 mục III.2.2, III.2.3). Chị xin giấy đi bán lại ngay: nói rõ chị nên nghỉ thêm cho đến khi hết ho nhiều, đeo khẩu trang khi quay lại; thời gian cụ thể không có trong tài liệu đã tải.",
+     "Điểm dạy chính của ca: ca tốt lên không có nghĩa là xử trí lượt đầu đúng. Nếu lượt đầu bỏ ECG, kê ibuprofen, kháng sinh hoặc dexamethason, chị vẫn có thể hết sốt ngày 4 vì cúm nhẹ tự giới hạn – kết cục tốt không hợp thức hóa quy trình sai."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Viên nang 75 mg",
+      "lieu": "75 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng – tối cách 12 giờ",
+      "so_ngay": "Uống nốt đến đủ 5 ngày (còn 3 viên)",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1; không kéo dài (10 ngày chỉ cho cúm nặng và suy giảm miễn dịch). Nếu lượt 1 chọn không dùng kháng virus (WHO 2024) thì không kê lượt này."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên/lần khi đau hoặc sốt, tối đa 4 g/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần, cách nhau 6–8 giờ",
+      "so_ngay": "Khi còn đau; thường vài ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau bậc 1 mục 3.1; không aspirin (QĐ 1840 mục III.2.2)."
+     }
+    ],
+    "dan_do": [
+     "Tái khám khi sốt lại, khó thở, đau ngực đè nặng hoặc lan, ho ra máu, đờm xanh vàng kèm sốt, hoặc ho kéo dài trên 3 tuần (QĐ 1840 mục II.1.2; CHEST 2020 gợi ý 2).",
+     "Nghỉ thêm, ăn uống đủ, ngủ đủ; đeo khẩu trang và rửa tay khi quay lại quán; không múc, nấu trực tiếp cho khách khi còn ho nhiều (QĐ 1840 mục IV.2).",
+     "Hẹn khám đái tháo đường trong 1–2 tuần, mang theo kết quả HbA1c (ADA 2026 khuyến cáo 6.3a).",
+     "Sau khi khỏi: tiêm vắc xin cúm mùa theo hướng dẫn Bộ Y tế (QĐ 1840 mục IV.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ngày 5 hết sốt (mốc 3–5 ngày – QĐ 1840 mục II.1.1), ho kéo dài thêm khoảng 2 tuần rồi hết, cơn nhói ngực mất sau 4–5 ngày; anh Hòa hắt hơi sổ mũi nhẹ 2 ngày sau, tự khỏi. Chị Dung được kiểm tra đường huyết: HbA1c 8,6%, quay lại khám đái tháo đường sau 2 tuần, khởi trị theo ADA 2026 và đồng ý theo dõi. Chị kể cho chồng nghe chuyện cha mất vì nhồi máu cơ tim, hai vợ chồng cùng đi tầm soát tim mạch. Gương soi ngược: nếu bác sĩ làm ẩu (không hỏi cơn nhói và nỗi sợ, không làm điện tim, kê ibuprofen hoặc kháng sinh 'phòng bội nhiễm' hoặc dexamethason cho 'đỡ ho, đỡ nhói', không hỏi đường huyết) thì chị Dung vẫn nhiều khả năng khỏi cúm trong 5–7 ngày vì cúm nhẹ tự giới hạn (QĐ 1840 mục II.1.1); đó là may mắn, không chứng minh cách làm đúng. Cái may che đi những gì đã xảy ra: cơn nhói chưa từng được loại trừ nguyên nhân tim, ibuprofen có thể làm hại nếu là sốt xuất huyết (QĐ 2760 mục IV.A.1), corticoid đẩy đường huyết của người đái tháo đường chưa điều trị lên cao, và nỗi sợ lớn nhất của chị không ai nghe.",
+ "nhieu": [
+  "Chị phủ nhận triệu chứng nặng: hỏi chung 'đau ngực, khó thở không' đều đáp 'không'; chỉ khai thật khi hỏi bằng việc cụ thể (bưng nồi, leo cầu thang, cơn nhói lúc ho). Lượt 2 'hết rồi' nhưng còn nhói khi ho mạnh.",
+  "Siro long đờm và paracetamol là 'thuốc', còn ibuprofen và nỗi sợ tim chỉ lộ khi hỏi riêng: chồng đưa ibuprofen từ tủ thuốc; chị chưa kể cho ai chuyện cha mất vì nhồi máu cơ tim.",
+  "Chuyến du lịch có cả dịch cúm lẫn muỗi đốt: test cúm A dương tính không loại hết sốt xuất huyết nên phải dặn dấu hiệu cảnh báo (QĐ 2760 mục IV.A.3b).",
+  "Hết sốt ngày 4 làm chị tưởng khỏi hẳn, muốn bán quán ngay: cần phân biệt hồi phục chậm bình thường với thất bại điều trị.",
+  "Bệnh nền đái tháo đường chỉ lộ khi hỏi riêng; chị ngưng metformin từ 2023 và không coi mình là người bệnh."
+ ],
+ "bai_hoc_bien": [
+  "Phủ nhận triệu chứng nặng: dùng câu hỏi chức năng thay câu hỏi cảm giác. 'Có khó thở không' → 'không'; 'bưng nồi nước lèo ra quán có phải nghỉ không' → 'phải nghỉ một lần'. Hỏi cơn nhói bằng hoàn cảnh: lúc nào, ho hay hít sâu có đau hơn không, nằm yên có đau không.",
+  "Cờ đỏ phải xử lý, dù nhiều khả năng vô hại: đau ngực ở phụ nữ 49 tuổi có đái tháo đường và cha chết đột ngột → ECG trong 10 phút, hs-cTn khi nghi ACS (ESC 2023 ACS mục 3.2, 3.3); sau đó mới trấn an dựa trên kết quả, không trấn an suông.",
+  "Lý do thật đến khám (sợ nhồi máu cơ tim) thường nằm sau lời xin 'thuốc ho'. Hai câu hỏi mở được việc: 'Chị lo nhất điều gì?' và 'Trong nhà có ai bị bệnh tim, đột tử không?'.",
+  "Xử trí ẩu mà không sao (near miss): cúm nhẹ tự khỏi dù xử trí sai, kết cục tốt không hợp thức hóa việc bỏ ECG, kê ibuprofen khi chưa loại sốt xuất huyết (QĐ 2760 mục IV.A.1), kháng sinh vô căn cứ hay corticoid (QĐ 1840 mục III.2.2, III.2.3). Tự hỏi: nếu chị xấu đi trong 48 giờ, mình có đủ cơ sở để giải thích mình làm đúng không?",
+  "Hồi phục chậm bình thường hay thất bại điều trị? Sốt cúm 3–5 ngày, ho kéo dài hơn (QĐ 1840 mục II.1.1): hết sốt, SpO₂ ổn, phổi không đông đặc là bình thường; sốt lại, khó thở tăng, SpO₂ tụt thì xem lại chẩn đoán (viêm phổi bội nhiễm).",
+  "Đái tháo đường là yếu tố nguy cơ cúm nặng theo QĐ 1840 và CDC nhưng không nằm trong nhóm nguy cơ chính của WHO 2024: giải thích cả hai cách và cùng người bệnh chọn.",
+  "Cặp tương phản P-0028 với HH-0730 (viêm phế quản cấp, chưa viết): ở ca này then chốt là khởi phát đột ngột, đau cơ, sốt cao, tiếp xúc người cúm, test cúm A dương; viêm phế quản cấp thì ho là triệu chứng chủ yếu (CHEST 2020, TL-0151). Điểm phân biệt bên HH-0730 chốt khi viết ca đó."
+ ],
+ "diem_nho": [
+  "Ca nghi ngờ cúm: viêm hô hấp cấp + tiếp xúc gần người cúm hoặc ở khu vực có dịch; ca khẳng định: test nhanh, RT-PCR dương tính (QĐ 1840/2025 mục II.2.4.1–2.4.2). Cúm nhẹ: chỉ triệu chứng hô hấp trên; cúm nặng: khó thở, thở nhanh, thở gắng sức, rối loạn tri giác (mục II.2.3).",
+  "Kháng virus cúm nhẹ ngoại trú: chỉ khi có yếu tố nguy cơ (QĐ 1840 mục III.2.2): oseltamivir 75 mg x 2 lần/ngày x 5 ngày; baloxavir 40 mg một liều (20–80 kg) nếu không có oseltamivir (mục III.2.1). WHO 2024: nguy cơ chính ≥ 65 tuổi, suy giảm miễn dịch, tim mạch, thần kinh, hô hấp mạn.",
+  "Cúm nhẹ: không kháng sinh (QĐ 1840 mục III.2.2; WHO 2024 khuyến cáo mạnh); không corticoid thường quy (mục III.2.3); không hạ sốt có aspirin (mục III.2.2).",
+  "Sốt xuất huyết giai đoạn sốt: sốt cao đột ngột, đau cơ, nhức hố mắt, Hct bình thường, tiểu cầu > 100 G/L, bạch cầu giảm; NS1 từ ngày 1–7 (QĐ 2760/2023 mục II.1, III.1.1). Dấu hiệu quay lại khám: nôn ói nhiều, đau bụng nhiều, tay chân lạnh, chảy máu (mục IV.A.3b). Hạ sốt chỉ paracetamol đơn chất; không aspirin, analgin, ibuprofen (mục IV.A.1).",
+  "Đau ngực nghi ACS: ECG trong 10 phút, hs-cTn ngay và theo thuật toán 0 h/1 h hoặc 0 h/2 h (ESC 2023 ACS mục 3.2, 3.3, 3.3.4); dùng thuật toán phải kết hợp lâm sàng và ECG (mục 3.3.4.1.1). Chỉ tiêu một mẫu duy nhất: không có trong tài liệu đã tải.",
+  "ADA 2026, khuyến cáo 6.3a: mục tiêu A1C < 7% cho phần lớn người lớn."
+ ],
+ "nguon": [
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – Cúm mùa – toàn văn (mục I, II.1.1–II.2.4, III.1–III.2.4, IV.1–IV.2)",
+  "TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (tóm tắt BMJ 2026;392:e087397) – phần Key issues (yếu tố nguy cơ), Recommendations; infographic không đọc được trong bản chữ",
+  "TL-0139 · CDC – Influenza Antiviral Medications: Summary for Clinicians (bản chữ ghi mùa 2016–2017) – Bảng 2 (người nguy cơ cao, có đái tháo đường), mục khuyến cáo điều trị",
+  "TL-0029 · QĐ 2760/QĐ-BYT 2023 – Sốt xuất huyết Dengue (số hiệu ngày 04/7/2023 khớp trang ký) – mục II.1, III.1.1, IV.A.1, IV.A.3",
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 – COVID-19 – mục 2.1a, 4.8.1, 4.8.2b (bản chữ OCR đã đối chiếu ở ca HH-1287)",
+  "TL-0146 · NICE NG237 (2024, cập nhật 2025) – Suspected acute respiratory infection in over 16s – khuyến cáo 1.1.2, 1.3.1–1.3.5",
+  "TL-0069 · ESC 2023 – Guidelines for the management of acute coronary syndromes – mục 3.1, 3.2 (ECG trong 10 phút), 3.3, 3.3.4, 3.3.4.1.1",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 – Cơ xương khớp – Phụ lục thuốc giảm đau bậc 1, mục 3.1 (paracetamol)",
+  "TL-0296 · ADA 2026 – Standards of Care in Diabetes – khuyến cáo 6.3a",
+  "TL-0151 · CHEST 2020 – Acute cough due to acute bronchitis in immunocompetent adult outpatients – định nghĩa và gợi ý 1–4 (suy rộng, không phải cúm)",
+  "Không có trong tài liệu đã tải: số ngày nghỉ bán cho người nấu ăn bị cúm; tỉ lệ viêm cơ tim, viêm màng ngoài tim do cúm; ngưỡng một mẫu hs-cTn để rule-out; chọn thuốc đái tháo đường khởi trị lại; chỉnh liều oseltamivir theo Clcr trong QĐ 1840; khuyến cáo thuốc long đờm cho ho do cúm; nội dung infographic WHO 2024 về nhóm nguy cơ thấp (chỉ theo ghi chú danh mục)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-04 – bản 1: soạn mới theo CLAUDE.md mục 3. Không cài bẫy cấu trúc. Cờ đỏ: đau ngực + đái tháo đường + tiền sử gia đình đột tử, nhưng đặc điểm thành ngực. Kết cục near miss viết thành 'gương soi ngược' trong ket_cuc, không đổi xử trí chuẩn.",
+  "Tài liệu đã đọc: toàn văn TL-0122; Key issues TL-0133; Bảng 2 TL-0139; mục II–IV TL-0029; mục 3.1–3.3 TL-0069.",
+  "Mâu thuẫn mới (chi tiết: nhap/HH-0792_mau_thuan.md): kháng virus cho cúm nhẹ ở người nguy cơ chỉ nhờ đái tháo đường – QĐ 1840 và CDC có, WHO 2024 không; ghi cả hai trong một mục c 'A hoặc B', baloxavir chấm a. Áp dụng mục sổ 'Thuốc hạ sốt khi chưa loại trừ sốt xuất huyết Dengue: ibuprofen' (từ ca HH-0737).",
+  "Bản chữ CDC (TL-0139) ghi 'current for the 2016–2017 season': chỉ dùng Bảng 2. Infographic WHO 2024 không đọc được: chỉ dùng phần Key issues và ghi chú danh mục.",
+  "khoa_cls: 'sieu_am'; có X-quang, xét nghiệm, ECG.",
+  "Âm thanh: phổi AT-PHOI-BT-NL-01 (lượt 1), lượt 2 thêm AT-PHOI-RAN-NGAY-01 đáy phải; tim AT-TIM-BT-NL-01. Không dùng ảnh da (kham.da k:0).",
+  "Số liệu phụ tự đặt: sinh hiệu, SpO₂ khi đi bộ, đường huyết 13,2 và 11,8 mmol/L, HbA1c 8,6%, CRP 12 và 16 mg/L, hs-cTnT 5 ng/L, công thức máu, creatinin.",
+  "Thời điểm: sốt từ chiều hôm qua, khám khoảng giờ 18 sau khởi phát, trong 48 giờ. Lượt 2 viết như thể lượt 1 đã xử trí đúng."
+ ]
+}

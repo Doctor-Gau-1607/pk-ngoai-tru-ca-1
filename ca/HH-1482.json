@@ -1,0 +1,602 @@
+{
+ "ma_ca": "HH-1482",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo kho tài liệu 2026-11-04",
+ "benh": "HH_ap_xe_phoi",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Áp xe phổi",
+  "chan_doan_phai_loai_tru": [
+   "Lao phổi",
+   "Ung thư phổi hoại tử"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Võ Thị Lụa",
+  "tuoi": 51,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn nhà và công trình, làm theo tổ, đứng giàn giáo, chà nhám, pha sơn",
+  "can_nang": 58,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi chị hoặc cô. Chị xưng 'tui', gọi 'bác sĩ'. Chồng gọi vợ là 'bà', xưng 'tôi' với bác sĩ.",
+  "tinh_cach": "Lanh lẹ, nói nhanh, làm khoán theo ngày công nên coi nghỉ việc là chuyện lớn. Sợ mất mối công trình, hay nói giảm 'ho chút xíu thôi'. Hiểu biết thuốc men sơ sơ, tin tiệm thuốc quen hơn tin đi khám.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: coi chuyện đó là 'xong rồi, hết sốt rồi' nên lúc đầu chỉ khai thuốc huyết áp và thuốc loãng máu. Chỉ kể amoxicillin mua ở tiệm khi bác sĩ hỏi có mua thuốc, uống kháng sinh hay thuốc tiêu viêm nào chưa. Cho rằng ho do thuốc huyết áp mới đổi. Ngại nói chuyện nhậu vì sợ bị la khi đang uống thuốc loãng máu.",
+  "nguoi_nha": "Chồng, anh Thanh, 55 tuổi, chạy xe ôm, chở vợ đến và ngồi cùng. Anh biết vợ ho cả tháng nay, đêm ngủ phải kê gối cao, hôm đám cưới vợ uống bia rồi say. Anh KHÔNG biết chuyện vợ tự mua kháng sinh và chuyện sáng nay vợ khạc ra mủ hôi trong nhà vệ sinh. Anh lo tiền nên cũng muốn vợ khỏi nằm viện.",
+  "ten_nguoi_nha": "Anh Thanh (chồng)",
+  "ngoai_hinh": {
+   "da": "#c9966f",
+   "toc": "#4a4440",
+   "kieuToc": "ngan",
+   "ao": "#6f8f7a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#b98560",
+    "toc": "#3a3330",
+    "kieuToc": "ngan",
+    "ao": "#7b6a58",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Xin giấy chứng nhận sức khỏe để đi làm công trình",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy chụp cắt lớp vi tính (CT)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Võ Thị Lụa, 51 tuổi, thợ sơn, chồng chở đến, xin khám sức khỏe để lấy giấy chứng nhận đi làm công trình mới. Sinh hiệu: nhiệt độ 37,9 °C, mạch 92 l/p, HA 142/88 mmHg, nhịp thở 22 l/p, SpO₂ 94% khí trời, cân nặng 58 kg.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Chị Lụa có ổ áp xe khoảng 4 cm với mức nước hơi, INR 3,4 và sợi máu trong đờm. Cho về với amoxicillin/clavulanat uống 7 ngày là không đủ: hướng dẫn BYT yêu cầu phối hợp từ 2 kháng sinh đường tĩnh mạch hoặc tiêm bắp, liều cao ngay từ đầu, dùng ít nhất 4 tuần (QĐ 4235/2012, Áp xe phổi, mục 3.1.1). Chị đã quen uống thuốc tiệm rồi tự ngưng khi hết sốt, cần nộp giấy ngay nên dễ bỏ hẹn; ổ mủ có thể ộc ra nhiều hơn, sốt lại, ho máu nhiều hơn trong khi INR chưa được theo dõi (ESC AF 2024, Hình 9).",
+    "chuyen_tuyen": "Ổ áp xe còn nhỏ hơn 10 cm, chưa phải áp xe mạn tính, chưa ho máu nặng, chưa có biến chứng rò phế quản – màng phổi nên chưa có chỉ định phẫu thuật (QĐ 4235/2012, Áp xe phổi, mục 3.2). X-quang thẳng và nghiêng đã định vị được ổ áp xe để chọn tư thế dẫn lưu (mục 2.1.2). Chuyển thẳng lên tuyến trên chỉ để chụp CT khiến chị mất thêm ngày công, chi phí, rời xa chồng, nhiều khả năng chị từ chối đi và bỏ luôn việc điều trị; CT và nội soi phế quản vẫn nên làm sau, khi hội chẩn hoặc nếu không đáp ứng sau 7–10 ngày (QĐ 708/2015, Áp xe phổi, mục 3.1.1d)."
+   },
+   "loi_mo": "Dạ bác sĩ, tui xin cái giấy sức khỏe để đi làm công trình. Tui hơi ho chút xíu thôi, chắc không sao đâu. Bác sĩ khám giùm cho lẹ, mai tui phải nộp giấy.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "142/88",
+    "nhiet": "37,9",
+    "nhip_tho": 22,
+    "spo2": 94,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến xin giấy chứng nhận sức khỏe để nhận làm sơn một công trình mới, mai phải nộp. Nói mình chỉ hơi ho.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (giấy sức khỏe)"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khoảng 17 ngày. Hai tuần đầu ho húng hắng, mấy ngày nay ho đờm nhiều, ho cả đêm, phải kê gối cao mới ngủ được.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có bệnh gì không' thì nói 'ho chút xíu'. Chỉ kể đủ khi hỏi ho từ bao giờ, ho khan hay có đờm, ban đêm có ho không.",
+     "k": 1,
+     "y": "Ho khạc đờm kéo dài hơn 2 tuần"
+    },
+    {
+     "id": "dom_hoi",
+     "noi_dung": "Sáng nay ho khạc ra gần nửa ly mủ vàng xanh, hôi như cá ươn, kèm vài sợi máu đỏ. Chị khạc trong nhà vệ sinh, chồng không biết. Mấy hôm trước đờm đã đặc, hơi hôi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi hỏi màu, mùi, lượng đờm, khạc nhiều vào lúc nào, có máu không. Hỏi 'đờm màu gì' chung chung thì nói 'vàng vàng'.",
+     "k": 1,
+     "y": "Khạc mủ hôi, lẫn máu (ộc mủ)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt từ khoảng 2 tuần trước, hay lên cơn buổi chiều tối, ớn lạnh, cao nhất chừng 39 °C (đo bằng nhiệt kế của hàng xóm). Hôm qua sốt lại sau mấy ngày đỡ. Sáng nay chị uống 1 viên paracetamol.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi có sốt, ớn lạnh, đã đo nhiệt độ, đã uống hạ sốt chưa.",
+     "k": 1,
+     "y": "Sốt, rét run, có dùng hạ sốt"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Đau nhói ở lưng bên phải, chỗ dưới xương bả vai, khi hít sâu hoặc ho. Không đau thắt ngực, không đau khi gắng sức.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'có đau ngực không' thì nói 'không đau tim'. Chỉ nói khi hỏi đau lưng, đau sườn, đau khi hít sâu hay khi ho.",
+     "k": 1,
+     "y": "Đau ngực kiểu màng phổi bên phải"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 19 ngày trước, đi đám cưới, uống khoảng 6–7 lon bia và vài ly rượu, về ngủ rất say. Sáng hôm sau ho sặc sụa, đau lưng bên phải. Chị không nói với ai vì sợ bị la khi đang uống thuốc loãng máu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi hỏi trước khi ho có chuyện gì, có dự tiệc, uống rượu bia, ngủ say, bị sặc không. Hỏi 'có uống rượu không' chung thì nói 'ít khi'.",
+     "k": 1,
+     "y": "Hít sặc sau say rượu bia (nguyên nhân)"
+    },
+    {
+     "id": "tu_thuoc",
+     "noi_dung": "5 ngày trước chị ra tiệm thuốc quen mua amoxicillin 500 mg, uống 3 viên mỗi ngày trong 5 ngày, hết từ hôm qua, kèm paracetamol 500 mg khi sốt. Uống 3 ngày thì hết sốt nên nghĩ đã khỏi; hôm qua sốt trở lại. Không nổi ban, không ngứa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lúc đầu chỉ khai thuốc huyết áp và thuốc loãng máu. Chỉ kể khi hỏi có mua thuốc ở tiệm, đã uống kháng sinh hay thuốc tiêu viêm chưa, đã tự điều trị gì chưa.",
+     "k": 1,
+     "y": "Tự uống kháng sinh 5 ngày (làm nhiễu bệnh cảnh và cấy)",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Rung nhĩ cơn, đang uống warfarin 3 mg buổi tối đã hơn 1 năm, kiểm INR mỗi tháng, lần gần nhất 2,4. Tăng huyết áp: 4 tuần trước bác sĩ tim mạch đổi amlodipin 5 mg (gây phù mắt cá) sang enalapril 5 mg buổi sáng. Không dùng thuốc nào khác, không thuốc nam.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi bệnh nền, thuốc đang dùng, thuốc loãng máu, thuốc huyết áp mới đổi.",
+     "k": 1,
+     "y": "Thuốc kháng đông, thuốc huyết áp mới đổi"
+    },
+    {
+     "id": "neo",
+     "noi_dung": "Chị tin ho là do thuốc huyết áp mới đổi vì ho bắt đầu sau khi đổi thuốc. Nghĩ ớn lạnh, sốt là 'cảm gió' do đứng giàn giáo ngoài nắng mưa.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "rang",
+     "noi_dung": "Răng hàm dưới bên phải đau âm ỉ nhiều năm, sâu vỡ, chưa nhổ, thỉnh thoảng sưng nướu. Đánh răng ngày 1 lần. Chồng bảo hơi thở chị hôi.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi răng miệng, đau răng, hơi thở, khi bác sĩ khám miệng.",
+     "k": 1,
+     "y": "Răng miệng kém (ổ vi khuẩn kỵ khí)"
+    },
+    {
+     "id": "lao_am",
+     "noi_dung": "Không ho kéo dài trước đợt này, không mồ hôi trộm, không sốt nhẹ về chiều từ trước. Sụt khoảng 2 kg trong 3 tuần. Không tiếp xúc người bị lao, chưa từng điều trị lao, chưa từng ho ra máu trước đây.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi sụt cân, ra mồ hôi đêm, tiếp xúc lao, tiền sử lao.",
+     "k": 1,
+     "y": "Sàng lọc lao phổi"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không hút thuốc lá, thuốc lào. Không hen, COPD, không từng áp xe hay viêm phổi nặng. Không nuốt nghẹn, không khàn tiếng, không phù áo khoác. Không ai trong nhà bị ung thư phổi.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi hút thuốc, bệnh phổi cũ, nuốt nghẹn, khàn tiếng, tiền sử gia đình.",
+     "k": 1,
+     "y": "Hút thuốc, dấu hiệu ung thư phổi"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Ngoài sợi máu trong đờm, không chảy máu cam, không chảy máu chân răng nhiều, không phân đen, không bầm tím. Không nhiễm HIV theo chị biết, chưa từng xét nghiệm.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi chảy máu ở chỗ khác, bầm tím, phân đen, nguy cơ HIV.",
+     "k": 1,
+     "y": "Biến chứng chảy máu do kháng đông"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc nào, uống amoxicillin 5 ngày không nổi ban. Không hen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc trước khi kê kháng sinh"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Chị làm khoán theo ngày công, không có lương nghỉ. Công trình mới trả công cao, nhà thầu đòi giấy sức khỏe ngày mai, chị sợ khám ra bệnh thì mất mối, phải nằm viện thì mất cả tháng công. Có thẻ BHYT hộ gia đình.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi hỏi vì sao gấp xin giấy, lo điều gì nhất, vì sao không muốn nằm viện, làm ăn thế nào.",
+     "k": 1,
+     "y": "Lý do thật: sợ mất việc, mất công"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Hơi thở hôi mùi thối, môi khô. Da niêm hơi nhợt, không vàng da. Ngón tay không dùi trống, móng không khum. Thể trạng trung bình, BMI 23,8.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Lồng ngực phải di động kém hơn trái. Vùng sau-dưới phổi phải (quanh góc xương bả vai): rung thanh tăng, gõ đục, nghe tiếng thở phế quản (thổi ống) tại chỗ, gợi hội chứng đông đặc kèm hang (QĐ 4235/2012, Áp xe phổi, mục 2.1.1). Không ran ngáy, ran rít. Phổi trái: rì rào phế nang êm dịu.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Lồng ngực phải di động kém hơn trái. Vùng sau-dưới phổi phải: rung thanh tăng, gõ đục. Phổi trái: rung thanh, gõ bình thường.",
+     "media": [
+      {
+       "vi_tri": "Vùng sau-dưới phổi phải (quanh góc xương bả vai)",
+       "id": "AT-PHOI-PQ-01",
+       "chu": "Tiếng thở phế quản (thổi ống) vùng sau-dưới phổi phải."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "rang_ham_mat": {
+     "a": "Nhiều răng sâu vỡ lớn, chân răng 46 còn sót, nướu quanh răng sưng đỏ rỉ mủ, viêm nha chu, mảng bám dày, hơi thở hôi. Niêm mạc miệng không loét.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, 92 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, hạch thượng đòn. Tuyến giáp không to. Tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, không mủ, amidan không to. Mũi, tai bình thường.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau. Gan lách không sờ thấy.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Bắp chân mềm, không đau, hai bên bằng nhau. Không bầm tím da.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi hành lang 50 m, ho nhiều hơn, SpO₂ 94% → 92%, nhịp thở 26 l/p. Ngồi nghỉ 2 phút SpO₂ về 94%.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "e",
+     "ab": 1,
+     "r": "Phim thẳng: hang tròn khoảng 4 × 4,5 cm ở vùng dưới phổi phải, thành dày khoảng 4 mm tương đối đều, mặt trong nhẵn, có mức nước hơi. Quanh hang đông đặc nhu mô. Đỉnh hai phổi sáng, không hang khác, không tràn dịch hay tràn khí màng phổi, không thấy hạch rốn phổi to. Bóng tim bình thường.",
+     "n": "Hang thành tương đối đều với mức nước hơi: áp xe phổi (QĐ 4235/2012, Áp xe phổi, mục 2.1.2). Hang ung thư thường thành dày, lệch tâm, có tua gai, ít mức nước hơi (mục 2.3). Hang lao có thành trong nhẵn đều, mức dịch không phổ biến, hay gặp ở phân thùy 1, 2 và 6 nên chưa loại được lao, cần Xpert (QĐ 162/2024, Phần II mục 1.2, Bảng 2). Cần chụp thêm phim nghiêng (mục 2.1.2)."
+    },
+    "xq_nguc_nghieng": {
+     "v": "e",
+     "ab": 1,
+     "r": "Phim nghiêng phải: hang có mức nước hơi nằm ở phía sau, ngang mức đốt sống ngực 6–7, tương ứng phân thùy 6 (đỉnh thùy dưới) phổi phải; chiều dài mức dịch trên phim nghiêng gần bằng trên phim thẳng. Góc sườn hoành sau sáng.",
+     "n": "Phim nghiêng xác định chính xác vị trí ổ áp xe để chọn tư thế dẫn lưu (QĐ 4235/2012, Áp xe phổi, mục 2.1.2, 3.1.2). Hai kích thước mức nước hơi trên phim thẳng và nghiêng gần bằng nhau: áp xe phổi; khác nhau: tràn khí tràn dịch màng phổi (mục 2.3)."
+    },
+    "noi_soi_pq": {
+     "v": "a",
+     "r": "Chưa làm tại phòng khám: chỉ định nội soi phế quản ống mềm khi nằm viện (hút mủ, tìm tổn thương tắc nghẽn hoặc dị vật, sinh thiết nếu có tổn thương).",
+     "n": "QĐ 4235/2012, Áp xe phổi: chỉ định soi phế quản ở bệnh nhân áp xe phổi và sinh thiết nếu có tổn thương để chẩn đoán phân biệt ung thư áp xe hóa (mục 2.3); soi ống mềm hút mủ giúp dẫn lưu, phát hiện tắc nghẽn, gắp dị vật (mục 3.1.2). Làm ở tuyến có nội soi trong đợt nằm viện, không phải việc của buổi khám ngoại trú; thời điểm soi: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "e",
+     "ab": 1,
+     "r": "BC 17,6 G/L · Neutrophil 86% · Hb 108 g/L · TC 438 G/L",
+     "bang": {
+      "wbc": 17.6,
+      "neu_pct": 86.0,
+      "neu": 15.1,
+      "lym_pct": 8.0,
+      "lym": 1.41,
+      "mono_pct": 5.0,
+      "mono": 0.88,
+      "eos_pct": 0.8,
+      "eos": 0.14,
+      "baso_pct": 0.2,
+      "baso": 0.04,
+      "rbc": 4.0,
+      "hgb": 108,
+      "hct": 0.33,
+      "mcv": 82.5,
+      "mch": 27.0,
+      "mchc": 327,
+      "rdw": 14.2,
+      "plt": 438
+     },
+     "n": "Bạch cầu thường > 10 G/L (QĐ 4235/2012, Áp xe phổi, mục 2.1.2). Thiếu máu nhẹ đẳng sắc, tiểu cầu tăng phản ứng gợi viêm nhiễm kéo dài; chỉ số phụ do người soạn bổ sung cho khớp bệnh cảnh."
+    },
+    "crp": {
+     "v": "u",
+     "ab": 1,
+     "r": "148 mg/L",
+     "bang": {
+      "crp": 148
+     },
+     "n": "Tài liệu đã tải không nêu ngưỡng CRP riêng cho áp xe phổi; chỉ dùng để theo dõi đáp ứng."
+    },
+    "inr": {
+     "v": "e",
+     "ab": 1,
+     "r": "INR 3,4 (mục tiêu 2,0–3,0)",
+     "n": "Người dùng warfarin phải biết INR trước khi kê kháng sinh. Mục tiêu INR 2,0–3,0 (ESC AF 2024, Bảng khuyến cáo 7, I-B). Kháng sinh nhóm penicillin cần theo dõi INR sát; metronidazol làm tăng tác dụng warfarin nên phải giảm liều (ESC AF 2024, Hình 9)."
+    },
+    "cay": {
+     "v": "e",
+     "ab": 1,
+     "r": "Nhuộm Gram đờm: nhiều bạch cầu đa nhân, nhiều loại vi khuẩn lẫn lộn (cầu khuẩn Gram dương, trực khuẩn Gram âm, vi khuẩn hình thoi). Cấy đờm: vi khuẩn hỗn hợp vùng miệng họng, không ưu thế một loại. Cấy máu 48 giờ: âm tính. Cơ sở không cấy kỵ khí.",
+     "n": "Nhuộm soi và cấy đờm; cấy máu khi sốt > 38,5 °C; làm kháng sinh đồ nếu thấy vi khuẩn (QĐ 4235/2012, Áp xe phổi, mục 2.1.2). Áp xe phổi thường nhiễm nhiều loại vi khuẩn cùng lúc (QĐ 708/2015, mục 2.2). Lấy bệnh phẩm trước liều kháng sinh đầu (QĐ 4235 mục 3.1.1). Chị đã dùng amoxicillin 5 ngày nên cấy ít giá trị; ảnh hưởng của kháng sinh trước đó lên kết quả cấy: không có trong tài liệu đã tải."
+    },
+    "xpert": {
+     "v": "e",
+     "r": "Xpert MTB/RIF đờm: không phát hiện MTB. Soi AFB đờm: âm tính.",
+     "n": "Ho > 2 tuần là triệu chứng nghi lao quan trọng nhất (QĐ 162/2024, Phần II mục 1.1, Bảng 1); xét nghiệm ban đầu gồm soi AFB và Xpert (Phần II mục 2.1a). Ca này loại lao nhờ Xpert âm, không sụt cân nhiều, không mồ hôi trộm, hang có mức nước hơi (ít gặp ở lao). Phân thùy 6 là vị trí lao cũng hay gặp (Bảng 2) nên không thể bỏ qua Xpert."
+    },
+    "sa_phoi": {
+     "v": "u",
+     "ab": 1,
+     "r": "Không tràn dịch màng phổi hai bên. Vùng sau-dưới phải đông đặc có khí, ổ tổn thương không áp sát màng phổi thành, không đường vào qua thành ngực.",
+     "n": "Chọc dẫn lưu qua thành ngực chỉ áp dụng cho ổ ngoại vi, không thông phế quản, sát thành ngực hoặc dính màng phổi (QĐ 4235/2012, Áp xe phổi, mục 3.1.2); ca này chọn dẫn lưu tư thế."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 90 l/p, trục trung gian, không rung nhĩ lúc này, không biến đổi ST–T.",
+     "n": "Rung nhĩ cơn đang ngoài cơn; không ảnh hưởng xử trí áp xe."
+    },
+    "pct": {
+     "v": "a",
+     "ab": 1,
+     "r": "Procalcitonin 1,6 ng/mL",
+     "n": "Tài liệu đã tải về áp xe phổi không nêu vai trò procalcitonin; không cần để quyết định kháng sinh."
+    },
+    "virus_mau": {
+     "v": "a",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính",
+     "n": "Cần tìm yếu tố thuận lợi như nghiện rượu, HIV, thuốc ức chế miễn dịch (QĐ 4235/2012, Áp xe phổi, mục 2.2)."
+    },
+    "ct_nguc": {
+     "v": "u",
+     "r": "Ổ áp xe 4,3 × 4,0 cm phân thùy 6 thùy dưới phải, thành đều 5 mm, có mức khí dịch, đông đặc quanh ổ. Không khối u, không hạch trung thất to, không giãn phế quản khu trú, không dị vật phế quản.",
+     "thay_the": "cxr",
+     "n": "Cơ sở không có CT: dùng phim thẳng và nghiêng thay thế; CT chỉ khi cần xác định chính xác vị trí hoặc phân biệt (QĐ 4235/2012, Áp xe phổi, mục 2.1.2, 2.3). Ca này CT không đổi hướng xử trí lúc đầu; CT và nội soi phế quản để loại ung thư làm ở tuyến trên (mục 2.3)."
+    },
+    "abg": {
+     "n": "Không cần: SpO₂ 94% khí trời, không suy hô hấp (QĐ 4235/2012, Áp xe phổi, mục 2.1.1 chỉ nêu khi có suy hô hấp)."
+    },
+    "ddimer": {
+     "n": "Không cần: không dấu huyết khối tĩnh mạch sâu, có chẩn đoán thay thế rõ trên X-quang."
+    },
+    "igra": {
+     "n": "Không cần: Xpert và AFB đờm đã làm, kết quả âm tính; không có sụt cân nhiều, mồ hôi trộm hay tiếp xúc lao (QĐ 162/2024, Phần II mục 1.1, Bảng 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Áp xe phổi thùy dưới phải (phân thùy 6), một ổ khoảng 4 cm có mức nước hơi, nghĩ do hít sặc sau uống rượu bia trên nền răng miệng kém, vi khuẩn đa nhiễm kể cả kỵ khí; đã điều trị dưới liều bằng amoxicillin 5 ngày; kèm INR vượt mục tiêu (3,4) ở người dùng warfarin",
+     "ok": 1,
+     "n": "Sốt, đau ngực, ho khạc đờm mủ hôi lẫn máu, bạch cầu > 10 G/L, hang thành đều có mức nước hơi (QĐ 4235/2012, Áp xe phổi, mục 2.1). Tìm yếu tố thuận lợi: rượu, ổ nhiễm khuẩn răng hàm mặt (mục 2.2); nghĩ kỵ khí khi đờm thối (QĐ 2147/2026, mục 2.1.1). Hít sặc thường gây tổn thương ở phân thùy đỉnh thùy dưới hoặc phân thùy sau thùy trên khi nằm ngửa (NEJM 2019 Aspiration Pneumonia, mục Diagnosis). ICD-10 J85; J85.1 nếu kèm viêm phổi, J85.2 nếu không kèm (TT 2026 Phụ lục ICD-10)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Không ho dai dẳng nhiều tháng, không mồ hôi trộm, hang thành đều có mức nước hơi (mức dịch ít gặp ở lao), Xpert và AFB âm; phân thùy 6 là vị trí lao hay gặp nên phải làm Xpert (QĐ 162/2024, Phần II mục 1.1–1.2, Bảng 1–2; QĐ 4235 mục 2.3). Nghĩ lại nếu không đáp ứng kháng sinh."
+    },
+    {
+     "t": "Ung thư phổi hoại tử (áp xe hóa)",
+     "n": "Không hút thuốc, không nuốt nghẹn, khàn tiếng, ngón dùi trống; hang thành tương đối đều, không tua gai (QĐ 4235/2012, Áp xe phổi, mục 2.3). Chưa loại hẳn: tuổi > 45; vẫn có chỉ định soi phế quản, sinh thiết nếu có tổn thương (cùng mục), và theo dõi X-quang sau điều trị."
+    },
+    {
+     "t": "Tràn khí tràn dịch màng phổi (hình mức nước hơi)",
+     "n": "Mức dịch phim thẳng và phim nghiêng gần bằng nhau nên là áp xe (QĐ 4235/2012, Áp xe phổi, mục 2.3); siêu âm không có dịch màng phổi."
+    },
+    {
+     "t": "Kén khí phổi bội nhiễm",
+     "n": "Kén có thành mỏng dưới 1 mm và vẫn tồn tại sau điều trị (QĐ 4235/2012, mục 2.3); ở đây thành dày 4 mm và đông đặc quanh ổ. Theo dõi X-quang sau điều trị để chắc."
+    },
+    {
+     "t": "Giãn phế quản hình túi bội nhiễm",
+     "n": "Không tiền sử ho khạc đờm hay ho máu nhiều năm, không ran ẩm tồn tại lâu (QĐ 4235/2012, mục 2.3)."
+    },
+    {
+     "t": "Ho do thuốc ức chế men chuyển (enalapril)",
+     "n": "Cái neo của chị. Hỏi thuốc ức chế men chuyển là một bước trong tiếp cận ho kéo dài (QĐ 4235/2012, Ho kéo dài, mục 2.3; Bảng 1.1 dừng thuốc, đổi nhóm khác). Nhưng đây là ho đờm mủ hôi kèm sốt, bạch cầu cao và hang trên X-quang, thuốc không giải thích được."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện điều trị nội trú tại khoa Nội (hô hấp) của bệnh viện",
+     "v": "c",
+     "n": "Cần phối hợp từ 2 kháng sinh, tĩnh mạch hoặc tiêm bắp, liều cao ngay từ đầu, ít nhất 4 tuần (QĐ 4235/2012, Áp xe phổi, mục 3.1.1); tổn thương hoại tử, ho máu, đang dùng warfarin với INR 3,4 cần theo dõi sát (tham khảo QĐ 2147/2026, mục 5.3.1 ghi chú về tổn thương hoại tử; ESC AF 2024, Hình 9). Chị sợ mất việc nên phải thuyết phục."
+    },
+    {
+     "t": "Lấy đờm nhuộm Gram, cấy và cấy máu, rồi mới cho liều kháng sinh đầu; gửi đờm làm Xpert, AFB",
+     "v": "c",
+     "n": "QĐ 4235/2012, Áp xe phổi, mục 2.1.2, 3.1.1 (dùng thuốc ngay sau khi lấy bệnh phẩm); QĐ 162/2024, Phần II mục 2.1a (Xpert là xét nghiệm ban đầu)."
+    },
+    {
+     "t": "Kháng sinh tĩnh mạch phối hợp 2 thuốc, phủ kỵ khí: amoxicilin/acid clavulanic 3–6 g/ngày (vd 1 g/0,2 g mỗi 8 giờ) + metronidazol 1–1,5 g/ngày chia 2–3 lần (QĐ 4235/2012, mục 3.1.1) hoặc ampicillin/sulbactam 1,5–3 g mỗi 6 giờ hay thêm clindamycin 600 mg mỗi 8 giờ tĩnh mạch khi nguy cơ kỵ khí cao như nha chu nặng, áp xe phổi (NEJM 2019, Bảng 1)",
+     "v": "c",
+     "n": "Hai cách đều đúng, vì hai nguồn khác nhau: BYT kê amoxicilin/clavulanat + metronidazol, NEJM 2019 nêu điều trị bằng metronidazol thất bại 5/11 ca áp xe, kém hơn clindamycin, và thêm clindamycin khi nha chu nặng, ampicillin/sulbactam là lựa chọn cộng đồng. Liều IV amoxicilin/clavulanat 1000/200 mg mỗi 8 giờ (QĐ 2147/2026, Bảng 4.4)."
+    },
+    {
+     "t": "Phối hợp aminoglycosid (gentamicin 3–5 mg/kg/ngày hoặc amikacin 15 mg/kg/ngày) làm kháng sinh thứ hai thay metronidazol",
+     "v": "a",
+     "n": "QĐ 4235/2012, Áp xe phổi, mục 3.1.1 và QĐ 708/2015 mục 3.1.1c vẫn nêu cách này; kèm xét nghiệm creatinin 1–2 lần/tuần. Chị chưa có suy thận nên chấp nhận, nhưng không phủ kỵ khí tốt bằng."
+    },
+    {
+     "t": "Kiểm INR hôm nay, theo dõi INR sát khi dùng kháng sinh (nhất là metronidazol), giữ INR 2,0–3,0, chỉnh liều warfarin cùng bác sĩ tim mạch; không dùng NSAID hay aspirin",
+     "v": "c",
+     "n": "ESC AF 2024, Bảng khuyến cáo 7 (INR 2,0–3,0, I-B), Hình 9 (metronidazol: giảm liều warfarin; kháng sinh penicillin: theo dõi INR), Hình 10 (NSAID: dùng giảm đau khác). Liều warfarin cụ thể và tần suất kiểm INR: không có trong tài liệu đã tải; ca đặt kiểm hằng ngày khi nằm viện."
+    },
+    {
+     "t": "Dẫn lưu tư thế kèm vỗ rung lồng ngực 2–3 lần/ngày, mỗi lần tăng dần đến 15–20 phút; không chọc dẫn lưu qua thành ngực",
+     "v": "c",
+     "n": "QĐ 4235/2012, Áp xe phổi, mục 3.1.2 (chọc dẫn lưu chỉ cho ổ sát thành ngực hoặc dính màng phổi; ổ của chị không áp sát, theo siêu âm)."
+    },
+    {
+     "t": "Điều trị hỗ trợ: dinh dưỡng, nước điện giải, hạ sốt bằng paracetamol 0,5 g khi > 38,5 °C, tối đa 4 viên/ngày",
+     "v": "c",
+     "n": "QĐ 4235/2012, Áp xe phổi, mục 3.1.3 (dinh dưỡng, nước điện giải, giảm đau hạ sốt); liều paracetamol lấy từ bài Viêm phổi bệnh viện, mục 3.4."
+    },
+    {
+     "t": "Theo dõi đáp ứng: giảm sốt sau 3–4 ngày, cắt sốt sau 7–10 ngày; nếu vẫn sốt thì tìm nguyên nhân vi sinh, hội chẩn tuyến trên chụp CT và soi phế quản. Kháng sinh ít nhất 4 tuần, có thể 6 tuần tùy lâm sàng và X-quang; chuyển đường uống khi ổn",
+     "v": "c",
+     "n": "QĐ 708/2015, Áp xe phổi, mục 3.1.1d; QĐ 4235/2012, mục 3.1.1. Tiêu chuẩn chuyển uống riêng cho áp xe phổi: không có trong tài liệu đã tải; tham khảo VPMPCĐ (QĐ 2147/2026, mục 4.5): nhiệt độ ≤ 37,8 °C, mạch ≤ 100, thở ≤ 24, SpO₂ ≥ 90%, ăn uống được."
+    },
+    {
+     "t": "Loại trừ ung thư phổi: nội soi phế quản (sinh thiết nếu có tổn thương) và chụp lại X-quang theo dõi sau điều trị",
+     "v": "c",
+     "n": "QĐ 4235/2012, Áp xe phổi, mục 2.3 (chỉ định soi phế quản ở người áp xe phổi); QĐ 2147/2026, mục 3.1.6, 5.6.3 (theo dõi thoái triển). Thời điểm soi phế quản: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích ổ nhiễm khuẩn răng và rượu bia: khám, điều trị răng hàm mặt, giữ vệ sinh răng miệng, hạn chế rượu bia",
+     "v": "c",
+     "n": "QĐ 4235/2012, Áp xe phổi, mục 4 (vệ sinh răng miệng, điều trị nhiễm khuẩn răng hàm mặt); rượu < 3 ly chuẩn/tuần ở người dùng kháng đông (ESC AF 2024, Hình 10, I)."
+    },
+    {
+     "t": "Không cấp giấy chứng nhận sức khỏe 'bình thường' hôm nay; ghi trung thực tình trạng hô hấp đang bệnh, hẹn hoàn thiện sau khi điều trị; giải thích cho chị và chồng, hỗ trợ giấy nhập viện để chị nghỉ việc",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT Phụ lục XXIV, Mẫu số 03: có mục khám hô hấp, ghi tình trạng bệnh tật và phân loại. Tài liệu đã tải không có điều khoản cách cấp giấy khi phát hiện bệnh mới; theo mục đã có trong mau_thuan.md, cấp giấy bình thường chấm w."
+    },
+    {
+     "t": "Giữ enalapril đến khi hết áp xe; nếu còn ho khan sau đó thì đổi nhóm thuốc huyết áp",
+     "v": "a",
+     "n": "QĐ 4235/2012, Ho kéo dài, mục 2.3, Bảng 1.1 (ho do ức chế men chuyển: dừng thuốc, đổi nhóm). Dừng enalapril ngay cũng chấp nhận được; đổ hết ho cho thuốc rồi không xử trí áp xe là sai."
+    },
+    {
+     "t": "Cho về với amoxicillin/clavulanat uống 7 ngày, hẹn tái khám",
+     "v": "w",
+     "n": "Không phù hợp áp xe phổi: cần 2 kháng sinh đường tĩnh mạch hoặc tiêm bắp, liều cao, ≥ 4 tuần (QĐ 4235/2012, mục 3.1.1)."
+    },
+    {
+     "t": "Chọc dẫn lưu mủ qua thành ngực ngay",
+     "v": "w",
+     "n": "Chỉ áp dụng cho ổ sát thành ngực hoặc dính màng phổi, không thông phế quản (QĐ 4235/2012, mục 3.1.2); siêu âm không thấy đường vào."
+    },
+    {
+     "t": "Giảm đau, hạ sốt bằng ibuprofen hoặc aspirin",
+     "v": "h",
+     "n": "Chị đang dùng warfarin, INR 3,4, có ho máu: tránh NSAID, dùng giảm đau khác (ESC AF 2024, Hình 10, Hình 9)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Áp xe phổi thùy dưới phải, phân thùy 6, một ổ khoảng 4 cm có mức nước hơi, giai đoạn đã ộc mủ (ICD-10 J85)",
+     "Nguyên nhân nghĩ do hít sặc sau uống rượu bia, ổ vi khuẩn kỵ khí từ răng hàm dưới phải (viêm nha chu, chân răng 46); đa nhiễm vi khuẩn; điều trị dưới liều bằng amoxicillin 5 ngày",
+     "Chưa có biến chứng suy hô hấp, tràn mủ màng phổi hay ho máu nặng; có sợi máu trong đờm",
+     "Vấn đề kèm: rung nhĩ cơn đang dùng warfarin, INR 3,4 vượt mục tiêu 2,0–3,0; tăng huyết áp (enalapril mới đổi); thiếu máu nhẹ do viêm",
+     "Đã loại trừ hoặc chưa nghĩ: lao phổi (Xpert âm, hang thành đều có mức dịch, không ở đỉnh), ung thư phổi hoại tử (chưa loại hẳn, cần soi phế quản và theo dõi), kén khí bội nhiễm, tràn khí tràn dịch màng phổi, giãn phế quản bội nhiễm, ho do enalapril"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: ho 17 ngày, sốt chiều tối kèm ớn lạnh, đau nhói lưng phải khi hít sâu, sáng nay ộc gần nửa ly mủ hôi lẫn máu; đây là bộ triệu chứng điển hình (QĐ 4235/2012, Áp xe phổi, mục 2.1.1). Chị chỉ nói 'ho chút xíu' vì cần giấy sức khỏe; phải hỏi màu, mùi, lượng đờm mới ra.",
+     "Hỏi nguyên nhân: sự kiện khởi phát là đám cưới uống rượu bia rồi ngủ say, kèm răng sâu vỡ, viêm nha chu: yếu tố thuận lợi cần tìm (rượu, ổ nhiễm khuẩn răng hàm mặt; mục 2.2), đờm thối gợi kỵ khí (QĐ 2147/2026, mục 2.1.1). Hít sặc gây tổn thương ở phân thùy 6, đúng vị trí thường gặp (NEJM 2019). Thuốc: warfarin, enalapril mới đổi, và amoxicillin tự mua 5 ngày làm giảm sốt tạm thời; phải hỏi mới biết.",
+     "Khám: rung thanh tăng, gõ đục, tiếng thở phế quản vùng sau-dưới phải; hơi thở hôi, răng sâu, nướu rỉ mủ; không ngón dùi trống, không hạch. CLS: bạch cầu 17,6 G/L (> 10 G/L); X-quang thẳng và nghiêng: hang 4 cm thành đều có mức nước hơi, hai kích thước mức dịch gần bằng nhau (mục 2.1.2, 2.3). Cơ sở không có CT nên dùng phim nghiêng định vị.",
+     "Phân biệt: lao phổi có hang (hang thành trong nhẵn, mức dịch ít gặp, hay ở phân thùy 1, 2, 6; ho > 2 tuần là triệu chứng nghi lao) cần Xpert để loại (QĐ 162/2024, Phần II mục 1.1–1.2, Bảng 1–2, mục 2.1a); ung thư phổi áp xe hóa: thành dày, lệch tâm, tua gai, tuổi > 45, chưa loại hẳn nên cần soi phế quản (QĐ 4235 mục 2.3).",
+     "Vấn đề kèm: INR 3,4 do sốt, ăn kém và amoxicillin (kháng sinh penicillin cần theo dõi INR, ESC AF 2024, Hình 9); cơ chế tăng INR cụ thể ở ca này: không có trong tài liệu đã tải. Ho 'do thuốc huyết áp mới' là cái neo: hỏi thuốc ức chế men chuyển chỉ là bước loại trừ (QĐ 4235, Ho kéo dài, mục 2.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng là nhập viện: áp xe phổi cần 2 kháng sinh đường tĩnh mạch hoặc tiêm bắp, liều cao, ít nhất 4 tuần (QĐ 4235/2012, Áp xe phổi, mục 3.1.1); thêm ho máu và INR vượt mục tiêu cần theo dõi. Chưa cần chuyển tuyến hay mổ: ổ < 10 cm, chưa mạn tính, chưa ho máu nặng (mục 3.2); CT và soi phế quản sẽ hội chẩn sau.",
+     "Trình tự: lấy đờm nhuộm Gram, cấy, Xpert và cấy máu, rồi cho liều đầu ngay sau khi lấy bệnh phẩm (QĐ 4235 mục 3.1.1; QĐ 2147 mục 5.2). Kháng sinh: amoxicilin/acid clavulanic tĩnh mạch + metronidazol (BYT), hoặc ampicillin/sulbactam hay clindamycin (NEJM 2019): hai nguồn khác nhau nên ghi cả hai.",
+     "Phối hợp aminoglycosid là cách cũ vẫn có trong BYT, kèm creatinin 1–2 lần/tuần (QĐ 4235 mục 3.1.1). Metronidazol làm tăng tác dụng warfarin nên giảm liều warfarin theo INR (ESC AF 2024, Hình 9); liều chỉnh cụ thể không có trong tài liệu đã tải.",
+     "Dẫn lưu tư thế, vỗ rung 2–3 lần/ngày, 15–20 phút/lần; không chọc dẫn lưu thành ngực vì ổ không áp sát màng phổi (mục 3.1.2). Hạ sốt bằng paracetamol; tránh NSAID, aspirin vì warfarin và ho máu (ESC AF 2024, Hình 10).",
+     "Đáp ứng: giảm sốt sau 3–4 ngày, cắt sốt sau 7–10 ngày; nếu còn sốt thì tìm nguyên nhân vi sinh (QĐ 708/2015, mục 3.1.1d). Điều trị ít nhất 4 tuần, có thể 6 tuần; có chuyên gia dùng đến khi X-quang hết tổn thương hoặc chỉ còn vết nhỏ ổn định. Ung thư phổi: soi phế quản và X-quang theo dõi sau điều trị (QĐ 4235 mục 2.3; QĐ 2147 mục 5.6.3).",
+     "Giấy chứng nhận sức khỏe: không cấp 'bình thường' lúc đang bệnh; ghi trung thực, hẹn hoàn thiện (TT 25/2026, Phụ lục XXIV, Mẫu 03, mục khám hô hấp). Chị sợ mất việc nên phải nói riêng, giải thích BHYT và cấp giấy nhập viện để chị nghỉ làm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicilin/acid clavulanic",
+      "ham_luong": "Lọ 1 g/0,2 g",
+      "lieu": "1 g/0,2 g mỗi 8 giờ (3,6 g/ngày)",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Liều đầu ngay sau khi lấy đờm và cấy máu",
+      "so_ngay": "Tĩnh mạch đến khi hết sốt, cải thiện; tổng cộng ít nhất 4 tuần, đến 6 tuần tùy lâm sàng và X-quang",
+      "ghi_chu": "BYT: amoxicilin/clavulanat 3–6 g/ngày + 1 kháng sinh thứ hai (QĐ 4235/2012, Áp xe phổi, mục 3.1.1); liều IV 1000/200 mg mỗi 8 giờ (QĐ 2147/2026, Bảng 4.4). Chuyển uống 875/125 mg mỗi 8–12 giờ (Bảng 4.4) khi ổn; theo dõi INR vì penicillin (ESC AF 2024, Hình 9)."
+     },
+     {
+      "thuoc": "Metronidazol",
+      "ham_luong": "Lọ 500 mg/100 mL",
+      "lieu": "500 mg mỗi 8 giờ (1,5 g/ngày)",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Cùng lúc liều đầu amoxicilin/clavulanat",
+      "so_ngay": "Theo diễn biến lâm sàng, cùng đợt kháng sinh",
+      "ghi_chu": "BYT: phối hợp metronidazol 1–1,5 g/ngày khi nghi kỵ khí (QĐ 4235/2012, mục 3.1.1; QĐ 708/2015 mục 3.1.1a nêu 500 mg × 2 lọ/ngày khi đờm thối). Hoặc ampicillin/sulbactam 1,5–3 g IV mỗi 6 giờ, thêm clindamycin 600 mg IV mỗi 8 giờ khi nha chu nặng (NEJM 2019, Bảng 1). Làm tăng tác dụng warfarin: giảm liều warfarin theo INR (ESC AF 2024, Hình 9)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên/lần khi nhiệt độ > 38,5 °C, tối đa 4 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt cao",
+      "so_ngay": "Khi cần trong lúc còn sốt",
+      "ghi_chu": "QĐ 4235/2012, bài Viêm phổi bệnh viện, mục 3.4. Không dùng NSAID, aspirin (ESC AF 2024, Hình 10)."
+     },
+     {
+      "thuoc": "Warfarin (thuốc đang dùng)",
+      "ham_luong": "Viên 3 mg",
+      "lieu": "Chỉnh theo INR hằng ngày cùng bác sĩ tim mạch; không tự tăng khi INR 3,4",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Duy trì lâu dài, INR mục tiêu 2,0–3,0",
+      "ghi_chu": "ESC AF 2024, Bảng khuyến cáo 7. Liều chỉnh cụ thể khi dùng metronidazol hoặc amoxicillin: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Enalapril (thuốc đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Giữ nguyên, đánh giá lại ho khan sau khi hết áp xe",
+      "ghi_chu": "Giữ nguyên; nếu còn ho khan thì đổi nhóm (QĐ 4235/2012, Ho kéo dài, mục 2.3, Bảng 1.1)."
+     }
+    ],
+    "dan_do": [
+     "Chị bị áp xe phổi: ổ mủ trong phổi đã vỡ vào phế quản nên chị ộc mủ hôi. Cần nằm viện để truyền ít nhất 2 loại kháng sinh liều cao rồi uống tiếp, tổng ít nhất 4 tuần, có thể 6 tuần; không tự ngưng khi hết sốt (QĐ 4235/2012, Áp xe phổi, mục 3.1.1).",
+     "Giấy sức khỏe sẽ cấp sau khi chị điều trị xong và khám lại; hôm nay bác sĩ ghi đúng tình trạng, không ghi 'bình thường'. Bác sĩ cấp giấy nhập viện, chị đưa nhà thầu để xin lùi ngày làm.",
+     "Nằm đúng tư thế dẫn lưu, vỗ rung lưng 2–3 lần/ngày, mỗi lần tăng dần đến 15–20 phút theo hướng dẫn của điều dưỡng; ho khạc mủ ra, không nuốt lại (QĐ 4235/2012, mục 3.1.2).",
+     "Không uống aspirin, ibuprofen hay thuốc tiêu viêm tự mua; chỉ dùng paracetamol. Không tự mua kháng sinh. Báo ngay nếu ho ra máu nhiều, chảy máu cam, phân đen, bầm tím (ESC AF 2024, Hình 9, Hình 10).",
+     "Bỏ rượu bia, ít nhất giữ dưới 3 ly chuẩn/tuần khi dùng thuốc loãng máu (ESC AF 2024, Hình 10). Đi khám răng hàm mặt và nhổ chân răng viêm mủ để khỏi tái phát (QĐ 4235/2012, mục 4).",
+     "Sau điều trị: nội soi phế quản để chắc không có u, chụp X-quang kiểm tra, tái khám đúng hẹn. Báo bác sĩ nếu hết sốt rồi sốt lại, đờm hôi trở lại (QĐ 4235 mục 2.3; QĐ 2147 mục 5.6.3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Lụa đồng ý nhập khoa Nội sau khi bác sĩ giải thích và cấp giấy nhập viện. Chị được lấy đờm, cấy máu rồi truyền kháng sinh ngay; INR theo dõi hằng ngày cùng bác sĩ tim mạch, warfarin được giảm liều khi dùng metronidazol, không chảy máu nặng. Sốt giảm sau 4 ngày, cắt sốt ngày thứ 8, ra viện ngày 14, uống tiếp kháng sinh. Cuối tuần thứ 5 X-quang còn hang nhỏ 1,5 cm, thành mỏng; chị nghỉ việc gần 6 tuần, hai vợ chồng thiếu tiền và chị bỏ hẹn nhổ chân răng 46 vì đã nhận công trình mới. Khoảng 3 tháng sau, sau một bữa tiệc uống bia, chị lại sốt, khạc mủ hôi; X-quang có ổ áp xe mới cùng thùy dưới phải. Mọi quyết định ở phòng khám đều đúng với dữ kiện lúc đó (thời gian hồi phục và thời điểm tái phát do người soạn thiết kế); tái phát vì nguyên nhân nền chưa xử lý (răng miệng, rượu bia) và tái khám bị bỏ (QĐ 4235/2012, Áp xe phổi, mục 4).",
+ "nhieu": [
+  "Tự uống amoxicillin 500 mg × 3 viên/ngày × 5 ngày: hết sốt tạm thời, kháng sinh liều thấp, thời gian ngắn, không đủ cho áp xe phổi (cần 2 kháng sinh, liều cao, ≥ 4 tuần: QĐ 4235/2012, Áp xe phổi, mục 3.1.1) nên bệnh bùng lại; có thể làm cấy ít giá trị (ảnh hưởng lên cấy: không có trong tài liệu đã tải) và tăng INR (ESC AF 2024, Hình 9).",
+  "Neo 'ho do thuốc huyết áp mới đổi': ho bắt đầu sau khi đổi amlodipin sang enalapril. Hỏi thuốc ức chế men chuyển là một bước của ho kéo dài (QĐ 4235/2012, Ho kéo dài, mục 2.3) nhưng đây là ho đờm mủ hôi có sốt.",
+  "Lý do đến khám là xin giấy sức khỏe; chị nói giảm bệnh vì sợ mất công trình."
+ ],
+ "bai_hoc_bien": [
+  "Người xin khám sức khỏe có thể mang bệnh nặng: khám hô hấp và hỏi triệu chứng cụ thể (màu, mùi, lượng đờm), không dừng ở lời 'ho chút xíu'. Ho > 2 tuần là triệu chứng nghi lao quan trọng nhất (QĐ 162/2024, Phần II mục 1.1, Bảng 1).",
+  "Luôn hỏi thuốc tự mua, nhất là kháng sinh: làm đổi bệnh cảnh và có thể tăng INR ở người dùng warfarin (ESC AF 2024, Hình 9).",
+  "Áp xe phổi: tìm yếu tố thuận lợi (rượu, hít sặc, ổ nhiễm khuẩn răng hàm mặt, HIV) và điều trị nguyên nhân (QĐ 4235/2012, Áp xe phổi, mục 2.2, 4).",
+  "Không có CT: X-quang thẳng và nghiêng đủ định vị ổ; mức nước hơi hai chiều gần bằng nhau là áp xe, không phải tràn khí tràn dịch (mục 2.1.2, 2.3). CT, soi phế quản làm ở tuyến trên khi cần.",
+  "Hang trên X-quang: lao (thành trong nhẵn, hay ở phân thùy 1, 2, 6), ung thư (thành dày, tua gai), áp xe (mức nước hơi, thành tương đối đều) (QĐ 162/2024, Phần II mục 1.2, Bảng 2; QĐ 4235 mục 2.3). Cái neo ức chế men chuyển không giải thích sốt và hang.",
+  "Không cấp giấy sức khỏe 'bình thường' cho người đang bệnh: ghi trung thực (TT 25/2026, Phụ lục XXIV, Mẫu 03).",
+  "Tái phát khi nguyên nhân nền chưa xử lý: dặn nhổ răng viêm, bỏ rượu, tái khám đủ thời gian; kháng sinh tối thiểu 4 tuần (mục 3.1.1, 4)."
+ ],
+ "diem_nho": [
+  "Áp xe phổi: ổ mủ do viêm hoại tử cấp không phải lao, ộc mủ thành hang; điều trị nội khoa thất bại quá 6 tuần là mạn tính (QĐ 4235/2012, Áp xe phổi, mục 1).",
+  "Kháng sinh: phối hợp ≥ 2 thuốc, tĩnh mạch hoặc tiêm bắp, liều cao, ngay sau khi lấy bệnh phẩm, ít nhất 4 tuần, đến 6 tuần (mục 3.1.1). Cắt sốt sau 7–10 ngày, vẫn sốt thì tìm nguyên nhân (QĐ 708/2015, mục 3.1.1d).",
+  "Dẫn lưu tư thế 2–3 lần/ngày, 15–20 phút/lần; chọc dẫn lưu thành ngực cho ổ ngoại vi sát thành ngực (mục 3.1.2).",
+  "Mổ khi ổ > 10 cm, mạn tính không đáp ứng, ho máu nặng tái phát, kèm giãn phế quản khu trú nặng, rò phế quản – màng phổi (mục 3.2).",
+  "Warfarin: INR mục tiêu 2,0–3,0; metronidazol giảm liều warfarin; penicillin theo dõi INR; NSAID tránh; rượu < 3 ly chuẩn/tuần (ESC AF 2024, Bảng khuyến cáo 7, Hình 9, 10)."
+ ],
+ "nguon": [
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Hướng dẫn chẩn đoán và điều trị bệnh hô hấp – bài Áp xe phổi mục 1, 2.1–2.3, 3.1.1–3.1.3, 3.2, 4 (tr. 52–57); bài Ho kéo dài mục 2.3, Bảng 1.1; bài Viêm phổi bệnh viện mục 3.4",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – bài Áp xe phổi mục 2.2, 3.1.1a–d",
+  "TL-0152 · NEJM 2019 – Aspiration Pneumonia (N Engl J Med 380:651–663) – mục Diagnosis, Treatment, Bảng 1",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 2.1.1, 3.1.6, 4.5, 5.2, 5.3.1, 5.6.3; Bảng 4.3, 4.4",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Bệnh lao – Phần II mục 1.1, 1.2, 2.1a; Bảng 1, 2",
+  "TL-0303 · ESC AF 2024 – Hướng dẫn rung nhĩ – Bảng khuyến cáo 7, Hình 9, Hình 10",
+  "TL-0668 · TT 25/2026/TT-BYT – Phụ lục XXIV, Mẫu số 03 (giấy khám sức khỏe từ đủ 18 tuổi)",
+  "TL-0001 · TT 2026 về ICD-10 – Phụ lục, mã J85, J85.1, J85.2"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-04: viết lần đầu. Tài liệu đã đọc: TL-0131 (Áp xe phổi mục 1–4; Ho kéo dài mục 2.3), TL-0015 (Áp xe phổi), TL-0152 (NEJM 2019), TL-0121 (mục 2.1.1, 3.1.4, 3.1.6, 4.5, 5.3.1), TL-0123 (Phần II mục 1–2.1), TL-0303 (Hình 9, 10), TL-0668 (Mẫu 03), TL-0001 (J85).",
+  "Chỗ thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải'): liều warfarin cụ thể khi dùng kháng sinh và tần suất kiểm INR; ảnh hưởng của amoxicillin đã dùng lên kết quả cấy; thời điểm soi phế quản; tiêu chuẩn chuyển kháng sinh uống riêng cho áp xe phổi; cách cấp giấy sức khỏe khi phát hiện bệnh.",
+  "Mâu thuẫn mới đề xuất: lựa chọn kháng sinh áp xe phổi (BYT với metronidazol hoặc aminoglycosid so với NEJM 2019 với clindamycin hoặc ampicillin/sulbactam), xem HH-1482_mau_thuan.md. Danh mục thiếu 'nội soi phế quản', 'X-quang ngực nghiêng': xem HH-1482_de_xuat_danh_muc.json; ca tạm ghi phim nghiêng trong kết quả cxr.",
+  "Chỉ số phiếu bảng (công thức bạch cầu, MCV, MCH, MCHC, eGFR CKD-EPI 2021 từ creatinin 68 µmol/L, nữ 51 tuổi) do người soạn tính cho khớp bệnh cảnh. Diễn tiến, ngày tháng trong bệnh sử và kết cục do người soạn thiết kế.",
+  "Không dùng ảnh da: ca không có khám da then chốt."
+ ]
+}

@@ -1,0 +1,564 @@
+{
+ "ma_ca": "HH-0200",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_cam_lanh_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm hô hấp trên cấp do virus (cảm lạnh)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu nhóm A",
+   "Cúm mùa"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau chơi thể thao",
+  "thuoc_dang_dung": "NSAID tự mua",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Sáu",
+  "tuoi": 66,
+  "gioi": "Nữ",
+  "nghe": "Nông dân (làm lúa hai vụ và trồng rau)",
+  "can_nang": 52,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bác'. Bà tự xưng 'tui', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhiều, tếu táo, thích kể chuyện làng xóm. Làm nông cả đời, ít đi khám, tin 'thuốc đau xương' mua ở tiệm. Ngoài mặt cười cợt nhưng trong lòng sợ bị liệt như chị gái. Tỉnh táo, trả lời đúng khi được hỏi gọn và cụ thể.",
+  "kieu_nhieu": "Kể lể lộn xộn: hỏi một câu thì bà trả lời bằng một câu chuyện (trận bóng, con dâu, giá lúa, cô Tư bán nước mía), sự kiện không theo thứ tự, ngày tháng lẫn lộn. Thông tin cần có nằm lẫn trong chuyện. Chỉ khai đúng và gọn khi bác sĩ hỏi câu ngắn, cụ thể (từ khi nào, ngày thứ mấy, mấy viên mỗi ngày) hoặc nhẹ nhàng đưa bà trở lại câu hỏi. Hỏi dồn nhiều câu một lúc thì bà chỉ trả lời câu cuối.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c89468",
+   "toc": "#d8d4cc",
+   "kieuToc": "ngan",
+   "ao": "#8fa58a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "binh"
+  }
+ },
+ "ly_do_kham": "Nặng đầu, mệt, ho, sổ mũi",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi",
+   "ecg"
+  ],
+  "loi_bao": "Cơ sở không có xét nghiệm, X-quang, siêu âm, CT, nội soi hay điện tim."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 66 tuổi, nông dân, đến khám vì nặng đầu, mệt, ho, sổ mũi mấy bữa nay, nói chuyện nhiều và hay lạc đề. Con dâu ở xa gọi điện bắt đi khám. Sinh hiệu lúc tiếp đón: HA 146/88 mmHg, mạch 84 l/p, nhiệt độ 37,3 °C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Bà Sáu bị gọi xe cấp cứu lên bệnh viện tỉnh chụp CT sọ vì 'nặng đầu, sợ đột quỵ'. Bà không có dấu thần kinh khu trú, HA 146/88 mmHg, chưa đủ tiêu chuẩn chuyển cấp cứu (QĐ 5904/2019 Phần 3, Bước 3 mục D.1). Bà tốn tiền xe, mất một ngày ở bệnh viện, vẫn chưa ai giải thích vì sao bà nặng đầu, và vẫn tiếp tục uống diclofenac ở nhà.",
+    "nhap_vien": "Bà Sáu được giữ lại truyền dịch và tiêm kháng sinh vài ngày để 'phòng đột quỵ'. Cảm lạnh không cần kháng sinh, nguy cơ của kháng sinh gồm tiêu chảy, ban và C. difficile (ACP/CDC 2016 Advice 4, tr. 429), còn nỗi sợ đột quỵ chưa được trả lời. Bà nghỉ làm vườn, tốn viện phí, và về nhà vẫn tự mua thuốc đau xương uống tiếp.",
+    "chuyen_tuyen": "Bà Sáu được giấy chuyển lên bệnh viện huyện chụp X-quang ngực, xét nghiệm cúm và xét nghiệm máu cho chắc. Bà không có tiêu chí nghĩ viêm phổi (ACP/CDC 2016 tr. 426) và NICE không khuyến cáo test cúm để quyết định điều trị (NG237 2024 khuyến cáo 1.3.3). Bà đi xe đò nửa ngày, tốn chi phí, kết quả bình thường nên bà vẫn không yên tâm, trong khi việc cần làm là ngưng diclofenac và đo lại huyết áp khi khỏe."
+   },
+   "loi_mo": "Ờ bác sĩ ơi, tui nặng đầu mấy bữa nay, mà nghe tui kể nè, hôm chủ nhật đội ấp mình đá bóng chuyền hơi với ấp bên, tui đổ mồ hôi quá trời, về gặp mưa ướt hết áo… mà con dâu tui nó bắt tui đi khám dữ lắm.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "146/88",
+    "nhiet": "37,3",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mấy bữa nay nặng đầu, mệt, ho lục khục, sổ mũi. Bà kể lan man từ trận bóng chuyền hơi tới chuyện con dâu bắt đi khám; việc cần khai là nặng đầu, mệt, ho, sổ mũi khoảng 5 ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Sáu ngày trước bà chơi bóng chuyền hơi giao hữu ở câu lạc bộ người cao tuổi của ấp, đổ mồ hôi nhiều, về gặp mưa ướt áo. Hôm sau mỏi bắp tay, đùi. Hai ngày sau mới hắt hơi, ngứa họng, nghẹt mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau chơi thể thao: mỏi cơ do vận động đến trước, triệu chứng hô hấp đến sau"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sổ mũi nước trong, hôm qua hơi đặc, hôm nay vẫn vậy. Ho khan từng tiếng khi ngứa họng, ít đờm trắng buổi sáng. Hôm nay không nặng hơn hôm qua. Chưa bao giờ khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: các triệu chứng mũi họng nhẹ, không xấu đi"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Đêm thứ hai của bệnh bà thấy ớn lạnh, người gai gai, không có nhiệt kế nên không đo. Sau đó không còn ớn lạnh, không vã mồ hôi, không sốt rét run. Bà có uống diclofenac mỗi ngày nên không rõ có sốt hay không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt: không rõ, có thuốc tự mua che lấp (suy luận của người thiết kế)"
+    },
+    {
+     "id": "dau_hong",
+     "noi_dung": "Chỉ ngứa rát họng ban đầu, nuốt không đau, không đau một bên, không khó há miệng, không chảy dãi, giọng hơi khàn nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Họng: dấu hiệu virus, loại đau họng một bên/khó há miệng"
+    },
+    {
+     "id": "dau_co",
+     "noi_dung": "Mỏi bắp tay, đùi sau trận bóng, ấn vào đau, đỡ dần mỗi ngày. Không đau nhức cơ khắp người dữ dội, không phải nằm liệt giường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau cơ: do vận động, khác đau cơ kiểu cúm"
+    },
+    {
+     "id": "nang_dau",
+     "noi_dung": "Nặng đầu âm ỉ hai bên, từ trán xuống gáy, nặng hơn khi nghẹt mũi, đỡ khi xì mũi. Không đau dữ dội đột ngột, không nôn, không lóa mắt, không té ngã.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có đau đầu không' thì bà nói 'nặng nặng thôi, tui già rồi mà' rồi kể sang chuyện khác. Chỉ kể chi tiết khi bác sĩ hỏi cụ thể: đột ngột hay từ từ, đau chỗ nào, có nôn không, có lóa mắt không.",
+     "k": 1,
+     "y": "Đặc điểm nặng đầu: nhẹ, âm ỉ, gắn với nghẹt mũi"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Chưa lần nào yếu hay tê tay chân, méo miệng, nói ngọng, mờ một bên mắt. Bà tự cầm đũa, gài nút áo bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh khu trú (đột quỵ)"
+    },
+    {
+     "id": "chong_mat",
+     "noi_dung": "Hai ba lần đứng dậy nhanh thấy lâng lâng vài giây rồi hết, không quay cuồng, không ngất. Mấy bữa nay ăn ít, uống ít nước vì ngán.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chóng mặt tư thế nhẹ, liên quan ăn uống kém"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không khó thở, không đau ngực, không hồi hộp, không ho ra máu. Đi ra vườn tưới rau vẫn được, chỉ mệt hơn thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm hô hấp, tim mạch"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Lúc chơi bóng chuyền hơi bà không đau ngực, không hụt hơi, không hồi hộp; chơi xong chỉ mỏi cơ như mọi lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ vấn đề tim mạch khi gắng sức"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ hôm sau trận bóng, bà mua ở tiệm thuốc 'thuốc đau xương' (diclofenac 50 mg), uống sáng một viên, tối một viên, được 5 ngày, sáng nay cũng uống. Không dùng thuốc cảm, thuốc huyết áp, tiểu đường hay aspirin, không thuốc nam.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì bà nói 'không, tui có uống thuốc gì đâu, chỉ thuốc đau xương thôi, có gì đâu'. Chỉ nói tên thuốc, số viên mỗi ngày, mua ở đâu khi bác sĩ hỏi cụ thể thuốc đau xương là thuốc gì, mỗi ngày mấy viên, hoặc xin xem vỉ thuốc.",
+     "k": 1,
+     "y": "Thuốc tự mua: NSAID"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Không đau thượng vị, không ợ chua, không nôn, phân vàng, không đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ tiêu hóa của NSAID"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Chưa thử đường huyết hay mỡ máu. Chưa ai nói bà bị cao huyết áp, ít khi đo. Không bệnh tim, thận, hen. Không hút thuốc, không uống rượu. Chưa tiêm ngừa cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, yếu tố nguy cơ tim mạch"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ bà mất vì 'đứt gân máu' (đột quỵ) năm 72 tuổi. Chị gái bà bị liệt nửa người sau đột quỵ, nay nằm một chỗ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình đột quỵ: nuôi nỗi sợ"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông Ba Hiền hàng xóm 68 tuổi vừa ngã quỵ buổi sáng hôm kia, phải đưa lên bệnh viện tỉnh; nghe nói ổng cũng 'nặng đầu mấy ngày'. Bà sợ mình bị đột quỵ như ổng, như mẹ, như chị, nên hôm nay mới chịu đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm bà lo nhất, bà nghĩ mình bị bệnh gì, hay vì sao hôm nay quyết định đi khám. Bà không tự nói vì sợ nghe bệnh nặng.",
+     "k": 1,
+     "y": "Động cơ thật: sợ đột quỵ"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Cháu nội 5 tuổi sổ mũi nhẹ từ tuần trước, đã hết. Trong xóm vài người ho sổ mũi nhẹ, không ai sốt cao hay phải nhập viện, trạm y tế xã chưa báo có dịch cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: không có bối cảnh dịch cúm"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Bà làm lúa hai vụ và vườn rau. Vụ lúa mới thu hoạch xong, hai tuần nay không phun thuốc trừ sâu. Mấy hôm nay bà nghỉ làm vì mệt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề nông, không phơi nhiễm thuốc trừ sâu gần đây"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Bà muốn bác sĩ 'chích cho một mũi cho mau hết' vì nghe nói chích thuốc là hết liền.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Mong muốn kháng sinh tiêm"
+    },
+    {
+     "id": "ke_le_1",
+     "noi_dung": "Bà kể đội ấp mình thua đội ấp bên có hai set chỉ vì trọng tài thiên vị, rồi kể chuyện cô Tư bán nước mía trúng gió năm ngoái 'cũng bắt đầu bằng nặng đầu'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhiều, hay lạc đề. Da niêm hồng, môi hơi khô, không dấu mất nước nặng. Cân nặng 52 kg.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi phù nề, dịch trong ít đục. Họng đỏ nhẹ, không xuất tiết, amidan không to, không bựa trắng. Màng nhĩ hai bên bình thường. Ấn vùng xoang không đau.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ trước, hạch dưới hàm. Cổ mềm, không cứng gáy. Tuyến giáp không to.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p. Mạch quay đều, rõ.",
+     "k": 1,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, nhịp thở 18 l/p, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Hai mắt nhìn hai bên đều, không sụp mi. Cơ lực bốn chi 5/5, đối xứng. Ngón tay–mũi chính xác hai bên. Đi thẳng được, không loạng choạng.",
+     "k": 1
+    },
+    "mat_giong_chu_viet": {
+     "a": "Mặt cân đối, nhe răng và nhắm mắt hai bên đều. Nói rõ lời, câu đủ ý (hay lạc đề nhưng không ngọng). Ký tên và viết dòng chữ bình thường.",
+     "k": 1
+    },
+    "ha_hai_tay": {
+     "a": "Tay phải 146/88, tay trái 142/86 mmHg, đo hai lần cách 2 phút. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 144/86 mmHg, đứng 1 phút 138/84 mmHg, hơi lâng lâng vài giây, không ngất.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, không phản ứng thành bụng.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau nhẹ bắp tay và cơ đùi hai bên, không sưng, không nóng đỏ. Khớp cử động bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "a",
+     "r": "5,9 mmol/L (10 giờ sáng, ăn sáng cách 3 giờ)",
+     "n": "Dụng cụ đo tại giường, không phải xét nghiệm phòng lab. Chóng mặt nhẹ ở người ăn ít: làm cũng được, không làm cũng không trừ điểm; tài liệu đã tải không nêu chỉ định đo glucose cho cảm lạnh."
+    },
+    "ctm": {
+     "n": "Cảm lạnh không cần xét nghiệm (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.2: thông thường không cần cận lâm sàng). Cơ sở không có xét nghiệm."
+    },
+    "crp": {
+     "n": "CRP chỉ cân nhắc khi chưa rõ có cần kháng sinh cho nhiễm trùng hô hấp DƯỚI (NICE NG237 2024 khuyến cáo 1.3.4); bà không có dấu hiệu hô hấp dưới. Cơ sở không có xét nghiệm."
+    },
+    "flu": {
+     "n": "NICE NG237 2024 khuyến cáo 1.3.3: không làm test cúm để quyết định kháng sinh. Bà không sốt, khởi phát từ từ, không có dịch tễ cúm (QĐ 1840/2025 mục II.1.1, II.2.4.1); kết quả không đổi xử trí hôm nay."
+    },
+    "test_lien_cau": {
+     "n": "Centor 0 điểm, McIsaac −1 điểm (IDSA 2025 Bảng 3); có ho, sổ mũi, khàn nhẹ là dấu hiệu virus (IDSA 2012 khuyến cáo 4; AWaRe 2022 tr. 48: Centor 0–2 thường không cần xét nghiệm). Cơ sở không có xét nghiệm."
+    },
+    "cxr": {
+     "n": "Không có tiêu chí nghĩ viêm phổi: mạch 84, thở 18, nhiệt 37,3 °C, phổi bình thường (ACP/CDC 2016 tr. 426). Cơ sở không có X-quang."
+    },
+    "ecg": {
+     "n": "Mạch đều, không đau ngực, không hồi hộp, gắng sức không triệu chứng. Cơ sở không có điện tim; bắt mạch đều là đủ cho ca này."
+    },
+    "ct_nao": {
+     "n": "Không có dấu thần kinh khu trú, nặng đầu âm ỉ gắn với nghẹt mũi, HA 146/88 mmHg (QĐ 5904/2019 Phần 3, Bước 3 mục D.1: chuyển cấp cứu khi HA ≥ 200/120 mmHg hoặc ≥ 180/110 mmHg kèm đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú). Cơ sở không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm hô hấp trên cấp do virus (cảm lạnh), ngày thứ 5, chưa biến chứng",
+     "ok": 1,
+     "n": "Nghẹt mũi, sổ mũi nước, ngứa họng, ho khan, mệt, nặng đầu, sốt nhẹ hoặc không sốt, kéo dài đến 14 ngày; mọi nguyên nhân đều là virus (ACP/CDC 2016 tr. 427 Bảng, tr. 431). Khám: mũi phù nề, họng đỏ nhẹ, không xuất tiết, không hạch, phổi sạch. Triệu chứng nghèo nàn và dồn vào nặng đầu, mệt, chóng mặt nhẹ là do tuổi (QĐ 1840/2025 mục II.1.1 nói triệu chứng của cúm có thể không điển hình ở người > 65 tuổi; cảm lạnh cũng nhẹ và mờ hơn ở tuổi này, suy luận của người thiết kế)."
+    },
+    {
+     "t": "Dùng NSAID tự mua ở người cao tuổi, không có chỉ định, có thể làm tăng huyết áp và nguy cơ tiêu hóa",
+     "ok": 1,
+     "n": "Diclofenac 50 mg × 2 viên/ngày × 5 ngày cho mỏi cơ. Nữ > 60 tuổi thuộc nhóm nguy cơ tiêu hóa cao (QĐ 361/2014 Phụ lục NSAID mục 3.3); Beers 2023 Bảng 2 (tránh dùng NSAID uống kéo dài; NSAID cũng có thể tăng HA và gây tổn thương thận); AHA/ACC 2025 Bảng 11 (NSAID là chất làm tăng HA)."
+    },
+    {
+     "t": "Viêm họng liên cầu nhóm A",
+     "n": "Centor 0 (không sốt rõ, có ho, không hạch cổ đau, không xuất tiết amidan), McIsaac −1 (≥ 45 tuổi cộng −1; IDSA 2025 Bảng 3). Liên cầu chỉ 5–10% viêm họng người lớn (AWaRe 2022 tr. 47). Họng chỉ đỏ nhẹ, không phải triệu chứng chính."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Cúm thường khởi phát đột ngột với sốt, ớn lạnh, đau đầu, đau cơ, mệt (QĐ 1840/2025 mục II.1.1); bà khởi phát từ từ, đau cơ do vận động, không dịch tễ (ca nghi ngờ cần viêm hô hấp cấp kèm yếu tố dịch tễ, mục II.2.4.1). Không có test nên không loại trừ hẳn; bà ≥ 65 tuổi thuộc nhóm nguy cơ nặng (mục I, II.2.3) nên cần dặn quay lại sớm."
+    },
+    {
+     "t": "Đột quỵ hoặc cơn thiếu máu não thoáng qua",
+     "n": "Nặng đầu âm ỉ, từ từ, gắn với nghẹt mũi; không méo miệng, nói khó, yếu liệt (QĐ 5904/2019 Phần 3 Bước 1 liệt kê sụp mi, méo miệng, nói khó, liệt nửa người là dấu thần kinh khu trú); khám thần kinh, nét mặt, giọng nói, chữ viết bình thường; mạch đều (không gợi ý rung nhĩ)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không có cả bốn dấu hiệu: mạch 84 (≤ 100), thở 18 (≤ 24), nhiệt 37,3 °C (≤ 38), phổi không ran (ACP/CDC 2016 tr. 426; tiêu chí viết cho người khỏe mạnh < 70 tuổi, bà 66 tuổi, không bệnh nền). Không khó thở hay lú lẫn mới (NICE NG237 2024 khuyến cáo 1.2.2)."
+    },
+    {
+     "t": "Tăng huyết áp (chẩn đoán ngay từ một lần đo)",
+     "n": "HA 146/88 và 142/86 mmHg khi đang ốm, lo lắng, vừa dùng NSAID, chưa từng được chẩn đoán. Ngưỡng ≥ 140/90 mmHg của QĐ 5904/2019 Phần 1 là ngưỡng đi khám; chẩn đoán cần xác nhận bằng đo HA ngoài phòng khám (AHA/ACC 2025 mục 3.1.4 khuyến cáo 1, COR 1, LOE A). Chưa nên gán nhãn và chưa kê thuốc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng bà điều gì làm bà lo nhất và vì sao hôm nay quyết định đi khám; khi bà nói sợ đột quỵ thì khám thần kinh ngay trước mặt bà (mặt, giọng, chữ viết, sức tay chân) rồi nói rõ kết quả bình thường",
+     "v": "c",
+     "n": "Hỏi dấu thần kinh khu trú (sụp mi, méo miệng, nói khó, liệt nửa người) nằm trong bước hỏi bệnh (QĐ 5904/2019 Phần 3 Bước 1). Cách hỏi và trả lời nỗi lo là kỹ năng giao tiếp, không cần nguồn."
+    },
+    {
+     "t": "Hỏi bệnh theo trình tự, khám họng, mũi, tai, hạch cổ, phổi, tim, thần kinh, đo lại HA hai tay; hỏi cụ thể thuốc 'đau xương' bà đang uống",
+     "v": "c",
+     "n": "Chẩn đoán cảm lạnh dựa vào đánh giá lâm sàng (NICE NG237 2024 khuyến cáo 1.3.1); nghĩ tới nhiễm khuẩn huyết ở mọi nghi nhiễm hô hấp (khuyến cáo 1.1.1); bốn tiêu chí nghĩ viêm phổi (ACP/CDC 2016 tr. 426); NSAID và HA (AHA/ACC 2025 Bảng 11)."
+    },
+    {
+     "t": "Kết luận cảm lạnh (viêm hô hấp trên cấp do virus), điều trị ngoại trú, tự chăm sóc tại nhà; không cần xét nghiệm hay X-quang",
+     "v": "c",
+     "n": "NICE NG237 2024 khuyến cáo 1.1.2, 1.3.1, 1.3.3; ACP/CDC 2016 tr. 427, 431 (cảm lạnh lành tính, tự giới hạn); QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.2 (thông thường không cần cận lâm sàng). Cơ sở này không có xét nghiệm nên ca là bài tập quyết định thuần lâm sàng."
+    },
+    {
+     "t": "Không kê kháng sinh (ACP/CDC 2016 Advice 4; IDSA 2012 khuyến cáo 4; AWaRe 2022 tr. 48) HOẶC điều trị như viêm mũi họng đỏ cấp theo QĐ 5643/2015 (Viêm mũi họng cấp tính mục 4.1, 4.3.1: penicillin V 3 triệu UI/ngày chia 3 lần, 10 ngày)",
+     "v": "c",
+     "n": "Hai cách đều đúng theo sổ mâu thuẫn mục 'Viêm họng đỏ cấp… không có xét nghiệm liên cầu' (áp dụng cho mọi người > 3 tuổi, kể cả người lớn): QĐ 5643 (2015) điều trị như liên cầu khi chưa có xét nghiệm; các nguồn mới hơn dựa vào dấu hiệu virus (ho, sổ mũi, khàn) và Centor 0, McIsaac −1. Ca theo hướng không kê: bà không đau họng đáng kể."
+    },
+    {
+     "t": "Chưa dùng thuốc kháng virus cúm; dặn quay lại ngay nếu sốt, đau cơ dữ dội, khó thở",
+     "v": "c",
+     "n": "Ngoại trú cúm nhẹ chỉ dùng kháng virus cho người có yếu tố nguy cơ (QĐ 1840/2025 mục III.2.2); bà thuộc nhóm nguy cơ vì ≥ 65 tuổi (mục II.2.3) nhưng không đủ ca nghi ngờ cúm: không sốt rõ, khởi phát từ từ, không dịch tễ (mục II.1.1, II.2.4.1). Nếu sau đó nghi cúm thì oseltamivir 75 mg × 2 lần/ngày × 5 ngày (mục III.2.1) hoặc baloxavir 40 mg một liều cho người 20–80 kg (mục III.2.1; WHO 2024, BMJ 2026;392:e087397 tr. 1)."
+    },
+    {
+     "t": "Ngưng diclofenac tự mua; khi đau hoặc sốt chỉ dùng paracetamol, tối đa dưới 3 g/ngày",
+     "v": "c",
+     "n": "QĐ 361/2014 Phụ lục NSAID mục 3.3: người cao tuổi nguy cơ cao thì chỉ định acetaminophen < 3 g/ngày và tránh NSAID nếu có thể; nữ > 60 tuổi là nguy cơ tiêu hóa cao. Beers 2023 Bảng 2; AHA/ACC 2025 Bảng 11 (tránh NSAID toàn thân khi có thể; paracetamol < 4 g/ngày chấm a theo sổ mâu thuẫn mục 'Liều paracetamol tối đa ở người cao tuổi')."
+    },
+    {
+     "t": "Điều trị triệu chứng: uống đủ nước, ăn lỏng dễ tiêu, nghỉ ngơi, rửa hoặc nhỏ mũi nước muối 0,9%, súc họng nước muối ấm",
+     "v": "c",
+     "n": "ACP/CDC 2016 tr. 431 (điều trị triệu chứng là chiến lược phù hợp cho cảm lạnh); QĐ 5643/2015: Viêm mũi xoang cấp tính mục 4.2.1 (rửa mũi nước muối sinh lý), Viêm họng cấp tính mục 4.2.2 (xúc họng 3–4 lần/ngày), Viêm mũi họng cấp tính mục 4.3.3 (dinh dưỡng). Số giọt, thể tích nước muối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không chẩn đoán hay điều trị tăng huyết áp qua một lần đo; hẹn đo lại HA khi đã khỏi bệnh và đã ngưng diclofenac, tốt nhất đo ngoài phòng khám (đo tại nhà hoặc trạm y tế)",
+     "v": "c",
+     "n": "AHA/ACC 2025 mục 3.1.4 khuyến cáo 1 (COR 1, LOE A): đo HA ngoài phòng khám (ABPM hoặc HBPM) để xác nhận chẩn đoán THA; NSAID làm tăng HA (Bảng 11). Quy trình đo: đo ít nhất hai lần cách nhau 1–2 phút (QĐ 5904/2019 Phụ lục 1.1 mục 6). Sơ đồ khẳng định chẩn đoán THA (Phụ lục 1.2) là hình ảnh, bản chữ không đọc được."
+    },
+    {
+     "t": "Hẹn tái khám và dặn dấu hiệu quay lại ngay: khó thở, đau ngực, sốt cao, lú lẫn; yếu hoặc tê tay chân, méo miệng, nói khó thì gọi cấp cứu; ho quá 2 tuần thì đi khám tìm nguyên nhân",
+     "v": "c",
+     "n": "NICE NG237 2024 khuyến cáo 1.1.2 (cho biết thời gian bệnh, khi nào và cách tìm giúp đỡ), 1.2.2 (khó thở hoặc lú lẫn mới); ACP/CDC 2016 tr. 431 (tái khám nếu nặng hơn hoặc quá thời gian dự kiến), tr. 429 (ho có thể kéo dài đến 6 tuần); QĐ 1840/2025 mục III.2.2 (tư vấn dấu hiệu nặng); QĐ 5904/2019 Phần 3 Bước 1 (dấu thần kinh khu trú); QĐ 162/2024 Phần II mục 1.1a Bảng 1 (ho > 2 tuần là triệu chứng nghi lao quan trọng nhất). Hẹn tái khám sau 1 tuần là lựa chọn của người thiết kế: số ngày hẹn không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê oseltamivir 75 mg × 2 lần/ngày × 5 ngày ngay hôm nay vì bà ≥ 65 tuổi và không làm được xét nghiệm",
+     "v": "a",
+     "n": "Chấp nhận, không phải đáp án chính: QĐ 1840/2025 mục III.2.1, III.2.2 cho người có yếu tố nguy cơ khi cúm nhẹ, và triệu chứng có thể không điển hình ở > 65 tuổi (mục II.1.1). Nhưng bà chưa đủ ca nghi ngờ (mục II.2.4.1), WHO 2024 chỉ khuyến cáo có điều kiện baloxavir cho người nguy cơ cao (sổ mâu thuẫn mục 'Thuốc kháng virus đầu tay cho cúm không nặng ở người nguy cơ cao')."
+    },
+    {
+     "t": "Tiếp tục diclofenac thêm vài ngày nhưng kèm omeprazol 20 mg",
+     "v": "a",
+     "n": "Beers 2023 Bảng 2: tránh dùng NSAID kéo dài trừ khi thuốc khác không hiệu quả và người bệnh dùng được thuốc bảo vệ dạ dày (PPI hoặc misoprostol); QĐ 361/2014 Phụ lục NSAID mục 3.3: omeprazol 20 mg dự phòng biến chứng tiêu hóa. Không phải đáp án chính vì paracetamol đủ cho mỏi cơ nhẹ và NSAID có thể làm tăng HA (AHA/ACC 2025 Bảng 11)."
+    },
+    {
+     "t": "Kê kháng sinh phổ rộng (amoxicillin–clavulanat, cephalosporin thế hệ 3, macrolid, quinolon) hoặc tiêm kháng sinh 'cho chắc' vì bà đã lớn tuổi",
+     "v": "w",
+     "n": "Cảm lạnh: kháng sinh không có lợi, gây tiêu chảy, ban, C. difficile (ACP/CDC 2016 Advice 4, tr. 429 hộp 'Harms of Using Antibiotics'); WHO 2024 mạnh chống kháng sinh khi ít nghĩ bội nhiễm (BMJ 2026;392:e087397 tr. 5). Ngưỡng điều trị hạ thấp ở người suy yếu, đa bệnh (NICE NG237 2024 khuyến cáo 1.3.2) không áp dụng cho bà: không bệnh nền, sinh hiệu ổn, phổi sạch."
+    },
+    {
+     "t": "Cho bà tiếp tục hoặc tăng diclofenac, hoặc thêm một NSAID khác (ibuprofen, meloxicam) để giảm nặng đầu và mỏi người",
+     "v": "w",
+     "n": "Bà thuộc nhóm nguy cơ cao: nữ > 60 tuổi, tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3); Beers 2023 Bảng 2; NSAID làm tăng HA (AHA/ACC 2025 Bảng 11). Dùng hai NSAID cùng lúc là sai lầm (QĐ 361/2014 Phụ lục NSAID mục 3.3)."
+    },
+    {
+     "t": "Cho uống thêm thuốc cảm tổng hợp có chlorpheniramin hoặc pseudoephedrin, phenylephrin",
+     "v": "w",
+     "n": "Kháng histamin thế hệ 1 (chlorpheniramin, brompheniramin): tránh ở người cao tuổi (Beers 2023 Bảng 2); dùng riêng thì nhiều tác dụng phụ hơn lợi ích (ACP/CDC 2016 tr. 431); thuốc thông mũi uống cần tránh ở HA chưa kiểm soát, ưu tiên nước muối (AHA/ACC 2025 Bảng 11)."
+    },
+    {
+     "t": "Aspirin hạ sốt, giảm đau",
+     "v": "w",
+     "n": "Không dùng thuốc hạ sốt giảm đau có aspirin khi cúm chưa loại trừ (QĐ 1840/2025 mục III.2.2); aspirin > 325 mg/ngày cũng nằm trong nhóm NSAID nên tránh ở người cao tuổi (Beers 2023 Bảng 2)."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện chụp CT sọ não chỉ vì bà sợ đột quỵ",
+     "v": "w",
+     "n": "Không có dấu thần kinh khu trú, không nặng đầu dữ dội, HA 146/88 mmHg; chuyển cấp cứu khi HA ≥ 200/120 hoặc ≥ 180/110 mmHg kèm đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú (QĐ 5904/2019 Phần 3, Bước 3 mục D.1). Nỗi sợ được giải quyết bằng khám và giải thích, không bằng CT."
+    },
+    {
+     "t": "Truyền dịch hoặc truyền vitamin 'bồi bổ' theo ý bà",
+     "v": "w",
+     "n": "Bà uống được, môi chỉ hơi khô; khuyến cáo là uống đủ nước và ăn uống (ACP/CDC 2016 tr. 431; QĐ 5643/2015 Viêm mũi họng cấp tính mục 4.3.3). Không tài liệu đã tải nào chỉ định truyền dịch cho cảm lạnh; vitamin C không có bằng chứng (ACP/CDC 2016 tr. 431)."
+    },
+    {
+     "t": "Cho ngậm nifedipin tác dụng nhanh để hạ HA ngay",
+     "v": "h",
+     "n": "QĐ 5904/2019 Phần 3, Bước 3 mục D.1: tránh nifedipin loại tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát; bà chưa có chỉ định hạ áp."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm hô hấp trên cấp do virus (cảm lạnh), ngày thứ 5, chưa biến chứng; triệu chứng không điển hình ở người ≥ 65 tuổi (nặng đầu, mệt, chóng mặt nhẹ nổi bật hơn sổ mũi)",
+     "Mỏi cơ sau vận động (bóng chuyền hơi), đang tự điều trị bằng diclofenac",
+     "Dùng NSAID tự mua không cần thiết ở nữ 66 tuổi: nguy cơ tiêu hóa cao, có thể góp phần làm HA đo hôm nay 146/88 mmHg",
+     "HA đo một lần khám cao nhẹ, chưa chẩn đoán tăng huyết áp, cần xác nhận khi hết bệnh",
+     "Đã loại trừ: viêm họng liên cầu nhóm A (Centor 0, McIsaac −1), đột quỵ hoặc cơn thiếu máu não thoáng qua, viêm phổi; cúm mùa chưa loại trừ hẳn nhưng không thuận lợi",
+     "Lý do thật đến khám: sợ đột quỵ (mẹ, chị ruột và hàng xóm đều bị)"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là cảm lạnh: bệnh virus nhẹ, tự giới hạn, gồm hắt hơi, sổ mũi, ngứa họng, ho, sốt nhẹ, nhức đầu, mệt, kéo dài đến 14 ngày (ACP/CDC 2016 tr. 427 Bảng, tr. 431). Khám mũi phù nề, họng đỏ nhẹ không xuất tiết, không hạch, phổi sạch, thần kinh bình thường. Chẩn đoán dựa vào đánh giá lâm sàng, không cần xét nghiệm (NICE NG237 2024 khuyến cáo 1.3.1, 1.3.3; QĐ 5643/2015 Viêm mũi họng cấp tính mục 3.1.2).",
+     "Điều làm ca không điển hình: bà kể lan man về trận bóng, chuyện nhà, và chỉ nói 'nặng đầu, mệt'; sổ mũi, ho chỉ lộ ra khi hỏi cụ thể. Mỏi cơ do vận động dễ bị nhầm với đau cơ kiểu cúm; thuốc đau xương che lấp khả năng có sốt. Triệu chứng có thể không điển hình ở người > 65 tuổi (QĐ 1840/2025 mục II.1.1).",
+     "Vì sao không phải viêm họng liên cầu: không sốt rõ, có ho, không hạch đau, không xuất tiết = Centor 0; McIsaac cộng −1 vì ≥ 45 tuổi, tổng −1 (IDSA 2025 Bảng 3; AWaRe 2022 tr. 48). Ho, sổ mũi, khàn là dấu hiệu virus nên thường không xét nghiệm (IDSA 2012 khuyến cáo 4).",
+     "Vì sao chưa nghĩ cúm: khởi phát từ từ sau 2 ngày, không sốt rõ, đau cơ do vận động, không ai sốt cao trong xóm; ca nghi ngờ cúm cần viêm hô hấp cấp kèm yếu tố dịch tễ (QĐ 1840/2025 mục II.1.1, II.2.4.1). Không có test nên không loại trừ hẳn; bà ≥ 65 tuổi thuộc nhóm nguy cơ nặng (mục I, II.2.3) nên phải dặn quay lại sớm.",
+     "Vì sao không phải đột quỵ: nặng đầu âm ỉ, từ từ, hai bên, gắn với nghẹt mũi; không méo miệng, nói khó, yếu liệt (QĐ 5904/2019 Phần 3 Bước 1); khám thần kinh, nét mặt, giọng nói, chữ viết bình thường; mạch đều. Chóng mặt chỉ vài giây khi đứng nhanh, HA tư thế giảm 6/2 mmHg, ăn uống kém.",
+     "Vì sao không phải viêm phổi: mạch 84, thở 18, nhiệt 37,3 °C, phổi không ran: thiếu cả bốn dấu hiệu (ACP/CDC 2016 tr. 426). Tiêu chí này viết cho người khỏe mạnh < 70 tuổi; bà 66 tuổi, không bệnh nền. Không khó thở, không lú lẫn mới (NICE NG237 2024 khuyến cáo 1.2.2).",
+     "Vì sao HA chưa chẩn đoán THA: 146/88 và 142/86 mmHg khi đang ốm, lo âu, mới dùng NSAID 5 ngày. NSAID là chất làm tăng HA (AHA/ACC 2025 Bảng 11); xác nhận THA cần đo HA ngoài phòng khám (AHA/ACC 2025 mục 3.1.4 khuyến cáo 1).",
+     "Động cơ thật: bà sợ đột quỵ vì mẹ, chị ruột và ông Ba Hiền hàng xóm. Nếu chỉ kê thuốc cảm mà không nói về nỗi sợ này, bà ra về vẫn hoảng và dễ đi viện tỉnh hoặc mua thêm thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, tự chăm sóc tại nhà, hẹn tái khám (cảm lạnh, không dấu hiệu nguy hiểm, uống được). Không cấp cứu, không nhập viện, không chuyển tuyến.",
+     "Kháng sinh: hai cách đều đúng. Không kê (ACP/CDC 2016 Advice 4; IDSA 2012 khuyến cáo 4; AWaRe 2022 tr. 48) hoặc theo QĐ 5643/2015 (Viêm mũi họng cấp tính mục 4.1, 4.3.1: penicillin V 3 triệu UI/ngày chia 3 lần, 10 ngày; hoặc amoxicillin 10 ngày). Khác nhau vì QĐ 5643 là văn bản 2015 coi mọi viêm mũi họng đỏ khi chưa có xét nghiệm như liên cầu, còn các nguồn mới hơn dựa vào dấu hiệu virus và Centor. Ca theo hướng không kê (sổ mâu thuẫn mục 'Viêm họng đỏ cấp… không có xét nghiệm liên cầu').",
+     "Kháng virus: ngoại trú cúm nhẹ chỉ dùng cho người có yếu tố nguy cơ (QĐ 1840/2025 mục III.2.2); bà thuộc nhóm nguy cơ nhưng chưa đủ ca nghi ngờ nên chưa kê, và dặn quay lại ngay khi sốt, đau cơ nhiều, khó thở. Khi nghi cúm: oseltamivir 75 mg × 2 lần/ngày × 5 ngày (mục III.2.1), hoặc baloxavir 40 mg một liều cho người 20–80 kg (mục III.2.1; WHO 2024 gợi ý có điều kiện cho người nguy cơ cao). Tránh aspirin (mục III.2.2).",
+     "Giảm đau: ngưng diclofenac, chuyển sang paracetamol. Người cao tuổi nguy cơ cao thì acetaminophen < 3 g/ngày và tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3); AHA/ACC 2025 Bảng 11 ghi paracetamol < 4 g/ngày; ca chọn mức thận trọng 3 g, đơn ghi tối đa 2 g/ngày vì mỏi cơ nhẹ. Beers 2023 Bảng 2: tránh NSAID uống kéo dài, kèm thuốc bảo vệ dạ dày nếu bắt buộc dùng.",
+     "Điều trị triệu chứng: uống đủ nước, ăn lỏng, nghỉ ngơi; rửa mũi nước muối sinh lý (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 4.2.1); súc họng nước muối ấm 3–4 lần/ngày (Viêm họng cấp tính mục 4.2.2). Không uống thêm thuốc cảm tổng hợp có kháng histamin thế hệ 1 hoặc thuốc thông mũi uống (Beers 2023 Bảng 2; ACP/CDC 2016 tr. 431; AHA/ACC 2025 Bảng 11). Không cần vitamin C (ACP/CDC 2016 tr. 431).",
+     "Huyết áp: không gán nhãn THA, không kê thuốc hạ áp; đo lại khi khỏe và sau ngưng NSAID, đo ngoài phòng khám nếu có điều kiện (AHA/ACC 2025 mục 3.1.4 khuyến cáo 1). Nếu sau đó HA vẫn ≥ 140/90 mmHg thì quản lý theo QĐ 5904/2019 Phần 1 mục A.5 (khởi trị khi HA ≥ 140/90 mmHg ở người < 80 tuổi). Không nifedipin ngậm (QĐ 5904 Phần 3, Bước 3 mục D.1).",
+     "Xử lý lý do thật: hỏi 'điều gì làm bà lo nhất'; nói rõ khám thần kinh bình thường, nặng đầu do nghẹt mũi và cảm lạnh, dặn dấu hiệu đột quỵ phải gọi cấp cứu ngay. Không chuyển CT chỉ để trấn an. Đây là phần quyết định bà có yên tâm ở nhà và bỏ thuốc đau xương hay không.",
+     "Dặn mốc: cảm lạnh thường 1–2 tuần, ho có thể đến 6 tuần (ACP/CDC 2016 tr. 429, 431); QĐ 5643/2015 (Viêm mũi họng cấp tính mục 5.1) ghi virus tự khỏi sau 3–5 ngày: ghi cả hai mốc, hẹn tái khám nếu nặng hơn hoặc quá thời gian. Ho quá 2 tuần thì đi khám tìm nguyên nhân, kể cả lao (QĐ 162/2024 Phần II mục 1.1a Bảng 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (acetaminophen)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên (500 mg) mỗi lần, cách nhau ít nhất 6 giờ; tối đa 4 viên (2 g) mỗi 24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi nặng đầu khó chịu, đau mỏi cơ hoặc sốt từ 38 °C; uống sau ăn",
+      "so_ngay": "Khi cần, khoảng 3–5 ngày",
+      "ghi_chu": "AWaRe 2022 tr. 48: 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; ở người cao tuổi nguy cơ cao dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3). Ca chọn 500 mg mỗi lần, tối đa 2 g/ngày, trong ngưỡng nguồn. Không uống thêm thuốc cảm có paracetamol."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "Dung dịch 0,9%, lọ nhỏ mũi hoặc bình rửa mũi",
+      "lieu": "Rửa hoặc nhỏ nhẹ mỗi bên mũi khi nghẹt; súc họng nước muối ấm",
+      "duong": "Rửa mũi, súc họng",
+      "thoi_diem": "Rửa mũi khi nghẹt và trước ngủ; súc họng 3–4 lần/ngày",
+      "so_ngay": "Đến khi hết ngứa rát họng, hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643/2015: Viêm mũi xoang cấp tính mục 4.2.1 (rửa mũi nước muối sinh lý), Viêm họng cấp tính mục 4.2.2 (xúc họng 3–4 lần/ngày). Số giọt, thể tích, thời gian tối đa: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Diclofenac 50 mg (thuốc 'đau xương' bà đang tự mua)",
+      "ham_luong": "Viên 50 mg",
+      "lieu": "Ngưng, không uống tiếp",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Ngưng hẳn trong đợt cảm; mỏi cơ dùng paracetamol",
+      "ghi_chu": "Nữ > 60 tuổi nguy cơ tiêu hóa cao, tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3); Beers 2023 Bảng 2; NSAID tăng HA (AHA/ACC 2025 Bảng 11). Nếu sau này bắt buộc dùng NSAID thì kèm PPI (Beers 2023; QĐ 361 mục 3.3)."
+     }
+    ],
+    "dan_do": [
+     "Bà bị cảm lạnh do virus, không phải do trúng gió hay mưa: mọi nguyên nhân cảm lạnh đều là virus (ACP/CDC 2016 tr. 427). Bệnh tự khỏi trong 1–2 tuần, ho có thể lâu hơn (ACP/CDC 2016 tr. 429, 431); QĐ 5643/2015 ghi virus tự khỏi sau 3–5 ngày (Viêm mũi họng cấp tính mục 5.1). Thuốc chích hay kháng sinh không làm khỏi nhanh hơn (ACP/CDC 2016 Advice 4).",
+     "Bà không bị đột quỵ: tôi đã khám mặt, giọng nói, chữ viết, sức tay chân đều bình thường. Nặng đầu của bà do nghẹt mũi, ăn ít, uống ít. Ông Ba Hiền là người khác; bệnh của bà là cảm lạnh.",
+     "Gọi cấp cứu ngay (115) nếu méo miệng, nói khó hoặc ngọng, yếu hay tê một bên tay chân, mắt mờ đột ngột, đau đầu dữ dội đột ngột (QĐ 5904/2019 Phần 3 Bước 1 và mục D.1).",
+     "Ngưng thuốc đau xương diclofenac; đau mỏi hoặc sốt thì uống paracetamol đúng liều ghi trong đơn, không quá 4 viên mỗi ngày. Hỏi dược sĩ hoặc bác sĩ trước khi mua bất kỳ thuốc giảm đau nào (QĐ 361/2014 Phụ lục NSAID mục 3.3; Beers 2023 Bảng 2).",
+     "Không uống thuốc cảm tổng hợp, không dùng aspirin; uống nhiều nước, ăn cháo súp, nghỉ làm vườn vài ngày, rửa mũi và súc họng nước muối.",
+     "Quay lại ngay hoặc đi cấp cứu nếu khó thở, đau ngực, sốt cao hoặc ớn lạnh run, lú lẫn, ho ra máu, đau họng một bên kèm khó há miệng, hoặc bệnh nặng hơn, không đỡ sau 1 tuần (NICE NG237 2024 khuyến cáo 1.1.2, 1.2.2; ACP/CDC 2016 tr. 431; QĐ 1840/2025 mục III.2.2). Ho kéo dài quá 2 tuần cũng phải đi khám tìm nguyên nhân (QĐ 162/2024 Phần II mục 1.1a Bảng 1).",
+     "Đo lại huyết áp khi khỏe hẳn, ít nhất hai lần cách 1–2 phút (QĐ 5904/2019 Phụ lục 1.1 mục 6), tốt nhất đo ở nhà hoặc trạm y tế vài ngày (AHA/ACC 2025 mục 3.1.4); mang kết quả khi tái khám.",
+     "Rửa tay thường xuyên, che miệng khi ho, giữ khoảng cách với cháu nội và hàng xóm cao tuổi (ACP/CDC 2016 tr. 431: rửa tay là cách giảm lây tốt nhất). Tái khám sau khoảng 1 tuần (số ngày không có trong tài liệu đã tải, người thiết kế chọn)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Sáu về nhà, ngưng diclofenac, uống paracetamol hai lần trong ngày đầu, rửa mũi và súc họng nước muối. Ngày 9 hết sổ mũi và nặng đầu, đỡ lâng lâng khi ăn uống lại bình thường. Ho khan kéo dài hơn dự kiến: ngày 16 bà quay lại vì lo ho không dứt và sợ lao như bà hàng xóm; bác sĩ khám lại, phổi sạch, không sốt, không sụt cân, hẹn chụp X-quang ngực ở bệnh viện huyện (bình thường) và cho bà về tiếp tục theo dõi. Ho thưa dần, hết hẳn vào tuần thứ 4. HA đo ở trạm y tế khi khỏe là 128/80 mmHg nên bà không được chẩn đoán tăng huyết áp. Đây là quỹ đạo cảm lạnh có ho kéo dài (ACP/CDC 2016 tr. 429: ho có thể đến 6 tuần), không phải thất bại điều trị; chụp X-quang vì ho vượt 2 tuần (QĐ 162/2024 Phần II mục 1.1a Bảng 1). Số liệu HA, kết quả X-quang và quỹ đạo là do người viết dựng.",
+ "nhieu": [
+  "Kể lể lộn xộn: bà trả lời mỗi câu hỏi bằng một câu chuyện (trận bóng, con dâu, giá lúa, cô Tư bán nước mía), thông tin cần có nằm lẫn trong chuyện; phải hỏi gọn, cụ thể từng ý và dẫn bà trở lại, không hỏi dồn nhiều câu một lúc.",
+  "Thuốc 'đau xương' bà coi như không phải thuốc nên không tự khai: hỏi chung 'có uống thuốc gì không' thì bà nói không; phải hỏi thuốc đau xương mua ở tiệm, mấy viên mỗi ngày.",
+  "Lý do thật (sợ đột quỵ vì mẹ, chị ruột, hàng xóm) chỉ lộ khi hỏi điều gì làm bà lo nhất."
+ ],
+ "bai_hoc_bien": [
+  "Với người ≥ 65 tuổi, cảm lạnh có thể biểu hiện bằng nặng đầu, mệt, chóng mặt nhẹ thay vì sổ mũi nổi bật; vẫn phải hỏi cụ thể và khám để loại trừ đột quỵ, viêm phổi, cúm (QĐ 1840/2025 mục II.1.1; ACP/CDC 2016 tr. 426).",
+  "Kể lể lộn xộn: cấu trúc hóa cuộc hỏi bằng câu hỏi ngắn, đóng, theo trình tự (khởi phát, diễn tiến, triệu chứng đi kèm, thuốc, bệnh nền), nhẹ nhàng dẫn lại thay vì ngắt lời; tóm tắt lại để bà xác nhận.",
+  "Hỏi thuốc theo tên và số viên, không hỏi 'có uống thuốc gì không': NSAID tự mua là thuốc bị giấu thường gặp nhất ở người cao tuổi (QĐ 361/2014 Phụ lục NSAID mục 3.3; Beers 2023 Bảng 2).",
+  "Không có xét nghiệm nào: cảm lạnh vốn là chẩn đoán lâm sàng, test cúm hay CRP không đổi xử trí hôm nay (NICE NG237 2024 khuyến cáo 1.3.1, 1.3.3, 1.3.4). Cái thay cho xét nghiệm là dặn mốc quay lại rõ ràng (khuyến cáo 1.1.2).",
+  "Nỗi sợ thật quyết định kết quả: khám thần kinh ngay trước mặt người bệnh và nói rõ kết quả bình thường có tác dụng hơn một lần chụp CT không có chỉ định.",
+  "Một lần đo HA cao nhẹ khi đang ốm, đau, dùng NSAID không đủ để gán nhãn tăng huyết áp: xác nhận bằng đo ngoài phòng khám khi khỏe (AHA/ACC 2025 mục 3.1.4 khuyến cáo 1).",
+  "Khỏi chậm hơn dự kiến: sổ mũi và nặng đầu hết trong khoảng 1 tuần nhưng ho có thể kéo dài tới 6 tuần (ACP/CDC 2016 tr. 429); ho quá 2 tuần là mốc phải nghĩ tới nguyên nhân khác, kể cả lao, và tìm nguyên nhân (QĐ 162/2024 Phần II mục 1.1a Bảng 1)."
+ ],
+ "diem_nho": [
+  "Bốn tiêu chí nghĩ viêm phổi ở người lớn khỏe mạnh < 70 tuổi: mạch > 100, thở > 24, nhiệt > 38 °C, bất thường khi nghe phổi; thiếu cả bốn thì viêm phổi ít khả năng (ACP/CDC 2016 tr. 426). Ngưỡng điều trị hoặc chuyển có thể thấp hơn ở người suy yếu, đa bệnh (NICE NG237 2024 khuyến cáo 1.3.2).",
+  "Thang điểm họng: Centor 0–1 hoặc McIsaac 0–1 là nguy cơ thấp (liên cầu 7–13%); McIsaac cộng −1 cho tuổi ≥ 45 (IDSA 2025 Bảng 3). AWaRe 2022 tr. 48: Centor 0–2 chỉ điều trị triệu chứng.",
+  "Cảm lạnh: nguyên nhân hoàn toàn do virus, kéo dài đến 14 ngày; kháng sinh không có vai trò và không ngăn biến chứng (ACP/CDC 2016 tr. 427, 431). QĐ 5643/2015 (Viêm mũi họng cấp tính mục 4.1, 4.3.1) lại hướng dẫn điều trị như liên cầu khi chưa có xét nghiệm: ghi cả hai (sổ mâu thuẫn).",
+  "Cúm: nhóm nguy cơ nặng gồm người > 65 tuổi (QĐ 1840/2025 mục I, II.2.3); cúm nhẹ ngoại trú chỉ dùng kháng virus cho nhóm này, không dùng aspirin (mục III.2.2).",
+  "NSAID ở người cao tuổi: nữ > 60 tuổi nguy cơ tiêu hóa cao; nhóm nguy cơ cao dùng acetaminophen < 3 g/ngày và tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3); NSAID tăng HA (AHA/ACC 2025 Bảng 11).",
+  "Dấu thần kinh khu trú cần hỏi: sụp mi, méo miệng, nói khó, liệt nửa người (QĐ 5904/2019 Phần 3 Bước 1). Chuyển cấp cứu tăng huyết áp khi HA ≥ 200/120, hoặc ≥ 180/110 mmHg kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú (Phần 3, Bước 3 mục D.1); tránh nifedipin tác dụng nhanh.",
+  "Ho > 2 tuần ở người lớn là triệu chứng nghi lao quan trọng nhất (QĐ 162/2024 Phần II mục 1.1a Bảng 1); ho > 3 tuần là ho kéo dài (QĐ 4235/2012, Ho kéo dài mục 2.1)."
+ ],
+ "nguon": [
+  "TL-0156 · ACP/CDC 2016 – Appropriate Antibiotic Use for Acute Respiratory Tract Infection in Adults, Ann Intern Med 164:425–434 – Advice 4 (tr. 425, 431), tr. 426 (tiêu chí nghĩ viêm phổi), tr. 427–428 (Bảng cảm lạnh, viêm họng), tr. 429 (hộp tóm tắt), tr. 431 (cảm lạnh)",
+  "TL-0146 · NICE NG237 2024 – Suspected acute respiratory infection in over 16s (công bố 31/10/2023, cập nhật 02/09/2025) – khuyến cáo 1.1.1, 1.1.2, 1.2.2, 1.3.1–1.3.4",
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh TMH – Viêm mũi họng cấp tính mục 3.1.1, 3.1.2, 4.1, 4.3.1–4.3.3, 5.1; Viêm họng cấp tính mục 4.1, 4.2.1, 4.2.2; Viêm mũi xoang cấp tính mục 4.2.1",
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – Hướng dẫn chẩn đoán và điều trị cúm mùa – mục I, II.1.1, II.2.3, II.2.4.1, III.2.1, III.2.2",
+  "TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (tóm tắt BMJ 2026;392:e087397) – tr. 1, 5",
+  "TL-0158 · IDSA 2012 – GAS Pharyngitis, Clin Infect Dis 2012;55:e86–e102 – khuyến cáo 4; TL-0140 · IDSA 2025 update (CID 2026;82(Suppl 3):i97–i104) – Bảng 3",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – chương 6 Pharyngitis, tr. 47–48",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 – Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – Phụ lục Hướng dẫn sử dụng thuốc chống viêm không steroid mục 3.3 (tr. 198–199)",
+  "TL-0022 · AGS Beers Criteria 2023, J Am Geriatr Soc 71:2052–2081 – Bảng 2 (NSAID uống không chọn lọc COX-2; kháng histamin thế hệ 1; aspirin > 325 mg/ngày)",
+  "TL-0297 · AHA/ACC 2025 – Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults – mục 3.1.4 (khuyến cáo 1), Bảng 11",
+  "TL-0284 · QĐ 5904/QĐ-BYT 2019 – Hướng dẫn chẩn đoán, điều trị và quản lý một số bệnh không lây nhiễm tại trạm y tế xã – Phần 1 (Bước 3, Phụ lục 1.1 mục 6, Phụ lục 1.2), Phần 3 (Bước 1; Bước 3 mục D.1)",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – Phần II mục 1.1a Bảng 1; TL-0131 · QĐ 4235/QĐ-BYT 2012 – Ho kéo dài mục 2.1",
+  "Không có trong tài liệu đã tải: số giọt hoặc thể tích nước muối rửa mũi; số ngày hẹn tái khám cảm lạnh; thuốc đau xương tự mua có che lấp sốt hay không; đo glucose mao mạch cho cảm lạnh; nội dung sơ đồ Phụ lục 1.2 của QĐ 5904 (hình ảnh)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-04. Tài liệu đã đọc: TL-0156 (tr. 426–431 và hộp tóm tắt), TL-0146 (khuyến cáo 1.1–1.3), TL-0130 (Viêm mũi họng cấp tính; Viêm họng cấp tính mục 4; Viêm mũi xoang cấp tính mục 4.2.1), TL-0122 (mục I, II, III), TL-0133 (tóm tắt), TL-0158 (khuyến cáo 4), TL-0140 (Bảng 3), TL-0018 (tr. 47–48), TL-0286 (Phụ lục NSAID mục 3.3), TL-0022 (Bảng 2), TL-0297 (mục 3.1.4, Bảng 11), TL-0284 (Phần 1, Phần 3), TL-0123 (Bảng 1), TL-0131 (mục 2.1).",
+  "Biến sổ cái: nữ 66 tuổi; không điển hình (nặng đầu, mệt, chóng mặt nhẹ nổi bật, triệu chứng mũi họng chỉ lộ khi hỏi, thuốc che lấp sốt); không bẫy cấu trúc; 1 lượt; kể lể lộn xộn; không có xét nghiệm nào (khoa_cls khóa xn, xquang, sieu_am, ct, noi_soi, ecg; chỉ còn dụng cụ đo glucose mao mạch tại giường); nông dân; khởi phát sau chơi bóng chuyền hơi; NSAID tự mua (diclofenac); lý do thật là sợ đột quỵ; kết cục khỏi chậm (ho kéo dài 4 tuần).",
+  "Mâu thuẫn: theo các mục sẵn có trong sổ (Viêm họng đỏ cấp… không có xét nghiệm liên cầu; Liều paracetamol tối đa ở người cao tuổi; Thuốc kháng virus đầu tay cho cúm không nặng ở người nguy cơ cao; Mốc ho kéo dài; X-quang khi ho > 2 tuần). Không có mâu thuẫn mới, xem HH-0200_mau_thuan.md.",
+  "Do người viết dựng, không có trong tài liệu: tên nhân vật, trận bóng chuyền hơi, ông Ba Hiền, thuốc 'đau xương' là diclofenac 50 mg, số liệu sinh hiệu và glucose mao mạch, khám thể chất, kết cục (ngày 9, 16, tuần 4, HA 128/80, X-quang bình thường). Suy luận của người thiết kế: diclofenac che lấp sốt; triệu chứng cảm lạnh mờ nhạt ở tuổi này.",
+  "Thiết kế khóa neu_sai: đáp án là cho về (ve_hen) nên viết ba hướng quá tay (cấp cứu CT sọ, nhập viện truyền dịch kháng sinh, chuyển tuyến chụp X-quang và xét nghiệm); không lộ dữ kiện nào sau lượt (ca 1 lượt)."
+ ]
+}

@@ -1,0 +1,730 @@
+{
+ "ma_ca": "HH-0165",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Viêm hô hấp trên cấp do virus (cảm lạnh)",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm hô hấp trên cấp do virus (cảm lạnh)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu nhóm A",
+   "Cúm mùa"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân (trồng lúa, nuôi hai con bò)",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng (amlodipin 5 mg mỗi sáng)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe (hồ sơ nhận trông kho lúa của hợp tác xã)"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Tư",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa, nuôi hai con bò ở xã, ra đồng từ 5 giờ sáng; mùa gặt này hợp tác xã nhận ông trông kho lúa có trả công, hồ sơ cần giấy chứng nhận sức khỏe",
+  "can_nang": 58,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'bác Tư'. Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Bà Sáu (vợ) gọi ông là 'ông ấy', xưng 'tôi' với bác sĩ.",
+  "tinh_cach": "Chân chất, giữ chữ tín, cứng đầu khi đã nghe người ta nói; hay lo 'tuổi này cảm mà không trị là xuống phổi'. Không chịu nghỉ, sợ bị chê già yếu, ngại nói chuyện bệnh huyết áp với người ngoài. Nghe bác sĩ nếu được giải thích bằng chính tình trạng của mình.",
+  "kieu_nhieu": "Đòi kháng sinh: mở lời ngay 'cho tôi vài viên kháng sinh mạnh', dẫn lần trước uống ba ngày là hết, bạn nói người già không uống là xuống phổi. Bị từ chối ông hỏi lại 'lỡ nó xuống phổi thì sao'. Ông dịu xuống khi được nói bằng số đo của mình (phổi sạch, oxy 97%) và khi biết hạn nộp hồ sơ vẫn kịp; bị gạt thô thì ông ghé tiệm thuốc mua kháng sinh uống.",
+  "nguoi_nha": "Bà Sáu, 63 tuổi, vợ, đi cùng lượt 1. Nói ít, lo cho chồng, hay nhắc 'ông ấy ở nhà còn thuốc kháng sinh'. Không biết chuyện giấy sức khỏe.",
+  "ten_nguoi_nha": "Sáu (vợ)",
+  "ngoai_hinh": {
+   "da": "#b8875f",
+   "toc": "#c9c9c9",
+   "kieuToc": "ngan",
+   "ao": "#6b7a58",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c49a78",
+    "toc": "#9a9a9a",
+    "kieuToc": "bui",
+    "ao": "#7a4f5a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sổ mũi, ho, rát họng 3 ngày, đi cùng vợ; ông đòi kháng sinh vì sợ 'xuống phổi', đã tự uống thuốc cảm và còn thuốc kháng sinh dư ở nhà",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám xã chỉ làm được xét nghiệm cơ bản (công thức máu, đường huyết, ure–creatinin, điện giải, AST–ALT, CRP, nước tiểu); không có X-quang, siêu âm, CT, nội soi, không có test nhanh liên cầu, cúm hay PCR virus. Bệnh viện huyện cách 15 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 3 của đợt bệnh",
+   "tiep_don": "Ông Nguyễn Văn Tư, 66 tuổi, nông dân, đi xe máy đến phòng khám xã lúc gần 9 giờ sáng cùng vợ là bà Sáu. Điều dưỡng Linh đã đo sinh hiệu: nhiệt độ 37,6 °C (màng nhĩ), mạch 82 l/p, HA 142/86 mmHg, nhịp thở 18 l/p, SpO₂ 97% khí trời, cân nặng 58 kg. Phòng khám làm được xét nghiệm cơ bản; không có X-quang, siêu âm, CT, nội soi, không có test nhanh liên cầu hay cúm. Bệnh viện huyện cách 15 km.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Tư mạch 82, thở 18, 37,6 °C, SpO₂ 97%, phổi sạch, ăn uống được: thiếu cả bốn dấu nghi viêm phổi (ACP/CDC 2016 tr. 426), không có dấu cúm nặng (QĐ 1840/2025 mục II.2.3), chăm sóc tại nhà là đủ (NICE NG237 2024 khuyến cáo 1.1.2). Nhập viện khiến ông nằm huyện nhiều ngày, mất tiền công và viện phí, trong khi hạn nộp hồ sơ đến gần và chuyện thuốc cảm tự mua cùng nửa vỉ kháng sinh ở nhà vẫn chưa ai hỏi tới.",
+    "chuyen_tuyen": "Chuyển ông lên bệnh viện huyện 15 km là không cần: cảm lạnh nhẹ chẩn đoán bằng khám lâm sàng, test cúm hay vi sinh không đổi quyết định kháng sinh (NICE NG237 2024 khuyến cáo 1.3.1, 1.3.3), X-quang chỉ khi nghi viêm phổi (QĐ 1840/2025 mục II.2.2). Ông mất cả buổi và tiền xe, sức ép xin kháng sinh vẫn nguyên; chính sức ép của người bệnh làm kê kháng sinh không cần thiết (ACP/CDC 2016 tr. 431)."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi bị cảm ba hôm nay rồi, sổ mũi, ho, rát cổ. Cho tôi vài viên kháng sinh mạnh cho nhanh khỏi, tôi còn việc gấp lắm.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "142/86",
+    "nhiet": "37,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sổ mũi, ho, rát họng ba ngày. Ông muốn xin kháng sinh cho mau khỏi vì 'tuổi này không trị là xuống phổi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra; neo 'người già phải uống kháng sinh'"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ngày 1 sáng ra đồng ngứa rát họng, hắt hơi vài cái, chiều sổ mũi trong. Ngày 2: nghẹt mũi, ho khan, đau họng nhẹ khi nuốt; chiều nóng người, đo nách 37,8 °C, hơi mỏi vai, không rét run. Hôm nay: hết sốt (sáng 37,2 °C), sổ mũi đặc hơn nhưng trắng, giọng khàn nhẹ, ho khan từng tiếng. Tăng dần, không lúc nào 'ập xuống'. Không nhớ vì sao: không dầm mưa, không ai trong nhà bệnh, không nghe xã có dịch cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát từ từ, sốt nhẹ ngắn rồi hết (cảm lạnh, không phải cúm); không rõ yếu tố khởi phát",
+     "dieu_kien_lo": "Hỏi 'bắt đầu thế nào, từng ngày ra sao, có gì khởi phát không' thì kể đủ. Hỏi chung chung chỉ nói 'ba ngày nay sổ mũi, ho, rát cổ'."
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Đau họng chỉ khi nuốt nước bọt (3/10), ăn cháo cơm bình thường, không nghẹn, không chảy dãi, há miệng được, cổ không sưng đau. Ho khan, chưa có đờm. Sổ mũi, nghẹt mũi hai bên, mắt hơi cộm chảy nước mắt. Không đau tai, mặt, răng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Có ho, sổ mũi, khàn tiếng, cộm mắt: dấu virus; không dấu nặng ở họng",
+     "dieu_kien_lo": "Phải hỏi từng triệu chứng: ho, sổ mũi, mắt, giọng, nghẹn, sưng cổ, đau tai, đau mặt."
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không khó thở, đi bộ ra ruộng không hụt hơi, không đau ngực, không ho đờm vàng xanh hay ra máu, không đau mình dữ dội, không lơ mơ. Ăn uống được, tiểu bình thường, không sụt cân, không ra mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu nặng, không gợi ý viêm phổi",
+     "dieu_kien_lo": "Ông không tự kể; phải hỏi thẳng từng dấu hiệu: khó thở, đau ngực, ho ra máu, đờm, sụt cân, mồ hôi đêm, lơ mơ."
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Từ chiều ngày 2 ông mua ở tiệm thuốc đầu xã thuốc cảm viên ghép, vỏ ghi paracetamol, chlorpheniramin, phenylephrin; uống 1 viên × 3 lần/ngày, đến nay khoảng 5 viên. Đêm qua ngủ chập chờn, hơi hồi hộp, ông tưởng do huyết áp. Không dùng thuốc nhỏ mũi, aspirin hay ibuprofen. Ở nhà còn nửa vỉ 7 viên amoxicillin 500 mg dư từ năm ngoái; ông định uống nếu bác sĩ không cho thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua (paracetamol + kháng histamin thế hệ 1 + thuốc thông mũi) ở người ≥ 65 tuổi có THA; kháng sinh dư ở nhà",
+     "dieu_kien_lo": "Hỏi đã uống thuốc gì, mua ở đâu, vỏ ghi gì, ở nhà còn thuốc gì. Hỏi chung 'có uống thuốc gì không' thì ông chỉ nói 'thuốc cảm với thuốc huyết áp'."
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Tăng huyết áp 5 năm, uống amlodipin 5 mg mỗi sáng đều đặn. Đo ở trạm y tế hai tuần trước 128/80. Không đái tháo đường, bệnh tim, thận; không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc nền hạ áp; kiểm tra tương tác với thuốc cảm",
+     "dieu_kien_lo": "Hỏi bệnh nền, thuốc uống thường ngày, huyết áp hay đo ở đâu."
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không hút thuốc, không rượu thường xuyên. Không hen, bệnh phổi; chưa viêm họng mủ hay thấp tim. Mỗi năm cảm khoảng hai lần, tự khỏi sau chừng 10 ngày. Hai tuần qua không phun thuốc trừ sâu. Chưa tiêm vắc xin cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không tiền sử thấp tim, bệnh phổi; không phơi nhiễm hóa chất gần đây",
+     "dieu_kien_lo": "Hỏi tiền sử viêm họng, thấp tim, hút thuốc, bệnh phổi, phun thuốc trừ sâu, tiêm vắc xin."
+    },
+    {
+     "id": "doi_khang_sinh",
+     "noi_dung": "Lần trước ông uống amoxicillin ba ngày là hết, nên tin kháng sinh 'cắt cơn'. Bạn ở hợp tác xã bảo người trên 60 để cảm kéo thì xuống phổi. Bị từ chối ông hỏi 'vậy lỡ nó xuống phổi thì sao'; bị gạt thô thì về uống nửa vỉ amoxicillin.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu 'đòi kháng sinh': niềm tin sai và áp lực thời gian",
+     "dieu_kien_lo": "Ông tự nói ngay lúc mở lời; chi tiết 'lỡ xuống phổi', 'bạn nói' chỉ nói khi bác sĩ từ chối hoặc hỏi vì sao ông tin cần kháng sinh."
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Lý do thật: hợp tác xã nhận ông trông kho lúa mùa gặt có trả công, hồ sơ cần giấy chứng nhận sức khỏe, hạn nộp thứ Sáu tuần sau (còn chín ngày). Ông sợ bệnh kéo dài làm trễ hạn, và muốn 'tiện thể' xin giấy luôn buổi này. Chưa nói với vợ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật đến khám: xin giấy chứng nhận sức khỏe",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi 'ngoài bệnh còn điều gì ông muốn nhờ', 'sao ông đến sớm vậy, có việc gấp gì', hoặc sau khi từ chối kháng sinh: ông ngập ngừng 'tôi còn cần cái giấy sức khỏe nộp cho hợp tác xã'. Trước đó chỉ nói 'tôi còn việc gấp'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói trọn câu, giọng nghẹt mũi và khàn nhẹ, hơi mệt. Da niêm hồng, môi lưỡi ẩm, không tím. BMI 21,8. Không phát ban, không phù.",
+     "k": 1,
+     "hien": "Tỉnh, nói trọn câu, giọng nghẹt mũi và khàn nhẹ, hơi mệt. Môi lưỡi ẩm, không tím. BMI 21,8."
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ lan tỏa, thành sau ít dịch nhầy trong. Hai amiđan nhỏ, không sưng to, không xuất tiết, mủ hay giả mạc; vòm miệng không chấm xuất huyết. Mũi: niêm mạc phù nề đỏ nhạt, dịch trong nhầy hai bên. Ấn điểm xoang không đau. Màng nhĩ hai bên bóng.",
+     "k": 1,
+     "hien": "Họng đỏ nhẹ, amiđan nhỏ, không mủ, không giả mạc, vòm miệng không chấm xuất huyết. Mũi: niêm mạc phù nề, dịch trong nhầy. Ấn điểm xoang không đau. Màng nhĩ hai bên bóng."
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, ấn không đau, không sưng. Không sờ thấy hạch cổ trước, góc hàm, sau tai. Tuyến giáp không to.",
+     "k": 1,
+     "hien": "Cổ mềm, ấn không đau, không sưng. Không sờ thấy hạch cổ."
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt đỏ nhẹ, chảy nước mắt trong, không ghèn mủ.",
+     "k": 0,
+     "hien": "Kết mạc hai mắt đỏ nhẹ, chảy nước mắt trong, không ghèn mủ."
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, đều, không co kéo. Gõ trong hai bên. Rì rào phế nang êm dịu hai bên, không ran nổ, ẩm, rít, ngáy.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, đều, không co kéo. Gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu hai bên, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 82 l/p, T1 T2 rõ, không tiếng thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "BC 6,2 G/L · Neutrophil 52% · Lympho 36% · Hb 138 g/L · TC 236 G/L",
+     "bang": {
+      "wbc": 6.2,
+      "neu_pct": 52.0,
+      "neu": 3.22,
+      "lym_pct": 36.0,
+      "lym": 2.23,
+      "mono_pct": 8.0,
+      "mono": 0.5,
+      "eos_pct": 3.0,
+      "eos": 0.19,
+      "baso_pct": 1.0,
+      "baso": 0.06,
+      "rbc": 4.6,
+      "hgb": 138,
+      "hct": 0.41,
+      "mcv": 89.1,
+      "mch": 30.0,
+      "mchc": 337,
+      "rdw": 13.2,
+      "plt": 236
+     },
+     "n": "Chấp nhận, không bắt buộc, không đổi xử trí: viêm mũi họng cấp thường không cần cận lâm sàng, công thức bạch cầu chỉ để tham khảo (QĐ 5643/2015 Viêm mũi họng cấp tính mục 3.1.2). Không loại được liên cầu hay cúm."
+    },
+    "crp": {
+     "v": "n",
+     "ab": 0,
+     "r": "4 mg/L",
+     "bang": {
+      "crp": 4
+     },
+     "n": "Không cần: ngưỡng CRP của NICE NG237 2024 khuyến cáo 1.3.4 chỉ dùng khi nhiễm trùng hô hấp DƯỚI chưa rõ có cần kháng sinh; ông phổi sạch, thở 18, SpO₂ 97%."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "ab": 0,
+     "r": "Cơ sở không có test nhanh liên cầu.",
+     "n": "Không cần: có ho, sổ mũi, khàn tiếng, cộm mắt nên không xét nghiệm (IDSA 2012 khuyến cáo 4); Centor 0, McIsaac −1 là nhóm nguy cơ thấp (IDSA 2025 Bảng 3)."
+    },
+    "flu": {
+     "v": "n",
+     "ab": 0,
+     "r": "Cơ sở không có test nhanh cúm hay SARS-CoV-2.",
+     "n": "Không cần: không dùng test cúm để quyết định kháng sinh (NICE NG237 2024 khuyến cáo 1.3.3); chưa đủ định nghĩa ca nghi ngờ vì không dịch tễ (QĐ 1840/2025 mục II.2.4.1). Nếu sốt cao, đau cơ, nặng lên thì nghĩ lại (test nhanh dành cho người nghi cúm có yếu tố nguy cơ: mục II.2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cảm lạnh (viêm hô hấp trên cấp do virus), ngày 3, mức nhẹ, chưa biến chứng; người 66 tuổi có tăng huyết áp đang điều trị",
+     "ok": 1,
+     "n": "Hắt hơi, sổ mũi, nghẹt mũi, ho khan, khàn tiếng, cộm mắt, sốt nhẹ ngày 2 rồi hết; họng đỏ nhẹ, amiđan sạch, không hạch, phổi sạch. Cảm lạnh là bệnh virus nhẹ, kéo dài đến 14 ngày (ACP/CDC 2016 tr. 427 Bảng, tr. 431); chẩn đoán dựa triệu chứng và khám mũi họng, thường không cần cận lâm sàng (QĐ 5643/2015 Viêm mũi họng cấp tính mục 3.1.2)."
+    },
+    {
+     "t": "Huyết áp hôm nay cao hơn thường ngày (142/86 so với khoảng 128/80) trên nền tăng huyết áp đang điều trị, có thể do bệnh cấp và thuốc cảm chứa phenylephrin tự mua",
+     "ok": 1,
+     "n": "Thuốc thông mũi gây co mạch, tăng HA phụ thuộc liều (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11). Mức đóng góp riêng của thuốc so với bệnh cấp: không có trong tài liệu đã tải; đo lại HA khi bỏ thuốc và hết bệnh."
+    },
+    {
+     "t": "Viêm họng liên cầu nhóm A",
+     "n": "Sốt ≥ 38 °C (0: tối đa 37,8), amiđan sưng hay mủ (0), hạch trước sưng đau (0), có ho (0): Centor 0; McIsaac tuổi ≥ 45 cộng −1, tổng −1: nhóm nguy cơ thấp 0–1 điểm, 7–12% (Centor), 7,6–13,1% (McIsaac) (IDSA 2025 Bảng 3). Có ho, sổ mũi, khàn tiếng nên không test (IDSA 2012 khuyến cáo 4; ACP/CDC 2016 tr. 428). Không thấp tim, không tiếp xúc ca liên cầu (IDSA 2025 nhận xét 2). Centor 0–2: chỉ điều trị triệu chứng (WHO AWaRe 2022 tr. 48)."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Cúm thường khởi phát đột ngột với sốt, ớn lạnh, đau đầu, đau cơ (QĐ 1840/2025 mục II.1.1); ông khởi phát từ từ, sốt chỉ ngày 2, không rét run, không dịch tễ (mục II.2.4.1). Nhưng > 65 tuổi là nhóm nguy cơ cúm nặng, triệu chứng có thể không điển hình (mục I, II.1.1): chưa đủ nghi nhưng không loại hẳn; dặn quay lại ngay nếu sốt cao, đau cơ, khó thở."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thiếu cả bốn tiêu chí mạch > 100, thở > 24, sốt > 38 °C, phổi bất thường (ACP/CDC 2016 tr. 426, viết cho người khỏe < 70 tuổi; ông 66 tuổi, không bệnh phổi, dùng làm tham chiếu). Mạch 82, thở 18, 37,6 °C, phổi sạch, SpO₂ 97%."
+    },
+    {
+     "t": "Viêm xoang cấp do vi khuẩn",
+     "n": "Mới ngày 3, nước mũi trong đến trắng, không đau mặt. Chỉ nghĩ khi > 10 ngày, hoặc sốt > 39 °C kèm mủ mũi hay đau mặt ≥ 3 ngày, hoặc nặng lên sau 5 ngày đang đỡ (ACP/CDC 2016 tr. 429 Advice 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi từng ngày diễn biến, thuốc đã uống kể cả tự mua (xem vỏ thuốc), thuốc hạ áp, kháng sinh còn ở nhà; hỏi dấu hiệu nặng; hỏi 'ngoài bệnh, ông còn muốn nhờ điều gì'",
+     "v": "c",
+     "n": "Ông khai nhỏ giọt, lý do thật chỉ nói khi được hỏi đúng chỗ. NICE NG237 2024 khuyến cáo 1.3.2: đặt triệu chứng trong bối cảnh sức khỏe và xã hội, ngưỡng điều trị hay chuyển thấp hơn ở người có bệnh nền."
+    },
+    {
+     "t": "Khám đủ để loại viêm phổi, liên cầu, cúm bằng lâm sàng: sinh hiệu, bốn dấu viêm phổi, họng–amiđan–hạch cổ, nghe phổi, SpO₂; tính Centor/McIsaac",
+     "v": "c",
+     "n": "Bốn dấu viêm phổi (ACP/CDC 2016 tr. 426); Centor/McIsaac (IDSA 2025 Bảng 3; WHO AWaRe 2022 tr. 48); khó nuốt, chảy dãi, sưng đau cổ cần tìm áp xe (ACP/CDC 2016 tr. 428)."
+    },
+    {
+     "t": "Không xét nghiệm hay chụp phim hôm nay vì không xét nghiệm nào đổi được cách chữa (không test liên cầu, test cúm, CRP, X-quang); giải thích cho ông",
+     "v": "c",
+     "n": "Viêm mũi họng cấp thường không cần cận lâm sàng (QĐ 5643/2015 mục 3.1.2); không dùng test nhanh hay test cúm để quyết định kháng sinh (NICE NG237 2024 khuyến cáo 1.3.1, 1.3.3); X-quang chỉ khi nghi viêm phổi (QĐ 1840/2025 mục II.2.2). Công thức máu chỉ tham khảo nên chấm a."
+    },
+    {
+     "t": "Không kê kháng sinh, giải thích vì sao; HOẶC coi là viêm mũi họng đỏ cấp chưa có xét nghiệm và kê kháng sinh 10 ngày theo QĐ 5643/2015",
+     "v": "c",
+     "n": "Hai cách đều đúng (quy tắc mâu thuẫn 12/10/2026; sổ \"Viêm họng đỏ cấp…\", như HH-0182). Cách 1: ACP/CDC 2016 tr. 429 Advice 4; EPOS 2020 Bảng 1.4.1; IDSA 2012 khuyến cáo 4; WHO AWaRe 2022 tr. 48: nguồn quốc tế mới hơn, dựa trên dấu hiệu virus. Cách 2: QĐ 5643/2015 mục 4.1, 4.3.1 (điều trị như liên cầu khi chưa xét nghiệm được): penicillin V 3 triệu UI/ngày chia 3 lần, 10 ngày (hoặc amoxicillin 10 ngày, liều: không có trong mục này). Tuổi cao đơn thuần không đủ chỉ định; NICE NG237 hạ ngưỡng ở người có bệnh nền (1.3.2) nhưng ông không có dấu nặng."
+    },
+    {
+     "t": "Kê kháng sinh phổ rộng hoặc mạnh (amoxicillin/acid clavulanic, cefuroxim, azithromycin, levofloxacin, ceftriaxon tiêm), hoặc để ông uống nửa vỉ amoxicillin ở nhà 'cho chắc'",
+     "v": "w",
+     "n": "Cảm lạnh không có chỉ định kháng sinh (ACP/CDC 2016 tr. 429 Advice 4; EPOS 2020 Bảng 1.4.1: tác dụng phụ đáng kể ở người lớn); kháng sinh không phòng được biến chứng cảm lạnh (ACP/CDC 2016 tr. 431); cúm nhẹ không dùng kháng sinh (QĐ 1840/2025 mục III.2.2)."
+    },
+    {
+     "t": "Bảo ông ngưng thuốc cảm viên ghép (paracetamol + chlorpheniramin + phenylephrin), giải thích vì sao ở tuổi và huyết áp của ông; thay bằng paracetamol đơn chất và nước muối",
+     "v": "c",
+     "n": "Chlorpheniramin nên tránh từ 65 tuổi (AGS Beers 2023 Bảng 2); phenylephrin làm tăng HA (ESH 2023 Bảng 20), AHA/ACC 2025 Bảng 11 cho dùng ngắn nhất và thay bằng nước muối. Chọn bên thận trọng vì cảm lạnh nhẹ tự khỏi."
+    },
+    {
+     "t": "Kê hoặc khuyên tiếp tục thuốc cảm phối hợp có kháng histamin thế hệ 1 hay thuốc thông mũi uống (pseudoephedrin, phenylephrin)",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: kháng histamin thế hệ 1 'Avoid' ở ≥ 65 tuổi; ESH 2023 Bảng 20: thuốc thông mũi gây tăng HA kéo dài, phụ thuộc liều. Lợi ích 1/4 người lớn khỏe mạnh (ACP/CDC 2016 tr. 431) không áp cho người này (sổ HH-0005, HH-0223)."
+    },
+    {
+     "t": "Điều trị triệu chứng: paracetamol 500 mg khi sốt hay đau họng, tối đa dưới 3 g/ngày; rửa hoặc xịt mũi nước muối; uống đủ nước, ăn đủ chất",
+     "v": "c",
+     "n": "Paracetamol: WHO AWaRe 2022 tr. 48 (500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày); người cao tuổi hay THA < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); AHA/ACC 2025 Bảng 11 < 4 g/ngày. Theo sổ: < 3 g c, ≤ 4 g a. Rửa mũi: EPOS 2020 Bảng 1.4.1 (Ib); xịt co mạch mũi và ibuprofen chấm a (QĐ 5643/2015 Viêm mũi xoang cấp tính mục 4.2.1; AHA/ACC 2025 Bảng 11; QĐ 361/2014). Bù nước, dinh dưỡng: QĐ 1840/2025 mục III.2.2."
+    },
+    {
+     "t": "Dùng thuốc hạ sốt giảm đau có aspirin",
+     "v": "w",
+     "n": "Cúm chưa loại trừ hẳn ở người ≥ 65 tuổi: QĐ 1840/2025 mục III.2.2 không dùng aspirin vì hội chứng Reye (mới hơn QĐ 5643/2015 mục 4.3.2 có liệt kê aspirin; sổ HH-0084); thêm nguy cơ NSAID ở người cao tuổi, THA (QĐ 361/2014)."
+    },
+    {
+     "t": "Chưa cấp giấy chứng nhận sức khỏe 'bình thường' khi đang bệnh cấp và chưa khám đủ; giải thích, hẹn khám sức khỏe đầy đủ sau khi khỏi (kịp hạn nộp)",
+     "v": "c",
+     "n": "Giấy khám sức khỏe đi làm phải khám đủ chuyên khoa và cận lâm sàng theo mẫu (TT 32/2023/TT-BYT Điều 36 khoản 5; TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03 mục II–IV). Điều khoản riêng về khám sức khỏe khi đang bệnh cấp: không có trong tài liệu đã tải, suy từ mẫu (theo ghi nhận trong sổ). Hẹn sau 7 ngày: thiết kế."
+    },
+    {
+     "t": "Cấp ngay giấy chứng nhận sức khỏe 'bình thường' trong buổi này để kịp hạn",
+     "v": "w",
+     "n": "Chưa khám đủ, chưa cận lâm sàng, đang bệnh cấp; lập giấy tờ khống về kết quả khám bệnh bị cấm (Luật Khám bệnh, chữa bệnh 2023 Điều 7 khoản 10). Theo sổ: cấp giấy 'bình thường' khi đang bệnh cấp chấm w."
+    },
+    {
+     "t": "Cho về nhà tự chăm sóc, không nhập viện, không chuyển tuyến; dặn thời gian bệnh và dấu hiệu quay lại, hẹn tái khám sau khoảng 7 ngày",
+     "v": "c",
+     "n": "Ông SpO₂ 97%, thở 18, mạch 82, ăn uống được, tự theo dõi được: chăm sóc tại nhà kèm dặn thời gian bệnh và khi nào tìm trợ giúp (NICE NG237 2024 khuyến cáo 1.1.2); 'could this be sepsis?' (1.1.1): không dấu hiệu. Mốc 7 ngày: thiết kế (ACP/CDC 2016 tr. 431: quay lại nếu nặng lên hoặc quá thời gian dự kiến)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cảm lạnh (viêm hô hấp trên cấp do virus), ngày 3, mức nhẹ, chưa biến chứng; ông 66 tuổi, nhóm tuổi nguy cơ nếu là cúm (QĐ 1840/2025 mục I) nên dặn kỹ dấu hiệu quay lại",
+     "Đã loại bằng lâm sàng, không cần xét nghiệm: viêm họng liên cầu nhóm A (Centor 0, McIsaac −1), cúm mùa (khởi phát từ từ, không dịch tễ; không loại tuyệt đối vì không có test), viêm phổi (thiếu cả bốn dấu), viêm xoang vi khuẩn (mới ngày 3)",
+     "Tăng huyết áp đang điều trị amlodipin 5 mg; HA hôm nay 142/86, có thể do bệnh cấp và thuốc cảm chứa phenylephrin tự mua (kèm chlorpheniramin không hợp tuổi ông)",
+     "Lý do khám thật: cần giấy chứng nhận sức khỏe nộp hợp tác xã (hạn còn 9 ngày). Nhiễu: đòi kháng sinh; ở nhà còn nửa vỉ amoxicillin"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là cảm lạnh: hắt hơi, sổ mũi, nghẹt mũi, ho khan, khàn tiếng, cộm mắt, sốt nhẹ ngắn rồi hết; họng đỏ nhẹ, amiđan sạch, không hạch, phổi sạch (ACP/CDC 2016 tr. 427 Bảng, 431; QĐ 5643/2015 mục 3.1.1, 3.1.2).",
+     "Vì sao không liên cầu nhóm A: Centor 0; McIsaac = 0 + (−1) do tuổi ≥ 45 = −1; nhóm nguy cơ thấp (IDSA 2025 Bảng 3); có ho, sổ mũi, khàn tiếng nên không test (IDSA 2012 khuyến cáo 4).",
+     "Vì sao chưa nghĩ cúm: khởi phát từ từ, sốt tối đa 37,8 °C ngày 2 rồi hết, không rét run, không dịch tễ (QĐ 1840/2025 mục II.1.1, II.2.4.1). Nhưng ông > 65 tuổi, nhóm nguy cơ cúm nặng và có thể không điển hình (mục I, II.1.1), cơ sở không có test: dặn quay lại ngay nếu sốt cao, đau cơ, khó thở; nếu nghi cúm thì kháng virus càng sớm (mục III.2.1).",
+     "Không viêm phổi (ACP/CDC 2016 tr. 426); không viêm xoang vi khuẩn (tr. 429 Advice 3).",
+     "Dữ kiện nhiễu: HA 142/86 gợi THA mất kiểm soát, nhưng HA nhà bình thường và phenylephrin làm tăng HA (ESH 2023 Bảng 20). 'Đòi kháng sinh' bắt nguồn từ hạn nộp hồ sơ: hỏi 'ngoài bệnh ông còn cần gì' mới thấy giấy sức khỏe."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về nhà tự chăm sóc, không kháng sinh, dặn thời gian bệnh và dấu hiệu quay lại, hẹn tái khám (NICE NG237 2024 khuyến cáo 1.1.2, 1.3.1). Không nhập viện, không chuyển tuyến vì SpO₂ 97%, thở 18, mạch 82, ăn uống được; thiếu X-quang, siêu âm, test nhanh không cản trở.",
+     "Kháng sinh, hai cách đều đúng: không kê (ACP/CDC 2016 tr. 429 Advice 4; EPOS 2020 Bảng 1.4.1; IDSA 2012 khuyến cáo 4; WHO AWaRe 2022 tr. 48) hoặc điều trị như liên cầu 10 ngày theo QĐ 5643/2015 (penicillin V 3 triệu UI/ngày chia 3 lần, mục 4.3.1). Khác nhau vì QĐ 5643 (2015) phòng biến chứng liên cầu khi không xét nghiệm được, còn ACP/IDSA/WHO dựa trên dấu hiệu virus. Trả lời 'lỡ xuống phổi': phổi sạch, oxy 97%; kháng sinh không ngăn được biến chứng cảm lạnh (ACP/CDC 2016 tr. 431), còn gây tiêu chảy, phát ban (tr. 429).",
+     "Thuốc tự mua: ngưng thuốc cảm viên ghép; paracetamol đơn chất dưới 3 g/ngày (QĐ 361/2014; ≤ 4 g/ngày theo AWaRe 2022/AHA 2025 chấm a). Nửa vỉ amoxicillin: dặn bỏ.",
+     "Giấy sức khỏe: chưa cấp hôm nay vì đang bệnh cấp và chưa khám đủ mẫu (TT 25/2026 Phụ lục XXIV Mẫu số 03; TT 32/2023 Điều 36 khoản 5). Nói rõ: bệnh thường khỏi trong 1–2 tuần, khám sức khỏe sau khi khỏi vẫn kịp thứ Sáu tuần sau. Giữ amlodipin 5 mg mỗi sáng, đo lại HA khi hết bệnh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (acetaminophen)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên (500 mg) mỗi 6 giờ khi sốt hay đau họng; tối đa 5 viên (2,5 g)/24 giờ",
+      "duong": "Uống, sau ăn",
+      "thoi_diem": "Khi sốt, đau họng hay nhức đầu",
+      "so_ngay": "Khi cần, khoảng 3–5 ngày; ngừng khi hết triệu chứng",
+      "ghi_chu": "WHO AWaRe 2022 tr. 48 (500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày); người cao tuổi hoặc THA dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); uống sau ăn (QĐ 5643/2015 mục 4.3.2). Bỏ thuốc cảm viên ghép vì trùng paracetamol. Ngưỡng nhiệt độ bắt đầu hạ sốt ở người lớn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) rửa hoặc xịt mũi",
+      "ham_luong": "Dung dịch 0,9%",
+      "lieu": "Rửa hoặc xịt mũi khi nghẹt mũi, nhất là trước khi ngủ (số lần mỗi ngày: không có trong tài liệu đã tải)",
+      "duong": "Rửa hoặc xịt mũi",
+      "thoi_diem": "Sáng, tối trước khi ngủ và khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi, khoảng 5–7 ngày",
+      "ghi_chu": "EPOS 2020 Bảng 1.4.1 (Ib); thay thuốc thông mũi ở người THA (AHA/ACC 2025 Bảng 11); QĐ 5643/2015 Viêm mũi xoang cấp tính mục 4.2.1 (rửa mũi, bài viết cho viêm xoang). Thời gian 5–7 ngày: thiết kế."
+     }
+    ],
+    "dan_do": [
+     "Bệnh do virus, tự khỏi: sốt, đau họng đỡ sau 3–5 ngày (QĐ 5643/2015 mục 5.1); cả đợt đến 14 ngày, ho đến 6 tuần (ACP/CDC 2016 tr. 427, 429, 431). Ông ở ngày 3 nên còn nghẹt mũi, ho khoảng một tuần nữa là bình thường.",
+     "Lời thoại: 'Bác Tư, phổi bác sạch, oxy 97%, họng không mủ. Đây là cảm lạnh do virus, kháng sinh không chữa được cảm, chỉ thêm nguy cơ tiêu chảy, phát ban (ACP/CDC 2016 tr. 429). Thuốc cảm viên ghép bác uống có chất làm tăng huyết áp (ESH 2023 Bảng 20) và chất không hợp tuổi bác (Beers 2023 Bảng 2), bác ngưng; nửa vỉ amoxicillin ở nhà bác bỏ luôn. Bác còn việc gì gấp cần tôi giúp không?' Khi ông nói về giấy: 'Khám sức khỏe sau khi khỏi vẫn kịp thứ Sáu tuần sau.'",
+     "Tự chăm sóc: uống đủ nước, ăn cháo cơm, rửa tay xà phòng sau khi hỉ mũi, ho (cách giảm lây tốt nhất, ACP/CDC 2016 tr. 431). Tiêm vắc xin cúm khi hết bệnh (QĐ 1840/2025 mục IV.1).",
+     "Quay lại ngay (NICE NG237 2024 khuyến cáo 1.1.2) khi: sốt lại hay sốt cao, đau mình dữ dội (nghĩ cúm: ≥ 65 tuổi cần kháng virus sớm, QĐ 1840/2025 mục III.2.1); khó thở, đau ngực, ho ra máu, đờm vàng xanh kèm sốt; đau họng một bên dữ dội, khó nuốt, chảy dãi, sưng cổ (ACP/CDC 2016 tr. 428); sốt > 39 °C kèm mủ mũi hay đau mặt ≥ 3 ngày (tr. 429); lơ mơ. Tái khám sau 7 ngày: thiết kế.",
+     "Tiếp tục thuốc huyết áp (amlodipin) mỗi sáng, không tự bỏ (thuốc nền; liều và mục tiêu HA không bàn trong ca này). Đừng mua thuốc cảm có thành phần thông mũi uống."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · ngày thứ 10 của đợt bệnh (tái khám theo hẹn)",
+   "tiep_don": "Ông Nguyễn Văn Tư, 66 tuổi, quay lại đúng hẹn, đi xe máy một mình. Điều dưỡng Linh đã đo sinh hiệu: nhiệt độ 36,7 °C, mạch 74 l/p, HA 128/78 mmHg, nhịp thở 16 l/p, SpO₂ 98% khí trời, cân nặng 58 kg. Hôm nay là thứ Tư; hạn nộp hồ sơ trông kho lúa là thứ Sáu. Phòng khám vẫn chỉ làm được xét nghiệm cơ bản, không có X-quang.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển ông Tư lên bệnh viện huyện 'khám lại toàn bộ cho chắc' khi ông đã hết triệu chứng, SpO₂ 98%, phổi sạch là không cần: X-quang chỉ khi nghi viêm phổi hay suy hô hấp (QĐ 1840/2025 mục II.2.2). Ông mất cả ngày (15 km mỗi chiều) khi chỉ còn hai ngày đến hạn, phần khám và xét nghiệm đáng ra làm tại đây bị dồn sang nơi khác (thiết kế). Gửi riêng phim X-quang tim phổi cho giấy khám sức khỏe là đúng (TT 25/2026 Phụ lục XXIV Mẫu số 03 mục III.1.c).",
+    "nhap_vien": "Nhập viện theo dõi sau cảm lạnh đã khỏi hoàn toàn là quá tay: ông không sốt, không khó thở, SpO₂ 98%, thở 16 l/p, không chỉ định nào (NICE NG237 2024 khuyến cáo 1.1.2; QĐ 1840/2025 mục II.2.3 chỉ coi là nặng khi suy hô hấp hay suy cơ quan). Nằm viện làm ông lỡ hạn thứ Sáu, mất viện phí và công trông kho, củng cố niềm tin cảm lạnh là bệnh nặng, còn giấy sức khỏe vẫn chưa ai khám."
+   },
+   "loi_mo": "Chào bác sĩ, tôi hết cảm rồi, khỏe lại rồi. Hôm nay bác sĩ khám sức khỏe cho tôi luôn nghe, thứ Sáu là nộp rồi. Mà bác sĩ ơi, nghe người ta nói cảm xong phải chụp phổi kẻo sót bệnh, có đúng không?",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "128/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Làm theo dặn: sốt hết chiều ngày 3, đau họng hết ngày 5, nghẹt mũi hết ngày 8, ho khan thưa dần và hết từ hôm qua. Không sốt lại, không đờm, không khó thở. Hai hôm nay ra đồng bình thường, ăn ngủ tốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ hoàn toàn khi tái khám: đúng quỹ đạo cảm lạnh",
+     "dieu_kien_lo": "Hỏi 'từ hôm khám đến nay thế nào, từng triệu chứng hết khi nào, có sốt lại không' thì kể đủ. Hỏi chung chung chỉ nói 'tôi hết cảm rồi'."
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Đã bỏ thuốc cảm viên ghép từ hôm khám, không uống kháng sinh; ông và bà Sáu bỏ nửa vỉ amoxicillin. Paracetamol 500 mg vài viên ngày 3–4, ngừng từ ngày 5; rửa mũi nước muối đến ngày 8. Vẫn uống amlodipin 5 mg mỗi sáng. HA tự đo ở trạm y tế hai ngày nay 126–130/78–80.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ dặn dò; ngưng thuốc cảm; thuốc nền hạ áp",
+     "dieu_kien_lo": "Hỏi thuốc đã uống từ hôm khám, còn dùng thuốc gì, huyết áp đo ở đâu và bao nhiêu."
+    },
+    {
+     "id": "dau_hieu",
+     "noi_dung": "Không ho kéo dài, không ho ra máu, không sụt cân, không ra mồ hôi đêm, không sốt chiều. Đi bộ ra ruộng không hụt hơi, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu nghĩ lao hay biến chứng sau cảm",
+     "dieu_kien_lo": "Phải hỏi thẳng: còn ho không, ho ra máu, sụt cân, mồ hôi đêm, sốt chiều, khó thở khi gắng sức."
+    },
+    {
+     "id": "hoi_chup_phoi",
+     "noi_dung": "Ông nghe bạn kể 'cảm xong phải chụp phổi kẻo sót bệnh' và muốn chụp cho yên tâm. Ông chưa biết giấy khám sức khỏe có phải chụp phim hay không.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: 'phải chụp phổi sau cảm' khác với X-quang trong mẫu giấy sức khỏe"
+    },
+    {
+     "id": "giay_suc_khoe",
+     "noi_dung": "Giấy chứng nhận sức khỏe nộp chậm nhất thứ Sáu (còn 2 ngày). Ông mang CCCD, chưa biết nhóm máu. Bệnh viện huyện cách 15 km, ngày mai (thứ Năm) ông đi chụp được; sáng thứ Sáu quay lại lấy giấy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Mục đích và hạn của giấy; ràng buộc: phòng khám không có X-quang"
+    },
+    {
+     "id": "tien_su_giay",
+     "noi_dung": "Tăng huyết áp 5 năm, uống amlodipin 5 mg. Không đái tháo đường, bệnh tim, thận, gan, hen, bệnh phổi; chưa mổ. Mắt: đeo kính lão 5 năm nay, nhìn xa tốt. Tai nghe tốt. Ngáy nhẹ, vợ nói không ngừng thở khi ngủ. Không đau khớp, ngất, chóng mặt. Không hút thuốc, rượu hiếm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử theo mẫu giấy khám sức khỏe",
+     "dieu_kien_lo": "Hỏi lần lượt tiền sử bệnh, thuốc, mắt, tai, ngủ, ngất, chóng mặt, hút thuốc, rượu."
+    },
+    {
+     "id": "ngai_ghi_tha",
+     "noi_dung": "Ông sợ ghi 'tăng huyết áp' thì hợp tác xã chê già yếu, không nhận trông kho. Ông muốn xin bác sĩ 'đừng ghi chuyện huyết áp, tôi uống thuốc là bình thường rồi'. Nếu được giải thích ghi trung thực mà HA đang ổn thì ông vẫn đồng ý, nhưng lo.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Áp lực xin ghi sai tiền sử; bác sĩ phải ghi trung thực",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ bắt đầu điền hay đọc mục tiền sử bệnh, hỏi thuốc đang dùng, hoặc nói sẽ ghi tăng huyết áp. Hỏi chung chung ông chỉ nói 'tôi khỏe rồi'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, giọng rõ, da niêm hồng, môi lưỡi ẩm. BMI 21,8. Không phát ban, không phù.",
+     "k": 1,
+     "hien": "Tỉnh, giọng rõ, môi lưỡi ẩm, không tím. BMI 21,8."
+    },
+    "hong_tai_mui": {
+     "a": "Họng hồng, amiđan nhỏ, không xuất tiết. Mũi: niêm mạc hồng, không dịch. Màng nhĩ hai bên bóng. Ấn điểm xoang không đau.",
+     "k": 1,
+     "hien": "Họng hồng, amiđan nhỏ, không xuất tiết. Mũi: niêm mạc hồng, không dịch. Màng nhĩ hai bên bóng. Ấn điểm xoang không đau."
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p, đều, không co kéo. Gõ trong hai bên. Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 16 l/p, đều, không co kéo. Gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu hai bên, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 74 l/p, T1 T2 rõ, không tiếng thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "ab": 0,
+     "r": "BC 6,8 G/L · Neutrophil 56% · Lympho 32% · Hb 136 g/L · TC 242 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 56.0,
+      "neu": 3.81,
+      "lym_pct": 32.0,
+      "lym": 2.18,
+      "mono_pct": 8.0,
+      "mono": 0.54,
+      "eos_pct": 3.0,
+      "eos": 0.2,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.5,
+      "hgb": 136,
+      "hct": 0.4,
+      "mcv": 88.9,
+      "mch": 30.2,
+      "mchc": 340,
+      "rdw": 13.0,
+      "plt": 242
+     },
+     "n": "Hữu ích cho giấy khám sức khỏe, không phải để 'kiểm tra sau cảm' (TT 25/2026 Phụ lục XXIV Mẫu số 03 mục III.1.a). Bình thường."
+    },
+    "glu": {
+     "v": "u",
+     "ab": 0,
+     "r": "5,6 mmol/L (ông nhịn ăn sáng)",
+     "bang": {
+      "glu": 5.6
+     },
+     "n": "Hữu ích cho giấy khám sức khỏe (Mẫu số 03 mục III.1.a)."
+    },
+    "creat": {
+     "v": "u",
+     "ab": 0,
+     "r": "Ure 5,0 mmol/L · Creatinin 80 µmol/L · eGFR 94",
+     "bang": {
+      "ure": 5.0,
+      "creat": 80,
+      "egfr": 94
+     },
+     "n": "Hữu ích cho giấy khám sức khỏe (Mẫu số 03 mục III.1.a)."
+    },
+    "liver": {
+     "v": "u",
+     "ab": 0,
+     "r": "AST 26 · ALT 22 U/L",
+     "n": "Hữu ích cho giấy khám sức khỏe (Mẫu số 03 mục III.1.a)."
+    },
+    "ua": {
+     "v": "u",
+     "ab": 0,
+     "r": "Que nước tiểu: không protein, không glucose, không hồng cầu, bạch cầu và nitrit âm tính.",
+     "bang": {
+      "u_sg": 1.02,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Hữu ích cho giấy khám sức khỏe (Mẫu số 03 mục III.1.b)."
+    },
+    "cxr": {
+     "v": "u",
+     "ab": 0,
+     "r": "X-quang ngực thẳng (chụp ở bệnh viện huyện): tim phổi bình thường.",
+     "n": "Cơ sở không có X-quang. Cần chụp cho giấy khám sức khỏe đi làm (TT 25/2026 Phụ lục XXIV Mẫu số 03 mục III.1.c, 'XQ tim phổi thẳng'), KHÔNG để kiểm tra sau cảm lạnh đã khỏi (X-quang chỉ khi nghi viêm phổi hay suy hô hấp: QĐ 1840/2025 mục II.2.2). Hướng dẫn ông chụp ở bệnh viện huyện rồi mang phim về."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cảm lạnh (viêm hô hấp trên cấp do virus) đã khỏi hoàn toàn, ngày 10, không biến chứng",
+     "ok": 1,
+     "n": "Hết sốt ngày 3, đau họng ngày 5, nghẹt mũi ngày 8, ho ngày 9; sinh hiệu, họng, mũi, phổi bình thường. Đúng quỹ đạo cảm lạnh: sốt, đau họng đỡ sau 3–5 ngày (QĐ 5643/2015 Viêm mũi họng cấp tính mục 5.1), cả đợt đến 14 ngày (ACP/CDC 2016 tr. 427, 431)."
+    },
+    {
+     "t": "Tăng huyết áp đang điều trị bằng amlodipin 5 mg, HA 128/78, ổn sau khi ngưng thuốc cảm ghép phenylephrin",
+     "ok": 1,
+     "n": "HA về mức thường ngày sau khi bỏ thuốc thông mũi và hết bệnh cấp, phù hợp việc thuốc thông mũi làm tăng HA (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11); mức đóng góp riêng của thuốc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khám sức khỏe đi làm: lâm sàng và xét nghiệm cơ bản bình thường, ghi trung thực tăng huyết áp đang điều trị; chưa kết luận phân loại khi chưa có phim X-quang tim phổi",
+     "ok": 1,
+     "n": "Mẫu số 03 yêu cầu khám đủ chuyên khoa, cận lâm sàng gồm tế bào máu, đường, urê, creatinin, AST, ALT, nước tiểu, X-quang tim phổi thẳng, kết luận ghi bệnh tật mắc phải (TT 25/2026 Phụ lục XXIV mục II–IV; TT 32/2023/TT-BYT Điều 36 khoản 5, Điều 37 khoản 3b). Tiêu chuẩn phân loại sức khỏe: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm phổi, bệnh phổi hoặc lao phổi sau cảm",
+     "n": "Không ho, sốt, sụt cân, mồ hôi đêm; phổi sạch, SpO₂ 98%. Ho kéo dài trên 2 tuần mới là triệu chứng nghi lao quan trọng nhất (Hướng dẫn bệnh Lao 2024 Bảng 1); ông hết ho từ ngày 9."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lại diễn tiến từng triệu chứng, thuốc đã dùng từ hôm khám, huyết áp ở nhà, dấu hiệu nặng hay nghi lao; khám họng, mũi, phổi, tim",
+     "v": "c",
+     "n": "Xác nhận khỏi bằng lâm sàng: hết sốt, đau họng, ho; sinh hiệu và phổi bình thường. Quỹ đạo: QĐ 5643/2015 mục 5.1; ACP/CDC 2016 tr. 427, 429, 431. Ho quá 2 tuần mới nghĩ lao (Hướng dẫn bệnh Lao 2024 Bảng 1)."
+    },
+    {
+     "t": "Không xét nghiệm hay chụp phim 'kiểm tra sau cảm lạnh'; giải thích phim chụp (nếu có) là cho giấy sức khỏe chứ không để kiểm tra phổi",
+     "v": "c",
+     "n": "Không tài liệu đã tải nào khuyến cáo kiểm tra sau cảm lạnh đã khỏi; X-quang chỉ khi nghi viêm phổi hay suy hô hấp (QĐ 1840/2025 mục II.2.2). X-quang tim phổi nằm trong Mẫu số 03 (TT 25/2026 Phụ lục XXIV mục III.1.c)."
+    },
+    {
+     "t": "Ngưng paracetamol và nước muối vì hết triệu chứng; xác nhận đã bỏ thuốc cảm viên ghép và nửa vỉ amoxicillin; dặn không tự dùng lại cho lần cảm sau",
+     "v": "c",
+     "n": "Thuốc triệu chứng chỉ dùng khi còn triệu chứng (ACP/CDC 2016 tr. 428, 431). Kháng sinh không có chỉ định trong cảm lạnh (ACP/CDC 2016 tr. 429 Advice 4; EPOS 2020 Bảng 1.4.1). Thời điểm ngưng: không có con số trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục amlodipin 5 mg mỗi sáng, không đổi liều; dặn đo HA định kỳ ở nhà hay trạm y tế",
+     "v": "c",
+     "n": "HA 128/78 (hai tay tương đương), ổn sau khi bỏ thuốc cảm; không lý do đổi thuốc nền. Tần suất đo HA tại nhà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khám sức khỏe theo Mẫu số 03: hỏi tiền sử, thể lực (cao, nặng, BMI, mạch, HA), khám các chuyên khoa (tuần hoàn, hô hấp, tiêu hóa, thận–tiết niệu, cơ xương khớp, thần kinh, tâm thần, da, mắt, tai–mũi–họng, răng–hàm–mặt); làm xét nghiệm công thức máu, đường huyết, ure–creatinin, AST–ALT, nước tiểu",
+     "v": "c",
+     "n": "TT 25/2026 Phụ lục XXIV Mẫu số 03 mục I, II, III.1.a–b; phải khám đầy đủ từng chuyên khoa (TT 32/2023/TT-BYT Điều 36 khoản 5). Xét nghiệm đều làm được tại phòng khám. Chuyên khoa phòng khám không khám được thì gửi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn ông chụp X-quang tim phổi thẳng ở bệnh viện huyện (ngày mai), mang phim về; hẹn sáng thứ Sáu kết luận và ký giấy; giải thích chưa kết luận hôm nay vì thiếu phim",
+     "v": "c",
+     "n": "X-quang tim phổi thẳng là mục cận lâm sàng của Mẫu số 03 (mục III.1.c); phòng khám không có máy. Người kết luận ký sau khi có đủ kết quả (mục IV; TT 32/2023 Điều 37 khoản 3, 4). Gửi chụp phim, không phải chuyển tuyến vì bệnh."
+    },
+    {
+     "t": "Ghi trung thực 'tăng huyết áp đang điều trị bằng amlodipin 5 mg' vào tiền sử và tình trạng bệnh tật của giấy, giải thích với ông rằng ghi đúng và HA đang ổn",
+     "v": "c",
+     "n": "Mẫu số 03 mục tiền sử bản thân (mục 7 Tăng huyết áp; câu 3a bệnh đang điều trị, thuốc, liều) và mục IV (bệnh tật mắc phải); người có bệnh thì người kết luận tư vấn điều trị (TT 32/2023 Điều 37 khoản 3 điểm b)."
+    },
+    {
+     "t": "Bỏ ghi tăng huyết áp, hoặc ghi 'bình thường, không bệnh' theo ý ông để dễ được nhận việc",
+     "v": "w",
+     "n": "Lập giấy tờ khống hoặc làm sai lệch kết quả khám bệnh bị cấm (Luật Khám bệnh, chữa bệnh 2023 Điều 7 khoản 10); Mẫu số 03 mục IV yêu cầu ghi bệnh tật mắc phải."
+    },
+    {
+     "t": "Nhập viện theo dõi sau cảm lạnh",
+     "v": "w",
+     "n": "Ông đã khỏi, không dấu nặng (NICE NG237 2024 khuyến cáo 1.1.2; QĐ 1840/2025 mục II.2.3); không có chỉ định nhập viện."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cảm lạnh (viêm hô hấp trên cấp do virus) đã khỏi hoàn toàn ở ngày 10, không biến chứng",
+     "Tăng huyết áp đang điều trị bằng amlodipin 5 mg; HA 128/78 ổn, không cần đổi thuốc",
+     "Khám sức khỏe đi làm (Mẫu số 03): khám lâm sàng và xét nghiệm cơ bản bình thường; còn thiếu X-quang tim phổi thẳng nên chưa kết luận phân loại",
+     "Nhiễu: tin 'cảm xong phải chụp phổi'; ngại ghi tăng huyết áp vào giấy"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao đã khỏi: hết sốt ngày 3, đau họng ngày 5, nghẹt mũi ngày 8, ho ngày 9; sinh hiệu bình thường, họng, mũi, phổi sạch; đúng quỹ đạo cảm lạnh (QĐ 5643/2015 mục 5.1; ACP/CDC 2016 tr. 427, 429, 431). Không biến chứng: không nặng lên sau khi đỡ, không mủ mũi, đau mặt (tr. 429 Advice 3), không ho quá 2 tuần (Hướng dẫn bệnh Lao 2024 Bảng 1), không dấu viêm phổi (ACP/CDC 2016 tr. 426).",
+     "HA 128/78 sau khi bỏ thuốc cảm ghép phenylephrin phù hợp việc HA 142/86 lượt 1 là do bệnh cấp và thuốc (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11); mức đóng góp riêng của thuốc: không có trong tài liệu đã tải.",
+     "Hai việc cần tách: (1) kiểm tra sau cảm lạnh đã khỏi: không xét nghiệm, không X-quang (QĐ 1840/2025 mục II.2.2); chỉ khám lại nếu ho quá 2 tuần, sốt lại, khó thở; (2) khám sức khỏe đi làm: cần X-quang tim phổi thẳng vì nằm trong mẫu giấy (TT 25/2026 Phụ lục XXIV Mẫu số 03 mục III.1.c). Cùng một phim, lý do khác nhau; hỏi 'chụp để làm gì' mới phân biệt.",
+     "Mẫu số 03 cần: tiền sử, thể lực, khám chuyên khoa, xét nghiệm máu và nước tiểu, X-quang, rồi kết luận ghi bệnh tật mắc phải (mục III, IV). Phân loại sức khỏe theo tiêu chuẩn của Bộ trưởng Bộ Y tế (TT 32/2023 Điều 37 khoản 3a): không có trong tài liệu đã tải, nên không tự phân loại."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: xác nhận khỏi bằng lâm sàng, không xét nghiệm kiểm tra sau cảm; ngưng thuốc triệu chứng; giữ amlodipin; khám sức khỏe theo mẫu, xét nghiệm tại chỗ, gửi chụp X-quang tim phổi ở bệnh viện huyện, hẹn kết luận sau khi có phim; ghi trung thực tăng huyết áp (Luật KCB 2023 Điều 7 khoản 10). Không nhập viện, không chuyển tuyến vì bệnh. Lịch thứ Tư khám, thứ Năm chụp, thứ Sáu kết luận: thiết kế.",
+     "Trả lời 'phải chụp phổi sau cảm': cảm khỏi thì không chụp kiểm tra (QĐ 1840/2025 mục II.2.2); phim chụp ngày mai là mục của giấy sức khỏe (TT 25/2026 Phụ lục XXIV Mẫu số 03 mục III.1.c) – xem lời thoại ở lời dặn.",
+     "Xin ghi 'không bệnh': không làm; ghi đúng tăng huyết áp đang ổn thì giấy vẫn hợp lệ, phân loại do người kết luận theo tiêu chuẩn; che giấu là sai (Điều 7 khoản 10).",
+     "Ngưng paracetamol, nước muối khi hết triệu chứng. Vắc xin cúm mùa: nên nhắc vì > 65 tuổi (QĐ 1840/2025 mục I, IV.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg/viên",
+      "lieu": "1 viên mỗi sáng, giữ nguyên liều",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp lâu dài theo chỉ định THA",
+      "ghi_chu": "Thuốc nền đang dùng, không đổi. Chỉ định, liều và mục tiêu HA: không bàn trong ca này (ngoài phạm vi tài liệu cảm lạnh đã đọc)."
+     }
+    ],
+    "dan_do": [
+     "Ông đã khỏi cảm lạnh; không cần thêm thuốc cảm, không kháng sinh. Lần cảm sau: nước muối, nghỉ ngơi, paracetamol nếu sốt; tránh thuốc cảm có thuốc thông mũi và kháng histamin thế hệ 1 (Beers 2023 Bảng 2; ESH 2023 Bảng 20).",
+     "Lời thoại: 'Bác Tư, bác khỏi hẳn rồi. Phổi sạch, oxy 98%, không cần chụp phổi để kiểm tra cảm. Nhưng giấy sức khỏe theo mẫu cần phim phổi, nên mai bác chụp ở bệnh viện huyện, mang phim về sáng thứ Sáu tôi kết luận. Tôi ghi trung thực chuyện huyết áp: bác đang ổn nhờ thuốc, ghi đúng không làm giấy mất giá trị, giấu thì sai.'",
+     "Tiếp tục amlodipin 5 mg mỗi sáng, không tự bỏ; đo HA định kỳ ở trạm y tế. Tiêm vắc xin cúm mùa theo hướng dẫn Bộ Y tế (QĐ 1840/2025 mục IV.1; lịch tiêm: không có trong tài liệu đã tải).",
+     "Lịch: mai (thứ Năm) chụp X-quang tim phổi thẳng ở bệnh viện huyện, mang phim và CCCD về; sáng thứ Sáu kết luận và ký giấy (thiết kế)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: ông Tư nghe lý do không kháng sinh bằng số đo của ông, ngưng thuốc cảm viên ghép, bỏ nửa vỉ amoxicillin; được hỏi đúng chỗ, ông nói ra giấy sức khỏe. Sốt hết ngày 3, đau họng ngày 5, nghẹt mũi ngày 8, ho ngày 9 (QĐ 5643/2015 mục 5.1; ACP/CDC 2016 tr. 427); HA về 128/78. Lượt 2 ông hỏi chụp phổi sau cảm, được giải thích không cần cho cảm nhưng X-quang tim phổi có trong mẫu giấy; ngại ghi tăng huyết áp, được giải thích ghi trung thực vẫn hợp lệ. Giấy hoàn tất sáng thứ Sáu. (2) Xử trí chưa đúng (kháng sinh, thuốc cảm ghép, cấp giấy ngay): bệnh vẫn kéo như trên, ông thêm nguy cơ tiêu chảy, phát ban (ACP/CDC 2016 tr. 429), HA còn cao vì phenylephrin (ESH 2023 Bảng 20); giấy cấp khống phạm Luật KCB 2023 Điều 7 khoản 10.",
+ "nhieu": [
+  "Nhiễu 'đòi kháng sinh' (lần trước uống amoxicillin là hết; bạn bảo người già không trị là xuống phổi; còn nửa vỉ ở nhà). Gốc rễ là hạn nộp hồ sơ.",
+  "Thuốc cảm ghép paracetamol + chlorpheniramin + phenylephrin ở người 66 tuổi có THA (HA 142/86 hôm nay, nhà 128/80); chỉ lộ khi hỏi thuốc đã uống, xem vỏ thuốc.",
+  "Sốt 37,8 °C ngày 2 ở người > 65 tuổi gợi cúm, nhưng khởi phát từ từ, hết sốt sớm, không đau cơ, không dịch tễ; cơ sở không có test – dặn quay lại sớm.",
+  "Lý do thật: xin giấy chứng nhận sức khỏe (trông kho lúa, hạn thứ Sáu). Lượt 2: ngại ghi tăng huyết áp, nhầm 'chụp phổi sau cảm' với X-quang trong mẫu giấy.",
+  "Ràng buộc 'chỉ có xét nghiệm cơ bản': khóa X-quang, siêu âm, CT, nội soi; không test nhanh liên cầu, cúm."
+ ],
+ "bai_hoc_bien": [
+  "Cảm lạnh ở người 66 tuổi vẫn là cảm lạnh nếu không có bốn dấu nghi viêm phổi (ACP/CDC 2016 tr. 426) và không dấu cúm điển hình; Centor/McIsaac thấp thì không test liên cầu (IDSA 2025 Bảng 3; McIsaac cộng −1 từ 45 tuổi). Vì > 65 tuổi là nhóm nguy cơ cúm nặng (QĐ 1840/2025 mục I), phải dặn quay lại sớm.",
+  "Khi người bệnh đòi kháng sinh, tìm lý do thật (ở đây là hạn nộp hồ sơ), trả lời bằng số đo của chính họ và một kế hoạch cho việc họ thật sự lo; sức ép của người bệnh làm kê kháng sinh dư (ACP/CDC 2016 tr. 431).",
+  "Rà thuốc tự mua ở người cao tuổi: kháng histamin thế hệ 1 tránh từ 65 tuổi (AGS Beers 2023 Bảng 2), thuốc thông mũi làm tăng HA (ESH 2023 Bảng 20); paracetamol dưới 3 g/ngày ở người cao tuổi hoặc THA (QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+  "Tái khám khi đã khỏi: xác nhận bằng lâm sàng, không xét nghiệm hay X-quang 'kiểm tra sau cảm' (QĐ 1840/2025 mục II.2.2); phim X-quang của giấy sức khỏe là việc khác (TT 25/2026 Mẫu số 03 mục III.1.c); ghi trung thực bệnh nền (Luật KCB 2023 Điều 7 khoản 10)."
+ ],
+ "diem_nho": [
+  "Centor/McIsaac (IDSA 2025 Bảng 3): sốt ≥ 38 °C, amiđan sưng hay mủ, hạch cổ trước sưng đau, không ho (mỗi mục 1 điểm; McIsaac thêm tuổi 3–14 +1, 15–44 0, ≥ 45 −1). 0–1 điểm: nguy cơ thấp (Centor 7–12%, McIsaac 7,6–13,1%), không test.",
+  "Bốn dấu nghi viêm phổi ở người lớn khỏe < 70 tuổi: mạch > 100, thở > 24, sốt > 38 °C, khám phổi bất thường (ACP/CDC 2016 tr. 426).",
+  "Cúm nhẹ ở người > 65 tuổi: kháng virus càng sớm, oseltamivir đầu tay (QĐ 1840/2025 mục III.2.1); không aspirin (mục III.2.2). NICE NG237 2024 khuyến cáo 1.3.3: không dùng test cúm tại chỗ để quyết định kháng sinh."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Viêm mũi họng cấp tính mục 3.1.1, 3.1.2, 4.1, 4.3.1, 4.3.2, 5.1 (tr. 133–136); Viêm mũi xoang cấp tính mục 4.2.1",
+  "TL-0146 · NICE NG237 2024 (cập nhật 2025) – khuyến cáo 1.1.1, 1.1.2, 1.3.1–1.3.4",
+  "TL-0156 · ACP/CDC 2016 (Ann Intern Med 164(6):425-434) – tr. 426, 427 (Bảng), 428, 429 (Advice 3, 4), 431",
+  "TL-0140 · IDSA 2025 – nhận xét 2, Bảng 3; TL-0158 · IDSA 2012 – khuyến cáo 4; TL-0018 · WHO AWaRe 2022 – tr. 47–48; TL-0087 · EPOS 2020 – Bảng 1.4.1",
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – mục I, II.1.1, II.2.1–II.2.4, III.2.1, III.2.2, IV.1",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 – Phụ lục NSAID mục 3.3; TL-0022 · AGS Beers 2023 – Bảng 2; TL-0312 · ESH 2023 – Bảng 20; TL-0297 · AHA/ACC 2025 – Bảng 11",
+  "TL-0123 · Hướng dẫn bệnh Lao 2024 – Bảng 1; TL-0668 · TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03; TL-0669 · TT 32/2023/TT-BYT Điều 36–37; TL-0007 · Luật Khám bệnh, chữa bệnh 2023 Điều 7 khoản 10",
+  "Không có trong tài liệu đã tải: mức đóng góp riêng của phenylephrin vào HA; ngưỡng nhiệt độ hạ sốt ở người lớn; số lần rửa mũi mỗi ngày; tiêu chuẩn phân loại sức khỏe; điều khoản về khám sức khỏe khi đang bệnh cấp; mốc tái khám cố định; thời gian chờ phim; lịch tiêm vắc xin cúm"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-04 – bản 1: ca 2 lượt, điển hình, không bẫy; nam 66 tuổi nông dân; nhiễu 'đòi kháng sinh'; thuốc đang dùng amlodipin; lý do thật xin giấy chứng nhận sức khỏe (trông kho lúa); ràng buộc 'chỉ có xét nghiệm cơ bản'; kết cục ổn định khỏi bệnh. Lượt 2 tiếp diễn từ xử trí chuẩn lượt 1.",
+  "Tài liệu đã đọc lại bằng rg: các mục ghi trong `nguon` (QĐ 5643/2015, NICE NG237, ACP/CDC 2016, IDSA 2025/2012, WHO AWaRe 2022, EPOS 2020, QĐ 1840/2025, QĐ 361/2014, Beers 2023, ESH 2023, AHA/ACC 2025, Hướng dẫn bệnh Lao 2024, TT 25/2026, TT 32/2023, Luật KCB 2023).",
+  "Mâu thuẫn: không có mới; theo các mục cũ trong sổ (viêm họng đỏ cấp – HH-0182; thuốc thông mũi ở người THA – HH-0005; thuốc cảm phối hợp ≥ 65 tuổi – HH-0223; paracetamol người cao tuổi; aspirin khi cúm chưa loại trừ – HH-0084; kháng virus ≥ 65 tuổi – HH-1287; giấy khám sức khỏe khi đang bệnh cấp).",
+  "Thiết kế (không có trong tài liệu đã tải): nhân vật, nghề, hạn nộp hồ sơ, thuốc cảm ghép, nửa vỉ amoxicillin, số liệu HA nhà, kết cục, mốc tái khám 7 ngày. TT 25/2026 đánh số Mẫu 03 cho người từ 18 tuổi, TT 32/2023 gọi Mẫu 01 (bản mới thay bản cũ): ca dùng số của TT 25/2026. Không ảnh da. Không thêm mục danh mục.",
+  "Duyệt Opus 04/11/2026: sửa tỉ lệ nhóm nguy cơ thấp IDSA 2025 Bảng 3 (Centor 7–12%, McIsaac 7,6–13,1%); cắt lặp."
+ ]
+}

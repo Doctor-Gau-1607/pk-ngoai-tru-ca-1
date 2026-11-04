@@ -1,0 +1,721 @@
+{
+ "ma_ca": "HH-1245",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn 04/11/2026",
+ "benh": "HH_covid19_nhe_cao_tuoi_tu_choi_xet_nghiem",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COVID-19",
+  "chan_doan_phai_loai_tru": [
+   "Cúm mùa",
+   "Viêm phổi vi khuẩn"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Thị Lụa",
+  "tuoi": 82,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa nhỏ trước nhà: nước ngọt, bánh kẹo, hàng xén, thuốc cảm gói",
+  "can_nang": 49,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' hoặc 'bà Lụa'. Bà tự xưng 'tui', gọi 'bác sĩ'. Con trai gọi bà là 'mẹ', xưng 'con' với bà, xưng 'tôi' với bác sĩ.",
+  "tinh_cach": "Tiết kiệm, cứng đầu, nói ít và nói chậm, hay cười gạt 'già rồi thì mệt chứ bệnh gì'. Quen ngồi quầy từ 5 giờ sáng, coi nghỉ bán là chuyện lớn. Sợ kim ('lần trước rút máu bị choáng'), ngại tốn tiền của con, tin chụp phim 'tia hại người già'. Tỉnh táo, trả lời đúng, không lú lẫn.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi 'có khó thở không' thì nói 'không, thở như thường'; hỏi 'có sốt không' thì nói 'hâm hấp thôi'. Chỉ kể thật khi được hỏi theo việc làm hằng ngày (khiêng thùng nước ngọt, ra quầy, đi ra đầu hẻm) hoặc hỏi đúng tên triệu chứng (ớn lạnh, nhạt miệng). Luôn đổ cho 'trái gió trở trời, già thì mệt'.",
+  "nguoi_nha": "Con trai, anh Lộc, 54 tuổi, chạy xe ôm, chở mẹ đi khám. Hơi nóng tính, hay nói chen, lo mẹ 'có bề gì'. Anh biết: mẹ mệt, ăn kém vài ngày, cháu nội 9 tuổi ngủ chung giường với bà ho sốt trước đó 2 ngày và test nhanh ở nhà hai vạch. Anh KHÔNG biết chuyện mẹ khiêng thùng nước ngọt phải ngồi thở, chuyện mẹ tự lấy thuốc trong tiệm uống. Khi bác sĩ hỏi dịch tễ, giấy tờ, thuốc, anh thường là người trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Anh Lộc (con trai)",
+  "ngoai_hinh": {
+   "da": "#c9996e",
+   "toc": "#d8d6d2",
+   "kieuToc": "hoi",
+   "ao": "#7d8f6a",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#b88c66",
+    "toc": "#2a2420",
+    "kieuToc": "ngan",
+    "ao": "#4f5d73",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, ăn kém 3 ngày; muốn khám tổng quát",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Nguyễn Thị Lụa, 82 tuổi, bán tạp hóa nhỏ, con trai chở đến vì mệt, ăn kém 3 ngày và muốn khám tổng quát. Sinh hiệu: nhiệt độ 37,9 °C, mạch 92 l/p, HA 146/84 mmHg, nhịp thở 20 l/p, SpO₂ 96% khí trời, cân nặng 49 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Lụa SpO₂ nghỉ 96%, thở 20 l/p, tỉnh táo, nhà luôn có người, cách phòng khám 2 km: mức nhẹ điều trị tại nhà (QĐ 2671/2023 Bảng 4, tr. 32–33). Nằm viện là cách ghi nhận được khi nhà không bảo đảm, nhưng ở đây làm bà xa quầy hàng, tốn tiền của con và sợ 'bệnh nặng lắm', mà hai bước chính (kháng virus, theo dõi SpO₂) vẫn làm được ở nhà. Bà vốn ngại thủ thuật và có thể từ chối nằm viện rồi mất cả buổi khám.",
+    "chuyen_tuyen": "Đưa bà lên bệnh viện tỉnh để chụp phim, xét nghiệm máu 'cho chắc' là chưa cần: mức nhẹ không có chỉ định chụp bắt buộc (QĐ 2671 mục 5.2.1b, tr. 31) và bà đã từ chối các xét nghiệm đó. Bà mất nửa ngày, đi lại giữa nơi đông người khi còn sốt và còn lây (mục 7.1, tr. 74), có thể bị cho nằm viện hay dùng kháng sinh không cần (mục 6.8.1a, tr. 52).",
+    "theo_doi": "Giữ bà ở phòng khám vài giờ rồi cho về không thêm thông tin vì bà từ chối xét nghiệm. Điều cần là mốc theo dõi cụ thể ở nhà (SpO₂, thở, uống nước, dấu hiệu nặng) và lịch tái khám (WHO 2023 mục 3.6–3.7, tr. 36–37). Ngồi phòng khám còn làm bà tiếp xúc người khác khi đang lây."
+   },
+   "loi_mo": "Tui có bệnh gì đâu bác sĩ, già thì mệt chứ gì. Con nó bắt đi khám tổng quát cho yên bụng. Bác sĩ nghe tim nghe phổi, đo huyết áp giùm tui là được, đừng rút máu, đừng chụp phim nghe.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "146/84",
+    "nhiet": "37,9",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, ăn kém 3 ngày nay. Con trai bắt đi 'khám tổng quát' cho yên tâm; bà cũng muốn khám tổng quát vì ba năm nay chưa đi khám lần nào.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau đợt gió lạnh đầu mùa, bà ngồi quầy từ 5 giờ sáng. Ngày 1: ớn lạnh, đau mỏi người, nhức đầu nhẹ. Ngày 2: ho khan, sổ mũi, mệt, bỏ nửa bữa. Ngày 3 (hôm nay): ho khan nhiều hơn, nóng nóng, ăn nửa chén cháo. Không đau ngực, không ho ra máu, không nôn, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, triệu chứng hô hấp trên"
+    },
+    {
+     "id": "sot_run",
+     "noi_dung": "Đêm qua ớn lạnh, đắp mền vẫn run. Anh Lộc đo sáng nay 37,9 °C. Bà nói 'hâm hấp thôi, không sốt'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'có sốt không' thì bà nói 'không, hâm hấp thôi'. Hỏi có ớn lạnh, run, đắp mền không, hoặc anh Lộc kể số đo nhiệt kế thì mới rõ.",
+     "k": 1,
+     "y": "Sốt, ớn lạnh"
+    },
+    {
+     "id": "kho_tho",
+     "noi_dung": "Hôm qua bà khiêng thùng nước ngọt 12 chai từ kho ra quầy, đi được nửa đường phải ngồi xuống thở một hồi. Đi bộ ra đầu hẻm cũng thấy hụt hơi. Nằm ngủ được, không phải ngồi dậy thở.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có khó thở không' thì bà nói 'không, thở như thường'. Chỉ kể khi hỏi theo việc làm: khiêng hàng, dọn quầy, đi ra đầu hẻm có phải dừng nghỉ không, hoặc hỏi vì sao hôm qua bà nhờ con dâu bán.",
+     "k": 1,
+     "y": "Hụt hơi khi gắng sức nhẹ (hỏi theo chức năng)"
+    },
+    {
+     "id": "vi_giac",
+     "noi_dung": "Từ hôm qua bà thấy 'nhạt miệng', uống cà phê sữa buổi sáng không thấy mùi, ăn cháo cá thấy lạt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'còn khó chịu gì' thì bà nói 'ăn không ngon'. Chỉ kể khi hỏi về mùi, vị, hoặc hỏi ly cà phê sáng nay có thơm không.",
+     "k": 1,
+     "y": "Mất vị giác, khứu giác"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Cháu nội 9 tuổi ngủ chung giường với bà bị ho, sốt từ 2 ngày trước bà; anh Lộc làm test nhanh kháng nguyên SARS-CoV-2 ở nhà cho cháu, hai vạch. Mấy ngày nay nhiều khách ghé quầy mua thuốc cảm, thuốc ho gói; có người ho nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố dịch tễ"
+    },
+    {
+     "id": "ban_hang",
+     "noi_dung": "Ngày 2 và sáng ngày 3 bà vẫn ra quầy bán, cầm tiền và hàng cho khách, không đeo khẩu trang. Hôm qua mới nhờ con dâu bán thay.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà có còn đứng quầy, có tiếp khách mấy hôm nay, có đeo khẩu trang không.",
+     "k": 1,
+     "y": "Nguy cơ lây cho khách, cho gia đình"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Tăng huyết áp khoảng 5 năm. Không biết có đái tháo đường hay không vì lâu rồi không thử đường huyết. Không hút thuốc, không uống rượu. Không có bệnh phổi, tim, thận nào đã được chẩn đoán. Đã bị đau gối nhiều năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền (yếu tố nguy cơ bệnh diễn tiến nặng)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mỗi sáng uống 1 viên thuốc huyết áp 'viên trắng nhỏ' mua ở tiệm thuốc đầu chợ theo cái vỏ cũ, vỏ đã vứt, không nhớ tên. Khi đau gối uống 'thuốc xương' viên màu đỏ, 1–2 viên mỗi ngày, cũng mua theo lời tiệm thuốc, không nhớ tên. Không mang theo thuốc, anh Lộc cũng không nhớ tên. Chưa uống gì cho đợt bệnh này ngoài nước gừng.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'đang uống thuốc gì' thì bà nói 'thuốc huyết áp'. Phải hỏi từng loại, từng giờ uống, tên thuốc, có mang vỏ thuốc không thì mới kể thêm thuốc xương.",
+     "k": 1,
+     "y": "Thuốc đang dùng (không rõ tên); quyết định thuốc kháng virus"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc hay thức ăn nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc"
+    },
+    {
+     "id": "vaccine",
+     "noi_dung": "Đã tiêm 2 mũi vắc xin COVID-19 năm 2021, không tiêm nhắc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Mỗi ngày ăn được nửa chén cháo, uống ít nước, chừng một lít. Tiểu ít, nước tiểu vàng sậm. Nuốt không sặc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, mất nước"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bà không chịu rút máu ('lần trước rút máu bị choáng, mất sức'), không chịu ngoáy mũi ('đau, thử làm gì'), không chịu chụp phim ('tia hại người già'), và ngại tốn tiền của con. Chấp nhận các việc không đau, không tia: đo SpO₂, nghe khám, siêu âm, điện tim nếu giải thích rõ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Lộ ra khi bác sĩ đề nghị xét nghiệm, hoặc khi bác sĩ hỏi bà ngại điều gì khi làm xét nghiệm.",
+     "k": 1,
+     "y": "Từ chối xét nghiệm và lý do"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "(Anh Lộc kể) Bà ở nhà anh cùng vợ chồng anh và cháu nội, luôn có người ở nhà; con dâu bán quầy giúp. Nhà cách phòng khám 2 km, anh có xe máy và điện thoại. Có thẻ BHYT.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người chăm sóc, khả năng theo dõi tại nhà"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ba năm bà chưa khám lần nào. Một bà bạn cùng tuổi trong xóm mới mất đột ngột tuần trước nên bà sợ mình cũng 'đứt bóng': muốn bác sĩ nghe tim phổi, đo huyết áp một lần cho yên tâm, miễn là 'đừng rút máu, đừng chụp phim'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà mong gì ở buổi khám, bà lo điều gì nhất, hoặc vì sao đi khám đúng lúc này.",
+     "k": 1,
+     "y": "Lý do thật: muốn kiểm tra tổng quát, sợ mất đột ngột"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, định hướng đúng ngày giờ, trả lời đúng. Gầy (BMI 21,8), môi khô, da nhăn, hơi mệt. Nói câu dài vẫn trọn. Không tím, chi ấm.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, đều, không co kéo. Rung thanh đều hai bên, gõ trong. Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, đều, không co kéo cơ hô hấp phụ. Rung thanh đều, gõ trong hai phổi.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 92 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không mủ. Mũi nghẹt nhẹ, dịch trong. Lưỡi hơi khô. Không hạch cổ.",
+     "k": 0
+    },
+    "thu_khuu_giac": {
+     "a": "Không nhận ra mùi cà phê và mùi hành phi ở cả hai bên mũi; nhận mùi amoniac nồng. Bà cười: 'già mũi hư rồi'.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 146/84 mmHg, mạch 92. Đứng 1 phút 138/80 mmHg, mạch 100. Không hạ huyết áp tư thế.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, nếp mũi má cân, nâng hai tay không rơi, sức cơ 5/5, đi vững. Cổ mềm, không dấu màng não.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ chậm trong hành lang 40 m thì phải dừng một lần để thở. SpO₂ 96% → 95%, nhịp thở 24 l/p, mạch 104. Không tím. Ngồi nghỉ 2 phút về SpO₂ 96%, thở 20 l/p.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "u",
+     "r": "(Bà Lụa không đồng ý ngoáy mũi: 'đau lắm, thử làm gì'. Đã giải thích một lần, bà tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Ca nghi ngờ thành ca xác định khi có test kháng nguyên hoặc RT-PCR dương tính (QĐ 2671/2023 mục 2.2, tr. 18). Bà từ chối: tôn trọng, không ép, ghi hồ sơ. WHO 2023 mục 3.2 (tr. 18): khi không có xét nghiệm, ca có khả năng vẫn đi theo đường chăm sóc COVID-19. Test nhanh của cháu nội dương tính là dữ kiện dịch tễ, không thay cho test của bà."
+    },
+    "pcr_ho_hap": {
+     "v": "a",
+     "r": "(Bà Lụa không đồng ý ngoáy mũi họng. Ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: không đổi xử trí khi đã quyết dùng kháng virus theo lâm sàng–dịch tễ trong 5 ngày từ khởi phát (QĐ 2671 Bảng 7, tr. 37–38: 'hoặc khi có xét nghiệm dương tính')."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "(Bà Lụa không đồng ý rút máu: 'lần trước choáng, mất sức'. Ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc ở mức nhẹ. Lympho < 1 G/L là cảnh báo (QĐ 2671/2023 Bảng 4, tr. 33), nhưng không đổi hướng xử trí khi SpO₂ nghỉ 96%, thở 20 l/p."
+    },
+    "crp": {
+     "v": "a",
+     "r": "(Bà Lụa không đồng ý rút máu. Ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc. CRP > 125 mg/L là cảnh báo chuyển nơi điều trị (QĐ 2671/2023 Bảng 4, tr. 33); không có kết quả thì dùng SpO₂ gắng sức và nhịp thở làm mốc theo dõi."
+    },
+    "creat": {
+     "v": "u",
+     "r": "(Bà Lụa không đồng ý rút máu: 'không rút máu'. Ghi nhận từ chối vào hồ sơ. Không có eGFR.)",
+     "n": "Cần cho liều nirmatrelvir/ritonavir: eGFR > 60 dùng 300/100 mg, > 30–60 dùng 150/100 mg, < 30 không khuyến cáo (QĐ 2671/2023 Bảng 7, tr. 37–38). Không có eGFR thì không chỉnh được liều: phương án B là molnupiravir (Bảng 7 không nêu chỉnh liều theo eGFR)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "(Bà Lụa không đồng ý chụp phim: 'tia hại người già'. Ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc ở mức nhẹ: X-quang bình thường hoặc tổn thương ít (QĐ 2671/2023 mục 5.2.1b, tr. 31). Dùng siêu âm phổi và SpO₂ gắng sức thay thế."
+    },
+    "sa_phoi": {
+     "v": "e",
+     "ab": 1,
+     "r": "Siêu âm phổi 12 vùng: hai vùng sau dưới hai bên màng phổi dày không đều, > 2 đường B rời rạc (LUSS 1 mỗi vùng); các vùng còn lại đường A rõ, màng phổi trượt tốt. Không đông đặc, không tràn dịch. Tổng LUSS 2/36.",
+     "n": "LUSS 1 = màng phổi dày không đều, > 2 đường B rời rạc (QĐ 2671/2023 mục 4.7.1, Bảng 1, tr. 26). Tổn thương ít, phù hợp mức nhẹ (mục 5.2.1b). Bà đồng ý vì không đau, không tia: đây là phương án B thay X-quang."
+    },
+    "ecg": {
+     "v": "a",
+     "ab": 0,
+     "r": "Nhịp xoang 90 l/p, trục trung gian, không biến đổi ST–T.",
+     "n": "Không bắt buộc: không đau ngực, mạch đều 92. Tuổi 82, tăng huyết áp nên làm cũng hợp lý khi người bệnh muốn 'kiểm tra tim'."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 mức nhẹ, ngày bệnh thứ 3, có yếu tố nguy cơ bệnh diễn tiến nặng (tuổi > 60, tăng huyết áp); chẩn đoán lâm sàng – dịch tễ, chưa có xét nghiệm xác nhận",
+     "ok": 1,
+     "n": "Ca nghi ngờ: yếu tố dịch tễ (cháu nội ngủ chung, test nhanh dương tính) + ≥ 3 triệu chứng (sốt, ho, đau người, mệt, ớn lạnh, nhức đầu, chảy mũi, mất vị giác) (QĐ 2671/2023 mục 2.1a, tr. 18). Mức nhẹ: không khó thở, SpO₂ nghỉ 96%, thở 20 l/p, tỉnh (mục 5.2.1; Bảng 4, tr. 32–33). Tuổi > 60 và tăng huyết áp là yếu tố nguy cơ (Bảng 5, tr. 34). Người cao tuổi có thể biểu hiện không điển hình: mệt, kém ăn, ít sốt (WHO 2023 mục 3.4, tr. 26 và 29). Không xét nghiệm: ca có khả năng vẫn đi theo đường COVID-19 (WHO mục 3.2, tr. 18)."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Không loại trừ chắc bằng lâm sàng vì cúm cũng khởi phát đột ngột, sốt, đau mỏi, ho và có thể không điển hình ở người > 65 tuổi (QĐ 1840/2025 mục II.1.1, tr. 6). Nghiêng COVID-19 vì cháu nội ngủ chung có test dương tính và bà nhạt miệng, mất mùi. Chẩn đoán cúm cần test (không làm được vì bà từ chối); thuốc cúm xem phần xử trí."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn (kể cả bội nhiễm)",
+     "n": "Không rét run kèm đờm mủ, không đau ngực kiểu màng phổi, phổi không ran, thở 20 l/p, SpO₂ 96%, siêu âm phổi không đông đặc (QĐ 2147/2026 mục 3.1.1, tr. 15; QĐ 2671 mục 4.7.1). CRB-65 = 1 điểm do tuổi ≥ 65 (QĐ 2147/2026 mục 3.2.1, tr. 18–19); ure không đo được. Chưa loại trừ tuyệt đối vì không có phim, không có máu: dựa vào mốc theo dõi."
+    },
+    {
+     "t": "Giảm oxy máu thầm lặng / chuyển mức trung bình",
+     "n": "5–10% người bệnh giảm oxy mà không thấy khó thở (QĐ 2671 mục 3.2.1, tr. 19). Bà nói 'không khó thở' nhưng đi 40 m SpO₂ 96% → 95%, thở 24 l/p, hồi phục 96% sau 2 phút: đúng dấu hiệu cảnh báo 'SpO₂ có lúc giảm < 96% rồi hồi phục' (Bảng 4, tr. 33). Chưa đủ mức trung bình (SpO₂ nghỉ 94–96% kèm thở 22–30 l/p kéo dài; mục 5.2.2): theo dõi sát."
+    },
+    {
+     "t": "Mất nước nhẹ do kém ăn, uống ít",
+     "n": "Môi khô, lưỡi khô, tiểu ít vàng sậm, không hạ huyết áp tư thế (đứng HA 138/80, mạch +8). WHO 2023 mục 3.6 (tr. 36): bù nước phù hợp ở mức nhẹ. Lượng nước cụ thể: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị tại nhà, có người chăm và theo dõi sát (SpO₂ mỗi ngày, hẹn tái khám) HOẶC nhận vào phòng bệnh theo dõi tại cơ sở nếu nhà không bảo đảm",
+     "v": "c",
+     "n": "Mức nhẹ điều trị tại nhà (QĐ 2671/2023 Bảng 4, tr. 32–33) nhưng cùng bảng liệt kê dấu hiệu cảnh báo: SpO₂ có lúc < 96% rồi hồi phục và người có yếu tố nguy cơ; WHO 2023 mục 3.6 Remark 2–3 (tr. 36): người có yếu tố nguy cơ cần theo dõi chặt, nơi theo dõi tùy điều kiện nhà. Đây là mâu thuẫn đã có trong sổ (HH-1259): ghi cả hai cách, chọn về nhà vì nhà luôn có người, cách 2 km, có điện thoại."
+    },
+    {
+     "t": "Kháng virus trong cửa sổ 5 ngày, bắt đầu hôm nay (ngày bệnh 3): molnupiravir 800 mg × 2 lần/ngày × 5 ngày (hoặc nirmatrelvir/ritonavir nếu biết eGFR và đã rà hết thuốc, điều chưa làm được ở bà)",
+     "v": "c",
+     "n": "Mức nhẹ có yếu tố nguy cơ, trong 5 ngày từ khởi phát (QĐ 2671/2023 Bảng 6, tr. 35; Bảng 7, tr. 37–38). Nirmatrelvir/ritonavir phải chọn liều theo eGFR và 'chú ý tương tác thuốc nghiêm trọng hoặc chống chỉ định qua ức chế CYP3A4' (Bảng 7): bà từ chối creatinin và không biết tên thuốc đang uống nên không an toàn. Molnupiravir 800 mg × 2 lần/ngày (cách 12 giờ) × 5 ngày, ≥ 18 tuổi; nữ cần loại trừ thai (bà 82 tuổi, đã mãn kinh nhiều năm). EPIC-SR (TL-0163, NEJM 2024): ở nhóm nguy cơ cao đã tiêm chủng nhập viện hoặc tử vong 0,9% so với 2,2% (KTC 95% −3,3 đến 0,7), tuổi trung vị 42; số liệu riêng ≥ 75 tuổi và hiệu quả molnupiravir ngoài QĐ 2671: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng kháng virus, chỉ điều trị triệu chứng và theo dõi sát, sau khi giải thích lợi ích chưa chắc chắn",
+     "v": "a",
+     "n": "EPIC-SR (TL-0163): không rút ngắn thời gian hết triệu chứng (12 so với 13 ngày, P = 0,60), nhóm nguy cơ cao không khác biệt có ý nghĩa. Nhưng QĐ 2671 Bảng 7 chỉ định kháng virus cho người nhẹ có ≥ 1 yếu tố nguy cơ. Hai nguồn khác đối tượng và độ mạnh bằng chứng; chấp nhận cả hai (theo sổ, ghi nhận HH-1259)."
+    },
+    {
+     "t": "Kê nirmatrelvir/ritonavir liều đủ 300/100 mg × 2 lần/ngày mà chưa biết thuốc đang dùng và chưa biết eGFR",
+     "v": "w",
+     "n": "Bảng 7 (QĐ 2671, tr. 37–38): liều phụ thuộc eGFR (bà có thể thuộc nhóm > 30–60 hay < 30 không khuyến cáo) và ritonavir tương tác qua CYP3A4 với thuốc huyết áp, 'thuốc xương' chưa rõ tên. WHO 2023 mục 3.20 (tr. 105): rà soát thuốc để tránh tương tác ở người cao tuổi."
+    },
+    {
+     "t": "Hỏi từng thuốc đang uống (thuốc huyết áp, thuốc xương, thuốc tiệm), dặn mang toàn bộ thuốc và vỏ thuốc lần sau; chưa tự ý ngưng thuốc huyết áp",
+     "v": "c",
+     "n": "WHO 2023 mục 3.20 (tr. 105): rà soát đơn thuốc để giảm đa thuốc và tránh tương tác, ngưng hay chỉnh thuốc đang dùng phải cân nhắc lợi hại. Bà bán thuốc cảm gói ngay tại quầy nên cần dặn riêng không tự lấy thuốc cảm uống cùng."
+    },
+    {
+     "t": "Tôn trọng việc từ chối xét nghiệm: giải thích một lần, ghi từ chối vào hồ sơ, không ép; dùng phương án B (siêu âm phổi, SpO₂ nghỉ và gắng sức, điện tim)",
+     "v": "c",
+     "n": "Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải. Lấy mốc theo dõi thay xét nghiệm: SpO₂ và nhịp thở (QĐ 2671/2023 Bảng 4, tr. 32–33); WHO 2023 mục 3.2 (tr. 18): không có xét nghiệm vẫn xử trí ca có khả năng theo đường COVID-19."
+    },
+    {
+     "t": "Paracetamol 0,5 g × 1 viên mỗi lần khi > 38,5 °C hoặc đau mỏi, cách ít nhất 6 giờ, không quá 4 viên/ngày; uống đủ nước, ăn lỏng; bà tạm không dùng thuốc xương và thuốc cảm gói tự lấy",
+     "v": "c",
+     "n": "WHO 2023 mục 3.6 (tr. 36): hạ sốt giảm đau, dinh dưỡng, bù nước. Liều: QĐ 4235/2012 (TL-0131) mục 3.4 (0,5 g khi > 38,5 °C, ≤ 4 viên/ngày = 2 g) hoặc QĐ 361/2014 Phụ lục NSAID mục 3.3 (người cao tuổi gầy, tăng huyết áp: < 3 g/ngày) hoặc AHA/ACC 2025 Bảng 11 (< 4 g/ngày); 2 g thận trọng nhất. Kê tới 4 g/ngày chấm a (theo sổ). Thuốc xương chưa rõ tên: NSAID cần tránh nếu có thể ở người cao tuổi, tăng huyết áp (QĐ 361/2014 Phụ lục NSAID mục 3.3). Lượng nước cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 6.8.1a, Bảng 6 (tr. 36, 52): mức nhẹ không dùng kháng sinh nếu không có bằng chứng nhiễm khuẩn; WHO 2023 mục 3.6 (tr. 36): khuyến cáo không dùng."
+    },
+    {
+     "t": "Corticoid (dexamethason, prednisolon) 'cho đỡ mệt, đỡ ho'",
+     "v": "w",
+     "n": "QĐ 2671/2023 Bảng 6 (tr. 35) và mục 6.6.1a (tr. 45): mức nhẹ không dùng corticoid; dexamethason 6–12 mg chỉ cho mức nặng, nguy kịch."
+    },
+    {
+     "t": "Cách ly: ở phòng riêng, không đứng quầy; cách ly ít nhất 5 ngày từ khi có triệu chứng và đeo khẩu trang đến hết ngày 10, hoặc cách ly 10 ngày; cháu nội ngủ riêng, cả nhà đeo khẩu trang",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 7.1 (tr. 74): ≥ 5 ngày từ triệu chứng đầu, khẩu trang đến hết ngày 10 (sổ mâu thuẫn 'Thời gian cách ly COVID-19'); WHO 2023 mục 3.2 (tr. 18): 10 ngày. Bà đang ngày 3 nên cả hai đều dẫn tới ít nhất hết ngày 5–10."
+    },
+    {
+     "t": "Cho bà tiếp tục đứng quầy bán hàng vì chỉ nhẹ, đeo khẩu trang vải",
+     "v": "w",
+     "n": "Còn sốt ngày 3, đang giai đoạn lây (QĐ 2671/2023 mục I, tr. 17; mục 7.1, tr. 74); bà tiếp khách hằng ngày, có khách cao tuổi."
+    },
+    {
+     "t": "Cho người nhà mua máy đo SpO₂ (nếu có điều kiện), đo mỗi ngày, hướng dẫn cách đọc; dặn dấu hiệu quay lại ngay",
+     "v": "c",
+     "n": "WHO 2023 mục 3.7 (tr. 37): gợi ý đo SpO₂ tại nhà cho người có triệu chứng và yếu tố nguy cơ không nhập viện (khuyến cáo có điều kiện, bằng chứng rất thấp); tần suất đo: WHO không nêu. Dấu hiệu quay lại: mục 3.6 Remark (tr. 36): choáng váng, khó thở, đau ngực, mất nước; lú lẫn, môi tím, không uống được. Ngưỡng SpO₂ để quay lại: SpO₂ < 96% kèm khó thở khi vận động (QĐ 2671 Bảng 4, tr. 33)."
+    },
+    {
+     "t": "Hẹn tái khám sau 5 ngày (ngày bệnh 8) sau khi uống xong thuốc, kèm anh Lộc báo qua điện thoại mỗi ngày; đến ngay khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "Lịch 5 ngày là ca tự đề ra theo thời gian dùng kháng virus 5 ngày (QĐ 2671 Bảng 7) và mốc hết sốt 7–10 ngày (mục 3.3, tr. 22); lịch tái khám chuẩn cho người ≥ 75 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi bà mong gì ở buổi khám; nghe tim phổi, đo huyết áp cho bà yên tâm; hẹn khám tổng quát sau khi khỏi",
+     "v": "c",
+     "n": "WHO 2023 mục 3.15 (tr. 93) và QĐ 2671/2023 mục 6.13.1 (tr. 68): hỏi nhu cầu và nỗi lo, hỗ trợ tâm lý. Huyết áp 146/84 đo lúc đang sốt: chưa kết luận, đo lại khi khỏe."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 mức nhẹ, ngày bệnh thứ 3, chẩn đoán lâm sàng – dịch tễ, chưa có xét nghiệm xác nhận vì bà từ chối (QĐ 2671/2023 mục 2.1a, 5.2.1)",
+     "Có yếu tố nguy cơ bệnh diễn tiến nặng: tuổi 82, tăng huyết áp (Bảng 5, tr. 34); cờ cảnh báo: SpO₂ tụt 96% → 95% khi đi bộ (Bảng 4, tr. 33)",
+     "Mất nước nhẹ do kém ăn; thuốc đang dùng chưa rõ tên (thuốc huyết áp, 'thuốc xương')",
+     "Chưa nghĩ tới hoặc đã loại trừ trên lâm sàng: viêm phổi vi khuẩn, giảm oxy máu thầm lặng ở mức trung bình; cúm mùa không loại trừ chắc"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao nghĩ COVID-19: cháu nội ngủ chung giường test nhanh dương tính, bà có ≥ 3 triệu chứng (ớn lạnh, đau mỏi, nhức đầu, ho khan, chảy mũi, mệt, nhạt miệng) (QĐ 2671 mục 2.1a, tr. 18; 3.1, tr. 19). Mất vị giác chỉ lộ khi hỏi theo việc cụ thể (ly cà phê sáng).",
+     "Phủ nhận triệu chứng nặng: bà nói 'không khó thở, không sốt' nhưng khiêng thùng nước ngọt phải ngồi, đi 40 m SpO₂ tụt và nhịp thở 24 l/p. Hỏi theo chức năng và đo SpO₂ gắng sức mới lộ ra; 5–10% người giảm oxy thầm lặng (QĐ 2671 mục 3.2.1, tr. 19). Người cao tuổi có thể chỉ mệt, kém ăn, ít sốt (WHO 2023 mục 3.4, tr. 26, 29; QĐ 1840/2025 mục II.1.1).",
+     "Vì sao chưa là ca xác định: cần RT-PCR hoặc kháng nguyên dương tính (QĐ 2671 mục 2.2, tr. 18). Bà từ chối: ghi hồ sơ, vẫn xử trí như ca có khả năng (WHO mục 3.2, tr. 18).",
+     "Loại trừ viêm phổi vi khuẩn: không đờm mủ, không rét run rõ, phổi không ran, siêu âm phổi LUSS 2 vùng, CRB-65 = 1 do tuổi (QĐ 2147/2026 mục 3.1.1, 3.2.1; QĐ 2671 mục 4.7.1). Cúm mùa không loại trừ chắc nhưng xử trí hỗ trợ giống nhau; thuốc kháng virus cúm (oseltamivir, baloxavir: QĐ 1840/2025 mục III.2.1; WHO 2024 TL-0133) không bắt buộc ở bà vì dịch tễ nghiêng COVID-19 và bà không test được.",
+     "Lý do thật đến khám: ba năm chưa khám, sợ mất đột ngột như bà bạn trong xóm; muốn được nghe tim phổi và đo huyết áp, không muốn rút máu hay chụp phim."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng là cho về điều trị tại nhà, theo dõi sát: mức nhẹ, SpO₂ nghỉ 96%, thở 20 l/p (QĐ 2671 Bảng 4). Có dấu hiệu cảnh báo (tụt SpO₂ gắng sức, yếu tố nguy cơ) nên cần mốc theo dõi cụ thể; nhận vào phòng bệnh theo dõi cũng chấp nhận được (mục sổ HH-1259, WHO 2023 mục 3.6–3.7).",
+     "Kháng virus vì có yếu tố nguy cơ và còn trong 5 ngày từ khởi phát (QĐ 2671/2023 Bảng 7, tr. 37–38). Không biết eGFR nên không chỉnh được liều nirmatrelvir; không biết tên thuốc nên không rà được tương tác CYP3A4 của ritonavir: chọn molnupiravir 800 mg × 2 lần/ngày × 5 ngày. EPIC-SR cho thấy lợi ích chưa chắc ở nhóm nguy cơ cao đã tiêm chủng, nên không kê cũng chấp nhận được sau khi giải thích.",
+     "Không kháng sinh, không corticoid ở mức nhẹ (Bảng 6; mục 6.8.1a; mục 6.6.1a). Hạ sốt bằng paracetamol, bù nước, dinh dưỡng (WHO mục 3.6). Tạm không dùng thuốc xương chưa rõ tên; không tự uống thêm thuốc cảm gói trong quầy.",
+     "Tôn trọng từ chối xét nghiệm: giải thích một lần, ghi hồ sơ, dùng phương án B (siêu âm phổi, SpO₂ gắng sức). Cách ly và bảo vệ người nhà, nhất là cháu nội đang bệnh (QĐ 2671 mục 7.1; WHO mục 3.2).",
+     "Theo dõi thay cho xét nghiệm: máy đo SpO₂ tại nhà nếu có điều kiện (WHO mục 3.7), anh Lộc báo qua điện thoại, tái khám sau 5 ngày hoặc ngay khi có dấu hiệu nặng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Molnupiravir",
+      "ham_luong": "Theo nhãn thuốc (Bảng 7 chỉ nêu liều mỗi lần 800 mg)",
+      "lieu": "800 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Hôm nay, cách nhau 12 giờ",
+      "so_ngay": "5 ngày (10 liều)",
+      "ghi_chu": "QĐ 2671/2023 Bảng 7 (tr. 37–38): ≥ 18 tuổi, mức nhẹ–vừa có nguy cơ chuyển nặng, trong 5 ngày từ khởi phát; nữ loại trừ thai (bà đã mãn kinh). Thay thế: nirmatrelvir/ritonavir khi biết eGFR (> 60: 300/100 mg; > 30–60: 150/100 mg; < 30 không khuyến cáo) và đã rà thuốc (Bảng 7)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1 viên mỗi lần, không quá 4 viên mỗi ngày (2 g)",
+      "duong": "Uống",
+      "thoi_diem": "Khi nhiệt độ > 38,5 °C hoặc đau mỏi, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Khi cần, ngưng khi hết sốt",
+      "ghi_chu": "QĐ 4235/2012 mục 3.4 (2 g/ngày); QĐ 361/2014 Phụ lục NSAID mục 3.3 (người cao tuổi gầy < 3 g/ngày); AHA/ACC 2025 Bảng 11 (< 4 g/ngày). Chọn 2 g/ngày vì thận trọng nhất. Ngừng thuốc cảm gói có paracetamol để khỏi cộng dồn. Uống đủ nước, ăn cháo súp: WHO 2023 mục 3.6, lượng cụ thể không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bà bị COVID-19 thể nhẹ nhiều khả năng. Bà chưa thử nên bác sĩ kết luận qua hỏi, khám, siêu âm phổi và việc cháu nội đã dương tính; không ép xét nghiệm, bà đổi ý lúc nào cũng được.",
+     "Uống molnupiravir đủ 10 liều trong 5 ngày dù đã đỡ (QĐ 2671 Bảng 7). Mang đến lần sau TẤT CẢ thuốc và vỏ thuốc đang uống (thuốc huyết áp, thuốc xương). Chưa uống thuốc xương, không tự lấy thuốc cảm gói trong quầy uống thêm.",
+     "Ở phòng riêng, đeo khẩu trang, không đứng quầy, ít nhất 5 ngày từ lúc có triệu chứng và đeo khẩu trang đến hết ngày 10, hoặc cách ly đủ 10 ngày (QĐ 2671 mục 7.1; WHO mục 3.2). Cháu nội ngủ riêng.",
+     "Đo SpO₂ mỗi ngày nếu có máy. Đến ngay khi khó thở, tức ngực, choáng váng, môi tím, lú lẫn, không uống được, sốt cao không hạ (WHO mục 3.6; QĐ 2671 Bảng 4), kể cả khi bà nói 'không sao'.",
+     "Tái khám sau 5 ngày (mốc tự đề ra, ứng với đợt thuốc 5 ngày, QĐ 2671 Bảng 7); anh Lộc nhắn hoặc gọi mỗi ngày. Khám tổng quát và đo lại huyết áp sau khi khỏi."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Bà Lụa tái khám ngày bệnh thứ 8, nói đã làm theo dặn, thấy khỏe, muốn khám tổng quát tiếp. Sinh hiệu: nhiệt độ 36,8 °C, mạch 80 l/p, HA 138/78 mmHg, nhịp thở 18 l/p, SpO₂ 97% khí trời.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Lụa đã hết sốt 3 ngày, SpO₂ 97% cả khi đi bộ, thở 18 l/p, phổi sạch, siêu âm phổi tốt: đã khỏi mức nhẹ (QĐ 2671/2023 Bảng 4, tr. 32–33; mục 3.3, tr. 22). Nhập viện chỉ vì hai việc bà làm sai (thuốc cảm, ra quầy) thì tốn tiền, mất ngày bán, mà không có chỉ định y khoa nào. Bà sẽ sợ nói thật với bác sĩ lần sau.",
+    "chuyen_tuyen": "Đưa bà lên tuyến trên để làm 'tổng quát' ngay sau khi vừa khỏi, trong khi bà từ chối rút máu và chụp phim, chỉ làm bà mất niềm tin và đi lại giữa nơi đông người khi chưa hết ngày 10 (QĐ 2671 mục 7.1, tr. 74). Không có triệu chứng mới để chuyển (WHO 2023 mục 3.22, tr. 108).",
+    "theo_doi": "Giữ bà ở phòng khám để theo dõi thêm không thêm gì: bà đã khỏi theo tiêu chí chức năng. Điều cần là sửa thuốc ngoài đơn, nhắc cách ly đến hết ngày 10 và hẹn khám tổng quát khi bà sẵn sàng."
+   },
+   "loi_mo": "Khỏe rồi bác sĩ ơi, hết sốt mấy bữa nay. Con nó cứ bắt tui đi khám lại. Bác sĩ coi cho tui bán hàng lại được chưa, nghỉ hoài mất khách.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "138/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hẹn tái khám, ngày bệnh thứ 8: đã đỡ nhiều, 'bà thấy khỏe rồi'. Anh Lộc muốn bác sĩ khám lại cho chắc và cho phép bà bán hàng lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hết sốt từ ngày bệnh 5, không dùng hạ sốt từ ngày 6. Ho còn nhẹ buổi sáng, đờm trắng ít. Ăn cơm mỗi bữa nửa đến một chén, uống nước nhiều. Vị giác trở lại dần, cà phê sáng nay thấy thơm. Đi ra đầu hẻm không phải dừng; sáng nay khiêng được một thùng nước ngọt không hụt hơi. Không đau ngực, không chóng mặt, ngủ được. Anh Lộc đo SpO₂ ở nhà mỗi ngày: 96–97%.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí xác nhận khỏi: sốt, thở, SpO₂, ăn uống, sinh hoạt"
+    },
+    {
+     "id": "thuoc_don",
+     "noi_dung": "Bà uống molnupiravir đủ 10 liều trong 5 ngày, không bỏ liều; tiêu lỏng nhẹ một ngày ở ngày 5 rồi hết. Paracetamol đơn chỉ uống ngày 3 và ngày 4.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và tác dụng phụ kháng virus"
+    },
+    {
+     "id": "thuoc_tiem",
+     "noi_dung": "Ngày 4 và ngày 5 bà thấy nhức mỏi, tự lấy gói thuốc cảm trong quầy (mỗi gói ghi paracetamol 325 mg và clorpheniramin 2 mg), uống 4 gói mỗi ngày, cùng lúc vẫn uống paracetamol 0,5 g của bác sĩ 4 viên: khoảng 3,3 g paracetamol mỗi ngày trong 2 ngày. Bà ngủ li bì, khô miệng, không té, không chóng mặt. Ngày 4 bà cũng uống lại thuốc xương 2 viên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ngoài đơn có uống gì thêm không, có lấy thuốc trong quầy không, hoặc khi anh Lộc phát hiện vỏ gói thuốc cảm trong thùng rác. Hỏi chung 'có uống thuốc gì khác không' thì bà nói 'không'.",
+     "k": 1,
+     "y": "Thuốc ngoài đơn, trùng paracetamol (near miss)"
+    },
+    {
+     "id": "ban_hang",
+     "noi_dung": "Ngày 5 và ngày 6 bà ra quầy bán nửa buổi sáng vì con dâu đi chợ, đeo khẩu trang vải hay tụt xuống cằm, cầm tiền và hàng cho khách. Bà ngại nói vì sợ bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà đã nghỉ bán thật chưa, ai đứng quầy mấy hôm nay.",
+     "k": 1,
+     "y": "Không tuân thủ cách ly (near miss)"
+    },
+    {
+     "id": "tui_thuoc",
+     "noi_dung": "Anh Lộc mang túi thuốc theo dặn. Thuốc huyết áp: amlodipin 5 mg, 1 viên mỗi sáng. 'Thuốc xương' viên đỏ: diclofenac 50 mg, bà uống 1–2 viên mỗi ngày khi đau gối, có hôm uống mỗi ngày cả tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhận diện thuốc đang dùng; NSAID ở người cao tuổi"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bà vẫn không chịu rút máu và ngoáy mũi: 'khỏe rồi, thử làm gì cho tốn'. Đồng ý siêu âm phổi vì lần trước không đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm lần hai"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Bà hỏi 'khám tổng quát' vẫn chưa được làm. Bà vẫn sợ đột ngột như bà bạn trong xóm; thấy khỏe thì bà chỉ cần nghe tim phổi, đo huyết áp lần nữa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà còn lo điều gì, hoặc nhắc lại buổi khám tổng quát.",
+     "k": 1,
+     "y": "Nỗi lo còn lại, nhu cầu kiểm tra tổng quát"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui, nói chuyện nhiều. Môi hồng ẩm, không tím. BMI 21,8.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, đều. Rung thanh đều hai bên, gõ trong. Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, đều, không co kéo cơ hô hấp phụ. Rung thanh đều, gõ trong hai phổi.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 80 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "thu_khuu_giac": {
+     "a": "Nhận ra mùi cà phê và hành phi ở cả hai bên mũi, hơi nhạt so với bình thường.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/78 mmHg, mạch 80. Đứng 1 phút 134/78 mmHg, mạch 84. Không hạ huyết áp tư thế.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau ở thượng vị.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi hành lang 3 phút (khoảng 80 m), không phải dừng. SpO₂ 97% → 97%, nhịp thở 18 l/p, mạch 90, không khó thở.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "a",
+     "r": "(Bà Lụa không đồng ý ngoáy mũi lần hai: 'khỏe rồi'. Ghi nhận từ chối.)",
+     "n": "Không cần để kết thúc cách ly: không làm xét nghiệm lại thì cách ly ≥ 5 ngày từ triệu chứng và đeo khẩu trang hết ngày 10 (QĐ 2671/2023 mục 7.1, tr. 74). Test dương tính kéo dài không đổi xử trí."
+    },
+    "sa_phoi": {
+     "v": "a",
+     "ab": 0,
+     "r": "Siêu âm phổi 12 vùng: đường A rõ, màng phổi trượt tốt ở cả 12 vùng; còn 1 vùng sau dưới phải vài đường B đơn độc. Không đông đặc, không tràn dịch. Tổng LUSS 0–1/36.",
+     "n": "Diễn biến tốt lên: số đường B giảm dần, đường A xuất hiện trở lại, đường màng phổi bình thường (QĐ 2671/2023 mục 4.7.1, tr. 25–26). Không cần để kết luận khỏi nhưng bà đồng ý và muốn 'nghe thấy mình ổn'."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 mức nhẹ, ngày bệnh thứ 8, đã khỏi lâm sàng; đã dùng đủ 5 ngày molnupiravir",
+     "ok": 1,
+     "n": "Hết sốt từ ngày 5, SpO₂ nghỉ 97% và gắng sức 97%, thở 18 l/p, ăn uống, sinh hoạt như cũ, phổi không ran, siêu âm phổi hồi phục. Giai đoạn hồi phục: nhẹ hết sốt sau 7–10 ngày, có thể mệt kéo dài (QĐ 2671/2023 mục 3.3, tr. 22)."
+    },
+    {
+     "t": "Tác dụng phụ kháng virus hoặc thuốc ngoài đơn",
+     "n": "Tiêu lỏng nhẹ một ngày đã hết. Ngủ li bì, khô miệng ngày 4–5 phù hợp thuốc cảm gói có clorpheniramin, kháng histamin thế hệ 1 cần tránh ở người cao tuổi (AGS Beers 2023 Bảng 2). Ngoài đơn: paracetamol cộng dồn khoảng 3,3 g/ngày trong 2 ngày, vượt mức 2 g và < 3 g thận trọng ở người cao tuổi (QĐ 361/2014 Phụ lục NSAID mục 3.3; QĐ 4235/2012 mục 3.4)."
+    },
+    {
+     "t": "Diclofenac (NSAID) dùng thường xuyên ở người cao tuổi tăng huyết áp",
+     "n": "Người cao tuổi, gầy, tăng huyết áp: tránh NSAID nếu có thể, dùng acetaminophen < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3). Chưa biết chức năng thận vì bà từ chối creatinin; đau dạ dày: chưa có."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kết luận khỏi lâm sàng; không xét nghiệm hay chụp phim kiểm tra thường quy; chỉ làm khi ho dai dẳng, khó thở, sốt lại hay triệu chứng mới",
+     "v": "c",
+     "n": "Tiêu chí khỏi: hết sốt, SpO₂ ≥ 96% khi nghỉ và gắng sức, thở 12–21 l/p, tỉnh, tự phục vụ (QĐ 2671/2023 Bảng 4, tr. 32–33; mục 3.3, tr. 22). WHO 2023 mục 3.22 (tr. 108): người có triệu chứng dai dẳng, mới hay thay đổi cần theo dõi tiếp. Chỉ định chụp lại phim sau thể nhẹ đã khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng molnupiravir (đã đủ 5 ngày) và ngưng paracetamol; không kê thêm kháng virus, kháng sinh hay corticoid",
+     "v": "c",
+     "n": "Molnupiravir 5 ngày (QĐ 2671/2023 Bảng 7, tr. 37–38); kháng sinh và corticoid chỉ cho mức nặng hoặc có bằng chứng nhiễm khuẩn (mục 6.8.1a, tr. 52; mục 6.6.1a, tr. 45)."
+    },
+    {
+     "t": "Hỏi lại mọi thuốc ngoài đơn; giải thích gói thuốc cảm trong quầy trùng paracetamol và có clorpheniramin; dặn không dùng chung; thay diclofenac bằng paracetamol khi đau gối nếu có thể; tiếp tục amlodipin",
+     "v": "c",
+     "n": "Paracetamol: 2 g, < 3 g hoặc < 4 g/ngày; 2 g thận trọng nhất (sổ 'Liều paracetamol tối đa ở người cao tuổi'; QĐ 4235/2012 mục 3.4; QĐ 361/2014 Phụ lục NSAID mục 3.3; AHA/ACC 2025 Bảng 11). Kháng histamin thế hệ 1: tránh ở người cao tuổi (AGS Beers 2023 Bảng 2). WHO 2023 mục 3.20 (tr. 105): rà soát thuốc. Không đổi liều thuốc huyết áp hôm nay; mục tiêu huyết áp: không đưa vào ca này."
+    },
+    {
+     "t": "Cách ly: ngày 8 chưa hết ngày 10, tiếp tục đeo khẩu trang đúng cách (che mũi miệng) khi tiếp khách đến hết ngày 10 (QĐ 2671) hoặc ở nhà đủ 10 ngày (WHO); nhắc con dâu, anh Lộc và cháu nội",
+     "v": "c",
+     "n": "QĐ 2671/2023 mục 7.1 (tr. 74): ≥ 5 ngày từ triệu chứng, khẩu trang hết ngày 10; WHO 2023 mục 3.2 (tr. 18): 10 ngày (sổ 'Thời gian cách ly COVID-19'). Hai ngày bà ra quầy ngày 5–6 là lúc chưa hết 5 ngày; không có dữ liệu lây trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhận ra việc bà ra quầy và uống thêm thuốc; nói không trách, tìm lý do (con dâu đi chợ, ngại làm phiền); thống nhất người đứng quầy lần sau",
+     "v": "c",
+     "n": "Hỗ trợ tâm lý xã hội và hỏi nhu cầu (QĐ 2671/2023 mục 6.13.1, tr. 68; WHO 2023 mục 3.15, tr. 93)."
+    },
+    {
+     "t": "Cho bà bán hàng lại bình thường, không khẩu trang, vì đã khỏi",
+     "v": "w",
+     "n": "Chưa hết ngày 10 (QĐ 2671 mục 7.1). Virus vẫn có thể phát tán khoảng 8 ngày từ khởi phát (QĐ 2671 mục I, tr. 17)."
+    },
+    {
+     "t": "Kê kháng sinh, corticoid hoặc kéo dài kháng virus 'cho sạch virus'",
+     "v": "w",
+     "n": "QĐ 2671/2023 Bảng 6 (tr. 35–36): không dùng kháng sinh, corticoid ở mức nhẹ; molnupiravir 5 ngày (Bảng 7)."
+    },
+    {
+     "t": "Nhắc lại đề nghị rút máu, ngoáy mũi một lần; bà vẫn từ chối thì ghi nhận, không ép; hẹn khám tổng quát (đo huyết áp, hỏi triệu chứng) sau 2–4 tuần nếu bà muốn",
+     "v": "c",
+     "n": "Tôn trọng quyền tự quyết. WHO 2023 mục 3.22 (tr. 108): theo dõi người có triệu chứng kéo dài hay thay đổi. Số tuần hẹn khám tổng quát: không có trong tài liệu đã tải, ca tự đề ra."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại: sốt lại, khó thở, tức ngực, ho kéo dài hơn 2–3 tuần, mệt kéo dài; tiêm nhắc vắc xin: bác sĩ có thể bàn",
+     "v": "c",
+     "n": "WHO 2023 mục 3.22 (tr. 108): triệu chứng dai dẳng, mới hay thay đổi cần theo dõi; mệt kéo dài (QĐ 2671 mục 3.3, tr. 22). Lịch tiêm nhắc vắc xin COVID-19 cho người ≥ 75 tuổi: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 mức nhẹ, ngày bệnh thứ 8, đã khỏi lâm sàng sau 5 ngày molnupiravir (QĐ 2671/2023 mục 3.3, Bảng 7)",
+     "Đã dùng thuốc ngoài đơn trùng paracetamol, có clorpheniramin; dùng diclofenac ở người cao tuổi tăng huyết áp",
+     "Đã đứng quầy ngày 5–6 khi chưa hết thời gian cách ly",
+     "Lo lắng sức khỏe tổng quát, sợ mất đột ngột"
+    ],
+    "phan_tich_chan_doan": [
+     "Xác nhận khỏi bằng chức năng, không bằng xét nghiệm: hết sốt từ ngày 5 không cần hạ sốt, SpO₂ nghỉ và gắng sức 97%, thở 18 l/p, ăn uống và khiêng thùng nước ngọt như cũ, phổi sạch (QĐ 2671 mục 3.3; Bảng 4). Hỏi theo việc làm là cách duy nhất bắt được người phủ nhận.",
+     "Lộ near miss khi hỏi riêng: bà uống thêm 4 gói thuốc cảm mỗi ngày trong 2 ngày (paracetamol cộng dồn khoảng 3,3 g, vượt mức < 3 g của QĐ 361/2014 Phụ lục NSAID mục 3.3; clorpheniramin gây ngủ li bì, AGS Beers 2023 Bảng 2) và ra quầy bán 2 buổi sáng. May là không tổn thương gan, không té, không lây ai biết được; nhưng cách làm đó vẫn sai.",
+     "Tránh NSAID dài ngày ở người cao tuổi tăng huyết áp (QĐ 361/2014 Phụ lục NSAID mục 3.3); không biết chức năng thận vì bà từ chối.",
+     "Không cần xét nghiệm hay chụp phim kiểm tra khi đã khỏi; chỉ làm khi có triệu chứng mới (WHO 2023 mục 3.22). Chỉ định chụp lại phim: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Kết thúc điều trị: molnupiravir đủ 5 ngày (QĐ 2671 Bảng 7), ngưng paracetamol, không kê thêm gì. Không kháng sinh, corticoid (Bảng 6, tr. 35–36).",
+     "Cách ly: hôm nay ngày 8, chưa hết ngày 10: tiếp tục đeo khẩu trang đúng cách (QĐ 2671 mục 7.1) hoặc ở nhà đủ 10 ngày (WHO mục 3.2).",
+     "Sửa thói quen thuốc: gói thuốc cảm trùng paracetamol, clorpheniramin tránh ở người cao tuổi (AGS Beers 2023 Bảng 2), diclofenac chuyển sang paracetamol nếu có thể, giữ amlodipin; tối đa paracetamol 2 g/ngày theo mức thận trọng nhất.",
+     "Không trách bà; cùng tìm cách có người đứng quầy; hẹn khám tổng quát nếu bà muốn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi sáng (như cũ)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp, không đổi liều hôm nay",
+      "ghi_chu": "Thuốc bà đang dùng, nhận diện từ túi thuốc anh Lộc mang. Chỉnh liều, mục tiêu huyết áp: không có trong tài liệu đã tải theo vị trí đã kiểm; đo lại huyết áp tại nhà."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1 viên khi đau gối hoặc đau mỏi, không quá 4 viên mỗi ngày (2 g)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, cách nhau ít nhất 6 giờ; thay diclofenac",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 4235/2012 mục 3.4 (2 g/ngày); QĐ 361/2014 Phụ lục NSAID mục 3.3 (< 3 g/ngày, tránh NSAID nếu có thể ở người cao tuổi, tăng huyết áp); AHA/ACC 2025 Bảng 11 (< 4 g/ngày). Không uống thuốc cảm gói cùng lúc."
+     }
+    ],
+    "dan_do": [
+     "Bà đã khỏi, không cần thử nghiệm hay chụp phim thêm; bà vẫn có quyền đổi ý nếu muốn yên tâm. Nếu sốt lại, khó thở, tức ngực, ho dai dẳng hoặc mệt kéo dài, quay lại (WHO 2023 mục 3.22; QĐ 2671 mục 3.3).",
+     "Đeo khẩu trang đúng cách (che kín mũi miệng) khi tiếp khách đến hết ngày bệnh thứ 10, hoặc ở nhà đủ 10 ngày; cả nhà cũng vậy vì cháu nội mới khỏi (QĐ 2671 mục 7.1; WHO mục 3.2).",
+     "Không tự lấy thuốc cảm gói trong quầy uống thêm; mỗi lần uống thuốc, hỏi bác sĩ hoặc dược sĩ; đưa vỏ thuốc xương và thuốc huyết áp cho bác sĩ xem mỗi lần khám.",
+     "Đau gối dùng paracetamol theo đơn thay diclofenac. Uống thuốc huyết áp đều mỗi sáng.",
+     "Hẹn khám tổng quát sau 2–4 tuần nếu bà đồng ý (đo huyết áp, hỏi bệnh; xét nghiệm nếu bà đổi ý). Lịch tiêm nhắc vắc xin: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Lụa uống đủ molnupiravir, hết sốt từ ngày 5, khỏi hoàn toàn ở ngày 8, SpO₂ 97% cả khi đi bộ, không cần xét nghiệm hay chụp phim. Nhưng khi hỏi riêng, bà đã uống 4 gói thuốc cảm trong quầy mỗi ngày ở ngày 4–5 cùng paracetamol của bác sĩ (khoảng 3,3 g paracetamol mỗi ngày, thêm clorpheniramin gây ngủ li bì), uống lại diclofenac, và ra quầy bán hai buổi sáng với khẩu trang tụt. Không ai bị lây theo cách biết được, bà không tổn thương gan, không té ngã. Bài học near miss: kết cục tốt không hợp thức hóa cách làm sai; khỏi là nhờ virus tự giới hạn và bà may mắn, không phải vì quy trình đúng. Việc cần làm lần sau: hỏi riêng mọi thuốc ngoài đơn ở mọi lượt, dặn rõ người bán thuốc cũng không được tự uống thuốc trong quầy.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: bà nói 'không khó thở, không sốt' dù khiêng thùng nước ngọt phải ngồi, đi 40 m SpO₂ tụt 96% → 95%, thở 24 l/p. Hỏi theo chức năng (khiêng hàng, ra đầu hẻm, ly cà phê sáng) mới lộ ra. Bẫy: dựa vào lời bà 'không sao' mà cho về không mốc theo dõi.",
+  "Từ chối xét nghiệm: bà từ chối rút máu, ngoáy mũi, chụp phim vì sợ kim, sợ tia, ngại tốn tiền; chỉ nhận siêu âm, SpO₂, điện tim. Hệ quả: không có eGFR nên không chỉnh được liều nirmatrelvir; không biết tên thuốc nên không rà được CYP3A4. Bẫy: kê nirmatrelvir/ritonavir liều đủ vì 'chỉ định cho người >60 tuổi'.",
+  "Lý do thật là muốn kiểm tra tổng quát (sợ mất đột ngột như bà bạn trong xóm): chỉ lộ khi hỏi bà mong gì. Ở lượt 2 bà giấu việc uống thuốc cảm gói (bà bán thuốc cảm trong quầy) và việc ra quầy; chỉ lộ khi hỏi riêng."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi biểu hiện không điển hình (mệt, kém ăn, ít sốt, mất vị giác bị cho là 'già mũi hư'); hỏi theo chức năng và đo SpO₂ gắng sức thay vì hỏi cảm giác (WHO 2023 mục 3.4, tr. 26, 29; QĐ 2671 mục 3.2.1). Tài liệu đã tải không có số liệu thử nghiệm riêng cho nhóm này: ghi Applicability Note.",
+  "Kháng virus cho người có yếu tố nguy cơ trong 5 ngày từ khởi phát (QĐ 2671 Bảng 7); nirmatrelvir/ritonavir cần eGFR và rà tương tác CYP3A4, nên khi người bệnh từ chối xét nghiệm và không rõ thuốc thì có phương án B là molnupiravir hoặc không dùng sau khi giải thích EPIC-SR.",
+  "Tôn trọng quyền từ chối: giải thích một lần, ghi hồ sơ, đề xuất phương án B (siêu âm phổi, SpO₂ gắng sức, điện tim, theo dõi tại nhà có mốc); không ép, không để người bệnh bỏ đi.",
+  "Ca đỡ hoàn toàn khi tái khám: xác nhận khỏi bằng tiêu chí chức năng (hết sốt không dùng hạ sốt, SpO₂ nghỉ và gắng sức ≥ 96%, thở 12–21 l/p, ăn uống và sinh hoạt như cũ); ngưng thuốc khi đủ 5 ngày; không cần xét nghiệm hay chụp phim kiểm tra thường quy, chỉ khi triệu chứng dai dẳng, mới hay thay đổi (WHO 2023 mục 3.22). Cách ly đến hết ngày 10.",
+  "Kết cục tốt không hợp thức hóa cách làm sai (near miss): hỏi riêng mọi thuốc ngoài đơn, đặc biệt người bán thuốc cảm ngay tại quầy; trùng paracetamol, clorpheniramin và NSAID ở người cao tuổi tăng huyết áp."
+ ],
+ "diem_nho": [
+  "Phân độ COVID-19 (QĐ 2671/2023 mục 5.2, Bảng 4): nhẹ SpO₂ ≥ 96%, thở 12–21 l/p; trung bình SpO₂ 94–96%, thở 22–30 l/p; nặng SpO₂ < 94%. WHO 2023: nặng khi SpO₂ < 90%, nhưng 90–94% ở người đang xấu đi có thể là dấu sớm.",
+  "Kháng virus (QĐ 2671 Bảng 7): nirmatrelvir/ritonavir trong 5 ngày kể từ khởi phát, 300/100 mg × 2 lần/ngày khi eGFR > 60, 150/100 mg khi eGFR > 30–60, không khuyến cáo khi eGFR < 30 hay suy gan nặng, chú ý tương tác CYP3A4; molnupiravir 800 mg × 2 lần/ngày × 5 ngày cho ≥ 18 tuổi, nữ loại trừ thai.",
+  "Cách ly: ≥ 5 ngày từ triệu chứng đầu và khẩu trang hết ngày 10 (QĐ 2671 mục 7.1) hoặc 10 ngày (WHO 2023 mục 3.2).",
+  "Paracetamol người cao tuổi: 2 g (QĐ 4235/2012), < 3 g (QĐ 361/2014), < 4 g (AHA/ACC 2025); 2 g thận trọng nhất. Kháng histamin thế hệ 1 (clorpheniramin) tránh ở người cao tuổi (AGS Beers 2023 Bảng 2)."
+ ],
+ "nguon": [
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 – COVID-19 – mục I (tr. 17), 2.1–2.2 (tr. 18), 3.1–3.3 (tr. 19–22), 4.7.1 và Bảng 1 (tr. 25–26), 5.2.1–5.2.2 (tr. 31), Bảng 4–7 (tr. 32–38), 6.6.1 (tr. 45), 6.8.1 (tr. 52), 6.13.1 (tr. 68), 7.1 (tr. 74)",
+  "TL-0135 · WHO 2023 – Clinical management of COVID-19: living guideline, 18/08/2023 – mục 3.2 (tr. 18), 3.4 (tr. 26, 29), 3.6 (tr. 36), 3.7 (tr. 37), 3.15 (tr. 93), 3.20 (tr. 105), 3.22 (tr. 108)",
+  "TL-0163 · EPIC-SR, NEJM 2024;390:1186 – Abstract và Results (thời gian hết triệu chứng; nhập viện/tử vong nhóm nguy cơ cao; tác dụng phụ)",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – Viêm phổi mắc phải cộng đồng người lớn – mục 3.1.1 (tr. 15), 3.2.1 (tr. 18–19); TL-0122 · QĐ 1840/QĐ-BYT 2025 – Cúm mùa – mục II.1.1 (tr. 6), III.2.1 (tr. 9); TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (BMJ 2026)",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 – Phụ lục NSAID mục 3.3; TL-0131 · QĐ 4235/QĐ-BYT 2012 – Viêm phổi bệnh viện mục 3.4; TL-0297 · AHA/ACC 2025 Hypertension – Bảng 11; TL-0022 · AGS Beers 2023 – Bảng 2 (kháng histamin thế hệ 1)",
+  "Không có trong tài liệu đã tải: tương tác cụ thể giữa ritonavir và từng thuốc huyết áp, NSAID; hiệu quả molnupiravir ngoài QĐ 2671; lịch tái khám chuẩn cho người ≥ 75 tuổi; chỉ định chụp lại phim sau COVID-19 nhẹ đã khỏi; lịch tiêm nhắc vắc xin; quy định bán hàng khi cách ly; thủ tục ghi nhận từ chối xét nghiệm"
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết 2026-11-04. Tài liệu đã đọc: QĐ 2671/2023 (TL-0124) mục 2–7, Bảng 4–7 (đối chiếu bản chữ); WHO 2023 (TL-0135) mục 3.4, 3.6, 3.7, 3.20, 3.22; EPIC-SR (TL-0163); QĐ 1840/2025 (TL-0122) mục II–III; QĐ 2147/2026 (TL-0121) mục 3.2.1; đối chiếu ca HH-1255, HH-1259, HH-1269.",
+  "Dùng mục sổ mâu thuẫn có sẵn: nơi theo dõi COVID-19 mức nhẹ có yếu tố nguy cơ (HH-1259), thời gian cách ly COVID-19, liều paracetamol tối đa ở người cao tuổi, corticoid trước viện (không áp dụng ở mức nhẹ). Không có mâu thuẫn thật mới.",
+  "Chi tiết thiết kế tự đề ra (không từ tài liệu): lịch tái khám 5 ngày; tên và liều thuốc ngoài đơn (gói thuốc cảm có paracetamol 325 mg, clorpheniramin 2 mg; diclofenac 50 mg; amlodipin 5 mg) là thuốc tưởng tượng của ca; ngưỡng CLUE của LUSS không đọc được từ bản chữ nên không trích."
+ ]
+}

@@ -1,0 +1,913 @@
+{
+ "ma_ca": "MT-0336",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_dtd_tip2_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Đái tháo đường type 2 (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "ĐTĐ type 1/LADA",
+   "ĐTĐ thứ phát"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Giáo viên",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Thanh Hương",
+  "tuoi": 51,
+  "gioi": "Nữ",
+  "nghe": "Giáo viên THCS",
+  "can_nang": 68,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi bà là 'cô'. Cô tự xưng 'cô', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nghiêm túc, tự trọng, ngại bị phán xét, nói gọn và hay chọn lời. Quen là người giữ nề nếp nên xấu hổ khi nghĩ mình 'không biết giữ sức khỏe'.",
+  "kieu_nhieu": "Giấu tiền sử: hỏi chung 'có bệnh nền gì không' thì đáp 'không có gì'. Chỉ kể chuyện từng được báo tiểu đường, bỏ thuốc, và (ở lượt 2) việc quên liều khi bác sĩ hỏi cụ thể, nhẹ nhàng, không trách.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e2b48f",
+   "toc": "#2a2220",
+   "kieuToc": "ngan",
+   "ao": "#8aa6a3",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Ngứa rát vùng kín, mệt; tự uống amoxicillin chưa đỡ",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Cô Lê Thị Thanh Hương, 51 tuổi, giáo viên THCS. Ngứa rát vùng kín khoảng 10 ngày, mệt nhiều tuần nay, tự mua amoxicillin uống 5 ngày chưa đỡ. Sinh hiệu: HA 128/80 mmHg, mạch 82 l/p, cân nặng 68 kg, BMI 28.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cô Hương nhập viện nội khoa để hạ đường huyết dù tỉnh táo, uống được, ceton niệu âm, không có dấu hiệu mất bù cấp (QĐ 5481/2020 Phần 7 mục 2.1). Gói đánh giá, metformin, thuốc thứ hai và điều trị nấm làm được ngoại trú (ADA 2026 mục 9, Bảng 4.1). Cô nằm viện mà chưa hề nói ra chuyện bỏ thuốc nên nguyên nhân thật vẫn còn, ra viện dễ bỏ thuốc lại.",
+    "chuyen_tuyen": "Cô Hương bị chuyển lên tuyến trên khám nội tiết vì HbA1c 9,4%, trong khi không có chỉ định chuyển: không nhiễm toan ceton, không biến chứng cấp (QĐ 5481/2020 Phần 7 mục 2.1). Cô tốn thêm ngày nghỉ và tiền đi lại, chưa được xử trí nấm sinh dục và vẫn chưa uống thuốc nền. Một người vốn ngại bị phán xét như cô dễ nản và không đến khám nữa."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi bị ngứa rát vùng kín mấy hôm nay, uống kháng sinh mà không đỡ, người lại mệt rã rời. Nhờ bác sĩ kê giúp thuốc kháng sinh mạnh hơn.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "128/80",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ngứa rát âm hộ khoảng 10 ngày, khí hư trắng đặc. Tự mua amoxicillin 500 mg ngày 3 lần, uống 5 ngày ở hiệu thuốc, ngứa không đỡ, thậm chí rát hơn. Cô nghĩ là nhiễm trùng tiểu nên xin kháng sinh mạnh hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thuốc tự mua"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 3 tháng nay khát nước tăng dần, đêm dậy tiểu 3–4 lần, mệt mỏi, sụt khoảng 2 kg. Cô tưởng do tuổi và do dạy nhiều tiết nên chịu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát âm thầm, triệu chứng tăng đường huyết"
+    },
+    {
+     "id": "tiet_nieu",
+     "noi_dung": "Tiểu không buốt, không sốt, không đau hông lưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nhiễm khuẩn tiết niệu"
+    },
+    {
+     "id": "cap_cuu_am",
+     "noi_dung": "Không đau bụng, không nôn, không thở nhanh, vẫn tỉnh táo, ăn uống được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ biến chứng cấp"
+    },
+    {
+     "id": "tien_su_dtd",
+     "noi_dung": "Hai năm trước khám sức khỏe ở bệnh viện huyện, được báo tiểu đường (HbA1c 8,1%), kê metformin 500 mg ngày 2 lần. Uống khoảng 1 năm rồi tự ngưng 8 tháng nay vì tiêu chảy, sợ phải uống thuốc suốt đời, xấu hổ vì 'cô giáo mà không giữ nổi sức khỏe'. Từ đó chưa thử lại đường huyết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung về bệnh nền thì cô đáp 'không có gì'. Chỉ kể khi bác sĩ hỏi cụ thể từng được báo đường huyết cao hoặc tiểu đường chưa, từng uống metformin hay thuốc tiểu đường chưa, lần xét nghiệm đường gần nhất, và hỏi không phán xét.",
+     "k": 1,
+     "y": "Tiền sử ĐTĐ, bỏ thuốc"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ bị tiểu đường típ 2, mất ở tuổi 74 vì suy thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Ăn vặt, trà sữa 2–3 ly mỗi tuần, ngồi chấm bài đến khuya, hầu như không vận động. Không hút thuốc, không rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Ngủ 5 giờ mỗi đêm, hay cáu, nhưng vẫn còn hứng thú với việc nhà và không có chán nản kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc trầm cảm"
+    },
+    {
+     "id": "kinh_nguyet",
+     "noi_dung": "Kinh thưa dần từ 6 tháng nay. Không dùng thuốc nội tiết, không dùng corticoid.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: cô kiệt sức cả năm học, dạy hai khối và chủ nhiệm, vừa bị phụ huynh khiếu nại. Cô mong có giấy nghỉ vài tuần 'vì bệnh' để tạm tránh công việc, nhưng sợ nói thẳng sẽ bị cho là trốn việc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về công việc, giấc ngủ, tâm trạng, hoặc 'cô còn lo gì, muốn bác sĩ giúp gì thêm'. Khi nói ra thì xin giấy nghỉ 2–3 tuần.",
+     "k": 1,
+     "y": "Động cơ thật: muốn nghỉ khỏi công việc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Thừa cân, vòng eo 90 cm, BMI 28. Gai đen nhẹ ở gáy. Niêm mạc hơi khô, không dấu mất nước nặng.",
+     "k": 1
+    },
+    "phu_khoa": {
+     "a": "Hồng ban âm hộ, vài vết xước do gãi. Khí hư trắng đục vón như sữa đông, niêm mạc âm đạo đỏ. Không loét, không mủ.",
+     "k": 1,
+     "hien": "Âm hộ đỏ, có vết gãi, khí hư trắng vón cục."
+    },
+    "chi_duoi": {
+     "a": "Không phù. Monofilament 10 g và âm thoa 128 Hz bình thường. Mạch mu chân rõ hai bên, da bàn chân nguyên vẹn.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Soi không giãn đồng tử: chưa thấy xuất huyết hay xuất tiết rõ; không loại trừ được bệnh võng mạc sớm, cần khám mắt giãn đồng tử.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Tiếp xúc tốt, dáng mệt, đôi lúc rưng rưng khi nói về lớp học. Không chán nản kéo dài, không ý nghĩ tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "13,6 mmol/L",
+     "ab": 1
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "9,4%",
+     "ab": 1,
+     "n": "Mục tiêu <7% (ADA 2026 KC 6.3a)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Glucose 3+ · Ceton âm tính · Bạch cầu âm tính · Nitrit âm tính · Protein vết",
+     "ab": 1
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,6 · Creatinin 68 µmol/L · eGFR 92 mL/ph/1,73m²",
+     "n": "Quyết định metformin và chọn thuốc (QĐ 5481/2020 Bảng 2; ADA 2026 KC 11.1a)."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "41 mg/g (A2)",
+     "ab": 1,
+     "n": "Một mẫu; cần 2/3 mẫu bất thường trong 3–6 tháng mới kết luận (ADA 2026 mục 11)."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,6 · LDL-C 3,4 · HDL-C 1,1 · TG 2,3 mmol/L",
+     "ab": 1
+    },
+    "soi_huyet_trang": {
+     "v": "u",
+     "r": "Nhiều sợi nấm men và bào tử, KOH dương tính; không thấy Trichomonas, không tế bào đầu mối.",
+     "ab": 1
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 128 g/L · BC 7,2 G/L · TC 270 G/L",
+     "n": "QĐ 5481/2020 Bảng 2: lần đầu."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 30 U/L",
+     "n": "Nền trước statin."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 80 l/p, không bất thường.",
+     "n": "QĐ 5481/2020 Bảng 2 có (lần đầu); ADA 2026 không đòi thường quy: chấp nhận."
+    },
+    "cay_nuoc_tieu": {
+     "v": "a",
+     "r": "Không mọc vi khuẩn sau 48 giờ.",
+     "n": "Không triệu chứng tiết niệu, nước tiểu không bạch cầu: không bắt buộc."
+    },
+    "gad_cpep": {
+     "v": "a",
+     "r": "Anti-GAD65 âm tính; C-peptid bình thường.",
+     "n": "Không cần ở người béo bụng, mẹ ĐTĐ2, từng đáp ứng thuốc uống; chỉ khi nghi LADA (ADA 2026 Hình 2.1)."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định; cơ sở không có CT. Không tài liệu đã tải nào đưa CT vào đánh giá ĐTĐ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 kiểm soát kém (HbA1c 9,4%) sau bỏ thuốc 8 tháng, kèm albumin niệu A2 cần xác nhận và rối loạn lipid máu",
+     "ok": 1,
+     "n": "Từng chẩn đoán 2 năm trước, bỏ metformin, khát, tiểu đêm, glucose 13,6, UACR 41 mg/g, LDL-C 3,4."
+    },
+    {
+     "t": "Viêm âm hộ – âm đạo do Candida, thuận lợi do tăng đường huyết",
+     "ok": 1,
+     "n": "Ngứa, khí hư vón cục, KOH dương tính; đái tháo đường là yếu tố thuận lợi (QĐ 315/2015 Phụ khoa mục 2.3; WHO 2024 mục 3.3)."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu (nên cần kháng sinh mạnh hơn)",
+     "n": "Không buốt, không sốt, nước tiểu không bạch cầu, nitrit âm, cấy âm tính."
+    },
+    {
+     "t": "ĐTĐ típ 1 / LADA",
+     "n": "Khởi phát 49 tuổi, béo bụng, gai đen, mẹ ĐTĐ2, từng đáp ứng thuốc uống, ceton âm: nghiêng típ 2; chỉ đo GAD khi nghi (ADA 2026 Hình 2.1)."
+    },
+    {
+     "t": "ĐTĐ thứ phát (thuốc, bệnh tụy, nội tiết)",
+     "n": "Không dùng corticoid hay thuốc nội tiết, không bệnh tụy, không dạng Cushing."
+    },
+    {
+     "t": "Nhiễm toan ceton / tăng áp lực thẩm thấu",
+     "n": "Tỉnh, uống được, không nôn, không đau bụng, ceton niệu âm (QĐ 5481/2020 Phần 7 mục 2.1)."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "Còn hứng thú, không chán nản kéo dài; là kiệt sức do công việc, nên sàng lọc lại (ADA 2026 KC 5.43, 5.45)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lý do bỏ thuốc và công việc không phán xét; nói rõ đường huyết cao là bệnh, không phải lỗi của cô",
+     "v": "c",
+     "n": "Phát hiện nguyên nhân bỏ thuốc (tiêu chảy, sợ thuốc suốt đời) và lý do thật. Sàng lọc stress, trầm cảm (ADA 2026 KC 5.42, 5.45)."
+    },
+    {
+     "t": "Ngưng amoxicillin, không đổi sang kháng sinh mạnh hơn",
+     "v": "c",
+     "n": "Tác nhân là nấm Candida (QĐ 315/2015 Phụ khoa mục 2.3); kháng sinh không điều trị nấm; không có bằng chứng nhiễm khuẩn tiết niệu."
+    },
+    {
+     "t": "Điều trị nấm âm đạo: miconazole 100 mg đặt âm đạo mỗi tối 7–14 ngày (CDC 2021) hoặc nystatin/miconazole 100 mg đặt mỗi tối, miconazole 3 tối (QĐ 315/2015)",
+     "v": "c",
+     "n": "Theo sổ mâu thuẫn mục MT-0240: CDC STI 2021, Vulvovaginal Candidiasis, Box 4 tr. 92 và mục Compromised Host tr. 94 xếp phụ nữ đái tháo đường kiểm soát kém vào thể có biến chứng, cần đợt dài 7–14 ngày; QĐ 315/2015 bài Viêm âm đạo mục 2.3: nystatin hoặc miconazole 100 mg mỗi tối, 3 tối. Hai nguồn khác năm và đối tượng; cả hai đều đúng."
+    },
+    {
+     "t": "Phác đồ ngắn: fluconazole 150 mg uống một liều hoặc clotrimazole 200 mg đặt × 3 ngày",
+     "v": "a",
+     "n": "WHO 2024 Bảng 3 (fluconazole 150–200 mg một liều; clotrimazole 200 mg × 3 ngày) và CDC 2021 tr. 92 dành cho thể không biến chứng; ở người ĐTĐ kiểm soát kém (HbA1c 9,4%) đợt ngắn có thể đáp ứng kém (CDC 2021 tr. 94). Chấp nhận, không tính điểm (sổ mục MT-0240)."
+    },
+    {
+     "t": "Khởi lại metformin phóng thích chậm liều thấp, tăng dần",
+     "v": "c",
+     "n": "Metformin lựa chọn đầu, duy trì nếu dung nạp (QĐ 5481/2020 Phần 4 mục 4.2a, d). Giảm tiêu chảy bằng liều thấp tăng dần, XR, uống cùng bữa ăn (QĐ 5481 PL01 mục 2; ADA 2026 Bảng 9.2). eGFR 92: không chỉnh liều."
+    },
+    {
+     "t": "Thêm thuốc thứ hai ngay: sitagliptin 100 mg hoặc gliclazide MR 30–60 mg",
+     "v": "c",
+     "n": "HbA1c vượt mục tiêu 2,4 điểm: nên phối hợp sớm (ADA 2026 KC 9.6 và mục 9 tr. S197; QĐ 5481 mục 4.2c, e). Tránh nhóm cùng cơ chế."
+    },
+    {
+     "t": "Bắt đầu insulin nền ngay",
+     "v": "a",
+     "n": "ADA 2026 KC 9.20 cân nhắc khi có triệu chứng; QĐ 5481 mục 4.2f khi HbA1c ≥9%. Cô còn uống được, không dị hóa nặng, KC 9.21 ưu tiên thuốc GLP-1 hơn insulin: chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Thêm SGLT2i (dapagliflozin, empagliflozin) ngay hôm nay",
+     "v": "a",
+     "n": "Có lợi ích tim thận (ADA 2026 KC 9.10), nhưng đang viêm nấm sinh dục: nên tránh ở người nguy cơ cao (ADA 2026 Bảng 9.2). Hoãn tới khi hết nấm và UACR xác nhận."
+    },
+    {
+     "t": "Statin: atorvastatin 20 mg (cường độ trung bình) hoặc 40 mg (cường độ cao)",
+     "v": "c",
+     "n": "40–75 tuổi: tối thiểu cường độ trung bình (ADA 2026 KC 10.18, Bảng 10.1); có thêm yếu tố nguy cơ (albumin niệu, rối loạn lipid) thì cường độ cao, LDL-C <1,8 mmol/L (KC 10.20)."
+    },
+    {
+     "t": "Hẹn khám mắt giãn đồng tử và khám bàn chân định kỳ",
+     "v": "c",
+     "n": "ĐTĐ2 khám mắt khi chẩn đoán (ADA 2026 KC 12.4); khám bàn chân hằng năm (KC 12.23)."
+    },
+    {
+     "t": "Lối sống: vận động ≥150 phút/tuần tăng dần, bỏ trà sữa; hướng dẫn tự đo đường huyết",
+     "v": "c",
+     "n": "ADA 2026 KC 5.36 (150 phút/tuần); QĐ 5481 Phần 4 mục 5."
+    },
+    {
+     "t": "Chỉ cấp giấy xác nhận khám bệnh hoặc nghỉ ngắn ngày xét nghiệm, tái khám; không cấp nghỉ vài tuần",
+     "v": "a",
+     "n": "Không có chỉ định nghỉ dài ngày vì ĐTĐ ngoại trú; quy định cấp giấy nghỉ không có trong tài liệu đã tải. Chuyển hướng sang giảm tải công việc."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần",
+     "v": "c",
+     "n": "Đang chỉnh thuốc: tái khám 0,5–1 tháng/lần (QĐ 5481/2020 Bảng 2). HbA1c 3 tháng/lần (Bảng 2; ADA 2026 KC 6.2)."
+    },
+    {
+     "t": "Kê kháng sinh mạnh hơn (cephalosporin, quinolon) theo yêu cầu",
+     "v": "w",
+     "n": "Không có bằng chứng nhiễm khuẩn; nấm không đáp ứng kháng sinh."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 kiểm soát kém (HbA1c 9,4%, glucose 13,6 mmol/L, có triệu chứng) do bỏ thuốc 8 tháng",
+     "Viêm âm hộ – âm đạo do Candida, thuận lợi do tăng đường huyết",
+     "Tăng albumin niệu mức A2 lần đầu (UACR 41 mg/g), cần xác nhận",
+     "Rối loạn lipid máu (LDL-C 3,4; TG 2,3 mmol/L), thừa cân (BMI 28)",
+     "Kiệt sức do công việc; chưa gợi ý trầm cảm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi triệu chứng tăng đường huyết và thuốc tự mua, hỏi cụ thể tiền sử tiểu đường và thuốc đã dùng, khám phụ khoa, đường huyết, HbA1c, nước tiểu, soi huyết trắng, rồi UACR, eGFR, mỡ máu.",
+     "Tiền sử bị giấu: cô nói 'không bệnh gì'. Hỏi cụ thể từng được báo đường huyết cao, từng uống metformin chưa, bằng giọng không phán xét mới lộ ra bỏ thuốc 8 tháng. Hiểu ngay vì sao HbA1c 9,4% (mục tiêu <7%, ADA 2026 KC 6.3a).",
+     "Ngứa vùng kín do nấm men (KOH dương, khí hư vón cục), đái tháo đường là yếu tố thuận lợi (QĐ 315/2015 mục 2.3; WHO 2024 mục 3.3). Amoxicillin không điều trị nấm nên không đỡ. Nước tiểu không bạch cầu, nitrit âm, cấy âm: không phải nhiễm khuẩn tiết niệu.",
+     "Típ 2 chứ không phải típ 1/LADA, thứ phát: khởi phát 49 tuổi, béo bụng, gai đen, mẹ ĐTĐ2, ceton âm; chỉ đo GAD khi nghi ngờ (ADA 2026 Hình 2.1).",
+     "UACR 41 mg/g mới một mẫu; tăng đường huyết rõ cũng làm tăng UACR; cần 2/3 mẫu bất thường trong 3–6 tháng (ADA 2026 mục 11) nên ghi 'cần xác nhận'. Lý do thật (kiệt sức, muốn nghỉ) chỉ lộ khi hỏi công việc và giấc ngủ."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị nền: metformin XR khởi liều thấp tăng dần vì cô từng bỏ do tiêu chảy; thêm thuốc thứ hai ngay vì HbA1c vượt mục tiêu 2,4 điểm (ADA 2026 KC 9.6, tr. S197; QĐ 5481 mục 4.2c). Chưa cần insulin: ADA 2026 KC 9.20 ngưỡng HbA1c >10%, QĐ 5481 mục 4.2f ngưỡng ≥9%; hai nguồn khác nhau, cô có triệu chứng nhẹ nên insulin là chấp nhận chứ không bắt buộc (xem sổ mâu thuẫn).",
+     "SGLT2i hoãn vì đang nấm sinh dục (ADA 2026 Bảng 9.2); sẽ cân nhắc khi UACR được xác nhận (KC 9.10).",
+     "Điều trị nấm và dừng kháng sinh vô ích; xử trí lý do thật bằng tư vấn giảm tải công việc, không cấp nghỉ dài ngày (quy định giấy nghỉ không có trong tài liệu đã tải).",
+     "Statin vì tuổi 51 kèm albumin niệu, rối loạn lipid (ADA 2026 KC 10.18, 10.20, Bảng 10.1). Hẹn khám mắt giãn đồng tử (KC 12.4), tái khám 4 tuần."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Miconazole",
+      "ham_luong": "viên đặt âm đạo 100 mg",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "Đặt âm đạo",
+      "thoi_diem": "Buổi tối trước khi ngủ",
+      "so_ngay": "7–14 ngày (CDC 2021 tr. 92, 94) hoặc 3 tối (QĐ 315/2015 mục 2.3); con số thận trọng hơn là 7–14 ngày vì ĐTĐ kiểm soát kém",
+      "ghi_chu": "Sổ mâu thuẫn mục MT-0240. Thay thế theo QĐ 315/2015 mục 2.3: nystatin đặt mỗi tối. Phác đồ ngắn fluconazole 150 mg uống một liều hoặc clotrimazole 200 mg × 3 ngày (WHO 2024 Bảng 3) chỉ chấp nhận, vì đợt ngắn có thể đáp ứng kém ở ĐTĐ kiểm soát kém (CDC 2021 tr. 94)."
+     },
+     {
+      "thuoc": "Metformin phóng thích chậm",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 lần/ngày, tăng 500 mg mỗi 5–7 ngày tới 1.000–1.500 mg nếu dung nạp",
+      "duong": "Uống",
+      "thoi_diem": "Bữa tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5481/2020 PL01 mục 2 (tăng liều từ từ mỗi 5–7 ngày; XR 500–2000 mg/ngày 1 lần, Bảng 14); ADA 2026 Bảng 9.2."
+     },
+     {
+      "thuoc": "Sitagliptin",
+      "ham_luong": "100 mg",
+      "lieu": "100 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5481/2020 Bảng 14 (50–100 mg/ngày; eGFR 92 không giảm liều). Hoặc gliclazide MR 30 mg sáng (QĐ 5481/2020 PL01 nhóm sulfonylurea mục c: MR 30–60 mg, tối đa 120 mg/ngày), nhớ nguy cơ hạ đường huyết (mục 4.2j)."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày (giờ uống không có trong tài liệu đã tải)",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "ADA 2026 Bảng 10.1 (cường độ trung bình 10–20 mg; cường độ cao 40–80 mg theo KC 10.20); kiểm lipid 4–12 tuần sau khởi trị (KC 10.17)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh tiểu đường không phải lỗi của cô; bỏ thuốc rồi quay lại là chuyện thường gặp. Tiêu chảy do metformin giảm bằng liều thấp tăng dần, thuốc phóng thích chậm, uống cùng bữa ăn.",
+     "Ngưng amoxicillin. Đặt thuốc nấm đủ 3 ngày (WHO 2024 Bảng 3); giữ vùng kín khô thoáng; đường huyết cao là gốc của nấm nên kiểm soát đường huyết mới hết tái phát.",
+     "Tự đo đường huyết lúc đói vài lần mỗi tuần, ghi sổ. Đường huyết ≥16,7 mmol/L (ngưỡng cân nhắc insulin, ADA 2026 KC 9.20), hoặc khát nhiều, nôn, đau bụng, lơ mơ thì đến khám sớm.",
+     "Ăn bớt đồ ngọt, bỏ trà sữa; đi bộ nhanh tăng dần đến 150 phút/tuần (ADA 2026 KC 5.36). Khám mắt giãn đồng tử trong vài tuần tới.",
+     "Công việc đang đè nặng: bác sĩ có thể viết giấy xác nhận đi khám (quy định giấy nghỉ không có trong tài liệu đã tải); hãy trao đổi với tổ trưởng để chia bớt việc. Tái khám sau 4 tuần (QĐ 5481/2020 Bảng 2), mang sổ đường huyết."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Cô Hương tái khám sau 4 tuần theo hẹn. Cô nói đỡ khát, hết ngứa, vẫn còn mệt. Sinh hiệu: HA 124/78 mmHg, mạch 80 l/p, cân nặng 67,2 kg. Đường huyết mao mạch lúc đói tại quầy: 8,9 mmol/L.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cô Hương nhập viện vì đường huyết đói 8,9 mmol/L còn cao, trong khi đã giảm từ 13,6, cô tỉnh táo và không có ceton. Không tiêu chuẩn nhập viện nào được nêu (QĐ 5481/2020 Phần 7). Nằm viện cắt ngang việc dạy học, trong khi nguyên nhân chính là quên liều metformin, chỉ tăng liều và tư vấn tuân thủ tại nhà là đủ.",
+    "chuyen_tuyen": "Cô Hương bị chuyển tuyến vì 'điều trị không hiệu quả', dù mới 4 tuần và đường huyết đang giảm rõ. HbA1c chưa thể đánh giá lại sớm hơn 3 tháng (QĐ 5481/2020 mục 2.4; ADA 2026 KC 6.2), và nguyên nhân là tuân thủ chưa đều. Cô thêm chi phí, mất thêm ngày nghỉ và dễ nghĩ mình 'hết thuốc chữa'."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đỡ khát nhiều rồi, hết ngứa. Chỉ còn mệt buổi chiều thôi. Chắc thuốc hợp rồi nhỉ?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "124/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dap_ung",
+     "noi_dung": "Đặt thuốc nấm đủ đợt như dặn, hết ngứa từ mấy ngày đầu. Khát đỡ nhiều, đêm tiểu còn 1 lần. Còn mệt buổi chiều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng một phần"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Hiện uống metformin XR 1.000 mg buổi tối và sitagliptin 100 mg sáng, atorvastatin 20 mg. Đầy bụng nhẹ vài ngày đầu, không tiêu chảy, chưa từng hạ đường huyết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc, dung nạp"
+    },
+    {
+     "id": "bo_lieu",
+     "noi_dung": "Thật ra mỗi tuần cô quên hoặc tự bỏ 2–3 buổi tối metformin vì sợ đau bụng, tiêu chảy khi hôm sau đứng lớp. Cô không kể vì sợ bác sĩ trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Cô chỉ nói 'uống đều'. Chỉ kể khi bác sĩ hỏi không phán xét kiểu 'một tuần quên mấy liều', 'uống thuốc có gì bất tiện', hoặc hỏi lịch giờ giấc uống thuốc.",
+     "k": 1,
+     "y": "Tuân thủ chưa đều"
+    },
+    {
+     "id": "tu_do",
+     "noi_dung": "Tự đo bằng máy mượn của mẹ: đói 8,2–9,5, sau ăn 11–12 mmol/L.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tự theo dõi đường huyết"
+    },
+    {
+     "id": "cap_cuu_am2",
+     "noi_dung": "Không khát dữ dội, không nôn, không đau bụng, không sụt cân thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ mất bù cấp"
+    },
+    {
+     "id": "loi_song2",
+     "noi_dung": "Đi bộ 15 phút buổi sáng 3 hôm mỗi tuần, bớt trà sữa còn 1 ly mỗi tuần.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Cô vẫn đi dạy; nhờ tổ trưởng bớt phần coi thi nên đỡ áp lực, không còn nhắc chuyện xin nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân nặng 67,2 kg (giảm 0,8 kg), tỉnh, niêm mạc ẩm, không dấu mất nước.",
+     "k": 0
+    },
+    "phu_khoa": {
+     "a": "Âm hộ hết đỏ, hết khí hư, không còn vết gãi.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng nhẹ, không điểm đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "8,7 mmol/L",
+     "ab": 1,
+     "n": "Đã giảm từ 13,6; mục tiêu đói 4,4–7,2 (ADA 2026 Bảng 6.3)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Glucose 1+ · Ceton âm tính · Bạch cầu âm tính",
+     "ab": 1
+    },
+    "creat": {
+     "v": "a",
+     "r": "Creatinin 70 µmol/L · eGFR 91 mL/ph/1,73m²",
+     "n": "Không bắt buộc, vừa có 4 tuần trước."
+    },
+    "soi_huyet_trang": {
+     "v": "a",
+     "r": "KOH âm tính, không sợi nấm.",
+     "n": "Hết triệu chứng nên không cần soi lại."
+    },
+    "hba1c": {
+     "n": "Làm lại quá sớm: HbA1c phản ánh 3 tháng, lần sau đo khi đủ 3 tháng (QĐ 5481/2020 mục 2.4; ADA 2026 KC 6.2)."
+    },
+    "uacr": {
+     "n": "Lặp lại khi đủ 3 tháng để có 2/3 mẫu trong 3–6 tháng (ADA 2026 mục 11); lúc này đường huyết còn cao nên dễ nhiễu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 đáp ứng một phần, chưa đạt mục tiêu, do tuân thủ metformin chưa đều",
+     "ok": 1,
+     "n": "Glucose đói 13,6 → 8,7, hết ngứa; quên 2–3 liều/tuần. Đỡ một phần ở tuần thứ 4 là diễn tiến bình thường, chưa phải thất bại điều trị."
+    },
+    {
+     "t": "Thất bại điều trị, kháng thuốc hai nhóm đang dùng",
+     "n": "Mới 4 tuần, glucose đang giảm, chưa đủ thời gian đánh giá HbA1c; chưa dùng đủ liều metformin do bỏ liều."
+    },
+    {
+     "t": "Viêm nấm âm đạo còn hoặc tái phát",
+     "n": "Hết ngứa, khám âm hộ bình thường."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi tuân thủ không phán xét, tìm nguyên nhân quên liều (sợ tiêu chảy khi đứng lớp), điều chỉnh giờ uống",
+     "v": "c",
+     "n": "Đánh giá lại hành vi dùng thuốc (ADA 2026 KC 9.14). Tuân thủ là nguyên nhân hàng đầu cần xử lý trước khi nghĩ đến đổi thuốc."
+    },
+    {
+     "t": "Tăng metformin XR từ 1.000 lên 1.500 mg, rồi 2.000 mg sau 1–2 tuần nếu dung nạp, uống bữa tối",
+     "v": "c",
+     "n": "Tăng từ từ để giảm tác dụng phụ (QĐ 5481/2020 PL01 mục 2); XR 500–2000 mg/ngày 1 lần (Bảng 14)."
+    },
+    {
+     "t": "Duy trì sitagliptin 100 mg và atorvastatin",
+     "v": "c",
+     "n": "QĐ 5481/2020 Bảng 14; ADA 2026 KC 10.18, 10.20."
+    },
+    {
+     "t": "Chưa đo lại HbA1c; hẹn đo HbA1c khi đủ 3 tháng kể từ lúc khởi trị cùng UACR, mỡ máu",
+     "v": "c",
+     "n": "HbA1c 3 tháng/lần (QĐ 5481/2020 Bảng 2, mục 2.4; ADA 2026 KC 6.2); UACR 2/3 mẫu trong 3–6 tháng (mục 11); lipid 4–12 tuần sau khởi statin (KC 10.17)."
+    },
+    {
+     "t": "Hẹn tái khám trong 4–8 tuần, tự đo đường huyết đói vài lần mỗi tuần",
+     "v": "c",
+     "n": "Đang chỉnh thuốc: 0,5–1 tháng/lần (QĐ 5481/2020 Bảng 2); đủ 3 tháng thì đo HbA1c. Sổ đường huyết giúp quyết định."
+    },
+    {
+     "t": "Củng cố vận động ≥150 phút/tuần và nhắc đi khám mắt giãn đồng tử",
+     "v": "c",
+     "n": "ADA 2026 KC 5.36, 12.4."
+    },
+    {
+     "t": "Thêm thuốc thứ ba (SGLT2i hoặc GLP-1 RA) ngay lúc này",
+     "v": "a",
+     "n": "Sớm: nguyên nhân chính là chưa uống đủ metformin; CKD chưa xác nhận (UACR cần 2/3 mẫu, ADA 2026 mục 11). Không trì hoãn nếu sau đó vẫn chưa đạt (KC 9.15)."
+    },
+    {
+     "t": "Coi là thất bại điều trị và khởi insulin nền ngay",
+     "v": "a",
+     "n": "Theo sổ mâu thuẫn mục MT-0333: QĐ 5481/2020 mục 4.2f cân nhắc insulin khi HbA1c ≥ 9% (HbA1c gần nhất 9,4%, chưa đo lại); ADA 2026 KC 9.20 chỉ khi có triệu chứng hoặc HbA1c > 10%, KC 9.21 ưu tiên GLP-1 RA. Không nguồn nào nói có hại; glucose đói đã giảm 13,6 → 8,7 nên không cần thiết. Chấp nhận, không tính điểm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 đáp ứng một phần sau 4 tuần (glucose đói 13,6 → 8,7 mmol/L), chưa đạt mục tiêu",
+     "Tuân thủ metformin chưa đều (bỏ 2–3 liều/tuần vì sợ tiêu chảy)",
+     "Viêm nấm âm đạo đã khỏi",
+     "Tăng albumin niệu cần xác nhận, rối loạn lipid đang dùng statin"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi triệu chứng, thuốc đang uống và mức đều, sổ đường huyết tại nhà, khám phụ khoa, cân nặng, rồi glucose đói, nước tiểu. Không nhảy sang HbA1c vì chưa đủ thời gian.",
+     "Đỡ một phần: triệu chứng và glucose đang giảm. Hỏi không phán xét mới ra bỏ 2–3 liều metformin/tuần. Dùng chưa đủ liều thì chưa thể gọi là thất bại thuốc (ADA 2026 KC 9.14).",
+     "HbA1c phản ánh khoảng 3 tháng nên đo lại ở mốc 3 tháng (QĐ 5481/2020 mục 2.4; ADA 2026 KC 6.2). Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm."
+    ],
+    "phan_tich_xu_tri": [
+     "Sửa nguyên nhân trước: tăng metformin XR chậm, đổi sang uống bữa tối (tránh đau bụng khi đứng lớp), không đổi thuốc vội.",
+     "Chưa thêm thuốc thứ ba hôm nay nhưng không được để quá 3 tháng nếu chưa đạt (ADA 2026 KC 9.15, QĐ 5481 mục 4.2h, i). Hẹn đủ 3 tháng đo HbA1c, UACR, lipid, creatinin.",
+     "Không insulin: chưa đủ tiêu chuẩn (ADA 2026 KC 9.20)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Metformin phóng thích chậm",
+      "ham_luong": "500 mg",
+      "lieu": "3 viên (1.500 mg) × 1 lần/ngày; nếu dung nạp sau 1–2 tuần tăng lên 4 viên (2.000 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Bữa tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5481/2020 Bảng 14 (XR 500–2000 mg/ngày 1 lần) và PL01 mục 2 (tăng liều mỗi 5–7 ngày)."
+     },
+     {
+      "thuoc": "Sitagliptin",
+      "ham_luong": "100 mg",
+      "lieu": "100 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5481/2020 Bảng 14."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "ADA 2026 Bảng 10.1, KC 10.18."
+     }
+    ],
+    "dan_do": [
+     "Đỡ một phần ở tuần thứ 4 là hợp lý, chưa phải thất bại; điều cần nhất là uống metformin đều mỗi tối.",
+     "Sợ tiêu chảy: tăng liều từ từ, uống bữa tối, ăn đủ no; báo bác sĩ nếu quá khó chịu để đổi cách dùng.",
+     "Ghi sổ đường huyết đói vài lần mỗi tuần. Khát nhiều trở lại, nôn, đau bụng, sụt cân nhanh thì đến khám sớm.",
+     "Tái khám sau 4–8 tuần, đủ 3 tháng sẽ làm HbA1c, nước tiểu, mỡ máu (QĐ 5481/2020 Bảng 2); hẹn khám mắt giãn đồng tử (ADA 2026 KC 12.4)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 3 tháng",
+   "tiep_don": "Cô Hương tái khám khi đủ 3 tháng điều trị. Cô hết khát, hết tiểu đêm, vẫn đi dạy, còn mệt nhẹ khi chấm bài khuya. Sinh hiệu: HA 126/78 mmHg, mạch 78 l/p, cân nặng 66 kg. Đường huyết mao mạch lúc đói: 7,6 mmol/L.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Cô Hương chỉ được khen 'đã tốt hơn nhiều' và giữ nguyên thuốc, không thêm gì. HbA1c 7,6% còn trên mục tiêu <7%, kèm UACR bất thường kéo dài; chậm tăng cường điều trị làm mất thời gian bảo vệ thận và tim (ADA 2026 KC 9.14, 9.15; QĐ 5481/2020 mục 4.2h, i). Cô dễ xem như 'đủ rồi' và đến khám thưa dần.",
+    "chuyen_tuyen": "Cô Hương bị chuyển tuyến nội tiết vì HbA1c 7,6% chưa đạt, dù đang giảm 1,8 điểm sau 3 tháng và còn nhiều lựa chọn tại tuyến này: SGLT2i hoặc GLP-1 RA theo ADA 2026 KC 9.10, 11.7a. Cô tốn thêm chi phí và ngày nghỉ, trong khi không có tiêu chuẩn chuyển tuyến nào được nêu (QĐ 5481/2020)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi khỏe hơn nhiều rồi, ngủ được, đi dạy bình thường. Hôm nay tôi mang kết quả xét nghiệm để bác sĩ xem còn cần chỉnh gì không.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "126/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dap_ung3",
+     "noi_dung": "Hết khát, hết tiểu đêm, không ngứa vùng kín tái phát. Còn mệt nhẹ khi chấm bài khuya.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng"
+    },
+    {
+     "id": "dung_thuoc3",
+     "noi_dung": "Metformin XR 2.000 mg buổi tối, quên khoảng 1 liều mỗi tuần, hết tiêu chảy; sitagliptin 100 mg sáng, atorvastatin 20 mg. Không hạ đường huyết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc, tuân thủ"
+    },
+    {
+     "id": "tu_do3",
+     "noi_dung": "Tự đo đói 6,8–7,9, sau ăn dưới 10 mmol/L.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tự theo dõi"
+    },
+    {
+     "id": "mat_chan",
+     "noi_dung": "Đã khám mắt giãn đồng tử ở bệnh viện huyện: chưa có bệnh võng mạc. Chân không tê, không loét.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Biến chứng mắt, thần kinh"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không dùng thuốc giảm đau, thuốc bắc hay kháng sinh tự mua nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "cong_viec3",
+     "noi_dung": "Công việc đã ổn hơn, không còn nhắc nghỉ; đã kể chuyện kiệt sức với tổ trưởng và chồng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân nặng 66 kg, vòng eo 88 cm, BMI 27,1. Tỉnh, niêm mạc ẩm.",
+     "k": 0
+    },
+    "phu_khoa": {
+     "a": "Âm hộ bình thường, không đỏ, không khí hư.",
+     "k": 1,
+     "hien": "Âm hộ bình thường."
+    },
+    "chi_duoi": {
+     "a": "Monofilament 10 g và âm thoa 128 Hz bình thường, mạch mu chân rõ, không loét.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "hba1c": {
+     "v": "e",
+     "r": "7,6%",
+     "ab": 1,
+     "n": "Giảm 1,8 điểm; mục tiêu <7% (ADA 2026 KC 6.3a)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "7,3 mmol/L",
+     "ab": 1
+    },
+    "uacr": {
+     "v": "e",
+     "r": "46 mg/g (A2)",
+     "ab": 1,
+     "n": "Mẫu thứ hai bất thường sau 3 tháng, đủ 2/3 mẫu trong 3–6 tháng (ADA 2026 mục 11)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 70 µmol/L · eGFR 91 mL/ph/1,73m²",
+     "n": "Trước khi thêm SGLT2i; UACR và eGFR ít nhất hằng năm (ADA 2026 KC 11.1a)."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 4,3 · LDL-C 2,1 · HDL-C 1,2 · TG 1,6 mmol/L",
+     "ab": 1,
+     "n": "Chưa đạt LDL-C <1,8 (ADA 2026 KC 10.20)."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 22 · ALT 26 U/L",
+     "n": "Không bắt buộc sau khi khởi statin."
+    },
+    "b12": {
+     "n": "ADA 2026 Bảng 4.1 chỉ khuyên khi dùng metformin >5 năm; cô mới dùng lại 3 tháng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 đáp ứng tốt nhưng chưa đạt mục tiêu (HbA1c 7,6%), diễn tiến chậm hơn dự kiến",
+     "ok": 1,
+     "n": "HbA1c 9,4 → 7,6% sau 3 tháng nhưng quên liều và khởi đầu bỏ thuốc làm chậm; chưa <7%."
+    },
+    {
+     "t": "Tăng albumin niệu kéo dài mức A2, eGFR bình thường (bệnh thận mạn do ĐTĐ giai đoạn sớm)",
+     "ok": 1,
+     "n": "UACR 41 và 46 mg/g cách 3 tháng; eGFR 91. Cần UACR bất thường lặp lại để xác nhận CKD (ADA 2026 Hình 9.4)."
+    },
+    {
+     "t": "Thất bại điều trị cần insulin",
+     "n": "HbA1c còn giảm, không triệu chứng, không thuộc ngưỡng ADA 2026 KC 9.20."
+    },
+    {
+     "t": "Tăng albumin niệu thoáng qua do tăng đường huyết, không phải bệnh thận",
+     "n": "Đã hết triệu chứng, glucose giảm mà UACR vẫn bất thường ở mẫu thứ hai."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định: HbA1c giảm 1,8 điểm là đáp ứng tốt nhưng chưa đạt <7%, cần tăng cường chứ không để nguyên",
+     "v": "c",
+     "n": "ADA 2026 KC 6.3a, 9.14, 9.15 (không trì hoãn); QĐ 5481/2020 mục 4.2h, i."
+    },
+    {
+     "t": "Thêm SGLT2i (dapagliflozin 10 mg/ngày hoặc empagliflozin 10 mg) HOẶC GLP-1 RA có lợi ích tim thận đã chứng minh",
+     "v": "c",
+     "n": "Bệnh thận mạn kèm albumin niệu: SGLT2i hoặc GLP-1 RA độc lập HbA1c (ADA 2026 KC 9.10, 11.7a; QĐ 5481 mục 4.2b). SGLT2i dùng được khi eGFR ≥20; GLP-1 RA là thuốc tiêm, giá cao: bàn với cô."
+    },
+    {
+     "t": "Dặn khi dùng SGLT2i: vệ sinh sinh dục, uống đủ nước, ngưng thuốc khi ốm nặng, nôn, nhịn ăn",
+     "v": "c",
+     "n": "Nguy cơ nấm sinh dục, mất nước, nhiễm toan ceton (ADA 2026 Bảng 9.2); cô vừa bị nấm."
+    },
+    {
+     "t": "Duy trì metformin XR 2.000 mg và sitagliptin 100 mg; không dùng sitagliptin cùng GLP-1 RA nếu chọn nhóm này",
+     "v": "c",
+     "n": "QĐ 5481/2020 mục 4.2d; không chọn thuốc cùng cơ chế (mục 4.2c). Ngưng DPP-4i khi dùng GLP-1 RA: không có trong tài liệu đã tải mục riêng này."
+    },
+    {
+     "t": "Tăng atorvastatin lên 40 mg (cường độ cao), đích LDL-C <1,8 mmol/L",
+     "v": "c",
+     "n": "ADA 2026 KC 10.20, Bảng 10.1. Thêm ezetimibe là lựa chọn khác (KC 10.21)."
+    },
+    {
+     "t": "Thêm ezetimibe thay cho tăng liều statin",
+     "v": "a",
+     "n": "ADA 2026 KC 10.21: có thể hợp lý khi LDL-C ≥1,8 mmol/L."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần kiểm tra dung nạp, nấm sinh dục, creatinin; HbA1c lại sau 3 tháng; UACR và eGFR hằng năm",
+     "v": "c",
+     "n": "Đang chỉnh thuốc 0,5–1 tháng/lần, HbA1c 3 tháng/lần (QĐ 5481/2020 Bảng 2); ADA 2026 KC 11.1a."
+    },
+    {
+     "t": "Duy trì vận động ≥150 phút/tuần, khám mắt hằng năm, sàng lọc stress nghề nghiệp hằng năm",
+     "v": "c",
+     "n": "ADA 2026 KC 5.36, 12.4–12.5, 5.45."
+    },
+    {
+     "t": "Khởi insulin nền hoặc chuyển nội tiết vì chưa đạt <7%",
+     "v": "w",
+     "n": "HbA1c 7,6%, không triệu chứng, đáp ứng tốt: không thuộc KC 9.20; KC 9.21 ưu tiên thuốc GLP-1."
+    },
+    {
+     "t": "Giữ nguyên thuốc, chỉ nhắc ăn uống",
+     "v": "w",
+     "n": "Trì hoãn tăng cường dù chưa đạt mục tiêu và có albumin niệu (ADA 2026 KC 9.15)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 đáp ứng tốt nhưng chưa đạt mục tiêu (HbA1c 9,4 → 7,6%)",
+     "Bệnh thận mạn do ĐTĐ giai đoạn sớm (UACR 41 → 46 mg/g, eGFR 91)",
+     "Rối loạn lipid máu chưa đạt đích (LDL-C 2,1 mmol/L)",
+     "Thừa cân (BMI 27)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi triệu chứng, tuân thủ, sổ đường huyết, khám phụ khoa và bàn chân, rồi HbA1c, UACR, eGFR, lipid.",
+     "Đáp ứng tốt nhưng chậm hơn dự kiến vì khởi đầu bỏ thuốc 8 tháng và quên liều ở 2 tháng đầu. HbA1c 7,6% vẫn trên <7% (ADA 2026 KC 6.3a).",
+     "UACR mẫu thứ hai 46 mg/g sau 3 tháng (cùng mẫu đầu): đủ 2/3 mẫu bất thường trong 3–6 tháng, kết luận albumin niệu kéo dài (ADA 2026 mục 11, Hình 9.4). eGFR 91 nên bệnh thận mạn giai đoạn sớm. Phân biệt với tăng thoáng qua do đường huyết cao.",
+     "HA 126/78 đạt <130/80 (ADA 2026 KC 10.4), chưa cần thuốc hạ áp."
+    ],
+    "phan_tich_xu_tri": [
+     "Tăng cường ngay, không chờ: thêm SGLT2i hoặc GLP-1 RA vì có CKD, độc lập HbA1c (ADA 2026 KC 9.10, 11.7a). Chọn SGLT2i uống khi cô chưa có điều kiện tiêm; dặn kỹ về nấm sinh dục vì tiền sử viêm nấm.",
+     "Statin tăng lên cường độ cao để đạt LDL-C <1,8 mmol/L (ADA 2026 KC 10.20, Bảng 10.1).",
+     "Không insulin, không chuyển tuyến: không có chỉ định (KC 9.20, 9.21)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dapagliflozin",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5481/2020 Bảng 14; ADA 2026 KC 11.7a, Bảng 9.2. Hoặc empagliflozin 10 mg. Ngưng khi ốm nặng, nôn, nhịn ăn."
+     },
+     {
+      "thuoc": "Metformin phóng thích chậm",
+      "ham_luong": "500 mg",
+      "lieu": "4 viên (2.000 mg) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Bữa tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5481/2020 Bảng 14."
+     },
+     {
+      "thuoc": "Sitagliptin",
+      "ham_luong": "100 mg",
+      "lieu": "100 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5481/2020 Bảng 14."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "ADA 2026 Bảng 10.1 (cường độ cao 40–80 mg), KC 10.20. Kiểm lipid 4–12 tuần sau đổi liều (KC 10.17)."
+     }
+    ],
+    "dan_do": [
+     "Cô đã tiến bộ rõ; bước tiếp theo là thêm thuốc vừa hạ đường huyết vừa bảo vệ thận.",
+     "Thuốc mới làm đi tiểu nhiều hơn và dễ ngứa nấm lại: giữ vùng kín sạch khô, uống đủ nước. Ốm nặng, nôn, không ăn được thì ngưng thuốc này và đến khám.",
+     "Giữ vận động đều, hạn chế đồ ngọt. Khám mắt mỗi năm.",
+     "Tái khám sau 4 tuần để kiểm tra dung nạp và creatinin; sau 3 tháng đo lại HbA1c (QĐ 5481/2020 Bảng 2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 6 tháng: HbA1c 6,9%, UACR giảm còn 24 mg/g, cân nặng 64,5 kg, LDL-C 1,7 mmol/L. Cô Hương dùng thuốc đều, không tái phát nấm. Cô tiếp tục dạy, được tổ trưởng chia bớt việc, và hẹn khám mỗi 3 tháng. Đạt mục tiêu chậm hơn dự kiến vì khởi đầu bỏ thuốc và quên liều.",
+ "nhieu": [
+  "Giấu tiền sử: 'không có bệnh nền', thật ra từng được báo ĐTĐ 2 năm trước và bỏ thuốc 8 tháng. Hỏi cụ thể không phán xét mới lộ; ở lượt 2 lại giấu việc bỏ liều.",
+  "Lý do thật là muốn nghỉ việc nhưng ngại nói; xin 'kháng sinh mạnh hơn' chỉ là cớ. Hỏi về công việc, giấc ngủ mới ra."
+ ],
+ "bai_hoc_bien": [
+  "Ngứa vùng kín ở người ĐTĐ: nghĩ nấm Candida, soi tươi; kháng sinh không có tác dụng (QĐ 315/2015 Phụ khoa mục 2.3; WHO 2024 mục 3.3).",
+  "Khi tăng đường huyết đang viêm nấm sinh dục, hoãn SGLT2i (ADA 2026 Bảng 9.2) và khởi bằng metformin phối hợp thuốc khác; thêm SGLT2i sau khi hết nấm và CKD xác nhận.",
+  "Phân biệt hồi phục chậm bình thường với thất bại sớm: 4 tuần chưa đánh giá được HbA1c (QĐ 5481/2020 mục 2.4; ADA 2026 KC 6.2). Kiểm tuân thủ trước, nhưng không để quá 3 tháng chưa đạt mà không tăng cường (KC 9.15).",
+  "UACR cần 2/3 mẫu trong 3–6 tháng (ADA 2026 mục 11); xác nhận thì SGLT2i hoặc GLP-1 RA độc lập HbA1c (KC 9.10, 11.7a).",
+  "Lý do thật (kiệt sức): sàng lọc stress, trầm cảm, diabetes distress (ADA 2026 KC 5.42, 5.45). Quy định giấy nghỉ ốm không có trong tài liệu đã tải."
+ ],
+ "diem_nho": [
+  "HbA1c <7%; glucose đói 4,4–7,2 mmol/L (ADA 2026 KC 6.3a, Bảng 6.3).",
+  "Phối hợp thuốc sớm khi HbA1c vượt mục tiêu 1,5–2,0% (ADA 2026 mục 9 tr. S197; KC 9.6). Đánh giá lại thuốc mỗi 3–6 tháng, không trì hoãn (KC 9.14, 9.15).",
+  "Insulin khi có triệu chứng hoặc HbA1c >10% (ADA 2026 KC 9.20), QĐ 5481/2020 mục 4.2f ngưỡng ≥9%.",
+  "Metformin XR 500–2000 mg/ngày 1 lần, tăng mỗi 5–7 ngày (QĐ 5481/2020 Bảng 14, PL01).",
+  "Statin: 40–75 tuổi tối thiểu cường độ trung bình; có thêm yếu tố nguy cơ thì cường độ cao, LDL-C <1,8 mmol/L (ADA 2026 KC 10.18, 10.20, Bảng 10.1).",
+  "Nấm âm đạo ở ĐTĐ kiểm soát kém: miconazole 100 mg đặt 7–14 ngày (CDC 2021 tr. 92, 94) hoặc nystatin/miconazole 3 tối (QĐ 315/2015 mục 2.3); phác đồ ngắn WHO 2024 Bảng 3 chấp nhận.",
+  "Khám mắt giãn đồng tử khi chẩn đoán ĐTĐ2 (ADA 2026 KC 12.4); bàn chân hằng năm (KC 12.23)."
+ ],
+ "nguon": [
+  "ADA Standards of Care 2026 (TL-0296) – ĐÃ ĐỌC KC 5.36, 5.42, 5.45; Bảng 4.1; KC 6.2, 6.3a, Bảng 6.3; KC 9.6, 9.10, 9.14, 9.15, 9.20, 9.21, Bảng 9.2, Hình 9.4 và đoạn tr. S197; KC 10.1, 10.4, 10.17–10.21, Bảng 10.1; KC 11.1a, 11.7a, mục 11 (UACR 2/3 mẫu); KC 12.4, 12.23.",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 (TL-0031) – ĐÃ ĐỌC Phần 2 mục 2.3–2.4 (Bảng 2, 3); Phần 4 mục 4.2a–i; Phụ lục 01 (Bảng 14); mục 5 (lối sống); Phần 7 mục 2.1.",
+  "Bộ Y tế – QĐ 315/QĐ-BYT 2015 (TL-0036) Hướng dẫn chẩn đoán điều trị các bệnh sản phụ khoa – Viêm âm đạo, mục 2.3 (do nấm).",
+  "WHO 2024 (TL-0611) Recommendations for the treatment of Trichomonas vaginalis, Mycoplasma genitalium, Candida albicans, bacterial vaginosis and anogenital warts – Bảng 3, mục 3.3.",
+  "CDC 2021 – Sexually Transmitted Infections Treatment Guidelines (kho tltk-10000-ca, 08 Tiết niệu - nam khoa) – Vulvovaginal Candidiasis, Box 4 tr. 92, Compromised Host tr. 94 (theo sổ mâu thuẫn mục MT-0240)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-04: viết mới. Tài liệu đã đọc: TL-0296, TL-0031, TL-0036 mục 2.3, TL-0611 mục 3.3. Chi tiết: nhap/MT-0336/MT-0336_bao_cao.md.",
+  "Thiết kế biến: 'tự mua amoxicillin' thành thuốc tự mua nhầm cho ngứa vùng kín (nấm); 'giấu tiền sử' là việc từng được chẩn đoán ĐTĐ và bỏ thuốc; 'muốn nghỉ việc' thành lý do thật giấu; 'đỡ một phần' ở lượt 2; 'khỏi chậm hơn dự kiến' ở kết cục (HbA1c 7,6% ở 3 tháng, 6,9% ở 6 tháng).",
+  "Chỗ thiếu tài liệu: quy định giấy nghỉ ốm cho giáo viên; giờ uống atorvastatin; cách xử trí DPP-4i khi chuyển sang GLP-1 RA; thang sàng lọc PHQ cụ thể; tương tác fluconazole – sulfonylurea. Ngày hẹn tái khám 4–8 tuần là chọn của biên tập."
+ ]
+}

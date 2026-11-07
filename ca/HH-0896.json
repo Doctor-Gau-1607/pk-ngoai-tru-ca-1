@@ -1,0 +1,878 @@
+{
+ "ma_ca": "HH-0896",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn theo kho tài liệu (2026-11-07)",
+ "benh": "HH_viem_phoi_cong_dong",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phổi cộng đồng",
+  "chan_doan_phai_loai_tru": [
+   "Lao phổi",
+   "Thuyên tắc phổi"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Nhân viên kinh doanh",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quốc Bảo",
+  "tuoi": 29,
+  "gioi": "Nam",
+  "nghe": "Nhân viên kinh doanh vật liệu xây dựng; ngồi máy tính soạn báo giá, báo cáo quý, thỉnh thoảng đi gặp khách",
+  "can_nang": 66,
+  "chieu_cao": 172,
+  "xung_ho": "Bác sĩ gọi anh là 'anh' hoặc 'anh Bảo'; anh xưng 'em'. Vợ gọi anh là 'ảnh', xưng 'em' với bác sĩ.",
+  "tinh_cach": "Cẩn thận, hay tra Google, lo xa; càng lo càng nói nhanh, hỏi lại cùng một câu nhiều lần. Áp lực chỉ tiêu cuối quý. Kể bệnh lộn xộn, hay chen 'có phải em bị … không bác sĩ'. Tỉnh táo, tiếp xúc tốt, hợp tác khi được giải thích có đầu có đuôi.",
+  "kieu_nhieu": "Sợ hãi quá mức: tự chẩn đoán điều xấu nhất (ung thư phổi, lao, 'đột quỵ phổi'), đòi chụp CT và 'làm hết xét nghiệm', hỏi đi hỏi lại 'em có chết không', liên tục xem điện thoại. Trấn an chung chung vô tác dụng; trấn an có cấu trúc (đã loại trừ gì, bằng chứng nào, mốc theo dõi nào, khi nào quay lại) thì anh bình tĩnh dần. Không giấu triệu chứng nhưng thổi phồng.",
+  "nguoi_nha": "Vợ, chị Thảo, 27 tuổi, kế toán, đi cùng lượt 1 và 3. Bình tĩnh hơn chồng, biết anh bị tiểu đường và hay nhắc tiêm insulin; KHÔNG biết anh tự giảm liều insulin vì sợ thuốc mới.",
+  "ten_nguoi_nha": "Chị Thảo (vợ)",
+  "ngoai_hinh": {
+   "da": "#dcae86",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#5b7ea8",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "so",
+   "nguoiNha": {
+    "da": "#e8bc96",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#c48a8a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, ho, đau ngực bên phải 3 ngày",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang (có siêu âm, xét nghiệm tại chỗ). CT và nội soi phế quản cũng không làm được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Trần Quốc Bảo, 29 tuổi, nhân viên kinh doanh, đái tháo đường típ 1 dùng insulin 11 năm, đi cùng vợ vì sốt, ho, đau ngực bên phải 3 ngày. Sinh hiệu: nhiệt độ 38,6 °C, mạch 96 l/p, HA 118/74 mmHg, nhịp thở 22 l/p, SpO₂ 96% khí trời, cân nặng 66 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Bảo 29 tuổi có CURB-65 = 0, PSI 39 (nhóm II), SpO₂ nghỉ 96%, một thùy, không tràn dịch, uống được, vợ ở nhà: không đủ tiêu chuẩn nhập viện (QĐ 2147/2026 mục 3.2.1, Bảng 3.1, mục 5.3.1). Nằm viện truyền kháng sinh là quá tay: anh mất cả tuần công, vốn đã sợ sẽ hiểu 'phải nằm viện' là bệnh rất nặng, càng hoảng và khó nghe dặn dò về insulin.",
+    "chuyen_tuyen": "Chuyển anh lên tuyến trên chỉ vì phòng khám không có X-quang là không cần: siêu âm phổi tại giường đã xác nhận viêm phổi (ATS 2025 câu hỏi 1; QĐ 2147 mục 3.1.5), CT chỉ cho viêm phổi nặng, phức tạp, tái phát (mục 3.1.4). Anh tốn kém, chờ nhiều giờ khi đang sốt, kháng sinh và dặn dò insulin bị chậm; chiều theo nỗi sợ còn củng cố cảm giác 'bệnh rất nặng'.",
+    "theo_doi": "Chỉ hạ sốt, hẹn xem lại mà không kháng sinh là bỏ sót điều trị viêm phổi đã chẩn đoán (QĐ 2147 mục 5.3.1: người có bệnh đồng mắc cần kháng sinh phối hợp hoặc quinolon hô hấp). Ở người đái tháo đường, nhiễm khuẩn không điều trị làm đường huyết tăng thêm và dễ thúc đẩy nhiễm toan ceton (ADA 2026 chương 6, Intercurrent illness); anh sốt tiếp, hụt hơi rồi đến muộn (thất bại điều trị sớm 10–15%: QĐ 2147 mục 5.5.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, em sốt ba ngày rồi, ho, đau nhói ngực bên phải, hít sâu là đau. Em đọc trên mạng thấy giống ung thư phổi với lao lắm. Bác sĩ chụp CT cho em, làm hết xét nghiệm cho em yên tâm đi.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "118/74",
+    "nhiet": "38,6",
+    "nhip_tho": 22,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt, ho, đau ngực bên phải 3 ngày; vợ giục đi khám, anh sợ bệnh nặng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba hôm liền ngồi máy tính khoảng 12 giờ/ngày trong phòng máy lạnh để chốt báo cáo quý, ít đứng dậy. Tối ngày 0 ớn lạnh, ho khan; ngày 1 sốt; ngày 2 ho đờm; hôm nay ngày 3.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Khởi phát sau ngồi lâu (gợi nghĩ thuyên tắc phổi nhưng bệnh cảnh là nhiễm khuẩn)",
+     "nhieu": 1
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Ho đờm vàng xanh đặc, không lẫn máu. Đau nhói ngực phải thấp, tăng khi hít sâu và ho, không lan, không đau khi gắng sức. Leo hai tầng thang phải nghỉ; nằm thẳng được. Đêm qua rét run, đo 38,9 °C.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho đờm mủ, đau màng phổi, sốt rét run"
+    },
+    {
+     "id": "duong_huyet",
+     "noi_dung": "Đường huyết ở nhà 3 ngày nay 13,8–15,6 mmol/L (thường 7–9). Khát, tiểu nhiều hơn. Không buồn nôn, nôn, đau bụng, không thở sâu. Nhà không có que thử ceton.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc nhiễm toan ceton"
+    },
+    {
+     "id": "insulin",
+     "noi_dung": "Đái tháo đường típ 1 từ năm 18 tuổi. Glargine 18 đơn vị lúc 22 giờ, aspart 6–8 đơn vị trước bữa chính. Ba tuần trước BHYT đổi sang bút glargine hãng khác. HbA1c lần trước (3 tháng) anh nhớ khoảng 8,6%. Chưa biến chứng mắt, thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Insulin đang dùng, nền đái tháo đường"
+    },
+    {
+     "id": "bo_insulin",
+     "noi_dung": "Tối qua anh tự bỏ mũi glargine, sáng nay chỉ tiêm nửa liều aspart, không nói với vợ, vì sợ bút insulin mới 'hại phổi'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể mấy ngày nay tiêm insulin thế nào, có bỏ hay giảm liều nào không; hỏi chung 'dùng thuốc đều không' thì anh nói 'dạ đều'.",
+     "y": "Tự bỏ, giảm insulin lúc nhiễm khuẩn"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Anh tin ho và tức ngực là tác dụng phụ của bút insulin mới vì ho bắt đầu sau khi đổi thuốc ba tuần (đọc trên diễn đàn); muốn hỏi có nên ngưng, sợ cả ung thư phổi, lao. Không dám nói trước mặt vợ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh nghĩ nguyên nhân là gì, lo nhất điều gì, hoặc lo gì về thuốc đang dùng; lúc đầu chỉ nói 'em sợ bệnh nặng'.",
+     "y": "Động cơ thật: nghi tác dụng phụ của thuốc"
+    },
+    {
+     "id": "sang_loc",
+     "noi_dung": "Trước đợt này không ho kéo dài, sụt cân, mồ hôi đêm, ho máu; không tiếp xúc người ho lâu ngày. Chân không sưng đau; không từng huyết khối, mổ, gãy xương, thuốc nội tiết, bay đường dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lao và thuyên tắc phổi"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Không dị ứng thuốc, kể cả penicillin; 3 tháng nay không dùng kháng sinh. Ở với vợ, nhà cách 4 km, uống được thuốc, có máy đo đường huyết. Không hút thuốc. Chưa tiêm cúm, phế cầu. Tuần trước hai đồng nghiệp cùng phòng nghỉ vì sốt, ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng, kháng sinh gần đây, người chăm sóc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lo lắng, nói nhanh. Môi hơi khô. Không thở sâu kiểu Kussmaul, hơi thở không mùi ceton. BMI 22,3.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Lồng ngực phải di động kém khi hít sâu. Đáy phổi phải phía sau: rung thanh tăng, gõ đục, ran nổ nhỏ hạt cuối thì hít vào. Phổi trái bình thường. Không dấu tràn dịch.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Lồng ngực phải di động kém khi hít sâu. Đáy phổi phải phía sau: rung thanh tăng, gõ đục. Phổi trái: rung thanh, gõ bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt cuối thì hít vào, đáy phổi phải."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù. Hai bắp chân mềm, không đau khi bóp, chu vi hai bên bằng nhau.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ hành lang 2 phút: SpO₂ 96% → 94%, thở 26 l/p, mạch 108; nghỉ 2 phút về 96%.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "e",
+     "r": "Đám mờ đông đặc thùy dưới phổi phải có hình phế quản hơi, không tràn dịch, không hang.",
+     "ab": 1,
+     "thay_the": "sa_phoi",
+     "n": "Cơ sở không có X-quang: thay bằng siêu âm phổi tại giường (ATS 2025 câu hỏi 1: lựa chọn thay thế chấp nhận được khi người làm đủ kinh nghiệm; QĐ 2147 mục 3.1.5)."
+    },
+    "sa_phoi": {
+     "v": "e",
+     "r": "Đông đặc dưới màng phổi đáy phổi phải khoảng 4,0 × 3,2 cm, bờ không đều, khí phế quản đồ di động theo nhịp thở, nhiều đường B quanh vùng đông đặc. Không tràn dịch. Phổi trái bình thường.",
+     "ab": 1,
+     "n": "Đông đặc di động theo nhịp thở, khí phế quản đồ, có thể kèm tràn dịch (QĐ 2147 mục 3.1.5); là mốc so sánh khi theo dõi."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "15,6 mmol/L (sau bữa sáng 2 giờ)",
+     "ab": 1,
+     "n": "Đang nhiễm khuẩn phải theo dõi glucose thường xuyên hơn (ADA 2026 chương 6, Intercurrent illness)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Glucose 3+ · Ceton âm tính · Protein, bạch cầu, nitrit, hồng cầu âm tính",
+     "ab": 1,
+     "bang": {
+      "u_glu": "3+",
+      "u_ket": "Âm tính"
+     },
+     "n": "Đo ceton khi ốm, nhất là glucose > 11,1 mmol/L (ADA 2026 chương 6). Ceton niệu âm, thở bình thường: chưa nhiễm toan ceton (đồng thuận ADA/EASD 2024 mục 3, Bảng 2)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 14,2 G/L · Neutrophil 82% · Hb 148 g/L · TC 262 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 14.2,
+      "neu_pct": 82.0,
+      "neu": 11.64,
+      "lym_pct": 11.0,
+      "lym": 1.56,
+      "mono_pct": 6.0,
+      "mono": 0.85,
+      "eos_pct": 0.5,
+      "eos": 0.07,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 4.9,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 89.8,
+      "mch": 30.2,
+      "mchc": 336,
+      "rdw": 12.9,
+      "plt": 262
+     },
+     "n": "Bạch cầu > 10 G/L, ưu thế đa nhân (QĐ 2147 mục 3.1.2)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "112 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 112
+     },
+     "n": "CRP tăng (QĐ 2147 mục 3.1.2); mốc so sánh lúc tái khám."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,6 mmol/L · Creatinin 82 µmol/L · eGFR 114 mL/ph/1,73m²",
+     "ab": 0,
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 114
+     },
+     "n": "Ure ≤ 7 mmol/L nên U của CURB-65 = 0 (QĐ 2147 mục 3.2.1); thận bình thường, không chỉnh liều kháng sinh (Phụ lục 1)."
+    },
+    "ddimer": {
+     "v": "a",
+     "r": "D-dimer 360 µg/L FEU (ngưỡng 500)",
+     "ab": 0,
+     "n": "Làm hay không đều chấp nhận (sổ mâu thuẫn HH-0930 mục 5): Wells = 0, PERC đạt đủ tiêu chí (AHA/ACC 2026 Bảng 3); Geneva sửa đổi = 5 (mạch ≥ 95) mức trung gian. 29 tuổi nên ngưỡng 500 µg/L."
+    },
+    "ct_nguc": {
+     "n": "Không cần và cơ sở không làm được: CT chỉ cho viêm phổi nặng, phức tạp, tái phát hoặc X-quang không rõ (QĐ 2147 mục 3.1.4). Đòi CT vì sợ hãi là chiều lòng, không phải chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng thùy dưới phổi phải mức nhẹ (CURB-65 = 0, PSI 39 nhóm II) ở người đái tháo đường típ 1 (bệnh đồng mắc), kèm tăng đường huyết do nhiễm khuẩn và tự bỏ insulin, chưa nhiễm toan ceton",
+     "ok": 1,
+     "n": "Sốt, rét run, ho đờm mủ, đau màng phổi, đông đặc, BC 14,2, CRP 112, khí phế quản đồ trên siêu âm (QĐ 2147 mục 3.1.1–3.1.5). CURB-65 = 0 (mục 3.2.1); CRB-65 = 0 (NICE NG250 2025 Box 1). PSI = 29 (tuổi) + 10 (glucose ≥ 14 mmol/L) = 39 (Bảng 3.1). Đái tháo đường là bệnh đồng mắc quyết định phác đồ (mục 5.3.1)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Khởi phát cấp 3 ngày, không ho trên 2 tuần, sụt cân, mồ hôi đêm, ho máu (QĐ 162/2024 Phần II mục 1.1, Bảng 1; QĐ 2147 mục 3.4.1). Đái tháo đường là yếu tố nguy cơ (QĐ 162/2024 Phần II mục 1.3) nên nghĩ lại nếu không đáp ứng (QĐ 2147 mục 5.5.2.2)."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Ngồi lâu là yếu tố nguy cơ yếu nên phải hỏi, nhưng không dấu huyết khối tĩnh mạch sâu, mạch 96, SpO₂ 96%, không ho máu, có chẩn đoán thay thế: Wells = 0, PERC đạt (AHA/ACC 2026 Bảng 3; QĐ 2147 mục 3.4.2)."
+    },
+    {
+     "t": "Nhiễm toan ceton đái tháo đường",
+     "n": "Glucose 15,6 mmol/L, đã bỏ một mũi glargine nhưng ceton niệu âm, không buồn nôn, đau bụng, thở sâu (đồng thuận ADA/EASD 2024 mục 3, Bảng 2). Sẽ xảy ra nếu tiếp tục bỏ insulin nền."
+    },
+    {
+     "t": "Ho, tức ngực do tác dụng phụ của bút insulin mới",
+     "n": "Cái neo của người bệnh. Không có đoạn nào trong tài liệu đã tải nêu insulin tiêm dưới da gây ho hay viêm phổi; sốt, BC, CRP, đông đặc giải thích đủ. Ngược lại, bỏ insulin gây hại (ADA 2026 chương 6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú có kiểm soát, hẹn tái khám 48–72 giờ (CURB-65 = 0, PSI nhóm II, uống được, vợ ở nhà, nhà cách 4 km)",
+     "v": "c",
+     "n": "CURB-65 0–1, PSI ≤ 70: ngoại trú (QĐ 2147 mục 3.2.1, Bảng 3.1); CRB-65 = 0 kèm dặn dò an toàn (NICE NG250 2025 khuyến cáo 1.2.3). Đánh giá lại sau 48–72 giờ (QĐ 2147 mục 5.2)."
+    },
+    {
+     "t": "Kháng sinh uống: amoxicillin/acid clavulanic 875/125 mg mỗi 12 giờ + doxycyclin 100 mg × 2 lần/ngày, HOẶC amoxicillin 500 mg–1 g × 3 lần/ngày đơn trị",
+     "v": "c",
+     "n": "Phối hợp cho người có bệnh đồng mắc, gồm đái tháo đường: QĐ 2147 mục 5.3.1, Bảng 4.4; ATS/IDSA 2019 câu hỏi 8, Bảng 3. Đơn trị: NICE NG250 2025 Bảng 1 (mức nhẹ, 500 mg × 3 lần/ngày, 'có thể liều cao hơn'); QĐ 4235 bài VPMPCĐ mục 3.2.1 (500 mg–1 g). Khác nhau vì NICE phân tầng theo độ nặng (CRB-65 = 0), QĐ 2147 và ATS/IDSA xếp đái tháo đường vào bệnh đồng mắc; cả hai đều đúng."
+    },
+    {
+     "t": "Thời gian: 5–7 ngày (tối thiểu 5 ngày) HOẶC dưới 5 ngày (tối thiểu 3 ngày) nếu sau 48–72 giờ đã ổn định hoàn toàn",
+     "v": "c",
+     "n": "5–7 ngày: QĐ 2147 mục 5.6.2, 5.4.1.1; NICE NG250 2025 khuyến cáo 1.6.3. Dưới 5 ngày: ATS 2025 câu hỏi 3 (có điều kiện); Bảng 1 nêu rào cản tự theo dõi, tái khám làm yếu khuyến cáo (anh rất lo lắng). Dưới 3 ngày hoặc ngừng ngay khi hết sốt: cả hai nguồn không ủng hộ."
+    },
+    {
+     "t": "Giữ nguyên insulin: tiêm đủ glargine 18 đơn vị và aspart theo bữa, KHÔNG bỏ hay giảm insulin nền dù ăn kém; đo glucose thường xuyên hơn, đo ceton niệu khi glucose > 11,1 mmol/L (mua que thử)",
+     "v": "c",
+     "n": "ADA 2026 chương 6 (Intercurrent illness): ốm làm tăng nguy cơ tăng đường huyết, có thể thúc đẩy cơn tăng đường huyết; người dùng insulin tích cực không ngưng nền ngay cả khi không ăn; đo ceton khi ốm, glucose > 11,1 mmol/L; khuyến cáo 6.22 giáo dục xử trí ngày ốm. Liều hiệu chỉnh aspart: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi riêng nỗi lo thuốc, giải thích bệnh do nhiễm khuẩn, KHÔNG ngưng insulin (còn lo về bút mới thì hẹn đội đái tháo đường); trấn an có cấu trúc, không theo yêu cầu CT: siêu âm đã thấy viêm phổi một thùy, ceton âm, vì sao ít nghĩ lao và thuyên tắc phổi; sốt hết khoảng 1 tuần, ho còn vài tuần là bình thường",
+     "v": "c",
+     "n": "Động cơ thật; không giải quyết thì anh tiếp tục bỏ insulin. NICE NG250 2025 khuyến cáo 1.10.1 (sốt hết sau 1 tuần, đau ngực và đờm giảm sau 4 tuần, ho giảm sau 6 tuần), 1.10.3 (dặn tác dụng phụ thuốc). CT không có chỉ định (QĐ 2147 mục 3.1.4). Cách giao tiếp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt paracetamol 0,5 g khi > 38,5 °C (≤ 4 viên/ngày), uống đủ nước; dặn quay lại ngay khi buồn nôn, nôn, đau bụng, thở sâu nhanh; thở ≥ 30 l/p, nói không hết câu, môi tím, lú lẫn; sốt không bớt sau 3 ngày",
+     "v": "c",
+     "n": "QĐ 4235 bài VPMPCĐ mục 3.2.2 (hạ sốt khi > 38,5 °C), bài Viêm phổi bệnh viện mục 3.4 (0,5 g/lần, ≤ 4 viên/ngày). ADA 2026 chương 6 (nhận biết sớm nhiễm toan ceton). Thở ≥ 30, lú lẫn, HA tụt: tiêu chí CURB-65 (QĐ 2147 mục 3.2.1). NICE NG250 2025 khuyến cáo 1.10.3: không đỡ sau 3 ngày thì tìm tư vấn."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh, hoặc chuyển tuyến chụp X-quang/CT ngực",
+     "v": "w",
+     "n": "CURB-65 = 0, PSI nhóm II, uống được (QĐ 2147 mục 3.2.1, 5.3.1); truyền tĩnh mạch dành cho người nhập viện (mục 5.2). Siêu âm đã xác nhận (ATS 2025 câu hỏi 1); CT chỉ cho ca nặng, phức tạp, tái phát (mục 3.1.4). Chiều theo nỗi sợ."
+    },
+    {
+     "t": "Để anh ngưng hoặc giảm insulin vì nghi bút mới gây ho",
+     "v": "h",
+     "n": "Người dùng insulin tích cực không được ngưng hay hoãn insulin nền kể cả khi không ăn, vì nhiễm khuẩn dễ thúc đẩy nhiễm toan ceton (ADA 2026 chương 6, Hyperglycemic crises)."
+    },
+    {
+     "t": "Corticoid toàn thân, thuốc ho ức chế, kháng sinh dưới 3 ngày",
+     "v": "w",
+     "n": "Corticoid: ATS 2025 câu hỏi 4, khuyến cáo mạnh không dùng ở viêm phổi không nặng, làm tăng đường huyết. Thuốc ho: QĐ 4235 bài Ho kéo dài mục 3.2. Dưới 3 ngày: ATS 2025 câu hỏi 3; QĐ 2147 mục 5.4.1.1."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi mắc phải cộng đồng, đông đặc thùy dưới phổi phải (siêu âm phổi thay X-quang); mức nhẹ: CURB-65 = 0, PSI 39 nhóm II (QĐ 2147 mục 3.2.1, Bảng 3.1)",
+     "Bệnh đồng mắc: đái tháo đường típ 1, HbA1c 9,4%, tăng đường huyết do nhiễm khuẩn và tự bỏ insulin; ceton niệu âm, chưa nhiễm toan ceton",
+     "Căn nguyên chưa rõ, nghĩ vi khuẩn điển hình (phế cầu, H. influenzae)",
+     "Ít khả năng: lao phổi, thuyên tắc phổi (Wells 0, PERC đạt); bút insulin mới không phải nguyên nhân"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: khởi phát cấp sau 3 ngày ngồi máy lạnh, sốt rét run, ho đờm mủ, đau màng phổi; nền đái tháo đường, cách dùng insulin, triệu chứng nhiễm toan ceton; lao, thuyên tắc phổi, dị ứng; cuối cùng hỏi anh nghĩ nguyên nhân là gì để lộ nỗi lo về bút insulin. Sau đó khám phổi, SpO₂ gắng sức, siêu âm phổi thay X-quang, CTM, CRP, ure, ceton niệu. (QĐ 2147 mục 3.1.1–3.1.5).",
+     "Vì sao nhẹ: CURB-65 mọi mục 0; PSI = 29 + 10 (glucose ≥ 14 mmol/L) = 39; 0/9 tiêu chuẩn phụ ATS (QĐ 2147 mục 3.2.1, 3.2.3, Bảng 3.1). Chưa nhiễm toan ceton: ceton niệu âm, không nôn, đau bụng, thở sâu (đồng thuận ADA/EASD 2024 mục 3, Bảng 2) nhưng đã bỏ một mũi glargine là nguy cơ. Không thuyên tắc phổi, lao: Wells 0, PERC đạt; ho mới 3 ngày."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú có kiểm soát, tái khám 48–72 giờ (QĐ 2147 mục 3.2.1, 5.2). Kháng sinh phối hợp vì đái tháo đường là bệnh đồng mắc (mục 5.3.1; ATS/IDSA 2019 Bảng 3) hoặc amoxicillin đơn trị (NICE NG250 2025 Bảng 1); thận bình thường nên không chỉnh liều.",
+     "Insulin quan trọng ngang kháng sinh: không bỏ mũi nền, đo glucose và ceton (ADA 2026 chương 6). Sai: nhập viện, chuyển CT vì sợ hãi, corticoid, ngưng insulin."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin/acid clavulanic",
+      "ham_luong": "Viên 875/125 mg",
+      "lieu": "1 viên mỗi 12 giờ (QĐ 2147 Bảng 4.4)",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu hôm nay, đầu bữa ăn, cách 12 giờ",
+      "so_ngay": "7 ngày (QĐ 2147 mục 5.6.2; NICE NG250 2025 khuyến cáo 1.6.3)",
+      "ghi_chu": "Phối hợp doxycyclin (QĐ 2147 mục 5.3.1; ATS/IDSA 2019 Bảng 3). Hoặc amoxicillin 500 mg–1 g × 3 lần/ngày (NICE NG250 2025 Bảng 1). Không dị ứng penicillin; eGFR 114 nên không chỉnh liều (Phụ lục 1). Báo trước tác dụng phụ tiêu hóa (NICE khuyến cáo 1.10.3)."
+     },
+     {
+      "thuoc": "Doxycyclin",
+      "ham_luong": "Viên 100 mg",
+      "lieu": "100 mg × 2 lần/ngày (QĐ 2147 mục 5.3.1; ATS/IDSA 2019 Bảng 3)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, uống nhiều nước",
+      "so_ngay": "7 ngày cùng amoxicillin/acid clavulanic",
+      "ghi_chu": "Hoặc 200 mg ngày 1 rồi 100 mg × 1 lần/ngày (NICE NG250 2025 Bảng 1). Lời dặn uống nhiều nước: cách làm lâm sàng, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1 viên mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi > 38,5 °C, cách ≥ 4–6 giờ",
+      "so_ngay": "Khi cần; không quá 4 viên/ngày",
+      "ghi_chu": "QĐ 4235 bài VPMPCĐ mục 3.2.2; bài Viêm phổi bệnh viện mục 3.4."
+     },
+     {
+      "thuoc": "Insulin glargine và aspart (đang dùng)",
+      "ham_luong": "Bút của anh",
+      "lieu": "Glargine 18 đơn vị lúc 22 giờ; aspart 6–8 đơn vị trước bữa như cũ",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Không bỏ mũi nền; aspart theo bữa thực tế",
+      "so_ngay": "Liên tục",
+      "ghi_chu": "Giữ nguyên (ADA 2026 chương 6). Liều hiệu chỉnh khi glucose cao: không có trong tài liệu đã tải; hỏi đội đái tháo đường."
+     }
+    ],
+    "dan_do": [
+     "Uống kháng sinh đủ cữ, đủ 7 ngày dù hết sốt; buồn nôn hay tiêu lỏng thì báo lại chứ không tự bỏ cữ (NICE NG250 2025 khuyến cáo 1.10.3).",
+     "Tiêm insulin như cũ kể cả khi ăn ít; đo glucose trước bữa và trước ngủ; mua que thử, đo ceton khi glucose > 11,1 mmol/L (ADA 2026 chương 6). Tần suất đo cụ thể: không có trong tài liệu đã tải.",
+     "Quay lại ngay khi: buồn nôn, nôn, đau bụng, thở sâu nhanh; thở ≥ 30 l/p, nói không hết câu, môi tím, lú lẫn; ho ra máu. Sau 3 ngày chưa đỡ cũng quay lại. Mốc hồi phục: sốt hết sau 1 tuần, ho giảm sau 6 tuần (NICE NG250 2025 khuyến cáo 1.10.1, 1.10.3)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 3 ngày điều trị (ngày 6 của bệnh). Anh Bảo nói đã uống thuốc đủ; sốt giảm nhưng chưa hết, còn ho đờm, ăn kém, đi ngoài lỏng. Sinh hiệu: nhiệt độ 37,8 °C, mạch 92 l/p, HA 116/72 mmHg, nhịp thở 20 l/p, SpO₂ 96% khí trời.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Bảo đã bớt sốt, CRP giảm từ 112 còn 68, vùng đông đặc nhỏ đi, SpO₂ 96%, pH 7,38 và bicarbonat 22: đáp ứng một phần, chưa phải thất bại điều trị sớm (xấu đi trong 72 giờ: QĐ 2147/2026 mục 5.5.1) và chưa nhiễm toan ceton (đồng thuận ADA/EASD 2024 mục 3, Bảng 2). Nhập viện là quá tay, anh mất thêm ngày công và càng tin bệnh nặng; việc cần là tiêm lại insulin đủ liều và uống đủ cữ kháng sinh.",
+    "chuyen_tuyen": "Chuyển tuyến chụp CT vì 'chưa hết sốt' là không có chỉ định: CT dành cho ca nặng, phức tạp, tái phát (QĐ 2147 mục 3.1.4), còn anh đang cải thiện và siêu âm không thấy biến chứng. Anh tốn kém, chờ lâu, nỗi sợ ung thư càng lớn, trong khi nguyên nhân đáp ứng chậm (uống thiếu thuốc, đường huyết cao) vẫn chưa được xử lý.",
+    "theo_doi": "Chỉ dặn 'uống tiếp, hết sốt thì thôi' mà không hỏi cách uống thuốc và tiêm insulin sẽ bỏ sót hai nguyên nhân khiến anh đáp ứng chậm (QĐ 2147 mục 5.5.2.2a–b). Glucose 17,4 mmol/L kèm ceton niệu dương tính mà không hẹn lại sớm có thể tiến tới nhiễm toan ceton (ADA 2026 chương 6, Hyperglycemic crises); anh vẫn đang giảm insulin vì sợ bút mới."
+   },
+   "loi_mo": "Dạ em uống thuốc đủ rồi bác sĩ, mà sao vẫn còn sốt nhẹ, còn ho nhiều. Em đi ngoài lỏng nữa. Có phải thuốc không hợp, hay em bị gì nặng hơn rồi? Bác sĩ chụp CT lại cho em đi.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "116/72",
+    "nhiet": "37,8",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt giảm (đỉnh 38,4 °C tối qua, sáng nay 37,8), đau ngực phải nhẹ hơn, còn ho đờm vàng, mệt, ăn ít, đi ngoài phân lỏng 2–3 lần/ngày từ ngày thứ hai uống thuốc, buồn nôn nhẹ; khát, tiểu nhiều, không nôn, không đau bụng, không thở sâu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn biến sau 3 ngày điều trị, sàng lọc nhiễm toan ceton"
+    },
+    {
+     "id": "bo_thuoc",
+     "noi_dung": "Thực ra mỗi ngày chỉ uống cữ tối (amoxicillin/acid clavulanic và doxycyclin), bỏ cữ sáng vì không ăn sáng, sợ buồn nôn và 'thuốc chồng thuốc làm hạ đường huyết'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi từng cữ uống thuốc trong ngày, có cữ nào bỏ không, có tác dụng phụ không; hỏi 'uống đủ chưa' anh nói 'dạ đủ'.",
+     "y": "Uống thiếu một nửa liều kháng sinh"
+    },
+    {
+     "id": "giam_insulin",
+     "noi_dung": "Hai đêm nay chỉ tiêm glargine 10 đơn vị, aspart chỉ tiêm khi ăn đủ bữa (gần như không). Đường huyết ở nhà 14–19 mmol/L. Vợ không biết. Anh vẫn nghi bút mới là nguồn gốc cơn ho và sợ kháng sinh cộng insulin gây hạ đường huyết khi ăn kém.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi liều insulin mỗi ngày bây giờ, có đổi liều không, xem nhật ký đường huyết, hoặc anh còn lo gì về thuốc.",
+     "y": "Vẫn giảm insulin; nguyên nhân tăng đường huyết và đáp ứng chậm"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Anh nghỉ làm 3 ngày, sếp nhắc chốt số; vợ đi làm ban ngày, tối ở nhà.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, bớt hoảng hơn lần trước. Môi hơi khô, không thở sâu kiểu Kussmaul, hơi thở không mùi ceton.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Đáy phổi phải phía sau: rung thanh tăng nhẹ, gõ đục ít hơn lần trước, ran nổ nhỏ hạt thưa hơn. Phổi trái bình thường. Không dấu tràn dịch.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Đáy phổi phải phía sau: rung thanh tăng nhẹ, gõ đục. Phổi trái: rung thanh, gõ bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt cuối thì hít vào, thưa hơn lần trước."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "sa_phoi": {
+     "v": "e",
+     "r": "Đông đặc đáy phổi phải 3,6 × 2,8 cm (lần trước 4,0 × 3,2 cm), vẫn khí phế quản đồ, đường B ít hơn. Không tràn dịch.",
+     "ab": 1,
+     "n": "Theo dõi đáp ứng: đông đặc nhỏ dần, không dịch (QĐ 2147 mục 3.1.5, 5.6.2)."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "17,4 mmol/L",
+     "ab": 1,
+     "n": "Tăng đường huyết kéo dài do giảm insulin và nhiễm khuẩn (ADA 2026 chương 6)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Glucose 3+ · Ceton 1+",
+     "ab": 1,
+     "bang": {
+      "u_glu": "3+",
+      "u_ket": "+"
+     },
+     "n": "Ceton 1+ khi glucose > 11,1 mmol/L: phải tìm nhiễm toan (ADA 2026 chương 6); nhiễm toan ceton cần ceton niệu ≥ 2+ kèm pH < 7,3 hoặc bicarbonat < 18 (đồng thuận ADA/EASD 2024 mục 3, Bảng 2)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "68 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 68
+     },
+     "n": "Giảm từ 112 xuống 68 mg/L (khoảng 40%): đáp ứng (QĐ 2147 mục 3.1.2, 5.6.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng thùy dưới phổi phải đáp ứng một phần sau 72 giờ (đáp ứng chậm do uống thiếu kháng sinh và tăng đường huyết do giảm insulin, ceton niệu 1+, chưa nhiễm toan ceton), không phải thất bại điều trị sớm",
+     "ok": 1,
+     "n": "Thất bại điều trị sớm là xấu đi trong 72 giờ đầu (QĐ 2147 mục 5.5.1b); anh bớt sốt, CRP giảm khoảng 40%, đông đặc nhỏ dần. Đái tháo đường làm kéo dài đáp ứng (mục 5.5.1c); tuân thủ kém là nguyên nhân phải xét (mục 5.5.2.2a). NICE NG250 2025 khuyến cáo 1.10.1: sốt hết sau khoảng 1 tuần."
+    },
+    {
+     "t": "Thất bại điều trị sớm, vi khuẩn kháng thuốc, biến chứng tràn dịch hoặc áp xe",
+     "n": "Không xấu đi; siêu âm không dịch, không hoại tử; chưa có cơ sở đổi kháng sinh (QĐ 2147 mục 5.2: chỉ đổi khi không cải thiện hoặc xấu hơn; mục 3.5)."
+    },
+    {
+     "t": "Nhiễm toan ceton đái tháo đường",
+     "n": "Ceton niệu 1+, pH 7,38, HCO₃⁻ 22: chưa; sẽ xảy ra nếu tiếp tục giảm insulin (đồng thuận ADA/EASD 2024 mục 3, Bảng 2; ADA 2026 chương 6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không đổi kháng sinh vì đáp ứng một phần chưa phải thất bại; khai thác từng cữ uống thuốc và liều insulin để tìm nguyên nhân đáp ứng chậm",
+     "v": "c",
+     "n": "QĐ 2147 mục 5.2 (đánh giá 48–72 giờ, chỉ đổi khi không cải thiện hoặc xấu hơn), mục 5.5.1c, 5.5.2.2a–b (không tuân thủ, đái tháo đường làm kéo dài đáp ứng)."
+    },
+    {
+     "t": "Uống đủ cữ, không bỏ cữ sáng; tiêu lỏng nhẹ không phải lý do ngưng thuốc, nặng hơn hoặc không dung nạp thì báo để đổi (cefpodoxim 200 mg × 2 lần/ngày + doxycyclin)",
+     "v": "c",
+     "n": "NICE NG250 2025 khuyến cáo 1.10.3. Thay thế: ATS/IDSA 2019 Bảng 3, QĐ 2147 mục 5.3.1. Uống đầu bữa ăn nhẹ: cách làm lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêm lại insulin đủ liều: glargine 18 đơn vị mỗi đêm không giảm, aspart theo bữa; đo glucose và ceton niệu thường xuyên; hẹn đội đái tháo đường chỉnh liều aspart",
+     "v": "c",
+     "n": "ADA 2026 chương 6: không ngưng hay giảm insulin nền khi ốm, đo ceton, khuyến cáo 6.22. Liều hiệu chỉnh cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục kháng sinh, chưa chốt ngày dừng; dự kiến tổng 7–10 ngày vì đáp ứng chậm, quyết định ở lần tái khám sau",
+     "v": "c",
+     "n": "QĐ 2147 mục 5.6.2: người cải thiện chậm cần kéo dài kháng sinh và tìm nguyên nhân; mục 5.2: 7–10 ngày. NICE NG250 2025 khuyến cáo 1.6.3: chỉ dừng sau 5 ngày khi không sốt trong 48 giờ (anh còn sốt 37,8). ATS 2025 câu hỏi 3 (dưới 5 ngày) chỉ cho người đã ổn định."
+    },
+    {
+     "t": "Hỏi lại nỗi lo về thuốc, trấn an có cấu trúc (các mốc đã cải thiện, vì sao không cần CT, hai việc anh phải làm), hẹn tái khám 48–72 giờ và gọi sớm nếu buồn nôn, nôn, đau bụng, thở sâu",
+     "v": "c",
+     "n": "NICE NG250 2025 khuyến cáo 1.10.1, 1.10.3; ADA 2026 chương 6 (dấu hiệu nhiễm toan ceton). Ngưỡng glucose để gọi điện: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nâng lên ceftriaxon tiêm, nhập viện, hoặc chuyển tuyến chụp CT vì chưa hết sốt",
+     "v": "w",
+     "n": "Chưa thất bại điều trị (QĐ 2147 mục 5.2, 5.5.1b); tiêm tĩnh mạch dành cho người nhập viện; CT chỉ cho ca nặng, phức tạp, tái phát (mục 3.1.4)."
+    },
+    {
+     "t": "Đồng ý để anh tiếp tục giảm insulin vì ăn kém, sợ hạ đường huyết",
+     "v": "h",
+     "n": "Không ngưng hay giảm insulin nền ngay cả khi không ăn; ceton đã 1+ (ADA 2026 chương 6, Hyperglycemic crises)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng thùy dưới phổi phải đáp ứng một phần sau 72 giờ (đáp ứng chậm, chưa phải thất bại điều trị sớm)",
+     "Nguyên nhân đáp ứng chậm: uống thiếu một nửa liều kháng sinh; tăng đường huyết 17,4 mmol/L, ceton niệu 1+ do giảm insulin nền; bệnh đồng mắc đái tháo đường",
+     "Chưa nhiễm toan ceton (pH 7,38, HCO₃⁻ 22), chưa biến chứng; tiêu lỏng nhẹ do kháng sinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn biến sốt, ho, đau ngực; tác dụng phụ; từng cữ uống thuốc; liều insulin và nhật ký đường huyết; triệu chứng nhiễm toan ceton. Anh nói 'uống đủ' nhưng chỉ hỏi chi tiết mới lộ ra bỏ cữ sáng và giảm insulin.",
+     "Vì sao không thất bại: thất bại sớm là xấu đi trong 72 giờ (QĐ 2147 mục 5.5.1b); anh đang tốt lên, chỉ chậm do uống thiếu thuốc và tăng đường huyết (mục 5.5.1c, 5.5.2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ phác đồ, sửa nguyên nhân: uống đủ cữ, tiêm đủ insulin nền, đo glucose và ceton (QĐ 2147 mục 5.2, 5.5.2.2; ADA 2026 chương 6); kéo dài kháng sinh 7–10 ngày (mục 5.6.2, 5.2), không dừng ở ngày 5 vì còn sốt (NICE NG250 2025 khuyến cáo 1.6.3). Sai: tăng cấp kháng sinh, nhập viện, chuyển CT, ngừng thuốc vì tiêu lỏng, đồng ý giảm insulin."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin/acid clavulanic (tiếp tục)",
+      "ham_luong": "Viên 875/125 mg",
+      "lieu": "1 viên mỗi 12 giờ (QĐ 2147 Bảng 4.4)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, đầu bữa ăn nhẹ, không bỏ cữ sáng",
+      "so_ngay": "Tổng 7–10 ngày từ lượt 1 (QĐ 2147 mục 5.6.2, 5.2); chốt ở lần tái khám",
+      "ghi_chu": "Phối hợp doxycyclin 100 mg × 2 lần/ngày như cũ (QĐ 2147 mục 5.3.1). Không đổi vì chưa thất bại (mục 5.2). Báo trước tác dụng phụ tiêu hóa (NICE NG250 2025 khuyến cáo 1.10.3)."
+     }
+    ],
+    "dan_do": [
+     "Uống cả cữ sáng và tối; tiêu lỏng nhẹ vẫn uống, báo nếu nặng (NICE NG250 2025 khuyến cáo 1.10.3).",
+     "Tiêm glargine 18 đơn vị mỗi đêm; đo glucose trước ăn và trước ngủ, ceton khi glucose > 11,1 mmol/L; gọi ngay nếu nôn, đau bụng, thở sâu nhanh (ADA 2026 chương 6). Tái khám sau 48–72 giờ, mang nhật ký đường huyết."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Ngày 19 của bệnh. Anh Bảo đi cùng vợ; sau lượt 2 anh uống đủ 10 ngày kháng sinh, hết sốt từ ngày 8, nay sốt trở lại 2 ngày, ho đờm vàng xanh, đau ngực phải tăng. Sinh hiệu: nhiệt độ 38,5 °C, mạch 112 l/p, HA 112/70 mmHg, nhịp thở 24 l/p, SpO₂ 94% khí trời.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Anh Bảo sốt lại 7 ngày sau khi hết thuốc, mạch 112, SpO₂ 94%, đông đặc lớn hơn và có tràn dịch màng phổi mới: thất bại điều trị muộn (QĐ 2147/2026 mục 5.5.1b). Cho về uống thuốc khác khi không chụp được phim, không cấy, chưa rõ dịch là gì thì tràn dịch cận viêm phổi có thể thành mủ màng phổi (QĐ 2147 mục 5.6.2; BTS 2023).",
+    "chuyen_tuyen": "Chuyển lên tuyến tỉnh khi bệnh viện huyện có X-quang, siêu âm, xét nghiệm, khoa Nội và hội chẩn nội tiết là chưa cần: viêm phổi tái phát không nặng (không tiêu chuẩn ICU: QĐ 2147 mục 3.2.3), tràn dịch ít, chưa suy hô hấp. Anh đi xa, vợ nghỉ phép theo, chi phí tăng, kháng sinh tĩnh mạch bắt đầu chậm.",
+    "theo_doi": "Giữ ở phòng khám theo dõi vài giờ rồi cho về chỉ bằng kháng sinh uống là không đủ: phòng khám không có X-quang, CT, không chọc được dịch màng phổi, không theo dõi được ceton liên tục. QĐ 2147 mục 3.1.4 chỉ định CT cho viêm phổi tái phát; mục 5.5.2.2d xét nghiệm tìm nguyên nhân thất bại."
+   },
+   "loi_mo": "Bác sĩ ơi, em uống hết thuốc rồi mà sốt lại, đau ngực nữa. Em đã sợ là thuốc tiêm hại phổi rồi, giờ có phải em bị lao hay ung thư thật không?",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "112/70",
+    "nhiet": "38,5",
+    "nhip_tho": 24,
+    "spo2": 94,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết thuốc 7 ngày; 2 ngày nay sốt lại 38,5 °C, rét run, ho đờm vàng xanh trở lại, đau ngực phải tăng khi hít sâu, hụt hơi hơn. Ho tổng cộng 19 ngày. Sau lượt 2 anh uống đủ cữ, hết tiêu lỏng sau 3 ngày, hết sốt từ ngày 8, uống đủ 10 ngày rồi dừng, đi làm lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Sốt tái phát sau khi hết kháng sinh; đã tuân thủ"
+    },
+    {
+     "id": "giam_insulin",
+     "noi_dung": "Anh tiêm lại glargine 18 đơn vị được 4 ngày thì thấy đường huyết vẫn 12–16 nên lại sợ, giảm xuống 12 đơn vị và gần như bỏ aspart từ ngày 8. Đường huyết ở nhà 15–19 mmol/L. Vợ không biết. Anh vẫn tin bút mới 'hại phổi' và coi lần sốt lại là bằng chứng; sợ bác sĩ bắt dùng tiếp, sợ ung thư, lao.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi liều insulin hiện tại, có đổi liều gần đây không, xem nhật ký đường huyết, hoặc hỏi thẳng anh nghĩ vì sao sốt lại, còn lo thuốc nào; nói dè dặt rồi bật khóc.",
+     "y": "Vẫn giảm insulin; nguyên nhân nền chưa xử lý"
+    },
+    {
+     "id": "sang_loc",
+     "noi_dung": "Không mồ hôi đêm, không ho ra máu; sụt 2 kg trong 3 tuần (ăn ít, đường huyết cao); không tiếp xúc người ho lâu ngày. Chân không sưng đau; vẫn ngồi máy tính nhiều giờ nhưng đứng dậy đi lại. Khát, tiểu nhiều, buồn nôn nhẹ, không nôn, không đau bụng, không thở sâu nhanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lao (ho trên 2 tuần), thuyên tắc phổi, nhiễm toan ceton"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Vợ nghỉ phép đi cùng; có BHYT; bệnh viện huyện cách 6 km. Anh lo mất việc nhưng lo bệnh phổi hơn. Không dị ứng; vừa dùng amoxicillin/acid clavulanic và doxycyclin 10 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quyết định nơi điều trị; kháng sinh gần đây"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lo lắng, gầy hơn 2 kg, môi khô. Không thở sâu kiểu Kussmaul, hơi thở không mùi ceton. Không tím.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p. Đáy phổi phải phía sau: gõ đục từ góc sườn hoành lên cao khoảng 5 cm, rung thanh giảm, rì rào phế nang giảm; ngay trên vùng đục còn ran nổ nhỏ hạt. Phổi trái bình thường.",
+     "k": 1,
+     "hien": "Nhịp thở 24 l/p. Đáy phổi phải phía sau: gõ đục từ góc sườn hoành lên cao khoảng 5 cm, rung thanh giảm. Phổi trái: rung thanh, gõ bình thường.",
+     "media": [
+      {
+       "vi_tri": "Phía sau phổi phải, trên vùng đục",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt cuối thì hít vào, ngay trên vùng gõ đục."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 112 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù, hai bắp chân mềm, không đau, chu vi hai bên bằng nhau.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "sa_phoi": {
+     "v": "e",
+     "r": "Đông đặc đáy phổi phải 3,9 × 3,0 cm (lượt 2: 3,6 × 2,8 cm), có khí phế quản đồ. Tràn dịch màng phổi phải mới, lớp dịch dày 1,8 cm ở góc sườn hoành, trong, không vách.",
+     "ab": 1,
+     "n": "Phát hiện tràn dịch cận viêm phổi, đánh giá biến chứng và làm mốc theo dõi (QĐ 2147 mục 3.1.5, 5.5.2.2c, 5.6.2)."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "18,6 mmol/L",
+     "ab": 1,
+     "n": "Tăng đường huyết kéo dài (ADA 2026 chương 6)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Glucose 3+ · Ceton 1+",
+     "ab": 1,
+     "bang": {
+      "u_glu": "3+",
+      "u_ket": "+"
+     },
+     "n": "Ceton niệu 1+ khi glucose > 11,1 mmol/L (ADA 2026 chương 6); chưa đủ tiêu chuẩn nhiễm toan ceton khi chưa có toan (đồng thuận ADA/EASD 2024 mục 3, Bảng 2)."
+    },
+    "xpert": {
+     "v": "e",
+     "r": "Xpert MTB/RIF đờm: không phát hiện MTB. Soi AFB đờm: âm tính.",
+     "ab": 0,
+     "n": "Ho trên 2 tuần (QĐ 162/2024 Phần II mục 1.1, Bảng 1) và đái tháo đường (mục 1.3): phải loại trừ lao (QĐ 2147 mục 3.4.1, 5.5.2.2a). Âm một lần chưa loại hẳn."
+    },
+    "cay": {
+     "v": "u",
+     "r": "Nhuộm Gram đờm: nhiều bạch cầu đa nhân, vi khuẩn Gram dương và Gram âm lẫn lộn. Cấy đờm: chờ 48 giờ.",
+     "ab": 1,
+     "n": "Tìm căn nguyên khi thất bại điều trị (QĐ 2147 mục 5.5.2.2d); lấy trước kháng sinh mới (mục 5.2). Cấy máu làm ngay khi nhập viện."
+    },
+    "crp": {
+     "v": "u",
+     "r": "131 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 131
+     },
+     "n": "Tăng lại sau khi giảm ở lượt 2 (QĐ 2147 mục 3.1.2, 5.5.2.2d)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 15,9 G/L · Neutrophil 84% · Hb 143 g/L · TC 330 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.9,
+      "neu_pct": 84.0,
+      "neu": 13.36,
+      "lym_pct": 9.0,
+      "lym": 1.43,
+      "mono_pct": 6.0,
+      "mono": 0.95,
+      "eos_pct": 0.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.08,
+      "rbc": 4.9,
+      "hgb": 143,
+      "hct": 0.44,
+      "mcv": 89.8,
+      "mch": 29.2,
+      "mchc": 325,
+      "rdw": 12.9,
+      "plt": 330
+     },
+     "n": "Bạch cầu tăng lại (QĐ 2147 mục 3.1.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng thùy dưới phổi phải tái phát (thất bại điều trị muộn) kèm tràn dịch màng phổi cận viêm phổi lượng ít, ở người đái tháo đường típ 1 tăng đường huyết kéo dài do tự giảm insulin (nguyên nhân nền); chưa nhiễm toan ceton",
+     "ok": 1,
+     "n": "Sốt tái phát sau khi hết kháng sinh, đông đặc lớn hơn, dịch mới, CRP và BC tăng lại: thất bại điều trị muộn (QĐ 2147 mục 5.5.1b). Phải xét căn nguyên, kháng thuốc, bệnh đồng mắc đái tháo đường, biến chứng tràn dịch (mục 5.5.2.2a–c). Đã uống đủ 10 ngày; nguyên nhân nền chưa xử lý là tự giảm insulin."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho 19 ngày và đái tháo đường (QĐ 162/2024 Phần II mục 1.1, 1.3), nhưng khởi phát cấp, sốt cao, đáp ứng ban đầu với kháng sinh, không mồ hôi đêm, ho máu; Xpert, AFB âm (QĐ 2147 mục 3.4.1). Chưa loại hẳn: không đáp ứng phác đồ mới thì làm lại và chụp CT (QĐ 162/2024 Phần II Sơ đồ 1)."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Mạch 112, đau màng phổi, ngồi lâu, nhưng không dấu huyết khối tĩnh mạch sâu, không ho máu, sốt và đông đặc giải thích bệnh cảnh: Wells = 1,5 (AHA/ACC 2026 Bảng 3; QĐ 2147 mục 3.4.2). Nghĩ lại nếu CT phát hiện."
+    },
+    {
+     "t": "Nhiễm toan ceton đái tháo đường",
+     "n": "Ceton niệu 1+, buồn nôn nhẹ, không thở sâu; cần khí máu và ceton máu khi nhập viện (đồng thuận ADA/EASD 2024 mục 3, Bảng 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện khoa Nội bệnh viện huyện (có X-quang, CT, siêu âm, hội chẩn nội tiết) cùng ngày: viêm phổi tái phát kèm tràn dịch mới, tăng đường huyết có ceton, SpO₂ 94%, mạch 112",
+     "v": "c",
+     "n": "QĐ 2147 mục 5.3.1: tràn dịch màng phổi, tổn thương tiến triển nên nhập viện kháng sinh tĩnh mạch dù CURB-65, PSI chưa đủ (đoạn dành cho người có bệnh đồng mắc, gồm đái tháo đường); mục 5.5.2.1; mục 3.1.4: CT cho viêm phổi tái phát."
+    },
+    {
+     "t": "Lấy đờm nhuộm Gram và cấy, cấy máu trước liều kháng sinh mới; giữ đường truyền, uống nước; gửi kèm kết quả siêu âm, Xpert, đường huyết, tóm tắt insulin",
+     "v": "c",
+     "n": "QĐ 2147 mục 5.2 (lấy bệnh phẩm trước kháng sinh ở người nhập viện), mục 5.5.2.2d. Nội dung bàn giao: cách làm lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đổi sang kháng sinh truyền tĩnh mạch của người nhập viện: ceftriaxon 1–2 g mỗi 24 giờ (hoặc amoxicillin/acid clavulanic 1 g/0,2 g mỗi 8 giờ) + azithromycin 500 mg mỗi 24 giờ, chỉnh theo cấy",
+     "v": "c",
+     "n": "QĐ 2147 mục 5.3.2.1, Bảng 4.4, Bảng 5.1, Phụ lục 1 (ceftriaxon không chỉnh theo thận); mục 5.5.2.3: đánh giá lại nguy cơ trước khi đổi (vừa dùng amoxicillin/acid clavulanic + doxycyclin 10 ngày)."
+    },
+    {
+     "t": "Xử lý nguyên nhân nền: tiêm insulin đủ liều, đo glucose và ceton thường xuyên, hội chẩn nội tiết; nói riêng với anh về bút insulin mới, nối với đội đái tháo đường chọn loại bút anh yên tâm dùng; trấn an có cấu trúc (Xpert âm, bút không phải nguyên nhân, nhập viện để chụp CT và chọc dịch)",
+     "v": "c",
+     "n": "ADA 2026 chương 6 (không ngưng nền khi ốm, đo ceton, khuyến cáo 6.22); QĐ 2147 mục 5.5.2.2b (bệnh đồng mắc làm kéo dài đáp ứng). Đổi loại bút, cách nói trấn an: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loại trừ lao tiếp: Xpert đã âm một lần; không đáp ứng phác đồ mới thì làm lại và hội chẩn; không dùng fluoroquinolon khi còn nghi lao",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần II mục 1.1, 1.3, Sơ đồ 1 (chú thích: kháng sinh ngoài lao, trừ nhóm fluoroquinolon, 1–2 tuần rồi đánh giá lại); QĐ 2147 mục 5.5.2.2a."
+    },
+    {
+     "t": "Levofloxacin hoặc moxifloxacin đơn trị uống",
+     "v": "w",
+     "n": "Chưa loại trừ lao nên tránh fluoroquinolon (QĐ 162/2024 Phần II Sơ đồ 1, chú thích *); levofloxacin có thể làm tăng hay hạ đường huyết ở người dùng insulin (QĐ 162/2024 Phần III mục 3.1.5)."
+    },
+    {
+     "t": "Cho về, đổi sang kháng sinh uống khác và hẹn 3 ngày",
+     "v": "w",
+     "n": "Tái phát kèm dịch màng phổi mới, thiếu X-quang/CT: cần nhập viện (QĐ 2147 mục 5.3.1, 5.5.2)."
+    },
+    {
+     "t": "Cho về và để anh tự điều chỉnh insulin theo ý mình",
+     "v": "h",
+     "n": "Glucose 18,6 mmol/L, ceton niệu 1+, nhiễm khuẩn tái phát: không ngưng hay giảm insulin; nguy cơ nhiễm toan ceton (ADA 2026 chương 6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng thùy dưới phổi phải tái phát, thất bại điều trị muộn (QĐ 2147 mục 5.5.1b), kèm tràn dịch màng phổi phải lớp dịch 1,8 cm, chưa rõ có mủ",
+     "Nguyên nhân nền: đái tháo đường típ 1 tăng đường huyết kéo dài do tự giảm insulin vì nghi tác dụng phụ của bút mới; ceton niệu 1+, chưa nhiễm toan ceton",
+     "Đã loại trừ ở mức hiện có: lao phổi (Xpert, AFB âm), thuyên tắc phổi (Wells 1,5, có chẩn đoán thay thế)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn biến sau lượt 2 (uống đủ thuốc, hết sốt ngày 8, sốt lại sau 7 ngày không thuốc); liều insulin gần đây và nhật ký đường huyết; ho 19 ngày, sụt cân, mồ hôi đêm, ho máu; thuyên tắc phổi; nhiễm toan ceton; hỏi thẳng anh nghĩ vì sao sốt lại. Khám: gõ đục đáy phải; siêu âm đông đặc lớn hơn kèm dịch 1,8 cm; CRP 131, BC 15,9; glucose 18,6, ceton 1+; Xpert âm. (QĐ 2147 mục 3.1.4, 5.5.2.2).",
+     "Vì sao tái phát chứ không phải đáp ứng chậm: lượt 2 anh uống thiếu thuốc; lần này uống đủ 10 ngày, hết sốt rồi sốt lại kèm biến chứng (QĐ 2147 mục 5.5.1b). Rà theo mục 5.5.2.2: căn nguyên, kháng thuốc, bệnh đồng mắc, biến chứng, lao."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện cùng ngày: tái phát, tràn dịch mới, SpO₂ 94%, đường huyết cao có ceton, phòng khám không có X-quang, CT, chọc dịch (QĐ 2147 mục 5.3.1, 5.5.2.1, 3.1.4). Lấy bệnh phẩm trước kháng sinh, đổi sang beta-lactam/cephalosporin tĩnh mạch + macrolid (mục 5.2, 5.3.2.1), tránh fluoroquinolon khi còn nghi lao (QĐ 162/2024 Sơ đồ 1). Giải quyết nguyên nhân nền: insulin đủ liều, hội chẩn nội tiết, nói về bút mới. Sai: cho về, fluoroquinolon, corticoid, điều trị lao thử."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ceftriaxon",
+      "ham_luong": "Lọ 1 g",
+      "lieu": "1–2 g mỗi 24 giờ (QĐ 2147 Bảng 4.4)",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Liều đầu ngay sau khi lấy đờm và cấy máu",
+      "so_ngay": "Đến khi đủ tiêu chuẩn chuyển uống (QĐ 2147 mục 4.5); có tràn dịch thì kéo dài hơn (mục 5.6.2)",
+      "ghi_chu": "QĐ 2147 Phụ lục 1: không chỉnh theo thận. Thay thế: amoxicillin/acid clavulanic 1 g/0,2 g mỗi 8 giờ (Bảng 5.1). Chỉnh theo cấy."
+     },
+     {
+      "thuoc": "Azithromycin",
+      "ham_luong": "Lọ 500 mg",
+      "lieu": "500 mg mỗi 24 giờ (QĐ 2147 Bảng 4.4)",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Cùng ngày với liều beta-lactam đầu",
+      "so_ngay": "3–5 ngày (QĐ 2147 mục 4.1, bối cảnh thể nặng; không có số riêng cho thể trung bình trong tài liệu đã tải)",
+      "ghi_chu": "QĐ 2147 mục 4.4: kéo dài QT, tương tác thuốc; mục 2.1.5: phế cầu kháng macrolid > 90% nên không thay beta-lactam."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay hôm nay: mang kết quả siêu âm, ghi chú insulin, bút insulin, nhật ký đường huyết. Tiếp tục tiêm insulin nền; buồn nôn, nôn, đau bụng, thở sâu nhanh thì báo ngay (ADA 2026 chương 6)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh nhập khoa Nội bệnh viện huyện cùng ngày. CT ngực: đông đặc thùy dưới phải, tràn dịch ít. Chọc dịch: vàng trong, pH 7,38, chưa cần dẫn lưu (BTS 2023). Cấy đờm mọc H. influenzae nhạy amoxicillin/acid clavulanic; Xpert lần hai âm. Sau 8 ngày kháng sinh, anh hết sốt, dịch giảm; nội tiết chỉnh insulin, giải thích về bút mới. Ra viện ngày 9. Tái phát do nguyên nhân nền (đường huyết cao kéo dài vì tự giảm insulin do nỗi sợ thuốc) hơn là kháng sinh sai: nỗi lo thật về bút mới chưa được hóa giải bền vững ở lượt 1 và 2. Kết quả CT, chọc dịch, cấy là hư cấu minh họa.",
+ "nhieu": [
+  "Sợ hãi quá mức: đòi CT, 'làm hết xét nghiệm', hỏi đi hỏi lại 'có chết không'. Chiều theo (CT, nhập viện, chuyển tuyến) củng cố nỗi sợ; trấn an có cấu trúc kèm bằng chứng (siêu âm, ceton, Wells/PERC) và mốc theo dõi (NICE NG250 2025 khuyến cáo 1.10.1) mới có tác dụng.",
+  "Ngồi máy tính lâu gợi nghĩ thuyên tắc phổi nhưng Wells 0, PERC đạt (AHA/ACC 2026 Bảng 3); bệnh cảnh là nhiễm khuẩn."
+ ],
+ "bai_hoc_bien": [
+  "Người đái tháo đường bị viêm phổi: bệnh đồng mắc đổi phác đồ kháng sinh (QĐ 2147 mục 5.3.1; ATS/IDSA 2019 Bảng 3) và nhiễm khuẩn có thể thúc đẩy nhiễm toan ceton (ADA 2026 chương 6); luôn đo glucose và ceton.",
+  "Lý do thật là nghi tác dụng phụ của thuốc: hỏi 'anh nghĩ nguyên nhân là gì, lo điều gì', hỏi từng liều insulin, từng cữ kháng sinh."
+ ],
+ "diem_nho": [
+  "CURB-65 0–1 hoặc PSI ≤ 70: ngoại trú (QĐ 2147 mục 3.2.1, Bảng 3.1).",
+  "Người dùng insulin khi ốm: không ngưng insulin nền, đo glucose thường xuyên, đo ceton khi glucose > 11,1 mmol/L (ADA 2026 chương 6)."
+ ],
+ "nguon": [
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 2.1.5, 2.2.1, 3.1.1–3.1.5, 3.2.1–3.2.3, 3.4, 3.5, 4.4, 4.5, 5.2, 5.3.1, 5.3.2.1, 5.4.1.1, 5.5, 5.6.2, 5.6.3, 6.2; Bảng 3.1, 4.4, 5.1; Phụ lục 1",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – bài VPMPCĐ mục 3.2.1–3.2.2; bài Viêm phổi bệnh viện mục 3.4; bài Ho kéo dài mục 3.2",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Bệnh lao – Phần II mục 1.1, 1.3, Bảng 1, Sơ đồ 1; Phần III mục 3.1.5",
+  "TL-0153 · ATS/IDSA 2019 – CAP – câu hỏi 8, Bảng 3; TL-0141 · ATS 2025 – CAP – câu hỏi 1, 3, 4, Bảng 1",
+  "NICE NG250 (2025) – Pneumonia (kho cũ, 01 Hô hấp cấp tính/Quốc tế) – Box 1, khuyến cáo 1.2.3, 1.6.3, 1.10.1, 1.10.3, Bảng 1",
+  "TL-0296 · ADA 2026 – chương 6 (Intercurrent illness; Hyperglycemic crises; khuyến cáo 6.3a, 6.22); chương 4 (Bảng 4.3); TL-0064 · ADA/EASD 2024 – Hyperglycemic crises – mục 3, Bảng 2",
+  "TL-0045 · AHA/ACC 2026 – TTP – Bảng 3; TL-0148 · BTS 2023 – Pleural infection",
+  "Không có trong tài liệu đã tải: liều hiệu chỉnh insulin khi ốm, tần suất đo glucose và ceton; insulin tiêm dưới da gây ho hay viêm phổi (không có đoạn nào nêu); lời dặn uống thuốc đầu bữa, uống nhiều nước với doxycyclin; hướng dẫn tiêm chủng người lớn của BYT; cách nói trấn an người sợ hãi"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-07: soạn ca HH-0896 (3 lượt, không X-quang) theo đặc tả sổ cái; tham khảo cấu trúc HH-0930, HH-0842. Mâu thuẫn theo sổ: thời gian kháng sinh (HH-0930 #1, HH-0842 #3), virus u (HH-0930 #4), D-dimer a (HH-0930 #5), liều amoxicillin, doxycyclin (HH-0842 #1–2), corticoid w. Mâu thuẫn mới: xem HH-0896_mau_thuan.md.",
+  "Tài liệu đã đọc: TL-0121 (các mục trong nguồn), TL-0131, TL-0123, TL-0153 Bảng 3, TL-0141, NICE NG250, TL-0146 1.3.4, TL-0296 chương 6, TL-0064 mục 3, TL-0045 Bảng 3, TL-0148. Chỗ thiếu: liều hiệu chỉnh insulin, bằng chứng về bút insulin, tiêm chủng BYT.",
+  "Chỉ số bảng tự bổ sung: công thức bạch cầu, MCV/MCH/MCHC, eGFR CKD-EPI 2021. Kết quả CT, chọc dịch, cấy ở kết cục là hư cấu minh họa. Âm thanh: AT-PHOI-RAN-NO-01, AT-PHOI-BT-NL-01, AT-TIM-NHANH-01 (lượt 3). Không ảnh da; không đề xuất mục danh mục mới."
+ ]
+}

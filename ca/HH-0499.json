@@ -1,0 +1,738 @@
+{
+ "ma_ca": "HH-0499",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 (2026-11-07)",
+ "benh": "HH_viem_amidan_cap_mu",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm amidan cấp mủ",
+  "chan_doan_phai_loai_tru": [
+   "Áp xe quanh amidan",
+   "Bạch hầu"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Mở lại chẩn đoán",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Lê Quang Huy",
+  "tuoi": 15,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 9",
+  "can_nang": 50,
+  "chieu_cao": 165,
+  "xung_ho": "Huy gọi bác sĩ là 'bác sĩ', tự xưng 'em'. Mẹ là chị Hoa, 41 tuổi: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi con là 'thằng Huy' hoặc 'cháu'.",
+  "tinh_cach": "Huy gầy, ít nói, hay cúi đầu, né ánh mắt mẹ, trả lời ngắn khi mẹ ngồi cạnh. Học khá, sợ mẹ mắng, sợ bị coi là hư. Khi chỉ còn một mình với bác sĩ và được hỏi nhẹ nhàng, em nói nhiều hơn và run tay vì lo. Mẹ bán rau ở chợ từ 3 giờ sáng, nóng tính, lo cho con nhưng hay nói chen, muốn khám nhanh để về trông sạp.",
+  "kieu_nhieu": "Thân nhân trả lời thay: mẹ ngồi sát con, trả lời hầu hết câu hỏi về sốt, ăn uống, thuốc ('vài viên', 'uống đủ'), khẳng định 'không có chuyện gì khác', ngắt lời con, đòi 'thuốc mạnh nhất' và giấy nghỉ. Huy chỉ nói thật về liều paracetamol, việc nôn bỏ thuốc và chuyện riêng khi được hỏi riêng, cụ thể và không phán xét.",
+  "nguoi_nha": "Mẹ, chị Hoa, 41 tuổi, đi cùng. Chị KHÔNG biết chuyện quan hệ tình dục và nỗi sợ của con, cũng không biết bà nội cho thêm thuốc cảm. Khi bác sĩ hỏi riêng Huy, mời chị ra ngoài, hoặc hỏi thẳng em về chuyện riêng thì em tự trả lời (nguoi_noi = benh_nhan); còn lại chị trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ (chị Hoa)",
+  "ngoai_hinh": {
+   "da": "#e0b48f",
+   "toc": "#1b1512",
+   "kieuToc": "ngan",
+   "ao": "#e8e8ee",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d9a985",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#7f9a6f",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, đau họng ba ngày, ăn uống kém",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, đường huyết, ure – creatinin, điện giải, AST – ALT, tổng phân tích nước tiểu). Không có test nhanh liên cầu, cấy họng, HIV hay bệnh lây qua đường tình dục, không định lượng paracetamol máu; không có X-quang, siêu âm, CT. Bệnh viện đa khoa huyện cách khoảng 12 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Huy, 15 tuổi, học sinh lớp 9, mẹ đưa đến vì sốt và đau họng ba ngày, ăn uống kém. Mẹ nói sẽ trả lời giúp con. Sinh hiệu: nhiệt độ 38,9 °C, mạch 108 l/p, HA 108/66 mmHg, nhịp thở 20 l/p, SpO₂ 99%, cân nặng 50 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho Huy nhập viện ngay hôm nay là quá tay: Centor 4, uống được nước, há miệng rộng, không dấu khu trú, AST 28 và ALT 24 U/L dưới 50 là tiên lượng tốt (QĐ 3610/2015, Các trường hợp đặc biệt 3), còn NICE NG84 2018 khuyến cáo 1.1.13 chỉ chuyển viện khi nhiễm khuẩn huyết nặng hoặc biến chứng mủ nặng. Huy nằm viện vì một đợt viêm amidan uống thuốc tại nhà được, mẹ mất phiên chợ, em gái 3 tuổi và bà nội ở nhà không ai trông.",
+    "chuyen_tuyen": "Chuyển Huy lên bệnh viện huyện chỉ vì phòng khám không có test nhanh liên cầu là chưa cần: có thang điểm Centor 4, FeverPAIN 5, không dấu hiệu nguy hiểm thì quyết định kê kháng sinh tại chỗ được (NICE NG84 2018 khuyến cáo 1.1.3, 1.1.10; IDSA 2025 Bảng 3). Gia đình mất cả buổi và tiền đi lại, Huy phải kể bệnh sử lại nhiều lần trước mặt mẹ nên chuyện riêng càng khó nói."
+   },
+   "loi_mo": "Mẹ: Thằng Huy sốt, đau họng ba ngày rồi bác sĩ ơi. Nó uống thuốc hạ sốt đều mà vẫn sốt lại. Bác sĩ cho nó thuốc kháng sinh mạnh nhất để khỏi nhanh, còn đi học thi nữa.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "108/66",
+    "nhiet": "38,9",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ kể: Huy sốt và đau họng đã ba ngày, nuốt đau, ăn rất ít. Mẹ tự cho uống thuốc hạ sốt nhưng hết thuốc là sốt lại. Huy ngồi cạnh, ít nói, mẹ trả lời hầu hết các câu hỏi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian; mẹ trả lời thay"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ngày 1 chiều đang học thì thấy ớn lạnh, đau họng nhói khi nuốt, sốt cao; tối nôn một lần. Không ho, không sổ mũi, không đau tai, không ban. Ba ngày nay đau họng tăng dần, ăn cháo loãng vài thìa, uống nước được nhưng ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát đột ngột, không ho, không sổ mũi (dữ kiện Centor)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Huy không khó thở, không chảy dãi, há miệng được bình thường, giọng nói không ngậm, cổ không sưng, xoay cổ được, không đau lệch một bên. Uống được nước.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi từng dấu hiệu: há miệng, giọng, chảy dãi, cổ, thở, nuốt nước. Hỏi chung chung thì mẹ nói 'nó đau họng thôi'.",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu áp xe quanh amidan, khoang cổ sâu (ACP/CDC 2016 tr. 428)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Hai bạn cùng bàn trong lớp nghỉ học vì đau họng tuần trước. Huy tiêm chủng đủ theo sổ tiêm ở trạm y tế, nhớ có mũi nhắc lúc vào lớp 1. Không đi vùng dịch, không có tiếp xúc người bị bạch hầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc liên cầu; loại bạch hầu (QĐ 2957/2020 mục 5.1)"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Mẹ ban đầu nói 'nó uống vài viên'. Hỏi từng lần: từ ngày 1 Huy uống paracetamol 500 mg, 2 viên mỗi lần, cách 4–5 giờ kể cả ban đêm khi tỉnh vì sốt, khoảng 8 viên (4 g) mỗi ngày, ba ngày liên tiếp. Bà nội còn đưa thêm 2 viên thuốc cảm tự mua mỗi sáng; trên vỉ có ghi paracetamol 500 mg. Tổng khoảng 4,5 g/ngày. Huy ăn rất ít, không uống rượu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc hạ sốt không' mẹ nói 'có, vài viên'. Chỉ lộ số viên khi hỏi tên thuốc, hàm lượng, số viên mỗi lần, giờ từng lần, mỗi ngày mấy lần, ban đêm có uống không và có thuốc cảm nào khác không.",
+     "k": 1,
+     "y": "Tính tổng liều paracetamol, yếu tố nguy cơ nhịn ăn (QĐ 3610/2015)",
+     "nhieu": 1
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ba ngày nay ăn mỗi ngày nửa bát cháo loãng, uống chừng một lít nước, tiểu vàng sẫm nhưng vẫn đi tiểu 3–4 lần/ngày. Không nôn thêm sau đêm đầu. Không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ mất nước, khả năng uống thuốc"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Chưa từng dị ứng thuốc. Đã từng uống amoxicillin năm lớp 6 khi viêm họng, không nổi ban. Không có tiền sử thấp tim hay viêm cầu thận trong gia đình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng penicillin trước khi kê kháng sinh; tiền sử thấp tim"
+    },
+    {
+     "id": "o_nha",
+     "noi_dung": "Huy ở cùng bà nội 70 tuổi và em gái Na 3 tuổi; Huy ngủ chung giường với Na. Mẹ bán rau ở chợ từ 3 giờ sáng, bố làm xa.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hoàn cảnh gia đình, ai trông Huy"
+    },
+    {
+     "id": "hoi_rieng",
+     "noi_dung": "Khi mẹ ra ngoài và được hỏi nhẹ nhàng, không phán xét: tám ngày trước Huy có một lần quan hệ tình dục với bạn gái cùng lớp, hai bạn cùng tuổi, hai bên đều tự nguyện; lần đó không dùng bao cao su. Không quan hệ qua đường miệng. Không đau, tiết dịch hay loét ở bộ phận sinh dục. Huy chưa nói với ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ mời mẹ ra ngoài (hoặc hỏi riêng) rồi hỏi thẳng, nhẹ nhàng, hứa giữ kín trong phạm vi y tế. Còn mẹ ngồi cạnh thì Huy nói 'không có gì ạ'.",
+     "k": 1,
+     "y": "Khai thác riêng tư tình dục vị thành niên",
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều Huy thật sự lo: sợ mình dính bệnh lây qua đường tình dục hoặc HIV và lây sang bé Na ngủ chung, sang bà (dùng chung cốc bát). Vì thế mới nài mẹ đưa đi khám sớm 'cho chắc', mới đòi thuốc mạnh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi hỏi riêng và bác sĩ hỏi 'em lo điều gì nhất' hoặc 'em có sợ lây cho ai ở nhà không'.",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bệnh cho người thân",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, mặt đỏ, người nóng. Môi hơi khô, lưỡi bẩn. Chưa dấu hiệu mất nước nặng (tĩnh mạch cổ xẹp nhẹ, mắt không trũng). Cân 50 kg, cao 165 cm.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch góc hàm hai bên 1–1,5 cm, mềm, đau khi sờ, di động. Cổ không sưng đỏ, xoay cổ được. Tuyến giáp không to. Không hạch nơi khác.",
+     "k": 1,
+     "hien": "Hạch góc hàm hai bên nhỏ, đau khi sờ. Cổ không sưng, xoay cổ được."
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng rộng được (ba ngón tay), không khít hàm. Niêm mạc họng đỏ rực. Hai amidan sưng độ II, đối xứng, phủ chấm và mảng mủ trắng vàng ở miệng các hốc, dùng tăm bông lau bong dễ, niêm mạc dưới đỏ, không chảy máu, mủ không vượt ra khỏi amidan. Vài chấm xuất huyết khẩu cái mềm. Lưỡi gà ở giữa, khẩu cái hai bên cân đối. Giọng bình thường. Màng nhĩ hai bên bình thường.",
+     "k": 1,
+     "hien": "Há miệng rộng. Họng đỏ rực. Hai amidan sưng, đối xứng, có mảng mủ trắng vàng lau bong dễ, không chảy máu. Vài chấm đỏ ở khẩu cái mềm. Lưỡi gà ở giữa. Giọng bình thường."
+    },
+    "tim": {
+     "a": "Tim đều, tần số 108 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Thở đều 20 l/p, rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Thở đều, lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm. Gan, lách không sờ thấy. Không đau hạ sườn phải.",
+     "k": 1,
+     "hien": "Bụng mềm, không điểm đau, gan lách không sờ thấy."
+    },
+    "da": {
+     "a": "Da ấm, không ban, không chấm xuất huyết, không vàng da. Không loét miệng. Kết mạc hai mắt không đỏ.",
+     "k": 1,
+     "hien": "Da ấm, không ban, không vàng da. Mắt không đỏ."
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Dương vật không loét, không sẩn, không vết trợt. Miệng sáo không đỏ, không dịch khi vắt niệu đạo. Bẹn không hạch. Chỉ khám khi đã hỏi riêng và Huy đồng ý.",
+     "k": 0,
+     "hien": "Không loét, không tiết dịch niệu đạo. Bẹn không hạch."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 14,6 G/L · Neutrophil 84% · Hb 138 g/L · Tiểu cầu 290 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 14.6,
+      "neu_pct": 84.0,
+      "neu": 12.3,
+      "lym_pct": 9.0,
+      "lym": 1.31,
+      "mono_pct": 6.0,
+      "mono": 0.88,
+      "eos_pct": 0.5,
+      "eos": 0.07,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 4.8,
+      "hgb": 138,
+      "hct": 0.41,
+      "mcv": 85.4,
+      "mch": 28.8,
+      "mchc": 337,
+      "rdw": 13.1,
+      "plt": 290
+     },
+     "n": "Không bắt buộc: AWaRe 2022 (TL-0018) tr. 47–48 xét nghiệm máu thường không cần. Bạch cầu trên 10 G/L, đa nhân trung tính khớp thể mủ do vi khuẩn (QĐ 5643/2015, Viêm amiđan cấp mục 3.1.2.1) nhưng không phân biệt liên cầu với vi khuẩn khác. Làm cũng giúp có số nền để so ở lượt sau."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 28 U/L · ALT 24 U/L (dưới 50).",
+     "n": "Cần làm: paracetamol khoảng 4–4,5 g/ngày × 3 ngày kèm nhịn ăn, tương đương trên 8 g trong 48 giờ (trên 150 mg/kg) và trên 4 g/ngày ở người có yếu tố nguy cơ (QĐ 3610/2015, Các trường hợp đặc biệt 3). AST hoặc ALT dưới 50 IU/L tiên lượng tốt, trên 50 thì dùng N-acetylcystein ngay. AST, ALT đạt đỉnh sau 48–72 giờ (QĐ 3610/2015 mục 3.2) nên một lần bình thường hôm nay chưa đủ nếu còn tiếp tục dùng thuốc: lịch xét nghiệm lại cho dùng nhiều lần không có trong tài liệu đã tải."
+    },
+    "test_lien_cau": {
+     "v": "u",
+     "r": "Phòng khám không có test nhanh liên cầu nhóm A.",
+     "n": "Nên làm nếu có: IDSA 2012 (TL-0158) khuyến cáo 1; AWaRe 2022 (TL-0018) tr. 47–48. Không có: dùng thang điểm vẫn đúng (IDSA 2025 (TL-0140) Bảng 3; NICE NG84 2018 khuyến cáo 1.1.3, 1.1.10)."
+    },
+    "naat_sti": {
+     "v": "u",
+     "r": "Phòng khám không làm được NAAT lậu, chlamydia hoặc HIV.",
+     "n": "Nên làm nếu có nghi lây qua đường tình dục (CDC 2021, Adolescents; Gonococcal Infections). Không có: tư vấn, hẹn xét nghiệm ở cơ sở tư vấn xét nghiệm tự nguyện hoặc tuyến trên; HIV nghi cấp dùng HIV RNA, kháng thể sớm có thể âm tính (CDC 2021, HIV Infection)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm amidan cấp mủ (thể mủ do vi khuẩn), khả năng cao do liên cầu nhóm A (GAS) theo thang điểm: Centor 4/4, McIsaac 4, FeverPAIN 5; ngày thứ 3, chưa xác nhận bằng xét nghiệm, chưa biến chứng mủ",
+     "ok": 1,
+     "n": "Khởi phát đột ngột, sốt, nôn, amidan xuất tiết mủ lau bong dễ, chấm xuất huyết khẩu cái, hạch góc hàm đau, không ho, bạn cùng bàn bị bệnh (QĐ 5643/2015 (TL-0130) Viêm amiđan cấp mục 3.1.1.1, 3.1.2.1; IDSA 2012 (TL-0158) Bảng 4). Centor 4/4: 51–53% là GAS (AWaRe 2022 (TL-0018) Bảng 6.2), 57% (IDSA 2025 (TL-0140) Bảng 3). McIsaac 4 (tuổi 15 cộng 0). FeverPAIN 5: 62–65% (NICE NG84 2018, Terms used). Điểm cao vẫn chỉ là xác suất."
+    },
+    {
+     "t": "Dùng paracetamol vượt liều điều trị kéo dài ba ngày (khoảng 4–4,5 g/ngày, trên 8 g/48 giờ) kèm nhịn ăn; AST/ALT 28/24: chưa tổn thương gan",
+     "ok": 1,
+     "n": "QĐ 3610/2015, Các trường hợp đặc biệt 3: từ 6 g (hoặc trên 150 mg/kg) trong 48 giờ trở lên; trên 4 g/ngày ở người có yếu tố nguy cơ (nhịn đói). AST/ALT dưới 50 IU/L tiên lượng tốt. Trần điều trị 4 g/ngày (AWaRe 2022 Bảng 6.4), 60 mg/kg/ngày = 3 g (QĐ 708/2015 mục 4.2), dân không quá 3 g/ngày (QĐ 3610/2015 mục 6). Thuốc cảm của bà cũng chứa paracetamol nên cộng dồn."
+    },
+    {
+     "t": "Áp xe quanh amidan",
+     "n": "Há miệng rộng ba ngón, giọng bình thường, không chảy dãi, hai amidan đối xứng, lưỡi gà giữa, khẩu cái cân đối, cổ không sưng: không có dấu hiệu khu trú một bên. Là biến chứng tại chỗ của viêm amidan (QĐ 5643/2015 Viêm amiđan cấp mục 5.1; NICE NG84 2018 khuyến cáo 1.1.13: chuyển viện khi biến chứng mủ nặng). Hướng dẫn riêng và dấu khít hàm, lệch lưỡi gà: không có trong tài liệu đã tải. Mở lại hồ sơ khi sốt không giảm sau 48 giờ kháng sinh, khó há miệng, chảy dãi, đau lệch một bên, sưng cổ."
+    },
+    {
+     "t": "Bạch hầu họng",
+     "n": "Tiêm chủng đủ, không dịch tễ. Mảng mủ mềm lau bong dễ, không chảy máu, không vượt ra khỏi amidan, sốt cao đột ngột, mạch nhanh, hạch cổ không to quá (QĐ 5643/2015 Viêm amiđan cấp mục 3.2 bảng phân biệt; QĐ 2957/2020 (TL-0129) mục 3.1.3, 5.1). Phết họng không cần vì không có giả mạc dính. Mở lại khi giả mạc dính, chảy máu khi bóc, cổ bạnh, khàn tiếng, khó thở."
+    },
+    {
+     "t": "Viêm họng do HIV cấp, lậu họng hoặc nhiễm khuẩn lây qua đường tình dục khác",
+     "n": "Là nguyên nhân khác của viêm họng (AWaRe 2022 tr. 47; IDSA 2012 Bảng 3). Huy khai quan hệ không bao 8 ngày trước, không quan hệ qua miệng, không triệu chứng niệu dục, không ban, không loét; lậu họng thường không triệu chứng. Chưa thể loại trừ bằng một lần khám: kháng thể HIV có thể âm tính ở giai đoạn sớm (CDC 2021, HIV Infection). Vì vậy xếp vào nhóm tư vấn và hẹn xét nghiệm, không trấn an suông."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Mời mẹ ra ngoài, hỏi riêng Huy không phán xét về quan hệ tình dục (kể cả qua miệng), bao cao su, triệu chứng niệu dục, nỗi lo thật; hứa giữ kín trong phạm vi y tế và nói rõ giới hạn; hỏi để chắc việc quan hệ là tự nguyện",
+     "v": "c",
+     "n": "CDC 2021 (kho cũ 08 Tiết niệu – nam khoa), mục Adolescents: dành thời gian riêng, hỏi hành vi tình dục không phán xét, bảo vệ bí mật STI cho vị thành niên; Box 1 Five P's. Quy định bí mật và nghĩa vụ báo cáo khi có dấu hiệu xâm hại ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi chi tiết thuốc hạ sốt đã dùng (tên, hàm lượng, số viên, giờ từng lần, thuốc cảm khác), tính tổng liều mg và mg/kg; hỏi nhịn ăn, rượu",
+     "v": "c",
+     "n": "QĐ 3610/2015, Ngộ độc paracetamol mục 3.1, Các trường hợp đặc biệt 3 (yếu tố nguy cơ nhịn đói, rượu). Huy: khoảng 4–4,5 g/ngày × 3 ngày, 80–90 mg/kg/ngày."
+    },
+    {
+     "t": "Làm AST, ALT (kèm ure, creatinin) ngay tại phòng khám và đối chiếu tiêu chí để quyết định có cần N-acetylcystein",
+     "v": "c",
+     "n": "QĐ 3610/2015, Các trường hợp đặc biệt 3: AST hoặc ALT dưới 50 IU/L tiên lượng tốt; trên 50 hoặc paracetamol máu trên 66 µmol/L thì NAC ngay. Phòng khám có AST, ALT trong khoảng một giờ nên chờ (suy luận của ca); chuyển viện dùng NAC ngay chấm a (cùng mục)."
+    },
+    {
+     "t": "Chấm Centor, McIsaac, FeverPAIN; nói rõ điểm cao chỉ là xác suất; không có test nhanh nên quyết định bằng điểm",
+     "v": "c",
+     "n": "IDSA 2025 (TL-0140) thang điểm, Bảng 3 (McIsaac 15–44 tuổi cộng 0); AWaRe 2022 (TL-0018) Bảng 6.2; NICE NG84 2018 khuyến cáo 1.1.3."
+    },
+    {
+     "t": "Cho kháng sinh ngay khi Centor 4 không có test (theo QĐ 5643/2015, NICE NG84 2018) HOẶC cho đơn dự phòng/hoãn đến khi xác nhận GAS nếu nguy cơ thấp tim thấp (IDSA 2012, AWaRe 2022, ACP/CDC 2016)",
+     "v": "c",
+     "n": "Dùng ngay: QĐ 5643/2015 (TL-0130) Viêm amiđan cấp mục 4.1, 4.2.1; NICE NG84 2018 khuyến cáo 1.1.10 (ngay hoặc dự phòng). Hoãn: AWaRe 2022 Bảng 6.2; IDSA 2012 khuyến cáo 1, 8; ACP/CDC 2016 tr. 428–429. Khác nhau vì năm, bối cảnh thấp tim, nguồn lực; ngưỡng 'thấp' không có trong tài liệu đã tải. Sổ mâu thuẫn (HH-0466): cả hai đều đúng. Ca kê ngay vì sốt cao, mủ rõ, ăn kém."
+    },
+    {
+     "t": "Amoxicillin 500 mg × 2 lần/ngày hoặc 1.000 mg × 1 lần/ngày × 10 ngày (IDSA 2012, QĐ 5643) HOẶC 500 mg mỗi 8 giờ / 1 g mỗi 12 giờ, 5 ngày nếu nguy cơ thấp tim thấp, 10 ngày nếu cao (AWaRe 2022); penicillin V tương đương",
+     "v": "c",
+     "n": "Chi tiết ở don_thuoc: IDSA 2012 (TL-0158) Bảng 2; AWaRe 2022 (TL-0018) tr. 48, 50; QĐ 5643/2015 mục 4.3.1; NICE NG84 2018 Bảng 2. IDSA 1.000 mg/ngày thận trọng hơn AWaRe 1.500 mg/ngày (sổ mâu thuẫn HH-0466, HH-0459, HH-0484)."
+    },
+    {
+     "t": "Paracetamol 500 mg–1 g mỗi lần, cách nhau ít nhất 6 giờ khi sốt hoặc đau, tối đa 3 g/ngày; bỏ thuốc cảm của bà; không uống đêm nếu đã hạ sốt",
+     "v": "c",
+     "n": "Ba mốc trần: AWaRe 2022 Bảng 6.4 (4 g/ngày), QĐ 708/2015 mục 4.2 (60 mg/kg/ngày = 3 g với 50 kg), QĐ 3610/2015 mục 6 (3 g/ngày); chọn 3 g vì thận trọng nhất (sổ mâu thuẫn). IDSA 2012 khuyến cáo 10(i); NICE NG84 khuyến cáo 1.2.1."
+    },
+    {
+     "t": "Đón nhận nỗi lo, nói rõ bệnh họng này là liên cầu thường: tách cốc bát, rửa tay, Huy ngủ riêng với bé Na vài ngày đầu; chuyện lây qua đường tình dục: hẹn xét nghiệm, tư vấn bao cao su, khuyên bạn gái đi khám",
+     "v": "c",
+     "n": "Phòng lây: QĐ 5643/2015 Viêm họng cấp tính mục 2.2 (rửa tay, không dùng chung); CDC 2021 Adolescents, HIV Infection, Gonococcal Infections (nghi HIV cấp: HIV RNA, âm tính thì làm lại sau vài tuần). Số tuần, dự phòng sau phơi nhiễm khi đã quá 72 giờ: không cần (CDC 2021); thuốc tránh thai khẩn cấp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 48 giờ kèm AST, ALT; quay lại ngay nếu sốt không hạ sau 24–48 giờ kháng sinh, khó há miệng, chảy dãi, giọng ngậm, đau lệch một bên, sưng cổ, nôn không uống được thuốc, vàng da, đau dưới sườn phải",
+     "v": "c",
+     "n": "IDSA 2012 Evidence Summary khuyến cáo 8 (đáp ứng 24–48 giờ); NICE NG84 2018 khuyến cáo 1.1.11 (quay lại khi xấu nhanh), 1.1.13; QĐ 3610/2015 mục 3.2 (men gan đỉnh sau 48–72 giờ). Mốc 48 giờ cho dùng nhiều lần: không có trong tài liệu đã tải, là cách an toàn của ca."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm amidan cấp mủ (thể mủ do vi khuẩn), khả năng cao do liên cầu nhóm A, ngày 3 của bệnh, chưa xác nhận xét nghiệm, chưa biến chứng mủ",
+     "Centor 4, McIsaac 4, FeverPAIN 5; không dấu hiệu virus; không dấu hiệu áp xe quanh amidan hay bạch hầu",
+     "Dùng paracetamol vượt liều kéo dài 3 ngày (khoảng 4–4,5 g/ngày, nhịn ăn, cộng thuốc cảm của bà); AST 28, ALT 24: chưa tổn thương gan nhưng cần theo dõi",
+     "Ràng buộc: chỉ có xét nghiệm cơ bản, không test liên cầu, cấy họng, HIV, STI, X-quang, siêu âm; bệnh viện huyện cách 12 km",
+     "Nhiễu: mẹ trả lời thay, nói giảm liều thuốc và đòi thuốc mạnh; lý do thật: sợ lây bệnh cho em gái và bà sau lần quan hệ không bao 8 ngày trước"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: khởi phát → ho, sổ mũi, ban → dấu hiệu nguy hiểm (há miệng, giọng, dãi, cổ, thở) → nước vào ra → tiêm chủng, dị ứng, thấp tim → tiếp xúc → thuốc đã dùng và tổng liều → khám toàn thân, họng, hạch, bụng, da → mời mẹ ra ngoài hỏi riêng → tính điểm → AST, ALT → quyết định kháng sinh, tái khám.",
+     "Vì sao nghĩ liên cầu: xem mục chẩn đoán thứ nhất (QĐ 5643/2015 mục 3.1.1.1; IDSA 2012 Bảng 4; AWaRe 2022 Bảng 6.2; IDSA 2025 Bảng 3; NICE NG84 2018). Điểm cao vẫn là xác suất, thang điểm được kiểm chủ yếu ở nước thu nhập cao (AWaRe 2022 tr. 48).",
+     "Không có test nhanh: quyết định bằng thang điểm được chấp nhận (IDSA 2025; NICE NG84 2018 khuyến cáo 1.1.3). Mâu thuẫn nguồn về kháng sinh khi Centor 3–4 không xét nghiệm: ghi cả hai (sổ mâu thuẫn HH-0466).",
+     "Paracetamol: khoảng 4–4,5 g/ngày × 3 ngày = trên 8 g/48 giờ, trên 150 mg/kg, kèm nhịn ăn → đạt tiêu chí dùng quá liều nhiều lần; AST/ALT dưới 50 → không NAC hôm nay (QĐ 3610/2015). Men gan đỉnh 48–72 giờ nên hẹn lại. Mốc 150 mg/kg trong 24 giờ của ngộ độc cấp không dùng cho ca này (sổ mâu thuẫn).",
+     "Nỗi sợ thật (HIV, lậu họng): đón nhận, hẹn xét nghiệm, không trấn an suông; xét nghiệm hôm nay chưa đủ ý nghĩa vì mới 8 ngày (CDC 2021)."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh: amoxicillin theo IDSA 2012/QĐ 5643/AWaRe 2022 hoặc penicillin V theo NICE NG84 2018; ghi cả hai cách liều và số ngày; IDSA 1.000 mg/ngày thận trọng hơn AWaRe 1.500 mg/ngày. Lý do chọn kê ngay: sốt cao, mủ nhiều, ăn kém, em ít chịu quay lại.",
+     "Không nhập viện, không chuyển tuyến hôm nay: xem neu_sai. Hẹn tái khám 48 giờ kèm AST, ALT vì men gan đỉnh sau 48–72 giờ và vì đáp ứng kháng sinh được mong đợi sau 24–48 giờ (IDSA 2012).",
+     "Dặn hạ sốt đúng: paracetamol tối đa 3 g/ngày (QĐ 3610/2015 mục 6), bỏ thuốc cảm trùng hoạt chất; ăn đủ.",
+     "Nói riêng với Huy trước, rồi thỏa thuận cách nói với mẹ; mẹ chỉ biết con bị viêm amidan do liên cầu và cần thuốc, giấy nghỉ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "Cách 1 (IDSA 2012): 500 mg × 2 lần/ngày hoặc 1.000 mg × 1 lần/ngày. Cách 2 (AWaRe 2022): 500 mg mỗi 8 giờ hoặc 1.000 mg mỗi 12 giờ.",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu ngay tối nay, sau ăn cháo; các liều sau cùng giờ mỗi ngày",
+      "so_ngay": "10 ngày (IDSA 2012, QĐ 5643/2015), hoặc 5 ngày nếu nguy cơ thấp tim thấp, 10 ngày nếu cao (AWaRe 2022)",
+      "ghi_chu": "IDSA 2012 (TL-0158) khuyến cáo 8, Bảng 2; AWaRe 2022 (TL-0018) tr. 48, 50; QĐ 5643/2015 (TL-0130) mục 4.3.1. Không dị ứng, từng dùng amoxicillin. Ban sau amoxicillin cần phân biệt với bạch cầu đơn nhân (NICE NG84 2018). Penicillin V thay thế: NICE NG84 2018 Bảng 2 (500 mg × 4 hoặc 1.000 mg × 2/ngày, 12–17 tuổi), không kê cùng lúc."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg đến 1.000 mg mỗi lần, cách nhau ít nhất 6 giờ, tối đa 6 viên (3 g)/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt trên 38,5 °C hoặc đau nhiều; sau ăn nhẹ",
+      "so_ngay": "Khi cần 3–5 ngày; ngừng khi hết sốt",
+      "ghi_chu": "Trần 4 g/ngày (AWaRe 2022 Bảng 6.4), 60 mg/kg/ngày = 3 g (QĐ 708/2015 mục 4.2; QĐ 3610/2015), dân không quá 3 g/ngày (QĐ 3610/2015 mục 6): chọn 3 g vì thận trọng nhất. Ngưỡng nhiệt độ bắt đầu hạ sốt cho thanh thiếu niên: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống kháng sinh đủ ngày dù hết sốt sớm: diệt liên cầu và phòng thấp tim (IDSA 2012 khuyến cáo 8).",
+     "Paracetamol tối đa 3 g/ngày (6 viên 500 mg), cách ít nhất 6 giờ; không uống thêm thuốc cảm có paracetamol; ăn đủ bữa nhỏ, uống đủ nước (QĐ 3610/2015 mục 6).",
+     "Quay lại ngay, không chờ hẹn: khó há miệng, nuốt nước bọt không được, chảy dãi, giọng ngậm khoai, đau lệch một bên, sưng cổ, khó thở, nôn không uống được thuốc, vàng da, đau dưới sườn phải, sốt cao không hạ sau 24–48 giờ kháng sinh (NICE NG84 2018 khuyến cáo 1.1.11, 1.1.13; QĐ 3610/2015 mục 3.2).",
+     "Tái khám sau 48 giờ kèm AST, ALT (mốc là cách an toàn của ca; không có trong tài liệu đã tải).",
+     "Ở nhà đến khi hết sốt; dùng cốc, bát riêng; Huy tạm ngủ riêng với bé Na (QĐ 5643/2015 Viêm họng cấp tính mục 2.2). Thời điểm đi học lại: không có trong tài liệu đã tải.",
+     "Chuyện riêng: xét nghiệm HIV và bệnh lây qua đường tình dục ở cơ sở tư vấn xét nghiệm tự nguyện hoặc tuyến trên, hẹn sau vài tuần (số tuần không có trong tài liệu đã tải); bao cao su; khuyên bạn gái đi khám (CDC 2021)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Hai ngày sau, Huy quay lại cùng mẹ vì sốt cao hơn, đau họng nhiều, ăn uống kém hơn. Mẹ nói con đã uống kháng sinh đủ và xin đổi thuốc mạnh hơn. Sinh hiệu: nhiệt độ 39,6 °C, mạch 124 l/p, HA 98/58 mmHg, nhịp thở 24 l/p, SpO₂ 98%, cân nặng 49 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho Huy về nhà với một loại kháng sinh uống khác theo ý mẹ khi em đã nôn, không nuốt nổi viên thuốc và mất nước là bỏ qua gốc vấn đề: kháng sinh uống không vào được. AST, ALT đã trên 50 IU/L nên QĐ 3610/2015 (Các trường hợp đặc biệt 3) yêu cầu dùng N-acetylcystein ngay, thứ phòng khám không thực hiện được. Huy tiếp tục sốt, mất nước nặng thêm, men gan tăng tiếp, và nếu có biến chứng mủ khoang cổ thì phát hiện muộn (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.1, 6); đêm đó gia đình phải đưa đi cấp cứu trong tình trạng nặng hơn.",
+    "nhap_vien": "Giữ Huy lưu tại phòng khám truyền dịch qua đêm không giải quyết điều em cần: không có siêu âm, X-quang hay CT để loại trừ áp xe quanh amidan hoặc khoang cổ sâu (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.2), không có N-acetylcystein truyền tĩnh mạch 20 giờ (QĐ 3610/2015 mục 4.3). Mất thêm nhiều giờ, nếu đêm xấu đi mới chuyển thì vận chuyển ban đêm với em sốt cao, mất nước, mạch nhanh nguy hiểm hơn."
+   },
+   "loi_mo": "Mẹ: Bác sĩ ơi thuốc này không ăn thua, nó càng sốt cao, đau hơn rồi. Nó uống thuốc đầy đủ đấy, bác sĩ đổi thuốc mạnh hơn đi, hay là tiêm cho nó.",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "98/58",
+    "nhiet": "39,6",
+    "nhip_tho": 24,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ nói: kháng sinh uống hai ngày rồi mà con vẫn sốt cao hơn, đau họng nhiều hơn, ăn gần như không được. Mẹ xin đổi thuốc mạnh hơn hoặc tiêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: không đáp ứng sau 48 giờ"
+    },
+    {
+     "id": "khong_dap_ung",
+     "noi_dung": "Hai ngày kể từ liều đầu: sốt không hạ quá 24 giờ, đêm qua sốt 39,5 °C kèm run, đau họng lan lên tai, nuốt nước bọt cũng đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt không giảm sau 48 giờ kháng sinh (IDSA 2012 khuyến cáo 8; NICE NG84 1.1.11)"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Mẹ khẳng định 'uống đủ'. Hỏi Huy riêng: nuốt viên amoxicillin to đau quá, nôn ra 2 lần sau khi uống, bỏ 3 liều trong 6 liều; sợ mẹ mắng nên nói mẹ là 'uống rồi'. Hộp thuốc còn nhiều hơn số viên lẽ ra phải hết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'uống đủ chưa' mẹ nói 'đủ'. Lộ khi đếm số viên còn lại hoặc hỏi riêng Huy từng liều, có nôn ra không.",
+     "k": 1,
+     "y": "Tuân thủ thuốc thực sự; hỏi bằng số viên còn lại",
+     "nhieu": 1
+    },
+    {
+     "id": "paracetamol2",
+     "noi_dung": "Sốt cao nên Huy vẫn uống paracetamol 2 viên mỗi 4 giờ như cũ, cộng thuốc cảm của bà mỗi sáng và chiều; tính ra khoảng 5 g/ngày thêm hai ngày nữa (tổng 5 ngày liền). Huy gần như không ăn gì, buồn nôn, hơi đau tức dưới sườn phải từ sáng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi hỏi lại tổng số viên hai ngày qua kể cả đêm, thuốc cảm, và hỏi đau bụng, buồn nôn, nước tiểu sẫm.",
+     "k": 1,
+     "y": "Tiếp tục quá liều paracetamol; triệu chứng gan (QĐ 3610/2015 mục 3.2)",
+     "nhieu": 1
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Tiểu rất ít, sẫm màu, hôm nay mới tiểu 1 lần; uống được vài ngụm nước thì nôn. Chóng mặt khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước, không uống được thuốc"
+    },
+    {
+     "id": "nguy_hiem2",
+     "noi_dung": "Huy há miệng đau hơn nhưng vẫn được; giọng hơi khàn chứ không ngậm; không chảy dãi; không khó thở; cổ hơi đau khi nghiêng sang trái. Không có đau một bên tăng dần.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi hỏi từng dấu hiệu.",
+     "k": 1,
+     "y": "Sàng lọc lại áp xe quanh amidan, khoang cổ sâu"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt lả, mặt đỏ, người nóng, lơ mơ nhẹ nhưng trả lời đúng. Môi khô nứt, lưỡi khô bẩn, mắt hơi trũng, tĩnh mạch cổ xẹp, da véo trở lại chậm. Mạch quay nhanh, nhỏ. Cân 49 kg (giảm 1 kg).",
+     "k": 1,
+     "hien": "Mệt, mặt đỏ, người nóng. Môi khô nứt, lưỡi khô, mắt hơi trũng, da véo trở lại chậm."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 98/58 mmHg, mạch 124. Đứng 1 phút 88/52 mmHg, mạch 140, chóng mặt phải ngồi xuống.",
+     "k": 1,
+     "hien": "Nằm: HA 98/58, mạch 124. Đứng 1 phút: HA 88/52, mạch 140, chóng mặt."
+    },
+    "dau_mat_co": {
+     "a": "Hạch góc hàm hai bên 2 cm, đau nhiều, bên phải lớn hơn. Vùng da trên hạch không đỏ, không phù. Cổ không sưng bạnh, còn sờ thấy sụn giáp, xoay cổ đau khi nghiêng sang trái nhưng làm được, không cứng gáy. Tuyến giáp không to. Không thể loại trừ bằng khám ổ mủ sâu vùng cổ: cần hình ảnh học (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.2).",
+     "k": 1,
+     "hien": "Hạch góc hàm hai bên khoảng 2 cm, đau, phải lớn hơn. Da trên hạch không đỏ. Cổ không sưng bạnh, nghiêng sang trái thì đau."
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng được hai ngón rưỡi, đau khi há. Họng đỏ rực. Hai amidan sưng độ III, gần chạm nhau ở đường giữa, phủ nhiều mủ vàng dày hơn hôm trước; lau bong được, không chảy máu, mủ không vượt ra khỏi amidan. Hai bên đối xứng, lưỡi gà ở giữa, khẩu cái mềm hai bên cân đối, không phồng; không có ổ phồng quanh amidan. Giọng khàn nhẹ, không ngậm. Không giả mạc dính.",
+     "k": 1,
+     "hien": "Há miệng được hai ngón rưỡi, đau. Hai amidan to, phủ nhiều mủ vàng, đối xứng, lau bong được không chảy máu. Lưỡi gà ở giữa, khẩu cái cân đối. Giọng khàn nhẹ."
+    },
+    "tim": {
+     "a": "Tim đều nhanh 124 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, nhanh, khoảng 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Thở nhanh 24 l/p, nông, rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Thở hơi nhanh, hai phổi không ran.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau tức nhẹ hạ sườn phải, gan không to rõ, không vàng da. Lách không sờ thấy.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn đau nhẹ hạ sườn phải."
+    },
+    "da": {
+     "a": "Da nóng, khô, không ban, không vàng da, củng mạc không vàng.",
+     "k": 0,
+     "hien": "Da nóng, khô, không ban, không vàng da."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 19,4 G/L · Neutrophil 90% · Hb 150 g/L · Tiểu cầu 312 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 19.4,
+      "neu_pct": 90.0,
+      "neu": 17.5,
+      "lym_pct": 3.0,
+      "lym": 0.58,
+      "mono_pct": 6.0,
+      "mono": 1.16,
+      "eos_pct": 0.5,
+      "eos": 0.1,
+      "baso_pct": 0.5,
+      "baso": 0.1,
+      "rbc": 4.8,
+      "hgb": 150,
+      "hct": 0.41,
+      "mcv": 85.4,
+      "mch": 28.8,
+      "mchc": 337,
+      "rdw": 13.1,
+      "plt": 312
+     },
+     "n": "Bạch cầu tăng hơn lượt 1 (14,6 → 19,4), Hb tăng do cô đặc. Hội chứng nhiễm trùng nặng lên (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.1: bạch cầu trên 11.000, chủ yếu neutrophil)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 66 U/L · ALT 58 U/L (trên 50).",
+     "ab": 1,
+     "n": "AST, ALT trên 50 IU/L: nguy cơ cao, cần dùng N-acetylcystein ngay (QĐ 3610/2015, Các trường hợp đặc biệt 3). Tăng từ 28/24 sau 48 giờ, đúng với đỉnh men gan sau 48–72 giờ (QĐ 3610/2015 mục 3.2) vì còn uống thêm khoảng 5 g/ngày kèm nhịn ăn."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,4 mmol/L · Creatinin 92 µmol/L · eGFR 98 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 8.4,
+      "creat": 92,
+      "egfr": 98
+     },
+     "n": "Ure tăng gợi ý mất nước (tỉ lệ ure/creatinin tăng); creatinin còn gần bình thường. QĐ 3610/2015 mục 3.3 liệt kê ure, creatinin khi ngộ độc paracetamol."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 133 · K 3,4 · Cl 96 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 133,
+      "k": 3.4,
+      "cl": 96
+     },
+     "n": "Hạ natri, kali nhẹ do mất nước và nôn; cần khi bù dịch. Ngưỡng điều chỉnh: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm amidan cấp mủ nặng lên sau 48 giờ, nghi do liên cầu nhóm A; kháng sinh uống thực tế không đủ liều do đau nuốt và nôn (3/6 liều); mất nước vừa; chưa loại trừ được biến chứng mủ khoang cổ bằng hình ảnh học tại chỗ",
+     "ok": 1,
+     "n": "Sốt cao hơn, bạch cầu 19,4, CRP 148 sau 48 giờ; amidan độ III phủ mủ nhiều (QĐ 5643/2015, Viêm amiđan cấp mục 3.1.1.1, 3.1.2.1). Chẩn đoán gốc không đổi: vẫn viêm amidan cấp mủ, không có ổ khu trú. Đáp ứng thường trong 24–48 giờ nếu uống đủ (IDSA 2012 Evidence Summary, khuyến cáo 8); không nhạy thuốc do uống thiếu liều chứ không phải thất bại do kháng thuốc: số liệu kháng penicillin của liên cầu nhóm A không có trong tài liệu đã tải. Khi hết cách điều trị nội khoa không cải thiện 24–48 giờ phải làm lại hình ảnh học (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 5.2)."
+    },
+    {
+     "t": "Tổn thương gan do paracetamol dùng quá liều nhiều ngày (khoảng 5 g/ngày × 5 ngày, nhịn ăn): AST 66, ALT 58 > 50 IU/L",
+     "ok": 1,
+     "n": "QĐ 3610/2015, Các trường hợp đặc biệt 3: AST/ALT trên 50 IU/L hoặc paracetamol máu trên 66 µmol/L là nguy cơ cao, cần NAC ngay. Triệu chứng: buồn nôn, đau hạ sườn phải (mục 3.2). Phòng khám không định lượng paracetamol máu."
+    },
+    {
+     "t": "Áp xe quanh amidan",
+     "n": "Khám lượt này vẫn đối xứng, lưỡi gà giữa, khẩu cái không phồng, giọng không ngậm, không chảy dãi; hạch góc hàm to đau không phải ổ mủ. Chưa thấy dấu khu trú nhưng người bệnh xấu đi dù đã kê kháng sinh nên không loại trừ hẳn bằng khám: cần siêu âm hoặc CT có cản quang (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 4.2). Chuyển viện khi biến chứng mủ nặng (NICE NG84 2018 khuyến cáo 1.1.13). Dấu khít hàm, lệch lưỡi gà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm trùng khoang cổ sâu (khoang quanh hầu, khoang dưới hàm)",
+     "n": "Nhiễm trùng amidan là nguyên nhân (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 2); cổ không sưng bạnh, không khó thở, nghiêng cổ đau nhẹ. Hình ảnh học mới xác định hoặc loại trừ (mục 4.2). Không có CT tại phòng khám."
+    },
+    {
+     "t": "Bạch hầu họng",
+     "n": "Mủ lau bong, không chảy máu, không vượt amidan, không cổ bạnh (QĐ 5643/2015 Viêm amiđan cấp mục 3.2; QĐ 2957/2020 mục 3.1.3, 5.1). Tiêm đủ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra tình huống 'mở lại chẩn đoán': sốt không hạ sau 48 giờ kháng sinh, hỏi lại thực sự đã uống bao nhiêu thuốc (đếm viên còn lại, hỏi riêng Huy), tính lại paracetamol và tìm biến chứng mủ",
+     "v": "c",
+     "n": "IDSA 2012 Evidence Summary khuyến cáo 8 (đáp ứng 24–48 giờ); NICE NG84 2018 khuyến cáo 1.1.11 (xấu nhanh hoặc rất yếu: tìm trợ giúp), 1.1.13; QĐ 5643/2015 Nhiễm trùng khoang cổ sâu mục 5.2 (không cải thiện sau 24–48 giờ: làm lại hình ảnh học)."
+    },
+    {
+     "t": "Làm lại công thức máu, AST, ALT, ure, creatinin, điện giải, nước tiểu; đo huyết áp tư thế",
+     "v": "c",
+     "n": "QĐ 3610/2015, Các trường hợp đặc biệt 3, mục 3.2, 3.3. Phòng khám có các xét nghiệm này trong khoảng một giờ. Huyết áp tư thế: cách làm lâm sàng, ngưỡng tụt huyết áp không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển ngay lên bệnh viện huyện (12 km) để siêu âm hoặc CT cổ loại trừ áp xe quanh amidan và khoang cổ sâu, truyền dịch, kháng sinh tĩnh mạch, N-acetylcystein; đi xe cấp cứu có người đi kèm",
+     "v": "c",
+     "n": "Lý do cùng lúc: (1) nhiễm trùng nặng lên dù kháng sinh, mất nước vừa, không uống được thuốc; (2) AST, ALT trên 50 → NAC ngay (QĐ 3610/2015); (3) không loại trừ được biến chứng mủ ở nơi không có hình ảnh học (NICE NG84 2018 khuyến cáo 1.1.13; QĐ 5643/2015 Nhiễm trùng khoang cổ sâu mục 4.2). Tiêu chí chuyển tuyến chung: không có trong tài liệu đã tải ngoài các điểm trên. Cũng chấm a: gọi trước cho tuyến nhận."
+    },
+    {
+     "t": "Trước chuyển: lập đường truyền tĩnh mạch bù dịch (natri clorid 0,9%), ngừng ngay mọi paracetamol và thuốc cảm, để ngồi nửa nằm, theo dõi mạch, HA, SpO₂, nhịp thở, giữ đường thở, kèm giấy chuyển viện có kết quả xét nghiệm và tổng liều paracetamol",
+     "v": "c",
+     "n": "Bù dịch: QĐ 3610/2015 (theo dõi bilan dịch vào, ra và điện giải khi dùng NAC); liều và tốc độ dịch: không có trong tài liệu đã tải. Giữ đường thở: QĐ 5643/2015 Nhiễm trùng khoang cổ sâu mục 5.1 (khi khó thở). Mẫu bàn giao SBAR: không có trong tài liệu đã tải; nội dung bàn giao do ca đặt ra."
+    },
+    {
+     "t": "Cho kháng sinh liều đầu tại phòng khám trước chuyển",
+     "v": "a",
+     "n": "Không bắt buộc: Huy không nuốt được viên, phòng khám không có kháng sinh tĩnh mạch trong ca; không nên trì hoãn chuyển. Kháng sinh tĩnh mạch do tuyến nhận kê (xem don_thuoc)."
+    },
+    {
+     "t": "Đổi sang kháng sinh uống mạnh hơn (cefixim, azithromycin) rồi cho về",
+     "v": "w",
+     "n": "Không giải quyết được lý do thật (không uống được thuốc, mất nước); AST, ALT trên 50 cần NAC ngay (QĐ 3610/2015); đổi thuốc theo ý mẹ là cái neo, không dựa dữ kiện. Macrolid chỉ khi dị ứng penicillin (QĐ 5643/2015 mục 4.2.1)."
+    },
+    {
+     "t": "Tiếp tục paracetamol hạ sốt như cũ trong lúc chờ",
+     "v": "h",
+     "n": "AST, ALT trên 50, đã quá liều nhiều ngày, mất nước và nhịn ăn là yếu tố nguy cơ (QĐ 3610/2015, Các trường hợp đặc biệt 3); dùng thêm làm nặng tổn thương gan."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm amidan cấp mủ nặng lên sau 48 giờ, nghi liên cầu nhóm A; kháng sinh uống không đủ liều do đau nuốt và nôn (3/6 liều)",
+     "Mất nước vừa (sốt 39,6 °C, tụt huyết áp tư thế 88/52, ure 8,4, tỷ trọng nước tiểu 1.032, Na 133)",
+     "Tổn thương gan do paracetamol dùng quá liều nhiều ngày: AST 66, ALT 58 > 50 IU/L → cần N-acetylcystein (QĐ 3610/2015)",
+     "Chưa loại trừ được áp xe quanh amidan và nhiễm trùng khoang cổ sâu vì phòng khám không có siêu âm/CT; khám hiện chưa có dấu khu trú",
+     "Nhiễu lượt này: mẹ nói uống đủ và đòi đổi thuốc mạnh; lý do thật: Huy sợ mẹ mắng nên giấu việc nôn và bỏ thuốc, sợ lây bệnh cho em và bà",
+     "Quyết định: chuyển tuyến kịp thời trong ngày"
+    ],
+    "phan_tich_chan_doan": [
+     "Điều buộc mở lại hồ sơ: sốt cao hơn, đau lan tai, bạch cầu 19,4, CRP 148 sau 48 giờ kháng sinh trong khi lẽ ra đáp ứng trong 24–48 giờ (IDSA 2012 khuyến cáo 8); chẩn đoán lượt 1 vẫn đúng nhưng phải tìm 3 điều: dùng thuốc thật hay không, có quá liều tiếp không, có ổ mủ không.",
+     "Bước 1: hỏi riêng Huy và đếm viên: không phải kháng sinh kém mà là thuốc không vào được (đau nuốt, nôn). Đổi sang thuốc 'mạnh hơn' là sai hướng.",
+     "Bước 2: paracetamol vẫn 5 g/ngày, nhịn ăn, mất nước → AST 66, ALT 58 (từ 28/24). AST, ALT trên 50 → NAC ngay (QĐ 3610/2015, Các trường hợp đặc biệt 3); NAC tĩnh mạch truyền 20 giờ (QĐ 3610/2015 mục 4.3) không có ở phòng khám.",
+     "Bài học: điều hợp lý ở lượt 1 (điều trị ngoại trú) chưa đủ ở lượt 2 vì dữ kiện đổi (không uống được thuốc, men gan, mất nước); không bám vào chẩn đoán cũ."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển ngay trong ngày: ba lý do độc lập đều đòi hỏi bệnh viện (kháng sinh tĩnh mạch và dịch, NAC, hình ảnh học). Tiêu chí chuyển tuyến tổng quát: không có trong tài liệu đã tải; các điểm trên dựa vào QĐ 3610/2015, NICE NG84 2018 khuyến cáo 1.1.13, QĐ 5643/2015.",
+     "Chuẩn bị trước chuyển: đường truyền và bù dịch, ngừng mọi paracetamol, tư thế ngồi nửa nằm, theo dõi mạch/HA/SpO₂/nhịp thở trên xe, gọi trước cho tuyến nhận, mẹ đi cùng, giấy chuyển có tổng liều paracetamol, giờ liều cuối, men gan, công thức máu. Liều và loại dịch truyền: không có trong tài liệu đã tải.",
+     "Bàn giao nội dung (cách làm của ca; mẫu SBAR không có trong tài liệu đã tải): Huy 15 tuổi, 49 kg; viêm amidan mủ nặng lên sau 48 giờ amoxicillin uống thiếu liều; mất nước, tụt HA tư thế; AST 66/ALT 58 sau paracetamol quá liều (QĐ 3610/2015); chưa loại trừ áp xe; đề nghị siêu âm/CT cổ, NAC, kháng sinh tĩnh mạch, dịch."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (bù dịch trước và trong khi chuyển)",
+      "ham_luong": "Chai truyền",
+      "lieu": "Liều và tốc độ: không có trong tài liệu đã tải; theo đánh giá mất nước và theo dõi mạch, HA",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay khi lập đường truyền tại phòng khám",
+      "so_ngay": "Một lần trước chuyển",
+      "ghi_chu": "QĐ 3610/2015 (theo dõi bilan dịch vào, ra và điện giải khi dùng NAC). Không có phác đồ bù dịch trong tài liệu đã tải; đây là xử trí của ca."
+     },
+     {
+      "thuoc": "N-acetylcystein (do tuyến nhận thực hiện)",
+      "ham_luong": "Lọ 5 g/25 ml (Fluimucil)",
+      "lieu": "Quy trình truyền tĩnh mạch 20 giờ: 150 mg/kg trong 200 ml glucose 5% truyền 30 phút; 50 mg/kg trong 500 ml truyền 4 giờ; 100 mg/kg trong 1.000 ml truyền 16 giờ (tổng 300 mg/kg)",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay khi tới bệnh viện",
+      "so_ngay": "20–21 giờ",
+      "ghi_chu": "QĐ 3610/2015, mục 4.3 (NAC), Các trường hợp đặc biệt 3 (AST, ALT trên 50 → NAC ngay). Không dùng ở phòng khám. Quy trình uống 72 giờ cũng được nêu (cùng mục)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "—",
+      "lieu": "NGỪNG hoàn toàn, kể cả thuốc cảm chứa paracetamol",
+      "duong": "—",
+      "thoi_diem": "Từ lúc này",
+      "so_ngay": "Đến khi tuyến nhận quyết định",
+      "ghi_chu": "QĐ 3610/2015, Các trường hợp đặc biệt 3. Hạ sốt bằng lau mát/thuốc khác do tuyến nhận chọn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh tĩnh mạch (do tuyến nhận kê)",
+      "ham_luong": "—",
+      "lieu": "Nhóm β-lactam cho viêm amidan nhiễm khuẩn (QĐ 5643/2015 mục 4.2.1); nếu có áp xe/viêm mô tế bào khoang cổ sâu: ceftriaxon 1–2 g × 1/ngày hoặc 100 mg/kg/ngày tối đa 4 g, phối hợp metronidazol 0,5 g × 2–3 lần/ngày (QĐ 5643/2015, Nhiễm trùng khoang cổ sâu mục 5.2)",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Sau khi lấy máu xét nghiệm tại bệnh viện",
+      "so_ngay": "Theo đáp ứng lâm sàng (QĐ 5643/2015 mục 5.2)",
+      "ghi_chu": "Liều kháng sinh tĩnh mạch cho viêm amidan không biến chứng: không có trong tài liệu đã tải. Phòng khám không kê."
+     }
+    ],
+    "dan_do": [
+     "Giải thích cho mẹ: lý do chuyển là thuốc không uống được, men gan tăng, chưa loại trừ ổ mủ; đi ngay trong ngày, mẹ đi cùng.",
+     "Dừng mọi thuốc hạ sốt và thuốc cảm; mang theo tất cả hộp thuốc (QĐ 3610/2015, Các trường hợp đặc biệt 3).",
+     "Trên đường đi và tại viện: báo ngay nếu khó thở, chảy dãi, không nuốt được nước bọt, cổ sưng, lơ mơ (NICE NG84 2018 khuyến cáo 1.1.13; QĐ 5643/2015 Nhiễm trùng khoang cổ sâu mục 4.1).",
+     "Sau khi ra viện: uống đủ kháng sinh theo đơn bệnh viện, ăn uống đủ, tái khám men gan theo hẹn của tuyến nhận (mốc: không có trong tài liệu đã tải).",
+     "Chuyện riêng của Huy: xét nghiệm HIV và STI theo hẹn (CDC 2021); Huy nên chia sẻ với một người lớn tin cậy."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ở lượt 1, bác sĩ hỏi riêng Huy, tính tổng paracetamol (khoảng 4–4,5 g/ngày × 3 ngày), làm AST 28 và ALT 24 U/L, tính Centor 4 và kê amoxicillin kèm paracetamol tối đa 3 g/ngày, hẹn lại sau 48 giờ. Hai ngày sau Huy nặng hơn vì uống thiếu 3/6 liều (nôn, đau nuốt) và vẫn dùng paracetamol khoảng 5 g/ngày: AST 66, ALT 58, mất nước, sốt 39,6 °C. Bác sĩ mở lại hồ sơ, lập đường truyền, ngừng paracetamol, chuyển bệnh viện huyện trong ngày. Tại đó siêu âm và CT cổ không thấy ổ áp xe, chẩn đoán vẫn là viêm amidan cấp mủ; Huy được truyền dịch, kháng sinh tĩnh mạch và N-acetylcystein, men gan trở về bình thường sau 4 ngày. Ra viện sau 5 ngày. Huy nói riêng với bác sĩ về nỗi sợ, xét nghiệm HIV và STI theo hẹn âm tính; mẹ biết con từng nôn bỏ thuốc nhưng không biết chuyện riêng; Huy hứa nói thật về thuốc từ nay. (Kết cục dựng theo kịch bản; không có số liệu tỉ lệ trong tài liệu đã tải.)",
+ "nhieu": [
+  "Mẹ trả lời thay và nói giảm: 'vài viên', 'uống đủ', 'không có chuyện gì khác'; lượt 2 mẹ đòi đổi thuốc mạnh hoặc tiêm. Dạy tách người bệnh ra hỏi riêng, đếm viên thuốc còn lại thay vì tin lời.",
+  "Chuyện riêng sau quan hệ tình dục và nỗi sợ HIV, lậu họng: giấu trước mẹ, chỉ kể khi hỏi riêng không phán xét (CDC 2021, Adolescents).",
+  "Paracetamol liều cao kéo dài: dễ lướt qua nếu chỉ hỏi 'có uống hạ sốt không'; thuốc cảm của bà cũng chứa paracetamol."
+ ],
+ "bai_hoc_bien": [
+  "Ca bẫy mở lại chẩn đoán: chẩn đoán lượt 1 đúng, nhưng sau 48 giờ không đáp ứng phải tự hỏi ba điều: thuốc có vào cơ thể không, có độc tính tích lũy không, có biến chứng mủ không (IDSA 2012 khuyến cáo 8; QĐ 3610/2015; QĐ 5643/2015 mục 5.2 khoang cổ sâu).",
+  "'Uống đủ' của người nhà không phải bằng chứng: đếm viên còn lại, hỏi riêng người bệnh.",
+  "Paracetamol vượt liều nhiều ngày: men gan đỉnh sau 48–72 giờ; một lần AST/ALT bình thường không loại trừ; trên 50 IU/L thì NAC ngay (QĐ 3610/2015).",
+  "Chuyển tuyến kịp thời: nhiều lý do độc lập cùng chỉ về một hướng, chuẩn bị trước chuyển, bàn giao đủ nội dung."
+ ],
+ "diem_nho": [
+  "Viêm amidan mủ: mủ lau bong dễ, không chảy máu, không vượt amidan, đối xứng; phân biệt bạch hầu: giả mạc dính chắc, chảy máu khi bóc, hạch to, tiêm chưa đủ (QĐ 5643/2015 mục 3.2).",
+  "Centor 3–4 không có test: kháng sinh ngay hoặc dự phòng/hoãn tùy nguy cơ thấp tim; nguồn khác nhau, cả hai đúng (HH-0466).",
+  "Dùng paracetamol quá liều nhiều lần: từ 6 g (hoặc trên 150 mg/kg) trong ≥ 48 giờ, hoặc trên 4 g/ngày kèm yếu tố nguy cơ; AST/ALT trên 50 IU/L → NAC ngay (QĐ 3610/2015).",
+  "Nhiễm trùng khoang cổ sâu: không cải thiện sau 24–48 giờ điều trị nội thì làm lại hình ảnh học (QĐ 5643/2015 mục 5.2)."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Viêm amiđan cấp và mạn tính mục 1–5 (tr. 141–145); Viêm họng cấp tính mục 2.2, 4.1, 4.2.2; Viêm mũi họng cấp tính mục 4.1; Nhiễm trùng khoang cổ sâu mục 1.2, 2, 4.1, 4.2, 5.1, 5.2, 6 (tr. 254–256)",
+  "TL-0158 · IDSA 2012 – GAS Pharyngitis (Clin Infect Dis 2012;55:e86–e102) – khuyến cáo 1, 8, 9, 10(i), 13, Bảng 2–4, Evidence Summary",
+  "TL-0140 · IDSA 2025 – Update on GAS pharyngitis (Clin Infect Dis 2026;82(Suppl 3):i97–i104) – thang điểm, Bảng 3",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – chương 6 Pharyngitis: tr. 47–48, 49–50, Bảng 6.2, 6.4",
+  "NICE NG84 2018 – Sore throat (acute): antimicrobial prescribing (kho cũ tltk-10000-ca, 01 Hô hấp cấp tính/Quốc tế) – khuyến cáo 1.1.3, 1.1.10–1.1.13, 1.2.1–1.2.2, Bảng 2, Terms used",
+  "TL-0129 · QĐ 2957/QĐ-BYT 2020 – Bạch hầu mục 3.1.3, 5.1",
+  "QĐ 3610/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và xử trí ngộ độc (kho cũ tltk-10000-ca, 00 Dùng chung/BYT) – Ngộ độc paracetamol mục 3.1, 3.2, 3.3, 4.3, 6 và Các trường hợp đặc biệt 3 'Dùng paracetamol quá liều điều trị nhiều lần'",
+  "TL-0156 · ACP/CDC 2016, Ann Intern Med 164:425–434 – tr. 428–429",
+  "CDC 2021, STI Treatment Guidelines (MMWR 70(4)) (kho cũ tltk-10000-ca, 08 Tiết niệu – nam khoa/Quốc tế) – Adolescents, HIV Infection, Gonococcal Infections, Box 1",
+  "Không có trong tài liệu đã tải: kháng sinh tĩnh mạch liều cho viêm amidan không biến chứng; liều, tốc độ dịch truyền; tiêu chí chuyển tuyến tổng quát; mốc xét nghiệm lại men gan; số ngày nghỉ học và giấy nghỉ ốm; số liệu kháng penicillin của liên cầu A; thời điểm đi học lại; quy định bí mật vị thành niên và nghĩa vụ báo cáo xâm hại ở Việt Nam; thuốc tránh thai khẩn cấp."
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết 2026-11-07. Ca bẫy 'Mở lại chẩn đoán', 2 lượt, nặng hơn, chuyển tuyến kịp thời. Chẩn đoán đích không đổi (viêm amidan cấp mủ): lượt 2 mở lại hồ sơ, hướng chuyển vì uống thuốc không vào, men gan > 50 và không có hình ảnh học, không vì áp xe được xác nhận.",
+  "Tài liệu đã đọc lại bản chữ: QĐ 5643/2015 Viêm amiđan cấp (mục 3.1.1.1, 3.1.2.1, 3.2, 4.1, 4.2.1, 5.1), Nhiễm trùng khoang cổ sâu (mục 1.2, 2, 4.1, 4.2, 5.1, 5.2, 6); NICE NG84 2018 khuyến cáo 1.1.10–1.1.13; QĐ 3610/2015 Các trường hợp đặc biệt 3, NAC 20 giờ. Điểm Centor/McIsaac/FeverPAIN, IDSA, AWaRe dùng lại từ HH-0484 (đã kiểm), chưa mở lại.",
+  "Mâu thuẫn đã có mục trong sổ, ghi theo mục: Centor 3–4 không test (HH-0466), amoxicillin/penicillin V (HH-0459, HH-0484), trần paracetamol thiếu niên, paracetamol dùng nhiều lần (HH-0484, DL-0302). Không mâu thuẫn mới.",
+  "Người bệnh 15 tuổi quan hệ tình dục tự nguyện với bạn cùng tuổi (mô tả không chi tiết); nghĩa vụ báo cáo, bí mật vị thành niên ở Việt Nam: không có trong tài liệu đã tải. Kết cục (siêu âm/CT không áp xe, ra viện sau 5 ngày) là kịch bản của ca. Số liệu phụ của phiếu công thức máu tự tính cho khớp."
+ ]
+}

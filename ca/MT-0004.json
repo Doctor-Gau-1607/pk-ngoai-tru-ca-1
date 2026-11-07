@@ -1,0 +1,614 @@
+{
+ "ma_ca": "MT-0004",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_tha_nguyen_phat_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Thị Mận",
+  "tuoi": 51,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn",
+  "can_nang": 58,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi bà là 'chị'. Chị tự xưng 'tôi' hoặc 'chị', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lao động tay chân, nói gọn, thật thà nhưng sợ mất việc nên hay nói giảm và ngại làm phiền. Gọi huyết áp là 'áp huyết', gọi warfarin là 'thuốc loãng máu'. Ít hiểu biết y khoa: nghĩ thuốc đau nhức mua ở tiệm 'không phải thuốc'. Đang gấp vì hạn nộp giấy ở công ty.",
+  "kieu_nhieu": "Tự uống thuốc 5 ngày trước khi đến: khi hỏi chung 'đang uống thuốc gì' chỉ kể thuốc áp huyết (amlodipin) và thuốc loãng máu. Chỉ kể diclofenac mua ở tiệm khi bác sĩ hỏi cụ thể thuốc tự mua, thuốc giảm đau, thuốc đau nhức, hoặc hỏi đau chỗ nào và đã uống gì; kể lộn tên ('viên trắng đau nhức'). Lý do thật (xin giấy chứng nhận sức khỏe) chỉ nói khi được hỏi về công việc.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c28b66",
+   "toc": "#1d1713",
+   "kieuToc": "bui",
+   "ao": "#8a6a4f",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đo huyết áp thấy cao, xin chỉnh thuốc huyết áp",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Đoàn Thị Mận, 51 tuổi, thợ sơn. Đến vì sáng nay đo huyết áp ở nhà thuốc thấy cao, hai hôm nay nặng đầu sau gáy, muốn chỉnh thuốc huyết áp. Sinh hiệu: HA 158/96 mmHg, mạch 74 l/p, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 58 kg, BMI 24.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Mận bị giữ nhập viện để hạ huyết áp dù HA chỉ 158/96 mmHg, không đau đầu dữ dội, không dấu thần kinh, không đau ngực hay khó thở, tức là không có tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1: cấp cứu THA là ≥ 180/110 kèm tổn thương cơ quan đích cấp; QĐ 5904 Phần 3 mục D.1: chuyển khẩn khi ≥ 200/120 hoặc ≥ 180/110 kèm triệu chứng). Chị mất thêm vài ngày công, trong khi việc cần làm là ngưng diclofenac, uống lại thuốc huyết áp đều và tái khám sau 2–4 tuần; ngay cả THA nặng không tổn thương cấp cũng chỉ cần tăng lại thuốc uống, ưu tiên ngoại trú (AHA/ACC 2025 mục 6.2).",
+    "chuyen_tuyen": "Chị Mận bị chuyển lên bệnh viện tuyến trên 'để kiểm tra' vì nghĩ tới THA thứ phát hoặc biến chứng, dù chị khởi bệnh năm 45 tuổi, từng kiểm soát tốt bằng hai thuốc, K 4,2 mmol/L, creatinin, điện tim và đáy mắt bình thường. Hai thuốc chưa được dùng đều nên chưa thể coi là 'không đạt mục tiêu dù đã điều trị đủ ≥ 3 thuốc' (QĐ 5904 Phần 1 Bước 4A mục 3). Nguyên nhân thật là ngưng enalapril vì ho, uống amlodipin không đều và diclofenac tự mua, đều xử trí được ngay tại phòng khám.",
+    "cap_cuu": "Chị Mận bị đưa đi cấp cứu và dùng thuốc hạ áp nhanh (ví dụ nifedipin ngậm) cho mức HA 158/96 mmHg. Hạ nhanh ở người THA lâu năm có thể gây giảm tưới máu cơ quan quan trọng do mất tự điều hòa, và THA không tổn thương cơ quan đích cấp không được hạ mạnh hay dùng thuốc tiêm (AHA/ACC 2025 mục 6.2); QĐ 5904 Phần 3 mục D.1 còn dặn tránh nifedipin tác dụng nhanh. Chị mất cả buổi ở phòng cấp cứu mà nguyên nhân thật vẫn chưa được xử lý."
+   },
+   "loi_mo": "Chào bác sĩ. Sáng nay tôi ghé nhà thuốc đo thấy áp huyết cao quá, sau gáy cũng nằng nặng hai bữa nay. Bác sĩ chỉnh giùm tôi thuốc áp huyết, tôi đang gấp lắm.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "158/96",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sáng nay ghé nhà thuốc đo HA thấy 164/98 mmHg, hai hôm nay hơi nặng đầu phía sau gáy. Bị áp huyết cao khoảng 6 năm, đến xin chỉnh lại thuốc, đang gấp.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và HA đo ở nhà thuốc"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Phát hiện THA năm 45 tuổi, khám ở trạm y tế phường, uống amlodipin 5 mg + losartan 50 mg mỗi ngày, HA đo ở trạm và ở nhà 120–130/70–80 mmHg, không tác dụng phụ. Sổ khám bệnh ghi đủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "THA đã biết, phác đồ cũ hiệu quả"
+    },
+    {
+     "id": "doi_thuoc",
+     "noi_dung": "Bốn tuần trước đến lấy thuốc ở trạm thì hết losartan, cô y tá đổi sang enalapril 5 mg uống mỗi sáng, vẫn giữ amlodipin. Uống khoảng 10 ngày thì ho khan, nên ba tuần nay tự bỏ enalapril, không báo ai. Amlodipin 'nhớ thì uống', chừng cách ngày vì thấy uống nhiều thứ lộn xộn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đổi thuốc, ngưng enalapril, uống amlodipin không đều"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan, ngứa họng, nhất là ban đêm, không sốt, không khạc đờm, không ho ra máu, không khó thở. Từ khi bỏ enalapril đỡ rõ, giờ thỉnh thoảng còn ho khẽ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho do ức chế men chuyển"
+    },
+    {
+     "id": "thuoc_loang_mau",
+     "noi_dung": "Đang uống 1 viên thuốc loãng máu mỗi tối (sổ ghi warfarin 3 mg) từ 7 tuần nay vì huyết khối tĩnh mạch sâu cẳng chân trái sau mổ. Bác sĩ mạch máu hẹn khám lại sau khoảng 5 tuần nữa. Thử INR lần cuối cách 2 tuần là 2,4 (tờ giấy trong túi).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc kháng đông đang dùng, chỉ định, INR cũ"
+    },
+    {
+     "id": "chan_thuong",
+     "noi_dung": "Ba tháng trước ngã từ giàn giáo cao khoảng 2 m, gãy thân xương chày trái, mổ kết hợp xương. Không đập đầu, không ngất, không chấn thương ngực bụng. Giờ đi lại gần bình thường, hơi cà nhắc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chấn thương cũ, không chấn thương đầu"
+    },
+    {
+     "id": "thuoc_tu_uong",
+     "noi_dung": "Năm ngày nay tự mua ở tiệm thuốc đầu ngõ diclofenac 50 mg, uống 1 viên × 2 lần/ngày sau ăn (khoảng 10 viên) cho đau vai gáy. Cô bán thuốc không hỏi bệnh gì. Chị nghĩ 'thuốc đau nhức' không phải thuốc nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể thuốc áp huyết (amlodipin) và thuốc loãng máu. Chỉ kể diclofenac khi bác sĩ hỏi cụ thể thuốc tự mua, thuốc giảm đau, thuốc đau nhức, hoặc hỏi đau chỗ nào và đã uống gì.",
+     "k": 1,
+     "y": "NSAID tự mua: làm tăng HA, nguy cơ chảy máu với warfarin"
+    },
+    {
+     "id": "dau_vai_gay",
+     "noi_dung": "Đau cơ vai gáy phải từ 1 tuần nay vì ngước sơn trần nhà cho con gái. Đau tăng khi ngước, đỡ khi nghỉ, không tê lan xuống tay, không yếu tay, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Nặng đầu vùng chẩm vào buổi sáng 2 ngày nay, mức nhẹ, không dữ dội đột ngột. Không nôn, không nhìn mờ hay nhìn đôi, không chóng mặt quay, không yếu liệt, không nói khó, không đau ngực, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ biểu hiện tổn thương cơ quan đích cấp"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu cam hay chân răng, không đi ngoài phân đen, không nôn ra máu, nước tiểu không đỏ. Có hơi nóng rát thượng vị sau ăn từ khi uống diclofenac. Vài vết bầm vàng cũ ở cẳng chân trái từ sau mổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu chảy máu khi dùng NSAID cùng warfarin"
+    },
+    {
+     "id": "ngoai_nguyen_nhan",
+     "noi_dung": "Không dùng thuốc cảm, thuốc bắc, cam thảo, thuốc tránh thai hay corticoid. Không hút thuốc, không uống rượu bia. Mãn kinh 2 năm. Không hồi hộp, vã mồ hôi từng cơn, không chuột rút hay yếu cơ. Chồng nói chị ngáy nhẹ, không ngưng thở.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn cơm quán gần công trình, hay ăn cá kho, mắm. Ngủ 5–6 giờ mỗi đêm. Dạo này ít đi bộ vì chân còn hơi mỏi.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: công ty sơn nhận chị làm lại công trình nhưng đòi 'giấy chứng nhận sức khỏe' ghi đủ sức khỏe làm việc trên giàn giáo, hẹn nộp thứ Hai. Chị sợ HA cao thì bị loại, nên nhờ 'hạ áp gấp' và xin giấy. Nghe người khác nói uống thuốc loãng máu thì giấy ghi bệnh, chị định ngưng thuốc loãng máu vài ngày trước khi đi khám cho 'giấy sạch'. Chưa nói với ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi công việc hiện giờ, đã đi làm lại chưa, vì sao đo HA gấp hôm nay, hôm nay có cần giấy tờ gì không, hoặc hỏi chị định làm gì với thuốc loãng máu. Chị ngại nói, nói nhỏ và hỏi lại 'bác sĩ cho tôi cái giấy được không'.",
+     "k": 1,
+     "y": "Động cơ thật: xin giấy chứng nhận sức khỏe; ý định ngưng warfarin"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi nghỉ 5 phút, bao đo vừa cỡ, đo hai lần: tay phải 158/96, tay trái 156/94 mmHg. Chênh hai tay < 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 156/94, đứng 3 phút 152/94 mmHg, mạch 74 → 78 l/p, không chóng mặt. Không hạ HA tư thế.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da niêm hồng. Vòng eo 80 cm, BMI 24,1. Mặt không tròn, không rạn da tím.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không phù mặt, tuyến giáp không to, không âm thổi động mạch cảnh.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, gan lách không to, không âm thổi vùng thượng vị hay hai hố thắt lưng.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, cánh tay, mu chân hai bên rõ, đều. Không âm thổi động mạch đùi.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Sẹo mổ mặt trong cẳng chân trái đã liền. Phù ấn lõm nhẹ quanh mắt cá chân trái (chiều), cẳng chân trái to hơn phải khoảng 1 cm. Không nóng, không đỏ, không đau khi bóp bắp chân, không tĩnh mạch nông giãn. Chân phải bình thường.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, nói rõ. Không liệt mặt. Sức cơ 5/5 bốn chi, cảm giác đều, phản xạ gân xương hai bên cân đối. Dấu màng não âm tính. Đi hơi cà nhắc chân trái.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Hẹp nhẹ tiểu động mạch, không xuất huyết, xuất tiết hay phù gai thị.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng và điểm đau cơ thang, cơ nâng vai phải. Tầm vận động cổ đủ, đau khi ngửa cổ cuối tầm. Nghiệm pháp Spurling âm tính, sức cơ và phản xạ hai tay đều.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không chấm xuất huyết hay bầm máu mới. Vài vết bầm vàng nhạt cũ ở cẳng chân trái quanh sẹo mổ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "inr": {
+     "v": "e",
+     "r": "PT/INR: INR 2,6 (mục tiêu 2,0–3,0)",
+     "n": "Người dùng warfarin vừa uống NSAID 5 ngày: cần biết INR hiện tại; khoảng đích 2,0–3,0 (ASH 2020 khuyến cáo 21; ESC AF 2024 Hình 10). Lịch kiểm INR sau khi dùng NSAID: không có trong tài liệu đã tải."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,6 mmol/L · Creatinin 68 µmol/L · eGFR 93 mL/ph/1,73m²",
+     "n": "Cần trước khi dùng lại chẹn thụ thể; NSAID kèm thuốc hạ áp có thể gây tổn thương thận cấp (QĐ 5904 Phần 1 Bước 2 mục 7; AHA/ACC 2025 Bảng 17).",
+     "bang": {
+      "ure": 4.6,
+      "creat": 68,
+      "egfr": 93
+     }
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,2 · Cl 103 mmol/L",
+     "n": "K nền trước chẹn thụ thể (QĐ 5904 Phần 3 mục G); K bình thường không loại trừ cường aldosteron (AHA/ACC 2025 mục 3.2.3.1).",
+     "bang": {
+      "na": 139,
+      "k": 4.2,
+      "cl": 103
+     }
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 7,1 G/L · Hb 124 g/L · TC 268 G/L",
+     "n": "Hb ở người dùng warfarin kèm NSAID: loại trừ chảy máu rỉ rả; cũng là xét nghiệm cơ bản của THA (QĐ 5904 Phần 1 Bước 2 mục 4). Hb 124 g/L trong giới hạn nữ (≥ 120).",
+     "bang": {
+      "wbc": 7.1,
+      "neu_pct": 58.0,
+      "lym_pct": 32.0,
+      "mono_pct": 7.0,
+      "eos_pct": 2.5,
+      "baso_pct": 0.5,
+      "rbc": 4.2,
+      "hgb": 124,
+      "hct": 0.37,
+      "mcv": 88.0,
+      "mch": 29.5,
+      "mchc": 335,
+      "rdw": 13.0,
+      "plt": 268
+     }
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 74 l/p. Sokolow-Lyon 24 mm, không dày thất trái, không ST–T bất thường.",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 10; Sokolow-Lyon > 35 mm là dày thất trái (VSH/VNHA 2024 Bảng 11)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,2 mmol/L",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 5.",
+     "bang": {
+      "glu": 5.2
+     }
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 5,3 · LDL-C 3,1 · HDL-C 1,4 · TG 1,5 mmol/L",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 6."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 22 U/L",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 8."
+    },
+    "acid_uric": {
+     "v": "u",
+     "r": "301 µmol/L",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 7."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Protein âm · Hồng cầu âm · Glucose âm",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 9."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "9 mg/g",
+     "n": "Dưới 30 mg/g: chưa có albumin niệu (VSH/VNHA 2024 Bảng 11)."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,8 mIU/L",
+     "n": "Thường quy theo ESC 2024 Bảng 8 và AHA/ACC 2025 Bảng 6; QĐ 5904 và VSH/VNHA 2024 không liệt kê: làm hay không đều không trừ điểm (sổ mâu thuẫn)."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Aldosteron 9 ng/dL · Hoạt tính renin 1,6 ng/mL/giờ · ARR 5,6 (dưới ngưỡng sàng lọc)",
+     "n": "ESC 2024 Bảng khuyến cáo 13 (IIa): cân nhắc cho mọi người THA; AHA/ACC 2025 mục 3.2.3.1: bắt buộc khi kháng trị hoặc hạ kali, chị chưa thuộc nhóm này. NSAID làm dương tính giả (ESC 2024 Bảng 12): đang dùng diclofenac nên diễn giải dè dặt."
+    },
+    "echo": {
+     "v": "a",
+     "r": "Không dày thất trái (IVSd 10 mm), EF 62%, van bình thường.",
+     "n": "Không bắt buộc ở THA độ 1 mới chỉnh thuốc; cơ sở có siêu âm nên làm được (nhóm xét nghiệm chi tiết, VSH/VNHA 2024 Đ2.2)."
+    },
+    "holter_ha": {
+     "v": "a",
+     "r": "HA trung bình 24 giờ 138/84 mmHg; ban ngày 142/88, ban đêm 124/74 (giảm 13%).",
+     "n": "Không bắt buộc: chị đã có chẩn đoán THA, HA phòng khám và nhà thuốc đều ≥ 140/90; dùng được để xác nhận mức HA thật khi chưa uống thuốc đều (ESC 2024 mục 8.4)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tim, phổi chưa thấy bất thường.",
+     "n": "Mẫu giấy khám sức khỏe có X-quang tim phổi thẳng (TT 25/2026 Mẫu số 03, mục III.1c) nhưng khám bệnh hôm nay không cần; chấp nhận."
+    },
+    "ct_nao": {
+     "n": "Không dấu thần kinh khu trú, không chấn thương đầu, đau đầu nhẹ tương xứng mức HA. Cơ sở không có CT: nếu đau đầu dữ dội hoặc có dấu thần kinh thì chuyển tuyến."
+    },
+    "trop": {
+     "n": "Không đau ngực, ECG không thiếu máu cơ tim."
+    },
+    "doppler_than": {
+     "n": "THA kiểm soát tốt bằng hai thuốc trước đó, K bình thường, không âm thổi bụng: chưa gợi ý hẹp động mạch thận."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 1, chưa kiểm soát do ngưng enalapril (ho khan) và uống amlodipin không đều, nặng thêm do diclofenac tự mua 5 ngày; đang dùng warfarin (huyết khối tĩnh mạch sâu cẳng chân trái sau mổ)",
+     "ok": 1,
+     "n": "HA 158/96 mmHg: độ 1 (140–159 và/hoặc 90–99, QĐ 5904 Phần 1 Bước 3A). THA 6 năm, kiểm soát tốt bằng amlodipin + losartan; HA tăng sau ngưng thuốc và dùng NSAID (AHA/ACC 2025 Bảng 11, Bảng 17). Chưa tổn thương cơ quan đích."
+    },
+    {
+     "t": "Ho do ức chế men chuyển (enalapril)",
+     "ok": 1,
+     "n": "Ho khan ban đêm khởi phát sau ~10 ngày dùng enalapril, đỡ rõ sau ngưng; ho gặp 1–2% (QĐ 5904 Phần 3 mục G) đến 5–10% người dùng (ESH 2023 mục 11.1.1)."
+    },
+    {
+     "t": "Nguy cơ chảy máu do dùng NSAID cùng warfarin (chưa có chảy máu)",
+     "ok": 1,
+     "n": "Diclofenac 5 ngày cùng warfarin; hơi nóng rát thượng vị, phân không đen, Hb 124, INR 2,6 (ESC AF 2024 Hình 9 tr. 3343, Hình 10 tr. 3349; ESC PE 2019 mục 8.2 tr. 576)."
+    },
+    {
+     "t": "THA thứ phát",
+     "n": "Không có chỉ điểm (VSH/VNHA 2024 Đ2.4; AHA/ACC 2025 Bảng 10): khởi phát 45 tuổi, từng kiểm soát tốt bằng hai thuốc, K 4,2 mmol/L, creatinin bình thường, không cơn hồi hộp–vã mồ hôi, không âm thổi bụng, không ngưng thở khi ngủ. Diclofenac là yếu tố làm tăng HA: nghĩ lại nếu HA vẫn cao sau khi ngưng thuốc và uống thuốc đều."
+    },
+    {
+     "t": "Cơn THA cấp cứu",
+     "n": "HA < 180/110 mmHg, đau đầu nhẹ, không dấu thần kinh, đáy mắt, ECG, creatinin, UACR không tổn thương cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "THA áo choàng trắng",
+     "n": "HA ≥ 140/90 ở hai nơi (nhà thuốc, phòng khám) và đã có chẩn đoán THA điều trị 6 năm; xác nhận thêm bằng HA tại nhà (ESC 2024 Bảng khuyến cáo 35, I-B)."
+    },
+    {
+     "t": "Biến cố mạch não, xuất huyết nội sọ ở người dùng warfarin",
+     "n": "Đau đầu nhẹ, khám thần kinh bình thường, không chấn thương đầu, INR trong khoảng 2,0–3,0 (ASH 2020 khuyến cáo 21). Tài liệu đã tải không có tiêu chí chụp CT sọ cho tình huống này; cơ sở không có CT nên dặn quay lại hoặc chuyển tuyến khi có dấu hiệu nặng."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu tái phát",
+     "n": "Chân không nóng, đỏ, đau tăng; SpO₂ 98%, không khó thở; đang dùng warfarin đạt INR."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi và ngưng ngay diclofenac; giải thích NSAID làm tăng HA, làm thuốc hạ áp kém tác dụng và tăng nguy cơ chảy máu khi dùng cùng warfarin",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11 (tránh NSAID toàn thân khi có thể), Bảng 17 (NSAID giảm tác dụng hạ áp do giữ natri); ESC AF 2024 Hình 9 tr. 3343 (VKA: tránh NSAID), Hình 10 tr. 3349 (nên dùng thuốc giảm đau khác); ESC PE 2019 mục 8.2 tr. 576 (NSAID tăng nguy cơ chảy máu, tránh nếu có thể)."
+    },
+    {
+     "t": "Giảm đau vai gáy bằng paracetamol: dưới 3 g/ngày (QĐ 361/2014) hoặc dưới 4 g/ngày (AHA/ACC 2025); nghỉ giải lao, tránh ngước kéo dài",
+     "v": "c",
+     "n": "QĐ 361/2014 Phụ lục NSAID bảng 'nguy cơ cao' tr. 199–200 (người tăng huyết áp: acetaminophen < 3 g/ngày, tránh NSAID nếu có thể); AHA/ACC 2025 Bảng 11 (acetaminophen < 4 g/ngày). Theo mục sổ 'Liều paracetamol tối đa', con số < 3 g thận trọng hơn. Tương tác paracetamol–warfarin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục diclofenac hoặc đổi sang NSAID khác (ibuprofen, meloxicam, celecoxib) để giảm đau vai gáy",
+     "v": "w",
+     "n": "Người vừa THA vừa dùng thuốc chống đông: QĐ 361 Phụ lục NSAID tr. 199–200 (nhóm nguy cơ thấp phải không kèm thuốc chống đông; nhóm nguy cơ cao: tránh nếu có thể); ESC AF 2024 Hình 9, 10; ESC PE 2019 mục 8.2. QĐ 361 mục Viêm quanh khớp vai có liệt kê diclofenac nhưng chung văn bản đã dặn tránh ở người THA (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Thuốc giảm đau tại chỗ (NSAID bôi) thay cho uống",
+     "v": "a",
+     "n": "AHA/ACC 2025 Bảng 11 nêu NSAID bôi là lựa chọn thay thế tùy chỉ định và nguy cơ. Tương tác NSAID bôi với warfarin không có trong tài liệu đã tải: chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Xác định ho do enalapril; không dùng lại nhóm ức chế men chuyển, đổi sang chẹn thụ thể angiotensin; ghi 'ho do ức chế men chuyển' vào sổ khám bệnh",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục G: ho 1–2% bệnh nhân; nhóm chẹn thụ thể ít gây ho hơn, nên dùng thay khi ho nhiều. ESH 2023 mục 11.1.1: ho khoảng 5–10% bệnh nhân. Khác nhau do quần thể và cách thu thập, cùng hướng xử trí (sổ mâu thuẫn MT-0055)."
+    },
+    {
+     "t": "Dùng lại phối hợp amlodipin 5 mg + losartan (25 mg theo bảng thuốc QĐ 5904 hoặc 50 mg theo sơ đồ QĐ 5904 và liều chị từng dung nạp), uống 1 lần/ngày",
+     "v": "c",
+     "n": "Chẹn thụ thể + chẹn kênh canxi dihydropyridin là phối hợp ưu tiên, nên phối hợp ngay vì HA ≥ 140/90 (ESC 2024 Bảng khuyến cáo 16, I-B; VSH/VNHA 2024 Bảng 4; QĐ 5904 Phần 1 Bước 5 mục B.2). QĐ 5904 Phần 3 mục G: amlodipin khởi 5 mg, tối ưu 5–10 mg; losartan khởi 25 mg, tối ưu 100 mg. Sơ đồ Phần 1 mục C tr. 5 ghi losartan 50 mg (sổ mâu thuẫn mục 6). Chị từng dùng 50 mg, HA đạt mục tiêu."
+    },
+    {
+     "t": "Amlodipin đơn trị 5 mg (có thể 10 mg) trước, thêm chẹn thụ thể sau khi có K và creatinin",
+     "v": "a",
+     "n": "QĐ 5904 Phần 1 mục C.4: chỉ có một loại thuốc thì tăng dần liều. K và creatinin đã có trong ngày nên không bắt buộc; không nguồn nào nói đơn trị là có hại (sổ mâu thuẫn MT-0166)."
+    },
+    {
+     "t": "Đổi sang một thuốc ức chế men chuyển khác (perindopril, lisinopril…)",
+     "v": "w",
+     "n": "Ho là tác dụng cùng nhóm; QĐ 5904 Phần 3 mục G khuyên dùng chẹn thụ thể thay khi ho nhiều."
+    },
+    {
+     "t": "Cho ngậm hoặc uống nifedipin tác dụng nhanh để hạ áp ngay, vì chị cần giấy gấp",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát; AHA/ACC 2025 mục 6.2: THA không tổn thương cơ quan đích cấp không hạ áp mạnh."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện để hạ huyết áp",
+     "v": "w",
+     "n": "Không đủ tiêu chuẩn: HA 158/96, không tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "Tiếp tục warfarin như bác sĩ mạch máu đã dặn, không tự ngưng; báo cho nơi kê warfarin việc đã dùng diclofenac 5 ngày; giữ hẹn khám mạch máu",
+     "v": "c",
+     "n": "Điều trị chính huyết khối tĩnh mạch sâu tối thiểu 3–6 tháng, quyết định kéo dài hay ngưng thuộc bác sĩ điều trị (ASH 2020, phần thời gian điều trị chính); INR đích 2,0–3,0 (ASH 2020 khuyến cáo 21; ESC AF 2024 Hình 10, I). Lịch kiểm INR sau khi dùng NSAID: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đồng ý để chị ngưng warfarin vài ngày trước khi khám giấy cho 'sạch'",
+     "v": "w",
+     "n": "Mới 7 tuần sau huyết khối, điều trị chính cần tối thiểu 3–6 tháng (ASH 2020); tự ngưng không qua bác sĩ điều trị là sai."
+    },
+    {
+     "t": "Đo HA tại nhà bằng máy bắp tay, ghi sổ sáng–tối, mang theo khi tái khám",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 35 (I, B); VSH/VNHA 2024 Bảng 8 và Đ4.1; QĐ 5904 Phụ lục 1.1 (nghỉ 5–10 phút, đo hai lần cách nhau 1–2 phút)."
+    },
+    {
+     "t": "Giải thích mục tiêu HA dưới 130/80 mmHg (tâm thu 120–129 nếu dung nạp) và việc không tự ý bỏ thuốc",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Bảng 4: < 130/80; AHA/ACC 2025: < 130/80; ESC 2024: tâm thu 120–129; QĐ 5904 Phần 1 Bước 5 mục A.2: tâm thu 120 đến < 130 (< 65 tuổi), tâm trương 70 đến < 80, mục D.2: không tự ý bỏ thuốc. Các nguồn cùng hướng, khác con số."
+    },
+    {
+     "t": "Giảm muối dưới 5 g/ngày (bớt cá kho, mắm), vận động ít nhất 150 phút/tuần, hạn chế rượu bia",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 Phụ lục 3.2 (< 5 g/ngày); Phần 1 Bước 5 mục D.1e (≥ 150 phút/tuần)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–4 tuần: HA, ho, phù chân; xét nghiệm lại K và creatinin sau 2–4 tuần dùng chẹn thụ thể",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ4.1: mỗi 2–4 tuần trong 2–3 tháng đầu; QĐ 5904 sơ đồ Phần 1 mục C tr. 5: tái khám sau 4 tuần, Bước 2 mục 3: theo dõi sát trong 1 tháng đầu khi đổi phác đồ; AHA/ACC 2025 mục 5.2.8, 5.2.9: điện giải, eGFR sau 2–4 tuần."
+    },
+    {
+     "t": "Giải thích khám bệnh hôm nay không phải khám sức khỏe cấp giấy: không ký 'đủ sức khỏe làm việc trên cao', ghi trung thực THA và warfarin; hướng dẫn khám sức khỏe đủ chuyên khoa theo mẫu khi HA ổn; bàn việc làm trên giàn giáo với bác sĩ kê warfarin",
+     "v": "c",
+     "n": "TT 32/2023/TT-BYT Điều 30 khoản 2a (khám bệnh ngoại trú không thuộc khám sức khỏe), Điều 32 khoản 3 (không khám đủ chuyên khoa theo mẫu thì không phân loại sức khỏe); TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03. ESC AF 2024 Hình 10: khuyên hạn chế nghề nghiệp, sở thích nguy hiểm khi dùng thuốc chống đông. Tiêu chuẩn sức khỏe làm việc trên cao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ký giấy 'đủ sức khỏe làm việc trên cao' hoặc 'bình thường' ngay hôm nay cho chị đi nộp",
+     "v": "w",
+     "n": "Khám bệnh ngoại trú không phải khám sức khỏe cấp giấy, khám thiếu chuyên khoa theo mẫu không phân loại (TT 32/2023 Điều 30 khoản 2a, Điều 32 khoản 3); chị còn THA chưa kiểm soát và đang dùng warfarin (sổ mâu thuẫn, mục giấy chứng nhận sức khỏe)."
+    },
+    {
+     "t": "Dặn dấu hiệu cần quay lại ngay: đau đầu dữ dội, yếu liệt, nói khó, nhìn mờ, đau ngực, khó thở; chảy máu (phân đen, nôn máu, tiểu đỏ, bầm lan rộng); chân sưng đau tăng",
+     "v": "c",
+     "n": "Triệu chứng THA nặng: QĐ 5904 Phần 3 mục D.1. Danh sách dấu hiệu chảy máu khi dùng warfarin: không có trong tài liệu đã tải (lời dặn chung). Cơ sở không có CT: các dấu hiệu thần kinh thì chuyển cấp cứu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 1 (HA 158/96 mmHg), chưa kiểm soát",
+     "Yếu tố làm nặng: ngưng enalapril vì ho, uống amlodipin không đều",
+     "Yếu tố làm nặng: diclofenac tự mua 5 ngày (NSAID làm tăng HA, giảm tác dụng thuốc hạ áp)",
+     "Ho do ức chế men chuyển (enalapril)",
+     "Đang dùng warfarin (huyết khối tĩnh mạch sâu cẳng chân trái sau mổ, INR 2,6); dùng NSAID cùng warfarin: nguy cơ chảy máu, chưa có biểu hiện",
+     "Đau cơ vai gáy phải do tư thế ngước sơn trần",
+     "Chưa tổn thương cơ quan đích; không có chỉ điểm THA thứ phát",
+     "Nhu cầu thật: xin giấy chứng nhận sức khỏe làm việc trên giàn giáo"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: câu 'đang uống thuốc gì' chỉ ra amlodipin và thuốc loãng máu; phải hỏi tiếp cụ thể thuốc tự mua, thuốc giảm đau, đau chỗ nào mới ra diclofenac; hỏi 'có đổi thuốc không, có ho không' mới ra enalapril. Cần ghi số đo HA, thuốc đã dùng, tác dụng phụ, tuân thủ (QĐ 5904 Phần 1 Bước 1 mục 3; VSH/VNHA 2024 Bảng 9, Đ4.2: hỏi ho khan, phù chân).",
+     "Khám: HA hai tay chênh < 10 mmHg, không hạ HA tư thế; thần kinh, đáy mắt, tim phổi bình thường; chân trái phù nhẹ, không dấu hiệu huyết khối tái phát; không chấm xuất huyết. Cận lâm sàng: INR 2,6 trong khoảng đích, Hb 124 g/L, K 4,2, creatinin 68 µmol/L, ECG và UACR bình thường: chưa tổn thương cơ quan đích (QĐ 5904 Phần 1 Bước 2; AHA/ACC 2025 Bảng 6).",
+     "Phân độ: 158/96 mmHg là THA độ 1 (tâm thu 140–159 hoặc tâm trương 90–99, QĐ 5904 Phần 1 Bước 3A). Ngưỡng chẩn đoán 140/90 (QĐ 5904, VSH/VNHA 2024, ESC 2024) khác 130/80 của AHA/ACC 2025 mục 2.1; chị vượt cả hai, không ảnh hưởng chẩn đoán. Nguy cơ tim mạch chưa xếp cao: không đái tháo đường, bệnh thận hay dày thất trái (QĐ 5904 Phần 1 Bước 3B); thang SCORE/PREVENT không có công cụ trong kho.",
+     "Hai nguyên nhân làm HA tăng, đều từ thuốc: bỏ enalapril rồi uống amlodipin lúc nhớ lúc quên; và diclofenac. NSAID giữ natri làm giảm tác dụng mọi thuốc hạ áp (AHA/ACC 2025 Bảng 17) và nằm trong danh sách chất gây tăng HA (Bảng 10, 11). Đây là nguyên nhân thứ phát do thuốc, đáp ứng khi ngưng thuốc (AHA/ACC 2025 Bảng 10), nên không chuyển chẩn đoán thành THA thứ phát.",
+     "Vì sao diclofenac nguy hiểm riêng với chị: đang dùng warfarin. NSAID nằm trong nhóm tránh dùng cùng thuốc kháng vitamin K (ESC AF 2024 Hình 9 tr. 3343) và là yếu tố chảy máu có thể sửa được (Hình 10 tr. 3349); ESC PE 2019 mục 8.2 tr. 576 cũng nêu. Chị chưa chảy máu và INR trong khoảng, nên ngưng thuốc và theo dõi, không cần xử trí cấp. Hai tài liệu trên viết cho rung nhĩ và thuyên tắc phổi, dùng tham khảo.",
+     "Loại trừ THA thứ phát: không thuộc nhóm cần sàng lọc (không khởi phát < 40 tuổi, không kháng trị, không hạ kali); trước đó kiểm soát tốt bằng hai thuốc; không cơn hồi hộp–vã mồ hôi, không âm thổi bụng (VSH/VNHA 2024 Đ2.4; QĐ 5904 Phần 1 Bước 4A mục 1). Aldosteron–renin: ESC 2024 Bảng khuyến cáo 13 cân nhắc cho mọi người THA (IIa), AHA/ACC 2025 mục 3.2.3.1 bắt buộc khi kháng trị hoặc hạ kali; làm chấm a, NSAID gây dương tính giả (ESC 2024 Bảng 12).",
+     "Loại trừ cơn THA cấp cứu: HA < 180/110, đau đầu nhẹ, không dấu thần kinh, đáy mắt và ECG không tổn thương (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1: chuyển khẩn khi ≥ 200/120 hoặc ≥ 180/110 kèm triệu chứng). Hai nguồn khác nhau về ngưỡng nhưng chị không chạm ngưỡng nào. Cơ sở không có CT: không chụp được; không có dấu hiệu nặng nên không cần, và dặn quay lại ngay nếu có.",
+     "Lý do thật là giấy chứng nhận sức khỏe. Khám bệnh ngoại trú không phải khám sức khỏe cấp giấy; khám không đủ chuyên khoa theo mẫu thì không phân loại sức khỏe (TT 32/2023 Điều 30 khoản 2a, Điều 32 khoản 3; mẫu TT 25/2026 Phụ lục XXIV Mẫu số 03 gồm khám nhiều chuyên khoa và cận lâm sàng). Ký 'đủ sức khỏe' hôm nay là sai; ghi trung thực và hẹn khám sức khỏe đủ mẫu khi HA đã ổn. Ý định ngưng warfarin để 'giấy sạch' phải được nói rõ là không được."
+    ],
+    "phan_tich_xu_tri": [
+     "Gỡ nguyên nhân trước: ngưng diclofenac, đổi paracetamol (< 3 g/ngày theo QĐ 361/2014 Phụ lục NSAID tr. 199–200; < 4 g/ngày theo AHA/ACC 2025 Bảng 11; con số < 3 g thận trọng hơn). NSAID bôi chấm a (AHA/ACC 2025 Bảng 11). Tương tác paracetamol–warfarin không có trong tài liệu đã tải nên hẹn kiểm INR theo nơi kê warfarin.",
+     "Phác đồ: ức chế men chuyển gây ho nên không dùng lại; chẹn thụ thể ít gây ho (QĐ 5904 Phần 3 mục G; ho 1–2% theo QĐ, 5–10% theo ESH 2023 mục 11.1.1). Phối hợp lại amlodipin + losartan, là phối hợp RAS + CCB ưu tiên (ESC 2024 Bảng khuyến cáo 16; VSH/VNHA 2024 Bảng 4; QĐ 5904 Bước 5 mục B.2). Liều losartan: 25 mg (QĐ 5904 Phần 3 mục G) hoặc 50 mg (QĐ 5904 Phần 1 mục C tr. 5; chị từng dùng 50 mg); chọn 50 mg vì đã dung nạp nhưng 25 mg thận trọng hơn.",
+     "Không hạ áp nhanh: THA độ 1 không tổn thương cơ quan đích cần tăng lại thuốc uống, ưu tiên ngoại trú (AHA/ACC 2025 mục 6.2); nifedipin tác dụng nhanh bị tránh (QĐ 5904 Phần 3 mục D.1). Việc chị 'đang gấp' vì giấy không phải chỉ định hạ áp nhanh.",
+     "Warfarin: không đổi, không ngưng. Điều trị chính huyết khối tĩnh mạch sâu tối thiểu 3–6 tháng, quyết định kéo dài do bác sĩ mạch máu (ASH 2020); INR đích 2,0–3,0 (ASH 2020 khuyến cáo 21; ESC AF 2024 Hình 10). Lịch kiểm INR sau NSAID không có trong tài liệu đã tải: đề nghị báo nơi kê warfarin.",
+     "Mục tiêu và theo dõi: dưới 130/80 mmHg (VSH/VNHA 2024 Bảng 4; AHA/ACC 2025), QĐ 5904 Bước 5 mục A.2 ghi tâm thu 120 đến < 130, ESC 2024 tâm thu 120–129. Đo HA tại nhà (ESC 2024 Bảng khuyến cáo 35). Tái khám 2–4 tuần (VSH/VNHA 2024 Đ4.1; QĐ 5904 ghi sau 4 tuần); K, creatinin sau 2–4 tuần dùng chẹn thụ thể (AHA/ACC 2025 mục 5.2.8–5.2.9).",
+     "Giấy chứng nhận sức khỏe: nói thẳng với chị rằng hôm nay là khám bệnh, không ký giấy 'bình thường'; giải thích để chị không cảm thấy bị từ chối: HA sẽ về mục tiêu sau vài tuần, khi đó đi khám sức khỏe đủ mẫu. Nghề làm trên cao khi dùng thuốc chống đông: bàn với bác sĩ kê warfarin (ESC AF 2024 Hình 10); tiêu chuẩn sức khỏe làm việc trên cao không có trong tài liệu đã tải.",
+     "Không làm thừa: không CT (cơ sở không có, không chỉ định), không chuyển tuyến, không nhập viện. Cơ sở thiếu CT chỉ đổi quyết định khi xuất hiện dấu thần kinh hoặc đau đầu dữ dội: khi đó chuyển cấp cứu (QĐ 5904 Phần 3 mục D.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày, buổi sáng",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Khởi 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Chân trái đã phù nhẹ do hậu huyết khối: báo nếu phù tăng sau khi uống đều. Hàm lượng viên tại Việt Nam không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Losartan",
+      "ham_luong": "25 mg hoặc 50 mg",
+      "lieu": "25 mg × 1 lần/ngày (QĐ 5904 Phần 3 mục G: khởi đầu 25 mg, tối ưu 100 mg) hoặc 50 mg × 1 lần/ngày (QĐ 5904 Phần 1 mục C, sơ đồ tr. 5; chị từng dùng 50 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ với amlodipin",
+      "so_ngay": "Dùng lâu dài; xét nghiệm K, creatinin sau 2–4 tuần",
+      "ghi_chu": "Thay enalapril vì ho. Chống chỉ định có thai (chị mãn kinh 2 năm; vẫn hỏi). Tăng kali, tăng creatinin cần theo dõi (QĐ 5904 Phần 3 mục G; AHA/ACC 2025 mục 5.2.8–5.2.9). Ngưng khi mất nước, ói, tiêu chảy kéo dài: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên/lần, tối đa 3 lần/ngày (1,5 g/ngày) khi đau vai gáy",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Số ngày dùng không có trong tài liệu đã tải; ngưng khi hết đau",
+      "ghi_chu": "Thay diclofenac. Trần < 3 g/ngày theo QĐ 361/2014 Phụ lục NSAID tr. 199–200 ở người THA, < 4 g/ngày theo AHA/ACC 2025 Bảng 11; kê 1,5 g/ngày thấp hơn cả hai. Tương tác với warfarin không có trong tài liệu đã tải: báo nơi kê warfarin."
+     },
+     {
+      "thuoc": "Warfarin (thuốc đang dùng, KHÔNG đổi)",
+      "ham_luong": "Theo sổ khám của bác sĩ điều trị (chị nhớ 3 mg)",
+      "lieu": "Giữ nguyên liều đang dùng, 1 lần/ngày buổi tối",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, cùng giờ mỗi ngày",
+      "so_ngay": "Đến khi bác sĩ mạch máu quyết định (tối thiểu 3–6 tháng điều trị chính, ASH 2020)",
+      "ghi_chu": "INR đích 2,0–3,0 (ASH 2020 khuyến cáo 21); INR hôm nay 2,6. Không tự ngưng, không tự đổi liều. Kê thêm hay chỉnh liều warfarin: không thuộc phòng khám này."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn diclofenac và mọi thuốc giảm đau chống viêm mua ở tiệm (ibuprofen, meloxicam, 'thuốc đau nhức'); khi mua thuốc nào cũng nói đang uống thuốc loãng máu. Đau vai gáy dùng paracetamol, nghỉ giải lao, tránh ngước kéo dài.",
+     "Uống amlodipin + losartan mỗi ngày cùng giờ, đặt nhắc điện thoại; không tự bỏ thuốc khi thấy khỏe hoặc khi có ho. Ho vừa rồi là do enalapril: lần sau đổi thuốc nhớ nói 'tôi bị ho khi uống thuốc ức chế men chuyển'; có tác dụng phụ thì báo bác sĩ chứ không tự bỏ (QĐ 5904 Phần 1 Bước 5 mục D.2).",
+     "Tiếp tục thuốc loãng máu như bác sĩ mạch máu dặn, KHÔNG ngưng để lấy giấy; giữ hẹn khám mạch máu sau khoảng 5 tuần và mang theo kết quả INR hôm nay (ASH 2020, phần thời gian điều trị chính: tối thiểu 3–6 tháng).",
+     "Đo HA tại nhà sáng, tối, ngồi nghỉ 5 phút, đo hai lần, ghi sổ (QĐ 5904 Phụ lục 1.1; ESC 2024 Bảng khuyến cáo 35). Mục tiêu dưới 130/80 mmHg (VSH/VNHA 2024 Bảng 4).",
+     "Giảm muối dưới 5 g/ngày (QĐ 5904 Phụ lục 3.2), vận động ít nhất 150 phút/tuần (Bước 5 mục D.1e); chưa tập nặng với chân trái khi chưa hỏi bác sĩ mạch máu (không có trong tài liệu đã tải).",
+     "Về giấy chứng nhận sức khỏe: hôm nay là khám bệnh nên không ký giấy; khi HA ổn sau 2–4 tuần, đến cơ sở khám sức khỏe để khám đủ chuyên khoa theo mẫu và đưa giấy bác sĩ điều trị warfarin cho công ty xem. Việc làm trên giàn giáo khi đang dùng thuốc loãng máu: hỏi bác sĩ mạch máu (ESC AF 2024 Hình 10).",
+     "Đi cấp cứu ngay nếu đau đầu dữ dội, yếu liệt, méo miệng, nói khó, nhìn mờ, đau ngực, khó thở, đi ngoài phân đen, nôn máu, tiểu đỏ, bầm máu lan rộng, chân sưng đau tăng (QĐ 5904 Phần 3 mục D.1 cho dấu hiệu THA nặng; danh sách chảy máu không có trong tài liệu đã tải).",
+     "Tái khám sau 2–4 tuần (VSH/VNHA 2024 Đ4.1), mang sổ HA tại nhà, hộp thuốc đang dùng; làm lại K, creatinin (AHA/ACC 2025 mục 5.2.8–5.2.9)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Mận ngưng diclofenac, uống đều amlodipin + losartan 50 mg. Sau 2 tuần HA tại nhà 128–134/78–82, HA phòng khám 132/80; K 4,3, creatinin 70 µmol/L; INR 2,5. Chị đến cơ sở khám sức khỏe để khám đủ mẫu sau khi HA ổn, và hỏi bác sĩ mạch máu về việc làm trên giàn giáo. Ba tháng sau, thấy khỏe và đang đi làm xa, chị tự ngưng losartan 'cho đỡ tốn', HA lên lại 156/94 mmHg: tái phát vì tuân thủ, nguyên nhân nền chưa xử lý.",
+ "nhieu": [
+  "Tự uống diclofenac 5 ngày, chỉ kể khi hỏi cụ thể: làm tăng HA và tăng nguy cơ chảy máu ở người đang dùng warfarin.",
+  "Lý do thật là xin giấy chứng nhận sức khỏe: chị nhờ 'hạ áp gấp' và định ngưng warfarin để giấy 'sạch'; phải hỏi về công việc mới lộ.",
+  "Ho do enalapril bị bỏ qua vì chị tự ngưng thuốc không báo; đổi thuốc ở trạm là khởi phát nhưng chị không coi là chuyện quan trọng.",
+  "Đau vai gáy do ngước sơn và phù nhẹ chân trái hậu huyết khối làm lạc hướng khỏi nguyên nhân thuốc."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi thuốc đang dùng hai lần: hỏi chung rồi hỏi cụ thể 'thuốc tự mua, thuốc giảm đau, thuốc nam bắc' (QĐ 5904 Phần 1 Bước 1 mục 3; VSH/VNHA 2024 Bảng 9). Người dùng warfarin: luôn hỏi NSAID (ESC AF 2024 Hình 9, 10).",
+  "THA đang điều trị mà HA tăng lại: tìm trước tuân thủ, đổi thuốc, tác dụng phụ (ho), thuốc làm tăng HA, rồi mới nghĩ thứ phát hay tăng thuốc (VSH/VNHA 2024 Đ4.2; AHA/ACC 2025 Bảng 10).",
+  "Ho do ức chế men chuyển: đổi sang chẹn thụ thể, không đổi sang ức chế men chuyển khác (QĐ 5904 Phần 3 mục G); ghi vào sổ khám bệnh.",
+  "THA độ 1 không tổn thương cơ quan đích không phải cấp cứu: không hạ nhanh, không ngậm nifedipin, không nhập viện (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2).",
+  "Xin giấy chứng nhận sức khỏe không phải khám bệnh: nói rõ ranh giới, không ký 'bình thường', hẹn khám đúng mẫu (TT 32/2023 Điều 30, Điều 32; TT 25/2026 Mẫu số 03). Hỏi 'chị cần giấy tờ gì không' khi người bệnh gấp."
+ ],
+ "diem_nho": [
+  "THA độ 1: 140–159 và/hoặc 90–99 mmHg; độ 2: 160–179 và/hoặc 100–109; độ 3: ≥ 180 và/hoặc ≥ 110 (QĐ 5904 Phần 1 Bước 3A).",
+  "Mục tiêu: dưới 130/80 mmHg (VSH/VNHA 2024 Bảng 4; AHA/ACC 2025); tâm thu 120–129 (ESC 2024); 120 đến < 130 và 70 đến < 80 ở người < 65 tuổi (QĐ 5904).",
+  "NSAID: giữ natri, giảm tác dụng hạ áp (AHA/ACC 2025 Bảng 17); tránh ở người dùng VKA (ESC AF 2024 Hình 9). Paracetamol dưới 3 g/ngày ở người THA (QĐ 361 Phụ lục NSAID).",
+  "Phối hợp ưu tiên: chẹn thụ thể hoặc ức chế men chuyển + chẹn kênh canxi dihydropyridin (ESC 2024 Bảng khuyến cáo 16). Ho do ức chế men chuyển: 1–2% (QĐ 5904) đến 5–10% (ESH 2023).",
+  "Điện giải, creatinin 2–4 tuần sau khi bắt đầu hoặc chỉnh thuốc ức chế hệ renin–angiotensin (AHA/ACC 2025 mục 5.2.8–5.2.9). INR đích 2,0–3,0 (ASH 2020 khuyến cáo 21).",
+  "Khám bệnh ngoại trú không phải khám sức khỏe cấp giấy; thiếu chuyên khoa theo mẫu thì không phân loại (TT 32/2023 Điều 30, 32)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 (TL-0284) – ĐÃ ĐỌC Phần 1 Bước 1–5 (mục A.2, A.5, B.2, C sơ đồ tr. 5, D.1e, D.2), Phụ lục 1.1; Phần 3 mục D.1 (cấp cứu THA), mục G (thuốc thiết yếu: amlodipin, enalapril, losartan), Phụ lục 3.2 (muối).",
+  "VSH/VNHA 2024 (TL-0288) – Bảng 4 (mục tiêu), Bảng 8 (HA tại nhà), Bảng 9, Bảng 11, Đ2.2, Đ2.4, Đ4.1, Đ4.2. ESH 2023 (TL-0312) – mục 11.1.1 (ho do ức chế men chuyển).",
+  "ESC 2024 tăng huyết áp (TL-0305) – mục 8.4 và Bảng khuyến cáo 16, Bảng khuyến cáo 13, Bảng 12 (thuốc ảnh hưởng ARR), Bảng khuyến cáo 35, mục 10.1.1. AHA/ACC 2025 tăng huyết áp (TL-0297) – mục 2.1, 3.2.3.1, 5.2.8, 5.2.9, 6.2 (tr. e278), Bảng 6, Bảng 10, Bảng 11 (tr. e234), Bảng 17.",
+  "ESC AF 2024 (TL-0303) – Hình 9 tr. 3343, Hình 10 tr. 3349 (tương tác thuốc chống đông, giảm nguy cơ chảy máu); ESC PE 2019 (TL-0089) – mục 8.2 tr. 576 (yếu tố nguy cơ chảy máu); ASH 2020 điều trị VTE (TL-0086) – khuyến cáo 21 (INR 2,0–3,0), phần thời gian điều trị chính (tối thiểu 3–6 tháng). Ba tài liệu đầu không viết riêng cho huyết khối tĩnh mạch sâu ở người dùng warfarin: dùng tham khảo.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014 (TL-0286) – Phụ lục NSAID tr. 199–200 (nhóm nguy cơ thấp/cao, acetaminophen < 3 g/ngày); Thông tư 32/2023/TT-BYT (TL-0669) – Điều 30 khoản 2a, Điều 32 khoản 3; Thông tư 25/2026/TT-BYT (TL-0668) – Phụ lục XXIV Mẫu số 03."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-07: viết bản 1. Tài liệu đã đọc (mở lại bản chữ/PDF): xem trường nguon. Chi tiết: nhap/MT-0004/MT-0004_bao_cao.md.",
+  "Mâu thuẫn dùng lại theo sổ: ngưỡng THA 140/90 so với 130/80 (không ảnh hưởng vì HA 158/96); tiêu chuẩn cấp cứu THA (QĐ 5904 so với ESC/AHA); losartan 25 mg so với 50 mg; tần suất ho do ức chế men chuyển (QĐ 5904 1–2% so với ESH 2023 5–10%); paracetamol < 3 g so với < 4 g; NSAID ở người dùng thuốc chống đông (w); TSH và aldosteron–renin chấm a; giấy chứng nhận sức khỏe (TT 32/2023, TT 25/2026).",
+  "Không có trong tài liệu đã tải: lịch kiểm INR sau khi dùng NSAID; tương tác paracetamol–warfarin; tiêu chuẩn sức khỏe làm việc trên cao; tiêu chí chụp CT sọ cho đau đầu nhẹ ở người dùng warfarin; hàm lượng viên amlodipin/losartan/warfarin tại Việt Nam; số ngày dùng paracetamol; danh sách dấu hiệu chảy máu."
+ ]
+}

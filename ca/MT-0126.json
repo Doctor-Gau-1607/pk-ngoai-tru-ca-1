@@ -1,0 +1,614 @@
+{
+ "ma_ca": "MT-0126",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_tha_nguyen_phat",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nông dân đã nghỉ hưu",
+  "yeu_to_khoi_phat": "Mất ngủ kéo dài",
+  "thuoc_dang_dung": "Thuốc nam không rõ loại",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Hoàng Thị Nhàn",
+  "tuoi": 67,
+  "gioi": "Nữ",
+  "nghe": "Nông dân đã nghỉ hưu",
+  "can_nang": 54,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bác'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhanh, dứt khoát, tin kinh nghiệm bản thân và lời hàng xóm hơn sách vở. Thương con, hay lo nghĩ, sợ tốn tiền vì nhà đang túng. Ngại chữ nghĩa y khoa: gọi huyết áp là 'áp huyết', gọi xét nghiệm là 'thử máu'. Dịu lại ngay khi thấy mình được lắng nghe.",
+  "kieu_nhieu": "Đòi kháng sinh: mở đầu bằng chuyện huyết áp và mất ngủ nhưng nhiều lần quay lại 'bác sĩ cho tôi mấy ngày thuốc kháng sinh cho nhanh khỏi', viện dẫn ông hàng xóm uống ba ngày là hết, nói 'bên kia người ta cho liền', 'không cho kháng sinh thì khám làm gì'. Hỏi chung thì gạt 'chỉ cái ho thôi'. Chỉ nói nỗi sợ thật (viêm phổi ba năm trước, tốn tiền viện) khi bác sĩ hỏi bà lo gì nhất; dịu lại khi được giải thích bằng lời dễ hiểu và có hẹn quay lại cụ thể.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#cfcac4",
+   "kieuToc": "bui",
+   "ao": "#8a7a62",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nhức đầu, mất ngủ, xem huyết áp",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 67 tuổi, nông dân đã nghỉ hưu, đến khám vì nhức đầu âm ỉ và mất ngủ hơn một tháng. Hai hôm trước đo ở trạm y tế xã được 152/92. Sinh hiệu lúc tiếp đón: HA 156/94 mmHg, mạch 80 l/p, nhiệt 36,9 °C, SpO₂ 97%. Điều dưỡng Linh: bà có sổ mũi, ho khan nhẹ mấy hôm nay, nói chuyện nhanh và hơi gấp, bà bảo ở nhà còn việc.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Bà Nhàn được chuyển cấp cứu vì 'huyết áp cao kèm nhức đầu', trong khi HA 156/94 mmHg, thần kinh bình thường, đáy mắt không xuất huyết, ECG không thiếu máu: không đủ tiêu chuẩn cấp cứu THA, vốn cần HA ≥ 180/110 mmHg kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1). Bà tốn một đêm ở cấp cứu và vài triệu đồng, đúng điều bà sợ nhất lúc nhà đang nợ. Bà sẽ nhớ 'đi khám là bị giữ lại, tốn tiền', càng ngại xét nghiệm và tái khám, trong khi chuyện mất ngủ do lo cho con và thuốc nam vẫn chưa ai hỏi tới.",
+    "nhap_vien": "Bà Nhàn nhập viện nội trú để 'hạ áp và theo dõi', có thể bị truyền dịch hoặc cho thuốc ngủ ngay đêm đầu. HA 156/94 mmHg không có tổn thương cơ quan đích cấp: không cần hạ áp nhanh hay thuốc tiêm (AHA/ACC 2025 mục 6.2); thuốc ngủ nhóm benzodiazepin hoặc nhóm Z làm người từ 65 tuổi dễ lú lẫn, té ngã (AGS Beers 2023 Bảng 2). Bà nằm viện xa vườn rau và cháu, khoản viện phí chồng lên khoản nợ của con, còn nguyên nhân mất ngủ và thuốc nam vẫn nguyên.",
+    "chuyen_tuyen": "Bà Nhàn bị gửi lên tuyến trên 'để xét nghiệm đầy đủ' ngay trong ngày. Bà đã được chẩn đoán THA, HA độ 1, chưa có gợi ý thứ phát hay tổn thương cơ quan đích nên có thể khởi trị tại chỗ rồi hoàn thành xét nghiệm cơ bản trong 3 tháng đầu (QĐ 5904 Phần 1 Bước 2, Bước 5 mục A.5); chuyển tuyến chỉ khi nghi THA thứ phát (Bước 4 mục A.1). Bà vốn đã từ chối lấy máu vì sợ tốn tiền; gặp quy trình dài và tốn hơn, bà dễ bỏ về, không lấy thuốc và quay lại uống thuốc nam."
+   },
+   "loi_mo": "Chào bác sĩ. Dạo này tôi nhức đầu, đêm nào cũng không ngủ được. Hai hôm trước ra trạm họ đo áp huyết bảo cao. Tôi ho với sổ mũi mấy hôm nay nữa. Bác sĩ khám giùm cho nhanh, ở nhà tôi còn rau chưa hái.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "156/94",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi khám vì nhức đầu âm ỉ và mất ngủ hơn một tháng. Hai hôm trước ra trạm y tế xã, y tá đo huyết áp được 152/92 rồi dặn đi khám. Nói thêm 'tiện thể' có ho nhẹ mấy hôm nay.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và huyết áp đo ở trạm xã"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Hai năm trước trạm xã phát hiện huyết áp cao (160/100), cho amlodipin 5 mg uống mỗi sáng. Uống khoảng 5 tháng, nghe người trong xóm nói thuốc tây uống lâu hại thận nên bà ngưng, lúc ngưng đo ở trạm còn 134/84. Một năm rưỡi nay không thuốc, không đo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã biết THA, tự ngưng thuốc"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Năm tuần nay khó vào giấc khoảng một tiếng, tỉnh dậy lúc 3 giờ sáng rồi không ngủ lại được. Ngủ chừng 4 tiếng, gần như đêm nào cũng vậy. Ban ngày mệt, uể oải nhưng không chợp mắt được. Ngủ một mình, cháu nội ngủ phòng bên bảo bà không ngáy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm mất ngủ (thời gian, tần suất, ngáy)"
+    },
+    {
+     "id": "nguyen_nhan_lo",
+     "noi_dung": "Mất ngủ bắt đầu từ khi con trai 40 tuổi bị công ty ngoài tỉnh cho nghỉ việc, về quê từ giữa tháng trước, còn nợ tiền góp mua xe. Bà nằm nghĩ chuyện nợ nần của con, giờ nào cũng thấy nặng ngực nhẹ rồi lại thôi.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Căng thẳng tâm lý là yếu tố khởi phát mất ngủ và tăng HA",
+     "dieu_kien_lo": "Hỏi chung 'sao mất ngủ' thì nói 'già rồi hay thức'. Chỉ kể chuyện con trai khi bác sĩ hỏi mất ngủ bắt đầu từ lúc nào, lúc đó trong nhà có chuyện gì, hoặc hỏi bà đang lo nghĩ điều gì."
+    },
+    {
+     "id": "thuoc_nam",
+     "noi_dung": "Ba tháng nay uống thuốc nam hàng xóm biếu: nắm rễ và lá khô nấu một ấm mỗi ngày, vị ngọt hơi đắng, 'để hạ áp cho dễ ngủ'. Không biết tên cây. Có mang theo một nắm trong túi vải: lát rễ khô màu vàng nâu, vị ngọt, bà ngờ ngợ giống cam thảo nhưng không chắc.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc đang dùng không rõ loại (nghi cam thảo)",
+     "dieu_kien_lo": "Hỏi 'đang uống thuốc gì' thì nói 'chỉ có chút nước lá thôi'. Chỉ kể rõ và lấy túi ra khi bác sĩ hỏi cụ thể thuốc nam, thuốc bắc, nước uống mỗi ngày, hoặc đề nghị xem thử."
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Nhức âm ỉ vùng chẩm và hai thái dương, hay có buổi sáng sau đêm ít ngủ, khoảng 2–3 lần mỗi tuần, uống nước ấm nằm nghỉ thì đỡ. Không đau dữ dội, không nôn, không nhìn mờ hay nhìn đôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đầu không có dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "co_do_am",
+     "noi_dung": "Không đau ngực khi gắng sức, không khó thở khi làm vườn, không phù chân, không tê yếu tay chân, không méo miệng, không nói khó, chưa lần nào ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng tổn thương cơ quan đích"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Không có cơn đau đầu kèm vã mồ hôi, hồi hộp từng đợt. Không yếu cơ, không chuột rút. Đêm dậy tiểu một lần. Không ngáy, ban ngày không buồn ngủ gật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc gợi ý THA thứ phát và ngưng thở khi ngủ"
+    },
+    {
+     "id": "tam_ly",
+     "noi_dung": "Lo và buồn khi nghĩ đến con trai nhưng vẫn ăn được, vẫn ra vườn hái rau, vẫn chơi với cháu. Không thấy chán sống, không có ý nghĩ làm hại mình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc khí sắc (lo âu, trầm cảm) ở người mất ngủ",
+     "dieu_kien_lo": "Chỉ trả lời khi bác sĩ hỏi cụ thể về tâm trạng, buồn chán, chán sống."
+    },
+    {
+     "id": "ho_cam",
+     "noi_dung": "Bốn ngày nay sổ mũi trong, nghẹt mũi nhẹ, rát họng chút xíu, ho khan từng cơn, ho nhiều hơn về đêm. Không sốt, không khó thở, không đau ngực khi hít sâu, không khạc đờm vàng hay xanh, không khạc máu. Ăn uống bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Triệu chứng hô hấp trên: kiểu cảm lạnh, không dấu hiệu viêm phổi"
+    },
+    {
+     "id": "doi_ks",
+     "noi_dung": "Khi nói tới cái ho, bà xin ngay: 'Bác sĩ cho tôi mấy ngày thuốc kháng sinh cho nhanh khỏi. Ông hàng xóm uống ba ngày là hết.' Nếu bác sĩ từ chối thì bà nhắc lại, nói 'bên kia người ta cho liền', 'không cho kháng sinh thì khám làm gì'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: đòi kháng sinh"
+    },
+    {
+     "id": "dong_co_ks",
+     "noi_dung": "Lý do thật của bà: ba năm trước bà ho kéo dài ba tuần rồi thành viêm phổi, nằm bệnh viện huyện 8 ngày, tốn gần 4 triệu đồng. Bà sợ lần này ho cũng thành viêm phổi, nhất là lúc đang mất ngủ, sức yếu và nhà đang túng. Bà muốn 'chặn trước'. Còn nửa vỉ amoxicillin cũ ở nhà, chưa uống, định xin 'toa mới' cho yên tâm.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: sợ viêm phổi tái lại, muốn chặn trước bằng kháng sinh",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo điều gì nhất về cái ho, từng bị ho nặng hay viêm phổi chưa, hoặc vì sao bà muốn dùng kháng sinh. Hỏi 'còn thuốc gì ở nhà' thì mới nhắc nửa vỉ amoxicillin."
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn đậm theo thói quen: cà muối, cá khô, mắm tôm, canh nêm đậm. Uống hai ly cà phê mỗi ngày, ly thứ hai khoảng 3 giờ chiều 'cho tỉnh vì đêm ngủ ít'. Không rượu, không thuốc lá.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Muối, cà phê, rượu thuốc lá"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Chưa thử đường huyết hay mỡ máu bao giờ. Không bệnh tim, thận. Hơi đau gối nhưng không uống thuốc giảm đau. Không dùng thuốc cảm hay thuốc nhỏ mũi. Mãn kinh đã nhiều năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh đồng mắc, thuốc giảm đau, thuốc cảm"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ mất vì tai biến mạch máu não lúc 72 tuổi. Chị gái cũng bị cao huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Khi bác sĩ đề nghị lấy máu, bà từ chối: lần lấy máu ở bệnh viện huyện hôm sau mệt cả tuần, lại tốn tiền trong lúc nhà đang nợ. Chịu điện tim và thử nước tiểu vì 'không đau, không mất máu'. Chích đầu ngón tay một giọt thì bà bằng lòng. Nếu bị ép thì bà dọa bỏ về. Nếu được giải thích kỹ, biết sẽ hẹn làm sau và không bị bắt làm hôm nay thì bà bình tĩnh lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do từ chối xét nghiệm máu, điều bà chấp nhận"
+    },
+    {
+     "id": "may_do",
+     "noi_dung": "Con dâu mua cho bà một máy đo huyết áp bắp tay từ hồi bà ngưng thuốc, để trong tủ chưa mở hộp. Bà biết bấm nút nhưng chưa tự đo lần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Có máy đo HA tại nhà"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Sau nghỉ 5 phút, ngồi, băng quấn bắp tay vừa cỡ. Tay phải 154/94, tay trái 152/92 mmHg. Chênh dưới 10 mmHg giữa hai tay.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 154/94. Đứng 1 phút 150/94, đứng 3 phút 148/92 mmHg, mạch 82 l/p. Không hạ HA tư thế, không choáng khi đứng.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, quầng thâm quanh mắt, da niêm hồng. Cao 152 cm, nặng 54 kg, BMI 23,4. Vòng eo 78 cm. Không mặt tròn, không rạn da tím.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to. Tĩnh mạch cổ không nổi. Không sờ thấy hạch cổ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi phù nhẹ, dịch trong. Họng đỏ nhẹ, amidan không to, không mủ, không giả mạc. Màng nhĩ bình thường.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, tần số 80 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3 T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 80 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không sờ thấy thận to, không âm thổi cạnh rốn.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mạch mu chân đều hai bên. Không âm thổi động mạch cảnh.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Không giãn tĩnh mạch.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không méo miệng. Sức cơ 5/5 bốn chi, cảm giác bình thường, không dấu thần kinh khu trú. Dáng đi bình thường.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Hai mắt: động mạch võng mạc hẹp nhẹ. Không xuất huyết, không xuất tiết, không phù gai thị.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác. Lo lắng, mắt rưng rưng khi nhắc con trai, nhưng khí sắc không trầm, nói chuyện linh hoạt, không chậm chạp, không ý nghĩ chán sống.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 76 l/p, trục trung gian. Sokolow-Lyon 24 mm. Không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "ECG 12 chuyển đạo nằm trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2). Dày thất trái khi Sokolow-Lyon > 35 mm (VSH/VNHA 2024 Bảng 11): bà chưa có, nhưng độ nhạy thấp nên không loại trừ."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Que thử: protein âm tính, glucose âm tính, hồng cầu âm tính, bạch cầu âm tính.",
+     "n": "Tổng phân tích nước tiểu nằm trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2). Không cần lấy máu nên bà chấp nhận."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Que thử 10 thông số: protein âm tính, glucose âm tính, hồng cầu âm tính, bạch cầu âm tính, nitrit âm tính.",
+     "n": "Thay thế cho tổng phân tích nước tiểu tại phòng khám; làm hay không đều không trừ điểm."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "UACR 12 mg/g (dưới 30 mg/g).",
+     "n": "Albumin niệu > 30 mg/g là tổn thương thận (VSH/VNHA 2024 Bảng 11); xét nghiệm cơ bản (VSH/VNHA 2024 Bảng 10). Làm từ nước tiểu nên bà chấp nhận."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 5,9 mmol/L (ăn sáng cách 3 giờ).",
+     "n": "Không thay glucose huyết tương đói để sàng lọc (ADA 2026 mục 2, khuyến cáo 2.13); làm hay không đều không trừ điểm."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu hôm nay (sợ hao người như lần trước, sợ tốn tiền). Đã được nghe giải thích; không có kết quả. (Ure, creatinin, eGFR)",
+     "n": "Cần creatinin, kali trước khi dùng ức chế men chuyển (QĐ 5904 Phần 3 mục G). Ghi nhận từ chối, hẹn làm sau 2–4 tuần."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu hôm nay (sợ hao người như lần trước, sợ tốn tiền). Đã được nghe giải thích; không có kết quả. (Na, K, Cl)",
+     "n": "Kali: nền trước khi dùng ức chế RAS, gợi ý hạ kali do cam thảo hay cường aldosteron (ESC 2024 mục 9.14.7; AHA/ACC 2025 mục 3.2.3.1). Hẹn làm sau khi ngưng thuốc nam 2–4 tuần."
+    },
+    "glu": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu hôm nay (sợ hao người như lần trước, sợ tốn tiền). Đã được nghe giải thích; không có kết quả. (Glucose đói)",
+     "n": "Glucose máu đói nằm trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2). Chưa từng xét nghiệm; hẹn làm sau."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu hôm nay (sợ hao người như lần trước, sợ tốn tiền). Đã được nghe giải thích; không có kết quả. (Bộ mỡ máu)",
+     "n": "Bilan lipid nằm trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2). Chưa có kết quả nên chưa quyết định statin."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu hôm nay (sợ hao người như lần trước, sợ tốn tiền). Đã được nghe giải thích; không có kết quả. (HbA1c)",
+     "n": "Chấp nhận làm hay không; glucose đói và mỡ máu quan trọng hơn khi chỉ lấy máu một lần."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu hôm nay (sợ hao người như lần trước, sợ tốn tiền). Đã được nghe giải thích; không có kết quả. (Công thức máu)",
+     "n": "QĐ 5904 Phần 1 Bước 2 có hemoglobin/hematocrit; làm cùng đợt lấy máu sau."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu hôm nay (sợ hao người như lần trước, sợ tốn tiền). Đã được nghe giải thích; không có kết quả. (TSH, FT4)",
+     "n": "ESC 2024 Bảng 8 và AHA/ACC 2025 Bảng 6 xếp TSH thường quy; QĐ 5904 và VSH/VNHA 2024 không liệt kê (sổ mâu thuẫn): làm hay không đều không trừ điểm."
+    },
+    "liver": {
+     "v": "n",
+     "r": "Không cần làm hôm nay.",
+     "n": "AST/ALT thuộc xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2) nhưng bà từ chối máu: ưu tiên creatinin, kali, đường, mỡ máu."
+    },
+    "aldo": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "AHA/ACC 2025 mục 3.2.3.1 bắt buộc khi kháng trị hoặc hạ kali; bà chưa kháng trị, chưa biết kali. Làm lại nếu kali thấp hoặc HA không đạt dù đủ phác đồ."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Không đau ngực, ECG không thiếu máu."
+    },
+    "holter_ha": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Thay bằng đo HA tại nhà (VSH/VNHA 2024 Đ1.2.2); bà đã có máy ở nhà."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không cần làm hôm nay.",
+     "n": "Siêu âm tim là xét nghiệm chi tiết, không thường quy (VSH/VNHA 2024 Bảng 10); không đổi quyết định hôm nay."
+    },
+    "psg": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Không ngáy, không buồn ngủ ban ngày, BMI 23,4: chưa gợi ý ngưng thở khi ngủ (ESC 2024 mục 9.14.5; AHA/ACC 2025 mục 3.2.3.3)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Mạch 80, thở 18, nhiệt 36,9 °C, phổi không ran: dưới mọi ngưỡng nghi viêm phổi (ACP/CDC 2016 tr. 426; QĐ 708/2015 mục 2: chụp khi tuổi > 75, mạch > 100, thở > 24, nhiệt > 38 °C, hoặc ran ẩm, ran nổ, đông đặc)."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Centor 0 điểm (không sốt, không hạch cổ, không mủ amidan; có ho): không cần xét nghiệm (WHO AWaRe 2022 tr. 47, Centor 0–2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 1, đã biết, chưa kiểm soát do tự ngưng thuốc, có yếu tố làm nặng (mất ngủ, lo âu, cà phê chiều, ăn mặn, thuốc nam không rõ loại); chưa đánh giá đủ tổn thương cơ quan đích vì bà từ chối xét nghiệm máu",
+     "ok": 1,
+     "n": "HA 156/94 mmHg tại phòng khám, 152/92 ở trạm 2 hôm trước, đã được chẩn đoán 2 năm trước: độ 1 là 140–159 và/hoặc 90–99 mmHg (QĐ 5904 Phần 1 Bước 3A). ECG, nước tiểu, đáy mắt chưa thấy tổn thương cơ quan đích."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Không có chỉ điểm ở VSH/VNHA 2024 Đ2.4, Bảng 9: chẩn đoán lúc 65 tuổi, không cơn vã mồ hôi đau đầu, không yếu cơ chuột rút, không âm thổi cạnh rốn, từng đáp ứng amlodipin, không ngáy. Chưa loại hẳn vì chưa có kali và bà dùng thuốc nam vị ngọt nghi cam thảo (ESC 2024 mục 9.14.7; AHA/ACC 2025 Bảng 11): ngưng thuốc nam, hẹn kali sau 2–4 tuần."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA 156/94, dưới 180/110 mmHg, không tổn thương cơ quan đích cấp: đau đầu nhẹ, thần kinh bình thường, đáy mắt không xuất huyết hay phù gai, ECG không thiếu máu (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1)."
+    },
+    {
+     "t": "Mất ngủ do lo âu, góp phần làm tăng huyết áp",
+     "n": "Khó vào giấc, tỉnh sớm, từ 5 tuần, gần như mỗi đêm, sau cú sốc việc làm của con; ICD-10 cần ≥ 3 lần/tuần trong ≥ 1 tháng và gây suy sụp chức năng (QĐ 2058/2020 Bài 27 mục 3.1.1). Rối loạn giấc ngủ và căng thẳng tâm lý làm HA cao hơn (AHA/ACC 2025 Bảng 8). Là yếu tố làm nặng, không phải chẩn đoán chính."
+    },
+    {
+     "t": "Trầm cảm hoặc ngưng thở khi ngủ gây mất ngủ",
+     "n": "Khí sắc không trầm, còn làm vườn, không chán sống; không ngáy, không buồn ngủ ban ngày, BMI 23,4. Theo dõi lại nếu mất ngủ kéo dài sau khi đã giải quyết nguyên nhân."
+    },
+    {
+     "t": "Cảm lạnh (viêm đường hô hấp trên do virus), không phải viêm phổi hay viêm họng liên cầu",
+     "ok": 1,
+     "n": "Sổ mũi trong, ho khan, rát họng nhẹ 4 ngày, không sốt; mạch 80, thở 18, nhiệt 36,9, phổi không ran: dưới mọi ngưỡng nghi viêm phổi (ACP/CDC 2016 tr. 426; QĐ 708/2015 mục 2). Centor 0 điểm (WHO AWaRe 2022 tr. 47)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lý do từ chối xét nghiệm máu, giải thích vì sao cần creatinin, kali, đường, mỡ máu; nhận phần bà chấp nhận (điện tim, nước tiểu, một giọt máu đầu ngón); ghi nhận từ chối, cho bà ký cam kết sau tư vấn, hẹn làm vào lần tái khám",
+     "v": "c",
+     "n": "Luật KBCB 2023 Điều 11 khoản 1 (lựa chọn sau khi được giải thích đầy đủ), Điều 13 khoản 1 (từ chối phải cam kết bằng văn bản sau tư vấn); luật nêu từ chối khám chữa bệnh nói chung, áp dụng cho từng xét nghiệm là cách làm thận trọng. Xét nghiệm cơ bản hoàn thành trong 3 tháng đầu (QĐ 5904 Phần 1 Bước 2)."
+    },
+    {
+     "t": "Bắt đầu amlodipin 5 mg uống 1 lần mỗi sáng (không cần creatinin, kali trước khi dùng)",
+     "v": "c",
+     "n": "Khởi trị khi HA ≥ 140/90 mmHg ở người dưới 80 tuổi (QĐ 5904 Phần 1 Bước 5 mục A.5); amlodipin khởi đầu 5 mg, duy trì 5–10 mg (QĐ 5904 Phần 3 mục G). Ức chế men chuyển cần kiểm tra creatinin, kali trước (cùng nguồn) nên chưa dùng. Sổ mâu thuẫn (MT-0166): thiếu xét nghiệm nền thì đơn trị là đáp án chính."
+    },
+    {
+     "t": "Phối hợp 2 thuốc ngay (amlodipin + perindopril hoặc losartan liều thấp)",
+     "v": "a",
+     "n": "QĐ 5904 Phần 1 Bước 5 mục B.2 (nên phối hợp sớm 2 thuốc trừ THA độ I nguy cơ thấp); ESC 2024 Bảng khuyến cáo 16 (I, B), VSH/VNHA 2024 Bảng 4 (I, A). Chấp nhận, nhưng ức chế RAS cần creatinin, kali trước và kiểm tra lại 2–4 tuần sau (AHA/ACC 2025 mục 5.2.8)."
+    },
+    {
+     "t": "Ngưng thuốc nam không rõ thành phần, mang gói thuốc đến lần tái khám; không tự dùng thêm thảo dược",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11: black licorice và thảo dược bổ sung 'avoid use'; ESC 2024 mục 9.14.7: dùng quá nhiều cam thảo là nguyên nhân hiếm của THA thứ phát; ESRS 2023 mục 4.2.7 không khuyến cáo thảo dược cho mất ngủ. Cách nhận diện vị thuốc nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn đo HA tại nhà bằng máy bắp tay đang có (đo sáng và tối, mỗi lần 2 lượt cách 1–2 phút, 3–7 ngày trước tái khám), ghi sổ",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ1.2.2 (3–7 ngày, 2 lần/ngày, mỗi lần 2 lượt cách 1–2 phút; trung bình ≥ 135/85 là THA); ESC 2024 Bảng khuyến cáo 35 (I, B)."
+    },
+    {
+     "t": "Giải thích mục tiêu HA và việc uống thuốc lâu dài: dưới 130/80 mmHg nếu dung nạp (VSH/VNHA 2024) HOẶC tâm thu 120–129 mmHg (ESC 2024) HOẶC tâm thu 130 đến dưới 140 và tâm trương 70 đến dưới 80 mmHg ở người từ 65 tuổi (QĐ 5904)",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Bảng 4 (I, A); ESC 2024 Bảng khuyến cáo 18 (I, A); QĐ 5904 Phần 1 Bước 5 mục A.2. Khác nhau vì QĐ 5904 (2019) viết cho trạm y tế xã, hai nguồn kia mới hơn, dựa trên thử nghiệm can thiệp tích cực (sổ mâu thuẫn: mục tiêu HA từ 65 tuổi, không ĐTĐ). Bà không hạ HA tư thế nên chưa cần nới. Thuốc lâu dài: QĐ 5904 Phần 1 mục D.2."
+    },
+    {
+     "t": "Không kê kháng sinh cho cái ho cảm (kèm trả lời nỗi sợ viêm phổi và hẹn quay lại) HOẶC kê kháng sinh theo QĐ 5643/2015 (amoxicillin hoặc cephalosporin thế hệ 1, 10 ngày)",
+     "v": "c",
+     "n": "ACP/CDC 2016 tr. 431 (Advice 4): không kê kháng sinh cho cảm lạnh, kháng sinh không phòng được biến chứng; WHO AWaRe 2022 tr. 46–48: đa số do virus, Centor 0–2 chỉ điều trị triệu chứng. QĐ 5643/2015 Viêm mũi họng cấp tính mục 4.1, 4.3.1 (tr. 135): điều trị kháng sinh khi chưa có xét nghiệm phân loại. Khác nhau vì QĐ 5643 coi viêm mũi họng đỏ cấp là liên cầu cho tới khi có xét nghiệm, hai nguồn kia mới hơn, virus chiếm đa số (sổ mâu thuẫn: viêm họng đỏ cấp ở người > 3 tuổi)."
+    },
+    {
+     "t": "Điều trị triệu chứng an toàn cho người THA: uống nước ấm, súc họng nước muối ấm (nhổ ra), rửa mũi nước muối sinh lý; đau thì paracetamol tổng không quá 3 g/ngày HOẶC không quá 4 g/ngày",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11: paracetamol dưới 4 g/ngày, thay thuốc thông mũi bằng nước muối, corticoid xịt mũi, kháng histamin. QĐ 361/2014 Phụ lục NSAID mục 3.3: người cao tuổi hoặc THA dưới 3 g/ngày, thận trọng hơn; kê tới 4 g/ngày chấm a (sổ mâu thuẫn). Súc họng ngày 3–4 lần: QĐ 5643/2015 Viêm họng cấp tính mục 4.2.2."
+    },
+    {
+     "t": "Chưa kê thuốc ngủ: giải thích mất ngủ do lo nghĩ, hướng dẫn vệ sinh giấc ngủ và CBT-I hoặc dạng ngắn, giảm cà phê chiều; nếu bà vẫn xin thuốc thì chỉ cân nhắc thuốc ngắn hạn tối đa 4 tuần sau khi cùng quyết định",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3: vệ sinh giấc ngủ (không cà phê buổi tối, giờ ngủ thức cố định, chỉ đi ngủ khi buồn ngủ, thư giãn); ESRS 2023 mục 4.1.1: CBT-I đầu tay, mục 4.2.1: benzodiazepin và nhóm Z tối đa 4 tuần. QĐ 2058 mục 4.3 có liệt kê benzodiazepin, zopiclon nhưng AGS Beers 2023 Bảng 2 khuyên tránh ở người từ 65 tuổi (chứng cứ vừa, khuyến cáo mạnh). ESRS viết cho mất ngủ mạn (> 3 tháng), bà mới 5 tuần."
+    },
+    {
+     "t": "Melatonin giải phóng chậm cho người trên 55 tuổi, tối đa 3 tháng",
+     "v": "a",
+     "n": "ESRS 2023 mục 4.2.6, Bảng 16: tối đa 3 tháng (B); AASM 2017 khuyến cáo 12 gợi ý không dùng melatonin (có điều kiện). Chấp nhận, không bắt buộc. Lưu hành tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm muối dưới 5 g/ngày (bớt cà muối, cá khô, mắm tôm); cà phê tối đa 1 ly buổi sáng, không uống từ chiều; không rượu thuốc lá; vận động mức vừa; tránh lo âu căng thẳng, có giờ thư giãn",
+     "v": "c",
+     "n": "QĐ 5904 Phụ lục 3.2, Phần 3 mục F (hạn chế dưa cà muối, cá muối), Phần 1 mục D.1c, D.1e, D.1f. Cà phê: VSH/VNHA 2024 Hình 14 (2–3 cốc/ngày được phép), AHA/ACC 2025 Bảng 11 (caffeine dưới 300 mg/ngày), QĐ 2058/2020 Bài 27 mục 4.3 (không cà phê buổi tối): ghi cả ba, ca chọn mức thận trọng vì bà mất ngủ (sổ mâu thuẫn: cà phê ở người THA)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–4 tuần cùng sổ HA, gói thuốc nam, lấy máu; dặn quay lại sớm nếu ho nặng thêm hoặc quá 1–2 tuần, sốt, khó thở, đờm vàng, đau ngực; dặn dấu hiệu cấp cứu THA",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ4.1: tái khám 2–4 tuần/lần trong 2–3 tháng đầu; ACP/CDC 2016 tr. 431: cảm lạnh có thể kéo dài tới 2 tuần, quay lại nếu nặng thêm hoặc vượt thời gian; QĐ 5904 Phần 3 mục D.1: cấp cứu khi HA ≥ 200/120 mmHg hoặc ≥ 180/110 mmHg kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú."
+    },
+    {
+     "t": "Kê kháng sinh phổ rộng (cefixim, levofloxacin, azithromycin) 'cho chắc', hoặc cho bà tự dùng nửa vỉ amoxicillin cũ",
+     "v": "w",
+     "n": "Cảm lạnh không có chỉ định kháng sinh (ACP/CDC 2016 tr. 431); nếu kê, kháng sinh phổ hẹp được ưu tiên (cùng trang) và QĐ 5643/2015 mục 4.3.1 chỉ nêu penicillin, cephalosporin thế hệ 1, macrolid khi dị ứng penicillin."
+    },
+    {
+     "t": "Kê thuốc cảm hoặc nghẹt mũi có pseudoephedrin, phenylephrin; hoặc NSAID (ibuprofen, diclofenac) cho đau họng, nhức đầu",
+     "v": "w",
+     "n": "AHA/ACC 2025 Bảng 11: thuốc thông mũi tránh khi THA chưa kiểm soát; tránh NSAID toàn thân khi có thể. QĐ 361/2014 Phụ lục NSAID mục 3.3: người cao tuổi hoặc THA tránh NSAID nếu có thể. (QĐ 5643/2015 mục 4.1 liệt kê nhỏ mũi co mạch, không phù hợp với HA chưa kiểm soát.)"
+    },
+    {
+     "t": "Kê benzodiazepin hoặc nhóm Z (zolpidem) hằng đêm, hoặc kháng histamin thế hệ 1 làm thuốc ngủ",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: tránh benzodiazepin, nhóm Z và kháng histamin thế hệ 1 ở người từ 65 tuổi (lú lẫn, té ngã, gãy xương); ESRS 2023 mục 4.2.1: tối đa 4 tuần. Nguyên nhân mất ngủ chưa xử lý."
+    },
+    {
+     "t": "Tiếp tục uống thuốc nam như cũ vì 'đã hợp rồi'",
+     "v": "w",
+     "n": "Thành phần không rõ, vị ngọt nghi cam thảo; AHA/ACC 2025 Bảng 11: black licorice, thảo dược bổ sung 'avoid use'; kali chưa biết."
+    },
+    {
+     "t": "Chỉ thay đổi lối sống 3 tháng rồi đánh giá lại, chưa dùng thuốc",
+     "v": "w",
+     "n": "QĐ 5904 Phần 1 Bước 5 mục A.5: khởi trị thuốc khi HA ≥ 140/90 mmHg ở người dưới 80 tuổi; VSH/VNHA 2024 Bảng 4 (I, A): thuốc ngay. Bà đã bỏ thuốc 1,5 năm, HA vẫn cao."
+    },
+    {
+     "t": "Cho ngậm nifedipin tác dụng nhanh để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện để hạ huyết áp, truyền dịch",
+     "v": "w",
+     "n": "Không đủ tiêu chuẩn cấp cứu (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1); THA không tổn thương cơ quan đích cấp không cần hạ áp nhanh hay thuốc tiêm (AHA/ACC 2025 mục 6.2). Truyền dịch cho cảm lạnh: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 1 (HA 156/94 mmHg), đã biết 2 năm",
+     "Chưa kiểm soát: tự ngưng amlodipin khoảng 1,5 năm; yếu tố làm nặng: mất ngủ 5 tuần do lo cho con, cà phê chiều, ăn mặn, thuốc nam không rõ loại (nghi có cam thảo)",
+     "Tổn thương cơ quan đích: chưa thấy trên ECG, nước tiểu, đáy mắt; chưa đánh giá thận, kali, đường, mỡ máu vì bà từ chối máu (đã ghi nhận từ chối)",
+     "Không phải cơn THA cấp cứu; chưa có chỉ điểm THA thứ phát (kali chưa biết)",
+     "Mất ngủ do lo âu, góp phần làm tăng HA; chưa gợi ý trầm cảm hay ngưng thở khi ngủ",
+     "Kèm: cảm lạnh (viêm đường hô hấp trên do virus), không có dấu hiệu viêm phổi, không có chỉ định kháng sinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là THA nguyên phát độ 1: đã chẩn đoán 2 năm trước (160/100); nay 156/94 ở phòng khám, 152/92 ở trạm xã; độ 1 là 140–159 và/hoặc 90–99 mmHg (QĐ 5904 Phần 1 Bước 3A). Ngưỡng 140/90 theo QĐ 5904, VSH/VNHA 2024 Đ1.1, ESC 2024 Bảng 5; AHA/ACC 2025 mục 2.1 dùng 130/80 nhưng HA của bà vượt cả hai nên không đổi kết luận.",
+     "Vì sao HA đang cao: ngưng thuốc lâu; mất ngủ và căng thẳng tâm lý làm HA tăng (AHA/ACC 2025 Bảng 8; VSH/VNHA 2024 Đ2.1 nhắc hỏi giấc ngủ), ăn mặn, caffeine (AHA/ACC 2025 Bảng 11: dưới 300 mg/ngày). Hỏi 'mất ngủ từ khi nào, lúc đó nhà có chuyện gì' mới ra chuyện con trai mất việc.",
+     "Thuốc nam: hỏi 'đang uống thuốc gì' thì bà nói 'chỉ nước lá'; hỏi cụ thể thuốc nam mới lộ túi rễ khô vị ngọt. Không biết tên cây thì không kết luận được có cam thảo, nhưng cam thảo đen cần tránh khi THA (AHA/ACC 2025 Bảng 11) và dùng quá nhiều là nguyên nhân hiếm của THA thứ phát (ESC 2024 mục 9.14.7).",
+     "Vì sao không phải cơn THA cấp cứu: cần HA ≥ 180/110 kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1); QĐ 5904 Phần 3 mục D.1: ≥ 200/120, hoặc ≥ 180/110 kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú. Bà 156/94, đau đầu nhẹ, thần kinh và đáy mắt bình thường.",
+     "Vì sao chưa nghĩ THA thứ phát: không có gợi ý ở VSH/VNHA 2024 Bảng 9, từng đáp ứng amlodipin. Chưa loại hẳn vì thiếu kali nên hẹn xét nghiệm sau khi ngưng thuốc nam 2–4 tuần; chuyển tuyến chỉ khi nghi thứ phát (QĐ 5904 Phần 1 Bước 4 mục A.1; sổ mâu thuẫn: nguyên nhân ngoại sinh ngưng được thì hẹn lại 2–4 tuần).",
+     "Mất ngủ: ICD-10 cần ≥ 3 lần/tuần trong ≥ 1 tháng và gây suy sụp chức năng, nguyên nhân chủ yếu là cảm xúc (QĐ 2058/2020 Bài 27 mục 2, 3.1.1); bà 5 tuần, gần như mỗi đêm nên đạt. ESRS 2023 viết cho mất ngủ mạn trên 3 tháng. Sàng lọc khí sắc và ngưng thở khi ngủ âm tính.",
+     "Cái ho: sổ mũi trong, ho khan, rát họng nhẹ, không sốt, phổi sạch; sinh hiệu dưới mọi ngưỡng nghi viêm phổi (ACP/CDC 2016 tr. 426; QĐ 708/2015 mục 2). Centor 0 điểm (WHO AWaRe 2022 tr. 47). Cảm lạnh có thể kéo dài tới 2 tuần (ACP/CDC 2016 tr. 431).",
+     "Lý do thật: bà sợ ho thành viêm phổi như ba năm trước nên xin kháng sinh để 'chặn trước'; chỉ ra khi hỏi 'bà lo điều gì nhất về cái ho'. Sự hài lòng phụ thuộc cách thầy thuốc giải thích hơn là việc có kê kháng sinh (ACP/CDC 2016 tr. 431–432)."
+    ],
+    "phan_tich_xu_tri": [
+     "Từ chối xét nghiệm máu: hỏi lý do (sợ hao người, sợ tốn tiền), giải thích cần kali, creatinin để dùng thuốc an toàn, nhận phần bà chấp nhận, ghi nhận từ chối, cho bà ký cam kết (Luật KBCB 2023 Điều 11 khoản 1, Điều 13 khoản 1). Không ép; xét nghiệm cơ bản có thời hạn 3 tháng đầu (QĐ 5904 Phần 1 Bước 2) nên không bắt buộc làm hôm nay.",
+     "Thuốc hạ áp: amlodipin 5 mg sáng (QĐ 5904 Phần 3 mục G) vì không cần creatinin, kali. Phối hợp 2 thuốc cũng chấp nhận (ESC 2024 Bảng khuyến cáo 16; VSH/VNHA 2024 Bảng 4) nhưng ức chế RAS phải chờ xét nghiệm. Mục tiêu ghi cả ba cách: dưới 130/80 (VSH/VNHA 2024 Bảng 4), tâm thu 120–129 (ESC 2024 Bảng 18), 130 đến dưới 140 (QĐ 5904 mục A.2).",
+     "Thuốc nam: ngưng, mang gói đến lần sau (AHA/ACC 2025 Bảng 11; ESRS 2023 mục 4.2.7). Nói không phán xét: bà dùng thuốc nam vì tin hàng xóm và sợ thuốc tây hại thận; giải thích sẽ kiểm tra thận khi bà đồng ý.",
+     "Không kê kháng sinh, lời thoại gợi ý: 'Bác ơi, tôi hiểu bác sợ ho thành viêm phổi như hồi trước. Hôm nay phổi bác sạch, không sốt, thở bình thường, nên đây là cảm do virus. Kháng sinh chỉ diệt vi khuẩn, không diệt được virus, uống vào không khỏi nhanh hơn mà còn hại bụng, lần sau lờn thuốc. Tôi không kê kháng sinh, nhưng tôi hẹn bác: sau một tuần chưa bớt, hoặc sốt, khó thở, ho đờm vàng thì quay lại ngay, tôi khám lại.' Giữ lòng tin bằng việc trả lời nỗi sợ, đưa cách tự chăm sóc và mốc quay lại (ACP/CDC 2016 tr. 431–432). Kê kháng sinh theo QĐ 5643/2015 cũng chấp nhận; không kê phổ rộng, không để bà dùng nửa vỉ cũ.",
+     "Thuốc triệu chứng cho người THA: nước muối, nước ấm; paracetamol dưới 3 g/ngày (QĐ 361/2014) hoặc dưới 4 g/ngày (AHA/ACC 2025 Bảng 11); tránh pseudoephedrin, phenylephrin, NSAID (AHA/ACC 2025 Bảng 11).",
+     "Mất ngủ: xử lý nguyên nhân (nói chuyện, tư vấn khoản nợ, huy động con dâu), vệ sinh giấc ngủ, CBT-I (QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 mục 4.1.1). Không kê benzodiazepin hay nhóm Z cho bà 67 tuổi (AGS Beers 2023 Bảng 2); BYT 2020 có liệt kê nhưng nhắc hạn chế lạm dụng (mục 4.1).",
+     "Hẹn tái khám 2–4 tuần (VSH/VNHA 2024 Đ4.1) kèm sổ HA, gói thuốc nam, lấy máu; chưa đạt thì nâng bậc khi có creatinin, kali (AHA/ACC 2025 mục 5.2.8). Dặn dấu hiệu quay lại cho cái ho và dấu hiệu cấp cứu THA (QĐ 5904 Phần 3 mục D.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, một giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần (cấp thuốc đủ đến lần tái khám)",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Số ngày cấp thuốc tối đa mỗi lần: không có trong tài liệu đã tải. Nếu chọn phối hợp thêm ức chế RAS thì cần creatinin, kali trước (cùng nguồn)."
+     },
+     {
+      "thuoc": "Paracetamol (acetaminophen)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên (500 mg) mỗi liều, cách nhau ít nhất 6 giờ, tổng không quá 3 g/24 giờ (6 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi đau họng hoặc nhức đầu nhiều; không uống thường xuyên",
+      "so_ngay": "Khi cần, ngừng khi hết đau",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3: dưới 3 g/ngày ở người cao tuổi hoặc THA; AHA/ACC 2025 Bảng 11: dưới 4 g/ngày. Ca ghi 3 g/ngày vì thận trọng hơn; kê tới 4 g/ngày chấm a. Tránh NSAID."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) hoặc nước muối ấm pha tại nhà",
+      "ham_luong": "Dung dịch 0,9%",
+      "lieu": "Súc họng mỗi lần khoảng 10 giây, nhổ ra; rửa mũi khi nghẹt mũi",
+      "duong": "Súc họng, rửa mũi",
+      "thoi_diem": "Ngày 3–4 lần, nhất là sau ăn và trước ngủ",
+      "so_ngay": "Đến khi hết rát họng, nghẹt mũi (khoảng 5–7 ngày)",
+      "ghi_chu": "Súc họng ngày 3–4 lần: QĐ 5643/2015 Viêm họng cấp tính mục 4.2.2; nước muối ít dữ liệu nhưng an toàn (ACP/CDC 2016 tr. 430); nước muối thay thuốc thông mũi (AHA/ACC 2025 Bảng 11). Nồng độ muối pha tại nhà và thời gian mỗi lần súc: không có trong tài liệu đã tải. Không nuốt nước muối vì cần hạn chế muối."
+     }
+    ],
+    "dan_do": [
+     "Uống amlodipin mỗi sáng, kể cả khi thấy khỏe; tự ngưng thuốc là lý do HA lên lại (QĐ 5904 Phần 1 mục D.2). Amlodipin không phải thuốc hại thận.",
+     "Ngưng thuốc nam, mang gói thuốc theo lần tái khám; không uống thêm thuốc nam hay thực phẩm chức năng khi chưa hỏi bác sĩ (AHA/ACC 2025 Bảng 11).",
+     "Mở máy đo HA bắp tay ở nhà: ngồi nghỉ 5 phút, đo sáng và tối, mỗi lần 2 lượt cách 1–2 phút, ghi sổ 3–7 ngày trước tái khám; trung bình ≥ 135/85 là HA cao (VSH/VNHA 2024 Đ1.2.2).",
+     "Cái ho là cảm do virus, có thể kéo dài tới 2 tuần (ACP/CDC 2016 tr. 431): uống nước ấm, súc họng nước muối 3–4 lần/ngày. Không tự mua thuốc cảm, thuốc nghẹt mũi, thuốc giảm đau nhóm NSAID (AHA/ACC 2025 Bảng 11). Bỏ nửa vỉ amoxicillin cũ, không tự uống.",
+     "Quay lại ngay nếu sốt trên 38 °C, khó thở, đau ngực khi hít sâu, ho đờm vàng hoặc xanh, ho nặng hơn; hoặc ho chưa bớt sau 1–2 tuần (ACP/CDC 2016 tr. 431).",
+     "Vệ sinh giấc ngủ: chỉ đi ngủ khi buồn ngủ, thức dậy đúng một giờ mỗi sáng, không cà phê từ buổi chiều, tập thể dục ban ngày, kỹ thuật thư giãn (QĐ 2058/2020 Bài 27 mục 4.3). Nói với con trai, con dâu về khoản nợ; lo nghĩ cho con cũng là một phần của bệnh.",
+     "Giảm muối dưới 5 g/ngày: bớt cà muối, cá khô, mắm tôm; không rượu thuốc lá; vận động vừa đều đặn (QĐ 5904 Phụ lục 3.2; Phần 3 mục F; Phần 1 mục D.1).",
+     "Đi cấp cứu ngay nếu đau đầu dữ dội, yếu hoặc tê nửa người, méo miệng, nói khó, nhìn mờ, đau ngực, khó thở (QĐ 5904 Phần 3 mục D.1).",
+     "Tái khám sau 2–4 tuần, mang sổ HA và gói thuốc nam; lúc đó hẹn lấy máu một lần (kali, creatinin, đường, mỡ máu); chưa muốn thì nói với bác sĩ để cùng bàn cách khác (VSH/VNHA 2024 Đ4.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà ngưng thuốc nam, uống amlodipin 5 mg mỗi sáng và ghi sổ HA tại nhà. Sau 3 tuần bà tự quay lại, đồng ý lấy máu một lần vì 'hôm trước bác sĩ không ép': creatinin 68 µmol/L, K 4,0 mmol/L, glucose đói 5,6 mmol/L, LDL-C 3,3 mmol/L. HA tại nhà trung bình 138/86 mmHg ở tuần 3, nên thêm perindopril 5 mg; hai tuần sau creatinin, kali bình thường. Sau khoảng 10 tuần HA tại nhà 126/78 mmHg, nằm trong khoảng 1–3 tháng để đạt HA mục tiêu (QĐ 5904 Phần 1 Bước 5 mục A.3). Cái ho tự hết sau 9 ngày, không kháng sinh; con trai tìm được việc gần nhà, bà ngủ được 6 tiếng.",
+ "nhieu": [
+  "Ho khan, sổ mũi 4 ngày: dễ khiến bác sĩ chụp X-quang hay kê kháng sinh. Sinh hiệu dưới mọi ngưỡng nghi viêm phổi nên đây là cảm lạnh (ACP/CDC 2016 tr. 426, 430).",
+  "Nửa vỉ amoxicillin cũ ở nhà: chỉ lộ khi hỏi thuốc còn lại ở nhà; không được tự dùng.",
+  "Nhức đầu âm ỉ vùng chẩm: dễ gây hoảng 'cơn THA'; HA dưới 180/110, thần kinh bình thường, đáy mắt không tổn thương nên không phải cấp cứu (ESC 2024 mục 10.1.1).",
+  "Tiền sử viêm phổi cách đây 3 năm: dễ hiểu thành nguy cơ cao hiện tại; thực ra là nỗi sợ thật của bà, không đổi chẩn đoán lần này."
+ ],
+ "bai_hoc_bien": [
+  "Đòi kháng sinh: từ chối đúng nhưng phải kèm trả lời nỗi sợ thật của người bệnh, cách tự chăm sóc và mốc quay lại; sự hài lòng phụ thuộc cách thầy thuốc giải thích hơn là việc có kê kháng sinh (ACP/CDC 2016 tr. 431–432).",
+  "Bệnh nhân từ chối xét nghiệm: hỏi lý do, giải thích, nhận phần bà chấp nhận, ghi nhận từ chối bằng văn bản, hẹn phương án B (Luật KBCB 2023 Điều 11, 13). Không ép, không bỏ cuộc.",
+  "Mất ngủ kéo dài là yếu tố khởi phát làm nặng THA và là cánh cửa để hỏi ra căng thẳng thật; không dùng benzodiazepin hay nhóm Z cho người từ 65 tuổi (AGS Beers 2023 Bảng 2).",
+  "Thuốc nam không rõ loại: luôn hỏi cụ thể 'có uống thuốc nam, thuốc bắc không'; vị ngọt gợi ý cam thảo nhưng không xác định được ở phòng khám; ngưng và kiểm tra kali khi có thể (AHA/ACC 2025 Bảng 11; ESC 2024 mục 9.14.7)."
+ ],
+ "diem_nho": [
+  "Chẩn đoán THA khi HA phòng khám ≥ 140/90 mmHg, xác nhận bằng HA tại nhà (≥ 135/85) (VSH/VNHA 2024 Đ1.2.2, Đ1.1).",
+  "Khởi trị khi HA ≥ 140/90 mmHg ở người dưới 80 tuổi; mục tiêu: dưới 130/80 (VSH/VNHA 2024), tâm thu 120–129 (ESC 2024), 130 đến dưới 140 từ 65 tuổi (QĐ 5904 Phần 1 mục A.2, A.5).",
+  "Cảm lạnh không dùng kháng sinh (ACP/CDC 2016 Advice 4); người THA tránh thuốc thông mũi và NSAID (AHA/ACC 2025 Bảng 11).",
+  "Xét nghiệm cơ bản khi mới chẩn đoán THA hoàn thành trong 3 tháng đầu (QĐ 5904 Phần 1 Bước 2); bà từ chối thì hẹn lại, không bắt buộc làm trong hôm nay."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 2, 3A, 4 mục A.1, Bước 5 mục A.2, A.3, A.5, B.2, D.1, D.2); Phần 3 mục D.1, F, G; Phụ lục 3.2.",
+  "VSH/VNHA 2024 – Chiến lược quản lý THA tại Việt Nam – TL-0288 – Bảng 4, 9, 10, 11; Đ1.1, Đ1.2.2, Đ2.1, Đ2.4, Đ4.1; Hình 14.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – mục 9.14.5, 9.14.7, 10.1.1; Bảng khuyến cáo 16, 18, 35; Bảng 8.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – Bảng 6, 8, 11; mục 3.2.3.1, 3.2.3.3, 5.2.8, 6.2.",
+  "ACP/CDC 2016, Appropriate Antibiotic Use for Acute Respiratory Tract Infection in Adults, Ann Intern Med 164:425–434 – TL-0156 – tr. 426, 428–432 (High-Value Care Advice 1, 2, 4, phần Common cold).",
+  "WHO AWaRe antibiotic book 2022 – TL-0018 – Chương 6 Pharyngitis (tr. 46–48): key messages, Centor.",
+  "QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh tai mũi họng – TL-0130 – Viêm mũi họng cấp tính mục 4.1, 4.3.1 (tr. 135); Viêm họng cấp tính mục 4.2.2, 5.",
+  "QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – Viêm phế quản cấp ở người lớn, mục 2.",
+  "QĐ 2058/QĐ-BYT 2020, Một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 Mất ngủ không thực tổn, mục 2, 3.1.1, 4.1, 4.3 (tr. 150–152).",
+  "European Insomnia Guideline 2023 (ESRS) – TL-0464 – mục 4.1.1, 4.2.1, 4.2.6, 4.2.7, Bảng 16.",
+  "AASM 2017, Pharmacologic treatment of chronic insomnia – kho cũ tltk-10000-ca, thư mục Thần kinh – tiền đình – giấc ngủ – khuyến cáo 12.",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (benzodiazepin, nhóm Z, kháng histamin thế hệ 1).",
+  "QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3.",
+  "Luật Khám bệnh, chữa bệnh 2023 – TL-0007 – Điều 11 khoản 1, Điều 13 khoản 1.",
+  "ADA 2026 Standards of Care, mục 2 – TL-0674 – khuyến cáo 2.13, Bảng 2.1–2.2."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 2026-11-08 (viết: Sonnet). Tài liệu đã đọc: TL-0284 (QĐ 5904: Phần 1 Bước 2, 3A, 4, 5; Phần 3 mục D.1, F, G; Phụ lục 3.2), TL-0288 (VSH/VNHA 2024: Đ1.2.2, Đ2.1, Đ4.1, Hình 14), TL-0305 (ESC 2024: mục 9.14.7, 10.1.1, Bảng khuyến cáo 18, 35), TL-0297 (AHA/ACC 2025: Bảng 8, 11, mục 5.2.8, 6.2), TL-0156, TL-0018, TL-0130, TL-0015, TL-0443, TL-0464, TL-0022, TL-0286, TL-0007, TL-0674. Mâu thuẫn đã áp dụng từ sổ: kháng sinh cho viêm họng/mũi họng đỏ cấp (gộp một mục c); đơn trị khi thiếu xét nghiệm nền (MT-0166); mục tiêu HA từ 65 tuổi (ghi cả ba); paracetamol người cao tuổi hoặc THA; cà phê ở người THA; thuốc ngủ ở người từ 65 tuổi (TT-0161); melatonin (a); nguyên nhân ngoại sinh ngưng được thì hẹn lại 2–4 tuần.",
+  "Thiếu trong tài liệu đã tải: cách nhận diện vị thuốc nam; số ngày cấp thuốc tối đa; nồng độ nước muối pha tại nhà; lưu hành melatonin tại Việt Nam; truyền dịch cho cảm lạnh. Từ chối xét nghiệm mô hình hóa bằng kết quả r ghi 'từ chối' (khoa_cls null vì không phải thiếu máy)."
+ ]
+}

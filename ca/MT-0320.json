@@ -1,0 +1,638 @@
+{
+ "ma_ca": "MT-0320",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới theo kho tài liệu (2026-11-07)",
+ "benh": "MT_dtd_tip2_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Đái tháo đường type 2 (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "ĐTĐ type 1/LADA",
+   "ĐTĐ thứ phát"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Bảo vệ (trực đêm)",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Thị Nhàn",
+  "tuoi": 66,
+  "gioi": "Nữ",
+  "nghe": "Bảo vệ khu chung cư (trực đêm)",
+  "can_nang": 58,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nghiêm túc, ít nói, tự trọng, coi ca trực là trách nhiệm nên không dám nghỉ. Hay lo xa nhưng giấu trong lòng, sợ 'nói ra là gở'. Hiểu biết y khoa vừa phải, tin thuốc mua ở quầy thuốc có dược sĩ bán thì là an toàn.",
+  "kieu_nhieu": "Tự uống thuốc 5 ngày trước khi đến: khi hỏi chung 'đang uống thuốc gì' chỉ kể metformin và 'thuốc ngủ như mọi khi'. Chỉ kể viên cảm vỉ xanh, viên giảm đau tự mua và việc uống gấp đôi thuốc ngủ khi bác sĩ hỏi cụ thể thuốc cảm/ho tự mua, từ khi ho đã uống gì, hoặc mỗi lần đi ngủ uống mấy viên. Gọi thuốc theo màu viên và màu vỉ, không nhớ tên.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d6a888",
+   "toc": "#bdbab6",
+   "kieuToc": "bui",
+   "ao": "#33414f",
+   "aoKieu": "dong_phuc",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Ho 5 ngày, xin lấy thuốc tiểu đường và thuốc ngủ",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT; cần hình ảnh não thì phải chuyển tuyến."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Đỗ Thị Nhàn, 66 tuổi, bảo vệ khu chung cư làm ca đêm, đái tháo đường típ 2 khoảng 8 năm, đang uống metformin. Đến vì ho 5 ngày, nhân tiện xin lấy thuốc tiểu đường và thuốc ngủ như mọi khi. Sinh hiệu: HA 148/88 mmHg, mạch 78 l/p, cân nặng 58 kg, BMI 25,1.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Nhàn nhập viện chỉ vì ho nhẹ, huyết áp mới phát hiện và nỗi sợ đột quỵ, trong khi bà không có dấu hiệu cúm nặng (SpO₂ 97%, thở 17 l/p, phổi sạch: QĐ 1840/2025 mục II.2.3) và không có tiêu chuẩn chuyển tuyến (QĐ 5904/2019 Phần 3 Bước 4). Bà mất lương nhiều ca trực và tiếp xúc thêm người bệnh khác, trong khi việc cần làm ngay là bỏ viên cảm có chlorpheniramin, đưa diazepam về liều cũ, bắt đầu thuốc huyết áp, statin và thuốc kháng vi rút cúm tại phòng khám.",
+    "chuyen_tuyen": "Bà Nhàn bị chuyển lên bệnh viện tuyến trên 'chụp CT sọ não cho chắc', mất cả ngày chờ và chi phí, trong khi khám thần kinh và FAST bình thường, bà không có triệu chứng thiếu máu não nào (chỉ chuyển khi có triệu chứng thiếu máu não thoáng qua hoặc đột quỵ: QĐ 5904 Phần 3 Bước 4). CT bình thường làm bà tưởng đã 'chắc ăn', trong khi nguy cơ thật nằm ở huyết áp 148/88 và LDL-C 3,5 mmol/L chưa được điều trị (ADA 2026 KC 10.6, 10.20); bà về vẫn uống viên cảm và gấp đôi thuốc ngủ.",
+    "cap_cuu": "Bà Nhàn được gọi xe cấp cứu đi viện giữa buổi sáng vì 'nghi đột quỵ', dù không có dấu hiệu thần kinh nào và huyết áp 148/88 còn rất xa ngưỡng cấp cứu (≥ 180/110 kèm triệu chứng: QĐ 5904 Phần 3 Bước 3 mục D). Bà hoảng sợ, lo mất việc. Bà không được dạy FAST nên nỗi sợ vẫn còn và lần sau có thể đến muộn khi có triệu chứng thật.",
+    "theo_doi": "Bà Nhàn chỉ được dặn 'nghỉ ngơi, uống thuốc ho' và hẹn lại sau vài tháng, không đổi thuốc nào. Huyết áp 148/88 và LDL-C 3,5 mmol/L tiếp tục không được điều trị trong khi bà đã có ĐTĐ (ADA 2026 KC 10.6, 10.20); bà vẫn uống chlorpheniramin và 2 viên diazepam nên tiếp tục gật gù khi trực và có nguy cơ té ngã (AGS Beers 2023 Bảng 2). Cúm có yếu tố nguy cơ nặng (> 65 tuổi, tiểu đường) không được dùng thuốc kháng vi rút (QĐ 1840/2025 mục III.2.2), bà vẫn lo sợ đột quỵ và có thể tự mua thuốc 'phòng đột quỵ' như aspirin."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy hôm nay tôi hơi ho, chắc cảm thường thôi. Tiện đây cho tôi lấy thuốc tiểu đường với thuốc ngủ như mọi khi, sắp hết rồi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "148/88",
+    "nhiet": "36,8",
+    "nhip_tho": 17,
+    "spo2": 97,
+    "canh_bao": [
+     "Huyết áp ≥ 140/90 mmHg"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho khan mấy hôm nay, nghĩ là cảm thường. Bị tiểu đường khoảng 8 năm, đang uống metformin và uống thuốc ngủ mỗi ngày, sắp hết nên xin lấy thêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "benh_su_ho",
+     "noi_dung": "Năm ngày nay ho khan từng cơn, nhiều nhất lúc nằm xuống ngủ, nghẹt mũi, đau họng nhẹ, người mệt và mỏi. Hai ngày đầu sốt khoảng 37,8–38 °C, từ ngày thứ 3 hết sốt. Ăn uống được. Không khó thở, không đau ngực, không ho đờm mủ, không ho ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến bệnh cấp: nhẹ, không dấu hiệu nặng"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Chị Tâm bảo vệ ca ngày, giao ca với bà, ngồi chung phòng bảo vệ cả tuần trước. Chị sốt ho, đi khám được xét nghiệm cúm A dương tính. Bà không đeo khẩu trang lúc giao ca. Chưa bao giờ tiêm vắc xin cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố dịch tễ: tiếp xúc người bệnh cúm; chưa tiêm phòng"
+    },
+    {
+     "id": "tien_su_dtd",
+     "noi_dung": "Chẩn đoán đái tháo đường năm 58 tuổi nhân đợt khám sức khỏe định kỳ, không nhập viện, không sụt cân, chưa từng có ceton. Uống metformin 850 mg ngày 2 lần sau ăn, thỉnh thoảng quên liều sáng khi về muộn. HbA1c cách đây 6 tháng là 7,4%. Chưa tiêm insulin. Mẹ và anh trai cũng bị tiểu đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian bệnh, thuốc, tuân thủ, HbA1c cũ; típ 2 (loại trừ típ 1/LADA)"
+    },
+    {
+     "id": "trieu_chung_dtd",
+     "noi_dung": "Không khát nhiều, không tiểu nhiều, không sụt cân. Chưa từng run tay, vã mồ hôi, đói lả. Không đau bụng, buồn nôn, thở nhanh.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "loai_tru_thu_phat",
+     "noi_dung": "Không uống corticoid, thuốc nam, thuốc bắc. Chưa từng viêm tụy, không uống rượu. Chưa ai nói bà có bệnh tuyến giáp hay thượng thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ĐTĐ thứ phát (thuốc, bệnh tụy, nội tiết)"
+    },
+    {
+     "id": "bien_chung",
+     "noi_dung": "Khám mắt lần cuối cách đây gần 2 năm, bình thường. Chân không tê, không loét. Chưa từng làm xét nghiệm đạm niệu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc biến chứng mạn (quá hạn khám mắt)"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Thuốc ngủ là diazepam 5 mg, mỗi lần đi ngủ ban ngày sau ca trực uống 1 viên, khoảng 2 năm nay, mua ở quầy thuốc theo toa cũ của phòng khám tư (bác sĩ đã nghỉ). Không uống thì trằn trọc, không ngủ được. Ngủ ban ngày chia hai giấc, tổng 4–5 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc ngủ an thần dùng kéo dài (diazepam)"
+    },
+    {
+     "id": "thuoc_tu_uong",
+     "noi_dung": "Năm ngày nay bà tự mua ở quầy thuốc đầu ngõ viên cảm vỉ xanh (trên vỉ ghi paracetamol 325 mg và chlorpheniramin 2 mg mỗi viên), uống 2 viên ngày 3 lần. Ngoài ra bà uống thêm viên giảm đau trắng paracetamol 500 mg ngày 3 lần cho đỡ nhức đầu, mỏi người. Cộng lại khoảng 3,5 g paracetamol mỗi ngày. Vì ho làm khó ngủ nên 5 hôm nay mỗi lần đi ngủ uống 2 viên diazepam thay vì 1. Hôm kia gật gù trên ghế trực lúc 2 giờ sáng, anh bảo vệ trẻ phải gọi dậy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ nói metformin và thuốc ngủ như mọi khi. Chỉ kể khi bác sĩ hỏi cụ thể thuốc cảm, thuốc ho, thuốc giảm đau tự mua, từ khi ho đã uống gì, hoặc mỗi lần đi ngủ uống mấy viên.",
+     "k": 1,
+     "y": "Thuốc tự mua (viên cảm chứa kháng histamin thế hệ 1, paracetamol trùng lặp) và tự tăng gấp đôi diazepam"
+    },
+    {
+     "id": "an_toan_lam_viec",
+     "noi_dung": "Ca trực 19 giờ đến 7 giờ sáng, đứng gác và đi tuần thang bộ. Chưa bị ngã lần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Buồn ngủ ban đêm, nguy cơ té ngã khi dùng an thần"
+    },
+    {
+     "id": "huyet_ap",
+     "noi_dung": "Chưa ai chẩn đoán cao huyết áp, chưa từng uống thuốc hạ áp. Hôm qua lúc mua thuốc cảm, nhân viên quầy thuốc đo giúp được 156/92 và bảo 'hơi cao đấy'. Ở nhà không có máy đo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Huyết áp ghi nhận ở dịp đo khác (cần để xác nhận THA)"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Không méo miệng, nói ngọng, yếu hay tê nửa người, nhìn mờ hoặc đôi, chóng mặt xoay vòng, đau đầu dữ dội. Chưa từng có cơn thoáng qua như vậy. Không đau ngực, hồi hộp, khó thở khi leo thang bộ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng đột quỵ/cơn thiếu máu não thoáng qua, không triệu chứng tim"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ mất vì đột quỵ lúc 72 tuổi. Bố bị cao huyết áp. Anh trai bị tiểu đường, đã đặt stent mạch vành.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình tim mạch"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Không hút thuốc, không rượu. Mỗi đêm 3 ly cà phê hoặc trà đặc cho tỉnh, ăn mì gói, cá khô kho mặn, ít rau. Ngồi gác phần lớn ca, không tập thể dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống: muối, caffein, vận động"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: anh Thịnh, bảo vệ ca ngày 58 tuổi, cũng bị tiểu đường và uống thuốc ngủ, tuần trước đột ngột liệt nửa người phải vào viện. Hôm qua bà nghe số đo 156/92 thì mất ngủ cả buổi, nghĩ 'đến lượt mình rồi', nhớ mẹ cũng mất vì đột quỵ. Bà muốn bác sĩ 'chụp đầu xem có sao không' hoặc cho thuốc phòng đột quỵ. Bà không dám nói ngay vì sợ 'nói gở', sợ bị bắt nghỉ việc và tốn tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà còn lo điều gì, vì sao hôm nay muốn đi khám, có ai quen biết bị bệnh gần đây không, hoặc hỏi về số đo huyết áp ở quầy thuốc và gia đình. Khi nói ra thì xin chụp CT đầu hoặc xin thuốc 'chống đột quỵ'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ đột quỵ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, không sốt. Vòng eo 86 cm. Da niêm hồng, không phù.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amiđan không to, không mủ. Niêm mạc mũi phù nhẹ, dịch trong. Màng nhĩ bình thường hai tai.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ không to. Tuyến giáp không to, không nhân. Tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "ha_hai_tay": {
+     "a": "Đo ngồi sau nghỉ 5 phút, băng quấn cỡ phù hợp: tay phải 148/88, tay trái 146/86 mmHg. Chênh hai tay dưới 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 148/88, mạch 76. Đứng 1 phút 144/86, mạch 80. Đứng 3 phút 142/86. Không tụt huyết áp tư thế, không chóng mặt.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai phế trường, không ran. Không co kéo cơ hô hấp.",
+     "k": 0,
+     "hien": "Thở đều, 17 l/p.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to, không âm thổi động mạch.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh táo, định hướng tốt. Dây thần kinh sọ bình thường, không liệt mặt, không lệch tay khi giơ hai tay. Sức cơ 5/5 bốn chi. Cảm giác nông bình thường hai bên. Phản xạ gân xương đều, Babinski âm tính. Không thất điều, không rung giật nhãn cầu.",
+     "k": 1
+    },
+    "mat_giong_chu_viet": {
+     "a": "Mặt cân đối, nếp mũi má đều hai bên. Nói rõ, đúng nghĩa. Viết được tên và địa chỉ bình thường.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô, không loét, không chai, không biến dạng. Monofilament 10 g (3 vị trí mỗi bàn chân): cảm nhận đủ. Âm thoa 128 Hz: nhận rung bình thường ở ngón cái. Mạch mu chân, chày sau rõ. Không phù.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Soi đáy mắt trực tiếp, không giãn đồng tử: thấy đĩa thị rõ, vùng nhìn được chưa thấy xuất huyết hay xuất tiết. Soi không giãn đồng tử không loại trừ được bệnh võng mạc.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "7,2 mmol/L",
+     "ab": 1,
+     "bang": {
+      "glu": 7.2
+     },
+     "ghi_chu_mau": "Mẫu tĩnh mạch lấy sau ca trực, nhịn ăn trên 8 giờ.",
+     "n": "Mục tiêu glucose trước ăn 4,4–7,2 mmol/L (ADA 2026 Bảng 6.3; QĐ 5481 Phần 4 Bảng 4): đang ở mức cao của khoảng mục tiêu."
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "7,3%",
+     "ab": 1,
+     "n": "Mục tiêu người cao tuổi còn khỏe < 7,5% (QĐ 5481 Phần 4 Bảng 5) hoặc 7,0–7,5% (ADA 2026 Bảng 13.2); ADA 2026 KC 6.3a: < 7% cho nhiều người lớn. HbA1c mỗi 3 tháng khi đổi thuốc hoặc chưa đạt, ≥ 2 lần/năm khi ổn định (QĐ 5481 Phần 3 Bảng 2, Phần 4 mục 2)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,4 mmol/L · Creatinin 82 µmol/L · eGFR 68 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.4,
+      "creat": 82,
+      "egfr": 68
+     },
+     "n": "Metformin chống chỉ định eGFR < 30, giảm liều 30–45 (QĐ 5481 Phụ lục 01 mục 2): eGFR 68 không chỉnh. Đánh giá thận hằng năm (ADA 2026 KC 11.1a)."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "14 mg/g (bình thường, < 30 mg/g)",
+     "n": "Ít nhất hằng năm cùng eGFR ở típ 2 (ADA 2026 KC 11.1a). UACR bình thường: chưa có chỉ định riêng cho ức chế men chuyển/chẹn thụ thể (KC 10.10)."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,6 · LDL-C 3,5 · HDL-C 1,2 · TG 1,9 mmol/L",
+     "ab": 1,
+     "n": "LDL-C vượt mục tiêu < 1,8 mmol/L (ADA 2026 KC 10.20). TG ≥ 1,7, HDL-C < 1,3 ở nữ: tăng cường lối sống (KC 10.15). Lipid ít nhất hằng năm (QĐ 5481 Phần 4 mục 6.2.1)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L · Hb 128 g/L · TC 262 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 32.0,
+      "lym": 2.18,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.3,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 90.7,
+      "mch": 29.8,
+      "mchc": 328,
+      "rdw": 13.4,
+      "plt": 262
+     },
+     "n": "Công thức máu có tiểu cầu lúc đánh giá đầu và hằng năm (ADA 2026 Bảng 4.1). Hb 128, MCV 90,7 bình thường."
+    },
+    "b12": {
+     "v": "e",
+     "r": "Vitamin B12 trong giới hạn bình thường.",
+     "n": "Metformin > 5 năm (bà 8 năm, 1,7 g/ngày): đo B12 hằng năm (ADA 2026 Bảng 4.1); nguy cơ cao hơn khi ≥ 1.500 mg/ngày hoặc > 4–5 năm (ADA 2026 mục 3)."
+    },
+    "flu": {
+     "v": "e",
+     "r": "Cúm A dương tính · SARS-CoV-2 âm tính",
+     "ab": 1,
+     "n": "Nghi cúm hoặc có yếu tố nguy cơ thì dùng test nhanh (QĐ 1840/2025 mục II.2.1). Bà tiếp xúc ca cúm khẳng định (mục II.2.4.1) và có 2 yếu tố nguy cơ nặng: > 65 tuổi, tiểu đường (II.2.3)."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 76 l/p, không rung nhĩ, không dày thất trái, ST–T bình thường.",
+     "n": "QĐ 5481 Phần 3 Bảng 2 và QĐ 5904 Phần 3 Bước 2: điện tim lần đầu."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 22 · ALT 19 U/L",
+     "n": "Men gan là xét nghiệm cơ bản khi mới phát hiện THA (QĐ 5904 Phần 3 Bước 2). Bình thường dù đã uống khoảng 3,5 g paracetamol/ngày."
+    },
+    "gad_cpep": {
+     "v": "a",
+     "r": "Anti-GAD65 âm tính; C-peptid 2,0 ng/mL.",
+     "n": "Không cần: khởi phát 58 tuổi, BMI 25, không sụt cân, không ceton (ADA 2026 Hình 2.1 chú thích 5, 7). C-peptid chỉ chỉ định ở người dùng insulin (chú thích 4), còn QĐ 5481 Phần 3 Bảng 2 có insulin/C-peptid lần đầu: làm hay không đều chấp nhận."
+    },
+    "doppler_canh": {
+     "v": "a",
+     "r": "Không thấy mảng xơ vữa hay hẹp động mạch cảnh.",
+     "n": "Không thấy khuyến cáo siêu âm cảnh thường quy cho người không triệu chứng trong tài liệu đã tải (ADA 2026 KC 10.38b, 10.39 chỉ nói về mạch vành). Làm hay không đều chấp nhận; không đổi xử trí vì thuốc huyết áp, statin đã có chỉ định."
+    },
+    "cxr": {
+     "n": "Ho 5 ngày, phổi sạch, SpO₂ 97%, thở 17 l/p: chưa nghi viêm phổi. X-quang ngực chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840/2025 mục II.2.2)."
+    },
+    "ct_nao": {
+     "n": "Không có triệu chứng hay dấu thần kinh khu trú (khám thần kinh, khám FAST bình thường); phòng khám cũng không có máy CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái tháo đường típ 2 (8 năm), đang dùng metformin, HbA1c 7,3%, chưa thấy biến chứng thận, thần kinh; võng mạc chưa khám chuyên khoa 2 năm",
+     "ok": 1,
+     "n": "Đáp ứng metformin, không ceton (QĐ 5481 Phần 2 Bảng 1); HbA1c 7,3% trong mục tiêu người cao tuổi còn khỏe (QĐ 5481 Bảng 5; ADA 2026 Bảng 13.2); UACR 14, monofilament bình thường."
+    },
+    {
+     "t": "Tăng huyết áp độ 1 mới phát hiện, kèm đái tháo đường",
+     "ok": 1,
+     "n": "148/88 tại phòng khám, 156/92 hôm qua ở quầy thuốc: THA theo ADA 2026 KC 10.1 (≥ 130/80, ≥ 2 dịp) và QĐ 5481 mục 6.1.1 (≥ 140/90 khi đo lại); độ 1 (QĐ 5904 Phần 1 Bước 3)."
+    },
+    {
+     "t": "Rối loạn lipid máu (LDL-C 3,5 mmol/L; TG 1,9; HDL-C 1,2), nguy cơ tim mạch cao",
+     "ok": 1,
+     "n": "LDL-C vượt mục tiêu; ĐTĐ có thêm THA, rối loạn lipid, tuổi 66 (ADA 2026 KC 10.20; QĐ 5481 Phần 4 mục 3b, 6.2.2)."
+    },
+    {
+     "t": "Cúm A mức nhẹ, ngày thứ 5, có yếu tố nguy cơ nặng (> 65 tuổi, đái tháo đường)",
+     "ok": 1,
+     "n": "Tiếp xúc ca cúm khẳng định, ho khan, nghẹt mũi, sốt 2 ngày, test nhanh cúm A dương tính; không suy hô hấp (QĐ 1840/2025 mục II.2.3, II.2.4)."
+    },
+    {
+     "t": "Dùng thuốc ngủ diazepam kéo dài 2 năm, tự tăng gấp đôi liều, phối hợp viên cảm có chlorpheniramin: buồn ngủ ban ngày và khi trực, nguy cơ té ngã",
+     "ok": 1,
+     "n": "Benzodiazepin và kháng histamin thế hệ 1 đều nằm trong thuốc nên tránh ở người ≥ 65 tuổi (AGS Beers 2023 Bảng 2); bà ngủ gật khi trực."
+    },
+    {
+     "t": "Lo sợ đột quỵ, hiện không có dấu hiệu thần kinh, nguy cơ đột quỵ tăng do ĐTĐ, THA, rối loạn lipid",
+     "ok": 1,
+     "n": "FAST âm tính, khám thần kinh bình thường; yếu tố nguy cơ tim mạch cần kiểm soát (QĐ 5481 Phần 4 mục 6.1.3h: THA là yếu tố nguy cơ chính của đột quỵ)."
+    },
+    {
+     "t": "ĐTĐ típ 1 / LADA",
+     "n": "Khởi phát 58 tuổi, BMI 25, không sụt cân, không ceton, đáp ứng metformin 8 năm, mẹ và anh trai ĐTĐ: nghiêng típ 2 (QĐ 5481 Phần 2 Bảng 1; ADA 2026 Hình 2.1 chú thích 5, 7). Kháng thể GAD trước nếu còn nghi (Hình 2.1 chú thích 2)."
+    },
+    {
+     "t": "ĐTĐ thứ phát (thuốc, bệnh tụy, bệnh nội tiết)",
+     "n": "Không dùng corticoid, thiazide, không viêm tụy, không rượu, không dấu hiệu Cushing, to đầu chi, cường giáp (QĐ 5481 Phần 2 mục 2.4 e, f, g)."
+    },
+    {
+     "t": "Đột quỵ hoặc cơn thiếu máu não thoáng qua",
+     "n": "Không méo miệng, yếu liệt, nói khó, nhìn đôi; khám thần kinh bình thường; chưa từng có cơn thoáng qua. Có triệu chứng thiếu máu não thoáng qua hoặc đột quỵ thì phải chuyển tuyến (QĐ 5904 Phần 3 Bước 4)."
+    },
+    {
+     "t": "Cúm nặng hoặc viêm phổi",
+     "n": "SpO₂ 97% khí trời, thở 17 l/p, phổi sạch, không đau ngực, không khó thở (cúm nặng khi suy hô hấp hoặc suy cơ quan: QĐ 1840/2025 mục II.2.3)."
+    },
+    {
+     "t": "Thiếu vitamin B12 do metformin",
+     "n": "Hb 128, MCV 90,7, B12 bình thường, chân không tê, monofilament bình thường (ADA 2026 mục 3, Bảng 4.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ cả thuốc tự mua; ngưng viên cảm vỉ xanh (chlorpheniramin, trùng paracetamol); không dùng kháng histamin thế hệ 1 cho ho, nghẹt mũi hay giấc ngủ",
+     "v": "c",
+     "n": "AGS Beers 2023 Bảng 2: kháng histamin thế hệ 1 (chlorpheniramin) nên tránh ở người ≥ 65 tuổi (chứng cứ vừa, khuyến cáo mạnh). Paracetamol hai nguồn cộng 3,5 g/ngày (xem mục paracetamol)."
+    },
+    {
+     "t": "Cúm A nhẹ có yếu tố nguy cơ nặng: kê oseltamivir 75 mg × 2 lần/ngày × 5 ngày; bù nước, theo dõi dấu hiệu nặng; hạn chế tiếp xúc người khác, xin nghỉ trực vài ngày",
+     "v": "c",
+     "n": "QĐ 1840/2025 mục III.2.2: ngoại trú cúm nhẹ chỉ dùng thuốc kháng vi rút cho người có yếu tố nguy cơ (> 65 tuổi, tiểu đường: II.2.3); mục III.2.1: oseltamivir đầu tay, người lớn 75 mg × 2/ngày × 5 ngày; sử dụng càng sớm càng tốt. Mốc thời gian tối đa kể từ lúc khởi bệnh, số ngày nghỉ trực: không có trong tài liệu đã tải. Hạn chế tiếp xúc, khẩu trang: mục IV.2."
+    },
+    {
+     "t": "Kê kháng sinh cho cúm nhẹ, không có dấu bội nhiễm",
+     "v": "w",
+     "n": "QĐ 1840/2025 mục III.2.2: không khuyến cáo kháng sinh cho cúm nhẹ; kháng sinh theo kinh nghiệm chỉ khi cúm nặng hoặc nghi bội nhiễm (mục III.2.3)."
+    },
+    {
+     "t": "Dùng thuốc hạ sốt giảm đau chứa aspirin trong cúm",
+     "v": "w",
+     "n": "QĐ 1840/2025 mục III.2.2: không dùng thuốc hạ sốt giảm đau có aspirin ở người bệnh cúm vì hội chứng Reye có nguy cơ đe dọa tính mạng."
+    },
+    {
+     "t": "Paracetamol đơn chất khi sốt, đau đầu, mỏi người; mỗi lần 500 mg, cách nhau 6–8 giờ, tối đa 4 viên/ngày (dưới 3 g/ngày)",
+     "v": "c",
+     "n": "Người cao tuổi hoặc THA: dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); người lớn nói chung không quá 4 g/24 giờ (QĐ 361 Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025 Bảng 11). Chọn con số thận trọng hơn. Bà đã uống 3,5 g/ngày."
+    },
+    {
+     "t": "Tăng huyết áp mới phát hiện: xác nhận (nhiều lần đo, ≥ 2 dịp), bắt đầu thuốc hạ áp liều thấp cùng lối sống, mục tiêu < 130/80 hoặc < 140/90 mmHg",
+     "v": "c",
+     "n": "ADA 2026 KC 10.1, 10.6: xác nhận ≥ 130/80 thì khởi thuốc; KC 10.7: chỉ ≥ 150/90 mới khởi hai thuốc (Hình 10.2). QĐ 5481 mục 6.1.3b: HA ≥ 140/90 dùng thuốc cùng lối sống. Mục tiêu < 130/80 (ADA 2026 KC 10.4, Bảng 13.2; QĐ 5481 Bảng 4 khi nguy cơ xơ vữa cao) hoặc < 140/90 (QĐ 5481 Bảng 4, 5). Thuốc đầu: amlodipin 5 mg (QĐ 5904 Phần 3 mục G) hoặc ức chế men chuyển/chẹn thụ thể (QĐ 5481 mục 6.1.3d; ADA 2026 KC 10.8, Hình 10.2: UACR bình thường nên không ưu tiên nhóm nào). Hôm nay chọn amlodipin vì bà đang ho (ức chế men chuyển gây ho 1–2%: QĐ 5904 Phần 3 mục G). Giờ uống: trước khi ngủ (QĐ 5481 mục 6.1.3f) hoặc lúc thuận tiện (ESC 2024 Bảng khuyến cáo 16)."
+    },
+    {
+     "t": "Statin cường độ cao: atorvastatin 40 mg (mục tiêu LDL-C < 1,8 mmol/L, hoặc < 1,4 mmol/L theo QĐ 5481 vì ≥ 3 yếu tố nguy cơ chính)",
+     "v": "c",
+     "n": "ADA 2026 KC 10.20, Bảng 10.1: ĐTĐ 40–75 tuổi có thêm yếu tố nguy cơ (THA, rối loạn lipid, tuổi) dùng cường độ cao (atorvastatin 40–80 mg), giảm ≥ 50%, LDL-C < 1,8 mmol/L. QĐ 5481 Phần 4 mục 3b, 6.2.2: ≥ 3 yếu tố nguy cơ chính (tuổi, THA, rối loạn lipid) là nguy cơ rất cao, LDL-C < 1,4 mmol/L. Cùng thuốc, khác mục tiêu."
+    },
+    {
+     "t": "Statin cường độ trung bình (atorvastatin 10–20 mg)",
+     "v": "a",
+     "n": "ADA 2026 KC 10.18 và QĐ 5481 Phần 4 mục 6.2.2: mức tối thiểu cho ĐTĐ 40–75 tuổi; KC 10.20 và QĐ 5481 cho cường độ cao khi có thêm yếu tố nguy cơ."
+    },
+    {
+     "t": "Đường huyết: HbA1c 7,3% nằm trong mục tiêu người cao tuổi, giữ metformin, hẹn HbA1c sau 3 tháng; HOẶC thêm SGLT2i/GLP-1 RA vì nguy cơ tim mạch cao (nên khởi sau khi hết cúm)",
+     "v": "c",
+     "n": "Cách 1: QĐ 5481 Phần 4 Bảng 5 (mạnh khỏe < 7,5%), ADA 2026 Bảng 13.2 (người cao tuổi khỏe 7,0–7,5%); HbA1c 3 tháng/lần khi chưa đạt hoặc đổi thuốc (QĐ 5481 Phần 3 Bảng 2). Cách 2: ADA 2026 KC 6.3a (< 7% cho nhiều người lớn) và KC 9.7, Hình 9.4: ≥ 55 tuổi có ≥ 2 yếu tố nguy cơ (THA, rối loạn lipid) là chỉ dấu nguy cơ cao, nên dùng thuốc có lợi ích tim mạch bất kể HbA1c (khuyến cáo yếu hơn người đã có bệnh tim mạch); giá thuốc và khả năng chi trả: QĐ 5481 Phần 4 mục 4.1j. Đang cúm, ăn uống kém dễ mất nước nên hoãn đến khi khỏi (lựa chọn thận trọng của ca; ADA 2026 Bảng 9.2 chỉ nêu ngưng SGLT2i trước phẫu thuật theo lịch và khi bệnh nặng)."
+    },
+    {
+     "t": "Thêm sulfonylurea (gliclazide, glimepirid, glibenclamid) để hạ đường huyết",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: tránh sulfonylurea làm thuốc đầu hay thứ hai, vì tăng nguy cơ hạ glucose, biến cố tim mạch, tử vong và có thể tăng đột quỵ thiếu máu não (chứng cứ vừa, khuyến cáo mạnh). QĐ 5904/2019 Phần 2 Bước 5 mục B.2 cho thay hoặc thêm sulfonylurea khi metformin không khống chế được glucose máu; ở đây HbA1c 7,3% đã trong mục tiêu người cao tuổi (QĐ 5481 Bảng 5) nên chính điều kiện của QĐ 5904 chưa có, còn Beers nêu rõ hại."
+    },
+    {
+     "t": "Thuốc ngủ: không tăng liều, quay lại 1 viên diazepam 5 mg, lập kế hoạch giảm dần cùng vệ sinh giấc ngủ/CBT-I; có thể giữ liều cũ ngắn hạn (tối đa 4 tuần) trong lúc giảm dần",
+     "v": "c",
+     "n": "AGS Beers 2023 Bảng 2: tránh benzodiazepin ở ≥ 65 tuổi (lú lẫn, té ngã, gãy xương, tai nạn giao thông; dùng kéo dài gây phụ thuộc vật lý). ESRS 2023 mục 4.2.1: tối đa 4 tuần; mục 4.5: có phác đồ giảm dần (lịch cụ thể: không có trong tài liệu đã tải). QĐ 2058/2020 Bài 27 mục 4.3: vệ sinh giấc ngủ, nêu cả thuốc ngắn hạn (BYT/AASM) lẫn Beers. Thuốc thay thế cho người trực đêm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng diazepam hẳn ngay hôm nay",
+     "v": "a",
+     "n": "Tài liệu đã tải không nêu rõ nguy cơ ngưng đột ngột, nhưng dùng 2 năm có thể đã phụ thuộc vật lý (Beers 2023 Bảng 2) nên giảm dần thận trọng hơn (ESRS 2023 mục 4.5). Chấp nhận."
+    },
+    {
+     "t": "Kê thêm thuốc ngủ (benzodiazepin khác, zolpidem) hoặc kháng histamin để bà ngủ được trong lúc ho",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: benzodiazepin, thuốc nhóm Z và kháng histamin thế hệ 1 đều nên tránh ở người ≥ 65 tuổi; bà đã gật gù lúc trực."
+    },
+    {
+     "t": "Nói chuyện về lo sợ đột quỵ: đồng cảm, giải thích nguy cơ thật là THA, mỡ máu, đường huyết và đang xử trí; dạy FAST (Mặt, Tay, Lời nói, Thời gian) và gọi cấp cứu ngay khi có dấu hiệu",
+     "v": "c",
+     "n": "Đúng động cơ thật. Cung cấp thông tin về nguy cơ, dấu hiệu khởi phát, việc cần làm; FAST là biện pháp phòng ngừa đột quỵ sơ cấp (TL-0444 mục phòng ngừa đột quỵ, Phụ lục 4); BE-FAST, FAST hoặc CPSS đều dùng được (ERC 2025 First Aid). Có triệu chứng thiếu máu não thoáng qua hoặc đột quỵ thì chuyển tuyến (QĐ 5904 Phần 3 Bước 4)."
+    },
+    {
+     "t": "Chụp CT sọ não 'cho yên tâm' hoặc chuyển tuyến chỉ để chụp CT",
+     "v": "w",
+     "n": "Không triệu chứng hay dấu thần kinh khu trú; phòng khám không có CT. Tài liệu đã tải không đưa CT sọ vào quản lý ĐTĐ hay THA không triệu chứng; QĐ 5904 Phần 3 Bước 4 chỉ chuyển khi có triệu chứng thiếu máu não thoáng qua hoặc đột quỵ."
+    },
+    {
+     "t": "Cho bà bắt đầu aspirin liều thấp 75–162 mg/ngày để phòng đột quỵ",
+     "v": "a",
+     "n": "ADA 2026 KC 10.36: có thể cân nhắc phòng tiên phát sau khi bàn lợi ích và nguy cơ chảy máu; phần bàn luận ghi thường không khuyến cáo ở người cao tuổi vì nguy cơ chảy máu. Hoãn đến khi HA ổn định và hết cúm là hợp lý."
+    },
+    {
+     "t": "Lối sống: giảm muối và đồ mặn, tăng rau, bỏ cà phê/trà đặc ban đêm, vận động ít nhất 150 phút/tuần",
+     "v": "c",
+     "n": "ADA 2026 KC 10.5: HA > 120/80 khuyên DASH, giảm natri, tăng vận động ≥ 150 phút/tuần cường độ vừa; KC 10.14: Địa Trung Hải/DASH, giảm mỡ bão hòa để cải thiện lipid; QĐ 5481 Phần 4 mục 6.2.2a: 150 phút/tuần. Caffein ban đêm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn khám đáy mắt chuyên khoa (giãn đồng tử); xác nhận đã khám bàn chân, UACR, eGFR, B12 hôm nay và nhắc lại hằng năm",
+     "v": "c",
+     "n": "Khám mắt: 1–2 năm nếu không bệnh võng mạc và đường huyết đạt (ADA 2026 KC 12.5); 3–6 tháng (QĐ 5481 Phần 3 Bảng 2; QĐ 2558/2022 Bảng 5); bà đã gần 2 năm. Bàn chân hằng năm (ADA 2026 KC 12.23). UACR, eGFR hằng năm (KC 11.1a). B12 khi dùng metformin > 5 năm (Bảng 4.1)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần (HA tại nhà, tác dụng phụ thuốc, cúm đã khỏi chưa, kế hoạch giảm diazepam); lipid sau 4–12 tuần; HbA1c sau 3 tháng",
+     "v": "c",
+     "n": "Theo dõi sát HA trong 1 tháng đầu khi khởi trị (QĐ 5904 Phần 3 Bước 2); đang chỉnh thuốc: 0,5–1 tháng/lần (QĐ 5481 Phần 3 mục 2.3). Lipid 4–12 tuần sau khi bắt đầu statin (ADA 2026 KC 10.17). HbA1c mỗi 3 tháng khi đổi hoặc chưa đạt (QĐ 5481 Bảng 2)."
+    },
+    {
+     "t": "Nhập viện hoặc gọi cấp cứu vì ho nhẹ, THA mới phát hiện và lo đột quỵ",
+     "v": "w",
+     "n": "Cúm nhẹ, SpO₂ 97%, thở 17 l/p; HA 148/88 thấp xa ngưỡng cấp cứu ≥ 180/110 kèm triệu chứng (QĐ 5904 Phần 3 Bước 3 mục D); không dấu thần kinh. Không có tiêu chuẩn chuyển tuyến (QĐ 5904 Phần 3 Bước 4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm A mức nhẹ, ngày thứ 5, có yếu tố nguy cơ nặng (> 65 tuổi, đái tháo đường)",
+     "Đái tháo đường típ 2 (8 năm), HbA1c 7,3% trong mục tiêu người cao tuổi còn khỏe; chưa thấy biến chứng thận, thần kinh; chưa khám võng mạc chuyên khoa gần 2 năm",
+     "Tăng huyết áp độ 1 mới phát hiện (148/88 tại phòng khám, 156/92 ở quầy thuốc hôm qua)",
+     "Rối loạn lipid máu (LDL-C 3,5; TG 1,9; HDL-C 1,2 mmol/L), nguy cơ tim mạch cao đến rất cao",
+     "Mất ngủ mạn do làm ca đêm, dùng diazepam 2 năm, tự tăng gấp đôi liều, phối hợp kháng histamin thế hệ 1: buồn ngủ khi trực, nguy cơ té ngã",
+     "Dùng trùng paracetamol (khoảng 3,5 g/ngày), men gan bình thường",
+     "Lo sợ đột quỵ, không có dấu hiệu thần kinh hiện tại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) diễn tiến ho, sốt, khó thở, ho máu; (2) tiếp xúc người ho (chị Tâm cúm A); (3) toàn bộ thuốc, kể cả tự mua và số viên thuốc ngủ mỗi lần; (4) triệu chứng tăng/hạ đường huyết, biến chứng, lần khám mắt cuối; (5) huyết áp từng đo; (6) 'bà còn lo điều gì' mới ra nỗi sợ đột quỵ.",
+     "Khám: SpO₂ 97%, thở 17 l/p, phổi sạch loại cúm nặng (QĐ 1840/2025 mục II.2.3). HA hai tay đồng đều 148/88 và 146/86, đứng không tụt (ADA 2026 KC 10.1). Thần kinh và FAST bình thường; bàn chân, monofilament, mạch bình thường (ADA 2026 Bảng 4.1, KC 12.23).",
+     "Cận lâm sàng: test cúm A dương tính; HbA1c 7,3%, glucose 7,2 mmol/L; eGFR 68; UACR 14 mg/g; LDL-C 3,5; Hb 128, MCV 90,7; B12, men gan, điện tim bình thường (ADA 2026 Bảng 4.1; QĐ 5481 Phần 3 Bảng 2). Phòng khám không có CT, và CT sọ cũng không có chỉ định.",
+     "Cúm A nhẹ có yếu tố nguy cơ: nghi ngờ khi viêm đường hô hấp cấp có tiếp xúc ca khẳng định, khẳng định bằng test nhanh (QĐ 1840/2025 mục II.2.4). > 65 tuổi và tiểu đường là yếu tố nguy cơ nặng (II.2.3) nên dù nhẹ vẫn có chỉ định thuốc kháng vi rút (III.2.2); triệu chứng có thể không điển hình ở > 65 tuổi (II.1.1).",
+     "ĐTĐ típ 2: HbA1c 7,3% so với mục tiêu < 7,5% (QĐ 5481 Phần 4 Bảng 5), 7,0–7,5% (ADA 2026 Bảng 13.2) hoặc < 7% (ADA 2026 KC 6.3a). Hai bảng đầu viết riêng cho người cao tuổi theo sức khỏe, KC 6.3a cho người lớn nói chung; đều cá thể hóa. Loại trừ típ 1/LADA và ĐTĐ thứ phát ở phần chẩn đoán loại trừ.",
+     "THA: ADA 2026 KC 10.1 ≥ 130/80 ở ≥ 2 dịp; QĐ 5481 mục 6.1.1 ≥ 140/90 sau khi đo lại ngày khác. HA của bà vượt cả hai ngưỡng ở hai dịp nên không mâu thuẫn. Độ 1 (QĐ 5904 Phần 3 Bước 3). THA là yếu tố nguy cơ chính của đột quỵ (QĐ 5481 mục 6.1.3h).",
+     "Nguy cơ tim mạch: QĐ 5481 Phần 4 mục 3b tính tuổi, THA, rối loạn lipid là 3 yếu tố nguy cơ chính nên 'rất cao', LDL-C < 1,4 mmol/L; ADA 2026 KC 10.20 xếp 'nguy cơ cao hơn', LDL-C < 1,8 mmol/L. Khác năm và cách phân tầng, cùng thuốc.",
+     "Diazepam và chlorpheniramin đều nên tránh ở ≥ 65 tuổi (AGS Beers 2023 Bảng 2); bà gật gù khi trực, dùng gấp đôi liều. Paracetamol hai nguồn trùng nhau, tổng 3,5 g/ngày.",
+     "Lo sợ đột quỵ là lý do thật. Triệu chứng và khám thần kinh không gợi ý đột quỵ hay cơn thiếu máu não thoáng qua; yếu tố nguy cơ là THA chưa điều trị, LDL-C cao, ĐTĐ, tiền sử mẹ. Sulfonylurea cũng liên quan đột quỵ thiếu máu não (Beers 2023 Bảng 2), điều đáng nhớ khi nghĩ đến thêm thuốc hạ đường huyết."
+    ],
+    "phan_tich_xu_tri": [
+     "Xử trí cấp: ngưng viên cảm vỉ xanh; oseltamivir 75 mg × 2/ngày × 5 ngày (QĐ 1840/2025 mục III.2.1–III.2.2); paracetamol đơn chất dưới 3 g/ngày; bù nước; không kháng sinh, không aspirin. Mốc tối đa bắt đầu oseltamivir: không có trong tài liệu đã tải.",
+     "Huyết áp: một thuốc vì dưới 150/90 (ADA 2026 KC 10.7); amlodipin 5 mg hôm nay vì bà đang ho, đổi sang ức chế men chuyển hoặc chẹn thụ thể sau khi hết ho nếu cần; mục tiêu < 130/80 hoặc < 140/90; đo HA tại nhà (KC 10.2).",
+     "Lipid và đường huyết: atorvastatin 40 mg (ADA 2026 Bảng 10.1, KC 10.20; QĐ 5481 mục 6.2.2), lipid lại sau 4–12 tuần (KC 10.17). Giữ metformin; SGLT2i hoặc GLP-1 RA là lựa chọn khác, khởi sau khi hết cúm. Không thêm sulfonylurea (Beers 2023 Bảng 2).",
+     "Thuốc ngủ: không tăng liều, về 1 viên, giảm dần có kế hoạch cùng vệ sinh giấc ngủ/CBT-I (ESRS 2023 mục 4.5; QĐ 2058/2020 Bài 27 mục 4.3); không trực khi còn buồn ngủ. Đột quỵ: giải thích, dạy FAST; không CT; aspirin phòng tiên phát để sau (ADA 2026 KC 10.36).",
+     "Theo dõi biến chứng: khám mắt chuyên khoa (ADA 2026 KC 12.5; QĐ 2558/2022 Bảng 5), bàn chân (KC 12.23), UACR, eGFR (KC 11.1a), B12 (Bảng 4.1); vắc xin cúm hằng năm (KC 4.5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "75 mg",
+      "lieu": "75 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, sau ăn",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "Người lớn 75 mg × 2/ngày × 5 ngày (QĐ 1840/2025 mục III.2.1). Chỉ định vì cúm nhẹ có yếu tố nguy cơ (mục III.2.2). Hiệu chỉnh theo độ lọc cầu thận: không có trong tài liệu đã tải (eGFR 68)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg mỗi lần khi sốt hoặc đau, cách nhau 6–8 giờ, tối đa 4 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần, không dùng cùng thuốc cảm khác",
+      "so_ngay": "Khi cần, tối đa 5 ngày",
+      "ghi_chu": "Mỗi lần 500–1.000 mg, 1–4 lần/ngày, cách 6–8 giờ, không quá 4 g/24 giờ (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); người cao tuổi hoặc THA dưới 3 g/ngày (Phụ lục NSAID mục 3.3): chọn mức thận trọng. Bỏ hẳn viên cảm vỉ xanh. Không aspirin (QĐ 1840 mục III.2.2)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày: trước khi đi ngủ (QĐ 5481 mục 6.1.3f), với bà là sau ca trực khoảng 8 giờ sáng, hoặc lúc thuận tiện nhất (ESC 2024 Bảng khuyến cáo 16)",
+      "so_ngay": "Dùng lâu dài; đánh giá sau 2 tuần",
+      "ghi_chu": "Khởi 5 mg, duy trì 5–10 mg; tác dụng phụ phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Thay bằng perindopril 5 mg (duy trì 5–10 mg) hoặc losartan (khởi 25 mg, duy trì 100 mg) cũng đúng (QĐ 5481 mục 6.1.3d; QĐ 5904 Phần 3 mục G; ADA 2026 KC 10.8): ức chế men chuyển cần kiểm tra creatinin, kali và gây ho 1–2%. Thêm thuốc thứ hai nếu chưa đạt (ADA 2026 Hình 10.2)."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài; lipid sau 4–12 tuần",
+      "ghi_chu": "Cường độ cao 40–80 mg (ADA 2026 Bảng 10.1; KC 10.20); cường độ vừa 10–20 mg cũng chấp nhận (KC 10.18). QĐ 5904 Phần 3 mục G: atorvastatin khởi 10 mg, tối đa 80 mg. Tác dụng phụ đau cơ. Mục tiêu LDL-C < 1,8 mmol/L (ADA 2026) hoặc < 1,4 mmol/L (QĐ 5481 mục 6.2.2)."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "850 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa ăn chính, vào khoảng 18 giờ trước ca và 8 giờ sau ca",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ liều: 1–2,5 g/ngày sau ăn (QĐ 5481 Bảng 14), eGFR 68 không chỉnh (Phụ lục 01 mục 2: chống chỉ định eGFR < 30, giảm liều 30–45). Ngưng 24 giờ trước chụp cản quang hoặc phẫu thuật (Phụ lục 01 mục 2). Hướng dẫn 'ngày ốm' chi tiết: không có trong tài liệu đã tải; bà ăn uống được nên tiếp tục. Đo B12 hằng năm (ADA 2026 Bảng 4.1)."
+     },
+     {
+      "thuoc": "Diazepam",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 viên (không tăng), uống một lần trước giấc ngủ chính",
+      "duong": "Uống",
+      "thoi_diem": "Trước khi đi ngủ ban ngày; không uống cùng rượu hay thuốc cảm",
+      "so_ngay": "14 ngày, đến lúc tái khám lập kế hoạch giảm dần",
+      "ghi_chu": "Thuốc nên tránh ở người ≥ 65 tuổi (AGS Beers 2023 Bảng 2); không quá 4 tuần (ESRS 2023 mục 4.2.1). Cấp ngắn hạn để không ngưng đột ngột sau 2 năm; không cấp thêm. Lịch giảm liều cụ thể: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bỏ hẳn viên cảm vỉ xanh và viên giảm đau trắng tự mua; trước khi mua thuốc nào, hỏi lại hoặc mang vỉ thuốc đến cho bác sĩ xem. Chỉ dùng paracetamol theo đơn, tối đa 4 viên 500 mg/ngày, cách nhau 6–8 giờ (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; dưới 3 g/ngày: Phụ lục NSAID mục 3.3).",
+     "Bệnh cúm: uống đủ nước, ăn uống bình thường, đeo khẩu trang và rửa tay khi giao ca, nghỉ trực vài ngày vì bà đang lây cho đồng nghiệp và cư dân (QĐ 1840/2025 mục IV.2). Tái khám ngay hoặc gọi cấp cứu khi khó thở, thở nhanh, đau tức ngực, lơ mơ hoặc sốt trở lại (dấu hiệu cúm nặng: mục II.1.2, II.2.3).",
+     "Thuốc ngủ: chỉ uống 1 viên diazepam, không uống gấp đôi, không uống chung thuốc cảm hay rượu. Mục tiêu là giảm dần, bác sĩ sẽ cùng bà lên kế hoạch ở lần hẹn. Không trực đêm khi còn buồn ngủ nặng hoặc choáng; báo cho tổ trưởng để đổi ca.",
+     "Huyết áp: uống amlodipin 5 mg mỗi sáng sau ca, giờ cố định; phù mắt cá, đỏ mặt, hồi hộp thì báo bác sĩ. Mua máy đo HA, đo ở nhà sáng và tối, ghi sổ mang đi tái khám (ADA 2026 KC 10.2). Mục tiêu dưới 130/80 mmHg (ADA 2026 KC 10.4) hoặc dưới 140/90 mmHg (QĐ 5481 Bảng 4, 5).",
+     "Đột quỵ: huyết áp 148/88 chưa phải cấp cứu và bà không có dấu hiệu nào hôm nay. Nhớ FAST: Mặt méo, Tay yếu hoặc tê, Lời nói ngọng hoặc khó, Thời gian: có một trong ba dấu này là gọi cấp cứu 115 ngay, không chờ qua đêm, không tự uống thuốc (TL-0444 Phụ lục 4; ERC 2025 First Aid). Giảm nguy cơ thật sự bằng thuốc huyết áp, statin, kiểm soát đường huyết.",
+     "Ăn uống: bớt mì gói, cá khô kho mặn, nước chấm; thêm rau, trái cây; uống ít cà phê và trà đặc về đêm; đi bộ hoặc leo thang bộ trong giờ nghỉ, cộng dồn ít nhất 150 phút mỗi tuần (ADA 2026 KC 10.5; QĐ 5481 Phần 4 mục 5.1e).",
+     "Statin: uống đều mỗi ngày, đau cơ nhiều hoặc nước tiểu sẫm thì báo ngay. Metformin: tiếp tục sau ăn; nếu nôn, tiêu chảy, không ăn uống được thì hỏi bác sĩ về việc tạm ngưng.",
+     "Tái khám sau 2 tuần, mang sổ huyết áp và vỉ thuốc đang dùng. Lipid sau 4–12 tuần (ADA 2026 KC 10.17), HbA1c sau 3 tháng (QĐ 5481 Bảng 2). Đi khám mắt chuyên khoa trong vài tuần tới. Sau khi khỏi cúm, hỏi tiêm vắc xin cúm và phế cầu."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 2 tuần: cúm khỏi, hết ho, bà nghỉ trực 4 ngày. Huyết áp đo ở nhà 128–134/76–82 mmHg với amlodipin 5 mg, phù mắt cá nhẹ thoáng qua. Bà giảm diazepam xuống nửa viên cùng với vệ sinh giấc ngủ, sau 6 tuần ngủ được 5 giờ ban ngày. Sau 12 tuần atorvastatin 40 mg, LDL-C còn 1,6 mmol/L; HbA1c sau 3 tháng 7,1%. Bà đi khám mắt, chưa có bệnh võng mạc. Bà hết lo đột quỵ vì biết mình đang được kiểm soát huyết áp, mỡ máu và thuộc dấu hiệu FAST.",
+ "nhieu": [
+  "Tự uống thuốc 5 ngày trước khi khám: viên cảm có chlorpheniramin, paracetamol uống trùng (khoảng 3,5 g/ngày) và tự tăng gấp đôi diazepam; bà chỉ kể khi bác sĩ hỏi cụ thể từng loại thuốc tự mua.",
+  "Ho nhẹ kéo bác sĩ về chuyện 'cảm thường': thật ra là cúm A có yếu tố nguy cơ nặng (> 65 tuổi, ĐTĐ) cần xét nghiệm và cân nhắc thuốc kháng vi rút (QĐ 1840/2025 mục III.2.2)."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi riêng thuốc tự mua, thuốc ho cảm, số viên thuốc ngủ mỗi lần; thuốc cảm tổng hợp có thể chứa kháng histamin thế hệ 1 và paracetamol trùng với thuốc giảm đau (AGS Beers 2023 Bảng 2; QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+  "Bệnh nhân nói 'ho, xin thuốc' nhưng lý do thật là sợ đột quỵ: hỏi 'bà còn lo điều gì', đối chiếu số huyết áp đã đo. THA phát hiện lần này phải xác nhận (ADA 2026 KC 10.1; QĐ 5481 mục 6.1.1) rồi điều trị.",
+  "Không có dấu hiệu thần kinh thì không cần CT hay chuyển tuyến; trấn an bằng nguyên nhân thật và thuốc dự phòng, dạy FAST (TL-0444 Phụ lục 4; ERC 2025 First Aid).",
+  "Hai nguồn khác nhau không phải lúc nào cũng mâu thuẫn: HA ≥ 140/90 hai dịp thì QĐ 5481 và ADA 2026 cùng kết luận THA. Mục tiêu HbA1c, HA, LDL-C ghi cả hai cách (QĐ 5481 Bảng 4, 5; ADA 2026 KC 6.3a, Bảng 13.2).",
+  "Thuốc ngủ kéo dài ở ≥ 65 tuổi: không tăng liều, không ngưng đột ngột, lập kế hoạch giảm dần (AGS Beers 2023 Bảng 2; ESRS 2023 mục 4.2.1, 4.5)."
+ ],
+ "diem_nho": [
+  "THA ở người ĐTĐ: ADA 2026 ≥ 130/80 (≥ 2 dịp), mục tiêu < 130/80; QĐ 5481 chẩn đoán ≥ 140/90, mục tiêu < 140/90 (< 130/80 khi nguy cơ xơ vữa cao). ≥ 150/90 khởi hai thuốc (ADA 2026 KC 10.7).",
+  "ĐTĐ 40–75 tuổi có thêm yếu tố nguy cơ: statin cường độ cao (atorvastatin 40–80 mg), LDL-C < 1,8 mmol/L (ADA 2026 KC 10.20, Bảng 10.1); QĐ 5481 ≥ 3 yếu tố nguy cơ chính: < 1,4 mmol/L.",
+  "HbA1c người cao tuổi còn khỏe: < 7,5% (QĐ 5481 Bảng 5); 7,0–7,5% (ADA 2026 Bảng 13.2); < 7% nhiều người lớn (KC 6.3a). Kiểm tra mỗi 3 tháng khi chưa đạt hoặc đổi thuốc (QĐ 5481 Bảng 2).",
+  "Cúm nhẹ có yếu tố nguy cơ nặng (> 65 tuổi, tiểu đường): oseltamivir 75 mg × 2 × 5 ngày; không kháng sinh, không aspirin (QĐ 1840/2025 mục III.2.1–III.2.2).",
+  "Hằng năm: UACR, eGFR (ADA 2026 KC 11.1a), bàn chân (KC 12.23), mắt (KC 12.5), B12 nếu metformin > 5 năm (Bảng 4.1).",
+  "Beers 2023 Bảng 2: tránh benzodiazepin, kháng histamin thế hệ 1, sulfonylurea (làm thuốc đầu hay thứ hai) ở ≥ 65 tuổi. Paracetamol dưới 3 g/ngày ở người cao tuổi hoặc THA (QĐ 361/2014)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 (TL-0031) – ĐÃ ĐỌC Phần 2 (mục 2.4, Bảng 1); Phần 3 (mục 2.3, Bảng 2); Phần 4 (Bảng 4, 5; mục 2, 3, 4.1j, 4.2, 5.1e, 6.1.1–6.1.3, 6.2.1–6.2.2); Phụ lục 01 mục 2 (metformin), Bảng 14.",
+  "ADA Standards of Care 2026 (TL-0296; mục 2: TL-0674; mục 12: TL-0446) – ĐÃ ĐỌC mục 2 (Hình 2.1), 3 (B12 và metformin), 4 (KC 4.5, 4.11, Bảng 4.1, tiêm chủng), 6 (KC 6.3a, 6.4–6.6, Bảng 6.3), 9 (KC 9.7, 9.15, Bảng 9.2, Hình 9.4), 10 (KC 10.1–10.8, 10.10, 10.11, 10.14–10.20, 10.36, Bảng 10.1, Hình 10.2), 11 (KC 11.1a), 12 (KC 12.4, 12.5, 12.17, 12.23), 13 (Bảng 13.2). KC = khuyến cáo.",
+  "Bộ Y tế – QĐ 5904/2019 (TL-0284) Phần 1 Bước 3; Phần 2 Bước 5; Phần 3 Bước 2, 3 (mục D), 4, 5, mục G; QĐ 1840/2025 cúm mùa (TL-0122) mục II.1–II.2, III.2.1–III.2.3, IV; QĐ 361/2014 (TL-0286) Phụ lục NSAID mục 3.3 và Phụ lục thuốc giảm đau mục 3.1; QĐ 2558/2022 võng mạc ĐTĐ (TL-0543) Bảng 4, 5; QĐ 2058/2020 (TL-0443) Bài 27 mục 4.3; TL-0444 phục hồi chức năng đột quỵ, Phụ lục 4 (FAST).",
+  "AGS Beers 2023 (TL-0022) Bảng 2 – kháng histamin thế hệ 1, benzodiazepin, sulfonylurea; ESRS 2023 mất ngủ (TL-0464) mục 4.2.1, 4.5; ESC 2024 tăng huyết áp (TL-0305) Bảng khuyến cáo 16; ERC 2025 First Aid (TL-0143); AHA/ACC 2025 tăng huyết áp (TL-0297) Bảng 11."
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết 2026-11-07. Tài liệu đã đọc: TL-0031, TL-0296 (chương 6, 9, 10, 11; mục 3, 4, 13), TL-0674, TL-0446, TL-0284, TL-0122, TL-0022, TL-0464, TL-0543, TL-0444, TL-0143, TL-0305 (vị trí ở trường nguon).",
+  "Áp dụng sổ mâu thuẫn: HbA1c người cao tuổi (MT-0335), HA (MT-0333, MT-0741), LDL-C và statin (MT-0333, MT-0439), paracetamol tối đa (TH-0295), giờ uống thuốc hạ áp (MT-0741), thuốc ngủ ≥ 65 tuổi (TT-0161), aspirin khi cúm (HH-0084).",
+  "Chỗ thiếu tài liệu: mốc thời gian tối đa bắt đầu oseltamivir; hiệu chỉnh oseltamivir theo độ lọc cầu thận; lịch giảm diazepam cụ thể; thuốc ngủ thay thế cho người trực đêm; ảnh hưởng caffein ban đêm và giấc ngủ; quy tắc 'ngày ốm' chi tiết cho metformin; thời điểm kiểm kali, creatinin sau khi khởi ức chế men chuyển; lịch tiêm vắc xin cúm, phế cầu ở Việt Nam; số ngày nghỉ và giấy nghỉ ốm cho người đã quá tuổi nghỉ hưu."
+ ]
+}

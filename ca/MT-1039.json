@@ -1,0 +1,917 @@
+{
+ "ma_ca": "MT-1039",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-11-08, soát nguồn với bản chữ trong kho",
+ "benh": "MT_tha_thu_phat_phat_hien",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "THA thứ phát (phát hiện)",
+  "chan_doan_phai_loai_tru": [
+   "Cường aldosteron",
+   "Hẹp ĐM thận",
+   "U tủy thượng thận"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Tạ Thị Hồng Thắm",
+  "tuoi": 49,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn nhà (sơn tường, trần; làm trên giàn giáo thấp)",
+  "can_nang": 54,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'chị'. Chị tự xưng 'tôi' hoặc 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Làm nghề tay chân gần 25 năm, nói gọn, thực tế, ngại làm phiền. Lo mất việc nên hay nói 'không sao đâu bác sĩ'. Ít hiểu biết y khoa: gọi huyết áp là 'áp huyết', gọi thuốc giảm đau mua ở tiệm là 'thuốc giảm đau' chứ không coi là 'thuốc'.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: khi được hỏi chung chung 'đang uống thuốc gì' chị chỉ kể thuốc có đơn (warfarin, meloxicam). Thuốc giảm đau mua ngoài tiệm chị không coi là thuốc nên chỉ khai khi bác sĩ hỏi cụ thể 'có mua thêm thuốc giảm đau nào không', 'hôm nay uống mấy viên', hoặc nhờ chị đưa xem bao thuốc.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99572",
+   "toc": "#2a1d18",
+   "kieuToc": "bui",
+   "ao": "#6f8fa8",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nặng đầu, mỏi gáy mấy hôm nay, đo huyết áp ở nhà thuốc thấy cao",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 49 tuổi, thợ sơn nhà, đến khám vì nặng đầu vùng gáy mấy hôm nay; hôm qua đo ở nhà thuốc thấy 178/106 mmHg. Chị đang dùng warfarin theo hẹn ở bệnh viện tỉnh. Sinh hiệu lúc tiếp đón: HA 176/104 mmHg, mạch 84 l/p không đều, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Thắm nhập viện để hạ áp dù HA 176/104 mmHg, không đau ngực, không nhìn mờ, không dấu thần kinh, nên không có tổn thương cơ quan đích cấp; THA nặng không tổn thương cấp được chỉnh bằng thuốc uống ngoại trú, không hạ áp mạnh (AHA/ACC 2025 mục 6.2). Chị mất vài ngày công, trong khi hai thuốc giảm đau chưa ai hỏi ra nên ra viện HA dễ lên lại.",
+    "chuyen_tuyen": "Chị Thắm được chuyển lên tuyến trên ngay hôm nay để tìm THA thứ phát. Hướng này không sai khi nghi thứ phát (QĐ 5904 Phần 1 Bước 4 mục A.1), nhưng nguyên nhân đã tìm thấy và ngưng được tại chỗ, và protein niệu cần lặp lại sau ngưng NSAID trước khi quyết định (KDIGO 2024 Practice Point 1.1.1.2). Chị mất một ngày công và tiền xe, tuyến trên phải hỏi lại từ đầu, chị dễ ngại tái khám.",
+    "cap_cuu": "Chị Thắm bị chuyển cấp cứu như một cơn THA cấp cứu, trong khi HA 176/104 mmHg thấp hơn 180/110 và không có tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1). Nguy cơ là hạ áp nhanh, dùng thuốc tiêm không cần thiết (AHA/ACC 2025 mục 6.2) và vẫn dùng NSAID sau khi về vì chưa ai nói tới."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy hôm nay tôi nặng đầu, mỏi gáy, nhà thuốc đo nói áp huyết cao nên ghé khám. Chắc tại hít mùi sơn thôi bác sĩ, không có gì đâu.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "176/104",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nặng đầu vùng gáy, mỏi gáy 4–5 hôm nay, nặng hơn buổi sáng. Hôm qua ghé nhà thuốc đo thấy 178/106, người bán bảo đi khám. Không nhìn mờ, không yếu liệt, không đau ngực.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, HA đo ở nhà thuốc"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Công ty nhận thầu sơn đòi giấy chứng nhận sức khỏe mới cho làm tiếp trên giàn giáo, hạn nộp thứ Sáu tuần này. Chị sợ khám ra bệnh thì mất việc nên chỉ nói đau đầu, mỏi gáy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao hôm nay mới đi khám, đang cần giấy tờ gì, công việc có bị ảnh hưởng không, hoặc chị đang lo điều gì nhất.",
+     "k": 1,
+     "y": "Lý do thật: xin giấy chứng nhận sức khỏe, sợ mất việc"
+    },
+    {
+     "id": "nsaid_tu_mua",
+     "noi_dung": "Năm hôm nay vai phải đau dữ mỗi khi sơn trần, chị ra tiệm thuốc mua diclofenac 50 mg, uống 2 viên mỗi ngày (sáng, tối), vẫn uống cả meloxicam bác sĩ cho. Hôm nay đã uống 1 viên lúc sáng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể warfarin và meloxicam. Chỉ kể diclofenac khi bác sĩ hỏi cụ thể thuốc giảm đau mua ngoài, đã uống thêm viên nào cho đau vai chưa, mỗi ngày mấy viên, hoặc xin xem bao thuốc.",
+     "k": 1,
+     "y": "Thuốc tự mua trước 5 ngày: diclofenac (NSAID thứ hai)"
+    },
+    {
+     "id": "doi_thuoc",
+     "noi_dung": "Khoảng sáu tuần trước phòng khám cơ xương khớp tư nhân đổi thuốc đau vai từ paracetamol sang meloxicam 7,5 mg, 1 viên mỗi ngày, hai tuần sau tăng lên 2 viên mỗi ngày vì còn đau. Đến nay vẫn uống đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đổi thuốc điều trị (yếu tố khởi phát): paracetamol sang NSAID"
+    },
+    {
+     "id": "ha_cu",
+     "noi_dung": "Mỗi lần tái khám INR ở bệnh viện tỉnh đều có đo huyết áp, chị còn giữ trong sổ: lần gần nhất cách đây khoảng hai tháng là 126/78, trước đó 124/76. Chưa từng được nói cao huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA nền bình thường trước đổi thuốc"
+    },
+    {
+     "id": "benh_tim",
+     "noi_dung": "Thấp tim từ nhỏ. Năm 2022 bệnh viện tỉnh phát hiện hẹp van hai lá kèm rung nhĩ, cho warfarin từ đó. Chưa mổ. Hiện uống warfarin 3 mg (1 viên) mỗi tối, đi thử INR hai tháng một lần vì INR ổn, lần gần nhất cách đây khoảng hai tháng được báo 'đạt'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền và lý do dùng warfarin"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không đi cầu phân đen, không nôn ra máu, không chảy máu chân răng hay máu cam, không bầm tím. Không đau thượng vị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc chảy máu khi dùng NSAID cùng warfarin"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Khoảng hai tháng nay nước tiểu có bọt lăn tăn nhiều hơn trước, chị nghĩ do uống ít nước. Không đỏ, không buốt, không tiểu đêm nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nước tiểu có bọt (gợi ý protein niệu)"
+    },
+    {
+     "id": "phu",
+     "noi_dung": "Mấy hôm nay chiều chiều hai mắt cá hơi sưng, sáng ra bớt. Chị tưởng do đứng nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phù chân"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Không có cơn đau đầu dữ dội kèm vã mồ hôi và hồi hộp từng đợt, không run tay, không yếu cơ, không chuột rút. Ngủ ngon, không ngáy to, không ngưng thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc u tủy thượng thận, cường aldosteron, ngưng thở khi ngủ"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không uống thuốc nam, thuốc bắc, cam thảo, thuốc cảm có chất co mạch, thuốc tránh thai. Kinh thưa, hai tháng một lần, đã đặt vòng tránh thai năm năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ thuốc, chất khác gây tăng HA; tình trạng kinh nguyệt"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Cha mẹ, anh chị em không ai bị cao huyết áp trẻ, đột quỵ sớm hay bệnh thận. Chị không đái tháo đường, không hút thuốc, không uống rượu bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình, yếu tố nguy cơ"
+    },
+    {
+     "id": "muoi",
+     "noi_dung": "Ăn cơm hàng gần công trình, hay chấm mắm, canh nào cũng húp hết nước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn mặn"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Sơn nhà dân gần 25 năm, chủ yếu sơn nước, đôi khi sơn dầu; cạo sơn cũ, bả tường nhiều, đeo khẩu trang vải. Làm trên giàn giáo 3–4 mét, hay ngửa tay lăn sơn trần nên đau vai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phơi nhiễm nghề: bụi sơn cũ, dung môi; tư thế gây đau vai"
+    },
+    {
+     "id": "mui_son",
+     "noi_dung": "Chị nghĩ nặng đầu là do hít mùi sơn, vì hôm làm trong phòng kín thì nặng hơn. Đồng nghiệp cùng làm không ai bị.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "dau_vai",
+     "noi_dung": "Đau vai phải âm ỉ, đau nhiều khi giơ tay quá đầu, nằm đè lên thì đau. Không té ngã, không tê tay, không đau lan xuống ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau vai"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Đo bằng máy bắp tay của phòng khám: tay phải 176/104, tay trái 172/102 mmHg. Hai tay chênh dưới 10 mmHg. Đo lại sau nghỉ 5 phút: 174/102 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi lo. BMI 23,4. Không mặt tròn, không rạn da tím, không rậm lông. Da sạm nắng ở cổ, cánh tay.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không phù mi, tuyến giáp không to, tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn, tần số khoảng 84 l/p. T1 đanh ở mỏm, rùng tâm trương nhẹ ở mỏm, T2 rõ. Không T3.",
+     "k": 1,
+     "hien": "Tim loạn nhịp không đều, tần số khoảng 84 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không âm thổi cạnh rốn hai bên, không sờ thấy thận to hay khối.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay không đều. Mạch bẹn, mạch mu chân bắt được hai bên. Không âm thổi động mạch cảnh.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Phù mềm nhẹ hai mắt cá, ấn lõm ít. Không giãn tĩnh mạch.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không bầm tím, không chấm xuất huyết, không đốm xuất huyết ở cẳng chân.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Vai phải đau khi dạng tay trên 90° và khi xoay trong; không sưng nóng đỏ. Cột sống cổ không đau chói, không tê lan.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 7,9 mmol/L · Creatinin 120 µmol/L · eGFR 48 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 7.9,
+      "creat": 120,
+      "egfr": 48
+     },
+     "n": "eGFR 45–59 là G3a (KDIGO 2024 Bảng 2). Chưa gọi bệnh thận mạn vì cần tồn tại ≥ 3 tháng (KDIGO 2024 Bảng 1) và hai NSAID có thể làm giảm GFR (KDIGO 2024 Bảng 31). Creatinin nền: không có."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,6 · Cl 104 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.6,
+      "cl": 104
+     },
+     "n": "Kali bình thường, không gợi ý cường aldosteron (AHA/ACC 2025 Bảng 10, mục 3.2.3.1)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 124 g/L · BC 7,2 G/L · TC 238 G/L",
+     "n": "Hb bình thường: không gợi ý chảy máu tiêu hóa ẩn do NSAID cùng warfarin (ESC AF 2024 mục 6.7.1)."
+    },
+    "inr": {
+     "v": "e",
+     "r": "INR 2,6",
+     "n": "Trong khoảng đích 2,0–3,0 của người dùng thuốc kháng vitamin K (ESC AF 2024 Bảng khuyến cáo 7, I, B). Khoảng cách giữa các lần kiểm INR sau khi thêm NSAID: không có trong tài liệu đã tải."
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,014 · Protein 2+ · Hồng cầu 1+ · Bạch cầu, nitrit, glucose âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.014,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "2+",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Âm tính",
+      "u_ery": "1+"
+     },
+     "n": "Protein và hồng cầu niệu gợi ý bệnh thận nhu mô (AHA/ACC 2025 Bảng 10; ESC 2024 Bảng 13)."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "340 mg/g",
+     "ab": 1,
+     "n": "Trên 300 mg/g là A3 (KDIGO 2024 Bảng 3; QĐ 2388/2024 Bảng 8). NSAID cũng gây protein niệu (KDIGO 2024 Bảng 31), nên phải lặp lại sau ngưng thuốc (Practice Point 1.1.1.2)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "5,2 mmol/L"
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 5,4 · LDL-C 3,3 · HDL-C 1,3 · TG 1,6 mmol/L"
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Rung nhĩ đáp ứng thất khoảng 84 l/p. Sokolow-Lyon 22 mm. Không ST chênh, không sóng Q.",
+     "ab": 1,
+     "n": "Sokolow-Lyon không vượt 35 mm: chưa có dày thất trái trên điện tim (VSH/VNHA 2024 Bảng 11; ESC 2024 Hình 12)."
+    },
+    "echo": {
+     "v": "u",
+     "r": "Hẹp van hai lá thấp tim, diện tích van 1,4 cm², nhĩ trái 46 mm. Vách liên thất 9 mm, EF 62%, không dày thất trái.",
+     "ab": 1,
+     "n": "Hẹp hai lá vừa–nặng: dùng kháng vitamin K, không đổi sang DOAC (ESC AF 2024 Bảng khuyến cáo 7). Ngưỡng diện tích van phân độ hẹp: không có trong tài liệu đã tải. Không dày thất trái."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Thận phải 102 × 46 mm, thận trái 100 × 45 mm, đối xứng. Nhu mô hai thận tăng echo nhẹ, ranh giới vỏ–tủy giảm rõ. Không sỏi, không ứ nước, không nang. Không thấy khối vùng thượng thận hai bên.",
+     "ab": 1,
+     "n": "Siêu âm thận nằm trong bộ tìm bệnh thận nhu mô (ESC 2024 Bảng 13; AHA/ACC 2025 Bảng 10). Hai thận cân xứng: không gợi ý hẹp động mạch thận một bên (ESC PAD 2024 Bảng 13)."
+    },
+    "doppler_than": {
+     "v": "u",
+     "r": "PSV động mạch thận phải 92 cm/s, trái 88 cm/s. Tỷ số renal–aortic 1,1. Chỉ số kháng lực trong thận 0,66 hai bên, chênh 0,02.",
+     "ab": 1,
+     "n": "Nghi hẹp trên 50% khi PSV ≥ 200 cm/s, RAR > 3,5 hoặc chênh chỉ số kháng lực ≥ 0,5 (ESC PAD 2024 mục 8.3.2.1.3): không đạt, loại được mà không cần CT."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Aldosteron 9 ng/dL · Hoạt tính renin 2,4 ng/mL/giờ · ARR 3,8 (âm tính)",
+     "n": "Làm hay không đều không trừ điểm: ESC 2024 Bảng khuyến cáo 13 (IIa) và Endocrine Society 2025 gợi ý tầm soát mọi người THA; AHA/ACC 2025 mục 3.2.3.1 bắt buộc khi kháng trị, hạ kali. Âm tính: renin ≥ 1 ng/mL/giờ, ARR < 30 (AHA/ACC 2025 mục 3.2.3.1). NSAID làm ARR dương tính giả (ESC 2024 Bảng 12) nên kết quả âm tính đáng tin."
+    },
+    "chi_mau": {
+     "v": "a",
+     "r": "Chì máu 6 µg/dL",
+     "n": "Dưới 10 µg/dL là bình thường, ngộ độc chì khi trên 10 µg/dL (QĐ 3610/2015, Ngộ độc chì, mục 1 và 3.2). Làm vì nghề thợ sơn; không phải nguyên nhân ở chị."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,8 mIU/L",
+     "n": "Thường quy theo ESC 2024 Bảng 8, AHA/ACC 2025 Bảng 6; QĐ 5904 Phần 1 Bước 2 không liệt kê. Làm hay không đều không trừ điểm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp độ 2 mới phát hiện (176/104 mmHg), thứ phát do thuốc: hai NSAID (meloxicam 6 tuần, diclofenac tự mua 5 ngày); kèm tổn thương thận chưa phân loại (eGFR 48, UACR 340 mg/g, protein 2+, hồng cầu 1+), chưa đủ 3 tháng để gọi là bệnh thận mạn",
+     "ok": 1,
+     "n": "HA nền 126/78 mmHg hai tháng trước, tăng sau đổi sang NSAID rồi thêm NSAID thứ hai (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 10, 11). Độ 2 là 160–179/100–109 mmHg (QĐ 5904 Phần 1 Bước 3A). Bất thường nước tiểu và UACR cần tìm bệnh thận nhu mô (ESC 2024 Bảng 13); KDIGO 2024 Bảng 1 đòi 3 tháng, Practice Point 1.1.1.2 đòi lặp lại xét nghiệm."
+    },
+    {
+     "t": "Tăng huyết áp nguyên phát",
+     "n": "HA 124–126/76–78 mmHg trước đây, tăng rõ sau đổi thuốc; có protein niệu và hồng cầu niệu, nên chưa nghĩ nguyên phát (AHA/ACC 2025 Bảng 10)."
+    },
+    {
+     "t": "Cường aldosteron nguyên phát",
+     "n": "K 4,6 mmol/L, ARR 3,8, không yếu cơ hay chuột rút, không THA kháng trị (AHA/ACC 2025 mục 3.2.3.1)."
+    },
+    {
+     "t": "Hẹp động mạch thận",
+     "n": "Hai thận cân xứng; Doppler PSV 92 và 88 cm/s, RAR 1,1, dưới ngưỡng 200 cm/s và 3,5 (ESC PAD 2024 mục 8.3.2.1.3); không âm thổi bụng, không phù phổi cấp."
+    },
+    {
+     "t": "U tủy thượng thận",
+     "n": "Không có cơn đau đầu–vã mồ hôi–hồi hộp từng đợt, không u thượng thận tình cờ, không tiền sử gia đình (Endocrine Society 2014 Bảng 1). Cơ sở không có xét nghiệm metanephrin; nghĩ lại nếu có cơn hoặc THA kháng trị."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA 176/104 mmHg dưới 180/110, không đau ngực, không nhìn mờ, không dấu thần kinh, không phù gai thị (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1)."
+    },
+    {
+     "t": "Chảy máu tiêu hóa ẩn do NSAID cùng warfarin",
+     "n": "Hb 124 g/L, không phân đen, không đau thượng vị, INR 2,6 trong đích (ESC AF 2024 mục 6.7.1)."
+    },
+    {
+     "t": "Nhiễm độc chì nghề nghiệp",
+     "n": "Chì máu 6 µg/dL, dưới ngưỡng 10 µg/dL (QĐ 3610/2015, Ngộ độc chì, mục 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng ngay cả meloxicam và diclofenac; giảm đau bằng paracetamol 0,5 g × 2–4 viên/24 giờ, tối đa dưới 3 g/ngày hoặc dưới 4 g/ngày",
+     "v": "c",
+     "n": "NSAID tăng HA phụ thuộc liều, giảm tác dụng thuốc hạ áp (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11, 17); tránh khi THA, bệnh gan thận (QĐ 361/2014, phụ lục NSAID bảng nguy cơ cao), bệnh thận (QĐ 2388/2024 mục 7.4.2; KDIGO 2024 Bảng 31) và khi dùng warfarin (ESC AF 2024 Hình 9). Paracetamol 0,5 g × 2–4 viên/24 giờ (QĐ 361/2014, Viêm quanh khớp vai mục 4.2.1); trần dưới 3 g/ngày (QĐ 361/2014) hoặc dưới 4 g/ngày (AHA/ACC 2025 Bảng 11), 3 g thận trọng hơn. Tương tác paracetamol–warfarin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ áp: khởi amlodipin 5 mg mỗi ngày, chưa thêm ức chế men chuyển hoặc chẹn thụ thể cho tới khi biết creatinin sau ngưng NSAID, HOẶC chưa kê thuốc hạ áp, ngưng NSAID rồi đo HA tại nhà 3–7 ngày và quyết định trong 2 tuần",
+     "v": "c",
+     "n": "Cách 1: THA độ 2 cần thuốc (QĐ 5904 Phần 1 mục C; VSH/VNHA 2024 Bảng 4); amlodipin khởi đầu 5 mg, duy trì 5–10 mg (QĐ 5904 Phần 3 mục G). Cách 2: xác nhận HA ngoài phòng khám trong 1 tuần đến 1 tháng trước khi khởi thuốc (ESC 2024 mục 5.3.2, Bảng khuyến cáo 6). Cả hai đều đúng. Hoãn ức chế men chuyển/chẹn thụ thể vì cùng NSAID có nguy cơ tổn thương thận cấp (AHA/ACC 2025 Bảng 17) và suy thận mới sau nhóm thuốc này gợi ý hẹp động mạch thận (ESC PAD 2024 Bảng 13); vì vậy đơn trị ở đây không bị chấm w như MT-0058."
+    },
+    {
+     "t": "Tiếp tục warfarin liều cũ, không tự ngưng, không đổi sang DOAC; báo bệnh viện tỉnh biết chị đã dùng hai NSAID để chỉnh lịch kiểm INR",
+     "v": "c",
+     "n": "Hẹp hai lá vừa–nặng: dùng kháng vitamin K, INR đích 2,0–3,0, không dùng DOAC (ESC AF 2024 Bảng khuyến cáo 7). Yếu tố nguy cơ chảy máu hiếm khi là lý do ngưng chống đông vì nguy cơ đột quỵ thường lớn hơn (ESC AF 2024 mục 6.7.1). Tần suất kiểm INR sau tương tác: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần: đo HA, làm lại creatinin, kali, tổng phân tích nước tiểu và UACR để xác nhận",
+     "v": "c",
+     "n": "Lặp lại xét nghiệm để xác nhận tổn thương thận (KDIGO 2024 Practice Point 1.1.1.2). Nguyên nhân ngoại sinh ngưng được thì hẹn lại 2–4 tuần rồi mới chuyển nếu còn nghi (sổ mâu thuẫn, ca MT-0042); tái khám 2–4 tuần (VSH/VNHA 2024 Đ4.1)."
+    },
+    {
+     "t": "Giấy chứng nhận sức khỏe: hôm nay không cấp 'sức khỏe bình thường'; giải thích khám bệnh khác khám sức khỏe cấp giấy; ghi trung thực THA mới phát hiện, hẹp hai lá, rung nhĩ đang dùng warfarin; hẹn hoàn thiện khi HA ổn",
+     "v": "c",
+     "n": "Khám bệnh ngoại trú không phải khám sức khỏe cấp giấy (TT 32/2023 Điều 30 khoản 2a); khám không đủ chuyên khoa theo mẫu thì không phân loại sức khỏe (Điều 32 khoản 3). Mẫu giấy người từ đủ 18 tuổi có mục tiền sử THA, bệnh tim, bệnh thận, thuốc đang dùng (TT 25/2026 Phụ lục XXIV Mẫu số 03). Cách cấp giấy khi phát hiện bệnh mới và tiêu chuẩn sức khỏe làm việc trên cao: không có trong tài liệu đã tải; suy từ mẫu giấy (ca MT-1033)."
+    },
+    {
+     "t": "Hỏi ra nỗi lo mất việc, giải thích HA cao điều trị được, thuốc giảm đau là nguyên nhân có thể sửa",
+     "v": "c",
+     "n": "Trả lời đúng lý do thật thì chị mới chịu khai thuốc mua ngoài và tái khám; nếu không chị dễ giấu bệnh."
+    },
+    {
+     "t": "Giảm muối dưới 5 g/ngày; đo HA tại nhà bằng máy bắp tay",
+     "v": "c",
+     "n": "QĐ 5904 Phụ lục 3.2 (dưới 5 g muối/ngày); ESC 2024 Bảng khuyến cáo 15 và 35."
+    },
+    {
+     "t": "Khởi phối hợp đôi perindopril 5 mg + amlodipin 5 mg ngay hôm nay",
+     "v": "a",
+     "n": "THA độ 2 bắt đầu từ phối hợp 2 thuốc (QĐ 5904 Phần 1 mục C). Chấp nhận, nhưng eGFR 48 và đang dùng NSAID thì hoãn ức chế men chuyển an toàn hơn (AHA/ACC 2025 Bảng 17)."
+    },
+    {
+     "t": "Chuyển chuyên khoa nội tiết hoặc thận ngay để tìm THA thứ phát",
+     "v": "a",
+     "n": "QĐ 5904 Phần 1 Bước 4 mục A.1 chuyển khi nghi THA thứ phát. Nguyên nhân ngoại sinh ngưng được tại chỗ nên hẹn lại 2 tuần là đáp án chính; chuyển ngay không sai (ca MT-0042)."
+    },
+    {
+     "t": "Tiếp tục meloxicam, chỉ bỏ diclofenac",
+     "v": "w",
+     "n": "Meloxicam cũng là NSAID: tăng HA, hại thận, và cần tránh khi dùng warfarin (ESH 2023 Bảng 20; KDIGO 2024 Bảng 31; ESC AF 2024 Hình 9)."
+    },
+    {
+     "t": "Đổi warfarin sang DOAC để đỡ phải thử INR hay sợ chảy máu cùng NSAID",
+     "v": "w",
+     "n": "DOAC tránh dùng ở hẹp hai lá vừa–nặng; khuyến cáo ưu tiên DOAC không áp dụng cho nhóm này (ESC AF 2024 Bảng khuyến cáo 7, I, A)."
+    },
+    {
+     "t": "Ngưng warfarin vài ngày cho an toàn vì sợ chảy máu",
+     "v": "w",
+     "n": "Yếu tố nguy cơ chảy máu hiếm khi là lý do ngưng chống đông; nguy cơ đột quỵ khi không chống đông thường lớn hơn (ESC AF 2024 mục 6.7.1). INR 2,6, không chảy máu."
+    },
+    {
+     "t": "Cấp giấy 'sức khỏe bình thường' để chị kịp nộp thứ Sáu",
+     "v": "w",
+     "n": "Trái sự thật: đã có THA mới phát hiện, tổn thương thận chưa rõ, rung nhĩ; mẫu giấy yêu cầu ghi bệnh, tật (TT 25/2026 Phụ lục XXIV Mẫu số 03; TT 32/2023 Điều 30 khoản 2a, Điều 32 khoản 3)."
+    },
+    {
+     "t": "Cho ngậm nifedipin tác dụng nhanh để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát; ESH 2023 mục 16.2 cũng vậy."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp độ 2 mới phát hiện, HA 176/104 mmHg; thứ phát do thuốc: hai NSAID (meloxicam 6 tuần, diclofenac tự mua 5 ngày)",
+     "Tổn thương thận chưa phân loại: eGFR 48 mL/ph/1,73m², UACR 340 mg/g, protein niệu 2+, hồng cầu niệu 1+; chưa đủ 3 tháng để gọi là bệnh thận mạn; nghi bệnh thận nhu mô có sẵn cộng ảnh hưởng của NSAID",
+     "Rung nhĩ trên nền hẹp van hai lá thấp tim, đang dùng warfarin, INR 2,6 (trong đích); chưa có dấu hiệu chảy máu",
+     "Đau vai phải do tư thế làm việc (đau vai đơn thuần), cần giảm đau không dùng NSAID",
+     "Chưa có tổn thương cơ quan đích ở tim (Sokolow-Lyon 22 mm, không dày thất trái)",
+     "Đã loại trừ: cường aldosteron, hẹp động mạch thận, u tủy thượng thận, cơn THA cấp cứu, nhiễm độc chì"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao nghĩ thứ phát do thuốc: HA 126/78 mmHg hai tháng trước (sổ INR), tăng sau khi đổi paracetamol sang meloxicam rồi thêm diclofenac tự mua (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 10, 11, 17). Diclofenac chỉ lộ ra khi hỏi cụ thể thuốc giảm đau mua ngoài.",
+     "Vì sao không dừng ở 'do thuốc': creatinin 120 µmol/L, protein niệu 2+, hồng cầu niệu 1+, UACR 340 mg/g là manh mối bệnh thận nhu mô (ESC 2024 Bảng 13; AHA/ACC 2025 Bảng 10). NSAID cũng gây giảm GFR và protein niệu (KDIGO 2024 Bảng 31), nên chưa gọi bệnh thận mạn: cần ≥ 3 tháng (KDIGO 2024 Bảng 1) và phải lặp lại xét nghiệm (Practice Point 1.1.1.2).",
+     "Vì sao loại cường aldosteron: K 4,6 mmol/L, ARR 3,8 nếu làm, không yếu cơ hay chuột rút, HA không kháng trị (AHA/ACC 2025 mục 3.2.3.1; ESC 2024 Bảng khuyến cáo 13).",
+     "Vì sao loại hẹp động mạch thận không cần CT: hai thận cân xứng; Doppler PSV 92 và 88 cm/s, RAR 1,1, chênh chỉ số kháng lực 0,02, đều dưới ngưỡng PSV ≥ 200 cm/s, RAR > 3,5, chênh ≥ 0,5 (ESC PAD 2024 mục 8.3.2.1.3).",
+     "Vì sao loại u tủy thượng thận: không có cơn đau đầu–vã mồ hôi–hồi hộp từng đợt, không u thượng thận tình cờ, không tiền sử gia đình (Endocrine Society 2014 Bảng 1). Cơ sở không có metanephrin.",
+     "Vì sao hỏi chì: nghề sơn là nguồn phơi nhiễm chì (QĐ 3610/2015, Ngộ độc chì, mục 2; QĐ 2388/2024 mục 2.2.2); chì máu 6 µg/dL dưới 10 µg/dL nên không phải nguyên nhân (mục 1, 3.2).",
+     "Vì sao không phải cấp cứu: HA 176/104 mmHg dưới 180/110, không tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2).",
+     "Lý do thật đến khám là xin giấy chứng nhận sức khỏe, nên chị che bớt thuốc tự mua vì sợ không được cấp giấy. Hỏi ra lý do này thì chị mới chịu nói."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng cả hai NSAID là việc quan trọng nhất: tiếp tục thì cùng lúc tăng HA, hại thận và tăng nguy cơ chảy máu khi dùng warfarin (ESH 2023 Bảng 20; KDIGO 2024 Bảng 31; ESC AF 2024 Hình 9). Thay bằng paracetamol 0,5 g × 2–4 viên/24 giờ (QĐ 361/2014, Viêm quanh khớp vai mục 4.2.1); trần dưới 3 g/ngày (QĐ 361/2014) hoặc dưới 4 g/ngày (AHA/ACC 2025 Bảng 11).",
+     "Thuốc hạ áp: amlodipin 5 mg ngay (QĐ 5904 Phần 3 mục G) hoặc chưa kê, đo HA tại nhà rồi quyết định trong 2 tuần (ESC 2024 mục 5.3.2); cả hai đều đúng. Chưa thêm ức chế men chuyển/chẹn thụ thể khi chưa biết creatinin sau ngưng NSAID (AHA/ACC 2025 Bảng 17). Phối hợp perindopril + amlodipin ngay chấp nhận được nhưng kém thận trọng.",
+     "Warfarin: giữ nguyên, không đổi DOAC vì hẹp hai lá vừa–nặng (ESC AF 2024 Bảng khuyến cáo 7); INR đích 2,0–3,0. Việc cần làm là bỏ NSAID, không bỏ chống đông (ESC AF 2024 mục 6.7.1).",
+     "Hẹn tái khám 2 tuần với creatinin, kali, nước tiểu và UACR: xem HA có xuống không và protein niệu có còn không (KDIGO 2024 Practice Point 1.1.1.2; VSH/VNHA 2024 Đ4.1). Chuyển tuyến ngay cũng chấp nhận được (QĐ 5904 Phần 1 Bước 4 mục A.1) nhưng chưa cần.",
+     "Giấy chứng nhận sức khỏe: không cấp 'bình thường' trong buổi khám bệnh (TT 32/2023 Điều 30 khoản 2a, Điều 32 khoản 3; TT 25/2026 Phụ lục XXIV Mẫu số 03); hẹn hoàn thiện khi HA ổn.",
+     "Không dùng nifedipin ngậm dưới lưỡi; không chuyển cấp cứu hay nhập viện chỉ vì con số 176/104 (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, giờ cố định mỗi ngày",
+      "so_ngay": "Tái khám sau 2 tuần rồi quyết định tiếp",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Có thể chưa kê, đo HA tại nhà 3–7 ngày rồi quyết định (ESC 2024 mục 5.3.2)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "0,5 g",
+      "lieu": "0,5 g × 2–4 viên/24 giờ, mỗi lần 1 viên cách nhau ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau vai, sau ăn",
+      "so_ngay": "Đến khi vai đỡ; không quá 3 g/ngày",
+      "ghi_chu": "QĐ 361/2014, Viêm quanh khớp vai mục 4.2.1. Trần dưới 3 g/ngày (QĐ 361/2014 bảng nguy cơ cao) hoặc dưới 4 g/ngày (AHA/ACC 2025 Bảng 11), 3 g thận trọng hơn. Tương tác với warfarin: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Warfarin (đang dùng)",
+      "ham_luong": "3 mg",
+      "lieu": "3 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, giờ cố định",
+      "so_ngay": "Giữ nguyên liều đang dùng, kiểm INR theo hẹn ở bệnh viện tỉnh",
+      "ghi_chu": "Giữ nguyên, INR đích 2,0–3,0 (ESC AF 2024 Bảng khuyến cáo 7). Không dùng thêm NSAID hay aspirin tự mua (ESC AF 2024 Hình 9, 10)."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn meloxicam và diclofenac, và mọi thuốc giảm đau nhóm NSAID mua ngoài tiệm (ibuprofen, naproxen, piroxicam…); đau vai chỉ dùng paracetamol theo đơn (ESC AF 2024 Hình 10; QĐ 361/2014).",
+     "Hỏi bác sĩ hoặc dược sĩ trước khi mua thuốc khi đang dùng warfarin; mang bao thuốc đi các lần khám (KDIGO 2024 Practice Point 4.1.3).",
+     "Đo HA tại nhà bằng máy bắp tay: ngồi nghỉ 5 phút, đo 2 lần cách 1–2 phút, sáng và tối, ghi sổ, 3–7 ngày trước tái khám (ESC 2024 Hình 4; VSH/VNHA 2024 Đ1.2.2).",
+     "Giảm muối dưới 5 g/ngày: bớt chấm mắm, không húp hết nước canh (QĐ 5904 Phụ lục 3.2).",
+     "Tránh nâng tay quá vai kéo dài khi sơn trần, nghỉ vai giữa buổi (QĐ 361/2014, Viêm quanh khớp vai mục 4.2.1).",
+     "Đi cấp cứu ngay nếu phân đen, nôn ra máu, chảy máu không cầm, đau đầu dữ dội, nhìn mờ, yếu tê nửa người, đau ngực (ESC AF 2024 Hình 11; QĐ 5904 Phần 3 mục D.1).",
+     "Tái khám sau 2 tuần, mang sổ HA tại nhà và sổ INR; chưa nên nhận việc trên giàn giáo cao cho tới khi HA ổn (tiêu chuẩn sức khỏe làm việc trên cao: không có trong tài liệu đã tải; đây là lời khuyên thận trọng)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần. Chị nói đã ngưng thuốc giảm đau theo dặn, uống amlodipin đều, HA ở nhà vẫn 148–156/90–96 mmHg, còn nặng đầu nhẹ. Sinh hiệu lúc tiếp đón: HA 154/94 mmHg, mạch 80 l/p không đều, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Thắm được hẹn tái khám 4 tuần tại phòng khám trong khi UACR còn 318 mg/g kèm hồng cầu niệu và nguyên nhân chưa rõ, đủ tiêu chí chuyển chuyên khoa thận (KDIGO 2024 Hình 48; QĐ 2388/2024 mục 4.2). Phòng khám không soi được cặn nước tiểu, không sinh thiết thận; chị mất thêm vài tuần rồi vẫn phải đi tuyến trên, hạn nộp giấy qua đi mà chưa có kết luận nào.",
+    "nhap_vien": "Chị Thắm nhập viện nội trú để hạ áp và làm bilan thận, dù HA 154/94 mmHg không phải cấp cứu và không có tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2). Chị tốn viện phí, nghỉ nhiều ngày công, trong khi việc cần làm là khám chuyên khoa thận và khởi ức chế men chuyển có theo dõi (KDIGO 2024 khuyến cáo 3.6.1).",
+    "theo_doi": "Chị Thắm chỉ được dặn theo dõi HA tại nhà, không đổi thuốc, không chuyển khám. HA 154/94 mmHg còn xa mục tiêu, protein niệu A3 kèm hồng cầu niệu chưa có chẩn đoán (KDIGO 2024 Hình 48), bệnh thận có thể tiến triển âm thầm; chị không có lịch hẹn rõ nên dễ bỏ khám khi bận việc."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi ngưng hết thuốc giảm đau rồi, uống thuốc huyết áp đều mà đo vẫn 150 mấy. Thứ Sáu này tôi phải nộp giấy cho công ty, bác sĩ giúp tôi với.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "154/94",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống amlodipin 5 mg mỗi sáng, vỉ còn đúng số viên. Đã vứt vỉ diclofenac còn lại; meloxicam ngưng từ hôm bác sĩ dặn. Warfarin vẫn uống mỗi tối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, đã ngưng NSAID"
+    },
+    {
+     "id": "dau_vai2",
+     "noi_dung": "Đau vai còn khoảng 4/10 khi uống paracetamol 3–4 viên mỗi ngày, ngủ được. Những hôm sơn trần thì đau hơn, phải nhờ thợ phụ làm phần cao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau vai sau ngưng NSAID"
+    },
+    {
+     "id": "nuoc_tieu2",
+     "noi_dung": "Nước tiểu vẫn có bọt. Chín hôm trước, sau đợt đau họng hai ngày, có một ngày nước tiểu màu nâu đỏ như nước rửa thịt rồi hết. Không sốt, không buốt, không đau hông lưng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'nước tiểu thế nào' thì nói 'bình thường'. Chỉ kể khi bác sĩ hỏi cụ thể màu nước tiểu, có lúc nào đỏ hoặc sẫm không, có bọt không, hoặc gần đây có đau họng, sốt không.",
+     "k": 1,
+     "y": "Nước tiểu đỏ nâu thoáng qua: gợi ý tiểu máu cầu thận"
+    },
+    {
+     "id": "phu2",
+     "noi_dung": "Phù mắt cá hết hẳn sau khoảng một tuần ngưng thuốc giảm đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phù giảm sau ngưng NSAID"
+    },
+    {
+     "id": "dau_dau2",
+     "noi_dung": "Hết đau gáy, còn nặng đầu nhẹ vào buổi sáng. Không nhìn mờ, không đau ngực, không khó thở, không yếu tê chân tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ"
+    },
+    {
+     "id": "chay_mau2",
+     "noi_dung": "Không bầm tím, không phân đen, không chảy máu chân răng. Chưa tới hẹn thử INR kế tiếp ở bệnh viện tỉnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Theo dõi chảy máu và INR"
+    },
+    {
+     "id": "kinh2",
+     "noi_dung": "Kinh thưa, hai tháng một lần, đã đặt vòng tránh thai năm năm, chưa tháo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng có thai trước khi dùng ức chế men chuyển"
+    },
+    {
+     "id": "giay2",
+     "noi_dung": "Thứ Sáu này phải nộp giấy cho công ty. Nếu không có giấy thì bị cho làm phụ dưới đất, tiền công giảm một phần. Chị mong bác sĩ ghi 'sức khỏe tốt'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấy chứng nhận sức khỏe, áp lực mất việc"
+    },
+    {
+     "id": "ha_nha",
+     "noi_dung": "HA tại nhà trung bình 150/92, máy bắp tay mua mới, đo sáng và tối đúng hướng dẫn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA tại nhà sau ngưng NSAID"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Máy bắp tay của phòng khám: tay phải 154/94, tay trái 152/92 mmHg.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn, tần số khoảng 80 l/p. T1 đanh ở mỏm, rùng tâm trương nhẹ ở mỏm, T2 rõ. Không T3.",
+     "k": 1,
+     "hien": "Tim loạn nhịp không đều, tần số khoảng 80 l/p."
+    },
+    "phoi": {
+     "a": "Không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không bầm tím, không chấm xuất huyết.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không âm thổi cạnh rốn, không sờ thấy thận to.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Vai phải còn đau khi dạng tay trên 90°, đỡ hơn lượt trước. Không sưng nóng đỏ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,3 mmol/L · Creatinin 104 µmol/L (lượt 1: 120) · eGFR 57 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 6.3,
+      "creat": 104,
+      "egfr": 57
+     },
+     "n": "Giảm 13% sau ngưng NSAID: phần do thuốc đã hồi phục, nhưng chưa về mức bình thường của nữ (53–100 µmol/L). Chưa đủ 3 tháng để gọi bệnh thận mạn (KDIGO 2024 Bảng 1)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 140 · K 4,5 · Cl 105 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.5,
+      "cl": 105
+     }
+    },
+    "uacr": {
+     "v": "e",
+     "r": "318 mg/g (lượt 1: 340)",
+     "ab": 1,
+     "n": "Vẫn trên 300 mg/g (A3) sau ngưng NSAID 2 tuần: protein niệu không chỉ do thuốc (KDIGO 2024 Bảng 3, Practice Point 1.1.1.2). UACR ≥ 300 mg/g kèm hồng cầu niệu là tiêu chí chuyển chuyên khoa thận (KDIGO 2024 Hình 48; QĐ 2388/2024 mục 4.2)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,016 · Protein 2+ · Hồng cầu 1+ · Bạch cầu, nitrit, glucose âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.016,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "2+",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Âm tính",
+      "u_ery": "1+"
+     },
+     "n": "Hồng cầu niệu dai dẳng. Soi cặn tìm hồng cầu biến dạng hay trụ hồng cầu cần làm ở tuyến trên (KDIGO 2024 Hình 48: trụ hồng cầu, hồng cầu trên 20/vi trường kéo dài mà chưa giải thích được)."
+    },
+    "inr": {
+     "v": "a",
+     "r": "INR 2,4",
+     "n": "Trong đích 2,0–3,0 (ESC AF 2024 Bảng khuyến cáo 7). Kiểm lại INR sau đợt dùng NSAID là hợp lý; lịch cụ thể: không có trong tài liệu đã tải."
+    },
+    "aldo": {
+     "n": "Đã làm lượt 1 (ARR 3,8), không cần lặp lại."
+    },
+    "doppler_than": {
+     "n": "Đã làm lượt 1, bình thường; creatinin giảm khi ngưng NSAID, chưa dùng ức chế men chuyển nên không có suy thận mới sau thuốc (ESC PAD 2024 Bảng 13)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp thứ phát: bệnh thận nhu mô nghi mạn tính (UACR 318 mg/g, hồng cầu niệu dai dẳng, eGFR 57, nguyên nhân chưa rõ) cộng ảnh hưởng của NSAID đã ngưng; đáp ứng một phần (176/104 xuống 154/94 mmHg)",
+     "ok": 1,
+     "n": "Ngưng NSAID 2 tuần: phù hết, creatinin giảm 13% nhưng HA còn trên mức nền 126/78, protein và hồng cầu niệu còn: phần do thuốc đã hồi phục, phần còn lại do bệnh thận (ESC 2024 mục 9.14.1: HA cao có thể còn lại dù đã bỏ nguyên nhân; AHA/ACC 2025 Bảng 10). Chưa đủ 3 tháng để gọi bệnh thận mạn (KDIGO 2024 Bảng 1)."
+    },
+    {
+     "t": "Tăng huyết áp do NSAID đơn thuần",
+     "n": "Nếu chỉ do thuốc, ngưng 2 tuần phải đưa HA gần mức nền và hết protein niệu; HA còn 154/94 và UACR còn 318 mg/g (ESH 2023 Bảng 20: tăng HA do NSAID thường nhẹ, phụ thuộc liều)."
+    },
+    {
+     "t": "Cường aldosteron nguyên phát",
+     "n": "K 4,5 mmol/L, ARR 3,8 lượt 1, không kháng trị (AHA/ACC 2025 mục 3.2.3.1)."
+    },
+    {
+     "t": "Hẹp động mạch thận",
+     "n": "Doppler bình thường, hai thận cân xứng, creatinin giảm khi ngưng thuốc (ESC PAD 2024 mục 8.3.2.1.3, Bảng 13)."
+    },
+    {
+     "t": "U tủy thượng thận",
+     "n": "Chưa có cơn kịch phát (Endocrine Society 2014 Bảng 1). Nghĩ lại nếu có cơn hoặc THA kháng trị sau khi điều trị đủ."
+    },
+    {
+     "t": "Tăng huyết áp kháng trị",
+     "n": "Mới dùng 1 thuốc; kháng trị là không đạt mục tiêu dù đủ ≥ 3 thuốc có lợi tiểu (QĐ 5904 Phần 1 Bước 4A.3; AHA/ACC 2025 mục 5.6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển khám chuyên khoa thận (bệnh viện tỉnh) để tìm nguyên nhân bệnh thận: UACR ≥ 300 mg/g kèm hồng cầu niệu, nguyên nhân chưa rõ",
+     "v": "c",
+     "n": "KDIGO 2024 Practice Point 5.1.1, Hình 48: nguyên nhân chưa rõ; ACR ≥ 300 mg/g kèm tiểu máu. QĐ 2388/2024 mục 4.2: albumin niệu > 300 mg/g hoặc protein niệu > 500 mg/g kèm hồng cầu niệu; thêm mốc UACR > 700 mg/g (sổ mâu thuẫn, mục ngưỡng albumin niệu). Soi cặn nước tiểu, sinh thiết thận làm ở tuyến trên. Thời hạn chuyển: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khởi ức chế men chuyển liều thấp: perindopril 2 mg (QĐ 2388/2024 Bảng 12) HOẶC 5 mg (QĐ 5904 Phần 3 mục G) mỗi ngày, thử lại creatinin và kali sau 2–4 tuần",
+     "v": "c",
+     "n": "KDIGO 2024 khuyến cáo 3.6.1 (1B): khởi ức chế RAS cho CKD có A3, không đái tháo đường; Practice Point 3.6.2: kiểm HA, creatinin, kali sau 2–4 tuần. Liều khởi đầu 2 mg ở bệnh thận mạn, không dùng khi CrCl < 30 (QĐ 2388/2024 Bảng 12) hoặc 5 mg (QĐ 5904 Phần 3 mục G); 2 mg thận trọng hơn. Chống chỉ định có thai (QĐ 5904 Phần 3 mục G); chị đã đặt vòng. Doppler không hẹp nên khởi được. Xem lại nếu creatinin tăng > 25% (QĐ 2388 mục 7.4.2) hoặc > 30% (KDIGO Practice Point 3.6.4)."
+    },
+    {
+     "t": "Giữ amlodipin 5 mg; mục tiêu HA tâm thu < 120 mmHg (KDIGO) HOẶC 120–129 mmHg (ESC 2026), đo chuẩn hóa, nếu dung nạp",
+     "v": "c",
+     "n": "KDIGO 2024 khuyến cáo 3.4.1 (2B): < 120 mmHg, đo chuẩn hóa; ESC 2026 mục 5.2.1, Bảng khuyến cáo 9 (I, A): 120–129 mmHg khi eGFR ≥ 30; QĐ 2388/2024 Bảng 11 liệt kê cả hai. Cả hai đều đúng; ESC 2026 không chọn < 120 vì SPRINT đo không có người đo cạnh và nguy cơ giảm eGFR."
+    },
+    {
+     "t": "Tiếp tục tránh mọi NSAID; giảm đau bằng paracetamol dưới 3 g/ngày (QĐ 361/2014) hoặc dưới 4 g/ngày (AHA/ACC 2025), thêm giảm tải vai khi sơn trần",
+     "v": "c",
+     "n": "QĐ 2388/2024 mục 7.4.2; KDIGO 2024 Bảng 31; ESC AF 2024 Hình 9, 10. Paracetamol 0,5 g × 2–4 viên/24 giờ và tránh nâng tay quá vai (QĐ 361/2014, Viêm quanh khớp vai mục 4.2.1). Tương tác paracetamol–warfarin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục warfarin, INR theo hẹn ở bệnh viện tỉnh; dặn chị báo bác sĩ thận và bác sĩ tim mạch rằng đang dùng warfarin trước mọi thủ thuật, kể cả sinh thiết thận",
+     "v": "c",
+     "n": "Hẹp hai lá vừa–nặng: kháng vitamin K, INR 2,0–3,0 (ESC AF 2024 Bảng khuyến cáo 7). Cách xử trí warfarin quanh sinh thiết thận: không có trong tài liệu đã tải; để các bác sĩ điều trị quyết."
+    },
+    {
+     "t": "Giấy chứng nhận sức khỏe: chưa cấp 'bình thường'; ghi trung thực THA thứ phát đang điều tra, tổn thương thận đang chẩn đoán, rung nhĩ trên hẹp hai lá đang dùng warfarin; hẹn hoàn thiện sau khi tuyến trên kết luận; viết giấy xác nhận đang điều trị để công ty tạm bố trí việc dưới đất",
+     "v": "c",
+     "n": "TT 32/2023 Điều 30 khoản 2a, Điều 32 khoản 3; TT 25/2026 Phụ lục XXIV Mẫu số 03. Cách cấp giấy khi phát hiện bệnh mới: không có trong tài liệu đã tải (ca MT-1033)."
+    },
+    {
+     "t": "Để bác sĩ thận quyết định khởi ức chế men chuyển, hôm nay chỉ chuyển tuyến",
+     "v": "a",
+     "n": "Chấp nhận khi muốn chờ chẩn đoán; khởi sớm vẫn tốt hơn (KDIGO 2024 khuyến cáo 3.6.1)."
+    },
+    {
+     "t": "Hẹn tái khám 4 tuần tại phòng khám, chưa chuyển chuyên khoa thận",
+     "v": "w",
+     "n": "Đã đủ tiêu chí chuyển: ACR ≥ 300 mg/g kèm tiểu máu, nguyên nhân chưa rõ (KDIGO 2024 Hình 48; QĐ 2388/2024 mục 4.2)."
+    },
+    {
+     "t": "Đổi sang NSAID khác như celecoxib 200 mg vì ít hại dạ dày",
+     "v": "w",
+     "n": "Vẫn là NSAID: tránh nếu có thể khi có THA, bệnh gan thận (QĐ 361/2014, phụ lục NSAID bảng nguy cơ cao), bệnh thận (QĐ 2388/2024 mục 7.4.2; KDIGO 2024 Bảng 31) và khi dùng warfarin (ESC AF 2024 Hình 9)."
+    },
+    {
+     "t": "Cấp giấy 'sức khỏe bình thường' để chị kịp nộp thứ Sáu",
+     "v": "w",
+     "n": "TT 25/2026 Phụ lục XXIV Mẫu số 03 yêu cầu ghi bệnh, tật mắc phải (TT 32/2023 Điều 30 khoản 2a)."
+    },
+    {
+     "t": "Dùng đồng thời perindopril và losartan để giảm protein niệu mạnh hơn",
+     "v": "h",
+     "n": "Tránh mọi phối hợp ức chế men chuyển, chẹn thụ thể và ức chế renin trực tiếp (KDIGO 2024 khuyến cáo 3.6.4, 1B; AHA/ACC 2025 mục 5.2.4 khuyến cáo 3, Harm)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp thứ phát do bệnh thận nhu mô nghi mạn tính, cộng thêm phần do NSAID đã ngưng; HA 154/94 mmHg, đáp ứng một phần sau 2 tuần",
+     "Tổn thương thận: UACR 318 mg/g (A3), hồng cầu niệu dai dẳng, eGFR 57 mL/ph/1,73m² (G3a–G2 ranh giới), nguyên nhân chưa rõ; chưa đủ 3 tháng để gọi bệnh thận mạn",
+     "Rung nhĩ trên hẹp van hai lá thấp tim, warfarin, INR 2,4 trong đích",
+     "Đau vai phải do nghề, kiểm soát bằng paracetamol",
+     "Đã loại trừ: cường aldosteron, hẹp động mạch thận, u tủy thượng thận, THA kháng trị"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần có ý nghĩa gì: ngưng NSAID và amlodipin 2 tuần, phù hết, creatinin giảm 120 → 104 µmol/L, HA giảm 176/104 → 154/94 mmHg. Phần thuốc đã hồi phục; phần còn lại (HA, UACR 318 mg/g, hồng cầu niệu) là bệnh thận nhu mô sẵn có (ESC 2024 mục 9.14.1; AHA/ACC 2025 Bảng 10).",
+     "Vì sao chưa gọi bệnh thận mạn: cần dấu hiệu tổn thương thận hoặc GFR < 60 tối thiểu 3 tháng (KDIGO 2024 Bảng 1); chị mới có xét nghiệm trong 2 tuần. Phân loại theo nguyên nhân–GFR–albumin niệu cần có chẩn đoán nguyên nhân (KDIGO 2024 Bảng 2, 3; QĐ 2388/2024 mục 3.4.2).",
+     "Nước tiểu nâu đỏ thoáng qua sau đau họng, cộng UACR ≥ 300 và hồng cầu niệu: gợi ý bệnh cầu thận, cần tuyến trên làm cặn nước tiểu và sinh thiết nếu cần (KDIGO 2024 Hình 48). Tài liệu đã tải không nêu tên bệnh cầu thận cụ thể cho bệnh cảnh này.",
+     "Vì sao vẫn loại aldosteron, hẹp động mạch thận, u tủy thượng thận: K bình thường, ARR 3,8 (AHA/ACC 2025 mục 3.2.3.1); Doppler bình thường (ESC PAD 2024 mục 8.3.2.1.3); không có cơn kịch phát (Endocrine Society 2014 Bảng 1).",
+     "Vì sao chưa phải THA kháng trị: mới dùng một thuốc (QĐ 5904 Phần 1 Bước 4A.3; AHA/ACC 2025 mục 5.6)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển khám chuyên khoa thận: UACR ≥ 300 mg/g kèm hồng cầu niệu và nguyên nhân chưa rõ (KDIGO 2024 Hình 48; QĐ 2388/2024 mục 4.2). Phòng khám không soi cặn tìm trụ hồng cầu, không sinh thiết thận, và cơ sở không có CT; hẹn lại 4 tuần chỉ làm chậm chẩn đoán.",
+     "Khởi ức chế men chuyển liều thấp vì có albumin niệu A3, không đái tháo đường (KDIGO 2024 khuyến cáo 3.6.1, 1B): perindopril 2 mg (QĐ 2388/2024 Bảng 12) hoặc 5 mg (QĐ 5904 Phần 3 mục G); kiểm creatinin, kali sau 2–4 tuần (KDIGO 2024 Practice Point 3.6.2). Đã loại hẹp động mạch thận và đã ngưng NSAID nên khởi được. Không phối hợp ức chế men chuyển với chẹn thụ thể (KDIGO 2024 khuyến cáo 3.6.4).",
+     "Mục tiêu HATT: < 120 mmHg (KDIGO 2024 khuyến cáo 3.4.1) hoặc 120–129 mmHg (ESC 2026 mục 5.2.1); giữ amlodipin 5 mg, tăng dần theo đáp ứng. Cả hai mục tiêu đều đúng vì khác nhau ở cách đo và nguy cơ giảm eGFR.",
+     "Tránh NSAID lâu dài (QĐ 2388/2024 mục 7.4.2; KDIGO 2024 Bảng 31), dùng paracetamol (QĐ 361/2014 mục 4.2.1). Giảm tải vai là việc quan trọng của người thợ sơn.",
+     "Warfarin: giữ nguyên, INR 2,0–3,0 (ESC AF 2024 Bảng khuyến cáo 7). Sinh thiết thận và warfarin: cách xử trí không có trong tài liệu đã tải; nhắc chị báo trước.",
+     "Giấy chứng nhận sức khỏe: ghi trung thực, chưa phân loại 'bình thường' (TT 32/2023 Điều 30, 32; TT 25/2026 Mẫu số 03). Giấy xác nhận đang điều trị giúp công ty tạm bố trí việc dưới đất."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "2 mg hoặc 5 mg",
+      "lieu": "2 mg × 1 lần/ngày (QĐ 2388/2024 Bảng 12) hoặc 5 mg × 1 lần/ngày (QĐ 5904 Phần 3 mục G)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; thử creatinin, kali sau 2–4 tuần",
+      "ghi_chu": "2 mg thận trọng hơn ở bệnh thận mạn; không dùng khi CrCl < 30 ml/phút (QĐ 2388/2024 Bảng 12). Chống chỉ định có thai, tiền sử phù mạch; tác dụng phụ ho, tăng kali (QĐ 5904 Phần 3 mục G). Xem lại khi creatinin tăng > 25% (QĐ 2388 mục 7.4.2) hoặc > 30% (KDIGO 2024 Practice Point 3.6.4)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng lúc với perindopril",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên liều đang dùng; duy trì 5–10 mg, tác dụng phụ phù mắt cá (QĐ 5904 Phần 3 mục G)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "0,5 g",
+      "lieu": "0,5 g × 2–4 viên/24 giờ, tối đa dưới 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau vai, sau ăn",
+      "so_ngay": "Đến khi vai đỡ",
+      "ghi_chu": "QĐ 361/2014, Viêm quanh khớp vai mục 4.2.1; trần dưới 3 g/ngày (QĐ 361/2014) hoặc dưới 4 g/ngày (AHA/ACC 2025 Bảng 11), 3 g thận trọng hơn."
+     },
+     {
+      "thuoc": "Warfarin (đang dùng)",
+      "ham_luong": "3 mg",
+      "lieu": "3 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, giờ cố định",
+      "so_ngay": "Giữ nguyên liều đang dùng, kiểm INR theo hẹn",
+      "ghi_chu": "Giữ nguyên, INR đích 2,0–3,0 (ESC AF 2024 Bảng khuyến cáo 7)."
+     }
+    ],
+    "dan_do": [
+     "Tiếp tục tránh mọi thuốc giảm đau nhóm NSAID, kể cả loại mua ngoài tiệm hoặc người nhà cho (QĐ 2388/2024 mục 7.4.2; ESC AF 2024 Hình 10).",
+     "Uống perindopril và amlodipin đều mỗi ngày; ho khan kéo dài thì báo bác sĩ (QĐ 5904 Phần 3 mục G). Khi ốm nôn ói, tiêu chảy, tiểu ít thì hỏi bác sĩ về việc tạm ngưng thuốc (KDIGO 2024 Practice Point 4.3.2).",
+     "Đi khám chuyên khoa thận theo giấy chuyển, mang theo sổ HA tại nhà, kết quả xét nghiệm, sổ INR và bao thuốc warfarin; báo cho bác sĩ biết đang dùng warfarin trước mọi thủ thuật.",
+     "Nếu nước tiểu đỏ hoặc nâu như nước rửa thịt, phù mặt hoặc chân, tiểu ít, HA lên cao, đi khám sớm (KDIGO 2024 Hình 48: hồng cầu niệu, albumin niệu).",
+     "Giảm muối dưới 5 g/ngày, tiếp tục đo HA tại nhà sáng và tối (QĐ 5904 Phụ lục 3.2; ESC 2024 Bảng khuyến cáo 35).",
+     "Chưa nhận việc trên giàn giáo cao cho tới khi HA ổn và có kết luận của bác sĩ chuyên khoa (tiêu chuẩn sức khỏe làm việc trên cao: không có trong tài liệu đã tải).",
+     "Đi cấp cứu ngay nếu chảy máu không cầm, phân đen, nôn ra máu, đau đầu dữ dội, nhìn mờ, yếu tê nửa người, đau ngực (ESC AF 2024 Hình 11; QĐ 5904 Phần 3 mục D.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Thắm ngưng hẳn NSAID, uống thuốc đều. Tuyến tỉnh soi cặn nước tiểu thấy hồng cầu biến dạng, sinh thiết thận sau khi hội chẩn cách xử trí warfarin với tim mạch, chẩn đoán viêm cầu thận IgA. Sau sáu tháng HA nhà về 132/80 mmHg nhờ ba thuốc, nhưng UACR vẫn trên 300 mg/g, eGFR quanh 52 mL/ph/1,73m². Công ty không cho chị làm trên giàn giáo nữa; chị chuyển sang việc dưới đất, tiền công ít hơn. Các quyết định đều đúng; NSAID chỉ làm lộ sớm bệnh thận có sẵn (kịch bản minh họa, không dẫn nguồn).",
+ "nhieu": [
+  "Diclofenac tự mua uống 5 ngày, thêm trên meloxicam: chị không coi là thuốc nên không khai. Chỉ lộ khi hỏi cụ thể thuốc giảm đau mua ngoài (ESH 2023 Bảng 20; ESC AF 2024 Hình 9).",
+  "Mùi sơn làm nặng đầu: đồng nghiệp cùng làm không bị, chì máu 6 µg/dL dưới 10 µg/dL (QĐ 3610/2015, Ngộ độc chì, mục 1, 3.2). Đây là dữ kiện nhiễu từ nghề nghiệp.",
+  "Warfarin đang dùng: nguy cơ chảy máu khi thêm NSAID, và không đổi sang DOAC được vì hẹp hai lá vừa–nặng (ESC AF 2024 Bảng khuyến cáo 7; Hình 9).",
+  "Lý do thật là xin giấy chứng nhận sức khỏe: chị che bớt thông tin để không bị coi là có bệnh; cần hỏi ra và trả lời bằng cách ghi trung thực (TT 32/2023 Điều 30, 32; TT 25/2026 Mẫu số 03)."
+ ],
+ "bai_hoc_bien": [
+  "Tự uống thuốc: thuốc giảm đau mua ngoài tiệm là thuốc. Hỏi cụ thể từng nhóm (giảm đau, thuốc nam, thuốc cảm), hỏi hôm nay uống mấy viên, xin xem bao thuốc.",
+  "Không có CT: Doppler động mạch thận, siêu âm thận, K và ARR đủ để loại hẹp động mạch thận và cường aldosteron mà không cần chuyển tuyến chỉ vì thiếu CT.",
+  "Chưa gọi bệnh thận mạn khi chưa đủ 3 tháng: lặp lại xét nghiệm sau ngưng thuốc, và chuyển chuyên khoa thận đúng lúc khi UACR ≥ 300 mg/g kèm hồng cầu niệu hoặc nguyên nhân chưa rõ (KDIGO 2024 Bảng 1, Hình 48).",
+  "Warfarin và NSAID: bỏ NSAID, giữ chống đông; không đổi sang DOAC ở hẹp hai lá vừa–nặng (ESC AF 2024 Bảng khuyến cáo 7, mục 6.7.1).",
+  "Đỡ một phần: phần đã đỡ là phần do thuốc, phần còn lại là bệnh nền. Xử trí đúng nhưng diễn tiến xấu: đánh giá quyết định theo dữ kiện lúc ra quyết định, không theo kết cục."
+ ],
+ "diem_nho": [
+  "NSAID tăng HA phụ thuộc liều, giảm tác dụng thuốc hạ áp, hại thận và tăng nguy cơ chảy máu khi dùng warfarin (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11, 17; KDIGO 2024 Bảng 31; ESC AF 2024 Hình 9).",
+  "THA thứ phát cần nghĩ khi HA tăng đột ngột trên nền bình thường, có bất thường nước tiểu hoặc creatinin; thử máu, nước tiểu, UACR, siêu âm thận, Doppler thận là bộ ban đầu (ESC 2024 Bảng 13; AHA/ACC 2025 Bảng 10).",
+  "CKD cần dấu hiệu tổn thương thận hoặc GFR < 60 tối thiểu 3 tháng (KDIGO 2024 Bảng 1); chuyển thận khi ACR ≥ 300 mg/g kèm tiểu máu hoặc nguyên nhân chưa rõ (KDIGO 2024 Hình 48).",
+  "Khám bệnh ngoại trú không phải khám sức khỏe cấp giấy; ghi trung thực bệnh, tật mắc phải (TT 32/2023 Điều 30, 32; TT 25/2026 Mẫu số 03)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 3A, 4 mục A.1, 4A.3, 5 mục C); Phần 3 mục D.1, G; Phụ lục 3.2.",
+  "VSH/VNHA 2024 – Chiến lược quản lý THA tại Việt Nam – TL-0288 – Bảng 4; Đ1.1, Đ1.2.2, Đ2.4, Bảng 11; Đ4.1.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – mục 5.3.2, 9.14.1, 10.1.1; Bảng 5, 8, 12, 13; Hình 4, 12; Bảng khuyến cáo 6, 13, 15, 35.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – Bảng 20; mục 16.2.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – Bảng 6, 10, 11, 17; mục 3.2.3.1, 5.2.4, 5.6, 6.2.",
+  "KDIGO 2024 CKD – TL-0308 – Bảng 1, 2, 3, 31; Practice Point 1.1.1.2, 3.6.2, 3.6.4, 4.1.3, 5.1.1; khuyến cáo 3.4.1, 3.6.1, 3.6.4; Hình 48.",
+  "BYT – QĐ 2388/QĐ-BYT 2024, Bệnh thận mạn – TL-0280 – mục 2.2.2, 3.4.2 (Bảng 8), 4.2, 7.4.2; Bảng 11, 12.",
+  "ESC 2026 CV-CKD – TL-0293 – mục 5.2.1, Bảng khuyến cáo 9.",
+  "ESC 2024 Atrial fibrillation – TL-0303 – Bảng khuyến cáo 7; mục 6.7.1; Hình 9, 10, 11.",
+  "ESC 2024 Peripheral arterial and aortic diseases – TL-0058 – mục 8.3.2.1.3; Bảng 13.",
+  "Endocrine Society 2014 Pheochromocytoma and paraganglioma – TL-0328 – Bảng 1.",
+  "Endocrine Society 2025 Primary aldosteronism – TL-0301 – tóm tắt khuyến cáo tầm soát bằng ARR.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – Viêm quanh khớp vai mục 4.2.1; phụ lục NSAID, bảng nguy cơ cao.",
+  "BYT – QĐ 3610/QĐ-BYT 2015, Hướng dẫn xử trí ngộ độc (kho tltk-10000-ca, 00 Dùng chung) – Ngộ độc chì mục 1, 2, 3.1 (Bảng 32.2), 3.2.",
+  "BYT – TT 32/2023/TT-BYT – TL-0669 – Điều 30 khoản 2a; Điều 32 khoản 3.",
+  "BYT – TT 25/2026/TT-BYT – TL-0668 – Phụ lục XXIV, Mẫu số 03."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-08 (bản 1): THA thứ phát do thuốc (hai NSAID) chồng lên bệnh thận nhu mô; người bệnh dùng warfarin vì hẹp hai lá thấp tim kèm rung nhĩ. Tài liệu đã đọc: xem mục nguon (TL-0284, 0288, 0305, 0312, 0297, 0308, 0280, 0293, 0303, 0058, 0328, 0301, 0286, 0668, 0669 và QĐ 3610/2015).",
+  "Đã theo các mục sổ mâu thuẫn có sẵn: tầm soát aldosteron (a); THA độ 2 khởi thuốc ngay hay xác nhận trước (gộp c); chuyển tuyến ngay khi nghi thứ phát (a); NSAID với warfarin (w); paracetamol < 3 g hoặc < 4 g; ngưỡng albumin niệu chuyển bác sĩ thận; HATT mục tiêu ở BTM; liều perindopril ở BTM; giấy chứng nhận sức khỏe (MT-1033).",
+  "Thiếu tài liệu (đã ghi trong ca): khoảng cách kiểm INR sau khi thêm NSAID; tương tác paracetamol–warfarin; xử trí warfarin quanh sinh thiết thận; ngưỡng diện tích van phân độ hẹp hai lá; tiêu chuẩn sức khỏe làm việc trên cao; thời hạn chuyển chuyên khoa thận; metanephrin chưa có trong danh mục CLS (đã đề xuất).",
+  "Kết cục 'diễn tiến xấu' (viêm cầu thận IgA, mất việc trên giàn giáo) là kịch bản minh họa, không dẫn nguồn. Âm thanh tim không gắn vì nhịp không đều (tệp tim hiện có đều nhịp); chỉ gắn âm thanh phổi bình thường. Không dùng ảnh da."
+ ]
+}

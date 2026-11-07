@@ -1,0 +1,754 @@
+{
+ "ma_ca": "HH-0634",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_viem_phe_quan_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phế quản cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi cộng đồng",
+   "Ho gà"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Đáp án là không làm gì",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau lao động ngoài trời nắng nặng",
+  "thuoc_dang_dung": "Thuốc dạ dày tự mua",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Thị Mận",
+  "tuoi": 67,
+  "gioi": "Nữ",
+  "nghe": "Nông dân (trồng lúa, nuôi vịt)",
+  "can_nang": 52,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bác'. Bà tự xưng 'tôi' hoặc 'bác', gọi bác sĩ là 'bác sĩ'. Con gái gọi bà là 'mẹ', xưng 'em' hoặc 'tôi' với bác sĩ.",
+  "tinh_cach": "Hiền, ít nói, nói nhỏ, hay cười trừ 'không có gì đâu'. Cả đời làm ruộng, coi đi khám là tốn tiền, tốn ngày công, ngại làm phiền bác sĩ. Tin 'kháng sinh uống ba hôm là dứt'. Rất sợ người khác biết chuyện kín của mình. Tỉnh táo, trả lời đúng.",
+  "kieu_nhieu": "Đòi kháng sinh: ngay câu đầu xin 'cho bác ít thuốc kháng sinh uống cho dứt', bị từ chối thì nài một hai lần rồi nghe giải thích nếu bác sĩ nói tôn trọng, dùng số liệu của chính bà. Giấu triệu chứng vì ngại ngùng: bị són vài giọt nước tiểu mỗi khi ho mạnh nhưng không kể; hỏi chung 'còn khó chịu gì không' thì nói 'không'. Chỉ kể khi chỉ còn bà với bác sĩ và được hỏi nhẹ nhàng, chuẩn hóa. Cũng nói giảm chuyện ho đêm ('ngủ được').",
+  "nguoi_nha": "Con gái, chị Hương, 40 tuổi, bán tạp hóa, chở mẹ bằng xe máy 12 km. Lo, hay nói thay mẹ, hỏi 'sao không chụp phim cho chắc'. Chị KHÔNG biết chuyện són tiểu. Khi hỏi về sinh hoạt, ăn uống, chị thường trả lời.",
+  "ten_nguoi_nha": "Chị Hương (con gái)",
+  "ngoai_hinh": {
+   "da": "#b9855f",
+   "toc": "#c8c4bd",
+   "kieuToc": "bui",
+   "ao": "#6b7d4f",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#d3a07c",
+    "toc": "#1c1411",
+    "kieuToc": "dai",
+    "ao": "#b5525c",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho 4–5 ngày sau khi gặt lúa dưới nắng, xin thuốc kháng sinh cho dứt",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám có xét nghiệm máu cơ bản, CRP nhanh, que thử nước tiểu, điện tim và X-quang ngực; không có máy siêu âm (nên không có siêu âm phổi, siêu âm tim, siêu âm bụng) và không có CT, nội soi. Xét nghiệm nào cũng phải trả tiền ngay tại quầy."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Nguyễn Thị Mận, 67 tuổi, nông dân (trồng lúa, nuôi vịt) ở xã cách phòng khám khoảng 12 km, con gái chở bằng xe máy. Bà đến vì ho 4–5 ngày sau mấy hôm gặt lúa dưới nắng và xin thuốc kháng sinh. Sinh hiệu: nhiệt độ 36,8 °C, mạch 80 l/p, HA 132/80 mmHg, nhịp thở 18 l/p, SpO₂ 97% khí trời, cân nặng 52 kg, cao 152 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bà Mận vì 'ho ở người 67 tuổi' là quá tay: bà không sốt (36,8 °C), thở 18 l/p, SpO₂ 97%, phổi không ran ẩm hay ran nổ, ăn uống được, tỉnh táo; điểm CRB-65 chỉ là 1 do tuổi ≥ 65, thuộc nhóm 0–1 điểm điều trị ngoại trú (QĐ 2147/2026 mục 3.2.1, vốn dùng cho viêm phổi mà bà không có). Đang mùa gặt, bà mất nhiều ngày công và viện phí, chị Hương bỏ tiệm chăm mẹ, trong khi bệnh vốn tự khỏi và hầu hết không cần kháng sinh (QĐ 4235/2012, Viêm phế quản cấp, mục 3).",
+    "chuyen_tuyen": "Chuyển bà lên bệnh viện tỉnh 'chụp phim, xét nghiệm cho chắc' là quá tay: không có tiêu chí chụp X-quang (QĐ 708/2015 mục 2: tuổi > 75; mạch > 100, thở > 24, nhiệt > 38 °C; ran ẩm, ran nổ, đông đặc) và CHEST 2020 khuyến cáo 1 không xét nghiệm thường quy. Chuyến đi 12 km tốn tiền xe, ngày công; phim bình thường nhưng bà vẫn lo 'bệnh nặng', dễ bị kê kháng sinh 'cho yên tâm'.",
+    "theo_doi": "Giữ bà lại phòng khám nhiều giờ hoặc hẹn khám mỗi ngày là không cần: bà không có dấu hiệu nặng nào (NICE NG120 1.1.5, 1.1.19: dặn tự chăm sóc, khi nào quay lại). Nên cho về, dặn tiêu chí quay lại và hẹn một mốc rõ ràng; theo dõi quá dày làm bà tốn ngày công và càng tin bệnh nặng, càng đòi thuốc."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi ho mấy bữa nay, không có gì đâu. Bác sĩ cho tôi ít thuốc kháng sinh uống cho dứt, tháng trước bà hàng xóm ho uống ba hôm là hết. Tôi còn phải ra đồng gặt cho kịp lúa.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "132/80",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho 4–5 ngày nay, ho có ít đờm. Xin thuốc kháng sinh uống cho dứt ho nhanh, còn phải ra đồng gặt lúa.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai) và yêu cầu kháng sinh"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ngày 1 (5 ngày trước): gặt, phơi lúa ngoài đồng nắng gắt cả ngày, bụi rơm, uống nhiều nước đá, chiều tắm nước giếng lạnh rồi nằm quạt. Ngày 2: ớn lạnh, rát họng, hắt hơi, sổ mũi trong, nóng người (không đo). Ngày 3: ho khan. Ngày 4–5: ho có đờm. Hôm nay ngày 5 của bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau lao động nắng nặng, viêm long đường hô hấp trên rồi xuống phế quản; mốc ngày"
+    },
+    {
+     "id": "ho_dom",
+     "noi_dung": "Ho nhiều nhất buổi sáng và ban đêm, mỗi lần vài tiếng liên tiếp, rát sau xương ức. Đờm ít, màu trắng đục, không vàng, không xanh, không máu. Không ho thành cơn dài không kịp thở, không có tiếng rít khi hít vào, không nôn sau ho, ho không liên quan bữa ăn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kiểu ho và đờm: gợi ý viêm phế quản, loại trừ ho gà"
+    },
+    {
+     "id": "sot_tho",
+     "noi_dung": "Từ ngày 3 hết nóng người, không rét run, không đổ mồ hôi đêm. Không khó thở khi nghỉ, không đau ngực nhói khi hít sâu, không ho ra máu. Gánh lúa vẫn đi được, chỉ mệt vì thiếu ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu nghi viêm phổi (sốt, khó thở, đau ngực kiểu màng phổi)"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không hút thuốc lá, thuốc lào. Không hen, không bệnh phổi, tiểu đường, bệnh tim, thận, gan. Không nằm viện năm qua, không corticoid, không kháng sinh trong 3 tháng nay. Chưa tiêm phòng cúm, phế cầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền và yếu tố nguy cơ biến chứng: dùng để áp tiêu chí kháng sinh"
+    },
+    {
+     "id": "thuoc_da_day",
+     "noi_dung": "Hay ợ chua, khoảng 1 năm nay tự mua omeprazol 20 mg ở tiệm, uống buổi sáng chừng 3 lần mỗi tuần. Không thuốc đau xương khớp, không thuốc bắc, không kháng sinh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì nói 'không'. Chỉ kể khi bác sĩ hỏi cụ thể thuốc mua ở tiệm, thuốc dạ dày, thuốc giảm đau, thuốc gói, thuốc nam bắc.",
+     "k": 1,
+     "y": "Thuốc tự mua: thuốc dạ dày; không NSAID, không corticoid"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Ợ chua thỉnh thoảng sau bữa ăn no, không ợ nóng về đêm, không nuốt vướng. Ho không tăng khi nằm hay sau bữa ăn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ ho do trào ngược dạ dày thực quản"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Cháu nội 4 tuổi sổ mũi cách đây một tuần; không ai ho kéo dài. Tháng 6 bà cũng ho, mua amoxicilin 500 mg ở tiệm uống 3 ngày rồi hết nên tin do thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiếp xúc; gốc niềm tin vào kháng sinh"
+    },
+    {
+     "id": "dem_ho",
+     "noi_dung": "Đêm ho làm thức giấc 1–2 lần, sáng dậy mệt. Ban đầu nói 'ngủ được'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'ngủ được không' thì nói 'ngủ được'. Chỉ kể khi bác sĩ hỏi đêm có thức giấc vì ho không, thức mấy lần, sáng dậy ra sao.",
+     "k": 0,
+     "y": "Mức ảnh hưởng của ho: chưa đến mức mất ngủ nặng"
+    },
+    {
+     "id": "son_tieu",
+     "noi_dung": "Mấy ngày nay mỗi lần ho mạnh hoặc hắt hơi bị són vài giọt nước tiểu ra quần; phải lót khăn, giặt quần kín. Trước khi ho chưa bao giờ bị. Không tiểu buốt, không tiểu máu, không sốt, không đau hông lưng. Sinh 5 con thường.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'còn khó chịu gì khác không' thì nói 'không'. Chỉ nói khi chỉ còn bà với bác sĩ (con gái ra ngoài) và được hỏi nhẹ nhàng, chuẩn hóa: 'nhiều người ho nhiều hay bị ướt quần, bác có bị không?'. Nghe bác sĩ nói bình thường, không cười thì mới kể hết.",
+     "k": 1,
+     "y": "Triệu chứng giấu: són tiểu khi ho (són khi gắng sức)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật bà xin kháng sinh 'cho dứt nhanh': sợ cứ ho thì còn són tiểu, xấu hổ ho giữa đồng trước người làm thuê, lo mình 'yếu bàng quang' vì tuổi già, không dám nói với con gái.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo điều gì nhất hoặc vì sao muốn ho dứt nhanh, hoặc sau khi bà đã kể chuyện són tiểu và được trấn an.",
+     "k": 1,
+     "y": "Động cơ ẩn: ngại chuyện són tiểu khi ho"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, trả lời đúng. Dáng gầy rắn rỏi, BMI 22,5. Da rám nắng, môi hồng, không tím, niêm mạc ẩm. Nói được câu dài, không phải dừng lấy hơi.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau họng có ít dịch nhầy trong chảy xuống, không mủ, amiđan không to. Mũi nghẹt nhẹ, niêm mạc hơi phù.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, thở êm, không co kéo cơ hô hấp phụ. Lồng ngực cân đối, rung thanh hai bên đều, gõ trong khắp hai phổi. Nghe: rì rào phế nang rõ hai bên; vùng giữa lưng hai bên có vài ran ngáy thưa, giảm hoặc mất sau khi ho. Không ran ẩm, không ran nổ, không ran rít, không tiếng thở phế quản, không hội chứng đông đặc, không cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, thở êm, không co kéo. Rung thanh hai bên đều, gõ hai phổi trong.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa lưng hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Vài ran ngáy thưa, giảm sau khi ho."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, không rung thận. Cầu bàng quang âm tính.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ hành lang 6 phút không phải dừng. SpO₂ 97% → 96%, nhịp thở 22 l/p, mạch 94. Không tím, không khó thở.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "n",
+     "r": "Tim, phổi chưa thấy bất thường. Không đám mờ, không tràn dịch màng phổi.",
+     "n": "Không cần: QĐ 708/2015 mục 2 chỉ nên chụp khi tuổi > 75, mạch > 100, thở > 24, nhiệt > 38 °C, hoặc ran ẩm, ran nổ, đông đặc; bà không có. CHEST 2020 khuyến cáo 1: không chụp thường quy. QĐ 4235/2012 (Viêm phế quản cấp, mục 2.1.2): X-quang bình thường hoặc thành phế quản dày."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 5 mg/L (xét nghiệm nhanh tại phòng khám)",
+     "ab": 0,
+     "bang": {
+      "crp": 5
+     },
+     "n": "Không bắt buộc: CHEST 2020 khuyến cáo 1 không làm CRP thường quy; NICE NG237 1.3.4 chỉ khi sau khám vẫn chưa rõ có cần kháng sinh (< 20 mg/L không kê thường quy). Lâm sàng đã rõ: làm hay không đều chấp nhận (xem mau_thuan HH-0671 mục 2)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "BC 7,6 G/L · Neutrophil 60% · Hb 124 g/L · TC 262 G/L",
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 60.0,
+      "neu": 4.56,
+      "lym_pct": 30.0,
+      "lym": 2.28,
+      "mono_pct": 7.0,
+      "mono": 0.53,
+      "eos_pct": 2.5,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.3,
+      "hgb": 124,
+      "hct": 0.38,
+      "mcv": 88.4,
+      "mch": 28.8,
+      "mchc": 326,
+      "rdw": 13.4,
+      "plt": 262
+     },
+     "n": "Không cần: bạch cầu chỉ tăng khi nhiễm vi khuẩn (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.2), không đổi xử trí; CHEST 2020 khuyến cáo 1."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Que thử nước tiểu 10 thông số: bạch cầu âm, nitrit âm, hồng cầu âm, protein âm, glucose âm.",
+     "n": "Hữu ích nếu phát hiện bà són tiểu: NICE NG123 khuyến cáo 1.3.5 (que thử nước tiểu cho mọi phụ nữ són tiểu để loại nhiễm khuẩn tiết niệu). Không són tiểu thì không cần."
+    },
+    "flu": {
+     "v": "n",
+     "n": "NICE NG237 1.3.3: không làm test nhanh vi sinh hay cúm để quyết định kê kháng sinh. Không sốt, ngày 5, không nặng."
+    },
+    "pct": {
+     "v": "n",
+     "n": "CHEST 2020 khuyến cáo 1: không làm procalcitonin thường quy; QĐ 2147/2026 mục 3.1.2 chỉ nêu cho người nghi nhiễm khuẩn hô hấp dưới nhập viện."
+    },
+    "cay": {
+     "v": "n",
+     "n": "CHEST 2020 khuyến cáo 1: không cấy đờm thường quy. Ca không nghĩ viêm phổi."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "n": "Ho không cơn, không rít hít vào, không nôn sau ho, mới 3 ngày: không nghĩ ho gà (ACCP 2006, TL-0160). Chưa có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp (có thể do virus) ngày 5, khởi phát sau lao động nắng nặng và nhiễm lạnh; chưa có dấu hiệu viêm phổi",
+     "ok": 1,
+     "n": "Viêm long đường hô hấp trên rồi ho khan, đờm trắng ít, rát sau xương ức; không sốt; phổi chỉ có ran ngáy thoáng qua (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1). Nhiễm lạnh, khói bụi là yếu tố thuận lợi (QĐ 708/2015 mục 3); virus 50–90% (QĐ 4235/2012 mục 2.3.1). Sinh hiệu dưới mọi ngưỡng nghi viêm phổi (QĐ 708/2015 mục 2; ACP/CDC 2016; CHEST 2020)."
+    },
+    {
+     "t": "Són tiểu khi gắng sức (khi ho mạnh), xuất hiện cùng đợt ho",
+     "ok": 1,
+     "n": "Chỉ són khi ho, hắt hơi; không tiểu buốt, không sốt, không đau hông lưng; sinh 5 con thường. Phân loại ban đầu là són khi gắng sức (NICE NG123 khuyến cáo 1.3.1)."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Không sốt, rét run, đau ngực màng phổi, đờm trắng, thở 18 l/p, SpO₂ 97%, không ran ẩm/nổ/đông đặc (QĐ 2147/2026 mục 3.1.1; QĐ 4235/2012, Viêm phế quản cấp, mục 2.2). CRB-65 = 1 (chỉ do tuổi ≥ 65), nhóm 0–1 điểm điều trị ngoại trú (QĐ 2147/2026 mục 3.2.1). Người cao tuổi biểu hiện có thể không rầm rộ nên cần tiêu chí quay lại."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Ho mới 3 ngày, không cơn, không rít hít vào, không nôn sau ho, không tiếp xúc (ACCP 2006, TL-0160). Chưa loại tuyệt đối: dặn quay lại nếu ho cơn hoặc kéo dài > 2–3 tuần."
+    },
+    {
+     "t": "Ho do trào ngược dạ dày thực quản",
+     "n": "Ợ chua thỉnh thoảng nhưng ho không tăng khi nằm hay sau ăn. QĐ 708/2015 mục 4.3: nghĩ tới trào ngược nếu còn ho nhiều khi đã điều trị tối ưu."
+    },
+    {
+     "t": "Đợt cấp suy tim, lao phổi, ung thư phổi",
+     "n": "Không phù, tĩnh mạch cổ không nổi, tim đều; ho mới 3 ngày, không ho máu, sụt cân (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kê kháng sinh; giải thích vì sao bà không cần (bệnh do virus, kháng sinh không làm hết ho nhanh hơn, có thể gây tiêu chảy, buồn nôn); nói rõ mốc nào sẽ cân nhắc lại",
+     "v": "c",
+     "n": "QĐ 708/2015 mục 4.1a: chỉ dùng khi chậm cải thiện, đờm mủ, bệnh tim phổi thận gan thần kinh cơ hoặc suy giảm miễn dịch, trên 65 tuổi kèm ≥ 2 yếu tố (nhập viện năm qua, đái tháo đường, suy tim, corticoid uống): bà không có yếu tố nào, đờm trắng. QĐ 4235/2012 (Viêm phế quản cấp, mục 3): chỉ khi ho > 7 ngày, đờm mủ rõ, bệnh mạn nặng; bà mới ngày 5. CHEST 2020 khuyến cáo 3; ACP/CDC 2016 Advice 1; NICE NG120 1.1.9, 1.1.10 (ho bớt trung bình nửa ngày; tiêu chảy, buồn nôn), 1.1.12, 1.1.15."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin, amoxicillin/acid clavulanic, azithromycin, cefuroxim) theo yêu cầu 'cho dứt', hoặc tiêm kháng sinh",
+     "v": "w",
+     "n": "Chưa có chỉ định (QĐ 708/2015 mục 4.1a; QĐ 4235/2012 mục 3; NICE NG120 1.1.9). QĐ 708/2015 mục 1: tới 70% viêm phế quản cấp bị dùng kháng sinh không phù hợp. Bảng II.1 chỉ để chọn thuốc khi đã có chỉ định."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng khi chỉ còn bà với bác sĩ về chuyện ho gây khó chịu khác để phát hiện són tiểu khi ho; trấn an đây là chuyện thường gặp, chữa được; làm que thử nước tiểu",
+     "v": "c",
+     "n": "NICE NG123 (TL-0635) khuyến cáo 1.3.1 (phân loại són tiểu), 1.3.5 (que thử nước tiểu). Tỉ lệ són tiểu khi ho ở tuổi này: không có trong tài liệu đã tải. Phần động cơ thật của ca."
+    },
+    {
+     "t": "Hướng dẫn co cơ sàn chậu ngay (ít nhất 8 lần co, 3 lần/ngày); nếu hết ho mà vẫn són thì quay lại tập có hướng dẫn ít nhất 3 tháng",
+     "v": "c",
+     "n": "NICE NG123 khuyến cáo 1.4.5 (≥ 8 lần co, 3 lần/ngày), 1.4.4 (tập có giám sát ≥ 3 tháng là điều trị đầu tay). Mốc chờ sau khi hết ho: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chăm sóc tại nhà: nghỉ ngơi bớt đi đồng, giữ ấm cổ ngực, uống đủ nước; có thể dùng mật ong ấm; tránh bụi rơm, khói",
+     "v": "c",
+     "n": "QĐ 4235/2012 (Viêm phế quản cấp, mục 3, 4); QĐ 708/2015 mục 4.3 (uống nhiều nước giúp ho, khạc đờm). Mật ong: NICE NG120 1.2.1 (bằng chứng hạn chế). Liều mật ong, lượng nước cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích diễn tiến: thường hết trong khoảng 1 tuần, ho có thể đến 20 ngày, thậm chí 3–4 tuần; hẹn tái khám sau 1 tuần hoặc ngay khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "QĐ 708/2015 mục 2 (hết chừng 1 tuần, ho đến 20 ngày); NICE NG120 1.1.1, 1.1.5 (3–4 tuần); CHEST 2020 khuyến cáo 2. Mốc 1 tuần là chọn lựa thiết kế, trùng mốc ho > 7 ngày (QĐ 4235/2012 mục 3) và 'cải thiện chậm' (QĐ 708/2015 mục 4.1a)."
+    },
+    {
+     "t": "Dặn tiêu chí quay lại ngay (sốt > 38 °C, thở nhanh hoặc khó thở, đau ngực nhói khi thở, ho ra máu, đờm vàng xanh đặc, lú lẫn, bỏ ăn uống) và đưa tờ ghi sẵn cho con gái",
+     "v": "c",
+     "n": "QĐ 708/2015 mục 2; CHEST 2020 (định nghĩa: mạch ≥ 100, thở ≥ 30, nhiệt ≥ 37,8 °C) và khuyến cáo 4; NICE NG120 1.1.5, 1.1.19; NICE NG237 1.1.2. Ngưỡng khác nhau: chọn bên thận trọng (xem mau_thuan HH-0671 mục 4)."
+    },
+    {
+     "t": "Chụp X-quang ngực hôm nay 'cho chắc' hoặc làm xét nghiệm máu thường quy",
+     "v": "w",
+     "n": "Không đủ chỉ định (QĐ 708/2015 mục 2; CHEST 2020 khuyến cáo 1; ACP/CDC 2016 Advice 1). Tốn tiền bà tự trả, không đổi xử trí."
+    },
+    {
+     "t": "Uống salbutamol hoặc khí dung giãn phế quản vì nghe ran ngáy",
+     "v": "a",
+     "n": "QĐ 708/2015 mục 4.2: khi có ran rít, ngáy; NICE NG120 1.1.6 và CHEST 2020 khuyến cáo 3 (mới hơn): không kê khi không có bệnh đường thở nền. Ran ngáy mất sau ho: không cần, kê vẫn chấp nhận (mau_thuan HH-0671 mục 3)."
+    },
+    {
+     "t": "Dextromethorphan khi ho khan nhiều làm mất ngủ, hoặc acetylcystein long đờm khi có đờm",
+     "v": "a",
+     "n": "QĐ 4235/2012 mục 3: dextromethorphan 10–20 mg/24 giờ khi ho khan nhiều gây mất ngủ; acetylcystein 200 mg x 3 gói/24 giờ khi có đờm. QĐ 708/2015 mục 4.3, CHEST 2020 khuyến cáo 3, NICE NG120 1.1.7: ít bằng chứng, không kê thường quy. Bà thức 1–2 lần mỗi đêm, đờm ít: không cần; chấp nhận."
+    },
+    {
+     "t": "Kê thuốc ho chứa codein, hoặc thuốc giảm ho, long đờm, kháng histamin thường quy cho mọi người bệnh ho",
+     "v": "w",
+     "n": "CHEST 2020 khuyến cáo 3: không kê thường quy thuốc giảm ho; NICE NG120 1.2.2: codein, kháng histamin, thuốc thông mũi không giúp giảm ho. Terpin codein (QĐ 4235/2012 mục 3) chỉ khi ho khan nhiều mất ngủ; an toàn codein ở tuổi 67: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê corticoid uống hoặc tiêm để 'dịu phế quản'",
+     "v": "w",
+     "n": "NICE NG120 1.1.6; CHEST 2020 khuyến cáo 3: không corticoid khi không có bệnh đường thở nền (bà không có)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp (nhiều khả năng do virus) ngày 5 của bệnh, ho ngày 3, ở phụ nữ 67 tuổi khỏe mạnh, khởi phát sau gặt lúa nắng nặng, nhiễm lạnh và hít bụi rơm",
+     "Chưa có dấu hiệu viêm phổi: không sốt, không rét run, không đau ngực màng phổi, thở 18 l/p, SpO₂ 97%, không ran ẩm/ran nổ/đông đặc, CRB-65 = 1 (chỉ do tuổi)",
+     "Không có bệnh nền hay yếu tố nguy cơ biến chứng nào để chỉ định kháng sinh (không bệnh tim phổi thận gan, không tiểu đường, không corticoid, không nhập viện năm qua)",
+     "Són tiểu khi gắng sức (khi ho mạnh, hắt hơi) xuất hiện cùng đợt ho; chưa có dấu nhiễm khuẩn tiết niệu",
+     "Ho gà không phù hợp (ho không cơn, không rít hít vào, không nôn sau ho, mới 3 ngày)",
+     "Ợ chua, tự dùng omeprazol 20 mg không theo toa; chưa tiêm phòng cúm, phế cầu"
+    ],
+    "phan_tich_chan_doan": [
+     "1) THỨ TỰ HỎI BỆNH. Câu mở để bà kể theo ý mình, ghi nhận mong muốn 'xin kháng sinh' mà chưa tranh luận. Dựng dòng thời gian: ngày 1 làm ruộng nắng gắt, bụi rơm, uống đá, tắm lạnh; ngày 2 ớn lạnh, rát họng, sổ mũi; ngày 3 ho khan; ngày 4–5 ho có đờm (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1; QĐ 708/2015 mục 3: nhiễm lạnh, khói bụi là yếu tố thuận lợi). Hỏi kiểu ho (đờm, màu đờm, ho cơn, rít hít vào, nôn sau ho), dấu hiệu nặng (sốt, rét run, khó thở, đau ngực, ho máu), bệnh nền và thuốc để áp tiêu chí kháng sinh (QĐ 708/2015 mục 4.1a), tiếp xúc, hút thuốc, trào ngược; cuối cùng hỏi đêm ngủ ra sao và 'còn khó chịu gì khác'.",
+     "2) GIẤU TRIỆU CHỨNG VÌ NGẠI NGÙNG. Hỏi chung thì bà nói 'không'. Cần tạo riêng tư (nhờ chị Hương ra ngoài), chuẩn hóa ('nhiều người ho nhiều hay bị són vài giọt, bác có bị không?'), giữ giọng bình thường. Mảnh giấu này là động cơ thật khiến bà đòi 'kháng sinh cho dứt nhanh'; nói ra và được trấn an thì áp lực xin thuốc giảm (NICE NG123 khuyến cáo 1.3.1, 1.3.5).",
+     "3) VÌ SAO LÀ VIÊM PHẾ QUẢN CẤP. Chẩn đoán lâm sàng: ho cấp ≤ 3 tuần, không bằng chứng viêm phổi hay nguyên nhân khác như cảm lạnh, hen, đợt cấp COPD (CHEST 2020, định nghĩa); thường không sốt, ho khan rồi có đờm, phổi bình thường hoặc ran ngáy, ran rít (QĐ 4235/2012 mục 2.1.1; QĐ 708/2015 mục 2). Virus chiếm 50–90% (QĐ 4235/2012 mục 2.3.1).",
+     "4) LOẠI TRỪ VIÊM PHỔI KHI KHÔNG CÓ SIÊU ÂM. Sinh hiệu dưới mọi ngưỡng (QĐ 708/2015 mục 2: mạch > 100, thở > 24, nhiệt > 38 °C; CHEST 2020: mạch ≥ 100, thở ≥ 30, nhiệt ≥ 37,8 °C; ACP/CDC 2016, người dưới 70 tuổi); không ran ẩm, ran nổ, đông đặc (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2); vắng sốt cao, rét run, đờm mủ, đau ngực màng phổi (QĐ 2147/2026 mục 3.1.1); CRB-65 = 1 chỉ do tuổi ≥ 65, nhóm 0–1 điểm điều trị ngoại trú (mục 3.2.1). Phòng khám có X-quang, CRP nhưng chưa có chỉ định; thiếu siêu âm phổi không đổi quyết định. Chưa loại trừ tuyệt đối vì người cao tuổi biểu hiện có thể không rầm rộ (QĐ 2147/2026 mục 3.1.1): cần mốc tái khám và tiêu chí quay lại.",
+     "5) KHẢ NĂNG ÁP DỤNG. CHEST 2020 áp dụng cho người ngoại trú miễn dịch bình thường; ACP/CDC 2016 áp dụng tiêu chí cho người khỏe dưới 70 tuổi. Bà Mận 67 tuổi, khỏe nên áp dụng được; từ 70 tuổi hoặc có bệnh nền thì ngưỡng hành động thấp hơn (NICE NG237 1.3.2). Bằng chứng riêng cho phụ nữ nông thôn làm ruộng: không có trong tài liệu đã tải.",
+     "6) BẪY: 'ĐÁP ÁN LÀ KHÔNG LÀM GÌ'. Người đọc lướt dễ nghĩ ho và xin thuốc ở tuổi 67 là phải kê, hoặc coi không làm là lười. Không kháng sinh, không phim là quyết định chủ động có lập luận (sinh hiệu, khám phổi, bệnh nền, đờm trắng, mốc ngày) kèm mốc đánh giá lại và dấu hiệu quay lại. Loại ho gà: ho cơn, nôn sau ho, rít hít vào gợi ý ho gà (ACCP 2006), bà không có. Hen/COPD, trào ngược, suy tim, lao, ung thư: không có dấu hiệu (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2; QĐ 708/2015 mục 4.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, không kháng sinh, không cận lâm sàng, chăm sóc hỗ trợ, giải thích, hẹn tái khám có mốc, dặn dấu hiệu nguy hiểm, xử lý chuyện són tiểu. QĐ 4235/2012 mục 3: viêm phế quản cấp đơn thuần có thể tự khỏi; QĐ 708/2015 mục 4.1a; CHEST 2020 khuyến cáo 3; ACP/CDC 2016 Advice 1; NICE NG120 1.1.9. Bà không có yếu tố nào của QĐ 708/2015 mục 4.1a (NICE NG120 1.1.15: trên 65 tuổi phải kèm ≥ 2 yếu tố) và chưa tới mốc ho > 7 ngày của QĐ 4235/2012 mục 3.",
+     "Lời thoại từ chối: 'Bác ơi, con hiểu bác muốn dứt ho cho kịp gặt lúa. Con nghe phổi bác rồi: không sốt, thở nhẹ, ô-xy tốt, phổi không có chỗ viêm. Đây là viêm phế quản do siêu vi, kháng sinh không diệt được siêu vi, uống chỉ thêm đau bụng, đi lỏng mà ho chỉ bớt chừng nửa ngày. Lần trước bác khỏi là bệnh tự hết. Con giúp bác bớt ho cách khác, một tuần nữa bác ghé con khám lại; sốt hay thở mệt thì tới ngay.' (NICE NG120 1.1.10, 1.1.12).",
+     "Són tiểu: trấn an, que thử nước tiểu, co cơ sàn chậu ≥ 8 lần × 3 lần/ngày (NICE NG123 1.3.1, 1.3.5, 1.4.5); hết ho mà vẫn són thì tập có hướng dẫn ≥ 3 tháng (1.4.4). Không cần thuốc.",
+     "Thuốc triệu chứng không thường quy (CHEST 2020 khuyến cáo 3; QĐ 708/2015 mục 4.3); dextromethorphan, acetylcystein, salbutamol (QĐ 4235/2012 mục 3) chấp nhận nhưng không cần; không corticoid (NICE NG120 1.1.6); mật ong ấm: bằng chứng hạn chế (1.2.1).",
+     "Tái khám sau 1 tuần hoặc ngay khi nặng. Nếu không đỡ hoặc nặng thêm: khám lại tìm viêm phổi, làm X-quang, CRP, công thức máu (CHEST 2020 khuyến cáo 2; NICE NG120 1.1.19). Ho > 3–4 tuần cần đánh giá lại (NG120 1.1.5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kháng sinh: KHÔNG kê",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không kê",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "QĐ 708/2015 mục 4.1a; QĐ 4235/2012 mục 3; CHEST 2020 khuyến cáo 3; NICE NG120 1.1.9. Khi có chỉ định: QĐ 708/2015 Bảng II.1 (người khỏe mạnh: macrolid, doxycyclin; 7–10 ngày, mục 4.1b) hoặc NICE NG120 (amoxicillin 500 mg × 3 lần/ngày × 5 ngày); không dùng hôm nay."
+     },
+     {
+      "thuoc": "Mật ong ấm (tự chăm sóc, không phải thuốc kê đơn)",
+      "ham_luong": "Mật ong nguyên chất",
+      "lieu": "Không có liều trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Khi ho nhiều, nhất là buổi tối",
+      "so_ngay": "Đến khi hết ho",
+      "ghi_chu": "Theo nguồn NICE NG120 2025, khuyến cáo 1.2.1: bằng chứng hạn chế về lợi ích với ho; không bắt buộc."
+     },
+     {
+      "thuoc": "Omeprazol 20 mg (thuốc bà đang tự mua)",
+      "ham_luong": "Viên nang 20 mg",
+      "lieu": "Như bà đang dùng, khi ợ chua",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Giữ nguyên, bàn lại khi hết ho",
+      "ghi_chu": "Thuốc bà đang tự dùng, không ảnh hưởng chẩn đoán; tương tác cần xử trí và hướng dẫn dùng lâu không theo toa: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bác bị viêm phế quản cấp, thường do siêu vi, thường bớt trong khoảng một tuần nhưng ho có thể đến 20 ngày (QĐ 708/2015 mục 2), 3–4 tuần vẫn bình thường (NICE NG120 1.1.1, 1.1.5). Kháng sinh không giúp bệnh này (NG120 1.1.10) nên hôm nay con không kê.",
+     "Bớt việc nặng ngoài đồng vài ngày; giữ ấm cổ ngực; uống nước ấm đều; có thể dùng mật ong ấm; tránh bụi rơm, khói (QĐ 4235/2012 mục 3, 4; QĐ 708/2015 mục 4.3; NICE NG120 1.2.1).",
+     "Són vài giọt khi ho là thường gặp, chữa được. Mỗi ngày co cơ như nhịn tiểu ít nhất 8 lần, 3 lần/ngày. Hết ho mà vẫn són, hoặc tiểu buốt, tiểu máu, sốt, đau hông lưng thì quay lại (NICE NG123 1.4.5, 1.4.4, 1.3.5).",
+     "Không tự mua kháng sinh, không giữ thuốc dư uống lần sau (QĐ 708/2015 mục 1). Lần trước hết ho là do bệnh tự hết.",
+     "QUAY LẠI NGAY nếu: sốt trên 38 °C hoặc rét run; thở nhanh, thở mệt, nói không hết câu, môi tím; đau ngực nhói khi hít sâu; ho ra máu; đờm vàng xanh đặc; lơ mơ, lẫn; không ăn uống được (QĐ 708/2015 mục 2; CHEST 2020; NICE NG120 1.1.5, 1.1.19; QĐ 2147/2026 mục 3.1.1). Chị Hương giữ tờ này.",
+     "Hẹn khám lại sau 1 tuần dù đỡ hay không; ho quá 3–4 tuần hoặc ho thành cơn thì đến sớm hơn (NICE NG120 1.1.5; ACCP 2006). Sau khi khỏi, bác trên 65 tuổi nên tiêm phòng cúm và phế cầu (QĐ 4235/2012 mục 4; QĐ 708/2015 mục 5)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 7 ngày",
+   "tiep_don": "Bà Nguyễn Thị Mận tái khám theo hẹn, 7 ngày sau lượt 1 (ngày 12 của bệnh, ho đã khoảng 10 ngày). Bà cho biết đã đỡ nhiều, chỉ còn ho khụ khụ vài tiếng buổi sáng; chị Hương lo vì nghe nói ho quá một tuần phải uống kháng sinh và muốn chụp phim cho chắc. Sinh hiệu: nhiệt độ 36,7 °C, mạch 76 l/p, HA 128/78 mmHg, nhịp thở 16 l/p, SpO₂ 98% khí trời, cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện hay giữ bà Mận 'cho chắc' khi bà hết sốt, thở 16 l/p, SpO₂ 98%, phổi sạch, ăn ngủ tốt là không có cơ sở: không tiêu chí nhập viện nào, CRB-65 chỉ 1 điểm do tuổi, nhóm 0–1 điểm điều trị ngoại trú (QĐ 2147/2026 mục 3.2.1). Bà mất thêm ngày công giữa mùa gặt, tốn viện phí, trong khi điều bà cần là xác nhận đã khỏi và dặn khi nào quay lại.",
+    "chuyen_tuyen": "Chuyển bà lên tuyến trên chụp phim vì 'ho hơn 10 ngày' là quá tay: ho do viêm phế quản cấp có thể đến 20 ngày (QĐ 708/2015 mục 2), thường tự hết trong 3–4 tuần (NICE NG120 1.1.1) và bà đang đỡ rõ; CHEST 2020 khuyến cáo 2 chỉ nêu xét nghiệm đích khi ho kéo dài hoặc nặng thêm. Chuyến đi 12 km và tiền xét nghiệm là gánh nặng với gia đình làm nông.",
+    "theo_doi": "Hẹn bà khám lại hằng tuần hoặc kê thêm thuốc 'bổ phổi' để theo dõi cho dứt hẳn là không cần: bà đã khỏi theo mọi tiêu chí, ho nhẹ còn lại là diễn tiến bình thường (QĐ 708/2015 mục 2; NICE NG120 1.1.5: chỉ dặn quay lại khi ho không đỡ sau 3–4 tuần hay nặng nhanh). Theo dõi dày làm bà tốn ngày công và dễ nghĩ mình còn bệnh nặng."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đỡ nhiều rồi, ho có chút xíu buổi sáng thôi. Con gái nó cứ lo, nói ho hơn tuần rồi phải uống kháng sinh cho dứt hẳn, với chụp phim cho chắc.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "128/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn. Từ khi khám lần trước thấy bớt dần: ngày thứ 3 sau khám ho thưa hẳn, hôm nay chỉ ho khụ khụ vài tiếng buổi sáng, hết đờm. Đã ra đồng làm nhẹ lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và diễn tiến: đỡ rõ rệt"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Làm theo lời dặn: bớt việc nặng vài ngày, uống nước ấm, pha mật ong buổi tối, che miệng mũi khi làm đồng bụi. Không mua hay uống kháng sinh nào, không thuốc gì khác ngoài omeprazol như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ không kháng sinh; không tự uống thuốc"
+    },
+    {
+     "id": "khong_nguy_hiem",
+     "noi_dung": "Không sốt lại, không rét run, không khó thở, không đau ngực, không ho ra máu, đờm không vàng xanh. Ăn ngon, ngủ đủ, không còn thức giấc vì ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí khỏi: hết sốt, không dấu hiệu nặng, ăn ngủ bình thường"
+    },
+    {
+     "id": "son_tieu",
+     "noi_dung": "Từ khi bớt ho đã hết són tiểu. Ho nhẹ buổi sáng không còn ướt quần. Có tập co cơ vùng kín theo lời dặn 2–3 hôm rồi quên, ngại hỏi lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có gì khó chịu không' thì nói 'hết rồi'. Chỉ kể chi tiết khi bác sĩ hỏi lại riêng về chuyện són tiểu và chuyện tập co cơ; nếu chị Hương có mặt thì chỉ nói 'cũng đỡ'.",
+     "k": 1,
+     "y": "Xác nhận hết són tiểu; tập cơ sàn chậu"
+    },
+    {
+     "id": "lo_cua_con",
+     "noi_dung": "Chị Hương nghe người trong xóm nói ho quá một tuần là phải uống kháng sinh, sợ mẹ 67 tuổi 'ho lâu thành viêm phổi', muốn mẹ chụp phim. Chị đã nghỉ bán hàng nửa ngày chở mẹ, ngại tốn thêm tiền.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: con gái lo, đòi kháng sinh và chụp phim vì ho > 1 tuần"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Bà chưa bao giờ tiêm cúm hay phế cầu, không biết có loại tiêm cho người lớn. Hút thuốc: không. Không có nhà ai ho kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dự phòng: vắc xin cho người trên 65 tuổi"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Ợ chua ít hơn, ho sáng không liên quan bữa ăn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ ho do trào ngược"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui vẻ, nói câu dài không phải dừng lấy hơi. Môi hồng, không tím, niêm mạc ẩm. Cân nặng 52 kg như cũ.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p, thở êm. Rung thanh hai bên đều, gõ trong. Nghe: rì rào phế nang rõ hai bên, hết ran ngáy; không ran ẩm, ran nổ, ran rít, không cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 16 l/p, thở êm. Rung thanh hai bên đều, gõ hai phổi trong.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa lưng hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "n",
+     "r": "Tim, phổi chưa thấy bất thường.",
+     "n": "Không cần chụp dù ho đã trên 1 tuần: bà đang đỡ rõ, sinh hiệu bình thường, phổi sạch. CHEST 2020 khuyến cáo 2: chỉ làm xét nghiệm đích nếu ho kéo dài hoặc nặng thêm; QĐ 708/2015 mục 2: không thỏa tiêu chí chụp. Chụp lại phim sau khi khỏi viêm phế quản cấp: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 4 mg/L.",
+     "bang": {
+      "crp": 4
+     },
+     "n": "Không cần: NICE NG237 1.3.4 chỉ dùng CRP khi chưa rõ có cần kháng sinh."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "BC 7,2 G/L · Neutrophil 58% · Hb 125 g/L · TC 255 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 58.0,
+      "neu": 4.18,
+      "lym_pct": 32.0,
+      "lym": 2.3,
+      "mono_pct": 7.0,
+      "mono": 0.5,
+      "eos_pct": 2.5,
+      "eos": 0.18,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.3,
+      "hgb": 125,
+      "hct": 0.38,
+      "mcv": 88.4,
+      "mch": 29.1,
+      "mchc": 329,
+      "rdw": 13.3,
+      "plt": 255
+     },
+     "n": "Không cần: CHEST 2020 khuyến cáo 1."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "n": "Không ho cơn, không nôn sau ho, ho thưa dần: không nghĩ ho gà (ACCP 2006, TL-0160)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp đã khỏi gần hoàn toàn (ngày 12 của bệnh, ho còn thưa vài tiếng buổi sáng), không biến chứng",
+     "ok": 1,
+     "n": "Đỡ rõ, hết sốt, hết đờm, phổi sạch, sinh hiệu bình thường. Ho cấp thường tự hết trong 3–4 tuần (NICE NG120 1.1.1); ho đến 20 ngày vẫn bình thường (QĐ 708/2015 mục 2)."
+    },
+    {
+     "t": "Són tiểu khi ho đã hết",
+     "ok": 1,
+     "n": "Hết cùng lúc bớt ho, ủng hộ són khi gắng sức do ho (NICE NG123 1.3.1). Hết ho mà còn són thì tập có hướng dẫn (1.4.4)."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Không sốt, thở 16 l/p, SpO₂ 98%, phổi sạch, ho giảm dần (QĐ 2147/2026 mục 3.1.1)."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Ho không cơn, không nôn sau ho, giảm nhanh sau 10 ngày; ho gà thường kéo dài hơn, có giai đoạn kịch phát (ACCP 2006)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận đã khỏi bằng tiêu chí lâm sàng (hết sốt, thở và SpO₂ bình thường, hết đờm, phổi sạch, ăn ngủ tốt, ho giảm dần); không cần thuốc, không cần cận lâm sàng; không cần hẹn tái khám định kỳ",
+     "v": "c",
+     "n": "CHEST 2020 khuyến cáo 1–2; NICE NG120 1.1.1, 1.1.5; QĐ 708/2015 mục 2. Tiêu chí 'khỏi' cụ thể do thiết kế ca; tài liệu đã tải không nêu riêng."
+    },
+    {
+     "t": "Không kê kháng sinh dù ho đã trên 1 tuần vì bà đang đỡ rõ; giải thích cho chị Hương vì sao ho quá 7 ngày chưa phải là chỉ định khi đang đỡ",
+     "v": "c",
+     "n": "QĐ 708/2015 mục 4.1a(1): kháng sinh khi cải thiện chậm hoặc không cải thiện (bà đỡ rõ); mục 2: ho đến 20 ngày; NICE NG120 1.1.1, 1.1.9, 1.1.10; CHEST 2020 khuyến cáo 3, định nghĩa ≤ 3 tuần; ACP/CDC 2016: ho tới 6 tuần vẫn là viêm phế quản không biến chứng. QĐ 4235/2012 mục 3 nêu 'ho > 7 ngày' là một chỉ định: xem mục kế."
+    },
+    {
+     "t": "Kê kháng sinh vì ho đã trên 7 ngày (mốc của QĐ 4235/2012)",
+     "v": "a",
+     "n": "QĐ 4235/2012 (Viêm phế quản cấp, mục 3): kháng sinh khi ho > 7 ngày, đờm mủ rõ hoặc bệnh mạn nặng. QĐ 708/2015 mục 2, 4.1a; CHEST 2020; NICE NG120 2025: ho đến 20 ngày–3 tuần là bình thường, chỉ dùng khi chậm hoặc không cải thiện. Hai nguồn khác nhau nên chấp nhận (a), không là đáp án chính vì bà đã đỡ hoàn toàn (xem mau_thuan). Nếu kê: QĐ 708/2015 Bảng II.1 (macrolid, doxycyclin), 7–10 ngày (mục 4.1b)."
+    },
+    {
+     "t": "Nói rõ khi nào cần chụp phim hoặc xét nghiệm dù đã khỏi: ho còn kéo dài quá 3–4 tuần, ho nặng thêm, ho cơn, sốt lại, ho máu, sụt cân; lúc đó khám lại và xét X-quang, công thức máu, CRP",
+     "v": "c",
+     "n": "CHEST 2020 khuyến cáo 2; NICE NG120 1.1.4, 1.1.5, 1.1.19; ACCP 2006 (ho 3–8 tuần với X-quang bình thường là ho sau nhiễm khuẩn; > 8 tuần là ho mạn); QĐ 4235/2012 mục 2.2 (lao, ung thư là chẩn đoán phân biệt). Tuổi 67, không hút thuốc: chưa có tiêu chí chụp (QĐ 708/2015 mục 2)."
+    },
+    {
+     "t": "Kiểm tra lại chuyện són tiểu (đã hết chưa), khuyến khích tiếp tục co cơ sàn chậu 8 lần × 3 lần/ngày; nếu còn són khi hết ho thì tập có hướng dẫn ≥ 3 tháng",
+     "v": "c",
+     "n": "NICE NG123 khuyến cáo 1.4.5, 1.4.4, 1.3.5. Không cần thuốc hay chuyển tuyến lúc này."
+    },
+    {
+     "t": "Hẹn tiêm phòng cúm hằng năm và phế cầu (bà trên 65 tuổi), sau khi khỏi hẳn",
+     "v": "c",
+     "n": "QĐ 4235/2012 (Viêm phế quản cấp, mục 4): khuyến cáo mạnh cho người trên 65 tuổi; QĐ 708/2015 mục 5. Loại vắc xin phế cầu, số mũi, mốc thời gian sau ốm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn tránh bụi rơm, khói, giữ ấm khi trời lạnh, uống đủ nước khi làm đồng nắng nóng",
+     "v": "c",
+     "n": "QĐ 4235/2012 (mục 4); QĐ 708/2015 mục 3, 5. Lượng nước cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chụp X-quang ngực 'cho chắc' vì ho trên 1 tuần hoặc vì bà đã 67 tuổi",
+     "v": "w",
+     "n": "QĐ 708/2015 mục 2; CHEST 2020 khuyến cáo 1–2. Tốn tiền, không đổi xử trí."
+    },
+    {
+     "t": "Kê thuốc ho, long đờm, 'thuốc bổ phổi' hoặc corticoid khi bà đã hết đờm và ho thưa",
+     "v": "w",
+     "n": "CHEST 2020 khuyến cáo 3; NICE NG120 1.1.6, 1.1.7, 1.2.2; QĐ 708/2015 mục 4.3. Không có triệu chứng để điều trị."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp (có thể do virus) ngày 12 của bệnh, đã khỏi gần hoàn toàn, không biến chứng, không cần kháng sinh",
+     "Són tiểu khi ho đã hết cùng lúc bớt ho",
+     "Không có dấu hiệu viêm phổi hay ho gà; chưa có chỉ định tìm nguyên nhân khác của ho",
+     "Chưa tiêm phòng cúm, phế cầu (bà trên 65 tuổi)"
+    ],
+    "phan_tich_chan_doan": [
+     "1) THỨ TỰ HỎI BỆNH. Hỏi diễn tiến từ lần trước (đỡ từ ngày nào, còn ho mấy lần), kiểm lại các dấu hiệu nguy hiểm đã dặn (sốt, khó thở, đau ngực, ho máu, đờm mủ), ăn ngủ, có tự mua thuốc không, rồi hỏi riêng chuyện són tiểu. Hỏi nỗi lo của chị Hương và nguồn tin 'ho quá một tuần phải uống kháng sinh'.",
+     "2) TIÊU CHÍ XÁC NHẬN KHỎI: hết sốt, nhịp thở và SpO₂ bình thường, phổi sạch, hết đờm, ăn ngủ bình thường, ho giảm dần; không dấu cảnh báo viêm phổi (QĐ 708/2015 mục 2; CHEST 2020, định nghĩa; QĐ 2147/2026 mục 3.1.1). Ho còn nhẹ sau 10 ngày vẫn bình thường: QĐ 708/2015 mục 2 (đến 20 ngày), NICE NG120 1.1.1 (3–4 tuần), CHEST 2020 (≤ 3 tuần), ACP/CDC 2016 (tới 6 tuần).",
+     "3) KHÔNG KHÁNG SINH DÙ HO > 7 NGÀY: hai nguồn Bộ Y tế viết khác nhau. QĐ 4235/2012 mục 3: kháng sinh khi ho kéo dài trên 7 ngày, đờm mủ rõ, hoặc bệnh mạn nặng. QĐ 708/2015 mục 2, 4.1a: hết sau chừng 1 tuần nhưng ho có thể đến 20 ngày; chỉ dùng khi cải thiện chậm hoặc không cải thiện, đờm mủ, bệnh kèm theo; mục 1 nhấn mạnh dùng kháng sinh không phù hợp (tới 70%). Lý do chính thức của sự khác biệt: không có trong tài liệu đã tải. Với bà Mận hai bản đồng ý ở điểm chính: bà đã đỡ rõ, đờm trắng rồi hết nên không có chỉ định. Kê theo mốc 7 ngày của QĐ 4235 chấp nhận được, không là đáp án chính.",
+     "4) KHI NÀO CẦN CHỤP HOẶC XÉT NGHIỆM DÙ ĐÃ KHỎI: lúc này không cần. Chỉ khi ho quá 3–4 tuần hoặc nặng thêm: khám lại, X-quang, công thức máu, CRP (CHEST 2020 khuyến cáo 2; NICE NG120 1.1.5). Ho 3–8 tuần với X-quang bình thường là ho sau nhiễm khuẩn, > 8 tuần là ho mạn cần tìm nguyên nhân (ACCP 2006). Ho máu, sụt cân, ho khạc đờm kéo dài hướng tới lao, ung thư (QĐ 4235/2012 mục 2.2); bà không có.",
+     "5) TRẢ LỜI NỖI LO CỦA CON GÁI: ghi nhận (chị nghỉ bán hàng nửa ngày chở mẹ), dùng số liệu của mẹ: không sốt, thở 16 l/p, SpO₂ 98%, phổi sạch, ho giảm; ho có thể đến 20 ngày; kháng sinh chỉ bớt ho nửa ngày, gây tiêu chảy, buồn nôn (NICE NG120 1.1.10); chụp phim lúc này không đổi gì. Chỉ rõ mốc quay lại. Khả năng áp dụng như lượt 1 (CHEST 2020, ACP/CDC 2016): bà 67 tuổi khỏe nên áp dụng được."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: xác nhận khỏi, không kê gì thêm, giải thích, cho về không cần tái khám định kỳ nhưng có mốc quay lại, dặn dự phòng. Đây là phần 'không làm gì' có lập luận: không kháng sinh, không X-quang, không CRP, không thuốc ho (CHEST 2020 khuyến cáo 1–3; ACP/CDC 2016 Advice 1; NICE NG120 1.1.9).",
+     "Mật ong ngưng khi hết ho. Omeprazol tự mua giữ như cũ; hướng dẫn dùng PPI lâu dài: không có trong tài liệu đã tải cho ca này. Són tiểu: nếu còn thì tập có hướng dẫn ≥ 3 tháng (NICE NG123 1.4.4, 1.4.5). Vắc xin cúm, phế cầu cho người trên 65 tuổi (QĐ 4235/2012 mục 4; QĐ 708/2015 mục 5); loại và lịch tiêm: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc mới",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Bà đã đỡ hoàn toàn; không kháng sinh, thuốc ho, long đờm, corticoid (CHEST 2020 khuyến cáo 3; NICE NG120 1.1.6, 1.1.7, 1.1.9)."
+     },
+     {
+      "thuoc": "Mật ong ấm (tự chăm sóc)",
+      "ham_luong": "Mật ong nguyên chất",
+      "lieu": "Không có liều trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Khi còn ho",
+      "so_ngay": "Ngưng khi hết ho",
+      "ghi_chu": "Theo nguồn NICE NG120 2025, khuyến cáo 1.2.1: bằng chứng hạn chế; không bắt buộc."
+     },
+     {
+      "thuoc": "Omeprazol 20 mg (thuốc bà đang tự mua)",
+      "ham_luong": "Viên nang 20 mg",
+      "lieu": "Như bà đang dùng, khi ợ chua",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Giữ nguyên",
+      "ghi_chu": "Thuốc đang dùng, giữ nguyên, không ảnh hưởng."
+     }
+    ],
+    "dan_do": [
+     "Bác đã khỏi viêm phế quản cấp. Ho vài tiếng buổi sáng là bình thường, có thể còn tới 3–4 tuần (NICE NG120 1.1.1, 1.1.5; QĐ 708/2015 mục 2: đến 20 ngày). Không cần kháng sinh, không cần chụp phim; bác làm đúng là uống nước, nghỉ ngơi, không tự mua thuốc.",
+     "Quay lại sớm nếu: ho quá 3–4 tuần; ho nặng thêm, thành cơn, nôn sau ho; sốt lại, thở mệt, đau ngực; ho ra máu; sụt cân; đờm vàng xanh đặc (CHEST 2020 khuyến cáo 2, 4; NICE NG120 1.1.5, 1.1.19; QĐ 4235/2012 mục 2.2). Lúc đó con khám lại, chụp phim, xét nghiệm.",
+     "Són tiểu đã hết là tốt; cứ co cơ sàn chậu 8 lần, 3 lần mỗi ngày. Hết ho mà còn són, hoặc tiểu buốt, tiểu máu, sốt, đau hông lưng thì quay lại (NICE NG123 1.4.5, 1.4.4, 1.3.5).",
+     "Mùa gặt: giữ ấm, tránh bụi rơm, khói; ra nắng nhớ uống đủ nước, không tắm lạnh ngay sau khi làm nặng (QĐ 4235/2012 mục 4; QĐ 708/2015 mục 3, 5). Bác trên 65 tuổi nên tiêm phòng cúm hằng năm và phế cầu (QĐ 4235/2012 mục 4).",
+     "Với chị Hương: ho quá một tuần không có nghĩa là viêm phổi nếu mẹ không sốt, không khó thở; lần sau cứ làm đúng tờ dặn, không tự mua kháng sinh ở tiệm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: bà Mận không dùng kháng sinh, bớt việc nặng, uống nước ấm; ho thưa từ ngày thứ 3 sau khám, 7 ngày sau chỉ còn vài tiếng ho buổi sáng, phổi sạch, hết són tiểu; không cần thuốc hay phim, được dặn mốc quay lại và hẹn tiêm cúm, phế cầu. (2) Xử trí ẩu (NEAR MISS): bác sĩ nghe ran ngáy, thấy bà 67 tuổi và nghe chị Hương nài nên kê amoxicillin/acid clavulanic 7 ngày, thêm thuốc ho, corticoid, không hỏi chuyện són tiểu, không dặn dấu hiệu quay lại. Bà vẫn khỏi sau 8–10 ngày, chỉ đi lỏng vài ngày; tốt vì viêm phế quản cấp do virus vốn tự khỏi (QĐ 4235/2012, Viêm phế quản cấp, mục 3; QĐ 708/2015 mục 1, 2; NICE NG120 1.1.1), không nhờ toa thuốc. Niềm tin 'kháng sinh là dứt' của bà được củng cố; chuyện són tiểu không ai hỏi nên bà tiếp tục giấu. Kết cục tốt không hợp thức hóa quy trình sai.",
+ "nhieu": [
+  "Đòi kháng sinh: bà xin ngay câu đầu, lượt 2 con gái nài vì 'ho quá một tuần'. Từ chối bằng lời tôn trọng, dùng số liệu của chính bà, nói rõ mốc đánh giá lại; kê kháng sinh chấm w ở lượt 1, a ở lượt 2 (mốc ho > 7 ngày của QĐ 4235).",
+  "Giấu triệu chứng vì ngại ngùng: són tiểu khi ho là động cơ thật khiến bà đòi thuốc nhanh; lộ khi chỉ còn bà với bác sĩ và được chuẩn hóa nhẹ nhàng (su_that son_tieu, dong_co).",
+  "Con gái chen ngang, hỏi 'sao không chụp phim cho chắc': ghi nhận nỗi lo rồi quay lại tiêu chí lâm sàng."
+ ],
+ "bai_hoc_bien": [
+  "Ca bẫy 'đáp án là không làm gì': không kháng sinh, không X-quang, không xét nghiệm là quyết định chủ động dựa trên sinh hiệu, khám phổi, bệnh nền, đờm trắng, mốc ngày; luôn kèm giải thích, mốc tái khám, tiêu chí quay lại (QĐ 708/2015 mục 2, 4.1a; CHEST 2020 khuyến cáo 1–3; ACP/CDC 2016 Advice 1; NICE NG120 1.1.9, 1.1.12).",
+  "Từ chối kháng sinh mà giữ lòng tin: ghi nhận mong muốn, nói bằng dữ kiện của bệnh nhân, nêu cái mất của kháng sinh (tiêu chảy, buồn nôn, ho bớt ~nửa ngày: NICE NG120 1.1.10), hứa mốc gặp lại.",
+  "Giấu triệu chứng vì ngại: hỏi chung không ra; cần riêng tư, chuẩn hóa, giọng trung tính. Mảnh giấu thường là lý do thật đòi thuốc (NICE NG123 1.3.1, 1.3.5).",
+  "Mốc 'ho > 7 ngày' (QĐ 4235/2012) và 'cải thiện chậm' (QĐ 708/2015) khác nhau: đang đỡ rõ thì ho 10–20 ngày vẫn bình thường (QĐ 708/2015 mục 2; NICE NG120 1.1.1).",
+  "Tái khám khi đã khỏi: xác nhận bằng tiêu chí lâm sàng, không làm thêm xét nghiệm, nói rõ khi nào mới chụp phim (ho > 3–4 tuần, nặng thêm, dấu cảnh báo: CHEST 2020 khuyến cáo 2; NICE NG120 1.1.5; ACCP 2006)."
+ ],
+ "diem_nho": [
+  "Viêm phế quản cấp: viêm long đường hô hấp trên rồi ho khan, ho đờm, rát sau xương ức, thường không sốt, phổi bình thường hoặc ran ngáy/rít; virus 50–90% (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1, 2.3.1).",
+  "Hầu hết không cần kháng sinh; chỉ khi chậm cải thiện, đờm mủ, bệnh tim phổi thận gan thần kinh cơ hoặc suy giảm miễn dịch, trên 65 tuổi kèm ≥ 2 (trên 80 kèm ≥ 1) yếu tố: nhập viện năm qua, đái tháo đường, suy tim, corticoid uống (QĐ 708/2015 mục 4.1a; NICE NG120 1.1.15).",
+  "Nên chụp X-quang khi tuổi > 75, mạch > 100, thở > 24, nhiệt > 38 °C, hoặc ran ẩm, ran nổ, đông đặc (QĐ 708/2015 mục 2). CHEST 2020: không chụp thường quy.",
+  "Thời gian bệnh: hết sau chừng 1 tuần, ho đến 20 ngày (QĐ 708/2015 mục 2); thường 3–4 tuần (NICE NG120 1.1.1); ho 3–8 tuần với X-quang bình thường là ho sau nhiễm khuẩn (ACCP 2006)."
+ ],
+ "nguon": [
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – Viêm phế quản cấp ở người lớn, mục 1–5, Bảng II.1 (tr. 77–80)",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Hướng dẫn chẩn đoán và điều trị bệnh hô hấp – bài Viêm phế quản cấp mục 1–4",
+  "TL-0151 · CHEST 2020 – Acute Cough Due to Acute Bronchitis in Immunocompetent Adult Outpatients, Chest 2020;157(5):1256-1265 – định nghĩa, khuyến cáo 1–4",
+  "TL-0156 · ACP/CDC 2016 – Appropriate Antibiotic Use for Acute Respiratory Tract Infection in Adults, Ann Intern Med 2016;164:425-434 – Advice 1; phần Acute Uncomplicated Bronchitis",
+  "TL-0146 · NICE NG237 2023 (cập nhật 09/2025) – khuyến cáo 1.1.2, 1.3.1–1.3.4",
+  "NICE NG120 2019 (cập nhật 2025) – Cough (acute): antimicrobial prescribing (kho cũ tltk-10000-ca) – khuyến cáo 1.1.1–1.1.19, 1.2.1, 1.2.2, bảng chọn kháng sinh",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 3.1.1, 3.2.1",
+  "TL-0160 · ACCP 2006 – Postinfectious cough – định nghĩa ho sau nhiễm khuẩn 3–8 tuần; ho cơn, nôn sau ho, rít hít vào gợi ý ho gà",
+  "TL-0635 · NICE NG123 2019 (bản 2026) – Urinary incontinence in women – khuyến cáo 1.3.1, 1.3.5, 1.4.4, 1.4.5"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-07 – bản 1: soạn mới theo CLAUDE.md mục 3. Ca 2 lượt, không có siêu âm. Lượt 1: ngày 5 của bệnh, không kháng sinh, không cận lâm sàng, phát hiện són tiểu bị giấu; lượt 2: đã khỏi, giải thích mốc ho > 7 ngày, khi nào chụp phim dù đã khỏi.",
+  "Tài liệu đã đọc: TL-0015 (Viêm phế quản cấp ở người lớn, tr. 77–80); TL-0131 (bài Viêm phế quản cấp, mục 1–4); TL-0151 (khuyến cáo 1–4, định nghĩa); TL-0156 (Advice 1, phần Acute Bronchitis); TL-0146 (1.1.2, 1.3.1–1.3.4); NICE NG120 (1.1.1–1.1.19, 1.2.1–1.2.2, bảng chọn kháng sinh); TL-0121 (3.1.1, 3.1.2, 3.2.1); TL-0160 (tóm tắt, định nghĩa); TL-0635 (1.3.1, 1.3.5, 1.4.4, 1.4.5).",
+  "Chỗ thiếu tài liệu: liều mật ong; lượng nước uống; tiêu chí khỏi riêng; mốc tái khám chuẩn (1 tuần là chọn lựa thiết kế); tỉ lệ són tiểu khi ho; loại và lịch vắc xin phế cầu; hướng dẫn omeprazol dùng lâu; lý do chính thức vì sao QĐ 4235/2012 (ho > 7 ngày) và QĐ 708/2015 (cải thiện chậm) khác nhau.",
+  "Mâu thuẫn: dùng lại HH-0671 (X-quang, CRP, thuốc triệu chứng, ngưỡng sinh hiệu), HH-0588 (són tiểu); mục mới: ho > 7 ngày ở người đang đỡ (HH-0634_mau_thuan.md). Không cần thêm mục danh mục.",
+  "Kho: bản chữ TL-0145 không phải tài liệu CDC về điều trị ho gà (là quy trình Manitoba) nên loại ho gà bằng TL-0160."
+ ]
+}

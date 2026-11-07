@@ -1,0 +1,754 @@
+{
+ "ma_ca": "HH-1055",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo CLAUDE.md mục 3 (2026-11-08)",
+ "benh": "HH_viem_thanh_quan_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm thanh quản cấp",
+  "chan_doan_phai_loai_tru": [
+   "Bạch hầu",
+   "Dị vật đường thở"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Cơ đỏ ngụy trang",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Công nhân cạo mủ cao su",
+  "yeu_to_khoi_phat": "Sau khi uống nước không sạch",
+  "thuoc_dang_dung": "Tự truyền dịch tại nhà",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình"
+ },
+ "benh_nhan": {
+  "ten": "Tạ Thị Diễm",
+  "tuoi": 27,
+  "gioi": "Nữ",
+  "nghe": "Công nhân cạo mủ cao su ở nông trường, vào lô từ 2–3 giờ sáng, đội đèn trán; ở lán tập thể cạnh lô",
+  "can_nang": 52,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi chị là 'chị' hoặc 'em'; chị xưng 'em', gọi bác sĩ là 'bác sĩ'. Chị Hiên gọi chị Diễm là 'Diễm' hoặc 'em', xưng 'chị', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, ít nói, trả lời đủ và thật thà khi được hỏi đúng, không giấu bệnh. Quen cắn răng chịu, không coi hụt hơi là bệnh. Lo tiền, lo chồng biết mình đi khám.",
+  "kieu_nhieu": "Hợp tác tốt, không nói dối, nhưng chỉ trả lời đúng điều được hỏi: hỏi 'có khó thở không' thì nói 'không, chỉ mệt vì mất ngủ'; hỏi 'có uống thuốc gì không' thì nói 'không', vì chị không coi truyền dịch là thuốc. Chỉ kể thật khi được hỏi theo việc làm hằng ngày (gánh thùng mủ, leo dốc lô) hoặc hỏi đúng 'có chích, truyền gì ở nhà không'. Từ chối lấy máu và ngoáy họng.",
+  "nguoi_nha": "Chị Hiên, 33 tuổi, đồng nghiệp cùng tổ cạo mủ, ở lán bên cạnh, chở chị Diễm bằng xe máy. Chị Hiên biết: chị Diễm cãi nhau to với chồng và mẹ chồng 4 hôm trước, khóc la cả đêm, rồi mất tiếng; có người bán thuốc ở tạp hóa đến truyền 2 chai ở lán. Chị Hiên KHÔNG biết chị Diễm định xin giấy nghỉ bệnh để về nhà mẹ ruột. Khi bác sĩ hỏi về sinh hoạt, đêm ngủ, ai ở cùng, chị Hiên thường nói thêm (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Chị Hiên (đồng nghiệp)",
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#1f1713",
+   "kieuToc": "buoc",
+   "ao": "#4f6b57",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d8ab86",
+    "toc": "#3a2a20",
+    "kieuToc": "bui",
+    "ao": "#8a5a6d",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Khàn tiếng, đau họng mấy ngày nay, xin thuốc và xin giấy nghỉ",
+ "khoa_cls": {
+  "nhom": [
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám không có máy CT và không có nội soi ống mềm. Có xét nghiệm, X-quang, siêu âm, điện tim, bình oxy, bộ soi thanh quản gián tiếp (gương). Không có bác sĩ gây mê, không đặt nội khí quản hay mở khí quản được. Bệnh viện tỉnh có tai mũi họng và hồi sức cách khoảng 38 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Tạ Thị Diễm, 27 tuổi, công nhân cạo mủ cao su, được đồng nghiệp chở đến vì khàn tiếng, đau họng mấy ngày nay. Sinh hiệu: nhiệt độ 37,8 °C, mạch 88 l/p, HA 110/70 mmHg, nhịp thở 20 l/p, SpO₂ 97% khí trời, cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện chưa cần: độ I điều trị ngoại trú, nghỉ ngơi, hạn chế nói, dặn dấu hiệu nặng (TL-0130, hạ thanh môn mục 4.2.1); chỉ độ IIB, III mới nhập viện (mục 4.2.3). Chị chỉ mang khoảng 300.000 đồng, chưa cho chồng biết đã đi khám nên rất ngại nằm viện, dễ bỏ về giữa chừng và mất cơ hội được dặn.",
+    "chuyen_tuyen": "Chuyển thẳng lên bệnh viện tỉnh khi mới độ I là quá tay (TL-0130, hạ thanh môn mục 4.2.1: ngoại trú). Chị phải đi 38 km, mất ngày công, tốn tiền xe đang giấu chồng; nhiều khả năng chị từ chối rồi về lán, không được theo dõi.",
+    "theo_doi": "Lưu chị lại phòng khám nhiều giờ không làm hại chị nhưng không bắt buộc: khó thở thanh quản độ I được điều trị ngoại trú, nghỉ ngơi, hạn chế nói, kèm hướng dẫn dấu hiệu nặng (QĐ 5643/2015, hạ thanh môn mục 4.2.1; Viêm thanh quản cấp tính mục 4.1.2: độ I điều trị nội khoa). Chị mất thêm buổi công, lo chồng biết; ngồi chờ ở phòng khám cũng không thay được việc dặn kỹ dấu hiệu nặng và có người ở cùng ban đêm, vì đó mới là thứ giúp chị quay lại kịp nếu nặng lên."
+   },
+   "loi_mo": "Dạ em khàn tiếng mấy bữa nay, nói không ra hơi. Bác sĩ cho em ít thuốc cho đỡ họng, với cho em xin cái giấy nghỉ vài bữa được không?",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "110/70",
+    "nhiet": "37,8",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khàn tiếng, đau họng mấy ngày nay, nói không ra hơi. Xin thuốc cho đỡ và xin giấy nghỉ vài ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Ngày 0: đi cạo mủ, hết nước mang theo nên múc nước ở khe và giếng đào gần lô uống cả buổi, không đun. Nước hơi đục, không thấy con gì trong nước, không sặc, không nghẹn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi trước khi bệnh có ăn uống gì lạ, uống nước nguồn nào, hoặc hỏi có sặc, hóc, nuốt nhầm gì không.",
+     "k": 1,
+     "y": "Nguồn nước không sạch; hội chứng xâm nhập âm tính (loại trừ dị vật, kể cả dị vật sống trong nước suối)"
+    },
+    {
+     "id": "tieu_chay",
+     "noi_dung": "Ngày 1–2 đau bụng nhẹ, đi tiêu lỏng 2–3 lần mỗi ngày, phân vàng, không máu, không nôn. Uống nước đun sôi, ăn cháo, ngày 3 hết tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "ho_hong",
+     "noi_dung": "Ngày 3 bắt đầu đau họng, hơi sốt, chảy mũi trong, ho khan. Nuốt đau nhẹ, ăn cháo, uống nước được. Không chảy nước dãi, không thấy giọng như ngậm hạt thị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau viêm đường hô hấp trên; không có dấu viêm thanh thiệt"
+    },
+    {
+     "id": "cai_nhau",
+     "noi_dung": "Tối ngày 4 chị cãi nhau to với chồng và mẹ chồng, la hét và khóc gần hai tiếng liền. Sáng ngày 5 giọng khàn hẳn, nói không ra hơi, ho khan từng cơn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi tiếng khàn bắt đầu thế nào, có la hét, dùng giọng nhiều không; lúc đầu chị chỉ nói 'em có to tiếng chút'.",
+     "k": 1,
+     "y": "Dùng giọng gắng sức là điều kiện thuận lợi (QĐ 5643, mục 2.2)"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Ngày 4 tối và ngày 5 chiều, cô Sáu bán tạp hóa trong xóm (từng phụ ở trạm xá) đến lán truyền cho chị 2 chai nước muối 500 mL, mỗi chai pha thêm 1 ống 'dexa' 4 mg và 1 ống kháng sinh mà chị không biết tên. Sau chai đầu chị thấy thở thông hẳn, nói được lại, chai thứ hai cũng đỡ. Từ sáng nay khàn tiếng trở lại, nặng hơn. Hai vết chích ở mu bàn tay trái.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc gì không' thì chị nói 'không' (chị không coi truyền dịch là thuốc). Chỉ kể khi bác sĩ hỏi có chích, truyền, tiêm gì ở nhà không.",
+     "k": 1,
+     "y": "Tự truyền dịch có corticoid và kháng sinh tại nhà (thuốc đang dùng); có thể đã che dấu hiệu"
+    },
+    {
+     "id": "hut_hoi",
+     "noi_dung": "Từ chiều hôm qua khi gánh hai thùng mủ lên dốc lô, chị phải dừng giữa dốc ba lần mới đi hết, nghe cổ có tiếng 'khò khè' lúc hít vào, nghỉ chừng hai phút thì hết. Đêm nằm hai gối cho dễ chịu. Chị nghĩ do mất ngủ mấy đêm và lúc ốm yếu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có khó thở không' thì chị nói 'không, chỉ mệt vì mất ngủ'. Chỉ kể khi bác sĩ hỏi theo việc làm: gánh thùng mủ, leo dốc lô, đi bộ nhanh có phải dừng nghỉ không, có tiếng khò khè không, đêm nằm mấy gối.",
+     "k": 1,
+     "y": "Khó thở khi gắng sức, có tiếng rít nhẹ thì hít vào (dấu hiệu nguy hiểm núp dưới chữ 'mệt')"
+    },
+    {
+     "id": "bach_hau",
+     "noi_dung": "Không ai trong tổ hay lán bị đau họng có màng trắng. Không đi xa, không về vùng có dịch trong năm nay. Hồi nhỏ mẹ nói có tiêm chủng đủ nhưng chị không còn sổ; lớn không tiêm nhắc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ bạch hầu và tiêm chủng"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không hen, không bệnh phổi, không hút thuốc, không rượu. Không dị ứng thuốc hay thức ăn nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, dị ứng"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Ở lán công nhân tập thể trong nông trường, cách phòng khám khoảng 12 km, cách bệnh viện tỉnh khoảng 38 km. Chồng và mẹ chồng ở dãy lán bên kia. Chị Hiên chở chị đến. Có thẻ BHYT do công ty đóng. Hôm nay chị mang khoảng 300.000 đồng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khoảng cách tới tuyến trên và người đi cùng (quyết định nơi theo dõi, chuyển tuyến)"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Chị đồng ý khám họng, soi thanh quản, đo SpO₂, chụp X-quang. Chị từ chối lấy máu tĩnh mạch ('tay em còn bầm, em sợ kim, tiền em mang có chút') và từ chối ngoáy họng ('em ói').",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc: bệnh nhân từ chối xét nghiệm; cần ghi nhận, giải thích, tìm phương án B không xâm lấn"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Sau trận cãi nhau, chồng nói chị 'giả bệnh để trốn việc nhà'. Chị muốn có giấy nghỉ bệnh vài ngày để về nhà mẹ ruột ở xã bên cho đỡ tủi, tránh mặt chồng và mẹ chồng. Chị chưa nói với chồng là đi khám, tiền mang theo là tiền chị dành riêng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ở nhà có chuyện gì, vì sao hôm nay mới đi khám, ai biết chị đi khám, chị lo điều gì (về tiền, về nằm viện), hoặc hỏi thẳng xin giấy nghỉ để làm gì. Chị ngập ngừng, cúi đầu, rồi kể nhỏ.",
+     "k": 1,
+     "y": "Động cơ thật: mâu thuẫn gia đình; ảnh hưởng đến việc chị đồng ý theo dõi, từ chối xét nghiệm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy (BMI 21,6), da niêm hồng, môi hồng, không tím. Giọng khàn, nói câu ngắn, ngắt nhịp vì khàn chứ không hụt hơi. Ngồi thẳng, không chồm ra trước, không chảy nước dãi.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng tốt. Niêm mạc họng đỏ nhẹ, thành sau họng ít nhầy. Amidan nhỏ, không sưng, không giả mạc, không loét. Lưỡi gà ở giữa. Mũi: niêm mạc phù nhẹ, ít dịch trong. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "soi_thanh_quan": {
+     "a": "Soi gương gián tiếp, chị chịu được: niêm mạc tiền đình thanh quản đỏ, phù nhẹ. Hai dây thanh sung huyết đỏ, phù nề, khép không kín khi phát âm, có ít nhầy ở mép trước. Hai dây thanh di động đối xứng. Nắp thanh môn mỏng, không phù. Khe thanh môn còn rộng. Không giả mạc, không u, không loét, không thấy dị vật hay vật sống.",
+     "k": 1,
+     "hien": "Soi thanh quản: dây thanh đỏ, phù nề, khép không kín khi phát âm, có nhầy ở mép trước; khe thanh môn còn rộng."
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ nhóm II hai bên nhỏ (khoảng 1 cm), mềm, di động, không đau. Cổ không bạnh. Ấn vùng trước thanh quản không đau. Khí quản ở giữa, tĩnh mạch cổ không nổi. Không rút lõm hõm ức.",
+     "k": 1
+    },
+    "quan_sat_nuot": {
+     "a": "Uống từng ngụm nước, nuốt bánh mì mềm: hơi vướng ở cổ, trôi liền, không sặc, không chảy nước dãi, không ngậm hạt thị.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, đều. Rì rào phế nang êm dịu hai bên, không ran, không tiếng thở bất thường khi ngồi yên.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, đều.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Đi nhanh 40 m trên sân: dừng giữa chừng một lần, nói được từng câu ngắn. SpO₂ 97% → 94%, nhịp thở 26 l/p, mạch 108. Cuối đoạn đi nghe thấy tiếng rít nhẹ thì hít vào khi chị đứng thở. Không tím. Ngồi nghỉ 2 phút: tiếng rít hết, SpO₂ về 97%.",
+     "k": 1
+    },
+    "da": {
+     "a": "Mu bàn tay trái có hai vết chích đã đóng vảy, quanh vết thứ hai sưng đỏ nhẹ rộng khoảng 2 cm, ấn đau, không mủ, không dọc theo tĩnh mạch thành dây. Không ban, không mày đay.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau. Gan lách không sờ thấy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Chị từ chối lấy máu ('em sợ kim, tay còn bầm'). Không có kết quả.",
+     "n": "Không bắt buộc: viêm thanh quản cấp chẩn đoán bằng tiền sử, khàn tiếng và soi thanh quản; xét nghiệm công thức máu chỉ 'có thể bạch cầu tăng' (QĐ 5643/2015, Viêm thanh quản cấp tính mục 3.2, 3.3). Chị từ chối nên không mất điểm; ghi hồ sơ và thay bằng theo dõi lâm sàng."
+    },
+    "crp": {
+     "v": "a",
+     "r": "Chị từ chối lấy máu. Không có kết quả.",
+     "n": "Không có trong QĐ 5643/2015 (Viêm thanh quản cấp tính mục 3.2); không đổi hướng xử trí."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Chị từ chối ngoáy họng ('em ói'). Không làm.",
+     "n": "Không có chỉ định: bạch hầu nghi ngờ khi có giả mạc vùng hầu họng cộng yếu tố dịch tễ (QĐ 2957/2020, mục 5.1); chị không giả mạc (họng, soi thanh quản), không dịch tễ. Phết họng khi nghi ngờ (TL-0130, hạ thanh môn mục 3.1.2). Ghi hồ sơ chị từ chối."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "X-quang ngực thẳng: hai phổi sáng, không đám mờ, không xẹp phổi, không hình cản quang bất thường. Bóng tim bình thường, khí quản ở giữa.",
+     "ab": 0,
+     "n": "X-quang tim phổi để loại trừ bệnh phế quản phổi kèm theo (QĐ 5643/2015, Viêm thanh quản cấp tính mục 3.2); dị vật đường thở cản quang hoặc gây xẹp phổi sẽ thấy trên phim (Viêm thanh quản cấp tính hạ thanh môn mục 3.1.3.1). Chị đồng ý chụp."
+    },
+    "ecg": {
+     "n": "Không cần: không đau ngực, tim đều 88 l/p."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thanh quản cấp ngày 2 sau viêm đường hô hấp trên và dùng giọng gắng sức, kèm khó thở thanh quản độ I (khó thở khi gắng sức, rít nhẹ thì hít vào)",
+     "ok": 1,
+     "n": "Khàn tiếng đột ngột, ho khan, dây thanh sung huyết đỏ phù nề, khép không kín, dưới 3 tuần (QĐ 5643/2015, Viêm thanh quản cấp tính mục 1, 3.1, 3.3); dùng giọng gắng sức là điều kiện thuận lợi (mục 2.2). Độ I: khàn tiếng, khó thở khi gắng sức (hạ thanh môn mục 3.1.2)."
+    },
+    {
+     "t": "Đã tự truyền dịch có corticoid và kháng sinh không rõ tên tại nhà (2 chai), viêm nhẹ phần mềm quanh chỗ chích ở mu bàn tay trái",
+     "ok": 1,
+     "n": "Corticoid là thuốc kháng viêm dùng trong viêm thanh quản (QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.2.2) nên có thể đã làm giảm triệu chứng tạm thời; thời gian tác dụng và liều: không có trong tài liệu đã tải. Truyền dịch có trong mục 4.2.4 do nhân viên y tế chỉ định; tự truyền tại nhà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bạch hầu (họng–thanh quản)",
+     "n": "Bạch hầu thanh quản có thể có khàn tiếng, rít thì hít vào nhưng thường đi kèm bạch hầu họng (QĐ 2957/2020, mục 3.3). Chị không giả mạc họng, không dịch tễ (mục 5.1), không hạch bạnh cổ; chị từ chối phết họng nên chưa có bằng chứng vi khuẩn."
+    },
+    {
+     "t": "Dị vật đường thở (kể cả vật sống từ nước suối)",
+     "n": "Nguyên nhân có 'uống nước suối con tắc te' (QĐ 5643/2015, Dị vật đường thở mục 2); hội chứng xâm nhập khai thác được ở 93%, 7% không có gồm dị vật sống (mục 3.1.1). Chị uống nước khe nên phải hỏi; không sặc, soi thanh quản và X-quang không thấy dị vật."
+    },
+    {
+     "t": "Viêm thanh thiệt cấp",
+     "n": "Sốt cao, khó thở thanh quản nhanh, ngồi cúi ra trước, người lớn có giọng ngậm hạt thị (QĐ 5643/2015, hạ thanh môn mục 3.1.3.2); chị không có, nắp thanh môn mỏng, không phù, nuốt không đau nhiều."
+    },
+    {
+     "t": "Viêm dạ dày ruột do nước không sạch",
+     "n": "Tiêu lỏng 2 ngày đã hết, là dữ kiện nhiễu."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Lưu theo dõi tại phòng khám: cho chị ngồi nghỉ, giữ yên lặng, đo lại SpO₂, nhịp thở và nghe cổ phổi sau khi nghỉ và sau một đoạn đi lại; nếu ổn mới cho về với dặn dò",
+     "v": "a",
+     "n": "Chấp nhận: đo lại SpO₂, nhịp thở sau nghỉ và sau đi lại trước khi cho về là thận trọng, nhất là khi vừa tự truyền corticoid và nhà xa tuyến trên; nhưng độ I điều trị ngoại trú (QĐ 5643/2015, hạ thanh môn mục 4.2.1) nên lưu theo dõi không bắt buộc. Việc corticoid che triệu chứng là suy luận lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về điều trị ngoại trú ngay sau khám, hẹn tái khám sau 1–2 ngày, dặn kỹ dấu hiệu nặng",
+     "v": "c",
+     "n": "QĐ 5643/2015, hạ thanh môn mục 4.2.1: khó thở thanh quản độ I điều trị ngoại trú, nghỉ ngơi, hạn chế nói, uống nhiều nước, hướng dẫn dấu hiệu nặng; Viêm thanh quản cấp tính mục 4.1.2: độ I điều trị nội khoa. Có thể đo lại SpO₂ sau nghỉ trước khi cho về. Mốc 1–2 ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi theo chức năng (gánh thùng mủ, leo dốc, đêm nằm mấy gối) và cho đi bộ đo SpO₂ để lộ khó thở chị coi là 'mệt'; phân độ khó thở thanh quản",
+     "v": "c",
+     "n": "Phân độ: I chỉ khàn tiếng, khó thở khi gắng sức; IIA khó thở khi nghỉ, thở rít khi nằm yên; IIB kèm thở nhanh, rút lõm ngực; III kèm vật vã, tím (QĐ 5643/2015, hạ thanh môn mục 3.1.2). Nghiệm pháp đi bộ đo SpO₂: cách làm lâm sàng, không có ngưỡng trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi riêng việc chích, truyền ở nhà (ai truyền, thuốc gì, mấy chai, còn vỏ ống không), xem vết chích; ghi vào hồ sơ và dặn không tự truyền dịch, tiêm thuốc ở nhà nữa",
+     "v": "c",
+     "n": "Corticoid, kháng sinh là thuốc dùng trong viêm thanh quản (QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.2.1, 4.2.2); việc chúng che triệu chứng là suy luận lâm sàng, thời gian tác dụng và tự truyền dịch ở nhà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loại trừ bạch hầu bằng giả mạc họng, soi thanh quản và dịch tễ; ghi nhận chị từ chối phết họng, dặn quay lại ngay nếu có màng trắng",
+     "v": "c",
+     "n": "Ca nghi ngờ bạch hầu cần giả mạc vùng hầu họng (QĐ 2957/2020, mục 5.1); bạch hầu thanh quản thường kèm bạch hầu họng (mục 3.3); giả mạc dai, dính, bóc chảy máu (mục 3.1.3)."
+    },
+    {
+     "t": "Loại trừ dị vật đường thở: hỏi hội chứng xâm nhập và nguồn nước, soi thanh quản, X-quang ngực",
+     "v": "c",
+     "n": "QĐ 5643/2015, Dị vật đường thở mục 2 (nước suối con tắc te), mục 3.1.1 (hội chứng xâm nhập ở 93%); Viêm thanh quản cấp tính mục 3.5 (soi để xác định)."
+    },
+    {
+     "t": "Ghi nhận chị từ chối lấy máu và ngoáy họng, giải thích lợi ích bằng lời đơn giản, không ép, để cửa mở lần sau; dùng phương án B là theo dõi lâm sàng, đo SpO₂, soi thanh quản, X-quang",
+     "v": "c",
+     "n": "Tôn trọng quyết định và ghi hồ sơ: nhận xét biên tập, không có trong tài liệu đã tải. Xét nghiệm máu không bắt buộc cho chẩn đoán (QĐ 5643/2015, Viêm thanh quản cấp tính mục 3.2, 3.3)."
+    },
+    {
+     "t": "Kiêng nói (kể cả thì thầm), tránh lạnh và nghỉ cạo mủ vài ngày; uống nhiều nước",
+     "v": "c",
+     "n": "'Quan trọng nhất là kiêng nói, tránh lạnh' (QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.1.1); nghỉ ngơi, hạn chế nói, uống nhiều nước (hạ thanh môn mục 4.2.1); tránh lạm dụng giọng quá sức ở người lớn (Viêm thanh quản cấp tính mục 6)."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay hoặc gọi 115: thở rít khi ngồi yên hay nằm, nói không hết câu, nuốt đau nhiều hoặc chảy nước dãi, ngồi chồm ra trước, giọng ngậm hạt thị, tím, vật vã; nhờ chị Hiên ở cùng đêm nay và nghe tiếng thở",
+     "v": "c",
+     "n": "Hướng dẫn dấu hiệu nặng cần tái khám ngay (QĐ 5643/2015, hạ thanh môn mục 4.2.1); giọng ngậm hạt thị ở người lớn, viêm thanh thiệt (mục 3.1.3.2); độ IIB, III nhập viện (mục 4.2.3); độ II mở khí quản cấp cứu (Viêm thanh quản cấp tính mục 4.1.2)."
+    },
+    {
+     "t": "Hỏi động cơ thật (ở nhà có chuyện gì, ai biết chị đi khám, chị lo gì); nói rõ nghỉ giọng ở nhà chính là điều trị, giấy nghỉ bệnh cấp theo tình trạng bệnh",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp. Quy định cấp giấy nghỉ ốm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh (AAO-HNSF 2018) hoặc kê một kháng sinh nhóm beta-lactam hay macrolid theo QĐ 5643",
+     "v": "c",
+     "n": "Hai nguồn khác nhau, đều chấp nhận (mục HH-1045 trong sổ mâu thuẫn). QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.1.1, 4.2.1 liệt kê beta-lactam, macrolid nhưng không nêu liều; AAO-HNSF 2018 (nguồn bổ sung tự tìm, đọc qua tóm tắt AAFP 2018) khuyến cáo mạnh không kê kháng sinh cho khàn tiếng vì phần lớn do virus. Chị đã nhận một kháng sinh không rõ tên qua đường truyền. Liều trong bài này: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol khi sốt hoặc đau họng nhiều; xúc họng dung dịch sát khuẩn",
+     "v": "a",
+     "n": "QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.2.4 (hạ sốt, giảm đau), 4.2.3 (xúc họng sát khuẩn). Liều acetaminophen 10–20 mg/kg (hạ thanh môn mục 4.2.1); 0,5 g × 4–6 viên/24 giờ, tối đa 4 g (QĐ 361/2014, Hội chứng đau thắt lưng mục 4.2.1)."
+    },
+    {
+     "t": "Cho về, vẫn đi cạo mủ ban đêm như thường, không dặn dấu hiệu nặng",
+     "v": "w",
+     "n": "Chị đã khó thở khi gắng sức; hướng dẫn dấu hiệu nặng là một phần điều trị (QĐ 5643/2015, hạ thanh môn mục 4.2.1); kiêng nói, tránh lạnh là điều quan trọng nhất (Viêm thanh quản cấp tính mục 4.1.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thanh quản cấp, ngày 2 khàn tiếng, ở người lớn, sau viêm đường hô hấp trên và dùng giọng gắng sức",
+     "Khó thở thanh quản độ I (khó thở khi gắng sức, rít nhẹ thì hít vào), SpO₂ nghỉ 97%, đi nhanh còn 94%",
+     "Đã tự truyền dịch có corticoid và kháng sinh không rõ tên tại nhà (2 chai), viêm nhẹ phần mềm quanh chỗ chích",
+     "Đã loại trừ trên lâm sàng: bạch hầu (không giả mạc, không dịch tễ; chị từ chối phết họng), dị vật đường thở, viêm thanh thiệt",
+     "Ràng buộc: từ chối lấy máu và ngoáy họng. Lý do thật đi khám: xin giấy nghỉ bệnh vì mâu thuẫn gia đình"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: khàn tiếng bắt đầu thế nào, có dùng giọng gắng sức không; nguồn nước; sốt, đau họng, ho; khó thở theo việc làm hằng ngày; sặc, hóc; thuốc đã dùng kể cả chích, truyền ở nhà; tiếp xúc người có màng trắng ở họng, tiêm chủng; bệnh nền, dị ứng; hoàn cảnh, người đi cùng; vì sao hôm nay đi khám.",
+     "Khám: họng, cổ, phổi, tim, quan sát nuốt, đi bộ đo SpO₂, chỗ chích, soi thanh quản. Soi là bước xác định: niêm mạc phù nề đỏ vùng thanh môn, dây thanh sung huyết đỏ, phù nề, khép không kín, nhầy ở mép trước (QĐ 5643/2015, Viêm thanh quản cấp tính mục 3.1). X-quang ngực loại trừ bệnh phế quản phổi (mục 3.2) và dị vật cản quang. Chị từ chối lấy máu, phết họng: ghi hồ sơ.",
+     "Vì sao viêm thanh quản cấp: khàn đột ngột, ho khan, dưới 3 tuần, dây thanh đỏ phù (QĐ 5643/2015, Viêm thanh quản cấp tính mục 1, 3.3), sau viêm hô hấp trên và la hét kéo dài (mục 2.2). Vì sao độ I: khàn tiếng, khó thở khi gắng sức, chưa khó thở khi nghỉ (hạ thanh môn mục 3.1.2).",
+     "Cơ đỏ núp dưới chữ 'mệt': chị coi hụt hơi, khò khè lúc hít vào là do mất ngủ, và corticoid truyền hôm trước có thể làm triệu chứng nhẹ hơn thực tế. Chỉ hỏi theo chức năng và đi bộ đo SpO₂ mới lộ.",
+     "Không phải bạch hầu: không giả mạc, không dịch tễ (QĐ 2957/2020 mục 5.1, 3.3). Không phải dị vật: không hội chứng xâm nhập, soi và X-quang không thấy; dị vật sống như tắc te có thể không có hội chứng xâm nhập (QĐ 5643/2015, Dị vật đường thở mục 2, 3.1.1). Không phải viêm thanh thiệt: không chảy dãi, không ngậm hạt thị (hạ thanh môn mục 3.1.3.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về điều trị ngoại trú, đo lại SpO₂ sau nghỉ trước khi về, dặn kỹ dấu hiệu nặng, có người ở cùng ban đêm, hẹn tái khám 1–2 ngày (mốc: không có trong tài liệu đã tải). Khó thở thanh quản độ I điều trị ngoại trú (QĐ 5643/2015, hạ thanh môn mục 4.2.1; Viêm thanh quản cấp tính mục 4.1.2: độ I điều trị nội khoa). Lưu theo dõi vài giờ vì vừa tự truyền corticoid, nhà xa tuyến trên chấm a (thận trọng, không bắt buộc).",
+     "Kiêng nói, tránh lạnh, nghỉ cạo mủ (mục 4.1.1); paracetamol (mục 4.2.4). Kháng sinh có hai cách ghi: không kê (AAO-HNSF 2018) hoặc kê theo QĐ 5643 mục 4.2.1. Không truyền thêm dịch, không corticoid chích: độ I không chỉ định, corticoid chích dành cho thể nặng (hạ thanh môn mục 4.2.3).",
+     "Dặn dấu hiệu nặng là quan trọng nhất: chị sẽ không tự nhận ra mình khó thở. Rít khi nghỉ là độ IIA trở lên; kèm thở nhanh, rút lõm là IIB nhập viện (hạ thanh môn mục 3.1.2, 4.2.3); độ II ở người lớn phải mở khí quản cấp cứu (Viêm thanh quản cấp tính mục 4.1.2).",
+     "Lời thoại mẫu: 'Dạ chị bị viêm thanh quản, dây thanh sưng đỏ, nghỉ giọng là chính. Em ở lại một lúc cho tụi chị theo dõi hơi thở, rồi về nhưng nghỉ cạo mủ mấy hôm. Mấy chai nước biển ở nhà làm khó biết bệnh nặng hay nhẹ, đừng tự truyền nữa nha. Em có chuyện gì ở nhà muốn nói thì cứ nói, giấy nghỉ chị làm theo bệnh của em.'"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên mỗi lần (khoảng 10 mg/kg), cách nhau ít nhất 6 giờ, tối đa 4 viên (2 g) mỗi 24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt từ 38,5 °C hoặc đau họng nhiều, sau ăn",
+      "so_ngay": "Khi cần, vài ngày",
+      "ghi_chu": "QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.2.4; acetaminophen 10–20 mg/kg (hạ thanh môn mục 4.2.1); tối đa 4 g/ngày (QĐ 361/2014, Hội chứng đau thắt lưng mục 4.2.1), 2 g thấp hơn. Ngưỡng 38,5 °C và khoảng cách 6 giờ: quy ước của ca."
+     },
+     {
+      "thuoc": "Dung dịch xúc họng sát khuẩn",
+      "ham_luong": "Dung dịch súc họng thông thường",
+      "lieu": "Súc họng 3–4 lần mỗi ngày, không nuốt",
+      "duong": "Súc họng",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "3–5 ngày",
+      "ghi_chu": "QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.2.3. Số lần, số ngày: không có trong tài liệu đã tải; lựa chọn của ca."
+     },
+     {
+      "thuoc": "Kháng sinh uống / corticoid",
+      "ham_luong": "Không kê hôm nay (AAO-HNSF 2018) hoặc beta-lactam / macrolid (QĐ 5643)",
+      "lieu": "Liều người lớn trong bài viêm thanh quản cấp: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Theo thuốc chọn",
+      "so_ngay": "Theo thuốc chọn",
+      "ghi_chu": "Ghi cả hai cách theo sổ mâu thuẫn (mục HH-1045). QĐ 5643/2015, mục 4.2.1 liệt kê beta-lactam, macrolid; mục 4.2.2 corticoid. Chị đã nhận dexamethason và một kháng sinh qua đường truyền nên không kê thêm corticoid hôm nay."
+     }
+    ],
+    "dan_do": [
+     "Chị bị viêm thanh quản cấp: dây thanh sưng đỏ do viêm sau cảm và la hét khóc kéo dài (QĐ 5643/2015, Viêm thanh quản cấp tính mục 2.2). Quan trọng nhất là im giọng kể cả thì thầm, giữ ấm (mục 4.1.1). Nghỉ cạo mủ mấy hôm, không ra sương đêm.",
+     "Quay lại ngay hoặc gọi 115 nếu: rít khi ngồi yên hoặc nằm, nói không hết câu, nuốt đau nhiều hoặc chảy nước dãi, ngồi chồm ra trước, giọng ngậm hạt thị, môi tím, vật vã (QĐ 5643/2015, hạ thanh môn mục 4.2.1, 3.1.2, 3.1.3.2). Chị Hiên ngủ cùng, nghe tiếng thở của chị đêm nay.",
+     "Không tự truyền dịch, tiêm thuốc ở nhà; mang vỏ ống thuốc đã truyền theo. Uống nước đun sôi, không uống nước khe, giếng chưa đun.",
+     "Tái khám sau 1–2 ngày hoặc khi có dấu hiệu nặng (mốc của ca, không có trong tài liệu đã tải). Muốn lấy máu, ngoáy họng lần sau thì nói bác sĩ, tính tiền trước."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · hôm sau",
+   "tiep_don": "Chị Tạ Thị Diễm, 27 tuổi, được chị Hiên chở đến lúc 5 giờ 30 sáng, cách lượt trước khoảng 20 giờ. Hôm qua sau khi ngồi nghỉ, tiếng rít khi gắng sức hết, SpO₂ về 97%, chị được cho về lán kèm dặn kiêng nói, nghỉ cạo mủ và các dấu hiệu nặng; chị Hiên ngủ cùng. Sinh hiệu: nhiệt độ 38,3 °C, mạch 118 l/p, HA 118/74 mmHg, nhịp thở 28 l/p, SpO₂ 93% khí trời.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho chị về lán hoặc hẹn lại: chị đang thở rít ngay cả khi nghỉ, thở nhanh, rút lõm, là khó thở thanh quản độ IIB; từ độ II phải mở khí quản cấp cứu (TL-0130, Viêm thanh quản cấp tính mục 4.1.2), độ IIB, III nhập viện, thở oxy, kháng viêm dạng chích (hạ thanh môn mục 4.2.3). Ở lán không có oxy, cách bệnh viện tỉnh 38 km, phù nề thanh quản có thể tăng trong vài giờ nên chị có nguy cơ ngạt thở trên đường quay lại.",
+    "theo_doi": "Giữ chị lại theo dõi tại phòng khám: phòng khám có bình oxy nhưng không có bác sĩ gây mê, không đặt nội khí quản hay mở khí quản được; nếu chị lơ mơ, kiệt sức thì phải đặt nội khí quản hoặc mở khí quản (TL-0130, hạ thanh môn mục 4.2.3), việc mà cơ sở này không làm được. Mỗi giờ chờ là mất một giờ chuyển tuyến lúc chị còn tỉnh táo, đi được xe.",
+    "nhap_vien": "Nhập chị nằm lưu tại phòng khám để truyền thuốc: thở oxy, kháng viêm dạng chích có thể làm tạm ổn (TL-0130, hạ thanh môn mục 4.2.3), nhưng bệnh nặng đã thành độ IIB và cơ sở không xử trí được đường thở nếu bít thêm (mục 4.2.3; Viêm thanh quản cấp tính mục 4.1.2). Đây là nhập viện nhầm nơi, làm chậm việc chuyển lên nơi có tai mũi họng và hồi sức."
+   },
+   "loi_mo": "Bác sĩ ơi, em thở không được, đêm qua nghe cổ kêu rít rít. Em nói không ra hơi...",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "118/74",
+    "nhiet": "38,3",
+    "nhip_tho": 28,
+    "spo2": 93,
+    "canh_bao": [
+     "Thở rít khi nghỉ",
+     "Nhịp thở 28 l/p, SpO₂ 93%"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khó thở, nghe tiếng rít ở cổ từ nửa đêm, không nói được thành câu, đau họng nhiều hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dem_qua",
+     "noi_dung": "Sau khi về lán chiều qua chị khá, ngủ được đến khoảng 1 giờ sáng. Tỉnh vì khó thở, phải ngồi dậy mới thở được; hít vào nghe 'rít rít như gió lùa', không bớt dù ngồi yên. Chị Hiên nghe rõ tiếng rít từ khuya. Không ho sặc, không nghẹn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thở rít khi nghỉ, đêm nặng lên (độ IIA trở lên)"
+    },
+    {
+     "id": "lam_dung",
+     "noi_dung": "Chị làm đúng dặn: nghỉ cạo mủ, không nói chuyện, không truyền thêm chai nào, không uống thuốc lạ. Tối uống paracetamol 1 viên lúc sốt. Vậy mà không đỡ, đêm còn nặng hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ xử trí lượt trước; diễn tiến nặng hơn dù xử trí đúng"
+    },
+    {
+     "id": "nuot_dau",
+     "noi_dung": "Nuốt nước bọt đau nhiều hơn hôm qua, nuốt cháo thấy vướng. Không chảy nước dãi, giọng vẫn khàn chứ không như ngậm hạt thị. Chị ngồi chồm ra trước vì dễ thở hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt với viêm thanh thiệt: không chảy dãi, không hạt thị"
+    },
+    {
+     "id": "khong_xam_nhap",
+     "noi_dung": "Vẫn không hóc, sặc, nghẹn. Không mề đay, không sưng môi mặt, không ngứa, không ăn thức ăn hay thuốc mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ dị vật và phù thanh quản dị ứng"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Chồng biết chị đi khám vì chị Hiên nhắn; chồng chưa đến. Chị lo chồng nghĩ chị giả bệnh, lo tiền (chỉ còn khoảng 250.000 đồng), lo nằm viện xa. Chị đồng ý đi bệnh viện tỉnh nếu chị Hiên đi cùng và nếu BHYT lo được. Mẹ ruột chị ở xã bên, chị muốn báo mẹ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ giải thích cần chuyển tuyến rồi hỏi chị có lo ngại gì, hoặc hỏi ai biết chị đang ở đây, ai có thể đi cùng, chi phí.",
+     "k": 1,
+     "y": "Lo ngại thật có thể khiến chị từ chối chuyển tuyến"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Chị vẫn không muốn lấy máu hay ngoáy họng; đồng ý khám, đo SpO₂, và đi bệnh viện nếu bác sĩ nói cần.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt nhưng hốt hoảng, ngồi chồm ra trước, hai tay chống đùi. Nói từng từ, không nói hết câu. Mồ hôi lấm tấm trán. Môi hồng nhạt, không tím, chưa vật vã, chưa lơ mơ.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Nghe thấy tiếng rít thì hít vào ngay khi đứng cách một sải tay, không cần ống nghe. Rút lõm hõm ức và khoảng liên sườn mỗi nhịp hít vào, co kéo cơ hô hấp phụ. Cổ không bạnh, hạch nhóm II hai bên nhỏ. Khí quản ở giữa. Ấn vùng trước thanh quản đau nhẹ.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng được. Họng đỏ, thành sau ít nhầy. Amidan nhỏ, không giả mạc, không loét. Lưỡi gà ở giữa. Không chảy nước dãi.",
+     "k": 1
+    },
+    "soi_thanh_quan": {
+     "a": "Không soi lại: chị ngồi chồm, không ngậm được gương, khi đưa dụng cụ gần họng chị rít nhiều hơn, nôn khan. Phòng khám không có người gây mê, không đặt nội khí quản, không mở khí quản được nên không làm thủ thuật có thể kích thích co thắt. Việc soi lại để tuyến trên làm có chuẩn bị đường thở.",
+     "k": 0
+    },
+    "quan_sat_nuot": {
+     "a": "Uống từng ngụm nhỏ: nuốt được, hơi nhăn mặt, ho nhẹ một tiếng, không sặc nhiều, không chảy nước dãi.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p. Lồng ngực di động đều hai bên, hít vào rút lõm hõm ức. Tiếng rít thì hít vào nghe rõ nhất ở vùng cổ, truyền xuống hai phổi. Rì rào phế nang còn nghe được, giảm nhẹ hai bên do thông khí kém, không ran ẩm, không ran rít.",
+     "k": 1,
+     "hien": "Nhịp thở 28 l/p, thở nhanh, hít vào rút lõm hõm ức.",
+     "media": [
+      {
+       "vi_tri": "Vùng cổ trước (thanh quản – khí quản)",
+       "id": "AT-HH-STRIDOR-01",
+       "chu": "Tiếng rít thanh quản thì hít vào, nghe rõ ở vùng cổ."
+      },
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang còn nghe được, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 118 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Không cho đi bộ hay gắng sức: chị đang thở rít khi nghỉ, ngồi yên SpO₂ 93%. Đi bộ lúc này làm tăng nguy cơ bít đường thở và không thêm thông tin vì chị đã vượt mức độ I.",
+     "k": 1
+    },
+    "da": {
+     "a": "Mu bàn tay trái: vết chích đã khô vảy, vùng đỏ quanh vết nhỏ lại còn khoảng 1 cm. Không ban, không mày đay, không phù môi mặt.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Chị vẫn từ chối lấy máu. Không có kết quả.",
+     "n": "Không được làm chậm chuyển tuyến để chờ xét nghiệm: tuyến trên làm lại nếu cần. Công thức máu chỉ 'có thể tăng bạch cầu' (QĐ 5643/2015, Viêm thanh quản cấp tính mục 3.2); khó thở thanh quản độ IIB cần nhập viện (hạ thanh môn mục 4.2.3). Ghi hồ sơ chị từ chối."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Chị vẫn từ chối ngoáy họng. Không làm.",
+     "n": "Không giả mạc, không dịch tễ nên chưa đủ ca nghi ngờ bạch hầu (QĐ 2957/2020, mục 5.1). Ghi chú cho tuyến nhận: chị từ chối phết họng, chưa có bằng chứng vi khuẩn; tuyến trên quyết định phết họng khi soi (TL-0130, hạ thanh môn mục 3.1.2)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Không chụp: chị không rời được chỗ ngồi an toàn, ngồi chồm; chuyển tuyến ngay.",
+     "n": "Phim ngực hôm qua bình thường (lượt 1). Chụp lúc này không đổi hướng xử trí và làm chậm chuyển tuyến. X-quang cổ nghiêng tìm dấu ngón tay của viêm thanh thiệt (hạ thanh môn mục 3.1.3.2): để tuyến trên quyết định."
+    },
+    "ecg": {
+     "n": "Không cần để quyết định chuyển; mạch nhanh do sốt và thiếu oxy nhẹ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thanh quản cấp ngày 3 tiến triển nặng, khó thở thanh quản độ IIB (thở rít khi nghỉ, thở nhanh 28 l/p, rút lõm hõm ức), SpO₂ 93%",
+     "ok": 1,
+     "n": "Độ IIA: khó thở ngay cả khi nghỉ, thở rít khi nằm yên; IIB: kèm thở nhanh, rút lõm ngực; III: kèm vật vã hoặc tím (QĐ 5643/2015, hạ thanh môn mục 3.1.2). Chị chưa vật vã hay tím nên chưa phải III. Độ IIB, III: nhập viện (mục 4.2.3); độ II: mở khí quản cấp cứu (Viêm thanh quản cấp tính mục 4.1.2)."
+    },
+    {
+     "t": "Phù nề thanh quản tăng lại khi tác dụng corticoid truyền hôm trước hết, dù xử trí lượt 1 đúng",
+     "ok": 1,
+     "n": "Diễn tiến nặng hơn sau khi chị nghỉ giọng, theo dõi đúng; thời gian tác dụng của corticoid: không có trong tài liệu đã tải. Ghi trong bàn giao."
+    },
+    {
+     "t": "Bạch hầu thanh quản",
+     "n": "Bạch hầu thanh quản có khàn tiếng, khó thở chậm thì hít vào, rít (QĐ 2957/2020, mục 3.3), thường kèm bạch hầu họng giả mạc (mục 3.1.3). Chị không giả mạc, không dịch tễ (mục 5.1), không hạch bạnh cổ; chị từ chối phết họng nên ghi rõ chưa loại trừ bằng vi khuẩn."
+    },
+    {
+     "t": "Viêm thanh thiệt cấp (viêm nắp thanh môn)",
+     "n": "Sốt cao, khó thở nhanh, ngồi cúi ra trước, người lớn giọng ngậm hạt thị (QĐ 5643/2015, hạ thanh môn mục 3.1.3.2). Chị ngồi chồm nhưng không chảy dãi, giọng không hạt thị; chưa loại trừ hẳn khi không soi, tuyến trên soi trong điều kiện an toàn đường thở."
+    },
+    {
+     "t": "Dị vật đường thở",
+     "n": "Không hội chứng xâm nhập; hôm qua soi và X-quang không thấy; dị vật sống từ nước suối có thể không có hội chứng xâm nhập (QĐ 5643/2015, Dị vật đường thở mục 2, 3.1.1) nên tuyến trên soi lại."
+    },
+    {
+     "t": "Phản vệ hoặc phù thanh quản dị ứng; áp xe thành sau họng",
+     "n": "Không mề đay, phù môi mặt, thức ăn hay thuốc mới; họng không phồng, cổ không cứng đau (QĐ 2957/2020, mục 5.3.2: virus, áp xe thành sau họng, phản vệ)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay lên bệnh viện tỉnh (có tai mũi họng, hồi sức) bằng xe cứu thương có oxy và nhân viên y tế đi cùng; gọi báo trước cho nơi nhận",
+     "v": "c",
+     "n": "Hai bài cùng văn bản, cùng dẫn tới chuyển tuyến (mục HH-1073 trong sổ mâu thuẫn). Viêm thanh quản cấp tính mục 4.1.2: độ II mở khí quản cấp cứu. Hạ thanh môn mục 4.2.3 (chủ yếu cho trẻ em): độ IIB, III nhập viện, oxy, kháng viêm dạng chích, đặt nội khí quản hoặc mở khí quản khi lơ mơ, kiệt sức. Phòng khám không mở khí quản được, bệnh viện tỉnh cách 38 km nên chuyển ngay khi chị còn tỉnh táo."
+    },
+    {
+     "t": "Trong lúc chờ xe: để chị ngồi tư thế dễ thở nhất, giữ yên tĩnh, không bắt nằm ngửa, không ép lưỡi hay soi lại; thở oxy duy trì SpO₂ 92–96%; theo dõi nhịp thở, SpO₂, tri giác; nhân viên y tế ở cạnh",
+     "v": "c",
+     "n": "Nghỉ ngơi tại chỗ, thở oxy, duy trì SaO₂ 92–96% (QĐ 5643/2015, hạ thanh môn mục 4.2.3). Tránh kích thích: ghi ở trẻ em (mục 3.1.2, 4.2.3), người lớn: không có trong tài liệu đã tải, ca thận trọng."
+    },
+    {
+     "t": "Khí dung adrenaline 1/1000 pha 2–5 mL nếu khó thở nhiều và phòng khám có sẵn; có thể lặp lại sau 30 phút đến 1 giờ",
+     "v": "a",
+     "n": "QĐ 5643/2015, hạ thanh môn mục 4.2.3 (chủ yếu trẻ em; liều người lớn: không có trong tài liệu đã tải). Chỉ làm nếu không chậm chuyển tuyến."
+    },
+    {
+     "t": "Tiêm corticoid trước khi chuyển (có thể lặp lại mỗi 6–12 giờ ở bệnh viện)",
+     "v": "a",
+     "n": "Corticoid dạng chích, lặp lại mỗi 6–12 giờ (QĐ 5643/2015, hạ thanh môn mục 4.2.3; Viêm thanh quản cấp tính mục 4.2.2). Liều người lớn: không có trong tài liệu đã tải. Báo tuyến trên chị đã nhận dexamethason."
+    },
+    {
+     "t": "Kháng sinh dạng chích nhóm cephalosporin thế hệ III (do bệnh viện quyết định)",
+     "v": "a",
+     "n": "QĐ 5643/2015, hạ thanh môn mục 4.2.3 (cefotaxim, ceftriaxon); liều mg/kg của bài là cho trẻ em, liều người lớn: không có trong tài liệu đã tải. Làm ở bệnh viện."
+    },
+    {
+     "t": "Bàn giao đủ thông tin cho nơi nhận: khàn ngày 3, thở rít khi nghỉ, rút lõm, SpO₂ 93%, sốt 38,3 °C; đã truyền 2 chai có dexamethason ống 4 mg và một kháng sinh không rõ tên; không giả mạc nhưng từ chối phết họng, chưa loại trừ bạch hầu bằng vi khuẩn; chưa soi lại; không dị ứng thuốc",
+     "v": "c",
+     "n": "Mẫu SBAR: không có trong tài liệu đã tải. Bạch hầu thanh quản thường kèm bạch hầu họng (QĐ 2957/2020, mục 3.3); phết họng khi nghi ngờ (TL-0130, hạ thanh môn mục 3.1.2)."
+    },
+    {
+     "t": "Giải quyết lo ngại thật để chị đồng ý đi: tiền (BHYT, chi phí xe), chồng biết đi khám, chị Hiên đi cùng; hỏi chị có muốn báo mẹ ruột; ghi nhận chị tiếp tục từ chối lấy máu, ngoáy họng",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp. Quy định chi trả BHYT khi chuyển tuyến: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục theo dõi tại phòng khám trong lúc chờ xét nghiệm công thức máu, CRP, X-quang rồi mới quyết định chuyển",
+     "v": "w",
+     "n": "Chị từ chối lấy máu, và độ IIB đã đủ tiêu chuẩn nhập viện (QĐ 5643/2015, hạ thanh môn mục 4.2.3); chờ kết quả không đổi hướng xử trí mà làm chậm chuyển tuyến."
+    },
+    {
+     "t": "Cho chị về lán nghỉ, kê thêm kháng sinh uống và hẹn tái khám 1–2 ngày",
+     "v": "w",
+     "n": "Không giải quyết nguy cơ đường thở: độ II phải mở khí quản cấp cứu khi cần (QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.1.2); độ IIB, III nhập viện (hạ thanh môn mục 4.2.3). Lán không oxy, cách bệnh viện 38 km."
+    },
+    {
+     "t": "Để chị tự đi xe máy hoặc nhờ chị Hiên chở lên bệnh viện tỉnh, không có nhân viên y tế và oxy đi cùng",
+     "v": "w",
+     "n": "Độ IIB cần thở oxy, theo dõi và sẵn sàng xử trí đường thở (QĐ 5643/2015, hạ thanh môn mục 4.2.3); chị 'có thể lơ mơ, kiệt sức' trên đường 38 km, khi đó phải đặt nội khí quản hoặc mở khí quản. Xe máy không làm được."
+    },
+    {
+     "t": "Ép lưỡi, soi gương lại nhiều lần để 'xem rõ' trước khi chuyển",
+     "v": "w",
+     "n": "Chị rít tăng khi đưa dụng cụ; ở trẻ em tránh soi vì có thể gây co thắt (QĐ 5643/2015, hạ thanh môn mục 3.1.2); ở người lớn: không có trong tài liệu đã tải, ca thận trọng. Soi lại là việc của tuyến trên có chuẩn bị đường thở."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thanh quản cấp ngày 3 tiến triển nặng, khó thở thanh quản độ IIB (rít khi nghỉ, thở 28 l/p, rút lõm hõm ức), SpO₂ 93%, sốt 38,3 °C",
+     "Nặng hơn sau 20 giờ dù xử trí lượt 1 đúng; phù nề tăng lại khi tác dụng corticoid truyền hôm trước hết",
+     "Chưa loại trừ hẳn bằng xét nghiệm: bạch hầu thanh quản (không giả mạc, không dịch tễ nhưng từ chối phết họng), viêm thanh thiệt, dị vật sống; tuyến trên soi trong điều kiện an toàn đường thở",
+     "Ràng buộc: tiếp tục từ chối lấy máu, ngoáy họng; lo tiền, lo chồng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: đêm qua thế nào, tiếng rít bắt đầu lúc nào, ngồi yên có hết không; chị có làm đúng dặn không; nuốt, chảy dãi, hạt thị; sốt, giả mạc; hóc sặc, dị ứng; chi phí và người đi cùng. Khám: dáng ngồi, nhịp thở, rút lõm, nghe rít ở cổ và phổi, họng, đo SpO₂ tại chỗ, không cho đi bộ; không soi lại.",
+     "Độ IIB: rít khi nghỉ (IIA) cộng thở nhanh, rút lõm; chưa vật vã, tím nên chưa III (QĐ 5643/2015, hạ thanh môn mục 3.1.2). So với lượt 1: mạch 88 lên 118, nhịp thở 20 lên 28, SpO₂ 97% xuống 93%, sốt 37,8 lên 38,3 °C.",
+     "Bài học 'cơ đỏ ngụy trang': lượt 1 dấu hiệu nguy hiểm chỉ là 'mệt khi leo dốc' và bị corticoid che; nhờ lượt 1 tìm ra, dặn và theo dõi nên lượt 2 chị đến sớm, còn tỉnh táo, chuyển tuyến kịp.",
+     "Phân biệt: bạch hầu thanh quản ít khả năng khi không giả mạc, không dịch tễ (QĐ 2957/2020 mục 3.3, 5.1); viêm thanh thiệt: không chảy dãi, không hạt thị (hạ thanh môn mục 3.1.3.2); dị vật: không hội chứng xâm nhập, nhưng dị vật sống vẫn cần tuyến trên soi (Dị vật đường thở mục 3.1.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: chuyển tuyến ngay bằng xe cứu thương có oxy, nhân viên y tế đi cùng. Độ IIB nhập viện, oxy, corticoid chích, khí dung adrenaline nếu khó thở nhiều, kháng sinh chích, đặt nội khí quản hoặc mở khí quản khi lơ mơ, kiệt sức (QĐ 5643/2015, hạ thanh môn mục 4.2.3); độ II ở người lớn mở khí quản cấp cứu (Viêm thanh quản cấp tính mục 4.1.2). Hai bài cho hai cách nhưng với chị ở xa, phòng khám không có người gây mê nên đều dẫn tới chuyển tuyến; mở khí quản không đưa vào chấm điểm.",
+     "Trước khi chuyển: ngồi dễ thở, yên tĩnh, oxy SpO₂ 92–96%, theo dõi; adrenaline khí dung và corticoid chích chỉ làm nếu không chậm chuyển (liều người lớn không có trong tài liệu đã tải). Bàn giao ghi dexamethason và kháng sinh đã truyền, chưa loại trừ bạch hầu bằng vi khuẩn (QĐ 2957/2020 mục 3.3).",
+     "Giải quyết lo ngại thật: tiền, chồng, chị Hiên đi cùng, BHYT, báo mẹ ruột nếu chị muốn; không giải quyết thì chị có thể xin về.",
+     "Lời thoại mẫu: 'Dạ đường thở của chị đang hẹp lại ở cổ, ở đây không có máy để mở đường thở nếu nặng thêm, nên em phải lên bệnh viện tỉnh ngay bằng xe cứu thương có oxy, chị Hiên đi cùng. Thẻ BHYT lo phần lớn chi phí. Em ngồi thẳng, đừng cố nói, có chị y tá ở cạnh em.'"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy",
+      "ham_luong": "Bình oxy của phòng khám và xe cứu thương",
+      "lieu": "Lưu lượng đủ để SpO₂ 92–96%",
+      "duong": "Gọng mũi hoặc mặt nạ",
+      "thoi_diem": "Ngay khi quyết định chuyển, duy trì suốt chặng đường",
+      "so_ngay": "Đến khi tuyến trên tiếp nhận",
+      "ghi_chu": "QĐ 5643/2015, hạ thanh môn mục 4.2.3 (SaO₂ 92–96%). Lưu lượng L/phút: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Adrenaline 1/1000 khí dung",
+      "ham_luong": "Ống 1 mg/mL, pha 2–5 mL",
+      "lieu": "2–5 mL một lần, lặp lại sau 30 phút đến 1 giờ nếu khó thở nhiều",
+      "duong": "Khí dung",
+      "thoi_diem": "Nếu có sẵn và không làm chậm chuyển tuyến",
+      "so_ngay": "Một lần trước chuyển",
+      "ghi_chu": "QĐ 5643/2015, hạ thanh môn mục 4.2.3 (chủ yếu trẻ em); liều riêng cho người lớn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Corticoid và kháng sinh dạng chích",
+      "ham_luong": "Liều người lớn: không có trong tài liệu đã tải",
+      "lieu": "Corticoid lặp lại mỗi 6–12 giờ nếu cần; kháng sinh cephalosporin thế hệ III do bệnh viện quyết định",
+      "duong": "Tiêm hoặc truyền tĩnh mạch",
+      "thoi_diem": "Tại bệnh viện (corticoid có thể tiêm trước chuyển nếu không chậm)",
+      "so_ngay": "Theo bệnh viện",
+      "ghi_chu": "QĐ 5643/2015, hạ thanh môn mục 4.2.3; Viêm thanh quản cấp tính mục 4.2.2. Liều mg/kg của cefotaxim, ceftriaxon trong bài là cho trẻ em, không áp dụng cho chị. Chị đã nhận dexamethason và một kháng sinh hôm trước."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên mỗi lần khi sốt, tối đa 4 viên (2 g) mỗi 24 giờ",
+      "duong": "Uống nếu nuốt được; nuốt đau nhiều thì để tuyến trên quyết định",
+      "thoi_diem": "Khi sốt từ 38,5 °C",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.2.4; tối đa 4 g/ngày (QĐ 361/2014, Hội chứng đau thắt lưng mục 4.2.1)."
+     }
+    ],
+    "dan_do": [
+     "Giải thích với chị và chị Hiên: phù nề thanh quản có thể làm hẹp đường thở nhanh trong vài giờ; bệnh viện tỉnh có tai mũi họng, thuốc tiêm và xử trí đường thở (QĐ 5643/2015, hạ thanh môn mục 4.2.3).",
+     "Mang theo thẻ BHYT, vỏ ống 'dexa'; nói rõ đã truyền 2 chai ở nhà, từ chối phết họng, không dị ứng thuốc.",
+     "Trên đường đi: ngồi dựa thoải mái, không nằm ngửa, không cố nói; chị Hiên báo ngay nếu môi tím, lơ mơ, rít nhiều hơn (hạ thanh môn mục 3.1.2, 4.2.3).",
+     "Phòng khám gọi tổ trưởng báo chị nghỉ bệnh; chị muốn báo mẹ ruột thì gọi cùng; chị không bị ép nói với chồng.",
+     "Sau ra viện: tiếp tục kiêng nói, không tự truyền dịch. Khàn quá 4 tuần thì soi thanh quản (AAO-HNSF 2018, nguồn bổ sung tự tìm). Tiêm nhắc bạch hầu ở người lớn: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1, chị Diễm được đo lại SpO₂ sau nghỉ rồi cho về điều trị ngoại trú, được tìm ra khó thở thanh quản độ I núp dưới chữ 'mệt' và vụ tự truyền dịch có corticoid, được dặn kỹ dấu hiệu nặng và có chị Hiên ở cùng. Lượt 2, sau khoảng 20 giờ, chị nặng hơn tới độ IIB nhưng đến sớm, còn tỉnh táo, nên được chuyển bệnh viện tỉnh bằng xe cứu thương có oxy, kịp trước khi đường thở bít thêm. Kết cục sau chuyển (có phải mở khí quản hay không) ngoài phạm vi ca; thể nhẹ và trung bình tiên lượng tốt, thể nặng dè dặt (QĐ 5643/2015, hạ thanh môn mục 5.1).",
+ "nhieu": [
+  "Nguồn nước không sạch và tiêu chảy hai ngày: dễ kéo suy nghĩ sang ngộ độc, nhiễm trùng tiêu hóa và dị vật sống trong nước suối; thực ra chỉ là yếu tố khởi phát và là dữ kiện nhiễu.",
+  "Tự truyền dịch có dexamethason và kháng sinh ở nhà: chị không coi là 'thuốc' nên không kể nếu chỉ hỏi chung; thuốc này che dấu hiệu và đổi tiến triển.",
+  "Hụt hơi khi leo dốc: chị tin là do mất ngủ, hỏi 'có khó thở không' thì nói không; chỉ lộ khi hỏi theo việc làm và khi đo SpO₂ lúc đi bộ.",
+  "Xin giấy nghỉ bệnh: lý do thật là mâu thuẫn gia đình, ảnh hưởng đến tiền mang theo, việc chị từ chối lấy máu và ngoáy họng."
+ ],
+ "bai_hoc_bien": [
+  "Viêm thanh quản cấp ở người lớn thường lành tính nhưng phải hỏi khó thở theo chức năng và phân độ: độ I ngoại trú, độ II mở khí quản cấp cứu, độ IIB, III nhập viện (QĐ 5643/2015, Viêm thanh quản cấp tính mục 4.1.2; hạ thanh môn mục 3.1.2, 4.2).",
+  "Hỏi 'có khó thở không' chưa đủ: hỏi gánh nặng, leo dốc, đêm nằm mấy gối, rồi cho đi bộ đo SpO₂. Hỏi cả việc truyền, tiêm ở nhà: corticoid có thể che triệu chứng.",
+  "Loại trừ bạch hầu bằng giả mạc và dịch tễ, dị vật bằng hội chứng xâm nhập và soi; dị vật sống từ nước suối có thể không có hội chứng xâm nhập (QĐ 2957/2020 mục 5.1; QĐ 5643/2015, Dị vật đường thở mục 2, 3.1.1).",
+  "Bệnh nhân từ chối xét nghiệm: tôn trọng, ghi hồ sơ, dùng phương án B; không để chờ xét nghiệm làm chậm chuyển tuyến. Dặn dấu hiệu nặng từ lượt đầu giúp chị đến sớm, chuyển tuyến kịp."
+ ],
+ "diem_nho": [
+  "Phân độ khó thở thanh quản: I = khàn tiếng, khó thở khi gắng sức; IIA = khó thở khi nghỉ, rít khi nằm yên; IIB = kèm thở nhanh, rút lõm ngực; III = kèm vật vã, tím tái (QĐ 5643/2015, hạ thanh môn mục 3.1.2).",
+  "Độ IIB, III: nhập viện, oxy SaO₂ 92–96%, corticoid chích lặp 6–12 giờ, khí dung adrenaline 1/1000 2–5 mL lặp 30 phút–1 giờ, kháng sinh chích, đặt nội khí quản hoặc mở khí quản khi lơ mơ, kiệt sức (QĐ 5643/2015, hạ thanh môn mục 4.2.3).",
+  "Điều kiện thuận lợi: sau viêm hô hấp, đái tháo đường, dùng giọng gắng sức, sặc rượu, trào ngược, dị ứng (QĐ 5643/2015, Viêm thanh quản cấp tính mục 2.2).",
+  "Bạch hầu nghi ngờ khi có giả mạc vùng hầu họng hoặc dịch tễ; thể thanh quản thường kèm thể họng (QĐ 2957/2020, mục 3.3, 5.1). Hội chứng xâm nhập có ở 93% dị vật đường thở (QĐ 5643/2015, Dị vật đường thở mục 3.1.1)."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 · Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng · Viêm thanh quản cấp tính mục 1, 2.1, 2.2, 3.1–3.5, 4.1.1, 4.1.2, 4.2.1–4.2.4, 5, 6; Viêm thanh quản cấp tính hạ thanh môn mục 3.1.1–3.1.3, 4.1, 4.2.1–4.2.3, 5.1; Dị vật đường thở mục 1, 2, 3.1.1, 3.1.3, 4.1, 4.2",
+  "TL-0129 · QĐ 2957/QĐ-BYT 2020 · Hướng dẫn chẩn đoán, điều trị bệnh bạch hầu · mục 1, 3.1.2, 3.1.3, 3.3, 4.1, 5.1, 5.3.2, 7",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 · Hội chứng đau thắt lưng mục 4.2.1 (paracetamol 0,5 g × 4–6 viên/24 giờ, tối đa 4 g)",
+  "Nguồn bổ sung tự tìm: AAO-HNSF 2018, Clinical practice guideline: hoarseness (dysphonia) (update), Stachler và cs., Otolaryngol Head Neck Surg 2018;158(1_suppl):S1–S42, doi 10.1177/0194599817751030; tóm tắt AAFP 2018 https://www.aafp.org/pubs/afp/issues/2018/1115/p606.html (khuyến cáo mạnh không kê kháng sinh cho khàn tiếng; không corticoid trước khi soi thanh quản; soi thanh quản nếu khàn không hết sau 4 tuần). Chỉ đọc bản tóm tắt AAFP, theo mục HH-1045 trong sổ mâu thuẫn, không mở toàn văn."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-08 · viết: Sonnet · bản 1, soạn mới theo CLAUDE.md mục 3.",
+  "Tài liệu đã đọc: TL-0130 (Viêm thanh quản cấp tính mục 1–6; hạ thanh môn mục 1–5; Dị vật đường thở mục 1–4.2), TL-0129 (mục 1–7), TL-0286 (QĐ 361/2014, mục 4.2.1 paracetamol, qua sổ mâu thuẫn), tai-lieu/mau_thuan.md (HH-1045, HH-1073).",
+  "Chỗ thiếu tài liệu: liều người lớn của corticoid, kháng sinh, adrenaline khí dung trong viêm thanh quản; thời gian tác dụng của corticoid và việc nó che triệu chứng (suy luận lâm sàng); mốc giờ lưu theo dõi, mốc tái khám 1–2 ngày; lưu lượng oxy; tránh soi lại ở người lớn đang rít (tài liệu chỉ nêu cho trẻ em); tiêm nhắc bạch hầu người lớn; cấp giấy nghỉ ốm, chi trả BHYT khi chuyển tuyến; AAO-HNSF 2018 chỉ đọc tóm tắt AAFP.",
+  "Mâu thuẫn: không có mục mới; theo mục HH-1045 (kháng sinh, corticoid) và HH-1073 (độ II người lớn). Xem HH-1055_mau_thuan.md.",
+  "Thiết kế: lượt 1 đáp án ve_hen vì khó thở thanh quản độ I được BYT cho điều trị ngoại trú (QĐ 5643/2015, hạ thanh môn mục 4.2.1); lưu theo dõi vài giờ (do vừa tự truyền corticoid, nhà xa tuyến trên) chấm a. Trưởng nhóm đổi từ theo_doi ngày 08/11/2026.",
+  "Giới hạn thiết kế: dexamethason 4 mg/ống và kháng sinh không rõ tên là dữ kiện của ca, không phải khuyến cáo; ngưỡng 38,5 °C và khoảng cách 6 giờ của paracetamol là quy ước của ca.",
+  "08/11/2026 trưởng nhóm duyệt: đổi ket_luan lượt 1 từ theo_doi sang ve_hen cho khớp QĐ 5643/2015 (độ I điều trị ngoại trú); lưu theo dõi chấm a; neu_sai đổi khóa ve_hen thành theo_doi; sửa câu tiếp đón lượt 2."
+ ]
+}

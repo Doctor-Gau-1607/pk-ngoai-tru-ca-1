@@ -1,0 +1,843 @@
+{
+ "ma_ca": "HH-1175",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình bản 3, nguồn kèm vị trí (2026-11-08)",
+ "benh": "HH_copd_dot_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COPD đợt cấp",
+  "chan_doan_phai_loai_tru": [
+   "Suy tim",
+   "Thuyên tắc phổi",
+   "Viêm phổi"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại làm phiền",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Văn Thới",
+  "tuoi": 78,
+  "gioi": "Nam",
+  "nghe": "Nội trợ: ở nhà nấu ăn, đi chợ, giặt giũ, trông nhà (trước đây làm thợ hồ khoảng 30 năm)",
+  "can_nang": 52,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'bác' hoặc 'ông'. Ông xưng 'tui', hay 'dạ' rồi kể tiếp. Con trai gọi ông là 'ba', xưng 'con'.",
+  "tinh_cach": "Hiền, nói nhiều nhưng nói vòng: hỏi một câu thì kể sang chuyện hồi làm thợ hồ, chuyện bà Lài đau gối, chuyện thằng cháu nội, rồi mới quay lại. Hay lẫn thứ tự ngày. Rất ngại làm phiền con, sợ tốn tiền thuốc, coi hụt hơi là 'già thì vậy'. Tỉnh táo, nghe hiểu, không lú lẫn.",
+  "kieu_nhieu": "Kể lể lộn xộn: trả lời xen nhiều chuyện không liên quan, nhảy qua lại giữa các ngày, nhắc triệu chứng này rồi quên triệu chứng kia. Ý chính (đờm, khó thở, thuốc đang dùng) nằm rải rác trong lời kể; bác sĩ phải tóm lại từng ý và hỏi lại có cấu trúc thì ông mới trả lời gọn. Phần khó thở thật sự ông chỉ nói khi được hỏi theo việc cụ thể hằng ngày.",
+  "nguoi_nha": "Con trai, anh Tâm, 48 tuổi, tài xế xe tải chạy trong tỉnh, tối nào cũng về ăn cơm. Thương ba nhưng nóng tính, hay cắt lời: 'Ba cứ nói thẳng đi.' Anh biết ba ho, nhiều đờm, ăn ít. Anh KHÔNG biết chuyện ba phải ngồi dậy ban đêm, chuyện ống xịt gần hết mà ba không dám xin. Bà Lài (vợ ông, 74 tuổi) ở nhà cả ngày nhưng đau khớp gối, đi lại khó. Khi bác sĩ hỏi về sinh hoạt, thuốc men, ai ở nhà, anh Tâm thường trả lời thay (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Anh Tâm (con trai)",
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#e6e3df",
+   "kieuToc": "hoi",
+   "ao": "#8fa3b0",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d3a07a",
+    "toc": "#1f1a17",
+    "kieuToc": "ngan",
+    "ao": "#4d5b6a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho nhiều, khạc đờm nhiều mấy ngày",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở chỉ có xét nghiệm cơ bản (công thức máu, CRP, sinh hóa máu, đường huyết, tổng phân tích nước tiểu), điện tim, đo SpO₂. Không có X-quang, siêu âm, CT, nội soi; không có khí máu, D-dimer, NT-proBNP. Có bình oxy, máy khí dung bằng máy nén khí, xe cấp cứu có oxy."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Đoàn Văn Thới, 78 tuổi, nội trợ, con trai Tâm đưa đến vì ho nhiều, khạc đờm nhiều mấy ngày nay. Sinh hiệu: nhiệt độ 37,6 °C, mạch 92 l/p, HA 152/84 mmHg, nhịp thở 22 l/p, SpO₂ 94% khí trời, cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Thới thở 22 l/p, mạch 92, SpO₂ 94%, nói gần trọn câu và có bà Lài ở nhà cả ngày: đợt cấp mức nhẹ, chưa có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.1, 3.4.2); hơn 80% đợt cấp xử trí ngoại trú (GOLD 2026 tr. 101). Ông ngại làm phiền con, sợ không ai lo cho bà Lài nên dễ đòi về giữa chừng; anh Tâm mất ngày công chạy hai nơi, chi phí tăng mà cái ông cần là được dạy dùng ống xịt đúng cách.",
+    "chuyen_tuyen": "Chuyển ông lên tuyến trên chụp phim ngay khi mới 6 ngày ho, SpO₂ 94%, không đau ngực kiểu màng phổi, không ran nổ khu trú là quá tay: chưa có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2) và mốc là đánh giá lại sau 3–5 ngày, không đỡ thì tìm bệnh đồng mắc hoặc nguyên nhân khác (Biểu đồ 3.1). Đường xa, tốn kém, ông có thể từ chối đi và không quay lại; trong khi việc chưa được làm là dạy xịt thuốc và khởi động lại thuốc hít kéo dài."
+   },
+   "loi_mo": "Dạ, tui ho mấy bữa nay, thằng Tâm nó bắt đi chớ tui già ho là chuyện thường. Hồi đó tui làm thợ hồ, bụi xi măng nhiều lắm bác sĩ ơi... mà bà nhà tui đau gối nữa...",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "152/84",
+    "nhiet": "37,6",
+    "nhip_tho": 22,
+    "spo2": 94,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho nhiều, khạc đờm nhiều mấy ngày nay, ăn kém. Con trai bắt đi khám, ông nói 'tui già ho là chuyện thường'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ke_le",
+     "noi_dung": "Ông kể: hồi trẻ làm thợ hồ ba mươi năm hít bụi xi măng, hồi đó cũng hay ho; bà Lài đau gối nên ông lo cơm nước, đi chợ sáng, giặt đồ; thằng cháu nội mới mua cho cái quạt; tuần trước đám giỗ bên vợ. Những chuyện này không liên quan đợt bệnh này.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Khoảng 6 ngày nay (ông kể lúc 4, lúc 7 ngày) ho nhiều hơn mọi khi, đờm tăng gấp đôi, từ trắng chuyển vàng xanh đặc. Thở nghe cò cử, nặng ngực. Một đêm hâm hấp sốt, không rét run, không đo. Không đau ngực kiểu nhói khi thở sâu, không ho ra máu.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi riêng về ho, màu và lượng đờm, có sốt, có ho ra máu, đau ngực. Hỏi chung 'sao rồi bác' thì ông kể chuyện khác.",
+     "k": 1,
+     "y": "Ho đờm tăng, đờm mủ, khó thở tăng (Anthonisen); không sốt cao, không đau ngực màng phổi, không ho máu"
+    },
+    {
+     "id": "kho_tho",
+     "noi_dung": "Mấy hôm nay đi chợ về phải dừng 2–3 lần ở đầu hẻm; đứng nấu cơm một lát đã phải ngồi thở. Ban đêm ho và khò khè làm thức giấc 1–2 lần, ngồi dậy một lát thì đỡ, rồi nằm lại. Ông ngủ gối cao 2 cái từ nhiều năm nay vì quen, không phải mới.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi theo việc cụ thể (đi chợ, nấu ăn, leo bậc, ban đêm ngủ thế nào, ngủ mấy gối, có phải ngồi dậy thở không). Hỏi 'có khó thở không' thì ông đáp 'chút xíu, già mà'. Ông sợ con lo, sợ tốn tiền.",
+     "k": 1,
+     "y": "Khó thở khi gắng sức nhẹ, thức giấc vì ho; không khó thở kịch phát về đêm, tư thế ngủ quen thuộc"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Ba năm trước được chẩn đoán bệnh phổi tắc nghẽn mạn tính ở bệnh viện huyện (đo hô hấp ký: FEV1 khoảng 46% so với dự đoán, FEV1/FVC 0,56; ông còn giữ tờ kết quả). Hút thuốc lào, thuốc lá khoảng 40 gói-năm, bỏ cách đây 8 năm. Năm ngoái có 1 lần ho nhiều, khò khè, được trạm y tế cho uống kháng sinh và khí dung, không nằm viện. Tăng huyết áp khoảng 10 năm.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi bệnh nền, tiền sử hút thuốc, năm ngoái có đợt nào tương tự không, có đo hô hấp ký bao giờ chưa.",
+     "k": 1,
+     "y": "COPD đã biết (FEV1 < 50%), 1 đợt cấp năm trước, hút thuốc 40 gói-năm"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Amlodipin 5 mg uống mỗi sáng khoảng 2 năm, huyết áp ở nhà thường 140–150/80. Không dùng thuốc lợi tiểu, không thuốc ngủ, không thuốc an thần. Một ống xịt salbutamol cũ do trạm y tế cấp từ năm ngoái, còn rất ít liều; ông chỉ xịt 1 nhát khi thật hụt hơi để dành. Thuốc hít kéo dài (tiotropium) từng dùng 3 tháng rồi tự bỏ cách đây khoảng 1 năm vì 'đắt, thấy đỡ rồi'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'đang uống thuốc gì' thì ông nói 'thuốc huyết áp'. Chỉ nói ra ống xịt và chuyện bỏ thuốc hít khi bác sĩ hỏi riêng về thuốc xịt, thuốc hít, hoặc khi anh Tâm giục ba cầm ống xịt ra cho bác sĩ xem. Ông ngại nói vì sợ con trách tốn tiền.",
+     "k": 1,
+     "y": "Thuốc đang dùng; ngừng thuốc duy trì; dùng cắt cơn thiếu và sai cách"
+    },
+    {
+     "id": "phu_chan",
+     "noi_dung": "Cổ chân hai bên hơi sưng vào chiều tối, sáng ra xẹp, đã vài tháng nay. Không đau bắp chân, không sưng một bên, không nằm một chỗ lâu, không đi xa, không phẫu thuật gần đây.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi về phù chân, đau bắp chân, có nằm lâu hay đi xe đường dài không.",
+     "k": 1,
+     "y": "Phù cổ chân hai bên nhẹ, lâu ngày; không yếu tố nguy cơ huyết khối"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ông không nghĩ ra lý do: không bị lạnh đột ngột, không ai trong nhà bệnh, không đổi thuốc, không tiếp xúc hóa chất; bếp nhà nấu bằng gas.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi vì sao bệnh nặng lên, có ai ốm, thay đổi thời tiết, khói bụi, thuốc mới.",
+     "k": 0,
+     "y": "Không rõ yếu tố khởi phát"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Ở cùng bà Lài (74 tuổi, đau khớp gối nhưng tỉnh táo, tự lo được) và gia đình anh Tâm ở sát nhà; ban ngày ông và bà ở nhà với nhau, anh Tâm đi làm, tối về. Nhà gần trạm y tế, cách bệnh viện huyện 12 km.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi ai ở nhà, ai chăm, nhà cách bệnh viện bao xa.",
+     "k": 1,
+     "y": "Có người ở cùng ban ngày (không thuộc tiêu chuẩn 'không có người chăm sóc')"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều ông không muốn nói: ông biết mình thở nặng hơn nhiều so với lời kể, nhưng ngại làm phiền con, ngại tốn tiền thuốc, sợ bị đưa vô viện rồi không ai lo cho bà Lài.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi nhẹ nhàng ông lo điều gì nhất, hay có điều gì ngại nói; hoặc khi bác sĩ nói rõ sẽ tính cách điều trị ở nhà cho tiện. Bác sĩ hỏi dồn thì ông gạt: 'Có gì đâu bác sĩ'.",
+     "k": 1,
+     "y": "Lý do thật: ngại làm phiền, lo tốn kém và không ai lo cho vợ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, định hướng đúng, gầy (BMI 19,1). Nói gần trọn câu, thỉnh thoảng ngừng lấy hơi. Không tím, không vã mồ hôi. Chi ấm.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Lồng ngực hình thùng, gõ vang hai bên. Thở ra kéo dài, không co kéo cơ hô hấp phụ lúc nghỉ. Rì rào phế nang giảm hai đáy; ran rít thì thở ra và ran ngáy lan tỏa hai phổi. Không ran nổ khu trú, không hội chứng đông đặc, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Lồng ngực hình thùng, gõ vang hai bên. Không co kéo cơ hô hấp phụ lúc nghỉ.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra."
+      },
+      {
+       "vi_tri": "Vùng giữa phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy lan tỏa."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 92 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Tĩnh mạch cổ không nổi khi ngồi 45 độ. Không phù mặt. Không hạch cổ.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, gan không to, không đau, phản hồi gan–tĩnh mạch cổ âm tính.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Phù nhẹ mu chân và cổ chân hai bên, ấn lõm nông (1+), đối xứng, mềm. Hai bắp chân không đau khi bóp, không đỏ, chu vi hai bên bằng nhau.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ chậm 40 m trong hành lang: SpO₂ 94% → 91%, nhịp thở 28 l/p, mạch 104, phải dừng một lần; ngồi nghỉ 2 phút SpO₂ về 94%, mạch 92. Không tím.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 11,8 G/L · Neutrophil 76% · Hb 146 g/L · TC 262 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 11.8,
+      "neu_pct": 76.0,
+      "neu": 8.97,
+      "lym_pct": 16.0,
+      "lym": 1.89,
+      "mono_pct": 6.5,
+      "mono": 0.77,
+      "eos_pct": 1.0,
+      "eos": 0.12,
+      "baso_pct": 0.5,
+      "baso": 0.06,
+      "rbc": 4.6,
+      "hgb": 146,
+      "hct": 0.44,
+      "mcv": 91.0,
+      "mch": 31.0,
+      "mchc": 335,
+      "rdw": 13.4,
+      "plt": 262
+     },
+     "n": "Bạch cầu hơi tăng, ưu thế đa nhân trung tính (QĐ 2131/2026 Bảng 3.1). Bạch cầu ái toan 120/µL (< 300/µL): corticoid ít hưởng lợi hơn khi bạch cầu ái toan thấp (QĐ 2131/2026 mục 3.4.4c; GOLD 2026 tr. 103, nghiên cứu STARR2)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "14 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 14
+     },
+     "n": "CRP ≥ 10 mg/L là 1 trong 5 tiêu chuẩn Rome (QĐ 2131/2026 Bảng 3.2); mới 1 tiêu chuẩn nên vẫn xếp mức nhẹ (mức trung bình cần ít nhất 3 trong 5). Làm mốc để so lúc tái khám."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 6,4 mmol/L · Creatinin 98 µmol/L · eGFR 68 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.4,
+      "creat": 98,
+      "egfr": 68
+     },
+     "n": "Liều kháng sinh theo Clcr Cockcroft–Gault: (140 − 78) × 52 / (98 × 0,815) ≈ 40 mL/ph (QĐ 2131/2026 Phụ lục 10). Amoxicilin/acid clavulanic uống khi Clcr > 30: 500/125 mg mỗi 8 giờ hoặc 875/125 mg mỗi 12 giờ, không phải chỉnh."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 137 · K 4,0 · Cl 100 mmol/L",
+     "bang": {
+      "na": 137,
+      "k": 4.0,
+      "cl": 100
+     },
+     "n": "Bình thường; không bắt buộc ở lượt này."
+    },
+    "glu": {
+     "v": "a",
+     "r": "5,9 mmol/L",
+     "bang": {
+      "glu": 5.9
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, không nhịn đói.",
+     "n": "Bình thường; có ích nếu định dùng corticoid toàn thân, không bắt buộc."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 92 l/p, trục trung gian, điện thế thấp ở các chuyển đạo trước ngực, không dày thất, không block nhánh, không ST–T bất thường, không loạn nhịp.",
+     "n": "Tìm rối loạn nhịp, dấu suy tim, dấu thuyên tắc phổi (không S1Q3T3, không block nhánh phải) (QĐ 2131/2026 Bảng 3.1 dòng Điện tim)."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Tổng phân tích nước tiểu: bình thường (không protein, không đường, không máu).",
+     "n": "Không giúp phân biệt đợt cấp COPD."
+    },
+    "cay": {
+     "v": "a",
+     "r": "Nhuộm Gram đờm: nhiều bạch cầu đa nhân, vài trực khuẩn Gram âm nhỏ. Cấy đờm: chờ 48 giờ.",
+     "ab": 1,
+     "n": "Chưa cần ngay ở đợt nhẹ ngoại trú: chỉ làm khi không đáp ứng sau 3–5 ngày (QĐ 2131/2026 Biểu đồ 3.1); ngoại trú cấy đờm mất ≥ 2 ngày, thường không đáng tin (GOLD 2026 tr. 104). Không chấm sai nếu làm; không được làm chậm liều kháng sinh đầu."
+    },
+    "abg": {
+     "v": "n",
+     "r": "Cơ sở chỉ có xét nghiệm cơ bản, không có máy khí máu động mạch. Đo SpO₂ tại giường.",
+     "n": "Khí máu là chuẩn vàng khi cần quyết định hỗ trợ thông khí (GOLD 2026 tr. 99); ở đợt nhẹ, SpO₂ 94% tỉnh táo chưa cần."
+    },
+    "ddimer": {
+     "v": "n",
+     "r": "Cơ sở không làm được D-dimer (chỉ xét nghiệm cơ bản).",
+     "n": "Wells = 0 (không dấu huyết khối tĩnh mạch sâu, mạch < 100, không bất động, không tiền sử, không ho máu, có chẩn đoán thay thế rõ): xác suất thấp (AHA/ACC 2026 Bảng 3); chưa cần."
+    },
+    "nt_probnp": {
+     "v": "n",
+     "r": "Cơ sở không làm được NT-proBNP (chỉ xét nghiệm cơ bản).",
+     "n": "NT-proBNP hỗ trợ phân biệt suy tim (QĐ 2131/2026 Bảng 3.1) nhưng lâm sàng chưa gợi ý: tĩnh mạch cổ không nổi, gan không to, ông ngủ 2 gối từ lâu, điện tim không có dấu suy tim."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt cấp bệnh phổi tắc nghẽn mạn tính, mức nhẹ theo Rome (Anthonisen nặng: đủ 3 triệu chứng chính), tắc nghẽn nặng (FEV1 ≈ 46%) theo hồ sơ cũ",
+     "ok": 1,
+     "n": "COPD đã biết, tình trạng xấu đi > 2 ngày với tăng khó thở, tăng lượng đờm và đờm chuyển mủ (QĐ 2131/2026 mục 3.3.3, 3.3.4b: Anthonisen nặng). Rome nhẹ: VAS 4 (< 5), thở 22 (< 24), mạch 92 (< 95), SpO₂ 94% (> 92%), CRP 14 là tiêu chuẩn thứ 5 duy nhất vượt ngưỡng (Bảng 3.2). Yếu tố nguy cơ kết cục xấu: ≥ 65 tuổi, FEV1 < 50% (mục 3.3.4d). Không rõ yếu tố khởi phát (mục 3.2 nêu có trường hợp không rõ căn nguyên). ICD-10 J44.1: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Suy tim",
+     "n": "Không khó thở kịch phát về đêm, ngủ 2 gối từ lâu, tĩnh mạch cổ không nổi, gan không to, tim không T3, điện tim không dày thất; phù cổ chân nhẹ, đối xứng, mất buổi sáng, ông dùng amlodipin 5 mg (liên quan liều gây phù chi dưới: AHA/ACC 2025 Tăng huyết áp, Bảng 13). Suy tim là bệnh đồng mắc cần nghĩ khi khó thở nặng lên (QĐ 2131/2026 mục 4.1.1, 4.1.3); nếu không đáp ứng điều trị phải tìm lại (Biểu đồ 3.2). NT-proBNP, siêu âm tim không làm được ở cơ sở."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Wells = 0: không dấu huyết khối tĩnh mạch sâu, mạch < 100, không bất động hay phẫu thuật, không tiền sử, không ho máu; có chẩn đoán thay thế rõ là đợt cấp COPD (AHA/ACC 2026 Bảng 3). Phù cổ chân hai bên đối xứng không phải phù một chân. D-dimer, CT không làm được ở cơ sở; mạch tăng > 100 hoặc không đáp ứng điều trị thì phải nghĩ lại (QĐ 2131/2026 Bảng 3.1: D-dimer; Biểu đồ 3.1)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Sốt nhẹ 1 đêm, không rét run, không đau ngực kiểu màng phổi, không ran nổ khu trú, không hội chứng đông đặc, CRP 14 (thấp so với viêm phổi), bạch cầu 11,8. X-quang phổi giúp phát hiện viêm phổi (QĐ 2131/2026 Bảng 3.1) nhưng cơ sở không có; vì vậy phải hẹn khám lại sau 3 ngày và nghĩ lại viêm phổi nếu không đáp ứng, sốt, ran nổ khu trú, CRP tăng (Biểu đồ 3.1: không tốt thì xét bệnh đồng mắc hoặc nguyên nhân khác)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú tại nhà (có bà Lài ở cùng), hẹn khám lại sau 3 ngày, đến ngay nếu nặng lên",
+     "v": "c",
+     "n": "Đợt cấp nhẹ điều trị ngoại trú (QĐ 2131/2026 mục 3.4.1); chưa có tiêu chuẩn nhập viện, có người ở cùng nên không thuộc 'tuổi cao không có người chăm sóc' (mục 3.4.2); hơn 80% đợt cấp xử trí ngoại trú, người ngoại trú cần theo dõi sát và biết khi nào quay lại (GOLD 2026 tr. 99, 101). Đánh giá đáp ứng sau 3–5 ngày (QĐ Biểu đồ 3.1); hẹn 3 ngày vì ông ≥ 65 tuổi, FEV1 < 50%, không có X-quang (quyết định của ca)."
+    },
+    {
+     "t": "Salbutamol xịt định liều 100 µg qua buồng đệm: 2–4 nhát/lần mỗi 1 giờ cho 2–3 liều đầu rồi mỗi 2–4 giờ, rồi mỗi 6–8 giờ (QĐ) hoặc 1–2 nhát mỗi 1 giờ cho 2–3 liều rồi mỗi 2–4 giờ (GOLD); dạy và cho ông tập xịt thử",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.3a; GOLD 2026 tr. 103 (không dùng liều SABA cao vì tác dụng phụ). Mâu thuẫn đã ghi trong sổ từ ca HH-1192. Bắt đầu 2 nhát vì mạch 92. Kỹ thuật hít sai là yếu tố kích phát và phải được đánh giá lại (QĐ mục 3.2, 3.4.4g)."
+    },
+    {
+     "t": "Khởi động lại thuốc giãn phế quản tác dụng kéo dài mỗi ngày: LAMA (tiotropium) hoặc LABA+LAMA",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.3b (tiếp tục hoặc khởi động), Phụ lục 1 (liều). Ông bỏ thuốc hít 1 năm nay; ngừng thuốc duy trì là yếu tố kích phát (mục 3.2). Nói rõ giá thuốc và cách mua với anh Tâm để ông không tự bỏ lại."
+    },
+    {
+     "t": "Kháng sinh uống: amoxicilin/acid clavulanic 875/125 mg mỗi 12 giờ (hoặc 500/125 mg mỗi 8 giờ), 5–7 ngày (QĐ) hoặc ≤ 5 ngày (GOLD)",
+     "v": "c",
+     "n": "Đủ 3 triệu chứng chính gồm đờm mủ (QĐ 2131/2026 mục 3.4.3d). Có yếu tố nguy cơ kết cục xấu (≥ 65 tuổi, FEV1 < 50%), không nguy cơ Pseudomonas: amoxicilin-clavulanat hoặc levofloxacin/moxifloxacin (Biểu đồ 3.1); chọn amoxicilin/acid clavulanic vì quinolon cần cân nhắc ở người cao tuổi (mục 3.4.3d). Clcr ≈ 40 > 30: không chỉnh liều (Phụ lục 10). Số ngày: QĐ Biểu đồ 3.1 là 5–7, GOLD 2026 tr. 105 là ≤ 5 (mâu thuẫn đã ghi từ ca HH-1216)."
+    },
+    {
+     "t": "Prednisolon 40 mg uống 1 lần buổi sáng × 5 ngày (hoặc 30–40 mg); hoặc chưa dùng corticoid ở đợt nhẹ có bạch cầu ái toan thấp",
+     "v": "a",
+     "n": "QĐ 2131/2026 mục 3.4.3c: 30–40 mg/ngày × 5 ngày; GOLD 2026 tr. 103: 40 mg × 5 ngày nhưng nên giới hạn ở đợt đáng kể vì nguy cơ viêm phổi, nhiễm khuẩn huyết, STARR2 gợi ý có thể tránh khi bạch cầu ái toan thấp (ở đây 120/µL). Mâu thuẫn đã ghi trong sổ từ ca HH-1192: cả hai cách chấm a."
+    },
+    {
+     "t": "Giữ nguyên amlodipin 5 mg mỗi sáng, giải thích phù cổ chân nhẹ không phải dấu hiệu tim yếu; không thêm lợi tiểu",
+     "v": "a",
+     "n": "Amlodipin liên quan liều với phù chi dưới (AHA/ACC 2025 Tăng huyết áp, Bảng 13). Huyết áp 152/84 trong đợt bệnh, chưa đổi thuốc ngay. Ngưỡng và mục tiêu huyết áp ở người ≥ 75 tuổi: không có trong tài liệu COPD đã tải."
+    },
+    {
+     "t": "Hỏi lại có cấu trúc: tóm tắt từng ý ông kể, hỏi theo việc làm hằng ngày (đi chợ, nấu cơm, ban đêm), nói riêng để ông bớt ngại; viết kế hoạch hành động và dấu hiệu quay lại cho ông và anh Tâm",
+     "v": "c",
+     "n": "Nhiễu 'kể lể lộn xộn' và lý do thật 'ngại làm phiền': kỹ năng giao tiếp không có trong tài liệu đã tải. Dấu hiệu cần nhập viện (khó thở nặng, rối loạn tri giác, ngủ gà, tím, phù ngoại biên tăng): QĐ 2131/2026 mục 3.4.2. Hướng dẫn dùng thuốc trong đợt cấp: mục 3.4.4g."
+    },
+    {
+     "t": "Nhập viện điều trị nội trú ngay",
+     "v": "w",
+     "n": "Đợt cấp nhẹ, chưa có tiêu chuẩn nhập viện, có bà Lài ở nhà (QĐ 2131/2026 mục 3.4.1, 3.4.2); phần lớn điều trị ngoại trú (GOLD 2026 tr. 101)."
+    },
+    {
+     "t": "Cho thuốc an thần, thuốc ngủ để ông ngủ được",
+     "v": "w",
+     "n": "Thuốc an thần, thuốc ngủ là yếu tố gây đợt cấp COPD (QĐ 2131/2026 mục 3.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh phổi tắc nghẽn mạn tính (FEV1 ≈ 46% theo hồ sơ cũ) đợt cấp, mức nhẹ theo Rome, Anthonisen nặng (QĐ 2131/2026 Bảng 3.2, mục 3.3.4b)",
+     "Yếu tố nguy cơ kết cục xấu: ≥ 65 tuổi, FEV1 < 50% (mục 3.3.4d); chưa có nguy cơ Pseudomonas",
+     "Không rõ yếu tố khởi phát; dùng thuốc cắt cơn thiếu và sai cách, ngừng thuốc duy trì 1 năm (yếu tố làm nặng, mục 3.2)",
+     "Tăng huyết áp đang dùng amlodipin 5 mg, phù cổ chân nhẹ liên quan thuốc",
+     "Đã loại trừ ở mức lâm sàng: suy tim, thuyên tắc phổi (Wells 0), viêm phổi (chưa loại trừ hẳn vì cơ sở không có X-quang: hẹn khám lại)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: để ông kể xong một đoạn rồi tóm lại và hỏi từng ý: ho, màu và lượng đờm, sốt, đau ngực, ho máu; khó thở theo việc hằng ngày; ban đêm; bệnh nền, hút thuốc; thuốc đang dùng, ống xịt; phù chân và yếu tố huyết khối; ai ở nhà. Lý do thật (ngại phiền con, lo cho bà Lài) chỉ ra khi hỏi nhẹ nhàng.",
+     "Vì sao là đợt cấp COPD: bệnh nền đã biết, tăng khó thở, tăng đờm, đờm chuyển mủ ≥ 2 ngày (Anthonisen nặng; QĐ 2131/2026 mục 3.3.3, 3.3.4b); khám lồng ngực hình thùng, ran rít, ran ngáy lan tỏa, rì rào giảm (mục 3.3.1).",
+     "Vì sao Rome nhẹ: VAS 4, thở 22, mạch 92, SpO₂ 94%, CRP 14 (chỉ 1 tiêu chuẩn vượt) (Bảng 3.2). Không rõ yếu tố khởi phát cũng gặp trong thực tế (mục 3.2).",
+     "Vì sao chưa phải suy tim: không khó thở kịch phát về đêm, tĩnh mạch cổ không nổi, gan không to, không T3, điện tim không dày thất; phù cổ chân nhẹ mất buổi sáng trên người dùng amlodipin (AHA/ACC 2025 Bảng 13). NT-proBNP và siêu âm tim không làm được: theo dõi (QĐ 2131/2026 Bảng 3.1, Biểu đồ 3.2).",
+     "Vì sao chưa nghĩ thuyên tắc phổi: Wells = 0 (AHA/ACC 2026 Bảng 3), có chẩn đoán thay thế rõ.",
+     "Vì sao chưa nghĩ viêm phổi: không sốt cao, không đau ngực màng phổi, không ran nổ khu trú, CRP thấp. Cơ sở không có X-quang nên không khẳng định hẳn; bù bằng khám lại sau 3 ngày (QĐ 2131/2026 Bảng 3.1, Biểu đồ 3.1).",
+     "Dữ kiện nhiễu: chuyện thợ hồ, bà Lài đau gối, cháu nội làm loãng bệnh sử; phù cổ chân làm nghĩ suy tim nhưng gợi ý tác dụng phụ của amlodipin."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí đúng: điều trị ngoại trú, hẹn khám lại sau 3 ngày. Rome nhẹ điều trị ngoại trú; chưa có tiêu chuẩn nhập viện; bà Lài ở nhà (QĐ 2131/2026 mục 3.4.1, 3.4.2; GOLD 2026 tr. 99, 101).",
+     "Thuốc: salbutamol xịt qua buồng đệm, LAMA khởi động lại, kháng sinh vì đờm mủ kèm tăng khó thở và đờm tăng, corticoid 5 ngày (hoặc chưa dùng); liều và số ngày ghi cả hai nguồn khi khác nhau (QĐ 2131/2026 mục 3.4.3a–d, Biểu đồ 3.1; GOLD 2026 tr. 103, 105).",
+     "Hướng dẫn kỹ thuật xịt: lắc ống, xịt vào buồng đệm 1 nhát rồi hít chậm 5–6 nhịp, chờ 30 giây rồi xịt nhát tiếp: cách làm lâm sàng, tài liệu đã tải không nêu chi tiết (QĐ 2131/2026 chỉ yêu cầu đánh giá lại kỹ thuật dùng dụng cụ, mục 3.4.4g).",
+     "Tái khám sau 3 ngày vì không có X-quang; QĐ 2131/2026 Biểu đồ 3.1: đáp ứng không tốt thì nhuộm Gram, cấy đờm, đánh giá lại thuốc giãn phế quản, xem xét bệnh đồng mắc hoặc nguyên nhân khác."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Salbutamol (bình xịt định liều) + buồng đệm",
+      "ham_luong": "100 µg/nhát",
+      "lieu": "2–4 nhát/lần (QĐ 2131/2026) hoặc 1–2 nhát/lần (GOLD 2026); bắt đầu 2 nhát",
+      "duong": "Xịt hít qua buồng đệm",
+      "thoi_diem": "Mỗi 1 giờ cho 2–3 liều đầu khi khó thở, sau đó mỗi 2–4 giờ, rồi mỗi 6–8 giờ",
+      "so_ngay": "Đến khi hết khò khè (số ngày: không có trong tài liệu đã tải)",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3a; GOLD 2026 tr. 103. Xịt quá nhiều gây run tay, tim nhanh. Cho ống xịt mới thay ống cũ gần hết."
+     },
+     {
+      "thuoc": "Amoxicilin/acid clavulanic",
+      "ham_luong": "Viên 875/125 mg",
+      "lieu": "1 viên mỗi 12 giờ (hoặc 500/125 mg mỗi 8 giờ)",
+      "duong": "Uống",
+      "thoi_diem": "Đầu bữa ăn, đều giờ",
+      "so_ngay": "5–7 ngày (QĐ 2131/2026 Biểu đồ 3.1) hoặc ≤ 5 ngày (GOLD 2026 tr. 105); điểm chung là 5 ngày",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3d, Phụ lục 10 (Clcr ≈ 40 > 30 không chỉnh liều). Đánh giá đáp ứng sau 3–5 ngày."
+     },
+     {
+      "thuoc": "Prednisolon (nếu dùng)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "40 mg (8 viên) hoặc 30 mg (6 viên) 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3c; GOLD 2026 tr. 103. Có thể chưa dùng vì bạch cầu ái toan 120/µL; theo dõi đường huyết, huyết áp."
+     },
+     {
+      "thuoc": "Tiotropium (hạt mịn)",
+      "ham_luong": "2,5 µg/lần hít",
+      "lieu": "2 lần hít mỗi sáng",
+      "duong": "Hít bằng dụng cụ chuyên dụng",
+      "thoi_diem": "Buổi sáng, đều mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 2131/2026 Phụ lục 1, mục 3.4.3b. Hoặc LABA+LAMA (indacaterol/glycopyrronium 110/50 µg 1 nang mỗi sáng). Kiểm tra kỹ thuật hít."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên; liên quan liều với phù chi dưới (AHA/ACC 2025 Bảng 13)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh của ông là đợt nặng lên của bệnh phổi tắc nghẽn mạn tính, điều trị ở nhà được vì ông còn nói được, không tím, có bà ở nhà. Ống xịt cắt cơn phải xịt đủ số nhát qua buồng đệm, ông không cần để dành; thuốc hít buổi sáng dùng mỗi ngày kể cả khi khỏe (QĐ 2131/2026 mục 3.2, 3.4.3a–b).",
+     "Đến ngay hoặc báo anh Tâm gọi xe nếu khó thở nặng hơn, nói không hết câu, môi tím, buồn ngủ, lơ mơ, đau đầu buổi sáng, sưng phù tăng, sốt cao, đau ngực, ho ra máu (QĐ 2131/2026 mục 3.4.2). Tái khám sau 3 ngày; không đỡ thì nhuộm Gram, cấy đờm (Biểu đồ 3.1).",
+     "Không tự mua thuốc ngủ, thuốc an thần. Tiêm ngừa cúm, phế cầu khi ổn (QĐ 2131/2026 mục 4.1.5; liều, lịch: không có trong tài liệu đã tải). Đã bỏ thuốc 8 năm: giữ vững."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Ông Thới đến khám lại theo hẹn sau 3 ngày điều trị ngoại trú; anh Tâm nói ba không đỡ, ngủ nhiều hơn. Sinh hiệu: nhiệt độ 37,9 °C, mạch 108 l/p, HA 158/88 mmHg, nhịp thở 28 l/p, SpO₂ 88% khí trời.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Thới SpO₂ 88%, thở 28 l/p, co kéo cơ phụ, ngủ gà, đau đầu buổi sáng, run vẫy: đợt cấp không đáp ứng điều trị ban đầu kèm dấu hiệu suy hô hấp, thuộc tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2, Bảng 3.3) và nghi tăng CO₂ cần khí máu (GOLD 2026 tr. 99). Về nhà, ông lại giấu, ngủ sâu hơn trong đêm, bà Lài đau gối không đỡ được ông, anh Tâm phải gọi cấp cứu lúc nửa đêm khi ông lơ mơ, lúc đó đã mất cơ hội thông khí không xâm nhập (chống chỉ định khi rối loạn ý thức: mục 3.4.4f).",
+    "nhap_vien": "Giữ ông nằm lại cơ sở là chưa đủ: Bảng 3.3 xếp thở 25–30 l/p kèm co kéo cơ phụ vào suy hô hấp cấp cần điều trị tại khoa Hô hấp hoặc ICU (QĐ 2131/2026 mục 3.4.1), phải kiểm khí máu 30–60 phút sau khi thở oxy và thông khí không xâm nhập khi pH ≤ 7,35 kèm PaCO₂ ≥ 45 (mục 3.4.4f). Cơ sở không có khí máu, X-quang, siêu âm, máy thở không xâm nhập, nên không loại trừ được viêm phổi, thuyên tắc phổi, không xử trí được nếu CO₂ tăng; chuyển muộn thì ông đã lơ mơ hơn, mất cơ hội thở máy không xâm nhập."
+   },
+   "loi_mo": "Dạ, tui uống thuốc đủ mà... chắc uống thêm vài bữa là đỡ. Mà bữa trước... hôm kìa hay hôm qua tui cũng không nhớ, tui hơi mệt chút.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "158/88",
+    "nhiet": "37,9",
+    "nhip_tho": 28,
+    "spo2": 88,
+    "canh_bao": [
+     "SpO₂ 88% khí trời",
+     "Nhịp thở 28 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba ngày nay không đỡ, ông ngủ nhiều hơn, thở nặng hơn. Anh Tâm đưa ông đi sớm, còn ông nói 'chắc uống thêm vài bữa'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ hôm kia khó thở nặng hơn (tự chấm 8/10), nói vài tiếng phải ngừng lấy hơi, đêm qua phải ngồi cả đêm trên ghế. Đờm vẫn vàng xanh đặc, lượng nhiều hơn. Hâm hấp sốt chiều. Sáng nay đau đầu vùng trán, ngủ gà, bà Lài gọi mới dậy. Ông kể lẫn lộn ngày nên anh Tâm sửa lại.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi so với lượt trước thở ra sao, đêm qua ngủ thế nào, có đau đầu, buồn ngủ ban ngày.",
+     "k": 1,
+     "y": "Nặng hơn sau 3 ngày điều trị; đau đầu, ngủ gà (gợi ý tăng CO₂)"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Uống amoxicilin/acid clavulanic đủ 3 ngày, không bỏ liều; uống prednisolon mỗi sáng. Ống xịt: ông xịt mỗi lần 1 nhát, không dùng buồng đệm vì 'cái ống to kỳ, ngại', xịt xong thở ra liền. Thuốc hít tiotropium chưa mua vì 'đắt, để mốt'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chi tiết từng thuốc và nhờ ông diễn lại cách xịt; anh Tâm ngạc nhiên vì tưởng ba dùng đúng. Ông ngại bị trách.",
+     "k": 1,
+     "y": "Tuân thủ kháng sinh và corticoid; dùng thuốc xịt sai kỹ thuật, chưa dùng thuốc hít kéo dài"
+    },
+    {
+     "id": "yeu_to_nguy_co",
+     "noi_dung": "Vẫn không đau ngực, không ho ra máu, không đau hay sưng bắp chân, không nằm lâu, không đi xa. Phù cổ chân như cũ, không tăng. Không rét run.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi lại về đau ngực, ho máu, đau chân, phù, rét run.",
+     "k": 1,
+     "y": "Không dấu hiệu thuyên tắc phổi, không phù tăng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông thú nhận đã thở nặng từ hôm kia nhưng không nói vì 'không muốn con nghỉ chạy xe', sợ vô viện không ai lo bà Lài.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ vì sao đến hôm nay mới nói, hoặc khi anh Tâm khẳng định gia đình lo được.",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh nhưng buồn ngủ, gọi thì mở mắt, trả lời đúng từng câu ngắn, ngừng lấy hơi giữa câu. Môi hơi tím khi thở khí trời. Da ẩm, tay ấm. Ngồi chồm người ra trước.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p. Co kéo cơ ức đòn chũm và cơ liên sườn. Lồng ngực hình thùng, gõ vang. Rì rào phế nang giảm rõ hai đáy; ran rít thì thở ra và ran ngáy nhiều lan tỏa hai phổi. Không ran nổ khu trú, không hội chứng đông đặc, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 28 l/p. Co kéo cơ hô hấp phụ. Lồng ngực hình thùng, gõ vang hai bên.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy lan tỏa."
+      },
+      {
+       "vi_tri": "Vùng giữa phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 108 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Tĩnh mạch cổ không nổi. Không phù mặt.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Phù nhẹ cổ chân hai bên như lượt trước, ấn lõm nông. Hai bắp chân mềm, không đau, chu vi hai bên bằng nhau.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Gọi biết, định hướng đúng. Run vẫy nhẹ hai bàn tay khi giơ ra. Không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, gan không to, phản hồi gan–tĩnh mạch cổ âm tính.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Không nên làm: SpO₂ lúc nghỉ đã 88% khí trời, nói ngắt quãng. Cho đứng dậy 3 bước phải vịn ghế, SpO₂ tụt 84%, nhịp thở 32; ngồi nghỉ 3 phút SpO₂ về 88%. Dừng nghiệm pháp.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 14,6 G/L · Neutrophil 82% · Hb 152 g/L · TC 275 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 14.6,
+      "neu_pct": 82.0,
+      "neu": 11.97,
+      "lym_pct": 10.0,
+      "lym": 1.46,
+      "mono_pct": 7.0,
+      "mono": 1.02,
+      "eos_pct": 0.5,
+      "eos": 0.07,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 4.8,
+      "hgb": 152,
+      "hct": 0.45,
+      "mcv": 91.0,
+      "mch": 31.0,
+      "mchc": 335,
+      "rdw": 13.4,
+      "plt": 275
+     },
+     "n": "Tăng bạch cầu (QĐ 2131/2026 Bảng 3.1). Bạch cầu ái toan 70/µL: corticoid đã uống 3 ngày vẫn không đỡ; bạch cầu ái toan thấp không phải lý do bỏ corticoid ở đợt đang nặng lên (QĐ mục 3.4.4c: xu hướng dùng ngắn nhất cho người hưởng lợi nhất)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "58 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 58
+     },
+     "n": "Tăng từ 14 lên 58 mg/L (≥ 10 là tiêu chuẩn Rome trung bình, QĐ 2131/2026 Bảng 3.2): gợi ý nhiễm khuẩn tiến triển hoặc viêm phổi, không phân biệt được nếu không có X-quang."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 8,1 mmol/L · Creatinin 106 µmol/L · eGFR 62 mL/ph/1,73m²",
+     "bang": {
+      "ure": 8.1,
+      "creat": 106,
+      "egfr": 62
+     },
+     "n": "Hơi tăng so với lượt trước (mất nước, nhiễm trùng); Clcr Cockcroft–Gault ≈ 37 mL/ph (QĐ 2131/2026 Phụ lục 10)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 134 · K 3,8 · Cl 98 mmol/L",
+     "bang": {
+      "na": 134,
+      "k": 3.8,
+      "cl": 98
+     },
+     "n": "Hạ natri nhẹ, không cần xử trí riêng ở cơ sở."
+    },
+    "glu": {
+     "v": "a",
+     "r": "6,8 mmol/L",
+     "bang": {
+      "glu": 6.8
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, không nhịn đói.",
+     "n": "Tăng nhẹ do stress và corticoid."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang nhanh 108 l/p, P cao nhọn ở D2, D3, aVF (P phế), trục lệch phải nhẹ, không S1Q3T3, không block nhánh phải, ST–T bình thường, không loạn nhịp.",
+     "n": "Dấu gánh thất phải/tâm phế mạn có thể gặp ở COPD (QĐ 2131/2026 Bảng 3.1 dòng Điện tim; mục 3.3.1). Điện tim không loại trừ được thuyên tắc phổi."
+    },
+    "cay": {
+     "v": "u",
+     "r": "Nhuộm Gram đờm: nhiều bạch cầu đa nhân, nhiều trực khuẩn Gram âm nhỏ. Cấy đờm: gửi theo bệnh nhân.",
+     "ab": 1,
+     "n": "Không đáp ứng sau 3–5 ngày: nhuộm Gram và cấy đờm (QĐ 2131/2026 Biểu đồ 3.1); lấy trước liều kháng sinh mới (Biểu đồ 3.2)."
+    },
+    "abg": {
+     "v": "u",
+     "r": "Cơ sở không có máy khí máu động mạch. Chỉ đo được SpO₂ tại giường.",
+     "n": "Cần khí máu để quyết định hỗ trợ thông khí (GOLD 2026 tr. 99); kiểm lại sau 30–60 phút thở oxy để không tăng CO₂, toan (QĐ 2131/2026 mục 3.4.4f). Không làm được ở cơ sở nên là một lý do chuyển tuyến."
+    },
+    "ddimer": {
+     "v": "n",
+     "r": "Cơ sở không làm được D-dimer.",
+     "n": "Mạch 108 làm Wells = 1,5 (xác suất thấp, AHA/ACC 2026 Bảng 3) nhưng ở cơ sở không có D-dimer, CT nên không loại trừ được tại chỗ; là lý do chuyển tuyến chứ không loại bằng khám."
+    },
+    "nt_probnp": {
+     "v": "n",
+     "r": "Cơ sở không làm được NT-proBNP.",
+     "n": "NT-proBNP hỗ trợ phân biệt suy tim (QĐ 2131/2026 Bảng 3.1); suy tim là bệnh đồng mắc cần xét khi không cải thiện (Biểu đồ 3.2). Không làm được ở cơ sở."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt cấp COPD không đáp ứng điều trị ban đầu, đang nặng lên, có dấu hiệu suy hô hấp cấp (nghi tăng CO₂); mức nặng hơn lượt 1",
+     "ok": 1,
+     "n": "Điều trị đủ 3 ngày vẫn không đỡ, SpO₂ 88%, thở 28, co kéo cơ phụ, ngủ gà, đau đầu, run vẫy: thuộc tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2) và Bảng 3.3 'suy hô hấp cấp không đe dọa tính mạng' (25 < thở ≤ 30, co kéo cơ phụ), cần khoa Hô hấp hoặc ICU. Khí máu không làm được nên chưa xếp Rome nặng; tăng CO₂ chỉ nghi. Nguyên nhân làm điều trị kém hiệu quả: xịt sai kỹ thuật, không dùng buồng đệm, chưa dùng thuốc hít kéo dài (QĐ mục 3.2, 3.4.4g), cộng với bệnh nặng lên; phải xét viêm phổi, suy tim, thuyên tắc phổi (Biểu đồ 3.1, 3.2)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "CRP 14 → 58, bạch cầu 14,6, sốt 37,9: không loại trừ được; nhưng không ran nổ khu trú, không hội chứng đông đặc, không đau ngực màng phổi. X-quang phát hiện viêm phổi (QĐ 2131/2026 Bảng 3.1) và cơ sở không có: lý do cần chụp ở tuyến trên (Biểu đồ 3.2: nghi viêm phổi thì đánh giá và điều trị)."
+    },
+    {
+     "t": "Suy tim",
+     "n": "Tĩnh mạch cổ không nổi, gan không to, phù không tăng, không T3, điện tim chỉ có P phế (gợi ý bệnh phổi). NT-proBNP và siêu âm tim không làm được; suy tim là bệnh đồng mắc cần xét khi điều trị COPD không đáp ứng (QĐ 2131/2026 Biểu đồ 3.2; mục 4.1.3)."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Không dấu huyết khối tĩnh mạch sâu, không bất động, không đau ngực, không ho máu; mạch 108 > 100: Wells = 1,5, xác suất thấp, còn chẩn đoán thay thế rõ (AHA/ACC 2026 Bảng 3). D-dimer, CT không làm được ở cơ sở nên chưa loại trừ hẳn: chuyển tuyến chụp nếu tuyến trên thấy cần."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến ngay lên bệnh viện có khoa Hô hấp hoặc hồi sức, X-quang, khí máu và thông khí không xâm nhập; đi bằng xe cấp cứu có oxy, có nhân viên y tế đi kèm",
+     "v": "c",
+     "n": "Triệu chứng nặng lên, ngủ gà, giảm bão hòa oxy, không đáp ứng điều trị ban đầu (QĐ 2131/2026 mục 3.4.2); Bảng 3.3 và mục 3.4.1: suy hô hấp cấp điều trị tại khoa Hô hấp hoặc ICU. Cần khí máu để quyết định thông khí (GOLD 2026 tr. 99). Cơ sở không có khí máu, X-quang, siêu âm, máy thở."
+    },
+    {
+     "t": "Thở oxy có kiểm soát trong lúc chờ và trên đường chuyển: ống thông mũi 1–2 L/phút, điều chỉnh để SpO₂ 88–92%; không để SpO₂ lên 100%",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.4f: SpO₂ 88–92% hoặc PaO₂ 60–70 mmHg, kiểm khí máu 30–60 phút sau khi bắt đầu để không tăng CO₂ máu và toan hóa. Lưu lượng khởi đầu 1–2 L/phút: nhận định của ca (QĐ nêu ống thông mũi đến 6 L/phút, FiO₂ khoảng 40%)."
+    },
+    {
+     "t": "Khí dung salbutamol/ipratropium 2,5/0,5 mg bằng máy nén khí (không chạy bằng oxy), 1 lần trước chuyển; ngừng xịt MDI tự do",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.4a: khí dung bằng máy nén khí, không dùng oxy để tránh tăng CO₂; 1 ống 2,5 ml salbutamol/ipratropium 2,5/0,5 mg, 3–4 lần/ngày và khi cần. GOLD 2026 tr. 103: khí nén tốt hơn khí oxy, tránh liều SABA cao."
+    },
+    {
+     "t": "Corticoid toàn thân: tiếp tục prednisolon 40 mg uống sáng nay (hoặc methylprednisolon 40–80 mg/ngày tiêm tĩnh mạch nếu không uống được), tổng 5 ngày",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.4c (methylprednisolon 40–80 mg/ngày, thường 5 ngày), mục 3.4.3c (30–40 mg); GOLD 2026 tr. 103: 40 mg × 5 ngày, uống ngang tiêm tĩnh mạch. Ông đang uống ngày 4, không cần kéo dài hơn 5 ngày."
+    },
+    {
+     "t": "Lấy đờm nhuộm Gram và cấy trước liều kháng sinh mới; tiêm ceftriaxon 1–2 g tĩnh mạch liều đầu trước chuyển (khác nhóm với amoxicilin/acid clavulanic vừa dùng); tuyến trên quyết định số ngày",
+     "v": "c",
+     "n": "QĐ 2131/2026 Biểu đồ 3.1 (không đáp ứng sau 3–5 ngày: Gram, cấy đờm, đánh giá lại), Biểu đồ 3.2 và chú thích (đã dùng kháng sinh trong 3 tháng thì đổi nhóm; nghi viêm phổi thì đánh giá và điều trị), mục 3.4.4d (ceftriaxon 1–2 g × 1 lần/ngày), Phụ lục 10 (không chỉnh theo thận). Số ngày nội trú: 7–10 ngày (QĐ Biểu đồ 3.2) hoặc 5–7 ngày (GOLD 2026 tr. 105) (mâu thuẫn đã ghi từ ca HH-1233)."
+    },
+    {
+     "t": "Hỏi lại thẳng việc dùng thuốc, nhờ ông diễn lại cách xịt; nói riêng với ông và với anh Tâm: ông không làm phiền ai, chuyển tuyến là cần thiết, bà Lài có người lo; ghi thư chuyển đủ thuốc đã dùng",
+     "v": "c",
+     "n": "Kỹ thuật dùng dụng cụ phải được đánh giá lại (QĐ 2131/2026 mục 3.4.4g). Nhiễu 'kể lể lộn xộn', lý do thật 'ngại làm phiền': kỹ năng giao tiếp không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về nhà, tăng liều thuốc xịt và hẹn tái khám sau 3 ngày",
+     "v": "w",
+     "n": "SpO₂ 88%, thở 28, ngủ gà, không đáp ứng điều trị: thuộc tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2); không dùng liều SABA cao vì tác dụng phụ (GOLD 2026 tr. 103)."
+    },
+    {
+     "t": "Khí dung bằng oxy lưu lượng cao hoặc cho oxy để SpO₂ lên 100%",
+     "v": "w",
+     "n": "Khí dung bằng máy nén khí để tránh tăng CO₂ (QĐ 2131/2026 mục 3.4.4a); oxy đích 88–92%, kiểm khí máu để không tăng CO₂, toan hóa (mục 3.4.4f)."
+    },
+    {
+     "t": "Cho thuốc an thần hoặc thuốc ngủ để ông yên giấc trên đường chuyển",
+     "v": "w",
+     "n": "Thuốc an thần, thuốc ngủ là yếu tố gây đợt cấp (QĐ 2131/2026 mục 3.2); thuốc kích thích hô hấp không khuyến cáo (GOLD 2026 tr. 107)."
+    },
+    {
+     "t": "Truyền aminophylline thường quy",
+     "v": "w",
+     "n": "GOLD 2026 tr. 103: methylxanthin tĩnh mạch không khuyến cáo do tác dụng phụ; QĐ 2131/2026 mục 3.4.4a: chỉ là thuốc hàng thứ 2."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COPD đợt cấp không đáp ứng điều trị ban đầu, nặng lên, có dấu hiệu suy hô hấp cấp (nghi tăng CO₂ máu: đau đầu, ngủ gà, run vẫy) (QĐ 2131/2026 mục 3.4.2, Bảng 3.3)",
+     "Nguyên nhân làm điều trị kém hiệu quả: kỹ thuật xịt sai, không dùng buồng đệm, chưa dùng thuốc hít kéo dài (mục 3.2, 3.4.4g); không loại trừ được viêm phổi",
+     "Phù cổ chân nhẹ liên quan amlodipin; P phế trên điện tim",
+     "Chưa loại trừ ở cơ sở: viêm phổi (không X-quang), suy tim, thuyên tắc phổi (Wells 1,5, không D-dimer, CT): cần chuyển tuyến chụp và làm xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: hỏi so với lượt trước, đêm qua ngủ ra sao, đau đầu, buồn ngủ ban ngày; rồi hỏi từng thuốc và nhờ ông diễn lại cách xịt (thuốc đã uống đủ, xịt sai); hỏi lại ngực, ho máu, chân, rét run; hỏi vì sao hôm nay mới nói.",
+     "Vì sao nặng: SpO₂ 88%, thở 28, co kéo cơ phụ, mạch 108, ngủ gà, môi tím, run vẫy; đau đầu buổi sáng và ngủ gà gợi ý tăng CO₂ (QĐ 2131/2026 mục 3.3.1: triệu chứng suy hô hấp cấp; mục 3.4.2). Bảng 3.3: 25 < thở ≤ 30 kèm co kéo cơ phụ là suy hô hấp cấp không đe dọa tính mạng, điều trị tại khoa Hô hấp hoặc ICU.",
+     "Vì sao điều trị không đỡ: theo QĐ 2131/2026 Biểu đồ 3.1, không đáp ứng sau 3–5 ngày thì đánh giá lại thuốc giãn phế quản và xem xét bệnh đồng mắc hoặc nguyên nhân khác. Ở đây có cả hai: xịt sai kỹ thuật, ngưng thuốc duy trì (mục 3.2), và chưa loại trừ viêm phổi, suy tim, thuyên tắc phổi.",
+     "Vì sao chưa kết luận được viêm phổi hay không: CRP 14 → 58, BC 14,6, sốt 37,9 nhưng khám phổi không đông đặc; cần X-quang (Bảng 3.1).",
+     "Vì sao suy tim ít nghĩ: tĩnh mạch cổ không nổi, gan không to, phù không tăng; nhưng NT-proBNP và siêu âm tim không làm được (Bảng 3.1, Biểu đồ 3.2).",
+     "Vì sao thuyên tắc phổi ít nghĩ nhưng chưa loại trừ: Wells = 1,5 chỉ do mạch > 100 (AHA/ACC 2026 Bảng 3); D-dimer, CT không có.",
+     "Dữ kiện nhiễu: ông kể lộn ngày, giấu chuyện đã thở nặng từ hôm kia; anh Tâm tưởng ba dùng thuốc đúng."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí đúng: chuyển tuyến. Cơ sở không có khí máu, X-quang, siêu âm, máy thở không xâm nhập, nên không đảm bảo xử trí suy hô hấp cấp (QĐ 2131/2026 mục 3.4.1, 3.4.2, 3.4.4f; GOLD 2026 tr. 99).",
+     "Trước chuyển: oxy đích 88–92%; khí dung bằng máy nén khí; corticoid; lấy đờm Gram, cấy rồi ceftriaxon liều đầu (mục 3.4.4a, c, d, f; Biểu đồ 3.1, 3.2). Không dùng thuốc an thần, không oxy 100%.",
+     "Thông khí không xâm nhập là chỉ định ưu tiên khi pH ≤ 7,35 và PaCO₂ ≥ 45, hoặc mệt cơ hô hấp; chống chỉ định khi ngủ gà, rối loạn ý thức (mục 3.4.4f): ông đang buồn ngủ nhưng gọi tỉnh, quyết định do tuyến trên sau khí máu; vì vậy không được chần chừ.",
+     "Giải thích để ông và anh Tâm đồng ý đi: nói về an toàn của ông, việc chăm bà Lài, chi phí."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy",
+      "ham_luong": "Ống thông mũi (hoặc mặt nạ Venturi nếu có)",
+      "lieu": "1–2 L/phút, chỉnh để SpO₂ 88–92%",
+      "duong": "Hít qua mũi",
+      "thoi_diem": "Ngay, tiếp tục trên đường chuyển",
+      "so_ngay": "Theo SpO₂ và khí máu",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.4f. Lưu lượng khởi đầu: nhận định của ca. Kiểm khí máu 30–60 phút sau khi bắt đầu (tuyến trên)."
+     },
+     {
+      "thuoc": "Salbutamol/ipratropium",
+      "ham_luong": "Ống 2,5 ml: salbutamol 2,5 mg, ipratropium 0,5 mg",
+      "lieu": "1 ống",
+      "duong": "Khí dung bằng máy nén khí",
+      "thoi_diem": "1 lần trước chuyển, rồi 3–4 lần/ngày và khi cần ở tuyến trên",
+      "so_ngay": "Đến khi đỡ, rồi chuyển lại MDI + buồng đệm",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.4a, Phụ lục 1; GOLD 2026 tr. 103. Không chạy bằng oxy."
+     },
+     {
+      "thuoc": "Prednisolon",
+      "ham_luong": "5 mg/viên",
+      "lieu": "40 mg (8 viên) 1 lần/ngày (hoặc methylprednisolon tiêm tĩnh mạch 40–80 mg/ngày nếu không uống được)",
+      "duong": "Uống sau ăn sáng",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Tổng 5 ngày (đã dùng 3 ngày)",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3c, 3.4.4c; GOLD 2026 tr. 103."
+     },
+     {
+      "thuoc": "Ceftriaxon",
+      "ham_luong": "Lọ 1 g",
+      "lieu": "1–2 g mỗi 24 giờ",
+      "duong": "Tiêm hoặc truyền tĩnh mạch",
+      "thoi_diem": "Liều đầu sau khi lấy đờm Gram và cấy, trước chuyển",
+      "so_ngay": "7–10 ngày (QĐ 2131/2026 Biểu đồ 3.2) hoặc 5–7 ngày (GOLD 2026 tr. 105); tuyến trên đánh giá sau 48–72 giờ",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.4d, Phụ lục 10 (không chỉnh theo thận); chú thích Biểu đồ 3.2: đã dùng amoxicilin/acid clavulanic nên chọn nhóm khác."
+     }
+    ],
+    "dan_do": [
+     "Ông phải lên bệnh viện lớn hơn ngay vì thở yếu hơn và buồn ngủ, nơi đó đo được khí trong máu, chụp phổi và có máy hỗ trợ thở. Bà Lài có con cháu lo; ông không làm phiền ai (QĐ 2131/2026 mục 3.4.2; GOLD 2026 tr. 99).",
+     "Mang theo tất cả thuốc đang dùng và ống xịt để bác sĩ tuyến trên xem cách xịt. Trên đường đi không tự tháo mặt nạ, thở chậm, nếu buồn ngủ nhiều hơn báo ngay người đi cùng.",
+     "Sau xuất viện: kiểm tra kỹ thuật hít, dùng thuốc duy trì mỗi ngày, được hướng dẫn dùng thuốc khi đợt cấp, tái khám sớm < 4 tuần và muộn nhất < 12 tuần (QĐ 2131/2026 mục 3.4.4g)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông được chuyển bằng xe cấp cứu có oxy lên bệnh viện tỉnh. Khí máu: pH 7,31, PaCO₂ 58 mmHg, PaO₂ 54 mmHg; X-quang: phổi tăng sáng, cơ hoành dẹt, không đông đặc, không tràn khí; NT-proBNP không tăng. Ông thở máy không xâm nhập 2 ngày, ngày 4 đỡ, ra viện ngày 7 với tiotropium mỗi sáng, buồng đệm và được hướng dẫn xịt lại. Anh Tâm kể sau: 'Ba cứ giấu, con tưởng ba khỏe.' Bảy tuần sau ông tái phát: thuốc hít hết từ tuần thứ 5, ông không dám xin tiền mua, rồi ho đờm vàng, hụt hơi trở lại và phải khám lại sớm; lần này anh Tâm tự đi mua thuốc và nhắc ông. Mọi quyết định ở phòng khám đều đúng với dữ kiện lúc đó (lượt 1 điều trị ngoại trú vì Rome nhẹ, có người ở nhà; lượt 2 chuyển tuyến vì suy hô hấp cấp không đủ phương tiện). Tái phát sau đợt cấp là thường gặp: tái khám sớm < 4 tuần và muộn nhất < 12 tuần, kiểm tra kỹ thuật hít và thuốc duy trì (QĐ 2131/2026 mục 3.4.4g); GOLD 2026 tr. 108: tái nhập viện 30–50% trong 30 ngày sau ra viện (số liệu chung về tái nhập viện, không phải của ca này).",
+ "nhieu": [
+  "Kể lể lộn xộn: chuyện thợ hồ, bà Lài đau gối, cháu nội, đám giỗ xen vào bệnh sử; bác sĩ phải tóm lại từng ý và hỏi theo việc làm hằng ngày thì ông mới trả lời gọn.",
+  "Phù cổ chân hai bên nhẹ làm nghĩ suy tim: amlodipin 5 mg liên quan liều với phù chi dưới (AHA/ACC 2025 Tăng huyết áp, Bảng 13); không khó thở kịch phát về đêm, tĩnh mạch cổ không nổi, gan không to, điện tim chỉ có P phế.",
+  "Ông giấu mức độ khó thở và việc dùng thuốc sai vì ngại phiền con và lo cho bà Lài: lý do thật chỉ ra khi hỏi nhẹ nhàng; anh Tâm tưởng ba dùng thuốc đúng."
+ ],
+ "bai_hoc_bien": [
+  "Đợt cấp COPD chẩn đoán trên lâm sàng và Anthonisen: tăng khó thở, tăng lượng đờm, đờm mủ ≥ 2 ngày (QĐ 2131/2026 mục 3.3.3, 3.3.4b); không rõ yếu tố khởi phát vẫn gặp (mục 3.2).",
+  "Rome nhẹ (VAS < 5, thở < 24, mạch < 95, SpO₂ > 92%, CRP < 10; mức trung bình khi đủ ít nhất 3 trong 5): điều trị ngoại trú nếu có người chăm sóc (QĐ 2131/2026 Bảng 3.2, mục 3.4.1, 3.4.2); ngưỡng biên đã ghi cả QĐ và GOLD trong sổ mâu thuẫn.",
+  "Người rất cao tuổi giấu triệu chứng vì ngại phiền con: hỏi theo việc làm hằng ngày (đi chợ, nấu ăn, ban đêm), hỏi riêng điều ông lo nhất; người nhà chưa chắc biết thật.",
+  "Hỏi thuốc phải hỏi từng thuốc và nhờ bệnh nhân diễn lại cách xịt: kỹ thuật hít sai và ngừng thuốc duy trì là yếu tố làm nặng (QĐ 2131/2026 mục 3.2; đánh giá lại kỹ thuật, mục 3.4.4g).",
+  "Điều trị không đỡ sau 3–5 ngày: theo Biểu đồ 3.1, nhuộm Gram và cấy đờm, đánh giá lại thuốc giãn phế quản và corticoid, xét bệnh đồng mắc (viêm phổi, suy tim, thuyên tắc phổi) hoặc nguyên nhân khác (Biểu đồ 3.2).",
+  "Biết giới hạn cơ sở: không có khí máu, X-quang, máy thở thì suy hô hấp cấp (Bảng 3.3) phải chuyển tuyến; ngủ gà là chống chỉ định thông khí không xâm nhập (QĐ 2131/2026 mục 3.4.4f), nên chuyển sớm.",
+  "Oxy đích 88–92%, khí dung bằng máy nén khí, không dùng thuốc an thần (QĐ 2131/2026 mục 3.2, 3.4.4a, 3.4.4f)."
+ ],
+ "diem_nho": [
+  "Anthonisen (QĐ 2131/2026 mục 3.3.4b): nặng = đủ 3 triệu chứng chính (tăng khó thở, tăng lượng đờm, đờm mủ); kháng sinh khi cả 3, hoặc đờm mủ kèm 1 trong 2 triệu chứng còn lại (mục 3.4.3d).",
+  "Tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2): triệu chứng nặng lên đột ngột (khó thở nặng, co kéo cơ phụ, rối loạn tri giác, giảm bão hòa oxy, toan hô hấp, ngủ gà), suy hô hấp cấp, tím, phù ngoại biên, không đáp ứng điều trị ban đầu, bệnh đồng mắc nặng, tuổi cao không có người chăm sóc.",
+  "Bảng 3.3: không suy hô hấp (thở ≤ 24) khoa Nội/Hô hấp; 25–30 kèm co kéo cơ phụ: khoa Hô hấp hoặc ICU; > 30 hoặc rối loạn tri giác mới: ICU.",
+  "Phác đồ ngoại trú: SABA ± SAMA (MDI + buồng đệm), LAMA hoặc LABA+LAMA, corticoid 5 ngày, kháng sinh khi đờm mủ (QĐ 2131/2026 mục 3.4.3). Đánh giá đáp ứng sau 3–5 ngày (Biểu đồ 3.1).",
+  "Liều theo Clcr Cockcroft–Gault, không theo eGFR (QĐ 2131/2026 Phụ lục 10): ông 78 tuổi, 52 kg, creatinin 98 µmol/L có Clcr ≈ 40 mL/ph.",
+  "Amlodipin liên quan liều với phù chi dưới (AHA/ACC 2025 Tăng huyết áp, Bảng 13): phù cổ chân đối xứng nhẹ, mất buổi sáng không đủ để chẩn đoán suy tim."
+ ],
+ "nguon": [
+  "TL-0120 · QĐ 2131/QĐ-BYT 2026 – BPTNMT – mục 3.2, 3.3.1–3.3.4, 3.4.1–3.4.4 (3.4.3a–d, 3.4.4a–g), 4.1.1, 4.1.3, 4.1.5; Bảng 3.1–3.3; Biểu đồ 3.1, 3.2; Phụ lục 1, 10",
+  "TL-0138 · GOLD 2026 – chương 4: tr. 92 (Rome), 99, 101, 103–105, 107, 108 (số in ở chân trang)",
+  "TL-0045 · AHA/ACC/ACCP… 2026 – Thuyên tắc phổi cấp – Bảng 3 (Wells)",
+  "TL-0297 · AHA/ACC 2025 – Tăng huyết áp – Bảng 13 (thuốc hạ áp uống, amlodipin: phù chi dưới)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-08 – soạn theo CLAUDE.md mục 3. Lượt 1 ve_hen (Rome nhẹ, Anthonisen nặng, có bà Lài ở nhà), lượt 2 chuyen_tuyen (suy hô hấp cấp theo Bảng 3.3, cơ sở không có khí máu, X-quang, máy thở). Khóa cls: xquang, sieu_am (kéo theo CT, nội soi). Khí máu, D-dimer, NT-proBNP khai v:u/n với lời 'cơ sở không làm được' (nhóm xn không khóa riêng được).",
+  "Tài liệu đã đọc: TL-0120 chương 3 (3.2–3.4.4g), Phụ lục 1, 10, mục 4.1.5; TL-0138 chương 4 (tr. 99, 101, 103, 105, 108); TL-0045 Bảng 3; TL-0297 Bảng 13. GOLD Hình 4.4 là hình ảnh, không trích được chữ: dùng QĐ 2131 mục 3.4.2.",
+  "Mâu thuẫn dùng lại (không thêm mới): liều salbutamol MDI, corticoid đợt nhẹ (HH-1192); số ngày kháng sinh ngoại trú (HH-1216); số ngày kháng sinh nội trú (HH-1233). Lượt 1 corticoid chấm a nên lượt 2 ông đã uống prednisolon 3 ngày theo đáp án; không chấm w cho việc không dùng.",
+  "Chỗ thiếu tài liệu: ICD-10 J44.1 (không có trong tài liệu COPD đã tải); ngưỡng và mục tiêu huyết áp ở người ≥ 75 tuổi; kỹ thuật xịt qua buồng đệm chi tiết; liều, lịch tiêm ngừa cúm, phế cầu."
+ ]
+}

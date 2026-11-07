@@ -1,0 +1,807 @@
+{
+ "ma_ca": "MT-0507",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_rl_lipid_mau",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Phan Đình Hợp",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Hưu trí (nguyên nhân viên bưu điện)",
+  "can_nang": 72,
+  "chieu_cao": 166,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nghỉ hưu rảnh rỗi, hay nghe hàng xóm mách thuốc và cách chữa. Tin 'có truyền nước là khỏe', ngại uống thuốc dài ngày vì sợ hại gan. Nói chuyện lòng vòng, thích kể chuyện bạn bè. Không hung hăng nhưng dai dẳng, nài nỉ khi chưa được ý. Hiểu biết y khoa ít: gọi mỡ máu là 'mỡ trong máu', thuốc là 'thuốc tây'.",
+  "kieu_nhieu": "Đòi truyền dịch: xin 'truyền chai nước biển' ngay từ câu đầu, nài lại mỗi khi bác sĩ từ chối, và viện dẫn người quen 'truyền xong khỏe re'. Chịu nghe khi bác sĩ giải thích cụ thể vì sao ông không cần truyền và nói được việc thay thế; bị gạt đi bằng một câu 'không cần đâu' thì ông giữ nguyên ý. Khi hỏi chung 'đang uống thuốc gì' chỉ nói 'không có gì', 'lâu lâu thuốc đau gối thôi'; chỉ kể tên thuốc và số đợt khi bác sĩ hỏi cụ thể thuốc đau gối, thuốc kháng viêm tự mua, hoặc xin xem vỏ thuốc.",
+  "nguoi_nha": "Vợ, bà Hoàng Thị Nga, 64 tuổi, nội trợ, đi cùng. Điềm đạm hơn chồng, giữ túi giấy tờ và thuốc của ông. Bà biết ông có tờ xét nghiệm mỡ máu cũ và biết ông mua thuốc đau gối trong tiệm thuốc; bà trả lời đúng khi được hỏi trực tiếp, nhưng sẽ không tự nói nếu bác sĩ chỉ hỏi ông. Bà không biết rõ ông lo gì trong lòng.",
+  "ten_nguoi_nha": "bà Nga",
+  "ngoai_hinh": {
+   "da": "#d9a681",
+   "toc": "#b8b2aa",
+   "kieuToc": "ngan",
+   "ao": "#6f7f5f",
+   "aoKieu": "sominam",
+   "kinh": true,
+   "nep": 2,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b190",
+    "toc": "#6e6760",
+    "kieuToc": "bui",
+    "ao": "#9a6b7d",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, buồn nôn, đi ngoài phân lỏng sau ăn đồ lề đường, xin truyền chai nước biển",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (19 giờ 30 tối thứ Bảy), không có kỹ thuật viên: phòng khám không làm được xét nghiệm máu, X-quang hay siêu âm. Kỹ thuật viên có mặt lại lúc 7 giờ sáng mai (lấy máu, kết quả sau khoảng 3 giờ). Còn dùng được: điện tâm đồ 12 chuyển đạo, que thử nước tiểu, đường huyết mao mạch, SpO₂, huyết áp kế. Quyết định tối nay phải đưa ra trước khi có kết quả máu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · tối thứ Bảy",
+   "tiep_don": "Ông Phan Đình Hợp, 67 tuổi, hưu trí, vợ đưa đến phòng khám lúc 19 giờ 30 tối thứ Bảy (ngoài giờ, kỹ thuật viên đã về). Ông mệt, buồn nôn, đi ngoài phân lỏng vài lần từ chiều sau bữa ăn ở quán lề đường, và xin 'truyền chai nước biển cho khỏe'. Điều dưỡng Linh: HA 134/82 mmHg, mạch 82 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%, cân nặng 72 kg, chiều cao 166 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Hợp được giữ lại truyền dịch qua đêm hoặc nhập viện dù đang uống được, không sốt, không máu trong phân, huyết áp không tụt khi đứng. Truyền tĩnh mạch chỉ dành cho mất nước nặng, sốc, rối loạn ý thức hoặc bù đường uống thất bại (IDSA 2017 KC 41, 42), và không làm giảm mỡ máu, vốn điều trị bằng lối sống và thuốc (QĐ 3879/2014, RL lipid máu mục IV). Ông về nhà tin 'truyền nước là sạch mỡ', càng ít có lý do quay lại lấy máu và bàn thuốc hạ mỡ, trong khi LDL-C cũ đã rất cao (QĐ 3879/2014 Bảng 2).",
+    "chuyen_tuyen": "Ông Hợp bị chuyển tuyến trên 'để truyền dịch và thử máu ngay' vì mệt và tiêu lỏng. Tình trạng nhẹ, uống được nước, không thuộc chỉ định truyền dịch hay cấp cứu (IDSA 2017 KC 39, 41); ông và vợ mất một đêm, tốn kém, mà chuyện thuốc đau gối tự mua và kế hoạch hạ mỡ máu vẫn chưa ai bàn với ông.",
+    "theo_doi": "Ông Hợp chỉ được dặn uống nước và oresol, không hỏi bệnh nền, thuốc tự mua, không hẹn lấy máu. Cơn tiêu lỏng qua đi, nhưng LDL-C ≥ 4,9 mmol/L chưa điều trị cần loại trừ nguyên nhân thứ phát (suy giáp, glucocorticoid) rồi mới điều trị (ACC/AHA 2026 mục 4.2.4.3 KC 1, Bảng 15). Ông tiếp tục mua prednisolon mỗi khi đau gối, không ai nói thuốc này làm mỡ máu cao thêm."
+   },
+   "loi_mo": "Chào bác sĩ. Từ chiều tôi mệt rã người, buồn nôn, đi cầu lỏng mấy lần. Chắc ăn đồ ngoài đường rồi. Bác sĩ cho tôi truyền chai nước biển cho nhanh khỏe nha, hôm trước ông bạn tôi truyền một chai là khỏe re.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "134/82",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 16 giờ ăn phá lấu, dồi trường, lòng heo chiên ở một quán lề đường quen. Từ 18 giờ buồn nôn, bụng sôi, đi ngoài phân lỏng 2 lần, không máu, không nhầy. Mệt, rã rời. Muốn truyền chai nước biển.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, khởi phát sau ăn đồ đường phố"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Không sốt, không ớn lạnh. Đau quặn nhẹ quanh rốn, bớt sau khi đi ngoài. Không nôn. Từ chiều uống được khoảng 1 lít nước và trà đường; nước tiểu lúc 18 giờ vàng nhạt như thường. Không khát dữ, miệng không khô, không chóng mặt khi đứng dậy. Bà đi ăn cùng không ăn món lòng, không bị gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ mất nước và tiêu chảy: không sốt, không máu, uống được"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Đau hai gối nhiều năm, lên xuống cầu thang thì đau. Không đái tháo đường (đường huyết khám năm ngoái bình thường). Thỉnh thoảng đo huyết áp ở nhà thuốc thấy 140/80, chưa uống thuốc huyết áp. Không bệnh tim, chưa từng đột quỵ. Bỏ thuốc lá 10 năm nay, trước đó hút khoảng nửa gói mỗi ngày trong 30 năm. Uống bia 1 lon mỗi cuối tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, yếu tố nguy cơ tim mạch"
+    },
+    {
+     "id": "thuoc_gioi",
+     "noi_dung": "Đau gối nên cứ vài tuần lại ra tiệm thuốc mua viên prednisolon 5 mg, uống 2 viên mỗi ngày chừng 5–7 ngày mỗi đợt cho 'đỡ sưng đau'. Khoảng 6 đợt trong 8 tháng qua, đợt cuối kết thúc cách đây 10 ngày. Không dùng thuốc tiêm. Không uống thường xuyên thuốc nào khác. Ông tưởng đây là 'thuốc kháng viêm thường', không nghĩ liên quan mỡ máu. Vỏ thuốc bà cất trong túi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì ông nói 'không có gì, lâu lâu thuốc đau gối thôi'. Chỉ nói tên thuốc, số ngày, số đợt khi bác sĩ hỏi cụ thể thuốc đau gối, thuốc kháng viêm hoặc thuốc tự mua, thuốc nam bắc, hoặc xin xem vỏ thuốc (bà đưa vỏ thuốc).",
+     "k": 1,
+     "y": "Corticoid tự mua ngắt quãng: nguyên nhân thứ phát làm tăng lipid"
+    },
+    {
+     "id": "xn_cu",
+     "noi_dung": "Cách đây 14 tháng khám sức khỏe ở bệnh viện huyện, được báo 'mỡ trong máu cao'. Bác sĩ dặn ăn kiêng, cho thuốc hạ mỡ uống buổi tối nhưng ông uống chưa hết tuần đầu vì nghe nói hại gan rồi bỏ, không tái khám. Tờ kết quả (lấy máu lúc đói) bà giữ trong túi: cholesterol toàn phần 7,4; triglycerid 2,3; HDL-C 1,1; LDL-C 5,2 mmol/L.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung về bệnh nền thì ông chỉ nói đau gối. Chỉ nói chuyện mỡ máu và tờ kết quả khi bác sĩ hỏi về xét nghiệm hoặc khám sức khỏe lần trước, hỏi mỡ máu, hỏi vì sao ông muốn truyền dịch, hoặc hỏi bà (bà đưa tờ giấy).",
+     "k": 1,
+     "y": "Mỡ máu cao đã biết, bỏ thuốc, kết quả lipid cũ"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: sau bữa phá lấu ông hoảng 'mỡ tràn vào máu', nhớ lại tờ giấy mỡ máu cao, sợ tắc mạch như bố (bố mất vì đột quỵ). Hàng xóm nói 'truyền nước biển cho loãng mỡ, rửa mỡ ra'. Ông muốn truyền dịch để 'rửa mỡ', chứ tiêu lỏng chỉ là cái cớ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông đang lo điều gì nhất, vì sao nghĩ cần truyền nước, truyền xong mong được gì, hoặc hỏi về bố. Hỏi chung chung 'khó chịu chỗ nào' thì chỉ kể mệt, tiêu lỏng.",
+     "k": 1,
+     "y": "Động cơ thật: muốn truyền dịch để 'rửa mỡ'"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Bố mất lúc 71 tuổi vì đột quỵ. Anh trai bị mỡ máu cao, đang uống thuốc. Không ai trong nhà bị nhồi máu cơ tim hay đột quỵ trước 55 tuổi (nam) hoặc 65 tuổi (nữ). Không ai bị u vàng ở gân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình bệnh tim mạch xơ vữa sớm"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Ăn quán lề đường 3–4 bữa mỗi tuần, hay ăn lòng, dồi, phá lấu, thịt ba rọi, nước béo; ít rau. Gối đau nên ít đi bộ, không tập thể dục. Cân nặng tăng khoảng 2 kg trong năm qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống, chế độ ăn"
+    },
+    {
+     "id": "trieu_chung_giap",
+     "noi_dung": "Không sợ lạnh bất thường, không táo bón, da không khô, không khàn tiếng, không chậm chạp, nhịp sinh hoạt như thường. Chưa từng đau cơ hay mỏi cơ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng suy giáp (loại trừ nguyên nhân thứ phát)"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực, không khó thở khi đi bộ, không tê yếu nửa người, không đau bắp chân khi đi bộ xa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa có bệnh tim mạch xơ vữa (dự phòng tiên phát)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt. Niêm mạc môi ẩm, nếp véo da mất nhanh. Vòng eo 94 cm. Mặt không tròn, không bướu mỡ sau gáy.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 134/82, đứng sau 1 phút 130/80 mmHg, mạch 82 → 88 l/p, không chóng mặt.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc không đỏ, đồng tử đều, phản xạ ánh sáng tốt. Hai mảng vàng nhạt, phẳng ở góc trong mi trên hai mắt (u vàng mi). Cung giác mạc nhẹ ở nửa trên hai mắt.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Không hạch. Tĩnh mạch cổ không nổi.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, nhu động ruột tăng nhẹ, không chướng. Ấn quanh rốn hơi khó chịu, không phản ứng thành bụng, không đau thượng vị, gan lách không sờ thấy.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù. Bắp chân mềm. Gân gót hai bên không dày, không u vàng gân.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mạch mu chân đều rõ hai bên. Không âm thổi động mạch cảnh, không âm thổi động mạch đùi.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lạo xạo khi gập duỗi, hạn chế gập nhẹ, không sưng nóng đỏ, không tràn dịch. Cột sống bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da cẳng tay hai bên mỏng, vài mảng bầm xanh nhỏ. Không ban, không rạn da tím.",
+     "k": 0
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi hai bên 5/5, gập cổ 5/5, ngồi xổm – đứng dậy không cần chống tay.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới vàng nhạt, trong.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ. Tờ kết quả 14 tháng trước (mẫu đói): cholesterol toàn phần 7,4 · TG 2,3 · HDL-C 1,1 · LDL-C 5,2 mmol/L.",
+     "ab": 1,
+     "n": "Cần bộ mỡ máu mới để xác nhận trước khi dùng thuốc dài hạn (ACC/AHA 2026 mục 3.2 KC 1). Mẫu đói (QĐ 3879/2014 mục III.2) hay không đói (ESC/EAS 2019 mục 5.4.3; ACC/AHA 2026 mục 3.2 KC 1) đều chấp nhận. Số lần đo trước thuốc: ESC/EAS 2019 Bảng 13 (≥ 2 lần), ACC/AHA 2026 không nêu."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Bắt buộc loại trừ suy giáp khi LDL-C ≥ 4,9 mmol/L (ACC/AHA 2026 mục 4.2.4.3 KC 1, Bảng 15); QĐ 3879/2014 (RL lipid máu mục II.2; Suy giáp người lớn mục IV.2.1, IV.2.5: TSH tăng, tăng cholesterol)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Đái tháo đường là nguyên nhân thứ phát (ACC/AHA 2026 Bảng 15); prednisolon có thể làm tăng đường huyết."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "6,3 mmol/L (ăn lúc 16 giờ, đo lúc 19 giờ 45).",
+     "n": "Đường huyết ngẫu nhiên, không đủ chẩn đoán; glucose đói làm sáng mai."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Bệnh thận mạn, hội chứng thận hư là nguyên nhân thứ phát (ACC/AHA 2026 Bảng 15); tiêu lỏng có thể giảm thể tích."
+    },
+    "liver": {
+     "v": "a",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "ALT trước statin: ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 5.1 KC 6 không đo thường quy. Đo hay không đều chấp nhận."
+    },
+    "ck": {
+     "v": "a",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "CK nền: ESC/EAS 2019 Bảng 13 (không bắt đầu thuốc nếu > 4 lần giới hạn trên); ACC/AHA 2026 mục 5.1 KC 5 không đo thường quy. Đo hay không đều chấp nhận."
+    },
+    "lpa": {
+     "v": "a",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Lp(a) ít nhất một lần trong đời (ACC/AHA 2026 mục 3.4 KC 1; ESC/EAS 2025, Hình 3). Làm sáng mai hoặc lần sau đều được."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Điều dưỡng Linh: nhịp xoang đều 80 l/p, không ST-T bất thường, không sóng Q.",
+     "n": "Không đau ngực; làm hay không đều chấp nhận."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Que thử 10 thông số: tỷ trọng 1.020, ceton, protein, glucose, hồng cầu đều âm tính.",
+     "n": "Không gợi ý mất nước nặng hay hội chứng thận hư; không bắt buộc."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Tiêu lỏng nước nhẹ, không sốt, không máu: không cần để quyết định điều trị (IDSA 2017 KC 36; ACG 2016 KC 9, 10)."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Không mất nước, uống được: bù đường uống (IDSA 2017 KC 39)."
+    },
+    "lipase": {
+     "v": "n",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Không đau thượng vị lan lưng, TG cũ 2,3 mmol/L xa ngưỡng viêm tụy (> 10 g/L: QĐ 3879/2014 mục III.1.2)."
+    },
+    "trop": {
+     "n": "Không đau ngực, ECG bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu (LDL-C cũ 5,2 mmol/L ≥ 4,9) đã biết 14 tháng nhưng chưa điều trị, có yếu tố làm nặng là ăn nhiều mỡ động vật, nội tạng và prednisolon tự mua; kèm rối loạn tiêu hóa cấp nhẹ sau ăn đồ lề đường, chưa mất nước",
+     "ok": 1,
+     "n": "Tờ xét nghiệm đói cũ (TC 7,4; LDL-C 5,2), u vàng mi, cung giác mạc, ăn nhiều lòng dồi, prednisolon từng đợt (QĐ 3879/2014 mục II.2, III.1.1, III.2; ACC/AHA 2026 Bảng 15). Cần lipid mới để xác nhận (mục 3.2)."
+    },
+    {
+     "t": "Rối loạn lipid thứ phát do suy giáp",
+     "n": "Không sợ lạnh, táo bón, khô da; tuyến giáp không to; chưa có TSH nên chưa loại hẳn: TSH sáng mai (ACC/AHA 2026 mục 4.2.4.3 KC 1; QĐ 3879/2014 Suy giáp người lớn mục IV.3)."
+    },
+    {
+     "t": "Rối loạn lipid hoàn toàn do glucocorticoid (hội chứng Cushing do thuốc)",
+     "n": "Prednisolon từng đợt 5–7 ngày, mặt không tròn, không bướu mỡ, nhưng da mỏng, bầm. Glucocorticoid làm tăng LDL-C (ACC/AHA 2026 Bảng 15) song LDL-C cao có từ trước: thuốc góp thêm, không giải thích hết."
+    },
+    {
+     "t": "Ngộ độc thực phẩm, viêm dạ dày ruột có mất nước",
+     "n": "Không sốt, không máu, uống được, HA không tụt khi đứng, nếp véo da mất nhanh (IDSA 2017 KC 39, 41; ACG 2016 KC 5)."
+    },
+    {
+     "t": "Viêm tụy cấp do tăng triglycerid",
+     "n": "Không đau thượng vị lan lưng, không nôn; TG cũ 2,3 mmol/L xa ngưỡng (QĐ 3879/2014 mục III.1.2)."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "Không đau ngực, không khó thở, ECG bình thường."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích và không truyền dịch: ông uống được, không mất nước; bù nước, muối đường uống (oresol hoặc nước, súp mặn, nước trái cây), theo dõi tại nhà",
+     "v": "c",
+     "n": "Bù đường uống là đầu tay cho mất nước nhẹ–vừa (IDSA 2017 KC 39, 42); oresol cân bằng điện giải cho người cao tuổi (ACG 2016 KC 5)."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch theo yêu cầu 'để rửa mỡ, thải độc'",
+     "v": "w",
+     "n": "Truyền tĩnh mạch chỉ khi mất nước nặng, sốc, rối loạn ý thức hoặc ORS thất bại (IDSA 2017 KC 41). Không có trong tài liệu đã tải chỉ định truyền dịch để hạ mỡ máu (QĐ 3879/2014 mục IV; ACC/AHA 2026 mục 4.2)."
+    },
+    {
+     "t": "Hẹn lấy máu 7 giờ sáng mai (bộ mỡ máu, TSH ± FT4, glucose, creatinin, ALT) và gặp lại bác sĩ khi có kết quả",
+     "v": "c",
+     "n": "Loại trừ thứ phát trước khi điều trị khi LDL-C ≥ 4,9 mmol/L (ACC/AHA 2026 mục 4.2.4.3 KC 1, Bảng 15); ALT trước điều trị (ESC/EAS 2019 Bảng 13)."
+    },
+    {
+     "t": "Statin: khởi atorvastatin liều khởi đầu thấp–vừa ngay tối nay HOẶC chờ lipid, TSH, ALT sáng mai rồi khởi",
+     "v": "c",
+     "n": "Statin cho LDL-C ≥ 4,9 mmol/L, sau khi loại trừ thứ phát (ACC/AHA 2026 mục 4.2.4.3 KC 1, 2) hoặc lối sống 2–3 tháng rồi mới thuốc (QĐ 3879/2014 mục IV.1, IV.4: atorvastatin 10–20 mg; chấm a). Người gốc Đông Á khởi liều thấp (ACC/AHA 2026 mục 4.2.1.1). Hai văn bản khác năm, khác mức nhấn."
+    },
+    {
+     "t": "Ngưng prednisolon tự mua; đau gối dùng paracetamol, chườm nóng, vận động nhẹ",
+     "v": "c",
+     "n": "Corticosteroid không có chỉ định đường toàn thân cho thoái hóa khớp gối; paracetamol 1–2 g/ngày (QĐ 361/2014 mục 4.2.2). Glucocorticoid làm tăng LDL-C (ACC/AHA 2026 Bảng 15). Đợt < 3–4 tuần ngưng không cần giảm liều (ESE/ES 2024 R 2.1)."
+    },
+    {
+     "t": "Tư vấn lối sống: giảm nội tạng, mỡ động vật, đồ chiên; thêm rau; vận động ≥ 150 phút/tuần (đạp xe tại chỗ, bơi, đi bộ nhẹ vì đau gối)",
+     "v": "c",
+     "n": "QĐ 3879/2014 mục IV.2, IV.3 (30–45 phút/ngày, 5 ngày/tuần; cholesterol < 300 mg/ngày, mục I) hoặc ACC/AHA 2026 mục 4.1.4 KC 1 (≥ 150 phút/tuần): tương đương."
+    },
+    {
+     "t": "Không kê kháng sinh; men vi sinh hoặc loperamid không cần",
+     "v": "c",
+     "n": "Tiêu chảy phân nước, không sốt, không máu: không kháng sinh (IDSA 2017 KC 36; ACG 2016 KC 9, 10; QĐ 5642/2015 mục 4.2.1 chỉ khi sốt, phân nhầy máu). Men vi sinh (IDSA 2017 KC 49) và loperamid (KC 47) tùy chọn, dùng hay không đều chấp nhận."
+    },
+    {
+     "t": "Dặn khi nào phải quay lại: sốt, phân có máu, nôn nhiều không uống được, đau bụng dữ dội lan lưng, lơ mơ, ít nước tiểu",
+     "v": "c",
+     "n": "Dấu hiệu mất nước nặng cần truyền tĩnh mạch (IDSA 2017 KC 41); danh sách cụ thể do người biên soạn chọn."
+    },
+    {
+     "t": "Kê kháng sinh (ciprofloxacin hoặc azithromycin) phòng nhiễm khuẩn",
+     "v": "w",
+     "n": "Không chỉ định (IDSA 2017 KC 36; ACG 2016 KC 10)."
+    },
+    {
+     "t": "Dùng men gạo đỏ hoặc thực phẩm chức năng 'hạ mỡ' thay thuốc",
+     "v": "w",
+     "n": "ESC/EAS 2025 mục 10 và ACC/AHA 2026 mục 4.1.5 KC 1 (COR 3) không khuyến cáo; ESC/EAS 2019 mục 7.5.2 chỉ cho người chưa đủ điều kiện dùng statin."
+    },
+    {
+     "t": "Cho ông tiếp tục uống prednisolon mỗi khi đau gối",
+     "v": "h",
+     "n": "Không có chỉ định đường toàn thân (QĐ 361/2014 mục 4.2.2), làm mỡ máu cao thêm (ACC/AHA 2026 Bảng 15)."
+    },
+    {
+     "t": "Giữ ông lại phòng khám qua đêm hoặc nhập viện theo dõi",
+     "v": "w",
+     "n": "Không có tiêu chuẩn nhập viện: không mất nước, không dấu hiệu nặng (IDSA 2017 KC 41, 42)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu (tăng cholesterol toàn phần, LDL-C cũ 5,2 mmol/L), chưa điều trị, cần xác nhận bằng bộ mỡ máu mới",
+     "Yếu tố làm nặng: prednisolon tự mua từng đợt (6 đợt/8 tháng), ăn nhiều nội tạng, mỡ động vật, ít vận động",
+     "Chưa loại hẳn suy giáp (TSH sáng mai)",
+     "Viêm dạ dày ruột cấp nhẹ sau ăn đồ lề đường, không mất nước",
+     "Thoái hóa khớp gối là lý do ông dùng prednisolon"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi lý do đến khám (tiêu lỏng, mệt) → mức độ mất nước → bệnh nền, thuốc tự mua, xét nghiệm cũ → vì sao muốn truyền dịch → khám toàn trạng, HA tư thế, mắt, tuyến giáp, bụng, gân gót → cận lâm sàng làm được tối nay → chẩn đoán → xử trí.",
+     "Rối loạn lipid máu: cholesterol > 5,2; LDL-C > 2,58; TG > 1,7 mmol/L (QĐ 3879/2014 mục III.2); kết quả cũ TC 7,4, LDL-C 5,2 (≥ 4,9 mmol/L, tức ≥ 190 mg/dL: mức rất cao, QĐ 3879/2014 Bảng 2). U vàng mi và cung giác mạc là dấu hiệu ngoại biên (mục III.1.1). ESC/EAS 2025 Bảng 3 xếp LDL-C > 4,9 mmol/L ở nhóm nguy cơ cao.",
+     "Nguyên nhân thứ phát phải loại trừ khi LDL-C ≥ 4,9 mmol/L (ACC/AHA 2026 mục 4.2.4.3 KC 1, Bảng 15: suy giáp, glucocorticoid, đái tháo đường, bệnh thận, tắc mật): hỏi thuốc tự mua ra prednisolon; khám tuyến giáp (QĐ 3879/2014, Suy giáp người lớn mục IV.1); TSH sáng mai. Prednisolon góp phần, nhưng LDL-C cao có từ trước.",
+     "Tiêu lỏng cấp nhẹ không sốt, không máu, uống được, HA không tụt khi đứng: không mất nước, nhiều khả năng do thức ăn lề đường, không cần xét nghiệm hay kháng sinh (IDSA 2017 KC 36; ACG 2016 KC 9, 10).",
+     "Động cơ thật: sợ tắc mạch như bố và tin truyền nước 'rửa mỡ'; hỏi 'bác đang lo điều gì nhất' mới ra."
+    ],
+    "phan_tich_xu_tri": [
+     "Không truyền dịch: chỉ khi mất nước nặng, sốc, rối loạn ý thức hoặc ORS thất bại (IDSA 2017 KC 41); ông uống được, bù đường uống là đầu tay (KC 39, 42; ACG 2016 KC 5). Câu thay thế: 'Chai nước biển không làm sạch mỡ trong máu. Muốn mỡ giảm thì lấy máu sáng mai, đổi cách ăn và dùng thuốc hạ mỡ nếu cần.'",
+     "Hẹn lấy máu 7 giờ sáng mai: bộ mỡ máu (đói hay không đói đều được: ESC/EAS 2019 mục 5.4.3; QĐ 3879/2014 mục III.2), TSH, glucose, creatinin, ALT (ESC/EAS 2019 Bảng 13); Lp(a) một lần trong đời (ACC/AHA 2026 mục 3.4 KC 1).",
+     "Statin: LDL-C ≥ 4,9 mmol/L thì statin liều tối đa dung nạp sau khi loại trừ thứ phát (ACC/AHA 2026 mục 4.2.4.3 KC 1, 2). Khởi atorvastatin 20 mg (cường độ vừa, Bảng 6; QĐ 3879/2014 mục IV.4.1: 10–20 mg), vì người gốc Đông Á khởi liều thấp (mục 4.2.1.1); kiểm tra lipid sau 4–12 tuần (ACC/AHA 2026 mục 3.5 KC 1) hoặc 8 ± 4 tuần (ESC/EAS 2019 Bảng 13). Khởi ngay tối nay hay chờ kết quả đều đúng; lối sống 2–3 tháng rồi mới thuốc (QĐ 3879/2014 mục IV.4) chấm a.",
+     "Ngưng prednisolon: corticosteroid không có chỉ định đường toàn thân cho thoái hóa khớp gối (QĐ 361/2014 mục 4.2.2); paracetamol 1–2 g/ngày, người cao tuổi < 3 g/ngày (Phụ lục NSAID mục 3.3). Đợt < 3–4 tuần ngưng không cần giảm liều (ESE/ES 2024 R 2.1); đợt lặp lại nhiều lần trong năm: mốc cụ thể không có trong tài liệu đã tải, nên dặn mệt lả, nôn, chóng mặt khi đứng thì đi khám và báo đã dùng corticoid (R 1.2, R 3.1).",
+     "Không kháng sinh, không cầm tiêu chảy (IDSA 2017 KC 36, 47; ACG 2016 KC 9, 10). Không có tiêu chuẩn nhập viện (IDSA 2017 KC 41): về nhà, hẹn lại sáng mai. Men gạo đỏ không dùng (ESC/EAS 2025 mục 10)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dung dịch bù nước đường uống (ORS) cân bằng điện giải",
+      "ham_luong": "Na 60–75 mEq/L, glucose 75–90 mmol/L (ACG 2016)",
+      "lieu": "Uống từng ngụm nhỏ, đủ để đi tiểu đều, nước tiểu vàng nhạt",
+      "duong": "Uống",
+      "thoi_diem": "Sau mỗi lần đi ngoài lỏng và khi khát",
+      "so_ngay": "Đến khi hết tiêu lỏng",
+      "ghi_chu": "ACG 2016 KC 5; IDSA 2017 KC 39, 43. Thể tích, số gói cụ thể không có trong tài liệu đã tải; có thể thay bằng nước, súp mặn, nước trái cây (ACG 2016 KC 5)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên × 3 lần/ngày khi đau gối (khoảng 1,5 g/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Ngắn ngày khi còn đau; số ngày không có trong tài liệu đã tải",
+      "ghi_chu": "Thay prednisolon. QĐ 361/2014 mục 4.2.2: 1–2 g/ngày; người cao tuổi < 3 g/ngày (Phụ lục NSAID mục 3.3)."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày (bất kỳ giờ nào: ACC/AHA 2026 Bảng 5)",
+      "so_ngay": "Bắt đầu sau khi có kết quả sáng mai (hoặc ngay tối nay); lâu dài, kiểm tra lipid sau 4–12 tuần",
+      "ghi_chu": "Cường độ vừa, khởi liều thấp ở người gốc Đông Á (ACC/AHA 2026 mục 4.2.1.1, Bảng 6); QĐ 3879/2014 mục IV.4.1 (10–20 mg/ngày, tối đa 80 mg). Tác dụng phụ đau cơ, tăng men gan; thận trọng khi dùng kèm macrolid (QĐ 3879/2014; ESC/EAS 2019 Bảng 10)."
+     },
+     {
+      "thuoc": "Prednisolon (tự mua)",
+      "ham_luong": "5 mg",
+      "lieu": "NGƯNG",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "QĐ 361/2014 mục 4.2.2; ESE/ES 2024 R 2.1."
+     }
+    ],
+    "dan_do": [
+     "Uống oresol hoặc nước, súp mặn từng ngụm; ăn nhẹ, bỏ đồ chiên, nội tạng vài ngày (ACG 2016 KC 5). Không cần truyền chai nước biển; chai nước biển không rửa được mỡ trong máu.",
+     "Sáng mai 7 giờ đến lấy máu (nhịn ăn qua đêm là được), chờ khoảng 3 giờ, mang theo vỏ thuốc prednisolon và tờ xét nghiệm cũ. Không có trong tài liệu đã tải mốc giờ cụ thể (giờ do phòng khám).",
+     "Ngưng prednisolon tự mua; đau gối dùng paracetamol, chườm nóng, đi lại nhẹ (QĐ 361/2014 mục 4.2.2). Mệt lả, buồn nôn, chóng mặt khi đứng thì đi khám và báo đã dùng prednisolon (ESE/ES 2024 R 3.1).",
+     "Quay lại ngay nếu sốt, phân có máu, nôn nhiều không uống được, đau bụng dữ dội lan lưng, ít nước tiểu, lơ mơ (IDSA 2017 KC 41).",
+     "Vận động ≥ 150 phút mỗi tuần và giảm nội tạng, mỡ động vật (QĐ 3879/2014 mục IV.2, IV.3; ACC/AHA 2026 mục 4.1.4 KC 1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 tuần",
+   "tiep_don": "Sáu tuần sau, 18 giờ 50 tối thứ Sáu (ngoài giờ, kỹ thuật viên đã về), ông Hợp đến tái khám cùng bà Nga, mang hai tờ xét nghiệm: tờ lấy sáng hôm sau lượt 1 (cholesterol toàn phần 7,2 · TG 2,4 · HDL-C 1,1 · LDL-C 5,0 mmol/L; TSH 2,1 mUI/L, FT4 15 pmol/L; glucose đói 5,4 mmol/L; creatinin 84 µmol/L; ALT 26 U/L), sau đó ông đã được kê atorvastatin 20 mg mỗi tối, ngưng prednisolon; và tờ lấy sáng nay theo hẹn 6 tuần (cholesterol toàn phần 5,1 · TG 1,9 · HDL-C 1,1 · LDL-C 3,1 mmol/L; ALT 28 U/L; không có CK). Ông kể khoảng 10 ngày nay mỏi, ê nhức hai đùi và bắp chân, đứng dậy khỏi ghế thấp phải chống tay, và xin 'truyền chai nước biển cho thuốc ngấm đều, thải bớt độc thuốc'. Điều dưỡng Linh: HA 138/84 mmHg, mạch 76 l/p, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 72,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Hợp nhập viện truyền dịch lượng lớn và chờ CK. Ông tỉnh, đi lại được, nước tiểu vàng nhạt, que thử máu âm tính, không có dấu hiệu tiêu cơ vân (QĐ 1493/2015 mục 3.1, 4.1); truyền dịch lượng lớn chỉ dành cho nghi tiêu cơ vân và dễ quá tải dịch ở người cao tuổi (mục 5.1c, 7). Ông mất ngày giường, tốn kém, càng tin phải truyền nước mới thải được thuốc.",
+    "cap_cuu": "Ông Hợp bị chuyển cấp cứu ngay trong đêm vì đau cơ khi dùng statin. Triệu chứng nhẹ–vừa, nước tiểu bình thường, sinh hiệu ổn; ngưỡng hành động là CK > 10 lần giới hạn trên (ESC/EAS 2019 Bảng 13), lấy CK lúc 7 giờ sáng là đủ nhanh. Ông tốn kém, sợ thuốc mỡ và có nguy cơ tự bỏ hẳn statin (ACC/AHA 2026 mục 4.2.11 KC 2).",
+    "theo_doi": "Ông Hợp được dặn uống thuốc như cũ và chờ xem, không hẹn lấy CK, không dặn dấu hiệu phải quay lại, không hỏi thuốc tự mua. Yếu cơ gốc chi kèm đau cơ khi dùng statin cần đo CK (ACC/AHA 2026 mục 4.2.11 KC 1); nếu CK rất cao mà vẫn uống tiếp, ông có thể tiến tới tiêu cơ vân (ESC/EAS 2019 Bảng 13)."
+   },
+   "loi_mo": "Bác sĩ ơi, mấy ngày nay tôi mỏi nhừ hai đùi, hai bắp chân, ngồi ghế thấp đứng lên không nổi. Chắc thuốc mới uống làm tôi ngộ độc. Bác sĩ truyền cho tôi chai nước biển để thải thuốc ra nha, tôi thấy bà bên hàng xóm làm vậy là đỡ.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/84",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "trieu_chung2",
+     "noi_dung": "Khoảng 10 ngày nay mỏi, ê nhức hai đùi và bắp chân, nặng hơn khi leo cầu thang, đứng dậy khỏi ghế thấp phải chống tay. Mệt hơn mọi khi. Không sốt. Xin truyền chai nước biển cho 'thải thuốc'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng mới: đau cơ, yếu cơ gốc chi"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Đau mỏi đối xứng hai bên, vùng đùi và bắp chân, không sưng, không nóng. Bắt đầu khoảng 4 tuần sau khi uống atorvastatin 20 mg mỗi tối. Không tập luyện nặng, không đi bộ đường dài hay làm việc nặng gần đây. Gối đau như cũ, không đau hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian khởi phát liên quan statin, loại trừ gắng sức"
+    },
+    {
+     "id": "nuoc_tieu2",
+     "noi_dung": "Nước tiểu vàng nhạt như thường, không đỏ nâu, không ít đi. Uống khoảng 1,5 lít nước mỗi ngày. Không buồn nôn, không đau bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu tiêu cơ vân: nước tiểu sẫm màu"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống atorvastatin 20 mg mỗi tối, đều. Ăn bớt lòng, dồi, mỗi tuần còn một bữa ngoài đường. Đi bộ chậm 20 phút mỗi sáng. Không dùng men gạo đỏ hay thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc và lối sống, loại trừ men gạo đỏ"
+    },
+    {
+     "id": "pred_lai",
+     "noi_dung": "Khoảng 3 tuần trước gối đau nhiều nên ông uống lại prednisolon 5 mg × 2 viên mỗi ngày trong 10 ngày liền, ngưng cách đây 4 ngày. Bà Nga biết nhưng không nói vì ông bảo 'thuốc kháng viêm không liên quan thuốc mỡ'. Từ khi dùng lại thuốc này thấy ăn ngon, ngủ khỏe nhưng đùi mỏi hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thêm thuốc gì không' thì ông nói không. Chỉ kể khi bác sĩ hỏi cụ thể thuốc đau gối, prednisolon hoặc thuốc kháng viêm tự mua, hoặc hỏi lần đau gối gần đây xử trí ra sao (hoặc hỏi bà Nga).",
+     "k": 1,
+     "y": "Corticoid tự mua dùng lại: nguyên nhân góp phần yếu cơ"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không dùng kháng sinh, thuốc trị nấm, thuốc tim mạch hay thuốc nào khác mới. Không uống nước bưởi. Bia 1 lon mỗi cuối tuần như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ thuốc tương tác với statin"
+    },
+    {
+     "id": "than_kinh2",
+     "noi_dung": "Không tê bì, không sụp mi, không nhìn đôi, không khó nuốt, không khó thở. Không phát ban. Không đau khớp mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ bệnh thần kinh cơ, viêm cơ"
+    },
+    {
+     "id": "suy_giap2",
+     "noi_dung": "Không táo bón, không sợ lạnh, không sụt hay tăng cân thêm. Da bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co2",
+     "noi_dung": "Lý do thật vẫn muốn truyền dịch: ông tin thuốc 'ngấm vào cơ' và nước biển sẽ 'rửa ra'. Ông cũng sợ nếu cơ hỏng thì phải bỏ hẳn thuốc mỡ và bố ông mất vì đột quỵ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông lo điều gì nhất, vì sao nghĩ cần truyền nước, hoặc ông sợ điều gì khi dùng thuốc mỡ. Hỏi chung chung thì chỉ nhắc 'thải thuốc'.",
+     "k": 1,
+     "y": "Động cơ thật: muốn truyền dịch, sợ hỏng cơ và sợ bỏ thuốc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Niêm mạc ẩm. Mặt không tròn. Vòng eo 93 cm.",
+     "k": 0
+    },
+    "suc_co": {
+     "a": "Gập hông và dạng hông 4/5 hai bên, duỗi gối 4+/5, cơ delta 5-/5, gập cổ 5/5, ngọn chi 5/5. Ngồi xổm – đứng dậy: phải chống tay lần thứ hai. Đi bộ bình thường. Không teo cơ.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ấn nhẹ đau cơ tứ đầu hai đùi, không sưng, không nóng, không cứng cơ. Hai gối lạo xạo, hạn chế gập nhẹ như trước, không tràn dịch.",
+     "k": 0
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới vàng nhạt, trong, không đỏ nâu.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh. Phản xạ gân xương bình thường hai bên, cảm giác bình thường, không dấu thần kinh khu trú, không sụp mi, nuốt bình thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to. Hai mảng u vàng mi như lần trước.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Bắp chân mềm, ấn nhẹ hơi đau, không nóng, không căng. Mạch mu chân rõ.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da cẳng tay mỏng, vài mảng bầm xanh nhỏ như lần trước. Không ban.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ck": {
+     "v": "e",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "ab": 1,
+     "n": "Yếu cơ kèm đau cơ khi dùng statin: nên đo CK để đánh giá mức độ (ACC/AHA 2026 mục 4.2.11 KC 1); ESC/EAS 2019 Bảng 13 đo CK khi đau cơ (nghi tiêu cơ vân: CK > 1.000 U/L, tức > 5 lần giới hạn trên, QĐ 1493/2015 mục 3.2, 4.1). Ngưỡng ngưng thuốc: CK > 10 lần giới hạn trên (ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 4.2.11 giải thích 1)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Kiểm tra chức năng thận khi CK có thể rất cao (ESC/EAS 2019 Bảng 13: CK > 10 lần giới hạn trên thì kiểm tra chức năng thận); suy thận cấp là biến chứng của tiêu cơ vân (QĐ 1493/2015 mục 6)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Kali tăng nhanh là nguy cơ của tiêu cơ vân (QĐ 1493/2015 mục 3.2); không bắt buộc khi chưa có dấu hiệu nặng."
+    },
+    "que_nt": {
+     "v": "e",
+     "r": "Que thử 10 thông số: máu (hồng cầu, hemoglobin) âm tính, protein âm tính, glucose âm tính, ceton âm tính, tỷ trọng 1.018.",
+     "n": "Hemoglobin hoặc myoglobin trong nước tiểu, nước tiểu đỏ nâu là một tiêu chuẩn chẩn đoán tiêu cơ vân (QĐ 1493/2015 mục 3.1, 4.1): âm tính thì ít khả năng."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Điều dưỡng Linh: nhịp xoang đều 76 l/p, không T cao nhọn, không QRS giãn, không ST-T bất thường.",
+     "n": "Hỗ trợ khi sợ tăng kali trong tiêu cơ vân (QĐ 1493/2015 mục 3.2); không bắt buộc."
+    },
+    "lipid": {
+     "v": "n",
+     "r": "Hai phiếu mang theo. Sáng hôm sau lượt 1 (nền): cholesterol toàn phần 7,2 · TG 2,4 · HDL-C 1,1 · LDL-C 5,0 mmol/L. Sáng nay (đói, 6 tuần sau atorvastatin 20 mg): cholesterol toàn phần 5,1 · TG 1,9 · HDL-C 1,1 · LDL-C 3,1 mmol/L.",
+     "n": "LDL-C giảm 38% (5,0 → 3,1): đúng dải cường độ vừa 30–49% (ACC/AHA 2026 Bảng 6), chưa đạt mục tiêu; không đổi xử trí tối nay vì đang có triệu chứng cơ. Lipid lúc 4–12 tuần sau khởi thuốc là đúng mốc (ACC/AHA 2026 mục 3.5 KC 1; ESC/EAS 2019 Bảng 13: 8 ± 4 tuần)."
+    },
+    "liver": {
+     "v": "n",
+     "r": "Phiếu sáng nay: ALT 28 U/L (nền 26 U/L).",
+     "n": "ALT < 3 lần giới hạn trên: tiếp tục, không phải nguyên nhân (ESC/EAS 2019 Bảng 13)."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Phiếu sáng hôm sau lượt 1: TSH 2,1 mUI/L · FT4 15 pmol/L (bình thường).",
+     "n": "Suy giáp là yếu tố nguy cơ đau cơ do statin (ACC/AHA 2026 Bảng 24) và là nguyên nhân thứ phát (QĐ 3879/2014 Suy giáp người lớn mục IV.1.4: đau cơ, yếu cơ); TSH 6 tuần trước bình thường, tối nay không làm lại được. Làm lại sáng mai cũng chấp nhận."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Tối nay không làm được (ngoài giờ, kỹ thuật viên đã về). Lấy máu 7 giờ sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Không đau ngực."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Triệu chứng cơ liên quan statin (đau cơ, yếu cơ gốc chi mức nhẹ–vừa), có thể có prednisolon dùng lại góp phần; chưa có dấu hiệu tiêu cơ vân; rối loạn lipid máu đáp ứng một phần với atorvastatin 20 mg (LDL-C 5,0 → 3,1 mmol/L, giảm 38%)",
+     "ok": 1,
+     "n": "Khởi phát khoảng 4 tuần sau khi dùng atorvastatin, đối xứng, gốc chi (ACC/AHA 2026 mục 4.2.11, Bảng 24: tuổi ≥ 65 là yếu tố nguy cơ); prednisolon 10 ngày dùng lại, yếu cơ gốc chi là biểu hiện của glucocorticoid (ESE/ES 2024 Bảng 7); nước tiểu bình thường, que thử máu âm tính (QĐ 1493/2015 mục 3.1)."
+    },
+    {
+     "t": "Tiêu cơ vân",
+     "n": "Chưa có CK (sáng mai): tỉnh, nước tiểu vàng nhạt, que thử máu âm tính, ECG bình thường, uống được, đi lại được: chưa có dấu hiệu nào của hội chứng (QĐ 1493/2015 mục 3.1, 4.1); thuốc nhóm statin là một nguyên nhân (mục 2.1) nên vẫn dặn dấu hiệu quay lại và đo CK, creatinin sáng mai."
+    },
+    {
+     "t": "Suy giáp làm nặng đau cơ",
+     "n": "TSH 2,1 mUI/L sáu tuần trước, không táo bón, sợ lạnh; tuyến giáp không to. Suy giáp là nguyên nhân thứ phát cần loại trừ (QĐ 3879/2014 mục II.2) và là yếu tố nguy cơ đau cơ do statin (ACC/AHA 2026 Bảng 24)."
+    },
+    {
+     "t": "Viêm cơ tự miễn hoặc bệnh thần kinh cơ",
+     "n": "Không ban, không nuốt khó, không sụp mi, phản xạ gân xương bình thường; nếu CK tăng kéo dài sau ngưng statin thì khám chuyên khoa thần kinh (ACC/AHA 2026 mục 4.2.11 giải thích 1; Bảng 24 liệt kê bệnh cơ nguyên phát, viêm đa cơ)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích và không truyền dịch: uống nước đủ để nước tiểu vàng nhạt, theo dõi màu nước tiểu",
+     "v": "c",
+     "n": "Không có dấu hiệu tiêu cơ vân nên không cần truyền dịch (QĐ 1493/2015 mục 3.1, 4.1, 7); không có trong tài liệu đã tải chỉ định truyền dịch để 'thải thuốc' hay lượng nước uống cụ thể."
+    },
+    {
+     "t": "Truyền dịch lượng lớn hoặc giữ lại truyền dịch theo yêu cầu 'để thải thuốc'",
+     "v": "w",
+     "n": "QĐ 1493/2015 mục 7 chỉ truyền dịch đầy đủ khi nghi tiêu cơ vân (nằm lâu, ngộ độc, tăng CK, nước tiểu sẫm màu); ông không có. Quá tải thể tích ở người cao tuổi (mục 5.1c). Không có trong tài liệu đã tải chỉ định truyền để thải thuốc."
+    },
+    {
+     "t": "Hẹn lấy máu 7 giờ sáng mai: CK, creatinin, điện giải, ALT; gặp lại bác sĩ khi có kết quả (trong ngày)",
+     "v": "c",
+     "n": "CK khi có yếu cơ hoặc đau cơ nặng (ACC/AHA 2026 mục 4.2.11 KC 1; ESC/EAS 2019 Bảng 13: đo CK khi đau cơ); khi CK > 10 lần giới hạn trên thì kiểm tra chức năng thận (ESC/EAS 2019 Bảng 13)."
+    },
+    {
+     "t": "Quyết định atorvastatin tối nay khi chưa có CK: hoãn 1–2 đêm chờ CK sáng mai HOẶC uống như cũ tối nay; không tự bỏ hẳn",
+     "v": "c",
+     "n": "ESC/EAS 2019 Bảng 13 và ACC/AHA 2026 mục 4.2.11 chỉ nêu cách xử trí theo giá trị CK (> 10 lần giới hạn trên thì ngưng) và theo triệu chứng cơ; cách quyết định tối nay khi chưa có CK không có trong tài liệu đã tải, nên hai cách đều chấp nhận được."
+    },
+    {
+     "t": "Tự bỏ hẳn statin vĩnh viễn vì sợ hại cơ",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 2: phải cho người bệnh biết nguy cơ tim mạch xơ vữa tăng khi ngưng statin và đưa ra lựa chọn khác; LDL-C nền của ông ≥ 4,9 mmol/L."
+    },
+    {
+     "t": "Ngưng hẳn prednisolon tự mua; giải thích đây là thuốc làm mỡ máu và cơ yếu hơn; đau gối dùng paracetamol, chườm nóng",
+     "v": "c",
+     "n": "Yếu cơ gốc chi và rối loạn lipid là tác dụng của glucocorticoid (ESE/ES 2024 Bảng 7; ACC/AHA 2026 Bảng 15); không có chỉ định đường toàn thân cho thoái hóa khớp gối, paracetamol 1–2 g/ngày (QĐ 361/2014 mục 4.2.2). Đợt gần nhất 10 ngày (< 3–4 tuần): ngưng không cần giảm liều (ESE/ES 2024 R 2.1)."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại hoặc đi cấp cứu ngay: nước tiểu sẫm hoặc nâu đỏ, ít nước tiểu, yếu tăng nhanh không đứng dậy được, đau cơ dữ dội, sốt, buồn nôn nôn nhiều",
+     "v": "c",
+     "n": "Nước tiểu đỏ nâu và tiêu cơ vân (QĐ 1493/2015 mục 3.1, 7); mốc cụ thể về mức yếu cơ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ nguyên atorvastatin 20 mg, chưa tăng liều lên 40–80 mg để nhanh đạt mục tiêu",
+     "v": "c",
+     "n": "Đang có triệu chứng cơ; liều statin cao làm tăng nguy cơ đau cơ (ACC/AHA 2026 Bảng 24 mục 11). Sau khi có CK và hết triệu chứng, bàn lại cường độ hoặc thêm thuốc không statin (ACC/AHA 2026 mục 4.2.11 KC 3–5, 7–8; ESC/EAS 2019 Bảng 13)."
+    },
+    {
+     "t": "Tăng atorvastatin lên 40 mg hoặc 80 mg ngay tối nay",
+     "v": "w",
+     "n": "Đang có triệu chứng cơ và chưa có CK; liều cao tăng nguy cơ đau cơ (ACC/AHA 2026 Bảng 24)."
+    },
+    {
+     "t": "Cho coenzym Q10 để chữa đau cơ do statin",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 5.1 KC 4 (COR 3: No Benefit): không khuyến cáo."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Triệu chứng cơ liên quan statin: đau cơ, yếu cơ gốc chi (4/5) mức nhẹ–vừa, bắt đầu khoảng 4 tuần sau atorvastatin 20 mg",
+     "Yếu tố góp phần: prednisolon tự mua dùng lại (10 ngày, ngưng 4 ngày trước), tuổi 67",
+     "Chưa có dấu hiệu tiêu cơ vân (nước tiểu bình thường, que thử máu âm tính, tỉnh, uống được); CK chưa đo được tối nay",
+     "Rối loạn lipid máu đáp ứng một phần: LDL-C 5,0 → 3,1 mmol/L (giảm 38%), chưa đạt mục tiêu; TSH bình thường nên không do suy giáp"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi triệu chứng mới (vị trí, thời gian so với khởi statin, gắng sức) → hỏi nước tiểu, sốt, nôn → hỏi thuốc tự mua và thuốc tương tác → hỏi vì sao muốn truyền dịch → khám sức cơ, nước tiểu mẫu mới, thần kinh → que thử nước tiểu, ECG → quyết định trước khi có CK → xử trí.",
+     "Đau cơ liên quan statin điển hình là đối xứng, gốc chi, bắt đầu trong vài tuần đầu; tuổi ≥ 65, suy giáp, liều cao là yếu tố nguy cơ (ACC/AHA 2026 mục 4.2.11, Bảng 24). Cần loại trừ gắng sức và thuốc tương tác (clarithromycin, erythromycin, nước bưởi: ESC/EAS 2019 Bảng 10); ông không có.",
+     "Prednisolon dùng lại góp phần: yếu cơ gốc chi và rối loạn lipid là biểu hiện của glucocorticoid (ESE/ES 2024 Bảng 7; ACC/AHA 2026 Bảng 15). Hai nguyên nhân không tách được riêng tối nay, nên cùng xử lý.",
+     "Loại trừ tiêu cơ vân tối nay bằng lâm sàng: nước tiểu không đỏ nâu, que thử máu âm tính, ECG bình thường, tỉnh, uống được. CK là xét nghiệm quyết định (CK > 1.000 U/L: QĐ 1493/2015 mục 3.2, 4.1; CK > 10 lần giới hạn trên thì ngưng statin và theo dõi: ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 4.2.11 giải thích 1).",
+     "Lipid: LDL-C giảm 38% với atorvastatin 20 mg, đúng dải cường độ vừa 30–49% (ACC/AHA 2026 Bảng 6), chưa ≥ 50%. Mục tiêu LDL-C: < 1,8 mmol/L và giảm ≥ 50% (ESC/EAS 2019 Bảng 7; ESC/EAS 2025 Bảng 3: LDL-C > 4,9 mmol/L là nguy cơ cao) hoặc tối thiểu < 2,6 mmol/L, và < 1,8 mmol/L nếu có thêm yếu tố nguy cơ (ACC/AHA 2026 mục 4.2.4.3 KC 3, 4). Cả hai cách đều đúng vì khác hãng, năm và cách phân nhóm nguy cơ (SCORE2 so với PREVENT).",
+     "Động cơ thật: tin truyền nước 'thải thuốc', sợ cơ hỏng và sợ bỏ thuốc mỡ. Câu thay thế: 'Cần lấy máu đo men cơ sáng mai; chai nước biển không rút thuốc ra khỏi cơ' (không có trong tài liệu đã tải chỉ định truyền dịch để thải thuốc)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không truyền dịch: QĐ 1493/2015 mục 7 chỉ truyền dịch đầy đủ khi nghi tiêu cơ vân (nằm lâu, ngộ độc, tăng CK, nước tiểu sẫm màu); ông không có. Cách nói và uống nước đủ thay thế.",
+     "Lấy CK, creatinin, điện giải, ALT lúc 7 giờ sáng mai (ACC/AHA 2026 mục 4.2.11 KC 1; ESC/EAS 2019 Bảng 13). Dặn quay lại ngay nếu nước tiểu sẫm, yếu tăng nhanh, nôn, ít nước tiểu (QĐ 1493/2015 mục 3.1, 7).",
+     "Statin tối nay: hoãn 1–2 đêm chờ CK hoặc uống như cũ đều chấp nhận (tài liệu không nêu cách quyết khi chưa có CK); không tự bỏ hẳn (ACC/AHA 2026 mục 4.2.11 KC 2).",
+     "Kế hoạch theo CK (ESC/EAS 2019 Bảng 13): CK > 10 lần giới hạn trên thì ngưng statin, kiểm tra thận, theo dõi CK mỗi 2 tuần; CK < 10 lần mà còn triệu chứng thì ngưng, chờ CK về bình thường rồi thử lại liều thấp hơn. ACC/AHA 2026 (mục 4.2.11 KC 3–5, 7–8): giảm liều và thêm ezetimibe, bempedoic acid hoặc kháng thể PCSK9 tùy nhóm nguy cơ (công cụ PREVENT-ASCVD không có trong tài liệu đã tải). Hai nguồn cùng hướng, khác chi tiết thử lại: ghi cả hai.",
+     "Ngưng prednisolon (đã ngưng 4 ngày), paracetamol cho gối (QĐ 361/2014 mục 4.2.2: 1–2 g/ngày; người cao tuổi < 3 g/ngày: Phụ lục NSAID mục 3.3); không tăng liều statin lên 40–80 mg (ACC/AHA 2026 Bảng 24). Coenzym Q10 không khuyến cáo (ACC/AHA 2026 mục 5.1 KC 4).",
+     "Lipid kiểm tra lại 4–12 tuần sau mỗi lần chỉnh thuốc (ACC/AHA 2026 mục 3.5 KC 1; ESC/EAS 2019 Bảng 13: 8 ± 4 tuần)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày (bất kỳ giờ nào, ACC/AHA 2026 Bảng 5)",
+      "so_ngay": "Hoãn 1–2 đêm chờ CK sáng mai (hoặc uống như cũ tối nay); quyết định tiếp theo theo CK",
+      "ghi_chu": "ESC/EAS 2019 Bảng 13: CK > 10 lần giới hạn trên thì ngưng; CK < 10 lần mà còn triệu chứng thì ngưng và thử lại liều thấp hơn. ACC/AHA 2026 mục 4.2.11 KC 2: không tự bỏ hẳn."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên × 3 lần/ngày khi đau gối (khoảng 1,5 g/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Ngắn ngày khi còn đau; số ngày không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 361/2014 thoái hóa khớp gối mục 4.2.2: 1–2 g/ngày; người cao tuổi < 3 g/ngày (Phụ lục NSAID mục 3.3)."
+     },
+     {
+      "thuoc": "Prednisolon (tự mua)",
+      "ham_luong": "5 mg",
+      "lieu": "NGƯNG HẲN",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Đã ngưng 4 ngày, không dùng lại",
+      "ghi_chu": "ESE/ES 2024 R 2.1 (< 3–4 tuần: ngưng không cần giảm liều); QĐ 361/2014 mục 4.2.2 (không có chỉ định đường toàn thân)."
+     }
+    ],
+    "dan_do": [
+     "Không truyền chai nước biển; uống nước đủ để nước tiểu vàng nhạt; không uống nước bưởi (ESC/EAS 2019 Bảng 10).",
+     "Sáng mai đến lấy máu đo CK, creatinin, điện giải, ALT (ACC/AHA 2026 mục 4.2.11 KC 1); chờ kết quả rồi gặp bác sĩ trong ngày.",
+     "Tối nay uống hay hoãn atorvastatin theo lời bác sĩ; không tự bỏ hẳn thuốc mỡ vì nguy cơ tim mạch của ông còn cao (ACC/AHA 2026 mục 4.2.11 KC 2).",
+     "Quay lại ngay, hoặc đi cấp cứu, nếu nước tiểu sẫm hoặc nâu đỏ, ít nước tiểu, yếu tăng nhanh không đứng dậy được, sốt, nôn nhiều (QĐ 1493/2015 mục 3.1, 7).",
+     "Ngưng hẳn prednisolon tự mua; đau gối dùng paracetamol, chườm nóng, đi bộ nhẹ. Nếu mệt lả, buồn nôn, chóng mặt khi đứng thì đi khám và báo đã dùng prednisolon (ESE/ES 2024 R 3.1).",
+     "Tái khám sau khi có CK; lấy lại lipid 4–12 tuần sau mỗi lần chỉnh thuốc (ACC/AHA 2026 mục 3.5 KC 1); ăn bớt mỡ động vật, nội tạng, vận động ≥ 150 phút/tuần (ACC/AHA 2026 mục 4.1.4 KC 1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sáng hôm sau CK 540 U/L (giới hạn trên của phòng xét nghiệm 190 U/L, khoảng 2,8 lần), creatinin 86 µmol/L, kali bình thường, nước tiểu bình thường. CK < 10 lần giới hạn trên mà còn triệu chứng nên ông ngưng atorvastatin và prednisolon, theo dõi CK (ESC/EAS 2019 Bảng 13). Đau cơ giảm chậm hơn ông và bác sĩ chờ: sau 2 tuần còn mỏi đùi, CK 230 U/L; sau khoảng 6 tuần hết mỏi, sức cơ 5/5 và CK bình thường. Ông thử lại atorvastatin liều thấp hơn (10 mg) cách ngày rồi thêm ezetimibe 10 mg (ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 4.2.11 KC 7–8, Bảng 5); LDL-C 12 tuần sau còn 3,3 mmol/L, thêm 12 tuần nữa còn 2,5 mmol/L: đạt mức tối thiểu < 2,6 của ACC/AHA 2026 (mục 4.2.4.3 KC 3) sau khoảng 7 tháng kể từ lượt 2 nhưng chưa < 1,8 của ESC/EAS 2019 Bảng 7. Quyết định đều đúng: đo CK, không truyền dịch, không bỏ hẳn statin; đạt mục tiêu lipid chậm hơn dự kiến.",
+ "nhieu": [
+  "Đòi truyền dịch cả hai lượt, mỗi lượt một lý do ('rửa mỡ' rồi 'thải thuốc'): từ chối kèm giải thích cụ thể, nói được việc thay thế (uống oresol; lấy máu CK sáng mai). Không có chỉ định truyền dịch trong tài liệu đã tải cho rối loạn lipid hay đau cơ do statin (IDSA 2017 KC 41; QĐ 1493/2015 mục 7).",
+  "Thuốc corticoid tự mua: ông chỉ kể khi hỏi cụ thể thuốc đau gối, vì tưởng 'thuốc kháng viêm thường'; vợ biết nhưng không nói trừ khi được hỏi trực tiếp."
+ ],
+ "bai_hoc_bien": [
+  "Tăng LDL-C ≥ 4,9 mmol/L: trước khi điều trị phải loại trừ và xử lý nguyên nhân thứ phát (suy giáp, glucocorticoid, đái tháo đường, bệnh thận, gan tắc mật: ACC/AHA 2026 mục 4.2.4.3 KC 1, Bảng 15). Hỏi thuốc tự mua bằng câu hỏi cụ thể (thuốc đau gối, thuốc kháng viêm).",
+  "Ngoài giờ, không có xét nghiệm máu: quyết định tối nay dựa vào lâm sàng và tờ kết quả cũ; hẹn lấy máu sáng mai và hẹn gặp lại khi có kết quả. Hỏi 'bác lo điều gì nhất' để ra động cơ thật của việc đòi truyền dịch.",
+  "Đau cơ khi dùng statin: hỏi thời gian khởi phát, tính đối xứng, gắng sức, thuốc tương tác; khám sức cơ và nước tiểu; CK khi có yếu cơ; không tự bỏ hẳn thuốc (ACC/AHA 2026 mục 4.2.11 KC 1, 2)."
+ ],
+ "diem_nho": [
+  "Rối loạn lipid máu: cholesterol > 5,2; LDL-C > 2,58; TG > 1,7 mmol/L (QĐ 3879/2014 mục III.2). LDL-C ≥ 4,9 mmol/L (190 mg/dL): statin liều tối đa dung nạp sau khi loại trừ thứ phát (ACC/AHA 2026 mục 4.2.4.3 KC 1, 2).",
+  "Atorvastatin 10 (20) mg: cường độ vừa, giảm LDL-C 30–49%; 40 (80) mg: cường độ cao, giảm ≥ 50% (ACC/AHA 2026 Bảng 6). Người gốc Đông Á khởi liều thấp (mục 4.2.1.1). Lipid sau 4–12 tuần (ACC/AHA 2026 mục 3.5 KC 1; ESC/EAS 2019 Bảng 13: 8 ± 4 tuần).",
+  "CK > 10 lần giới hạn trên: ngưng statin, kiểm tra thận, theo dõi CK mỗi 2 tuần; CK < 10 lần mà còn triệu chứng: ngưng, thử lại liều thấp hơn (ESC/EAS 2019 Bảng 13). Tiêu cơ vân: CK > 1.000 U/L, nước tiểu đỏ nâu (QĐ 1493/2015 mục 3.2, 4.1).",
+  "Glucocorticoid làm tăng LDL-C và gây yếu cơ gốc chi (ACC/AHA 2026 Bảng 15; ESE/ES 2024 Bảng 7). Đợt < 3–4 tuần ngưng không cần giảm liều (ESE/ES 2024 R 2.1). Corticosteroid không có chỉ định đường toàn thân cho thoái hóa khớp gối (QĐ 361/2014 mục 4.2.2)."
+ ],
+ "nguon": [
+  "ACC/AHA 2026 Guideline on the Management of Dyslipidemia (TL-0292; J Am Coll Cardiol 2026;87(19):2624–2757) – đã đọc mục 3.2, 3.4, 3.5, 4.1.4, 4.1.5, 4.2.1.1, 4.2.4.3, 4.2.11, 5.1; Bảng 5, 6, 15, 24. KC = khuyến cáo.",
+  "ESC/EAS 2019 Guidelines for the management of dyslipidaemias (TL-0320; Eur Heart J 2020;41:111–188) – mục 5.4.3, 8.1.4, Bảng 7, 10, 13. ESC/EAS 2025 Focused Update (TL-0298; Eur Heart J 2025;46:4359) – Bảng 3, Lp(a), mục 10.",
+  "Bộ Y tế – QĐ 3879/QĐ-BYT 2014 (TL-0039): Rối loạn chuyển hóa lipid máu mục I–IV, Suy giáp người lớn mục IV.1.4. QĐ 361/QĐ-BYT 2014 (TL-0286): Thoái hóa khớp gối mục 4.2.2, Phụ lục NSAID mục 3.3. QĐ 1493/QĐ-BYT 2015 (TL-0034): Hội chứng tiêu cơ vân cấp mục 2.1–7. QĐ 5642/QĐ-BYT 2015 (TL-0038): Tiêu chảy do vi khuẩn mục 4.2.1.",
+  "ESE/ES 2024 Glucocorticoid-induced adrenal insufficiency (TL-0063) – R 1.2, 2.1, 3.1, Bảng 7. IDSA 2017 Infectious diarrhea (TL-0230) – KC 36, 39, 41–43. ACG 2016 Acute diarrheal infections (TL-0233) – KC 5, 6, 9, 10. Kho thiếu: tài liệu bù nước chung cho người lớn của Bộ Y tế."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-11-08)",
+ "ghi_chu_bien_tap": [
+  "2026-11-08: viết mới ca 2 lượt, kho 0.3. Tài liệu đã đọc: TL-0292 (mục 3.2, 3.4, 3.5, 4.1.4, 4.1.5, 4.2.1.1, 4.2.4.3, 4.2.11, 5.1; Bảng 5, 6, 15, 24); TL-0320 (mục 5.4.3, 8.1.4, Bảng 7, 10, 13); TL-0298 (Bảng 3, Lp(a), mục 10); TL-0039 (RL lipid máu, Suy giáp người lớn); TL-0286; TL-0034; TL-0063 (R 1.2, 2.1, 3.1, Bảng 7); TL-0230, TL-0233, TL-0038 (tiêu chảy).",
+  "Thiết kế: ngoài giờ cả hai lượt (xn, X-quang, siêu âm khóa); lượt 1 dựa tờ xét nghiệm cũ 14 tháng (LDL-C 5,2 = 201 mg/dL), hẹn lấy máu sáng mai, ve_hen; lượt 2 tiếp từ xử trí chuẩn lượt 1: triệu chứng cơ mới, không dấu tiêu cơ vân, chưa có CK, ve_hen.",
+  "Mâu thuẫn nguồn, ghi cả hai cách theo sổ: MT-0425 mục 1, 2, 4; MT-0523 mục 2; MT-0477 mục 1; HH-0187 ghi nhận 2; truyền dịch theo yêu cầu chấm w vì không có trong tài liệu đã tải.",
+  "Còn thiếu tài liệu: thể tích bù dịch đường uống cho người lớn; số ngày paracetamol; mốc dặn quay lại; corticoid tự mua lặp lại nhiều đợt (ESE/ES 2024 chỉ nêu mốc < 3–4 tuần); statin tối nay khi chưa có CK; ngưỡng CK theo giới hạn trên phòng xét nghiệm (190 U/L do người biên soạn đặt); PREVENT-ASCVD. Không dùng ảnh da (u vàng mi mô tả bằng chữ)."
+ ]
+}

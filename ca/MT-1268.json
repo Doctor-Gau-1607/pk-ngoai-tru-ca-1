@@ -1,0 +1,573 @@
+{
+ "ma_ca": "MT-1268",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_dtd_kiem_soat_kem",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "ĐTĐ kiểm soát kém (HbA1c cao)",
+  "chan_doan_phai_loai_tru": [
+   "Nhiễm trùng",
+   "Tuân thủ kém"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Nông dân đã nghỉ hưu",
+  "yeu_to_khoi_phat": "Sau nhiễm siêu vi",
+  "thuoc_dang_dung": "Men tiêu hóa tự mua",
+  "ly_do_that_su_den_kham": "Không yên tâm với chẩn đoán trước",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Bảy",
+  "tuoi": 68,
+  "gioi": "Nam",
+  "nghe": "Nông dân đã nghỉ hưu (còn chăm vườn, ao cá nhỏ)",
+  "can_nang": 58,
+  "chieu_cao": 162,
+  "xung_ho": "Bác sĩ gọi ông là 'bác' hoặc 'ông'. Ông tự xưng 'tôi' hoặc 'bác', gọi bác sĩ là 'bác sĩ' hoặc 'cậu'.",
+  "tinh_cach": "Nông dân thật thà, chậm rãi, tin vào 'chai nước biển bổ' như nhiều người cùng xóm. Ít nói về bản thân, hay gạt 'già thì vậy' khi nói về những chỗ khó chịu. Quý trọng lời bác sĩ nhưng dễ nài nỉ khi đã tin một cách chữa.",
+  "kieu_nhieu": "Đòi truyền dịch: ngay từ đầu ông xin 'truyền cho tôi chai nước biển như hôm trước cho khỏe lại'; nếu bị từ chối chung chung 'không cần đâu' thì nhắc lại, giọng buồn, nói hôm trước truyền xong khỏe hẳn hai ngày. Chịu nghe khi bác sĩ giải thích cụ thể cho trường hợp của ông (ông uống được, đường huyết đang cao, truyền dịch đường làm đường cao thêm) và có việc khác làm ngay để ông thấy được chữa.",
+  "nguoi_nha": "Con trai, anh Hải, 38 tuổi, thợ hồ, đưa ba đi khám bằng xe máy. Thương ba, hay nói chen, tin 'truyền thì mới có sức'. Anh biết: ba mệt, ăn kém từ sau đợt cảm, đã truyền hai chai ở phòng khám gần chợ, ba uống thuốc tiểu đường mẹ chia sẵn mỗi ngày. Anh KHÔNG biết chuyện ba dậy tiểu đêm nhiều lần, sụt cân, tờ xét nghiệm cũ trong bao ni lông của ba. Khi bác sĩ hỏi về ăn uống sau ốm, thuốc, ai lo thuốc cho ông thì anh thường trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Anh Hải (con trai)",
+  "ngoai_hinh": {
+   "da": "#c58f68",
+   "toc": "#b9b4ac",
+   "kieuToc": "hoi",
+   "ao": "#6f7d58",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c99672",
+    "toc": "#1f1712",
+    "kieuToc": "ngan",
+    "ao": "#4d5f7a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, ăn không ngon sau đợt cảm; xin truyền dịch",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám có bác sĩ chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm glucose tĩnh mạch, ure, creatinin, điện giải, men gan, CRP; tổng phân tích nước tiểu có ceton) và điện tim; không có X-quang, siêu âm, CT, nội soi và không làm được HbA1c, UACR, khí máu, soi đáy mắt. Bệnh viện huyện cách khoảng 14 km làm được các xét nghiệm và khám mắt, kết quả trong ngày hoặc hôm sau."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 68 tuổi, nông dân đã nghỉ hưu, con trai đưa đến khám vì mệt, ăn không ngon sau một đợt cảm cách đây 3 tuần. Ông nói 8 ngày trước đã được truyền hai chai dịch ở phòng khám khác và xin được truyền tiếp. Sinh hiệu lúc tiếp đón: HA 132/78 mmHg, mạch 88 l/p, nhiệt độ 36,8°C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Bảy bị nhập viện nội trú để 'hạ đường huyết và truyền dịch', trong khi ông tỉnh táo, uống được, ceton niệu âm tính, glucose 15,9 mmol/L và áp lực thẩm thấu hiệu dụng khoảng 284 mOsm/kg, chưa đủ tiêu chuẩn tăng áp lực thẩm thấu hay toan ceton (QĐ 5481 Phần 7 Bảng 7). Ông nằm vài ngày ở bệnh viện cách nhà 14 km đúng vụ gặt, tốn viện phí, và có thể ra viện với bút insulin mà chưa quen kỹ thuật tiêm, cách đo đường tại nhà và xử trí hạ glucose, là những việc cần hướng dẫn kỹ khi khởi insulin (QĐ 5481 Phần 4 mục 4.2k).",
+    "chuyen_tuyen": "Ông Bảy được chuyển tuyến lên bệnh viện tỉnh ngay trong ngày vì có triệu chứng tăng glucose. QĐ 5904 Phần 2 Bước 4 A.4 yêu cầu chuyển tuyến ở trạm y tế xã khi có triệu chứng tăng glucose, nhưng đây là phòng khám có bác sĩ, QĐ 5481 Phần 4 mục 4.2f cho khởi insulin nền tại chỗ và ông chưa có dấu hiệu biến chứng cấp. Ông mất thêm nửa ngày đi lại, chờ khám và tốn kém, trong khi người bệnh dễ bỏ hẹn vì xa và vào vụ gặt; điều trị bị chậm thêm mà không cần thiết."
+   },
+   "loi_mo": "Chào bác sĩ. Từ hồi cảm tới giờ tôi mệt lắm, ăn không thấy ngon. Hôm trước ra phòng khám gần chợ truyền hai chai thì khỏe được hai ngày, giờ mệt lại. Bác sĩ truyền cho tôi một chai nữa cho lại sức.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "132/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, ăn không thấy ngon, người rã rời. Bắt đầu sau một đợt cảm 3 tuần trước: sốt 3 ngày, đau họng, ho khan, đã hết sốt, hết ho hơn 2 tuần nay nhưng sức không về lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và mốc thời gian sau đợt cảm"
+    },
+    {
+     "id": "truyen_dich_truoc",
+     "noi_dung": "8 ngày trước ông ra phòng khám gần chợ, được bảo 'hậu virus, suy nhược', cho truyền hai chai dịch (anh Hải nhớ là chai đường glucose 5%) và vài viên vitamin, không ai thử đường huyết. Khỏe được hai ngày rồi mệt lại, nên nay ông xin được truyền tiếp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã truyền dịch đường khi chưa biết đường huyết; chẩn đoán trước là hậu virus"
+    },
+    {
+     "id": "tien_su_dtd",
+     "noi_dung": "Đái tháo đường típ 2 phát hiện 5 năm trước, uống metformin 500 mg × 2 lần/ngày (sau bữa sáng và tối) do trạm y tế xã cấp theo bảo hiểm. Không có máy đo đường tại nhà. Không tiêm insulin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử ĐTĐ và thuốc đang dùng"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bà vợ chia thuốc vào hộp 7 ngăn mỗi tuần, ông uống đều cả hai cữ, không quên cữ nào kể cả lúc ốm. Hộp thuốc còn đúng số viên theo ngày (ông mang theo). Không uống thuốc nam, thuốc bắc, không uống corticoid, không thuốc tây nào khác ngoài men tiêu hóa tự mua vì đầy bụng, ăn không ngon.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ metformin thật; không thuốc làm tăng đường huyết"
+    },
+    {
+     "id": "giay_cu",
+     "noi_dung": "Tờ xét nghiệm của bệnh viện huyện 10 tuần trước (đợt khám sức khỏe người cao tuổi): HbA1c 10,9%, glucose đói 12,4 mmol/L. Bác sĩ ở đó dặn ăn kiêng và hẹn tái khám 1 tháng, ông không đi lại vì vào vụ gặt, xa 14 km, rồi bị cảm. Ông cất tờ giấy trong bao ni lông cùng sổ y tế, nghĩ 'đường hơi cao thôi'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có xét nghiệm gì không' thì nói 'không có gì'. Chỉ lấy tờ giấy ra khi bác sĩ hỏi cụ thể lần xét nghiệm đường hoặc HbA1c gần nhất, lần khám ở bệnh viện huyện, hay có giấy tờ cũ mang theo không.",
+     "k": 1,
+     "y": "HbA1c và glucose đói cũ (cơ sở không làm HbA1c)"
+    },
+    {
+     "id": "khat_tieu_dem",
+     "noi_dung": "Ban đêm dậy tiểu 3–4 lần, miệng khô, phải uống nước; ban ngày uống nước nhiều hơn trước (khoảng 2,5 lít). Ông cho là 'già nên tiểu đêm, tiền liệt tuyến'. Chuột rút bắp chân thỉnh thoảng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có khát, tiểu nhiều không' thì nói 'không, tôi uống nước bình thường'. Chỉ kể khi bác sĩ hỏi cụ thể ban đêm dậy mấy lần, mỗi ngày uống bao nhiêu nước, miệng có khô không, hoặc hỏi theo giờ giấc ngủ.",
+     "k": 1,
+     "y": "Triệu chứng tăng đường huyết kín đáo"
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Sụt khoảng 4 kg trong 2 tháng (62 xuống 58 kg theo cân ở trạm y tế), quần phải thắt chặt hơn. Ông tưởng do cảm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân (dấu hiệu dị hóa)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Từ khi ốm, vợ nấu cháo thêm đường, mỗi ngày ông uống 2–3 ly nước mía, sữa đặc pha, trà đá thêm đường 'cho lại sức'; cơm vẫn ăn 2 chén mỗi bữa. Nghỉ chăm vườn nên gần như ngồi cả ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn bù đồ ngọt và ít vận động sau ốm"
+    },
+    {
+     "id": "mat_ngua",
+     "noi_dung": "Mắt nhìn chữ trên tờ báo hơi mờ mấy tuần nay, da cẳng chân ngứa, gãi xước. Ông cho là 'già'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể về mắt, nhìn chữ, ngứa da hoặc tê bì chân.",
+     "k": 0,
+     "y": "Nhìn mờ, ngứa da (tăng đường huyết, biến chứng)"
+    },
+    {
+     "id": "khong_nhiem_trung",
+     "noi_dung": "Từ khi hết sốt hơn 2 tuần nay không sốt lại, không ho khạc đờm, không đau họng, không tiểu buốt hay tiểu đục, không đau hông lưng, chân không trầy xước hay lở loét. Không nôn, không đau bụng, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có ổ nhiễm trùng đang hoạt động"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra ông đến vì không tin lời bác sĩ trước 'chỉ là hậu virus': khỏe được hai ngày rồi mệt lại, lại sụt cân. Ông sợ mình có bệnh gan hay 'bệnh gì nặng' mà chưa ai tìm ra, và ngại nói ra vì sợ thành thật. Con trai bảo đi khám lại cho yên tâm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói thật khi bác sĩ hỏi ông nghĩ mình bị bệnh gì, lo điều gì nhất, hoặc tại sao không tin chẩn đoán trước. Hỏi chung 'có lo gì không' thì nói 'không, chỉ xin truyền cho khỏe'.",
+     "k": 1,
+     "y": "Lý do thật: không yên tâm với chẩn đoán trước, sợ bệnh nặng"
+    },
+    {
+     "id": "tien_su_khac",
+     "noi_dung": "Không tăng huyết áp, không bệnh tim, không đau thắt ngực, không tai biến. Không hút thuốc từ 10 năm nay, thỉnh thoảng uống 1 chén rượu ngày giỗ. Gia đình: anh trai bị tiểu đường. Chưa từng khám mắt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bệnh kèm, yếu tố nguy cơ, chưa khám mắt"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy (58 kg, BMI 22,1), da khô, môi khô, niêm mạc miệng khô nhẹ, nếp véo da mất chậm. Tĩnh mạch cổ không xẹp. Không thở sâu, hơi thở không mùi ceton.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 132/78 mmHg, mạch 84 l/p; đứng 3 phút 124/74 mmHg, mạch 92 l/p, không choáng váng.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Thở đều 18 l/p. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Thở đều, tần số 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang rõ hai bên, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amiđan không to, không mủ. Tai mũi bình thường.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, gan lách không to. Rung thận âm tính hai bên.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Không đau góc sườn lưng, ấn trên xương mu không đau. Không bí tiểu, bàng quang không căng.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô, nứt gót nhẹ, không loét, không chai, không biến dạng, da ấm. Mạch mu chân và chày sau rõ hai bên. Monofilament 10 g: giảm cảm giác ở đầu ngón cái hai bên (cảm nhận 1/3 vị trí). Âm thoa 128 Hz: rung giảm ở ngón cái. Phản xạ gân gót giảm hai bên.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Thị lực đọc chữ cỡ vừa ở khoảng cách đọc báo kém hơn người cùng tuổi. Hai mắt không đỏ, đồng tử đều. Soi đáy mắt cần máy chuyên khoa, cơ sở không có.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Cơ sở không có đèn soi đáy mắt, không đánh giá được võng mạc ở đây; cần gửi khám mắt.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da khô, vết gãi xước ở cẳng chân hai bên. Nếp bẹn và nách không đỏ, không mụn mủ, không áp xe. Không loét.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh táo, đáp ứng đúng, định hướng tốt, không dấu thần kinh khu trú, không yếu liệt.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "16,2 mmol/L (lúc 9 giờ, ăn sáng bát cháo cách đây 2 giờ)",
+     "ab": 1,
+     "n": "Glucose mao mạch chỉ để theo dõi; chẩn đoán/quyết định dựa glucose tĩnh mạch (QĐ 5904 Phần 2 Bước 3). Dưới ngưỡng 16,7 mmol/L (QĐ 5904 Phần 2 Bước 4 A.4; ADA 2026 KC 9.20: ≥ 16,7)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "15,9 mmol/L (glucose huyết tương tĩnh mạch, lấy không nhịn đói)",
+     "ab": 1,
+     "bang": {
+      "glu": 15.9
+     },
+     "n": "Glucose ngẫu nhiên ≥ 11,1 mmol/L kèm triệu chứng đã đủ tiêu chuẩn tăng glucose (QĐ 5481 Phần 2 mục 1.1d); ĐTĐ đã biết từ trước."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "Cơ sở không làm được HbA1c. Dùng tờ xét nghiệm cũ của bệnh viện huyện (nếu hỏi ra).",
+     "n": "HbA1c 10,9% cách 10 tuần là mốc để quyết định (QĐ 5481 Phần 4 mục 4.2f; ADA 2026 KC 9.20). Không có HbA1c hôm nay không làm chậm việc điều trị vì glucose và triệu chứng đã đủ; đo lại HbA1c khi đổi liệu pháp, mỗi quý (QĐ 5481 Phần 4 mục 2)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Glucose 4+ · Ceton âm tính · Protein vết · Bạch cầu âm tính · Nitrit âm tính · Hồng cầu âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.026,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Vết",
+      "u_glu": "4+",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Ceton âm tính, không bạch cầu/nitrit: không toan ceton, không nhiễm trùng tiết niệu (QĐ 5481 Phần 7 mục 2.2 làm ceton niệu khi nghi biến chứng cấp). Protein vết một mẫu, chưa kết luận bệnh thận (cần UACR; ADA 2026 mục 11)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,8 G/L · Neutrophil 62% · Hb 135 g/L · TC 268 G/L",
+     "bang": {
+      "wbc": 7.8,
+      "neu_pct": 62.0,
+      "neu": 4.84,
+      "lym_pct": 28.0,
+      "lym": 2.18,
+      "mono_pct": 6.0,
+      "mono": 0.47,
+      "eos_pct": 3.0,
+      "eos": 0.23,
+      "baso_pct": 1.0,
+      "baso": 0.08,
+      "rbc": 4.5,
+      "hgb": 135,
+      "hct": 0.41,
+      "mcv": 88.0,
+      "mch": 30.0,
+      "mchc": 335,
+      "rdw": 13.0,
+      "plt": 268
+     },
+     "n": "BC bình thường: không gợi ý nhiễm khuẩn (QĐ 5481 Phần 7 mục 2.2: BC tăng > 25.000/µL mới phải tìm nhiễm trùng, ở đây thấp xa). CTM làm lần đầu (QĐ 5481 Bảng 2)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 3 mg/L",
+     "bang": {
+      "crp": 3.0
+     },
+     "n": "Không có viêm đáng kể, ủng hộ hết nhiễm virus; ngưỡng CRP cụ thể không có trong tài liệu đã tải dùng cho ca này."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 7,4 mmol/L · Creatinin 96 µmol/L · eGFR 69 mL/ph/1,73m²",
+     "bang": {
+      "ure": 7.4,
+      "creat": 96,
+      "egfr": 69
+     },
+     "n": "eGFR 69: dùng được metformin (chống chỉ định eGFR < 30, giảm liều 30–45; QĐ 5481 PL01 mục 2); ure/creatinin tăng nhẹ phù hợp mất nước nhẹ (QĐ 5481 Phần 7 mục 2.2)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 134 · K 4,4 · Cl 99 mmol/L",
+     "bang": {
+      "na": 134,
+      "k": 4.4,
+      "cl": 99
+     },
+     "n": "Na hiệu chỉnh = 134 + 1,6 × (15,9 − 5,6)/5,6 ≈ 137 mmol/L; áp lực thẩm thấu hiệu dụng = 2 × 134 + 15,9 ≈ 284 mOsm/kg, thấp xa ngưỡng 320 của tăng áp lực thẩm thấu (QĐ 5481 Phần 7 mục 2.2, 2.4 và Bảng 7)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 26 · ALT 31 U/L",
+     "n": "Men gan trước khi dùng thuốc (QĐ 5481 Bảng 2: ALT/AST lần đầu)."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 86 l/p, trục bình thường, không ST-T bất thường.",
+     "n": "QĐ 5481 Bảng 2: điện tim ở lần đánh giá đầu; không triệu chứng tim."
+    },
+    "bicarbonat": {
+     "v": "a",
+     "r": "Cơ sở không làm được khí máu/bicarbonat. Dùng ceton niệu âm tính, thở bình thường, tỉnh táo để loại toan ceton.",
+     "n": "QĐ 5481 Bảng 7: toan ceton có pH/bicarbonat giảm kèm ceton (+); ceton niệu âm tính và không thở sâu thì không cần khí máu."
+    },
+    "uacr": {
+     "v": "a",
+     "r": "Cơ sở không làm được UACR; gửi mẫu nước tiểu lên bệnh viện huyện trong tuần.",
+     "n": "ĐTĐ típ 2 cần tầm soát ngay khi chẩn đoán rồi mỗi 6–12 tháng (QĐ 5481 Phần 8, khuyến cáo biến chứng thận 1). Không cần trong buổi hôm nay."
+    },
+    "cxr": {
+     "n": "Không ho, phổi sạch, CRP và BC bình thường: không có chỉ định. QĐ 5481 Bảng 2 có X-quang ngực ở lần đầu nhưng cơ sở không có và không đổi quyết định hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái tháo đường típ 2 kiểm soát kém, đang có triệu chứng tăng glucose (glucose 15,9 mmol/L; HbA1c 10,9% cách 10 tuần), sụt cân, mất nước nhẹ, chưa có biến chứng cấp",
+     "ok": 1,
+     "n": "ĐTĐ đã biết, glucose ngẫu nhiên ≥ 11,1 kèm triệu chứng (QĐ 5481 Phần 2 mục 1.1d); HbA1c 10,9% rất xa mục tiêu < 7,5% (QĐ 5481 Bảng 5) hoặc < 7% (ADA 2026 KC 6.3a); tiểu đêm, khát, sụt cân 4 kg/2 tháng, nhìn mờ, ngứa là biểu hiện kín đáo ở người cao tuổi. Đợt cảm và ăn bù đồ ngọt, ít vận động là yếu tố làm mất bù thêm."
+    },
+    {
+     "t": "Nhiễm trùng đang hoạt động (viêm phổi, nhiễm trùng tiết niệu, nhiễm trùng da – bàn chân, hậu nhiễm virus còn tiến triển)",
+     "n": "Không sốt hơn 2 tuần, phổi sạch, họng không đỏ, nước tiểu không bạch cầu/nitrit, chân không loét, BC 7,8 G/L, CRP 3 mg/L. QĐ 5481 Phần 7 mục 1 coi nhiễm trùng là yếu tố thúc đẩy mất bù; ở đây không có. Đợt cảm trước đó chỉ là yếu tố khởi phát. Nghĩ lại nếu sốt, ho đờm, tiểu buốt hoặc loét chân (QĐ 5904 Phần 2 Bước 4 A.4)."
+    },
+    {
+     "t": "Kém tuân thủ điều trị",
+     "n": "Ông uống đều metformin 500 mg × 2 (vợ chia hộp thuốc, hộp còn đúng số viên); lỗi nằm ở chỗ thuốc và chế độ ăn không còn đủ với mức đường huyết, ăn bù đồ ngọt và bỏ hẹn tái khám 1 tháng (QĐ 5481 Phần 3 mục 2.1: đánh giá tuân thủ và rào cản trước khi kê đơn mới; Phần 4 mục 4.2h–i: không đạt mục tiêu thì tăng cường ngay, đánh giá lại mỗi 3 tháng). Rào cản tái khám: vụ gặt, quãng đường 14 km."
+    },
+    {
+     "t": "Tăng đường huyết tăng áp lực thẩm thấu hoặc nhiễm toan ceton do ĐTĐ",
+     "n": "Tỉnh táo, ceton niệu âm tính, không thở sâu, glucose 15,9 mmol/L (< 33,3), áp lực thẩm thấu hiệu dụng ≈ 284 mOsm/kg (< 320) (QĐ 5481 Bảng 7; Phần 7 mục 3.1–3.2). Tăng áp lực thẩm thấu khởi phát âm thầm vài ngày nên phải dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Hậu nhiễm virus / suy nhược cần truyền dịch bồi bổ (chẩn đoán của nơi khám trước)",
+     "n": "Không giải thích được tiểu đêm, khát, sụt cân 4 kg và glucose 15,9 mmol/L. Đợt cảm đã qua 2 tuần, CRP và BC bình thường. Mệt tái phát sau hai chai dịch đường là hợp lý khi đường huyết chưa được điều trị. Tài liệu đã tải không nêu 'hậu virus' như một chẩn đoán cần điều trị."
+    },
+    {
+     "t": "Nguyên nhân khác của sụt cân và mệt (ung thư, lao, bệnh tuyến giáp)",
+     "n": "Chưa có chỉ điểm: không ho kéo dài, không sốt, không đau bụng. Nếu cân nặng vẫn giảm dù đường huyết đã về ổn định thì tìm nguyên nhân khác; ngưỡng cụ thể không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không truyền dịch theo yêu cầu; giải thích: ông uống được, chưa mất nước nặng, mệt do đường huyết cao, chai dịch đường làm đường cao thêm; thay vào đó uống nước lọc và bắt đầu điều trị hạ đường huyết ngay hôm nay",
+     "v": "c",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch cho tăng glucose máu không biến chứng. QĐ 5481 Phần 7 mục 4.2 chỉ nêu bù dịch NaCl 0,9% cho nhiễm toan ceton/tăng áp lực thẩm thấu (ca này không có: Bảng 7) và chỉ thêm glucose 5% khi glucose xuống 14,0 hoặc 11,0 mmol/L trong điều trị biến chứng cấp. Ý 'dịch đường làm đường huyết cao thêm' là suy luận của ca, không có câu trực tiếp trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền dịch (glucose 5% hoặc dịch bồi bổ) cho ông theo yêu cầu",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải (mục 'truyền dịch theo yêu cầu' của sổ mâu thuẫn). Lặp lại việc đã làm 8 ngày trước mà không đo đường huyết; ông chỉ khỏe được hai ngày."
+    },
+    {
+     "t": "Bắt đầu insulin nền (glargine, detemir, degludec tiêm 1 lần/ngày hoặc NPH tiêm tối) 0,1–0,2 đơn vị/kg/ngày (58 kg: 6–12 đơn vị), ví dụ 8 đơn vị tối; chỉnh liều theo glucose đói; giữ metformin",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 4.2f: cân nhắc insulin sớm khi có dị hóa (sụt cân), triệu chứng tăng glucose, HbA1c ≥ 9% hoặc glucose ≥ 16,7 mmol/L; liều nền 0,1–0,2 đơn vị/kg (Hình 3). ADA 2026 KC 9.20: insulin khi có triệu chứng hoặc HbA1c > 10% hoặc glucose ≥ 16,7; Hình 9.5: khởi đầu 10 đơn vị/ngày hoặc 0,1–0,2 đơn vị/kg. Ca này thỏa cả hai (triệu chứng, sụt cân, HbA1c 10,9%). KC 9.23: giữ thuốc hạ đường khác khi khởi insulin. Chọn 8 đơn vị (≈ 0,14 đơn vị/kg) vì ông 68 tuổi, ăn kém: QĐ 5481 mục 4.2j cần thận trọng hạ glucose ở người lớn tuổi; đây là lựa chọn của ca."
+    },
+    {
+     "t": "Hoặc thêm GLP-1 RA (thuốc tiêm) thay cho insulin, giữ metformin",
+     "v": "a",
+     "n": "QĐ 5481 Phần 4 mục 4.2g và ADA 2026 KC 9.21 ưu tiên GLP-1 RA hơn insulin khi chưa tăng glucose nặng; ở ca này có triệu chứng, sụt cân và HbA1c > 10% nên insulin là lựa chọn chính theo 4.2f/KC 9.20, GLP-1 RA vẫn chấp nhận được (giá, tính sẵn có tại cơ sở không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Thêm gliclazide (sulfonylurea) thay cho insulin",
+     "v": "a",
+     "n": "QĐ 5904 Phần 2 Bước 5 B.2 cho thêm sulfonylurea khi metformin đơn trị chưa đủ; QĐ 5481 PL01 mục 1: giảm HbA1c 1–1,5%, nguy cơ hạ glucose cao ở người lớn tuổi, ăn kém. AGS Beers 2023 Bảng 2: tránh sulfonylurea làm thuốc bậc 1–2 ở ≥ 65 tuổi. Khó đưa HbA1c 10,9% về mục tiêu nên chỉ chấp nhận được, không phải lựa chọn chính."
+    },
+    {
+     "t": "Giữ metformin 500 mg × 2; tăng lên tới 2000 mg/ngày nếu dung nạp, không tăng cùng lúc nếu đang đầy bụng",
+     "v": "c",
+     "n": "eGFR 69 (chống chỉ định < 30, giảm liều 30–45: QĐ 5481 PL01 mục 2); liều thường dùng 500–2000 mg/ngày. Tốc độ tăng: mỗi 5–7 ngày (QĐ 5481 PL01 mục 2) hoặc 500 mg sau 4 tuần (QĐ 5904 Phụ lục 2.3 Bước 1–3), ghi cả hai theo sổ mâu thuẫn (MT-0741). ADA 2026 KC 9.23: giữ thuốc cũ khi khởi insulin."
+    },
+    {
+     "t": "Hướng dẫn tiêm insulin tại chỗ (bút tiêm, vị trí bụng/đùi, thay chỗ tiêm), đo glucose mao mạch khi đói mỗi sáng và ghi sổ; dặn nhận biết và xử trí hạ glucose (đói lả, run, vã mồ hôi)",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 4.2k: hướng dẫn kỹ thuật tiêm và triệu chứng hạ glucose; Phần 10 mục 2: insulin nền kèm thuốc uống đo 2 lần/ngày trước ăn sáng và tối. Hạ glucose: 15–20 g glucose pha nước, thử lại sau 15 phút (QĐ 5481 Phần 6 mục 1c) hoặc 1 cốc nước đường 10–15 g glucose (QĐ 5904 Phần 2 Bước 4) – ghi cả hai."
+    },
+    {
+     "t": "Chỉnh insulin nền theo glucose đói: tăng 2 đơn vị mỗi 3 ngày (ADA) hoặc 1–2 đơn vị/10–15% mỗi 1–2 tuần (QĐ 5481); chọn nhịp chậm hơn ở ông; giảm 10–20% nếu hạ glucose không rõ nguyên nhân",
+     "v": "c",
+     "n": "ADA 2026 Hình 9.5: tăng 2 đơn vị mỗi 3 ngày tới glucose đói mục tiêu; hạ glucose không rõ lý do giảm 10–20%. QĐ 5481 Phần 4 mục 4.2 (insulin nền): tăng 10–15% hay 1–2 đơn vị mỗi 1–2 lần/tuần, hạ glucose thì giảm 2–4 đơn vị hay 10–20%. Nhịp chậm hơn thận trọng hơn cho người cao tuổi (mục sổ MT-0332)."
+    },
+    {
+     "t": "Đặt mục tiêu HbA1c cá thể hóa: khoảng < 7,5% theo QĐ 5481 (người cao tuổi mạnh khỏe) hoặc < 7% theo ADA 2026; nới lỏng nếu bệnh kèm nặng hoặc hay hạ glucose; glucose đói 4,4–7,2 mmol/L",
+     "v": "c",
+     "n": "QĐ 5481 Bảng 5: mạnh khỏe < 7,5%, nhiều bệnh < 8,0%; Bảng 4: glucose đói 4,4–7,2 mmol/L. ADA 2026 KC 6.3a: < 7% cho nhiều người lớn không hạ glucose nặng; KC 6.5: nới lỏng khi sức khỏe yếu. Hai nguồn khác mốc số, cùng cá thể hóa (mục sổ MT-0335). Ông 68 tuổi, ít bệnh kèm nên chọn mức < 7,5% là hợp lý."
+    },
+    {
+     "t": "Ăn: bỏ nước mía, sữa đặc, trà đá đường, cháo thêm đường; chia bữa, cơm vừa phải; uống nước lọc. Vận động: đi bộ nhanh 30 phút/ngày khi glucose xuống dưới 14,0 mmol/L",
+     "v": "c",
+     "n": "QĐ 5481 Phần 5 mục 5.2.3: đồ uống ngọt chỉ dùng loại không hoặc ít đường, không ăn nước ép; QĐ 5904 Phần 2 Bước 5 D: hạn chế đường, đồ ngọt, đi bộ nhanh 30 phút/ngày, 150 phút/tuần. QĐ 5481 Phần 5 mục 5.1a: không tập thể dục nếu glucose > 14,0 hoặc < 5,5 mmol/L, hoặc thấy đói, mệt."
+    },
+    {
+     "t": "Hẹn tái khám 1–2 tuần (mang sổ đo glucose và hộp thuốc) để chỉnh liều; sau đó mỗi 0,5–1 tháng đến khi ổn định; đo HbA1c sau 3 tháng",
+     "v": "c",
+     "n": "QĐ 5481 Phần 3 mục 2.3: đang điều chỉnh thuốc tái khám 0,5–1 tháng/lần; Phần 4 mục 2: HbA1c hàng quý khi đổi liệu pháp; mục 4.2i: đánh giá lại chiến lược mỗi 3 tháng. QĐ 5904 Phụ lục 2.3: khám lại sau 4 tuần ở trạm y tế. Mốc 1–2 tuần là lựa chọn của ca vì mới khởi insulin."
+    },
+    {
+     "t": "Hẹn lịch tầm soát biến chứng trong vài tuần: khám đáy mắt (nhìn mờ), UACR, HbA1c; khám bàn chân định kỳ; hỏi tê bì (monofilament đã giảm)",
+     "v": "c",
+     "n": "QĐ 5481 Bảng 2: HbA1c, MAU/creatinin niệu 3–6 tháng/lần, khám đáy mắt; Phần 8: khám đáy mắt ngay khi chẩn đoán rồi mỗi 1–2 năm, tầm soát biến chứng thận ngay khi chẩn đoán ĐTĐ típ 2; Phần 3 mục 2.2g–h: khám bàn chân, thần kinh. Cơ sở không có đèn soi đáy mắt, UACR, HbA1c nên gửi bệnh viện huyện."
+    },
+    {
+     "t": "Dặn khi nào quay lại hoặc đi cấp cứu: lú lẫn, ngủ li bì, khát và tiểu nhiều tăng rõ, nôn, đau bụng, thở sâu nhanh, sốt, chân lở loét, glucose đo được liên tục trên 16,7 mmol/L",
+     "v": "c",
+     "n": "QĐ 5904 Phần 2 Bước 4 A.4: chuyển tuyến khi triệu chứng tăng glucose, mất nước, glucose đói > 16,7 mmol/L, rối loạn ý thức, sốt cao kèm glucose cao, nhiễm trùng nặng. QĐ 5481 Phần 7 mục 2.1: tăng áp lực thẩm thấu khởi phát âm thầm vài ngày, mất nước nặng, rối loạn ý thức; toan ceton thở kiểu Kussmaul, nôn, đau bụng."
+    },
+    {
+     "t": "Bàn với ông về statin (ĐTĐ ≥ 40 tuổi) và để khi đường huyết đã ổn định, đo mỡ máu lần sau",
+     "v": "a",
+     "n": "QĐ 5904 Phần 2 Bước 5 B.4: statin cho mọi người ĐTĐ típ 2 từ 40 tuổi; cường độ statin và mục tiêu LDL-C ghi cả hai theo mục sổ (MT-0333, MT-0439). Chưa đo mỡ máu hôm nay nên hoãn lượt sau."
+    },
+    {
+     "t": "Gửi bệnh viện huyện trong tuần để làm HbA1c, UACR, khám mắt (không thay cho việc khởi điều trị hôm nay)",
+     "v": "a",
+     "n": "QĐ 5904 Phần 2 Bước 4 A.7: chuyển lên tuyến trên theo lịch hẹn để kiểm tra định kỳ; QĐ 5481 Bảng 2. Cơ sở không làm được các xét nghiệm này."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái tháo đường típ 2 kiểm soát kém: HbA1c 10,9% (cách 10 tuần), glucose tĩnh mạch ngẫu nhiên 15,9 mmol/L",
+     "Có triệu chứng tăng glucose kín đáo (tiểu đêm, khát, sụt 4 kg/2 tháng, nhìn mờ, ngứa) và mất nước nhẹ; chưa có toan ceton hay tăng áp lực thẩm thấu",
+     "Yếu tố làm mất bù thêm: ăn bù đồ ngọt sau đợt cảm, ít vận động, bỏ hẹn tái khám; đã bị truyền dịch đường 8 ngày trước",
+     "Không có ổ nhiễm trùng đang hoạt động; tuân thủ metformin tốt",
+     "Dấu hiệu biến chứng mạn: giảm cảm giác monofilament và âm thoa, phản xạ gót giảm (bệnh thần kinh ngoại biên); nhìn mờ chờ khám mắt; protein niệu vết chờ UACR"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự khai thác đúng: hỏi bệnh sử mệt kéo dài sau cảm, hỏi cụ thể tiền sử ĐTĐ, thuốc, tuân thủ, tờ xét nghiệm cũ, sụt cân, tiểu đêm; khám mất nước, phổi, bàn chân; làm glucose tĩnh mạch, ceton niệu, CTM, CRP, creatinin, điện giải; kết luận rồi xử trí. Tài liệu: QĐ 5481 Phần 3 mục 2.1–2.3.",
+     "Vì sao là ĐTĐ kiểm soát kém: ĐTĐ đã biết 5 năm, glucose ngẫu nhiên 15,9 mmol/L kèm triệu chứng (QĐ 5481 Phần 2 mục 1.1d), HbA1c cũ 10,9% so với mục tiêu < 7,5% (QĐ 5481 Bảng 5) hoặc < 7% (ADA 2026 KC 6.3a). HbA1c 10,9% ứng với glucose trung bình khoảng 15 mmol/L (QĐ 5481 Bảng 3: HbA1c 11% ≈ 15 mmol/L), khớp với kết quả hôm nay.",
+     "Vì sao biểu hiện không điển hình: ở người cao tuổi ông gạt tiểu đêm, khát là 'già', chỉ mệt và ăn kém; nếu chỉ hỏi chung 'có khát, tiểu nhiều không' sẽ bỏ sót (nhiễu kín đáo). Mệt sau cảm khiến người khám trước dừng ở 'hậu virus' mà không đo đường huyết.",
+     "Vì sao loại nhiễm trùng: không sốt 2 tuần, phổi sạch, họng không đỏ, nước tiểu không bạch cầu/nitrit, chân không loét, BC 7,8 G/L, CRP 3 mg/L. Nhiễm trùng là yếu tố thúc đẩy mất bù (QĐ 5481 Phần 7 mục 1); sốt cao kèm glucose cao, ho kéo dài, nhiễm trùng nặng là tiêu chí chuyển tuyến (QĐ 5904 Phần 2 Bước 4 A.4).",
+     "Vì sao loại kém tuân thủ: hộp thuốc 7 ngăn do vợ chia còn đúng số viên, không quên cữ nào. Thuốc không còn đủ với mức ăn bù đồ ngọt và bệnh tiến triển sau 5 năm. Cần đánh giá tuân thủ và rào cản trước khi kê đơn mới (QĐ 5481 Phần 3 mục 2.1); không kê thêm thuốc nếu thật ra ông chưa uống đều.",
+     "Vì sao không phải tăng áp lực thẩm thấu hay toan ceton: tỉnh, ceton niệu âm tính, không thở sâu, glucose 15,9 < 33,3 mmol/L, áp lực thẩm thấu hiệu dụng ≈ 284 mOsm/kg < 320 (QĐ 5481 Phần 7 mục 2.4, Bảng 7). Tuy nhiên nếu bỏ qua và truyền thêm dịch đường, đường huyết tiếp tục tăng; tăng áp lực thẩm thấu khởi phát âm thầm vài ngày (Phần 7 mục 2.1).",
+     "Lý do thật đến khám: ông không tin chẩn đoán 'hậu virus', sợ bệnh nặng chưa ai tìm ra. Hỏi 'ông nghĩ mình bị bệnh gì, lo điều gì' mới lộ ra. Trả lời: mệt, sụt cân, tiểu đêm là do đường huyết cao đã đo được, điều trị được; chưa có chỉ điểm bệnh gan hay ung thư (ngưỡng tìm nguyên nhân khác không có trong tài liệu đã tải)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không truyền dịch: không có chỉ định trong tài liệu đã tải; bù dịch NaCl 0,9% chỉ nêu cho toan ceton/tăng áp lực thẩm thấu (QĐ 5481 Phần 7 mục 4.2). Nói với ông: 'Bác uống nước được nên nước uống vào ruột an toàn hơn chai truyền; mệt của bác do đường trong máu cao, chai đường truyền vào chỉ làm đường cao thêm. Hôm nay mình chữa đúng chỗ bằng thuốc hạ đường'. Cách nói này đáp lại nhu cầu 'được chữa' của ông.",
+     "Dùng insulin nền hôm nay, không chờ: QĐ 5481 Phần 4 mục 4.2f (dị hóa, triệu chứng, HbA1c ≥ 9%), 4.2h (không đạt mục tiêu thì điều trị tích cực ngay); ADA 2026 KC 9.20 (triệu chứng hoặc HbA1c > 10%). HbA1c 10,9% nằm trên cả hai ngưỡng (≥ 9% và > 10%) nên không có xung đột giữa hai nguồn; ghi cả hai ngưỡng khi giảng giải.",
+     "Liều khởi đầu: QĐ 5481 Hình 3 là 0,1–0,2 đơn vị/kg (6–12 đơn vị cho 58 kg), ADA 2026 Hình 9.5 là 10 đơn vị/ngày hoặc 0,1–0,2 đơn vị/kg. Chọn 8 đơn vị tối (thận trọng hơn một chút so với 10 đơn vị) vì ông cao tuổi, ăn kém, mới sụt cân. Chỉnh liều: ADA 2 đơn vị mỗi 3 ngày; QĐ 5481 1–2 đơn vị hoặc 10–15% mỗi 1–2 tuần. Nhịp chậm hơn thận trọng hơn.",
+     "GLP-1 RA (QĐ 5481 4.2g; ADA KC 9.21) là lựa chọn thay thế chấp nhận được khi chưa tăng glucose nặng; ca này có triệu chứng và sụt cân nên insulin ưu tiên. Giữ metformin (ADA KC 9.23); thêm gliclazide chấp nhận (QĐ 5904 Phần 2 Bước 5 B.2) nhưng AGS Beers 2023 khuyên tránh ở ≥ 65 tuổi và nguy cơ hạ glucose khi ăn kém.",
+     "Tránh sai lầm 'ẩu mà may': việc truyền hai chai glucose 5% 8 ngày trước khi chưa ai đo đường huyết (dịch đường thêm glucose vào người đang tăng đường) không gây tăng áp lực thẩm thấu chỉ vì ông còn uống được nước và thận còn tốt (eGFR 69; nguy cơ mất nước nặng và rối loạn ý thức: QĐ 5481 Phần 7 mục 2.1). Kết cục tốt không hợp thức hóa cách làm đó; chặn bằng đo đường huyết trước khi truyền bất kỳ loại dịch nào.",
+     "Cá thể hóa mục tiêu: HbA1c < 7,5% (QĐ 5481 Bảng 5) hoặc < 7% (ADA KC 6.3a), nới lỏng nếu hay hạ glucose (ADA KC 6.5). Tái khám 1–2 tuần vì mới khởi insulin; QĐ 5481 cho khoảng 0,5–1 tháng khi đang chỉnh thuốc.",
+     "Cơ sở chỉ có xét nghiệm cơ bản: không có HbA1c, UACR, đáy mắt. Dùng glucose tĩnh mạch, ceton niệu, creatinin, điện giải để quyết định hôm nay, gửi bệnh viện huyện làm phần còn lại (QĐ 5481 Bảng 2; Phần 8). QĐ 5904 Phần 2 Bước 4 A.4 yêu cầu trạm y tế xã chuyển tuyến khi có triệu chứng tăng glucose; QĐ 5904 viết cho trạm y tế xã, còn phòng khám có bác sĩ khởi insulin nền tại chỗ được theo QĐ 5481 4.2f–k, nên không chuyển tuyến ngay trong ca này (khác bối cảnh, không phải mâu thuẫn)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine (hoặc detemir/degludec; có thể thay bằng NPH tiêm tối)",
+      "ham_luong": "100 đơn vị/mL, bút tiêm",
+      "lieu": "8 đơn vị × 1 lần/ngày",
+      "duong": "Tiêm dưới da (bụng hoặc đùi)",
+      "thoi_diem": "Cùng một giờ mỗi ngày, ví dụ 21 giờ; NPH thì tiêm tối và có thể cần 2 mũi cách nhau 11–12 giờ",
+      "so_ngay": "Dùng lâu dài; chỉnh liều theo glucose đói; khám lại sau 1–2 tuần",
+      "ghi_chu": "Liều 0,1–0,2 đơn vị/kg/ngày (QĐ 5481 Hình 3; ADA 2026 Hình 9.5: 10 đơn vị/ngày hoặc 0,1–0,2 đơn vị/kg). Tăng 2 đơn vị mỗi 3 ngày (ADA) hoặc 1–2 đơn vị hay 10–15% mỗi 1–2 tuần (QĐ 5481, chậm hơn, thận trọng hơn); hạ glucose không rõ nguyên nhân giảm 10–20% (ADA) hoặc giảm 2–4 đơn vị hay 10–20% (QĐ 5481). Hãng thuốc và hàm lượng bút tại Việt Nam không có trong tài liệu đã tải (QĐ 5481 Bảng 16 chỉ liệt kê tên hoạt chất)."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 2 lần/ngày (giữ), tăng dần đến tối đa 2000 mg/ngày nếu dung nạp",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa sáng và bữa tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "eGFR 69 nên không phải giảm liều (chống chỉ định < 30, giảm liều 30–45: QĐ 5481 PL01 mục 2). Liều thường 500–2000 mg/ngày; ít khi cần 2500 mg/ngày (QĐ 5481 PL01 mục 2). Tác dụng phụ buồn nôn, đau bụng, tiêu chảy; hạn chế bằng liều thấp tăng dần, uống sau ăn, dạng XR (QĐ 5481 PL01 mục 2). Tăng liều mỗi 5–7 ngày (QĐ 5481) hoặc sau 4 tuần (QĐ 5904 Phụ lục 2.3); ghi cả hai. Quy tắc ngày ốm cụ thể cho metformin không có trong tài liệu đã tải; QĐ 5481 Phần 7 mục 1 chỉ nêu toan lactic do metformin hiếm nhưng tử vong cao."
+     },
+     {
+      "thuoc": "Que thử và máy đo glucose mao mạch",
+      "ham_luong": "Máy cầm tay",
+      "lieu": "Đo glucose đói mỗi sáng và trước bữa tối (insulin nền kèm thuốc uống: 2 lần/ngày trước ăn sáng và tối); đo thêm khi nghi hạ glucose",
+      "duong": "Lấy máu đầu ngón tay",
+      "thoi_diem": "Trước ăn sáng, trước ăn tối",
+      "so_ngay": "Đến buổi tái khám",
+      "ghi_chu": "QĐ 5481 Phần 10 mục 2. Mục tiêu đói 4,4–7,2 mmol/L (QĐ 5481 Bảng 4; QĐ 5904 Phần 2 Bước 5 A). Ghi vào sổ, mang theo khi tái khám."
+     },
+     {
+      "thuoc": "Men tiêu hóa (ông tự mua)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Có thể ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không",
+      "so_ngay": "Theo dõi",
+      "ghi_chu": "Không có trong tài liệu đã tải về men tiêu hóa ở người ĐTĐ. Đầy bụng, ăn kém nhiều khả năng do đường huyết cao; hỏi lại khi tăng metformin vì tác dụng phụ tiêu hóa (QĐ 5481 PL01 mục 2). Không kê thêm."
+     }
+    ],
+    "dan_do": [
+     "Không cần truyền nước: mệt do đường trong máu cao; thuốc tiêm tối nay là thứ chữa đúng chỗ. Không tự đi truyền dịch ở nơi khác khi chưa đo đường huyết (QĐ 5481 Phần 7 mục 4.2 chỉ nêu bù dịch cho biến chứng cấp).",
+     "Bỏ nước mía, sữa đặc, trà đá đường, cháo thêm đường; uống nước lọc; cơm vừa phải, thêm rau (QĐ 5481 Phần 5 mục 5.2.3; QĐ 5904 Phần 2 Bước 5 D).",
+     "Đi bộ nhanh 30 phút/ngày, 150 phút/tuần khi đường huyết đã xuống dưới 14,0 mmol/L; chưa đi khi còn trên 14,0 hoặc thấy đói lả, mệt (QĐ 5481 Phần 5 mục 5.1a; QĐ 5904 Phần 2 Bước 5 D).",
+     "Hạ đường huyết (đói lả, run, vã mồ hôi, đo dưới 3,9 mmol/L): uống ngay 15–20 g glucose pha nước (QĐ 5481 Phần 6 mục 1c) hoặc 1 cốc nước đường 10–15 g (QĐ 5904 Phần 2 Bước 4); đo lại sau 15 phút, còn thấp thì uống nhắc lại, khi ổn thì ăn nhẹ. Luôn mang theo đường.",
+     "Đi khám lại ngay hoặc đến cấp cứu nếu: lú lẫn, li bì, khát và tiểu rất nhiều, nôn, đau bụng, thở sâu nhanh, sốt, chân lở loét, glucose đo liên tục trên 16,7 mmol/L (QĐ 5904 Phần 2 Bước 4 A.4; QĐ 5481 Phần 7 mục 2.1).",
+     "Tái khám sau 1–2 tuần, mang sổ glucose và hộp thuốc; tái khám đúng hẹn kể cả mùa gặt (QĐ 5481 Phần 3 mục 2.3). Trong tuần này lên bệnh viện huyện làm HbA1c, UACR, khám mắt.",
+     "Khám bàn chân mỗi ngày, mang dép mềm, không đi chân đất ra vườn và ao (QĐ 5481 Phần 5 mục 5.1b: tự khám chân hàng ngày, giày phù hợp ở người có bệnh thần kinh ngoại biên)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Bảy tiêm insulin nền 8 đơn vị mỗi tối, anh Hải được tập tiêm cùng; glucose đói về dưới 8 mmol/L sau hai tuần, HbA1c về dưới 8% sau 3 tháng, cân nặng tăng lại 2 kg. Điều đáng ghi nhớ không nằm ở kết cục tốt: hai chai dịch đường truyền 8 ngày trước, khi chưa ai đo đường huyết, là xử trí ẩu mà ông may mắn không rơi vào tăng áp lực thẩm thấu vì còn uống được nước và thận còn tốt (eGFR 69). Kết cục tốt không biện minh cho cách làm đó; cùng xử trí với một người ít may mắn hơn có thể dẫn đến mất nước nặng và rối loạn ý thức (QĐ 5481 Phần 7 mục 2.1).",
+ "nhieu": [
+  "Đợt cảm 3 tuần trước: sốt 3 ngày, đau họng, ho khan, đã hết 2 tuần. CRP 3 mg/L, BC 7,8 G/L, phổi sạch. Giải thích được mệt lúc đầu nhưng không giải thích được tiểu đêm, khát, sụt 4 kg và glucose 15,9 mmol/L.",
+  "Men tiêu hóa tự mua: không làm tăng đường huyết; ông dùng vì đầy bụng, ăn kém, là hệ quả của đường huyết cao (có thể thêm tác dụng phụ metformin).",
+  "Đòi truyền dịch: hai ngày khỏe sau chai dịch dễ làm ông và con trai tin vào truyền dịch. Dịch đường truyền không giải quyết nguyên nhân mà làm đường huyết cao thêm; không có chỉ định trong tài liệu đã tải."
+ ],
+ "bai_hoc_bien": [
+  "ĐTĐ ở người cao tuổi có thể chỉ 'mệt, ăn kém': ông gạt tiểu đêm, khát là 'già'. Hỏi cụ thể (dậy tiểu mấy lần, uống mấy lít, sụt mấy kg) mới ra; hỏi chung thì bị gạt.",
+  "Mệt kéo dài ở người đã biết ĐTĐ: đo glucose trước khi gọi 'hậu virus' hay cho bất kỳ loại dịch nào.",
+  "Đòi truyền dịch: từ chối kèm giải thích riêng cho ca (ông uống được, đường đang cao, dịch đường làm đường cao thêm) và có việc làm ngay để người bệnh thấy được chữa. Chưa có tài liệu đã tải chỉ định truyền dịch cho ca này.",
+  "Cơ sở không có HbA1c: tờ xét nghiệm cũ trong bao ni lông và glucose tĩnh mạch hôm nay đủ để quyết định; hỏi giấy tờ cũ là một cách bù thiếu xét nghiệm.",
+  "Tuân thủ tốt mà vẫn kiểm soát kém: loại trừ tuân thủ kém trước khi tăng thuốc; ăn bù đồ ngọt, ít vận động và bệnh tiến triển là nguyên nhân thật.",
+  "Xử trí ẩu nhưng may mắn không sao: kết cục tốt không hợp thức hóa quy trình sai; chặn bằng đo đường huyết trước khi truyền dịch."
+ ],
+ "diem_nho": [
+  "Chẩn đoán ĐTĐ: glucose ngẫu nhiên ≥ 11,1 mmol/L kèm triệu chứng, hoặc HbA1c ≥ 6,5% (QĐ 5481 Phần 2 mục 1.1; QĐ 5904 Phần 2 Bước 3).",
+  "Cân nhắc insulin sớm khi có dị hóa (sụt cân), triệu chứng tăng glucose, HbA1c ≥ 9% (QĐ 5481 Phần 4 mục 4.2f) hoặc > 10% (ADA 2026 KC 9.20), hoặc glucose ≥ 16,7 mmol/L. Liều nền 0,1–0,2 đơn vị/kg hoặc 10 đơn vị/ngày.",
+  "Tăng áp lực thẩm thấu khi glucose thường > 33,3 mmol/L, áp lực thẩm thấu hiệu dụng > 320 mOsm/kg; toan ceton có ceton và pH/bicarbonat giảm (QĐ 5481 Bảng 7).",
+  "Mục tiêu HbA1c cá thể hóa: < 7% (QĐ 5481 Bảng 4; ADA 2026 KC 6.3a), người cao tuổi mạnh khỏe < 7,5%, nhiều bệnh < 8,0% (QĐ 5481 Bảng 5).",
+  "Tầm soát biến chứng khi chẩn đoán và định kỳ: mắt mỗi 1–2 năm, thận 6–12 tháng, bàn chân mỗi lần khám (QĐ 5481 Bảng 2; Phần 8; Phần 3 mục 2.2)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5481/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị đái tháo đường típ 2 – TL-0031 – Phần 2 mục 1.1; Phần 3 mục 2.1–2.3, Bảng 2–3; Phần 4 mục 2 (Bảng 4, 5), mục 4.1–4.2 (f, g, h, i, j, k), Hình 3 và insulin nền; Phần 5 mục 5.1a, 5.2.3; Phần 6 mục 1c; Phần 7 mục 1, 2.1–2.4, Bảng 7, mục 3, 4.2; Phần 8 (biến chứng thận, mắt); Phần 10 mục 2; PL01 mục 1–2; Bảng 14, 16.",
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – phần ĐTĐ: Bước 3, Bước 4 A.4 và A.7 (cùng xử lý hạ glucose), Bước 5 A–D; Phụ lục 2.3.",
+  "ADA 2026 – Standards of Care in Diabetes – TL-0296 – Mục 6 KC 6.3a, 6.5; mục 9 KC 9.20, 9.21, 9.23, Hình 9.5.",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (sulfonylurea).",
+  "Sổ mâu thuẫn của repo soạn ca: ngưỡng HbA1c dùng insulin (MT-0333), mục tiêu HbA1c người cao tuổi (MT-0335), tốc độ tăng liều insulin nền (MT-0332), tốc độ tăng metformin (MT-0741), lượng glucose khi hạ đường huyết (TH-0295), truyền dịch theo yêu cầu (TH-0364), sulfonylurea ở người cao tuổi (MT-0364)."
+ ],
+ "phien_ban_ca": "1 – viết lần đầu (2026-11-08)",
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-08): viết và soát theo bản chữ tài liệu đã tải; đọc QĐ 5481 (TL-0031) Phần 2–7, 10, PL01; QĐ 5904 (TL-0284) phần ĐTĐ; ADA 2026 (TL-0296) mục 9, 6; AGS Beers 2023 (TL-0022). Mâu thuẫn dùng lại từ sổ: ngưỡng HbA1c/insulin, mục tiêu HbA1c người cao tuổi, tốc độ chỉnh insulin nền, tốc độ tăng metformin, glucose khi hạ đường huyết, truyền dịch theo yêu cầu, sulfonylurea ở người cao tuổi.",
+  "Thiếu tài liệu: men tiêu hóa ở người ĐTĐ; quy tắc ngày ốm cụ thể cho metformin; hãng và hàm lượng bút insulin tại Việt Nam; giá/độ sẵn có GLP-1 RA tại cơ sở; ngưỡng CRP; ngưỡng tìm nguyên nhân khác của sụt cân khi đã ổn đường huyết.",
+  "Không dùng ảnh da (không có dấu hiệu da then chốt); âm thanh tim, phổi bình thường (AT-TIM-BT-NL-01, AT-PHOI-BT-NL-01)."
+ ]
+}

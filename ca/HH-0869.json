@@ -1,0 +1,807 @@
+{
+ "ma_ca": "HH-0869",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_viem_phoi_cong_dong",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phổi cộng đồng",
+  "chan_doan_phai_loai_tru": [
+   "Lao phổi",
+   "Thuyên tắc phổi"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Lê Hà My",
+  "tuoi": 0.58,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 7.4,
+  "chieu_cao": 66,
+  "xung_ho": "Bé gái 7 tháng, chưa nói được, khóc to khi bị khám, bám mẹ. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' và gọi bé là 'bé My' hoặc 'con'.",
+  "tinh_cach": "Mẹ 27 tuổi, làm rẫy cà phê, hiền, lễ phép, nói ít và nhanh vì sợ lỡ chuyến về. Ba tuần sau sinh bé chị bị thuyên tắc phổi nên sợ cảnh thở nhanh ('y như em hồi đó'). Chồng đi làm xa, ở nhà có bà ngoại 68 tuổi; chị họ sát vách vừa sinh em bé.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám khoảng 60 km, xe máy hơn hai giờ qua suối ngập khi mưa. Chị xin 'cho thuốc một lần cho hết bệnh', hứa 'bé đỡ em không lên nữa', bỏ hẹn nếu không được giải thích vì sao phải khám lại, không có giấy dặn và số điện thoại. Nỗi sợ thật (lây cho em bé sơ sinh nhà bên và bà ngoại) chỉ nói khi được hỏi nhẹ chị lo điều gì nhất.",
+  "nguoi_nha": "Mẹ bé, chị Lan (Trần Thị Lan), 27 tuổi, bế bé đi cùng. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ê a. Chồng đi làm xa; bà ngoại ở nhà.",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#e9bf9a",
+   "toc": "#2a1b14",
+   "kieuToc": "tre",
+   "ao": "#f4d8d8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a679",
+    "toc": "#1f1713",
+    "kieuToc": "dai",
+    "ao": "#8fb3a3",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé gái 7 tháng ho, sổ mũi 4 ngày, sốt từ hai hôm nay, sáng nay thở nhanh và bú ít; mẹ đi xa nên mong bác sĩ cho thuốc uống một lần cho hết bệnh",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám đa khoa khu vực không có máy CT. Còn dùng được: xét nghiệm, X-quang, siêu âm, máy đo SpO₂ đầu dò nhi, bình oxy. Bệnh viện đa khoa huyện (có khoa Nhi) cách phòng khám 18 km; bệnh viện nhi tỉnh cách 95 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày bệnh 4",
+   "tiep_don": "Thứ Ba 9 giờ 40, phòng khám đa khoa khu vực. Chị Lan bế bé My, 7 tháng, đi xe máy hơn hai giờ từ xã vùng cao qua một con suối. Bé ho, sổ mũi từ Thứ Bảy, sốt từ tối Thứ Hai, sáng nay thở nhanh và bú giảm. Sinh hiệu: nhiệt 38,7 °C, mạch 150 l/p, nhịp thở 56 l/p, SpO₂ 95%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ bé My nhập viện ngay từ lượt 1 khi bé tỉnh, còn bú hai phần ba, không rút lõm, không thở rên, SpO₂ 95% là quá tay: viêm phổi chưa dấu hiệu nặng điều trị ngoại trú (QĐ 101 mục V.2, VII.1; WHO Pocket book 2013 mục 4.2.2). Mẹ bỏ ngày công, để bà ngoại 68 tuổi ở nhà một mình, tốn tiền xe, tạm ứng; chị càng tin 'con bệnh nặng như em hồi đó'.",
+    "chuyen_tuyen": "Chuyển bé My thêm 18 km lên bệnh viện huyện hoặc 95 km lên bệnh viện nhi tỉnh khi chưa có chỉ định (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3: nhập viện khi SpO₂ < 92%, bệnh nền hoặc biến chứng) làm cả nhà mất nửa ngày đường, bé sốt và đói giữa đường, trong khi liều kháng sinh uống đầu cho được ngay tại phòng khám (QĐ 101 mục VII.1.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, con em ho sốt mấy ngày nay, sáng nay em thấy nó thở nhanh quá. Nhà em xa lắm, đi mất hơn hai tiếng. Bác sĩ cho thuốc uống một lần cho hết luôn, em ít khi lên được.",
+   "sinh_hieu": {
+    "mach": 150,
+    "ha": "Không đo",
+    "nhiet": "38,7",
+    "nhip_tho": 56,
+    "spo2": 95,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé ho khan, sổ mũi từ Thứ Bảy (ngày 1), ho nhiều hơn từ Chủ Nhật. Tối Thứ Hai sốt 38,5 °C, ho có tiếng khò khè trong cổ. Sáng Thứ Ba thở nhanh, bú còn khoảng hai phần ba. Mẹ lo vì 'thở nhanh y như hồi em bị tắc phổi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến ho – sốt – thở nhanh"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Chưa dùng kháng sinh. Từ tối Thứ Hai mẹ cho paracetamol 80 mg ba lần, liều cuối 6 giờ sáng nay. Không thuốc ho, cảm, ibuprofen, thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc bé đã dùng, chưa kháng sinh, tránh thuốc ho có hại"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé tỉnh, còn cười với mẹ, bú ngắt quãng được khoảng hai phần ba cữ, uống nước được. Không nôn trớ nhiều, không co giật, không li bì, không tím môi, không thở rên; tiểu 5–6 tã ướt mỗi ngày. Mẹ không thấy ngực lõm vào khi bé hít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân và rút lõm: không có"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh thường 39 tuần, 3,2 kg, bú mẹ hoàn toàn đến nay, ăn bột loãng một bữa từ tháng thứ sáu. Tiêm chủng mở rộng đúng lịch, có sẹo BCG, chưa tiêm phế cầu (vắc xin dịch vụ). Chưa từng khò khè hay viêm phổi, tăng cân đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, tiêm chủng, tăng trưởng"
+    },
+    {
+     "id": "thuoc_me",
+     "noi_dung": "Mẹ bị thuyên tắc phổi ba tuần sau sinh, nằm bệnh viện tỉnh 9 ngày, ra viện uống rivaroxaban. Mười ngày trước, bác sĩ huyết học biết chị còn cho con bú nên đổi sang tiêm dưới da enoxaparin mỗi 12 giờ (chị tự tiêm). Gần ba tháng trước đó bé bú sữa mẹ lúc mẹ uống rivaroxaban. Bé không dùng thuốc nào của mẹ, không chảy máu mũi, không bầm da, phân không máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc kháng đông đang dùng (của mẹ, đang cho con bú), thuốc mới đổi 10 ngày trước, bé có chảy máu không"
+    },
+    {
+     "id": "lao_tx",
+     "noi_dung": "Nhà có mẹ, bé và bà ngoại 68 tuổi (huyết áp cao, không ho). Không ai ho kéo dài, sút cân, ra mồ hôi đêm; không tiếp xúc người đang điều trị lao. Mẹ ho nhẹ hai ngày đầu rồi khỏi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc nguồn lây lao; người nhà ho"
+    },
+    {
+     "id": "xa",
+     "noi_dung": "Nhà cách 60 km, xe khách một chuyến buổi sáng, suối ngập khi mưa. Xã có trạm y tế (y sĩ), không có X-quang. Chị dùng Zalo, sóng chập chờn, xin 'cho thuốc đủ hết một đợt, đỡ thì không lên nữa'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc tái khám, cách liên lạc, nơi gần nhất khi bé nặng"
+    },
+    {
+     "id": "lo_lay",
+     "noi_dung": "Chủ Nhật tuần trước chị họ nhà sát vách (mới sinh em bé 3 tuần) bế em sang chơi, hôm đó chính mẹ đang ho, sổ mũi. Từ khi bé My sốt, chị họ nhắn 'thở nhanh thế kia thì đừng bế qua nhà'. Mẹ sợ bé My lây cho em bé sơ sinh và bà ngoại, sợ bị cả xóm trách; đó là điều chị lo nhất nhưng ngại nói vì 'nghe làm quá'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ kể khi bác sĩ hỏi chị lo điều gì nhất, hỏi ai hay bế bé, nhà hoặc xóm có em bé nhỏ nào không, hoặc hỏi bé có lây cho ai không.",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bệnh cho người thân"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhìn theo mẹ, khóc to khi bị khám. Môi hồng, niêm mạc ẩm, thóp phẳng, mao mạch 2 giây, chi ấm. Sẹo BCG cánh tay trái. Cân 7,4 kg.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, cổ mềm, không hạch cổ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Mũi có ít nhầy trong, họng đỏ nhẹ. Màng nhĩ hai bên xám hồng, di động, không phồng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 56 l/p, thở nhanh, nông. Không rút lõm lồng ngực phần dưới, không thở rên. Rì rào phế nang giảm nhẹ và có ran nổ nhỏ hạt ở đáy phổi phải phía sau; phổi trái rì rào rõ, không ran. Không khò khè, thì thở ra không kéo dài.",
+     "k": 1,
+     "hien": "Nhịp thở 56 l/p, đếm đủ 1 phút khi bé nằm yên, nhiệt 38,7 °C. Thở nhanh, nông. Không rút lõm lồng ngực phần dưới.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt ở đáy phổi phải, rì rào giảm nhẹ."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 150 l/p (sốt), T1 T2 rõ, không âm thổi, mạch bẹn nảy rõ hai bên. Gan không to.",
+     "k": 0,
+     "hien": "Tim đều, tần số 150 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da hồng, không ban, không chấm xuất huyết, không bầm tím (kể cả chỗ tiêm chủng), niêm mạc miệng không chảy máu. Phân trong tã vàng sệt, không máu.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 7,4 kg, dài 66 cm, MUAC 14,5 cm: phù hợp tuổi, không suy dinh dưỡng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "Đám mờ đông đặc nhỏ đáy phổi phải, có hình phế quản hơi; không tràn dịch, không tràn khí; bóng tim bình thường.",
+     "ab": 1,
+     "n": "Không bắt buộc: viêm phổi không nhập viện thì không chụp (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2; WHO Pocket book 2013 mục 4.1 tr. 77); QĐ 101 mục VI.1 coi là bằng chứng khách quan. Không chờ phim mới cho kháng sinh."
+    },
+    "crp": {
+     "v": "n",
+     "n": "Không cần: CRP không có ích trong viêm phổi không biến chứng (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.5); công thức máu cũng không cần ngoại trú."
+    },
+    "xpert_tre": {
+     "v": "n",
+     "n": "Không cần: bệnh 4 ngày, khởi phát cấp, không tiếp xúc nguồn lây, có sẹo BCG (QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a Bảng 1, mục 1.3)."
+    },
+    "ddimer": {
+     "v": "n",
+     "n": "Không cần: không có bối cảnh thuyên tắc phổi ở bé (ESC 2019 mục 3.2). Ngưỡng D-dimer nhũ nhi: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng không nặng (thở nhanh, ran nổ khu trú đáy phổi phải), nhũ nhi 7 tháng, ngày bệnh 4, chưa dùng kháng sinh",
+     "ok": 1,
+     "n": "Ho, sốt kèm thở nhanh (2–< 12 tháng: ≥ 50 l/p) hoặc phổi có ran là viêm phổi (QĐ 101 mục V.1; QĐ 708/2015 mục 3.1; NICE NG143 mục 1.2.22). Bé thở 56 l/p đếm đủ một phút, ran nổ khu trú. Không dấu hiệu nguy hiểm toàn thân, không rút lõm, SpO₂ 95% nên chưa nặng (QĐ 101 mục V.2) và điều trị ngoại trú (mục VII.1)."
+    },
+    {
+     "t": "Viêm tiểu phế quản hoặc viêm hô hấp trên do virus",
+     "n": "Loại: không khò khè, ran nổ khu trú một bên. Viêm tiểu phế quản là lần khò khè đầu < 2 tuổi (WHO Pocket book 2013 Bảng 8 tr. 93); cảm lạnh không thở nhanh, không ran (Bảng 7 tr. 81)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Chưa nghĩ: bệnh 4 ngày, khởi phát cấp, không tiếp xúc nguồn lây, có sẹo BCG, tăng cân đều; nghi lao khi bệnh kéo dài trên 2 tuần hoặc không đáp ứng kháng sinh 2 tuần, hoặc tiếp xúc trực tiếp nguồn lây, chưa tiêm BCG (QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a Bảng 1, mục 1.3)."
+    },
+    {
+     "t": "Thuyên tắc phổi (mẹ từng bị)",
+     "n": "Loại: ở trẻ em thuyên tắc phổi đi kèm huyết khối tĩnh mạch sâu, hiếm khi không có yếu tố khởi phát (ESC 2019 mục 3.2); bé khỏe, không catheter, chi không phù. AHA/ACC 2026 áp dụng cho người ≥ 18 tuổi. Tiền sử mẹ không làm bé có nguy cơ."
+    },
+    {
+     "t": "Ảnh hưởng thuốc chống đông của mẹ qua sữa hoặc rối loạn đông máu",
+     "n": "Không: bé không bầm, không chấm xuất huyết, phân không máu. Mẹ cho bú cần chống đông thì LMWH, UFH, warfarin hơn DOAC (AHA/ACC 2026 mục 4.2.1 khuyến cáo 14; ESC 2019 mục 9.3). Nồng độ thuốc trong sữa: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú: amoxicillin uống 300 mg × 2 lần/ngày (≥ 40 mg/kg/liều, 80 mg/kg/ngày), liều đầu tại phòng khám; hoặc 110 mg × 3 lần/ngày (45 mg/kg/ngày chia 3); đủ 5 ngày",
+     "v": "c",
+     "n": "80 mg/kg/ngày chia 2, 5 ngày (QĐ 101 mục VII.1.1a); WHO 2024 khuyến cáo 1: ≥ 40 mg/kg/liều × 2 lần/ngày; AWaRe 2022 Bảng 12.5: 6–< 10 kg 375 mg mỗi 12 giờ. QĐ 708/2015 mục 5.3b: 45 mg/kg/ngày chia 3, ít nhất 5 ngày (Phụ lục 1 khuyến cáo 5.10). Hai mức liều khác nhau vì bối cảnh kháng thuốc (sổ HH-0735 mục 1). Liều đầu tại chỗ (WHO Pocket book 2013 mục 4.2.2)."
+    },
+    {
+     "t": "Hẹn khám lại sau 2–3 ngày (Thứ Sáu), ghi giấy ngày giờ và số điện thoại phòng khám; giải thích vì sao phải khám lại dù ở xa",
+     "v": "c",
+     "n": "QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3: sau 2 ngày; QĐ 101 mục VII.1.2 và WHO Pocket book 2013 mục 4.2.2 tr. 87: sau 3 ngày, không đỡ thì nhập viện tìm nguyên nhân (sổ HH-0876)."
+    },
+    {
+     "t": "Dặn bằng giấy dấu hiệu phải đi ngay (thở rên, ngực lõm sâu, bỏ bú, li bì, co giật, tím) và nơi gần nhất: trạm y tế xã, bệnh viện huyện cách 18 km; bú mẹ chia nhỏ, làm sạch mũi, không thuốc ho, thuốc có atropin, codein, cồn; không dùng thuốc ho, long đờm, an thần",
+     "v": "c",
+     "n": "QĐ 101 mục V.2, VII.1; WHO Pocket book 2013 mục 4.2.2 tr. 87, mục 4.4 tr. 90. Nhà ở xa cần dặn trọn gói bằng văn bản vì khó quay lại. Thuốc an thần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol 100 mg/lần, cách ít nhất 6 giờ, khi sốt từ 38,5 °C hoặc bé khó chịu; không lau nước ấm",
+     "v": "c",
+     "n": "QĐ 101 mục VII.2.3a: > 38,5 °C, 10–15 mg/kg/lần mỗi 6 giờ, lau nước ấm; NICE NG143 mục 1.6.2, 1.6.4–1.6.5: không lau nước ấm, dùng khi khó chịu. AWaRe 2022: 6–< 10 kg 100 mg mỗi 6 giờ (sổ NH-0199 mục 3)."
+    },
+    {
+     "t": "Hỏi thuốc mẹ đang dùng khi cho con bú; xác nhận bé không chảy máu; dặn mẹ tiếp tục enoxaparin theo hẹn huyết học, không tự đổi lại thuốc uống",
+     "v": "c",
+     "n": "AHA/ACC 2026 mục 4.2.1 khuyến cáo 14; ESC 2019 mục 9.3 (LMWH, warfarin dùng được khi cho bú, không DOAC). Thời gian chống đông còn lại của mẹ: do bác sĩ huyết học quyết, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi mẹ lo điều gì nhất; nói rõ bé không bị thuyên tắc phổi như mẹ; dặn rửa tay, người đang ho đeo khẩu trang, hạn chế để em bé sơ sinh nhà bên tiếp xúc gần bé lúc đang sốt",
+     "v": "c",
+     "n": "Lý do thật đến khám là sợ lây (hỏi nhẹ mới lộ). Thuyên tắc phổi ở trẻ: ESC 2019 mục 3.2. Thời gian lây và biện pháp phòng lây ở nhà: không có trong tài liệu đã tải; dặn theo thông lệ."
+    },
+    {
+     "t": "Cho amoxicillin 3 ngày thay vì 5 ngày",
+     "v": "a",
+     "n": "WHO 2024 khuyến cáo 1, AWaRe 2022 Bảng 12.5: 3 ngày khi chỉ thở nhanh, nơi HIV thấp; QĐ 101 mục VII.1.1a, QĐ 708/2015 khuyến cáo 5.10: ít nhất 5 ngày. Bé ở xa nên 5 ngày thận trọng hơn (sổ HH-0876)."
+    },
+    {
+     "t": "Chụp X-quang ngực ngay lượt này, hoặc nhập viện/chuyển bệnh viện huyện ngay 'cho yên tâm' vì nhà xa",
+     "v": "a",
+     "n": "Không bắt buộc (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2; QĐ 101 mục VII.1; WHO Pocket book 2013 mục 4.2.2); NICE NG250 2025 khuyến cáo 1.2.6 'cân nhắc' chuyển bệnh viện (sổ NH-0619 mục 2, 3). Chấp nhận nhưng quá tay."
+    },
+    {
+     "t": "Không cho kháng sinh, chỉ hạ sốt vì cho là viêm hô hấp trên do virus",
+     "v": "w",
+     "n": "Viêm phổi cần kháng sinh vì không phân biệt vi khuẩn hay virus (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.6)."
+    },
+    {
+     "t": "Tiêm một mũi ceftriaxone thay thuốc uống 5 ngày vì mẹ ở xa",
+     "v": "w",
+     "n": "Kháng sinh uống an toàn, hiệu quả; tiêm dành cho biến chứng, nhiễm khuẩn huyết hoặc không dung nạp đường uống (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.8); ceftriaxone khi thất bại thuốc đầu (QĐ 101 mục VII.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng không nặng, nhũ nhi 7 tháng 7,4 kg, ngày bệnh 4: sốt 38,7 °C, thở 56 l/p, ran nổ đáy phổi phải, SpO₂ 95%, chưa dùng kháng sinh; điều trị ngoại trú",
+     "Đã loại: viêm tiểu phế quản/virus, lao phổi, thuyên tắc phổi, dị vật, tim bẩm sinh, ảnh hưởng thuốc chống đông của mẹ qua sữa",
+     "Cần quản lý: nhà xa 60 km (khó tái khám), mẹ tiêm enoxaparin và cho con bú, mẹ sợ bé lây cho em bé sơ sinh nhà bên và bà ngoại",
+     "Chỉ định: amoxicillin uống 5 ngày, hạ sốt khi cần, hẹn khám lại 2–3 ngày, dặn bằng giấy"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: nhìn toàn trạng, đếm nhịp thở đủ 1 phút khi bé nằm yên (QĐ 708/2015 mục 3.1), đo SpO₂ → diễn tiến, dấu hiệu nguy hiểm, thuốc bé đã dùng → tiền sử, tiêm chủng, tiếp xúc lao → HỎI thuốc của mẹ → khám phổi, tim, da (chảy máu), cân → CLS chỉ khi cần → chẩn đoán → xử trí.",
+     "Viêm phổi không nặng: thở ≥ 50 l/p, ran nổ khu trú, không dấu hiệu nguy hiểm, SpO₂ 95% (QĐ 101 mục V; WHO Pocket book 2013 Bảng 7). Lao chỉ nghĩ khi kéo dài trên 2 tuần (QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a); thuyên tắc phổi hiếm ở trẻ (ESC 2019 mục 3.2). Hỏi thuốc của mẹ: LMWH, warfarin dùng được khi cho bú, DOAC không (AHA/ACC 2026 mục 4.2.1 khuyến cáo 14). CLS không nhập viện thì không cần (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2, 5.5)."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh: amoxicillin đầu tay (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.7). Hai cách liều đều đúng: 80 mg/kg/ngày chia 2 = 300 mg × 2 (QĐ 101 mục VII.1.1a; WHO 2024; AWaRe 2022) hoặc 45 mg/kg/ngày chia 3 = 110 mg × 3 (QĐ 708/2015 mục 5.3b). 5 ngày vì nhà xa; 3 ngày có căn cứ WHO 2024."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Dạng bào chế và nồng độ: không có trong tài liệu đã tải (kê theo mg)",
+      "lieu": "300 mg/lần (≈ 40,5 mg/kg × 7,4 kg), 2 lần/ngày (80 mg/kg/ngày). Hoặc 110 mg/lần, 3 lần/ngày (45 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu tại phòng khám lúc khoảng 10 giờ 30, rồi cách 12 giờ; cho sau cữ bú",
+      "so_ngay": "5 ngày (10 liều); hoặc 3 ngày (6 liều)",
+      "ghi_chu": "QĐ 101 mục VII.1.1a (80 mg/kg/ngày chia 2, 5 ngày); WHO 2024 khuyến cáo 1 (≥ 40 mg/kg/liều × 2 lần/ngày; 3 hoặc 5 ngày); AWaRe 2022 Bảng 12.5; QĐ 708/2015 mục 5.3b (45 mg/kg/ngày chia 3, ít nhất 5 ngày). Xử trí khi bé nôn sau uống: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Dạng bào chế: không có trong tài liệu đã tải (tính theo mg)",
+      "lieu": "100 mg/lần (≈ 13,5 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt từ 38,5 °C hoặc bé khó chịu, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Khi cần, không quá 4 lần/24 giờ",
+      "ghi_chu": "QĐ 101 mục VII.2.3a (10–15 mg/kg/lần mỗi 6 giờ); AWaRe 2022 (6–< 10 kg: 100 mg mỗi 6 giờ); NICE NG143 mục 1.6.4–1.6.6."
+     }
+    ],
+    "dan_do": [
+     "Cho thuốc đúng giờ, đủ 5 ngày kể cả khi hết sốt; ghi giờ vào sổ. Bú mẹ chia nhỏ cữ, lau sạch mũi. Đưa bé đi ngay (trạm y tế xã hoặc bệnh viện huyện cách 18 km, gọi số phòng khám ghi trên giấy) nếu thở rên, ngực lõm sâu, tím, bỏ bú, li bì, co giật (QĐ 101 mục V.2, VII.1; WHO Pocket book 2013 mục 4.2.2).",
+     "Tái khám Thứ Sáu 9 giờ (sau 3 ngày); mưa lớn không qua suối thì gọi báo, ra trạm y tế xã. Mẹ: bé không bị thuyên tắc phổi như mẹ; tiếp tục enoxaparin, vẫn cho bú; rửa tay trước khi bế, đeo khẩu trang khi ho, tránh để em bé sơ sinh nhà bên bế sát bé lúc đang sốt (thời gian lây: không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày điều trị",
+   "tiep_don": "Thứ Sáu 8 giờ 50, ngày bệnh 7, đúng hẹn. Chị Lan đi từ 5 giờ sáng, bế bé My lên khám, mệt và lo. Bé đã uống amoxicillin theo toa từ sáng Thứ Ba (đủ 6 liều, liều thứ 7 lúc 6 giờ sáng nay) mà vẫn sốt, ho nhiều hơn, thở nhanh, bú còn một nửa. Sinh hiệu: nhiệt 39,0 °C, mạch 162 l/p, nhịp thở 60 l/p, SpO₂ 94%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé My về tiếp tục hay tăng liều amoxicillin dù sau ba ngày đúng liều còn sốt 39,0 °C, thở 60 l/p, SpO₂ 94%, gõ đục đáy phổi phải là bỏ sót tràn dịch màng phổi: phải chuyển bệnh viện và chụp X-quang (QĐ 101 mục VII.1.2, VII.3.1a; QĐ 708/2015 khuyến cáo 5.3, 5.11; WHO Pocket book 2013 mục 4.2.2). Nhà cách 60 km, suối ngập khi mưa, dịch có thể thành mủ ngay đêm nay mà mẹ khó đưa bé quay lại.",
+    "theo_doi": "Giữ bé My ở phòng khám chờ thêm kết quả là trì hoãn việc cần làm ngay: đã đủ chỉ định nhập viện, cần ampicillin kèm gentamicin tiêm, y tá theo dõi mỗi 3 giờ, bác sĩ hai lần mỗi ngày (QĐ 101 mục VII.2.2, VII.2.4; WHO Pocket book 2013 mục 4.2.1 tr. 82–83). Phòng khám không có giường lưu."
+   },
+   "loi_mo": "Bác sĩ ơi, con em uống thuốc đủ mà không đỡ, sốt cao suốt, tối qua ho dữ lắm, thở hổn hển. Em ghi hết giờ cho thuốc trong sổ đây. Bác sĩ cho thuốc mạnh hơn rồi em đưa về được không, đường xa mà mưa nữa em sợ không lên lại được.",
+   "sinh_hieu": {
+    "mach": 162,
+    "ha": "Không đo",
+    "nhiet": "39,0",
+    "nhip_tho": 60,
+    "spo2": 94,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau liều đầu hôm Thứ Ba sốt giảm tạm còn 38 °C rồi lên lại. Thứ Tư, Thứ Năm sốt 38,5–39,2 °C cả ngày, ho nhiều, ho có đờm khò khè trong cổ. Đêm qua bé trằn trọc, thở nhanh, bú còn một nửa, tiểu 3 tã. Sáng nay bé mệt, ít cười, nằm im trong tay mẹ; khi nằm nghiêng bên phải bé hay quấy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ sau 3 ngày điều trị: còn sốt, thở nhanh, bú kém"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ cho amoxicillin 300 mg vào lúc 10 giờ 30 và 22 giờ 30 đúng như giấy bác sĩ ghi, đã cho 6 liều, liều thứ 7 lúc 6 giờ sáng nay trước khi đi. Bé nuốt hết, không nôn, không trớ ngay sau uống; mẹ ghi từng giờ trong sổ. Paracetamol 100 mg cho 3–4 lần mỗi ngày, liều cuối 3 giờ sáng nay. Không cho thuốc nào khác, không cho thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị, đúng thuốc, đúng liều (loại nguyên nhân thất bại do dùng thuốc)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé còn tỉnh, nhìn theo mẹ nhưng mệt, khóc yếu. Bú từng cữ ngắn được khoảng một nửa, uống nước muỗng được ít. Tiểu 3 tã từ tối qua, nước tiểu vàng sẫm. Không co giật, không nôn, không tiêu chảy, không thở rên. Môi hơi tái khi khóc lâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm: bú kém, ít tiểu, tím khi khóc"
+    },
+    {
+     "id": "xa",
+     "noi_dung": "Mẹ đi từ 5 giờ sáng, lội suối vì nước vừa xuống. Mẹ lo: nhập viện thì bà ngoại 68 tuổi ở nhà một mình, chưa có tiền tạm ứng, chồng ở xa. Mẹ xin 'thuốc mạnh hơn rồi cho về', sợ mưa thì không lên lại được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: ở xa, sợ nhập viện; cần thuyết phục và chuẩn bị chuyển"
+    },
+    {
+     "id": "lao",
+     "noi_dung": "Vẫn không ai trong nhà ho kéo dài hay tiếp xúc người điều trị lao. Cân nặng nay 7,3 kg (giảm 100 g). Mẹ vẫn tự tiêm enoxaparin đều hai lần mỗi ngày, mang theo ống tiêm; hẹn khám huyết học tuần sau. Mẹ lo 'nằm viện thì bé My có lây cho em bé khác không'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại lao: không tiếp xúc, bệnh mới 7 ngày"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt, nằm im trong tay mẹ, mở mắt khi gọi, khóc yếu, môi hơi tái khi khóc lâu. Da nóng, niêm mạc hơi khô, thóp phẳng, mao mạch 3 giây, tay chân hơi mát. Cân 7,3 kg (giảm 100 g).",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi nhầy đục ít, họng đỏ nhẹ. Màng nhĩ hai bên xám hồng, di động, không phồng (không giải thích được cơn sốt dai dẳng).",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 60 l/p, thở nhanh, nông; không thở rên, không rút lõm lồng ngực nặng. Gõ đục đáy phổi phải phía sau và bên, rung thanh giảm, rì rào phế nang giảm rõ ở vùng đục; ran nổ ở ranh giới trên vùng đục. Phổi trái rì rào rõ, không ran. Không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 60 l/p, đếm đủ 1 phút khi bé nằm yên, nhiệt 39,0 °C. Thở nhanh, nông. Không thở rên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ ở ranh giới vùng đục; rì rào giảm rõ phía dưới."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 162 l/p (sốt, thiếu dịch), T1 T2 rõ, không âm thổi. Gan không to.",
+     "k": 0,
+     "hien": "Tim đều, tần số 162 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "u",
+     "r": "Đông đặc thùy dưới phải lan rộng hơn; góc sườn hoành phải tù, đường cong mờ ở thành ngực phải: tràn dịch màng phổi phải lượng ít; không tràn khí; bóng tim không to.",
+     "ab": 1,
+     "n": "Còn sốt sau 48 giờ điều trị cần khám lại và chụp X-quang tìm biến chứng (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.11; QĐ 101 mục VII.3.1a). Chụp lúc chuẩn bị chuyển, mang phim theo."
+    },
+    "sa_phoi": {
+     "v": "u",
+     "r": "Dịch tự do phía sau đáy phải, dày khoảng 7 mm, không vách, không đặc; đông đặc thùy dưới phải có hình phế quản hơi.",
+     "ab": 1,
+     "n": "Thấy dịch ít, không vách, thay CT. Dịch ít không cần dẫn lưu (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1; QĐ 708/2015 khuyến cáo 5.11)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 19,6 G/L · Neutrophil 74% · Lympho 21% · Hb 104 g/L · TC 380 G/L (khoảng tham chiếu nhũ nhi: không có trong kho)",
+     "ab": 1,
+     "n": "Làm song song khi chuẩn bị chuyển. Bạch cầu tăng đa nhân gợi ý bội nhiễm (QĐ 101 mục VI.2); theo dõi ở viêm phổi nặng nội trú (QĐ 708/2015 khuyến cáo 5.5). Khoảng tham chiếu nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 96 mg/L.",
+     "ab": 1,
+     "bang": {
+      "crp": 96
+     },
+     "n": "Chỉ để theo dõi (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.5). Ngưỡng CRP ở trẻ em: không có trong tài liệu đã tải."
+    },
+    "choc_dich_mp": {
+     "v": "n",
+     "n": "Dịch ít không cần chọc hút (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1)."
+    },
+    "xpert_tre": {
+     "v": "n",
+     "n": "Chưa cần: bệnh 7 ngày, khởi phát cấp, không tiếp xúc; nghi lao khi không đáp ứng kháng sinh 2 tuần (QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a Bảng 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng thùy dưới phải không đáp ứng sau 3 ngày amoxicillin đúng liều, kèm tràn dịch màng phổi cận viêm phổi lượng ít, nhũ nhi 7 tháng; cần nội trú kháng sinh tiêm",
+     "ok": 1,
+     "n": "Còn sốt, còn thở nhanh sau 3 ngày: nhập viện tìm nguyên nhân (QĐ 101 mục VII.1.2); không đỡ hoặc nặng thêm thì điều trị như viêm phổi nặng (QĐ 708/2015 mục 5.3b); không cải thiện trong 3 ngày thì nhập viện loại biến chứng hoặc chẩn đoán khác (WHO Pocket book 2013 mục 4.2.2 tr. 87). Gõ đục, tiếng thở giảm là tràn dịch, cần chuyển bệnh viện (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3); sốt dai dẳng dù kháng sinh phù hợp (QĐ 101 mục VII.3.1a)."
+    },
+    {
+     "t": "Thất bại do kém tuân thủ, sai liều hoặc nôn thuốc",
+     "n": "Loại: 300 mg × 2 lần/ngày đúng 40,5 mg/kg/liều (WHO 2024 khuyến cáo 1; QĐ 101 mục VII.1.1a), mẹ ghi sổ, đủ 7 liều, không nôn. Luôn hỏi riêng tuân thủ."
+    },
+    {
+     "t": "Tác nhân đề kháng hoặc không điển hình (tụ cầu, H. influenzae sinh beta-lactamase, Mycoplasma); mủ màng phổi, áp xe, tràn khí; khò khè",
+     "n": "Không xác định được ở phòng khám. QĐ 101 mục VII.1.2 chỉ cân nhắc đổi macrolid khi không thuyên giảm NHƯNG không nặng lên; bé nặng lên nên nhập viện. Nghi tụ cầu khi xấu nhanh hoặc có tràn khí, tràn dịch (WHO Pocket book 2013 mục 4.2.1 tr. 83); tuyến trên quyết định, chọc dò nếu dịch tăng hoặc sốt kéo dài (QĐ 101 mục VII.3.1–3.3). Loại khò khè (WHO Pocket book 2013 mục 4.2.2 tr. 87): bé không khò khè."
+    },
+    {
+     "t": "Lao phổi – màng phổi",
+     "n": "Chưa nghĩ: bệnh 7 ngày, sốt cao, bạch cầu và CRP tăng kiểu nhiễm khuẩn, không tiếp xúc; nghi lao khi không đáp ứng kháng sinh 2 tuần (QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a Bảng 1); tràn dịch không cải thiện dù dẫn lưu mới kiểm tra lao (QĐ 101 mục VII.3.1b)."
+    },
+    {
+     "t": "Thuyên tắc phổi / nhồi máu phổi gây tràn dịch",
+     "n": "Loại: ở trẻ em đi kèm huyết khối tĩnh mạch sâu, hiếm khi không có yếu tố khởi phát (ESC 2019 mục 3.2); bé không có, sốt cao, bạch cầu 19,6 G/L, CRP 96 mg/L, đông đặc có hình phế quản hơi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay bé My nhập khoa Nhi bệnh viện huyện (18 km), mẹ đi cùng bằng xe cấp cứu hoặc xe có người đi kèm; gọi báo trước tuyến trên",
+     "v": "c",
+     "n": "Không đỡ sau 3 ngày thì nhập viện (QĐ 101 mục VII.1.2); điều trị như viêm phổi nặng (QĐ 708/2015 mục 5.3b); gõ đục, thở giảm cần chuyển bệnh viện (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3); AWaRe 2022 Bảng 12.5: thất bại amoxicillin nên có phương án chuyển cơ sở có điều trị tuyến hai. Phòng khám không có giường lưu bệnh, kháng sinh tiêm."
+    },
+    {
+     "t": "Theo dõi SpO₂ trên đường đi, có bình oxy gọng mũi sẵn, thở oxy nếu SpO₂ xuống dưới 92%; nâng đầu, giữ ấm",
+     "v": "c",
+     "n": "Oxy khi SpO₂ < 92% (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.12) hoặc < 90% (WHO Pocket book 2013 mục 4.2.1 tr. 82); bé 94% chưa cần (sổ HH-0735 mục 2)."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol 100 mg uống ngay (liều cuối 3 giờ), lần sau cách ít nhất 6 giờ; cho bú mẹ tiếp, chia nhỏ cữ",
+     "v": "c",
+     "n": "Paracetamol 10–15 mg/kg/lần mỗi 6 giờ (QĐ 101 mục VII.2.3a); NICE NG143 mục 1.6.4–1.6.5. Trẻ viêm phổi cần thức ăn lỏng, chia nhỏ bữa; không ăn được thì sonde dạ dày; mất nước không uống được thì bù dịch tĩnh mạch (QĐ 101 mục VII.2.3b)."
+    },
+    {
+     "t": "Viết giấy chuyển SBAR: không đỡ sau 3 ngày, amoxicillin 300 mg × 2 lần đủ 7 liều, giờ liều cuối 6 giờ, SpO₂, nhịp thở, phim, siêu âm, CTM, CRP; mẹ mang sổ giờ thuốc",
+     "v": "c",
+     "n": "Để tuyến trên bắt đầu ngay kháng sinh tiêm: ampicillin kèm gentamicin ít nhất 5 ngày, có tràn dịch ít nhất 7 ngày tiêm (QĐ 101 mục VII.2.2, VII.3.1b; WHO Pocket book 2013 mục 4.2.1 tr. 82, 4.3.1 tr. 88). Mẫu giấy chuyển: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn mẹ mang thuốc và ống tiêm enoxaparin, tiêm đúng giờ khi ở viện, báo bác sĩ điều trị bé rằng mẹ đang dùng thuốc chống đông và cho con bú",
+     "v": "c",
+     "n": "AHA/ACC 2026 mục 4.2.1 khuyến cáo 14; ESC 2019 mục 9.3. Thời gian chống đông còn lại của mẹ: do bác sĩ huyết học quyết, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, đổi sang amoxicillin-clavulanat hoặc tăng amoxicillin lên 90 mg/kg/ngày, hoặc thêm macrolid uống, hẹn lại sau 2 ngày",
+     "v": "w",
+     "n": "QĐ 101 mục VII.1.2, QĐ 708/2015 mục 5.3b và WHO Pocket book 2013 mục 4.2.2 đều đưa trẻ còn sốt, thở nhanh sau 2–3 ngày vào bệnh viện. QĐ 101 chỉ cân nhắc macrolid và QĐ 708/2015 khuyến cáo 5.7 cho thêm macrolid khi bệnh không nặng lên; bé đã nặng lên và có gõ đục (QĐ 708/2015 khuyến cáo 5.3)."
+    },
+    {
+     "t": "Chờ kết quả công thức máu, CRP, cấy rồi mới quyết định chuyển",
+     "v": "w",
+     "n": "Đủ chỉ định trên lâm sàng; CRP, công thức máu không đổi quyết định (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.5); vi sinh chỉ làm ở bệnh viện (QĐ 708/2015 mục 3.3)."
+    },
+    {
+     "t": "Chọc hút dịch màng phổi tại phòng khám trước khi chuyển",
+     "v": "w",
+     "n": "Dịch ít không cần chọc hút (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1; QĐ 708/2015 khuyến cáo 5.11); nơi không có hồi sức không nên làm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng thùy dưới phải không đáp ứng sau 3 ngày amoxicillin đúng liều (300 mg × 2 lần/ngày, đủ 7 liều), kèm tràn dịch màng phổi phải cận viêm phổi lượng ít; mất nước nhẹ, sốt 39,0 °C, SpO₂ 94%",
+     "Đã loại: kém tuân thủ, khò khè, lao, thuyên tắc phổi; chưa thấy mủ màng phổi, áp xe, tràn khí",
+     "Chỉ định: chuyển bệnh viện huyện nhập khoa Nhi, kháng sinh tiêm; mẹ tiếp tục enoxaparin"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng (nhịp thở đủ 1 phút, SpO₂ theo QĐ 708/2015 mục 3.1): diễn tiến 3 ngày → HỎI RIÊNG tuân thủ thuốc → dấu hiệu nguy hiểm → khám phổi (gõ, rung thanh), mao mạch, tai → X-quang, siêu âm song song với chuẩn bị chuyển.",
+     "Không xác định được ở phòng khám. QĐ 101 mục VII.1.2 chỉ cân nhắc đổi macrolid khi bệnh không thuyên giảm NHƯNG không nặng lên; bé đang nặng lên nên nhập viện. Nghi tụ cầu khi xấu nhanh hoặc có tràn khí, tràn dịch (WHO Pocket book 2013 mục 4.2.1 tr. 83); tuyến trên quyết định. Dịch tăng hoặc sốt kéo dài thì chọc dò ở tuyến trên (QĐ 101 mục VII.3.1–3.3). Loại khò khè trước khi kết luận không đáp ứng (WHO Pocket book 2013 mục 4.2.2 tr. 87): bé không khò khè."
+    ],
+    "phan_tich_xu_tri": [
+     "Thứ tự: quyết định chuyển, gọi tuyến trên → hạ sốt, theo dõi SpO₂, oxy dự phòng → giấy chuyển, sổ giờ thuốc, thuốc của mẹ → giải thích cho mẹ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Dạng bào chế: không có trong tài liệu đã tải (tính theo mg)",
+      "lieu": "100 mg/lần (≈ 13,7 mg/kg × 7,3 kg)",
+      "duong": "Uống",
+      "thoi_diem": "Ngay bây giờ, lần sau cách ít nhất 6 giờ",
+      "so_ngay": "Khi sốt khó chịu, không quá 4 lần/24 giờ",
+      "ghi_chu": "QĐ 101 mục VII.2.3a (10–15 mg/kg/lần mỗi 6 giờ); AWaRe 2022 (6–< 10 kg: 100 mg mỗi 6 giờ); NICE NG143 mục 1.6.4–1.6.6."
+     },
+     {
+      "thuoc": "Ampicillin kèm gentamicin tiêm (bệnh viện kê; ghi trong giấy chuyển)",
+      "ham_luong": "Dạng bào chế, nồng độ lọ thuốc: không có trong tài liệu đã tải (tính theo mg)",
+      "lieu": "Ampicillin ≈ 365 mg (50 mg/kg) mỗi 6 giờ; gentamicin ≈ 55 mg (7,5 mg/kg) một lần/ngày",
+      "duong": "Tiêm bắp hoặc tĩnh mạch",
+      "thoi_diem": "Ngay khi nhập viện; ghi giờ liều amoxicillin cuối (6 giờ sáng)",
+      "so_ngay": "Ít nhất 5 ngày; có tràn dịch ít nhất 7 ngày tiêm, tổng 3 tuần",
+      "ghi_chu": "QĐ 101 mục VII.2.2, VII.3.1b; WHO Pocket book 2013 mục 4.2.1 tr. 82, mục 4.3.1 tr. 88. Không kê tại phòng khám."
+     }
+    ],
+    "dan_do": [
+     "Với mẹ: bé có nước ở màng phổi do viêm phổi, cần kháng sinh tiêm ở bệnh viện khoảng một tuần; đi ngay, mẹ đi cùng, mang sổ giờ thuốc, phim, giấy chuyển, cả thuốc và ống tiêm enoxaparin; báo bác sĩ mẹ đang cho con bú (AHA/ACC 2026 mục 4.2.1 khuyến cáo 14).",
+     "Trên đường đi bé nằm đầu cao, giữ ấm; tím, thở rên, lịm hoặc co giật thì gọi cấp cứu (QĐ 101 mục V.2). Ra viện thì mang giấy ra viện khám lại phòng khám."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau khi hết thuốc",
+   "tiep_don": "Thứ Bảy 9 giờ 30, ngày bệnh 29, hẹn kiểm tra sau khi hết thuốc. Chị Lan bế bé My lên khám, mang giấy ra viện bệnh viện huyện: nằm khoa Nhi 7 ngày (từ ngày bệnh 7), viêm phổi thùy dưới phải kèm tràn dịch màng phổi ít, không chọc hút, tiêm ampicillin kèm gentamicin 7 ngày rồi uống tiếp đủ 3 tuần kể từ ngày tiêm; liều thuốc cuối uống tối qua. Bé hết ho gần hết, ăn bú tốt. Sinh hiệu: nhiệt 36,9 °C, mạch 124 l/p, nhịp thở 38 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé My lên bệnh viện nhi tỉnh 95 km chụp CT ngực hay chụp lại phim 'cho chắc' khi bé hết sốt hơn 2 tuần, thở 38 l/p, SpO₂ 98% là không có chỉ định: không chụp lại X-quang khi trẻ đã khỏe và khỏi bệnh (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2). Cả nhà thêm một ngày đường, bé bị chiếu xạ vô ích, mẹ càng không dám cho bé gặp em bé nhà bên.",
+    "theo_doi": "Hẹn bé My tái khám mỗi một đến hai tuần và chụp lại phim khi bé đã khỏi là quá mức: không chụp lại (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2), chỉ khám lại khi triệu chứng quay lại (khuyến cáo 5.3). Nhà cách 60 km, mỗi lần mất một ngày công, mẹ dễ bỏ hẹn đúng lúc bé cần khám."
+   },
+   "loi_mo": "Bác sĩ ơi, con em uống hết thuốc rồi, giờ nó ăn bú tốt, ngủ ngon, còn ho vài tiếng buổi sáng. Em xin bác sĩ giấy xác nhận bé hết bệnh. Lần này xong rồi em không phải lên nữa đúng không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 38,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ra_vien",
+     "noi_dung": "Giấy ra viện: nhập viện Thứ Sáu ngày bệnh 7, viêm phổi thùy dưới phải, tràn dịch màng phổi phải lượng ít (siêu âm), không cần oxy; tiêm ampicillin kèm gentamicin 7 ngày, hết sốt từ ngày 3, không chọc dịch; ra viện ngày bệnh 14, uống tiếp kháng sinh đủ 3 tuần kể từ ngày tiêm đầu. Cấy máu âm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Tóm tắt đợt nằm viện, kháng sinh đã dùng, biến chứng"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ cho bé uống kháng sinh theo toa bệnh viện 4 lần mỗi ngày, ghi sổ từng giờ, không bỏ liều nào, không nôn; liều cuối tối Thứ Sáu. Bé không dùng thuốc ho hay thuốc nam; không sốt từ ngày bệnh 10.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hoàn thành đủ 3 tuần kháng sinh, tuân thủ"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Bé ho vài tiếng buổi sáng, không ho đêm, không khò khè, không thở nhanh. Bú mẹ khỏe, ăn bột hai bữa hết bát, ngủ ngon, cười nhiều. Phân vàng, không sốt, không đổ mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hồi phục lâm sàng: hết sốt, thở bình thường, ăn bú tốt"
+    },
+    {
+     "id": "lao",
+     "noi_dung": "Nhà vẫn không ai ho kéo dài; không ai trong nhà hay xóm điều trị lao. Bé không sút cân, có sẹo BCG, tăng cân đều. Bệnh viện chỉ làm X-quang, siêu âm, công thức máu, CRP, cấy máu; không làm Mantoux, Xpert.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại lao: không tiếp xúc, đáp ứng kháng sinh, tăng cân"
+    },
+    {
+     "id": "lo_lay",
+     "noi_dung": "Mẹ chưa dám cho bé My bế sát em bé nhà chị họ (nay gần 7 tuần tuổi) hay gần bà ngoại vì sợ bé 'còn vi trùng'; chị họ nói 'chờ bác sĩ nói hết bệnh mới sang'. Đó là lý do chị xin giấy xác nhận; chị chỉ nói khi được hỏi nhẹ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ xin giấy xác nhận. Kể ra khi bác sĩ hỏi chị lo điều gì nhất, hỏi ai ở gần hay chờ gặp bé, hoặc hỏi vì sao cần giấy.",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bệnh cho người thân, cần được giải đáp"
+    },
+    {
+     "id": "khoang_cach",
+     "noi_dung": "Chị hỏi: 'xong rồi em không phải lên nữa đúng không?'. Chị lên bằng xe khách sáng nay, về chuyến chiều; nếu cần muốn gọi/nhắn Zalo hoặc ra trạm y tế xã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ở xa: kế hoạch theo dõi sau điều trị không cần quay lại"
+    },
+    {
+     "id": "me_thuoc",
+     "noi_dung": "Mẹ vẫn tiêm enoxaparin hai lần mỗi ngày, hẹn khám huyết học tuần sau, vẫn cho bé bú; không ho, không đau ngực, không khó thở. Bé chưa tiêm phế cầu (vắc xin dịch vụ), mũi sởi hẹn khi đủ 9 tháng; mẹ ngại giá và đường xa.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc chống đông của mẹ, đang cho bé bú"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, cười, nhìn theo người lạ rồi bám mẹ, khóc to khi bị khám. Hồng hào, không tím, niêm mạc ẩm, mao mạch 2 giây. Cân 7,9 kg (tăng 600 g so với lượt 2), nằm trong dải tăng trưởng.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 38 l/p, êm, không rút lõm. Rì rào phế nang êm dịu hai bên, gõ trong đều, không ran, không khò khè; đáy phổi phải thông khí tốt như trái.",
+     "k": 1,
+     "hien": "Nhịp thở 38 l/p, êm, thở bằng bụng, không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 124 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 7,9 kg, dài 68 cm, MUAC 14,8 cm: tăng trưởng tốt, không suy dinh dưỡng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "n",
+     "n": "Không cần chụp lại khi trẻ đã khỏe và khỏi bệnh (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2); chỉ chụp lại khi tổn thương rộng, xẹp phổi hoặc triệu chứng dai dẳng dù điều trị đúng."
+    },
+    "xpert_tre": {
+     "v": "n",
+     "n": "Không có chỉ định: không tiếp xúc nguồn lây, bé đáp ứng kháng sinh thường, tăng cân (QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a Bảng 1, mục 1.3; Phần IV mục 1.2.1: trẻ < 5 tuổi chỉ loại trừ lao hoạt động khi tiếp xúc hộ gia đình)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng thùy dưới phải kèm tràn dịch màng phổi cận viêm phổi lượng ít, đã khỏi sau 3 tuần kháng sinh; tăng trưởng tốt",
+     "ok": 1,
+     "n": "Hết sốt từ ngày bệnh 10, thở 38 l/p, SpO₂ 98%, phổi trong, ăn bú tốt, tăng 600 g. Đủ 3 tuần kháng sinh cho viêm phổi – tràn dịch (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1 tr. 88). Trẻ khỏi thì không chụp lại X-quang (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2)."
+    },
+    {
+     "t": "Lao phổi – màng phổi",
+     "n": "Loại: bé đáp ứng kháng sinh thường, hết sốt, tăng cân, không tiếp xúc nguồn lây, có sẹo BCG (QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a Bảng 1, mục 1.3). Dịch cải thiện với kháng sinh nên không cần kiểm tra lao (QĐ 101 mục VII.3.1b)."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Không: hồi phục hoàn toàn với kháng sinh, không có yếu tố khởi phát (ESC 2019 mục 3.2). Tiền sử của mẹ không đổi nguy cơ của bé."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận bé đã đủ 3 tuần kháng sinh; ngừng thuốc, không kê thêm; không cần tái khám định kỳ nếu bé khỏe",
+     "v": "c",
+     "n": "Viêm phổi – tràn dịch: tiêm ít nhất 7 ngày rồi uống, tổng 3 tuần (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1 tr. 88). Trẻ khỏi thì không chụp lại phim (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2); khám lại khi triệu chứng còn hoặc quay lại (khuyến cáo 5.3). Lịch tái khám định kỳ sau viêm phổi đã khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không chụp lại X-quang, không CT ngực, không xét nghiệm lao (Xpert, Mantoux/IGRA), không làm thêm xét nghiệm máu",
+     "v": "c",
+     "n": "QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2, 5.5; QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a Bảng 1, mục 1.3, Phần IV mục 1.2.1. Cơ sở cũng không có CT."
+    },
+    {
+     "t": "Hỏi mẹ lo điều gì nhất; cấp giấy xác nhận bé đã điều trị đủ và khỏi lâm sàng; giải thích đã hết sốt hơn 2 tuần, uống đủ kháng sinh nên nguy cơ lây thấp; vẫn rửa tay trước khi bế em bé sơ sinh, người đang ho không bế em",
+     "v": "c",
+     "n": "Lý do thật xin giấy là để bé gặp em bé nhà bên. Thời gian lây và biện pháp phòng lây ở nhà sau viêm phổi trẻ em: không có trong tài liệu đã tải; nói theo thông lệ và nêu rõ giới hạn."
+    },
+    {
+     "t": "Dặn bằng giấy khi nào quay lại: sốt lại, ho nhiều, thở nhanh, rút lõm, bỏ bú; ho trên 14 ngày; liên hệ điện thoại/Zalo, ra trạm y tế xã trước nếu xa",
+     "v": "c",
+     "n": "Ho trên 14 ngày chuyển sang hướng ho mạn (WHO Pocket book 2013 mục 4.2.1 Bảng 7 tr. 81); dấu hiệu quay lại (QĐ 101 mục V.2, VII.1; WHO Pocket book 2013 mục 4.2.1 tr. 84). Nhà xa nên dặn trọn gói bằng văn bản."
+    },
+    {
+     "t": "Nhắc tiêm vắc xin phế cầu và Hib; đủ vắc xin mở rộng; tiếp tục bú mẹ, ăn bột đủ chất, theo dõi cân nặng. Với mẹ: tiếp tục enoxaparin, đi khám huyết học tuần sau, không tự ngưng",
+     "v": "c",
+     "n": "AWaRe 2022 (phần Prevention, tr. 161): Hib và phế cầu liên hợp nên có trong chương trình tiêm chủng thường quy; lịch tiêm sau bệnh cấp: không có trong tài liệu đã tải. Mẹ: AHA/ACC 2026 mục 4.2.1 khuyến cáo 14; ESC 2019 mục 9.3; thời gian chống đông còn lại do bác sĩ huyết học quyết."
+    },
+    {
+     "t": "Cho uống thêm 1–2 tuần kháng sinh 'cho chắc' vì nhà xa",
+     "v": "w",
+     "n": "Tổng 3 tuần đã đủ (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1); kéo dài thêm không nguồn nào ủng hộ."
+    },
+    {
+     "t": "Chụp CT ngực, chụp lại phim hoặc chuyển bệnh viện nhi tỉnh kiểm tra phổi; làm Xpert hoặc Mantoux/IGRA vì mẹ sợ",
+     "v": "w",
+     "n": "Không cần chụp lại khi đã khỏi (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2); không có CT; không tiếp xúc nguồn lây nên không có chỉ định xét nghiệm lao (QĐ 162/QĐ-BYT 2024 Phần IV mục 1.2.1). Mẹ không nói đến lao: nỗi sợ là lây cho em bé và bà ngoại."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng thùy dưới phải kèm tràn dịch màng phổi cận viêm phổi lượng ít, đã khỏi sau 3 tuần kháng sinh (7 ngày tiêm + uống tiếp)",
+     "Hồi phục hoàn toàn: hết sốt hơn 2 tuần, thở 38 l/p, SpO₂ 98%, phổi trong, tăng 600 g",
+     "Đã loại: viêm phổi dai dẳng/mủ màng phổi, lao phổi, thuyên tắc phổi, viêm phổi tái diễn do bệnh nền",
+     "Chỉ định: ngừng kháng sinh, không tái khám định kỳ, dặn dấu hiệu quay lại, tiêm phòng; giải đáp nỗi sợ lây"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: sinh hiệu → giấy ra viện, đã uống đủ thuốc chưa → triệu chứng hiện tại, ăn bú, ngủ → tiếp xúc lao → khám phổi, tim, cân → CLS (hầu như không cần) → HỎI mẹ lo gì để lộ lý do thật.",
+     "Khỏi bệnh xác nhận bằng lâm sàng: hết sốt, thở dưới 50 l/p, ăn bú tốt, tăng cân; không cần X-quang khi đã khỏe (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2). Loại lao: đáp ứng kháng sinh thường, không tiếp xúc (QĐ 162/QĐ-BYT 2024 Phần II mục 1.1a, 1.3); loại thuyên tắc phổi: ESC 2019 mục 3.2."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kê thêm kháng sinh vì đã đủ 3 tuần (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1). Tên và liều thuốc uống bệnh viện kê cho nhũ nhi: không có trong tài liệu đã tải (chỉ ghi 'cloxacillin uống 4 lần/ngày')."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê kháng sinh hay thuốc mới",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Dừng kháng sinh sau liều tối Thứ Sáu",
+      "so_ngay": "Đã đủ 3 tuần",
+      "ghi_chu": "QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1 tr. 88 (tổng 3 tuần cho viêm phổi – màng phổi). Paracetamol 100 mg khi sốt khó chịu (QĐ 101 mục VII.2.3a) nếu có."
+     }
+    ],
+    "dan_do": [
+     "Với mẹ: bé đã khỏi, không cần tái khám định kỳ (lịch tái khám sau viêm phổi khỏi: không có trong tài liệu đã tải); giấy xác nhận điều trị đủ 3 tuần. Bé gặp được bà ngoại và em bé nhà bên; rửa tay trước khi bế, ai ho thì đeo khẩu trang. Quay lại (hoặc ra trạm y tế xã, gọi/nhắn Zalo) nếu sốt lại, ho nhiều, thở nhanh, ngực lõm, bỏ bú (QĐ 101 mục V.2, VII.1); ho trên 14 ngày thì đi khám (WHO Pocket book 2013 mục 4.2.1 Bảng 7).",
+     "Tiêm phế cầu và Hib, mũi sởi khi đủ 9 tháng (AWaRe 2022 tr. 161). Mẹ tiếp tục enoxaparin, khám huyết học tuần sau; đau ngực, khó thở, ho ra máu thì cấp cứu ngay."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé My nằm khoa Nhi bệnh viện huyện 7 ngày, tiêm ampicillin kèm gentamicin, hết sốt từ ngày thứ 3, không phải chọc dịch; uống tiếp thuốc đủ 3 tuần, ngày bệnh 29 khỏe hẳn, tăng 600 g. Mẹ được giải thích bé không bị thuyên tắc phổi như mình, có giấy xác nhận điều trị đủ, biết cách phòng lây (rửa tay, khẩu trang) khi bé gặp em bé nhà bên; có số điện thoại phòng khám và trạm y tế xã; hẹn tiêm phế cầu, vẫn tiêm enoxaparin và cho con bú theo hẹn huyết học.",
+ "nhieu": [
+  "Ở xa, khó tái khám: mẹ xin thuốc một lần và hứa không lên nữa; lượt 1 phải dặn trọn gói bằng giấy, số điện thoại, nơi gần nhất; lượt 2 mẹ xin 'thuốc mạnh hơn rồi cho về' dù đủ chỉ định nhập viện.",
+  "Đổi thuốc điều trị + thuốc kháng đông: bác sĩ huyết học đổi thuốc chống đông của MẸ (rivaroxaban sang enoxaparin) 10 ngày trước vì đang cho con bú; mẹ gán cho bệnh của con. Phải hỏi thuốc của mẹ và xem bé có chảy máu không; mẹ từng bị thuyên tắc phổi nên sợ thở nhanh.",
+  "Sợ lây bệnh cho người thân: sợ bé lây cho em bé 3 tuần tuổi nhà bên và bà ngoại, chỉ nói khi hỏi nhẹ; lượt 3 xin giấy 'hết bệnh' thực chất để được cho bé gặp em bé."
+ ],
+ "bai_hoc_bien": [
+  "Viêm phổi nhũ nhi không nặng: chẩn đoán bằng nhịp thở đếm đủ 1 phút và ran khu trú; không rút lõm, SpO₂ 95% thì ngoại trú, liều đầu tại phòng khám (QĐ 101 mục V, VII.1; QĐ 708/2015 mục 3.1; WHO Pocket book 2013 mục 4.2.2).",
+  "Không đỡ sau 2–3 ngày: chạy quy trình đúng thuốc đúng liều → sai chẩn đoán → biến chứng (tràn dịch) → đề kháng; đủ chỉ định nhập viện thì không đổi thuốc uống ở nhà (QĐ 101 mục VII.1.2; QĐ 708/2015 mục 5.3b, Phụ lục 1 khuyến cáo 5.3, 5.11)."
+ ],
+ "diem_nho": [
+  "Thở nhanh trẻ 2–< 12 tháng ≥ 50 l/p (QĐ 708/2015 mục 3.1; QĐ 101 mục V.1 bản chữ ghi > 50); viêm phổi nặng khi bỏ bú, li bì, co giật, thở rên, rút lõm rất nặng, tím hoặc SpO₂ < 90% (QĐ 101 mục V.2).",
+  "Amoxicillin 80 mg/kg/ngày chia 2 (QĐ 101; WHO 2024; AWaRe 2022) hoặc 45 mg/kg/ngày chia 3 (QĐ 708/2015 mục 5.3b); 3 hoặc 5 ngày (WHO 2024), ít nhất 5 ngày (QĐ 708/2015 khuyến cáo 5.10). Hẹn lại 2 ngày (QĐ 708/2015 khuyến cáo 5.3) hoặc 3 ngày (QĐ 101 mục VII.1.2).",
+  "Còn sốt sau 48 giờ: khám lại, chụp X-quang tìm biến chứng (QĐ 708/2015 khuyến cáo 5.11); gõ đục, thở giảm là tràn dịch, chuyển bệnh viện (khuyến cáo 5.3); dịch ít không dẫn lưu, tiêm kháng sinh ít nhất 7 ngày rồi uống, tổng 3 tuần (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1)."
+ ],
+ "nguon": [
+  "TL-0243 · QĐ 101/QĐ-KCB 2014 (viêm phổi cộng đồng trẻ em): mục V.1–V.2, VI.1–VI.2, VII.1.1a, VII.1.2, VII.2.2–2.4, VII.3.1–3.3",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 (kháng sinh): viêm phổi trẻ em mục 3.1–3.3, 5.3b; Phụ lục 1 khuyến cáo 5.2, 5.3, 5.5–5.8, 5.10–5.12",
+  "TL-0245 · WHO 2024 – pneumonia and diarrhoea in children: Table 1 (khuyến cáo 1, 2a, 3), khuyến cáo 1 Remarks",
+  "TL-0250 · WHO Pocket book of hospital care for children 2013: mục 4.1 (tr. 77), 4.2.1 (tr. 80–84, Bảng 7), 4.2.2 (tr. 86–87), 4.3.1 (tr. 88), Bảng 8 (tr. 93)",
+  "TL-0018 · WHO AWaRe antibiotic book 2022: Bảng 12.5, phần Prevention (tr. 161), bảng liều paracetamol",
+  "TL-0262 · NICE NG143 (2021, cập nhật 2025): mục 1.2.22, 1.6.2–1.6.6",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 (bệnh lao): Phần II mục 1.1a Bảng 1 (trẻ em), mục 1.3; Phần IV mục 1.2.1",
+  "TL-0089 · ESC 2019 – Acute PE: mục 3.2 (trẻ em), mục 9.3 và bảng khuyến cáo 9.5 (chống đông khi cho con bú, tr. 582); TL-0045 · AHA/ACC 2026 – Acute PE: mục 4.2.1 khuyến cáo 14 (cho con bú: LMWH, UFH, warfarin hơn DOAC; hướng dẫn cho người ≥ 18 tuổi)",
+  "Không có trong tài liệu đã tải: dạng bào chế, nồng độ thuốc cho nhũ nhi; liều cloxacillin uống nhũ nhi; xử trí khi nôn sau uống; khoảng tham chiếu công thức máu, ngưỡng CRP, D-dimer nhũ nhi; thời gian lây và phòng lây ở nhà; lịch tiêm phế cầu sau bệnh cấp; lịch tái khám sau viêm phổi khỏi; nồng độ thuốc chống đông trong sữa và thời gian chống đông của mẹ; mẫu giấy chuyển; tiêu chuẩn loại tim bẩm sinh, viêm phổi tái diễn"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-08, viết: Sonnet): HH-0869, 3 lượt: viêm phổi nhũ nhi 7 tháng (ve_hen) → không đỡ = tràn dịch ít (chuyen_tuyen) → khỏi sau 3 tuần kháng sinh (ve_hen).",
+  "Tài liệu đã đọc: TL-0243 mục V–VII; TL-0015 mục 3, 5.3b, Phụ lục 1 khuyến cáo 5.2–5.12; TL-0245 Table 1; TL-0250 mục 4.1–4.3; TL-0018 Bảng 12.5; TL-0262 mục 1.2.22, 1.6; TL-0123 Phần II mục 1.1a, 1.3; TL-0089 mục 3.2, 9.3; TL-0045 mục 4.2.1 khuyến cáo 14.",
+  "Quy trình thất bại điều trị (đúng thuốc → sai chẩn đoán → biến chứng → đề kháng): xem bai_hoc_bien. Lượt 1 cố ý không rút lõm (QĐ 708 xếp nặng, QĐ 101 và WHO 2024 ngoại trú). Không có CT: siêu âm, X-quang đủ thấy dịch."
+ ]
+}

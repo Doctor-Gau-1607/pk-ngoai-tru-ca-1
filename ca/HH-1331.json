@@ -1,0 +1,513 @@
+{
+ "ma_ca": "HH-1331",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo kho tài liệu (2026-11-08)",
+ "benh": "HH_lao_phoi",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Lao phổi",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi cộng đồng",
+   "Ung thư phổi"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Gia sư",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình"
+ },
+ "benh_nhan": {
+  "ten": "Lê Quang Khải",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Gia sư Toán – Lý: dạy kèm tại nhà học sinh và một nhóm 5 em ở phòng thuê, 6 buổi mỗi tuần, chiều và tối",
+  "can_nang": 62,
+  "chieu_cao": 172,
+  "xung_ho": "Bác sĩ gọi anh là 'anh Khải', anh xưng 'em' và gọi bác sĩ là 'bác sĩ'. Nhắc mẹ là 'mẹ em', nhắc em trai là 'thằng Bảo'.",
+  "tinh_cach": "Hay lo, tối nào cũng tra mạng về triệu chứng của mình. Nói nhanh, hay ngắt lời, hỏi dồn nhiều câu một lúc. Rất trọng uy tín nghề dạy: sợ phụ huynh biết mình 'có bệnh phổi' thì mất học sinh. Không hút thuốc, ít uống rượu bia.",
+  "kieu_nhieu": "Sợ hãi quá mức: nghe chữ nào cũng nghĩ tới điều xấu nhất. Mở đầu đã hỏi 'em có bị ung thư phổi không?', thở nhanh khi nghe 'tràn dịch' hay 'chụp phim', hỏi lặp 'chắc chắn chưa bác sĩ?'. Đòi chụp CT, PET, xét nghiệm 'tầm soát ung thư toàn thân' cho chắc. Trấn an chung chung ('không sao đâu') anh không tin; chỉ bớt lo khi được nghe lộ trình cụ thể: làm gì, ở đâu, bao lâu có kết quả. Vì lo nên khai triệu chứng lẫn lộn, hay phóng đại cái nhỏ (ho) và quên cái quan trọng (sốt chiều, ra mồ hôi đêm) nếu không được hỏi đúng.",
+  "nguoi_nha": "Không đi cùng. Mẹ là cô Lan, 58 tuổi, bán hàng rong; em trai Bảo, 15 tuổi, học lớp 10; cả ba ở chung một căn phòng thuê hai gian. Hai tuần nay Bảo cũng ho nhẹ. Mẹ trách anh 'đi dạy nhà người ta mang bệnh về cho em', đòi anh dọn ra ở riêng, hai mẹ con cãi nhau to tối qua. Mẹ chưa biết anh đi khám hôm nay.",
+  "ten_nguoi_nha": "Cô Lan (mẹ), không có mặt",
+  "ngoai_hinh": {
+   "da": "#d9a985",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#5b7fa6",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Ho khan hơn 5 tuần, uống hai đợt kháng sinh không hết",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, tổng phân tích nước tiểu) và điện tim; không có X-quang, siêu âm, CT, nội soi, và không làm được xét nghiệm đờm tìm lao (Xpert, AFB), IGRA, HIV. Đơn vị chống lao quận cách 6 km, làm X-quang, siêu âm, Xpert, chọc hút dịch trong ngày, các ngày làm việc."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Lê Quang Khải, 27 tuổi, gia sư, đến một mình vì ho khan hơn 5 tuần, đã uống hai đợt kháng sinh mà không bớt. Sinh hiệu: nhiệt độ 37,6 °C, mạch 94 l/p, HA 138/88 mmHg, nhịp thở 20 l/p, SpO₂ 97% khí trời, cân nặng 62 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Khải được cho thêm một đợt kháng sinh, thường là levofloxacin 'cho mạnh', và hẹn lại sau một tuần. Tuần đó anh vẫn dạy nhóm 5 em trong phòng kín và ngủ cùng gian với em Bảo; fluoroquinolon có thể làm triệu chứng đỡ tạm, nên chẩn đoán lao chậm hơn (QĐ 162/2024 Phần II mục 3.2.2, Sơ đồ 1 chú thích *; điều trị lao cần bắt đầu sớm ngay sau chẩn đoán, Phần III mục 7.1). Mẹ thấy anh vẫn ho, tin chắc anh mang bệnh về, mâu thuẫn trong nhà tăng, trong khi mẹ và em Bảo vẫn chưa được sàng lọc (Phần IV mục 1.1.1).",
+    "nhap_vien": "Anh Khải được nhập khoa Nội bệnh viện đa khoa 'để làm cho kỹ'. Anh chỉ ho khan, SpO₂ 97%, không suy hô hấp; điều trị lao nhạy thuốc được quản lý ngoại trú tại tuyến xã hoặc huyện (QĐ 162/2024 Phần III mục 7.2.3), nên nằm viện không cần. Anh nghỉ cả tuần dạy, mất thu nhập và học sinh, càng tin mình mắc bệnh nặng; mẹ thì vẫn nghĩ đó là bệnh lây từ anh. Nằm viện không thay được việc chính là X-quang và Xpert đờm ở đơn vị chống lao."
+   },
+   "loi_mo": "Bác sĩ ơi, em ho hơn một tháng rồi, uống hai đợt kháng sinh không hết. Em đọc trên mạng nói ho lâu vậy là ung thư phổi... em có bị ung thư không bác sĩ? Bác sĩ cho em chụp CT hay làm gì đó cho chắc đi.",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "138/88",
+    "nhiet": "37,6",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho khan hơn 5 tuần. Uống hai đợt kháng sinh mà ho không bớt. Mẹ bắt đi khám lại, chứ em thì 'cũng chịu được'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan từng cơn ngắn, không có đờm, nhiều nhất lúc sáng sớm và khi nằm xuống. Bắt đầu cách đây khoảng 36 ngày, lúc đầu tưởng viêm họng. Không ho ra máu, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho khan kéo dài trên 2 tuần"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Không nhớ có chuyện gì đặc biệt trước đó: không bị mưa, không ai quanh em ho sốt rõ, không đi xa, không hít bụi hay hóa chất. Chỉ thấy rát họng vài hôm rồi ho.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khởi phát không rõ yếu tố"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Tuần thứ hai tự mua amoxicillin–acid clavulanic uống 7 ngày ở nhà thuốc. Tuần thứ ba khám phòng khám tư gần nhà, được cho azithromycin 3 ngày và siro ho, không chụp phim. Ho không thay đổi sau cả hai đợt. Em không uống thuốc kháng sinh nào khác, không uống levofloxacin hay ciprofloxacin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không đáp ứng kháng sinh"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Nhói ở ngực dưới bên phải khi hít sâu hoặc ho mạnh, khoảng 2 tuần nay, không lan. Em nghĩ 'chắc đau do ho nhiều'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có đau gì không' thì anh nói 'không, chỉ ho'. Chỉ kể khi bác sĩ hỏi có đau ngực không, hoặc đau khi hít sâu, khi ho.",
+     "k": 1,
+     "y": "Đau ngực kiểu màng phổi"
+    },
+    {
+     "id": "sot_chieu",
+     "noi_dung": "Không sốt cao, không rét run. Nhưng chiều tối hay thấy người râm ran, nóng bừng, hai ba hôm một tuần tự đo ở nách 37,5–37,8 °C. Em nghĩ 'do trời nóng, đi dạy nhiều'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có sốt không' anh đáp 'không sốt'. Chỉ nói ra khi bác sĩ hỏi về buổi chiều tối, có đo nhiệt độ không, hoặc có thấy nóng người, ớn lạnh không.",
+     "k": 1,
+     "y": "Sốt nhẹ về chiều"
+    },
+    {
+     "id": "mo_hoi_dem",
+     "noi_dung": "Hai ba đêm một tuần ra mồ hôi, ướt cổ và lưng áo, phải thay áo, không liên quan quạt hay điều hòa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ khi bác sĩ hỏi ra mồ hôi ban đêm, ướt áo khi ngủ.",
+     "k": 1,
+     "y": "Ra mồ hôi đêm"
+    },
+    {
+     "id": "can_nang",
+     "noi_dung": "Ăn uống bình thường, vẫn ăn ngon. Cân nặng cách đây 5 tuần 63 kg, nay 62 kg; em không thấy gầy đi. Hơi mệt khi dạy liền 3 giờ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không sụt cân rõ: thiếu triệu chứng kinh điển"
+    },
+    {
+     "id": "kho_tho",
+     "noi_dung": "Leo 3 tầng cầu thang lên phòng trọ thì hơi hụt hơi, nghỉ vài giây là hết. Nằm ngửa không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Nifedipin tác dụng kéo dài 30 mg, uống 1 viên mỗi sáng, bác sĩ phòng khám phường kê 8 tháng trước khi đo huyết áp 150/95 lúc khám sức khỏe. Sáng nay đã uống. Không dùng thuốc nào khác thường xuyên, không corticoid, không thuốc ức chế miễn dịch.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc hạ áp đang dùng"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng điều trị lao. Không hút thuốc lá, thuốc lào, không dùng thuốc lá điện tử. Rượu bia ít. Không đái tháo đường, không nhiễm HIV theo em biết (chưa từng xét nghiệm). Không tiêm chích, không đi nước ngoài.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "noi_o",
+     "noi_dung": "Ở chung một phòng thuê hai gian với mẹ (58 tuổi) và em trai Bảo (15 tuổi), ngủ cùng gian với em. Em Bảo ho nhẹ, không sốt, hai tuần nay. Nhóm 5 học sinh học ở phòng khách 15 m², đóng cửa bật điều hòa, mỗi buổi 2 giờ, 3 buổi mỗi tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người sống cùng nhà và nhóm học cần được sàng lọc"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Không có ai trong nhà từng bị lao. Một học sinh nhóm tối thứ ba, ông nội ở cùng nhà ho lâu năm, 'nghe nói đang uống thuốc phổi', em không rõ là thuốc gì.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có tiếp xúc người bị lao không' anh nói không biết. Chỉ nhớ ra khi bác sĩ hỏi kỹ về người ho lâu, người đang uống thuốc phổi trong số học sinh và gia đình học sinh.",
+     "k": 0,
+     "y": "Nguồn lây có thể có, chưa rõ"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Bố của một người bạn thân mất vì ung thư phổi năm ngoái, bác ấy cũng ho kéo dài rồi gầy rộc đi. Em tra mạng thấy 'ho trên một tháng là dấu hiệu ung thư phổi' nên mất ngủ ba đêm nay.",
+     "che_do": "khi_hoi",
+     "nhieu": 1,
+     "k": 0,
+     "y": "Gốc nỗi sợ ung thư"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Tối qua hai mẹ con cãi nhau to. Mẹ nói em 'mang bệnh về nhà, làm thằng Bảo ho theo', đòi em dọn ra ở riêng, nói em 'đi dạy nhà người ta thì bị lây'. Em tủi, nói 'con đi khám cho mẹ coi, nếu con bệnh con tự đi'. Hôm nay đến một mình, chủ yếu là muốn có tờ giấy chứng minh mình không có bệnh lây, nếu có bệnh thì em lo mất học sinh và không còn nơi ở.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'ai bảo anh đi khám', 'vì sao hôm nay mới đến', 'ở nhà mọi người nói sao', hoặc bác sĩ hỏi nhẹ nhàng về nỗi lo lớn nhất. Chưa tự kể; nếu bị hỏi dồn trấn an qua loa thì nói 'thôi em không sao'.",
+     "k": 1,
+     "y": "Động cơ thật: mâu thuẫn gia đình"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói nhanh, lo lắng. BMI 21,0. Da niêm hồng, môi không tím, không vàng da. Không ngón tay dùi trống. Người hơi gầy nhưng không suy kiệt.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Thở 20 l/p, êm, lồng ngực di động đều hai bên. Đáy phổi phải phía sau (dưới xương bả vai): gõ đục nhẹ, rung thanh tăng nhẹ, rì rào phế nang giảm, vài ran nổ nhỏ hạt cuối thì hít vào. Đỉnh hai phổi, phổi trái: gõ vang, rung thanh bình thường, không ran. Không có hội chứng ba giảm.",
+     "k": 1,
+     "hien": "Thở 20 l/p, êm, lồng ngực di động đều hai bên. Đáy phổi phải phía sau (dưới xương bả vai): gõ đục nhẹ, rung thanh tăng nhẹ. Các vùng còn lại: gõ vang, rung thanh bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt cuối thì hít vào, đáy phổi phải."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 94 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 94 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ 40 m không phải dừng, hơi thở nhanh nhẹ. SpO₂ từ 97% xuống 95%, hồi phục sau một phút.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ, hạch thượng đòn, hạch nách. Tuyến giáp không to. Tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, lo âu rõ (nói nhanh, hỏi dồn, tay run nhẹ), tư duy mạch lạc, không hoang tưởng, không ý tưởng tự hại. Ngủ kém ba đêm vì lo, chưa đến mức rối loạn lo âu cần điều trị.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 9,8 G/L · Neutrophil 63% · Lymphocyte 24% · Hb 138 g/L · TC 342 G/L",
+     "bang": {
+      "wbc": 9.8,
+      "neu_pct": 63.0,
+      "neu": 6.17,
+      "lym_pct": 24.0,
+      "lym": 2.35,
+      "mono_pct": 9.0,
+      "mono": 0.88,
+      "eos_pct": 3.5,
+      "eos": 0.34,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.7,
+      "hgb": 138,
+      "hct": 0.42,
+      "mcv": 89.4,
+      "mch": 29.4,
+      "mchc": 329,
+      "rdw": 13.1,
+      "plt": 342
+     },
+     "n": "Công thức máu là xét nghiệm thường quy bắt buộc khi chẩn đoán lao (QĐ 162/2024 Phần II Bảng 3 mục 5.2) và là mốc nền trước điều trị (Phần III Bảng 4 mục 8). Không đặc hiệu: bạch cầu bình thường cao, không tăng bạch cầu đa nhân như viêm phổi vi khuẩn điển hình (QĐ 2147/2026 mục 3.1.2 nêu bạch cầu tăng, ưu thế đa nhân trung tính)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "26 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 26
+     },
+     "n": "CRP là xét nghiệm thường quy khi chẩn đoán lao (QĐ 162/2024 Phần II Bảng 3 mục 5.3). Tăng vừa, không phân biệt được lao với viêm phổi nên không quyết định hướng xử trí."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,1 mmol/L",
+     "bang": {
+      "glu": 5.1
+     },
+     "n": "Đường huyết là xét nghiệm thường quy khi chẩn đoán lao (QĐ 162/2024 Phần II Bảng 3 mục 5.3), cần biết trước khi dùng thuốc chống lao. Bình thường."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,2 mmol/L · Creatinin 82 µmol/L · eGFR 118 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.2,
+      "creat": 82,
+      "egfr": 118
+     },
+     "n": "Mốc nền chức năng thận trước thuốc chống lao (QĐ 162/2024 Phần III Bảng 4 mục 9). Bình thường."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 28 U/L",
+     "n": "Mốc nền men gan trước thuốc chống lao (QĐ 162/2024 Phần II Bảng 3 mục 5.3; Phần III Bảng 4 mục 10). Bình thường. Làm sớm để cơ sở lao không phải chờ."
+    },
+    "mau_lang": {
+     "v": "a",
+     "r": "VS 46 mm/giờ",
+     "ab": 1,
+     "n": "Tăng, không đặc hiệu. Tài liệu đã tải không nêu giá trị của tốc độ máu lắng trong chẩn đoán lao, không đổi hướng xử trí."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Không bất thường",
+     "n": "Không cần: không có triệu chứng tiết niệu."
+    },
+    "cxr": {
+     "v": "e",
+     "ab": 1,
+     "r": "Đám mờ đông đặc không đồng nhất ở phân thùy đáy sau thùy dưới phổi phải, xung quanh có vài nốt nhỏ vệ tinh. Góc sườn hoành phải tù nhẹ. Không thấy hang rõ. Đỉnh hai phổi sạch, phổi trái bình thường. Bóng tim không to.",
+     "n": "Phòng khám không có X-quang. Người nghi lao phổi phải chụp X-quang ngực và xét nghiệm vi sinh (QĐ 162/2024 Phần II Sơ đồ 1; Bảng 3 mục 2.1). Thùy dưới (phân thùy 6) và tràn dịch màng phổi ít đều là hình thái gặp trong lao người lớn (Phần II Bảng 2). Thay thế khi không có phim: không có; chuyển tuyến trong 1–2 ngày."
+    },
+    "sa_phoi": {
+     "v": "u",
+     "r": "Lớp dịch màng phổi phải mỏng khoảng 8 mm, tự do, không vách; nhu mô đáy phải thấy vùng giảm âm kèm hình phế quản hơi.",
+     "n": "Không có siêu âm tại phòng khám. Siêu âm ngực là kỹ thuật chẩn đoán phân biệt (QĐ 162/2024 Phần II Bảng 3 mục 2.3); lượng dịch quá ít để chọc dò."
+    },
+    "xpert": {
+     "v": "e",
+     "ab": 1,
+     "r": "(Phòng khám không làm được.) Ở đơn vị chống lao, đờm khạc kích thích: Xpert MTB/RIF phát hiện MTB, mật độ thấp, không phát hiện kháng rifampicin; soi AFB trực tiếp âm tính.",
+     "n": "Anh ho khan, nên đờm phải lấy bằng khạc kích thích tại cơ sở lao. Xpert (xét nghiệm sinh học phân tử) là xét nghiệm ban đầu (QĐ 162/2024 Phần II Sơ đồ 2; WHO module 3, 2024, khuyến cáo xét nghiệm ban đầu cho đờm). AFB âm không loại trừ lao: ngưỡng phát hiện soi trực tiếp cao hơn Xpert (số liệu cụ thể không có trong tài liệu đã tải)."
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "(Phòng khám không làm được.) HIV, HBsAg, anti-HCV: âm tính khi làm ở cơ sở lao.",
+     "n": "Xét nghiệm HIV, viêm gan B, C làm trước khi điều trị lao (QĐ 162/2024 Phần III Bảng 4 mục 12); chưa cần làm tại phòng khám trước khi có chẩn đoán, để cơ sở lao tư vấn và làm cùng lần đăng ký."
+    },
+    "igra": {
+     "v": "a",
+     "r": "(Phòng khám không làm được.)",
+     "n": "IGRA hoặc Mantoux chỉ hỗ trợ khi không có bằng chứng vi khuẩn (QĐ 162/2024 Phần II mục 3.2.2), không phân biệt được nhiễm lao với bệnh lao. Không cần ở bước này."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "n": "CT ngực chỉ khi tổn thương trên X-quang thường quy, siêu âm không rõ (QĐ 162/2024 Phần II Bảng 3 mục 2.2). Anh chưa có phim, nên không phải CT trước; không làm chiều lòng nỗi sợ ung thư."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nghi lao phổi thùy dưới phải, thể không điển hình (chưa có bằng chứng vi khuẩn): cần chuyển cơ sở chống lao để chụp X-quang ngực và làm Xpert đờm",
+     "ok": 1,
+     "n": "Ho khan trên 2 tuần là triệu chứng nghi lao quan trọng nhất, kèm đau ngực, sốt nhẹ về chiều, ra mồ hôi đêm (QĐ 162/2024 Phần II mục 1.1 Bảng 1; mục 3.2.1). Triệu chứng có thể nghèo nàn: không ho máu, không sụt cân rõ, nghe phổi chỉ ran nổ khu trú (mục 3.2.1 thực thể). Không đáp ứng hai đợt kháng sinh ngoài lao (mục 3.2.2, Sơ đồ 1). Nốt khó nhất: 27 tuổi, đáy phổi phải, nhìn giống viêm phổi. Mã ICD-10 tạm: A16 (lao đường hô hấp chưa xác nhận vi khuẩn), đổi sang A15 khi có Xpert hoặc AFB dương tính (mục 2.6)."
+    },
+    {
+     "t": "Viêm phổi mắc phải cộng đồng",
+     "n": "Ít nghĩ: khởi phát âm thầm 5 tuần, không sốt cao, rét run, ho đờm mủ như triệu chứng điển hình (QĐ 2147/2026 mục 3.1.1). Hai đợt amoxicillin–acid clavulanic và azithromycin không đáp ứng. Viêm phổi do tác nhân không điển hình cũng có thể sốt nhẹ, ho khan, mệt và khám không rõ hội chứng đông đặc (mục 3.1.1) nên chưa loại hẳn về lâm sàng; X-quang là chìa khóa. Lao phổi nằm trong chẩn đoán phân biệt của viêm phổi: ho kéo dài, sốt nhẹ về chiều, tiếp xúc nguồn lây (mục 3.4.1)."
+    },
+    {
+     "t": "Ung thư phổi",
+     "n": "Rất ít nghĩ: anh 27 tuổi, không hút thuốc, không ho ra máu, không sụt cân; ung thư phổi thường gặp ở người trên 50 tuổi, có tiền sử nghiện thuốc lá, ho đờm lẫn máu, sút cân (QĐ 2147/2026 mục 3.4.3). Nốt cần theo dõi: nếu lao bị loại trừ mà tổn thương phổi không cải thiện sau 1 tháng điều trị thì phải nghĩ lại (mục 3.4.3). CT, PET không cần ở bước này (QĐ 162/2024 Phần II Bảng 3 mục 2.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến trong 1–2 ngày đến đơn vị chống lao quận (có X-quang, siêu âm, Xpert, chọc hút dịch), viết thư chuyển và dặn mang theo thuốc đang dùng cùng đơn kháng sinh hai đợt trước; không bắt đầu thuốc chống lao tại phòng khám",
+     "v": "c",
+     "n": "Người nghi lao phải chụp X-quang ngực và xét nghiệm vi sinh (QĐ 162/2024 Phần II Sơ đồ 1; Sơ đồ 2: xét nghiệm sinh học phân tử là xét nghiệm ban đầu); phòng khám không có phương tiện này. Điều trị lao theo phác đồ chuẩn, kiểm soát trực tiếp và đăng ký ở cơ sở y tế tuyến huyện hoặc tương đương (Phần III mục 7.1, 7.2.1). Mốc 1–2 ngày: cách làm lâm sàng, không có trong tài liệu đã tải; anh ổn định (SpO₂ 97%, nhịp thở 20) nên không cần cấp cứu."
+    },
+    {
+     "t": "Giải thích trực tiếp lộ trình: nghi lao phổi chứ chưa chắc, cần chụp phim và xét nghiệm đờm ở nơi có máy; nếu đúng là lao thì chữa khỏi bằng phác đồ 6 tháng. Nói rõ vì sao ít nghĩ ung thư (27 tuổi, không hút thuốc, không ho máu, không sụt cân) và vì sao không chụp CT hay xét nghiệm tầm soát ung thư lúc này",
+     "v": "c",
+     "n": "Dạy trấn an có cấu trúc, không chiều lòng xét nghiệm. Phác đồ A1 kéo dài 6 tháng (2HRZE/4RHE, QĐ 162/2024 Phần III mục 2.1.2); WHO 2025 khuyến cáo 1.1 cũng 6 tháng (2HRZE/4HR). Ung thư phổi ít gặp ở tuổi này (QĐ 2147/2026 mục 3.4.3). CT chỉ khi X-quang không rõ (Phần II Bảng 3 mục 2.2). Câu \"chữa khỏi\" dựa vào các phác đồ trên; tài liệu đã tải không nêu tỷ lệ khỏi cụ thể trong phần đã đọc."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng về chuyện ở nhà (ai bảo anh đi khám, mẹ nói gì) rồi nói rõ: nếu xác định lao, cơ sở lao sẽ khám sàng lọc mẹ, em Bảo và nhóm 5 học sinh; không phải ai lây cho ai trước, và anh có thể mời mẹ cùng đến buổi hẹn tại đơn vị chống lao",
+     "v": "c",
+     "n": "Chăm sóc tâm lý xã hội giúp tuân thủ điều trị, giảm bỏ trị (QĐ 162/2024 Phần III mục 7.1). Người sống cùng nhà, học cùng phòng là người tiếp xúc (Phần I mục 1.5); người tiếp xúc hộ gia đình, học tập cùng phòng là nhóm nguy cơ cao cần sàng lọc (Phần IV mục 1.1.1). Tài liệu đã tải không bàn cách xử lý xung đột gia đình; đây là kỹ năng giao tiếp."
+    },
+    {
+     "t": "Từ hôm nay đến khi có kết quả: đeo khẩu trang khi ra khỏi nhà, che miệng khi ho, nhổ vào khăn giấy rồi bỏ; ngủ gian riêng nếu được, mở cửa thông thoáng; tạm dạy online hoặc dạy từng em ở chỗ thoáng, hoãn nhóm 5 em trong phòng kín bật điều hòa",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần V mục 4.1 (vệ sinh ho khạc, đeo khẩu trang, hạn chế tiếp xúc trực tiếp, nên ở phòng riêng) và mục 4.2 (thông khí tốt, điều hòa không dùng kéo dài, mở cửa ít nhất 1 giờ mỗi ngày). Tài liệu đã tải không nói riêng lao phổi chưa có kết quả đờm có lây hay không; làm như lao phổi nghi ngờ vì chưa loại trừ."
+    },
+    {
+     "t": "Ghi vào thư chuyển: đang dùng nifedipin tác dụng kéo dài 30 mg mỗi sáng; dặn anh uống tiếp như cũ, theo dõi huyết áp tại nhà và báo cho bác sĩ lao khi bắt đầu thuốc chống lao",
+     "v": "c",
+     "n": "Rifampicin làm giảm nồng độ nhóm chẹn kênh canxi như nifedipin (QĐ 162/2024 Phụ lục 7 Bảng 4). Tài liệu đã tải không nói cách chỉnh liều nifedipin khi dùng cùng rifampicin; để bác sĩ cơ sở lao và người kê thuốc huyết áp quyết định."
+    },
+    {
+     "t": "Dặn quay lại hoặc đi cấp cứu ngay nếu: khó thở tăng dần hoặc nằm không được, đau ngực dữ dội, ho ra máu, sốt cao liên tục, hoặc chưa đi được đơn vị chống lao sau 2 ngày",
+     "v": "c",
+     "n": "Dấu hiệu báo động theo cách làm lâm sàng; tài liệu đã tải không nêu danh sách dấu hiệu báo động riêng cho người nghi lao ngoại trú."
+    },
+    {
+     "t": "Cho thêm một đợt kháng sinh phổ rộng không phải fluoroquinolon rồi hẹn lại sau 1 tuần",
+     "v": "a",
+     "n": "Sơ đồ 1 (QĐ 162/2024 Phần II) cho phép thử kháng sinh ngoài lao 1–2 tuần (không dùng fluoroquinolon) nhưng chỉ sau khi đã chụp X-quang và làm xét nghiệm vi sinh. Anh đã dùng hai đợt không đáp ứng, thêm một tuần chỉ kéo dài thời gian lây và chậm chẩn đoán."
+    },
+    {
+     "t": "Chỉ định chụp CT ngực hoặc PET-CT, xét nghiệm dấu ấn ung thư ngay để anh yên tâm",
+     "v": "a",
+     "n": "CT ngực chỉ khi X-quang, siêu âm không rõ (QĐ 162/2024 Phần II Bảng 3 mục 2.2); anh chưa có phim X-quang. Dấu ấn ung thư, PET: không có trong tài liệu đã tải cho nghi lao. Phòng khám cũng không có. Chiều lòng nỗi sợ làm tăng chi phí và lo lắng."
+    },
+    {
+     "t": "Kê levofloxacin hoặc ciprofloxacin điều trị viêm phổi kéo dài",
+     "v": "w",
+     "n": "QĐ 162/2024 Phần II mục 3.2.2: kháng sinh thử ngoài lao không dùng nhóm fluoroquinolon; Sơ đồ 1 chú thích *. Fluoroquinolon có tác dụng với vi khuẩn lao, có thể làm triệu chứng đỡ tạm thời và che mờ chẩn đoán (phần giải thích cơ chế che lấp: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Bắt đầu thuốc chống lao thử (HRZE) ngay tại phòng khám vì nghi lao",
+     "v": "w",
+     "n": "Chẩn đoán lao dựa vào bằng chứng vi khuẩn hoặc mô bệnh học phù hợp lâm sàng; khi chưa có thì phải phân tích hoặc hội chẩn (mục 3.1); điều trị phải theo phác đồ chuẩn, được theo dõi và kiểm soát trực tiếp, và đăng ký ở cơ sở lao (Phần III mục 7.1, 7.2.1). Phòng khám không có X-quang, Xpert, không có hệ thống đăng ký và giám sát điều trị."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nghi lao phổi thùy dưới phải, thể không điển hình, chưa có bằng chứng vi khuẩn (ICD-10 tạm A16; sau Xpert dương tính chuyển A15, QĐ 162/2024 Phần I mục 2.6)",
+     "Đã dùng hai đợt kháng sinh ngoài lao không đáp ứng (amoxicillin–acid clavulanic 7 ngày, azithromycin 3 ngày)",
+     "Chưa có biến chứng hô hấp: nhịp thở 20 l/p, SpO₂ 97%, không ho máu",
+     "Người tiếp xúc gần cần sàng lọc: mẹ, em trai 15 tuổi (đang ho nhẹ), nhóm 5 học sinh",
+     "Đã nghĩ tới và chưa loại trừ hẳn: viêm phổi cộng đồng; ung thư phổi rất ít nghĩ (27 tuổi, không hút thuốc)",
+     "Tăng huyết áp đang dùng nifedipin tác dụng kéo dài 30 mg: cần báo cơ sở lao vì tương tác với rifampicin"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám và thời gian ho (trên 2 tuần là mốc nghi lao, QĐ 162/2024 Phần II Bảng 1) → ho khan hay đờm, ho máu → đã dùng thuốc gì, đáp ứng ra sao → hỏi chủ động đau ngực, sốt chiều, ra mồ hôi đêm, cân nặng (anh không tự kể, vì nhiễu sợ hãi: kể cái lo, quên cái quan trọng) → tiền sử lao, thuốc lá, bệnh nền, thuốc đang dùng → người sống cùng nhà, nhóm học, ai ho lâu → hỏi riêng nỗi lo thật và chuyện ở nhà.",
+     "Vì sao nghĩ lao: ho khan trên 2 tuần là triệu chứng nghi lao quan trọng nhất; đi kèm đau ngực, sốt nhẹ về chiều, ra mồ hôi đêm (QĐ 162/2024 Phần II mục 1.1 Bảng 1; mục 3.2.1). Không đáp ứng hai đợt kháng sinh ngoài lao là một trong các căn cứ để nghĩ tới lao khi chưa có bằng chứng vi khuẩn (mục 3.2.2; Sơ đồ 1). Khám: đáy phổi phải gõ đục nhẹ, rung thanh tăng nhẹ, ran nổ nhỏ hạt; thực thể có thể nghèo nàn hoặc rầm rộ tùy giai đoạn (mục 3.2.1).",
+     "Vì sao là ca không điển hình: không sụt cân rõ (63 → 62 kg; sụt cân chỉ là một biểu hiện có thể có, QĐ 162/2024 Phần II Bảng 1), không ho máu, không ho đờm, tổn thương ở đáy phổi chứ không ở đỉnh. Bảng 2 (Phần II) nêu phân thùy 1, 2 thùy trên và phân thùy 6 thùy dưới là vị trí hay gặp. Thanh niên 27 tuổi, đáy phổi, dễ bị gán là viêm phổi hay ho sau nhiễm virus. Điều suýt làm bỏ qua: tưởng \"người trẻ không sụt cân, không ho máu thì không phải lao\".",
+     "Loại trừ viêm phổi cộng đồng: khởi phát cấp vài ngày, sốt cao, rét run, ho đờm mủ, đau ngực màng phổi là điển hình (QĐ 2147/2026 mục 3.1.1); ca này khởi phát âm thầm 5 tuần, hai đợt kháng sinh không đáp ứng. Viêm phổi không điển hình cũng có thể giống (mục 3.1.1), nên phải có X-quang và xét nghiệm đờm. Lao phổi nằm trong chẩn đoán phân biệt của viêm phổi (mục 3.4.1).",
+     "Loại trừ ung thư phổi: thường gặp ở người trên 50 tuổi, nghiện thuốc lá, ho đờm lẫn máu, sút cân (QĐ 2147/2026 mục 3.4.3). Anh không có yếu tố nào, nên không chụp CT hay PET lúc này (QĐ 162/2024 Phần II Bảng 3 mục 2.2: CT khi X-quang, siêu âm không rõ). Nếu lao bị loại trừ mà tổn thương không cải thiện sau 1 tháng điều trị thì quay lại nghĩ ung thư (QĐ 2147/2026 mục 3.4.3).",
+     "Nhiễu và động cơ thật: nỗi sợ ung thư đến từ người bạn thân mất vì ung thư phổi và bài viết trên mạng; động cơ thật là cãi nhau với mẹ, cần \"tờ giấy chứng minh không bệnh lây\" (mất học sinh, mất chỗ ở). Chẩn đoán nghi lao vẫn đúng, nhưng nếu chỉ trả lời tờ giấy thì anh sẽ không quay lại cơ sở lao và mẹ, em Bảo bị bỏ sót. Nhiều chi tiết ở đây là kỹ năng giao tiếp, tài liệu đã tải không bàn."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí đúng là chuyển tuyến đến đơn vị chống lao quận, trong 1–2 ngày: phòng khám chỉ có xét nghiệm cơ bản, không X-quang, không Xpert, mà Sơ đồ 1 và 2 (QĐ 162/2024 Phần II) đều bắt đầu bằng X-quang ngực và xét nghiệm sinh học phân tử/vi sinh. Anh ổn định nên không cấp cứu, không nhập viện (điều trị lao nhạy thuốc là ngoại trú tại tuyến xã, huyện, Phần III mục 7.2.3).",
+     "Không điều trị thử tại phòng khám: chẩn đoán lao cần bằng chứng vi khuẩn hoặc mô bệnh học phù hợp lâm sàng, hoặc phân tích và hội chẩn khi chưa có (mục 3.1); điều trị phải theo phác đồ chuẩn và được kiểm soát trực tiếp (Phần III mục 7.1). Không kê fluoroquinolon vì che mờ chẩn đoán (mục 3.2.2; Sơ đồ 1 chú thích *).",
+     "Xét nghiệm đã làm tại phòng khám (công thức máu, CRP, đường huyết, ure–creatinin, men gan) là xét nghiệm thường quy và mốc nền trước điều trị lao (Phần II Bảng 3 mục 5.2–5.3; Phần III Bảng 4 mục 8–10); chúng không chẩn đoán lao. Không làm xét nghiệm chiều lòng (CT, PET, dấu ấn ung thư).",
+     "Phòng lây và sàng lọc người tiếp xúc: vệ sinh ho khạc, khẩu trang, ở phòng riêng, thông khí (Phần V mục 4.1, 4.2). Mẹ, em Bảo, 5 học sinh là người tiếp xúc (Phần I mục 1.5); khám sàng lọc do cơ sở lao thực hiện sau khi có chẩn đoán (Phần IV mục 1.1.1). Tài liệu đã tải không nói thời điểm sàng lọc khi nguồn lây mới ở mức nghi ngờ.",
+     "Kết quả dự kiến: nếu Xpert dương tính, không kháng rifampicin → lao phổi có bằng chứng vi khuẩn, nhạy thuốc → phác đồ 6 tháng. Hai nguồn khác nhau ở giai đoạn duy trì: WHO 2025 (khuyến cáo 1.1) 4 tháng HR; QĐ 162/2024 (phác đồ A1) 4 tháng RHE có thêm ethambutol. Cả hai đúng; sổ mâu thuẫn đã có mục. Phác đồ 4 tháng 2HPMZ/2HPM (QĐ 162/2024 phác đồ A1a) áp dụng cho lao phổi từ 40 kg không có bằng chứng kháng thuốc: do chương trình lao quyết định."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê kháng sinh, thuốc chống lao hay thuốc ho tại phòng khám hôm nay",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "Chuyển đơn vị chống lao trong 1–2 ngày",
+      "so_ngay": "—",
+      "ghi_chu": "Chưa có chẩn đoán lao có bằng chứng; thuốc chống lao phải theo phác đồ chuẩn, kiểm soát trực tiếp, đăng ký (QĐ 162/2024 Phần III mục 7.1, 7.2.1). Không dùng fluoroquinolon (Phần II mục 3.2.2)."
+     },
+     {
+      "thuoc": "Nifedipin tác dụng kéo dài (đang dùng) – GIỮ NGUYÊN",
+      "ham_luong": "30 mg",
+      "lieu": "1 viên mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, như cũ",
+      "so_ngay": "Tiếp tục",
+      "ghi_chu": "Rifampicin làm giảm nồng độ nhóm chẹn kênh canxi (QĐ 162/2024 Phụ lục 7 Bảng 4); cách chỉnh liều: không có trong tài liệu đã tải. Ghi vào thư chuyển, theo dõi huyết áp tại nhà."
+     },
+     {
+      "thuoc": "Phối hợp liều cố định HRZE (isoniazid + rifampicin + pyrazinamid + ethambutol) – CƠ SỞ LAO KÊ SAU KHI CÓ CHẨN ĐOÁN, KHÔNG KÊ TẠI PHÒNG KHÁM",
+      "ham_luong": "Viên 75 + 150 + 400 + 275 mg",
+      "lieu": "4 viên mỗi ngày (nhóm cân nặng 55–70 kg, anh 62 kg)",
+      "duong": "Uống một lần",
+      "thoi_diem": "Mỗi ngày, xa bữa ăn, dưới sự giám sát trực tiếp (QĐ 162/2024 Phần III mục 7.1)",
+      "so_ngay": "2 tháng (giai đoạn tấn công)",
+      "ghi_chu": "QĐ 162/2024 Phụ lục 6 Bảng 3; phác đồ A1, Phần III mục 2.1.2. Kiểm men gan, công thức máu, ure–creatinin theo lịch (Phần III Bảng 4)."
+     },
+     {
+      "thuoc": "Giai đoạn duy trì, do cơ sở lao kê: HR 4 tháng (WHO) hoặc RHE 4 tháng (QĐ 162)",
+      "ham_luong": "HR 75 + 150 mg; hoặc đơn lẻ H 100 mg, R 150 mg, E 400 mg",
+      "lieu": "HR: 4 viên mỗi ngày (Phụ lục 6 Bảng 3, 55–70 kg). RHE: H 100 mg × 3, R 150 mg × 4, E 400 mg × 3 viên mỗi ngày (Phụ lục 6 Bảng 2, 55–70 kg)",
+      "duong": "Uống một lần",
+      "thoi_diem": "Sau 2 tháng tấn công, mỗi ngày, xa bữa ăn",
+      "so_ngay": "4 tháng (tổng 6 tháng)",
+      "ghi_chu": "4HR: WHO 2025 (TL-0132) khuyến cáo 1.1. 4RHE: QĐ 162/2024 phác đồ A1. Hai nguồn khác nhau, cả hai đúng (sổ mâu thuẫn, mục \"Giai đoạn duy trì phác đồ lao phổi mới nhạy thuốc ở người lớn\"). Liều tính theo cân nặng 62 kg."
+     }
+    ],
+    "dan_do": [
+     "Hôm nay chưa kết luận anh bị lao, nhưng nghi và cần chụp phim, xét nghiệm đờm ở nơi có máy. Đi đơn vị chống lao quận trong 1–2 ngày (mốc ngày: cách làm lâm sàng), mang theo thư chuyển, thuốc đang dùng và đơn hai đợt kháng sinh trước.",
+     "Ít nghĩ ung thư: anh 27 tuổi, không hút thuốc, không ho ra máu, không sụt cân. CT, PET hay xét nghiệm tầm soát lúc này chưa cần và làm chậm việc chính. Nếu kết quả không phải lao mà tổn thương không hết, sẽ tìm tiếp.",
+     "Trong lúc chờ: đeo khẩu trang khi ra ngoài, che miệng khi ho, bỏ khăn giấy vào thùng rác có nắp, ngủ gian riêng nếu được, mở cửa sổ cho thoáng. Tạm chuyển nhóm 5 em sang dạy online hoặc dạy ở chỗ thoáng; không cần báo phụ huynh lý do bệnh, chỉ báo tạm nghỉ để kiểm tra sức khỏe.",
+     "Nếu xác định lao: bệnh chữa khỏi bằng phác đồ chuẩn 6 tháng (QĐ 162/2024 Phần III mục 2.1.2; WHO 2025 khuyến cáo 1.1), uống thuốc đều mỗi ngày, có người giám sát. Mẹ, em Bảo, các em học sinh sẽ được cơ sở lao khám sàng lọc. Khuyến khích mời mẹ cùng đi buổi hẹn đầu để nghe trực tiếp, đỡ phải giải thích lại.",
+     "Quay lại hoặc đi cấp cứu ngay nếu khó thở tăng, đau ngực dữ dội, ho ra máu, sốt cao liên tục.",
+     "Không tự mua kháng sinh, nhất là levofloxacin, ciprofloxacin, uống thêm; không bỏ buổi hẹn vì sợ mất học sinh. Việc giữ kín thông tin với phụ huynh là cam kết của bác sĩ, tài liệu đã tải không có điều khoản này."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai ngày sau anh Khải đi đơn vị chống lao quận cùng mẹ (anh đã nhắn cho mẹ biết). X-quang: đám mờ đông đặc ở phân thùy 6 thùy dưới phải, tràn dịch màng phổi ít. Đờm khạc kích thích: Xpert MTB/RIF phát hiện MTB, không kháng rifampicin; AFB âm tính. Chẩn đoán lao phổi có bằng chứng vi khuẩn, nhạy thuốc; HIV, viêm gan B, C âm tính. Anh được đăng ký và uống 2HRZE rồi giai đoạn duy trì, dưới sự giám sát của nhân viên y tế. Sau 2 tuần hết sốt chiều, sau 2 tháng X-quang giảm rõ, đờm âm tính, huyết áp ổn khi bác sĩ tuyến trên phối hợp với người kê thuốc huyết áp. Hết 6 tháng anh được ghi nhận khỏi. Mẹ và em Bảo được khám sàng lọc: mẹ bình thường, Bảo loại trừ lao hoạt động; học sinh được thông báo qua trường. Hai mẹ con làm lành, anh không phải dọn ra ở riêng. Anh trở lại dạy nhóm nhỏ ở chỗ thoáng từ tháng thứ hai. Mọi quyết định ở phòng khám đều đúng với dữ kiện lúc đó (chuyển tuyến không điều trị thử, không CT, hỏi riêng nỗi lo thật). Số liệu 'sau 2 tháng', 'đờm âm tính' là diễn biến thường gặp của phác đồ chuẩn (QĐ 162/2024 Phần III Bảng 4, mốc theo dõi tháng 2 và tháng 6); tài liệu đã tải không nêu tỷ lệ khỏi trong phần đã đọc.",
+ "nhieu": [
+  "Sợ hãi quá mức: anh mở đầu bằng 'em có bị ung thư không?' và đòi CT, PET. Cách xử lý: nghe hết, hỏi nguồn nỗi sợ (bố bạn thân mất vì ung thư phổi, bài trên mạng), nói rõ vì sao ít nghĩ ung thư (QĐ 2147/2026 mục 3.4.3) rồi đưa lộ trình cụ thể: đi đâu, làm gì, bao lâu có kết quả. Không xét nghiệm chiều lòng (CT chỉ khi X-quang không rõ, QĐ 162/2024 Phần II Bảng 3 mục 2.2).",
+  "Hai đợt kháng sinh 'không hết': dễ làm tin đây là viêm phổi kháng thuốc rồi đổi kháng sinh mạnh hơn (nhất là fluoroquinolon). Đúng ra đó là gợi ý nghĩ lao (QĐ 162/2024 Phần II mục 3.2.2, Sơ đồ 1).",
+  "Anh không tự kể sốt chiều, ra mồ hôi đêm vì nghĩ không quan trọng, và chỉ đau ngực khi được hỏi riêng. Nếu chỉ nghe 'ho khan, đã dùng kháng sinh' thì dễ kết luận 'ho kéo dài sau nhiễm virus'."
+ ],
+ "bai_hoc_bien": [
+  "Ho trên 2 tuần là người nghi lao, bất kể tuổi, không sụt cân, không ho máu (QĐ 162/2024 Phần II mục 1.1 Bảng 1). Triệu chứng và khám có thể nghèo nàn (mục 3.2.1).",
+  "Không đáp ứng kháng sinh ngoài lao trước khi chụp X-quang và làm xét nghiệm vi sinh là gợi ý, chưa phải chẩn đoán. Đừng dùng fluoroquinolon thử (mục 3.2.2).",
+  "Cơ sở không có X-quang và Xpert: việc đúng là chuyển đến nơi làm được, không điều trị thử, không CT chiều lòng. Chọn chuyển tuyến vì thiếu phương tiện chẩn đoán, không vì bệnh nặng.",
+  "Hỏi động cơ thật: người đến khám để chứng minh với gia đình thì cần được hướng dẫn cách đưa mẹ vào quá trình sàng lọc, nếu không họ ngừng đi khám tiếp.",
+  "Người tiếp xúc gần (cùng nhà, cùng phòng học) là phần của chẩn đoán lao, không phải việc phụ (QĐ 162/2024 Phần I mục 1.5; Phần IV mục 1.1.1).",
+  "Thuốc đang dùng (chẹn kênh canxi) tương tác với rifampicin: ghi vào thư chuyển (Phụ lục 7 Bảng 4)."
+ ],
+ "diem_nho": [
+  "Ho kéo dài trên 02 tuần là triệu chứng nghi lao quan trọng nhất; kèm gầy sút, sốt nhẹ về chiều, ra mồ hôi đêm, đau ngực (QĐ 162/2024 Phần II mục 1.1 Bảng 1).",
+  "Chẩn đoán lao cần bằng chứng vi khuẩn hoặc mô bệnh học phù hợp lâm sàng; chưa có thì phân tích hoặc hội chẩn (mục 3.1). Người nghi lao: chụp X-quang ngực và xét nghiệm vi sinh (Sơ đồ 1); xét nghiệm sinh học phân tử là xét nghiệm ban đầu (Sơ đồ 2).",
+  "Kháng sinh thử ngoài lao 1–2 tuần (đánh giá sau mỗi 5–7 ngày), không dùng nhóm fluoroquinolon, chỉ sau khi đã chụp phim và làm vi sinh (QĐ 162/2024 Phần II Sơ đồ 1 và chú thích *).",
+  "Phác đồ người lớn nhạy thuốc: 2HRZE/4RHE theo QĐ 162/2024 hoặc 2HRZE/4HR theo WHO 2025, 6 tháng, dùng hằng ngày, kiểm soát trực tiếp. Liều theo cân nặng, 55–70 kg: HRZE 4 viên, HR 4 viên (Phụ lục 6 Bảng 3).",
+  "Người tiếp xúc: cùng nhà, cùng phòng học; sàng lọc do cơ sở lao thực hiện (Phần I mục 1.5; Phần IV mục 1.1.1).",
+  "Rifampicin làm giảm nồng độ nifedipin và nhóm chẹn kênh canxi (Phụ lục 7 Bảng 4)."
+ ],
+ "nguon": [
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Bệnh lao – Phần I mục 1.5, 2.6; Phần II mục 1.1 Bảng 1, 1.2 Bảng 2, 3.1, 3.2.1–3.2.2, Bảng 3 (mục 2.1–2.3, 5.2–5.3), Sơ đồ 1, 2; Phần III mục 2.1.2 (phác đồ A1, A1a), Bảng 4 (mục 8–12); Phần IV mục 1.1.1; Phần V mục 4.1, 4.2; Phần III mục 7.1, 7.2.1, 7.2.3; Phụ lục 6 Bảng 2, 3; Phụ lục 7 Bảng 4",
+  "TL-0132 · WHO 2025 – Consolidated guidelines on tuberculosis, Module 4: treatment and care – khuyến cáo 1.1 (2HRZE/4HR)",
+  "TL-0134 · WHO 2024 – Consolidated guidelines on tuberculosis, Module 3: diagnosis – Xpert MTB/RIF và Xpert Ultra là xét nghiệm ban đầu cho đờm",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 3.1.1, 3.1.2, 3.4.1, 3.4.3",
+  "Không có trong tài liệu đã tải: thời điểm sàng lọc người tiếp xúc khi nguồn lây mới ở mức nghi ngờ; lao phổi chưa có kết quả đờm có lây hay không; cách chỉnh liều nifedipin khi dùng cùng rifampicin; giá trị chẩn đoán của tốc độ máu lắng; mốc 1–2 ngày chuyển tuyến; dấu hiệu báo động riêng cho người nghi lao ngoại trú; cam kết giữ kín thông tin với phụ huynh học sinh (đạo đức nghề nghiệp, không phải khuyến cáo)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-08. Tài liệu đã đọc lại bằng rg: TL-0123 (Phần I mục 1.5, 2.6; Phần II mục 1.1–1.2, 3.1–3.2, Bảng 3, Sơ đồ 1–2; Phần III mục 2.1.2, Bảng 4; Phần IV mục 1.1; Phần V mục 4; Phụ lục 6–7), TL-0132 khuyến cáo 1.1, TL-0134 (xét nghiệm ban đầu Xpert), TL-0121 mục 3.1, 3.4.",
+  "Ca khác hẳn HH-1330 (nữ 52 tuổi, lao hang AFB dương tính, ho máu, warfarin): ở đây nam 27 tuổi, thể đông đặc đáy phổi, chưa có bằng chứng, chỉ có xét nghiệm cơ bản, nhiễu sợ hãi, mâu thuẫn gia đình; đáp án là chuyển tuyến vì thiếu phương tiện chẩn đoán.",
+  "Mâu thuẫn dùng đúng mục có sẵn: 'Giai đoạn duy trì phác đồ lao phổi mới nhạy thuốc ở người lớn: 4HR hay 4RHE'. Phác đồ 4 tháng A1a nêu như lựa chọn của chương trình lao, không chấm.",
+  "Số liệu xét nghiệm, X-quang, Xpert, kết cục sau chuyển tuyến do người viết tự dựng cho khớp bệnh cảnh, không phải trích tài liệu.",
+  "Phòng khám không có nhóm xn đầy đủ: Xpert, IGRA, HIV khai v e|u|a với r '(Phòng khám không làm được)' như TH-0870 vì danh mục xn không khóa các mục không cơ bản."
+ ]
+}

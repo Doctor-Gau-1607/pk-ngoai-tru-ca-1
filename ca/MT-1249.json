@@ -1,0 +1,838 @@
+{
+ "ma_ca": "MT-1249",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – bản nháp của người viết, chờ trưởng nhóm duyệt (2026-11-13)",
+ "benh": "MT_dtd_kiem_soat_kem_rat_cao_tuoi_hba1c_cao",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "ĐTĐ kiểm soát kém (HbA1c cao)",
+  "chan_doan_phai_loai_tru": [
+   "Nhiễm trùng",
+   "Tuân thủ kém"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Võ Thị Lụa",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Tiểu thương chợ (bán tạp hóa, ngồi quầy khoảng 12 giờ/ngày)",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tui' hoặc 'bà', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Giọng miền Nam, nói nhanh, tính buôn bán nên hay hỏi giá. Thương con cháu, sợ tốn tiền, hay nói 'mệt vì tuổi già, đi xe xa'. Không khát nên ít uống nước, uống nước ngọt 'cho mát'. Ít học, chỉ nhớ màu viên thuốc.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: trong túi chỉ khoảng 150 nghìn. Không nói thẳng 'không có tiền' mà nói 'bác sĩ làm cái nào thiệt cần thôi'; mỗi xét nghiệm đều hỏi giá và 'cái này có đổi cách chữa không?', đồng ý ngay khi nghe rõ là đổi quyết định. Lời mở đầu chỉ nói tái khám lấy thuốc, hơi mệt sau chuyến về quê; nước ngọt, nhịn uống nước vì nhà vệ sinh xa, tiểu đêm, nhỏ mũi chỉ nói khi được hỏi riêng. Hỏi chung 'có uống thuốc đều không' thì đáp 'dạ đều'.",
+  "nguoi_nha": "con gái",
+  "ten_nguoi_nha": "Ngân",
+  "ngoai_hinh": {
+   "da": "#c9a07a",
+   "toc": "#c4bfb7",
+   "kieuToc": "bui",
+   "ao": "#8b7355",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c9a07a",
+    "toc": "#2b1e17",
+    "kieuToc": "buoc",
+    "ao": "#5a7a8b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn lấy thuốc đái tháo đường, huyết áp; hơi mệt sau chuyến về quê",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám có xét nghiệm máu, nước tiểu, điện tim, X-quang ngực, máy thử đường mao mạch; không có máy siêu âm (nên không siêu âm bụng, bàng quang, Doppler) và không có CT, nội soi. Xét nghiệm nào cũng phải trả tiền ngay tại quầy. Bệnh viện đa khoa thị xã cách 3 km, có khoa Nội, xét nghiệm 24/24, truyền dịch và insulin tĩnh mạch."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – Tái khám theo hẹn",
+   "tiep_don": "Bà Võ Thị Lụa, 78 tuổi, bán tạp hóa ở chợ, đái tháo đường típ 2 khoảng 12 năm và tăng huyết áp, đến tái khám theo hẹn lấy thuốc. Đang uống metformin, gliclazide MR, amlodipin; sổ ghi 3 tháng trước HbA1c 9,1%. Bà đi một mình. Cân nặng 46 kg, cao 150 cm. Sinh hiệu: HA 138/78 mmHg, mạch 84 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà được giữ lại bệnh viện thị xã 'cho hạ đường'. Bà tỉnh, ăn uống được, ceton niệu âm, huyết động ổn nên chưa đủ tiêu chuẩn biến chứng cấp (QĐ 5481/2020 Phần 7 mục 3.1–3.2). Quầy hàng đóng cửa mấy ngày, con gái nghỉ làm vào chăm, tiền nằm viện hết số để dành mà thuốc về nhà vẫn chưa đổi.",
+    "chuyen_tuyen": "Bà được giới thiệu lên bệnh viện tỉnh khám nội tiết ngay hôm nay. Chuyến đi mất cả ngày, quầy đóng cửa, tiền đi lại và khám ăn hết số tiền bà mang. Chuyển nội tiết dành cho người không đạt mục tiêu sau điều chỉnh hoặc phác đồ ngày càng phức tạp (QĐ 5481 Phần 4 mục 9), mà bà chưa được thử phác đồ mới nào."
+   },
+   "loi_mo": "Bác sĩ ơi, tui tới tái khám lấy thuốc theo hẹn thôi. Hồi cuối tuần tui đi xe về quê dự giỗ, về tới giờ hơi mệt. Bác sĩ coi giùm, làm cái nào thiệt cần thôi nghen, tiền tui còn có chút xíu.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "138/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà đến tái khám theo hẹn, lấy thuốc đái tháo đường và huyết áp. Bà thấy hơi mệt từ sau chuyến về quê hôm thứ bảy tuần trước và nghĩ do đi xe xa.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, triệu chứng bà tự kể"
+    },
+    {
+     "id": "chuyen_di",
+     "noi_dung": "Thứ bảy tuần trước bà đi xe khách về quê dự giỗ, mỗi chiều khoảng 7 giờ, ngồi gần như suốt. Bà uống nước ngọt, ăn bánh ngọt; hai buổi sáng thứ bảy, chủ nhật quên uống thuốc, từ thứ hai uống đủ lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chuyến đi xa, ngồi lâu, quên thuốc"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Bà mệt, ăn kém (mỗi bữa nửa chén), tiểu đêm 3–4 lần nhưng cho là do tuổi già, không thấy khát. Không sốt, không tiểu buốt hay đục, không ho, không đau bụng, không nôn, không đau ngực, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tăng glucose không điển hình, dấu nhiễm trùng"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ở quầy bà uống 3–4 ly trà đá đường và một chai nước ngọt mỗi ngày 'cho mát', ăn bánh ngọt khách biếu. Bác sĩ trước dặn ăn kiêng nhưng bà chưa bỏ được nước ngọt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đồ uống có đường"
+    },
+    {
+     "id": "nuoc_vs",
+     "noi_dung": "Nhà vệ sinh của chợ cách quầy khoảng 200 m và hay đông, bà ngồi quầy gần như cả ngày nên ít uống nước lọc, thường nhịn tiểu cho tới trưa hoặc chiều. Không ai trông quầy giúp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen uống nước, nhịn tiểu do điều kiện làm việc"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ba tháng nay bà uống metformin 500 mg sáng, tối sau ăn, gliclazide MR 30 mg × 2 viên sáng, amlodipin 5 mg sáng (thuốc trạm y tế, BHYT). Con gái chia sẵn hộp 7 ngăn; còn nguyên hai ngăn sáng thứ bảy, chủ nhật. Ngoài hai ngày đó bà uống đủ, không tự đổi thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, thuốc đang dùng"
+    },
+    {
+     "id": "nho_mui",
+     "noi_dung": "Hơn hai năm nay bà nhỏ naphazolin 0,05% mua ở quầy thuốc đầu chợ, 3–4 lần mỗi ngày vì mũi nghẹt ban đêm và sáng sớm; thiếu thuốc thì nghẹt nặng. Bà không xem đó là thuốc nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về thuốc nhỏ mũi, xịt mũi hay thuốc tự mua; hỏi chung 'có dùng thuốc gì khác không' thì đáp 'dạ không'.",
+     "k": 0,
+     "y": "Thuốc nhỏ mũi dùng kéo dài"
+    },
+    {
+     "id": "ngan_sach",
+     "noi_dung": "Trong túi bà còn khoảng 150.000 đồng (tiền lời mấy ngày bán hàng, con gái chưa gửi). Xét nghiệm ở phòng khám này bà tự trả. Bà hỏi giá từng xét nghiệm và hỏi 'cái này có đổi cách chữa không?'; chỉ đồng ý khi bác sĩ giải thích rõ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngân sách xét nghiệm"
+    },
+    {
+     "id": "so_kham",
+     "noi_dung": "Sổ ghi 3 tháng trước (bệnh viện huyện): HbA1c 9,1%; creatinin 92 µmol/L (eGFR 55); glucose đói 10,8 mmol/L; cân 48,5 kg. Bác sĩ hôm đó tăng gliclazide MR từ 1 lên 2 viên và dặn ăn kiêng. Bà không có máy thử đường ở nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả cũ, cân nặng cũ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Đái tháo đường 12 năm, tăng huyết áp 10 năm, thoái hóa gối. Chưa từng hạ đường huyết hay nhập viện vì đường huyết. Không hút thuốc, không rượu; không dùng corticoid, lợi tiểu, thuốc đông y. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, thuốc nguy cơ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy. Cân 46 kg, cao 150 cm, BMI 20,4. Môi hơi khô, lưỡi ẩm, nếp véo da mất nhanh, mắt không trũng. Không phù, không vàng da, da niêm hồng nhạt.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: 138/78 mmHg, mạch 84 l/p. Đứng 3 phút: 130/74 mmHg, mạch 90 l/p. Không chóng mặt.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi, không T3, T4.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 84 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Phổi thông khí đều hai bên, không ran.",
+     "k": 0,
+     "hien": "Thở đều 18 l/p."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau kể cả vùng hạ vị; gan lách không sờ thấy.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng vỗ không đau. Trên xương mu không căng, gõ không đục, ấn không đau (không có siêu âm nên dựa vào khám).",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, không sưng, không đau, không nóng đỏ, không phù. Bàn chân da khô, không loét, không nứt kẽ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không dấu khư trú. Monofilament 10 g mất cảm giác 2 điểm ngón cái trái; rung âm thoa giảm nhẹ ở mắt cá.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi đỏ sẫm, phù nề, cuốn dưới to, không mủ, không polyp. Họng không đỏ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "17,4 mmol/L (khoảng 2,5 giờ sau bữa sáng)",
+     "ab": 1,
+     "n": "Rẻ nhất (20.000 đ) và cần ngay để quyết định insulin (QĐ 5481/2020 Phần 4 mục 4.2f và ADA 2026 KC 9.20, cùng mốc ≥ 16,7 mmol/L). Glucose mao mạch chỉ để theo dõi, không chẩn đoán xác định (QĐ 5904/2019 Phần 2 Bước 3)."
+    },
+    "que_nt": {
+     "v": "e",
+     "r": "Glucose 4+, ceton âm tính, protein vết, bạch cầu âm tính, nitrit âm tính, hồng cầu âm tính; tỷ trọng 1.025.",
+     "ab": 1,
+     "n": "Rẻ (15.000 đ), loại trừ ceton (QĐ 5481 Phần 7 mục 2.1–2.2, Bảng 7) và nhiễm trùng tiết niệu, nguyên nhân thúc đẩy thường gặp của khủng hoảng tăng đường huyết (ADA/EASD 2024, TL-0064)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,4 mmol/L · creatinin 108 µmol/L · eGFR 45 mL/ph/1,73m² (3 tháng trước creatinin 92, eGFR 55)",
+     "ab": 1,
+     "n": "Đổi quyết định thuốc: metformin chống chỉ định eGFR < 30, giảm liều khi 30–45 (QĐ 5481 Phụ lục 01 mục 2; ADA 2026 mục 9, Metformin). Chọn thay HbA1c khi chỉ có 150.000 đ."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "9,4%",
+     "ab": 1,
+     "n": "Chấp nhận, không bắt buộc: đã có 9,1% cách 3 tháng, glucose 17,4 đủ để đổi thuốc; HbA1c hàng quý khi đổi thuốc (QĐ 5481 Phần 3 mục 2.4; ADA 2026 KC 6.2). 120.000 đ cùng creatinin vượt 150.000 đ: làm lại sau 3 tháng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái tháo đường típ 2 kiểm soát kém (HbA1c 9,1% ba tháng trước; glucose mao mạch 17,4 mmol/L) ở bà 78 tuổi nhiều bệnh, có dấu dị hóa (sụt 2,5 kg/3 tháng), không điển hình: chỉ mệt, ăn kém, tiểu đêm, không khát",
+     "ok": 1,
+     "n": "Không đạt mục tiêu HbA1c < 8,0% (nhiều bệnh: ADA 2026 Bảng 13.2, KC 13.7b; QĐ 5481 Phần 4 Bảng 5). Người cao tuổi giảm cảm giác khát (TL-0064)."
+    },
+    {
+     "t": "eGFR giảm 55 → 45 mL/ph/1,73m², nghi bệnh thận mạn G3a do đái tháo đường/tăng huyết áp, chưa có UACR",
+     "ok": 1,
+     "n": "Hai mốc eGFR đều < 60 cách nhau 3 tháng; UACR hoãn vì ngân sách (ADA 2026 mục 11)."
+    },
+    {
+     "t": "Tăng huyết áp đang điều trị (138/78); viêm mũi do dùng thuốc co mạch nhỏ mũi kéo dài; thần kinh ngoại biên nhẹ; thoái hóa gối",
+     "ok": 1,
+     "n": "Co mạch nhỏ mũi dùng kéo dài làm bệnh nặng hơn (QĐ 5643/2015 mục 4.2.1; ARIA–EAACI 2024–2025 Phần I). Ảnh hưởng lên glucose, huyết áp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm trùng thúc đẩy tăng glucose (tiết niệu, phổi, bàn chân)",
+     "n": "Loại trừ: không sốt, không tiểu buốt, phổi trong, chân không loét, que nước tiểu bạch cầu và nitrit âm; nhiễm trùng, nhất là tiết niệu và phổi, là nguyên nhân thúc đẩy phổ biến (TL-0064). Không có siêu âm nên loại trừ bí tiểu, ứ nước thận dựa vào khám bàng quang và hố thắt lưng."
+    },
+    {
+     "t": "Tuân thủ kém là nguyên nhân HbA1c 9,1%",
+     "n": "Loại trừ: hộp thuốc 7 ngăn do con gái chia, ba tháng uống đủ, chỉ quên hai buổi sáng khi đi xa (không giải thích HbA1c cao từ trước). Nguyên nhân: đồ ngọt, sụt cân, thuốc chưa đủ mạnh (QĐ 5481 Phần 4 mục 4.2f)."
+    },
+    {
+     "t": "Toan ceton, tăng áp lực thẩm thấu; nhồi máu cơ tim thể không điển hình",
+     "n": "Loại trừ: tỉnh, ceton niệu âm, huyết động ổn, không đau ngực, khó thở (QĐ 5481 Phần 7 Bảng 7, mục 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Loại trừ biến chứng cấp và nhiễm trùng ngay tại phòng khám (ceton niệu, khám mất nước, huyết áp nằm–đứng) trước khi cho về",
+     "v": "c",
+     "n": "QĐ 5481 Phần 7 mục 2.1–2.2, Bảng 7. Tiêu chí chuyển tuyến QĐ 5904/2019 Phần 2 Bước 4A mục 4 viết cho trạm y tế xã; nơi có xét nghiệm và đã loại trừ biến chứng cấp thì xử trí tại chỗ (sổ MT-1262)."
+    },
+    {
+     "t": "Mục tiêu cá thể hóa: HbA1c < 8,0%, glucose đói 5,0–8,3 mmol/L (90–150 mg/dL), trước ngủ 5,6–10,0 mmol/L; ưu tiên tránh hạ glucose",
+     "v": "c",
+     "n": "ADA 2026 Bảng 13.2, KC 13.7b; QĐ 5481 Phần 4 Bảng 5 (nhiều bệnh: < 8,0%; 90–150; 100–180 mg/dL): cùng số."
+    },
+    {
+     "t": "Thêm insulin nền liều thấp: glargine 6 đơn vị (0,13 đơn vị/kg) tiêm 1 lần mỗi sáng đúng giờ, chỉnh dần theo glucose đói (+2 đơn vị mỗi 3 ngày hoặc +1–2 đơn vị mỗi 1–2 lần/tuần, nhịp chậm hợp với bà); HOẶC thêm linagliptin 5 mg/ngày",
+     "v": "c",
+     "n": "Dị hóa (sụt cân) hoặc HbA1c ≥ 9% thì cân nhắc insulin sớm (QĐ 5481 Phần 4 mục 4.2f); ADA 2026 KC 9.20: dị hóa, HbA1c > 10% hoặc glucose ≥ 16,7 (sổ MT-0333). Khởi 10 đơn vị hoặc 0,1–0,2 đơn vị/kg (ADA Hình 9.5; QĐ 5481 mục 4.2): 5–9 đơn vị, chọn 6 vì 78 tuổi, eGFR 45; chỉnh theo sổ MT-0332. Linagliptin không gây hạ glucose, không chỉnh liều khi eGFR giảm (QĐ 5481 Phụ lục 01, DPP-4). Giá thuốc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm gliclazide MR từ 60 mg xuống 30 mg hoặc ngưng khi thêm insulin; không tăng",
+     "v": "c",
+     "n": "ADA 2026 KC 6.6, 13.14a; Beers 2023 Bảng 2; QĐ 5481 Phụ lục 01 mục 1 (người lớn tuổi dễ hạ glucose). Giảm, ngưng hay giữ đều chấp nhận khi thêm insulin (sổ MT-1259)."
+    },
+    {
+     "t": "Giữ metformin 500 mg × 2, không tăng (tối đa 1.000 mg/ngày khi eGFR 30–45: KDIGO 2022, bảng chỉnh liều thuốc theo eGFR; QĐ 5481 Phụ lục 01 mục 2 chỉ ghi giảm liều); tạm ngưng khi nôn, ăn uống kém, mất nước; kiểm eGFR mỗi 3–6 tháng",
+     "v": "c",
+     "n": "QĐ 5481 Phụ lục 01 mục 2; ADA 2026 mục 9 (Metformin). Số ngày tạm ngưng, cách dùng lại: không có trong tài liệu đã tải (sổ MT-0750 mục 5)."
+    },
+    {
+     "t": "Thay nước ngọt, trà đá đường bằng nước lọc hoặc trà không đường; uống nước đều, không nhịn tiểu; bàn cách đi vệ sinh ở chợ (nhờ người trông quầy, mang chai nước)",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 5.2f; ADA 2026 KC 5.25; người cao tuổi giảm cảm giác khát, dễ mất nước khi glucose cao (TL-0064). Lượng nước mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn tiêm insulin; xử trí hạ glucose (uống 15–20 g glucose pha nước hoặc 10–15 g, thử lại sau 15 phút, ăn nhẹ); bảo quản bút dưới 30 °C tránh nắng; con gái học tiêm; đo glucose đói tại nhà",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 4.2k, Phần 6 mục 1c (15–20 g); QĐ 5904 Phần 2 Bước 4 (10–15 g): ghi cả hai (sổ TH-0295). QĐ 5481 Phụ lục 02 mục 3: trên 30 °C insulin giảm tác dụng. Giá máy thử: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 10 ngày, mang sổ ghi glucose; quay lại ngay nếu mệt thêm, buồn ngủ, khát, tiểu ít, glucose nhà > 16,7 hoặc < 3,9; HbA1c, UACR để sau 3 tháng",
+     "v": "c",
+     "n": "ADA 2026 Hình 9.5 (đánh giá liều mỗi lần khám); QĐ 5481 Phần 3 mục 2.3 (0,5–1 tháng khi chỉnh thuốc), mục 2.4 (HbA1c hàng quý), Bảng 2 (UACR 3–6 tháng) hoặc ADA KC 11.1a (hằng năm); Phần 7 mục 2.1. Mốc 10 ngày là lựa chọn của ca."
+    },
+    {
+     "t": "Dặn bỏ dần naphazolin nhỏ mũi kéo dài, rửa mũi nước muối 0,9%",
+     "v": "a",
+     "n": "QĐ 5643/2015 mục 4.2.1 (co mạch ngắn ngày, kéo dài làm nặng); ARIA–EAACI 2024–2025 Phần I: không dùng > 5 ngày, không dùng ở người cao tuổi. Ảnh hưởng lên glucose: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng gliclazide MR lên 90–120 mg hoặc thêm sulfonylurea khác để hạ glucose nhanh",
+     "v": "w",
+     "n": "78 tuổi, ăn kém, eGFR 45: dễ hạ glucose (Beers 2023 Bảng 2; ADA 2026 KC 13.14a; QĐ 5481 Phụ lục 01 mục 1; sổ MT-0364)."
+    },
+    {
+     "t": "Tăng metformin lên 1.500–2.000 mg/ngày",
+     "v": "w",
+     "n": "eGFR 45 sát ngưỡng giảm liều 30–45 (QĐ 5481 Phụ lục 01 mục 2); nguy cơ toan lactic (ADA 2026 mục 9, Metformin)."
+    },
+    {
+     "t": "Chỉ cấp thuốc, hẹn lại sau 1 tháng, không dặn nước uống và dấu hiệu nguy hiểm",
+     "v": "w",
+     "n": "Vừa đổi thuốc hạ glucose cần theo dõi sớm (ADA 2026 Hình 9.5; QĐ 5481 Phần 3 mục 2.3); mất nước khi glucose cao dẫn tới tăng áp lực thẩm thấu ở người cao tuổi (TL-0064)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái tháo đường típ 2 kiểm soát kém ở bà 78 tuổi nhiều bệnh: glucose mao mạch 17,4 mmol/L, HbA1c 9,1% (3 tháng trước), sụt 2,5 kg; không điển hình (mệt, ăn kém, tiểu đêm, không khát); ceton niệu âm, chưa có biến chứng cấp",
+     "eGFR giảm từ 55 xuống 45 mL/ph/1,73m² (nghi bệnh thận mạn G3a); thần kinh ngoại biên nhẹ; tăng huyết áp 138/78 đang điều trị",
+     "Nhiễm trùng và tuân thủ kém đã loại trừ; yếu tố thúc đẩy: đồ uống ngọt, quên 2 liều khi đi xa; dùng naphazolin nhỏ mũi kéo dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi triệu chứng tăng glucose, dấu nhiễm trùng, chuyến đi, ăn uống, nước uống, tuân thủ, thuốc tự mua, sổ cũ, ngân sách (QĐ 5481 Phần 3 mục 2.1) → khám mất nước, huyết áp nằm–đứng, bụng, bàng quang, chân, thần kinh (mục 2.2) → CLS theo 150.000 đ: glucose mao mạch, que nước tiểu, creatinin; bỏ HbA1c, UACR, công thức máu.",
+     "Chẩn đoán đích: đái tháo đường kiểm soát kém ở người cao tuổi, mục tiêu HbA1c < 8,0% (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5). Điểm không điển hình: bà không khát, chỉ mệt và nghĩ do đi xe; người cao tuổi giảm cảm giác khát (TL-0064). Điểm dễ sót: nước ngọt, nhịn tiểu ở quầy vì bà không tự kể."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn 10 ngày (ve_hen): tỉnh, ceton âm, uống được (QĐ 5481 Phần 7 Bảng 7; QĐ 5904 Bước 4A dành cho trạm y tế xã).",
+     "Thêm insulin nền liều thấp (hoặc linagliptin), giảm gliclazide, giữ metformin liều thấp vì eGFR 45; không tăng sulfonylurea hay metformin (ADA 2026 KC 6.6, 9.20, 13.14a; QĐ 5481 Phần 4 mục 4.2f, Phụ lục 01). Không dặn nước uống, đồ ngọt, bảo quản insulin, tái khám sớm là điểm gãy đầu tiên của chuỗi quyết định."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine (bút 100 đơn vị/mL)",
+      "ham_luong": "100 đơn vị/mL",
+      "lieu": "6 đơn vị × 1 lần/ngày",
+      "duong": "Tiêm dưới da bụng",
+      "thoi_diem": "Sáng, 6 giờ, đúng giờ",
+      "so_ngay": "10 ngày đến lần tái khám",
+      "ghi_chu": "0,1–0,2 đơn vị/kg (ADA 2026 Hình 9.5; QĐ 5481 Phần 4 mục 4.2). Tăng +2 đơn vị mỗi 3 ngày (ADA) hoặc +1–2 đơn vị mỗi 1–2 lần/tuần (QĐ 5481); hạ glucose không rõ nguyên nhân thì giảm 10–20%. Bảo quản dưới 30 °C (Phụ lục 02 mục 3)."
+     },
+     {
+      "thuoc": "Gliclazide MR",
+      "ham_luong": "30 mg",
+      "lieu": "Giảm từ 2 còn 1 viên/ngày (hoặc ngưng)",
+      "duong": "Uống",
+      "thoi_diem": "Trước ăn sáng 15 hoặc 30 phút",
+      "so_ngay": "10 ngày",
+      "ghi_chu": "ADA 2026 KC 13.14a; Beers 2023 Bảng 2. Trước ăn 15 phút (QĐ 5904 Phụ lục 2.3) hoặc 30 phút (QĐ 5481 Phụ lục 01 mục 1) (sổ MT-1271). Không uống khi bỏ bữa."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Ngay sau ăn sáng và tối",
+      "so_ngay": "10 ngày",
+      "ghi_chu": "Giữ liều, không tăng; eGFR 30–45 giảm liều, < 30 chống chỉ định (QĐ 5481 Phụ lục 01 mục 2). Tạm ngưng khi nôn, mất nước."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "10 ngày",
+      "ghi_chu": "Giữ nguyên, HA 138/78 (QĐ 5481 Phần 4 Bảng 5; ADA 2026 KC 13.9)."
+     }
+    ],
+    "dan_do": [
+     "Với bà: đường hôm nay cao nhưng ceton âm tính nên chưa nguy hiểm; vì bà sụt cân nên cần thêm thuốc tiêm liều nhỏ; mời con gái học tiêm (QĐ 5481 Phần 4 mục 4.2f, 4.2k).",
+     "Bỏ nước ngọt và trà đá đường, uống nước lọc đều, không nhịn tiểu (QĐ 5481 Phần 4 mục 5.2f; ADA 2026 KC 5.25). Bút insulin giữ nơi mát dưới 30 °C, tránh nắng (Phụ lục 02 mục 3). Hạ glucose: uống 15–20 g glucose hoặc 10–15 g, đo lại sau 15 phút, ăn nhẹ (QĐ 5481 Phần 6 mục 1c; QĐ 5904 Bước 4).",
+     "Quay lại ngay nếu mệt thêm, buồn ngủ, tiểu ít, glucose nhà > 16,7 hoặc < 3,9. Tái khám sau 10 ngày; HbA1c, UACR sau 3 tháng (QĐ 5481 Phần 3 mục 2.4)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám sau 10 ngày, không đỡ",
+   "tiep_don": "Bà Lụa tái khám sau 10 ngày theo hẹn, con gái Ngân (45 tuổi) đưa đi. Bà đang uống metformin 500 mg × 2, gliclazide MR 30 mg × 1 viên, amlodipin 5 mg, tiêm glargine 6 đơn vị mỗi sáng; vẫn mệt, 'không đỡ'. Cân nặng 44,5 kg. Sinh hiệu: HA 112/64 mmHg, mạch 98 l/p, nhiệt 36,9 °C, nhịp thở 20 l/p, SpO₂ 96%.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Bà được tăng glargine lên 12 đơn vị, dặn uống nhiều nước rồi về. Đêm đó bà ngủ li bì, sáng gọi không tỉnh, được đưa cấp cứu với mất nước nặng hơn, creatinin tăng thêm. Tăng áp lực thẩm thấu tử vong cao hơn nhiều so với toan ceton (QĐ 5481/2020 Phần 7 mục 1); insulin tại nhà không bù được thể tích ở người mất nước, rối loạn ý thức (Phần 7 mục 4.1: bù dịch trước).",
+    "chuyen_tuyen": "Bà được đưa bệnh viện tỉnh cách 80 km trong khi bệnh viện thị xã cách 3 km đã có khoa Nội, xét nghiệm 24/24, truyền dịch và insulin tĩnh mạch. Gần hai giờ trên xe với người mất nước, lơ mơ, con gái phải mượn thêm tiền; bù dịch chậm hơn, không lợi gì thêm (QĐ 5481 Phần 7 mục 4.1–4.2)."
+   },
+   "loi_mo": "Bác sĩ ơi, tui chích thuốc đủ hết mà đường vẫn cao, tui còn mệt hơn, cứ buồn ngủ, ăn không vô. Hay thuốc này không hạp tui?",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "112/64",
+    "nhiet": "36,9",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": [
+     "Mạch nhanh, HA thấp so với lần trước (138/78)"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "tiem",
+     "noi_dung": "Bà tiêm glargine 6 đơn vị vào bụng mỗi sáng 6 giờ, ghi sổ, không thiếu ngày nào. Con gái được dạy lắp kim mới, vặn đúng 6 đơn vị, giữ kim 10 giây; chỗ tiêm xoay quanh rốn, không bầm, không chai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và kỹ thuật tiêm"
+    },
+    {
+     "id": "bao_quan",
+     "noi_dung": "Bà mang bút ra chợ cho tiện, treo trong túi ni lông cạnh quầy, không có hộp giữ lạnh. Nắng chiều rọi vào quầy, buổi trưa túi nóng ấm tay. Bút nhận cách đây 10 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bảo quản insulin"
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Bà vẫn uống ít nước lọc vì nhà vệ sinh xa; chủ yếu 2–3 ly trà đá đường và nửa chai nước ngọt 'cho đỡ khô cổ'. Mấy ngày nay tiểu nhiều, tiểu đêm 4–5 lần, nước tiểu vàng đậm; vẫn chưa thấy khát rõ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nước uống, đồ ngọt, tiểu nhiều"
+    },
+    {
+     "id": "tinh_tao",
+     "noi_dung": "Con gái kể: ba ngày nay bà ngồi bán hàng hay ngủ gà, tính tiền sai hai lần, tối ngủ li bì khó gọi dậy. Không nói nhảm, không méo miệng, không liệt, không té, không đau đầu, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thay đổi ý thức"
+    },
+    {
+     "id": "nhiem_trung",
+     "noi_dung": "Không sốt, không ớn lạnh, không tiểu buốt, nước tiểu không đục, không ho, không đau họng, không đau bụng, bàn chân không vết thương.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu nhiễm trùng"
+    },
+    {
+     "id": "an",
+     "noi_dung": "Năm ngày nay bà chỉ ăn nửa chén cháo hoặc cơm mỗi bữa, không nôn, không tiêu chảy. Cân 44,5 kg (lần trước 46 kg).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, cân nặng"
+    },
+    {
+     "id": "glucose_nha",
+     "noi_dung": "Con gái mượn máy thử của hàng xóm: sáng đói 15,8; 18,2; 17,6; 19,0 mmol/L các sáng sau lần khám; chiều nay trước khi đi 24,1. Chưa lần nào dưới 10; không có cơn run, vã mồ hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhật ký glucose tại nhà"
+    },
+    {
+     "id": "ngan_sach",
+     "noi_dung": "Con gái đưa thêm 200.000 đồng; bà vẫn hỏi giá và xét nghiệm nào đổi cách chữa. Bệnh viện đa khoa thị xã cách 3 km, có khoa Nội, xét nghiệm 24/24, truyền dịch, insulin tĩnh mạch; BHYT dùng được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngân sách, nơi nhập viện"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Bà vẫn nhỏ naphazolin 3–4 lần/ngày; không dùng thuốc lợi tiểu, corticoid, thuốc đông y.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc khác"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Lơ mơ nhẹ nhưng gọi mở mắt, trả lời đúng tên, nhớ ngày sau khi nhắc; mệt. Cân 44,5 kg. Môi nứt khô, lưỡi khô, nếp véo da mất chậm hơn 2 giây, mắt trũng nhẹ. Không thở sâu, hơi thở không mùi ceton.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: 112/64 mmHg, mạch 98 l/p. Đứng 3 phút: 92/54 mmHg, mạch 112 l/p, chóng mặt, phải vịn ghế.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "4AT 5 điểm: ngủ gà (tỉnh táo giảm), đọc tháng ngược sai 2 tháng, thay đổi cấp trong vài ngày (ngưỡng ≥ 4 gợi ý sảng, TL-0078).",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Không liệt, không méo miệng, nói rõ, đồng tử đều, cổ mềm; phản xạ gân xương bình thường hai bên. Không dấu thần kinh khư trú.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, T1 T2 rõ, không âm thổi, không T3, T4.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 98 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Phổi thông khí đều hai bên, không ran.",
+     "k": 0,
+     "hien": "Thở đều 20 l/p."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không chướng. Vùng tiêm quanh rốn: da không bầm, không chai cứng.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Hai hố thắt lưng không đau. Vùng trên xương mu không căng, gõ trong, ấn không đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "29,6 mmol/L",
+     "ab": 1,
+     "n": "Bắt buộc ngay ở người lơ mơ, mất nước: trên 16,7 mmol/L (QĐ 5904 Phần 2 Bước 4A mục 4); tăng áp lực thẩm thấu thường > 33,3 (QĐ 5481 Phần 7 mục 3.2, Bảng 7): chưa đạt nhưng rất cao."
+    },
+    "que_nt": {
+     "v": "e",
+     "r": "Glucose 4+, ceton 1+ (nhẹ), protein vết, bạch cầu âm tính, nitrit âm tính, hồng cầu âm tính; tỷ trọng 1.030.",
+     "ab": 1,
+     "n": "Ceton (+) nhẹ gặp ở tăng áp lực thẩm thấu (QĐ 5481 Phần 7 Bảng 7); bạch cầu, nitrit âm cùng không sốt: ít nghĩ nhiễm trùng tiểu."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 15,2 mmol/L · creatinin 138 µmol/L · eGFR 34 mL/ph/1,73m² (10 ngày trước: creatinin 108, eGFR 45)",
+     "ab": 1,
+     "n": "Ure, creatinin tăng cấp do giảm thể tích (QĐ 5481 Phần 7 mục 2.2). eGFR 34 trong khoảng giảm liều metformin, gần ngưỡng < 30 (Phụ lục 01 mục 2); metformin tăng rất cao khi tổn thương thận cấp liên quan toan lactic (ADA 2026 mục 9)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 4,9 · Cl 100 mmol/L. Na hiệu chỉnh 145 mmol/L; áp lực thẩm thấu hiệu dụng ước tính 306 mosmol/kg",
+     "ab": 1,
+     "n": "Na hiệu chỉnh = Na đo + 1,6 × (glucose − 5,6)/5,6; ALTT hiệu dụng = 2 × Na + glucose (QĐ 5481 Phần 7 mục 2.2, 2.4). 306 < 320: chưa đủ tiêu chuẩn tăng ALTT nhưng đang tiến gần; Na hiệu chỉnh ≥ 135 gợi dịch nhược trương ở bệnh viện (mục 4.2f)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái tháo đường típ 2 kiểm soát kém, không đỡ sau 10 ngày: glucose 29,6 mmol/L, mất nước vừa–nặng, lơ mơ nhẹ (4AT 5), tổn thương thận cấp trên nền eGFR giảm (creatinin 108 → 138), ALTT hiệu dụng ≈ 306 mosmol/kg: chưa đủ tiêu chuẩn tăng ALTT nhưng nguy cơ cao tiến triển",
+     "ok": 1,
+     "n": "Tăng áp lực thẩm thấu cần glucose > 33,3 và ALTT > 320 (QĐ 5481 Phần 7 mục 3.2); bà dưới ngưỡng nhưng người cao tuổi dễ mất nước vì giảm cảm giác khát, hạn chế dịch (TL-0064). Nhập viện để bù dịch, điện giải, insulin (QĐ 5481 Phần 7 mục 4.1)."
+    },
+    {
+     "t": "Nguyên nhân không đỡ: (1) bút insulin để chỗ nóng quanh quầy, trên 30 °C làm giảm tác dụng; (2) mất nước do nhịn uống và uống nước ngọt; (3) liều khởi đầu 6 đơn vị còn thấp, chưa kịp chỉnh",
+     "ok": 1,
+     "n": "QĐ 5481 Phụ lục 02 mục 3: insulin để trên 30 °C giảm tác dụng. Hiệu lực bút đã dùng 10 ngày ở nhiệt độ này: không có trong tài liệu đã tải. Chỉnh liều chỉ khi đã bù dịch (ADA 2026 Hình 9.5)."
+    },
+    {
+     "t": "Nhiễm trùng thúc đẩy (tiết niệu, phổi, bàn chân)",
+     "n": "Loại trừ: không sốt, que nước tiểu bạch cầu, nitrit âm, phổi trong, chân không vết thương, bàng quang không căng (không có siêu âm). Nhiễm trùng là nguyên nhân thúc đẩy chính của tăng ALTT (30–60%, TL-0064)."
+    },
+    {
+     "t": "Tuân thủ kém hoặc tiêm sai kỹ thuật",
+     "n": "Loại trừ: tiêm đúng giờ, ghi sổ, kim mới, vặn đúng liều, vị trí tiêm bình thường (QĐ 5481 Phần 4 mục 4.2k). Nguyên nhân là bảo quản và mất nước."
+    },
+    {
+     "t": "Đột quỵ, hạ glucose, toan ceton là nguyên nhân lơ mơ",
+     "n": "Loại trừ: không dấu thần kinh khư trú, glucose 29,6, không thở Kussmaul, ceton chỉ (+) nhẹ (QĐ 5481 Phần 7 mục 2.1, Bảng 7)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện ngay hôm nay (Bệnh viện đa khoa thị xã, khoa Nội, cách 3 km), không cho về nhà; con gái đi cùng, mang bút insulin, thuốc, sổ ghi glucose; giấy chuyển ghi glucose 29,6, Na 138 (hiệu chỉnh 145), creatinin 138, ceton niệu (+) nhẹ, 4AT 5, hạ HA tư thế",
+     "v": "c",
+     "n": "Mất nước, glucose > 16,7, rối loạn ý thức không do hạ glucose (nghi tăng ALTT) là tiêu chí chuyển tuyến (QĐ 5904 Phần 2 Bước 4A mục 4, viết cho trạm y tế; phòng khám không truyền dịch và theo dõi liên tục được). Bù dịch, điện giải, insulin (QĐ 5481 Phần 7 mục 4.1). Người cao tuổi yếu: tốc độ dịch theo bệnh đi kèm (TL-0064 Bảng 4)."
+    },
+    {
+     "t": "Tạm ngưng metformin (mất nước, tổn thương thận cấp); không tự tăng insulin hay gliclazide ở nhà",
+     "v": "c",
+     "n": "QĐ 5481 Phụ lục 01 mục 2; ADA 2026 mục 9. Quy tắc ngày ốm chi tiết: không có trong tài liệu đã tải (sổ MT-0750 mục 5)."
+    },
+    {
+     "t": "Trước khi đi: cho uống từng ngụm nước lọc nếu tỉnh; nếu có đường truyền và người theo dõi thì NaCl 0,9% tốc độ thận trọng",
+     "v": "a",
+     "n": "Ghi cả hai: 15–20 mL/kg/giờ giờ đầu, tối đa < 50 mL/kg (QĐ 5481 Phần 7 mục 4.2d) hoặc 500–1.000 mL/giờ trong 2–4 giờ đầu (ADA/EASD 2024); người cao tuổi cần thận trọng khi bù nhanh (TL-0064), chọn thấp ở bà 44,5 kg (sổ MT-0335 mục 2)."
+    },
+    {
+     "t": "Giải thích nguyên nhân không đỡ (bút để nóng, nhịn uống, nước ngọt); dùng bút mới giữ mát khi xuất viện; hẹn tái khám tại phòng khám khoảng 1 tuần sau xuất viện",
+     "v": "c",
+     "n": "QĐ 5481 Phụ lục 02 mục 3 (tránh > 30 °C, nắng), Phần 4 mục 4.2k (giáo dục người bệnh, người nhà); theo dõi sát sau khủng hoảng giúp ngừa HHS ở người cao tuổi (TL-0064). Có bỏ bút cũ hay không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, tăng glargine lên 12 đơn vị và dặn uống nhiều nước",
+     "v": "w",
+     "n": "Đang mất nước, rối loạn ý thức, creatinin tăng: cần bù dịch trước (QĐ 5481 Phần 7 mục 4.1); insulin tăng gấp đôi ở người ăn nửa chén mỗi bữa, eGFR 34 dễ hạ glucose (ADA 2026 Hình 9.5: +2 đơn vị mỗi 3 ngày)."
+    },
+    {
+     "t": "Khởi thuốc ức chế SGLT2 vì eGFR 34 và bệnh thận",
+     "v": "w",
+     "n": "Khởi lúc đang mất nước là sai thời điểm: ADA 2026 KC 11.7a (eGFR ≥ 20) lo ngại tổn thương thận cấp do mất thể tích (sổ MT-0750 mục 6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái tháo đường típ 2 mất bù, không đỡ sau 10 ngày: glucose 29,6 mmol/L; mất nước vừa–nặng, lơ mơ nhẹ (4AT 5), tổn thương thận cấp (creatinin 108 → 138, eGFR 34); ALTT hiệu dụng ≈ 306 mosmol/kg, chưa đủ tiêu chuẩn tăng ALTT nhưng nguy cơ cao",
+     "Nguyên nhân không đỡ: bút insulin để nơi nóng (> 30 °C), nhịn uống nước và uống nước ngọt, liều khởi đầu còn thấp; đã loại trừ nhiễm trùng, tuân thủ kém, đột quỵ, hạ glucose"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi tiêm thuốc, bảo quản, nước uống, ý thức, dấu nhiễm trùng, nhật ký glucose (QĐ 5481 Phần 3 mục 2.1; Phần 4 mục 4.2k) → khám mất nước, huyết áp nằm–đứng, 4AT, thần kinh, bàng quang (Phần 7 mục 2.1) → CLS rẻ theo 200.000 đ: glucose mao mạch, que nước tiểu, creatinin, điện giải (mục 2.2) → Na hiệu chỉnh, ALTT.",
+     "Quy trình thất bại điều trị: sai chẩn đoán? không; sai thuốc/liều? bút để nóng, liều thấp; không tuân thủ? không; biến chứng? mất nước, tổn thương thận cấp; nhiễm trùng? không (TL-0064; QĐ 5481 Phụ lục 02 mục 3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện ngay (nhap_vien): glucose 29,6 kèm mất nước, lơ mơ, creatinin tăng; điều trị là bù dịch, điện giải, insulin tại bệnh viện (QĐ 5481 Phần 7 mục 4.1–4.2; TL-0064 Bảng 4). Không cho về, không chuyển xa 80 km khi bệnh viện thị xã đủ khả năng. Tạm ngưng metformin; không tăng insulin tại nhà."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "TẠM NGƯNG",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Bệnh viện quyết định dùng lại theo creatinin",
+      "ghi_chu": "Mất nước, tổn thương thận cấp, eGFR 34 (QĐ 5481 Phụ lục 01 mục 2; ADA 2026 mục 9). Số ngày ngưng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin glargine, gliclazide MR",
+      "ham_luong": "—",
+      "lieu": "Không tự tăng liều ở nhà; bệnh viện chỉnh",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Đến khi bệnh viện xử trí",
+      "ghi_chu": "Tăng insulin khi chưa bù dịch là sai (QĐ 5481 Phần 7 mục 4.1). Dùng bút mới giữ dưới 30 °C (Phụ lục 02 mục 3)."
+     },
+     {
+      "thuoc": "NaCl 0,9% (nếu có đường truyền trước khi đi)",
+      "ham_luong": "250–500 mL",
+      "lieu": "Tốc độ thận trọng, theo dõi khó thở",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Trước khi chuyển",
+      "so_ngay": "1 lần",
+      "ghi_chu": "15–20 mL/kg/giờ giờ đầu (QĐ 5481 Phần 7 mục 4.2d) hoặc 500–1.000 mL/giờ 2–4 giờ đầu (ADA/EASD 2024); thận trọng ở người cao tuổi (TL-0064)."
+     }
+    ],
+    "dan_do": [
+     "Với bà và con gái: thuốc tiêm đúng cách; nguyên nhân chính là bút để nóng và thiếu nước; cần nằm viện vài ngày để truyền nước và chỉnh insulin an toàn. Sau xuất viện dùng bút mới giữ dưới 30 °C, mang chai nước lọc ra quầy (QĐ 5481 Phụ lục 02 mục 3; TL-0064); tái khám khoảng 1 tuần sau xuất viện."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 – Tái khám sau xuất viện",
+   "tiep_don": "Bà Lụa tái khám 8 ngày sau xuất viện, con gái Ngân đi cùng. Bà nằm Bệnh viện đa khoa thị xã 4 ngày (truyền dịch, insulin), giấy ra viện: glucose lúc ra 11,2 mmol/L, creatinin 112 µmol/L (eGFR 43), không nhiễm trùng. Thuốc ra viện: glargine 8 đơn vị mỗi sáng (bút mới), metformin 500 mg × 1 buổi tối, ngưng gliclazide, giữ amlodipin 5 mg. Cân nặng 45,6 kg. Sinh hiệu: HA 124/70 mmHg, mạch 80 l/p, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà được giữ lại bệnh viện vì cơn run, vã mồ hôi 4 ngày trước. Đó là hạ glucose mức 1 (3,6 mmol/L), đã tự xử trí bằng bánh ngọt và hết sau 10 phút (QĐ 5481/2020 Phần 6 mục 2); bà tỉnh, ăn được. Nằm viện lần hai mất thêm quầy hàng và tiền, con gái nghỉ làm, trong khi nguyên nhân chỉ là bỏ bữa trưa.",
+    "chuyen_tuyen": "Bà được giới thiệu lên bệnh viện tỉnh khám nội tiết vì 'đường lên xuống'. Mất cả ngày và tiền, trong khi bà đã đạt mục tiêu đói 5,0–8,3 mmol/L với 1 mũi insulin nền (ADA 2026 Bảng 13.2); chuyển nội tiết dành cho người không đạt mục tiêu hoặc phác đồ ngày càng phức tạp (QĐ 5481 Phần 4 mục 9)."
+   },
+   "loi_mo": "Bác sĩ, tui khỏe hơn nhiều rồi, ăn được, hết buồn ngủ. Đường sáng nay tui thử 7,8 nè. Mà có hôm tui run run, vã mồ hôi, hổng biết có sao không.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "124/70",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "nhat_ky",
+     "noi_dung": "Máy thử mới do con gái mua. Sáng đói 6,4–8,1 mmol/L suốt 7 ngày (hôm nay 7,8); sau ăn tối 9–13. Một lần 3,6 mmol/L lúc 15 giờ 30, cách 4 ngày: run tay, vã mồ hôi, đói; bà đã ăn hai cái bánh quy và đỡ sau 10 phút. Hôm đó bà bỏ bữa trưa vì không ai trông quầy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhật ký glucose, cơn hạ glucose và nguyên nhân"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Ở quầy bà vẫn hay bỏ hoặc dời bữa trưa đến 14–15 giờ khi vắng khách; sáng ăn cháo hoặc hủ tiếu đủ, tối ăn cơm cùng con gái. Bà không mang theo đồ ăn nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bữa ăn thất thường trên nền insulin"
+    },
+    {
+     "id": "bao_quan",
+     "noi_dung": "Bút đang dùng để trong hộp giữ lạnh nhỏ có túi đá gel, đá không chạm bút; bà mang theo ra chợ. Bút dự trữ ở tủ lạnh nhà, không ngăn đá.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bảo quản insulin sau nhập viện"
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Bà mang chai nước lọc 1,5 L ra quầy và uống hết mỗi ngày; cô bán bên cạnh trông quầy giúp 5 phút cho bà đi vệ sinh. Đã bỏ nước ngọt và trà đá đường. Tiểu đêm 1–2 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nước uống"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh táo, nói chuyện bình thường. Cân 45,6 kg. Môi ẩm, nếp véo da mất nhanh, mắt không trũng, không phù.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: 124/70 mmHg, mạch 80 l/p. Đứng 3 phút: 118/68 mmHg, mạch 86 l/p; không chóng mặt.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau. Vùng tiêm quanh rốn: không bầm, không chai cứng, không loạn dưỡng mỡ; vị trí tiêm xoay vòng đúng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "6,9 mmol/L (khoảng 2 giờ sau bữa sáng)",
+     "ab": 0,
+     "n": "Rẻ nhất (20.000 đ), đối chiếu nhật ký; mục tiêu đói 5,0–8,3 mmol/L (ADA 2026 Bảng 13.2; QĐ 5481 Phần 4 Bảng 5)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,8 mmol/L · creatinin 106 µmol/L · eGFR 46 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Theo dõi tổn thương thận cấp sau xuất viện và liều metformin (eGFR 46 gần ngưỡng giảm liều 30–45, QĐ 5481 Phụ lục 01 mục 2). eGFR hồi phục từ 34, chưa về nền 55."
+    },
+    "hba1c": {
+     "v": "n",
+     "r": "9,0%",
+     "ab": 1,
+     "n": "Chưa nên: mới 3 tuần sau đổi thuốc, 120.000 đ; HbA1c hàng quý khi đổi thuốc (QĐ 5481 Phần 3 mục 2.4; ADA 2026 KC 6.2): làm khoảng tháng thứ 3."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái tháo đường típ 2 sau đợt mất bù, đang cải thiện: glucose đói 6,4–8,1 mmol/L (trong mục tiêu 5,0–8,3), HbA1c chưa đo lại (còn trong 3 tháng); eGFR hồi phục 34 → 46, nền cũ 55",
+     "ok": 1,
+     "n": "Mục tiêu HbA1c < 8,0%, đói 5,0–8,3 mmol/L (ADA 2026 Bảng 13.2; QĐ 5481 Bảng 5); HbA1c đánh giá lại khi đủ 3 tháng (QĐ 5481 Phần 3 mục 2.4)."
+    },
+    {
+     "t": "Một cơn hạ glucose mức 1 (3,6 mmol/L) do bỏ bữa trưa trên nền insulin nền, 78 tuổi, eGFR 46",
+     "ok": 1,
+     "n": "Mức 1: < 3,9 và ≥ 3,0 mmol/L (QĐ 5481 Phần 6 mục 2). Nguyên nhân rõ (bỏ bữa) nên không tự động giảm liều; không rõ thì giảm 10–20% (ADA 2026 Hình 9.5; QĐ 5481 Phần 4 mục 4.2). Hỏi cơn hạ glucose mỗi lần khám (Phần 6 mục 1a, 1b)."
+    },
+    {
+     "t": "Nhiễm trùng tái phát, tuân thủ kém, insulin hỏng do nhiệt",
+     "n": "Loại trừ: không sốt, que nước tiểu sạch, tiêm đúng và ghi sổ, bút giữ mát (QĐ 5481 Phụ lục 02 mục 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giữ glargine 8 đơn vị mỗi sáng, chưa tăng; glucose đói đã trong mục tiêu; hạ glucose có nguyên nhân rõ (bỏ bữa) nên chưa giảm liều, HOẶC giảm xuống 6–7 đơn vị cho an toàn",
+     "v": "c",
+     "n": "Hạ glucose không rõ nguyên nhân thì giảm 10–20% (ADA 2026 Hình 9.5), giảm 2–4 đơn vị hoặc 10–20% (QĐ 5481 Phần 4 mục 4.2); ở đây nguyên nhân rõ, đói 6,4–8,1. Ưu tiên tránh hạ glucose (ADA 2026 KC 13.7b, 13.13)."
+    },
+    {
+     "t": "Không dùng lại gliclazide MR; metformin 500 mg buổi tối sau ăn, quyết định lên 500 mg × 2 khi creatinin ổn định ở lần kiểm sau; không vượt 1.000 mg/ngày",
+     "v": "c",
+     "n": "ADA 2026 KC 13.14a; Beers 2023 Bảng 2; metformin giảm liều khi eGFR 30–45 (QĐ 5481 Phụ lục 01 mục 2). Ngưng, giảm hay giữ gliclazide đều chấp nhận (sổ MT-1259); cách dùng lại metformin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không bỏ bữa: ăn trưa đúng giờ hoặc bữa phụ ở quầy; mang theo 15–20 g glucose (hoặc 10–15 g) để xử trí hạ glucose, thử lại sau 15 phút rồi ăn nhẹ; con gái nhắc, người trông quầy hỗ trợ",
+     "v": "c",
+     "n": "QĐ 5481 Phần 6 mục 1b, 1c (15–20 g glucose, thử lại sau 15 phút); QĐ 5904/2019 Phần 2 Bước 4 (10–15 g): ghi cả hai (sổ TH-0295)."
+    },
+    {
+     "t": "Giữ thói quen đúng: bút trong hộp giữ lạnh dưới 30 °C không đông đá, nước lọc, bỏ nước ngọt; tiếp tục nhỏ mũi giảm dần, rửa mũi muối",
+     "v": "c",
+     "n": "QĐ 5481 Phụ lục 02 mục 3, Phần 4 mục 5.2f; ADA 2026 KC 5.25; QĐ 5643/2015 mục 4.2.1."
+    },
+    {
+     "t": "Hẹn 2 tuần nữa; HbA1c, UACR khi đủ 3 tháng; khám mắt, bàn chân định kỳ; quay lại sớm nếu glucose < 3,9 hoặc > 16,7 mmol/L hoặc buồn ngủ, tiểu ít",
+     "v": "c",
+     "n": "HbA1c hàng quý (QĐ 5481 Phần 3 mục 2.4); UACR 3–6 tháng (Bảng 2) hoặc hằng năm (ADA 2026 KC 11.1a); đáy mắt mỗi 1–2 năm (QĐ 5481 Phần 4 mục 9). Mốc 2 tuần là lựa chọn của ca."
+    },
+    {
+     "t": "Cân nhắc ức chế SGLT2 để bảo vệ thận ở lần khám sau khi ổn định, hôm nay chưa khởi",
+     "v": "a",
+     "n": "ADA 2026 KC 11.7a (eGFR ≥ 20), KDIGO 2022; khởi sau khi ổn định thể tích, tại tái khám (sổ MT-0750 mục 6); giá: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng glargine lên 12 đơn vị cho 'chắc đường thấp hơn'",
+     "v": "w",
+     "n": "Glucose đói đã 6,4–8,1 mmol/L, vừa có hạ glucose; chạy theo số thấp ở người cao tuổi tăng hạ glucose (ADA 2026 KC 13.7b, 13.13; QĐ 5481 Phần 4 mục 2)."
+    },
+    {
+     "t": "Kê lại gliclazide MR 60 mg để 'hạ đường nhanh'",
+     "v": "w",
+     "n": "Vừa hạ glucose, ăn thất thường, eGFR 46 (AGS Beers 2023 Bảng 2; ADA 2026 KC 13.14a; QĐ 5481 Phụ lục 01 mục 1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái tháo đường típ 2 sau đợt mất bù, đang cải thiện: glucose đói 6,4–8,1 mmol/L, mao mạch 6,9; eGFR 34 → 46 (nền 55); cân 44,5 → 45,6 kg",
+     "Một cơn hạ glucose mức 1 (3,6 mmol/L) do bỏ bữa trưa trên nền insulin nền; không nhiễm trùng, tuân thủ tốt"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi nhật ký glucose, cơn run, bữa ăn, bảo quản, nước uống (QĐ 5481 Phần 6 mục 1a; Phần 3 mục 2.1) → khám mất nước, huyết áp nằm–đứng, vùng tiêm → glucose mao mạch, creatinin; bỏ HbA1c.",
+     "Điểm gãy của chuỗi quyết định: lượt 1 thiếu dặn nước, đồ ngọt, bảo quản và tái khám sớm. Lượt này mục tiêu là an toàn: tránh hạ glucose hơn là hạ thêm (ADA 2026 KC 13.7b, 13.13)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn 2 tuần (ve_hen): bà tỉnh, glucose trong mục tiêu, hạ glucose có nguyên nhân rõ và đã tự xử trí; không nhập viện, không chuyển nội tiết (QĐ 5481 Phần 4 mục 9; ADA 2026 Bảng 13.2). Giữ insulin nền, không gliclazide, metformin liều thấp, chưa khởi SGLT2i hôm nay (ADA 2026 Hình 9.5, KC 13.14a; QĐ 5481 Phụ lục 01)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine (bút 100 đơn vị/mL)",
+      "ham_luong": "100 đơn vị/mL",
+      "lieu": "8 đơn vị × 1 lần/ngày (hoặc 6–7 đơn vị)",
+      "duong": "Tiêm dưới da bụng",
+      "thoi_diem": "Sáng, 6 giờ",
+      "so_ngay": "14 ngày đến lần tái khám",
+      "ghi_chu": "Giữ liều ra viện; hạ glucose có nguyên nhân rõ nên chưa giảm 10–20% (ADA 2026 Hình 9.5; QĐ 5481 Phần 4 mục 4.2). Giá: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Ngay sau ăn tối",
+      "so_ngay": "14 ngày",
+      "ghi_chu": "eGFR 46; khi eGFR 30–45 giảm liều (QĐ 5481 Phụ lục 01 mục 2), tối đa 1.000 mg/ngày (KDIGO 2022, bảng chỉnh liều thuốc theo eGFR); ADA 2026 mục 9."
+     },
+     {
+      "thuoc": "Gliclazide MR: NGƯNG",
+      "ham_luong": "—",
+      "lieu": "Không dùng",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Đánh giá lại khi tái khám",
+      "ghi_chu": "ADA 2026 KC 13.14a; Beers 2023 Bảng 2. Giữ liều 30 mg khi ăn đủ bữa cũng chấp nhận (sổ MT-1259)."
+     }
+    ],
+    "dan_do": [
+     "Cơn run, vã mồ hôi là hạ glucose: uống ngay 15–20 g glucose (hoặc 10–15 g), đo lại sau 15 phút, ăn nhẹ (QĐ 5481 Phần 6 mục 1c; QĐ 5904 Bước 4). Luôn ăn trưa đúng giờ hoặc ăn phụ, mang đồ ngọt.",
+     "Giữ bút trong hộp giữ lạnh dưới 30 °C, nước lọc 1,5 L, bỏ nước ngọt (QĐ 5481 Phụ lục 02 mục 3, Phần 4 mục 5.2f). Tái khám 2 tuần mang máy; khoảng tháng thứ 3 làm HbA1c, creatinin, UACR (Phần 3 mục 2.4)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hướng đúng (phần sau là thiết kế minh họa, không phải số liệu từ tài liệu): bà thêm insulin nền, bỏ nước ngọt, được dặn nước uống và bảo quản insulin; mất nước ở lượt 2 được phát hiện kịp, nằm viện 4 ngày, ra viện ổn; sau 3 tháng HbA1c khoảng 7,8%, dưới mục tiêu < 8,0% (ADA 2026 Bảng 13.2), không còn hạ glucose. Hướng bỏ sót: lượt 1 chọn HbA1c thay creatinin, tăng gliclazide và metformin vì 'đường cao', không hỏi nước uống, không dặn bảo quản, hẹn 1 tháng; hai tuần sau bà li bì, được cấp cứu với tăng áp lực thẩm thấu và tổn thương thận cấp trên nền metformin liều cao, nằm hồi sức nhiều ngày (QĐ 5481 Phần 7 mục 1). Gãy ở: xét nghiệm sai ưu tiên, bỏ qua thói quen uống nước, tăng thuốc nguy cơ ở người 78 tuổi eGFR 45, hẹn quá xa.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: chỉ glucose mao mạch, que nước tiểu, creatinin đổi quyết định ở lượt 1; HbA1c (120.000 đ) cạnh creatinin (50.000 đ) trong 150.000 đ thì chọn creatinin; UACR, điện tim, công thức máu chấp nhận hoặc bỏ (QĐ 5481 Phần 3 mục 2.3–2.4; ADA 2026 KC 6.2).",
+  "Triệu chứng không điển hình: bà không khát, tiểu đêm cho là tuổi già, chỉ mệt và nghĩ do đi xe xa; người cao tuổi giảm cảm giác khát, hạn chế dịch, dễ mất nước khi glucose cao (TL-0064).",
+  "Thuốc nhỏ mũi, nước ngọt bà không kể, chỉ hỏi riêng mới biết (QĐ 5481 Phần 3 mục 2.1; QĐ 5643/2015 mục 4.2.1). Ngồi xe lâu dễ gợi huyết khối: bắp chân bình thường, không có siêu âm nên dựa vào khám; tiêu chí huyết khối: không có trong tài liệu đã tải."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi tăng glucose có thể chỉ mệt, ăn kém, không khát; hỏi nước uống và đồ ngọt; mục tiêu HbA1c < 8,0%, tránh hạ glucose (ADA 2026 Bảng 13.2, KC 13.7b; QĐ 5481 Phần 4 Bảng 5; TL-0064).",
+  "Dị hóa hoặc HbA1c ≥ 9%: cân nhắc insulin nền liều thấp thay vì tăng sulfonylurea; đổi thuốc phải kèm tái khám sớm và dặn dấu hiệu nguy hiểm (QĐ 5481 Phần 4 mục 4.2f; ADA 2026 KC 9.20, 13.14a).",
+  "Điều trị 'không đỡ': kiểm tra tuân thủ, kỹ thuật tiêm, bảo quản insulin (trên 30 °C giảm tác dụng, QĐ 5481 Phụ lục 02 mục 3), mất nước, nhiễm trùng; mất nước kèm rối loạn ý thức thì nhập viện (Phần 7 mục 4.1). Ngân sách hạn chế: chọn xét nghiệm đổi quyết định (creatinin) hơn xét nghiệm chưa đến hạn (HbA1c)."
+ ],
+ "diem_nho": [
+  "Tăng áp lực thẩm thấu: glucose > 33,3 mmol/L và ALTT hiệu dụng > 320 mosmol/kg; ALTT = 2 × Na + glucose; Na hiệu chỉnh = Na + 1,6 × (glucose − 5,6)/5,6 (QĐ 5481 Phần 7 mục 2.4, 3.2).",
+  "Insulin để trên 30 °C giảm tác dụng, tránh nắng, không đông đá (QĐ 5481 Phụ lục 02 mục 3); insulin nền 10 đơn vị hoặc 0,1–0,2 đơn vị/kg (ADA 2026 Hình 9.5)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5481/QĐ-BYT 2020 – TL-0031 – Phần 3 mục 2.1–2.4, Bảng 2; Phần 4 mục 4.2f, 4.2k, 5.2f, 9, Bảng 5; Phần 6 mục 1–2; Phần 7 mục 1, 2.1–2.4, 3.2, 4.1–4.2, Bảng 7; Phụ lục 01 mục 1, 2, DPP-4; Phụ lục 02 mục 3.",
+  "ADA 2026 Standards of Care in Diabetes – TL-0296 – mục 9 (KC 9.20, 9.21, Metformin, Hình 9.5); mục 13 (KC 13.7b, 13.9, 13.13, 13.14a, Bảng 13.2); mục 6 (KC 6.2, 6.6); mục 5 (KC 5.25); mục 11 (KC 11.1a, 11.7a).",
+  "ADA/EASD 2024, Hyperglycemic crises in adults with diabetes: a consensus report – TL-0064 – nguyên nhân thúc đẩy HHS, Bảng 4 (người cao tuổi yếu), bù dịch.",
+  "BYT – QĐ 5904/QĐ-BYT 2019 – TL-0284 – Phần 2 Bước 3, Bước 4A mục 4, xử lý hạ glucose; AGS Beers 2023 – TL-0022 – Bảng 2; KDIGO 2022 – TL-0316; 4AT (Diagnostic accuracy of the 4AT) – TL-0078 (ngưỡng ≥ 4).",
+  "BYT – QĐ 5643/QĐ-BYT 2015 – TL-0130 – Viêm mũi xoang cấp tính mục 4.2.1; ARIA–EAACI 2024–2025 Allergic rhinitis Part I intranasal treatments (kho cũ tltk-10000-ca, 09 Tai mũi họng + Mắt)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-13, người viết bản đầu. Đã đọc: TL-0031 (QĐ 5481 Phần 3 mục 2, Phần 4 mục 4.2, 5.2, 9, Bảng 5, Phần 6, 7, Phụ lục 01–02), TL-0296 (ADA 2026 mục 9 Hình 9.5, KC 9.20–9.21; mục 13; KC 5.25), TL-0064, TL-0284 (Bước 4A), TL-0078, TL-0130, ARIA–EAACI 2024–2025 (kho cũ). Đã tra sổ mâu thuẫn và áp dụng: MT-0335 #1, #2, MT-0333, MT-0332, MT-0750 #5, #6, MT-0364, MT-1259, MT-1271, TH-0295, MT-0753, MT-1262.",
+  "Thiếu tài liệu đã tải: tác động của naphazolin lên glucose, huyết áp; lượng nước uống hằng ngày; số ngày tạm ngưng metformin, cách dùng lại; hiệu lực bút insulin để nóng, có bỏ bút hay không; giá thuốc, máy thử; tiêu chí huyết khối. Số liệu sổ cũ, diễn tiến nằm viện, kết cục là thiết kế minh họa.",
+  "Thiết kế: khoa_cls.nhom = ['sieu_am']; lượt 1 chọn creatinin thay HbA1c (cùng ngân sách 150.000 đ); lượt 2 nhập viện thị xã; lượt 3 hạ glucose mức 1 do bỏ bữa. Theo nhánh insulin nền (linagliptin lượt 1 cũng chấm c). Không dùng ảnh da; mạch < 100 dùng tệp tim bình thường.",
+  "13/11/2026 (Opus duyệt): trần metformin 1.000 mg/ngày khi eGFR 30–45 không có trong QĐ 5481 (chỉ ghi \"giảm liều\"); đổi nguồn sang KDIGO 2022 (bảng chỉnh liều theo eGFR, đã đối chiếu bản chữ)."
+ ]
+}

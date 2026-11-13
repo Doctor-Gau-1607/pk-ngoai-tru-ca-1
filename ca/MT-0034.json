@@ -1,0 +1,842 @@
+{
+ "ma_ca": "MT-0034",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_tha_nguyen_phat_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Võ Thị Thu Hà",
+  "tuoi": 47,
+  "gioi": "Nữ",
+  "nghe": "Nội trợ",
+  "can_nang": 59,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi bà là 'chị'. Bà tự xưng 'tôi' hoặc 'chị', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhiều, thân thiện, tin lời hàng xóm và kinh nghiệm lần trước hơn lời giải thích. Hay chen ngang 'thôi bác sĩ cứ cho tôi thuốc đi'. Sốt ruột vì tuần sau cưới con gái đầu. Ít hiểu biết y khoa: gọi huyết áp là 'áp huyết', không xem thuốc nhỏ mũi là thuốc.",
+  "kieu_nhieu": "Đòi truyền dịch: ngay từ đầu xin 'truyền cho tôi chai nước biển cho khỏe, lần trước truyền xong là hết liền'. Bác sĩ từ chối chung chung thì chị nhắc lại, giọng cầu xin rồi dỗi. Chị chịu nghe khi bác sĩ nêu lý do cụ thể cho chính chị (uống được nước, không mất nước, truyền không làm mũi thông, đường truyền có nguy cơ riêng) và đưa việc làm thay thế (ngưng thuốc nhỏ mũi, rửa mũi, hẹn kiểm tra lại). Hỏi chung chung về thuốc thì chị nói 'tôi có uống thuốc gì đâu'.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e1b38d",
+   "toc": "#2d2019",
+   "kieuToc": "ngan",
+   "ao": "#9a6a8c",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nghẹt mũi, nặng đầu",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 47 tuổi, nội trợ, đi một mình đến khám vì nghẹt mũi, nặng đầu 4 ngày nay; chị xin được truyền nước cho khỏe. Hơn một tuần trước chị đi xe khách đường dài về quê. Sinh hiệu lúc tiếp đón: HA 152/96 mmHg, mạch 88 l/p, nhiệt 36,9 °C, SpO₂ 98%. Điều dưỡng Linh: chị nói chuyện nhanh, có vẻ sốt ruột, hỏi bao giờ được vào truyền.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hà ở lại truyền dịch theo yêu cầu dù uống được nước, không mất nước; không tài liệu đã tải nào chỉ định truyền dịch cho cảm lạnh (ACP/CDC 2016 tr. 431). Truyền không làm mũi thông và không đụng tới nguyên nhân thật là thuốc nhỏ mũi kéo dài (QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1); chị tốn viện phí, mất nửa ngày, về nhỏ mũi tiếp, HA vẫn chưa đo đúng cách.",
+    "chuyen_tuyen": "Chị Hà bị gửi lên tuyến trên khám tim mạch và tai mũi họng ngay hôm nay, dù ca làm được tại phòng khám; chuyển tuyến chỉ khi nghi THA thứ phát, có biến chứng hoặc không làm được xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 4 mục A). Chị có thể bị chụp CT xoang không đổi xử trí (ACP/CDC 2016 tr. 430), tốn kém, mà nguyên nhân gây nghẹt mũi và làm HA cao thêm vẫn không được sửa."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy hôm nay tôi nghẹt mũi, nặng đầu, người rã rời. Bác sĩ cho tôi truyền chai nước biển cho khỏe đi, lần trước truyền xong là hết liền.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "152/96",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nghẹt mũi hai bên, nặng đầu, người rã rời 4 ngày nay, ngủ không ngon vì nghẹt. Chị nghĩ mình lại bị viêm xoang.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "truyen",
+     "noi_dung": "Lần trước bị cảm đi khám có truyền một chai nước, về thấy khỏe hẳn. Chị tin truyền nước thì hết mệt, hết nặng đầu nhanh hơn uống thuốc.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "chuyen_xe",
+     "noi_dung": "Tuần trước chị đi xe khách ghế ngồi 11 tiếng về quê dự giỗ và 11 tiếng về lại (về tới nhà cách đây 5 ngày). Ngồi gần như suốt, xe máy lạnh thổi thẳng vào đầu, ăn mì gói và bánh mì chà bông ở trạm dừng, uống ít nước. Sổ mũi bắt đầu hôm sau khi về.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: đi xe đường dài"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Chị nhỏ thuốc nhỏ mũi xylometazolin 0,05% mua ở nhà thuốc, không cần đơn, gần 3 tháng nay: lúc đầu nhỏ buổi tối cho dễ ngủ, sau 3–4 lần mỗi ngày. Bốn hôm nay nhỏ 6 lần mỗi ngày vì nhỏ xong thông được 1–2 giờ rồi nghẹt lại, có khi nặng hơn trước. Chị không xem đó là \"thuốc\".",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung \"chị có dùng thuốc gì không\" thì trả lời \"không, tôi có uống thuốc gì đâu\". Chỉ kể khi bác sĩ hỏi cụ thể có nhỏ hay xịt mũi không, có thuốc nào mua ở nhà thuốc không cần đơn không; sau đó mới kể loại thuốc, bao lâu, mỗi ngày mấy lần.",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi dùng kéo dài"
+    },
+    {
+     "id": "mui",
+     "noi_dung": "Nghẹt cả hai bên, chảy mũi trong, thỉnh thoảng hắt hơi. Không mũi đặc vàng xanh, không đau má hay răng, ngửi mùi bình thường. Không sốt, ho nhẹ buổi sáng, họng hơi rát.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng mũi xoang: có dấu hiệu viêm xoang vi khuẩn không"
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Nặng đầu vùng trán và gáy, nặng nhất lúc ngủ dậy, đỡ dần trong ngày. Không đau dữ dội, không nôn, không nhìn mờ, không yếu tê tay chân, không nói khó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đầu và dấu hiệu tổn thương cơ quan đích cấp"
+    },
+    {
+     "id": "ha_cu",
+     "noi_dung": "Hai năm trước khám sức khỏe ở cơ quan của chồng, đo 125/80 mmHg, nói bình thường. Từ đó không đo lại, nhà không có máy đo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số đo HA trước đây"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ bị cao huyết áp, uống thuốc từ năm 55 tuổi. Chị gái ruột 52 tuổi cũng cao huyết áp. Cha mất vì ung thư gan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "muoi",
+     "noi_dung": "Nhà ăn mặn, quen chấm nước mắm, thích cá kho mặn, canh nêm nặng tay, chị nấu ăn hay nếm. Ít ăn rau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn mặn"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Không hút thuốc, không uống rượu bia. Một ly cà phê buổi sáng. Không tập thể dục, đi chợ gần bằng xe máy. Ba năm nay tăng khoảng 4 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ lối sống"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Không đau đầu kèm vã mồ hôi, hồi hộp, mặt tái từng đợt. Không chuột rút hay yếu cơ. Tiểu đêm 0–1 lần, không phù mặt. Không ngáy to, không ngưng thở khi ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc gợi ý THA thứ phát"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không uống thuốc giảm đau, thuốc cảm viên, thuốc nam, cam thảo, corticoid hay thuốc tránh thai uống. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc và chất làm tăng HA khác"
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Kinh còn đều 28–30 ngày, chưa mãn kinh, có hai con. Đặt vòng tránh thai 6 năm nay, không có thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng có thai (ảnh hưởng chọn thuốc hạ áp)"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không đau ngực, không khó thở, không phù chân. Chưa bao giờ yếu liệt hay méo miệng. Chưa thử đường huyết hay mỡ máu, chưa biết có bệnh tim, bệnh thận hay không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tim, thận, thần kinh; bệnh đồng mắc"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Năm ngoái chị viêm xoang, uống kháng sinh 5 ngày thì khỏi; bà hàng xóm bảo nặng đầu nghẹt mũi là viêm xoang, phải kháng sinh. Chị muốn xin kháng sinh vì tuần sau cưới con gái đầu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị mong muốn gì hôm nay, vì sao chị nghĩ cần kháng sinh hay truyền nước, hoặc chị sắp có việc gì quan trọng.",
+     "k": 1,
+     "y": "Động cơ thật: muốn được kê kháng sinh"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi nghỉ 5 phút, máy điện tử, bao đo vừa cỡ. Tay phải 150/95 và 148/94, tay trái 148/94 và 146/92 mmHg. Trung bình hai lần cuối tay phải 149/94. Hai tay chênh dưới 5 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 148/94; đứng 1 phút 146/94, đứng 3 phút 144/94 mmHg. Không chóng mặt.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, hay thở bằng miệng khi nói. Cân nặng 59 kg, cao 156 cm, BMI 24,2. Vòng eo 82 cm. Không mặt tròn, không rạn da tím, không phù mặt.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không hạch cổ, tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi đỏ, cuốn dưới hai bên phù to, ít dịch trong, không mủ; vách ngăn thẳng. Ấn vùng trán và hai má không đau. Họng hơi đỏ, amidan không to, không mủ. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc không hẹp, không xuất huyết, không xuất tiết, gai thị rõ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p. T1, T2 rõ, không âm thổi, không T3. Mỏm tim ở khoang liên sườn V đường trung đòn trái.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mạch bẹn, mạch mu chân đều hai bên. Không âm thổi động mạch cảnh.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không âm thổi cạnh rốn, không sờ thấy thận to.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, không đau khi ấn, chu vi hai bên bằng nhau, không phù, không đỏ, không giãn tĩnh mạch.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 86 l/p, trục bình thường. Sokolow-Lyon 22 mm, Cornell 12 mm: không dày thất trái. Không ST chênh, không bất thường sóng T.",
+     "n": "Sokolow-Lyon > 35 mm hoặc Cornell > 20 mm ở nữ là dày thất trái (VSH/VNHA 2024 Bảng 11). Điện tim là xét nghiệm thường quy khi mới có THA (QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8; AHA/ACC 2025 Bảng 6)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,2 mmol/L · Creatinin 64 µmol/L · eGFR 103 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.2,
+      "creat": 64,
+      "egfr": 103
+     }
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,1 · Cl 102 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.1,
+      "cl": 102
+     }
+    },
+    "glu": {
+     "v": "e",
+     "r": "5,3 mmol/L",
+     "bang": {
+      "glu": 5.3
+     }
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,2 · LDL-C 3,1 · HDL-C 1,3 · TG 1,5 mmol/L"
+    },
+    "ua": {
+     "v": "u",
+     "r": "Không protein · Không glucose · Không hồng cầu · Không bạch cầu",
+     "bang": {
+      "u_sg": 1.015,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "uacr": {
+     "v": "u",
+     "r": "8 mg/g",
+     "n": "Dưới 30 mg/g: chưa có albumin niệu (VSH/VNHA 2024 Bảng 11)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L · Hb 128 g/L · TC 268 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 32.0,
+      "lym": 2.18,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.3,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 90.7,
+      "mch": 29.8,
+      "mchc": 328,
+      "rdw": 13.0,
+      "plt": 268
+     }
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,8 mIU/L",
+     "n": "Thường quy theo ESC 2024 Bảng 8 và AHA/ACC 2025 Bảng 6; QĐ 5904 Phần 1 Bước 2 không liệt kê. Làm hay không đều không trừ điểm (sổ mâu thuẫn)."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Aldosteron 8 ng/dL · Hoạt tính renin 1,9 ng/mL/giờ · ARR 4,2 (dưới ngưỡng sàng lọc)",
+     "n": "ESC 2024 Bảng khuyến cáo 13 (IIa): cân nhắc cho mọi người THA; AHA/ACC 2025 mục 3.2.3.1: bắt buộc khi kháng trị, hạ kali. Không có chỉ điểm nên chưa bắt buộc; làm hay không đều không trừ điểm."
+    },
+    "holter_ha": {
+     "v": "a",
+     "r": "HA trung bình 24 giờ 137/87 mmHg; ban ngày 141/90, ban đêm 124/76.",
+     "ab": 1,
+     "n": "Chấp nhận để xác nhận ngoài phòng khám (ESC 2024 Bảng khuyến cáo 6; VSH/VNHA 2024 Hình 10) nhưng hôm nay chị còn nhỏ thuốc nên số đo nhiễu; HA tại nhà sau khi ngưng thuốc sát thực tế hơn."
+    },
+    "echo": {
+     "v": "u",
+     "r": "Thất trái không dày (IVSd 9 mm), EF 66%.",
+     "thay_the": "ecg",
+     "n": "Không bắt buộc: chỉ khi điện tim bất thường, có tiếng thổi hoặc triệu chứng tim (ESC 2024 Bảng 9 và đoạn dưới bảng); cơ sở không có siêu âm nên dùng điện tim."
+    },
+    "cxr": {
+     "n": "Không triệu chứng hô hấp dưới, SpO₂ 98%, phổi không ran."
+    },
+    "xq_xoang": {
+     "n": "Không chụp thường quy: hình ảnh không giúp chọn điều trị trong viêm mũi xoang cấp (ACP/CDC 2016 tr. 430)."
+    },
+    "ddimer": {
+     "n": "Chỉ mỏi bắp chân thoáng qua, bắp chân mềm hai bên, không khó thở, không đau ngực: không nghĩ huyết khối (ESC 2019 Bảng 3: ngồi bất động kéo dài chỉ là yếu tố nguy cơ yếu)."
+    },
+    "ct_nao": {
+     "n": "Không dấu thần kinh khu trú, đau đầu nhẹ liên quan nghẹt mũi."
+    },
+    "abdus": {
+     "n": "Không có chỉ định thường quy; cơ sở không có siêu âm."
+    },
+    "doppler_than": {
+     "n": "Không có gợi ý hẹp động mạch thận (không âm thổi bụng, creatinin bình thường)."
+    },
+    "flu": {
+     "n": "Không sốt, không đau mỏi người; không thay đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp phát hiện lần đầu, độ 1 (HA phòng khám 146–152/92–96 mmHg), nghi tăng huyết áp nguyên phát, chưa xác nhận bằng HA ngoài phòng khám; thuốc nhỏ mũi co mạch kéo dài góp phần làm HA cao hơn",
+     "ok": 1,
+     "n": "140–159/90–99 là độ 1 (QĐ 5904 Phần 1 Bước 3A). Phải xác nhận bằng HA tại nhà ≥ 135/85 hoặc 24 giờ ≥ 130/80 (QĐ 5904 Phụ lục 1.2; ESC 2024 Bảng khuyến cáo 6; VSH/VNHA 2024 Hình 10). Thuốc nhỏ mũi co mạch làm HA tăng phụ thuộc liều (ESH 2023 Bảng 20). Mẹ và chị cao huyết áp, ăn mặn, tăng cân."
+    },
+    {
+     "t": "Cảm lạnh (viêm mũi cấp do virus) ngày thứ 4 trên nền viêm mũi do dùng thuốc nhỏ mũi co mạch kéo dài; chưa có dấu hiệu viêm xoang vi khuẩn",
+     "ok": 1,
+     "n": "Chảy mũi trong, không mủ, không sốt, không đau má; nhỏ xong thông ngắn rồi nghẹt nặng hơn (QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1: xịt kéo dài làm bệnh nặng hơn; ARIA-EAACI 2024–2025 mục 5.1.4: dùng dài hạn gắn với viêm mũi do thuốc). Tiêu chuẩn chẩn đoán viêm mũi do thuốc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Không có chỉ điểm ở VSH/VNHA 2024 Bảng 9, Đ2.4: 47 tuổi, không cơn vã mồ hôi–đau đầu, không yếu cơ, K 4,1, creatinin và nước tiểu bình thường, không âm thổi bụng. Thuốc co mạch là nguyên nhân có thể gỡ; nghĩ lại nếu HA vẫn cao sau khi ngưng hoặc kháng trị."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA < 180/110 mmHg, không đau ngực, không đau đầu dữ dội, không nhìn mờ, không dấu thần kinh, không suy tim (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1)."
+    },
+    {
+     "t": "Viêm mũi xoang cấp do vi khuẩn",
+     "n": "Ngày thứ 4, chưa xấu đi sau 5–7 ngày, chưa quá 10 ngày (QĐ 5643 Viêm mũi xoang cấp tính mục 3.1.1); không sốt trên 39 °C kèm mủ mũi hay đau mặt, không hai pha (ACP/CDC 2016 Advice 3, tr. 431)."
+    },
+    {
+     "t": "Tăng huyết áp áo choàng trắng",
+     "n": "Chưa loại trừ được ở lượt này: cần HA tại nhà hoặc 24 giờ (QĐ 5904 Phụ lục 1.2; VSH/VNHA 2024 Hình 10)."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu hoặc thuyên tắc phổi sau chuyến xe dài",
+     "n": "Bắp chân mềm hai bên, không phù, không khó thở, không đau ngực, SpO₂ 98%; ngồi lâu chỉ là yếu tố nguy cơ yếu (ESC 2019 Bảng 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi rõ chị đã nhỏ hay xịt mũi loại gì, bao lâu, mỗi ngày mấy lần; hỏi chị mong muốn gì hôm nay, vì sao nghĩ cần kháng sinh hay truyền nước, sắp có việc gì quan trọng",
+     "v": "c",
+     "n": "Sử dụng thuốc hoặc chất làm tăng HA là mục cần hỏi khi hỏi bệnh sử THA (VSH/VNHA 2024 Bảng 9; ESH 2023 Bảng 20: thuốc co mạch mũi làm HA tăng phụ thuộc liều, kéo dài)."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi xylometazolin, thay bằng rửa mũi nước muối sinh lý 0,9%",
+     "v": "c",
+     "n": "QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1: thuốc co mạch chỉ ngắn ngày, xịt kéo dài làm bệnh nặng hơn; ARIA-EAACI 2024–2025 mục 5.1.4, 5.2.2: không dùng quá 5 ngày, dài hạn gắn với viêm mũi do thuốc; QĐ 5643 Ngạt mũi mục 4.1: rửa mũi natriclorid 0,9%; AHA/ACC 2025 Bảng 11: thay bằng nước muối, corticoid xịt mũi hoặc kháng histamin. Cách ngưng và thời gian nghẹt dội lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chưa kê thuốc hạ áp hôm nay: xác nhận THA bằng HA ngoài phòng khám (HA tại nhà 3–7 ngày, hoặc HA lưu động 24 giờ) rồi quyết định, tái khám sau khoảng 3 tuần; hướng dẫn đo HA tại nhà bằng máy bắp tay: ngồi nghỉ 5 phút, không cà phê, thuốc lá 30 phút trước, đo 2 lượt cách 1–2 phút, sáng và tối, 3–7 ngày, ghi sổ",
+     "v": "c",
+     "n": "HA phòng khám 140–159/90–99 phải xác nhận ngoài phòng khám (QĐ 5904 Phụ lục 1.2: HA tại nhà ≥ 135/85; ESC 2024 Bảng khuyến cáo 6, I, B; VSH/VNHA 2024 Đ1.2.2, Hình 10, Bảng 8, I, B). Số đo hôm nay còn nhiễu bởi thuốc co mạch (ESH 2023 Bảng 20) nên xác nhận trước chấm c, khởi thuốc ngay chấm a (mục sổ mâu thuẫn MT-0181, MT-0756). Mốc 2–4 tuần theo mục sổ MT-0042; không nguồn riêng cho THA độ 1 chờ xác nhận. Cách đo: VSH/VNHA 2024 Đ1.2.2 (nguyên tắc 3,7-2-2; trung bình ≥ 135/85 mmHg chẩn đoán THA) và Đ1.2.1; QĐ 5904 Phụ lục 1.1: nghỉ 5–10 phút, không chất kích thích trong 2 giờ, đo ít nhất 2 lần cách 1–2 phút; ESC 2024 mục 5.2.3, Hình 4 và Bảng khuyến cáo 35 (I, B)."
+    },
+    {
+     "t": "Làm xét nghiệm cơ bản lần đầu phát hiện THA: điện tim, creatinin/eGFR, Na và K, glucose, mỡ máu, nước tiểu",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 2 (điện tim, glucose đói, lipid, điện giải, creatinin, nước tiểu) và mục \"Khoảng cách giữa các lần khám\": hoàn thành trong 3 tháng đầu; ESC 2024 Bảng 8; AHA/ACC 2025 Bảng 6. Cơ sở không có siêu âm nên điện tim là công cụ duy nhất tìm dày thất trái (VSH/VNHA 2024 Bảng 11)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích đây là cảm lạnh ngày thứ 4, kháng sinh không rút ngắn bệnh; dặn quay lại nếu mũi triệu chứng quá 10 ngày, xấu đi sau 5–7 ngày, sốt trên 39 °C kèm mủ mũi hoặc đau mặt từ 3 ngày",
+     "v": "c",
+     "n": "ACP/CDC 2016 Advice 4 (tr. 431): không kê kháng sinh cho cảm lạnh; Advice 3 (tr. 431): chỉ cân nhắc khi triệu chứng > 10 ngày, khởi phát nặng hoặc xấu lại hai pha. QĐ 5643 Viêm mũi xoang cấp tính mục 3.1.1 nghĩ tới viêm xoang vi khuẩn khi xấu đi sau 5–7 ngày hoặc > 10 ngày."
+    },
+    {
+     "t": "Trả lời yêu cầu truyền dịch: nêu cho riêng chị lý do không truyền (uống được 1,5 lít/ngày, không mất nước, truyền nước không làm thông mũi hay làm hết nặng đầu, đường truyền có nguy cơ riêng), đưa việc làm thay thế (rửa mũi, uống đủ nước, ngưng thuốc nhỏ mũi, hẹn kiểm tra lại)",
+     "v": "c",
+     "n": "Không tài liệu đã tải nào chỉ định truyền dịch cho cảm lạnh hay viêm mũi uống được nước (HH-0007). ACP/CDC 2016 tr. 431 chỉ nêu rửa mũi nước muối và thuốc giảm triệu chứng. Giao tiếp: VSH/VNHA 2024 Đ3.4–Đ3.6."
+    },
+    {
+     "t": "Tư vấn lối sống ngay: giảm muối còn khoảng 5 g mỗi ngày (bớt mì gói, nước mắm, canh nêm đậm, ít nếm), thêm rau và trái cây, vận động mức vừa ít nhất 150 phút mỗi tuần, vòng eo dưới 80 cm",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15 (I, A): natri khoảng 2 g/ngày (khoảng 5 g muối), vận động ≥ 150 phút/tuần; QĐ 5904 Phụ lục 3.2 (< 5 g muối/ngày), Phần 1 mục D.1a, 1b (vòng bụng nữ < 80 cm), 1e (≥ 150 phút/tuần)."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đi cấp cứu ngay: đau đầu dữ dội, nhìn mờ, đau ngực, khó thở, yếu hoặc tê nửa người, méo miệng, nói khó",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1: HA ≥ 180/110 kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú, suy tim."
+    },
+    {
+     "t": "Khởi thuốc hạ áp ngay hôm nay (amlodipin 5 mg mỗi sáng) cùng lối sống, không chờ HA tại nhà",
+     "v": "a",
+     "n": "Chấp nhận: QĐ 5904 Phần 1 Bước 5 mục A.5 (khởi trị khi ≥ 140/90, < 80 tuổi); VSH/VNHA 2024 Bảng 4 (I, A); ESC 2024 Bảng khuyến cáo 17 (I, A). Số đo nhiễu thuốc co mạch nên chờ vài ngày cũng đúng; không nguồn nào nói chờ 2–4 tuần có hại."
+    },
+    {
+     "t": "Cho thuốc cảm viên có pseudoephedrin hoặc phenylephrin uống để thông mũi",
+     "v": "w",
+     "n": "ESH 2023 Bảng 20 và AHA/ACC 2025 Bảng 11: thuốc thông mũi làm HA tăng, chỉ dùng ngắn nhất có thể và tránh khi THA nặng hoặc chưa kiểm soát; có sẵn lựa chọn thay (nước muối, corticoid xịt mũi, kháng histamin)."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin–clavulanat, cephalosporin, quinolon) hoặc tiêm kháng sinh cho nhanh khỏi",
+     "v": "w",
+     "n": "ACP/CDC 2016 Advice 4 (tr. 431): không kháng sinh cho cảm lạnh; tr. 431: kháng sinh không phòng được biến chứng của cảm lạnh. QĐ 5643 chỉ nghĩ tới viêm xoang vi khuẩn khi xấu đi sau 5–7 ngày hoặc > 10 ngày (mục 3.1.1)."
+    },
+    {
+     "t": "Truyền dịch hoặc truyền vitamin theo yêu cầu của chị",
+     "v": "w",
+     "n": "Không tài liệu đã tải nào chỉ định (xem mục trả lời yêu cầu truyền dịch); chị uống được nước, không mất nước. Vitamin C: ACP/CDC 2016 tr. 431 không có bằng chứng."
+    },
+    {
+     "t": "Tiếp tục nhỏ xylometazolin mỗi khi nghẹt, hoặc xịt thêm vài ngày nữa",
+     "v": "w",
+     "n": "QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1: xịt kéo dài làm bệnh nặng hơn; ARIA-EAACI 2024–2025 mục 5.2.2: không nên dùng quá 5 ngày; chị đã dùng gần 3 tháng."
+    },
+    {
+     "t": "Cho nifedipin tác dụng nhanh uống hoặc ngậm dưới lưỡi để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp phát hiện lần đầu, độ 1 (HA phòng khám 146–152/92–96 mmHg), nghi nguyên phát; chưa xác nhận bằng HA ngoài phòng khám",
+     "Yếu tố làm HA cao hơn: thuốc nhỏ mũi co mạch dùng gần 3 tháng, ăn mặn, ngồi xe lâu, thiếu ngủ",
+     "Cảm lạnh (viêm mũi cấp do virus) ngày thứ 4 trên nền viêm mũi do dùng thuốc nhỏ mũi co mạch kéo dài; chưa có dấu hiệu viêm xoang vi khuẩn",
+     "Chưa có tổn thương cơ quan đích: điện tim không dày thất trái, creatinin, nước tiểu, glucose bình thường",
+     "Không phải cơn THA cấp cứu; chưa có chỉ điểm THA thứ phát; không nghĩ huyết khối sau chuyến xe dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao chưa gọi là THA: HA phòng khám 140–159/90–99 mmHg cần xác nhận bằng HA tại nhà (≥ 135/85) hoặc HA 24 giờ (≥ 130/80), nếu không có thể là THA áo choàng trắng (QĐ 5904 Phụ lục 1.2; ESC 2024 Bảng khuyến cáo 6 và Bảng 5; VSH/VNHA 2024 Hình 10). Hôm nay số đo còn bị nhiễu: thuốc nhỏ mũi co mạch làm HA tăng phụ thuộc liều (ESH 2023 Bảng 20), và HA đo thường quy ở phòng khám có thể cao hơn 5–10 mmHg so với đo chuẩn (ESC 2024 Bảng 5, chú thích). Độ 1 = 140–159/90–99 mmHg (QĐ 5904 Phần 1 Bước 3A).",
+     "Vì sao hỏi thuốc nhỏ mũi là then chốt: chị không xem đó là \"thuốc\". Hỏi chung \"có dùng thuốc gì không\" thì chị nói không; hỏi cụ thể có nhỏ, xịt mũi không mới ra loại, thời gian, số lần. Sử dụng thuốc hoặc chất làm tăng HA nằm trong bệnh sử cần hỏi ở người THA (VSH/VNHA 2024 Bảng 9).",
+     "Chưa phải viêm xoang vi khuẩn: ngày thứ 4, chảy mũi trong, không mủ, không đau má, không sốt (QĐ 5643 mục 3.1.1; ACP/CDC 2016 Advice 3, 4, tr. 431)."
+    ],
+    "phan_tich_xu_tri": [
+     "Việc cần làm ngay: ngưng thuốc nhỏ mũi, rửa mũi nước muối 0,9%, tránh thuốc cảm có pseudoephedrin/phenylephrin (QĐ 5643 mục 4.2.1, 4.1; ARIA-EAACI 2024–2025 mục 5.2.2; AHA/ACC 2025 Bảng 11; ESH 2023 Bảng 20). Khởi thuốc hạ áp hôm nay hay chờ HA tại nhà đều chấp nhận; số đo nhiễu nên chờ vài ngày hợp lý hơn (QĐ 5904 Phụ lục 1.2; Bước 5 mục A.5; ESC 2024 Bảng khuyến cáo 6; VSH/VNHA 2024 Bảng 4).",
+     "Không kháng sinh (ACP/CDC 2016 Advice 4; QĐ 5643 mục 3.1.1), không truyền dịch (không có trong tài liệu đã tải); giải thích riêng cho chị, hỏi ra lý do thật (khỏi nhanh trước đám cưới) và nêu tiêu chí quay lại sớm (ACP/CDC 2016 Advice 3). Thời gian khỏi cảm lạnh: QĐ 5643 mục 5.1 (3–5 ngày) so với ACP/CDC 2016 tr. 431 (đến 2 tuần): ghi cả hai. Xét nghiệm cơ bản trong 3 tháng đầu (QĐ 5904 Bước 2), lối sống ngay (ESC 2024 Bảng khuyến cáo 15), tái khám sau khoảng 3 tuần (mốc theo MT-0042)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "Dung dịch 0,9% dùng rửa hoặc nhỏ mũi",
+      "lieu": "Rửa hoặc nhỏ mũi khi nghẹt; số lần mỗi ngày không có trong tài liệu đã tải",
+      "duong": "Rửa mũi / nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi, và buổi tối trước khi ngủ",
+      "so_ngay": "Đến khi hết nghẹt; số ngày không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 5643 Ngạt mũi mục 4.1 (rửa mũi natriclorid 0,9%), mục 5 (rỏ mũi hằng ngày) và Viêm mũi xoang cấp tính mục 4.2.1 (nước muối sinh lý, rửa mũi). Thay cho xylometazolin. Corticoid xịt mũi, kháng histamin là lựa chọn thay thế (AHA/ACC 2025 Bảng 11), tên thuốc và liều: không có trong tài liệu đã tải. Không kê thuốc hạ áp và không kê kháng sinh hôm nay."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn lọ thuốc nhỏ mũi; nghẹt mũi tạm nặng hơn vài hôm thì rửa mũi nước muối, nếu khó chịu quá thì quay lại sớm (cách ngưng và thời gian nghẹt dội lại: không có trong tài liệu đã tải).",
+     "Đo HA tại nhà bằng máy bắp tay: ngồi nghỉ 5 phút, không cà phê, thuốc lá 30 phút trước; đo 2 lượt cách 1–2 phút, sáng (trước ăn, trước uống thuốc) và tối, 3–7 ngày, ghi sổ; trung bình ≥ 135/85 mmHg thì là THA (VSH/VNHA 2024 Đ1.2.2; ESC 2024 Hình 4).",
+     "Giảm muối dưới 5 g/ngày, ăn thêm rau, trái cây, đi bộ nhanh ≥ 30 phút, 5 ngày mỗi tuần (QĐ 5904 Phụ lục 3.2, Phần 1 mục D.1; ESC 2024 Bảng khuyến cáo 15).",
+     "Không tự mua thuốc cảm, thuốc thông mũi uống (pseudoephedrin, phenylephrin) và thuốc giảm đau nhóm NSAID (AHA/ACC 2025 Bảng 11; ESH 2023 Bảng 20).",
+     "Không cần kháng sinh lúc này. Quay lại sớm nếu triệu chứng mũi quá 10 ngày, xấu đi sau 5–7 ngày, sốt trên 39 °C kèm mủ mũi hoặc đau mặt từ 3 ngày (ACP/CDC 2016 Advice 3; QĐ 5643 mục 3.1.1).",
+     "Đi cấp cứu ngay nếu đau đầu dữ dội, nhìn mờ, đau ngực, khó thở, yếu hay tê nửa người, méo miệng, nói khó (QĐ 5904 Phần 3 mục D.1).",
+     "Làm xét nghiệm máu, nước tiểu, điện tim trong 3 tháng đầu (QĐ 5904 Phần 1, \"Khoảng cách giữa các lần khám\"); tái khám sau khoảng 3 tuần, mang sổ HA tại nhà."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 tuần",
+   "tiep_don": "Tái khám sau 3 tuần. Chị Hà nói mũi đã thông, hết nặng đầu, đám cưới con gái xong rồi, và mang theo sổ ghi HA ở nhà. Sinh hiệu lúc tiếp đón: HA 146/92 mmHg, mạch 80 l/p, SpO₂ 99%. Điều dưỡng Linh: chị vui vẻ, hỏi \"tôi khỏe rồi, có phải uống thuốc gì nữa không\".",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Chị Hà được báo \"khỏi rồi\", không hẹn lại, không dặn đo HA, không lối sống. Nhưng HA vẫn 145/92 ở phòng khám và 142/90 ở nhà sau khi ngưng thuốc nhỏ mũi; THA thường không triệu chứng nên chị tưởng hết nặng đầu là hết bệnh (VSH/VNHA 2024 Đ3.4). Chị mất cơ hội kiểm soát HA sớm (ESC 2024 Bảng khuyến cáo 17; QĐ 5904 Phần 1 Bước 5 mục A.1), có thể chỉ biết khi có biến chứng.",
+    "nhap_vien": "Chị Hà nhập viện hạ áp vì HA 146/92, dù đây là THA độ 1 không triệu chứng, dưới ngưỡng cấp cứu 180/110 (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2) và quản lý được ngoại trú (QĐ 5904 Phần 1, sơ đồ tr. 4). Chị tốn viện phí, nghỉ ngày công, còn việc cần làm (đo HA tại nhà, giảm muối, vận động, quyết định thuốc dài hạn) chưa được bàn."
+   },
+   "loi_mo": "Chào bác sĩ. Mũi tôi thông rồi, hết nặng đầu rồi, cưới con xong cả rồi. Mà cô điều dưỡng nói huyết áp tôi còn cao, tôi thấy khỏe mà. Có phải uống thuốc không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "146/92",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Ngưng lọ thuốc nhỏ mũi từ hôm sau khám. Ba bốn đêm đầu nghẹt nặng, khó ngủ, chị rửa mũi nước muối thì đỡ dần. Chưa uống kháng sinh, không truyền nước. Nay mũi thông, hết nặng đầu, ngủ ngon.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau khi ngưng thuốc nhỏ mũi"
+    },
+    {
+     "id": "ha_nha",
+     "noi_dung": "Con gái cho mượn máy đo bắp tay. Chị đo 7 ngày, sáng và tối, mỗi lần 2 lượt, ngồi nghỉ 5 phút: 14 lần đo, trung bình 142/90 mmHg; thấp nhất 134/84, cao nhất 152/96. Sáng cao hơn tối khoảng 6 mmHg.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "HA tại nhà sau khi đã ngưng thuốc nhỏ mũi: xác nhận THA"
+    },
+    {
+     "id": "khoi_mui",
+     "noi_dung": "Không còn mủ mũi, không đau má hay đau răng, không sốt, ngửi mùi bình thường. Họng hết rát, hết ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí xác nhận khỏi viêm mũi"
+    },
+    {
+     "id": "suy_nghi",
+     "noi_dung": "Chị nghĩ thấy khỏe nghĩa là hết bệnh, thuốc huyết áp \"uống một lần là phải uống cả đời\" nên sợ. Nghe nói uống thuốc nhiều hại thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Niềm tin về bệnh và điều trị: nguy cơ tự ngưng thuốc"
+    },
+    {
+     "id": "muoi2",
+     "noi_dung": "Từ sau khám chị nêm nhạt hơn, không húp hết nước canh, bớt nếm, chồng than \"canh nhạt quá\". Chưa tập thể dục, sau đám cưới mệt. Cân nặng giảm 1 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống đã thay đổi chưa"
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Không nhỏ lại thuốc nhỏ mũi. Không mua thuốc cảm hay thuốc giảm đau nào. Cà phê vẫn một ly sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc làm tăng HA đã ngưng"
+    },
+    {
+     "id": "kinh2",
+     "noi_dung": "Kinh vẫn đều, còn đặt vòng, không có thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chọn thuốc hạ áp: khả năng có thai"
+    },
+    {
+     "id": "co_do2",
+     "noi_dung": "Không đau đầu, nhìn mờ, đau ngực, khó thở, phù chân, yếu tê tay chân.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Máy phòng khám, ngồi nghỉ 5 phút: tay phải 146/92 và 144/92, tay trái 144/90 mmHg. Trung bình 145/92. Hai tay chênh dưới 5 mmHg.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hồng, cuốn dưới không phù, không dịch, không mủ. Ấn xoang không đau. Họng không đỏ.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, vui vẻ. Cân nặng 58 kg (giảm 1 kg), BMI 23,8. Vòng eo 81 cm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù, bắp chân mềm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "holter_ha": {
+     "v": "a",
+     "r": "HA trung bình 24 giờ 137/86 mmHg; ban ngày 141/90, ban đêm 123/75 (giảm 13% so với ban ngày).",
+     "ab": 1,
+     "n": "Không bắt buộc: sổ HA tại nhà đã đủ xác nhận (VSH/VNHA 2024 Đ1.2.2, Bảng 8; ESC 2024 Bảng 5: HA 24 giờ ≥ 130/80, HA ban ngày ≥ 135/85)."
+    },
+    "ecg": {
+     "n": "Đã làm lượt 1, bình thường; không có triệu chứng mới."
+    },
+    "creat": {
+     "n": "Đã có từ lượt 1. Chỉ làm lại creatinin, K sau 2–4 tuần nếu bắt đầu ức chế men chuyển (AHA/ACC 2025 mục 5.2.8)."
+    },
+    "xq_xoang": {
+     "n": "Đã khỏi, không cần chụp: hình ảnh không giúp chọn điều trị (ACP/CDC 2016 tr. 430)."
+    },
+    "ct_xoang": {
+     "n": "Đã khỏi, không có chỉ định."
+    },
+    "echo": {
+     "n": "Không bắt buộc ở THA độ 1 chưa có tổn thương cơ quan đích (ESC 2024 Bảng 9); cơ sở không có siêu âm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 1 (HA phòng khám 145/92, tại nhà trung bình 142/90, 24 giờ 137/86 mmHg), nguy cơ tim mạch thấp theo QĐ 5904, chưa tổn thương cơ quan đích; đã loại trừ yếu tố nhiễu do thuốc nhỏ mũi",
+     "ok": 1,
+     "n": "HA tại nhà ≥ 135/85 sau khi ngưng thuốc co mạch 3 tuần (QĐ 5904 Phụ lục 1.2; VSH/VNHA 2024 Đ1.2.2; ESC 2024 Bảng 5); độ 1 (QĐ 5904 Phần 1 Bước 3A). Nguy cơ thấp theo QĐ 5904 Bước 3B (không ĐTĐ, dày thất trái, bệnh tim mạch; eGFR 103; SCORE khoảng 1% đọc trên biểu đồ Phụ lục 1.3); VSH/VNHA 2024 Bảng 2 xếp cao vì có 1–2 yếu tố nguy cơ: hai cách đều ghi trong phần xử trí."
+    },
+    {
+     "t": "Cảm lạnh và viêm mũi do thuốc nhỏ mũi đã khỏi sau ngưng thuốc co mạch",
+     "ok": 1,
+     "n": "Mũi thông, niêm mạc hồng, không mủ, không đau mặt, không sốt; không dùng kháng sinh."
+    },
+    {
+     "t": "Tăng huyết áp áo choàng trắng",
+     "n": "HA tại nhà 142/90 và 24 giờ 137/86 (nếu làm) đều vượt ngưỡng (VSH/VNHA 2024 Hình 10: áo choàng trắng khi HA tại nhà < 135/85)."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Không chỉ điểm (VSH/VNHA 2024 Đ2.4, Bảng 9); K 4,1, creatinin, nước tiểu bình thường; thuốc co mạch đã ngưng 3 tuần mà HA vẫn cao nên không giải thích hết bằng thuốc. Nghĩ lại nếu cần ≥ 3 thuốc (QĐ 5904 Phần 1 Bước 4 mục A.3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi cảm lạnh và viêm mũi do thuốc bằng lâm sàng: mũi thông, không mủ, không đau mặt, không sốt; không chụp xoang, không kháng sinh; tiếp tục không dùng thuốc nhỏ mũi co mạch",
+     "v": "c",
+     "n": "ACP/CDC 2016 Advice 3, 4 (tr. 431) và tr. 430 (hình ảnh không giúp chọn điều trị); QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1 (không xịt co mạch kéo dài). Tiêu chí \"khỏi\" cho viêm mũi do thuốc và thời điểm cần chụp kiểm tra: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chẩn đoán xác định THA độ 1 từ sổ HA tại nhà (trung bình ≥ 135/85) cùng HA phòng khám ≥ 140/90 sau khi bỏ thuốc nhỏ mũi; giải thích hết nặng đầu không có nghĩa HA đã bình thường",
+     "v": "c",
+     "n": "QĐ 5904 Phụ lục 1.2; VSH/VNHA 2024 Đ1.2.2 và Hình 10; ESC 2024 Bảng khuyến cáo 6 (I, B). VSH/VNHA 2024 Đ3.4: THA thường không có triệu chứng cụ thể, đo HA định kỳ quan trọng ngay cả khi không có biểu hiện."
+    },
+    {
+     "t": "Hướng điều trị THA độ 1 nguy cơ thấp: (A) lối sống tích cực 1–3 tháng, đo HA tại nhà, thêm thuốc nếu chưa kiểm soát, HOẶC (B) khởi ngay amlodipin 5 mg mỗi sáng cùng lối sống, HOẶC (C) khởi ngay phối hợp đôi liều thấp amlodipin 5 mg + perindopril 5 mg (ưu tiên viên cố định); chọn cùng chị",
+     "v": "c",
+     "n": "Mâu thuẫn thật, ghi cả ba (mục sổ mới: THA độ 1 nguy cơ thấp). (A) QĐ 5904 Phần 1 Bước 5 mục A (sơ đồ tr. 3): THA độ I nguy cơ thấp, thay đổi lối sống, cân nhắc thuốc khi không kiểm soát được sau 1–3 tháng. (B) QĐ 5904 mục B.1 (sơ đồ tr. 4) và B.2: đơn trị cho THA độ I nguy cơ thấp (HATT < 150 mmHg); mục C (sơ đồ tr. 5): bước 1 amlodipin 5 mg; ESH 2023 mục 11.10.1: đơn trị khi THA độ 1 nguy cơ thấp, HA dưới 150/95 (I, C); QĐ 5904 Bước 5 mục A.5: khởi trị khi ≥ 140/90 ở người < 80 tuổi. (C) VSH/VNHA 2024 Bảng 4 (I, A): ≥ 140/90 bất kể nguy cơ thì lối sống và phối hợp đôi liều thấp ngay; ESC 2024 Bảng khuyến cáo 16 (I, B) và 17 (I, A); AHA/ACC 2025 mục 5.2.4 (1, B-R): ≥ 140/90 thì 2 thuốc. Khác vì năm (2019 so với 2024–2025), cách xếp nguy cơ (VSH/VNHA 2024 Bảng 2 xếp cao khi có 1–2 yếu tố nguy cơ) và bối cảnh; không nguồn nào nói cách khác gây hại."
+    },
+    {
+     "t": "Mục tiêu HA: HA tâm thu 120 đến dưới 130, tâm trương 70 đến dưới 80 mmHg (QĐ 5904), hoặc dưới 130/80 nếu dung nạp (VSH/VNHA 2024), hoặc tâm thu 120–129 nếu dung nạp (ESC 2024); đạt trong 1–3 tháng",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 5 mục A.2, A.3; VSH/VNHA 2024 Bảng 4 (I, A); ESC 2024 Bảng khuyến cáo 18 (I, A), mục 8.5; mục 8.3.5 (đạt đích trong 3 tháng). Ba mức gần nhau, không trái nhau về hướng."
+    },
+    {
+     "t": "Tăng cường lối sống cụ thể: giảm muối còn khoảng 5 g mỗi ngày, ăn rau trái cây, đi bộ nhanh 30 phút × 5 ngày/tuần, giảm cân và vòng eo dưới 80 cm, ngủ đủ",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15 (I, A); QĐ 5904 Phụ lục 3.2, Phần 1 mục D.1; VSH/VNHA 2024 Đ3.7, Hình 14 (muối dưới 5 g, đi bộ nhanh 30 phút × 5 lần/tuần, ngủ 7–9 giờ)."
+    },
+    {
+     "t": "Giải thích khi nào ngưng thuốc: không tự ngưng khi thấy khỏe; đã dùng thuốc thì duy trì lâu dài và chỉ giảm hoặc ngưng khi bác sĩ cho phép, khi lối sống hiệu quả có thể giảm liều",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục D.2 (không tự ý bỏ thuốc); VSH/VNHA 2024 Bảng 4 (I, A) và ESC 2024 Bảng khuyến cáo 17 (I, A): duy trì thuốc lâu dài nếu dung nạp; ESC 2024 mục 8.4: lối sống hiệu quả có thể cho phép giảm liều; ESH 2023 mục 11.10.10.2: ngưng hẳn thì HA trở lại mức cũ. Niềm tin \"thuốc hại thận\": VSH/VNHA 2024 Đ3.5."
+    },
+    {
+     "t": "Tiếp tục đo HA tại nhà; hẹn tái khám sau 4 tuần nếu đã khởi thuốc (làm creatinin, K sau 2–4 tuần nếu dùng ức chế men chuyển), hoặc sau 1–3 tháng nếu chọn lối sống tích cực trước",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục C (tái khám sau 4 tuần); VSH/VNHA 2024 Đ4.1 (mỗi 2–4 tuần trong 2–3 tháng đầu, đo HA tại nhà ghi sổ); ESC 2024 mục 8.4 (mỗi 1–3 tháng đến khi kiểm soát); AHA/ACC 2025 mục 5.2.8 (điện giải, creatinin 2–4 tuần sau khi bắt đầu ức chế men chuyển); QĐ 5904 Bước 5 mục A (sơ đồ tr. 3: lối sống 1–3 tháng)."
+    },
+    {
+     "t": "Đơn trị indapamid SR 1,5 mg mỗi sáng thay cho amlodipin",
+     "v": "a",
+     "n": "QĐ 5904 Phần 3 mục G: nhóm thiazide/giống thiazide \"nên được chọn đầu tiên, nhất là ở người thừa cân, béo phì\"; BMI của chị 23,8, vòng eo 81 cm. QĐ 5904 Phần 1 sơ đồ mục C bắt đầu bằng amlodipin. Cần theo dõi điện giải."
+    },
+    {
+     "t": "Đơn trị chẹn beta (bisoprolol 2,5 mg hoặc metoprolol 50 mg)",
+     "v": "a",
+     "n": "QĐ 5904 Phần 3 mục G ghi chẹn beta \"ưu tiên dùng ở phụ nữ tuổi sinh đẻ\" nhưng cũng \"sử dụng nếu lợi tiểu và ức chế men chuyển không dung nạp\"; VSH/VNHA 2024 Hình 14.1 và ESC 2024 Bảng khuyến cáo 16: chỉ dùng khi có chỉ định bắt buộc. Hai nguồn khác nhau, không nguồn nào nói cách kia gây hại nên chấm a."
+    },
+    {
+     "t": "Báo chị đã khỏi hẳn, không cần đo HA hay tái khám nữa",
+     "v": "w",
+     "n": "HA vẫn ≥ 140/90 ở phòng khám và ≥ 135/85 ở nhà; QĐ 5904 Phần 1 Bước 5 mục A.1, A.6: điều trị và theo dõi đều, lâu dài; ESC 2024 Bảng khuyến cáo 17 (I, A). Chỉ lối sống không đo HA, không hẹn tái khám cũng sai (QĐ 5904 sơ đồ tr. 3: đánh giá sau 1–3 tháng)."
+    },
+    {
+     "t": "Chuyển tuyến chuyên khoa tim mạch tìm THA thứ phát ngay",
+     "v": "w",
+     "n": "QĐ 5904 Phần 1 Bước 4 mục A: chuyển khi THA ở người ≤ 40 tuổi, nghi thứ phát, thai kỳ, biến chứng, kháng trị; VSH/VNHA 2024 Đ2.4. Chị 47 tuổi, không chỉ điểm thứ phát."
+    },
+    {
+     "t": "Tiếp tục hoặc nhỏ lại thuốc nhỏ mũi co mạch khi nghẹt",
+     "v": "w",
+     "n": "QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1; ARIA-EAACI 2024–2025 mục 5.2.2; ESH 2023 Bảng 20."
+    },
+    {
+     "t": "Cho nifedipin ngậm dưới lưỡi để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh uống hoặc ngậm dưới lưỡi."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 1 đã xác nhận: HA phòng khám 145/92, tại nhà 142/90 mmHg sau khi ngưng thuốc nhỏ mũi",
+     "Nguy cơ tim mạch thấp theo QĐ 5904 (VSH/VNHA 2024 xếp cao vì có 1–2 yếu tố nguy cơ); chưa có tổn thương cơ quan đích",
+     "Cảm lạnh và viêm mũi do thuốc nhỏ mũi đã khỏi sau ngưng thuốc",
+     "Không phải THA áo choàng trắng; chưa có chỉ điểm THA thứ phát"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi của lượt này khác lượt 1: bệnh mũi đã khỏi, còn THA có thật không. Sổ HA tại nhà 14 lần đo trung bình 142/90 mmHg (ngưỡng ≥ 135/85) và HA phòng khám 145/92, đo sau 3 tuần không còn thuốc co mạch: THA thật, không phải áo choàng trắng (QĐ 5904 Phụ lục 1.2; VSH/VNHA 2024 Đ1.2.2, Hình 10; ESC 2024 Bảng 5). Độ 1 (QĐ 5904 Phần 1 Bước 3A). Hết nặng đầu và hết nghẹt mũi chỉ chứng tỏ bệnh mũi đã khỏi, không chứng tỏ HA bình thường: THA thường không có triệu chứng và đo HA định kỳ vẫn cần (VSH/VNHA 2024 Đ3.4).",
+     "Vì sao là nguyên phát: tuổi 47, tiền sử gia đình, ăn mặn, tăng cân; K, creatinin, nước tiểu bình thường; HA còn cao dù đã ngưng thuốc co mạch (ESH 2023 Bảng 20), không đủ chỉ điểm thứ phát (VSH/VNHA 2024 Đ2.4, Bảng 9); aldosteron/renin nếu làm: ARR 4,2 (ngưỡng sàng lọc 30, AHA/ACC 2025 mục 3.2.3.1). Phân tầng nguy cơ: xem mục chẩn đoán (QĐ 5904 Bước 3B so với VSH/VNHA 2024 Bảng 2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ba hướng khởi trị đều đúng (nguồn từng hướng: xem mục xử trí tương ứng và sổ mâu thuẫn); điểm chung là lối sống bắt đầu ngay và đánh giá lại trong 1–3 tháng. Nếu kê thuốc: amlodipin 5 mg, nếu phối hợp đôi thêm perindopril 5 mg (QĐ 5904 Phần 3 mục G; AHA/ACC 2025 mục 5.2.8: kiểm tra creatinin, K sau 2–4 tuần). Chị đặt vòng, kinh còn đều: hỏi tránh thai, dặn báo ngay nếu có thai. Uống buổi sáng (ESH 2023 mục 11.10.10.1).",
+     "Lịch hẹn: tái khám 4 tuần sau khởi thuốc (QĐ 5904 Phần 1 mục C; VSH/VNHA 2024 Đ4.1), ổn định thì mỗi 1–3 tháng (QĐ 5904 mục \"Khoảng cách giữa các lần khám\"), ít nhất mỗi năm (ESC 2024 Bảng khuyến cáo 19, IIa)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, giờ cố định mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 4 tuần",
+      "ghi_chu": "Chỉ kê nếu chọn cách khởi thuốc ngay (đơn trị hoặc phối hợp đôi). Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G; Phần 1 mục C bước 1). Nếu chọn lối sống 1–3 tháng trước (QĐ 5904 Phần 1 Bước 5 mục A): chưa kê."
+     },
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc với amlodipin",
+      "so_ngay": "Dùng lâu dài; kiểm tra creatinin, K sau 2–4 tuần",
+      "ghi_chu": "Chỉ kê nếu chọn phối hợp đôi ngay (VSH/VNHA 2024 Bảng 4; ESC 2024 Bảng khuyến cáo 16; AHA/ACC 2025 mục 5.2.4); đơn trị thì bỏ dòng này. Khởi đầu 5 mg, duy trì 5–10 mg; chống chỉ định có thai, tiền sử phù mạch; tác dụng phụ ho, tăng K (QĐ 5904 Phần 3 mục G). Ưu tiên viên phối hợp cố định nếu có (QĐ 5904 Phần 1 mục C); hàm lượng viên phối hợp tại Việt Nam: không có trong tài liệu đã tải. Ho nhiều thì đổi losartan, khởi đầu 25 mg (QĐ 5904 Phần 3 mục G; sơ đồ Phần 1 mục C ghi 50 mg, mục sổ MT-0058)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh mũi đã khỏi, không dùng lại thuốc nhỏ mũi co mạch; nghẹt mũi thì rửa mũi nước muối (QĐ 5643 Ngạt mũi mục 4.1).",
+     "HA vẫn cao dù đã hết nặng đầu: THA thường không có triệu chứng nên cần đo HA định kỳ (VSH/VNHA 2024 Đ3.4). Tiếp tục đo HA tại nhà sáng và tối, ghi sổ, mang theo khi tái khám.",
+     "Nếu dùng thuốc: uống mỗi sáng một giờ cố định, kể cả khi thấy khỏe, không tự ngưng hay giảm liều (QĐ 5904 Phần 1 mục D.2); phù mắt cá, đỏ mặt, ho khan thì báo, không tự bỏ thuốc; báo ngay nếu có thai (QĐ 5904 Phần 3 mục G).",
+     "Đi cấp cứu ngay nếu đau đầu dữ dội, nhìn mờ, đau ngực, khó thở, yếu tê nửa người, méo miệng, nói khó (QĐ 5904 Phần 3 mục D.1).",
+     "Tái khám sau 4 tuần nếu đã khởi thuốc, hoặc sau 1–3 tháng nếu chọn lối sống trước; khi ổn định khám 1–3 tháng một lần (QĐ 5904 Phần 1, mục \"Khoảng cách giữa các lần khám\"), làm lại xét nghiệm cơ bản mỗi 6–12 tháng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hà ngưng hẳn thuốc nhỏ mũi, không dùng kháng sinh, dự đám cưới con gái khỏe mạnh. Cùng bác sĩ chị chọn lối sống tích cực kèm amlodipin 5 mg mỗi sáng; sau 6 tuần HA tại nhà trung bình 127/79 mmHg, sau 3 tháng ổn định 124–128/76–80 mmHg, không phù mắt cá. Mũi và đầu hết hẳn; THA được kiểm soát, không \"khỏi\" nên chị theo dõi định kỳ. Hai hướng khởi trị còn lại ở lượt 2 cũng cho kết cục tương tự theo các nguồn đã tải.",
+ "nhieu": [
+  "Chuyến xe khách 11 tiếng: bắp chân mỏi thoáng qua, khám bình thường; ngồi lâu chỉ là yếu tố nguy cơ huyết khối yếu (ESC 2019 Bảng 3), không đủ nghĩ huyết khối.",
+  "Nặng đầu buổi sáng và HA 152/96 dễ nghĩ cơn THA cấp cứu; thực tế HA dưới 180/110, không dấu thần kinh, đau đầu do nghẹt mũi (QĐ 5904 Phần 3 mục D.1).",
+  "Lần viêm xoang năm ngoái uống kháng sinh khỏi không chứng minh lần này cần kháng sinh; cảm lạnh ngày thứ 4 không có chỉ định (ACP/CDC 2016 Advice 4).",
+  "Yêu cầu truyền dịch: không có chỉ định ở người uống được nước, ăn uống bình thường."
+ ],
+ "bai_hoc_bien": [
+  "Đòi truyền dịch: hỏi vì sao chị muốn truyền, nêu lý do cụ thể cho riêng chị (uống được, không mất nước, truyền không làm thông mũi) và đưa việc làm thay thế; từ chối chung chung chỉ làm chị đòi lại. Tài liệu đã tải không có chỉ định truyền dịch cho cảm lạnh.",
+  "Thuốc tự mua không xem là thuốc: thuốc nhỏ mũi co mạch dùng kéo dài vừa làm nghẹt mũi nặng thêm vừa làm HA cao thêm (ESH 2023 Bảng 20; QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1). Hỏi cụ thể có nhỏ, xịt gì không, thuốc mua không cần đơn.",
+  "Lý do thật là muốn kháng sinh (và nỗi sợ không kịp khỏi trước đám cưới): hỏi chị mong muốn gì thì mới thấy; giải thích bằng tiêu chí quay lại (ACP/CDC 2016 Advice 3) thay vì chỉ nói \"không cần\".",
+  "HA phòng khám đơn lẻ trong bối cảnh nhiễu: 140–159/90–99 phải xác nhận ngoài phòng khám (QĐ 5904 Phụ lục 1.2; ESC 2024 Bảng khuyến cáo 6) sau khi gỡ yếu tố nhiễu.",
+  "Đỡ hoàn toàn khi tái khám: tiêu chí xác nhận khỏi bệnh mũi (mũi thông, không mủ, không đau mặt, không sốt); bệnh mũi khỏi không có nghĩa HA đã bình thường; khi nào ngưng thuốc (không tự ngưng; duy trì lâu dài, giảm khi lối sống hiệu quả và bác sĩ cho phép); đã khỏi vẫn cần đo HA lại ngoài phòng khám."
+ ],
+ "diem_nho": [
+  "THA độ 1 = 140–159/90–99 mmHg (QĐ 5904 Phần 1 Bước 3A); chẩn đoán khi HA phòng khám ≥ 140/90 kèm HA tại nhà ≥ 135/85 hoặc 24 giờ ≥ 130/80 (QĐ 5904 Phụ lục 1.2; VSH/VNHA 2024 Đ1.2.2, Hình 10; ESC 2024 Bảng 5, Bảng khuyến cáo 6). AHA/ACC 2025 chẩn đoán từ 130/80 (mục mâu thuẫn ngưỡng chẩn đoán trong sổ).",
+  "Thuốc thông mũi và thuốc nhỏ mũi co mạch làm tăng HA, chỉ dùng ngắn ngày; thay bằng nước muối, corticoid xịt mũi, kháng histamin (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11; QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1).",
+  "Cảm lạnh không dùng kháng sinh; viêm xoang vi khuẩn khi triệu chứng > 10 ngày, khởi phát nặng hoặc xấu lại hai pha (ACP/CDC 2016 Advice 3, 4); QĐ 5643 mục 3.1.1: xấu đi sau 5–7 ngày hoặc > 10 ngày.",
+  "THA độ 1 nguy cơ thấp có ba hướng đều đúng: lối sống 1–3 tháng rồi thuốc nếu chưa kiểm soát (QĐ 5904 sơ đồ tr. 3), đơn trị amlodipin (QĐ 5904 mục B.1; ESH 2023 mục 11.10.1), hoặc phối hợp đôi liều thấp ngay (VSH/VNHA 2024 Bảng 4; ESC 2024 Bảng khuyến cáo 16, 17; AHA/ACC 2025 mục 5.2.4).",
+  "Duy trì thuốc hạ áp lâu dài, không tự ngưng; ngưng hẳn thì HA trở lại mức cũ khá nhanh (ESC 2024 Bảng khuyến cáo 17; ESH 2023 mục 11.10.10.2); lối sống hiệu quả có thể cho phép giảm liều (ESC 2024 mục 8.4)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 1–5; Bước 3A, 3B; Bước 4 mục A; Bước 5 mục A–D, sơ đồ tr. 3, 4, 5; Phụ lục 1.1, 1.2, 1.3); Phần 3 mục D.1, G; Phụ lục 3.2.",
+  "VSH/VNHA 2024 – Chiến lược thực hành lâm sàng quản lý THA tại Việt Nam – TL-0288 – Bảng 2, 3, 4, 8, 9, 11; Đ1.2.1–1.2.3; Hình 10; Đ2.4; Đ3.4–Đ3.6; Đ3.7, Hình 14, 14.1; Đ4.1.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – Bảng 5, 8, 9, 12; mục 5.2.3, Hình 4; Bảng khuyến cáo 6, 13, 15, 16, 17, 18, 19, 35; mục 8.3.5, 8.4, 8.5; mục 10.1.1.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – mục 11.10.1 và bảng khuyến cáo chung về thuốc hạ áp; mục 11.10.10.1, 11.10.10.2; Bảng 20.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – Bảng 6; mục 3.2.3.1; Bảng 11; mục 5.2.4, 5.2.8; mục 6.2.",
+  "BYT – QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh tai mũi họng – TL-0130 – Viêm mũi xoang cấp tính mục 3.1.1, 4.2.1 (tr. 108–112); Ngạt mũi mục 4.1, 5 (tr. 115–118); Viêm mũi họng cấp tính mục 5.1.",
+  "ACP/CDC 2016 – Appropriate antibiotic use for acute respiratory tract infection in adults – TL-0156 – Advice 3, 4 (tr. 431); tr. 430, 431.",
+  "ARIA-EAACI 2024–2025 – TL-0546 – mục 5.1.4, 5.2.2.",
+  "ESC 2019 Guidelines for acute pulmonary embolism – TL-0089 – Bảng 3 (yếu tố nguy cơ yếu: ngồi bất động kéo dài)."
+ ],
+ "phien_ban_ca": 1,
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-13): viết theo tài liệu đã tải. Đã đọc: TL-0284 (QĐ 5904 Phần 1 Bước 1–5, sơ đồ tr. 3–5 xem trên PDF, Phụ lục 1.1–1.3; Phần 3 mục D.1, G; Phụ lục 3.2); TL-0288 (Bảng 1–4, 8–11, Đ1.2, Đ2.4, Đ3.4–3.7, Đ4.1); TL-0305 (Bảng 5, 8, 9; Bảng khuyến cáo 6, 15–19, 35); TL-0312 (mục 11.10.1, 11.10.10, Bảng 20); TL-0297 (Bảng 6, 11; mục 5.2.4); TL-0130 (QĐ 5643: mũi xoang cấp, ngạt mũi, viêm mũi họng); TL-0156 (ACP/CDC 2016); TL-0546 (ARIA-EAACI); TL-0089 (ESC 2019 PE, Bảng 3).",
+  "Mâu thuẫn mới trong MT-0034_mau_thuan.md: THA độ 1 nguy cơ thấp (lối sống 1–3 tháng, đơn trị, phối hợp đôi); chẹn beta ở phụ nữ tuổi sinh đẻ. Áp dụng mục sổ có sẵn: MT-0181, MT-0756, MT-0042, HH-0007, MT-1282.",
+  "Thiếu tài liệu: cách ngưng thuốc nhỏ mũi co mạch và thời gian nghẹt dội lại; tiêu chuẩn viêm mũi do thuốc; số lần rửa mũi mỗi ngày; tên và liều corticoid xịt mũi; hàm lượng viên phối hợp amlodipin/perindopril tại Việt Nam; SCORE chỉ đọc trên biểu đồ QĐ 5904 Phụ lục 1.3; mốc tái khám THA độ 1 chờ xác nhận (dùng 2–4 tuần theo MT-0042); nguy cơ của truyền dịch ở người khỏe (suy luận người thiết kế).",
+  "Bản rút gọn 13/11/2026 theo yêu cầu trưởng nhóm: bỏ câu lặp giữa xu_tri, phan_tich và dan_do; giữ nguyên nguồn, chấm điểm và id."
+ ]
+}

@@ -1,0 +1,893 @@
+{
+ "ma_ca": "MT-0352",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_dtd_tip2_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Đái tháo đường type 2 (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "ĐTĐ type 1/LADA",
+   "ĐTĐ thứ phát"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Nông dân đã nghỉ hưu",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Sen",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Nông dân đã nghỉ hưu (còn làm vườn, nuôi gà)",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'bà', gọi bác sĩ là 'bác sĩ'. Chị Hồng gọi bà là 'má', xưng 'con' hoặc 'em' với bác sĩ.",
+  "tinh_cach": "Hiền, nhanh nhẩu, hay nói 'già rồi, bệnh nào cũng vậy'. Nặng tai, hay hiểu lệch câu hỏi dài hoặc hỏi nhỏ. Sợ tốn tiền, ngại làm phiền con. Rất tin bác sĩ nhưng thấy phòng khám 'xa quá'. Tự lo sinh hoạt, còn làm vườn, nuôi gà. Hiểu biết y khoa ít, gọi thuốc bằng 'viên trắng', 'viên vàng'.",
+  "kieu_nhieu": "Ở xa, khó tái khám: bà xin lấy thuốc 3 tháng cho đỡ phải lên, gạt đi mọi lời hẹn tái khám bằng 'xa lắm, để bà lên sau', ngại nhắc triệu chứng nhỏ vì sợ bị bắt quay lại. Phải chốt được cách quay lại, số điện thoại, nhờ trạm y tế xã thì bà mới đồng ý.",
+  "nguoi_nha": "Con gái, chị Hồng, 52 tuổi, buôn bán nhỏ, chở bà đi bằng xe máy. Lo cho mẹ, hay nói chen. Chị biết bà uống thuốc tiểu đường và ho mấy hôm nay, chị KHÔNG biết chuyện bà uống thuốc ngủ do em trai mua và chuyện bà từng run, vã mồ hôi buổi trưa. Khi bác sĩ hỏi sinh hoạt, ăn uống, nhà ở, đường đi, chị là người trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Chị Hồng (con gái)",
+  "ngoai_hinh": {
+   "da": "#c9a07a",
+   "toc": "#d4d1cb",
+   "kieuToc": "bui",
+   "ao": "#7a5c3e",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 2,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d6a984",
+    "toc": "#2a1e17",
+    "kieuToc": "dai",
+    "ao": "#8aa0b4",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn, lấy thuốc đái tháo đường, hơi ho",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Phạm Thị Sen, 79 tuổi, nông dân đã nghỉ hưu, đái tháo đường khoảng 9 năm, đến tái khám theo hẹn cùng con gái để lấy thuốc. Bà nói hơi ho mấy ngày nay. Sinh hiệu: HA 134/76 mmHg, mạch 82 l/p, nhiệt 36,9, SpO2 96%, cân nặng 46 kg, BMI 20,4.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bà Sen bị chuyển lên bệnh viện tuyến trên để 'khám đái tháo đường' dù phòng khám đã làm được HbA1c, creatinin, UACR, X-quang ngực ngay hôm nay. Chị Hồng phải nghỉ bán thêm một ngày, đi thêm 45 km, bà mệt và ngại lần sau; QĐ 5481 Phần 4 mục 9 chỉ chuyển nội tiết khi không đạt mục tiêu hoặc phác đồ ngày càng phức tạp, chưa đúng với người mới chỉnh thuốc lần đầu. Trong khi đó glibenclamide và diazepam là hai việc cần đổi ngay vẫn chưa được xử trí.",
+    "nhap_vien": "Bà Sen nhập viện nội trú chỉ để chỉnh thuốc đái tháo đường, dù tỉnh táo, ăn uống được, ceton niệu âm, không có dấu hiệu mất bù cấp (QĐ 5481 Phần 7 mục 2.1). Bà xa nhà, xa con cháu, tốn chi phí và ngày công của chị Hồng, rồi vẫn về với đúng đơn cũ nếu không ai ngưng glibenclamide (ADA 2026 KC 13.14a). Bà cũng dễ nản, không muốn quay lại tái khám.",
+    "theo_doi": "Bà Sen được dặn 'cứ uống thuốc cũ, hết thì lên lấy', không đổi glibenclamide và không hẹn ngày cụ thể. Glibenclamide tác dụng đến 24 giờ, nguy cơ hạ đường huyết cao nhất ở người già và suy thận (QĐ 5481 PL01 mục 1a), nên các cơn run, vã mồ hôi buổi trưa và nguy cơ ngã ban đêm còn nguyên. HbA1c 8,9% kèm triệu chứng khát, tiểu đêm tiếp tục tăng, trong khi người đang chỉnh thuốc cần tái khám 0,5–1 tháng/lần (QĐ 5481 Phần 3 mục 2.3)."
+   },
+   "loi_mo": "Chào bác sĩ. Tới hẹn rồi nên bà lên lấy thuốc tiểu đường. Bà ho chút xíu thôi, không sao đâu. Bác sĩ cho bà lấy thuốc ba tháng nghen, nhà xa lắm, lên được một lần là mừng rồi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "134/76",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn, lấy thuốc đái tháo đường. Có ho nhẹ mấy ngày nay.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "tien_su_dtd",
+     "noi_dung": "Đái tháo đường khoảng 9 năm, được trạm y tế xã cấp thuốc đều: metformin 850 mg ngày 2 lần và glibenclamide 5 mg ngày 2 lần (sáng, tối). Lần cuối thử HbA1c cách đây 1 năm được 7,9%. Không có máy đo đường huyết ở nhà. Không có tăng huyết áp, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian bệnh, thuốc đang dùng, HbA1c cũ"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Ba tháng nay khát nước, đêm dậy tiểu 3–4 lần, mệt, nhìn hơi mờ. Sụt khoảng 2 kg. Không đau bụng, không nôn, không thở mệt, vẫn tỉnh táo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tăng đường huyết; loại trừ biến chứng cấp"
+    },
+    {
+     "id": "ha_duong",
+     "noi_dung": "Vài lần gần đây, nhất là buổi trưa khi ăn trễ, bà run tay, vã mồ hôi, hoa mắt; ăn miếng đường hoặc uống nước đường thì hết. Bà tưởng 'già yếu nên run', chưa nói với ai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hạ đường huyết do glibenclamide"
+    },
+    {
+     "id": "te_nga",
+     "noi_dung": "Hơn một tháng trước bà ngã một lần lúc đi tiểu đêm, đau hông phải vài ngày rồi hết, không đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Té ngã: hội chứng lão khoa"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan từng cơn 4 ngày nay, hơi nghẹt mũi, không đờm, không sốt, không đau ngực, không khó thở, không ho ra máu. Cháu nội 4 tuổi ngủ chung giường bị ho, sổ mũi một tuần nay, vẫn ăn chơi bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: tiếp xúc người ho"
+    },
+    {
+     "id": "lao_tx",
+     "noi_dung": "Trong nhà không ai ho kéo dài, ho ra máu hay từng điều trị lao. Bà chưa từng bị lao, không đổ mồ hôi đêm, không sốt chiều. Ăn kém đi vài hôm nay vì ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguồn lây lao và triệu chứng nghi lao"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Hơn 2 năm nay mỗi tối bà uống 1 viên thuốc ngủ do con trai mua ở tiệm thuốc (diazepam 5 mg, trên vỏ ghi 'Seduxen'). Thiếu thuốc thì thao thức cả đêm. Bà nghĩ đó là thuốc bổ, không kể vì 'có phải thuốc tiểu đường đâu'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể 2 thuốc tiểu đường. Chỉ kể khi bác sĩ hỏi ngủ có ngon không, có uống thuốc ngủ, thuốc an thần, thuốc mua ngoài tiệm không; con gái không biết chuyện này nếu không được hỏi riêng.",
+     "k": 1,
+     "y": "Thuốc ngủ an thần (diazepam) dùng lâu, nguy cơ ngã"
+    },
+    {
+     "id": "bien_chung",
+     "noi_dung": "Thỉnh thoảng tê rần đầu ngón chân về đêm. Chưa bao giờ khám mắt. Chân không có vết loét.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Biến chứng mạn: thần kinh, mắt, bàn chân"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Chưa từng tiêm vắc xin cúm hay phế cầu.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "xa_tai_kham",
+     "noi_dung": "Nhà ở xã miền núi cách phòng khám khoảng 45 km, đường đất, xe khách mỗi ngày một chuyến. Chị Hồng (con gái, 52 tuổi, buôn bán nhỏ) chở bà bằng xe máy, mỗi lần đi là mất cả ngày bán. Điện thoại của chị Hồng bắt sóng chập chờn. Bà muốn lấy thuốc 3 tháng. Nhà có thẻ BHYT.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: ở xa, khó tái khám; cần xử trí trọn gói"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà gầy (BMI 20,4), da khô, nhăn, niêm hồng nhạt, môi hơi khô. Tỉnh táo, nặng tai, trả lời đúng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Rì rào phế nang rõ hai phổi, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, đều.",
+     "media": [
+      {
+       "vi_tri": "Hai phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, niêm mạc mũi phù, không mủ.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô, không loét, không chai. Monofilament 10 g: không cảm nhận ở đầu ngón cái hai bên. Mạch mu chân yếu nhưng sờ được. Không phù.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Vài vi phình mạch rải rác hai mắt, không xuất tiết, không tân mạch: bệnh võng mạc ĐTĐ không tăng sinh nhẹ.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/76, đứng 3 phút 128/72 mmHg, không chóng mặt: không hạ huyết áp tư thế.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi chậm, bước ngắn. Đứng dậy khỏi ghế phải chống tay, quay người hơi loạng choạng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "12,4 mmol/L",
+     "ab": 1
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "8,9%",
+     "ab": 1,
+     "n": "Mục tiêu < 8,0% (ADA 2026 KC 13.7b; QĐ 5481 Phần 4 Bảng 5): chưa đạt."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,2 mmol/L · Creatinin 98 µmol/L · eGFR 52 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 6.2,
+      "creat": 98,
+      "egfr": 52
+     },
+     "n": "eGFR 52: metformin dùng được, theo dõi eGFR mỗi 3–6 tháng (ADA 2026 mục 13)."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "118 mg/g (tăng albumin niệu A2)",
+     "ab": 1,
+     "n": "Một mẫu: cần 2/3 mẫu bất thường trong 3–6 tháng mới kết luận (ADA 2026 mục 11)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 4,9 · LDL-C 2,9 · HDL-C 1,2 · TG 1,8 mmol/L",
+     "ab": 1
+    },
+    "ua": {
+     "v": "u",
+     "r": "Glucose 2+ · Ceton âm · Protein vết · Bạch cầu, nitrit âm",
+     "ab": 1
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 137 · K 4,4 mmol/L"
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 8,2 G/L · Hb 124 g/L · TC 276 G/L",
+     "bang": {
+      "wbc": 8.2,
+      "hgb": 124,
+      "plt": 276
+     },
+     "n": "QĐ 5481 Phần 3 Bảng 2: công thức máu lần đầu."
+    },
+    "b12": {
+     "v": "a",
+     "r": "Vitamin B12 285 pmol/L (trong giới hạn)",
+     "n": "Dùng metformin > 4 năm: theo dõi B12 hằng năm (ADA 2026 mục 13)."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 80 l/p, không bất thường.",
+     "n": "QĐ 5481 Phần 3 Bảng 2: điện tim lần đầu."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Tim, phổi chưa thấy bất thường.",
+     "n": "Tuổi > 75 có chỉ định chụp khi ho cấp (QĐ 708/2015 Phần II, viêm phế quản cấp, mục 2). Phim âm tính ở ngày thứ 4 chưa loại hẳn viêm phổi về sau (QĐ 2147/2026 mục 3.1.3)."
+    },
+    "xpert": {
+     "n": "Ho mới 4 ngày, không tiếp xúc nguồn lây lao; nghi lao khi ho kéo dài trên 2 tuần (BYT 2024 Hướng dẫn lao (TL-0123), Bảng 1)."
+    },
+    "ct_nguc": {
+     "n": "Không cần: lâm sàng và X-quang chưa gợi ý viêm phổi (QĐ 2147/2026 mục 3.1.4: CT khi viêm phổi nặng, phức tạp, hoặc X-quang không rõ mà vẫn nghi)."
+    },
+    "gad_cpep": {
+     "n": "Không có chỉ định: khởi phát lúc ~70 tuổi, 9 năm đáp ứng thuốc uống, ceton âm (QĐ 5481 Phần 2 Bảng 1; ADA 2026 Hình 2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "ĐTĐ típ 2 chưa đạt mục tiêu (HbA1c 8,9%, mục tiêu < 8,0%) ở người rất cao tuổi nhiều bệnh; hạ đường huyết do glibenclamide; nghi bệnh thận mạn (eGFR 52, UACR 118 mg/g, cần xác nhận); bệnh đa dây thần kinh ngoại biên; võng mạc không tăng sinh nhẹ",
+     "ok": 1,
+     "n": "HbA1c 8,9%, khát, tiểu đêm, sụt 2 kg; cơn run, vã mồ hôi buổi trưa khi đang dùng glibenclamide 10 mg/ngày; monofilament mất cảm giác; vi phình mạch."
+    },
+    {
+     "t": "Nguy cơ ngã cao do diazepam dùng lâu, tiểu đêm, đi chậm; thiếu cân nhẹ (BMI 20,4, sụt 2 kg)",
+     "ok": 1,
+     "n": "Ngã 1 lần, đứng dậy phải chống tay. Beers 2023 Bảng 2 và 3: tránh benzodiazepine khi có tiền sử ngã."
+    },
+    {
+     "t": "Viêm đường hô hấp trên/viêm phế quản cấp do virus, lây từ cháu",
+     "ok": 1,
+     "n": "Ho 4 ngày, không sốt, SpO2 96%, phổi sạch, X-quang bình thường (QĐ 708/2015 Phần II mục 2, 4.1a)."
+    },
+    {
+     "t": "ĐTĐ típ 1/LADA",
+     "n": "Khởi phát lớn tuổi, 9 năm đáp ứng thuốc uống, ceton niệu âm: nghiêng típ 2 (QĐ 5481 Phần 2 Bảng 1; ADA 2026 Hình 2.1)."
+    },
+    {
+     "t": "ĐTĐ thứ phát",
+     "n": "Không dùng corticoid, không bệnh tụy, không bệnh nội tiết khác; ĐTĐ đã có 9 năm (ADA 2026 mục 2; QĐ 5481 Phần 2 mục 2)."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "SpO2 96%, thở 18 l/p, không sốt, phổi không ran, X-quang bình thường; nhưng người cao tuổi biểu hiện có thể không rầm rộ nên phải dặn dấu hiệu quay lại (QĐ 2147/2026 mục 3.1.1)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho mới 4 ngày, không tiếp xúc nguồn lây, không sốt chiều, X-quang bình thường. ĐTĐ là yếu tố nguy cơ, nên nếu ho kéo dài trên 2 tuần phải tìm lao (BYT 2024 Hướng dẫn lao mục 1.3, Bảng 1)."
+    },
+    {
+     "t": "Biến chứng cấp tăng đường huyết (nhiễm toan ceton, tăng áp lực thẩm thấu)",
+     "n": "Tỉnh táo, ăn uống được, ceton niệu âm, glucose 12,4 mmol/L (QĐ 5481 Phần 7 mục 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng glibenclamide",
+     "v": "c",
+     "n": "Nguyên nhân hạ đường huyết và góp phần ngã. ADA 2026 KC 13.13, 13.14a và mục 13: glyburide (glibenclamide) nên tránh ở người cao tuổi. Beers 2023 Bảng 2: tránh sulfonylurea làm thuốc bậc 1–2. QĐ 5481 PL01 mục 1a: tác dụng đến 24 giờ, nguy cơ hạ glucose máu cao nhất ở người già, suy thận."
+    },
+    {
+     "t": "Giữ metformin 850 mg × 2 lần/ngày sau ăn; đo lại eGFR sau 3–6 tháng; tạm ngưng khi ốm nặng, mất nước",
+     "v": "c",
+     "n": "eGFR 52 (ADA 2026 mục 13: dùng được khi eGFR ≥ 30, giảm liều khi 30–45, theo dõi eGFR mỗi 3–6 tháng; QĐ 5481 Phần 4 mục 4.2d, PL01 mục 2: 500–2000 mg/ngày, giảm liều khi eGFR 30–45)."
+    },
+    {
+     "t": "Thêm thuốc ít gây hạ đường huyết: linagliptin 5 mg 1 lần/ngày, hoặc (thận trọng) dapagliflozin 10 mg / empagliflozin 10 mg",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 4.2e: nguy cơ hạ glucose cao thì ưu tiên DPP-4i, SGLT2i; mục 4.1i: linagliptin không chỉnh liều theo thận, SGLT2i được ưu tiên khi eGFR 30–60 hoặc albumin niệu > 30 mg/g. ADA 2026 mục 13: DPP-4i hợp khi tăng đường huyết nhẹ hoặc nguy cơ hạ cao; SGLT2i có lợi cho thận (KC 13.14d) nhưng gây giảm thể tích, nhiễm nấm sinh dục ở nữ, thận trọng ở người yếu hoặc dễ hạ huyết áp tư thế. Hai nguồn khác ưu tiên (bảo vệ thận, an toàn ở người yếu); ca này chọn linagliptin vì BMI 20, sụt cân, tiểu đêm, ngã."
+    },
+    {
+     "t": "Đặt mục tiêu HbA1c < 8,0%, không chặt hơn; ưu tiên tránh hạ đường huyết",
+     "v": "c",
+     "n": "ADA 2026 KC 13.7b (nhiều bệnh, sức khỏe trung bình: < 8,0%); QĐ 5481 Phần 4 Bảng 5: < 8,0%, glucose đói 5,0–8,3 mmol/L (90–150 mg/dL)."
+    },
+    {
+     "t": "Dạy bà và chị Hồng nhận biết và xử trí hạ đường huyết, mang theo đường",
+     "v": "c",
+     "n": "Uống 15–20 g glucose, thử lại sau 15 phút (QĐ 5481 Phần 6 mục 1c) hoặc 10–15 g glucose (QĐ 5904/2019, phần ĐTĐ, Bước 4 mục A): ghi cả hai, 10–15 g là mức thận trọng hơn. Hỏi cơn hạ đường huyết mỗi lần khám (QĐ 5481 Phần 6 mục 1a, 1b)."
+    },
+    {
+     "t": "Không kê kháng sinh; uống đủ nước ấm, nghỉ ngơi; dặn dấu hiệu phải quay lại sớm",
+     "v": "c",
+     "n": "Hầu hết viêm phế quản cấp không cần kháng sinh, thuốc giảm ho ít bằng chứng, nên uống nhiều nước (QĐ 708/2015 Phần II mục 4.1a, 4.3). Người cao tuổi viêm phổi có thể không sốt, biểu hiện không rầm rộ (QĐ 2147/2026 mục 3.1.1)."
+    },
+    {
+     "t": "Kê kháng sinh ngay (amoxicillin/acid clavulanic)",
+     "v": "a",
+     "n": "QĐ 708/2015 mục 4.1a cho kháng sinh khi kèm bệnh thận hoặc > 65 tuổi có ≥ 2 dấu hiệu; điều kiện 'ĐTĐ' của nhóm > 80 tuổi chưa áp dụng (bà 79 tuổi). Bệnh mới 4 ngày, ho khan, không đờm mủ: chưa cần, nhưng chấp nhận vì người cao tuổi có bệnh nền."
+    },
+    {
+     "t": "Không ngưng đột ngột diazepam; thương lượng kế hoạch giảm liều từ từ với bà và con gái, bắt đầu khi hết bệnh cấp",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2, Bảng 3: tránh benzodiazepine, nhất là khi có tiền sử ngã. Joint CPG benzodiazepine tapering 2025 (TL-0575), Key takeaways 1d, 3, 5: người ≥ 65 tuổi nên giảm liều, không ngưng đột ngột, mỗi lần giảm 5–10% liều mỗi 2–4 tuần, tối đa 25% mỗi 2 tuần. Cách chia viên 5 mg và thời điểm bắt đầu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng ngay diazepam hôm nay",
+     "v": "w",
+     "n": "Ngưng đột ngột sau hơn 2 năm có nguy cơ cai nặng (Joint CPG 2025, Key takeaways 3: giảm đột ngột có thể gây hội chứng cai nặng, đe dọa tính mạng)."
+    },
+    {
+     "t": "Xác nhận UACR sau 3–6 tháng, theo dõi eGFR; tránh thuốc giảm đau NSAID",
+     "v": "c",
+     "n": "ADA 2026 mục 11: cần 2/3 mẫu bất thường trong 3–6 tháng; QĐ 5481 Phần 3 Bảng 2: MAU/creatinin niệu mỗi 3–6 tháng."
+    },
+    {
+     "t": "Hẹn khám mắt (soi đáy mắt, thị lực); khám bàn chân mỗi lần, dạy giữ ẩm, không đi chân đất",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 9: khám đáy mắt khi mới chẩn đoán rồi mỗi 1–2 năm, bà chưa từng khám; Phần 8 mục 4e: kiểm tra bàn chân mỗi lần khám."
+    },
+    {
+     "t": "Tiêm vắc xin cúm và phế cầu khi hết bệnh cấp",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 8: tiêm cúm, phế cầu hằng năm; ADA 2026 Bảng 4.3. Thời điểm tiêm khi đang ho: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cân nhắc statin cường độ trung bình sau khi thảo luận lợi ích, nguy cơ",
+     "v": "a",
+     "n": "ADA 2026 KC 10.23: > 75 tuổi có thể hợp lý khởi trị statin cường độ trung bình; QĐ 5481 Phần 4 mục 6.2.2b: nên bắt đầu. LDL-C 2,9 mmol/L; bà đã nhiều thuốc nên hoãn được."
+    },
+    {
+     "t": "Xử trí trọn gói vì ở xa: kê thuốc đủ đến ngày hẹn, giấy dặn bằng chữ lớn có số điện thoại phòng khám, nhờ trạm y tế xã đo đường huyết, hẹn tái khám 2 tuần và quay lại sớm khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "Đang chỉnh thuốc tái khám 0,5–1 tháng/lần (QĐ 5481 Phần 3 mục 2.3); đổi phác đồ cần HbA1c mỗi quý (Phần 4 mục 2). Phần ho: dấu hiệu quay lại sớm theo QĐ 2147/2026 mục 3.1.1."
+    },
+    {
+     "t": "Bắt đầu insulin nền ngay",
+     "v": "a",
+     "n": "QĐ 5481 Phần 4 mục 4.2f: cân nhắc khi có triệu chứng tăng đường huyết, sụt cân hoặc HbA1c ≥ 9%; ADA 2026 KC 9.20: HbA1c > 10% hoặc triệu chứng. Có khát, tiểu đêm nên chấp nhận, nhưng người cao tuổi ở xa, đang hạ đường huyết nên ưu tiên thuốc không insulin (ADA 2026 mục 13: thuốc không insulin ưu tiên vì ít hạ đường huyết)."
+    },
+    {
+     "t": "Giữ nguyên glibenclamide, thêm liều hoặc thêm một sulfonylurea khác",
+     "v": "w",
+     "n": "ADA 2026 KC 13.14a: giảm bớt thuốc gây hạ đường huyết; Beers 2023 Bảng 2; bà đã có cơn hạ đường huyết và ngã."
+    },
+    {
+     "t": "Thêm GLP-1 RA tiêm",
+     "v": "w",
+     "n": "ADA 2026 mục 13: GLP-1 RA không ưu tiên khi sụt cân không giải thích hoặc suy dinh dưỡng; bà BMI 20,4, sụt 2 kg, ăn kém."
+    },
+    {
+     "t": "Cấp thuốc 3 tháng, hẹn lại sau 3 tháng theo ý bà",
+     "v": "w",
+     "n": "Đổi thuốc cần tái khám 0,5–1 tháng/lần, HbA1c mỗi quý (QĐ 5481 Phần 3 mục 2.3; Phần 4 mục 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "ĐTĐ típ 2 chưa đạt mục tiêu (HbA1c 8,9%, glucose đói 12,4 mmol/L) ở người 79 tuổi, nhiều bệnh (mục tiêu < 8,0%)",
+     "Hạ đường huyết do glibenclamide (cơn run, vã mồ hôi buổi trưa)",
+     "Nghi bệnh thận mạn G3a–A2 (eGFR 52, UACR 118 mg/g), cần xác nhận sau 3–6 tháng",
+     "Bệnh đa dây thần kinh ngoại biên; võng mạc ĐTĐ không tăng sinh nhẹ",
+     "Nguy cơ ngã cao: diazepam dùng lâu, tiểu đêm, đi chậm, đã ngã 1 lần",
+     "Viêm đường hô hấp trên/viêm phế quản cấp do virus, chưa có viêm phổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Chưa đạt mục tiêu: HbA1c 8,9% so với < 8,0% (ADA 2026 KC 13.7b; QĐ 5481 Phần 4 Bảng 5). Khát, tiểu đêm 3–4 lần, sụt 2 kg. Típ 2 vì khởi phát lớn tuổi, 9 năm đáp ứng thuốc uống, ceton âm (QĐ 5481 Phần 2 Bảng 1; ADA 2026 Hình 2.1); không có nguyên nhân thứ phát (ADA 2026 mục 2).",
+     "Hạ đường huyết ẩn: bà tưởng 'già yếu nên run'. Phải hỏi riêng về run, vã mồ hôi, hoa mắt khi ăn trễ, vì người dùng sulfonylurea phải được sàng lọc hạ đường huyết mỗi lần khám (QĐ 5481 Phần 6 mục 1a, 1b; ADA 2026 mục 13). Glibenclamide kéo dài 24 giờ, nguy cơ cao nhất ở người già (QĐ 5481 PL01 mục 1a).",
+     "Thuốc ngủ bị giấu vì bà cho là 'thuốc bổ': diazepam > 2 năm, kèm ngã và tiểu đêm. Beers 2023 Bảng 2 và 3: tránh benzodiazepine, nhất là khi có tiền sử ngã. Phải hỏi riêng về giấc ngủ và thuốc mua ngoài.",
+     "Thận: eGFR 52 là G3a nếu kéo dài > 3 tháng; UACR 118 mg/g (A2) một mẫu chưa đủ kết luận (ADA 2026 mục 11). Cân thấp nên độ thanh thải creatinin thực thấp hơn eGFR, cần nhớ khi dùng thuốc thải qua thận.",
+     "Ho: 4 ngày, khởi phát sau tiếp xúc cháu, không sốt, SpO2 96%, phổi sạch, X-quang bình thường: viêm đường hô hấp trên (QĐ 708/2015 Phần II). Chỉ định chụp vì tuổi > 75. Không phải lao vì ho chưa tới 2 tuần, không tiếp xúc nguồn lây (BYT 2024 Hướng dẫn lao Bảng 1), nhưng bà thuộc nhóm nguy cơ (ĐTĐ) nên dặn quay lại nếu ho quá 2 tuần.",
+     "Người cao tuổi có thể không sốt, biểu hiện viêm phổi không rầm rộ (QĐ 2147/2026 mục 3.1.1). Phim ngày đầu âm tính chưa loại viêm phổi về sau (mục 3.1.3), nên phải dặn rõ dấu hiệu nặng và cách liên lạc.",
+     "Ghi chú áp dụng: hầu hết thử nghiệm thuốc hạ đường huyết, tim thận ít người ≥ 75 tuổi, yếu; ADA 2026 mục 13 nói người cao tuổi hưởng lợi tương tự hoặc hơn nhưng phải chọn thuốc thận trọng ở người yếu."
+    ],
+    "phan_tich_xu_tri": [
+     "Giảm gánh nặng thuốc gây hại trước, rồi mới tăng hiệu quả: ngưng glibenclamide (ADA 2026 KC 13.13, 13.14a), giữ metformin (QĐ 5481 Phần 4 mục 4.2d), thêm linagliptin 5 mg (QĐ 5481 PL01 mục 6; ADA 2026 mục 13). SGLT2i là lựa chọn thay thế có lợi thận (QĐ 5481 mục 4.1i; ADA 2026 KC 13.14d) nhưng cần thận trọng ở người gầy, tiểu đêm, ngã (ADA 2026 mục 13).",
+     "Không dùng insulin: HbA1c 8,9% < 9% và đang hạ đường huyết; insulin là lựa chọn chấp nhận được nếu có triệu chứng (QĐ 5481 mục 4.2f; ADA 2026 KC 9.20) nhưng đòi hỏi tự theo dõi đường huyết, khó với bà ở xa không có máy.",
+     "Diazepam: không bỏ đột ngột; bàn giảm liều dần khi hết bệnh cấp, 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần (Joint CPG 2025 Key takeaways 5). Chọn mốc thương lượng cùng bà và con gái (Key takeaways 2).",
+     "Ho: không kháng sinh, uống nước ấm, nghỉ (QĐ 708/2015 Phần II mục 4.1a, 4.3); hẹn lại sớm khi sốt, thở nhanh, đờm mủ, ăn kém, lú lẫn.",
+     "Phòng ngừa biến chứng: khám mắt, kiểm tra bàn chân, xác nhận UACR, vắc xin cúm, phế cầu (QĐ 5481 Phần 4 mục 8, 9; Phần 8 mục 4e; ADA 2026 Bảng 4.3).",
+     "Ở xa: kê đủ thuốc đến ngày hẹn, không kê 3 tháng vì đổi phác đồ cần tái khám 0,5–1 tháng, HbA1c mỗi quý (QĐ 5481 Phần 3 mục 2.3; Phần 4 mục 2). Hẹn 2 tuần, nhờ trạm y tế xã đo đường huyết, cho số điện thoại phòng khám."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Glibenclamide",
+      "ham_luong": "5 mg",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng lại",
+      "ghi_chu": "ADA 2026 KC 13.14a, mục 13; Beers 2023 Bảng 2; QĐ 5481 PL01 mục 1a. Dặn bà bỏ hết viên còn ở nhà để không uống nhầm."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "850 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và sau ăn tối",
+      "so_ngay": "Đủ đến ngày tái khám (14 ngày), sau đó dùng lâu dài",
+      "ghi_chu": "Giữ liều khi eGFR 52 (QĐ 5481 PL01 mục 2: 500–2000 mg/ngày, giảm liều khi eGFR 30–45; ADA 2026 mục 13). Tạm ngưng khi ốm nặng, nôn, mất nước."
+     },
+     {
+      "thuoc": "Linagliptin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, trước hoặc sau ăn đều được",
+      "so_ngay": "Đủ đến ngày tái khám (14 ngày), sau đó dùng lâu dài",
+      "ghi_chu": "QĐ 5481 PL01 mục 6 và Bảng 14: 5 mg 1 lần/ngày, không chỉnh liều theo thận; giờ uống so với bữa ăn: không có trong tài liệu đã tải. Ít hạ đường huyết (ADA 2026 mục 13)."
+     },
+     {
+      "thuoc": "Diazepam",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 viên",
+      "duong": "Uống",
+      "thoi_diem": "Tối trước khi ngủ",
+      "so_ngay": "Giữ nguyên đến khi bắt đầu giảm liều dần",
+      "ghi_chu": "Đang dùng, giữ nguyên chưa ngưng đột ngột (Joint CPG 2025 Key takeaways 3); kế hoạch giảm dần bàn ở lần tái khám khi hết ho. Không dùng thêm rượu hay thuốc an thần khác (Beers 2023 Bảng 2)."
+     }
+    ],
+    "dan_do": [
+     "Bỏ hết glibenclamide ở nhà. Dạng thuốc mới: 1 viên metformin sau ăn sáng, 1 viên sau ăn tối, 1 viên linagliptin buổi sáng (QĐ 5481 PL01). Dán giấy chữ lớn lên hộp thuốc.",
+     "Nếu run, vã mồ hôi, đói lả: uống ngay 15–20 g đường (QĐ 5481 Phần 6 mục 1c; 300 ml nước hoa quả chứa khoảng 15 g glucose, Phần 6 mục 3b) hoặc 10–15 g (QĐ 5904/2019 Bước 4 mục A), thử lại sau 15 phút nếu có máy, rồi ăn nhẹ. Đường ghi cả hai mức, 10–15 g là mức thận trọng hơn.",
+     "Ăn đủ 3 bữa, thêm đạm (trứng, cá, đậu), ít nhất 0,8 g/kg/ngày (ADA 2026 KC 13.11a). Uống nước, bớt uống trà nước buổi tối; để đèn đêm, dép chống trơn, ngồi dậy từ từ khi đi tiểu đêm.",
+     "Quay lại sớm hoặc gọi số điện thoại phòng khám (đã ghi trên giấy) khi: ho nhiều hơn, có đờm vàng xanh, sốt, thở nhanh, đau ngực, mệt lả, ăn uống kém, nói lẫn, ngủ li bì. Đừng chờ đến ngày hẹn. Nhờ trạm y tế xã đo đường huyết.",
+     "Ho quá 2 tuần, sụt cân, ra mồ hôi đêm, ho ra máu: phải đi tìm lao (BYT 2024 Hướng dẫn lao Bảng 1).",
+     "Thuốc ngủ: không uống thêm, không tự bỏ đột ngột; mang vỏ thuốc lần sau để bàn giảm dần (Joint CPG 2025).",
+     "Tái khám sau 2 tuần (QĐ 5481 Phần 3 mục 2.3) mang hộp thuốc; HbA1c lần sau sau 3 tháng. Khám mắt, kiểm tra bàn chân, tiêm cúm và phế cầu khi hết bệnh. Cháu nội ho quá 2 tuần cũng nên đi khám."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 ngày",
+   "tiep_don": "Bà Sen quay lại sau 6 ngày, sớm hơn hẹn, cùng chị Hồng. Chị nói ho nặng thêm, bà mệt, ăn ít, sáng nay nói lẫn. Đường huyết mao mạch tại quầy: 10,4 mmol/L. Sinh hiệu: HA 112/66 mmHg, mạch 104 l/p, nhiệt 37,9, nhịp thở 26 l/p, SpO2 92% khí phòng.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Sen được kê kháng sinh uống và cho về, hẹn 2–3 ngày. Đêm đó bà tiếp tục lú lẫn và thở nhanh hơn, chị Hồng không gọi được điện thoại phòng khám vì sóng yếu. Tới sáng chị mới đưa bà vào bệnh viện huyện sau 45 km đường đất, bà đã suy hô hấp. CURB-65 = 3 điểm có tử vong 30 ngày khoảng 22% và chỉ định nội trú (QĐ 2147/2026 mục 3.2.1).",
+    "theo_doi": "Bà Sen được giữ theo dõi tại phòng khám vài giờ, sau đó chị Hồng đưa về vì hết xe khách. Phòng khám không có oxy liên tục, khí máu, kháng sinh tĩnh mạch hay người trực đêm. Bà mất thêm nửa ngày trước khi vào viện, trong khi người bệnh CURB-65 = 3 cần nhập viện ngay (QĐ 2147/2026 mục 3.2.1, 5.3.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, hôm qua bà ho dữ lắm, tối nay mệt quá. Bà uống thuốc đủ mà sao ho không bớt. Nhưng thuốc tiểu đường thì hết khát rồi, bà không còn run nữa.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "112/66",
+    "nhiet": "37,9",
+    "nhip_tho": 26,
+    "spo2": 92,
+    "canh_bao": [
+     "mach",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ho2",
+     "noi_dung": "Ho nhiều hơn từ 2 ngày nay, có đờm vàng xanh, đau nhói hông phải khi ho hoặc hít sâu. Sốt nhẹ từ tối qua (chị Hồng sờ trán thấy nóng, nhà không có nhiệt kế). Người mệt, ngủ nhiều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Ho đờm mủ, đau ngực kiểu màng phổi, sốt nhẹ"
+    },
+    {
+     "id": "lu_lan",
+     "noi_dung": "Chị Hồng kể sáng nay bà gọi cháu bằng tên con trai, hỏi 'mấy giờ rồi, đi chợ chưa', tối qua tỉnh táo hơn. Đêm qua nằm vật vờ, nói mê.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thay đổi tri giác mới xuất hiện (CURB-65)"
+    },
+    {
+     "id": "kho_tho",
+     "noi_dung": "Đi từ giường ra ghế phải ngồi nghỉ thở dốc; không tím tái.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khó thở khi gắng sức"
+    },
+    {
+     "id": "an_uong2",
+     "noi_dung": "Hai ngày nay ăn nửa chén cháo mỗi bữa, uống ít nước, tiểu ít, nước tiểu sẫm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn kém, mất nước"
+    },
+    {
+     "id": "dtd2",
+     "noi_dung": "Đã bỏ glibenclamide, uống metformin và linagliptin đều (chị Hồng chia thuốc). Khát nước đỡ, tiểu đêm còn 1–2 lần, không còn run, vã mồ hôi. Không ngã thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tăng đường huyết đỡ một phần, hết hạ đường huyết"
+    },
+    {
+     "id": "thuoc_ngu2",
+     "noi_dung": "Tối qua bà vẫn uống 1 viên diazepam như dặn (chưa giảm liều), sau đó ngủ li bì hơn thường lệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diazepam có thể góp phần lú lẫn"
+    },
+    {
+     "id": "tiep_xuc2",
+     "noi_dung": "Cháu nội đã bớt ho, ăn chơi bình thường, không sốt. Không ai ho kéo dài trong nhà. Bà không ho ra máu, không đổ mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ lao: ho mới ~10 ngày, không nguồn lây"
+    },
+    {
+     "id": "van_chuyen",
+     "noi_dung": "Nhà cách 45 km, xe khách hết chuyến lúc 14 giờ. Chị Hồng chở bà bằng xe máy, sáng nay phải ôm giữ bà. Chị đồng ý đưa mẹ đi bệnh viện nếu bác sĩ bảo cần, chỉ lo tiền và nhà không ai coi gà heo. Có thẻ BHYT.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc chuyển tuyến: phương tiện, người đi cùng, chi phí"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà mệt, lơ mơ nhẹ, trả lời chậm. Môi khô, da mất đàn hồi (nhăn, véo da nhẽo chậm). Thở nhanh nông.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p. Ran nổ to hạt và gõ đục nhẹ vùng đáy phổi phải; rì rào phế nang giảm ở đáy phải.",
+     "k": 1,
+     "hien": "Nhịp thở 26 l/p, nông.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải",
+       "id": "AT-PHOI-RAN-NO-TO-01",
+       "chu": "Ran nổ to hạt ở đáy phải."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều nhanh 104 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "sang_loc_sang": {
+     "a": "4AT 6 điểm: sai nhiều câu định hướng, đọc ngược tháng không hết, thay đổi cấp tính so với hôm trước. Ngưỡng ≥ 4 gợi ý sảng (Tieges 2021, TL-0078).",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô, không loét. Không phù.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "10,4 mmol/L (ngẫu nhiên)",
+     "ab": 1,
+     "n": "Thấp hơn lúc trước (12,4): đỡ một phần sau đổi thuốc."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 15,6 G/L · Neutrophil 88% · Hb 120 g/L · TC 290 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.6,
+      "neu_pct": 88.0,
+      "neu": 13.7,
+      "lym_pct": 8.0,
+      "lym": 1.25,
+      "hgb": 120,
+      "plt": 290
+     },
+     "n": "Bạch cầu > 10 G/L, ưu thế đa nhân trung tính (QĐ 2147/2026 mục 3.1.2)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "118 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 118
+     }
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,8 mmol/L · Creatinin 112 µmol/L · eGFR 44 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 8.8,
+      "creat": 112,
+      "egfr": 44
+     },
+     "n": "Ure > 7 mmol/L: CURB-65 thêm 1 điểm (QĐ 2147/2026 mục 3.2.1). Creatinin 98 → 112 µmol/L, tăng 14 µmol/L: chưa đủ tổn thương thận cấp (≥ 26,5 µmol/L trong 48 giờ hoặc ≥ 1,5 lần nền: KDIGO 2012 KC 2.1.1). Clcr Cockcroft–Gault ≈ 26 mL/ph: kháng sinh chỉnh liều theo Clcr (QĐ 2147/2026 Phụ lục 1), việc của nơi nhận."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 132 · K 3,9 mmol/L",
+     "ab": 1,
+     "n": "Áp lực thẩm thấu hiệu dụng = 2 × Na + glucose ≈ 274 mOsm/kg, không tăng (QĐ 5481 Phần 7 mục 2.4)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Glucose 2+ · Ceton âm · Protein vết",
+     "ab": 1,
+     "n": "Ceton âm: không nghĩ nhiễm toan ceton (QĐ 5481 Phần 7 mục 2.1)."
+    },
+    "cxr": {
+     "v": "e",
+     "r": "Đám mờ đông đặc thùy dưới phổi phải, có hình phế quản hơi; chưa thấy tràn dịch màng phổi, tim và trung thất bình thường.",
+     "ab": 1,
+     "n": "Mới xuất hiện so với phim 6 ngày trước (bình thường): viêm phổi (QĐ 2147/2026 mục 3.1.3)."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp nhanh xoang 104 l/p, không bất thường ST–T mới."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Cúm A/B và SARS-CoV-2 âm tính.",
+     "n": "Ca cúm dương tính cần oseltamivir (QĐ 2147/2026 mục 5.3.1); âm tính ở đây."
+    },
+    "xpert": {
+     "v": "a",
+     "r": "Kết quả Xpert đờm: không phát hiện MTB (trả sau khoảng 2 giờ).",
+     "n": "Ho mới ~10 ngày, không nguồn lây: chưa thuộc diện nghi lao (BYT 2024 Hướng dẫn lao Bảng 1). Nếu đã chuyển đi thì tuyến nhận làm lại; không chờ kết quả để chuyển."
+    },
+    "cay": {
+     "n": "QĐ 2147/2026 mục 2.2.1: không làm vi sinh cho ngoại trú; người bệnh nặng phải nhuộm Gram, cấy đờm, cấy máu tại nơi nhập viện (mục 5.3.2). Làm tại nơi nhận, trước kháng sinh nếu được."
+    },
+    "ct_nguc": {
+     "n": "Cơ sở không có CT. X-quang đã thấy đông đặc; CT chỉ để đánh giá viêm phổi nặng, phức tạp, hoặc nghi bệnh khác (QĐ 2147/2026 mục 3.1.4), do nơi nhận quyết định."
+    },
+    "abg": {
+     "n": "Cơ sở không có khí máu; SpO2 92% kèm thở 26 l/p, sảng, đã đủ để chuyển."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi mắc phải cộng đồng thùy dưới phổi phải, mức nặng (CURB-65 = 3: lú lẫn mới, ure 8,8 > 7, tuổi ≥ 65), cần nhập viện tuyến trên, trên nền ĐTĐ típ 2 và bệnh thận mạn nghi G3a",
+     "ok": 1,
+     "n": "Sốt, ho đờm mủ, đau ngực màng phổi, ran nổ đáy phải, bạch cầu 15,6, CRP 118, X-quang đông đặc thùy dưới phải. CURB-65 = 3 điểm: tử vong 30 ngày 22%, chỉ định điều trị nội trú (QĐ 2147/2026 mục 3.2.1). Bà > 65 tuổi, có đái tháo đường, suy kiệt, ở xa không tái khám nhanh nên nhập viện kể cả nếu điểm thấp hơn (mục 5.3.1, 3.2.3)."
+    },
+    {
+     "t": "Sảng do nhiễm trùng, có thể góp phần của diazepam",
+     "ok": 1,
+     "n": "4AT 6 điểm, thay đổi cấp trong 24 giờ, glucose 10,4 không phải hạ đường huyết; diazepam gây lú lẫn ở người cao tuổi (Beers 2023 Bảng 2)."
+    },
+    {
+     "t": "Mất nước nhẹ-vừa, creatinin tăng nhẹ trên nền eGFR giảm",
+     "ok": 1,
+     "n": "Ăn uống kém, môi khô, ure 8,8, creatinin 98 → 112 µmol/L (chưa đủ tiêu chuẩn tổn thương thận cấp, KDIGO 2012 KC 2.1.1)."
+    },
+    {
+     "t": "ĐTĐ típ 2 đỡ một phần sau đổi thuốc; không còn hạ đường huyết",
+     "ok": 1,
+     "n": "Glucose 12,4 → 10,4 mmol/L, hết run, vã mồ hôi sau ngưng glibenclamide, thêm linagliptin."
+    },
+    {
+     "t": "Nhiễm toan ceton hoặc tăng áp lực thẩm thấu",
+     "n": "Glucose 10,4 mmol/L, ceton niệu âm, áp lực thẩm thấu hiệu dụng ≈ 274 (QĐ 5481 Phần 7 mục 2.1, 2.4)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho khoảng 10 ngày, khởi phát cấp, không tiếp xúc nguồn lây, Xpert âm tính, hình ảnh đông đặc thùy. Nếu không đáp ứng kháng sinh thì tìm lao (QĐ 2147/2026 mục 3.4.1; BYT 2024 Hướng dẫn lao Bảng 1)."
+    },
+    {
+     "t": "Suy tim cấp, thuyên tắc phổi",
+     "n": "Không phù, không ran ẩm hai đáy, X-quang không thấy tim to hay phù; sốt, bạch cầu cao, đông đặc khu trú (QĐ 2147/2026 mục 3.1.3 liệt kê dương tính giả của X-quang)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến ngay trong ngày tới bệnh viện có khoa hô hấp hoặc nội, có oxy, kháng sinh tĩnh mạch, CT",
+     "v": "c",
+     "n": "CURB-65 = 3: điều trị nội trú (QĐ 2147/2026 mục 3.2.1); > 65 tuổi, bệnh đồng mắc, suy kiệt thì nhập viện tĩnh mạch dù điểm chưa đủ (mục 5.3.1); không có người chăm sóc đủ ở nhà cũng là lý do nhập viện (mục 3.2.3). Ở xa, một ngày trễ có thể mất cơ hội. QĐ 5904/2019 ĐTĐ Bước 4 mục A.4: viêm phổi, nhiễm trùng nặng thì chuyển tuyến."
+    },
+    {
+     "t": "Trước khi đi: đo lại sinh hiệu, SpO2; chuẩn bị oxy cho đường đi, cho thở oxy nếu SpO2 tụt; nằm đầu cao",
+     "v": "c",
+     "n": "SpO2 92% (chưa < 90%, ngưỡng cộng điểm PSI, QĐ 2147/2026 mục 3.2.2 Bảng 3.1) nhưng có thở nhanh, sảng. Ngưỡng bắt đầu thở oxy và lưu lượng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho kháng sinh liều đầu tại phòng khám nếu có sẵn, không làm chậm chuyển",
+     "v": "a",
+     "n": "QĐ 2147/2026 mục 5.3.1–5.3.2: nội trú ưu tiên kháng sinh tĩnh mạch; thời điểm và liều đầu trước chuyển: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tạm ngưng metformin; ghi vào giấy chuyển toàn bộ thuốc đang dùng (linagliptin, diazepam)",
+     "v": "c",
+     "n": "ADA 2026 mục 13: tạm ngưng metformin trong nhập viện và khi bệnh cấp có thể ảnh hưởng thận, thận trọng khi giảm tưới máu, thiếu oxy; QĐ 5481 PL01 mục 2: chống chỉ định khi giảm oxy mô, choáng. Mục tiêu glucose khi nằm viện: 7,8–10,0 mmol/L (QĐ 5481 Phần 5 mục 1a), do nơi nhận lo."
+    },
+    {
+     "t": "Bàn giao diazepam: dùng > 2 năm, không ngưng đột ngột; để tuyến nhận quyết định tiếp tục hay giảm",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2: benzodiazepine gây sảng, ngã; Joint CPG 2025 Key takeaways 3: không ngưng đột ngột ở người có thể đã lệ thuộc."
+    },
+    {
+     "t": "Bàn giao SBAR kèm giấy chuyển tuyến; gọi điện báo nơi nhận; chị Hồng đi cùng, mang hộp thuốc, X-quang, kết quả xét nghiệm; đi xe ô tô hoặc xe cứu thương, không chở xe máy",
+     "v": "c",
+     "n": "SBAR: bà 79 tuổi, ĐTĐ típ 2, viêm phổi thùy dưới phải CURB-65 = 3, sảng, SpO2 92%, mất nước nhẹ; đã làm CTM, CRP, ure/creatinin, X-quang; cần oxy, kháng sinh tĩnh mạch, theo dõi sảng. Mẫu SBAR: không có trong tài liệu đã tải. Bà ở xa, sóng điện thoại yếu: phải cầm giấy chữ, thuốc theo."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin/acid clavulanic, azithromycin hoặc levofloxacin) cho về, hẹn 2–3 ngày",
+     "v": "w",
+     "n": "CURB-65 = 3 chỉ định nội trú (QĐ 2147/2026 mục 3.2.1); levofloxacin cần giảm liều khi Clcr 20–49 (Phụ lục 1); bà ở xa, không gọi được."
+    },
+    {
+     "t": "Giữ lại phòng khám theo dõi vài giờ rồi cho về",
+     "v": "w",
+     "n": "Phòng khám không có oxy liên tục, kháng sinh tĩnh mạch, khí máu, trực đêm; QĐ 2147/2026 mục 3.2.1 chỉ định nội trú."
+    },
+    {
+     "t": "Chờ kết quả cấy đờm, procalcitonin rồi mới quyết định chuyển",
+     "v": "w",
+     "n": "Cấy mất ≥ 48 giờ; ngoại trú không khuyến cáo vi sinh thường quy, người bệnh nặng làm tại nơi nhập viện (QĐ 2147/2026 mục 2.2.1, 5.3.2)."
+    },
+    {
+     "t": "Nghĩ lao phổi, cho thuốc lao thử",
+     "v": "h",
+     "n": "Ho mới ~10 ngày, không nguồn lây, đông đặc thùy khởi phát cấp, Xpert âm tính; chẩn đoán lao cần bằng chứng vi khuẩn hoặc hình ảnh nghi lao (BYT 2024 Hướng dẫn lao mục 3.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng thùy dưới phổi phải, mức nặng: CURB-65 = 3 điểm, SpO2 92%",
+     "Sảng do nhiễm trùng, có thể góp phần của diazepam (4AT 6 điểm)",
+     "Mất nước nhẹ-vừa; creatinin 98 → 112 µmol/L (chưa đủ tổn thương thận cấp)",
+     "ĐTĐ típ 2 đỡ một phần sau đổi thuốc (glucose 12,4 → 10,4 mmol/L), hết hạ đường huyết",
+     "Bệnh thận mạn nghi G3a–A2 (cần xác nhận); thần kinh ngoại biên; võng mạc không tăng sinh nhẹ"
+    ],
+    "phan_tich_chan_doan": [
+     "Viêm phổi: bà chỉ sốt nhẹ 37,9, nhưng có ho đờm mủ, đau ngực màng phổi, ran nổ đáy phải, thở 26 l/p, bạch cầu 15,6, CRP 118 và X-quang đông đặc thùy dưới phải (QĐ 2147/2026 mục 3.1.1–3.1.3). Phim 6 ngày trước bình thường: viêm phổi xuất hiện sau viêm đường hô hấp virus; người cao tuổi biểu hiện không rầm rộ.",
+     "Mức độ: CURB-65 = lú lẫn mới (1) + ure 8,8 > 7 (1) + tuổi ≥ 65 (1) = 3; thở 26 < 30, HA 112/66 không thấp. Nhóm 3–5 điểm tử vong 30 ngày khoảng 22%, nên nội trú (QĐ 2147/2026 mục 3.2.1). Tiêu chuẩn CURB-65 được xây trên người tuổi trung bình 64 (Lim 2003, TL-0113), nên với bà 79 tuổi yếu thì ngưỡng nhập viện nên thấp hơn nữa (QĐ 2147/2026 mục 5.3.1).",
+     "Sảng: lú lẫn cấp là điểm C của CURB-65 và là dấu hiệu nặng. Diazepam là yếu tố góp (Beers 2023 Bảng 2); glucose 10,4 loại trừ hạ đường huyết là nguyên nhân.",
+     "Lao phổi vẫn là chẩn đoán phân biệt vì ĐTĐ, ≥ 65 tuổi; nhưng ho mới ~10 ngày, không nguồn lây, khởi phát cấp, Xpert âm tính nên ít nghĩ; nếu không đáp ứng kháng sinh thì tìm lao (QĐ 2147/2026 mục 3.4.1).",
+     "ĐTĐ: đỡ một phần do ngưng glibenclamide và thêm linagliptin; nhiễm trùng sẽ làm đường huyết lên nên cần theo dõi khi nằm viện; mục tiêu glucose nằm viện 7,8–10,0 mmol/L (QĐ 5481 Phần 5 mục 1a)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến ngay: nội trú vì CURB-65 = 3 (QĐ 2147/2026 mục 3.2.1) và bà cao tuổi, suy kiệt, bệnh nền, ở xa không tái khám được; nơi nhận phải có oxy, kháng sinh tĩnh mạch, cấy đờm, CT (mục 5.3.1–5.3.2, 3.1.4).",
+     "Chuẩn bị trước chuyển: sinh hiệu, SpO2, oxy trên đường đi, kháng sinh liều đầu nếu có (không làm chậm), tạm ngưng metformin (ADA 2026 mục 13; QĐ 5481 PL01 mục 2). Ngưỡng và lưu lượng oxy, liều kháng sinh đầu: không có trong tài liệu đã tải.",
+     "Hướng kháng sinh cho nơi nhận (tham khảo): ≥ 65 tuổi có ĐTĐ, bệnh nặng nhập viện thì beta-lactam ± ức chế beta-lactamase hoặc cephalosporin + macrolid, hoặc quinolone hô hấp; tĩnh mạch (QĐ 2147/2026 mục 5.3.1, 5.3.2). Liều chỉnh theo Clcr ≈ 26 mL/ph (Phụ lục 1).",
+     "Bàn giao rõ: diazepam > 2 năm không ngưng đột ngột (Joint CPG 2025), glibenclamide đã ngưng, linagliptin đang dùng, UACR 118 chờ xác nhận.",
+     "Ở xa: giấy chuyển chữ lớn, chị Hồng đi cùng, mang hộp thuốc và phim, gọi nơi nhận trước; xe ô tô hoặc xe cứu thương vì bà sảng, SpO2 92%."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "850 mg",
+      "lieu": "TẠM NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Cho đến khi nơi nhận cho dùng lại",
+      "ghi_chu": "Bệnh cấp, mất nước, thiếu oxy, creatinin tăng (ADA 2026 mục 13; QĐ 5481 PL01 mục 2)."
+     },
+     {
+      "thuoc": "Linagliptin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Để nơi nhận quyết định",
+      "ghi_chu": "Đang dùng, không chỉnh liều theo thận (QĐ 5481 PL01 mục 6). Nằm viện thường đổi sang theo dõi glucose 7,8–10,0 mmol/L (Phần 5 mục 1a)."
+     },
+     {
+      "thuoc": "Diazepam",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 viên",
+      "duong": "Uống",
+      "thoi_diem": "Tối",
+      "so_ngay": "Đang dùng, để nơi nhận quyết định",
+      "ghi_chu": "Không ngưng đột ngột (Joint CPG 2025 Key takeaways 3); có thể góp sảng (Beers 2023 Bảng 2). Ghi vào giấy chuyển."
+     },
+     {
+      "thuoc": "Kháng sinh liều đầu (nếu có sẵn tại phòng khám)",
+      "ham_luong": "Theo thuốc có sẵn",
+      "lieu": "Không có liều trong tài liệu đã tải",
+      "duong": "Tĩnh mạch hoặc uống",
+      "thoi_diem": "Trước khi lên xe, không làm chậm chuyển",
+      "so_ngay": "Nơi nhận tiếp tục",
+      "ghi_chu": "QĐ 2147/2026 mục 5.3.1: beta-lactam/ức chế beta-lactamase + macrolid hoặc doxycyclin, hoặc quinolone hô hấp; nội trú dùng đường tĩnh mạch (mục 5.3.2). Liều đầu trước chuyển: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay bây giờ, không về nhà lấy đồ, không chờ xe khách. Đi xe ô tô hoặc xe cứu thương, không chở xe máy. Chị Hồng đi cùng, mang hộp thuốc, giấy chuyển, phim X-quang và kết quả hôm nay.",
+     "Trên đường đi: để bà nằm đầu cao, theo dõi thở; nếu tím môi, thở rất nhanh, li bì không gọi được thì dừng xe gọi 115 hoặc vào cơ sở y tế gần nhất.",
+     "Cho bà uống nước từng ngụm nhỏ nếu còn tỉnh, không ép ăn; không đưa thêm thuốc ngủ hay thuốc cảm tự mua.",
+     "Báo cho bác sĩ nơi nhận: đang uống diazepam 5 mg mỗi tối hơn 2 năm (Beers 2023), đã ngưng glibenclamide 6 ngày trước, đang uống linagliptin và metformin (metformin tạm ngưng).",
+     "Phòng khám gọi báo trạm y tế xã và nơi nhận; chị Hồng ghi số điện thoại phòng khám và gọi lại khi bà ra viện để hẹn tái khám đái tháo đường (QĐ 5481 Phần 3 mục 2.3).",
+     "Sau khi khỏi: bàn giảm diazepam từ từ (Joint CPG 2025), khám mắt, xác nhận UACR sau 3–6 tháng (ADA 2026 mục 11), tiêm cúm và phế cầu (QĐ 5481 Phần 4 mục 8)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Sen được chuyển ngay trong chiều đó, nhập khoa nội hô hấp bệnh viện tuyến trên, điều trị kháng sinh tĩnh mạch và bù dịch. Sảng hết sau vài ngày, đờm Xpert âm tính. Bà ra viện, tiếp tục linagliptin, dùng lại metformin khi creatinin ổn định, không dùng lại glibenclamide. Phòng khám hẹn tái khám theo lịch, chị Hồng ghi số điện thoại; diazepam được giảm dần theo kế hoạch đã thương lượng.",
+ "nhieu": [
+  "Ở xa, khó tái khám: bà xin thuốc 3 tháng, ngại quay lại. Xử trí trọn gói: đổi thuốc an toàn, giấy dặn chữ lớn có số điện thoại, nhờ trạm y tế xã, hẹn 2 tuần, dấu hiệu quay lại sớm; không kê 3 tháng khi đang đổi phác đồ (QĐ 5481 Phần 3 mục 2.3).",
+  "Ho do tiếp xúc cháu nội: dễ coi là nhẹ nên bỏ qua dấu hiệu viêm phổi ở người cao tuổi; vừa dễ nghĩ lao vì ĐTĐ và ho. Cần cả hai cách nghĩ: ho 4 ngày là virus, ho > 2 tuần mới nghĩ lao (BYT 2024 Hướng dẫn lao Bảng 1).",
+  "Thuốc ngủ bị giấu vì bà coi là 'thuốc bổ': chỉ ra khi hỏi riêng về giấc ngủ."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi: mục tiêu HbA1c nới (< 8,0% khi nhiều bệnh), ưu tiên tránh hạ đường huyết; giảm hoặc thay sulfonylurea, nhất là glibenclamide (ADA 2026 KC 13.7b, 13.13, 13.14a; Beers 2023 Bảng 2).",
+  "Hỏi riêng thuốc ngủ, thuốc mua ngoài tiệm và cơn run, vã mồ hôi: bà không nghĩ đó là chuyện cần kể. Benzodiazepine ở người từng ngã: tránh (Beers 2023 Bảng 3), giảm dần chứ không ngưng đột ngột (Joint CPG 2025).",
+  "Người cao tuổi viêm phổi biểu hiện không rầm rộ, có thể chỉ sốt nhẹ, lú lẫn, ăn kém (QĐ 2147/2026 mục 3.1.1). CURB-65 = 3 là chỉ định nội trú; nếu thiếu CT thì X-quang cộng thang điểm đủ quyết định (mục 3.2.1, 3.1.4).",
+  "Chuyển tuyến kịp thời ở người ở xa: quyết định ngay trong buổi khám, chuẩn bị (sinh hiệu, oxy, thuốc, tạm ngưng metformin), bàn giao SBAR, người đi cùng, phương tiện an toàn, ghi số điện thoại.",
+  "Ghi chú áp dụng (người ≥ 75 tuổi): CURB-65 xây từ người tuổi trung bình 64 (Lim 2003, TL-0113); thử nghiệm tim thận ít người ≥ 75, yếu (ADA 2026 mục 13); khuyến cáo phải cá thể hóa theo chức năng và nguồn hỗ trợ."
+ ],
+ "diem_nho": [
+  "HbA1c < 8,0% ở người nhiều bệnh, sức khỏe trung bình; glucose đói 5,0–8,3 mmol/L (ADA 2026 KC 13.7b; QĐ 5481 Phần 4 Bảng 5).",
+  "Glibenclamide: tác dụng đến 24 giờ, nguy cơ hạ glucose máu cao nhất ở người già (QĐ 5481 PL01 mục 1a). Metformin dùng được khi eGFR ≥ 30, giảm liều khi 30–45 (ADA 2026 mục 13; QĐ 5481 PL01 mục 2). Linagliptin 5 mg/ngày không chỉnh liều theo thận (QĐ 5481 PL01 mục 6).",
+  "Hạ đường huyết người tỉnh: 15–20 g glucose (QĐ 5481 Phần 6 mục 1c) hoặc 10–15 g (QĐ 5904/2019), thử lại sau 15 phút.",
+  "CURB-65: lú lẫn, ure > 7 mmol/L, thở ≥ 30, HA < 90/60, tuổi ≥ 65; 3 điểm trở lên: nội trú (QĐ 2147/2026 mục 3.2.1). CRB-65 không cần ure dùng ngoài bệnh viện.",
+  "Ho kéo dài > 2 tuần là triệu chứng nghi lao quan trọng nhất; ĐTĐ là yếu tố nguy cơ (BYT 2024 Hướng dẫn lao mục 1.1, 1.3).",
+  "Benzodiazepine: giảm 5–10% mỗi 2–4 tuần, tối đa 25% mỗi 2 tuần ở người ≥ 65 tuổi nên giảm dần (Joint CPG 2025 Key takeaways 1d, 5)."
+ ],
+ "nguon": [
+  "ADA Standards of Care in Diabetes 2026 (TL-0296) – ĐÃ ĐỌC mục 4 (Bảng 4.3), 9 (KC 9.20), 10 (KC 10.23), 11 (albumin niệu), 13 (KC 13.1, 13.2, 13.7b, 13.11a, 13.13, 13.14a, 13.14d, đoạn metformin, sulfonylurea, DPP-4i, SGLT2i, GLP-1 RA, insulin). KC = khuyến cáo.",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 ĐTĐ típ 2 (TL-0031) – ĐÃ ĐỌC Phần 2 (Bảng 1); Phần 3 (mục 2, Bảng 2, 2.3); Phần 4 (mục 2 Bảng 5, 3, 4.1, 4.2, 6.2, 8, 9); Phần 5 mục 1; Phần 6; Phần 7 (mục 2.1, 2.4); Phần 8 mục 4; PL01 (mục 1a, 2, 6, Bảng 14).",
+  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 bệnh không lây tại trạm y tế xã (TL-0284), phần ĐTĐ Bước 4 (mục A.4–A.6, xử lý hạ glucose máu).",
+  "Bộ Y tế – QĐ 2147/QĐ-BYT 2026 viêm phổi mắc phải cộng đồng ở người lớn (TL-0121) – mục 3.1.1–3.1.4, 3.2.1–3.2.3, 3.4.1, 5.3.1–5.3.2, Phụ lục 1; mục 2.2.1.",
+  "Bộ Y tế – QĐ 708/QĐ-BYT 2015 hướng dẫn sử dụng kháng sinh (TL-0015), Phần II viêm phế quản cấp ở người lớn, mục 2, 4.1a, 4.3.",
+  "Bộ Y tế – Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao 2024 (TL-0123): mục 1.1 Bảng 1, 1.3, 3.2.1, 3.2.2. Số quyết định không ghi trên bản tải (để trống 'Số: /QĐ-BYT'), nên trong ca ghi 'BYT 2024 Hướng dẫn lao (TL-0123)'.",
+  "AGS Beers Criteria 2023 (TL-0022) – Bảng 2 (benzodiazepine, sulfonylurea), Bảng 3 (tiền sử ngã).",
+  "Joint Clinical Practice Guideline on Benzodiazepine Tapering 2025 (TL-0575) – Key takeaways 1d, 2, 3, 5.",
+  "Lim WS et al. Thorax 2003, CURB-65 (TL-0113). Tieges Z et al. 4AT meta-analysis 2021 (TL-0078), ngưỡng ≥ 4. KDIGO 2012 tổn thương thận cấp (TL-0329), KC 2.1.1 (đối chiếu từ ca MT-0333, chưa mở lại bản chữ)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-14: viết ca bản 1. Đã đọc ADA 2026 mục 13 (người cao tuổi), 10.23, 4.3; QĐ 5481 các phần nêu trong nguồn; QĐ 5904/2019 ĐTĐ Bước 4; QĐ 2147/2026 mục 3 và 5; QĐ 708/2015 viêm phế quản cấp; hướng dẫn lao 2024; Beers 2023; Joint 2025; CURB-65.",
+  "Chỗ thiếu tài liệu đã tải: ngưỡng thở oxy và liều kháng sinh đầu trước chuyển tuyến, mẫu SBAR, thời điểm tiêm vắc xin khi đang ho, cách chia viên diazepam 5 mg khi giảm liều, giờ uống linagliptin so với bữa ăn. Số quyết định hướng dẫn lao 2024 chưa có trên bản tải (thay QĐ 1314/2020).",
+  "Mâu thuẫn: hạ đường huyết 15–20 g (QĐ 5481) hoặc 10–15 g (QĐ 5904), đã có trong sổ; ghi cả hai. SGLT2i hoặc DPP-4i làm thuốc thêm ở người cao tuổi yếu có albumin niệu: đề xuất mục mới (xem MT-0352_mau_thuan.md).",
+  "Tên người, địa danh, số liệu xét nghiệm là hư cấu."
+ ]
+}

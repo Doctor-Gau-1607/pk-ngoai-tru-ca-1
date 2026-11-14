@@ -1,0 +1,744 @@
+{
+ "ma_ca": "HH-0547",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_viem_amidan_cap_mu",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm amidan cấp mủ",
+  "chan_doan_phai_loai_tru": [
+   "Áp xe quanh amidan",
+   "Bạch hầu"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt corticoid",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự"
+ },
+ "benh_nhan": {
+  "ten": "Võ Anh Khoa",
+  "tuoi": 11,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 5 trường tiểu học",
+  "can_nang": 34,
+  "chieu_cao": 143,
+  "xung_ho": "Khoa xưng 'con', gọi bác sĩ là 'bác sĩ'. Bố là anh Sang, 40 tuổi: bác sĩ gọi 'anh', anh xưng 'em' và gọi con là 'thằng Khoa' hoặc 'cháu'.",
+  "tinh_cach": "Khoa hiếu động, hay đùa, mê bóng đá, giấu đau vì sợ bị cấm đá trận liên trường cuối tuần; hỏi chung thì nói 'con không sao, đau bụng thôi', chỉ thừa nhận đau họng khi được hỏi cụ thể. Anh Sang lái xe công nghệ, nóng ruột vì mất thu nhập khi nghỉ chạy, hay đọc nhóm Zalo phụ huynh, tin 'thuốc mạnh mới ăn thua', sốt ruột nhưng sẽ dịu xuống nếu được giải thích cụ thể và không bị trách.",
+  "kieu_nhieu": "Đòi kháng sinh: anh Sang nghe phụ huynh kháng sinh 'mạnh, 3 ngày' của bạn Khoa nên đòi bác sĩ kê loại tương tự hoặc tiêm; không chấp nhận 'thuốc hạ sốt rồi theo dõi'. Giấu nỗi lo thật (tin đồn bạch hầu trong nhóm lớp) cho tới khi được hỏi nhẹ nhàng anh lo nhất điều gì. Ở lượt 2 anh lại muốn đổi thuốc 'mạnh hơn' hoặc dùng azithromycin của bạn.",
+  "nguoi_nha": "Bố bé, anh Sang, 40 tuổi, đi cùng, trả lời phần lớn câu hỏi (nguoi_noi = nguoi_nha). Hỏi thẳng Khoa về nuốt, họng, đau bụng thì Khoa trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Bố bé (anh Sang)",
+  "ngoai_hinh": {
+   "da": "#c99a73",
+   "toc": "#14100d",
+   "kieuToc": "ngan",
+   "ao": "#2e7d4f",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c28e68",
+    "toc": "#2a1f18",
+    "kieuToc": "ngan",
+    "ao": "#3a4a63",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt 2 ngày, đau bụng, bỏ ăn, nôn một lần; bố xin kháng sinh vì bạn cùng lớp bị tương tự",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, nước tiểu, sinh hóa nền); không có X-quang, siêu âm, CT, nội soi và không làm được test nhanh liên cầu, cấy họng, ASLO, soi cấy bạch hầu, phết máu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 11 tuổi, 34 kg, bố đưa đến vì sốt 2 ngày, đau bụng, bỏ ăn, nôn 1 lần. Sinh hiệu: nhiệt 38,9 °C, mạch 108 l/p, HA 100/62, nhịp thở 22 l/p, SpO₂ 98%. Bé tỉnh, mệt, nằm co người trên ghế.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Khoa sốt 38,9 °C nhưng tỉnh, uống được, SpO₂ 98%, không mất nước, há miệng bình thường, cổ không sưng: không đủ tiêu chuẩn nhập viện (NICE NG84 khuyến cáo 1.1.13; WHO AWaRe 2022 tr. 19: nhiễm khuẩn không nặng điều trị bằng thuốc uống). Nằm viện là đặt kim truyền không cần, tốn kém, bé lỡ giải bóng đá và củng cố niềm tin của anh Sang rằng bệnh nặng phải thuốc mạnh.",
+    "chuyen_tuyen": "Chuyển Khoa lên tuyến trên vì lo bạch hầu là quá tay: mủ lau bong dễ, không chảy máu, hạch không bạnh, bé tiêm đủ (QĐ 5643/2015 Viêm amiđan cấp mục 3.2, tr. 143; QĐ 2957/2020 mục 3.1.3, 5.1). Cả buổi chiều chờ ở bệnh viện đông, thêm nguy cơ lây chéo, trong khi chỉ cần kháng sinh uống; nỗi lo của anh Sang vẫn chưa được giải thích bằng dấu hiệu cụ thể.",
+    "theo_doi": "Chỉ hạ sốt, không kê kháng sinh và không hẹn tái khám với người bố đã đòi kháng sinh: anh Sang rất dễ ra hiệu thuốc mua azithromycin 3 ngày theo bạn. Azithromycin chỉ là thuốc thay thế cho người dị ứng penicillin, 5 ngày, GAS kháng macrolid khá phổ biến (IDSA 2012 Bảng 2, chú thích c; AWaRe 2022 Bảng 6.5, chú thích d). Không ai theo dõi nên nếu sốt kéo dài thì bé mất thêm ngày; điều trị trong 9 ngày từ khi khởi bệnh vẫn phòng được thấp tim (IDSA 2012 tr. e94), nên mốc hẹn lại rất quan trọng."
+   },
+   "loi_mo": "Bác sĩ ơi, thằng Khoa nhà em sốt hai hôm nay, kêu đau bụng, bỏ ăn, hôm qua nôn một lần. Trong lớp nó có hai đứa nghỉ học vì sốt, uống kháng sinh ba ngày là khỏi. Bác sĩ cho cháu uống luôn thuốc kháng sinh loại mạnh, ba ngày thôi, em còn phải chạy xe kiếm tiền, không rảnh đưa đi đưa lại.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "100/62",
+    "nhiet": "38,9",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 2 ngày, nhiệt đo ở nhà 38,5–39 °C. Đau bụng quanh rốn từ hôm qua, bỏ ăn, nôn một lần hôm qua (nôn thức ăn). Bố muốn kháng sinh mạnh uống 3 ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn biến chung"
+    },
+    {
+     "id": "dau_hong",
+     "noi_dung": "Hỏi chung \"đau họng không\": Khoa nói \"không, con đau bụng thôi\". Hỏi nuốt nước bọt, ăn cơm: nuốt đau nhói, đau lan lên hai tai từ tối hôm qua, vì vậy bỏ ăn. Khoa giấu vì sợ bị nghỉ trận bóng đá liên trường cuối tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau họng, nuốt đau (bé không tự nói)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chiều thứ Hai đá bóng ngoài sân đúng lúc trời đổ mưa, lạnh đột ngột sau mấy ngày nắng nóng; Khoa ướt áo, về nhà ớn lạnh, tối thì sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: thay đổi thời tiết"
+    },
+    {
+     "id": "virus",
+     "noi_dung": "Không ho, không sổ mũi, không khàn tiếng, không loét miệng, không tiêu chảy. Hai mắt ngứa, đỏ nhẹ từ lâu theo mùa (xem mục thuốc nhỏ mắt); mắt không chảy mủ, không đỏ rực mới xuất hiện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu virus (ho, sổ mũi, khàn tiếng, loét miệng, tiêu chảy), tình trạng mắt"
+    },
+    {
+     "id": "bung",
+     "noi_dung": "Đau quanh rốn từng cơn nhẹ, không khu trú hố chậu phải, không nôn mật hay máu, không táo bón; hôm nay vẫn đi ngoài phân bình thường, tiểu bình thường, không buốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau bụng (loại bụng ngoại khoa)"
+    },
+    {
+     "id": "thuoc_mat",
+     "noi_dung": "Khoa bị viêm kết giác mạc mùa xuân 3 năm nay. Ba tuần trước bác sĩ mắt kê fluorometholon 0,1% nhỏ trong một đợt kịch phát; thấy con đỡ ngứa, bố tiếp tục nhỏ 3–4 lần/ngày cho tới nay, chưa tái khám đo nhãn áp. Ngoài ra Khoa chỉ uống paracetamol 1–2 lần, chưa dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (thuốc nhỏ mắt corticoid), kháng sinh đã dùng"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Hai bạn thân cùng lớp (một bạn ngồi cạnh Khoa) nghỉ 3 ngày nay vì sốt, mẹ bạn nói \"đau họng\"; trong lớp 40 em, hôm nay thêm vài em vắng. Khoa và hai bạn hay dùng chung chai nước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc bạn cùng lớp bị bệnh tương tự"
+    },
+    {
+     "id": "tiem_di_ung",
+     "noi_dung": "Anh Sang mở sổ tiêm chủng điện tử trong điện thoại: đủ các mũi bạch hầu–ho gà–uốn ván cơ bản và nhắc lại. Khoa chưa từng uống penicillin hay amoxicillin theo anh nhớ, không dị ứng thuốc; dị ứng chỉ ở mắt theo mùa. Không tiền sử thấp tim, nhà không ai bị bệnh tim.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêm chủng bạch hầu, dị ứng penicillin, tiền sử thấp tim"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Há miệng bình thường, nói giọng bình thường, không chảy dãi, cổ không sưng, không khó thở; uống nước được từng ngụm, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cảnh báo (há miệng, giọng, dãi, cổ, thở, mất nước)"
+    },
+    {
+     "id": "doi_ks",
+     "noi_dung": "Anh Sang nhắc nhiều lần: thằng bạn uống azithromycin ba ngày là hết, mẹ bạn bảo \"thuốc mạnh mới ăn thua\", hoặc tiêm một mũi cho nhanh. Anh không tin \"thuốc hạ sốt rồi theo dõi\".",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Đòi kháng sinh mạnh, ngắn ngày"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Nhóm Zalo phụ huynh lan tin \"lớp bên cạnh có em bị bạch hầu phải nhập viện\" (chưa ai xác nhận). Anh Sang sợ con bị bạch hầu nên mới nằng nặc xin kháng sinh mạnh và ngại nói ra vì sợ bị cho là nghe tin đồn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi nhẹ nhàng anh lo nhất điều gì, hoặc trong nhóm lớp phụ huynh đang bàn tán gì; không phán xét.",
+     "k": 1,
+     "y": "Lý do thật: lo bạch hầu vì tin đồn bạn bè"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, nằm co người. Môi hơi khô, niêm mạc ẩm, mắt không trũng, nếp véo da mất nhanh: không mất nước. Da không ban, không vàng da, không chấm xuất huyết.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Há miệng rộng ba ngón tay. Họng đỏ, lưỡi trắng bựa, hơi thở hôi nhẹ. Hai amidan sưng độ II, đối xứng, đỏ, phủ nhiều chấm và mảng mủ trắng vàng ở miệng hốc, không lan ra trụ; lau bằng tăm bông bong dễ, niêm mạc bên dưới đỏ, không chảy máu, không có giả mạc trắng ngà dính chặt. Lưỡi gà ở giữa, khẩu cái cân đối. Mũi khô, không dịch. Màng nhĩ hai bên bình thường.",
+     "k": 1,
+     "hien": "Há miệng rộng ba ngón tay. Họng đỏ, hai amidan sưng, đối xứng, phủ chấm và mảng trắng vàng, lau bong dễ, không chảy máu. Lưỡi gà ở giữa. Mũi khô. Màng nhĩ bình thường."
+    },
+    "dau_mat_co": {
+     "a": "Hạch góc hàm hai bên 1–1,5 cm, di động, ấn đau. Cổ không sưng bạnh, không cứng cổ, không sưng nóng đỏ một bên. Hạch nách, bẹn không sờ thấy.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Hai mắt kết mạc đỏ nhẹ, dử ít, trong, dính; lật mi trên có vài nhú nhỏ trên kết mạc sụn mi. Không mủ, không phù mi. Thị lực không giảm khi đọc bảng.",
+     "k": 0
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng ngón tay: hai nhãn cầu không căng cứng. Phòng khám không có nhãn áp kế nên không đo được; cần đo ở chuyên khoa mắt.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 108 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn đau nhẹ quanh rốn, không phản ứng thành bụng, điểm McBurney không đau, Rovsing âm tính, không đau dội. Gan, lách không sờ thấy.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban dát sẩn, không ban đỏ sần như giấy nhám, không nếp đỏ ở khuỷu, nách, không chấm xuất huyết, không mụn nước.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 14,8 G/L · Neutrophil 80% · Lymphocyte 13% · Hb 134 g/L · TC 310 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 14.8,
+      "neu_pct": 80.0,
+      "neu": 11.84,
+      "lym_pct": 13.0,
+      "lym": 1.92,
+      "mono_pct": 6.0,
+      "mono": 0.89,
+      "eos_pct": 0.8,
+      "eos": 0.12,
+      "baso_pct": 0.2,
+      "baso": 0.03,
+      "rbc": 4.8,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 83.0,
+      "mch": 27.9,
+      "mchc": 335,
+      "rdw": 12.9,
+      "plt": 310
+     },
+     "n": "Không đổi quyết định: QĐ 5643/2015 Viêm amiđan cấp mục 3.1.2.1 (tr. 143): thể vi khuẩn có bạch cầu trên 10 G/L, nhiều đa nhân trung tính; WHO AWaRe 2022 tr. 49: xét nghiệm máu thường không cần. Ngưỡng phân biệt GAS với virus: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 46 mg/L.",
+     "bang": {
+      "crp": 46
+     },
+     "ab": 1,
+     "n": "Không cần: NICE NG84 khuyến cáo 1.1.3 dùng FeverPAIN hoặc Centor, không dùng CRP; AWaRe 2022 tr. 49. Ngưỡng CRP cho GAS: không có trong tài liệu đã tải."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Tỷ trọng 1,025 · ceton niệu (+) · không protein · không hồng cầu · không bạch cầu",
+     "ab": 1,
+     "n": "Không cần. Không có albumin niệu là điểm thêm cho viêm amidan thường so với bạch hầu (QĐ 5643/2015 Viêm amiđan cấp mục 3.2, tr. 143)."
+    },
+    "test_lien_cau": {
+     "v": "u",
+     "r": "(Phòng khám không làm được test nhanh liên cầu nhóm A.)",
+     "n": "Nên làm nếu có: IDSA 2012 khuyến cáo 1 (mạnh, cao, tr. e87): lâm sàng đơn thuần không phân biệt được GAS với virus. Phòng khám chỉ có xét nghiệm cơ bản nên thay bằng thang điểm (IDSA 2025 Bảng 3, tr. i101; NICE NG84 khuyến cáo 1.1.3, 1.1.10)."
+    },
+    "phet_hong": {
+     "v": "u",
+     "r": "(Phòng khám không làm được soi, cấy bạch hầu.)",
+     "n": "Soi cấy bạch hầu chỉ cần khi nghi ngờ: giả mạc dính, dịch tễ vùng dịch (QĐ 2957/2020 (TL-0129) mục 5.1, 5.2). Khoa không có; loại trừ bằng lâm sàng và tiêm chủng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm amidan cấp mủ nghĩ do liên cầu nhóm A, ngày 3 của bệnh, thể không điển hình (đau bụng, nôn, bỏ ăn nổi bật; bé giấu đau họng); Centor 4, McIsaac 5; chưa biến chứng, không mất nước",
+     "ok": 1,
+     "n": "Sốt đột ngột sau lạnh đột ngột, nuốt đau lan tai, amidan phủ mủ trắng dễ lau, hạch góc hàm đau, không ho, không sổ mũi (QĐ 5643/2015 Viêm amiđan cấp mục 2, 3.1.1.1, tr. 141–142; IDSA 2012 Bảng 4, tr. e91). Centor 4: 57%; McIsaac 5: 50,7–69,3% (IDSA 2025 Bảng 3, tr. i101)."
+    },
+    {
+     "t": "Áp xe quanh amidan",
+     "n": "Loại trừ bằng há miệng ba ngón, giọng bình thường, không dãi, lưỡi gà giữa, amidan đối xứng; chuyển viện nếu biến chứng mủ nặng (NICE NG84 khuyến cáo 1.1.13). Dấu hiệu khít hàm, lệch lưỡi gà: không có trong tài liệu đã tải; QĐ 5643/2015 Nhiễm trùng khoang cổ sâu mục 4.1 (tr. 255) nêu cổ sưng nóng đỏ đau, khó thở, khó nuốt."
+    },
+    {
+     "t": "Bạch hầu họng",
+     "n": "Loại trừ: tiêm đủ, mủ lau bong dễ không chảy máu, không giả mạc dính, hạch không bạnh, sốt cao đột ngột và mạch nhanh (QĐ 5643/2015 Viêm amiđan cấp mục 3.2, tr. 143; QĐ 2957/2020 mục 3.1.3, 5.1)."
+    },
+    {
+     "t": "Viêm họng amidan do virus (adenovirus, EBV) hoặc sốt họng–kết mạc",
+     "n": "Ít nghĩ nhưng không loại hẳn: không ho, sổ mũi, loét miệng; viêm kết mạc ở Khoa là bệnh mùa xuân mạn, không phải kết mạc cấp mới. IDSA 2012 tr. e92: kết mạc, ho, sổ mũi, tiêu chảy gợi virus; tr. e91: EBV kèm hạch toàn thân, lách to. Không có phết máu, test virus nên cần hẹn theo dõi."
+    },
+    {
+     "t": "Đau bụng ngoại khoa (viêm ruột thừa cấp) hoặc viêm dạ dày ruột",
+     "n": "Bụng mềm, McBurney, Rovsing âm tính, không tiêu chảy; đau bụng và nôn là biểu hiện thường gặp của viêm họng GAS ở trẻ (IDSA 2012 Bảng 4, tr. e91). Nghĩ viêm ruột thừa khi đau bụng là đúng hướng nhưng khám bụng không ủng hộ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể điều bé giấu và mọi thứ đã dùng: nuốt đau, thuốc nhỏ mắt corticoid, thuốc tự mua; hỏi anh Sang lo nhất điều gì",
+     "v": "c",
+     "n": "Bé giấu đau họng vì sợ nghỉ đá bóng; bố giấu nỗi lo bạch hầu; thuốc nhỏ mắt corticoid kéo dài là thuốc đang dùng."
+    },
+    {
+     "t": "Sàng lọc dấu hiệu nguy hiểm và loại trừ áp xe quanh amidan, bạch hầu bằng hỏi và khám: há miệng, giọng, dãi, cổ, giả mạc, tiêm chủng, dị ứng penicillin, tiền sử thấp tim",
+     "v": "c",
+     "n": "NICE NG84 khuyến cáo 1.1.12–1.1.13; QĐ 2957/2020 mục 3.1.3, 5.1; QĐ 5643/2015 Viêm amiđan cấp mục 3.2 (tr. 143); IDSA 2012 khuyến cáo 8–9 (tr. e87)."
+    },
+    {
+     "t": "Tính Centor/McIsaac (không có test nhanh, cấy); quyết định dùng kháng sinh ngay theo điểm HOẶC cho đơn dự phòng",
+     "v": "c",
+     "n": "Centor 4, McIsaac 5: nguy cơ cao (IDSA 2025 Bảng 3, tr. i101). NICE NG84 khuyến cáo 1.1.10: Centor 3–4 cân nhắc kháng sinh ngay hoặc đơn dự phòng; QĐ 5643/2015 (TL-0130) Viêm họng cấp tính mục 4.1 và Viêm mũi họng cấp tính mục 4.1 (tr. 135): điều trị như liên cầu khi chưa có xét nghiệm. WHO AWaRe 2022 tr. 50: nơi nguy cơ thấp tim thấp có thể không dùng (mục sau)."
+    },
+    {
+     "t": "Chỉ giảm đau, hạ sốt, chưa dùng kháng sinh, hẹn khám lại sau 48–72 giờ (nơi nguy cơ thấp tim thấp)",
+     "v": "a",
+     "n": "WHO AWaRe 2022 (TL-0018) tr. 50, 57: Centor 3–4 ở nơi nguy cơ thấp tim thấp có thể không dùng kháng sinh. Số liệu thấp tim Việt Nam hiện nay: không có trong tài liệu đã tải (QĐ 708/2015 Thấp tim mục 1: 0,45% trẻ dưới 16 tuổi, số cũ). Không sai nhưng phải hẹn lại."
+    },
+    {
+     "t": "Amoxicillin uống 500 mg × 2 lần/ngày hoặc 1.000 mg × 1 lần/ngày, 10 ngày (IDSA 2012 Bảng 2, khuyến cáo 8; QĐ 5643 Viêm mũi họng cấp tính mục 4.3.1) HOẶC 500 mg × 3 lần/ngày hoặc 1 g × 2 lần/ngày, 5 ngày nếu nguy cơ thấp tim thấp (WHO AWaRe 2022 Bảng 6.5)",
+     "v": "c",
+     "n": "Hai cách khác nhau vì năm, mục tiêu (diệt khuẩn 10 ngày so với cắt triệu chứng 5 ngày) và nguy cơ thấp tim. Khoa 34 kg: 25 mg/kg = 850 mg nhưng tối đa 500 mg/liều (IDSA 2012 Bảng 2, tr. e89). AWaRe Bảng 6.5 (tr. 58): trẻ ≥ 20 kg 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ. Liều tối đa/ngày: 1.000 mg (IDSA) thận trọng hơn 1.500–2.000 mg (AWaRe). NICE NG84 Bảng 2 (tr. 10): phenoxymethylpenicillin 5–10 ngày."
+    },
+    {
+     "t": "Penicillin V uống 500 mg × 2 lần/ngày, hoặc tiêm bắp benzathine penicillin G 1.200.000 đơn vị một liều, thay cho amoxicillin",
+     "v": "a",
+     "n": "Penicillin V 6–11 tuổi 500 mg × 2 lần/ngày (NICE NG84 Bảng 2, tr. 10); benzathine penicillin G ≥ 27 kg 1.200.000 U một liều (IDSA 2012 Bảng 2); QĐ 5643/2015 Viêm mũi họng cấp tính mục 4.3.1: 1,2 triệu UI cho trẻ trên 30 kg. Phòng khám có thuốc tiêm hay không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Azithromycin 3 ngày hoặc macrolid \"mạnh\" vì bạn cùng lớp đã dùng, khi bé không dị ứng penicillin",
+     "v": "w",
+     "n": "IDSA 2012 Bảng 2: azithromycin 12 mg/kg × 5 ngày, chỉ cho người dị ứng penicillin; GAS kháng macrolid ở một số nơi (tr. e96). AWaRe 2022 Bảng 6.5 (tr. 59, chú thích d): lựa chọn thứ hai. Liều 3 ngày: không có trong tài liệu đã tải (sổ mâu thuẫn HH-0557)."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh tĩnh mạch vì sốt 38,9 °C và nôn",
+     "v": "w",
+     "n": "NICE NG84 khuyến cáo 1.1.13 (chuyển viện khi nhiễm khuẩn nặng hoặc biến chứng mủ nặng); WHO AWaRe 2022 (TL-0018) tr. 19 (nhiễm khuẩn không nặng điều trị bằng thuốc uống). Khoa uống được, không mất nước, không biến chứng."
+    },
+    {
+     "t": "Paracetamol 500 mg mỗi 6 giờ khi sốt hoặc đau, tối đa 4 lần/24 giờ",
+     "v": "c",
+     "n": "WHO AWaRe 2022 Bảng 6.4 (tr. 56): ≥ 30 kg liều người lớn 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày. QĐ 708/2015 Viêm màng não mủ mục 4.2: 15 mg/kg/lần, không quá 60 mg/kg/ngày (Khoa: 510 mg/lần, 2.040 mg/ngày). Chọn trần thận trọng 4 × 500 mg = 2 g/ngày; IDSA 2012 khuyến cáo 10(i): giảm đau, hạ sốt là điều trị hỗ trợ."
+    },
+    {
+     "t": "Aspirin để hạ sốt, giảm đau cho bé",
+     "v": "h",
+     "n": "IDSA 2012 khuyến cáo 10(ii) (mạnh, trung bình, tr. e87): tránh aspirin ở trẻ em (hội chứng Reye, tr. e97). QĐ 5643 Viêm mũi họng cấp tính mục 4.3.2 vẫn liệt kê aspirin; theo sổ mâu thuẫn chấm h."
+    },
+    {
+     "t": "Giải thích cho anh Sang vì sao không kê \"mạnh, 3 ngày\", vì sao 10 ngày hoặc 5 ngày, tin đồn bạch hầu, và khi nào quay lại; dặn nghỉ học đến khi hết sốt",
+     "v": "c",
+     "n": "IDSA 2012 tr. e89, e93: điều trị đúng giúp giảm lây và về trường sớm hơn. Số giờ nghỉ học sau kháng sinh: không có trong tài liệu đã tải. IDSA 2012 khuyến cáo 8; NICE NG84 khuyến cáo 1.1.11."
+    },
+    {
+     "t": "Dặn ngưng tự nhỏ thuốc corticoid kéo dài, hẹn khám mắt đo nhãn áp trong tuần này",
+     "v": "c",
+     "n": "QĐ 40/2015 Viêm kết giác mạc mùa xuân mục 4b, 5 (tr. 46): corticoid nhỏ mắt một đợt 7–10 ngày, phải theo dõi nhãn áp; biến chứng là tăng nhãn áp, đục thủy tinh thể."
+    },
+    {
+     "t": "Cho về điều trị ngoại trú; uống nhiều nước, ăn mềm, súc họng nước muối ấm; hẹn khám lại sau 2–3 ngày hoặc ngay khi sốt không giảm, há miệng khó, chảy dãi, cổ sưng, khó thở",
+     "v": "c",
+     "n": "QĐ 5643/2015 Viêm amiđan cấp mục 4.2.1 (tr. 144): nghỉ ngơi, ăn nhẹ, uống nhiều nước, súc miệng kiềm ấm. IDSA 2012 tr. e95: đáp ứng thường trong 24–48 giờ nên mốc 48–72 giờ hợp lý; NICE NG84 khuyến cáo 1.1.11. Số ngày hẹn chính xác: không có trong tài liệu đã tải, ca tự chọn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm amidan cấp mủ nghĩ do liên cầu nhóm A, ngày 3 của bệnh, thể không điển hình: sốt, đau bụng, nôn, bỏ ăn; bé giấu đau họng",
+     "Centor 4 điểm, McIsaac 5 điểm; phòng khám không có test nhanh, cấy họng nên quyết định theo điểm lâm sàng",
+     "Chưa biến chứng mủ (không áp xe quanh amidan), không mất nước, không có dấu hiệu bạch hầu, bụng không ngoại khoa",
+     "Bệnh nền: viêm kết giác mạc mùa xuân, đang tự nhỏ corticoid kéo dài khoảng 3 tuần, chưa đo nhãn áp",
+     "Khởi phát sau lạnh đột ngột; nhiễm virus (adenovirus, EBV) không loại hẳn khi thiếu xét nghiệm nên phải hẹn theo dõi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: sốt, đau bụng, nôn → hỏi thẳng nuốt đau (bé giấu) → ho, sổ mũi, loét miệng → mắt, thuốc nhỏ mắt → tiếp xúc bạn bệnh, tiêm chủng, dị ứng → hỏi bố lo gì → khám họng, hạch, bụng, mắt → quyết định theo điểm vì không có test.",
+     "Vì sao nghĩ amidan mủ do GAS dù bé kêu đau bụng: khởi phát đột ngột sau lạnh đột ngột, amidan sưng phủ mủ, hạch góc hàm đau, tuổi 5–15 (QĐ 5643/2015 Viêm amiđan cấp mục 1, 2, 3.1.1.1, tr. 141–142); IDSA 2012 Bảng 4 (tr. e91) xếp buồn nôn, nôn, đau bụng vào biểu hiện của GAS. Không ho, sổ mũi, loét miệng nên không có dấu hiệu virus rõ (tr. e91–e92).",
+     "Điểm số: Centor 4 (sốt trên 38 °C, không ho, hạch cổ trước đau, amidan xuất tiết; AWaRe 2022 tr. 50); McIsaac cùng 4 mục cộng 1 điểm tuổi 3–14 = 5 (IDSA 2025 Bảng 3, tr. i101): nguy cơ GAS 57% (Centor 4), 50,7–69,3% (McIsaac 4–5). AWaRe tr. 50: ngay cả Centor 4 xác suất chỉ khoảng 50% và điểm chỉ kiểm chứng ở nước thu nhập cao.",
+     "Bẫy nhẹ: viêm kết giác mạc mùa xuân làm mắt đỏ, dễ tưởng kết mạc do virus mà bỏ qua kháng sinh (IDSA 2012 tr. e92), nhưng bệnh này mạn tính, ngứa từng cơn, liên quan thay đổi thời tiết (QĐ 40/2015 mục 2, 3a). Đau bụng dễ khiến nghĩ bụng ngoại khoa nếu không soi họng.",
+     "Loại trừ áp xe quanh amidan (há miệng, giọng bình thường, không dãi, lưỡi gà giữa, cổ không sưng; NICE NG84 khuyến cáo 1.1.13) và bạch hầu (mủ lau bong dễ, không giả mạc dính; QĐ 5643/2015 mục 3.2; QĐ 2957/2020 mục 3.1.3). Tin đồn bạch hầu: bé tiêm đủ, không giả mạc nên không cần xét nghiệm (QĐ 2957/2020 mục 5.1).",
+     "Quyết định kháng sinh khi không có test: QĐ 5643/2015 điều trị như liên cầu (Viêm mũi họng cấp tính mục 4.1; Viêm họng cấp tính mục 4.1); NICE NG84 khuyến cáo 1.1.10 cân nhắc kháng sinh ngay hoặc đơn dự phòng cho Centor 3–4; AWaRe 2022 tr. 50 cho phép không dùng nơi nguy cơ thấp tim thấp. Số liệu thấp tim Việt Nam hiện nay không có trong tài liệu đã tải nên cả hai cách đều được chấp nhận, kèm hẹn khám lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh: penicillin hoặc amoxicillin là thuốc chọn khi không dị ứng (IDSA 2012 khuyến cáo 8, strong, high, tr. e87; tr. e96). Liều: IDSA 2012 Bảng 2 (tr. e89) 50 mg/kg một lần (tối đa 1.000 mg) hoặc 25 mg/kg × 2 (tối đa 500 mg/liều), 10 ngày; AWaRe 2022 Bảng 6.5 (tr. 58) trẻ ≥ 20 kg 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ, 5 ngày nếu nguy cơ thấp tim thấp hoặc 10 ngày nếu cao; QĐ 5643 mục 4.3.1: 10 ngày, không nêu liều amoxicillin.",
+     "IDSA 2012 (cũ hơn) nhắm diệt khuẩn hầu để phòng thấp tim (10 ngày); AWaRe 2022 (mới hơn) chấp nhận 5 ngày khi nguy cơ thấp tim thấp. Ca chọn đơn chính amoxicillin 500 mg × 2 lần/ngày, 10 ngày.",
+     "Không \"mạnh 3 ngày\": azithromycin chỉ cho người dị ứng penicillin, 5 ngày, GAS kháng macrolid ở nhiều nơi (IDSA 2012 Bảng 2, tr. e96; AWaRe Bảng 6.5 chú thích d). Benzathine penicillin G 1.200.000 U tiêm bắp một liều là cách hợp lệ (IDSA 2012 Bảng 2; QĐ 5643 mục 4.3.1) nếu phòng khám có thuốc, sau khi hỏi dị ứng.",
+     "Paracetamol 500 mg mỗi 6 giờ khi cần (AWaRe Bảng 6.4, tr. 56; QĐ 708/2015 Viêm màng não mủ mục 4.2, trần 60 mg/kg/ngày thận trọng hơn). Tránh aspirin (IDSA 2012 khuyến cáo 10(ii)). Corticoid uống không bắt buộc (QĐ 5643 mục 4.2.1 so với IDSA 2012 khuyến cáo 10(iii)).",
+     "Corticoid nhỏ mắt chỉ một đợt 7–10 ngày và phải theo dõi nhãn áp (QĐ 40/2015 mục 4b, tr. 46); dùng ba tuần không tái khám là sai cách.",
+     "Quay lại nếu sốt không giảm sau 48–72 giờ (IDSA 2012 tr. e95: đáp ứng thường trong 24–48 giờ), há miệng khó, giọng ngậm, chảy dãi, cổ sưng, khó thở (NICE NG84 khuyến cáo 1.1.11, 1.1.13). Không xét nghiệm lại thường quy (IDSA 2012 khuyến cáo 6, tr. e87)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần (≈ 15 mg/kg), 2 lần/ngày cách nhau 12 giờ (IDSA 2012 Bảng 2: 25 mg/kg/liều, tối đa 500 mg/liều) HOẶC 500 mg mỗi 8 giờ, 5 ngày nếu nguy cơ thấp tim thấp (AWaRe 2022 Bảng 6.5)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, sau ăn nhẹ",
+      "so_ngay": "10 ngày (IDSA 2012 Bảng 2; QĐ 5643 Viêm mũi họng cấp tính mục 4.3.1) hoặc 5 ngày (AWaRe 2022 Bảng 6.5)",
+      "ghi_chu": "Uống đủ ngày dù hết sốt. Thay thế: 1.000 mg × 1 lần/ngày (IDSA 2012 Bảng 2); benzathine penicillin G 1.200.000 U tiêm bắp một liều (IDSA 2012 Bảng 2; QĐ 5643 mục 4.3.1); penicillin V 500 mg × 2 lần/ngày (NICE NG84 Bảng 2)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần (≈ 15 mg/kg), tối đa 4 lần/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt trên 38,5 °C hoặc đau họng làm bé không ăn được; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt hoặc đau",
+      "ghi_chu": "AWaRe 2022 Bảng 6.4 (tr. 56) ≥ 30 kg: 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; QĐ 708/2015 Viêm màng não mủ mục 4.2: 15 mg/kg/lần, ≤ 60 mg/kg/ngày. Chọn trần thận trọng 2 g/ngày. Ibuprofen 200–400 mg mỗi 6–8 giờ (AWaRe tr. 56) là lựa chọn thay thế, uống sau ăn."
+     }
+    ],
+    "dan_do": [
+     "Khoa bị viêm amidan có mủ, rất có thể do liên cầu; uống đủ 10 ngày (hoặc 5 ngày theo cách còn lại), không bớt ngày dù đã hết sốt (IDSA 2012 khuyến cáo 8, Bảng 2; WHO AWaRe 2022 Bảng 6.5).",
+     "Không dùng azithromycin hay kháng sinh thừa của người khác; không đổi sang thuốc \"mạnh\" khi chưa hỏi bác sĩ (IDSA 2012 Bảng 2, tr. e96).",
+     "Tin đồn bạch hầu: Khoa tiêm đủ, mủ lau bong dễ, không giả mạc dính nên không giống bạch hầu (QĐ 2957/2020 mục 3.1.3; QĐ 5643 Viêm amiđan cấp mục 3.2); thấy mảng trắng dính chặt, bóc chảy máu, cổ sưng bạnh thì đi ngay (QĐ 2957/2020 mục 3, 7).",
+     "Uống nhiều nước, ăn mềm, súc họng nước muối ấm (QĐ 5643 Viêm amiđan cấp mục 4.2.1, tr. 144). Nghỉ học đến khi hết sốt; số giờ nghỉ sau kháng sinh: không có trong tài liệu đã tải.",
+     "Ngưng tự nhỏ fluorometholon kéo dài; khám mắt đo nhãn áp trong tuần này (QĐ 40/2015 mục 4b, 5, tr. 46).",
+     "Tái khám sau 2–3 ngày, hoặc ngay nếu sốt không giảm, há miệng khó, giọng ngậm, chảy dãi, cổ sưng, khó thở, nổi ban, nôn nhiều (NICE NG84 khuyến cáo 1.1.11; WHO AWaRe 2022 tr. 23–24)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (ngày thứ 4 uống thuốc)",
+   "tiep_don": "Bé Khoa tái khám, bố đi cùng; bé đang uống amoxicillin ngày thứ 4. Sinh hiệu: nhiệt 37,4 °C, mạch 88 l/p, HA 102/64, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, chơi được, gãi nhẹ ở ngực và bụng.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ban dát sẩn ngứa nhẹ, không phù môi mặt, khó thở, phồng rộp, loét miệng, sốt lại hay đau khớp: đây là phản ứng chậm không nặng (WHO AWaRe 2022 tr. 23–24). Nhập viện chỉ làm Khoa lỡ thêm ngày học, tốn kém và khiến anh Sang tin bé \"dị ứng thuốc nặng\", đòi thuốc mạnh hơn; amidan đã đáp ứng tốt nên ngoại trú là đủ.",
+    "chuyen_tuyen": "Chuyển Khoa lên khoa dị ứng tuyến trên ngay hôm nay để thử thuốc là quá sớm: thử thuốc dựa trên mức nguy cơ (AWaRe 2022 Bảng 3.3, tr. 24) và làm lúc ổn định tại nơi xử trí được phản vệ (tr. 25). Đi xa khi đang ngứa và uống dở liệu trình khiến đổi kháng sinh muộn thêm, trong khi chỉ cần ngưng amoxicillin, đổi thuốc và hẹn đánh giá dị ứng sau."
+   },
+   "loi_mo": "Bác sĩ ơi, bé uống thuốc đúng như bác dặn, hết sốt từ chiều hôm kia, họng đỡ nhiều. Nhưng sáng nay tự nhiên nổi mẩn đỏ khắp người, hơi ngứa. Chắc cháu dị ứng thuốc rồi. Bác đổi cho em loại kháng sinh khác mạnh hơn, hoặc cho em uống luôn azithromycin của bạn nó ba ngày cho gọn nhé, em sợ lại nổi thêm.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "102/64",
+    "nhiet": "37,4",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Uống amoxicillin 500 mg sáng, 500 mg tối, hôm nay là ngày thứ 4 (uống từ chiều ngày thứ 3 của bệnh). Hết sốt sau khoảng 36 giờ, họng đỡ đau, ăn lại được cháo và cơm. Sáng nay nổi ban đỏ khắp người, hơi ngứa.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, đáp ứng điều trị"
+    },
+    {
+     "id": "ban",
+     "noi_dung": "Ban nổi sáng nay, bắt đầu ở ngực rồi lan ra bụng, lưng, hai tay và đùi; ngứa nhẹ, không đau, không phồng nước, không loét miệng, môi và mắt không sưng. Không có ban trước khi uống thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời điểm, vị trí, tính chất ban"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không khó thở, không khò khè, không sưng môi, mặt, lưỡi, không nôn, không tức ngực, không chóng mặt, không sốt lại, không đau khớp, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu phản ứng nặng (đường thở, phù, phồng rộp, sốt, đau khớp)"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Chỉ uống amoxicillin theo đơn và vài lần paracetamol hôm kia; không thuốc nào khác, không thực phẩm lạ, không hải sản; chưa cho uống azithromycin của bạn (nửa vỉ còn trong túi anh Sang). Khoa đã ngưng nhỏ fluorometholon từ hôm khám trước, nhỏ nước mắt nhân tạo, đã hẹn khám mắt thứ Sáu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mọi thuốc, thực phẩm trong 24 giờ; thuốc nhỏ mắt"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Hết đau bụng, hết nôn từ ngày thứ 2 uống thuốc; đi ngoài phân bình thường, ăn uống được.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Triệu chứng tiêu hóa"
+    },
+    {
+     "id": "tien_su_ban",
+     "noi_dung": "Khoa chưa từng uống amoxicillin hay penicillin trước đây; chưa từng nổi mày đay hay ban sau thuốc. Không sờ thấy hạch nơi khác, không mệt lả kéo dài trước khi bị bệnh lần này.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử phản ứng thuốc, tiếp xúc penicillin"
+    },
+    {
+     "id": "doi_ks",
+     "noi_dung": "Anh Sang đã đọc trên mạng \"dị ứng kháng sinh nguy hiểm\"; muốn đổi thuốc mạnh hơn hoặc dùng azithromycin 3 ngày của bạn cho bé. Anh sợ ban sẽ lan thêm và sợ nghe lời bác sĩ rồi lại sai.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Đòi đổi kháng sinh mạnh, ngắn ngày"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, chơi được, không phù mặt, không khó thở, môi hồng. Niêm mạc miệng, môi, kết mạc không phù, không loét, không bọng nước.",
+     "k": 1
+    },
+    "da": {
+     "a": "Ban dát sẩn hồng đỏ, 2–5 mm, nhiều đám nhỏ hợp lại, lan ở ngực, bụng, lưng, hai cánh tay và đùi; thưa hơn ở cẳng chân. Mặt, lòng bàn tay, lòng bàn chân không ban. Ban ấn mất màu, không mụn nước, không bọng nước, không chấm xuất huyết, không tróc da, không sần như giấy nhám, không có nếp đỏ ở khuỷu, nách. Có vài vết gãi nhẹ.",
+     "k": 1,
+     "hien": "Ban dát sẩn hồng đỏ, 2–5 mm, nhiều đám hợp lại ở ngực, bụng, lưng, hai tay và đùi. Không mụn nước, không chấm xuất huyết. Mặt, lòng bàn tay, lòng bàn chân không ban."
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ. Hai amidan còn sưng độ I, chỉ còn vài chấm mủ nhỏ ở hốc, không lan, không giả mạc; lưỡi hồng không có hạt đỏ như dâu tây. Lưỡi gà ở giữa. Màng nhĩ bình thường.",
+     "k": 1,
+     "hien": "Họng hơi đỏ, hai amidan sưng nhẹ, còn vài chấm mủ nhỏ. Lưỡi hồng. Màng nhĩ bình thường."
+    },
+    "dau_mat_co": {
+     "a": "Hạch góc hàm hai bên còn 0,5–1 cm, di động, ấn đau nhẹ. Hạch nách, bẹn, cổ sau không sờ thấy. Cổ không sưng.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không sờ thấy, không chướng.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc đỏ nhẹ hai mắt như nền bệnh mùa xuân, dử ít, trong; không mủ, không phù mi, không loét niêm mạc.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Rì rào phế nang rõ hai bên, không ran rít, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 10,6 G/L · Neutrophil 62% · Lymphocyte 28% · Eosinophil 5% · Hb 133 g/L · TC 296 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 10.6,
+      "neu_pct": 62.0,
+      "neu": 6.57,
+      "lym_pct": 28.0,
+      "lym": 2.97,
+      "mono_pct": 5.0,
+      "mono": 0.53,
+      "eos_pct": 5.0,
+      "eos": 0.53,
+      "baso_pct": 0.0,
+      "baso": 0.0,
+      "rbc": 4.8,
+      "hgb": 133,
+      "hct": 0.4,
+      "mcv": 83.0,
+      "mch": 27.7,
+      "mchc": 333,
+      "rdw": 12.8,
+      "plt": 296
+     },
+     "n": "Chấp nhận, không bắt buộc: bạch cầu giảm so với lượt 1, không tăng lympho rõ, nhưng không có phết máu (phòng khám không làm được) nên không loại hẳn EBV; không có test chẩn đoán dị ứng thuốc trong tài liệu đã tải. Ngưỡng tăng bạch cầu ái toan gợi ban thuốc: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 9 mg/L.",
+     "bang": {
+      "crp": 9
+     },
+     "ab": 1,
+     "n": "Không cần: sốt đã hạ, bé khỏe; không đổi quyết định."
+    },
+    "phet_mau": {
+     "v": "n",
+     "r": "(Phòng khám không làm được phết máu ngoại vi.)",
+     "n": "Phòng khám chỉ có xét nghiệm cơ bản; vì không loại được EBV bằng xét nghiệm nên quyết định không cần đến kết quả này: bé hết sốt, gan lách không to, hạch toàn thân không có."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "(Phòng khám không làm được test nhanh liên cầu nhóm A.)",
+     "n": "Không cần: đã chẩn đoán và đang điều trị; không xét nghiệm lại sau điều trị thường quy (IDSA 2012 (TL-0158) khuyến cáo 6, tr. e87)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ban dát sẩn muộn, không nặng, nổi ngày thứ 4 uống amoxicillin (nghi do thuốc); viêm amidan mủ do liên cầu nhóm A đáp ứng tốt (hết sốt sau khoảng 36 giờ); không có dấu hiệu phản ứng nặng",
+     "ok": 1,
+     "n": "WHO AWaRe 2022 (TL-0018) tr. 22–24: đa số phản ứng dị ứng kháng sinh không nặng, thường là ban nhẹ, mày đay, ngứa, không triệu chứng toàn thân; phản ứng chậm nặng có phồng rộp đau, sốt, đau khớp hoặc tổn thương cơ quan. Khoa không có dấu hiệu nặng nào. Chưa xác định là dị ứng thật nên chưa được gắn nhãn dị ứng penicillin (AWaRe tr. 20–22)."
+    },
+    {
+     "t": "Phản ứng quá mẫn nặng (phản vệ, hội chứng Stevens–Johnson, DRESS)",
+     "n": "Loại trừ: không khó thở, không phù môi mặt, không bọng nước, không loét niêm mạc, không sốt, không đau khớp, không tổn thương gan thận (WHO AWaRe 2022 (TL-0018) tr. 22–24 mô tả dấu hiệu nặng nhanh và chậm)."
+    },
+    {
+     "t": "Ban đỏ do liên cầu (scarlet fever)",
+     "n": "Ít nghĩ: ban nổi muộn sau khi hết sốt, lưỡi không dâu tây, không sần như giấy nhám. IDSA 2012 Bảng 4 (tr. e91) xếp ban dạng scarlet là biểu hiện của GAS; NICE NG84 khuyến cáo 1.1.5 nhắc scarlet fever hoặc glandular fever khi nặng lên. Mô tả chi tiết ban đỏ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ban do virus hoặc bạch cầu đơn nhân (EBV) kèm amoxicillin",
+     "n": "Không loại hẳn: AWaRe 2022 tr. 22: ban ở người bạch cầu đơn nhân dùng amoxicillin là tương tác, không phải dị ứng thật; NICE NG84 phần chứng cứ (tr. 21–22). Khoa không hạch toàn thân, không gan lách to nên ít nghĩ; phòng khám không có xét nghiệm EBV."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi thời điểm, vị trí, diễn tiến ban; dấu hiệu nặng (khó thở, phù môi mặt, phồng rộp, loét miệng, sốt, đau khớp); mọi thuốc và thực phẩm; tiền sử phản ứng thuốc; khám da, niêm mạc, hạch, gan lách",
+     "v": "c",
+     "n": "WHO AWaRe 2022 tr. 22–24: phản ứng muộn nặng có phồng rộp đau, sốt, đau khớp hoặc tổn thương cơ quan; cần khai thời điểm xuất hiện sau thuốc."
+    },
+    {
+     "t": "Phân biệt ban muộn không nặng với phản ứng nặng; cân nhắc ban đỏ do liên cầu, ban virus/EBV; không gắn nhãn dị ứng penicillin vĩnh viễn khi chưa đánh giá",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 20–22: dị ứng kháng sinh thường bị chẩn đoán thừa, ban có thể do tương tác với virus (EBV); NICE NG84 khuyến cáo 1.1.5; IDSA 2012 Bảng 4 (tr. e91)."
+    },
+    {
+     "t": "Ngưng amoxicillin; đổi sang cephalexin 500 mg × 2 lần/ngày, 10 ngày (IDSA 2012 khuyến cáo 9, Bảng 2) HOẶC 500 mg × 3 lần/ngày, 5 ngày (WHO AWaRe 2022 Bảng 6.5, tr. 59), hoặc clindamycin, clarithromycin, azithromycin theo IDSA 2012 Bảng 2",
+     "v": "c",
+     "n": "IDSA 2012 Bảng 2 (tr. e89): cephalexin 20 mg/kg/liều × 2, tối đa 500 mg/liều, 10 ngày; chú thích b: tránh nếu quá mẫn tức thì với penicillin (Khoa không có). AWaRe Bảng 6.5 (tr. 59): ≥ 30 kg 500 mg mỗi 8 giờ, 5 ngày. Phản ứng chéo cephalosporin dưới 2% (AWaRe tr. 20, Bảng 3.2); cephalexin cùng chuỗi bên R1 với amoxicillin nên dặn dừng nếu ban tăng (tr. 22). IDSA 2012 tr. e96: tối đa khoảng 10% người dị ứng penicillin cũng dị ứng cephalosporin. Cách tính ngày khi đổi thuốc giữa liệu trình: không có trong tài liệu đã tải; ca tính tổng 10 ngày từ lúc bắt đầu amoxicillin."
+    },
+    {
+     "t": "Tiếp tục amoxicillin cho đủ ngày, hoặc đổi sang penicillin V hay benzathine penicillin G, vì \"ban không nặng\"",
+     "v": "w",
+     "n": "Ban nổi khi đang dùng aminopenicillin: tiếp tục cùng nhóm làm rối theo dõi. IDSA 2012 khuyến cáo 8 chỉ chọn penicillin/amoxicillin cho người không dị ứng (tr. e87). AWaRe tr. 25 nói về lần kê sau, không bàn tiếp tục ngay lúc ban đang nổi. Tiếp tục khi ban nhẹ đang nổi: không có trong tài liệu đã tải; theo sổ mâu thuẫn (HH-0479) chấm w."
+    },
+    {
+     "t": "Dùng azithromycin 3 ngày của bạn cho Khoa",
+     "v": "w",
+     "n": "Không phải thuốc kê cho bé; IDSA 2012 Bảng 2: azithromycin 12 mg/kg × 5 ngày, thay thế khi dị ứng penicillin; GAS kháng macrolid (tr. e96). Dùng thuốc người khác không kiểm soát được liều, dễ lẫn thủ phạm gây ban."
+    },
+    {
+     "t": "Ghi vào bệnh án \"ban muộn không nặng sau amoxicillin, chưa xác định dị ứng\"; hẹn đánh giá dị ứng sau khi khỏi; không dán nhãn dị ứng penicillin vĩnh viễn",
+     "v": "c",
+     "n": "WHO AWaRe 2022 tr. 20–25: người bị gán nhãn dị ứng cần đánh giá nguy cơ (Bảng 3.3, tr. 24); thử thuốc uống chỉ ở nơi xử trí được phản vệ (tr. 25). Ban nhẹ vài ngày sau thuốc không dấu hiệu nặng là nguy cơ thấp (tr. 24–25)."
+    },
+    {
+     "t": "Giải thích cho anh Sang vì sao đổi thuốc nhưng không \"mạnh hơn\", không dùng thuốc bạn cho, dặn dấu hiệu quay lại ngay: khó thở, phù môi mặt, phồng rộp hoặc loét miệng, sốt lại, đau khớp, ban lan nhanh",
+     "v": "c",
+     "n": "WHO AWaRe 2022 (TL-0018) tr. 23–24 (dấu hiệu nặng); IDSA 2012 Bảng 2 (thuốc thay thế khi dị ứng); NICE NG84 khuyến cáo 1.1.5 (khám lại nếu nặng lên nhanh)."
+    },
+    {
+     "t": "Hẹn khám lại sau 2–3 ngày để xem ban và họng; hoàn tất đủ liệu trình kháng sinh",
+     "v": "c",
+     "n": "IDSA 2012 khuyến cáo 8 (điều trị đủ thời gian, thường 10 ngày) và Bảng 2; NICE NG84 khuyến cáo 1.1.11 (khám lại nếu nặng lên). Số ngày hẹn chính xác: không có trong tài liệu đã tải, ca tự chọn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ban dát sẩn muộn, không nặng, nổi ngày thứ 4 uống amoxicillin; nghi do thuốc, chưa xác định dị ứng thật",
+     "Viêm amidan cấp mủ do liên cầu nhóm A đáp ứng điều trị tốt: hết sốt sau khoảng 36 giờ, amidan gần hết mủ",
+     "Không có dấu hiệu phản ứng nặng; không phù môi mặt, không bọng nước, không sốt lại",
+     "Chưa loại hẳn ban do virus hoặc EBV dùng amoxicillin; bệnh nền viêm kết giác mạc mùa xuân đã ngưng corticoid nhỏ mắt kéo dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hết sốt, họng đỡ → ban nổi lúc nào so với thuốc, lan thế nào, ngứa → dấu hiệu nặng (thở, phù, phồng rộp, sốt, khớp) → thuốc, thực phẩm, tiền sử thuốc → khám da, niêm mạc, hạch, gan lách, họng → quyết định.",
+     "Vì sao nghĩ ban muộn nhẹ do thuốc: ban dát sẩn nổi ngày thứ 4 uống amoxicillin, không dấu hiệu nặng; AWaRe 2022 tr. 22–24: phản ứng muộn thường sau trên 6–24 giờ, đa số không nặng (ban nhẹ, mày đay, ngứa). Phản ứng chậm nặng (phồng rộp đau, sốt, đau khớp, tổn thương gan thận; tr. 23–24) đều vắng mặt.",
+     "Chưa nói \"dị ứng amoxicillin\": AWaRe 2022 tr. 20–22: phần lớn người tự khai dị ứng penicillin không phải dị ứng thật (trên 95%); ban có thể do tương tác với virus như EBV (NICE NG84 chứng cứ, tr. 21–22). Khoa không hạch toàn thân, không gan lách to nên ít nghĩ EBV, nhưng phòng khám không có xét nghiệm để loại.",
+     "Ít nghĩ ban đỏ liên cầu: ban nổi muộn sau khi hết sốt, lưỡi không dâu tây, không sần giấy nhám. IDSA 2012 Bảng 4 (tr. e91) xếp ban dạng scarlet là biểu hiện GAS; mô tả chi tiết ban đỏ: không có trong tài liệu đã tải.",
+     "Triệu chứng mới ở lượt 2 là tác dụng không mong muốn của thuốc vừa kê. Cần tránh hai thái cực: coi nhẹ (tiếp tục thuốc) và phóng đại (gắn nhãn dị ứng nặng, đổi thuốc phổ rộng, nhập viện)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng amoxicillin, đổi cephalexin: IDSA 2012 khuyến cáo 9, Bảng 2 (tr. e87, e89): cephalexin 20 mg/kg/liều × 2, tối đa 500 mg/liều, 10 ngày; AWaRe 2022 Bảng 6.5 (tr. 59): ≥ 30 kg 500 mg mỗi 8 giờ, 5 ngày. Khác thời gian vì IDSA 2012 nhắm diệt khuẩn hầu họng, AWaRe 2022 nhắm cắt triệu chứng khi nguy cơ thấp tim thấp. Ca chọn đơn chính 500 mg × 2 lần/ngày, tổng 10 ngày. Clindamycin, clarithromycin, azithromycin (IDSA 2012 Bảng 2) là thuốc thay thế khác.",
+     "Cephalexin cùng chuỗi bên R1 với amoxicillin: ban tăng nhanh, nổi gờ, ngứa nhiều hoặc triệu chứng toàn thân phải ngưng ngay; vì chưa phải dị ứng thật nặng nên vẫn dùng được (AWaRe 2022 tr. 20, 22, Bảng 3.2: phản ứng chéo dưới 2%).",
+     "Tiếp tục amoxicillin, penicillin V hay benzathine penicillin: chấm w theo sổ mâu thuẫn (HH-0479); tài liệu đã tải không viết thẳng cách xử trí khi ban nhẹ đang nổi. AWaRe tr. 25 chỉ cho dùng lại penicillin ở người từng có ban vài ngày sau thuốc.",
+     "Không đổi cefixime, ceftriaxone (phổ rộng, IDSA 2012 tr. e96), không dùng azithromycin 3 ngày của bạn (IDSA 2012 Bảng 2: 5 ngày, chỉ khi dị ứng).",
+     "Nhãn dị ứng: ghi \"ban muộn không nặng sau amoxicillin, chưa xác định dị ứng\", hẹn đánh giá về sau (AWaRe 2022 Bảng 3.3, tr. 24; thử thuốc uống chỉ nơi xử trí được phản vệ, tr. 25). Kháng histamin chỉ khi ngứa nhiều (AWaRe 2022 tr. 23); liều trẻ: không có trong tài liệu đã tải cho ban do thuốc.",
+     "Không nhập viện, không chuyển tuyến vì ban không nặng; hẹn khám lại 2–3 ngày và dặn dấu hiệu quay lại ngay (AWaRe 2022 tr. 23–24)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần, 2 lần/ngày cách nhau 12 giờ (IDSA 2012 Bảng 2: 20 mg/kg/liều, tối đa 500 mg/liều) HOẶC 500 mg mỗi 8 giờ, 5 ngày (AWaRe 2022 Bảng 6.5, tr. 59)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, sau ăn nhẹ; bắt đầu từ liều kế tiếp sau khi ngưng amoxicillin",
+      "so_ngay": "Hoàn tất tổng 10 ngày từ lúc bắt đầu amoxicillin (IDSA 2012 Bảng 2) hoặc 5 ngày (AWaRe 2022 Bảng 6.5)",
+      "ghi_chu": "IDSA 2012 Bảng 2 chú thích b: tránh nếu quá mẫn tức thì với penicillin. Cách tính ngày khi đổi thuốc giữa liệu trình: không có trong tài liệu đã tải. Ngưng và quay lại ngay nếu ban nổi gờ, phù môi mặt, khó thở, phồng rộp (AWaRe 2022 tr. 23–24)."
+     }
+    ],
+    "dan_do": [
+     "Ban của Khoa là ban muộn, nhẹ, rất có thể do amoxicillin nhưng chưa chắc là dị ứng thật; không có dấu hiệu nặng (AWaRe 2022 tr. 20–24). Ngưng amoxicillin, uống cephalexin đủ ngày để bệnh họng không tái phát.",
+     "Không dùng azithromycin của bạn hay thuốc kháng sinh khác không do bác sĩ kê; đổi thuốc ở đây là đổi sang thuốc cùng chuẩn, không phải thuốc \"mạnh hơn\" (IDSA 2012 Bảng 2, tr. e96).",
+     "Đến ngay nếu khó thở, sưng môi, mắt, mặt, phồng rộp hoặc loét miệng, sốt lại, đau khớp, ban nổi gờ hoặc lan nhanh, nôn không uống được (AWaRe 2022 tr. 23–24).",
+     "Ghi lại tên thuốc và thời điểm ban để đánh giá dị ứng sau, đừng tự nói \"bé dị ứng kháng sinh\" với những lần khám khác khi chưa được đánh giá (AWaRe 2022 tr. 20–22, 24).",
+     "Đi khám mắt thứ Sáu như đã hẹn, mang theo thuốc nhỏ mắt; không tự nhỏ corticoid kéo dài (QĐ 40/2015 Viêm kết giác mạc mùa xuân mục 4b, 5, tr. 46).",
+     "Tái khám sau 2–3 ngày để xem ban và họng (số ngày hẹn: không có trong tài liệu đã tải, ca tự chọn; IDSA 2012 tr. e95)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bác sĩ hỏi ra nỗi lo bạch hầu, trấn an bằng sổ tiêm chủng và đặc điểm mủ lau bong, kê amoxicillin thay cho \"thuốc mạnh 3 ngày\", hẹn khám mắt. Khoa hết sốt sau khoảng 36 giờ, ăn lại được. Ngày thứ 4 nổi ban dát sẩn muộn, không nặng; ngưng amoxicillin, đổi cephalexin hoàn tất liệu trình. Ban nhạt dần sau 3 ngày, hết sau khoảng 5 ngày không tróc da; amidan sạch mủ ngày thứ 7 của bệnh. Khoa khỏi hẳn, kịp đá bóng; anh Sang hiểu đây là ban muộn nhẹ, chưa chắc dị ứng thật.",
+ "nhieu": [
+  "Đòi kháng sinh mạnh, 3 ngày, hoặc tiêm: biến nhiễu chính; ca này có chỉ định kháng sinh thật nên bài học là kê đúng thuốc, đúng ngày chứ không phải từ chối.",
+  "Viêm kết giác mạc mùa xuân (mắt đỏ, ngứa) và thuốc nhỏ mắt corticoid dùng kéo dài: dễ bị đọc nhầm là dấu hiệu virus và dễ bỏ sót việc tự nhỏ corticoid ba tuần.",
+  "Bé giấu đau họng, chỉ kể đau bụng, nôn, bỏ ăn: dễ chẩn đoán nhầm rối loạn tiêu hóa nếu không soi họng.",
+  "Phòng khám không có test nhanh, cấy, ASLO, phết máu: không cần để chẩn đoán, quyết định bằng Centor/McIsaac.",
+  "Lượt 2: bố cầm sẵn azithromycin của bạn muốn đổi thuốc \"mạnh hơn\"; ban muộn không phải lúc nào cũng là dị ứng thật."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi thẳng nuốt đau khi bé kêu đau bụng: GAS ở trẻ em có buồn nôn, nôn, đau bụng (IDSA 2012 Bảng 4, tr. e91).",
+  "Không có test: dùng điểm. Centor 4 hay McIsaac 5 là nguy cơ cao; cả hai cách (kháng sinh ngay hoặc nơi nguy cơ thấp tim thấp có thể không dùng) đều ghi nguồn (NICE NG84 1.1.10; WHO AWaRe 2022 tr. 50).",
+  "Hỏi cái bố giấu: tin đồn bạch hầu trong nhóm lớp. Giải thích bằng dấu hiệu cụ thể (mủ lau bong, không giả mạc dính, tiêm đủ).",
+  "Thuốc đang dùng: corticoid nhỏ mắt kéo dài cần tái khám nhãn áp (QĐ 40/2015 tr. 46)."
+ ],
+ "diem_nho": [
+  "Amidan cấp mủ: sốt, nuốt đau lan tai, mủ trắng ở hốc dễ lau, hạch góc hàm đau, tuổi 5–15, thời tiết đổi đột ngột (QĐ 5643/2015 Viêm amiđan cấp mục 1, 2, 3.1.1.1, tr. 141–142).",
+  "Centor (sốt, không ho, hạch cổ trước đau, amidan xuất tiết): 0–2 điểm triệu chứng; 3–4 điểm tùy nguy cơ thấp tim (WHO AWaRe 2022 tr. 50). McIsaac thêm 1 điểm tuổi 3–14; 4–5 điểm nguy cơ cao 50,7–69,3% (IDSA 2025 Bảng 3, tr. i101).",
+  "Bạch hầu: giả mạc dai, dính chặt, bóc chảy máu, hạch góc hàm sưng đau; ca nghi phải vào viện cách ly (QĐ 2957/2020 mục 3.1.3, 7).",
+  "Amoxicillin 10 ngày (IDSA 2012 Bảng 2) hoặc 5 ngày khi nguy cơ thấp tim thấp (WHO AWaRe 2022 Bảng 6.5); azithromycin 5 ngày chỉ cho người dị ứng penicillin."
+ ],
+ "nguon": [
+  "IDSA 2012, Clinical Practice Guideline for GAS Pharyngitis, Clin Infect Dis 2012;55:e86–e102 – TL-0158: khuyến cáo 1–13 (tr. e87), Bảng 2 (tr. e89), Bảng 4 (tr. e91), tr. e92, e94–e97.",
+  "IDSA 2025, update GAS pharyngitis, Clin Infect Dis 2026;82(Suppl 3):i97–i104 – TL-0140: Bảng 3 (tr. i101).",
+  "WHO AWaRe antibiotic book 2022 – TL-0018: tr. 19, chương 3 (tr. 20–25, Bảng 3.1–3.3), chương 6 (tr. 49–50, 56–59, Bảng 6.4, 6.5).",
+  "NICE NG84 2018, Sore throat (acute): antimicrobial prescribing – kho tltk-10000-ca: khuyến cáo 1.1.1–1.1.13, Bảng 2 (tr. 10–11), chứng cứ (tr. 21–22).",
+  "QĐ 5643/QĐ-BYT 2015 – TL-0130: Viêm amiđan cấp mục 1–5 (tr. 141–145); Viêm mũi họng cấp tính mục 3.1.2, 4.1, 4.3 (tr. 134–136); Viêm họng cấp tính mục 4.1, 4.2.1; Nhiễm trùng khoang cổ sâu mục 4.1 (tr. 255).",
+  "QĐ 2957/QĐ-BYT 2020 – TL-0129: mục 3–7.",
+  "QĐ 40/QĐ-BYT 2015 – TL-0242: Viêm kết giác mạc mùa xuân mục 1–5 (tr. 44–46).",
+  "QĐ 708/QĐ-BYT 2015 – TL-0015: Thấp tim mục 1 (tr. 150); Viêm màng não mủ mục 4.2 (paracetamol)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: Claude, 14/11/2026. Tài liệu đã đọc: TL-0158 khuyến cáo 1–13, Bảng 2, 4; TL-0140 Bảng 3; TL-0018 tr. 19, 20–25, 49–50, 56–59; NICE NG84 khuyến cáo 1.1, Bảng 2; TL-0130 Viêm amiđan, Viêm mũi họng cấp tính, Viêm họng cấp tính, Nhiễm trùng khoang cổ sâu; TL-0129; TL-0242; TL-0015.",
+  "Mâu thuẫn áp dụng từ sổ: viêm họng trẻ > 3 tuổi không có test liên cầu; liều/thời gian amoxicillin (HH-0466); ban muộn sau amoxicillin (HH-0479); azithromycin 3 ngày (HH-0557); benzathine; corticoid, aspirin h, trần paracetamol.",
+  "Không dùng ảnh da: SCIN nhãn \"Drug Rash\" chỉ có tổn thương đơn độc ở chân người lớn, không khớp ban lan thân ở trẻ; ban do điều dưỡng Linh mô tả bằng chữ.",
+  "Thiếu tài liệu đã tải: số liệu thấp tim Việt Nam hiện nay; khít hàm, lệch lưỡi gà của áp xe quanh amidan; tính ngày khi đổi kháng sinh; tiếp tục amoxicillin khi ban nhẹ; mô tả ban đỏ liên cầu; số giờ nghỉ học; số ngày hẹn tái khám; liều kháng histamin cho ban do thuốc; ngưỡng CRP/bạch cầu phân biệt GAS với virus; benzathine penicillin G có sẵn tại phòng khám hay không."
+ ]
+}

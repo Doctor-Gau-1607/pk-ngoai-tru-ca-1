@@ -1,0 +1,596 @@
+{
+ "ma_ca": "MT-0043",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_tha_nguyen_phat",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Sai lầm của người đi trước",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Sợ mắc lao"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Văn Tư",
+  "tuoi": 54,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa, nuôi vịt",
+  "can_nang": 62,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tui', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Giọng Nam Bộ, trầm, chân chất, ít nói, tin lời thầy thuốc nhưng sợ thuốc chậm tác dụng nên tự uống gấp đôi. Vụ gặt đang gấp nên chỉ muốn lấy thuốc rồi về. Giấu nỗi sợ mắc lao vì sợ bị cách ly, mất ruộng, lây vợ con.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: nói 'uống đúng toa' dù đã uống gấp đôi. Chỉ nói thật khi bác sĩ xem vỏ vỉ, hỏi mỗi ngày mấy viên hoặc sao vỉ 10 viên hết sau 5 ngày. Mở đầu chỉ nhắc 'ho chút xíu', nỗi sợ lao chỉ lộ ra khi được hỏi điều gì làm bác lo nhất.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b98560",
+   "toc": "#2b2622",
+   "kieuToc": "ngan",
+   "ao": "#6b7550",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "so"
+  }
+ },
+ "ly_do_kham": "Xin thêm thuốc huyết áp, ho khò khè mấy hôm nay",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (19 giờ 20 tối thứ Sáu), không có kỹ thuật viên: phòng khám không làm được xét nghiệm máu, nước tiểu gửi phòng xét nghiệm, đờm, X-quang, siêu âm (kể cả creatinin, kali, mỡ máu, công thức máu). Phòng xét nghiệm mở lại 7 giờ sáng mai, kết quả máu sau khoảng 3 giờ. Còn dùng được: huyết áp kế, ống nghe, đèn soi đáy mắt, máy đo SpO₂, lưu lượng đỉnh kế, bình xịt salbutamol kèm buồng đệm, máy điện tim 12 chuyển đạo (điều dưỡng Linh làm), máy đo đường huyết mao mạch, que thử nước tiểu, máy đo HA lưu động 24 giờ (đọc sau 24 giờ). Quyết định tối nay phải đưa ra trước khi có kết quả máu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Phạm Văn Tư, 54 tuổi, nông dân, tự chạy xe máy đến phòng khám lúc 19 giờ 20 tối thứ Sáu, sau giờ hành chính, kỹ thuật viên xét nghiệm đã về. Ông cầm một vỏ vỉ thuốc đã hết và tờ giấy khám 5 ngày trước, xin thêm thuốc huyết áp, nhân tiện có ho, khò khè mấy hôm nay. Sinh hiệu lúc tiếp đón: HA 172/104 mmHg, mạch 58 l/p, nhiệt độ 36,8 °C, nhịp thở 22 l/p, SpO₂ 95%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Ông Tư được gọi 115 chuyển cấp cứu như một cơn tăng huyết áp, trong khi HA đo đúng cách chỉ 164–168/98–102 mmHg, không đau ngực hay lưng xé, không dấu thần kinh, ECG không thiếu máu: chưa đủ tiêu chuẩn cấp cứu (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1). Ông bị đưa đi giữa đêm, có nguy cơ bị hạ áp mạnh bằng thuốc tiêm mà AHA/ACC 2025 mục 6.2 không khuyến cáo, mất một ngày công vụ gặt, và nỗi sợ lao vẫn chưa ai hỏi tới.",
+    "nhap_vien": "Ông Tư nhập viện huyện qua đêm với chẩn đoán THA nặng kèm lên cơn suyễn. Cơn khò khè nhẹ–trung bình này đã đáp ứng 4 nhát salbutamol (LLĐ 67% lên 82%, SpO₂ 97%), đủ tiêu chuẩn cho về (QĐ 1851/2020 Bảng 9). Ông tốn viện phí, nghỉ hai ba ngày gặt lúa, nằm giữa phòng bệnh nặng khiến càng tin mình mắc bệnh nặng, và vẫn có thể ra viện với đơn atenolol cũ vì chưa ai hỏi vỉ thuốc.",
+    "chuyen_tuyen": "Ông Tư nhận giấy chuyển bệnh viện tỉnh với chẩn đoán 'THA kháng trị, nghi thứ phát' vì uống atenolol mà HA chưa xuống. Kháng trị chỉ nghĩ tới khi không đạt mục tiêu dù đủ ≥ 3 thuốc có ít nhất 1 lợi tiểu (QĐ 5904 Phần 1 Bước 4 mục A.3); ông mới dùng một thuốc 5 ngày lại tự nâng liều, và không có chỉ điểm thứ phát (VSH/VNHA 2024 Bảng 9). Chuyến đi xa tốn kém, làm xét nghiệm aldosteron không cần thiết, trong lúc nguyên nhân thật là atenolol trên nền hen chưa được ngưng."
+   },
+   "loi_mo": "Chào bác sĩ. Thuốc huyết áp tui uống hết rồi, bác sĩ cho tui lấy thêm vài vỉ. Mấy bữa nay tui cũng ho khò khè chút xíu thôi, chắc không sao đâu.",
+   "sinh_hieu": {
+    "mach": 58,
+    "ha": "172/104",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 95,
+    "canh_bao": [
+     "ha",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến xin thêm thuốc huyết áp vì vỉ thuốc phát 5 ngày trước đã hết. Mấy hôm nay có ho và khò khè nhẹ, ông nghĩ chắc không sao.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám: xin tiếp thuốc huyết áp, ho khò khè"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Năm ngày trước, đang vụ gặt, ông khiêng khoảng 30 bao lúa 50 kg lên xe thì nặng đầu, nhức gáy, mặt nóng bừng, tim đập mạnh. Nghỉ chừng một giờ thì đỡ bớt, còn nặng đầu nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: khiêng vật nặng"
+    },
+    {
+     "id": "nguoi_di_truoc",
+     "noi_dung": "Chiều hôm đó ông chạy xe ra phòng khám tư gần chợ. Người khám đo huyết áp một lần, ngay lúc ông vừa tới, được 186/112 và nói là cơn tăng huyết áp. Ông được phát một vỉ 10 viên atenolol 50 mg, dặn mỗi sáng một viên, kèm tờ giấy ghi 'THA, atenolol 50 mg'. Không có xét nghiệm, không hẹn tái khám, không hỏi chuyện bệnh khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lần khám trước: số HA đo ngay sau gắng sức, thuốc đã kê"
+    },
+    {
+     "id": "tu_uong",
+     "noi_dung": "Sợ huyết áp không xuống, ông tự uống 2 viên atenolol mỗi sáng thay vì 1 viên. Năm ngày thì vỉ hết sạch. Ông vẫn tin là mình 'uống đúng toa'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc đủ không' thì đáp 'uống đúng toa, sáng nào cũng uống'. Chỉ nói thật khi bác sĩ xem vỏ vỉ, hỏi mỗi ngày uống mấy viên, hoặc hỏi vỉ 10 viên sao hết sau 5 ngày.",
+     "k": 1,
+     "y": "Thuốc tự dùng: atenolol 100 mg/ngày trong 5 ngày"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Ông bị suyễn từ nhỏ, mỗi tháng lên cơn một hai lần, hít 1–2 nhát ống budesonid–formoterol 160/4,5 mcg (Symbicort) mua ở nhà thuốc huyện là đỡ. Chưa nhập viện vì suyễn bao giờ. Ông không kể cho người khám trước vì nghĩ suyễn không liên quan huyết áp, họ cũng không hỏi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử hen và thuốc xịt đang dùng"
+    },
+    {
+     "id": "kho_khe",
+     "noi_dung": "Từ ngày thứ hai sau khi uống thuốc, ông ho khan từng cơn và khò khè, đêm nằm khó ngủ. Mấy ngày nay phải hít ống hít 4–5 lần mỗi ngày, mỗi lần chỉ đỡ chút ít, trong khi trước đây vài ngày mới hít một lần. Nói được cả câu dài, không phải ngồi chồm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khò khè xuất hiện sau thuốc, dùng ống hít nhiều lần"
+    },
+    {
+     "id": "lao_tc",
+     "noi_dung": "Không sốt, không ra mồ hôi đêm, cân nặng vẫn 62 kg như năm ngoái, ăn uống bình thường. Ho khan ít đờm trắng khoảng 4 ngày nay, không ho ra máu, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng nghi lao"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông Sáu, bạn nhậu xóm bên, tháng trước được chẩn đoán lao phổi, ho ra máu. Nghe tiếng khò khè của mình, ông sợ mình cũng mắc lao, sợ bị cách ly, bỏ ruộng, lây cho vợ con. Ông chưa dám kể với ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm bác lo nhất, bác nghĩ mình bị bệnh gì, hoặc vì sao tối nay mới đi khám. Mở đầu chỉ nói 'ho chút xíu thôi'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ mắc lao"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Ông ngồi chung mâm nhậu với ông Sáu ba bốn buổi trong tháng trước khi ông Sáu được chẩn đoán. Không ở chung nhà, không ngủ chung, không làm chung chỗ. Ông Sáu đang uống thuốc lao ở trạm y tế xã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ tiếp xúc nguồn lây"
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Còn nặng đầu vùng gáy nhẹ, nhất là buổi sáng. Không đau đầu dữ dội, không nhìn mờ, không nôn, không chóng mặt nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đầu, nhìn mờ (tổn thương cơ quan đích cấp)"
+    },
+    {
+     "id": "nguc_lung",
+     "noi_dung": "Không đau ngực, không đau lưng kiểu xé, không đau bụng, không vã mồ hôi, không ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc đau ngực, đau lưng (hội chứng vành, bóc tách động mạch chủ)"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Chưa lần nào yếu tê tay chân, méo miệng, nói khó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Khám sức khỏe ở xã năm ngoái được báo huyết áp 150/92, hơi cao, dặn ăn nhạt. Ông không đi đo lại, chưa uống thuốc huyết áp nào trước lần này.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử số HA cao trước đó"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Không có từng cơn hồi hộp, vã mồ hôi, đau đầu. Không yếu cơ, chuột rút, không khát nhiều. Không ngáy to hay ngưng thở khi ngủ, không phù, không tiểu bọt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc gợi ý THA thứ phát"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Ngoài atenolol và ống hít, ông không uống thuốc giảm đau, thuốc nam, thuốc bổ, cam thảo hay thuốc cảm nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc, chất làm tăng HA"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Rượu đế mỗi chiều 3–4 chén nhỏ, khoảng 5–6 ngày mỗi tuần, đã nhiều năm. Không hút thuốc lá, thuốc lào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu, thuốc lá"
+    },
+    {
+     "id": "muoi",
+     "noi_dung": "Ăn mặn: kho quẹt, mắm, cá khô, dưa mắm là món quen, nấu nêm đậm, thích chấm muối ớt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn mặn"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Làm ruộng hai mẫu lúa, nuôi vịt. Vụ gặt ngày khiêng 30–40 bao lúa nặng 50 kg, bụi rơm nhiều. Phải làm cho kịp vụ nên muốn về sớm.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Cha mất vì đột quỵ năm 63 tuổi. Mẹ cũng bị suyễn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Chưa thử đường, mỡ máu bao giờ. Không biết có bệnh thận hay bệnh tim.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Sau khi ngồi nghỉ 10 phút, bao đo vừa cánh tay: tay phải 168/102, tay trái 166/100 mmHg; đo lại sau 2 phút: 166/100 và 164/98 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, ngồi thẳng, nói được câu dài, không dùng cơ hô hấp phụ, không tím. Cân nặng 62 kg, cao 163 cm.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tĩnh mạch cổ không nổi. Tuyến giáp không to.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp nhẹ. Không xuất huyết, không xuất tiết, không phù gai thị.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 58 l/p. T1, T2 rõ, không T3, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 58 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Ran rít lan tỏa hai phế trường, nhiều ở thì thở ra. Không ran ẩm, không ran nổ. Nhịp thở 22 l/p, không co kéo cơ hô hấp phụ.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, thở hơi nhanh, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít lan tỏa, nhiều ở thì thở ra."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít lan tỏa, nhiều ở thì thở ra."
+      }
+     ]
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mạch bẹn, mạch mu chân đều và rõ hai bên. Không âm thổi động mạch cảnh, không âm thổi cạnh rốn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không khối đập, không âm thổi cạnh rốn, không sờ thấy thận to.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt, không liệt khu trú, không méo miệng, nói rõ. Sức cơ 5/5 bốn chi.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang chậm 58 l/p, PR 0,18 giây, không block nhĩ thất. Sokolow-Lyon 26 mm. Không ST chênh, không sóng Q, không sóng T đảo.",
+     "ab": 1,
+     "n": "Nhịp chậm do atenolol, chưa dưới 55 l/phút (QĐ 5904 Phần 3 mục G chống chỉ định atenolol khi mạch dưới 55 l/phút). Không dấu thiếu máu cơ tim; không dày thất trái (ngưỡng Sokolow-Lyon > 35 mm, VSH/VNHA 2024 Bảng 11)."
+    },
+    "pef": {
+     "v": "e",
+     "r": "Lúc đến: 380 L/phút, khoảng 67% giá trị dự đoán (nam 55 tuổi, cao 160–168 cm: 565–575 L/phút). Sau 4 nhát salbutamol 15 phút: 470 L/phút, khoảng 82%, tăng khoảng 24%.",
+     "ab": 1,
+     "n": "Giá trị dự đoán theo QĐ 5904 Phụ lục 5.1. LLĐ tăng > 20% sau salbutamol là test hồi phục dương tính (QĐ 5904 Phần 5 Bước 2 mục 7), phù hợp hen. Mức nhẹ–trung bình: LLĐ > 50% dự đoán (QĐ 1851/2020 Bảng 9)."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Protein âm tính, glucose âm tính, hồng cầu âm tính, nitrit âm tính."
+    },
+    "holter_ha": {
+     "v": "a",
+     "r": "Kết quả đọc sau 24 giờ: HA trung bình 24 giờ 158/97 mmHg, HA ban đêm giảm 10% so với ban ngày.",
+     "ab": 1,
+     "n": "Không bắt buộc: HA phòng khám nhiều lần ≥ 160/100 mmHg, có thể xác nhận bằng HA tại nhà 3–7 ngày (VSH/VNHA 2024 Đ1.2.2, Bảng 8)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,0 mmol/L · Creatinin 78 µmol/L · eGFR 90 mL/ph/1,73m² (kết quả sáng mai, minh họa của người viết)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 140 · K 3,9 · Cl 103 mmol/L (kết quả sáng mai, minh họa của người viết).",
+     "n": "K bình thường, không có gợi ý THA thứ phát (VSH/VNHA 2024 Đ2.4, Bảng 9)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose đói 5,3 mmol/L (kết quả sáng mai, minh họa của người viết)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 5,4 · LDL-C 3,3 · HDL-C 1,1 · TG 1,9 mmol/L (kết quả sáng mai, minh họa của người viết).",
+     "ab": 1
+    },
+    "uacr": {
+     "v": "u",
+     "r": "UACR 14 mg/g (kết quả sáng mai, minh họa của người viết).",
+     "n": "Dưới 30 mg/g: chưa có albumin niệu (VSH/VNHA 2024 Bảng 11)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Kết quả nếu làm ở nơi có X-quang: hai phế trường sáng, không thâm nhiễm, không hang, không tràn dịch; bóng tim bình thường.",
+     "n": "Không bắt buộc: chưa có triệu chứng nghi lao (ho dưới 2 tuần, không sốt, sụt cân, mồ hôi đêm, ho ra máu; QĐ 162/2024 mục 1.1 Bảng 1). Làm theo yêu cầu để trấn an không bị trừ điểm; X-quang bị khóa tối nay."
+    },
+    "xpert": {
+     "n": "Chưa có chỉ định: ho khan 4 ngày, không có đờm, chưa đủ tiêu chuẩn nghi lao (QĐ 162/2024 mục 1.1 Bảng 1). Làm xét nghiệm đờm khi ho kéo dài trên 2 tuần."
+    },
+    "trop": {
+     "n": "Không đau ngực, ECG không thiếu máu cơ tim: không cần troponin tối nay."
+    },
+    "echo": {
+     "n": "Không có chỉ định tối nay; ECG không dày thất trái, không dấu suy tim."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Chưa có kết quả tối nay (xét nghiệm bị khóa).",
+     "n": "Không bắt buộc: ESC 2024 Bảng khuyến cáo 13 (IIa, B) chỉ cân nhắc cho người THA đã xác nhận; ông đang dùng chẹn beta làm dương tính giả (ESC 2024 Bảng 12). Làm hay không đều chấp nhận."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2, mới được phát hiện, chưa có tổn thương cơ quan đích cấp (xác nhận thêm bằng HA tại nhà)",
+     "ok": 1,
+     "n": "HA đo đúng cách sau nghỉ 164–168/98–102 mmHg khi đang dùng atenolol: độ 2 là 160–179/100–109 (QĐ 5904 Phần 1 Bước 3A). Năm ngoái đã có 150/92. Chẩn đoán xác định cần HA nhà ≥ 135/85 (VSH/VNHA 2024 Hình 10). Không có gợi ý thứ phát."
+    },
+    {
+     "t": "Khò khè, đợt cấp hen nhẹ–trung bình do chẹn beta (atenolol) ở người có hen phế quản",
+     "ok": 1,
+     "n": "Khò khè bắt đầu ngày thứ hai sau thuốc, ran rít lan tỏa, LLĐ 67% rồi 82% sau salbutamol; chẹn beta có thể gây co thắt phế quản (GINA 2026 mục 3 tr. 66–67). Cùng lúc ông tự nâng liều lên gấp đôi."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Phát hiện lúc 54 tuổi (sàng lọc chủ yếu khi chẩn đoán trước 40 tuổi, VSH/VNHA 2024 Đ2.4), không cơn hồi hộp vã mồ hôi, không yếu cơ, không âm thổi bụng, không ngáy ngưng thở, không thuốc hay chất làm tăng HA (VSH/VNHA 2024 Bảng 9). Chưa kháng trị. Nghĩ lại nếu hạ kali hoặc HA không đạt mục tiêu dù đủ ba thuốc."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA 168/102 dưới 180/110 và không có tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1). Số 186/112 lần trước chỉ đo một lần ngay sau khiêng bao và chạy xe."
+    },
+    {
+     "t": "Bóc tách động mạch chủ, hội chứng vành cấp, đột quỵ",
+     "n": "Khiêng nặng rồi nhức gáy làm phải nghĩ tới, nhưng không đau ngực hay lưng xé, hai tay không chênh, mạch hai bên đều, không dấu thần kinh, ECG không thiếu máu (ESC 2024 mục 10.1.1)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho khan khoảng 4 ngày (chưa tới 2 tuần), không sốt, sụt cân, mồ hôi đêm, ho ra máu (QĐ 162/2024 mục 1.1 Bảng 1); ngồi nhậu chung vài buổi chưa phải người tiếp xúc (mục 1.5). Khò khè đã được giải thích bằng hen và atenolol. Nghĩ lại nếu ho kéo dài trên 2 tuần."
+    },
+    {
+     "t": "THA áo choàng trắng hoặc HA tăng thoáng qua sau gắng sức",
+     "n": "HA cao ở nhiều lần đo đúng cách và đã có số 150/92 năm ngoái; vẫn xác nhận bằng HA tại nhà (VSH/VNHA 2024 Hình 10)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Dựng lại từ đầu, không nhận số 186/112 đo sau khiêng bao: cho nghỉ ngồi 5–10 phút rồi đo đúng quy trình ở cả hai tay, ít nhất hai lần",
+     "v": "c",
+     "n": "QĐ 5904 Phụ lục 1.1 mục 1 (nghỉ 5–10 phút, không dùng chất kích thích 2 giờ trước đo), mục 6 (đo ít nhất hai lần cách 1–2 phút; chưa từng đo thì đo cả hai tay)."
+    },
+    {
+     "t": "Hỏi kỹ thuốc đã dùng: xem vỏ vỉ, tên, hàm lượng, số viên mỗi ngày, số ngày, còn bao nhiêu viên; hỏi bệnh mạn tính và ống hít đang dùng",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Bảng 9 (thuốc đã dùng, tuân thủ, thuốc làm tăng HA); QĐ 5904 Phần 1 Bước 1 mục 3; GINA 2026 mục 3 tr. 66–67 (Evidence D): luôn hỏi người hen về mọi thuốc đang dùng. Kết quả: atenolol 50 mg, tự uống 2 viên/ngày × 5 ngày; có hen."
+    },
+    {
+     "t": "Loại trừ cờ đỏ bằng hỏi và khám: đau ngực, đau lưng xé, đau đầu dữ dội, nhìn mờ, yếu liệt; HA hai tay, mạch hai bên, thần kinh, đáy mắt, điện tim; kết luận chưa có tổn thương cơ quan đích cấp",
+     "v": "c",
+     "n": "ESC 2024 mục 10.1.1: cấp cứu THA là HA ≥ 180/110 kèm tổn thương cơ quan đích cấp (đau ngực, rối loạn thị giác, khó thở, dấu thần kinh, bóc tách động mạch chủ, thiếu máu cơ tim). QĐ 5904 Phần 3 mục D.1: chuyển khẩn khi ≥ 200/120 hoặc ≥ 180/110 kèm các biểu hiện đó. Ngoài giờ nên đây là toàn bộ dữ kiện có tối nay."
+    },
+    {
+     "t": "Ngưng atenolol (ông có hen, khò khè xuất hiện sau thuốc, không có chỉ định bắt buộc dùng chẹn beta): ngưng ngay HOẶC giảm dần trong vài ngày, thay bằng thuốc khác, dặn theo dõi mạch, HA, hồi hộp, đau ngực",
+     "v": "c",
+     "n": "Ngưng ngay: QĐ 5904 Phần 3 mục G (atenolol chống chỉ định khi hen cấp tính, mạch < 55 l/phút; tránh làm thuốc đầu tay ở người > 60 tuổi); ESH 2023 mục 20.3 (nên tránh chẹn beta để hạ áp ở người hen); ESC 2024 Bảng khuyến cáo 16 và AHA/ACC 2025 Bảng 13 (chẹn beta chỉ khi có chỉ định bắt buộc như mạch vành, suy tim). Giảm dần: AHA/ACC 2025 Bảng 13 ghi tránh ngưng đột ngột. Hai nguồn không loại nhau: ngưng đột ngột sau 5 ngày ở người không bệnh mạch vành, tài liệu đã tải không nêu nguy cơ riêng. ESC 2024 mục 8.5.3 cho dùng chẹn beta chọn lọc liều thấp ở hen mạn khi có chỉ định, ông không có."
+    },
+    {
+     "t": "Xử trí khò khè: salbutamol xịt 4–6 nhát (từng nhát, qua buồng đệm), tối đa 3 lần cách 20–30 phút, HOẶC 4–10 nhát mỗi 20 phút trong 1 giờ; đo lại LLĐ, SpO₂",
+     "v": "c",
+     "n": "GINA 2026 mục 9 (Box 9-4, tr. 180–181): SABA 4–6 nhát, tối đa 3 lần cách 20–30 phút; QĐ 1851/2020 mục 4.4, Bảng 9: SABA 4–10 nhát qua pMDI + buồng đệm, lặp lại mỗi 20 phút trong 1 giờ. Nhịp thở tăng, SpO₂ 90–95%, LLĐ > 50% là mức nhẹ–trung bình (QĐ 1851 Bảng 9). Chọn đầu thấp vì mạch 58 do atenolol không phản ánh mức nặng (nhận định của ca)."
+    },
+    {
+     "t": "Chỉ cho về khi đáp ứng tốt sau ít nhất 1–2 giờ theo dõi: triệu chứng đỡ, không cần thêm salbutamol, LLĐ > 70% dự đoán (GINA) hoặc > 60–80% (QĐ 1851), SpO₂ ≥ 92% hoặc > 94%, ở nhà đủ điều kiện",
+     "v": "c",
+     "n": "GINA 2026 Box 9-4 (tr. 181); QĐ 1851/2020 Bảng 9 (tr. 51). Ông sau xịt: LLĐ 82%, SpO₂ 97%, nói câu dài; số thận trọng hơn là SpO₂ > 94% và LLĐ > 80%, ông đều đạt. Dưới ngưỡng thì xịt thêm hoặc chuyển cơ sở cấp cứu (QĐ 1851 mục 4.4)."
+    },
+    {
+     "t": "Khởi amlodipin 5 mg mỗi sáng làm thuốc hạ áp duy nhất tối nay (chưa có creatinin, kali), rồi nâng bậc sau khi có kết quả: thêm chẹn thụ thể angiotensin (ARB), ưu tiên hơn ức chế men chuyển vì ông có hen và đang ho",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục G: amlodipin khởi đầu 5 mg, duy trì 5–10 mg; ARB ít gây ho hơn ức chế men chuyển nên dùng thay khi ho nhiều. ESH 2023 mục 20.3: ở người hen chẹn kênh canxi phù hợp, ARB ưu tiên hơn ức chế men chuyển vì ho. Thiếu xét nghiệm nền thì đơn trị rồi nâng bậc là c (sổ MT-0166)."
+    },
+    {
+     "t": "Phối hợp ngay amlodipin + ARB liều thấp tối nay",
+     "v": "a",
+     "n": "QĐ 5904 Phần 1 mục C: THA độ 2 bắt đầu từ phối hợp 2 thuốc; VSH/VNHA 2024 Bảng 4 (I, A); ESC 2024 Bảng khuyến cáo 16 (I, B). Chưa có creatinin, kali nên chấp nhận (sổ MT-0166). Losartan khởi 25 mg (QĐ 5904 Phần 3 mục G) hoặc 50 mg (sơ đồ Phần 1 mục C)."
+    },
+    {
+     "t": "Chưa kê thuốc hạ áp mới, đo HA tại nhà 3–7 ngày rồi quyết định",
+     "v": "a",
+     "n": "ESC 2024 Bảng khuyến cáo 6 (I, C): xác nhận ngoài phòng khám trong vòng 1 tháng khi 160–179/100–109. Nhưng đang bỏ atenolol, QĐ 5904 Phần 1 Bước 5 mục A.5 và VSH/VNHA 2024 Bảng 4 khởi thuốc ngay. Không nguồn nào nói chờ là có hại (sổ MT-0181)."
+    },
+    {
+     "t": "Không hạ áp nhanh: chỉnh thuốc uống, theo dõi ngoại trú",
+     "v": "c",
+     "n": "AHA/ACC 2025 mục 6.2: THA nặng không có tổn thương cơ quan đích cấp thì không dùng thuốc tiêm hay hạ áp mạnh; ESC 2024 mục 10.1.1."
+    },
+    {
+     "t": "Hẹn lấy máu, nước tiểu sáng mai: creatinin, eGFR, kali, glucose đói, mỡ máu, UACR, công thức máu; hướng dẫn đo HA tại nhà bằng máy bắp tay 3–7 ngày, ghi sổ",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 4–10 (xét nghiệm cơ bản); VSH/VNHA 2024 Bảng 10, Đ1.2.2 (3–7 ngày, sáng–tối, mỗi lần đo 2 lần cách 1–2 phút); ESC 2024 Bảng khuyến cáo 35 (I, B). Cần creatinin, kali trước khi thêm ARB (QĐ 5904 Phần 3 mục G)."
+    },
+    {
+     "t": "Hẹn tái khám trong 2–7 ngày (theo dõi hen và HA, mang sổ HA, kết quả máu, ống hít), rồi 2–4 tuần/lần trong 2–3 tháng đầu",
+     "v": "c",
+     "n": "QĐ 1851/2020 Bảng 9 và mục 4.4: hẹn khám lại trong 2–7 ngày sau đợt cấp; VSH/VNHA 2024 Đ4.1: 2–4 tuần/lần trong 2–3 tháng đầu; QĐ 5904 Phần 1 Bước 2: theo dõi sát trong tháng đầu khi đổi phác đồ. Mục tiêu HA: 120–< 130/70–< 80 (QĐ 5904 Phần 1 Bước 5 mục A.2, < 65 tuổi), < 130/80 (VSH/VNHA 2024 Bảng 4), tâm thu 120–129 (ESC 2024 Bảng khuyến cáo 18)."
+    },
+    {
+     "t": "Trả lời nỗi lo thật: hỏi ra nỗi sợ lao, giải thích ho mới 4 ngày, không sốt sụt cân, khò khè do hen và atenolol; ngồi nhậu chung chưa phải người tiếp xúc; dặn ho trên 2 tuần thì làm xét nghiệm đờm, X-quang",
+     "v": "c",
+     "n": "QĐ 162/2024 (TL-0123) mục 1.1 Bảng 1: ho kéo dài trên 2 tuần là triệu chứng nghi lao quan trọng nhất, cùng gầy sút, sốt nhẹ chiều, mồ hôi đêm; mục 1.5: người tiếp xúc là người sống cùng nhà hoặc làm việc cùng phòng, hoặc ngủ cùng nhà/phòng ≥ 1 đêm/tuần, hoặc ở cùng nhà/phòng ≥ 1 giờ/ngày liên tục 5 ngày/tuần, trong 3 tháng. Không trả lời nỗi sợ thì ông về vẫn lo và dễ bỏ thuốc."
+    },
+    {
+     "t": "Chụp X-quang ngực, làm xét nghiệm đờm sáng mai để trấn an",
+     "v": "a",
+     "n": "Chưa đủ tiêu chuẩn nghi lao (QĐ 162/2024 mục 1.1 Bảng 1) nên không bắt buộc; làm cũng không hại. X-quang tối nay bị khóa."
+    },
+    {
+     "t": "Lối sống theo nghề: rượu ≤ 2 chén/ngày và ≤ 10 chén/tuần, giảm muối còn khoảng 5 g/ngày (bớt mắm, cá khô, dưa mắm, muối ớt), tập thể lực vừa phải",
+     "v": "c",
+     "n": "Rượu: nam ≤ 2 đơn vị cồn/ngày, ≤ 10 đơn vị/tuần, 1 đơn vị tương đương 1 chén (QĐ 5904 Phần 3 mục F.6; Phần 1 mục D.1c); ESC 2024 Bảng khuyến cáo 15: dưới 14 đơn vị/tuần (khoảng 100 g cồn/tuần, thận trọng nhất); VSH/VNHA 2024 Đ3.7: < 200 g/tuần. Ông đang uống khoảng 15–24 chén/tuần. Muối: natri khoảng 2 g/ngày, tức khoảng 5 g muối (ESC 2024 Bảng khuyến cáo 15); QĐ 5904 Phần 3 mục F.1 (bớt mắm, dưa cà muối, cá muối)."
+    },
+    {
+     "t": "Dặn không tự tăng liều, không dùng thuốc của người khác, mang vỏ thuốc mỗi lần khám; dặn dấu hiệu quay lại hoặc gọi 115",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục D.2: không tự ý bỏ thuốc hoặc giảm liều (cùng ý, ngược chiều: không tự tăng); Phần 3 mục D.1 (đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú); Phần 5 Bước 5 mục B.1: kế hoạch hành động của người bệnh hen."
+    },
+    {
+     "t": "Kê prednisolon uống 40–50 mg/ngày trong 5–7 ngày",
+     "v": "a",
+     "n": "QĐ 1851/2020 mục 4.4: 1 mg/kg/ngày, tối đa 50 mg, 5–7 ngày; GINA 2026 Box 9-5: 40–50 mg/ngày, 5–7 ngày khi cho về sau đợt cấp. Đợt này nhẹ, do thuốc đã ngưng, LLĐ lên 82% sau 4 nhát salbutamol nên không kê cũng chấp nhận (sổ HH-1125, HH-1146)."
+    },
+    {
+     "t": "Tiếp tục atenolol 50 mg mỗi ngày, hoặc tăng liều vì HA còn 168/102",
+     "v": "w",
+     "n": "Ông có hen và khò khè sau thuốc: QĐ 5904 Phần 3 mục G (chống chỉ định hen cấp tính); ESH 2023 mục 20.3, Bảng 15; GINA 2026 mục 3 tr. 66. Không có chỉ định bắt buộc (ESC 2024 Bảng khuyến cáo 16; AHA/ACC 2025 Bảng 13). Chưa nên kết luận thuốc thất bại: mới 5 ngày."
+    },
+    {
+     "t": "Đổi sang chẹn beta khác (bisoprolol, metoprolol) vì 'chọn lọc hơn' để hạ áp",
+     "v": "w",
+     "n": "Vẫn không có chỉ định bắt buộc (ESC 2024 Bảng khuyến cáo 16, I, A; AHA/ACC 2025 Bảng 13: chẹn beta không dùng đầu tay trừ khi có bệnh mạch vành hoặc suy tim); ESH 2023 mục 20.3 nên tránh ở người hen. ESC 2024 mục 8.5.3 chỉ cho liều thấp khi có chỉ định."
+    },
+    {
+     "t": "Kết luận THA kháng trị hoặc THA thứ phát vì HA chưa xuống sau atenolol, rồi chuyển tuyến làm aldosteron, siêu âm thận",
+     "v": "w",
+     "n": "Kháng trị chỉ nghĩ tới khi không đạt mục tiêu dù đủ ≥ 3 thuốc có ít nhất 1 lợi tiểu (QĐ 5904 Phần 1 Bước 4 mục A.3); ông mới dùng 5 ngày một thuốc, lại tự nâng liều. Không có chỉ điểm thứ phát (VSH/VNHA 2024 Đ2.4, Bảng 9)."
+    },
+    {
+     "t": "Cho kháng sinh hoặc thuốc kháng lao thử vì ho khò khè và nỗi sợ lao",
+     "v": "w",
+     "n": "GINA 2026 Box 9-4 (tr. 181): không dùng kháng sinh thường quy trong đợt cấp hen khi không có bằng chứng nhiễm khuẩn phổi; QĐ 1851/2020 mục 4.4: kháng sinh chỉ khi căn nguyên là nhiễm khuẩn. Chẩn đoán lao dựa vào lâm sàng, hình ảnh, vi sinh (QĐ 162/2024 mục 3.2.1)."
+    },
+    {
+     "t": "Ngậm hoặc uống nifedipin tác dụng nhanh để hạ áp ngay, hoặc tiêm, truyền thuốc hạ áp",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát; AHA/ACC 2025 mục 6.2: THA nặng không tổn thương cơ quan đích cấp không dùng thuốc tiêm hạ áp mạnh."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện hoặc chuyển tuyến ngay trong đêm",
+     "v": "w",
+     "n": "Không đủ tiêu chuẩn: HA dưới 180/110 và không tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1); hen đáp ứng tốt tại chỗ (QĐ 1851/2020 Bảng 9; GINA 2026 Box 9-4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2 (HA đo đúng cách khoảng 164–168/98–102 mmHg khi đang dùng atenolol), mới phát hiện, cần xác nhận bằng HA tại nhà",
+     "Chưa có tổn thương cơ quan đích cấp (đáy mắt hẹp nhẹ, ECG không dày thất trái, không thiếu máu cơ tim); chưa có creatinin, kali, UACR do ngoài giờ",
+     "Đợt cấp hen nhẹ–trung bình do chẹn beta (atenolol) ở người có hen phế quản, ông tự uống gấp đôi liều trong 5 ngày",
+     "Không phải cơn THA cấp cứu, không bóc tách động mạch chủ, không hội chứng vành cấp, không đột quỵ",
+     "Chưa có chỉ điểm THA thứ phát; chưa đủ tiêu chuẩn nghi lao phổi",
+     "Yếu tố nguy cơ kèm: uống rượu đế quá mức, ăn mặn, cha mất vì đột quỵ lúc 63 tuổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Lần khám trước kết luận 'cơn tăng huyết áp' từ một số đo 186/112 mmHg lấy ngay sau khiêng bao lúa và chạy xe. Không kết luận ai đúng sai; dựng lại từ đầu như chưa ai khám: quy trình đo phải nghỉ 5–10 phút, đo ít nhất hai lần, đo cả hai tay lần đầu (QĐ 5904 Phụ lục 1.1 mục 1, 6).",
+     "Vì sao vẫn là THA: sau nghỉ HA 164–168/98–102 mmHg khi đang uống atenolol 100 mg/ngày, độ 2 là 160–179/100–109 (QĐ 5904 Phần 1 Bước 3A); năm ngoái đã 150/92. Chẩn đoán xác định cần HA nhà ≥ 135/85 mmHg hoặc HA 24 giờ ≥ 130/80 (VSH/VNHA 2024 Hình 10, Bảng 8), nên ca để ở mức 'theo dõi'.",
+     "Vì sao không phải cơn cấp cứu: cần HA ≥ 180/110 kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1); QĐ 5904 Phần 3 mục D.1: ≥ 200/120, hoặc ≥ 180/110 kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú. Ông 168/102, không có các biểu hiện đó. Khiêng nặng rồi nhức gáy buộc phải hỏi đau lưng xé, đo hai tay, bắt mạch hai bên: đều âm tính.",
+     "Vì sao khò khè là do thuốc: có hen từ nhỏ, khò khè bắt đầu ngày thứ hai sau atenolol, ran rít lan tỏa, LLĐ 380 L/phút (khoảng 67% dự đoán 565–575, QĐ 5904 Phụ lục 5.1) rồi 470 sau 4 nhát salbutamol (tăng > 20%, QĐ 5904 Phần 5 Bước 2 mục 7). Chẹn beta có thể gây co thắt phế quản (GINA 2026 mục 3 tr. 66–67). Mạch 58 l/p là tác dụng của thuốc, không nên dùng để đánh giá mức độ nặng của hen (nhận định của ca).",
+     "Bẫy neo vào chẩn đoán có sẵn: thấy 'đã uống atenolol mà HA vẫn 168/102' dễ nghĩ thuốc chưa đủ mạnh hoặc THA kháng trị rồi tăng liều, đổi chẹn beta, chuyển tuyến. Thực ra thuốc đầu tay sai (không chỉ định bắt buộc, hen) và mới 5 ngày. Kháng trị chỉ nghĩ tới khi dùng đủ ≥ 3 thuốc có lợi tiểu (QĐ 5904 Phần 1 Bước 4 mục A.3).",
+     "Vì sao chưa nghĩ lao: ho khan khoảng 4 ngày, ho kéo dài trên 2 tuần mới là triệu chứng nghi lao quan trọng nhất (QĐ 162/2024 mục 1.1 Bảng 1); không sốt, sụt cân, mồ hôi đêm. Ngồi chung mâm nhậu vài buổi không đủ định nghĩa người tiếp xúc (mục 1.5). Nỗi lo này là lý do thật ông đi khám tối nay.",
+     "Vì sao chưa nghĩ THA thứ phát: 54 tuổi, không có chỉ điểm ở VSH/VNHA 2024 Đ2.4 và Bảng 9; kali 3,9 mmol/L nếu làm. Salbutamol, formoterol dùng nhiều có thể tăng nhịp tim và HA (ESH 2023 mục 20.3), nên khi hết khò khè phải đo lại HA."
+    ],
+    "phan_tich_xu_tri": [
+     "Không cần cấp cứu, nhập viện hay chuyển tuyến: HA dưới 180/110, không tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1); hen nhẹ–trung bình đáp ứng salbutamol, đủ tiêu chuẩn cho về (QĐ 1851/2020 Bảng 9; GINA 2026 Box 9-4). Không nifedipin ngậm, không thuốc tiêm hạ áp (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2).",
+     "Xử trí khò khè: salbutamol xịt 4–6 nhát, tối đa 3 lần cách 20–30 phút (GINA 2026 Box 9-4) hoặc 4–10 nhát mỗi 20 phút trong 1 giờ (QĐ 1851/2020 Bảng 9); theo dõi 1–2 giờ rồi cho về khi LLĐ > 70% (GINA) hoặc > 60–80% (QĐ 1851), SpO₂ ≥ 92% hoặc > 94%. Ông đạt cả hai (LLĐ 82%, SpO₂ 97%). Prednisolon 40–50 mg × 5–7 ngày có thể kê hoặc không (QĐ 1851 mục 4.4; GINA 2026 Box 9-5).",
+     "Ngưng atenolol: chống chỉ định khi hen cấp tính (QĐ 5904 Phần 3 mục G), nên tránh chẹn beta hạ áp ở người hen (ESH 2023 mục 20.3), chỉ dùng khi có chỉ định bắt buộc (ESC 2024 Bảng khuyến cáo 16). Có thể ngưng ngay hoặc giảm dần vài ngày vì AHA/ACC 2025 Bảng 13 ghi tránh ngưng đột ngột; có amlodipin thay thế và dặn theo dõi mạch, hồi hộp, đau ngực.",
+     "Khởi amlodipin 5 mg (QĐ 5904 Phần 3 mục G), chưa thêm ARB tối nay vì chưa có creatinin, kali (sổ MT-0166); phối hợp ngay chấm a. Khi có kết quả sáng mai: ARB ưu tiên hơn ức chế men chuyển ở người hen vì ho (ESH 2023 mục 20.3; QĐ 5904 Phần 3 mục G); losartan 25 mg (Phần 3 mục G) hoặc 50 mg (sơ đồ Phần 1 mục C). Mục tiêu 120–< 130/70–< 80 (QĐ 5904 Phần 1 Bước 5 mục A.2) hoặc < 130/80 (VSH/VNHA 2024 Bảng 4), tâm thu 120–129 nếu dung nạp (ESC 2024 Bảng khuyến cáo 18).",
+     "Xét nghiệm sáng mai (creatinin, eGFR, kali, glucose đói, mỡ máu, UACR, công thức máu) theo QĐ 5904 Phần 1 Bước 2; HA tại nhà 3–7 ngày (VSH/VNHA 2024 Đ1.2.2; ESC 2024 Bảng khuyến cáo 35). Tái khám 2–7 ngày (QĐ 1851/2020 Bảng 9), rồi 2–4 tuần/lần trong 2–3 tháng đầu (VSH/VNHA 2024 Đ4.1).",
+     "Nỗi lo lao: hỏi ra thì giải thích số ngày ho, triệu chứng, mức tiếp xúc (QĐ 162/2024 mục 1.1 Bảng 1, mục 1.5); hẹn làm đờm và X-quang nếu ho quá 2 tuần. Không kê kháng sinh hay thuốc lao thử (GINA 2026 Box 9-4; QĐ 1851 mục 4.4).",
+     "Lối sống theo nghề: rượu đế khoảng 15–24 chén/tuần vượt giới hạn ≤ 10 đơn vị/tuần của QĐ 5904 Phần 3 mục F.6 (1 đơn vị = 1 chén), ESC 2024 thận trọng nhất (dưới khoảng 100 g/tuần); giảm muối còn khoảng 5 g/ngày (ESC 2024 Bảng khuyến cáo 15), bớt mắm, cá khô, dưa mắm (QĐ 5904 Phần 3 mục F.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi sáng, một giờ cố định",
+      "so_ngay": "Dùng lâu dài; cấp đủ đến buổi tái khám sau 2–7 ngày",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Thay atenolol, ông không uống chung. Sau khi có creatinin, kali, nếu HA nhà chưa đạt mục tiêu thì thêm ARB (losartan 25 mg theo QĐ 5904 Phần 3 mục G hoặc 50 mg theo sơ đồ Phần 1 mục C; telmisartan 40 mg)."
+     },
+     {
+      "thuoc": "Budesonid–formoterol (thuốc hít ông đang dùng)",
+      "ham_luong": "160/4,5 mcg mỗi nhát",
+      "lieu": "1–2 nhát khi có triệu chứng",
+      "duong": "Hít qua miệng",
+      "thoi_diem": "Khi khò khè, nặng ngực; súc miệng sau khi hít",
+      "so_ngay": "Dùng tiếp, hẹn đánh giá mức kiểm soát hen khi tái khám",
+      "ghi_chu": "Bậc 1: budesonid–formoterol 160/4,5 mcg hít 1–2 nhát khi có triệu chứng (QĐ 5904 Phần 5 Bước 5 mục A.3). Liều formoterol tối đa 72 mcg/ngày (QĐ 1851/2020 mục 4.3, Hình 74). Dùng nhiều lần mỗi ngày là dấu hiệu hen chưa ổn, phải đến khám. Salbutamol xịt 4–6 nhát đã dùng tại phòng khám, không kê mang về."
+     }
+    ],
+    "dan_do": [
+     "Ngưng atenolol, không uống thêm viên nào còn sót; không dùng thuốc của người khác, không tự tăng liều; mang vỏ thuốc mỗi lần khám (QĐ 5904 Phần 1 mục D.2).",
+     "Uống amlodipin mỗi sáng. Theo dõi mạch, hồi hộp, đau ngực trong vài ngày đầu sau khi bỏ atenolol; có thì đến ngay (AHA/ACC 2025 Bảng 13).",
+     "Đo HA tại nhà bằng máy bắp tay: ngồi nghỉ 5 phút, không rượu, thuốc lá, cà phê 2 giờ trước; sáng và tối trong 3–7 ngày, mỗi lần đo 2 lần cách 1–2 phút, ghi sổ (QĐ 5904 Phụ lục 1.1; VSH/VNHA 2024 Đ1.2.2). Không đo ngay sau khi khiêng vác.",
+     "Sáng mai 7 giờ đến lấy máu, nước tiểu: creatinin, kali, đường, mỡ máu, đạm niệu, công thức máu; tái khám sau 2–7 ngày (QĐ 1851/2020 Bảng 9).",
+     "Ho dưới 2 tuần, không sốt, không sụt cân thì chưa phải dấu hiệu lao. Ho quá 2 tuần, ho ra máu, sốt chiều, ra mồ hôi đêm, sụt cân thì đến khám làm đờm, X-quang (QĐ 162/2024 mục 1.1 Bảng 1).",
+     "Rượu đế tối đa 2 chén/ngày, không quá 10 chén/tuần, tốt nhất bớt dần (QĐ 5904 Phần 3 mục F.6); giảm muối còn khoảng 5 g/ngày: bớt mắm, cá khô, dưa mắm, muối ớt (ESC 2024 Bảng khuyến cáo 15; QĐ 5904 Phần 3 mục F.1). Không hút thuốc lá, thuốc lào.",
+     "Quay lại hoặc gọi 115 ngay nếu: khò khè nặng, nói từng cụm từ, phải hít ống hít liên tục mà không đỡ; đau ngực, đau lưng dữ dội, đau đầu dữ dội, nhìn mờ, yếu tê nửa người, méo miệng, nói khó (QĐ 1851/2020 mục 4.4; QĐ 5904 Phần 3 mục D.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Khò khè hết trong 2 ngày sau khi ngưng atenolol; ông không phải hít ống hít quá một lần mỗi ngày. Sáng hôm sau creatinin, kali bình thường. Sau 2 tuần HA nhà 136/84 mmHg với amlodipin 5 mg, thêm ARB ở lần tái khám để về dưới 130/80. Ông giảm rượu còn vài chén mỗi tuần, hết sợ lao khi nghe giải thích, và mang vỏ thuốc theo mỗi lần khám. Các quyết định đều đúng nên kết cục tốt.",
+ "nhieu": [
+  "Số HA 186/112 ở lần khám trước đo một lần ngay sau khiêng 30 bao lúa và chạy xe, không phản ánh HA nền; thêm vào đó HA 172/104 hôm nay đang chịu tác dụng của atenolol gấp đôi liều kê.",
+  "Tự uống atenolol 2 viên/ngày × 5 ngày: mạch 58 l/p che mất nhịp tim nhanh của hen, và là lý do vỉ hết sớm khiến ông đến xin thuốc.",
+  "Ông Sáu bị lao và ông ngồi chung mâm nhậu vài buổi: dữ kiện làm sợ nhưng chưa đủ định nghĩa người tiếp xúc (QĐ 162/2024 mục 1.5)."
+ ],
+ "bai_hoc_bien": [
+  "Sai lầm của người đi trước: đừng neo vào chẩn đoán và đơn thuốc có sẵn. Cầm vỏ vỉ, hỏi bệnh nền, đo lại đúng quy trình, như chưa ai khám, và nói về lần khám trước bằng giọng trung tính.",
+  "Hỏi thuốc kèm số viên và số ngày: 'uống đúng toa' không đủ. Thuốc tự dùng có thể là nguyên nhân của triệu chứng mới (khò khè sau chẹn beta ở người hen).",
+  "THA mà HA chưa xuống sau 5 ngày một thuốc không phải kháng trị. Chẹn beta không phải thuốc đầu tay, càng không ở người hen.",
+  "Ngoài giờ không có xét nghiệm: quyết định tối nay dựa vào lâm sàng, ECG, LLĐ, SpO₂; hẹn lấy máu sáng mai và chưa thêm ARB khi chưa có creatinin, kali.",
+  "Lý do thật đến khám là sợ lao: không hỏi 'điều gì làm bác lo nhất' thì ông về vẫn sợ. Trả lời bằng tiêu chuẩn cụ thể (ho trên 2 tuần, mức tiếp xúc) thay vì chỉ trấn an."
+ ],
+ "diem_nho": [
+  "HA phải đo sau nghỉ 5–10 phút, ít nhất hai lần; số đo ngay sau gắng sức không dùng để chẩn đoán (QĐ 5904 Phụ lục 1.1).",
+  "THA độ 2 là 160–179/100–109 mmHg (QĐ 5904 Phần 1 Bước 3A); cấp cứu cần ≥ 180/110 kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1).",
+  "Chẹn beta không dùng đầu tay khi không có chỉ định bắt buộc; ở người hen thì nên tránh (QĐ 5904 Phần 3 mục G; ESH 2023 mục 20.3; ESC 2024 Bảng khuyến cáo 16).",
+  "Người hen THA: ưu tiên chẹn kênh canxi, ARB hơn ức chế men chuyển vì ho (ESH 2023 mục 20.3; QĐ 5904 Phần 3 mục G).",
+  "Triệu chứng nghi lao phổi quan trọng nhất: ho kéo dài trên 2 tuần (QĐ 162/2024 mục 1.1 Bảng 1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 1, 2, 3A, 4 mục A.3, 5 mục A.2, A.5, mục C, D.1c, D.2); Phần 2 mục C; Phần 3 mục D.1, F.1, F.6, G; Phần 5 (Bước 2 mục 7, Bước 5 mục A.3, B.1); Phụ lục 1.1, 5.1.",
+  "VSH/VNHA 2024 – Chiến lược quản lý THA tại Việt Nam – TL-0288 – Bảng 4, 8, 9, 10, 11; Đ1.2.2; Hình 10; Đ2.4; Đ3.7; Đ4.1.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – mục 8.5.3, 10.1.1; Bảng khuyến cáo 6, 13, 15, 16, 18, 35; Bảng 12.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – mục 20.3; Bảng 15.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – Bảng 13; mục 6.2.",
+  "GINA 2026 – TL-0137 – mục 3 (tr. 66–67, Avoidance of medications that may make asthma worse); mục 9, Box 9-4, Box 9-5.",
+  "BYT – QĐ 1851/QĐ-BYT 2020, Hen phế quản người lớn và trẻ em ≥ 12 tuổi – TL-0127 – mục 4.3 (Hình 74), 4.4, Bảng 9.",
+  "BYT – QĐ 162/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – mục 1.1 (Bảng 1), 1.3, 1.5, 3.2.1."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-11-18)",
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-18. Tài liệu đã đọc: TL-0284 (Phần 1 Bước 1–5, Phần 3 mục D, F, G, Phụ lục 1.1, 3.2; Phần 5 hen), TL-0288 (Bảng 4, 8–11, Đ1.2.2, Đ2.4, Đ4.1), TL-0305 (mục 8.5.3, 10.1.1, Bảng 15, 16, 18, 35), TL-0312 (mục 20.3, Bảng 15), TL-0297 (Bảng 13, mục 6.2), TL-0137 (mục 3 tr. 66–67, Box 9-4, 9-5), TL-0127 (mục 4.3, 4.4, Bảng 9), TL-0123 (mục 1.1, 1.3, 1.5, 3.2.1).",
+  "Áp dụng mục sổ: MT-0166, MT-0181, MT-0058 (cấp cứu THA, losartan), HH-1113, HH-1125, MT-0129. Mục mới: chẹn beta ở người hen, ngưng chẹn beta (xem báo cáo).",
+  "Thiếu trong tài liệu đã tải: thời gian dùng tối thiểu của chẹn beta để có nguy cơ ngưng đột ngột; liều salbutamol riêng cho ngưỡng hen nhẹ ở người lớn (Box 9-4 là hình, dùng số trong sổ mâu thuẫn HH-1113); số QĐ lao 2024 (bản chữ ghi 'Số: /QĐ-BYT', dùng 162/2024 theo các ca đã xuất); hàm lượng viên phối hợp ARB + amlodipin tại Việt Nam; công cụ tính nguy cơ tim mạch (SCORE2, PREVENT) nên không phân tầng nguy cơ.",
+  "Kết quả xét nghiệm máu sáng mai là số minh họa của người viết, dùng theo cách MT-1226."
+ ]
+}

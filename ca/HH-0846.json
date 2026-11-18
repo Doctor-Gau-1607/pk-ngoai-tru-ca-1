@@ -1,0 +1,596 @@
+{
+ "ma_ca": "HH-0846",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn theo đặc tả sổ cái, soát nguồn với kho tài liệu (2026-11-18)",
+ "benh": "HH_viem_phoi_cong_dong",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phổi cộng đồng",
+  "chan_doan_phai_loai_tru": [
+   "Lao phổi",
+   "Thuyên tắc phổi"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Cơ đỏ ngụy trang",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Buôn bán nhỏ (bán vé số dạo)",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Bảy",
+  "tuoi": 83,
+  "gioi": "Nam",
+  "nghe": "Bán vé số dạo bằng xe đạp quanh chợ và các quán cà phê, khoảng 10 km mỗi ngày, hơn 40 năm",
+  "can_nang": 51,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi ông là 'ông' hoặc 'bác'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Chị Ngân gọi ông là 'ba', xưng 'con' với ba, xưng 'em' hoặc 'con' với bác sĩ.",
+  "tinh_cach": "Hiền, kiệm lời, nói nhỏ và chậm, hay cười trừ 'không sao đâu'. Bốn mươi năm chưa nghỉ bán vé số bữa nào, không muốn làm phiền con cháu. Thương nhất cháu nội Su (2 tuổi), ngày nào cũng bế, hôn, ngủ trưa chung giường. Chiều tối hơi lẫn; trong phòng khám tỉnh nhưng chậm, hay nhìn chị Ngân chờ chị nói.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Ngân giành trả lời mọi câu, kể cả câu hỏi dành cho ông ('ba có ho không?' – 'dạ ba ít ho thôi'), và luôn quy về 'ba già đuối sức'. Ông ngồi im, gật hoặc lắc đầu, thỉnh thoảng nói nhỏ 'ừ'. Chỉ khai thật khi bác sĩ hỏi thẳng ông bằng lời chậm, nhẹ, hoặc mời chị Ngân ra ngoài để hỏi riêng. Chuyện đêm khởi phát và nỗi lo lây cho cháu chỉ nói khi hỏi riêng.",
+  "nguoi_nha": "Con dâu, chị Ngân, 44 tuổi, may gia công tại nhà; chồng chị (anh Thiện, con trai ông) làm thợ xây ở tỉnh khác. Chị lo lắng, nói nhanh, hay chen ngang. Chị biết: ba mệt, ăn kém 4–5 ngày, ngủ nhiều, kêu đau lưng, chiều tối hay lẩm cẩm (hỏi 'hôm nay thứ mấy', thối tiền nhầm, đi nhầm cửa), hôm qua lần đầu nghỉ bán vé số. Chị tin ba 'già, đuối sức, thiếu chất', muốn xin thuốc bổ và truyền nước. Chị KHÔNG biết: ba uống paracetamol 8–10 viên mỗi ngày, ba run lạnh và hụt hơi cả đêm, chuyện đêm khởi phát, nỗi lo lây cho cháu. Khi hỏi chung, hoàn cảnh nhà, ai chăm ba, chị là người trả lời (nguoi_noi = nguoi_nha); hỏi thẳng ông thì ông trả lời nhỏ.",
+  "ten_nguoi_nha": "Chị Ngân (con dâu)",
+  "ngoai_hinh": {
+   "da": "#b98a63",
+   "toc": "#d9d6d0",
+   "kieuToc": "hoi",
+   "ao": "#8a8f7a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d1a07a",
+    "toc": "#241a14",
+    "kieuToc": "bui",
+    "ao": "#a0707f",
+    "aoKieu": "phong",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, ăn kém, ngủ nhiều mấy ngày, đau lưng (con dâu đưa đi, xin thuốc bổ)",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, ure, creatinin, điện giải đồ, đường huyết, AST/ALT, tổng phân tích nước tiểu) và điện tim. Không có X-quang, siêu âm, CT, nội soi; không làm được khí máu, D-dimer, troponin, procalcitonin, Xpert, cấy, định lượng paracetamol, INR. Có ống nghe, nhiệt kế, máy đo SpO₂, bình oxy, kháng sinh tiêm thông thường. Bệnh viện huyện (X-quang, xét nghiệm đầy đủ, oxy, kháng sinh tĩnh mạch) cách 14 km, đi ô tô khoảng 25 phút."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Lê Văn Bảy, 83 tuổi, bán vé số dạo, con dâu là chị Ngân đưa đến lúc 9 giờ sáng vì mệt, ăn kém, ngủ nhiều mấy ngày nay và kêu đau lưng. Sinh hiệu: nhiệt độ 37,4 °C, mạch 102 l/p, HA 118/66 mmHg, nhịp thở 28 l/p, SpO₂ 90% khí trời, cân nặng 51 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho ông Bảy về với thuốc bổ, truyền nước, hẹn tái khám là bỏ sót viêm phổi CURB-65 = 3 (lú lẫn mới, ure 10,2 mmol/L, tuổi ≥ 65; QĐ 2147/2026 mục 3.2.1: 3–5 điểm nội trú, tử vong 30 ngày khoảng 22%), SpO₂ 90% lúc nghỉ, hạ natri 129 mmol/L (Bảng 3.1); CRB-65 = 2 đã là chỉ định chuyển bệnh viện (NICE NG250 2025 khuyến cáo 1.2.3). Ở nhà ông vẫn uống paracetamol liều cao che sốt, chị Ngân vẫn cho là 'già lú', nên khi ông lơ mơ hoặc thở nhanh hơn thì phát hiện muộn; ban ngày chỉ có chị Ngân bận may gia công và bà Tư yếu bên cạnh.",
+    "theo_doi": "Giữ ông ở phòng khám truyền dịch, cho kháng sinh uống, đo lại sau vài giờ là mất thời gian quý: không có X-quang, D-dimer, troponin để xác nhận viêm phổi hay loại trừ thuyên tắc phổi, hội chứng vành (ESC 2019 mục 4.4; ESC 2023), không có kháng sinh tĩnh mạch liên tục cho người nhập viện (QĐ 2147 mục 5.2) và không đủ oxy dài hạn (mục 5.3.2). Một lần đo SpO₂ 92% sau nghỉ và nhiệt độ 37,4 °C lúc còn tác dụng paracetamol dễ làm cả nhà yên tâm sai; nếu ông xấu đi giữa buổi, chuyến đi 14 km diễn ra khi ông nặng hơn.",
+    "cap_cuu": "Gọi 115 chuyển thẳng bệnh viện tỉnh hay hồi sức là quá tay: ông chưa có tiêu chuẩn chính nào của ATS, mới 2/9 tiêu chuẩn phụ (lú lẫn, BUN ≥ 20 mg/dL), chưa đủ 3 để nhập khoa Điều trị tích cực (QĐ 2147 mục 3.2.3); bệnh viện huyện cách 14 km đã có X-quang, oxy, kháng sinh tĩnh mạch để nhập khoa Nội (mục 5.3.2.1). Đi xa 60 km khiến chị Ngân bỏ cháu nhỏ, tốn kém, gia đình hoảng sợ, có thể từ chối đi và liều kháng sinh đầu bị lùi lại."
+   },
+   "loi_mo": "Bác sĩ ơi, ba em mệt mấy bữa nay, ăn không vô, ngủ li bì, kêu đau lưng. Chắc ba già rồi đuối sức. Bác sĩ cho ba thuốc bổ với truyền chai nước giùm em.",
+   "sinh_hieu": {
+    "mach": 102,
+    "ha": "118/66",
+    "nhiet": "37,4",
+    "nhip_tho": 28,
+    "spo2": 90,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "(Chị Ngân kể) Ba mệt, ăn kém, ngủ nhiều 4–5 ngày nay, kêu đau lưng. Hôm qua lần đầu tiên nghỉ bán vé số. Chị xin thuốc bổ và truyền nước.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "cho_qua",
+     "noi_dung": "(Chị Ngân kể) Chị cho ba già, đuối sức, thiếu chất; thấy ba 'lẩm cẩm' chiều tối thì nghĩ tuổi già hay quên. Ba tự uống thuốc giảm đau 'cho đỡ đau lưng', chị không biết liều.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "ho_dom",
+     "noi_dung": "Ho khan từ 4 ngày trước; 2 ngày nay ho đờm vàng xanh, đặc, ho nhỏ giọng vì sợ ồn cháu ngủ. Đờm không lẫn máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chị Ngân đáp thay 'ba ít ho thôi'. Chỉ nói rõ khi hỏi thẳng ông có ho, khạc đờm, màu gì, hoặc hỏi riêng.",
+     "y": "Ho khạc đờm mủ"
+    },
+    {
+     "id": "run_lanh",
+     "noi_dung": "Đêm khởi phát run lạnh 'lập cập răng', đắp mền không hết, rồi nóng, vã mồ hôi. Mấy ngày sau mỗi cơn ớn lạnh ông uống 2 viên paracetamol là mát người, ra mồ hôi. Nhà không có nhiệt kế nên chưa ai đo.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'có sốt không' ông nói 'không sốt đâu'. Chỉ kể khi hỏi có ớn lạnh, run, ra mồ hôi, hoặc uống thuốc xong có đỡ không.",
+     "y": "Rét run, sốt bị thuốc hạ sốt che"
+    },
+    {
+     "id": "dau_lung",
+     "noi_dung": "Đau lưng bên PHẢI, vùng thấp sau xương sườn, từ 3 ngày trước, nhói tăng khi hít sâu hoặc ho, không tăng khi cúi, xoay người. Ông tưởng đau lưng cũ nên uống thêm paracetamol. Đau thắt lưng mạn kiểu cũ có nhiều năm nhưng khác, không nhói khi thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'đau lưng' chung thì chị Ngân nói 'lưng ba đau lâu rồi'. Chỉ nói khi hỏi đau tăng lúc nào: thở sâu, ho, xoay người, nằm nghiêng; hoặc đau khác đau cũ chỗ nào.",
+     "y": "Đau kiểu màng phổi núp dưới 'đau lưng'"
+    },
+    {
+     "id": "kho_tho",
+     "noi_dung": "Mấy hôm nay đi từ giường ra nhà vệ sinh (10 m) phải đứng thở; hôm kia dắt xe đạp lên dốc cầu phải dừng ba lần. Kê gối cao nằm dễ thở hơn. Không phù chân, không khò khè.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'có khó thở không' ông nói 'thở bình thường', chị nói 'ba đâu có than'. Chỉ thừa nhận khi hỏi theo việc: đi nhà vệ sinh, dắt xe, bế cháu, bán vé số có phải nghỉ không.",
+     "y": "Khó thở khi gắng sức nhẹ (hỏi theo chức năng)"
+    },
+    {
+     "id": "lu_lan",
+     "noi_dung": "Chiều tối 2 hôm nay ông hỏi 'hôm nay thứ mấy', gọi cháu Su bằng tên con trai, thối tiền sai ở quầy (thiếu 200 nghìn), đêm qua đi nhầm cửa nhà vệ sinh. Trước đây ông tự tính tiền, nhớ số vé không sai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chị Ngân kể khi hỏi tỉnh táo, trí nhớ, buổi chiều tối, hoặc ông có lẫn hơn tuần trước không.",
+     "y": "Lú lẫn mới (không phải già lú)"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Đau gối hai năm, uống paracetamol 500 mg 2–3 viên mỗi ngày mua ở tiệm thuốc. 3 tuần nay đau tăng, ông tự tăng lên 2 viên mỗi lần, 4–5 lần mỗi ngày (8–10 viên, 4–5 g). 4 ngày nay thêm 2 gói thuốc cảm tiệm thuốc (có paracetamol, hàm lượng ông không biết). Sáng nay 6 giờ uống 2 viên. Rượu chỉ ngày giỗ, tết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chị Ngân đáp 'ba uống thuốc đau lưng thôi'. Chỉ khai khi hỏi thẳng từng loại thuốc, một ngày bao nhiêu viên, bao lâu, thuốc cảm kèm, hoặc xin xem vỉ thuốc.",
+     "y": "Thuốc đang dùng: paracetamol liều cao kéo dài"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đêm cách đây 5 ngày ông gần bà Tư (lần đầu sau mấy tháng). Giữa chừng hụt hơi, tim đập mạnh, vã mồ hôi lạnh rồi run; nghỉ khoảng 15 phút đỡ. Không đau thắt ngực, không ngất, không đau lan tay, hàm. Từ đó mệt và ho. Ông tin mình 'hao sức vì chuyện đó', xấu hổ, không nói với con dâu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ mời chị Ngân ra ngoài hoặc hỏi riêng thật kín đáo: mệt bắt đầu đúng lúc nào, ngay trước đó đang làm gì. Ông ngập ngừng, nói rất nhỏ.",
+     "y": "Khởi phát sau quan hệ: phân biệt tim, thuyên tắc phổi; thực chất là rét run mở đầu viêm phổi"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau thắt ngực, ngất, đánh trống ngực kéo dài. Không phù chân, không khó thở khi nằm. Chưa từng được chẩn đoán cao huyết áp, tim, tiểu đường; nhiều năm không đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc bệnh tim mạch"
+    },
+    {
+     "id": "tdp_am",
+     "noi_dung": "Không sưng đau bắp chân, không nằm liệt giường (vẫn tự đi vệ sinh), không phẫu thuật, gãy xương, đi xe đường dài; không ung thư, chưa từng bị huyết khối. Không dùng nội tiết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc thuyên tắc phổi"
+    },
+    {
+     "id": "lao_am",
+     "noi_dung": "Không ho kéo dài trước đợt này, cân nặng vẫn 51–52 kg mấy tháng (tuần này ăn kém), không mồ hôi đêm kéo dài, không ai quanh nhà hay quán quen mắc lao, chưa điều trị lao. Hút thuốc lá trước đây khoảng 20 gói-năm, bỏ 20 năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lao phổi"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Mỗi ngày ăn nửa chén cháo, uống chừng 1 lít nước, tiểu ít, vàng sẫm, không buốt. Nuốt không sặc, uống thuốc viên được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, tiểu, khả năng uống thuốc"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc hay thức ăn. Ba tháng nay không dùng kháng sinh, không nằm viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc, kháng sinh gần đây"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "(Chị Ngân kể) Ông còn bà Tư (76 tuổi, yếu, chủ yếu trông cháu). Ban ngày chị may gia công ngay trong nhà, anh Thiện đi làm xa. Nhà cách bệnh viện huyện 14 km, có thể thuê ô tô. Có thẻ BHYT. Cháu Su (2 tuổi) ngủ trưa chung giường với ông bà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người chăm sóc, nơi ở, phương tiện chuyển"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông muốn khám để biết mình có 'bệnh lây' không, vì ông bế, hôn, ngủ trưa chung giường với cháu Su; người bán quầy kế bên mắc lao. Ông không dám nói vì sợ chị Ngân bắt cháu tránh xa ông, nên chỉ nói 'đi khám cho yên tâm'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi hỏi riêng ông lo điều gì nhất, sợ bệnh gì, vì sao hôm nay muốn đi khám. Ông nói rất nhỏ, nhìn ra cửa.",
+     "y": "Động cơ thật: sợ lây bệnh cho cháu nội"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh nhưng chậm, nói nhỏ, hay nhìn chị Ngân chờ trả lời. AMT (Abbreviated Mental Test) 6/10: nhầm ngày trong tuần và tên nơi đang ở, nhớ tuổi, nhận ra chị Ngân (NICE NG250 Box 1: ≤ 8 là lú lẫn). Gầy (BMI 20,4). Môi khô, lưỡi bẩn, véo da còn nếp. Không tím, không vàng da, không phù. Nói câu dài phải dừng lấy hơi.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p, thở nông. Lồng ngực phải di động kém hơn bên trái. Đáy phổi phải phía sau: rung thanh tăng, gõ đục, ran nổ nhỏ hạt cuối thì hít vào; ấn cạnh sườn phải phía sau đau khi hít sâu. Không có hội chứng ba giảm. Phổi trái: rì rào phế nang êm dịu, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 28 l/p, thở nông. Lồng ngực phải di động kém hơn bên trái. Đáy phổi phải phía sau: rung thanh tăng, gõ đục. Phổi trái: rung thanh, gõ bình thường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt cuối thì hít vào, đáy phổi phải."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 102 l/p, T1 T2 rõ, không âm thổi, không T3. Tĩnh mạch cổ không nổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 102 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp tim nhanh, T1 T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù. Hai bắp chân mềm, không đau khi bóp, chu vi hai bên bằng nhau, không nóng đỏ.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng không điểm đau chói, gõ dọc cột sống không đau, Lasègue âm tính. Cạnh sườn phải phía sau (ngang T10–L1): đau nhói khi hít sâu và ho, không tăng khi cúi, ngửa, xoay thân. Hai gối lạo xạo, không sưng nóng đỏ.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi 15 m trong phòng thì phải dừng vì hụt hơi. SpO₂ 90% → 85%, nhịp thở 34 l/p, mạch 118. Ngồi nghỉ 3 phút SpO₂ về 89–90%. Dừng nghiệm pháp, không cho đi tiếp.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 15,8 G/L · Neutrophil 88% · Hb 124 g/L · TC 182 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.8,
+      "neu_pct": 88.0,
+      "neu": 13.9,
+      "lym_pct": 7.0,
+      "lym": 1.11,
+      "mono_pct": 4.0,
+      "mono": 0.63,
+      "eos_pct": 0.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.08,
+      "rbc": 4.0,
+      "hgb": 124,
+      "hct": 0.37,
+      "mcv": 92.5,
+      "mch": 31.0,
+      "mchc": 335,
+      "rdw": 13.8,
+      "plt": 182
+     },
+     "n": "Bạch cầu > 10 G/L, đa nhân trung tính ưu thế (QĐ 2147/2026 mục 3.1.2)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 10,2 mmol/L · Creatinin 118 µmol/L · eGFR 53 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 10.2,
+      "creat": 118,
+      "egfr": 53
+     },
+     "n": "Ure > 7 mmol/L: thêm 1 điểm CURB-65 (QĐ 2147 mục 3.2.1); BUN ≈ 28 mg/dL ≥ 20: tiêu chuẩn phụ ATS (mục 3.2.3), chưa tới ≥ 30 của PSI (Bảng 3.1). Liều kháng sinh chỉnh theo Clcr (Phụ lục 1): Cockcroft–Gault ≈ 30 mL/ph (QĐ 2388/2024 mục 7.7.2.1); ceftriaxon không cần chỉnh."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 129 · K 3,9 · Cl 93 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 129,
+      "k": 3.9,
+      "cl": 93
+     },
+     "n": "Na < 130 mmol/L: thêm 20 điểm PSI (QĐ 2147 Bảng 3.1); góp phần gây lú lẫn. Ngưỡng và tốc độ bù natri: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "u",
+     "r": "148 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 148
+     },
+     "n": "CRP tăng hỗ trợ viêm phổi vi khuẩn (QĐ 2147 mục 3.1.2); > 100 mg/L: cho kháng sinh ngay khi còn lưỡng lự (NICE NG237 khuyến cáo 1.3.4). Không thay được X-quang."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 98 · ALT 84 U/L",
+     "ab": 1,
+     "n": "Cần làm vì paracetamol liều cao kéo dài (QĐ 3610/2015 mục 3.1, 3.3). Viêm gan nhiễm độc khi AST hoặc ALT > 1000 (mục 3.2): chưa tới; nhưng tăng men gan kèm dùng quá liều điều trị là chỉ định NAC (mục 4.3) và là chống chỉ định paracetamol (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1). Nhiễm trùng nặng cũng làm tăng men gan."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 102 l/p, trục trung gian, QTc 424 ms. Không S1Q3T3, không block nhánh phải, không biến đổi ST–T, không ST chênh.",
+     "n": "ECG trong 10 phút đầu khi nghi hội chứng vành (ESC 2023, sơ đồ chẩn đoán); dấu tâm phế cấp khi nghi thuyên tắc phổi (QĐ 2147 mục 3.4.2); QTc nền trước macrolid (mục 4.4). ECG không đổi chưa loại trừ được: cần hs-troponin (ESC 2023 mục 3.3.1)."
+    },
+    "cxr": {
+     "v": "e",
+     "r": "Đám mờ đông đặc thùy dưới phổi phải, có hình phế quản hơi. Góc sườn hoành hai bên nhọn, không tràn dịch màng phổi. Không hang, đỉnh hai phổi sáng, bóng tim không to.",
+     "ab": 1,
+     "n": "Chỉ có ở tuyến nhận (QĐ 2147 mục 3.1.3; NICE NG250 khuyến cáo 1.4.1: chụp trong 4 giờ sau đến bệnh viện). Không có X-quang là lý do chuyển, không phải lý do chờ; viêm phổi chẩn đoán lâm sàng khi chưa có phim (NG250, Terms used)."
+    },
+    "xpert": {
+     "v": "a",
+     "r": "Cơ sở không làm được Xpert và soi AFB; muốn có phải gửi đờm lên tuyến huyện.",
+     "n": "Chấp nhận, chưa bắt buộc: khởi phát cấp, ho mới 4 ngày, không ho kéo dài > 2 tuần (QĐ 162/2024 Phần II mục 1.1 Bảng 1). Chẩn đoán xác định bằng AFB, Xpert (QĐ 2147 mục 3.4.1); làm ở tuyến nhận nếu không đáp ứng kháng sinh."
+    },
+    "cay": {
+     "v": "a",
+     "r": "Cơ sở không cấy được đờm, máu.",
+     "n": "Lấy đờm, máu trước kháng sinh ở người nhập viện (QĐ 2147 mục 5.2): làm ở tuyến nhận."
+    },
+    "pct": {
+     "v": "a",
+     "r": "Cơ sở không làm được procalcitonin.",
+     "n": "Nên làm ở người nhập viện (QĐ 2147 mục 3.1.2); CRP thay PCT ở nơi không có (mục 5.3.2)."
+    },
+    "ddimer": {
+     "v": "a",
+     "r": "Cơ sở không làm được D-dimer.",
+     "n": "Làm ở tuyến nhận. Wells 1,5: thấp (AHA/ACC 2026 Bảng 3); Geneva gốc 6: trung gian (ESC 2019 Bảng 5); PERC không dùng được. Ngưỡng theo tuổi 830 µg/L (tuổi × 10; ESC 2019 mục 4.4.1); D-dimer hay tăng khi nhiễm trùng nặng (mục 4.4)."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Cơ sở không làm được troponin.",
+     "n": "hs-troponin làm ở tuyến nhận (ESC 2023 mục 3.3.1)."
+    },
+    "abg": {
+     "v": "a",
+     "r": "Cơ sở không làm được khí máu động mạch.",
+     "n": "Không bắt buộc: SpO₂ đã cho thấy giảm oxy máu; PaO₂/FiO₂ ≤ 250 là tiêu chuẩn phụ ATS (QĐ 2147 mục 3.2.3)."
+    },
+    "paracetamol_mau": {
+     "v": "a",
+     "r": "Cơ sở không làm được định lượng paracetamol máu.",
+     "n": "Tuyến nhận định lượng paracetamol, ALT khi ngộ độc mạn (QĐ 3610/2015 mục 4.3.2)."
+    },
+    "inr": {
+     "v": "a",
+     "r": "Cơ sở không làm được PT/INR.",
+     "n": "Tuyến nhận làm khi nghi tổn thương gan do paracetamol (QĐ 3610/2015 mục 3.2–3.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng thùy dưới phổi phải mức cần nhập viện (CURB-65 = 3, CRB-65 = 2, PSI 123 nhóm IV), kèm giảm oxy máu, lú lẫn mới, hạ natri máu; không điển hình ở người rất cao tuổi (sốt bị paracetamol che, đau màng phổi tưởng đau lưng); chẩn đoán lâm sàng, chưa có X-quang",
+     "ok": 1,
+     "n": "Ho đờm vàng, rét run, đau nhói hông lưng phải khi hít sâu, thở 28, đông đặc và ran nổ đáy phổi phải, BC 15,8, CRP 148 (QĐ 2147/2026 mục 3.1.1–3.1.2). CURB-65 = 3 (mục 3.2.1); PSI 83 + 20 + 20 = 123 (Bảng 3.1); ATS 2/9 chưa ICU (mục 3.2.3). Nghĩ tới nhiễm khuẩn huyết (NICE NG237 khuyến cáo 1.1.1). Chẩn đoán lâm sàng khi chưa có phim (NICE NG250, Terms used)."
+    },
+    {
+     "t": "Nghi tổn thương gan do paracetamol liều cao kéo dài (AST 98, ALT 84 U/L)",
+     "ok": 1,
+     "n": "4–5 g/ngày ≈ 88–98 mg/kg/ngày × 3 tuần, gầy, ăn kém, phối hợp thuốc cảm (QĐ 3610/2015 mục 2: yếu tố nguy cơ). Vượt 4 viên/ngày (QĐ 4235/2012 Viêm phổi bệnh viện mục 3.4), < 3 g/ngày ở người cao tuổi gầy yếu và tối đa 4 g (QĐ 361/2014)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Khởi phát cấp, ho mới 4 ngày, không sụt cân, mồ hôi đêm, tiếp xúc; nghi lao khi ho kéo dài > 2 tuần (QĐ 162/2024 Phần II Bảng 1; QĐ 2147 mục 3.4.1). Xpert, AFB ở tuyến nhận nếu không đáp ứng."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Không dấu huyết khối tĩnh mạch sâu, không bất động, ECG không S1Q3T3 (QĐ 2147 mục 3.4.2); Wells 1,5 thấp, Geneva gốc 6 trung gian (AHA/ACC 2026 Bảng 3; ESC 2019 Bảng 5); có chẩn đoán thay thế. Không D-dimer, CT nên không loại trừ bằng khám: báo tuyến nhận."
+    },
+    {
+     "t": "Hội chứng vành cấp / suy tim cấp",
+     "n": "Hụt hơi lúc gắng sức; không đau thắt ngực, ECG không đổi, không phù. Chưa loại trừ vì không có hs-troponin (ESC 2023 mục 3.3.1)."
+    },
+    {
+     "t": "Lú lẫn do sa sút trí tuệ ('già lú')",
+     "n": "Lú mới 2 ngày, dao động chiều tối, trước đó tính tiền chính xác; AMT 6/10 (NICE NG250 Box 1; QĐ 2147 mục 3.2.1). Là mê sảng do nhiễm trùng, hạ natri, mất nước."
+    },
+    {
+     "t": "Đau lưng cơ học / thoái hóa, suy nhược do tuổi già, thiếu chất",
+     "n": "Cái neo của gia đình. Đau nhói chỉ khi hít sâu, ho: đau màng phổi; SpO₂ 90%, thở 28, BC, CRP cao không do thiếu chất."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu",
+     "n": "Không buốt, bạch cầu và nitrit nước tiểu âm tính."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bệnh viện huyện (có X-quang, xét nghiệm đầy đủ, oxy, kháng sinh tĩnh mạch) ngay trong buổi sáng, đi ô tô có người nhà biết rõ diễn biến đi kèm, không để ông tự đạp xe; gọi trước, thư chuyển ghi sinh hiệu, SpO₂ nghỉ và khi đi, AMT, ure, Na, AST/ALT, ECG, liều paracetamol, và chưa loại trừ thuyên tắc phổi, hội chứng vành",
+     "v": "c",
+     "n": "CURB-65 = 3: nội trú (QĐ 2147/2026 mục 3.2.1); CRB-65 = 2: chuyển bệnh viện, và chuyển khi có dấu hiệu nặng hơn dự đoán (NICE NG250 2025 khuyến cáo 1.2.3–1.2.4). Giảm oxy máu, lú lẫn mới; không X-quang để biết mức lan tỏa (QĐ 2147 mục 3.1.3, 5.3.1), không D-dimer, troponin, không kháng sinh tĩnh mạch liên tục (mục 5.2). Chưa ICU: ATS 2/9 (mục 3.2.3). Người ≥ 80 tuổi gầy: ngưỡng chuyển thấp hơn (NICE NG237 khuyến cáo 1.3.2). Gọi trước, thư chuyển, người đi kèm: không có trong tài liệu đã tải (thực hành an toàn)."
+    },
+    {
+     "t": "Cho thở oxy gọng mũi trong lúc chờ xe và trên đường, ngồi đầu cao, theo dõi SpO₂ liên tục, đích SpO₂ > 90%",
+     "v": "c",
+     "n": "QĐ 2147 mục 5.3.2: người giảm oxy máu cần hỗ trợ oxy; SpO₂ < 90% khí trời là suy giảm hô hấp (mục 5.5.1b). Đích > 90%: QĐ 4235/2012 Viêm phổi bệnh viện mục 3.4. Ông 90% nghỉ, 85% khi đi 15 m. Lưu lượng oxy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh liều đầu: hoặc tiêm/truyền tĩnh mạch ceftriaxon 1–2 g ngay tại phòng khám trước khi lên xe, hoặc chuyển ngay và để tuyến nhận lấy đờm, cấy máu trước liều đầu (trong 4 giờ đầu nhập viện)",
+     "v": "c",
+     "n": "Hai cách đều đúng, khác ưu tiên: QĐ 2147 mục 5.2 cần kháng sinh sớm trong 4 giờ đầu, tĩnh mạch (ceftriaxon 1–2 g mỗi 24 giờ, Bảng 4.4; mục 5.3.2.1), đồng thời lấy bệnh phẩm trước kháng sinh. Phòng khám không cấy được, đường chuyển 25 phút nên chuyển ngay để cấy không chậm là hợp lý; có sẵn ceftriaxon thì cho liều đầu cũng không trái. Liều đầu trước chuyển ở người lớn: không có trong tài liệu đã tải. Không được vì chờ thuốc mà chậm chuyển."
+    },
+    {
+     "t": "Dừng ngay paracetamol liều cao và thuốc cảm chứa paracetamol, mang vỉ thuốc đi; tuyến nhận định lượng paracetamol, ALT, INR và cân nhắc N-acetylcystein; hạ sốt khi cần ≤ 4 viên 0,5 g/ngày (QĐ 4235/2012) hoặc < 3 g/ngày (QĐ 361/2014)",
+     "v": "c",
+     "n": "QĐ 3610/2015 mục 4.3: tổn thương gan kèm dùng quá liều điều trị là chỉ định NAC; mục 4.3.2 ngộ độc mạn: định lượng paracetamol, ALT. Liều: QĐ 4235 Viêm phổi bệnh viện mục 3.4 (0,5 g/lần khi > 38,5 °C, ≤ 4 viên/ngày = 2 g); QĐ 361/2014 Phụ lục NSAID mục 3.3 (người cao tuổi gầy yếu < 3 g/ngày), Phụ lục thuốc giảm đau mục 3.1 (≤ 4 g/24 giờ, chống chỉ định khi tăng men gan). Ông tăng men gan: chọn mức thận trọng nhất, tuyến nhận quyết."
+    },
+    {
+     "t": "Mời chị Ngân ra ngoài, hỏi riêng ông: mệt bắt đầu lúc nào, trước đó đang làm gì, vì sao hôm nay muốn đi khám; nghe nỗi lo lây cho cháu Su; giải thích đây là viêm phổi chưa phải lao, xét nghiệm lao làm ở bệnh viện, trong lúc chờ hạn chế bế, hôn cháu, che miệng khi ho",
+     "v": "c",
+     "n": "Xử lý động cơ thật (thân nhân trả lời thay; ông giấu chuyện đêm khởi phát và nỗi sợ). Lao: QĐ 162/2024 Phần II mục 1.1; QĐ 2147 mục 3.4.1. Khuyến cáo hạn chế tiếp xúc trẻ nhỏ khi viêm phổi cộng đồng: không có trong tài liệu đã tải (thực hành chung). Không hỏi riêng thì không biết liều paracetamol, không phân biệt được hụt hơi lúc quan hệ."
+    },
+    {
+     "t": "Làm điện tim 12 chuyển đạo; ghi trong thư chuyển rằng ECG không biến đổi nhưng chưa loại trừ thuyên tắc phổi và hội chứng vành vì chưa có D-dimer, troponin",
+     "v": "c",
+     "n": "ECG trong 10 phút khi nghi hội chứng vành (ESC 2023, sơ đồ chẩn đoán); dấu tâm phế cấp (QĐ 2147 mục 3.4.2); D-dimer không thay được bằng khám (ESC 2019 mục 4.4)."
+    },
+    {
+     "t": "Giải thích chị Ngân bằng lời đơn giản: đây không phải suy nhược mà là viêm phổi nặng ở người rất già; thuốc bổ, truyền nước không thay kháng sinh và oxy; nên đi ngay, mang thẻ BHYT và thuốc đã dùng",
+     "v": "c",
+     "n": "Gỡ chiếc neo 'già đuối sức': nếu không, chị sẽ đưa ông về vì tin thuốc bổ là đủ. BHYT: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Levofloxacin hoặc moxifloxacin đường tĩnh mạch đơn trị tại tuyến nhận",
+     "v": "a",
+     "n": "QĐ 2147 mục 5.3.2.1: quinolon hô hấp đơn trị ở nhóm trung bình–nặng nằm khoa Nội (Bảng 4.4: levofloxacin 750 mg, moxifloxacin 400 mg mỗi 24 giờ); nhóm nặng kết hợp beta-lactam. Kéo dài QT (mục 4.4). Còn nghi lao thì chưa dùng fluoroquinolon (QĐ 162/2024 Phần II, Sơ đồ 1 chú thích *)."
+    },
+    {
+     "t": "Cho về uống thuốc bổ, truyền dịch tại phòng khám, hẹn tái khám 1–2 ngày",
+     "v": "w",
+     "n": "Bỏ sót viêm phổi CURB-65 = 3, SpO₂ 90% (QĐ 2147 mục 3.2.1; NICE NG250 khuyến cáo 1.2.3–1.2.4). Thuốc bổ, truyền nước không điều trị nguyên nhân."
+    },
+    {
+     "t": "Giữ ông ở phòng khám, cho amoxicilin/acid clavulanic 875/125 mg + azithromycin uống, theo dõi vài giờ rồi cho về",
+     "v": "w",
+     "n": "Điểm số, dấu hiệu nặng đòi kháng sinh tĩnh mạch (QĐ 2147 mục 5.2, 5.3.1; NICE NG250 khuyến cáo 1.5.4 chỉ ưu tiên uống khi mức nặng không đòi tĩnh mạch); phòng khám không X-quang, D-dimer, troponin."
+    },
+    {
+     "t": "NSAID (diclofenac, meloxicam…) cho đau lưng",
+     "v": "w",
+     "n": "Người cao tuổi gầy yếu: tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3); ông eGFR 53, mất nước, Na 129, đau do màng phổi."
+    },
+    {
+     "t": "Thuốc ho codein hoặc thuốc ức chế ho",
+     "v": "w",
+     "n": "QĐ 4235/2012 bài Ho kéo dài mục 3.2: không nên dùng thuốc giảm ho cho người đang nhiễm trùng đường hô hấp dưới, vì cần ho để thải đờm."
+    },
+    {
+     "t": "Corticoid toàn thân",
+     "v": "w",
+     "n": "ATS 2025 câu hỏi 4: khuyến cáo mạnh KHÔNG dùng ở người lớn nằm viện, viêm phổi không nặng (tránh tăng đường huyết…); QĐ 2147 mục 5.3.2.2: chỉ khi viêm phổi nặng nhập hồi sức."
+    },
+    {
+     "t": "Cho tiếp paracetamol 2 viên mỗi 4–6 giờ, hoặc thêm thuốc cảm gói để hạ sốt và giảm đau lưng",
+     "v": "h",
+     "n": "Vượt 4 g/24 giờ, đang tăng men gan: chống chỉ định (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); thuốc cảm chứa paracetamol là dùng trùng (QĐ 3610/2015 mục 2); tiếp tục che sốt, đau màng phổi làm chậm chẩn đoán."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi mắc phải cộng đồng thùy dưới phổi phải, chẩn đoán lâm sàng (chưa có X-quang), mức cần nhập viện: CURB-65 = 3, CRB-65 = 2, PSI 123 nhóm IV (QĐ 2147/2026 mục 3.2.1, Bảng 3.1; NICE NG250 2025 Box 1, 2)",
+     "Giảm oxy máu (SpO₂ 90% lúc nghỉ, 85% khi đi 15 m), lú lẫn mới (AMT 6/10), hạ natri máu 129 mmol/L, ure tăng 10,2 mmol/L (nhiễm trùng, mất nước)",
+     "Nghi tổn thương gan do paracetamol liều cao kéo dài (4–5 g/ngày × 3 tuần; AST 98, ALT 84 U/L); paracetamol che sốt và che đau màng phổi",
+     "Chưa loại trừ tại phòng khám: thuyên tắc phổi (Wells 1,5 thấp, Geneva gốc 6 trung gian), hội chứng vành cấp (ECG không đổi, thiếu troponin); lao phổi ít khả năng"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao viêm phổi: ho đờm vàng, rét run, đau nhói hông lưng phải khi hít sâu, thở 28, mạch 102, đông đặc và ran nổ đáy phổi phải, BC 15,8 (neutrophil 88%), CRP 148 (QĐ 2147 mục 3.1.1–3.1.2). Người cao tuổi không rầm rộ, có thể không sốt (mục 3.1.1); ở ông sốt còn bị paracetamol 4–5 g/ngày che (suy từ tác dụng hạ sốt, tài liệu không nêu trực tiếp).",
+     "Điều lẽ ra phải khiến bác sĩ dừng lại: (1) 'đau lưng' phải chỉ nhói khi hít sâu, ho là đau màng phổi; (2) 'già lú' nhưng lú mới 2 ngày, dao động buổi tối (AMT 6/10; NICE NG250 Box 1 ≤ 8); (3) 'không sốt' do paracetamol; (4) 'hao sức sau chuyện vợ chồng' là rét run mở đầu viêm phổi; (5) 'không khó thở' nhưng đi 15 m SpO₂ 90% → 85%. Dễ lướt qua vì chị Ngân trả lời thay, mỗi dấu hiệu đều có lời giải thích lành tính, nhiệt độ 37,4 °C.",
+     "Mức nặng: CURB-65 = 3 (lú lẫn mới, ure 10,2 > 7, tuổi ≥ 65; thở 28 < 30, HA không thấp): nội trú, tử vong 30 ngày khoảng 22% (QĐ 2147 mục 3.2.1). CRB-65 = 2: chuyển bệnh viện (NICE NG250 khuyến cáo 1.2.3). PSI = 83 + 20 + 20 = 123, nhóm IV (Bảng 3.1; tràn dịch trên phim thêm 10 thành nhóm V). ATS 2/9 tiêu chuẩn phụ (lú lẫn, BUN ≥ 20): chưa ICU (mục 3.2.3). Điểm số chỉ là tham khảo, đánh giá linh hoạt (mục 3.2.1; NICE NG237 khuyến cáo 1.3.2).",
+     "Thuyên tắc phổi: Wells 1,5 thấp (AHA/ACC 2026 Bảng 3); Geneva gốc 6 trung gian (ESC 2019 Bảng 5): hai thang khác nhau, ghi cả hai (sổ HH-0930 #5). PERC không dùng được. Không D-dimer, CT nên không 'loại trừ' bằng khám: báo tuyến nhận (ESC 2019 mục 4.4). Hụt hơi lúc quan hệ: nghĩ tim hoặc thuyên tắc; cần hs-troponin (ESC 2023 mục 3.3.1).",
+     "Lao: khởi phát cấp, ho mới 4 ngày, không sụt cân, mồ hôi đêm, tiếp xúc; nghi lao khi ho kéo dài > 2 tuần (QĐ 162/2024 Phần II Bảng 1; QĐ 2147 mục 3.4.1). AFB, Xpert ở tuyến nhận nếu không đáp ứng. Nỗi lo lây cho cháu là động cơ thật của ông.",
+     "Paracetamol: 8–10 viên 0,5 g mỗi ngày × 3 tuần cộng thuốc cảm, ≈ 88–98 mg/kg/ngày: vượt 4 viên/ngày (QĐ 4235/2012 Viêm phổi bệnh viện mục 3.4), < 3 g/ngày cho người cao tuổi gầy yếu (QĐ 361/2014 Phụ lục NSAID mục 3.3) và tối đa 4 g (Phụ lục thuốc giảm đau mục 3.1). Gầy, ăn kém là yếu tố nguy cơ (QĐ 3610/2015 mục 2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng là chuyển bệnh viện huyện ngay, không phải cho về thuốc bổ hay giữ theo dõi ở phòng khám. Lý do ghép: CURB-65 = 3, CRB-65 = 2, giảm oxy máu, lú lẫn mới, hạ natri; phòng khám không có X-quang, D-dimer, troponin, kháng sinh tĩnh mạch liên tục (QĐ 2147 mục 3.2.1, 5.2, 5.3.2; NICE NG250 khuyến cáo 1.2.3–1.2.4). Không có X-quang là lý do chuyển, không phải lý do chờ. Chưa cần ICU (ATS 2/9): bệnh viện huyện đủ, không gọi hồi sức tỉnh (mục 3.2.3).",
+     "Trước chuyển: oxy gọng mũi, ngồi đầu cao, theo dõi SpO₂ (đích > 90%, QĐ 4235/2012 Viêm phổi bệnh viện mục 3.4); ô tô có người đi kèm, không tự đạp xe; gọi trước; thư chuyển ghi sinh hiệu, SpO₂ nghỉ và khi đi, AMT, ure, Na, AST/ALT, ECG, liều paracetamol, chưa loại trừ thuyên tắc phổi và hội chứng vành. Lưu lượng oxy, nội dung thư chuyển: không có trong tài liệu đã tải.",
+     "Kháng sinh: cả hai cách đều đúng. Cách 1: tiêm hoặc truyền ceftriaxon 1–2 g ngay tại phòng khám rồi chuyển (QĐ 2147 mục 5.2: sớm, trong 4 giờ đầu, đường tĩnh mạch). Cách 2: chuyển ngay, tuyến nhận lấy đờm, cấy máu trước liều đầu (mục 5.2); phòng khám không cấy được, đường chuyển 25 phút. Phác đồ nội trú (mục 5.3.2.1): ceftriaxon 1–2 g mỗi 24 giờ (Bảng 4.4) ± azithromycin 500 mg mỗi 24 giờ, hoặc quinolon hô hấp đơn trị ở nhóm khoa Nội. Liều đầu trước chuyển ở người lớn: không có trong tài liệu đã tải.",
+     "Paracetamol: dừng liều cao; hạ sốt khi cần tối đa 4 viên 0,5 g/ngày (QĐ 4235/2012; 2 g, thận trọng hơn) hoặc < 3 g/ngày ở người cao tuổi gầy yếu, tối đa 4 g (QĐ 361/2014). QĐ 361 chống chỉ định khi tăng men gan, QĐ 4235 vẫn cho hạ sốt trong viêm phổi: ghi cả hai, ông tăng men gan nên chọn mức thấp nhất, tuyến nhận quyết sau khi có INR, paracetamol máu, ALT. NAC khi tổn thương gan và dùng quá liều điều trị (QĐ 3610/2015 mục 4.3, 4.3.2).",
+     "Hỏi riêng ông: lý do thật đi khám là sợ lây cho cháu Su. Giải thích đây là viêm phổi chưa phải lao, xét nghiệm lao ở bệnh viện; trong lúc chờ hạn chế bế, hôn cháu, che miệng khi ho (không có trong tài liệu đã tải). Giải thích chị Ngân vì sao không truyền nước, thuốc bổ.",
+     "Việc sai: cho về hoặc giữ ở phòng khám; NSAID cho 'đau lưng' (QĐ 361/2014 Phụ lục NSAID mục 3.3); thuốc ho ức chế (QĐ 4235 Ho kéo dài mục 3.2); corticoid (ATS 2025 câu hỏi 4); cho tiếp paracetamol liều cũ (QĐ 361/2014 mục 3.1); điều trị ngoại trú khi CURB-65 = 3 và ban ngày không có người chăm sóc (QĐ 2147 mục 3.2.3 ghi chú)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy",
+      "ham_luong": "",
+      "lieu": "Đủ để duy trì SpO₂ > 90%",
+      "duong": "Thở qua gọng mũi",
+      "thoi_diem": "Ngay tại phòng khám, tiếp tục trên đường chuyển",
+      "so_ngay": "Theo SpO₂ ở tuyến nhận",
+      "ghi_chu": "QĐ 2147 mục 5.3.2 (người giảm oxy máu cần hỗ trợ oxy); đích > 90%: QĐ 4235/2012 Viêm phổi bệnh viện mục 3.4. Lưu lượng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Ceftriaxon",
+      "ham_luong": "Lọ 1 g",
+      "lieu": "1–2 g mỗi 24 giờ (QĐ 2147/2026 Bảng 4.4)",
+      "duong": "Tiêm hoặc truyền tĩnh mạch",
+      "thoi_diem": "Liều đầu tại phòng khám trước chuyển nếu có, hoặc ở tuyến nhận sau khi lấy đờm, cấy máu (trong 4 giờ đầu)",
+      "so_ngay": "Do tuyến nhận quyết: thường 7–10 ngày, phế cầu đến khi hết sốt 3–5 ngày, tối thiểu 5 ngày (QĐ 2147 mục 5.2, 5.4.1.1); NICE NG250 khuyến cáo 1.6.3: dừng sau 5 ngày nếu ổn định",
+      "ghi_chu": "QĐ 2147 Bảng 4.4, mục 5.3.2.1; không chỉnh theo Clcr ≈ 30 (Phụ lục 1); QĐ 2147/2026 thay cho bài viêm phổi cộng đồng của QĐ 4235/2012 (cùng Bộ Y tế, bản mới) nên không dùng liều 1 g × 3 của bản cũ. Không truyền cùng đường calci (Phụ lục 3)."
+     },
+     {
+      "thuoc": "Azithromycin",
+      "ham_luong": "Lọ 500 mg",
+      "lieu": "500 mg mỗi 24 giờ",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Do tuyến nhận, cùng ngày với beta-lactam",
+      "so_ngay": "3–5 ngày (QĐ 2147 mục 4.1 trích ESCMID 2023; không có số riêng cho thể trung bình)",
+      "ghi_chu": "QĐ 2147 Bảng 4.4, mục 5.3.2.1; không chỉnh theo thận (Phụ lục 1). Kéo dài QT, tương tác (mục 4.4); QTc 424 ms."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 0,5 g",
+      "lieu": "1 viên mỗi lần, tối đa 4 viên (2 g) mỗi ngày (QĐ 4235/2012) hoặc < 3 g/ngày (QĐ 361/2014)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi nhiệt độ > 38,5 °C; sau khi tuyến nhận có AST/ALT, INR",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "Dừng hẳn liều 4–5 g/ngày và thuốc cảm có paracetamol. QĐ 4235 Viêm phổi bệnh viện mục 3.4; QĐ 361/2014 Phụ lục NSAID mục 3.3, Phụ lục thuốc giảm đau mục 3.1 (chống chỉ định khi tăng men gan). 4 viên thận trọng hơn."
+     }
+    ],
+    "dan_do": [
+     "Ông Bảy bị viêm phổi nặng ở người rất già, cần nằm viện truyền kháng sinh và thở oxy; đau lưng bên phải thật ra là đau màng phổi do viêm phổi. Thuốc bổ, truyền nước không thay được kháng sinh và oxy (QĐ 2147 mục 5.2, 5.3.2).",
+     "Không tự mua thuốc giảm đau, thuốc cảm; mang vỉ thuốc đã uống theo; paracetamol không quá 4 viên mỗi ngày (QĐ 4235/2012), thuốc cảm cũng có paracetamol (QĐ 3610/2015 mục 2).",
+     "Chưa có bằng chứng lao; xét nghiệm lao làm ở bệnh viện. Trong lúc chờ hạn chế bế, hôn cháu Su, che miệng khi ho (không có trong tài liệu đã tải).",
+     "Đi ngay bằng ô tô có người đi kèm, ngồi đầu cao, mang thẻ BHYT và thuốc đã dùng. Báo ngay nếu ông lơ mơ hơn, thở nhanh, môi tím (QĐ 2147 mục 3.5.1).",
+     "Sau xuất viện tái khám trong 1 tuần; cân nhắc chụp lại X-quang khoảng 6 tuần sau vì tuổi cao (QĐ 2147 mục 5.6.3; NICE NG250 khuyến cáo 1.12.2). Tiêm phòng cúm hằng năm, phế cầu (Hội Hô hấp VN 2025 mục 6.2.1–6.2.2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hướng chuyển viện: chị Ngân đồng ý lên xe cùng ông sau khi được giải thích; bệnh viện huyện chụp phim thấy đông đặc thùy dưới phổi phải, cho oxy, lấy đờm, cấy máu rồi truyền ceftriaxon và azithromycin (minh họa giảng dạy). Hướng cho về (điểm gãy nếu ca bị bỏ sót): nghe 'ba già đuối sức', thấy 37,4 °C và SpO₂ 90% 'tạm được', cho thuốc bổ, truyền nước, hẹn 2 ngày; ông về nhà vẫn uống paracetamol, đêm hôm sau thở 36 l/p, lơ mơ, ngã ở nhà vệ sinh, vào cấp cứu với SpO₂ thấp, hạ huyết áp, phải thở máy (minh họa, không phải số liệu từ tài liệu). Điểm gãy: (1) ông tự gán 'đau lưng' cho đau màng phổi và tự tăng paracetamol (QĐ 3610/2015 mục 2); (2) 'già lú' thay vì lú lẫn mới (QĐ 2147 mục 3.2.1); (3) chuyện phòng the làm ông giấu mốc khởi phát; (4) đọc nhiệt độ, SpO₂ riêng lẻ; (5) coi 'không có X-quang' là lý do chờ; (6) bỏ qua người chăm sóc ban ngày yếu (QĐ 2147 mục 3.2.3 ghi chú).",
+ "nhieu": [
+  "Chị Ngân trả lời thay, quy mọi triệu chứng về 'già đuối sức': hỏi chung thì 'ba ít ho thôi', 'ba đâu có than'. Muốn biết thật phải hỏi thẳng ông hoặc mời chị ra ngoài.",
+  "Bốn dấu hiệu nguy hiểm đều có lời giải thích lành tính: đau màng phổi núp dưới 'đau lưng', lú lẫn núp dưới 'già lú', rét run núp dưới 'hao sức sau chuyện vợ chồng', sốt núp dưới paracetamol 4–5 g/ngày.",
+  "Hụt hơi lúc quan hệ gợi ý tim, thuyên tắc phổi; phòng khám không có troponin, D-dimer nên phải báo tuyến nhận."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi bị viêm phổi có thể không sốt, không than khó thở, chỉ 'mệt, ăn kém, lú lẫn' (QĐ 2147 mục 3.1.1). Thuốc hạ sốt tự mua che sốt: hỏi từng loại thuốc, bao nhiêu viên mỗi ngày.",
+  "'Đau lưng' mới, nhói khi hít sâu hoặc ho: nghĩ đau màng phổi; hỏi 'đau tăng khi nào', không chỉ hỏi 'đau lưng không'.",
+  "Lú lẫn mới ở người già là dấu hiệu nặng, tính 1 điểm CURB-65 (QĐ 2147 mục 3.2.1; NICE NG250 Box 1: AMT ≤ 8); không gán cho tuổi già khi mới có trong vài ngày.",
+  "Thân nhân trả lời thay: tách người bệnh ra hỏi riêng; chuyện thầm kín (quan hệ tình dục) và nỗi lo thật (sợ lây cho cháu) chỉ nói khi hỏi riêng, kín đáo.",
+  "Không có X-quang không phải lý do chờ: dùng CURB-65, CRB-65, SpO₂, nghiệm pháp đi bộ, chuyển tuyến khi điểm số đòi nhập viện (QĐ 2147 mục 3.2.1; NICE NG250 khuyến cáo 1.2.3–1.2.4). Không 'loại trừ' thuyên tắc phổi, hội chứng vành bằng khám khi chưa có D-dimer, troponin (ESC 2019 mục 4.4; ESC 2023).",
+  "Applicability Note: người ≥ 80 tuổi gầy yếu thường không nằm trong các thử nghiệm nền (tài liệu đã tải không nêu tỉ lệ); ngưỡng chuyển thấp hơn (NICE NG237 khuyến cáo 1.3.2), liều paracetamol thấp hơn (QĐ 361/2014), chỉnh liều theo Clcr (QĐ 2147 Phụ lục 1): Clcr ≈ 30, eGFR 53."
+ ],
+ "diem_nho": [
+  "CURB-65 (QĐ 2147 mục 3.2.1): 0–1 ngoại trú; 2 nội trú ngắn hạn hoặc ngoại trú có kiểm soát; 3–5 nội trú (4–5 cân nhắc ICU). CRB-65 (không cần ure): NICE NG250 ≥ 2 chuyển bệnh viện. ATS (mục 3.2.3): ICU khi ≥ 3 tiêu chuẩn phụ hoặc ≥ 1 tiêu chuẩn chính; ông Bảy 2/9.",
+  "PSI (Bảng 3.1): nam = tuổi; tri giác +20; Na < 130 +20; tràn dịch +10; nhóm IV 91–130, V > 130.",
+  "Kháng sinh người nhập viện: tĩnh mạch, trong 4 giờ đầu, lấy bệnh phẩm trước (QĐ 2147 mục 5.2); ceftriaxon 1–2 g mỗi 24 giờ ± azithromycin 500 mg (Bảng 4.4); đánh giá lại sau 48–72 giờ.",
+  "Kháng sinh người nhập viện: tĩnh mạch, trong 4 giờ đầu, lấy bệnh phẩm trước (QĐ 2147 mục 5.2); ceftriaxon 1–2 g mỗi 24 giờ ± azithromycin 500 mg (Bảng 4.4)."
+ ],
+ "nguon": [
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 3.1–3.5, 4.1, 4.4, 5.2, 5.3.1–5.3.2, 5.4.1.1, 5.5.1, 5.6.3; Bảng 3.1, 4.4; Phụ lục 1, 3",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Bệnh hô hấp – bài VPMPCĐ mục 3.2.3; bài Viêm phổi bệnh viện mục 3.4; bài Ho kéo dài mục 3.2",
+  "TL-0035 · QĐ 3610/QĐ-BYT 2015 – Ngộ độc – Ngộ độc paracetamol mục 2, 3.1–3.3, 4.3, 4.3.2",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014 – Bệnh cơ xương khớp – Phụ lục thuốc giảm đau mục 3.1; Phụ lục NSAID mục 3.3",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Bệnh lao – Phần II mục 1.1 (Bảng 1), Sơ đồ 1",
+  "TL-0280 · QĐ 2388/QĐ-BYT 2024 – Bệnh thận mạn – mục 7.7.2.1",
+  "NICE NG250 (2025) – Pneumonia (kho cũ) – khuyến cáo 1.2.3–1.2.4, 1.4.1, 1.5.4, 1.6.3, 1.12.2; Box 1, 2; Terms used",
+  "TL-0146 · NICE NG237 – khuyến cáo 1.1.1, 1.3.2, 1.3.4",
+  "TL-0141 · ATS 2025 – CAP – câu hỏi 4",
+  "TL-0089 · ESC/ERS 2019 – Thuyên tắc phổi cấp – Bảng 5, mục 4.4, 4.4.1; TL-0045 · AHA/ACC 2026 – Bảng 3",
+  "TL-0069 · ESC 2023 – Hội chứng vành cấp – sơ đồ chẩn đoán, mục 3.3.1; TL-0296 · ADA 2026 – Bảng 2.1",
+  "Hội Hô hấp Việt Nam 2025 – Hướng dẫn VPMPCĐ người lớn (kho cũ) – mục 6.2.1–6.2.2",
+  "Không có trong tài liệu đã tải: liều kháng sinh đầu trước chuyển ở người lớn; lưu lượng oxy; nội dung thư chuyển; khuyến cáo tiếp xúc trẻ nhỏ với người viêm phổi; ngưỡng, tốc độ bù natri; hiệu ứng che sốt của paracetamol (suy từ tác dụng hạ sốt); tỉ lệ người ≥ 80 tuổi trong thử nghiệm nền"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-18): soạn mới theo đặc tả sổ cái HH-0846 (ca bẫy 'cơ đỏ ngụy trang', 1 lượt, thân nhân trả lời thay, chỉ có xét nghiệm cơ bản, khởi phát sau quan hệ tình dục, paracetamol liều cao kéo dài, lý do thật sợ lây cho cháu, kết cục biến chứng do bỏ sót). Hướng đúng: chuyển bệnh viện huyện.",
+  "Tài liệu đã đọc: TL-0121 (QĐ 2147/2026) mục 3.1–3.5, 5.2–5.6, Bảng 3.1, 4.4, Phụ lục 1; TL-0131 (QĐ 4235/2012) bài VPMPCĐ 3.2.3, Viêm phổi bệnh viện 3.4; TL-0035 (QĐ 3610/2015) Ngộ độc paracetamol; TL-0286 (QĐ 361/2014) Phụ lục; TL-0123 (QĐ 162/2024) Phần II; TL-0089, TL-0045; NICE NG250, NG237; TL-0069. Chỗ thiếu tài liệu: cuối mục nguồn.",
+  "Chỉ số phiếu bảng do Claude tự bổ sung cho khớp bệnh cảnh (MCV, MCH, MCHC từ Hb/Hct/RBC; eGFR CKD-EPI 2021 từ creatinin 118, nam 83 tuổi; Clcr Cockcroft–Gault ≈ 30). AST, ALT, kết quả X-quang ở tuyến nhận là minh họa.",
+  "Mâu thuẫn theo sổ: paracetamol tối đa (HH-1269, TH-0295), D-dimer (HH-0930 #5), corticoid (HH-0671 #3), đường truyền kháng sinh (HH-0930 #3). Đề xuất (trưởng nhóm duyệt: ceftriaxon không phải mâu thuẫn thật – bản mới QĐ 2147 thay QĐ 4235): paracetamol hạ sốt khi tăng men gan; liều đầu kháng sinh trước chuyển ở người lớn (HH-0846_mau_thuan.md).",
+  "Âm thanh: đáy phổi phải AT-PHOI-RAN-NO-01, đáy phổi trái AT-PHOI-BT-NL-01, tim AT-TIM-NHANH-01 (mạch 102). Không dùng ảnh da.",
+  "Duyệt 18/11/2026 (Opus): bỏ liều ceftriaxon 1 g × 3 lần/ngày (QĐ 4235/2012) – không phải mâu thuẫn thật vì QĐ 2147/2026 là bản mới của cùng Bộ Y tế (CLAUDE.md 3.1 bước 1); paracetamol khi tăng men gan theo mục sổ cũ TH-1329."
+ ]
+}

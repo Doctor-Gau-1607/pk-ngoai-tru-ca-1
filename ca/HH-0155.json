@@ -1,0 +1,755 @@
+{
+ "ma_ca": "HH-0155",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn theo đặc tả sổ cái, soát nguồn với kho tài liệu (2026-11-18)",
+ "benh": "HH_viem_ho_hap_tren_cap_virus",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm hô hấp trên cấp do virus (cảm lạnh)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu nhóm A",
+   "Cúm mùa"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Tự ngưng thuốc đang dùng (mẹ tự ngưng statin khi đang cho con bú, 3 ngày trước khi bé ốm)",
+  "thuoc_dang_dung": "Statin đang dùng (atorvastatin của mẹ, tự uống lại sau sinh; bé không dùng thuốc nào)",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc (mẹ sợ statin đã qua sữa làm bé ho, sổ mũi)",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khang",
+  "tuoi": 0.58,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.5,
+  "chieu_cao": 69,
+  "xung_ho": "Bé 7 tháng, chưa nói được, ê a, hay nhìn theo mẹ, khóc khi bị khám họng. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'bé Khang' hoặc 'con'.",
+  "tinh_cach": "Mẹ 33 tuổi, kế toán, đang nghỉ thai sản, lo xa, nói nhanh, hay mở điện thoại đọc lại điều đã đọc trên mạng ('em đọc thấy…'). Lễ phép, dễ xúc động, rất sợ mình làm hại con. Uống atorvastatin 10 mg mỗi tối gần 2 tháng dù đang cho con bú; 5 ngày trước tự ngưng sau khi đọc bài cảnh báo, chưa nói với bác sĩ nào.",
+  "kieu_nhieu": "Mẹ mang chẩn đoán tự tra trên mạng. Lượt 1: tin bé bị 'cúm', đòi test cúm và Tamiflu. Lượt 2: thấy bé còn ho dù đã ngưng statin 9 ngày nên tin 'thuốc còn đọng trong sữa'. Không cãi, đưa màn hình điện thoại ra, bớt lo khi bác sĩ giải thích bằng dấu hiệu trên chính con mình và thừa nhận phần mẹ đọc đúng. Giấu chuyện statin: hỏi chung 'chị có uống thuốc gì không' thì nói 'dạ không, em chỉ uống thuốc bổ'; chỉ kể khi bác sĩ hỏi riêng về mẹ khi đang cho con bú hoặc hỏi điều gì làm chị lo nhất.",
+  "nguoi_nha": "Mẹ bé, chị Hà, 33 tuổi, bế bé đi khám. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ê a. Bố đi làm xa, tuần này ở nhà; bà ngoại giúp trông bé ban ngày nhưng không đi khám.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hà)",
+  "ngoai_hinh": {
+   "da": "#f3cfae",
+   "toc": "#1f1712",
+   "kieuToc": "tre",
+   "ao": "#bfe0d4",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "quay",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#c9b7e0",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 7 tháng sốt, ho, sổ mũi 3 ngày; mẹ đọc trên mạng thấy giống cúm, đòi test cúm và Tamiflu",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (tối thứ Sáu, 20 giờ 30): kỹ thuật viên xét nghiệm và chẩn đoán hình ảnh đã về nên phòng khám không làm được xét nghiệm (công thức máu, CRP, test nhanh cúm, liên cầu), X-quang, siêu âm (kéo theo không CT, nội soi). Còn dùng được: nhiệt kế, ống nghe, đèn soi tai họng, máy đo SpO₂, cân. Bệnh viện huyện cách 14 km (khoa nhi có xét nghiệm cả đêm). Quyết định phải dựa vào hỏi bệnh, khám và hẹn tái khám."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 3 của bệnh",
+   "tiep_don": "Bé trai 7 tháng, 8,5 kg, mẹ bế đến lúc 20 giờ 30 tối thứ Sáu vì sốt, ho, sổ mũi từ 3 ngày nay. Mẹ nói ở nhà không đỡ, đã đọc trên mạng và rất lo. Sinh hiệu lúc tiếp đón: nhiệt độ 38,1 °C (nách), mạch 118 l/p, nhịp thở 38 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang được giữ lại nhập viện nhi để 'theo dõi viêm phổi' dù thở 38 l/p (dưới ngưỡng thở nhanh 50 l/p của trẻ 2–11 tháng), không rút lõm ngực, SpO₂ 98%, còn bú và còn cười (WHO 2013 Bảng 7 tr. 81; NICE NG143 2021 mục 1.2.7, 1.2.22). Bé phải nằm viện đêm, dễ bị lây thêm virus khác và có thể bị tiêm kháng sinh không cần thiết (WHO 2013 mục 4.4: kháng sinh không hiệu quả trong cảm lạnh). Mẹ càng tin 'bệnh nặng' và càng sợ khi con ho.",
+    "chuyen_tuyen": "Bé Khang được chuyển ngay lên bệnh viện huyện trong đêm để chụp X-quang, làm xét nghiệm 'cho chắc'. Bé không có dấu hiệu nguy hiểm, không thở nhanh, không rút lõm, không có dấu mất nước (WHO 2013 Bảng 7; NICE NG143 2021 mục 1.2.5–1.2.7); viêm mũi họng cấp thường không cần xét nghiệm (QĐ 5643/2015, Viêm mũi họng cấp tính, mục 3.1.2). Chuyến đi 14 km đêm khuya làm bé và mẹ mệt hơn, tốn kém, và dễ kết thúc bằng một đơn kháng sinh không có lợi ích."
+   },
+   "loi_mo": "Chào bác sĩ. Con tôi sốt, ho, sổ mũi ba ngày rồi, uống thuốc hạ sốt mà vẫn không đỡ. Tôi đọc trên mạng thấy giống cúm lắm. Bác sĩ làm giùm cháu cái test cúm rồi cho cháu uống Tamiflu liền đi, kẻo nó thành viêm phổi.",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "Không đo",
+    "nhiet": "38,1",
+    "nhip_tho": 38,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé sốt, ho, sổ mũi 3 ngày nay, không đỡ. Mẹ đọc trên mạng thấy giống cúm, muốn làm test cúm và cho uống Tamiflu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và diễn tiến"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ngày 1: hắt hơi, sổ mũi nước trong. Ngày 2: sốt 38,0–38,4 °C, nghẹt mũi, ho. Ngày 3 (hôm nay): ho nhiều hơn, có tiếng đờm trong mũi họng, quấy hơn bình thường. Sốt không vượt 38,5 °C. Không khò khè, không thở rít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát từ từ, thể nhẹ, không khò khè"
+    },
+    {
+     "id": "lay_nhiem",
+     "noi_dung": "Bố bé ho, sổ mũi, đau họng, sốt nhẹ 6 ngày trước, tự khỏi sau 4–5 ngày, ngủ chung phòng với bé. Bà ngoại trông bé ban ngày vẫn khỏe. Không ai trong nhà được xét nghiệm cúm, không ai nằm viện, không đi chợ hay chỗ đông người, không biết quanh xóm có ổ cúm nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lây trong nhà; không có dịch tễ cúm rõ"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Bé bú mẹ gần đủ, ngạt mũi nên bỏ vú giữa chừng rồi bú lại; 6 cữ/ngày, tã ướt 5–6 cái, không nôn, không co giật, không tím, không thở rít, không rên. Ngủ được, gọi thì tỉnh, vẫn cười với mẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu nguy hiểm, mất nước"
+    },
+    {
+     "id": "tai_ho",
+     "noi_dung": "Không ho thành cơn, không ho rũ, không tím sau ho, không nôn sau ho. Không kéo tai, không chảy dịch tai. Phân bình thường, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ho cơn, triệu chứng tai"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh thường 39 tuần, 3,2 kg. Bú mẹ hoàn toàn, mới ăn dặm bột loãng 2 tuần. Chưa từng khò khè, chưa nhập viện, không dị ứng. Đã tiêm đủ các mũi theo sổ tiêm chủng đến nay. Bố mẹ không hen, không dị ứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, tiêm chủng, không bệnh nền"
+    },
+    {
+     "id": "thuoc_cho_be",
+     "noi_dung": "Hôm nay mẹ đã cho siro paracetamol (120 mg/5 mL) 4 lần: 7 giờ, 11 giờ, 15 giờ, 19 giờ 30, mỗi lần 5 mL (120 mg) vì 'thấy sốt lại'. Chưa cho kháng sinh, chưa cho thuốc ho hay nhỏ mũi nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã cho bé (khoảng cách liều)"
+    },
+    {
+     "id": "google",
+     "noi_dung": "Mẹ đọc trên mạng hai điều: 'cúm ở trẻ nhỏ nguy hiểm, phải uống Tamiflu trong 48 giờ' và 'trẻ bú mẹ ho, sổ mũi có thể do thuốc mẹ uống'. Mẹ chụp màn hình lưu trong điện thoại.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_me",
+     "noi_dung": "Mẹ uống atorvastatin 10 mg mỗi tối gần 2 tháng nay (bác sĩ bệnh viện tỉnh kê từ trước khi mang thai vì cholesterol cao, LDL-C 4,4 mmol/L, chưa có bệnh tim mạch). Sau sinh mẹ tự uống lại. Năm ngày trước mẹ đọc bài cảnh báo thuốc đi vào sữa nên tự ngưng, chưa hỏi bác sĩ nào.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'chị có uống thuốc gì không' thì nói 'dạ không, em chỉ uống thuốc bổ' vì ngại bị trách. Chỉ kể khi bác sĩ hỏi riêng về mẹ đang cho con bú (mẹ có đang dùng thuốc nào, thuốc mỡ máu, thuốc tự ngưng) hoặc hỏi 'điều gì làm chị lo nhất'.",
+     "k": 1,
+     "y": "Thuốc của mẹ (statin) khi cho con bú, tự ngưng"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Điều chị lo nhất: sợ statin đã qua sữa làm con ho, sổ mũi, và chị là người làm con ốm. Chị đọc đến khuya, thấy có lỗi, đó là lý do hôm nay chị đòi làm test và thuốc 'cho chắc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị nghĩ vì sao bé bị bệnh, điều gì làm chị lo nhất, hoặc vì sao hôm nay chị quyết định đưa bé đi ngay tối nay. Hỏi lần hai mẹ mới rơm rớm nước mắt.",
+     "k": 1,
+     "y": "Động cơ thật: sợ thuốc statin qua sữa gây bệnh cho con"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân nặng 8,5 kg. Bé tỉnh, hơi quấy nhưng nín khi mẹ bế, nhìn theo mẹ, cười khi được chơi. Môi hồng, niêm mạc miệng ẩm, khóc có nước mắt, véo da bụng đàn hồi ngay: không mất nước. Không tím, không rên, không thở rít.",
+     "k": 1,
+     "hien": "Cân 8,5 kg. Tỉnh, nhìn theo mẹ, cười khi chơi, khóc có nước mắt, môi ẩm."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mắt không trũng. Hạch dưới hàm hai bên nhỏ, di động, không đau. Cổ mềm, không cứng gáy.",
+     "k": 0,
+     "hien": "Thóp phẳng. Hạch dưới hàm nhỏ, di động."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: dịch trong lẫn nhầy, niêm mạc phù; hút mũi xong bé thở êm hơn. Họng: đỏ nhẹ, nhầy chảy từ vòm xuống thành sau; amidan nhỏ, không giả mạc, không chấm mủ. Miệng: hai răng cửa dưới đang nhú, không loét. Tai: màng nhĩ hai bên hơi đục, không phồng, không đỏ rực, còn di động; kéo vành tai bé không đau.",
+     "k": 1,
+     "hien": "Mũi có dịch trong lẫn nhầy. Họng đỏ nhẹ, không giả mạc. Màng nhĩ không phồng. Hai răng cửa dưới đang nhú."
+    },
+    "tim": {
+     "a": "Tim nhanh đều 118 l/p, T1 T2 rõ, không âm thổi. Nhịp phù hợp nhũ nhi có sốt. Mao mạch hồi sắc dưới 2 giây.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 38 l/p, dưới ngưỡng thở nhanh 50 l/p của trẻ 2–11 tháng. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran. Tiếng sụt sịt nghe được là từ mũi và giảm sau hút mũi.",
+     "k": 1,
+     "hien": "Nhịp thở 38 l/p. Không rút lõm lồng ngực, không phập phồng cánh mũi.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, ấm, không ban, không chấm xuất huyết, không vàng da.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú tốt, mút – nuốt nhịp nhàng, bỏ vú ngắt quãng vì ngạt mũi rồi bú tiếp sau khi mẹ hút mũi, bú khoảng 12 phút một bên. Sữa mẹ đủ, bé nuốt không sặc.",
+     "k": 1,
+     "hien": "Bé ngậm vú tốt, bỏ vú ngắt quãng vì nghẹt mũi, bú tiếp được sau khi hút mũi."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Không làm được ngoài giờ",
+     "n": "Viêm mũi họng cấp thường không cần xét nghiệm (QĐ 5643/2015, Viêm mũi họng cấp tính, mục 3.1.2). Cơ sở không có xét nghiệm lúc này."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Không làm được ngoài giờ",
+     "n": "Bé không có dấu hiệu nhiễm khuẩn nặng (NICE NG143 2021 mục 1.2.5–1.2.7); CRP không đổi hướng xử trí. Cơ sở không có xét nghiệm lúc này."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Test nhanh cúm A/B: không làm được ngoài giờ",
+     "n": "Cơ sở không có test nhanh. Bé thiếu yếu tố dịch tễ, thể nhẹ nên chưa đủ ca nghi ngờ (QĐ 1840/2025 mục II.2.4.1); quyết định bằng khám và dịch tễ. Làm test là chấp nhận được nếu có."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "Không làm được ngoài giờ",
+     "n": "Không chỉ định: dưới 3 tuổi không làm xét nghiệm liên cầu thường quy (IDSA 2012 khuyến cáo 5); bé có ho, sổ mũi gợi ý virus (khuyến cáo 4)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không làm được ngoài giờ",
+     "n": "Không có dấu hiệu gợi ý viêm phổi: thở 38 l/p, không rút lõm, SpO₂ 98% (WHO 2013 Bảng 7 tr. 81; NICE NG143 2021 mục 1.2.22)."
+    },
+    "pcr_ho_hap": {
+     "v": "n",
+     "r": "Không làm được tại cơ sở",
+     "n": "Không làm được tại cơ sở (gửi mẫu, kết quả sau nhiều ngày) nên không kịp ảnh hưởng quyết định hôm nay; bé chưa đủ tiêu chuẩn ca nghi ngờ cúm vì thiếu yếu tố dịch tễ (QĐ 1840/2025 mục II.2.4.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm hô hấp trên cấp do virus (cảm lạnh, viêm mũi họng cấp), ngày thứ 3, nhũ nhi 7 tháng, chưa biến chứng",
+     "ok": 1,
+     "n": "Sốt nhẹ, ngạt mũi, sổ mũi, ho; họng đỏ nhẹ, không giả mạc, màng nhĩ không phồng, phổi sạch, thở 38 l/p; bố ốm trước 6 ngày. Virus chiếm 60–80% viêm mũi họng (QĐ 5643/2015, Viêm mũi họng cấp tính, mục 2.1.2); cảm lạnh tự giới hạn, chỉ hỗ trợ (WHO 2013 mục 4.4 tr. 90)."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Khởi phát từ từ, sốt không quá 38,5 °C, bú còn gần đủ, không suy hô hấp; chỉ có nguồn lây là bố bị cảm, không tiếp xúc người xác nhận cúm, không ở vùng dịch nên chưa đủ ca nghi ngờ (QĐ 1840/2025 mục II.2.4.1). Cúm nhẹ và cảm lạnh khó phân biệt bằng lâm sàng, không có test nhanh ngoài giờ; nghĩ lại nếu có dịch tễ hoặc bé thở nhanh, thở gắng sức (mục II.2.3)."
+    },
+    {
+     "t": "Viêm họng liên cầu nhóm A",
+     "n": "Dưới 3 tuổi hiếm và không điển hình; ho, sổ mũi là dấu hiệu virus; họng không xuất tiết, không chấm mủ (IDSA 2012 khuyến cáo 4, 5). Không có anh chị mắc liên cầu để cân nhắc làm test."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Cần ho dai dẳng kèm thở nhanh hoặc rút lõm, và khò khè hoặc ran (NICE NG9 2015 mục 1.1.3). Bé thở 38 l/p, không rút lõm, không khò khè, phổi không ran."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Cần thở nhanh (trên 50 l/p ở 6–12 tháng), ran, phập phồng cánh mũi, rút lõm, SpO₂ ≤ 95% (NICE NG143 2021 mục 1.2.22; WHO 2013 Bảng 7). Bé không có dấu nào; không có X-quang ngoài giờ nên quyết định bằng khám."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Màng nhĩ hơi đục nhưng không phồng, còn di động, không chảy mủ, bé không kéo tai; chẩn đoán cần phồng màng nhĩ hoặc chảy mủ tai (AAP 2013 khuyến cáo 1A–1B)."
+    },
+    {
+     "t": "Ho, sổ mũi do statin của mẹ qua sữa",
+     "n": "Không có trong tài liệu đã tải mô tả ho, sổ mũi ở trẻ bú mẹ do statin của mẹ; tài liệu chỉ khuyên tránh statin khi cho bú vì thiếu dữ liệu (ACC/AHA 2026 Bảng 20; ESC/EAS 2019 mục 9.2). Bé khỏe suốt gần 2 tháng mẹ uống thuốc, chỉ ốm sau bố, đúng bệnh cảnh virus."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kê kháng sinh, giải thích bệnh do virus, tự khỏi (HOẶC kê amoxicillin theo QĐ 5643/2015 vì không có xét nghiệm)",
+     "v": "c",
+     "n": "Hai cách, đều đúng (sổ mâu thuẫn, mục 'Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu'). Cách 1: WHO 2013 mục 4.4 tr. 90–91 (kháng sinh không hiệu quả, không phòng được viêm phổi); QĐ 5643/2015, Viêm V.A cấp mục 4.1; IDSA 2012 khuyến cáo 4–5. Cách 2: QĐ 5643/2015, Viêm mũi họng cấp tính mục 4.1, 4.3.1 (điều trị như liên cầu khi chưa có xét nghiệm, amoxicillin 10 ngày; 6–<10 kg: 375 mg mỗi 12 giờ, AWaRe 2022 tr. 50). Khác nhau do năm văn bản và mục tiêu phòng biến chứng liên cầu; số liệu thấp tim ở trẻ nhỏ Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích vì sao không cần test cúm và Tamiflu hôm nay: bé nhẹ, chưa có yếu tố dịch tễ cúm; nêu dấu hiệu nặng cần quay lại",
+     "v": "c",
+     "n": "QĐ 1840/2025 mục II.2.4.1 (ca nghi ngờ cần yếu tố dịch tễ), mục II.2.3 (cúm nặng: thở nhanh, thở gắng sức); WHO 2024 (tóm tắt BMJ 2026): kháng virus cho thể nặng và thể không nặng có nguy cơ cao tiến triển, không nêu cho thể nguy cơ thấp. Nhận mẹ đúng một phần: cúm nhẹ và cảm lạnh khó phân biệt, nên cần tái khám."
+    },
+    {
+     "t": "Hút mũi hoặc lau mũi và nhỏ nước muối sinh lý trước cữ bú",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 tr. 91 (lau dịch mũi trước cữ bú); QĐ 5643/2015, Viêm V.A cấp mục 4.2 (hút mũi, rỏ mũi cho bé dễ thở)."
+    },
+    {
+     "t": "Tiếp tục bú mẹ, chia cữ nhỏ, theo dõi tã ướt và dấu hiệu mất nước",
+     "v": "c",
+     "n": "NICE NG143 2021 mục 1.7.2 (sữa mẹ là dịch phù hợp nhất; dấu hiệu mất nước: thóp trũng, miệng khô, mắt trũng, không nước mắt); WHO 2013 mục 4.4."
+    },
+    {
+     "t": "Paracetamol 100 mg mỗi lần (khoảng 4 mL siro 120 mg/5 mL), cách nhau ít nhất 6 giờ, tối đa 4 lần/24 giờ, chỉ khi sốt làm bé khó chịu; chỉnh lại cách mẹ cho (mỗi 4 giờ)",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 50: 10–15 mg/kg mỗi 6 giờ, 6–<10 kg: 100 mg (8,5 kg: 85–128 mg); NICE NG143 2021 mục 1.6.4–1.6.6 (chỉ khi bé khó chịu, không dùng chỉ để hạ nhiệt độ); WHO 2013 mục 4.4."
+    },
+    {
+     "t": "Hỏi riêng về mẹ và thuốc mẹ đang dùng; hướng dẫn không dùng lại statin lúc còn cho con bú, hẹn bác sĩ điều trị mỡ máu; trấn an bệnh của bé là virus lây từ bố, không do thuốc",
+     "v": "c",
+     "n": "ESC/EAS 2019 mục 9.2, Box 6 (không dùng thuốc hạ lipid khi cho con bú vì thiếu dữ liệu); ACC/AHA 2026 Bảng 20 (statin: tránh khi cho bú) và mục 4.2.8.4 khuyến cáo 4 (chất gắn acid mật hợp lý, 2a, C-EO). Hai nguồn đồng ý, không mâu thuẫn. Thời điểm dùng lại và ngưỡng LDL-C: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu nguy hiểm và hẹn tái khám sau 3–4 ngày nếu chưa đỡ, đến ngay nếu có dấu hiệu nặng",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 tr. 91 và Bảng 7 (thở nhanh ≥ 50 l/p ở 2–11 tháng, không bú được, nặng hơn); NICE NG143 2021 mục 1.7.3 (co giật, sốt từ 5 ngày, mẹ thấy bé nặng hơn); AAP 2013 khuyến cáo 1A–1B (đau tai, chảy mủ). Mốc tái khám 3–4 ngày là của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho oseltamivir ngay theo yêu cầu của mẹ",
+     "v": "a",
+     "n": "Chấp nhận, không bắt buộc: trẻ < 5 tuổi là yếu tố nguy cơ cúm nặng, cúm nhẹ có yếu tố nguy cơ thì dùng kháng virus sớm (QĐ 1840/2025 mục II.2.3, III.2.1; liều 0–8 tháng 3 mg/kg × 2 lần/ngày × 5 ngày); WHO 2024 chỉ nêu kháng virus cho thể nặng và nguy cơ cao tiến triển (sổ mâu thuẫn, mục 'Kháng virus cho trẻ khỏe mạnh < 5 tuổi bị cúm nhẹ'). Ca này chưa có yếu tố dịch tễ nên đáp án chính là không dùng."
+    },
+    {
+     "t": "Lau người bằng nước ấm để hạ sốt",
+     "v": "a",
+     "n": "NICE NG143 2021 mục 1.6.2 không khuyến cáo; QĐ 3312/2015 còn nêu lau mát: chấp nhận được, không ưu tiên."
+    },
+    {
+     "t": "Cho siro ho, thuốc long đờm, thuốc chứa codein hoặc atropin",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4 tr. 91: không cho thuốc chứa atropin, codein, cồn (có thể có hại) hoặc thuốc tiêu nhầy."
+    },
+    {
+     "t": "Cho kháng sinh tiêm hoặc cephalosporin thế hệ 3 'để không thành viêm phổi'",
+     "v": "w",
+     "n": "Kháng sinh không phòng được viêm phổi trong cảm lạnh (WHO 2013 mục 4.4 tr. 91); không có chỉ định kháng sinh mạnh khi chưa có biến chứng (QĐ 5643/2015, Viêm V.A cấp mục 4.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm hô hấp trên cấp do virus (cảm lạnh, viêm mũi họng cấp), ngày thứ 3, nhũ nhi nam 7 tháng, 8,5 kg",
+     "Chưa biến chứng: không viêm phổi (thở 38 l/p dưới 50), không viêm tiểu phế quản, không viêm tai giữa cấp; không dấu hiệu nguy hiểm, không mất nước, còn bú",
+     "Không nghĩ liên cầu nhóm A (dưới 3 tuổi, có ho, sổ mũi); chưa đủ tiêu chuẩn nghi ngờ cúm (thiếu yếu tố dịch tễ, thể nhẹ)",
+     "Statin của mẹ không phải nguyên nhân; mẹ đã tự ngưng statin khi đang cho con bú, cần hướng dẫn riêng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám, diễn tiến từng ngày; dấu hiệu nguy hiểm và mất nước; nguồn lây (bố ốm trước 6 ngày); tiền sử, tiêm chủng, khò khè; thuốc đã cho bé (paracetamol mỗi 4 giờ); sau cùng hỏi riêng về mẹ (thuốc mẹ đang uống, điều làm chị lo). Khám: toàn thân, thóp, mũi họng tai, tim, phổi (đếm nhịp thở đủ 1 phút), cân, quan sát cữ bú.",
+     "Cảm lạnh: ho, chảy mũi, thở miệng, sốt, không dấu hiệu nguy hiểm, không dấu hiệu viêm phổi (WHO 2013 mục 4.4 tr. 90). Virus chiếm 60–80% viêm mũi họng (QĐ 5643/2015, Viêm mũi họng cấp tính, mục 2.1.2), thường tự khỏi sau 3–5 ngày (mục 5.1), không cần xét nghiệm (mục 3.1.2).",
+     "Cúm: không loại trừ hoàn toàn chỉ bằng lâm sàng, nhưng ca nghi ngờ cần yếu tố dịch tễ (QĐ 1840/2025 mục II.2.4.1) mà bé không có. Trẻ < 5 tuổi là nhóm nguy cơ cúm nặng (mục II.2.3) nên dặn kỹ dấu hiệu thở nhanh, thở gắng sức; mẹ đúng một phần khi nghĩ tới cúm.",
+     "Liên cầu: dưới 3 tuổi không làm xét nghiệm thường quy vì thấp tim rất hiếm (IDSA 2012 khuyến cáo 5); ho, sổ mũi gợi ý virus (khuyến cáo 4). Họng đỏ nhẹ, nhầy từ vòm xuống là viêm V.A/viêm mũi họng cấp (QĐ 5643 Viêm V.A cấp mục 3.1.1.1).",
+     "Loại trừ biến chứng bằng khám: thở 38 l/p, không rút lõm, SpO₂ 98% (WHO 2013 Bảng 7 tr. 81; NICE NG143 2021 mục 1.2.22); không khò khè, không ran nên chưa là viêm tiểu phế quản (NICE NG9 2015 mục 1.1.3); màng nhĩ không phồng (AAP 2013 khuyến cáo 1A–1B); mạch 118 l/p dưới 160 l/p (NICE NG143 mục 1.2.15). Bé nhóm nguy cơ thấp: tỉnh, cười, bú, ẩm (mục 1.2.7).",
+     "Không có xét nghiệm ngoài giờ không làm thiếu: công thức máu, CRP không giúp phân biệt cảm lạnh (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2). Quyết định lâm sàng chủ động, kèm hẹn tái khám có mốc.",
+     "Mẹ: bé khỏe suốt gần 2 tháng mẹ dùng statin, chỉ ốm sau bố; không có tài liệu đã tải nêu statin qua sữa gây ho, sổ mũi. Mẹ ngưng statin khi cho con bú là đúng hướng (ESC/EAS 2019 Box 6; ACC/AHA 2026 Bảng 20). Phải hỏi riêng về mẹ vì mẹ giấu thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, điều trị hỗ trợ tại nhà, hẹn tái khám: không có tiêu chuẩn nhập viện hay chuyển tuyến (không dấu hiệu nguy hiểm, không thở nhanh, không rút lõm, không mất nước).",
+     "Kháng sinh: hai cách đều đúng. Không kê (WHO 2013 mục 4.4; QĐ 5643 Viêm V.A cấp mục 4.1; IDSA 2012 khuyến cáo 4–5) hoặc amoxicillin 10 ngày vì không có xét nghiệm (QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1; 375 mg mỗi 12 giờ, AWaRe 2022 tr. 50). Khác nhau do năm văn bản và mục tiêu phòng biến chứng liên cầu. Kháng sinh không phòng được viêm phổi (WHO 2013 mục 4.4).",
+     "Hạ sốt chỉ khi bé khó chịu: paracetamol 100 mg, cách ít nhất 6 giờ, tối đa 4 lần/24 giờ (AWaRe 2022 tr. 50; NICE NG143 2021 mục 1.6.4–1.6.6). Mẹ đang cho mỗi 4 giờ, cần chỉnh.",
+     "Test cúm, Tamiflu: giải thích bằng dấu hiệu cụ thể trên con mình; WHO 2024 chỉ nêu kháng virus cho thể nặng và thể nguy cơ cao tiến triển; BYT cho dùng ở trẻ < 5 tuổi khi nghi ngờ cúm (QĐ 1840/2025 mục III.2.1) nhưng bé chưa đủ ca nghi ngờ.",
+     "Với mẹ: hỏi riêng, không phán xét. Không dùng lại statin lúc còn cho con bú, hẹn bác sĩ điều trị mỡ máu (ACC/AHA 2026 Bảng 20, khuyến cáo 4; ESC/EAS 2019 mục 9.2); không cần cai sữa. Thời điểm dùng lại, ngưỡng LDL-C: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro)",
+      "ham_luong": "120 mg/5 mL",
+      "lieu": "100 mg/lần (khoảng 4 mL); cho phép 10–15 mg/kg = 85–128 mg",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé khó chịu, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt, tối đa 4 lần/24 giờ",
+      "ghi_chu": "Theo nguồn AWaRe 2022 tr. 50 (6–<10 kg: 100 mg mỗi 6 giờ; siro 120 mg/5 mL); NICE NG143 2021 mục 1.6.4–1.6.6. Mẹ đang cho mỗi 4 giờ: chỉnh lại."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ 1–2 giọt mỗi bên mũi rồi hút nhẹ hoặc lau bằng khăn vặn nhọn",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO 2013 mục 4.4 tr. 91; QĐ 5643/2015, Viêm V.A cấp mục 4.2. Số giọt mỗi lần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh: không kê HOẶC amoxicillin theo QĐ 5643/2015 (hai cách đều đúng)",
+      "ham_luong": "Cách 2: gói hoặc siro theo nhãn",
+      "lieu": "Cách 1: không kê. Cách 2: 375 mg mỗi 12 giờ (8,5 kg: 88 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Cách 2: sáng và tối",
+      "so_ngay": "Cách 2: 10 ngày",
+      "ghi_chu": "Cách 1: WHO 2013 mục 4.4; QĐ 5643 Viêm V.A mục 4.1; IDSA 2012 khuyến cáo 4–5. Cách 2: QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1; liều AWaRe 2022 tr. 50."
+     }
+    ],
+    "dan_do": [
+     "Bé bị cảm do virus lây từ bố, thường hết sốt sau 3–5 ngày; ho, sổ mũi có thể đến khoảng 14 ngày (QĐ 5643/2015, Viêm mũi họng cấp tính mục 5.1; WHO 2013 mục 4.4). Hôm nay không cần kháng sinh hay xét nghiệm.",
+     "Thuốc của chị không phải nguyên nhân: bé khỏe trong 2 tháng chị uống, bé ốm sau bố. Chị ngưng là đúng, đừng uống lại lúc còn cho bú; hẹn bác sĩ điều trị mỡ máu bàn cách khác (ACC/AHA 2026 Bảng 20). Chị cứ tiếp tục cho bé bú.",
+     "Nhỏ nước muối và hút mũi trước cữ bú; bú mẹ chia cữ nhỏ; đếm tã ướt, nhìn thóp, miệng, nước mắt (NICE NG143 2021 mục 1.7.2). Không tự mua siro ho, thuốc long đờm, thuốc nhỏ mũi (WHO 2013 mục 4.4).",
+     "Paracetamol 100 mg (khoảng 4 mL), cách ít nhất 6 giờ, tối đa 4 lần/ngày, chỉ khi bé khó chịu vì sốt; không cho 4 giờ một lần (AWaRe 2022 tr. 50; NICE NG143 mục 1.6.5).",
+     "Đến ngay nếu bé thở từ 50 lần/phút, rút lõm ngực, thở rít, rên, không bú được, nôn tất cả, li bì, co giật, tím, thóp phồng hoặc lõm, tã ướt giảm, sốt từ 5 ngày, đau tai, chảy mủ tai (WHO 2013 Bảng 7; NICE NG143 2021 mục 1.7.3; AAP 2013). Tái khám sau 3–4 ngày nếu chưa đỡ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 ngày (ngày thứ 7 của bệnh)",
+   "tiep_don": "Bé Khang, 7 tháng, tái khám lúc 20 giờ tối thứ Ba (vẫn ngoài giờ, kỹ thuật viên chưa vào làm). Mẹ nói 'cháu không đỡ chút nào', vẫn ho, nghẹt mũi, ban đêm quấy. Sinh hiệu lúc tiếp đón: nhiệt độ 37,2 °C (nách), mạch 114 l/p, nhịp thở 40 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang nhập viện vì 'không đỡ sau 7 ngày, nghi viêm phổi hoặc bội nhiễm'. Bé đã hết sốt từ ngày 5, thở 40 l/p dưới ngưỡng 50 l/p, không rút lõm, SpO₂ 98%, bú lại bình thường, tăng cân (WHO 2013 Bảng 7 tr. 81; NICE NG143 2021 mục 1.2.22); hầu hết đợt cảm lạnh kết thúc trong 14 ngày (WHO 2013 mục 4.4). Nằm viện làm mẹ càng tin con bệnh nặng, bé có nguy cơ bị kháng sinh không cần thiết, mà việc thực sự cần là nhỏ mũi đều và bỏ siro long đờm.",
+    "chuyen_tuyen": "Bé Khang được chuyển lên tuyến trên khám nhi, tai mũi họng vì 'ho kéo dài'. Bé mới ốm 7 ngày, chưa đến mốc ho 14 ngày để tìm lao, hen, ho gà (WHO 2013 mục 4.4 tr. 90); không dấu hiệu nguy hiểm, không dấu biến chứng tai (AAP 2013 khuyến cáo 1A–1B). Mẹ tốn thời gian và tiền, bé phải đi xa lúc đang quấy, trong khi nguyên nhân 'không đỡ' là chăm sóc mũi chưa đủ và còn cho siro long đờm tại nhà."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu uống thuốc đúng như bác sĩ dặn mà vẫn không đỡ, cứ ho, nghẹt mũi, đêm quấy. Em ngưng thuốc của em đến chín ngày rồi mà cháu vẫn ho, hay thuốc còn đọng trong sữa hả bác sĩ? Hay là cháu bị biến chứng gì rồi?",
+   "sinh_hieu": {
+    "mach": 114,
+    "ha": "Không đo",
+    "nhiet": "37,2",
+    "nhip_tho": 40,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn vì 'không đỡ': ho nhiều, nghẹt mũi, ban đêm quấy. Hết sốt từ chiều ngày thứ 5, nay không sốt lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám và diễn tiến sốt"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Ho đờm nghe khò khè trong mũi họng, nhiều nhất lúc nằm và sáng sớm. Không ho thành cơn, không tím, không nôn sau ho, không thở rít, không khò khè. Sổ mũi đặc hơn, màu vàng nhạt, nghẹt mũi nặng ban đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm ho, không có ho cơn hay dấu hiệu nặng"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bé bú gần như bình thường, bỏ vú ngắt quãng vì nghẹt mũi. Tã ướt 5–6 cái/ngày, chơi và cười được ban ngày, ăn dặm bột được nửa chén.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, hoạt động, không mất nước"
+    },
+    {
+     "id": "nuoc_muoi",
+     "noi_dung": "Chị không nhỏ nước muối vì bé khóc dữ, chỉ lau mũi bằng khăn khô; hút mũi bằng bóng 1–2 lần/ngày, thấy 'không ra gì'. Chị nghĩ làm vậy cũng như không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chăm sóc mũi chưa đúng (không tuân thủ)"
+    },
+    {
+     "id": "thuoc_tu_y",
+     "noi_dung": "Bà ngoại mua siro ho long đờm ở nhà thuốc (có ambroxol), cho bé 2,5 mL ngày 2 lần suốt 3 ngày nay. Chị cũng cho paracetamol 'cho chắc' mỗi tối 2 hôm nay dù bé không sốt. Không dùng kháng sinh hay thuốc nhỏ mũi nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự ý cho bé: siro long đờm, paracetamol khi không sốt"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Hai đêm nay bé quấy hơn, hay kéo tai và nắm tay vào miệng, chảy dãi nhiều. Không chảy dịch tai, không sốt, không bỏ bú vì đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kéo tai và quấy đêm: nhiễu hay dấu hiệu viêm tai"
+    },
+    {
+     "id": "rang",
+     "noi_dung": "Hai răng cửa dưới đang nhú, bé gặm tay và chảy dãi từ 4 ngày nay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "me_statin",
+     "noi_dung": "Chị đã ngưng atorvastatin 9 ngày. Chị đang phân vân uống lại cho yên tâm vì LDL-C cao, hoặc cai sữa để uống thuốc, nhưng chưa nói với ai. Chị vẫn nghĩ 'thuốc còn đọng trong sữa nên cháu chưa hết ho'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị chỉ nói ra khi bác sĩ hỏi chị đã xử trí thuốc của mình thế nào từ lần trước, chị còn lo điều gì khác, hoặc hỏi thẳng về chuyện thuốc trong sữa.",
+     "k": 1,
+     "y": "Ý định uống lại statin hoặc cai sữa; nỗi sợ thuốc đọng trong sữa"
+    },
+    {
+     "id": "google2",
+     "noi_dung": "Chị đọc thêm trên mạng: 'ho quá 7 ngày là viêm phế quản phải dùng kháng sinh' và 'ho kéo dài là dấu hiệu thuốc của mẹ tích trong sữa'. Chị tin cả hai nửa chừng và đưa màn hình điện thoại.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 8,6 kg (tăng 100 g so với lượt 1). Bé tỉnh, hơi quấy khi bị khám, nín khi mẹ bế, cười khi chơi. Môi hồng, niêm mạc miệng ẩm, có nước mắt. Không tím, không rên.",
+     "k": 1,
+     "hien": "Cân 8,6 kg. Tỉnh, cười khi chơi, môi ẩm, khóc có nước mắt."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mắt không trũng. Hạch dưới hàm nhỏ, di động. Cổ mềm.",
+     "k": 0,
+     "hien": "Thóp phẳng. Hạch dưới hàm nhỏ."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: nhầy đặc vàng nhạt làm bít một phần lỗ mũi, hút ra thì bé thở êm hơn rõ rệt. Họng: đỏ nhẹ, nhầy chảy từ vòm xuống thành sau. Miệng: nhiều dãi, hai răng cửa dưới nhú qua lợi, lợi sưng nhẹ. Tai: màng nhĩ hai bên hơi đục, không phồng, không đỏ rực, còn di động, không chảy dịch; chạm vành tai bé không đau.",
+     "k": 1,
+     "hien": "Mũi có nhầy đặc vàng nhạt, hút ra thì bé thở êm hơn. Màng nhĩ hai bên không phồng. Hai răng cửa dưới nhú."
+    },
+    "tim": {
+     "a": "Tim đều 114 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 114 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 40 l/p, dưới ngưỡng thở nhanh 50 l/p của trẻ 2–11 tháng. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran. Tiếng khò khè nghe được ở ngực là truyền từ mũi họng và mất sau hút mũi.",
+     "k": 1,
+     "hien": "Nhịp thở 40 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 8,6 kg (lượt 1: 8,5 kg), dài 69,5 cm: tiếp tục tăng, không sụt cân.",
+     "k": 1,
+     "hien": "Cân 8,6 kg, dài 69,5 cm."
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm vú tốt, bú nhịp nhàng, bỏ vú vài lần vì nghẹt mũi rồi bú lại sau khi hút mũi. Bú đủ một bên 10 phút. Không sặc.",
+     "k": 0,
+     "hien": "Bé ngậm vú tốt, bỏ vú ngắt quãng vì nghẹt mũi."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Không làm được ngoài giờ",
+     "n": "Không có dấu hiệu gợi ý nhiễm khuẩn nặng; công thức máu không giúp phân biệt cảm lạnh (QĐ 5643/2015, Viêm mũi họng cấp tính, mục 3.1.2). Cơ sở không có xét nghiệm lúc này."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Không làm được ngoài giờ",
+     "n": "Không đổi hướng xử trí khi bé đã hết sốt, thở bình thường, tăng cân. Cơ sở không có xét nghiệm lúc này."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Test nhanh cúm A/B: không làm được ngoài giờ",
+     "n": "Cơ sở không có test; bệnh ngày thứ 7, đã hết sốt, hầu như không còn ý nghĩa điều trị kháng virus (QĐ 1840/2025 mục III.2.1: dùng càng sớm càng tốt)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không làm được ngoài giờ",
+     "n": "Không có dấu hiệu viêm phổi: thở 40 l/p, không rút lõm, SpO₂ 98%, không ran (WHO 2013 Bảng 7 tr. 81; NICE NG143 2021 mục 1.2.22)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm hô hấp trên cấp do virus, ngày thứ 7, diễn tiến bình thường (hết sốt, còn ho và nghẹt mũi), chưa biến chứng; 'không đỡ' do chăm sóc mũi chưa đủ và thuốc tự ý",
+     "ok": 1,
+     "n": "Hết sốt từ ngày 5 (QĐ 5643/2015, Viêm mũi họng cấp tính, mục 5.1: virus tự khỏi sau 3–5 ngày); hầu hết đợt cảm lạnh kết thúc trong 14 ngày (WHO 2013 mục 4.4 tr. 90). Thở 40 l/p, SpO₂ 98%, tăng cân, bú lại, màng nhĩ không phồng."
+    },
+    {
+     "t": "Thất bại điều trị / bội nhiễm vi khuẩn (viêm xoang, viêm V.A mủ) cần kháng sinh",
+     "n": "Nghĩ tới khi triệu chứng kéo dài từ 10 ngày, khởi phát nặng (sốt từ 39 °C kèm mũi mủ ít nhất 3–4 ngày liên tiếp) hoặc hai pha (đỡ 5–6 ngày rồi sốt, nặng lại) (IDSA ABRS 2012 khuyến cáo 1). Bé mới 7 ngày, hết sốt, chưa sốt lại; dịch mũi vàng nhạt đặc không phải tiêu chuẩn."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Kéo tai, quấy đêm, chảy dãi không đặc hiệu; cần màng nhĩ phồng hoặc chảy mủ tai (AAP 2013 khuyến cáo 1A–1B). Màng nhĩ không phồng, còn di động, bé đang mọc răng."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Không ho dai kèm thở nhanh hoặc rút lõm, khò khè hoặc ran (NICE NG9 2015 mục 1.1.3); triệu chứng đỉnh ngày 3–5 (mục 1.1.2), bé ngày 7 và đỡ dần."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 40 l/p dưới 50, không rút lõm, không ran, SpO₂ 98%, đã hết sốt (WHO 2013 Bảng 7; NICE NG143 2021 mục 1.2.22). Phần lớn đợt ho ở trẻ là cảm lạnh (WHO 2013 tr. 75)."
+    },
+    {
+     "t": "Ho gà và ho do nguyên nhân khác (lao, hen, HIV)",
+     "n": "Ho gà cần ho thành cơn có tiếng rít, nôn, tím (WHO 2013 mục 4.1); ho từ 14 ngày mới tìm lao, hen, ho gà, HIV (mục 4.4 tr. 90). Bé ho ngày 7, không ho cơn, không nôn, không tím."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Bệnh ngày 7, đã hết sốt, không có dịch tễ xác nhận; kháng virus có giá trị khi dùng sớm (QĐ 1840/2025 mục III.2.1) nên hôm nay không còn lợi ích. Không có test ngoài giờ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đây là hồi phục chậm bình thường, không phải thất bại điều trị; không kê kháng sinh (HOẶC amoxicillin theo QĐ 5643/2015 vì không có xét nghiệm)",
+     "v": "c",
+     "n": "Hai cách, đều đúng, như lượt 1 (sổ mâu thuẫn 'Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu'). Cách 1: WHO 2013 mục 4.4; IDSA ABRS 2012 khuyến cáo 1; QĐ 5643 Viêm V.A cấp mục 4.1. Cách 2: QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1; 375 mg mỗi 12 giờ (AWaRe 2022 tr. 50). Khác nhau do năm văn bản và mục tiêu phòng biến chứng liên cầu."
+    },
+    {
+     "t": "Làm lại chăm sóc mũi: nhỏ nước muối sinh lý rồi hút nhẹ hoặc lau bằng khăn vặn nhọn trước cữ bú; mẹ thực hành trước mặt bác sĩ",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 tr. 91; QĐ 5643/2015, Viêm V.A cấp mục 4.2 (hút mũi, rỏ mũi). Làm cùng mẹ giúp mẹ bớt sợ bé khóc."
+    },
+    {
+     "t": "Ngưng siro ho long đờm đang cho bé",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 tr. 91: không cho thuốc tiêu nhầy, codein, atropin, cồn. Liều ambroxol cho trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol chỉ khi bé sốt làm khó chịu, không cho 'cho chắc' khi không sốt",
+     "v": "c",
+     "n": "NICE NG143 2021 mục 1.6.4–1.6.6 (không dùng chỉ để hạ nhiệt độ hay phòng sốt); AWaRe 2022 tr. 50: 100 mg mỗi 6 giờ cho 6–<10 kg."
+    },
+    {
+     "t": "Giải đáp cho mẹ về statin: bé ho không phải do thuốc đọng trong sữa; chưa uống lại statin lúc còn cho con bú và không cần cai sữa vì chuyện này; hẹn bác sĩ điều trị mỡ máu bàn kế hoạch",
+     "v": "c",
+     "n": "ESC/EAS 2019 mục 9.2, Box 6; ACC/AHA 2026 Bảng 20 (statin tránh khi cho bú; chất gắn acid mật không vào sữa), mục 4.2.8.4 khuyến cáo 4 (2a, C-EO). Hai nguồn đồng ý. Thời điểm dùng lại, LDL-C cần điều trị: không có trong tài liệu đã tải. Không có chỉ định cai sữa vì cảm lạnh (NICE NG143 2021 mục 1.7.2: sữa mẹ là dịch phù hợp nhất)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3–4 ngày hoặc khi ho, sổ mũi quá 14 ngày; đến ngay khi có dấu hiệu nguy hiểm, sốt lại sau khi đã đỡ, đau tai hoặc chảy mủ tai",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (ho từ 14 ngày: tìm lao, hen, ho gà, HIV); IDSA ABRS 2012 khuyến cáo 1 (hai pha); AAP 2013 khuyến cáo 1A–1B; NICE NG143 2021 mục 1.7.3. Mốc 3–4 ngày là của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhỏ mũi thuốc co mạch hoặc sát trùng nhẹ (ephedrin 1%, argyron 1%)",
+     "v": "a",
+     "n": "QĐ 5643/2015, Viêm V.A cấp mục 4.2 cho dùng ở trẻ nhỏ; WHO 2013 mục 4.4 tr. 91 không dùng thuốc nhỏ mũi có hoạt chất. Mâu thuẫn đã ghi trong sổ (NH-0199 mục 4): chấm chấp nhận."
+    },
+    {
+     "t": "Cho thuốc ho chứa codein hoặc atropin, tiếp tục siro long đờm",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4 tr. 91: không cho codein, atropin, cồn (có thể có hại) hoặc thuốc tiêu nhầy."
+    },
+    {
+     "t": "Kê kháng sinh cephalosporin hoặc macrolid mạnh 'vì không đỡ sau 7 ngày'",
+     "v": "w",
+     "n": "Chưa đủ tiêu chuẩn bội nhiễm (IDSA ABRS 2012 khuyến cáo 1); kháng sinh trong cảm lạnh không hiệu quả (WHO 2013 mục 4.4). Amoxicillin theo QĐ 5643 đã gộp trong mục kháng sinh phía trên."
+    },
+    {
+     "t": "Khuyên mẹ uống lại statin 'vì thuốc không liên quan bệnh của bé' trong lúc còn cho con bú",
+     "v": "w",
+     "n": "ACC/AHA 2026 Bảng 20: tránh statin khi cho bú; ESC/EAS 2019 mục 9.2: không dùng thuốc hạ lipid khi cho bú vì thiếu dữ liệu. Quyết định dùng lại phải do bác sĩ điều trị mỡ máu của mẹ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm hô hấp trên cấp do virus (cảm lạnh), ngày thứ 7, diễn tiến bình thường: đã hết sốt, còn ho và nghẹt mũi",
+     "Chưa biến chứng: không bội nhiễm vi khuẩn, không viêm tai giữa cấp, không viêm phổi, không viêm tiểu phế quản; bé đang mọc răng (kéo tai, chảy dãi là nhiễu)",
+     "Mẹ thấy 'không đỡ' vì chăm sóc mũi chưa đúng, tự cho siro long đờm và paracetamol khi không sốt",
+     "Không do statin của mẹ; mẹ đang phân vân dùng lại statin hoặc cai sữa, cần hướng dẫn"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình 'không đỡ' đủ năm câu hỏi. Sai chẩn đoán? Không: hết sốt từ ngày 5, thở 40 l/p, SpO₂ 98%, không rút lõm, không ran, không ho cơn (WHO 2013 Bảng 7 tr. 81, mục 4.1; NICE NG9 2015 mục 1.1.3). Sai thuốc, không tuân thủ? Có: không nhỏ nước muối, cho siro long đờm (WHO 2013 mục 4.4), paracetamol phòng sốt (NICE NG143 2021 mục 1.6.5). Biến chứng? Chưa: màng nhĩ không phồng (AAP 2013 khuyến cáo 1A–1B), chưa sốt lại hay đủ 10 ngày (IDSA ABRS 2012 khuyến cáo 1). Đề kháng? Không áp dụng, chưa dùng kháng sinh.",
+     "'Không đỡ' sau 4 ngày không phải thất bại: sốt do virus hết sau 3–5 ngày, ho và nghẹt mũi còn lâu hơn (QĐ 5643/2015, Viêm mũi họng cấp tính mục 5.1; WHO 2013 mục 4.4: hầu hết kết thúc trong 14 ngày). Bé hết sốt, bú lại, cười, tăng 100 g.",
+     "Kéo tai, quấy đêm, chảy dãi, gặm tay gặp khi mọc răng và nghẹt mũi nặng ban đêm; không sốt, không chảy dịch tai, màng nhĩ không phồng (AAP 2013 khuyến cáo 1A–1B: dựa vào màng nhĩ phồng hoặc chảy mủ, không dựa vào triệu chứng đơn lẻ). Mối liên quan mọc răng và quấy: không có trong tài liệu đã tải.",
+     "Dịch mũi vàng nhạt, đặc chưa kết luận vi khuẩn. Bội nhiễm xoang cần ≥ 10 ngày, khởi phát nặng, hoặc hai pha (IDSA ABRS 2012 khuyến cáo 1); bé chưa chạm mốc nào.",
+     "Mẹ nghĩ 'thuốc còn đọng trong sữa': bé khỏe suốt gần 2 tháng mẹ uống thuốc, chỉ ốm sau bố và triệu chứng giống bố (mẹ ngưng thuốc 3 ngày trước khi bé ốm). Không có tài liệu đã tải nêu statin qua sữa gây ho, sổ mũi; tài liệu chỉ khuyên tránh vì thiếu dữ liệu (ACC/AHA 2026 Bảng 20; ESC/EAS 2019 mục 9.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, tiếp tục hỗ trợ, hẹn tái khám: không có tiêu chuẩn nhập viện hay chuyển tuyến (không dấu hiệu nguy hiểm, không thở nhanh, không mất nước, tăng cân).",
+     "Kháng sinh: hai cách đều đúng như lượt 1: không kê (WHO 2013 mục 4.4; IDSA ABRS 2012 khuyến cáo 1) hoặc amoxicillin theo QĐ 5643/2015 Viêm mũi họng cấp tính mục 4.1, 4.3.1 (375 mg mỗi 12 giờ, AWaRe 2022 tr. 50).",
+     "Sửa nguyên nhân 'không đỡ': làm cùng mẹ việc nhỏ nước muối, hút nhẹ trước cữ bú; ngưng siro long đờm (WHO 2013 mục 4.4); paracetamol chỉ khi bé sốt khó chịu (NICE NG143 2021 mục 1.6.5–1.6.6).",
+     "Với mẹ: trả lời thẳng câu hỏi 'thuốc đọng trong sữa'; không uống lại statin khi còn cho bú, không cần cai sữa vì chuyện này, hẹn bác sĩ điều trị mỡ máu (chất gắn acid mật không vào sữa: ACC/AHA 2026 Bảng 20, khuyến cáo 4; ESC/EAS 2019 Box 6). Ghi nhận mẹ cảm thấy có lỗi và trấn an bằng sự kiện thật.",
+     "Hẹn tái khám nếu ho, sổ mũi quá 14 ngày; dấu hiệu nguy hiểm đến ngay (WHO 2013 mục 4.4; NICE NG143 2021 mục 1.7.3; AAP 2013)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ 1–2 giọt mỗi bên mũi, chờ ít phút rồi hút nhẹ hoặc lau bằng khăn vặn nhọn",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú, trước khi ngủ và khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO 2013 mục 4.4 tr. 91; QĐ 5643/2015, Viêm V.A cấp mục 4.2. Số giọt và số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (siro)",
+      "ham_luong": "120 mg/5 mL",
+      "lieu": "100 mg/lần (khoảng 4 mL), 10–15 mg/kg",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé khó chịu, cách nhau ít nhất 6 giờ; không cho phòng sốt",
+      "so_ngay": "Khi cần, tối đa 4 lần/24 giờ",
+      "ghi_chu": "Theo nguồn AWaRe 2022 tr. 50 (6–<10 kg: 100 mg mỗi 6 giờ); NICE NG143 2021 mục 1.6.4–1.6.6."
+     },
+     {
+      "thuoc": "Siro ho long đờm (ambroxol) bà ngoại mua",
+      "ham_luong": "Theo nhãn",
+      "lieu": "Ngưng, không cho tiếp",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng từ hôm nay",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "WHO 2013 mục 4.4 tr. 91: không cho thuốc tiêu nhầy, codein, atropin, cồn ở trẻ bị cảm lạnh."
+     },
+     {
+      "thuoc": "Kháng sinh: không kê HOẶC amoxicillin theo QĐ 5643/2015 (hai cách đều đúng)",
+      "ham_luong": "Cách 2: gói hoặc siro theo nhãn",
+      "lieu": "Cách 1: không kê. Cách 2: 375 mg mỗi 12 giờ (8,6 kg: 87 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Cách 2: sáng và tối",
+      "so_ngay": "Cách 2: 10 ngày",
+      "ghi_chu": "WHO 2013 mục 4.4; IDSA ABRS 2012 khuyến cáo 1 (cách 1); QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1 và AWaRe 2022 tr. 50 (cách 2)."
+     }
+    ],
+    "dan_do": [
+     "Bé không thất bại điều trị: hết sốt rồi, đang hồi phục chậm bình thường; ho và nghẹt mũi có thể còn đến khoảng 14 ngày (WHO 2013 mục 4.4). Hôm nay không cần kháng sinh hay xét nghiệm.",
+     "Nhỏ nước muối rồi hút mũi trước mỗi cữ bú và trước khi ngủ: việc hữu ích nhất cho nghẹt mũi, quấy đêm. Chị làm lại ngay tại phòng khám cùng bác sĩ (WHO 2013 mục 4.4; QĐ 5643 Viêm V.A cấp mục 4.2).",
+     "Chuyện thuốc của chị: bé khỏe suốt 2 tháng chị uống thuốc, chỉ ốm sau bố và có triệu chứng y như bố, nên không có lý do nghĩ do thuốc đọng trong sữa. Chưa uống lại statin lúc còn cho bú và không cần cai sữa; hẹn bác sĩ điều trị mỡ máu (ACC/AHA 2026 Bảng 20; ESC/EAS 2019 Box 6). Chị không có lỗi làm con ốm.",
+     "Đến ngay nếu bé thở từ 50 lần/phút, rút lõm ngực, rên, thở rít, không bú được, nôn tất cả, li bì, co giật, tím, tã ướt giảm, sốt lại sau khi đã đỡ, đau tai hoặc chảy mủ tai (WHO 2013 Bảng 7; NICE NG143 2021 mục 1.7.3; AAP 2013). Tái khám sau 3–4 ngày hoặc khi ho, sổ mũi quá 14 ngày."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hà làm đúng: nhỏ nước muối và hút mũi trước mỗi cữ bú, bỏ siro long đờm, tái khám đúng hẹn. Đêm thứ 9 bé ngủ liền được, ho giảm; ngày thứ 12 hết sổ mũi, ngày 14 khỏi hẳn, bú và chơi bình thường, cân 8,8 kg. Bà ngoại ho nhẹ vài ngày rồi khỏi. Chị không uống lại statin lúc còn cho bú, đặt lịch gặp bác sĩ điều trị mỡ máu và nói 'nhờ được hỏi riêng nên em dám kể'. Mọi quyết định đều đúng với dữ kiện lúc đó.",
+ "nhieu": [
+  "Mẹ mang chẩn đoán tự tra trên mạng: lượt 1 tin bé bị 'cúm', đòi test và Tamiflu (mẹ đúng một phần: cúm nhẹ và cảm lạnh khó phân biệt bằng lâm sàng); lượt 2 tin 'ho quá 7 ngày phải kháng sinh' và 'thuốc đọng trong sữa'. Gỡ bằng dấu hiệu cụ thể trên con mình (QĐ 1840/2025 mục II.2.4.1; WHO 2013 mục 4.4).",
+  "Statin của mẹ là lý do thật: mẹ giấu vì ngại bị trách, chỉ kể khi được hỏi riêng; ngưng thuốc đúng hướng nhưng tự ngưng (ESC/EAS 2019 Box 6; ACC/AHA 2026 Bảng 20).",
+  "Ngoài giờ không có kỹ thuật viên: không công thức máu, CRP, test cúm, X-quang; không làm thiếu vì cảm lạnh không cần xét nghiệm (QĐ 5643/2015, Viêm mũi họng cấp tính, mục 3.1.2).",
+  "Mọc răng ở lượt 2: kéo tai, quấy đêm, chảy dãi dễ bị tưởng viêm tai giữa; màng nhĩ không phồng (AAP 2013 khuyến cáo 1A–1B); paracetamol mỗi 4 giờ và siro long đờm của mẹ, bà tạo cảm giác 'không đỡ' (NICE NG143 2021 mục 1.6.5; WHO 2013 mục 4.4)."
+ ],
+ "bai_hoc_bien": [
+  "Cảm lạnh ở nhũ nhi là bệnh virus tự giới hạn: chỉ hỗ trợ, hầu hết kết thúc trong 14 ngày; trọng tâm là chăm sóc mũi, bú, theo dõi dấu hiệu nặng (WHO 2013 mục 4.4 tr. 90).",
+  "Hai cách đều đúng về kháng sinh: không kê (WHO 2013, IDSA 2012) hoặc amoxicillin theo QĐ 5643/2015 khi không có xét nghiệm; khác nhau do năm văn bản và mục tiêu phòng biến chứng liên cầu.",
+  "'Không đỡ' phải qua quy trình thất bại điều trị: sai chẩn đoán, sai thuốc hoặc không tuân thủ, biến chứng, đề kháng. Ca này là hồi phục chậm bình thường cộng chăm sóc chưa đúng.",
+  "Người nhà tự tra mạng thường đúng một phần; hỏi riêng người mẹ đang cho con bú (thuốc mẹ dùng, điều làm mẹ lo nhất) mới ra lý do thật; không phán xét chuyện mẹ tự dùng hay tự ngưng thuốc.",
+  "Statin và cho con bú: ESC/EAS 2019 và ACC/AHA 2026 cùng khuyến cáo tránh; quyết định dùng lại thuộc bác sĩ điều trị của mẹ."
+ ],
+ "diem_nho": [
+  "Nhũ nhi 2–11 tháng thở nhanh khi ≥ 50 l/p (WHO 2013 tr. 76, Bảng 7 tr. 81); NICE NG143 2021 mục 1.2.22: trên 50 l/p ở 6–12 tháng, SpO₂ ≤ 95%, rút lõm, phập phồng cánh mũi thì nghĩ viêm phổi.",
+  "Chăm sóc cảm lạnh: lau hoặc hút mũi trước cữ bú, hạ sốt chỉ khi khó chịu, bú thêm; không kháng sinh, thuốc ho chứa atropin hoặc codein, thuốc tiêu nhầy (WHO 2013 mục 4.4).",
+  "Paracetamol 10–15 mg/kg mỗi 6 giờ; 6–<10 kg: 100 mg (AWaRe 2022 tr. 50; NICE NG143 2021 mục 1.6.4–1.6.6).",
+  "Ca nghi ngờ cúm cần triệu chứng hô hấp cấp kèm yếu tố dịch tễ; trẻ < 5 tuổi là nhóm nguy cơ cúm nặng (QĐ 1840/2025 mục II.2.3, II.2.4.1); oseltamivir 0–8 tháng 3 mg/kg × 2 lần/ngày × 5 ngày (mục III.2.1).",
+  "Bội nhiễm vi khuẩn đường hô hấp trên: ≥ 10 ngày, khởi phát nặng, hoặc hai pha (IDSA ABRS 2012 khuyến cáo 1); viêm tai giữa cấp cần phồng màng nhĩ hoặc chảy mủ (AAP 2013 khuyến cáo 1A–1B); ho từ 14 ngày tìm lao, hen, ho gà, HIV (WHO 2013 mục 4.4).",
+  "Statin khi cho con bú: tránh (ACC/AHA 2026 Bảng 20; ESC/EAS 2019 mục 9.2, Box 6); chất gắn acid mật không vào sữa (ACC/AHA 2026 mục 4.2.8.4 khuyến cáo 4, 2a, C-EO)."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Tai Mũi Họng – Viêm mũi họng cấp tính (mục 2, 2.1.2, 3.1.2, 4.1, 4.3.1, 5.1, tr. 133–136); Viêm V.A cấp và mạn tính (mục 3.1.1.1, 4.1, 4.2, tr. 137–139)",
+  "TL-0250 · WHO 2013 – Pocket book of hospital care for children – chương 4 Ho (tr. 75–76, mục 4.1), Bảng 7 (tr. 81), mục 4.4 Cough or cold (tr. 90–91)",
+  "TL-0262 · NICE NG143 2021 (bản 2025) – Fever in under 5s – mục 1.2.5–1.2.7, 1.2.11, 1.2.15, 1.2.22, 1.6.2–1.6.6, 1.7.2, 1.7.3",
+  "TL-0260 · NICE NG9 2015 (bản 2026) – Bronchiolitis in children – mục 1.1.2, 1.1.3",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – Pharyngitis (tr. 49–50: paracetamol, amoxicillin theo cân nặng 6–<10 kg); bảng chế phẩm thuốc (siro paracetamol 120 mg/5 mL)",
+  "TL-0158 · IDSA 2012 – GAS pharyngitis – khuyến cáo 4, 5; TL-0159 · IDSA ABRS 2012 – khuyến cáo 1; TL-0271 · AAP 2013 – Acute otitis media – khuyến cáo 1A–1B",
+  "TL-0156 · ACP/CDC 2016 – Appropriate antibiotic use for ARTI in adults – Advice 3, 4 (nguồn người lớn, chỉ tham khảo)",
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – Cúm mùa – mục II.2.3, II.2.4.1, III.2.1; TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (tóm tắt BMJ 2026)",
+  "TL-0320 · ESC/EAS 2019 – Dyslipidaemias – mục 9.2, Box 6; TL-0292 · ACC/AHA 2026 – Dyslipidemia – mục 4.2.8.4 (khuyến cáo 4), Bảng 20",
+  "Không có trong tài liệu đã tải: liều ambroxol cho nhũ nhi; số giọt, số lần nhỏ nước muối sinh lý; mọc răng và quấy đêm; số liệu thấp tim ở trẻ nhỏ Việt Nam; lượng statin vào sữa và tác động lên trẻ; thời điểm dùng lại statin sau ngừng cho bú, ngưỡng LDL-C cần điều trị."
+ ],
+ "ghi_chu_bien_tap": [
+  "18/11/2026 – viết: Sonnet. Đặc tả sổ cái khớp đủ: nhũ nhi nam 7 tháng, 2 lượt (lượt 2 'không đỡ' theo quy trình thất bại điều trị), mẹ tự tra mạng (cúm, statin qua sữa), ngoài giờ không có kỹ thuật viên (khoa_cls nhóm xn, xquang, sieu_am), mẹ tự ngưng statin, kết cục khỏi bệnh.",
+  "Dùng mục sẵn có trong sổ mâu thuẫn: 'Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu' (gộp một mục c 'không kê HOẶC amoxicillin theo QĐ 5643'); 'Kháng virus cho trẻ khỏe mạnh < 5 tuổi bị cúm nhẹ' (oseltamivir chấm a vì chưa đủ ca nghi ngờ); NH-0199 mục 4 (thuốc nhỏ mũi, a). Statin khi cho con bú: ESC/EAS 2019 và ACC/AHA 2026 cùng khuyến cáo tránh, không mâu thuẫn.",
+  "Chỗ thiếu: liều ambroxol, số giọt nước muối, mọc răng và quấy, số liệu thấp tim, thời điểm dùng lại statin. Mạch 118 và 114 l/p dùng tệp AT-TIM-NHANH-01 (khoảng 115 l/p) như ca NH-0256. Chi tiết do người viết tự đặt: LDL-C 4,4 mmol/L, atorvastatin 10 mg, nhân trắc, giờ cho paracetamol, tên nhân vật, mốc tái khám 3–4 ngày."
+ ]
+}

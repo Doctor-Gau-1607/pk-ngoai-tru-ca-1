@@ -1,0 +1,757 @@
+{
+ "ma_ca": "HH-0725",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới theo quy trình, nguồn kèm vị trí (2026-11-19)",
+ "benh": "HH_viem_phe_quan_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phế quản cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi cộng đồng",
+   "Ho gà"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân (trồng lúa và rau màu)",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng (enalapril)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe (hồ sơ đồng vay vốn mua máy gặt)"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Văn Bảy",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa và rau màu, ra ruộng từ 5 giờ sáng, hay đốt rơm, phun thuốc sâu",
+  "can_nang": 58,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'bác' hoặc 'ông'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Con trai gọi ông là 'ba', xưng 'con' hoặc 'tôi' với bác sĩ.",
+  "tinh_cach": "Nói to, dứt khoát, thực dụng, tin 'bệnh nào cũng có một liều thuốc mạnh'. Sợ tốn tiền, sợ mất mùa, ngại bị chê yếu. Hay nói 'không sao đâu' và giấu điều có thể làm giấy sức khỏe bị từ chối. Tỉnh táo, không lú lẫn.",
+  "kieu_nhieu": "Đòi kháng sinh: ngay câu đầu xin 'kháng sinh mạnh', dẫn chuyện 'hồi trước uống amoxicillin hết liền', nói trạm xã cũng cho; nếu bị từ chối thẳng thì dọa ra tiệm thuốc mua. Nhượng bộ khi bác sĩ nghe hết, ghi nhận, giải thích bằng số liệu của chính ông (nhịp thở, ôxy, CRP) và hẹn tái khám có mốc.",
+  "nguoi_nha": "Con trai, anh Phạm Văn Hùng, 38 tuổi, làm hồ sơ vay vốn mua máy gặt, chở ông bằng xe máy cả hai lượt; giữ sổ khám, biết ba uống thuốc huyết áp nhưng không biết ba ho khan từ lâu.",
+  "ten_nguoi_nha": "Anh Hùng (con trai)",
+  "ngoai_hinh": {
+   "da": "#b98a66",
+   "toc": "#cfcfcf",
+   "kieuToc": "ngan",
+   "ao": "#7b8c6a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#bd8f6c",
+    "toc": "#2a2019",
+    "kieuToc": "ngan",
+    "ao": "#5f7a8f",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho đờm vàng 5 ngày, xin 'kháng sinh mạnh' và xin ký giấy chứng nhận sức khỏe để nộp hồ sơ vay vốn",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, sinh hóa nền, nước tiểu); không có X-quang, siêu âm, CT, nội soi, và không có test nhanh cúm hay PCR virus. Bệnh viện huyện (12 km) chụp được X-quang ngực."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · sáng thứ Bảy (ngày 5 của đợt ho đờm)",
+   "tiep_don": "Ông Phạm Văn Bảy, 66 tuổi, nông dân, con trai chở đi xe máy từ xã đến phòng khám đa khoa, lúc 8 giờ 30 vì ho đờm vàng 5 ngày. Ông đưa cho điều dưỡng một sổ khám bệnh và một hộp thuốc mỏng. Sinh hiệu: nhiệt 37,8 °C, mạch 86 l/p, HA 142/86 mmHg, nhịp thở 20 l/p, SpO2 96% khí trời.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Bảy 66 tuổi đang ho đờm vàng ngày 5, nhịp thở 20 l/p, SpO2 96%, CRP 12 mg/L, phổi chỉ có ran ngáy; điều trị ngoại trú là đủ (QĐ 4235/2012, Viêm phế quản cấp, mục 3; NICE NG237 1.3.4). Nhập viện làm ông bỏ ruộng đúng mùa, nằm viện tốn kém, mà việc quan trọng nhất (hỏi ra ho khan 4 tháng, đổi enalapril, chụp X-quang) vẫn phải làm ở bất cứ đâu ông nằm.",
+    "chuyen_tuyen": "Chuyển ông lên bệnh viện tỉnh ngay trong ngày để chụp CT ngực, nội soi phế quản vì một vệt máu nhỏ là quá tay khi sinh hiệu ổn, khám phổi không ran ẩm và CRP thấp; X-quang ngực ngoại trú ở bệnh viện huyện trước, CT chỉ khi X-quang bất thường hoặc ho máu tái lại (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2). Ông phải đi xa, tốn chi phí, nghe 'nghi ung thư' rồi hoảng sợ, có thể bỏ trốn khám và tự mua thuốc ho ở tiệm, bỏ cả thuốc huyết áp."
+   },
+   "loi_mo": "Bác sĩ cho tôi thuốc kháng sinh đi. Tôi ho đàm vàng năm bữa rồi, hồi trước uống amoxicillin năm ngày là hết liền. Tôi cần khỏe cho kịp lấy giấy sức khỏe, bác sĩ ký giùm tôi luôn hôm nay nghen.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "142/86",
+    "nhiet": "37,8",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông xin 'toa kháng sinh' vì ho đờm vàng 5 ngày, sợ không kịp lấy giấy khám sức khỏe. Ông kể: 'Hồi trước tôi ho, uống 5 ngày amoxicillin là hết liền; ở trạm xã người ta cũng cho'. Nếu bị từ chối thẳng thì ông nói sẽ ra tiệm thuốc mua.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra và nhiễu: đòi kháng sinh"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Cách đây 5 ngày tự nhiên ho, không nhớ do nhiễm lạnh hay ai ho cùng nhà. Hai ngày đầu họng hơi rát, sổ mũi ít. Từ ngày 3 ho có đờm vàng đục, khoảng một muỗng cà phê mỗi lần, đau rát sau xương ức khi ho; sốt nhẹ chiều tối. Ăn uống kém hơn. Không ớn lạnh run, không đau ngực kiểu hít sâu, không khó thở khi ra ruộng đi bộ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đợt ho cấp: viêm long đường hô hấp trên rồi ho đờm, không dấu hiệu viêm phổi"
+    },
+    {
+     "id": "ho_khan_cu",
+     "noi_dung": "Ngoài 5 ngày này, ông còn ho khan, ngứa vướng cổ, hằng ngày, đã khoảng 4 tháng, nhiều về tối và khi nói chuyện nhiều, không có đờm, không khò khè, không ợ chua. Ông nghĩ do bụi rơm và hút thuốc lào nên không kể, vì sợ 'bác sĩ nói ho lâu là không đủ sức khỏe'. Đợt ho đờm 5 ngày chỉ làm ho nhiều hơn chứ ho khan này có từ trước.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi 'trước đợt này ông có ho không, ho từ bao giờ, ho kiểu gì', hoặc khi hỏi về giấy sức khỏe và nói rõ cần biết tình trạng thật để ký. Hỏi chung 'ho mấy ngày' ông chỉ trả lời 5 ngày.",
+     "k": 1,
+     "y": "Dữ kiện KHÔNG được giải thích bởi viêm phế quản cấp: ho khan kéo dài > 8 tuần có từ trước (chẩn đoán thứ hai)"
+    },
+    {
+     "id": "thuoc_ha_ap",
+     "noi_dung": "Tăng huyết áp phát hiện khi đo ở hội nông dân cách đây 8 tháng (160/100). Trạm y tế xã kê enalapril 10 mg uống mỗi sáng, ông uống đều, có sổ khám cầm theo. Ho khan bắt đầu khoảng 1–2 tháng sau khi uống thuốc này. Không đái tháo đường, không suy tim, không bệnh phổi, không nhập viện trong 1 năm, không uống corticoid.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (ức chế men chuyển) và mốc thời gian ho khan; không có yếu tố nguy cơ kháng sinh theo QĐ 708"
+    },
+    {
+     "id": "thuoc_lao",
+     "noi_dung": "Hút thuốc lào khoảng 20 năm, 5–6 điếu mỗi ngày. Không hút thuốc lá. Hay làm đồng, đốt rơm, phun thuốc trừ sâu có đeo khẩu trang vải.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ nền (thuốc lào, bụi) cho bệnh phổi khác"
+    },
+    {
+     "id": "vet_mau",
+     "noi_dung": "Sáng nay lúc khạc đờm, ông thấy một vệt máu đỏ tươi nhỏ dính trong đờm một lần, sau đó đờm không còn máu. Ông không nói vì 'sợ bị cho là lao'. Không sụt cân rõ (cân 58 kg, 'vẫn vậy'), không đổ mồ hôi đêm, không ho máu thành ngụm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lộ khi hỏi trực tiếp 'đờm có lẫn máu hay vệt hồng không' hoặc 'sáng nay khạc ra gì'. Ông không tự kể.",
+     "k": 1,
+     "y": "Cờ đỏ: ho ra vệt máu ở người 66 tuổi hút thuốc lào, ho kéo dài trước đó"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Không ai trong nhà hay xóm ho kéo dài, không ho thành cơn dài, không rít, không nôn sau ho, không tiếp xúc người ho lao. Không tiêm cúm hay phế cầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại ho gà và tiếp xúc lao"
+    },
+    {
+     "id": "giay_kham",
+     "noi_dung": "Con trai (anh Hùng) làm hồ sơ vay ngân hàng mua máy gặp đập liên hợp, ông đứng tên đồng vay nên cần giấy chứng nhận sức khỏe 'đủ sức lao động'; hồ sơ phải nộp trong 2 tuần. Ông muốn khỏi nhanh bằng 'thuốc mạnh' và xin ký luôn hôm nay. Ông ngại nói ho lâu vì sợ giấy bị từ chối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật đến khám: xin giấy chứng nhận sức khỏe"
+    },
+    {
+     "id": "nguon_luc",
+     "noi_dung": "Phòng khám cách bệnh viện huyện 12 km, ông đi xe máy cùng con trai. Ông chịu làm xét nghiệm nhưng 'không muốn chụp phim, tốn tiền, nghe nói chụp là thấy bệnh nặng'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Rào cản chụp X-quang và nguồn lực"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói to rõ, trả lời trọn câu, đi lại nhanh nhẹn. Da niêm hồng. Cân nặng 58 kg, cao 163 cm (BMI 21,8). Không tím, không khò khè khi nói.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, không hạch thượng đòn. Tĩnh mạch cổ không nổi khi ngồi 45 độ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau có ít nhầy đục, không giả mạc, amidan không to. Niêm mạc mũi hơi phù, dịch trong. Không điểm chảy máu ở mũi hầu.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co kéo cơ hô hấp phụ. Rung thanh hai bên đều, gõ trong. Nghe: vài ran ngáy rải rác hai bên, giảm sau khi ho; không ran ẩm, ran nổ, không tiếng thở phế quản, không cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, không co kéo. Rung thanh hai bên đều, gõ hai phổi trong.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa lưng hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Vài ran ngáy thưa, giảm sau khi ho."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, tần số 86 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 86 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai cẳng chân không phù, không sưng đau bắp chân.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi 40 m trong hành lang: nhịp thở 22 l/p, SpO2 96% xuống 95%, không hụt hơi, hồi phục sau 1 phút nghỉ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "crp": {
+     "v": "u",
+     "r": "CRP 12 mg/L (xét nghiệm nhanh tại phòng khám)",
+     "ab": 0,
+     "bang": {
+      "crp": 12
+     },
+     "n": "NICE NG237 2024 khuyến cáo 1.3.4: khi sau khám vẫn chưa rõ có cần kháng sinh, CRP tại chỗ < 20 mg/L không kê thường quy; 20–100 cân nhắc kê hẹn dùng; > 100 kê ngay. Ca này ông đòi kháng sinh và có đờm vàng nên CRP là xét nghiệm đổi được quyết định. CHEST 2020 khuyến cáo 1 không làm thường quy: hai nguồn không mâu thuẫn (xem sổ mâu thuẫn, mục CRP trong viêm phế quản cấp, HH-0671)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,4 G/L · Neutrophil 68% · Hb 142 g/L · TC 248 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 9.4,
+      "neu_pct": 68.0,
+      "neu": 6.39,
+      "lym_pct": 22.0,
+      "lym": 2.07,
+      "mono_pct": 8.0,
+      "mono": 0.75,
+      "eos_pct": 1.5,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.7,
+      "hgb": 142,
+      "hct": 0.42,
+      "mcv": 89.4,
+      "mch": 30.2,
+      "mchc": 338,
+      "rdw": 13.4,
+      "plt": 248
+     },
+     "n": "Bạch cầu không > 10 G/L (QĐ 2147/2026 mục 3.1.2). Hb bình thường khi có một vệt máu nhỏ trong đờm. Không đổi quyết định nên là a, không phải u."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,0 mmol/L · Creatinin 82 µmol/L · eGFR 85 mL/ph/1,73m² · Na 140 · K 4,2 mmol/L",
+     "ab": 0,
+     "bang": {
+      "ure": 5.0,
+      "creat": 82,
+      "egfr": 85,
+      "na": 140,
+      "k": 4.2
+     },
+     "n": "Cần khi đổi thuốc hạ áp: QĐ 5904/2019 Phần 3 mục G ghi nên kiểm tra creatinin và kali trước khi dùng nhóm ức chế men chuyển; với thuốc ức chế thụ thể không ghi tương tự: không có trong tài liệu đã tải. Làm một lần để có số nền là hợp lý, không bắt buộc."
+    },
+    "flu": {
+     "v": "n",
+     "n": "NICE NG237 2024 khuyến cáo 1.3.3: không làm test nhanh vi sinh hay cúm để quyết định kê kháng sinh. Phòng khám cũng không có."
+    },
+    "pcr_ho_ga": {
+     "v": "n",
+     "n": "Không có ở phòng khám; ho không thành cơn, không rít, không nôn sau ho, không tiếp xúc nên không cần (Pertussis Protocol, Manitoba 2025, mục 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp ngày 5, nhiều khả năng do virus, ở người 66 tuổi; chưa có dấu hiệu viêm phổi",
+     "ok": 1,
+     "n": "Viêm long đường hô hấp trên rồi ho, rát sau xương ức, đờm vàng đục ít, sốt nhẹ, phổi chỉ có ran ngáy giảm sau ho (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1: đờm có thể trắng, vàng, xanh hoặc đục; mục 2.3.1: virus chiếm 50–90%; QĐ 708/2015 mục 2). Đợt này giải thích được: ho 5 ngày, đờm, sốt nhẹ, ran ngáy. Không giải thích được: ho khan 4 tháng có từ trước."
+    },
+    {
+     "t": "Ho khan mạn tính (> 8 tuần) nghi do thuốc ức chế men chuyển (enalapril), chẩn đoán thứ hai cùng lúc",
+     "ok": 1,
+     "n": "Ho kéo dài > 8 tuần là ho mạn tính (QĐ 4235/2012, Ho kéo dài, mục 2.1); bước đầu tiên là khai thác tiền sử dùng thuốc ức chế men chuyển (mục 2.3); ho do thuốc này: dừng thuốc và đổi nhóm khác (Bảng 1.1), thường hết sau dừng 1–6 tuần (mục 3.1). Ho khởi phát 1–2 tháng sau khi bắt đầu enalapril, khô, ngứa họng, không đờm, đúng kiểu. Chẩn đoán xác lập khi ho hết sau ngưng thuốc; tần suất 1–2% (QĐ 5904/2019), 5–10% (ESH 2023 mục 11.1.1), khoảng 15% (QĐ 4235/2012; ERS 2019): các số khác nhau vì định nghĩa ho và quần thể (sổ mâu thuẫn, mục tần suất ho do ƯCMC). Nguyên nhân khác của ho mạn (mũi xoang, hen, trào ngược, lao, ung thư phổi) chưa loại hết nên cần theo dõi và X-quang (mục 2.2 và 2.3)."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Loại trừ chủ động vì tuổi 66, vệt máu trong đờm và đờm vàng. Nhịp thở 20, mạch 86, nhiệt 37,8, SpO2 96%, tri giác tốt, phổi không ran ẩm, ran nổ hay đông đặc (QĐ 4235/2012, Viêm phổi mắc phải ở cộng đồng, mục 2.1), CRP 12 mg/L < 20 (NICE NG237 1.3.4), bạch cầu không > 10 G/L (QĐ 2147/2026 mục 3.1.2), CRB-65 = 0 (QĐ 2147/2026 mục 3.2.1). Không có X-quang nên hẹn tái khám có mốc; viêm phổi không loại tuyệt đối."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Ho 5 ngày, không ho thành cơn dài, không rít khi hít vào, không nôn sau ho, không tiếp xúc người ho kéo dài; ho khan 4 tháng ở người 66 tuổi không theo kiểu ho gà (Pertussis Protocol, Manitoba 2025, mục 3). Không cần PCR."
+    },
+    {
+     "t": "Lao phổi hoặc ung thư phổi, phế quản",
+     "n": "Chưa loại trừ được: hút thuốc lào 20 năm, ho khan kéo dài, vệt máu một lần (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2: lao có thể ho máu, sốt nhẹ chiều; ung thư có tiền sử hút thuốc, thuốc lào, ho máu; chẩn đoán bằng X-quang hoặc CT). Không sụt cân, không mồ hôi đêm, không ho máu ngụm làm giảm khả năng nhưng không loại. Phòng khám không có X-quang nên phải hẹn chụp ở bệnh viện huyện."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kháng sinh: không kê (giải thích cụ thể, hẹn tái khám), HOẶC kê theo QĐ 708 vì đờm vàng; nói rõ quyết định và lý do",
+     "v": "c",
+     "n": "Cách A (không kê): CHEST 2020 khuyến cáo 3; NICE NG120 1.1.9 (người không rất yếu toàn thân, không thuộc nhóm nguy cơ biến chứng cao: ông 66 tuổi chỉ có tăng huyết áp, không đủ 2 tiêu chí của 1.1.15 như nhập viện, đái tháo đường, suy tim, corticoid uống); QĐ 4235/2012, Viêm phế quản cấp, mục 3: chỉ dùng khi ho > 7 ngày, đờm mủ rõ hoặc bệnh mạn nặng như suy tim, ung thư (ông ngày 5, chưa có). Cách B (kê): QĐ 708/2015 mục 4.1a ý 2 coi đờm vàng, xanh là một chỉ định; Bảng II.1: người khỏe mạnh macrolid hoặc doxycyclin; thời gian thường 7–10 ngày (mục 4.1b). Vì sao khác: QĐ 708 xếp đờm vàng vào chỉ định, các nguồn kia chỉ nêu đờm mủ rõ; QĐ 708 mục 4.1a ý 4 yêu cầu ≥ 2 dấu hiệu ở người > 65 tuổi, ông không có dấu nào. Cả hai đều đúng (sổ mâu thuẫn, mục đờm vàng và kháng sinh, HH-0692). Liều doxycyclin và macrolid trong QĐ 708: không tìm được trong đoạn đã đọc; nếu kê phải tra thêm."
+    },
+    {
+     "t": "Hỏi ra ho khan 4 tháng có từ trước, mốc 1–2 tháng sau khi dùng enalapril; ghi nhận đây là chẩn đoán thứ hai chưa được đợt ho cấp giải thích",
+     "v": "c",
+     "n": "QĐ 4235/2012, Ho kéo dài, mục 2.1, 2.3 (khai thác tiền sử thuốc ức chế men chuyển là bước đầu). Hỏi được hay không phụ thuộc cách hỏi: đây là chỗ bẫy 'hai chẩn đoán cùng lúc' (premature closure khi dừng ở viêm phế quản cấp)."
+    },
+    {
+     "t": "Ngưng enalapril, đổi sang nhóm khác: ức chế thụ thể angiotensin (losartan 25 mg/ngày khởi đầu) hoặc chẹn kênh canxi (amlodipin 5 mg/ngày); đo HA và tái đánh giá ho sau 2–4 tuần",
+     "v": "c",
+     "n": "QĐ 4235/2012, Ho kéo dài, Bảng 1.1: dừng thuốc và thay nhóm khác; QĐ 5904/2019 Phần 3 mục G: losartan ít gây ho hơn nhóm ức chế men chuyển, nên dùng thay khi người bệnh ho nhiều; khởi đầu 25 mg, tối ưu 100 mg (khởi 50 mg ghi ở sơ đồ Phần 1 mục C: sổ mâu thuẫn mục 6, chấm a); amlodipin khởi đầu 5 mg, duy trì 5–10 mg (cùng bảng). ERS 2019 (Iatrogenic cough): ức chế thụ thể angiotensin không ảnh hưởng phản xạ ho. Ai quyết đổi thuốc: ông đang điều trị tại trạm xã nên báo lại trạm xã và ghi sổ khám; chuyển liều tương đương enalapril 10 mg sang losartan: không có trong tài liệu đã tải. Ho thường hết sau 1–6 tuần (QĐ 4235 mục 3.1), có thể chậm (ERS 2019)."
+    },
+    {
+     "t": "Cho giấy chuyển chụp X-quang ngực tại bệnh viện huyện trong 3–5 ngày (không khẩn); nói rõ vì sao cần (vệt máu, thuốc lào, ho 4 tháng) mà không dọa",
+     "v": "c",
+     "n": "QĐ 4235/2012, Viêm phế quản cấp, mục 2.2 (lao, ung thư phổi có thể ho máu; X-quang hoặc CT); Ho kéo dài mục 2.3 (thăm dò lao phổi, giãn phế quản, bệnh phổi tắc nghẽn mạn tính); CHEST 2020 khuyến cáo 2 và ghi chú: X-quang khi ho kéo dài hoặc nặng thêm; QĐ 708/2015 mục 2 cho X-quang với tuổi > 75 hoặc sinh hiệu bất thường (ông chưa tới ngưỡng này), nên đây là hai cách nhìn khác nhau chứ không mâu thuẫn an toàn (sổ mâu thuẫn mục X-quang, HH-0671). Mốc 3–5 ngày là thiết kế của ca; tài liệu đã tải không nêu thời hạn chụp sau một vệt máu đơn lẻ. Giải thích: chụp để 'chắc chắn', vì vệt máu nhỏ trong đợt viêm phế quản vẫn thường gặp, nhưng ở tuổi này với thuốc lào thì phải xem phổi."
+    },
+    {
+     "t": "Giải thích bệnh do virus thường tự hết, ho có thể tới 20 ngày hoặc 3–4 tuần; nghỉ ngơi, uống đủ nước, bỏ thuốc lào; nói lời từ chối kháng sinh giữ lòng tin",
+     "v": "c",
+     "n": "QĐ 708/2015 mục 2 (triệu chứng khoảng 1 tuần, ho đến 20 ngày); NICE NG120 1.1.1, 1.1.5, 1.1.10 (kháng sinh không cải thiện tình trạng chung, ít rút ngắn triệu chứng), 1.1.12; QĐ 4235/2012, Viêm phế quản cấp, mục 3 (nghỉ ngơi, bỏ thuốc lá, giữ ấm, đủ nước)."
+    },
+    {
+     "t": "Hẹn tái khám sau 10–14 ngày hoặc ngay khi: khó thở, sốt cao hoặc sốt lại, ho máu nhiều hơn một vệt, đau ngực, lú lẫn; đưa tờ dặn cho anh Hùng",
+     "v": "c",
+     "n": "NICE NG120 1.1.5, 1.1.19 (khám lại nếu nặng nhanh, nghi viêm phổi); NICE NG237 1.1.2, 1.3.2. Mốc 10–14 ngày để đánh giá cả đợt cấp lẫn ho khan sau đổi thuốc là thiết kế của ca; tài liệu đã tải không nêu mốc riêng."
+    },
+    {
+     "t": "Không ký giấy chứng nhận sức khỏe 'khỏe mạnh' hôm nay khi đang bệnh cấp và chưa rõ nguyên nhân ho; nói giấy sẽ làm sau khi hết bệnh và có kết quả X-quang",
+     "v": "c",
+     "n": "Mẫu, tiêu chuẩn và thời điểm cấp giấy chứng nhận sức khỏe: không có trong tài liệu đã tải. Lập luận lâm sàng: chưa loại trừ lao/ung thư phổi (mục 2.2 QĐ 4235) thì không xác nhận 'đủ sức lao động'. Sổ mâu thuẫn đã có mục giấy khám sức khỏe khi đang bệnh chấm w ở các ca khác."
+    },
+    {
+     "t": "Kê kháng sinh đường tiêm hoặc quinolon 'cho chắc' hoặc để ông khỏi bỏ đi mua thuốc",
+     "v": "w",
+     "n": "CHEST 2020 khuyến cáo 3; NICE NG120 1.1.9; kê khi chưa có chỉ định đủ theo bất kỳ nguồn nào. Nếu kê theo QĐ 708 thì Bảng II.1 ưu tiên macrolid, doxycyclin cho người khỏe mạnh (mục 4.1b), không phải thuốc tiêm."
+    },
+    {
+     "t": "Kê corticoid uống hoặc salbutamol 'dịu phế quản', thuốc ho codein hoặc long đờm thường quy",
+     "v": "w",
+     "n": "CHEST 2020 khuyến cáo 3; NICE NG120 1.1.6–1.1.7: không kê khi không có bệnh đường thở nền; QĐ 708/2015 mục 4.3 ít bằng chứng cho long đờm và giảm ho. Dextromethorphan khi ho khan gây mất ngủ (QĐ 4235 mục 3): ông ngủ được nên chưa cần, kê vẫn chấm a theo sổ mâu thuẫn mục thuốc triệu chứng (HH-0671)."
+    },
+    {
+     "t": "Cho ông tiếp tục uống enalapril 'vì ho do bụi, do thuốc lào', hoặc tự tăng liều thuốc hạ áp",
+     "v": "w",
+     "n": "Bỏ qua chẩn đoán thứ hai: ho do ức chế men chuyển thì dừng thuốc và đổi nhóm (QĐ 4235/2012, Ho kéo dài, Bảng 1.1; ERS 2019: không cho ức chế men chuyển ở người đang ho)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp (nhiều khả năng do virus) ngày 5 ở người 66 tuổi; chưa có dấu hiệu viêm phổi",
+     "Ho khan mạn tính > 8 tuần, nghi do enalapril (thuốc ức chế men chuyển); chẩn đoán xác lập khi hết ho sau đổi thuốc",
+     "Tăng huyết áp đang điều trị (enalapril 10 mg), HA 142/86 tại phòng khám; cần đổi nhóm thuốc",
+     "Vệt máu một lần trong đờm ở người hút thuốc lào 20 năm: chưa loại lao phổi, ung thư phổi; cần X-quang ngực",
+     "Viêm phổi cộng đồng và ho gà: chưa có bằng chứng; hẹn tái khám có mốc",
+     "Hoàn cảnh: đòi kháng sinh, xin giấy sức khỏe, phòng khám không có X-quang"
+    ],
+    "phan_tich_chan_doan": [
+     "1) HỎI. Mở bằng câu hỏi mở, hỏi về thời gian chứ không dừng ở '5 ngày': 'trước đợt này ông có ho không, kiểu gì, từ bao giờ?'. Dựng dòng thời gian: ho khan 4 tháng, bắt đầu 1–2 tháng sau enalapril; đợt ho đờm 5 ngày. Hỏi thuốc bằng vật chứng (sổ khám, hộp thuốc), hút thuốc lào, đờm có máu, sụt cân, mồ hôi đêm, tiếp xúc, và động cơ đến khám (giấy sức khỏe).",
+     "2) KHÁM. Đo đủ nhịp thở, SpO2, mạch, nhiệt, cân nặng; họng mũi, phổi (ran ngáy giảm sau ho, không ran ẩm), tim, hạch cổ, phù chân.",
+     "3) VÌ SAO LÀ VIÊM PHẾ QUẢN CẤP: viêm long đường hô hấp trên rồi ho, rát sau xương ức, đờm vàng ít, sốt nhẹ, phổi bình thường hoặc ran ngáy (QĐ 4235/2012, Viêm phế quản cấp, mục 2.1.1). Chẩn đoán lâm sàng, mấu chốt là loại viêm phổi.",
+     "4) LOẠI VIÊM PHỔI: nhiệt 37,8 °C, mạch 86, thở 20: dưới ngưỡng QĐ 708/2015 mục 2 (mạch > 100, thở > 24, nhiệt > 38) và ACP/CDC 2016; CHEST 2020 dùng ngưỡng thận trọng hơn (nhiệt ≥ 37,8, mạch ≥ 100, thở ≥ 30): nhiệt đúng ngưỡng nhưng các dấu còn lại và khám phổi không gợi ý (sổ mâu thuẫn, mục ngưỡng sinh hiệu). Không ran ẩm, nổ, đông đặc; CRP 12 mg/L; bạch cầu 9,4 G/L; CRB-65 = 0. Khả năng áp dụng: ACP/CDC 2016 nói về người < 70 tuổi khỏe mạnh; ông 66 tuổi, hút thuốc lào, nên giữ ngưỡng hành động thấp và hẹn tái khám có mốc.",
+     "5) DỮ KIỆN NÀO KHÔNG ĐƯỢC GIẢI THÍCH BỞI CHẨN ĐOÁN 1. (a) Ho khan hằng ngày 4 tháng có TRƯỚC đợt cấp: viêm phế quản cấp tự khỏi trong khoảng 1 tuần, ho có thể tới 20 ngày (QĐ 708/2015 mục 2), không thể kéo 4 tháng. (b) Vệt máu: có thể do niêm mạc viêm nhưng ở người hút thuốc lào thì không được cho là lành tính khi chưa có hình ảnh (QĐ 4235 mục 2.2). (c) Thuốc hạ áp: ức chế men chuyển là nguyên nhân kinh điển của ho khan mạn (QĐ 4235 Ho kéo dài mục 2.3, Bảng 1.1). Dừng ở 'viêm phế quản cấp, cho thuốc' là đóng hồ sơ sớm và bỏ sót ho do thuốc, đồng thời bỏ sót việc loại trừ lao, ung thư.",
+     "6) LÝ DO THẬT VÀ NHIỄU. Ông chỉ nói 5 ngày vì sợ giấy sức khỏe không được ký; hỏi nhẹ nhàng và nói rõ 'tôi cần biết tình trạng thật để ký đúng' thì ông kể. Ông đòi kháng sinh vì từng khỏi sau amoxicillin; hãy nghe, ghi nhận, rồi giải thích. Rào cản chụp phim là chi phí và nỗi sợ 'bệnh nặng'."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: điều trị ngoại trú, không dùng kháng sinh hôm nay (hoặc kê theo QĐ 708 và nói rõ lý do), ngưng enalapril và đổi nhóm khác, cho giấy chụp X-quang ngực ở bệnh viện huyện trong 3–5 ngày, hẹn tái khám 10–14 ngày, dặn dấu hiệu nguy hiểm.",
+     "Kháng sinh có hai cách đúng. (A) Không kê: CHEST 2020 khuyến cáo 3; NICE NG120 1.1.9 và 1.1.15 (ông chưa đủ nhóm nguy cơ cao); QĐ 4235/2012 mục 3 (chỉ khi ho > 7 ngày, đờm mủ rõ hoặc bệnh mạn nặng). (B) Kê: QĐ 708/2015 mục 4.1a ý 2 (đờm vàng, xanh) với macrolid hoặc doxycyclin 7–10 ngày cho người khỏe mạnh (Bảng II.1; mục 4.1b). Lý do khác nhau: QĐ 708 (2015) coi đờm vàng là chỉ định nhưng cũng ghi 'thiếu bằng chứng về hiệu quả của điều trị kháng sinh thường quy' (mục 4.1a); NICE NG120 1.1.10: kháng sinh ít rút ngắn triệu chứng.",
+     "Thuốc hạ áp: ngưng enalapril, đổi nhóm. QĐ 4235/2012 (Ho kéo dài, Bảng 1.1; mục 3.1) và QĐ 5904/2019 (Phần 3 mục G) cùng hướng; khác nhau về tần suất ho (1–2% so với khoảng 15%) và về thời gian hết ho (1–6 tuần so với có thể chậm, ERS 2019): ghi cả hai, hẹn đánh giá lại ở tuần 2–4 rồi tới tuần 6. QĐ 4235 mục 2.2 ghi nhầm 'chẹn thụ thể angiotensin' (mục 2.3 và Bảng 1.1 ghi ức chế men chuyển); ca theo mục 2.3 và ERS 2019.",
+     "X-quang: không bắt buộc thường quy theo CHEST 2020 khuyến cáo 1–2, nhưng cần khi ho kéo dài (nay ho 4 tháng) và có vệt máu ở người hút thuốc lào (QĐ 4235 mục 2.2, 2.3). Phòng khám không có X-quang nên chuyển chụp ngoại trú; chuyển lên bệnh viện tỉnh làm CT trong ngày là quá mức khi sinh hiệu ổn và chỉ một vệt máu nhỏ.",
+     "Giấy sức khỏe: không ký 'khỏe' khi chưa xong chẩn đoán; hẹn sau tái khám. Mẫu và tiêu chuẩn giấy: không có trong tài liệu đã tải.",
+     "Lời từ chối kháng sinh giữ lòng tin (nếu chọn A): 'Tôi hiểu ông muốn khỏi nhanh để kịp làm giấy. Tôi đã kiểm tra: thở không nhanh, ôxy tốt, phổi không có tiếng viêm, xét nghiệm máu CRP thấp. Đờm vàng không có nghĩa phải dùng kháng sinh. Kháng sinh ít rút ngắn bệnh mà có thể gây đau bụng, tiêu chảy (NICE NG120 1.1.10, 1.1.17). Nếu tôi cho mà ông không cần, ông chỉ chịu tác dụng phụ. Tôi hẹn ông lại sau hai tuần, sốt hay khó thở thì quay lại ngay. Còn một việc tôi lo hơn cơn ho 5 ngày này là ho khan 4 tháng và vệt máu: mình đi chụp phim và đổi thuốc huyết áp.'"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Enalapril (thuốc đang dùng)",
+      "ham_luong": "Viên 10 mg",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Không uống nữa từ hôm nay",
+      "so_ngay": "Ngưng hẳn",
+      "ghi_chu": "QĐ 4235/2012, Ho kéo dài, Bảng 1.1 (dừng thuốc, thay nhóm khác). Dặn đem hộp thuốc còn lại cho bác sĩ giữ hoặc bỏ để không uống nhầm."
+     },
+     {
+      "thuoc": "Losartan (thay enalapril; hoặc amlodipin 5 mg nếu chọn nhóm chẹn kênh canxi)",
+      "ham_luong": "Viên 25 mg (hoặc 50 mg)",
+      "lieu": "25 mg × 1 lần/ngày, hoặc 50 mg × 1 lần/ngày theo sơ đồ Phần 1 mục C",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng liên tục; đo HA tại nhà và tái khám theo hẹn tăng huyết áp",
+      "ghi_chu": "QĐ 5904/2019 Phần 3 mục G: losartan khởi đầu 25 mg, tối ưu 100 mg, ít gây ho hơn nhóm ức chế men chuyển; sơ đồ Phần 1 mục C ghi 50 mg (sổ mâu thuẫn mục 6). Amlodipin khởi đầu 5 mg, duy trì 5–10 mg (cùng bảng). Liều đổi tương đương từ enalapril 10 mg và thời điểm bắt đầu sau ngày ngưng enalapril: không có trong tài liệu đã tải; nên báo trạm xã."
+     },
+     {
+      "thuoc": "Kháng sinh",
+      "ham_luong": "Không kê hôm nay (cách A)",
+      "lieu": "Không",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "CHEST 2020 khuyến cáo 3; NICE NG120 1.1.9. Nếu chọn cách B theo QĐ 708/2015 mục 4.1a ý 2 và Bảng II.1: macrolid hoặc doxycyclin 7–10 ngày (mục 4.1b); liều cụ thể: không có trong đoạn tài liệu đã đọc."
+     },
+     {
+      "thuoc": "Nước ấm, nghỉ ngơi, không hút thuốc lào",
+      "ham_luong": "-",
+      "lieu": "Uống đủ nước, ăn đủ chất; nghỉ làm đồng 3–5 ngày",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "Đến khi hết ho",
+      "ghi_chu": "QĐ 4235/2012, Viêm phế quản cấp, mục 3 và 4. Số ngày nghỉ: thiết kế của ca, không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Không uống enalapril nữa; uống thuốc huyết áp mới mỗi sáng, không tự bỏ thuốc huyết áp; mang sổ khám và thuốc mới báo trạm xã.",
+     "Đi chụp X-quang ngực ở bệnh viện huyện trong 3–5 ngày tới, mang phim về tái khám.",
+     "Quay lại ngay khi: khó thở, sốt cao hoặc sốt lại sau 2–3 ngày hết sốt, đau ngực khi hít sâu, ho ra máu nhiều hơn một vệt, lú lẫn, bỏ ăn (NICE NG120 1.1.5, 1.1.19).",
+     "Bỏ thuốc lào; tránh khói rơm; nghỉ ngơi, uống đủ nước. Tiêm vắc xin cúm và phế cầu (người > 65 tuổi, QĐ 4235/2012, Viêm phế quản cấp, mục 4).",
+     "Tái khám 10–14 ngày. Ho khan có thể còn 1–6 tuần sau khi ngưng enalapril; không dùng lại thuốc cũ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 14 ngày (ngày 19)",
+   "tiep_don": "Ông Phạm Văn Bảy tái khám đúng hẹn, anh Hùng chở đi, mang sổ khám, một phim X-quang kèm giấy kết quả của bệnh viện huyện. Ông đã ngưng enalapril từ ngày khám trước và uống losartan 25 mg mỗi sáng. Sinh hiệu: nhiệt 36,8 °C, mạch 76 l/p, HA 134/82 mmHg, nhịp thở 16 l/p, SpO2 98% khí trời.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Bảy đã hết sốt, hết đờm, phổi sạch, SpO2 98%, X-quang bình thường; nhập viện thêm chỉ làm ông trễ hồ sơ vay và bỏ ruộng, không thêm chẩn đoán nào. Điều cần làm là lấy thuốc cũ, hẹn đánh giá ho (QĐ 4235/2012, Ho kéo dài, mục 3.1).",
+    "chuyen_tuyen": "Chuyển lên tuyến tỉnh làm CT ngực và nội soi phế quản khi X-quang bình thường, vệt máu không tái, ho khan đang giảm là quá mức (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2: lao, ung thư chẩn đoán bằng X-quang và/hoặc CT; ở đây X-quang đã bình thường). Ông tốn kém, lo sợ 'bệnh ung thư', có thể bỏ thuốc huyết áp hoặc không quay lại đánh giá ho."
+   },
+   "loi_mo": "Tôi khỏe rồi bác sĩ, hết đàm hết sốt rồi, còn ngứa họng thoảng thoảng. Phim chụp ở huyện đây. Giờ bác sĩ ký giấy sức khỏe cho tôi, mốt tôi nộp hồ sơ.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "134/82",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông tái khám đúng hẹn (ngày 19). Ông nói đã 'khỏe hẳn', đờm hết từ ngày 9, hết sốt từ ngày 6; ông xin giấy sức khỏe và hỏi có cần uống thuốc gì nữa không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ hoàn toàn: tiêu chí xác nhận khỏi"
+    },
+    {
+     "id": "ho_hien_tai",
+     "noi_dung": "Hết ho đờm. Ho khan còn thưa, một đến hai tiếng 'khụ' mỗi ngày lúc ngứa họng buổi tối, nhẹ hơn rất nhiều so với trước; ông tự thấy 'giờ mới biết cái ho cũ là do thuốc'. Không còn đau rát sau xương ức, không khó thở, không sốt, ăn ngủ tốt, làm ruộng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm phế quản đã khỏi; ho khan giảm rõ sau 2 tuần ngưng enalapril"
+    },
+    {
+     "id": "vet_mau",
+     "noi_dung": "Từ sau hôm khám lần trước ông không còn thấy máu trong đờm lần nào. Không sụt cân, không mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ không tái diễn"
+    },
+    {
+     "id": "xquang",
+     "noi_dung": "Hai ngày sau lần khám trước (ngày 7), anh Hùng chở ông ra bệnh viện huyện chụp X-quang ngực. Phim đưa kèm giấy kết quả: hai phổi sáng, rốn phổi không đậm, không đám mờ, không nốt, không hang, không tràn dịch, bóng tim không to; kết luận 'phổi chưa thấy tổn thương'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "X-quang bình thường: xử trí đúng lượt 1 được tiếp nối"
+    },
+    {
+     "id": "thuoc_moi",
+     "noi_dung": "Ông uống losartan 25 mg mỗi sáng đều từ sau lần khám trước, không bỏ liều. Ông tự đo HA ở trạm xã: 136/84 lần gần nhất; không chóng mặt, không phù. Đã báo trạm xã đổi thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc mới và đáp ứng huyết áp"
+    },
+    {
+     "id": "enalapril_con",
+     "noi_dung": "Ông còn khoảng 20 viên enalapril 10 mg trong hộp ở nhà (mua dư theo đợt BHYT). Ông đang tính 'uống cho hết, đỡ phí, mà hôm nay hết ho rồi chắc thuốc đó không sao'; sáng nay chưa uống lại nhưng định uống khi hết losartan.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi 'thuốc huyết áp cũ còn không, ông để đâu, định làm gì với nó', hoặc yêu cầu mang hộp thuốc. Hỏi chung 'có tuân thủ thuốc không' ông chỉ nói đang uống thuốc mới.",
+     "k": 1,
+     "y": "Nguyên nhân tái phát: thuốc cũ còn trong nhà và hiểu sai 'hết ho nghĩa là thuốc không gây ho'"
+    },
+    {
+     "id": "thuoc_lao",
+     "noi_dung": "Ông đã giảm thuốc lào còn 1–2 điếu mỗi ngày, chưa bỏ hẳn; 'bỏ khó, tối làm xong ruộng thèm'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố nguy cơ còn lại"
+    },
+    {
+     "id": "giay_kham",
+     "noi_dung": "Hồ sơ vay còn 4 ngày. Anh Hùng nói ngân hàng chỉ cần giấy ghi ông 'đủ sức lao động'. Ông sẵn sàng làm thêm xét nghiệm nếu giấy được ký.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật: giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào, cân nặng 58,5 kg. Nói trọn câu dài, không khò khè.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, không nhầy thành sau. Niêm mạc mũi hồng, khô, không dịch.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p, không co kéo. Rung thanh hai bên đều, gõ trong. Nghe: rì rào phế nang êm hai bên, hết ran ngáy, không ran ẩm, nổ.",
+     "k": 1,
+     "hien": "Nhịp thở 16 l/p, không co kéo. Rung thanh hai bên đều, gõ hai phổi trong.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa lưng hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, tần số 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, không hạch thượng đòn.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi 40 m trong hành lang: nhịp thở 18 l/p, SpO2 98% không đổi, không hụt hơi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "X-quang ngực thẳng (đưa từ bệnh viện huyện): hai phổi sáng, không đám mờ, không nốt, không tràn dịch; bóng tim không to.",
+     "ab": 0,
+     "n": "Phòng khám không có X-quang; kết quả do ông mang về từ bệnh viện huyện. Không cần chụp lại: tiêu chí khỏi dựa vào lâm sàng; chụp kiểm tra sau viêm phế quản cấp đã khỏi không có trong tài liệu đã tải. Chụp lại khi ho khan tồn tại > 6–8 tuần dù đã ngưng thuốc (QĐ 4235/2012, Ho kéo dài, mục 3.1; CHEST 2020 khuyến cáo 2)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 3 mg/L",
+     "ab": 0,
+     "bang": {
+      "crp": 3
+     },
+     "n": "Xét nghiệm lại khi đã khỏi lâm sàng không đổi quyết định; không cần. NICE NG237 1.3.4 chỉ dùng CRP khi chưa rõ có cần kháng sinh."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,2 G/L · Neutrophil 60% · Hb 143 g/L · TC 240 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 60.0,
+      "neu": 4.32,
+      "lym_pct": 30.0,
+      "lym": 2.16,
+      "mono_pct": 7.0,
+      "mono": 0.5,
+      "eos_pct": 2.5,
+      "eos": 0.18,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.75,
+      "hgb": 143,
+      "hct": 0.43,
+      "mcv": 90.5,
+      "mch": 30.1,
+      "mchc": 333,
+      "rdw": 13.2,
+      "plt": 240
+     },
+     "n": "Không đổi quyết định khi đã khỏi lâm sàng."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Creatinin 80 µmol/L · K 4,3 mmol/L",
+     "ab": 0,
+     "bang": {
+      "creat": 80,
+      "egfr": 88,
+      "k": 4.3,
+      "na": 139,
+      "ure": 5.1
+     },
+     "n": "Sau đổi sang thuốc ức chế thụ thể: theo dõi creatinin, kali không có trong tài liệu đã tải; làm lại một lần ở tái khám tăng huyết áp là hợp lý, không bắt buộc hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phế quản cấp đã khỏi (ngày 19), không biến chứng",
+     "ok": 1,
+     "n": "Hết sốt từ ngày 6, hết đờm từ ngày 9, phổi hết ran, sinh hiệu bình thường; bệnh khỏi hoàn toàn không để lại di chứng (QĐ 4235/2012, Viêm phế quản cấp, mục 1). Ho do virus có thể kéo tới 20 ngày (QĐ 708/2015 mục 2) hoặc 3–4 tuần (NICE NG120 1.1.1)."
+    },
+    {
+     "t": "Ho khan do enalapril, đang giảm sau 2 tuần ngưng thuốc; tăng huyết áp đang điều trị bằng losartan 25 mg",
+     "ok": 1,
+     "n": "Ho khan giảm rõ sau ngưng enalapril, đúng chẩn đoán thứ hai (QĐ 4235/2012, Ho kéo dài, mục 3.1: thường hết sau 1–6 tuần; ERS 2019: có thể chậm). Chưa đủ để nói 'hết hẳn': còn 1–2 tiếng ho mỗi ngày. HA 136/84 tại trạm xã trên losartan 25 mg: mục tiêu HA và chỉnh liều theo hướng dẫn tăng huyết áp (sổ mâu thuẫn mục mục tiêu HA: < 130/80 theo AHA/ACC 2025 mục 5.2.7 hoặc < 140/90)."
+    },
+    {
+     "t": "Lao phổi hoặc ung thư phổi, phế quản",
+     "n": "Khả năng thấp: X-quang bình thường, vệt máu không tái diễn, không sụt cân. X-quang bình thường không loại trừ hoàn toàn; nếu ho khan còn > 6–8 tuần sau ngưng thuốc, hoặc ho máu tái, cần thăm dò thêm (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2; Ho kéo dài, mục 2.3)."
+    },
+    {
+     "t": "Viêm phổi cộng đồng hoặc ho gà (nay không còn)",
+     "n": "Hết sốt, hết đờm, phổi sạch, X-quang không đám mờ; ho gà không có ho cơn. Không cần xét nghiệm thêm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi viêm phế quản cấp bằng tiêu chí rõ: hết sốt, hết đờm, phổi hết ran, sinh hiệu bình thường; không cần kháng sinh hay thuốc ho",
+     "v": "c",
+     "n": "QĐ 4235/2012, Viêm phế quản cấp, mục 1 và 3 (khỏi hoàn toàn, không cần thuốc); NICE NG120 1.1.5 (ho cấp thường 3–4 tuần). Số ngày ngừng thuốc: không dùng thuốc nào nên không cần ngưng."
+    },
+    {
+     "t": "Giải thích: hết ho đờm không có nghĩa enalapril 'hết gây ho'; tuyệt đối không uống lại enalapril cũ, bỏ hoặc giao lại hộp thuốc, ghi vào sổ khám 'ho do ức chế men chuyển'",
+     "v": "c",
+     "n": "QĐ 4235/2012, Ho kéo dài, Bảng 1.1 (dừng và thay nhóm khác); ERS 2019 (Iatrogenic cough: không cho ức chế men chuyển ở người đang ho). Ghi nhận 'dị ứng/không dung nạp' vào sổ: thiết kế của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục losartan 25 mg mỗi sáng, hẹn tái khám tăng huyết áp để chỉnh liều theo HA; đánh giá lại ho khan ở tuần 4–6",
+     "v": "c",
+     "n": "QĐ 5904/2019 Phần 3 mục G (losartan 25–100 mg; ít gây ho); VSH/VNHA 2024 mục Đ4.1: tái khám mỗi 2–4 tuần trong 2–3 tháng đầu; QĐ 4235/2012, Ho kéo dài, mục 3.1 (hết sau 1–6 tuần). Tăng lên 50 mg khi HA chưa đạt: chấm a (sổ mâu thuẫn mục 6)."
+    },
+    {
+     "t": "Ghi nhận X-quang ngực bình thường; không chụp lại ngay; chỉ định chụp lại hoặc thăm dò thêm nếu ho khan còn > 6–8 tuần sau ngưng thuốc, ho máu tái, sụt cân",
+     "v": "c",
+     "n": "QĐ 4235/2012, Ho kéo dài, mục 2.3 (lao, giãn phế quản, COPD, trào ngược); CHEST 2020 khuyến cáo 2 và ghi chú. Mốc 6–8 tuần dựa trên giới hạn trên 1–6 tuần và định nghĩa ho mạn > 8 tuần; tài liệu đã tải không nêu mốc làm lại X-quang."
+    },
+    {
+     "t": "Khuyên bỏ hẳn thuốc lào, tiêm vắc xin cúm và phế cầu",
+     "v": "c",
+     "n": "QĐ 4235/2012, Viêm phế quản cấp, mục 3 (bỏ thuốc lá) và mục 4 (vắc xin cúm, phế cầu, đặc biệt người trên 65 tuổi). Thuốc lào được hiểu cùng nhóm với thuốc lá (QĐ 4235 mục 2.2 nêu cả hai)."
+    },
+    {
+     "t": "Giấy chứng nhận sức khỏe: ghi trung thực tình trạng (tăng huyết áp đang điều trị, viêm phế quản cấp đã khỏi); không ghi đủ sức lao động nếu chưa khám toàn diện theo mẫu",
+     "v": "c",
+     "n": "Mẫu và tiêu chuẩn: không có trong tài liệu đã tải. Lập luận lâm sàng: hết bệnh cấp, X-quang bình thường, HA gần mục tiêu nên có thể xác nhận tình trạng hiện tại; kết luận 'đủ sức lao động' theo mẫu của cơ sở."
+    },
+    {
+     "t": "Kê lại kháng sinh vì ông 'đã cầm giấy' hoặc 'cho thuốc ho bổ phế' cho chắc",
+     "v": "w",
+     "n": "Đã khỏi, không còn chỉ định (CHEST 2020 khuyến cáo 3; NICE NG120 1.1.9). Thuốc bổ phế dạng xi rô chỉ nêu cho ho do viêm phế quản cấp virus (QĐ 4235/2012, Ho kéo dài, Bảng 1.1) khi còn ho, nay không cần."
+    },
+    {
+     "t": "Cho dùng lại enalapril vì 'đã hết ho' hoặc tăng liều losartan ngay vì HA 136/84 mà không đo lại tại nhà",
+     "v": "w",
+     "n": "Ho do ức chế men chuyển dễ tái phát khi dùng lại (QĐ 4235/2012, Ho kéo dài, Bảng 1.1). Chỉnh liều khi HA chưa đạt theo hướng dẫn tăng huyết áp (VSH/VNHA 2024 mục Đ4.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phế quản cấp đã khỏi (ngày 19)",
+     "Ho khan do enalapril đang giảm sau 2 tuần ngưng thuốc; chưa hết hẳn",
+     "Tăng huyết áp đang điều trị bằng losartan 25 mg, HA 136/84 tại trạm xã",
+     "X-quang ngực bình thường; lao phổi và ung thư phổi khả năng thấp, chưa loại tuyệt đối nếu ho khan kéo dài",
+     "Nguy cơ tái phát: còn thuốc enalapril ở nhà, vẫn hút thuốc lào"
+    ],
+    "phan_tich_chan_doan": [
+     "1) TIÊU CHÍ XÁC NHẬN KHỎI VIÊM PHẾ QUẢN CẤP: hết sốt, hết đờm, hết đau rát sau xương ức, phổi hết ran, sinh hiệu bình thường. Ở người lớn khỏe, bệnh khỏi hoàn toàn không để lại di chứng (QĐ 4235/2012, Viêm phế quản cấp, mục 1). Không cần xét nghiệm 'chứng minh khỏi'.",
+     "2) HO KHAN CÒN LẠI: giảm rõ sau ngưng enalapril 2 tuần, đúng chẩn đoán ho do thuốc; QĐ 4235/2012 (Ho kéo dài, mục 3.1) cho 1–6 tuần, ERS 2019 nói có thể chậm. Chưa hết hẳn không phải thất bại. Mốc quay lại thăm dò: còn ho > 6–8 tuần sau ngưng thuốc.",
+     "3) X-QUANG ĐÃ LÀM: bình thường, đủ để hạ khả năng lao và ung thư, không chụp lại ngay. Vì sao không chụp thêm: không còn dấu hiệu mới; CHEST 2020 khuyến cáo 2: chụp khi ho kéo dài hoặc nặng thêm.",
+     "4) NGUY CƠ TÁI PHÁT (kết cục): dùng lại enalapril cũ, thuốc lào, bụi rơm, thiếu hiểu biết 'hết ho là hết thuốc gây ho'. Hỏi riêng thuốc cũ còn trong nhà là bước dễ bỏ sót nhất ở lượt này.",
+     "5) LÝ DO THẬT: giấy sức khỏe; trả lời trung thực sau khi bệnh được làm rõ."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: không thuốc cho viêm phế quản cấp đã khỏi; giữ losartan, đánh giá lại ho khan, hẹn tái khám tăng huyết áp và hẹn đánh giá ho ở tuần 4–6; dặn không dùng lại enalapril.",
+     "Chỉnh liều losartan: khởi đầu 25 mg, tối ưu 100 mg (QĐ 5904/2019 Phần 3 mục G); sơ đồ Phần 1 mục C ghi 50 mg (sổ mâu thuẫn mục 6). Mục tiêu HA có hai nguồn: AHA/ACC 2025 mục 5.2.7 < 130/80 mmHg; mục tiêu < 140/90 ở nguồn khác (sổ mâu thuẫn mục mục tiêu HA); ca chỉ nêu, không chấm điểm.",
+     "Giấy sức khỏe: nêu tình trạng thực tế. Mẫu và tiêu chuẩn: không có trong tài liệu đã tải.",
+     "Kết cục 'tái phát' (nằm ngoài lượt 2): nếu ông uống lại enalapril, ho khan sẽ tái phát sau vài ngày đến vài tuần và ông sẽ nghĩ là viêm phế quản lại, xin kháng sinh lần nữa. Phòng ngừa là lời dặn rõ và lấy thuốc cũ đi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Losartan (thuốc hạ áp mới)",
+      "ham_luong": "Viên 25 mg",
+      "lieu": "25 mg × 1 lần/ngày; tăng lên 50 mg khi HA chưa đạt theo hẹn tái khám",
+      "duong": "Uống",
+      "thoi_diem": "Sáng",
+      "so_ngay": "Dùng liên tục, tái khám theo hẹn",
+      "ghi_chu": "QĐ 5904/2019 Phần 3 mục G; sơ đồ Phần 1 mục C (50 mg, sổ mâu thuẫn mục 6)."
+     },
+     {
+      "thuoc": "Enalapril 10 mg (còn ở nhà)",
+      "ham_luong": "Viên 10 mg",
+      "lieu": "KHÔNG DÙNG LẠI",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "QĐ 4235/2012, Ho kéo dài, Bảng 1.1; ERS 2019. Thu lại hộp thuốc nếu ông đồng ý."
+     },
+     {
+      "thuoc": "Kháng sinh, thuốc ho",
+      "ham_luong": "-",
+      "lieu": "Không kê",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "Viêm phế quản cấp đã khỏi; CHEST 2020 khuyến cáo 3; NICE NG120 1.1.9."
+     }
+    ],
+    "dan_do": [
+     "Uống losartan mỗi sáng; đo HA tại trạm xã hoặc tại nhà và ghi sổ.",
+     "Không bao giờ uống lại enalapril (kể cả 'cho hết hộp'), cũng không dùng thuốc tên khác thuộc nhóm 'pril' (perindopril, lisinopril, captopril...) khi chưa hỏi bác sĩ.",
+     "Ho khan có thể còn 1–6 tuần; quay lại sớm nếu ho tăng, ho máu, sốt, sụt cân, đổ mồ hôi đêm.",
+     "Quay lại sau 4–6 tuần để đánh giá ho và HA; nếu ho khan còn thì làm thêm thăm dò (chụp lại X-quang, đo chức năng hô hấp, hỏi mũi xoang, trào ngược).",
+     "Bỏ hẳn thuốc lào; tiêm vắc xin cúm và phế cầu."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: lượt 1 hỏi ra ho khan 4 tháng và vệt máu, ngưng enalapril, đổi losartan, không kháng sinh, giấy X-quang huyện; lượt 2 đỡ hoàn toàn, X-quang bình thường, dặn không dùng lại enalapril. TÁI PHÁT: sau khoảng 3 tuần ông uống 'cho hết' hộp enalapril cũ còn ở nhà vì thấy hết ho; ho khan quay lại sau 5–7 ngày, ông tưởng viêm phế quản tái phát, ra tiệm thuốc mua kháng sinh, ho không đỡ, mất thêm 2 tuần mới quay lại; ngưng thuốc lần 2 thì ho giảm (QĐ 4235/2012, Ho kéo dài, Bảng 1.1, mục 3.1). Nguyên nhân nền chưa xử lý hết: thuốc cũ còn trong nhà, thuốc lào. (2) Xử trí chỉ nhìn đợt cấp: lượt 1 kê kháng sinh, không hỏi ho khan 4 tháng, giữ enalapril, không cho X-quang; đờm hết nên ông tin kháng sinh có công, ho khan vẫn còn, ông xin thêm đợt thứ hai; vệt máu không được đánh giá (QĐ 4235/2012, Viêm phế quản cấp, mục 2.2). Kết cục tốt ở đợt cấp không hợp thức hóa quy trình thiếu sót.",
+ "nhieu": [
+  "Đòi kháng sinh: xin ngay câu đầu, dẫn kinh nghiệm cũ và trạm xã, dọa tự mua; phải nghe, ghi nhận, rồi giải thích bằng số liệu thật của ông.",
+  "Hai chẩn đoán cùng lúc: đợt ho đờm cấp che ho khan mạn do enalapril; hỏi chung 'ho mấy ngày' chỉ ra 5 ngày.",
+  "Lý do thật xin giấy sức khỏe làm ông giấu ho 4 tháng và vệt máu; chỉ nói khi bác sĩ giải thích cần biết thật để ký đúng.",
+  "Ràng buộc nguồn lực: phòng khám không có X-quang; phải dùng khám, CRP, CRB-65 và giấy chụp ngoại trú.",
+  "Lượt 2: hết ho đờm làm dễ bỏ quên hỏi thuốc enalapril còn ở nhà."
+ ],
+ "bai_hoc_bien": [
+  "Hai chẩn đoán cùng lúc: tìm ra viêm phế quản cấp rồi đóng hồ sơ là premature closure. Luôn hỏi 'dữ kiện nào chẩn đoán này không giải thích được': ho 4 tháng và vệt máu ở người 66 tuổi hút thuốc lào.",
+  "Nhìn vào vỉ thuốc trước khi nhìn vào phổi: ức chế men chuyển là nguyên nhân kinh điển của ho khan mạn; thuốc hạ áp có thể là chìa khóa của cả ca.",
+  "Từ chối kháng sinh giữ lòng tin: nghe hết, ghi nhận kinh nghiệm cũ, dùng số liệu thật, nói điều sẽ làm thay vì chỉ nói 'không', hẹn mốc quay lại.",
+  "Đỡ hoàn toàn khi tái khám: dùng tiêu chí khỏi (hết sốt, hết đờm, phổi sạch), không chụp thêm khi không có dấu mới; nhưng vẫn phải hỏi thuốc cũ còn trong nhà để tránh tái phát.",
+  "Tái phát: thường do nguyên nhân nền chưa xử lý hoặc người bệnh hiểu sai; thu lại thuốc cũ, ghi vào sổ khám."
+ ],
+ "diem_nho": [
+  "Viêm phế quản cấp thường khỏi trong khoảng 1 tuần, ho có thể đến 20 ngày (QĐ 708/2015 mục 2); ho cấp thường 3–4 tuần (NICE NG120 1.1.1). Kháng sinh thường không cần (CHEST 2020 khuyến cáo 3; NICE NG120 1.1.9); QĐ 708/2015 mục 4.1a coi đờm vàng là một chỉ định (hai cách đều đúng).",
+  "Ho > 8 tuần: khai thác thuốc ức chế men chuyển trước tiên; ho do thuốc thì dừng và đổi nhóm, thường hết sau 1–6 tuần (QĐ 4235/2012, Ho kéo dài, mục 2.1, 2.3, 3.1, Bảng 1.1). Losartan ít gây ho hơn, khởi đầu 25 mg (QĐ 5904/2019 Phần 3 mục G)."
+ ],
+ "nguon": [
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – Viêm phế quản cấp ở người lớn, mục 2, 4.1a, 4.1b, Bảng II.1, 4.3",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – bài Viêm phế quản cấp mục 1, 2.1.1, 2.2, 2.3.1, 3, 4; bài Ho kéo dài mục 2.1, 2.2, 2.3, 3.1, Bảng 1.1; bài Viêm phổi mắc phải ở cộng đồng mục 2.1",
+  "TL-0151 · CHEST Expert Cough Panel 2020 – Acute Cough Due to Acute Bronchitis in Immunocompetent Adult Outpatients, Chest 2020;157(5):1256-1265 – khuyến cáo 1–3 và ghi chú khuyến cáo 2",
+  "TL-0156 · ACP/CDC 2016 – Appropriate Antibiotic Use for Acute Respiratory Tract Infection in Adults, Ann Intern Med 2016;164:425-434 – Advice 1",
+  "TL-0146 · NICE NG237 2024 – Suspected acute respiratory infection in over 16s – khuyến cáo 1.1.2, 1.3.1–1.3.4",
+  "NICE NG120 2019 (cập nhật 2025) – Cough (acute): antimicrobial prescribing (kho cũ tltk-10000-ca) – khuyến cáo 1.1.1, 1.1.5, 1.1.9, 1.1.10, 1.1.15–1.1.19",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – VPMPCĐ người lớn – mục 3.1.1, 3.1.2, 3.1.3, 3.2.1",
+  "TL-0284 · QĐ 5904/QĐ-BYT 2019 – Hướng dẫn tại trạm y tế xã (tăng huyết áp) – Phần 3 mục G (bảng thuốc hạ áp: amlodipin, enalapril, losartan; ghi chú ho do ức chế men chuyển), Phần 1 mục C",
+  "TL-0288 · VSH/VNHA 2024 – Chiến lược thực hành lâm sàng quản lý tăng huyết áp tại Việt Nam – mục Đ4.1, Đ4.2",
+  "TL-0154 · ERS 2019 – Iatrogenic cough (ho do thuốc) – theo sổ mâu thuẫn mục tần suất ho do ƯCMC; không mở lại bản chữ trong lượt này",
+  "TL-0145 · Pertussis (Whooping Cough) Specific Disease Protocol, Manitoba Infection Prevention & Control Manual, 2025 – mục 3 (bản chữ không phải tài liệu CDC như chỉ mục ghi)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19 – viết: Sonnet. Ca 2 lượt, cùng phòng khám đa khoa (không X-quang). Hai chẩn đoán cùng lúc: viêm phế quản cấp + ho khan mạn do enalapril; cờ đỏ: vệt máu, thuốc lào, ho 4 tháng. Mâu thuẫn dùng lại mục có sẵn: đờm vàng và kháng sinh (HH-0692), X-quang (HH-0671), tần suất và thời gian ho do ƯCMC (MT-0055, MT-0020), losartan 25/50 (MT-0058), mục tiêu HA.",
+  "Tài liệu đã đọc lại bằng rg trong lượt này: TL-0015 (mục 2, 4.1a, 4.1b, Bảng II.1); TL-0131 (Viêm phế quản cấp mục 1–4; Ho kéo dài mục 2.1–2.3, 3.1, Bảng 1.1); NICE NG120 (1.1.1, 1.1.5, 1.1.9, 1.1.10, 1.1.15–1.1.19); TL-0121 (mục 3.1.2, 3.2.1 chỉ tiêu đề và ngưỡng bạch cầu; bản chữ OCR rối); TL-0284 (bảng thuốc hạ áp); TL-0288 (Đ4.1, Đ4.2).",
+  "Chỗ thiếu tài liệu: liều doxycyclin/macrolid cho viêm phế quản cấp trong QĐ 708 (không tìm trong đoạn đã đọc); liều losartan tương đương enalapril 10 mg; mẫu và tiêu chuẩn giấy chứng nhận sức khỏe; thời hạn chụp X-quang sau một vệt máu đơn lẻ; chụp kiểm tra sau viêm phế quản đã khỏi; số ngày nghỉ làm.",
+  "QĐ 4235/2012 Ho kéo dài mục 2.2 ghi 'chẹn thụ thể angiotensin' gây ho còn mục 2.3 và Bảng 1.1 ghi 'ức chế men chuyển': ca theo mục 2.3 và Bảng 1.1 (đã có trong sổ mâu thuẫn, HH-1350)."
+ ]
+}

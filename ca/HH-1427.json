@@ -1,0 +1,708 @@
+{
+ "ma_ca": "HH-1427",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn theo đặc tả sổ cái (2026-11-19)",
+ "benh": "HH_ho_ga",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Ho gà (Pertussis)",
+  "chan_doan_phai_loai_tru": [
+   "Ho sau virus",
+   "Lao phổi"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Minh Quân",
+  "tuoi": 13,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 8",
+  "can_nang": 50,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi em là 'em' hoặc 'con'. Quân tự xưng 'con', gọi bác sĩ là 'bác sĩ'. Mẹ là chị Diệp: bác sĩ gọi 'chị', chị xưng 'em' với bác sĩ và gọi con là 'Quân' hoặc 'thằng bé'.",
+  "tinh_cach": "Quân hiền, hay lo xa, sợ nhất là ngạt thở giữa cơn ho vì ông nội mất vì ung thư phổi ba năm trước; ngại nói chuyện nôn và các chuyện 'kín' ở người. Mẹ 35 tuổi, nhân viên bán hàng, vừa sinh bé gái 7 tuần, vừa lo cho con lớn vừa lo bé nhỏ, nói nhanh, hay hỏi dồn.",
+  "kieu_nhieu": "Sợ hãi quá mức: sau mỗi cơn ho Quân hỏi dồn 'con có bị lao không, có chết không bác sĩ', nắm tay mẹ, đòi chụp phim và CT ngay, đòi 'kháng sinh mạnh, chích cho chắc'. Giải thích chung chung thì càng hoảng; chịu bình tĩnh khi bác sĩ nói cụ thể vì sao chưa nghĩ lao, vì sao thuốc này là thuốc đúng, kế hoạch từng bước kèm giờ giấc. Mẹ hay ôm miệng lo cho bé nhỏ ở nhà.",
+  "nguoi_nha": "Mẹ, chị Diệp, 35 tuổi, đưa Quân đi bằng xe máy sau giờ làm; kể phần lớn diễn tiến (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng Quân về cảm giác trong người (đau, ói, sợ gì) thì Quân trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ (chị Diệp)",
+  "ngoai_hinh": {
+   "da": "#d9a982",
+   "toc": "#1a1410",
+   "kieuToc": "ngan",
+   "ao": "#dfe7ef",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d4a07c",
+    "toc": "#241a14",
+    "kieuToc": "bui",
+    "ao": "#8a6f9b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho từng cơn hơn 2 tuần, đêm nào cũng thức, có cơn ho xong ói; xịt thuốc hen không bớt, mẹ xin kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám làm việc buổi tối, ngoài giờ hành chính: kỹ thuật viên xét nghiệm, X-quang và siêu âm không trực; mẫu máu, phết tỵ hầu hay phim chụp phải chờ sáng hôm sau, kết quả sau nhiều giờ đến vài ngày. Có ống nghe, nhiệt kế, máy đo SpO₂, lưu lượng đỉnh kế, bình xịt thuốc hen mẫu và buồng đệm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Em Phạm Minh Quân, 13 tuổi, học sinh lớp 8, mẹ đưa đến phòng khám buổi tối (ngoài giờ hành chính) vì ho từng cơn hơn hai tuần, đêm nào cũng thức, có cơn ho xong ói. Quân đang xịt thuốc hen mang theo mà ho không bớt; mẹ muốn xin kháng sinh. Sinh hiệu: nhiệt độ 36,8 °C, mạch 84 l/p, HA 108/66 mmHg, nhịp thở 20 l/p, SpO₂ 98% khí trời, cân nặng 50 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện Quân tối nay khi em còn ăn uống được, thở 20 l/p, SpO₂ 98% giữa cơn, không sốt, không dấu hiệu viêm phổi là quá tay: ho gà ở trẻ từ 6 tháng tuổi điều trị tại nhà, chỉ nhập khi có viêm phổi, co giật, mất nước, suy dinh dưỡng nặng, ngưng thở hoặc tím sau cơn ho (WHO 2013, mục 4.7.1, tr. 112). Quân nằm chung phòng với trẻ nhỏ khi chưa đủ 5 ngày macrolid nên vẫn còn lây (ACCP 2006, khuyến cáo 9), mất ngủ vì lạ chỗ và hoảng hơn; mẹ phải gửi bé 7 tuần cho bà ngoại giữa đêm, còn thuốc vẫn là macrolid như ở nhà.",
+    "chuyen_tuyen": "Chuyển Quân lên tuyến trên ngay trong đêm để chụp phim 'cho chắc' khi chưa có dấu hiệu nặng khiến mẹ phải bỏ bé 7 tuần ở nhà, đi xe xa, chờ nhiều giờ ở cấp cứu, tốn tiền, còn Quân hoảng thêm vì nghĩ mình bệnh nặng. Macrolid bị trì hoãn trong khi điều trị càng sớm càng giảm cơn ho và ngừa lây (ACCP 2006, khuyến cáo 9); X-quang ngực để loại trừ lao làm được sáng mai giờ hành chính (QĐ 162/2024, Sơ đồ 1).",
+    "theo_doi": "Chỉ theo dõi ho thêm vài ngày vì nghĩ 'ho sau cảm', không cho kháng sinh: Quân tiếp tục lây trong nhà đến 3 tuần kể từ khi bắt đầu cơn ho nếu không điều trị (Manitoba 2025, mục 6); một người bệnh có thể lây cho 70–100% người sống chung (ACCP 2006, phần Clinical Presentation). Bé gái 7 tuần tuổi trong nhà chưa được tiêm mũi nào là người dễ bị nặng nhất (WHO 2013, mục 4.7.1; Manitoba 2025, mục 4) và có thể phải nhập viện vì ngưng thở; Quân thì vẫn ho cơn, mất ngủ, nghỉ học dài hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, thằng Quân ho hơn hai tuần rồi, ban đêm ho từng cơn dài, nhiều khi ho xong ói luôn. Xịt thuốc hen hoài không bớt. Nó sợ lắm, sợ bị lao giống ông nội. Bác sĩ cho nó kháng sinh mạnh đi, chích luôn cho chắc, nhà em còn bé nhỏ ở nhà.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "108/66",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho từng cơn hơn 2 tuần; xịt thuốc hen không bớt; mẹ muốn kháng sinh mạnh hoặc chích; Quân sợ bị lao, sợ chết ngạt trong cơn ho.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và mong muốn (kháng sinh); nỗi sợ lao"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Ngày 1–7: hắt hơi, sổ mũi trong, ho khan nhẹ, sốt nhẹ 37,8 °C trong 2 ngày rồi hết. Ngày 8 trở đi: ho từng cơn, ngày càng dữ; hôm nay là ngày thứ 18.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: giai đoạn viêm long rồi giai đoạn ho cơn"
+    },
+    {
+     "id": "con_ho",
+     "noi_dung": "Mỗi cơn là một chuỗi 10–20 tiếng ho liên tục không kịp thở, mặt đỏ, chảy nước mắt, cuối cơn có tiếng hít vào rít ngắn rồi khạc đờm trong dính; sau cơn hay buồn nôn, khoảng 1–2 lần/ngày ói thức ăn. Ngày 4–6 cơn, đêm 2–3 cơn làm thức giấc; giữa các cơn Quân khỏe, chơi bóng chuyền bình thường.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi cơn ho thế nào, kéo dài bao lâu, cuối cơn có ói, có tiếng rít không. Hỏi chung 'có ói không' mẹ nói 'thỉnh thoảng'; Quân nói rõ khi được hỏi riêng.",
+     "k": 1,
+     "y": "Ho cơn kịch phát, nôn sau ho, giữa cơn khỏe: đặc điểm ho gà"
+    },
+    {
+     "id": "khieng",
+     "noi_dung": "Ngày thứ 6 của bệnh Quân giúp ba khiêng bao gạo 25 kg và mấy thùng sơn lên gác; ngày thứ 8 bắt đầu ho cơn kèm đau dưới sườn phải mỗi khi ho. Cả nhà tin 'khiêng nặng nên sái phổi'. Không đau khi nằm yên, không khó thở đột ngột, không ngã hay va đập.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát bị gán sai: khiêng vật nặng; đau sườn do ho"
+    },
+    {
+     "id": "hen_xit",
+     "noi_dung": "Được ghi 'hen' ở phòng khám tư từ lớp 3, chưa đo hô hấp lần nào; vài lần/năm lúc trời lạnh khò khè, xịt salbutamol 100 mcg là hết; 3 năm nay không lên cơn. Tuần này Quân xịt 4–6 nhát, 4–6 lần/ngày để cắt cơn ho nhưng không bớt, không khò khè, không nặng ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc xịt hen đang dùng không đáp ứng; nhãn hen chưa xác nhận"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Bạn Huy ngồi cạnh trong lớp ho từng cơn khoảng 3 tuần, cô giáo nhắc đi khám nhưng chưa đi. Cả hai thường chia nhau chai nước. Trong nhà chưa ai ho, trừ Quân.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi ở lớp có ai ho kéo dài, ai bệnh giống Quân, hay hỏi riêng bạn ngồi cạnh.",
+     "k": 1,
+     "y": "Dịch tễ: bạn cùng lớp ho kéo dài"
+    },
+    {
+     "id": "em_be",
+     "noi_dung": "Bé Bông, em gái 7 tuần tuổi, sống cùng nhà, ngủ phòng mẹ. Mỗi chiều Quân bế em, hay hôn em và ho gần em cả 2 tuần nay. Hiện bé bú tốt, không ho, không sổ mũi, không tím, không ngưng thở, chưa tiêm mũi vắc xin nào (chưa đủ 2 tháng).",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi trong nhà có trẻ nhỏ, ai bế em, em bé có ho không. Mẹ chỉ nhắc 'nhà còn bé nhỏ' lúc đầu, không kể Quân bế em.",
+     "k": 1,
+     "y": "Người sống chung nguy cơ cao: trẻ 7 tuần chưa tiêm chủng"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Theo sổ tiêm chủng: vắc xin phối hợp có ho gà 3 mũi lúc nhỏ và nhắc lại lúc 18 tháng; không có mũi nhắc nào sau đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã tiêm cơ bản nhưng miễn dịch giảm dần theo thời gian"
+    },
+    {
+     "id": "lao_loai",
+     "noi_dung": "Không sốt kéo dài, không đổ mồ hôi đêm, không sụt cân (50 kg), ăn uống bình thường ngoài lúc ói. Không tiếp xúc ai ho ra máu hay đang điều trị lao. Ông nội mất vì ung thư phổi 3 năm trước (hút thuốc nhiều): đó là nỗi sợ của Quân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu gợi ý lao; nguồn gốc nỗi sợ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không dị ứng thuốc, không bệnh tim, thận; không dùng thuốc nào khác ngoài bình xịt salbutamol; không sặc dị vật đột ngột.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng, thuốc khác, loại trừ dị vật"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lo lắng, nắm tay mẹ. Giữa các cơn nói câu dài, không co kéo. Cơn ho trong lúc khám dài khoảng 25 giây: 10–12 tiếng liên tiếp, mặt đỏ, chảy nước mắt, cuối cơn một tiếng hít vào rít ngắn, SpO₂ 94% rồi về 98% sau 20 giây, khạc đờm trong dính, buồn nôn nhưng không ói. Quân hỏi ngay: 'Con sắp chết phải không bác sĩ?'. Cân 50 kg.",
+     "k": 1,
+     "hien": "Tỉnh, lo lắng, nắm tay mẹ. Giữa các cơn nói câu dài, không co kéo. Trong lúc khám có một cơn ho dài khoảng 25 giây, mặt đỏ, chảy nước mắt, cuối cơn hít vào có tiếng rít ngắn, SpO₂ trong cơn 94% rồi về 98%; khạc đờm trong dính, không ói."
+    },
+    "mat": {
+     "a": "Thị lực bình thường. Kết mạc mắt phải có một vệt xuất huyết dưới kết mạc nhỏ, đỏ tươi, 2 mm, nửa ngoài; mắt trái không có. Đồng tử đều, không dử. Gia đình tưởng 'đỏ mắt do ho'.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, không dịch chảy sau họng rõ, amidan không to, không giả mạc. Mũi khô, không chảy dịch. Màng nhĩ bình thường.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, không hạch dưới hàm. Tuyến giáp bình thường.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co lõm ngực. Lồng ngực cân đối, di động đều hai bên, rung thanh đều, gõ trong hai bên. Rì rào phế nang êm dịu hai bên, không ran, không ran rít, không giảm rì rào ở đáy phải.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, không co lõm ngực. Lồng ngực cân đối, di động đều, rung thanh đều, gõ trong hai bên. Nghe hai đáy phổi (xem âm thanh).",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau lan tỏa cơ liên sườn phải (khoảng liên sườn 8–10, đường nách giữa), đau tăng khi ho và hít sâu; không điểm chói trên xương sườn, không lạo xạo xương, không biến dạng, không tràn khí dưới da; ép lồng ngực gián tiếp không đau chói. Cột sống không đau.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau. Gan lách không to. Không có khối ở rốn hay vùng bẹn nhìn thấy khi ho trong lúc khám.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "pef": {
+     "v": "u",
+     "r": "PEF cao nhất của 3 lần thổi: 360 L/phút. Sau 4 nhát salbutamol 100 mcg qua buồng đệm, 15 phút: 372 L/phút (tăng 3%).",
+     "n": "Không đáp ứng giãn phế quản: ngưỡng dương tính ở trẻ là PEF tăng ≥ 15% (GINA 2026, Box 1-2), nên nhãn 'hen' không giải thích cơn ho này; một lần đo không loại trừ hen. PEF dự đoán theo chiều cao: không có trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "(Ngoài giờ, kỹ thuật viên X-quang không trực. Ghi giấy hẹn chụp sáng hôm sau tại bệnh viện huyện.)",
+     "n": "Ho kéo dài trên 2 tuần ở trẻ là biểu hiện nghi lao nên cần X-quang ngực; bình thường thì tìm nguyên nhân khác (QĐ 162/2024, Phần II mục 1.1 Bảng 1; Sơ đồ 1). Không hoãn macrolid chờ phim (ACCP 2006, khuyến cáo 5, 9)."
+    },
+    "pcr_ho_ga": {
+     "v": "a",
+     "r": "(Ngoài giờ không lấy mẫu, không có xét nghiệm tại chỗ. Có thể lấy phết tỵ hầu sáng hôm sau gửi tuyến trên; kết quả sau nhiều ngày.)",
+     "n": "Không chờ kết quả để điều trị (ACCP 2006, khuyến cáo 5, 9). Cấy tỵ hầu là cách chắc chắn nhất (6a), PCR chưa được khuyến cáo thường quy (6b); Manitoba 2025 (mục 7) lấy tăm bông rayon hoặc Dacron trong 48 giờ rồi gửi. Hai nguồn khác năm và kỹ thuật, chấp nhận cả hai."
+    },
+    "xpert": {
+     "v": "a",
+     "r": "(Ngoài giờ không làm được. Quân khạc ít đờm, có thể lấy đờm sáng sớm mang đi.)",
+     "n": "Chưa cần ngay: không sốt kéo dài, mồ hôi đêm, sụt cân, tiếp xúc lao; cơn ho kiểu ho gà (QĐ 162/2024, Bảng 1; WHO 2013, Bảng 10, tr. 110). Làm khi X-quang nghi lao hoặc ho trên 8 tuần (QĐ 162, Sơ đồ 1–2; ACCP 2006, khuyến cáo 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ho gà (ca có thể theo lâm sàng: ho kéo dài trên 2 tuần kèm cơn ho kịch phát, nôn sau ho), giai đoạn kịch phát ngày 18, ở thiếu niên đã tiêm vắc xin; xuất huyết dưới kết mạc mắt phải; đau cơ liên sườn phải do ho; có tiếp xúc gần trẻ 7 tuần",
+     "ok": 1,
+     "n": "Ho trên 2 tuần không nguyên nhân khác rõ + cơn ho kịch phát + nôn sau ho thì chẩn đoán ho gà trừ khi có chẩn đoán khác (ACCP 2006, khuyến cáo 5). Xuất huyết dưới kết mạc là dấu hiệu hữu ích (WHO 2013, mục 4.7.1, tr. 112); gãy xương sườn, xuất huyết kết mạc là biến chứng do ho (Manitoba 2025, mục 3.1)."
+    },
+    {
+     "t": "Ho gà ở thiếu niên",
+     "ok": 1,
+     "n": "Thiếu niên, người lớn có thể không có tiếng hú và không sốt; ho gà là nguyên nhân thường bị bỏ sót của ho trên 2 tuần (Manitoba 2025, mục 3; ACCP 2006, Clinical Presentation)."
+    },
+    {
+     "t": "Ho sau virus (ho sau nhiễm)",
+     "n": "ACCP 2006 định nghĩa ho sau nhiễm: 3–8 tuần sau nhiễm hô hấp, X-quang bình thường, tự hết (khuyến cáo 1). Quân có cơn kịch phát, nôn sau ho, bạn cùng lớp ho kéo dài nên ưu tiên ho gà (khuyến cáo 5)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho trên 2 tuần phải nghĩ tới nên hẹn X-quang (QĐ 162/2024, Bảng 1; Sơ đồ 1), nhưng chưa nghĩ nhiều: không sốt kéo dài, mồ hôi đêm, sụt cân, tiếp xúc nguồn lây; giữa cơn khỏe, ho thành cơn kèm nôn (WHO 2013, Bảng 10, tr. 110)."
+    },
+    {
+     "t": "Hen hoặc ho biến thể hen",
+     "n": "Không khò khè, salbutamol không giảm ho, PEF không tăng sau giãn phế quản (GINA 2026, Box 1-2); GINA nhắc nghĩ tới ho gà khi 'đợt hen' chỉ ho nổi bật (Diagnosis of exacerbations). Nhãn hen cũ chưa được xác nhận."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không sốt, thở 20 l/p, SpO₂ 98%, phổi không ran (WHO 2013, tr. 114: dấu hiệu viêm phổi là thở nhanh giữa cơn, sốt, suy hô hấp)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú, cho về nhà; hẹn tái khám sau 7 ngày",
+     "v": "c",
+     "n": "Ca nhẹ ở trẻ từ 6 tháng tuổi điều trị tại nhà; nhập viện khi có viêm phổi, co giật, mất nước, suy dinh dưỡng nặng, ngưng thở hoặc tím (WHO 2013, tr. 112). Quân không có dấu hiệu nào."
+    },
+    {
+     "t": "Macrolid uống, bắt đầu ngay tối nay, không chờ xét nghiệm: azithromycin 10 mg/kg (tối đa 500 mg) ngày 1 rồi 5 mg/kg (tối đa 250 mg) mỗi ngày × 4 ngày (WHO 2013, mục 4.7.1, tr. 112); hoặc erythromycin 12,5 mg/kg × 4 lần/ngày × 10 ngày (WHO 2013, tr. 112); hoặc erythromycin 40–50 mg/kg/ngày × 2 tuần (ACCP 2006, Treatment và khuyến cáo 9; trần liều cho trẻ lớn không có trong tài liệu đã tải)",
+     "v": "c",
+     "n": "Kháng sinh không rút ngắn bệnh nhưng giảm thời gian lây (WHO 2013, tr. 112); điều trị sớm giảm cơn ho và ngừa lây (ACCP 2006, khuyến cáo 9). Hai nguồn khác năm, bối cảnh (phác đồ ngắn cho tuyến đầu nguồn lực thấp so với erythromycin 2 tuần), cùng chọn macrolid: ghi cả hai cách. Quân 50 kg: azithromycin 500 mg ngày 1 rồi 250 mg ngày 2–5."
+    },
+    {
+     "t": "Ở nhà, nghỉ học, đeo khẩu trang khi ra khỏi phòng, tránh người ngoài hộ gia đình, phụ nữ có thai, trẻ nhỏ đến hết 5 ngày kháng sinh (ACCP 2006, khuyến cáo 9; Manitoba 2025, mục 6); riêng việc loại khỏi lớp, Manitoba ghi 'chưa được chứng minh hiệu quả', quyết định theo y tế dự phòng (Discharge Teaching)",
+     "v": "c",
+     "n": "Hai nguồn cùng mốc 5 ngày sau macrolid; khác ở độ chắc chắn của việc cho nghỉ học (ACCP: cách ly tại nhà, nghỉ học; Manitoba: không phải chiến lược đã chứng minh). Ghi cả hai cách."
+    },
+    {
+     "t": "Tách Quân khỏi em bé 7 tuần (không bế, không hôn, không cùng phòng); đưa bé khám nhi trong 24 giờ, hoặc ngay nếu ho, bú kém, tím, ngưng thở; theo dõi người sống chung 21 ngày kể từ lần tiếp xúc cuối. Dự phòng sau tiếp xúc: cho mọi người sống chung bất kể tiêm chủng (Manitoba 2025, mục 5) hoặc, theo WHO 2013 (tr. 114), erythromycin estolate 12,5 mg/kg × 4 lần/ngày × 10 ngày chỉ cho trẻ dưới 6 tháng có sốt hay dấu hiệu nhiễm hô hấp; thuốc, liều khác cho trẻ nhỏ và người lớn: không có trong tài liệu đã tải",
+     "v": "c",
+     "n": "Hai nguồn khác phạm vi (WHO: nhóm nguy cơ cao nhất đã có triệu chứng; Manitoba: mọi người sống chung), không nguồn nào cấm cách kia. Trẻ dưới 6 tháng mắc ho gà phải nhập viện (WHO 2013, tr. 112). Bé tiêm mũi 1 khi đủ 2 tháng (TT 10/2024)."
+    },
+    {
+     "t": "Hẹn chụp X-quang ngực thẳng sáng mai (giờ hành chính) để loại trừ lao, viêm phổi; macrolid vẫn uống từ tối nay",
+     "v": "c",
+     "n": "Ho trên 2 tuần là người nghi lao, cần X-quang ngực; âm tính thì tìm nguyên nhân khác (QĐ 162/2024, Bảng 1, Sơ đồ 1). Không hoãn macrolid (ACCP 2006, khuyến cáo 5, 9)."
+    },
+    {
+     "t": "Không dùng thuốc ức chế ho, an thần, long đờm, kháng histamin, corticoid, β-agonist tác dụng kéo dài, globulin miễn dịch; không tăng bậc điều trị hen; chỉ xịt salbutamol khi khò khè hoặc khó thở",
+     "v": "c",
+     "n": "WHO 2013 (tr. 113): không dùng thuốc ức chế ho, an thần, long đờm, kháng histamin. ACCP 2006 (khuyến cáo 10): β-agonist tác dụng kéo dài, kháng histamin, corticoid, globulin miễn dịch không có lợi. Salbutamol tác dụng ngắn trong ho gà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dinh dưỡng: chia nhỏ bữa, ăn lại sau khi ói, uống đủ nước; nằm nghiêng khi lên cơn; tránh kích thích cơn (khói, bụi, lạnh)",
+     "v": "c",
+     "n": "WHO 2013 (tr. 113): bữa nhỏ, nhiều lần. Cơn ho dễ bị khơi do tiếng ồn, không khí lạnh, ăn, uống, khóc, cười (Manitoba 2025, mục 3)."
+    },
+    {
+     "t": "Dặn quay lại ngay khi: tím môi, ngưng thở, co giật, thở nhanh hoặc khó thở giữa các cơn ho, sốt, đau ngực dữ dội hoặc khó thở đột ngột, không uống được; với em bé: bú kém, ho, tím, ngưng thở",
+     "v": "c",
+     "n": "Dấu hiệu viêm phổi: thở nhanh giữa cơn, sốt, suy hô hấp (WHO 2013, tr. 114); trẻ nhỏ hay ngưng thở thay vì hú (Manitoba 2025, mục 3). Đau ngực dữ, khó thở đột ngột là dặn thận trọng của ca (không có tiêu chuẩn trong tài liệu đã tải)."
+    },
+    {
+     "t": "Trấn an có cấu trúc: giải thích Quân bị ho gà, thuốc đúng là macrolid; thuốc làm hết lây chứ không làm hết ho ngay; ho thường kéo dài 6–10 tuần, có thể 3 tháng; không phải lao vì sao; kế hoạch X-quang ngày mai",
+     "v": "c",
+     "n": "Ho gà kéo dài 6–10 tuần (Manitoba 2025, mục 4), có thể 3 tháng (WHO 2013, tr. 111). Kháng sinh không rút ngắn bệnh (WHO 2013, tr. 112)."
+    },
+    {
+     "t": "Báo ca cho y tế dự phòng; lấy phết tỵ hầu để cấy hoặc PCR sáng mai",
+     "v": "a",
+     "n": "ACCP 2006 (Diagnosis): ca có thể và ca xác định cần báo cơ quan y tế; Manitoba 2025 (Reporting). Quy định báo cáo ở Việt Nam: không có trong tài liệu đã tải. Xét nghiệm xác nhận không bắt buộc để điều trị (ACCP khuyến cáo 5, 9)."
+    },
+    {
+     "t": "Kê kháng sinh nhóm khác theo yêu cầu 'mạnh hơn' hoặc tiêm ceftriaxone thay macrolid",
+     "v": "w",
+     "n": "Macrolid là thuốc khuyến cáo (ACCP 2006, khuyến cáo 9; WHO 2013, tr. 112); penicillin (amoxicillin) trong WHO 2013 chỉ dành cho nghi viêm phổi thứ phát hoặc khi không có macrolid. Bằng chứng cephalosporin cắt lây ho gà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng bậc điều trị hen (corticoid hít hoặc uống, thuốc hen kết hợp) vì 'hen tái lại', hoặc thuốc ho có codein, an thần, kháng histamin để giảm cơn ho",
+     "v": "w",
+     "n": "Không lợi ích trong ho gà (ACCP 2006, khuyến cáo 10, mức bằng chứng tốt, lợi ích 'none'); WHO 2013 (tr. 113) không dùng thuốc ức chế ho, an thần, kháng histamin."
+    },
+    {
+     "t": "Cho về, không kháng sinh, đi học bình thường",
+     "v": "w",
+     "n": "Bỏ sót điều trị sớm và ngừa lây (ACCP 2006, khuyến cáo 9), nhà có trẻ 7 tuần (WHO 2013, tr. 112, 114)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ho gà (ca có thể theo lâm sàng: ho trên 2 tuần, ho cơn kịch phát, nôn sau ho), giai đoạn kịch phát ngày 18, thiếu niên đã tiêm vắc xin cơ bản và nhắc 18 tháng",
+     "Xuất huyết dưới kết mạc mắt phải; đau cơ liên sườn phải do ho, chưa dấu hiệu tràn khí, gãy xương sườn hay viêm phổi",
+     "Tiếp xúc gần trẻ 7 tuần chưa tiêm mũi nào; bạn cùng lớp ho kéo dài",
+     "Nhãn 'hen' cũ chưa xác nhận: không đáp ứng salbutamol, PEF không tăng sau giãn phế quản",
+     "Lo âu cao về lao, ung thư phổi; chưa có dấu hiệu gợi ý lao, hẹn X-quang"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn tiến theo ngày (viêm long rồi ho cơn), mô tả cơn ho (dài, ói cuối cơn), giữa cơn có khỏe không, thuốc đã dùng, tiếp xúc ở lớp, trẻ nhỏ trong nhà, tiêm chủng, dấu hiệu lao; hỏi riêng Quân về ói. Khám: mắt, phổi, cơ xương khớp, quan sát một cơn ho.",
+     "Vì sao nghĩ ho gà: ho trên 2 tuần kèm cơn kịch phát, nôn sau ho thì chẩn đoán ho gà trừ khi có chẩn đoán khác được chứng minh (ACCP 2006, khuyến cáo 5); thiếu niên thường không hú, không sốt (Manitoba 2025, mục 3). Thêm xuất huyết kết mạc (WHO 2013, tr. 112) và bạn ngồi cạnh ho kéo dài.",
+     "Ho sau virus: ho 3–8 tuần, X-quang bình thường, tự hết, không dùng kháng sinh (ACCP 2006, khuyến cáo 1); Quân có cơn kịch phát nên ưu tiên ho gà (khuyến cáo 5); ho trên 8 tuần thì xem chẩn đoán khác (khuyến cáo 3).",
+     "Lao phổi: ho trên 2 tuần là người nghi lao nên hẹn X-quang (QĐ 162/2024, Bảng 1; Sơ đồ 1); chưa nghĩ nhiều vì không sốt kéo dài, mồ hôi đêm, sụt cân, tiếp xúc nguồn lây (WHO 2013, Bảng 10).",
+     "Hen: PEF không tăng sau salbutamol (ngưỡng ≥ 15% ở trẻ, GINA 2026 Box 1-2); GINA liệt ho gà trong chẩn đoán phân biệt (Box 1-3). Khiêng nặng chỉ là mốc thời gian; mối liên quan với ho cơn: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: ngoại trú, macrolid ngay, cách ly 5 ngày, bảo vệ em bé, trấn an có kế hoạch (WHO 2013, tr. 112–114; ACCP 2006, khuyến cáo 9; Manitoba 2025, mục 5, 6).",
+     "Từ chối 'kháng sinh mạnh, chích': 'Dạ, em hiểu chị lo cho bé nhỏ ở nhà. Quân bị ho gà, thuốc đúng là macrolid uống 5 ngày; chích thuốc mạnh khác không tốt hơn. Thuốc giúp Quân hết lây nhanh chứ không làm hết ho ngay, ho còn vài tuần là thường gặp. Mai chụp phim để chắc không phải lao; tối nay con ngủ riêng, đeo khẩu trang.' (WHO 2013, tr. 112).",
+     "Tránh xét nghiệm chiều lòng: CT ngực, công thức máu, CRP không đổi quyết định hôm nay (ACCP 2006, khuyến cáo 5, 9); X-quang có chỉ định thật (QĐ 162/2024, Bảng 1) nên làm giờ hành chính. Hẹn tái khám sau 7 ngày: còn ho cơn là diễn tiến bình thường, không đổi kháng sinh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Azithromycin",
+      "ham_luong": "Viên 250 mg",
+      "lieu": "Ngày 1: 500 mg (2 viên) một lần; ngày 2–5: 250 mg (1 viên) mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu tối nay, mỗi ngày một lần cùng giờ",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "WHO 2013 (TL-0250), mục 4.7.1, tr. 112: 10 mg/kg tối đa 500 mg ngày 1, rồi 5 mg/kg tối đa 250 mg × 4 ngày; 50 kg đúng bằng liều tối đa. Thay thế: erythromycin 12,5 mg/kg × 4 lần/ngày × 10 ngày (WHO) hoặc 40–50 mg/kg/ngày × 2 tuần (ACCP 2006, khuyến cáo 9); trần liều, chống chỉ định, tác dụng phụ: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần (khoảng 10 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau sườn nhiều hoặc sốt ≥ 38,5 °C, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần, vài ngày",
+      "ghi_chu": "QĐ 3312/2015 (TL-0037), Viêm phổi do vi khuẩn ở trẻ em, mục 4, 2.2: 10–15 mg/kg/lần cách 6 giờ khi sốt ≥ 38,5 °C. Dùng cho đau thành ngực do ho: không có trong tài liệu đã tải, là lựa chọn thông thường của ca."
+     },
+     {
+      "thuoc": "Salbutamol xịt (đang dùng)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "Không dùng đều đặn; chỉ 2–4 nhát khi khò khè hoặc nặng ngực",
+      "duong": "Xịt họng (buồng đệm)",
+      "thoi_diem": "Khi cần",
+      "so_ngay": "Giữ như đang có",
+      "ghi_chu": "PEF không tăng sau salbutamol nên không dùng để cắt cơn ho (GINA 2026, Box 1-2). Hiệu quả trong ho gà: không có trong tài liệu đã tải; ACCP 2006 khuyến cáo 10 chỉ nêu β-agonist tác dụng kéo dài là không có lợi."
+     }
+    ],
+    "dan_do": [
+     "Quân bị ho gà, không phải lao hay 'đứt phổi do khiêng nặng'. Uống đủ azithromycin 5 ngày dù còn ho; ho còn nhiều tuần là bình thường (WHO 2013, tr. 111–112; Manitoba 2025, mục 4).",
+     "Tối nay Quân ngủ riêng, đeo khẩu trang khi ra khỏi phòng, không bế, không hôn em bé, nghỉ học đến hết 5 ngày thuốc (ACCP 2006, khuyến cáo 9; Manitoba 2025, mục 6).",
+     "Đưa bé Bông đi khám nhi trong 24 giờ, mang sổ tiêm; theo dõi ho, bú kém, tím, ngưng thở trong 21 ngày; tiêm mũi 1 đúng lịch khi đủ 2 tháng (Manitoba 2025, mục 5; TT 10/2024).",
+     "Sáng mai chụp X-quang ngực, mang kết quả tái khám; có thể lấy phết tỵ hầu nếu muốn xác nhận. Báo nhà trường để bạn Huy đi khám.",
+     "Chia nhỏ bữa, ăn lại sau ói, uống đủ nước; không tự mua thuốc ho, thuốc ngủ, kháng sinh khác; không tăng xịt thuốc hen.",
+     "Quay lại ngay khi tím môi, ngưng thở, co giật, thở nhanh, khó thở đột ngột, đau ngực dữ, sốt, không uống được (WHO 2013, tr. 112, 114). Hẹn tái khám sau 7 ngày."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 7 ngày",
+   "tiep_don": "Tái khám theo hẹn, ngày thứ 25 của bệnh. Quân uống đủ 5 ngày azithromycin (xong cách đây 2 ngày), nghỉ học, ngủ riêng, tách khỏi em bé. Mẹ lo vì Quân vẫn ho từng cơn, đêm qua còn ói, cho là 'thuốc không có tác dụng'. Quân mang kết quả X-quang ngực chụp sáng hôm sau lượt trước. Sinh hiệu: nhiệt độ 36,9 °C, mạch 88 l/p, HA 110/68 mmHg, nhịp thở 20 l/p, SpO₂ 98% khí trời, cân nặng 49,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện Quân vì khối phồng ở bẹn khi khối nhỏ, mềm, đẩy lên được, em không nôn, bụng không chướng, đi tiêu bình thường là quá tay: chưa có dấu hiệu tắc ruột nên không điều trị gì ngay, chỉ hẹn ngoại khoa sau giai đoạn cấp (WHO 2013, mục 4.7.1, tr. 114). Nằm viện làm Quân hoảng thêm, mẹ phải gửi bé Bông cho bà ngoại, mất thêm ngày học và tiền; ho không bớt vì macrolid đã đủ 5 ngày và ở viện vẫn chỉ là chăm sóc hỗ trợ (WHO 2013, tr. 112–113).",
+    "chuyen_tuyen": "Chuyển Quân ngay trong đêm lên tuyến trên 'để mổ thoát vị' khi khối còn đẩy lên được và không tắc ruột là không cần: WHO 2013 (mục 4.7.1, tr. 114) khuyên không điều trị thoát vị do ho trừ khi có dấu hiệu tắc ruột, chỉ chuyển ngoại khoa đánh giá sau giai đoạn cấp. Quân đi xa buổi tối khi cơn ho còn gây nôn, mệt, tốn kém; mổ trong lúc còn ho dữ cũng không giải quyết nguyên nhân là cơn ho.",
+    "theo_doi": "Cho về mà không khám bẹn, không dặn dấu hiệu tắc ruột hay khi nào quay lại vì chỉ thấy 'ho gà đang đỡ': khối thoát vị bị bỏ sót, Quân vẫn giấu vì ngại, và nếu sau này có nôn, bụng chướng, đau nhiều thì gia đình không biết phải đi cấp cứu ngay (WHO 2013, tr. 114: dấu hiệu tắc ruột). Mẹ vẫn tin 'thuốc không tác dụng' nên có thể tự mua kháng sinh hoặc thuốc ho cho Quân."
+   },
+   "loi_mo": "Bác sĩ ơi, con uống hết thuốc rồi mà con vẫn ho y như cũ, đêm qua còn ói. Mẹ nói thuốc không có tác dụng, xin bác sĩ cho kháng sinh khác, chích cũng được. Con sợ lắm bác sĩ, có phải con bị nặng hơn không?",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "110/68",
+    "nhiet": "36,9",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "Đến tái khám theo hẹn; mẹ muốn đổi kháng sinh khác hoặc chích vì Quân vẫn ho; Quân sợ bệnh nặng hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do thật: muốn kháng sinh; tái khám theo hẹn"
+    },
+    {
+     "id": "uong_thuoc",
+     "noi_dung": "Uống đủ 5 ngày azithromycin (ngày 1 hai viên, ngày 2–5 mỗi ngày một viên), không bỏ liều, không nôn trong 1 giờ sau uống, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và liều đúng, không phải thất bại do uống thiếu"
+    },
+    {
+     "id": "ho_nay",
+     "noi_dung": "Ban ngày 3–4 cơn, ban đêm 1–2 cơn, ít hơn tuần trước; mỗi ngày ói 1 lần sau cơn ho; không sốt, không thở nhanh, không đau ngực, không tím. Đau sườn phải đã hết sau 4 ngày. Vẫn chơi, học bài ở nhà được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khỏi chậm nhưng cơn ho thưa dần: quỹ đạo bình thường của ho gà"
+    },
+    {
+     "id": "xquang",
+     "noi_dung": "Sáng hôm sau lượt 1 mẹ cho chụp X-quang ngực ở bệnh viện huyện: 'tim phổi bình thường', không đông đặc, không tràn dịch, không tràn khí.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi đã chụp X-quang chưa hoặc xin xem phiếu kết quả mẹ mang theo.",
+     "k": 1,
+     "y": "X-quang ngực bình thường: giúp loại lao, viêm phổi"
+    },
+    {
+     "id": "cuc_ben",
+     "noi_dung": "Từ 3 hôm nay, mỗi khi ho mạnh hoặc đứng lâu thì có cục nhỏ phồng ở bẹn phải to bằng quả nhãn, nằm xuống thì xẹp, hơi tức, không đau nhiều. Quân ngại, giấu mẹ vì sợ 'tụt ruột', 'hỏng chỗ kín', phải mổ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có gì lạ trong người không' thì Quân nói không. Chỉ nói khi bác sĩ hỏi riêng Quân (nhẹ nhàng, nhờ mẹ ra ngoài hoặc hỏi) về phồng, tức, đau ở bẹn, bìu, hoặc khi bác sĩ khám bẹn.",
+     "k": 1,
+     "y": "Triệu chứng mới: khối phồng bẹn phải khi ho (thoát vị do ho)"
+    },
+    {
+     "id": "khong_tac",
+     "noi_dung": "Không nôn ra mật, không đau bụng dữ, vẫn trung tiện và đi tiêu bình thường; khối không cứng, không đỏ, nằm xuống là xẹp.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi các dấu hiệu tắc ruột: nôn, chướng bụng, bí trung tiện, khối cứng đau không xẹp.",
+     "k": 1,
+     "y": "Chưa có dấu hiệu tắc ruột"
+    },
+    {
+     "id": "em_be2",
+     "noi_dung": "Bé Bông được khám nhi sáng hôm sau lượt 1, hiện 8 tuần, bú tốt, không ho, không tím, không ngưng thở; mẹ cho uống thuốc phòng theo toa bác sĩ nhi (mẹ không nhớ tên thuốc). Quân từ hôm đó không bế, không hôn em.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người sống chung: em bé không có triệu chứng"
+    },
+    {
+     "id": "ban_huy",
+     "noi_dung": "Bạn Huy đã đi khám ở bệnh viện huyện, kết quả PCR dương tính ho gà, cô giáo đã báo cả lớp; có thêm 1 bạn khác ho kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Xác nhận dịch tễ: ca xác định trong lớp"
+    },
+    {
+     "id": "khieng2",
+     "noi_dung": "Mẹ nghĩ 'chắc tại hôm trước khiêng gạo nên tụt ruột'; Quân không khiêng gì nặng từ lượt trước. Quân hỏi: 'Có phải mổ không bác sĩ, có hư tinh hoàn không?'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Gán sai nguyên nhân; sợ hãi quá mức"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lo lắng nhưng hợp tác, nói câu dài, không co kéo. Trong lúc khám có một cơn ho ngắn khoảng 10 giây, mặt đỏ, SpO₂ 96% rồi về 98%, không ói. Cân 49,5 kg.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Vệt xuất huyết dưới kết mạc mắt phải nhạt dần, viền vàng nhạt; mắt trái có một vệt đỏ tươi nhỏ mới xuất hiện. Thị lực bình thường, không đau mắt.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co lõm ngực. Rung thanh đều, gõ trong hai bên. Rì rào phế nang êm dịu, đều hai bên kể cả đáy phải, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, không co lõm ngực. Rung thanh đều, gõ trong hai bên. Nghe hai đáy phổi (xem âm thanh).",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Không còn đau khi ấn cơ liên sườn phải; ép lồng ngực không đau. Cột sống không đau.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau khu trú, không phản ứng thành bụng. Nhu động ruột bình thường. Gan lách không to. Rốn bình thường.",
+     "k": 1
+    },
+    "bui_tinh_hoan": {
+     "a": "Đứng khám: ho thì ở vùng bẹn phải xuất hiện khối mềm khoảng 2 × 2 cm theo hướng ống bẹn, có xung động khi ho, không đỏ, không nóng, ấn không đau, nằm xuống tự xẹp hoặc đẩy nhẹ nhàng lên được. Bẹn trái bình thường. Hai tinh hoàn trong bìu, mềm, không đau, kích thước bằng nhau; thừng tinh không dày; phản xạ da bìu có; nâng bìu không đổi đau; bìu không đỏ, không sưng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "r": "(Ngoài giờ không chụp lại được.) Phiếu kết quả mẹ mang theo (chụp sáng hôm sau lượt 1): X-quang ngực thẳng: nhu mô hai phổi sáng đều, không đông đặc, không tràn dịch, không tràn khí, bóng tim bình thường.",
+     "n": "X-quang bình thường: không hướng đến lao hay viêm phổi; theo QĐ 162/2024 (Sơ đồ 1) thì tìm nguyên nhân khác, phù hợp ho gà. Không cần chụp lại nếu không có sốt, thở nhanh, đau ngực hay khó thở mới."
+    },
+    "sa_bui": {
+     "v": "n",
+     "r": "(Ngoài giờ không có kỹ thuật viên siêu âm.)",
+     "n": "Chẩn đoán thoát vị bẹn ở đây bằng khám lâm sàng; siêu âm do ngoại khoa quyết định sau giai đoạn cấp (WHO 2013, tr. 114). Không có chỉ định cấp cứu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ho gà giai đoạn kịch phát (ngày 25), đã đủ 5 ngày azithromycin, ho khỏi chậm nhưng cơn thưa dần; biến chứng do ho: thoát vị bẹn phải nhỏ đẩy lên được, chưa tắc ruột; xuất huyết dưới kết mạc hai mắt; bạn cùng lớp đã có ca PCR dương tính",
+     "ok": 1,
+     "n": "Thoát vị và xuất huyết kết mạc là biến chứng của ho dữ dội (WHO 2013, tr. 114; Manitoba 2025, mục 3.1). Ho kéo dài 6–10 tuần, có thể 3 tháng là diễn tiến thường gặp (Manitoba 2025, mục 4; WHO 2013, tr. 111)."
+    },
+    {
+     "t": "Thoát vị bẹn phải do ho trong ho gà",
+     "ok": 1,
+     "n": "Thoát vị rốn hoặc bẹn có thể do ho dữ dội; không điều trị trừ khi có dấu hiệu tắc ruột, chuyển ngoại khoa đánh giá sau giai đoạn cấp (WHO 2013, tr. 114)."
+    },
+    {
+     "t": "Thất bại điều trị hoặc ho gà kháng macrolid",
+     "n": "Macrolid không rút ngắn bệnh, chỉ giảm lây (WHO 2013, tr. 112); kháng erythromycin dưới 1% (ACCP 2006, Treatment); Quân uống đủ liều, cơn thưa dần. Không đổi hay kéo dài thuốc (khuyến cáo 9)."
+    },
+    {
+     "t": "Thoát vị bẹn nghẹt hoặc tắc ruột",
+     "n": "Không nôn, bụng mềm không chướng, vẫn trung tiện và đi tiêu, khối mềm xẹp khi nằm, không đỏ, không đau (WHO 2013, tr. 114: chỉ xử trí khi có dấu hiệu tắc ruột). Dặn dấu hiệu để quay lại."
+    },
+    {
+     "t": "Viêm phổi bội nhiễm",
+     "n": "Không sốt, thở 20 l/p, SpO₂ 98%, phổi không ran, X-quang bình thường (WHO 2013, tr. 114)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "X-quang ngực bình thường, không sốt, không sụt cân: theo QĐ 162/2024 (Sơ đồ 1), X-quang không nghi lao thì tìm nguyên nhân khác. Xem lại nếu ho còn trên 8 tuần (ACCP 2006, khuyến cáo 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về, không đổi, không thêm, không kéo dài kháng sinh; giải thích diễn tiến tự nhiên: ho cơn thưa dần trong nhiều tuần, 'khỏi chậm' là bình thường; kiểm tra tuân thủ và liều",
+     "v": "c",
+     "n": "Kháng sinh không rút ngắn bệnh (WHO 2013, tr. 112); điều trị muộn ít đáp ứng (ACCP 2006, khuyến cáo 9); ho gà kéo dài 6–10 tuần, đến 3 tháng (Manitoba 2025, mục 4; WHO 2013, tr. 111)."
+    },
+    {
+     "t": "Thoát vị bẹn do ho, nhỏ, đẩy lên được: không điều trị gì thêm hôm nay, không đẩy ép hay băng chặt; hẹn khám ngoại khoa đánh giá sau giai đoạn cấp (khi hết cơn ho)",
+     "v": "c",
+     "n": "WHO 2013 (tr. 114): thoát vị do ho dữ dội không điều trị trừ khi có dấu hiệu tắc ruột, chuyển đánh giá ngoại khoa sau pha cấp. Băng chặt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn kỹ dấu hiệu cần đi cấp cứu ngay: nôn nhiều hoặc nôn ra mật, bụng chướng, bí trung tiện hoặc không đi tiêu, khối phồng cứng, đau nhiều, không xẹp khi nằm",
+     "v": "c",
+     "n": "WHO 2013 (tr. 114): xử trí khi có dấu hiệu tắc ruột. Tiêu chí 'khối cứng, đau, không xẹp': không có trong tài liệu đã tải, dặn thận trọng theo lẽ thường."
+    },
+    {
+     "t": "Xuất huyết dưới kết mạc: không cần điều trị đặc hiệu",
+     "v": "c",
+     "n": "WHO 2013 (tr. 114): không cần điều trị đặc hiệu."
+    },
+    {
+     "t": "Trấn an có cấu trúc: thoát vị là hậu quả thường gặp của ho mạnh, không phải 'đứt ruột'; tinh hoàn bình thường; khối nhỏ đẩy lên được, không cần mổ hôm nay; cơn ho sẽ thưa dần",
+     "v": "c",
+     "n": "Thoát vị là biến chứng của ho dữ dội (Manitoba 2025, mục 3.1; WHO 2013, tr. 114). Vai trò của việc khiêng vật nặng với thoát vị: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Quân đã đủ 5 ngày macrolid nên không còn lây: đi học lại với khẩu trang, rửa tay; được ở gần em bé như bình thường",
+     "v": "c",
+     "n": "Hết lây sau 5 ngày kháng sinh hiệu quả (Manitoba 2025, mục 4, 6; ACCP 2006, khuyến cáo 9); loại khỏi lớp chưa được chứng minh hiệu quả (Manitoba, Discharge Teaching)."
+    },
+    {
+     "t": "Em bé Bông: tiếp tục theo dõi đến hết 21 ngày kể từ lần tiếp xúc cuối; mang đi tiêm mũi 1 đúng lịch khi đủ 2 tháng; đưa khám ngay nếu ho, bú kém, tím, ngưng thở; mẹ giữ toa bác sĩ nhi",
+     "v": "c",
+     "n": "Manitoba 2025, mục 5 (theo dõi 21 ngày, tiêm chủng); TT 10/2024 (lịch vắc xin ho gà); WHO 2013 (tr. 112): trẻ dưới 6 tháng mắc ho gà phải nhập viện."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần; nếu ho còn trên 8 tuần kể từ khi bắt đầu thì xem lại các chẩn đoán khác (hen thể ho, lao, nguyên nhân khác), khi đó đo PEF sáng tối và làm Xpert nếu cần",
+     "v": "c",
+     "n": "ACCP 2006, khuyến cáo 3 (trên 8 tuần xét chẩn đoán khác); GINA 2026, Box 1-2 (PEF biến thiên > 13% ở trẻ); QĐ 162/2024, Sơ đồ 1–2."
+    },
+    {
+     "t": "Báo kết quả ca ho gà và dịch tễ lớp học cho y tế dự phòng nếu chưa báo; hỏi trường về học sinh khác",
+     "v": "a",
+     "n": "Manitoba 2025 (Reporting, Contact Follow-Up). Quy định báo cáo của Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đổi hoặc tiêm kháng sinh khác (ceftriaxone, amoxicillin–clavulanat) vì 'không đỡ'",
+     "v": "w",
+     "n": "Không có chỉ định: ho gà ở giai đoạn này không đáp ứng thêm kháng sinh (ACCP 2006, khuyến cáo 9), không có viêm phổi (WHO 2013, tr. 114); Quân đã dùng đúng macrolid."
+    },
+    {
+     "t": "Cho corticoid, thuốc ho, an thần, kháng histamin hoặc tăng thuốc hen để cắt cơn ho",
+     "v": "w",
+     "n": "ACCP 2006 (khuyến cáo 10): không có lợi trong ho gà; WHO 2013 (tr. 113): không dùng thuốc ức chế ho, an thần, long đờm, kháng histamin."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ho gà giai đoạn kịch phát ngày 25, đã đủ 5 ngày azithromycin, không thất bại điều trị; khỏi chậm đúng diễn tiến tự nhiên",
+     "Biến chứng do ho: thoát vị bẹn phải nhỏ, đẩy lên được, chưa tắc ruột; xuất huyết dưới kết mạc hai mắt",
+     "X-quang ngực bình thường: không nghi lao, không viêm phổi; không có bệnh lý tinh hoàn",
+     "Người sống chung: em bé 8 tuần không triệu chứng, đang theo dõi 21 ngày; bạn cùng lớp có ca PCR dương tính",
+     "Lo âu cao của Quân và mẹ; lý do thật: muốn đổi kháng sinh vì tưởng thuốc không có tác dụng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: uống thuốc đủ liều không, số cơn ho thay đổi ra sao, có sốt, thở nhanh, đau ngực; kết quả X-quang; hỏi riêng Quân 'có gì lạ ở người' (phồng, tức vùng bẹn); em bé; dấu hiệu tắc ruột. Khám: mắt, phổi, bụng, bẹn và bìu (đứng, ho, rồi nằm).",
+     "Không phải thất bại điều trị: macrolid chỉ giảm lây, không rút ngắn bệnh (WHO 2013, tr. 112); kháng macrolid dưới 1% (ACCP 2006, Treatment); đã đủ liều; số cơn thưa dần. Khỏi chậm vẫn thường gặp: 6–10 tuần, có thể 3 tháng (Manitoba 2025, mục 4; WHO 2013, tr. 111).",
+     "Thoát vị do ho: khối bẹn xuất hiện khi ho và đứng, xẹp khi nằm, bắt đầu 3 ngày nay giữa cơn ho dữ (WHO 2013, tr. 114; Manitoba 2025, mục 3.1). Chưa tắc ruột: không nôn, bụng mềm, khối không cứng, đi tiêu bình thường.",
+     "Chưa viêm phổi: không sốt, thở 20 l/p, phổi sạch, X-quang bình thường (WHO 2013, tr. 114). Không phải lao: X-quang bình thường (QĐ 162/2024, Sơ đồ 1). Bạn cùng lớp có PCR ho gà dương tính."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, không đổi kháng sinh, theo dõi thoát vị với dặn dấu hiệu tắc ruột, hẹn ngoại khoa sau pha cấp, theo dõi bé và tái khám 2 tuần (WHO 2013, tr. 112–114; ACCP 2006, khuyến cáo 3, 9).",
+     "Trả lời mẹ đòi đổi kháng sinh: 'Dạ, em hiểu chị lo vì con còn ho. Thuốc này diệt vi khuẩn và giúp con hết lây, nhưng không làm hết ho ngay; ho gà thường kéo dài vài tuần đến ba tháng dù đã uống đủ. Số cơn của con ít hơn tuần trước, không sốt, phổi không có gì thêm, nên đổi hay chích thêm kháng sinh không giúp gì.' (WHO 2013, tr. 112).",
+     "Trấn an Quân bằng thông tin cụ thể: 'Khối ở bẹn là do ho mạnh đẩy lên, nằm xuống là xẹp, tinh hoàn của con bình thường. Bác sĩ ngoại khoa sẽ xem lại sau khi hết ho.' (WHO 2013, tr. 114). Tránh CT hay siêu âm cấp cứu chiều lòng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần (khoảng 10 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi tức hoặc đau vùng bẹn hay ngực do ho, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần, vài ngày",
+      "ghi_chu": "QĐ 3312/2015 (TL-0037), Viêm phổi do vi khuẩn ở trẻ em, mục 4, 2.2: 10–15 mg/kg/lần cách 6 giờ khi sốt ≥ 38,5 °C. Dùng cho đau do ho: không có trong tài liệu đã tải, là lựa chọn thông thường của ca. Không kê thêm kháng sinh, thuốc ho, an thần, corticoid (ACCP 2006, khuyến cáo 10; WHO 2013, tr. 113)."
+     }
+    ],
+    "dan_do": [
+     "Con đã uống đủ thuốc, không còn lây, cơn ho thưa dần; ho còn vài tuần đến ba tháng là bình thường, không cần đổi hay chích kháng sinh (WHO 2013, tr. 111–112; Manitoba 2025, mục 4).",
+     "Cục phồng ở bẹn là do ho mạnh, nằm xuống xẹp là tốt. Hạn chế khiêng nặng, chơi thể thao mạnh đến khi hết ho (lời dặn thận trọng, không có trong tài liệu đã tải).",
+     "Đi cấp cứu ngay nếu nôn nhiều hoặc ra mật, bụng chướng, không trung tiện, khối phồng cứng, đau nhiều, không xẹp khi nằm (WHO 2013, tr. 114: dấu hiệu tắc ruột; tiêu chí 'cứng, đau, không xẹp' không có trong tài liệu đã tải).",
+     "Hẹn khám ngoại khoa sau khi hết ho (WHO 2013, tr. 114); Quân đi học lại với khẩu trang, rửa tay; bé Bông theo dõi đến hết ngày 21 (Manitoba 2025, mục 5), đủ 2 tháng thì tiêm mũi đầu (TT 10/2024).",
+     "Quay lại ngay nếu sốt, thở nhanh, khó thở, tím, đau ngực dữ, ho ra máu; tái khám sau 2 tuần, ho trên 8 tuần thì xem các nguyên nhân khác (ACCP 2006, khuyến cáo 3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Quân ho cơn thêm khoảng 5 tuần sau lượt 2, cơn thưa dần từ tuần thứ 3, hết nôn sau 3 tuần; tổng cộng khoảng 14 tuần từ khi khởi bệnh còn ho khan nhẹ buổi sáng rồi tự hết, không cần thuốc hen; xuất huyết kết mạc tan sau vài tuần. Khối ở bẹn phải còn hiện ra khi ho mạnh, hẹn ngoại khoa sau khi hết ho. Bé Bông không bị ho gà, tiêm mũi đầu đúng lịch; mẹ cất bình salbutamol. Quyết định ở hai lượt đều đúng với dữ kiện lúc đó: nghĩ ho gà dù không hú, macrolid sớm để cắt lây, bảo vệ em bé, không chạy theo kháng sinh khác khi ho còn (ACCP 2006, khuyến cáo 5, 9; WHO 2013, mục 4.7.1; Manitoba 2025, mục 4, 5).",
+ "nhieu": [
+  "Nhãn 'hen' cũ chưa từng xác nhận bằng đo hô hấp và bình xịt salbutamol đang dùng không bớt ho: neo khiến dễ tăng thuốc hen, bỏ sót ho gà (GINA 2026, Box 1-2, Box 1-3; mục Diagnosis of exacerbations).",
+  "Khiêng bao gạo 2 ngày trước khi ho cơn: gia đình gán 'sái phổi, đứt hơi' cho đau sườn và (lượt 2) 'tụt ruột'; thật ra do cơn ho kéo dài (Manitoba 2025, mục 3.1; WHO 2013, tr. 114).",
+  "Quân và mẹ sợ hãi quá mức (ông nội mất vì ung thư phổi): đòi chụp phim, CT, 'kháng sinh mạnh chích cho chắc'; cần trấn an có cấu trúc, nói cụ thể vì sao chưa nghĩ lao và kế hoạch giờ giấc.",
+  "Ngoài giờ, không có kỹ thuật viên: không X-quang, xét nghiệm, siêu âm; phải quyết định macrolid, cách ly, bảo vệ em bé trước khi có kết quả; X-quang hẹn sáng hôm sau (QĐ 162/2024, Sơ đồ 1).",
+  "Lượt 2: Quân giấu cục phồng ở bẹn vì ngại; mẹ tưởng 'thuốc không tác dụng' vì ho còn; bạn cùng lớp có ca PCR dương tính xác nhận dịch tễ."
+ ],
+ "bai_hoc_bien": [
+  "Thiếu niên đã tiêm vắc xin vẫn mắc ho gà, thường không hú, không sốt; ho trên 2 tuần kèm cơn kịch phát, nôn sau ho là đủ để chẩn đoán và điều trị ngay, không chờ xét nghiệm (ACCP 2006, khuyến cáo 5, 9; Manitoba 2025, mục 3).",
+  "Hỏi ra người có nguy cơ cao nhất trong nhà: em bé 7 tuần chưa tiêm. Câu hỏi then chốt: 'trong nhà có trẻ nhỏ không, ai bế em, em có ho không' (WHO 2013, tr. 112, 114; Manitoba 2025, mục 5).",
+  "Kháng sinh trong ho gà để cắt lây, dùng sớm, không rút ngắn bệnh; 'ho còn' sau 5 ngày không phải thất bại. Khi nghi thất bại: kiểm tuân thủ, liều, biến chứng, chẩn đoán khác (WHO 2013, tr. 112; ACCP 2006, khuyến cáo 3, 9).",
+  "Ho trên 2 tuần ở trẻ cần nghĩ tới lao và hẹn X-quang ngực; bình thường thì tìm nguyên nhân khác, không dùng thuốc lao 'thử' (QĐ 162/2024, Bảng 1, Sơ đồ 1).",
+  "Biến chứng do ho (xuất huyết kết mạc, thoát vị bẹn, gãy sườn): hỏi riêng, khám đúng chỗ (bẹn khi ho), phân biệt tắc ruột với thoát vị đẩy lên được, dặn dấu hiệu cấp cứu (WHO 2013, tr. 114; Manitoba 2025, mục 3.1). Khỏi chậm: ho gà kéo dài 6–10 tuần, có thể 3 tháng; ho trên 8 tuần thì xem lại chẩn đoán (Manitoba 2025, mục 4; ACCP 2006, khuyến cáo 3)."
+ ],
+ "diem_nho": [
+  "Ca có thể: ho trên 2 tuần không nguyên nhân khác, kèm cơn ho kịch phát, nôn sau ho và/hoặc tiếng hú; chẩn đoán ho gà trừ khi có chẩn đoán khác (ACCP 2006, khuyến cáo 5). Xuất huyết dưới kết mạc là dấu hiệu hữu ích (WHO 2013, tr. 112).",
+  "Azithromycin 10 mg/kg (tối đa 500 mg) ngày 1 rồi 5 mg/kg (tối đa 250 mg) × 4 ngày, hoặc erythromycin 12,5 mg/kg × 4 lần/ngày × 10 ngày (WHO 2013, tr. 112), hoặc erythromycin 40–50 mg/kg/ngày × 2 tuần (ACCP 2006, khuyến cáo 9). Hết lây sau 5 ngày macrolid (Manitoba 2025, mục 4).",
+  "Người sống chung: theo dõi 21 ngày; dự phòng sau tiếp xúc cho mọi người sống chung (Manitoba 2025, mục 5) hoặc chỉ trẻ dưới 6 tháng có triệu chứng (WHO 2013, tr. 114). Trẻ dưới 6 tháng mắc ho gà phải nhập viện (WHO 2013, tr. 112)."
+ ],
+ "nguon": [
+  "TL-0250 · WHO 2013 – Pocket book of hospital care for children – mục 4.7 (tr. 109–110, Bảng 10), mục 4.7.1 Pertussis (tr. 111–114: chẩn đoán, điều trị ngoại trú và tiêu chuẩn nhập viện, kháng sinh, oxy, chăm sóc hỗ trợ, biến chứng viêm phổi, xuất huyết và thoát vị, biện pháp y tế công cộng)",
+  "TL-0160 · ACCP 2006 – Postinfectious cough: ACCP guidelines (Chest 129(1 Suppl)) – khuyến cáo 1, 3, 5, 6a, 6b, 9, 10, 11; phần Pertussis: Clinical Presentation, Diagnosis, Treatment",
+  "TL-0145 · Manitoba IP&C 2025 – Pertussis Specific Disease Protocol (bản trong kho ghi là CDC nhưng thực chất là Manitoba, không có phác đồ kháng sinh) – mục 3, 3.1, 4, 5, 6, 7, Reporting, Discharge Teaching",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Bệnh lao – Phần II mục 1.1, Bảng 1; mục 3.2.1; Sơ đồ 1, Sơ đồ 2",
+  "TL-0137 · GINA 2026 – Box 1-2, Box 1-3; mục Diagnosis of exacerbations (ho gà)",
+  "TL-0005 · TT 10/2024/TT-BYT – Danh mục bệnh truyền nhiễm, đối tượng, phạm vi vắc xin bắt buộc – bảng bệnh ho gà (mũi 1 khi đủ 2 tháng, 3 mũi, nhắc 18 tháng)",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015 – Bệnh thường gặp ở trẻ em – Viêm phổi do vi khuẩn ở trẻ em, mục 4 (2.2: paracetamol 10–15 mg/kg/lần, cách 6 giờ)",
+  "Không có trong tài liệu đã tải: hướng dẫn điều trị ho gà của Bộ Y tế Việt Nam; trang CDC Clinical Care (bị chặn máy tự động, đã ghi tai-lieu/can_tai_tay.md); thuốc, liều dự phòng sau tiếp xúc cho trẻ sơ sinh (ngoài erythromycin estolate ở WHO 2013), trẻ lớn và người lớn; trần liều erythromycin ở trẻ lớn; quy định báo cáo bệnh truyền nhiễm ở Việt Nam; lịch tiêm nhắc ho gà thiếu niên ở Việt Nam; PEF dự đoán theo chiều cao; tiêu chuẩn xoắn tinh hoàn; vai trò khiêng vật nặng với thoát vị; hiệu quả salbutamol tác dụng ngắn trong ho gà"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19: soạn bản 1 theo đặc tả sổ cái HH-1427 (ho gà ở học sinh 13 tuổi, 2 lượt; triệu chứng mới ở lượt 2 = thoát vị bẹn do ho; sợ hãi quá mức; ngoài giờ không có kỹ thuật viên; muốn kháng sinh; thuốc xịt hen; khiêng vật nặng).",
+  "Tài liệu đã đọc: TL-0250 mục 4.7–4.7.1 (tr. 109–114), TL-0160 phần Postinfectious Cough và Pertussis (khuyến cáo 1–12), TL-0145 toàn văn, TL-0123 mục 1.1, 3.2, Sơ đồ 1–2, TL-0137 Box 1-2, 1-3, TL-0005 bảng ho gà, TL-0037 mục paracetamol.",
+  "TL-0145 trong kho là bản Manitoba, không có liều kháng sinh: liều lấy từ WHO 2013 tr. 112 và ACCP 2006 khuyến cáo 9; trang CDC Clinical Care chưa tải được.",
+  "Mâu thuẫn: macrolid trong ho gà và nghỉ học 5 ngày theo mục cũ (HH-1418, HH-1428), ghi cả hai cách; dự phòng người tiếp xúc (WHO 2013 chỉ trẻ dưới 6 tháng có triệu chứng; Manitoba 2025 mọi người sống chung) ghi cả hai cách, đề xuất mục mới (HH-1427_mau_thuan.md).",
+  "khoa_cls: xn, xquang, sieu_am (ngoài giờ không có kỹ thuật viên). CLS bị khóa khai v và r; X-quang hẹn sáng hôm sau, kết quả bình thường ở lượt 2. Âm thanh: AT-PHOI-BT-NL-01, AT-TIM-BT-NL-01 (mạch 84, 88). Không có ảnh da.",
+  "Số liệu phụ tự đặt: sinh hiệu, PEF 360 → 372 L/phút, mốc ngày bệnh, X-quang bình thường, bạn Huy PCR dương tính, bé Bông đã khám nhi (tên thuốc phòng không nêu vì không có trong tài liệu đã tải). Lời dặn hạn chế gắng sức là thận trọng của ca, ghi rõ 'không có trong tài liệu đã tải'."
+ ]
+}

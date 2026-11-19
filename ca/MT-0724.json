@@ -1,0 +1,583 @@
+{
+ "ma_ca": "MT-0724",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Tăng huyết áp kèm đái tháo đường (đồng mắc)",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp kèm đái tháo đường (đồng mắc)",
+  "chan_doan_phai_loai_tru": [
+   "Biến chứng cơ quan đích",
+   "THA thứ phát"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Hưu trí (trước làm kế toán hợp tác xã nông nghiệp)",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết (đợt không khí lạnh đầu mùa)",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt có corticoid (dexamethason + tobramycin) tự mua dùng kéo dài",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát (sợ bị đột quỵ như em trai)"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Văn Bồng",
+  "tuoi": 81,
+  "gioi": "Nam",
+  "nghe": "Hưu trí (trước làm kế toán hợp tác xã nông nghiệp)",
+  "can_nang": 58,
+  "chieu_cao": 162,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ' hoặc 'cậu' khi bực.",
+  "tinh_cach": "Cẩn thận, tính toán chi li như người làm sổ sách, nói chậm, hay đòi nhìn giấy tờ. Sau ba lần khám không khỏi ông nghi ngờ mọi bác sĩ, cho rằng 'khám chỉ để bán thuốc'. Thương con gái nhưng không muốn làm phiền.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mở đầu bằng giọng mệt mỏi, mỉa nhẹ ('lại hỏi y chang chỗ trước'), ngắt lời khi bác sĩ hỏi dài, từ chối xét nghiệm lặp ('đã thử máu rồi, bình thường'). Chỉ dịu lại và kể thêm khi bác sĩ thừa nhận ba lần khám trước, hỏi xem giấy tờ cũ, giải thích vì sao làm từng việc. Hỏi chung 'đang dùng thuốc gì' ông chỉ kể thuốc uống; thuốc nhỏ mắt chỉ kể khi hỏi thuốc nhỏ/bôi hoặc bệnh về mắt.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c4966f",
+   "toc": "#d9d9d9",
+   "kieuToc": "hoi",
+   "ao": "#6b7f5c",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met"
+  },
+  "ten_nguoi_nha": null
+ },
+ "ly_do_kham": "Nặng đầu, nhức gáy từ khi trời lạnh; muốn kiểm tra tổng quát",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm glucose, HbA1c, creatinin, điện giải, mỡ máu, nước tiểu và albumin niệu), có máy điện tim. Không có X-quang, siêu âm, CT, nội soi, nhãn áp kế, máy đo HA 24 giờ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Đoàn Văn Bồng, 81 tuổi, hưu trí, đến phòng khám gần nhà vì nặng đầu, nhức gáy, mệt mấy ngày nay; cho biết đã khám ba nơi nhưng không khỏi. Sinh hiệu: HA 168/96 mmHg, mạch 78 l/p, nhiệt độ 36,7 °C, thở 18 l/p, SpO₂ 97%, cân nặng 58 kg, BMI 22,1.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Bồng, 81 tuổi, nhập viện chỉ để 'kiểm tra tổng quát' trong khi HA 164/94 không kèm tổn thương cơ quan đích cấp, không dấu thần kinh, không đau ngực (không thuộc chỉ định chuyển hay nhập viện của QĐ 5904 Phần 1 Bước 4). Ông nằm viện ở môi trường lạ, dễ lú lẫn và té ngã ở tuổi này, tốn chi phí, rồi vẫn ra viện với đơn thuốc giống như ở phòng khám. Ba lần khám trước đã làm ông mất niềm tin, nay thêm một lần 'đi bệnh viện mà vẫn như cũ' khiến ông ít tin việc tái khám hơn.",
+    "chuyen_tuyen": "Ông Bồng được chuyển lên bệnh viện tỉnh làm CT sọ, siêu âm tim, 'xét nghiệm cho kỹ', trong khi HA 164/94 và HbA1c 7,6% xử trí được ngay ngoại trú (ADA 2026 mục 10; QĐ 5481 Phần 4 mục 6.1.3). Ông mất cả ngày chờ đợi, tốn tiền, mệt hơn, và lần chuyển sau vài tuần nhưng thuốc huyết áp, metformin vẫn chưa bắt đầu. Người cao tuổi ít đi lại xa dễ bỏ dở theo dõi, và nỗi sợ đột quỵ tăng thêm.",
+    "theo_doi": "Ông Bồng chỉ được dặn 'theo dõi thêm, ăn nhạt' như ba nơi trước, không bắt đầu thuốc và không hẹn tái khám rõ ràng. HA 164/94 và đường huyết 8,6 mmol/L tiếp tục cao, nguy cơ đột quỵ và biến chứng mạch máu tăng (ADA 2026 mục 10; QĐ 5904 Phần 1 Bước 5). Ông thấy lại một lần 'khám không khác gì' và quay về tự mua thuốc, kể cả thuốc nhỏ mắt corticoid, mà nhãn áp vẫn chưa được đo."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi khám ba chỗ rồi mà đầu vẫn nặng, nhức gáy mỗi sáng từ hồi trời trở lạnh. Chỗ nào cũng cho thuốc bổ thuốc tiền đình, uống không đỡ. Con gái tôi bắt đi, chứ tôi thấy khám cũng như không.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "168/96",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "Huyết áp cao"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai tuần nay, từ đợt trời trở lạnh, ông thấy nặng đầu, nhức gáy buổi sáng, mệt, đi đứng hơi lâng lâng. Ông đã đi khám ba nơi nhưng 'không khỏi'; hôm nay đến phòng khám gần nhà theo lời con gái.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Nơi 1 (phòng khám tư): bảo 'thiếu máu lên não', cho thuốc hoạt huyết dưỡng não. Nơi 2 (trạm y tế phường): bảo 'rối loạn tiền đình', cho betahistin. Nơi 3 (bệnh viện quận, khám đông, vài phút): bảo 'huyết áp hơi cao do tuổi, không sao', xin ăn nhạt. Không nơi nào giải thích đường huyết hay hẹn kiểm tra lại huyết áp. Uống thuốc hai tuần không đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ba lần khám trước và kết luận của từng nơi"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Biết cao huyết áp khoảng 6 năm, trạm y tế cho amlodipin 5 mg. Ông chỉ uống 'khi nào thấy nặng đầu', hết thì thôi vì sợ uống thuốc huyết áp nhiều 'hại thận'. Không nhớ lần đo gần nhất; ở nhà không có máy đo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "THA 6 năm, dùng thuốc không đều"
+    },
+    {
+     "id": "trieu_chung_dtd",
+     "noi_dung": "Vài tháng nay khát nước hơn, đêm dậy tiểu 2 lần, sụt khoảng 2 kg. Ông cho là do tuổi già nên không nói với ai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tăng đường huyết"
+    },
+    {
+     "id": "cap_cuu_am",
+     "noi_dung": "Không yếu hay tê liệt tay chân, không méo miệng, không nói khó, không đau ngực, không khó thở, không nhìn mờ đột ngột, không ngất, không nôn. Chóng mặt chỉ là cảm giác lâng lâng khi đi, không quay cuồng, không liên quan xoay đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ dấu hiệu cấp cứu và chóng mặt kiểu tiền đình"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Tháng trước em trai ruột của ông (76 tuổi) bị đột quỵ, nay liệt nửa người. Ông sợ mình là người tiếp theo nên muốn kiểm tra tổng quát cho yên tâm; ông ngại nói vì sợ bác sĩ cho là ông lo xa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông lo điều gì nhất, vì sao hôm nay mới đi khám, hoặc gia đình có ai bệnh nặng gần đây.",
+     "k": 1,
+     "y": "Lý do thật sự đến khám (sợ đột quỵ, muốn kiểm tra tổng quát)"
+    },
+    {
+     "id": "thuoc_uong",
+     "noi_dung": "Đang uống: viên hoạt huyết dưỡng não (nơi 1) ngày 2 lần, betahistin 16 mg (nơi 2) ngày 2 lần, amlodipin 5 mg khi nặng đầu. Không dùng thuốc giảm đau chống viêm, không thuốc bắc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc uống đang dùng"
+    },
+    {
+     "id": "thuoc_nho_mat",
+     "noi_dung": "Khoảng 8 tháng nay ông nhỏ mắt hai bên mỗi sáng và tối bằng lọ thuốc nhỏ mắt phối hợp dexamethason với tobramycin, mua ở nhà thuốc. Lần đầu bác sĩ mắt kê cho mi mắt đỏ, đóng vảy; hết thì ông tự mua lại, chưa tái khám mắt, chưa ai đo nhãn áp. Ông không xem đó là 'thuốc' nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể thuốc nhỏ mắt, thuốc dùng ngoài, thuốc tự mua, hoặc bệnh về mắt. Hỏi chung 'đang uống thuốc gì' thì không nhắc.",
+     "k": 1,
+     "y": "Corticoid nhỏ mắt kéo dài, chưa theo dõi nhãn áp"
+    },
+    {
+     "id": "giay_cu",
+     "noi_dung": "Ông mang theo tờ xét nghiệm cách đây 2 tháng (nơi 1): công thức máu bình thường (Hb 134 g/L), creatinin 98 µmol/L, glucose 7,2 mmol/L (không ghi đói hay no, nơi đó bảo 'hơi cao, ăn bớt ngọt'). Chưa ai chỉ cho ông xem hay giải thích.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ đưa khi bác sĩ hỏi giấy tờ, kết quả xét nghiệm đã làm, hoặc thừa nhận ba lần khám trước và xin xem lại.",
+     "k": 1,
+     "y": "Kết quả xét nghiệm cũ: tránh lặp công thức máu, gợi ý đường huyết"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Ăn mặn quen miệng (cá kho, dưa cà, mắm), không hút thuốc, rượu thỉnh thoảng 1 chén nhỏ. Mỗi sáng đi bộ quanh khu phố, nhưng hai tuần nay trời lạnh nên ngưng. Ngủ ngáy nhẹ, không ngưng thở được vợ ghi nhận. Không dùng thuốc giảm đau, không cam thảo.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lối sống và yếu tố làm tăng HA"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Em trai đột quỵ như trên. Mẹ mất vì 'cao huyết áp'. Không ai trong nhà bị bệnh thận hay u tuyến thượng thận. Ông ở với vợ 78 tuổi, con gái ở gần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử gia đình, hoàn cảnh"
+    },
+    {
+     "id": "suc_khoe_chuc_nang",
+     "noi_dung": "Tự đi lại, tự ăn uống, tự lo tiền thuốc; không té ngã, không quên đường về, không tiểu són. Mắt đọc báo cần kính, thấy 'mờ như có sương' hai tháng nay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tình trạng chức năng (tuổi ≥ 75)"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 166/94, tay trái 162/92 mmHg (đo ngồi, nghỉ 5 phút, bao tay cỡ người lớn). Chênh hai tay dưới 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 168/94 mmHg, mạch 76. Đứng 1 phút: 160/92 mmHg, mạch 82. Đứng 3 phút: 158/92 mmHg, mạch 84. Tụt tối đa 10/2 mmHg, không chóng mặt thêm: không có hạ huyết áp tư thế.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, đi lại vững, tự lên giường khám. Thể trạng gầy vừa, BMI 22,1. Không phù, không dạng Cushing.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Hai mắt hơi đỏ nhẹ bờ mi, vảy khô chân mi, kết mạc không xung huyết. Đồng tử đều, phản xạ ánh sáng bình thường. Đọc bảng chữ gần chậm; nhìn xa mờ nhẹ cả hai mắt.",
+     "k": 1,
+     "hien": "Bờ mi hai mắt đỏ nhẹ, có vảy khô chân mi."
+    },
+    "day_mat": {
+     "a": "Soi đáy mắt không giãn đồng tử: nhìn đáy mắt mờ do đục thể thủy tinh nhẹ. Thấy động mạch hơi nhỏ, bắt chéo động tĩnh mạch nhẹ; không xuất huyết, không xuất tiết, không phù gai. Không đánh giá được rõ vùng hoàng điểm: cần khám mắt giãn đồng tử.",
+     "k": 1
+    },
+    "nhan_ap": {
+     "a": "Cơ sở không có nhãn áp kế. Cần chuyển khám mắt để đo nhãn áp.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3/T4."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, không âm thổi vùng bụng khi nghe hai bên rốn. Gan lách không to.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mạch mu chân, mạch chày sau bắt rõ hai bên, đều, đối xứng. Không có âm thổi động mạch cảnh.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô nhẹ, không loét, không chai, không biến dạng. Monofilament 10 g (3 vị trí mỗi bàn chân): cảm nhận đủ cả hai bên. Âm thoa 128 Hz: rung còn ở ngón cái hai bên.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh táo, nói rõ, không méo miệng, sức cơ 5/5 bốn chi, phản xạ gân xương đều, Babinski âm tính. Romberg âm tính, đi thẳng hàng vững, không rung giật nhãn cầu.",
+     "k": 1
+    },
+    "dix_hallpike": {
+     "a": "Nghiệm pháp Dix-Hallpike hai bên âm tính, không chóng mặt quay, không rung giật nhãn cầu.",
+     "k": 0
+    },
+    "nhan_thuc_moca": {
+     "a": "Định hướng đầy đủ, nhớ lại 3 từ tốt, tính nhẩm đúng. Không nghi suy giảm nhận thức.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da khô nhẹ theo tuổi, không ngứa, không tổn thương.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "Glucose huyết tương lúc đói (nhịn ăn từ tối qua): 8,6 mmol/L",
+     "ab": 1,
+     "n": "Mẫu lấy cùng lúc với HbA1c: hai kết quả bất thường từ hai xét nghiệm khác nhau cho phép chẩn đoán đái tháo đường ngay (ADA 2026 mục 2, Bảng 2.1)."
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "HbA1c 7,6% (60 mmol/mol)",
+     "ab": 1
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,1 mmol/L · Creatinin 98 µmol/L · eGFR 67 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 6.1,
+      "creat": 98,
+      "egfr": 67
+     },
+     "n": "Làm trước khi dùng ức chế men chuyển (QĐ 5904 Phần 3 mục G) và để chọn metformin (QĐ 5481 PL01 mục 2: chống chỉ định eGFR < 30)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,2 · Cl 103 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.2,
+      "cl": 103
+     },
+     "n": "Kali bình thường không loại trừ cường aldosteron (AHA/ACC 2025 mục 3.2.3.1); là mốc trước ức chế men chuyển."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,1 · LDL-C 3,0 · HDL-C 1,1 · TG 2,1 mmol/L",
+     "ab": 1
+    },
+    "uacr": {
+     "v": "e",
+     "r": "UACR 18 mg/g (dưới 30 mg/g: chưa có albumin niệu)",
+     "n": "Cần ở người THA (ESC 2024 Bảng 8) và ĐTĐ mới chẩn đoán (ADA 2026 mục 11, KC 11.1a); một mẫu bình thường ở mức đường huyết này chưa loại trừ hoàn toàn, làm lại hằng năm."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Glucose 1+ · Protein âm tính · Ceton âm tính · Hồng cầu âm tính · Bạch cầu âm tính",
+     "ab": 1,
+     "bang": {
+      "u_glu": "1+",
+      "u_pro": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_ery": "Âm tính",
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_sg": 1.016
+     }
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 76 l/p, trục trung gian. Sokolow-Lyon 24 mm, không ST-T bất thường, không sóng Q, không rung nhĩ.",
+     "n": "ESC 2024 Bảng 8: điện tim thường quy ở người THA (đánh giá dày thất trái, rung nhĩ). Cơ sở không có siêu âm tim nên điện tim là công cụ duy nhất. Ngưỡng dày thất trái Sokolow-Lyon > 35 mm (VSH/VNHA 2024 Bảng 11)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Hb 134 g/L · BC 6,8 G/L · TC 238 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "hgb": 134,
+      "plt": 238,
+      "rbc": 4.6,
+      "hct": 0.41,
+      "mcv": 89
+     },
+     "n": "Đã có kết quả công thức máu bình thường cách 2 tháng (giấy cũ): làm lại không bắt buộc, không trừ điểm; ESC 2024 Bảng 8 xếp huyết sắc tố/hematocrit là xét nghiệm thường quy lần đầu."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,9 mIU/L",
+     "n": "Thường quy theo ESC 2024 Bảng 8; QĐ 5904 không liệt kê. Làm hay không đều không trừ điểm (sổ mâu thuẫn, mục TSH)."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Aldosteron 9 ng/dL · Hoạt tính renin 1,6 ng/mL/giờ · ARR 5,6 (dưới ngưỡng sàng lọc)",
+     "n": "ESC 2024 Bảng khuyến cáo 13 (IIa): cân nhắc sàng lọc cường aldosteron nguyên phát cho mọi người lớn THA; không làm không trừ điểm vì không THA kháng trị, không hạ kali (sổ mâu thuẫn, mục cường aldosteron). Ức chế men chuyển làm ARR âm tính giả (ESC 2024 Bảng 12): lấy mẫu trước khi dùng thuốc."
+    },
+    "b12": {
+     "n": "Chưa dùng metformin, chưa có triệu chứng thần kinh; ADA 2026 Bảng 9.2 nhắc theo dõi B12 khi dùng metformin lâu dài, chưa cần ở lần này."
+    },
+    "acid_uric": {
+     "n": "Không gợi ý gút; không thuộc bộ xét nghiệm ban đầu của THA (ESC 2024 Bảng 8) và ĐTĐ."
+    },
+    "holter_ha": {
+     "n": "Phòng khám không có máy đo HA 24 giờ; HA phòng khám 160–179/100 mmHg ở hai tay và nhiều lần đã đủ chẩn đoán, và khuyên đo HA tại nhà (ADA 2026 KC 10.2)."
+    },
+    "ct_nao": {
+     "n": "Không có dấu thần kinh khu trú, không chấn thương, không đau đầu dữ dội: không có chỉ định; không tài liệu đã tải đưa chụp sọ não vào THA không biến chứng. Cơ sở cũng không có CT."
+    },
+    "cxr": {
+     "n": "Không triệu chứng hô hấp, tim; cơ sở không có X-quang."
+    },
+    "echo": {
+     "n": "Không dấu hiệu suy tim; cơ sở không có siêu âm. ESC 2024 Bảng 9 xếp siêu âm tim là xét nghiệm tùy chọn."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp chưa kiểm soát (HA 160–168/92–94 mmHg) kèm đái tháo đường típ 2 mới phát hiện (HbA1c 7,6%, glucose đói 8,6 mmol/L), chưa thấy biến chứng cơ quan đích; yếu tố làm nặng: dùng amlodipin chỉ khi nhức đầu, trời lạnh, ăn mặn",
+     "ok": 1,
+     "n": "THA đã biết 6 năm, HA ≥ 140/90 ở hai tay nhiều lần (QĐ 5904 Phần 1, đối tượng áp dụng; ADA 2026 KC 10.1: ≥ 130/80). ĐTĐ: HbA1c ≥ 6,5% và glucose đói ≥ 7,0 mmol/L cùng một mẫu (ADA 2026 mục 2, Bảng 2.1). Đây là đồng mắc: THA thúc đẩy biến chứng mạch máu của ĐTĐ và ngược lại, nên mục tiêu đặt chung (ADA 2026 mục 10)."
+    },
+    {
+     "t": "Biến chứng cơ quan đích (thận, tim, mắt, thần kinh, mạch máu)",
+     "n": "Loại trừ ở mức khám được: UACR 18 mg/g, eGFR 67, điện tim không dày thất trái, không có âm thổi, đáy mắt không xuất huyết/xuất tiết, monofilament và âm thoa bình thường, mạch ngoại biên đủ, không dấu thần kinh khu trú (ESC 2024 Bảng 8, 9; ADA 2026 KC 12.4, mục 11). Chưa loại trừ hẳn: bệnh võng mạc cần khám giãn đồng tử; một mẫu UACR cần lặp lại."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "THA khởi phát tuổi 75, không kháng trị (đang chưa dùng thuốc đều), kali 4,2, creatinin bình thường, không cơn đánh trống ngực toát mồ hôi, ngáy nhẹ không ngưng thở, không dùng NSAID hay cam thảo. Chưa có chỉ định tìm sâu hơn (ESC 2024 Bảng khuyến cáo 13). Corticoid nhỏ mắt hấp thu toàn thân rất ít, ảnh hưởng đường huyết và HA của nó không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chóng mặt do hạ huyết áp tư thế hoặc do thuốc",
+     "n": "Tụt tối đa 10/2 mmHg khi đứng 1 và 3 phút, dưới ngưỡng 20/10 (ESC 2024 mục 9.5; QĐ 5904 Phụ lục 1.1); cảm giác lâng lâng không do tư thế."
+    },
+    {
+     "t": "Rối loạn tiền đình ngoại biên, thiếu máu não thoáng qua hoặc đột quỵ",
+     "n": "Không chóng mặt quay, Dix-Hallpike âm tính, không rung giật nhãn cầu, không yếu liệt, không nói khó, không méo miệng, Romberg âm tính. 'Nặng đầu, lâng lâng' là triệu chứng chung của HA cao ở người già hơn là bệnh tiền đình. Hai nơi đã chẩn đoán 'tiền đình', 'thiếu máu não' không dựa trên bằng chứng nào ở ca này."
+    },
+    {
+     "t": "Tác dụng phụ của corticoid nhỏ mắt kéo dài (nghi tăng nhãn áp, đục thể thủy tinh)",
+     "ok": 1,
+     "n": "Corticoid nhỏ mắt có nguy cơ tăng nhãn áp và đục thể thủy tinh; nên dùng liều thấp nhất, tránh dùng dài hạn, tái khám sau vài tuần để đo nhãn áp (AAO Blepharitis PPP 2018, phần điều trị bằng corticoid và theo dõi; AAO Cataract PPP 2021, bảng yếu tố nguy cơ: corticoid tại chỗ). Ông dùng 8 tháng, chưa đo nhãn áp, mắt mờ như có sương, nhìn đục nhẹ: cần khám mắt, chưa kết luận được ở phòng khám."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp cận ông bằng cách thừa nhận ba lần khám trước, hỏi vì sao hôm nay đi khám, xem giấy tờ cũ và giải thích việc định làm; khai thác ra nỗi sợ đột quỵ như em trai và đáp ứng bằng bộ đánh giá nguy cơ, bệnh kèm, cơ quan đích thay vì 'thuốc bổ'",
+     "v": "c",
+     "n": "Dạy tái lập niềm tin, không lặp xét nghiệm vô ích (đã có công thức máu cũ). Đúng động cơ thật 'kiểm tra tổng quát'."
+    },
+    {
+     "t": "Khẳng định THA bằng đo lặp ở hai tay, đo tư thế đứng; khẳng định ĐTĐ bằng HbA1c và glucose đói cùng mẫu",
+     "v": "c",
+     "n": "ESC 2024 mục 9.5 (đo tư thế trước khi bắt đầu hoặc tăng thuốc, I B); QĐ 5904 Phụ lục 1.1; ADA 2026 mục 2, Bảng 2.1. Giấy cũ glucose 7,2 không ghi đói chưa đủ chẩn đoán."
+    },
+    {
+     "t": "Làm gói đánh giá có chỉ định bằng xét nghiệm hiện có: creatinin/eGFR, điện giải, UACR, lipid, nước tiểu, điện tim; khám đáy mắt, bàn chân, thần kinh",
+     "v": "c",
+     "n": "ESC 2024 Bảng 8; ADA 2026 KC 12.4 (khám mắt giãn đồng tử khi chẩn đoán), mục 11, 13.8 (ưu tiên tầm soát biến chứng ảnh hưởng chức năng). Không gọi CT, X-quang, siêu âm vì cơ sở không có và không có chỉ định."
+    },
+    {
+     "t": "Làm thêm TSH, aldosteron/renin",
+     "v": "a",
+     "n": "Chấp nhận theo sổ mâu thuẫn (TSH: ESC 2024 Bảng 8 có, QĐ 5904 không; aldosteron: ESC 2024 IIa)."
+    },
+    {
+     "t": "Đặt mục tiêu HA < 140/90 mmHg (khoảng 130 đến < 140 tâm thu, tăng dần, nhắm 1–3 tháng) hoặc < 130/80 mmHg nếu dung nạp tốt, kiểm tra hạ HA tư thế mỗi lần tái khám",
+     "v": "c",
+     "n": "Mâu thuẫn thật về mục tiêu. A: QĐ 5481/2020 Phần 4 mục 2 Bảng 5 (người mạnh khỏe < 140/90), QĐ 5904/2019 Phần 1 Bước 5 mục A.2 (tâm thu 130 đến < 140 ở ≥ 65 tuổi, đạt trong 1–3 tháng; khởi trị khi ≥ 160/90 ở ≥ 80 tuổi, mục A.5). B: ADA 2026 KC 13.9 (< 130/80 nếu đạt an toàn, nới lỏng < 140/90 nếu sức khỏe kém hoặc nguy cơ tác dụng phụ), AHA/ACC 2025 mục 5.2.7 (< 130/80). Khác nhau do năm ban hành và bối cảnh; ca này HA 164/94 vượt ngưỡng của cả hai nên quyết định điều trị không đổi."
+    },
+    {
+     "t": "Bắt đầu một thuốc liều thấp (perindopril 5 mg hoặc amlodipin 5 mg), tăng dần từng 4 tuần; hoặc phối hợp hai thuốc liều thấp ngay (perindopril 5 mg + amlodipin 5 mg)",
+     "v": "c",
+     "n": "Mâu thuẫn thật. A: QĐ 5904 Phần 1 Bước 5 mục B.2 (không phối hợp sớm 2 thuốc ở người ≥ 80 tuổi hoặc dễ tổn thương); ESC 2024 mục 9.3 (≥ 85 tuổi hoặc yếu vừa-nặng khởi đầu bằng CCB dài hạn hoặc ức chế men chuyển/thụ thể liều thấp, chọn một thuốc trước). B: ADA 2026 KC 10.7 (≥ 150/90 khởi đầu hai thuốc hoặc viên phối hợp); ESC 2024 mục 9.3 (< 85 tuổi, không yếu: như người trẻ). Ông 81 tuổi, không yếu, nhiều nguy cơ, nên hai cách đều hợp lý. Ưu tiên ức chế men chuyển/thụ thể ở ĐTĐ có THA (QĐ 5481 Phần 4 mục 6.1.3d; QĐ 5904 Phần 3 mục G); ADA 2026 KC 10.8 cho phép cả ức chế men chuyển/thụ thể, lợi tiểu giống thiazid, chẹn kênh canxi dihydropyridin."
+    },
+    {
+     "t": "Bắt đầu metformin liều thấp kèm thay đổi lối sống; mục tiêu HbA1c < 7,5% (hoặc 7,0–7,5% nếu an toàn)",
+     "v": "c",
+     "n": "QĐ 5481 Phần 4 mục 4.2a (metformin đầu tay), PL01 mục 2 (thận trọng > 80 tuổi, giảm liều khi eGFR 30–45; ông eGFR 67), Bảng 5 (người cao tuổi mạnh khỏe < 7,5%); ADA 2026 KC 13.7a (ít bệnh kèm, chức năng nguyên vẹn: < 7,0–7,5%). Hai mục tiêu gần nhau; HbA1c 7,6% chỉ vượt nhẹ."
+    },
+    {
+     "t": "Ngưng tự mua thuốc nhỏ mắt dexamethason + tobramycin, chuyển khám mắt (đo nhãn áp, soi đáy mắt giãn đồng tử, đục thể thủy tinh, viêm bờ mi)",
+     "v": "c",
+     "n": "AAO Blepharitis PPP 2018 (corticoid: liều thấp nhất, tránh dài hạn, đo nhãn áp khi theo dõi); ADA 2026 KC 12.4 (khám mắt giãn đồng tử ngay khi chẩn đoán ĐTĐ típ 2); cơ sở không có nhãn áp kế."
+    },
+    {
+     "t": "Cho dùng statin cường độ trung bình sau khi bàn lợi ích, nguy cơ (ông > 75 tuổi, LDL-C 3,0 mmol/L)",
+     "v": "a",
+     "n": "ADA 2026 KC 10.22–10.23 và Hình 10.3: > 75 tuổi chưa dùng statin thì có thể hợp lý cân nhắc bắt đầu cường độ trung bình sau khi cân nhắc lợi ích-nguy cơ; để lần sau cũng chấp nhận. Mục tiêu LDL-C cụ thể ở ≥ 75 tuổi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn đo HA tại nhà, giữ ấm, giảm muối, tái khám 2–4 tuần: kiểm tra HA, tư thế, creatinin và kali sau khi bắt đầu ức chế men chuyển",
+     "v": "c",
+     "n": "ADA 2026 KC 10.2 (đo HA tại nhà), KC 10.11 (theo dõi eGFR, kali); QĐ 5481 Phần 4 mục 6.1.3g; VSH/VNHA 2024 Đ4.1 (tái khám mỗi 2–4 tuần trong 2–3 tháng đầu); QĐ 5904 Phần 1 Bước 5 mục D.1 (giảm ăn mặn, tránh bị lạnh đột ngột)."
+    },
+    {
+     "t": "Tiếp tục thuốc 'hoạt huyết dưỡng não' và betahistin như đã cho, coi chóng mặt là tiền đình, hẹn tái khám tự do",
+     "v": "w",
+     "n": "Chóng mặt kiểu lâng lâng đi kèm HA 164/94 và ĐTĐ mới, không có dấu tiền đình; không tài liệu đã tải nêu hai loại thuốc này cho THA hay ĐTĐ. Bỏ sót nguyên nhân thật."
+    },
+    {
+     "t": "Khởi đầu sulfonylure (glibenclamid) vì 'rẻ, mạnh'",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2 (sulfonylure): tránh làm thuốc đầu hay thứ hai trừ khi có rào cản lớn; QĐ 5481 Phần 4 mục 4.2a xếp metformin đầu tay. Ông 81 tuổi, nguy cơ hạ đường huyết."
+    },
+    {
+     "t": "Phối hợp ức chế men chuyển với ức chế thụ thể angiotensin",
+     "v": "w",
+     "n": "ADA 2026 KC 10.9 (tránh phối hợp); QĐ 5481 Phần 4 mục 6.1.3d (không phối hợp ức chế men chuyển với ức chế thụ thể)."
+    },
+    {
+     "t": "Hạ HA nhanh về dưới 140/90 bằng nifedipin ngậm dưới lưỡi hoặc truyền thuốc hạ áp",
+     "v": "h",
+     "n": "Không có tổn thương cơ quan đích cấp, không dấu hiệu cấp cứu: không hạ áp mạnh, chỉnh thuốc uống ngoại trú (AHA/ACC 2025 mục 6.2; sổ mâu thuẫn). Hạ nhanh ở người 81 tuổi dễ gây thiếu máu não và té ngã."
+    },
+    {
+     "t": "Chụp CT sọ 'cho chắc' hoặc gửi bệnh viện tỉnh chụp MRI",
+     "v": "w",
+     "n": "Không dấu thần kinh khu trú nên không có chỉ định; không tài liệu đã tải đưa hình ảnh não vào đánh giá THA không biến chứng. Tốn kém, mất niềm tin thêm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp độ 2, chưa kiểm soát (HA 160–168/92–94 mmHg), đã biết 6 năm, dùng amlodipin 5 mg chỉ khi nhức đầu",
+     "Đái tháo đường típ 2 mới chẩn đoán (HbA1c 7,6%, glucose đói 8,6 mmol/L)",
+     "Chưa thấy biến chứng cơ quan đích: UACR 18 mg/g, eGFR 67, điện tim không dày thất trái, monofilament bình thường, không bệnh võng mạc rõ trên soi không giãn đồng tử (cần khám mắt)",
+     "Rối loạn lipid máu mức nhẹ (LDL-C 3,0; TG 2,1 mmol/L)",
+     "Dùng corticoid nhỏ mắt kéo dài tự mua, chưa đo nhãn áp: nguy cơ tăng nhãn áp, đục thể thủy tinh",
+     "Yếu tố làm nặng: trời lạnh, ăn mặn, dùng thuốc không đều; yếu tố tâm lý: sợ đột quỵ, mất niềm tin sau ba lần khám"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (ba nơi khám, thuốc đang dùng, lý do thật) → đo HA đúng cách hai tay, tư thế → khám đáy mắt, tim, bàn chân, thần kinh → xét nghiệm hiện có → chẩn đoán → xử trí. Hỏi nối tiếp 'ông lo điều gì nhất' mới ra nỗi sợ đột quỵ; hỏi thuốc nhỏ mắt mới ra corticoid nhỏ mắt.",
+     "THA: HA ≥ 140/90 mmHg ở hai tay, nhiều lần (QĐ 5904 Phần 1, đối tượng áp dụng) và ≥ 130/80 theo ADA 2026 KC 10.1; QĐ 5481 Phần 4 mục 6.1.1 cũng ghi chẩn đoán khi ≥ 140/90 lúc kiểm tra lại. Nặng đầu, nhức gáy buổi sáng, lâng lâng, đúng đợt trời lạnh: lạnh làm HA tăng, QĐ 5904 Phần 1 Bước 5 mục D.1f dặn tránh bị lạnh đột ngột.",
+     "ĐTĐ: HbA1c 7,6% và glucose đói 8,6 mmol/L cùng mẫu đều ở ngưỡng chẩn đoán (ADA 2026 mục 2, Bảng 2.1). Giấy cũ 7,2 mmol/L không ghi đói nên chưa đủ; ba nơi đều bỏ sót, một nơi chỉ dặn 'ăn bớt ngọt'.",
+     "Hạ HA tư thế: đứng 1 và 3 phút tụt tối đa 10/2 mmHg, dưới ngưỡng 20/10 (ESC 2024 mục 9.5), nên chóng mặt không do hạ HA tư thế; cần đo trước khi bắt đầu hoặc tăng thuốc (ESC 2024 mục 9.5, I B).",
+     "Cơ quan đích: UACR 18 mg/g, eGFR 67, điện tim Sokolow-Lyon 24 mm (ngưỡng dày thất trái > 35 mm, VSH/VNHA 2024 Bảng 11), đáy mắt không xuất huyết/xuất tiết, monofilament bình thường: chưa thấy tổn thương. Một mẫu UACR và soi đáy mắt không giãn đồng tử chưa loại trừ hoàn toàn: cần UACR lặp lại và khám mắt giãn đồng tử (ADA 2026 KC 12.4, mục 11).",
+     "THA thứ phát: khởi phát muộn, không kháng trị, K 4,2, creatinin bình thường, ARR 5,6 (aldosteron 9 ng/dL, renin 1,6): chưa nghĩ tới (ESC 2024 Bảng khuyến cáo 13). Corticoid nhỏ mắt: ảnh hưởng toàn thân lên đường huyết, HA không có trong tài liệu đã tải; nguy cơ tại mắt (nhãn áp, đục thể thủy tinh) có trong AAO Blepharitis PPP 2018 và AAO Cataract PPP 2021.",
+     "Hiểu lý do 'khám ba nơi không khỏi': mỗi nơi nhìn một triệu chứng (thiếu máu não, tiền đình, 'do tuổi'), không đo lại HA, không xét nghiệm đường huyết đói, không hỏi thuốc nhỏ mắt, và không giải thích nên ông bỏ thuốc huyết áp, chỉ uống khi nhức đầu."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng: cho về, hẹn tái khám 2–4 tuần. Không cấp cứu (HA < 180/110, không dấu thần kinh, không đau ngực), không cần nhập viện hay chuyển tuyến để bắt đầu điều trị (QĐ 5904 Phần 1 Bước 4 liệt kê chỉ định chuyển tuyến: THA nặng kèm biến chứng, nghi thứ phát, không đạt mục tiêu với ≥ 3 thuốc; ông không thuộc nhóm nào). Chuyển khám mắt (ngoại trú) là việc riêng.",
+     "Mục tiêu HA: < 140/90 theo QĐ 5481 Bảng 5 và QĐ 5904 Bước 5 mục A.2 (tâm thu 130 đến < 140 ở ≥ 65 tuổi), hoặc < 130/80 nếu dung nạp theo ADA 2026 KC 13.9 và AHA/ACC 2025 mục 5.2.7. Hai cách khác do năm, bối cảnh và mức tin cậy với người cao tuổi; ca này đi từ từ, đạt trong 1–3 tháng (QĐ 5904 mục A.3), nên hướng chung là hạ vừa phải, kiểm tra tư thế mỗi lần.",
+     "Thuốc HA: khởi đầu một thuốc liều thấp (QĐ 5904 mục B.2; ESC 2024 mục 9.3 cho ≥ 85 tuổi hoặc yếu) hoặc phối hợp hai thuốc liều thấp (ADA 2026 KC 10.7: ≥ 150/90; ESC 2024 mục 9.3 cho < 85 tuổi không yếu). Ưu tiên nhóm ức chế men chuyển hoặc ức chế thụ thể ở ĐTĐ (QĐ 5481 mục 6.1.3d); cho phép chẹn kênh canxi hoặc lợi tiểu giống thiazid khi cần (ADA 2026 KC 10.8). Chọn perindopril 5 mg; amlodipin 5 mg thêm ngay hoặc sau 4 tuần.",
+     "ĐTĐ: metformin liều thấp, lối sống (QĐ 5481 mục 4.2a). Thận trọng tuổi > 80 (QĐ 5481 PL01 mục 2) nhưng eGFR 67 không cần chỉnh liều. HbA1c mục tiêu < 7,5% (QĐ 5481 Bảng 5) hoặc 7,0–7,5% (ADA 2026 KC 13.7a): ông mạnh khỏe, chức năng nguyên vẹn, ít bệnh kèm nên chưa cần nới đến < 8,0% (ADA KC 13.7b).",
+     "Bệnh kèm: statin cường độ trung bình sau bàn bạc (ADA 2026 KC 10.23, Hình 10.3). Không dùng sulfonylure đầu tay (AGS Beers 2023 Bảng 2). Không phối hợp ức chế men chuyển và ức chế thụ thể (ADA 2026 KC 10.9).",
+     "Mắt: ngưng tự mua thuốc nhỏ mắt corticoid; khám mắt giãn đồng tử, đo nhãn áp (ADA 2026 KC 12.4; AAO Blepharitis PPP 2018). Vệ sinh bờ mi thay cho dùng corticoid dài hạn: phương pháp cụ thể và liều tobramycin-dexamethason của bác sĩ mắt không có trong tài liệu đã tải.",
+     "Sàng lọc người cao tuổi: tầm soát hội chứng lão khoa mỗi năm (ADA 2026 KC 13.2); ông đi lại vững, nhận thức tốt, chưa té ngã."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; thuốc hàng đầu cho ĐTĐ có THA; kiểm tra creatinin và kali trước khi dùng và sau khi bắt đầu; tác dụng phụ: ho, tăng kali, tăng creatinin; chống chỉ định: tiền sử phù mạch (QĐ 5904 Phần 3 mục G; ADA 2026 KC 10.11). Không dùng chung ức chế thụ thể (ADA 2026 KC 10.9)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng lúc perindopril",
+      "so_ngay": "Dùng lâu dài (cho ngay nếu chọn phối hợp 2 thuốc; hoặc thêm sau 4 tuần nếu HA chưa đạt mục tiêu)",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Dặn uống đều mỗi ngày, không chỉ khi nhức đầu (QĐ 5904 Bước 5 mục A.1: điều trị hàng ngày, lâu dài). Cách kê phối hợp ngay hay sau 4 tuần: xem phân tích xử trí."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg (viên thường) hoặc 500 mg phóng thích chậm",
+      "lieu": "500 mg × 1 lần/ngày, tăng dần theo dung nạp và HbA1c",
+      "duong": "Uống",
+      "thoi_diem": "Ngay sau bữa tối (hoặc bữa chính)",
+      "so_ngay": "Dùng lâu dài; kiểm tra HbA1c sau 3 tháng",
+      "ghi_chu": "Khoảng liều 500–2000 mg/ngày; viên thường uống sau ăn 2–3 lần/ngày, dạng phóng thích chậm 1 lần/ngày (QĐ 5481 PL01 mục 2, Bảng 14); chống chỉ định eGFR < 30, giảm liều khi 30–45; thận trọng > 80 tuổi (QĐ 5481 PL01 mục 2). Liều khởi đầu và lịch tăng liều ở người cao tuổi không có trong tài liệu đã tải; chọn mức thấp nhất của viên có sẵn."
+     },
+     {
+      "thuoc": "Statin cường độ trung bình (atorvastatin hoặc rosuvastatin)",
+      "ham_luong": "không ghi hàm lượng",
+      "lieu": "Cường độ trung bình, sau khi bàn lợi ích-nguy cơ với ông",
+      "duong": "Uống",
+      "thoi_diem": "Có thể bắt đầu ở lần tái khám",
+      "so_ngay": "Dùng lâu dài nếu đồng ý",
+      "ghi_chu": "ADA 2026 KC 10.22–10.23, Hình 10.3: > 75 tuổi chưa dùng statin thì cân nhắc cường độ trung bình. Hàm lượng cụ thể tương ứng cường độ trung bình không có trong các tệp ADA 2026 đã đọc; ghi 'không có trong tài liệu đã tải'."
+     },
+     {
+      "thuoc": "Thuốc nhỏ mắt dexamethason + tobramycin (đang tự dùng)",
+      "ham_luong": "không rõ",
+      "lieu": "Ngưng tự mua",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Không",
+      "so_ngay": "Ngưng; chờ bác sĩ mắt quyết định",
+      "ghi_chu": "Corticoid nhỏ mắt dài hạn cần tránh; bác sĩ mắt đo nhãn áp và quyết định thuốc thay thế (AAO Blepharitis PPP 2018)."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc huyết áp mỗi ngày kể cả khi hết nhức đầu: nhức đầu chỉ là dấu hiệu muộn, không phải 'thuốc uống khi cần'; thuốc đã chọn liều thấp, nhẹ nhàng với thận (QĐ 5904 Bước 5 mục A.1, A.6).",
+     "Mua hoặc mượn máy đo HA đã kiểm chuẩn, đo sáng và tối 3 ngày trước mỗi lần tái khám, ghi vào sổ (ADA 2026 KC 10.2); đo thêm tư thế nằm và đứng khi thấy chóng mặt.",
+     "Giữ ấm cổ, ngực, chân khi trời lạnh, tránh ra khỏi giường đột ngột (QĐ 5904 Bước 5 mục D.1f); đi bộ trong nhà hoặc đợi nắng, ≥ 150 phút/tuần chia nhiều lần (QĐ 5904 mục D.1e).",
+     "Giảm cá kho, dưa cà, mắm; thay bằng canh rau, nấu nhạt (QĐ 5904 mục D.1a); ăn đều bữa, không bỏ bữa khi dùng metformin.",
+     "Dấu hiệu phải đi khám ngay hoặc gọi cấp cứu: yếu liệt, méo miệng, nói khó, nhìn mờ đột ngột, đau ngực, khó thở, ngất, chóng mặt kèm nôn liên tục (dấu hiệu đột quỵ, nhồi máu).",
+     "Đi khám mắt trong 1–2 tuần (ADA 2026 KC 12.4), mang theo lọ thuốc nhỏ mắt; không tự mua thuốc nhỏ mắt có corticoid (AAO Blepharitis PPP 2018).",
+     "Tái khám sau 2–4 tuần: mang sổ HA, thuốc đang dùng; kiểm tra HA nằm đứng, creatinin, kali; sau 3 tháng đo lại HbA1c, UACR (VSH/VNHA 2024 Đ4.1; ADA 2026 KC 10.11)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Bồng ngưng thuốc nhỏ mắt, bác sĩ mắt thấy nhãn áp ở ngưỡng cao nhẹ và đục thể thủy tinh nhẹ, đổi thuốc và hẹn theo dõi. Ông tái khám đúng hẹn, HA tại nhà sau 4 tuần còn 150/86, sau 8 tuần 144/82 và đến tháng thứ 3 mới về 136/80 mmHg: chậm hơn ông mong vì thuốc tăng từng bước ở tuổi 81 (QĐ 5904 Phần 1 Bước 5 mục A.3: nhắm đạt mục tiêu trong 1–3 tháng) và ông có lúc quên thuốc khi trời lạnh. HbA1c sau 3 tháng 7,1%. Nặng đầu, nhức gáy giảm dần, không còn lâng lâng sau 6 tuần. Quỹ đạo bình thường: HA giảm vài chục mmHg trong 1–3 tháng; cần lo khi HA không giảm sau 3 tháng dù dùng đủ liều, HA tư thế tụt ≥ 20/10 mmHg, tăng creatinin hoặc kali sau ức chế men chuyển (ADA 2026 KC 10.11; ESC 2024 mục 9.5), khi đó chuyển tuyến theo QĐ 5904 Phần 1 Bước 4.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: ông ngắt lời, từ chối xét nghiệm lặp; giải quyết bằng thừa nhận ba lần trước, xem giấy cũ, giải thích từng việc, không làm lại công thức máu đã có.",
+  "Lý do thật là 'kiểm tra tổng quát' vì sợ đột quỵ như em trai; lời khai lại là nặng đầu, nhức gáy.",
+  "Thuốc nhỏ mắt corticoid ông không xem là thuốc, chỉ kể khi được hỏi cụ thể."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi chóng mặt, nặng đầu: đo HA hai tay và tư thế đứng 1, 3 phút trước khi kết luận tiền đình hay thiếu máu não (ESC 2024 mục 9.5; QĐ 5904 Phụ lục 1.1).",
+  "Hỏi riêng thuốc nhỏ mắt, thuốc dùng ngoài, thuốc tự mua; corticoid nhỏ mắt dài hạn cần nhãn áp và khám mắt (AAO Blepharitis PPP 2018). Ảnh hưởng toàn thân của thuốc nhỏ mắt không có trong tài liệu đã tải.",
+  "THA kèm ĐTĐ: chẩn đoán ĐTĐ cần hai kết quả bất thường cùng mẫu hoặc hai mẫu khác nhau (ADA 2026 mục 2); mục tiêu HA và khởi đầu một hay hai thuốc có hai cách đúng ở người ≥ 80 tuổi (QĐ 5904 mục A.5, B.2 so với ADA 2026 KC 10.7, 13.9).",
+  "Lý do thật 'kiểm tra tổng quát': hỏi 'ông lo điều gì nhất', 'vì sao hôm nay mới đi'; đáp ứng bằng bộ đánh giá có chỉ định, không 'xét nghiệm hết, chụp hết'.",
+  "Hồi phục chậm hơn dự kiến: người cao tuổi hạ HA từ từ trong 1–3 tháng; tái khám 2–4 tuần (VSH/VNHA 2024 Đ4.1) và nhớ kiểm tra HA tư thế mỗi lần."
+ ],
+ "diem_nho": [
+  "Chẩn đoán ĐTĐ: HbA1c ≥ 6,5% và glucose đói ≥ 7,0 mmol/L cùng mẫu (ADA 2026 mục 2, Bảng 2.1).",
+  "HA mục tiêu: < 140/90 (QĐ 5481 Bảng 5; QĐ 5904 mục A.2: 130 đến < 140) hoặc < 130/80 nếu dung nạp (ADA 2026 KC 13.9; AHA/ACC 2025 mục 5.2.7).",
+  "Khởi đầu: một thuốc liều thấp (QĐ 5904 mục B.2) hoặc hai thuốc (ADA 2026 KC 10.7: ≥ 150/90; ESC 2024 mục 9.3: < 85 tuổi không yếu). Không ức chế men chuyển + ức chế thụ thể (ADA 2026 KC 10.9).",
+  "Hạ HA tư thế: tụt ≥ 20/10 mmHg sau đứng 1 và/hoặc 3 phút (ESC 2024 mục 9.5).",
+  "HbA1c người cao tuổi mạnh khỏe < 7,5% (QĐ 5481 Bảng 5), 7,0–7,5% (ADA 2026 KC 13.7a); nhiều bệnh < 8,0% (KC 13.7b).",
+  "Khám mắt giãn đồng tử khi chẩn đoán ĐTĐ típ 2 (ADA 2026 KC 12.4)."
+ ],
+ "nguon": [
+  "ADA Standards of Care 2026 (TL-0296; mục 2: TL-0674; mục 12: TL-0446) – ĐÃ ĐỌC mục 2 (Bảng 2.1), 10 (KC 10.1–10.11, 10.22–10.23, Hình 10.3), 11, 12 (KC 12.4–12.5), 13 (KC 13.2, 13.7a–b, 13.8, 13.9).",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 (TL-0031) – ĐÃ ĐỌC Phần 4 mục 2 (Bảng 4, Bảng 5), 4.2a, 6.1.1–6.1.3; PL01 mục 2 (metformin, Bảng 14).",
+  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 (TL-0284) – ĐÃ ĐỌC Phần 1 Bước 4, Bước 5 (mục A–D), Phụ lục 1.1; Phần 3 mục G.",
+  "ESC 2024 tăng huyết áp (TL-0305) – ĐÃ ĐỌC mục 9.3, 9.5, Bảng 8, 9, 12, Bảng khuyến cáo 13. AHA/ACC 2025 (TL-0297) mục 5.2.7, 6.2 (qua sổ mâu thuẫn). VSH/VNHA 2024 (TL-0288) Đ4.1, Bảng 11.",
+  "AAO Blepharitis PPP 2018 (TL-0565), AAO Cataract in the Adult Eye PPP 2021 (TL-0558), AGS Beers 2023 (TL-0022) Bảng 2."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19: viết ca MT-0724 (bản 1). Tài liệu đã đọc: TL-0296 (ADA 2026 mục 2, 10, 12, 13), TL-0674, TL-0446, TL-0031 (QĐ 5481), TL-0284 (QĐ 5904), TL-0305 (ESC 2024), TL-0565, TL-0558, TL-0022; TL-0297, TL-0288 qua sổ mâu thuẫn.",
+  "Mâu thuẫn dùng lại (sổ mâu thuẫn): ngưỡng THA ở người ĐTĐ (QĐ 5481 140/90 so với ADA 2026 130/80); HA mục tiêu ở người cao tuổi bị ĐTĐ; TSH và aldosteron chấm 'a'. Mâu thuẫn mới đề xuất: khởi đầu một hay hai thuốc ở người 80–84 tuổi (QĐ 5904 B.2 so với ADA 2026 KC 10.7, ESC 2024 mục 9.3).",
+  "Không có trong tài liệu đã tải: liều khởi đầu và lịch tăng liều metformin ở người cao tuổi; hàm lượng statin cường độ trung bình; tác dụng toàn thân của corticoid nhỏ mắt lên đường huyết/HA; cách điều trị viêm bờ mi (chỉ ghi tránh corticoid dài hạn)."
+ ]
+}

@@ -1,0 +1,880 @@
+{
+ "ma_ca": "MT-0095",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_tha_nguyen_phat",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau khi ngồi máy tính lâu",
+  "thuoc_dang_dung": "Đang dùng insulin",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Tư",
+  "tuoi": 82,
+  "gioi": "Nam",
+  "nghe": "Nông dân (đã giao ruộng cho con, còn trông vườn)",
+  "can_nang": 54,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi ông là 'ông'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Cháu nội gọi ông là 'ông nội', xưng 'cháu'.",
+  "tinh_cach": "Điềm đạm, nói chậm, hơi nặng tai nên hay nhờ nói lại. Quen chịu đựng, câu cửa miệng 'chắc tuổi già thôi'. Tỉnh táo, tự đi lại, tự chăm vườn. Tin tiệm thuốc đầu xóm, nghe hàng xóm mách thuốc. Gọi huyết áp là 'áp huyết'.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: hỏi chung 'đang uống thuốc gì' thì chỉ kể insulin, vì không xem thuốc xương khớp mua ở tiệm là thuốc. Chỉ nói ra viên diclofenac khi hỏi cụ thể thuốc giảm đau, thuốc xương khớp, thuốc mua ngoài tiệm, hoặc khi bác sĩ hỏi cháu Khoa về vỉ thuốc trong túi.",
+  "nguoi_nha": "Cháu nội Khoa, 20 tuổi, sinh viên, về quê chơi hai tuần, chở ông đi khám bằng xe máy. Ít nói, lo cho ông. Cháu biết: ông ngồi xem máy tính 4–5 tiếng mỗi ngày ba ngày liền, số đo huyết áp ở nhà, trong túi ông có vỉ thuốc xương khớp. Cháu KHÔNG biết ông uống mấy viên mỗi ngày và chuyện xin thuốc ngủ. Cháu trả lời khi bác sĩ hỏi về máy tính, số đo ở nhà, đường đi lại.",
+  "ten_nguoi_nha": "Cháu Khoa (cháu nội)",
+  "ngoai_hinh": {
+   "da": "#c4916a",
+   "toc": "#d9d7d2",
+   "kieuToc": "hoi",
+   "ao": "#8a7a5c",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b48f",
+    "toc": "#1d1612",
+    "kieuToc": "ngan",
+    "ao": "#3b6190",
+    "aoKieu": "thun",
+    "kinh": true,
+    "nep": 0,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Đau mỏi cổ gáy, nặng đầu, đo huyết áp ở nhà thấy cao",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang; chụp X-quang phải lên bệnh viện tỉnh, cách 38 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 82 tuổi, nông dân, cháu nội Khoa 20 tuổi đưa đến khám vì đau mỏi cổ gáy, nặng đầu mấy ngày nay; hôm nay cháu đo huyết áp ở nhà thấy cao. Sinh hiệu lúc tiếp đón: HA 176/92 mmHg, mạch 76 l/p, nhiệt 36,7°C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Tư bị nhập viện chỉ vì HA 176/92 mmHg. Không đau ngực, khó thở, dấu thần kinh, điện tim không thiếu máu cơ tim nên không có tổn thương cơ quan đích cấp, không cần hạ áp nhanh (AHA/ACC 2025 mục 6.2; QĐ 5904 Phần 3 mục D.1). Nhà xa, bà cụ ở một mình, tốn viện phí, mà việc cần làm là ngưng thuốc xương khớp và khởi thuốc uống.",
+    "chuyen_tuyen": "Ông Tư bị chuyển thẳng lên bệnh viện tỉnh. Chưa có tiêu chuẩn chuyển tuyến: không nghi THA thứ phát, chưa dùng đủ 3 thuốc, chưa biến chứng nặng (QĐ 5904 Phần 1 Bước 4 mục A); nguyên nhân làm HA cao thêm là thuốc xương khớp, ngưng được tại chỗ. Chuyến đi 38 km tốn kém, ông ngại, dễ bỏ hẹn, viên diclofenac vẫn nằm trong túi.",
+    "cap_cuu": "Ông Tư bị gọi 115 và tiêm thuốc hạ áp vì con số 176/92 mmHg. HA chưa tới 180/110, không triệu chứng nặng (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1); THA nặng không tổn thương cơ quan đích cấp thì không hạ áp mạnh bằng thuốc tiêm (AHA/ACC 2025 mục 6.2). Ông hoảng sợ, mất ngủ nặng hơn, chuyện thuốc xương khớp vẫn chưa ai hỏi."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy bữa nay cổ gáy tôi nhức, nặng cả đầu. Thằng cháu đo thấy áp huyết cao nên chở tôi đi khám. Chắc tuổi già thôi.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "176/92",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau mỏi cổ gáy, nặng đầu bốn, năm ngày nay. Hôm nay cháu Khoa đo bằng máy ở nhà được 172/90 nên chở ông đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và HA đo ở nhà"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tuần trước cháu Khoa về chơi, bày ông xem lại video đám cưới và gọi video với con gái ở xa. Ba ngày liền ông ngồi trước máy tính 4–5 tiếng, cổ cúi về màn hình. Rồi cứng gáy, lan lên sau đầu và xuống vai phải. Không lan xuống tay, không tê, không yếu tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau ngồi máy tính lâu; đau cổ cơ học, không dấu rễ"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Đau quá nên ông ra tiệm thuốc đầu xóm mua thuốc xương khớp, mỗi ngày uống hai viên diclofenac 50 mg (sáng một, chiều một), được năm ngày, sáng nay vẫn uống. Ông không xem đó là thuốc nên chỉ nói insulin.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì chỉ kể insulin. Chỉ nói ra viên xương khớp khi hỏi cụ thể thuốc giảm đau, thuốc xương khớp, thuốc mua ngoài tiệm, hoặc hỏi cháu Khoa về vỉ thuốc trong túi.",
+     "k": 1,
+     "y": "Thuốc tự mua 5 ngày: diclofenac"
+    },
+    {
+     "id": "ha_cu",
+     "noi_dung": "Tháng ba năm ngoái trạm y tế xã khám sức khỏe người cao tuổi, đo 156/84, dặn ăn lạt, không cho thuốc, hẹn đo lại nhưng ông không đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA cao có trước khi dùng thuốc xương khớp"
+    },
+    {
+     "id": "dtd",
+     "noi_dung": "Tiểu đường 14 năm, tiêm insulin trộn 30/70 tám năm nay, sáng 14 đơn vị, chiều 8 đơn vị, tiêm trước ăn. Đường huyết buổi sáng 7–9 mmol/L. Chưa từng hạ đường huyết nặng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "ĐTĐ dùng insulin: loại, liều, đường huyết"
+    },
+    {
+     "id": "ngu",
+     "noi_dung": "Mấy đêm nay ngủ được ba, bốn tiếng; nằm xuống là đau gáy, ba giờ sáng tỉnh rồi thao thức. Ông Sáu hàng xóm uống 'viên ngủ' là ngủ ngon, nên ông đi khám chủ yếu để xin thuốc ngủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Không tự nói. Chỉ nói khi bác sĩ hỏi về giấc ngủ, ban đêm ra sao, hoặc hỏi điều gì làm ông lo nhất, ông muốn bác sĩ giúp gì hôm nay.",
+     "k": 1,
+     "y": "Lý do thật: xin thuốc ngủ"
+    },
+    {
+     "id": "tieu_dem",
+     "noi_dung": "Mấy tháng nay tiểu đêm ba lần, nước tiểu trong, không buốt, tia tiểu hơi yếu; khát nhẹ. Đêm không vã mồ hôi, không run tay, không đói cồn cào, chưa lần nào đo thấy đường huyết thấp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguyên nhân mất ngủ; loại trừ hạ đường huyết đêm"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không đau ngực, không khó thở, không nhìn mờ, không nói khó, không yếu tê nửa người, không ngất, không nôn. Nặng đầu nhẹ, không đau dữ dội.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ"
+    },
+    {
+     "id": "tu_the",
+     "noi_dung": "Không choáng khi đứng dậy, chưa té lần nào trong năm qua, tự đi bộ ra vườn, tự tắm rửa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Choáng tư thế, té ngã, chức năng"
+    },
+    {
+     "id": "chat_khac",
+     "noi_dung": "Không dùng thuốc cảm, thuốc nam, cam thảo; không rượu, không hút thuốc. Chưa bao giờ dùng thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc, chất làm tăng HA khác"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không có bệnh tim, đột quỵ, bệnh thận đã biết. Lâu chưa khám mắt. Hai bàn chân tê nhẹ vài năm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh đồng mắc, biến chứng ĐTĐ"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Máy bắp tay của phòng khám, ngồi nghỉ 5 phút: tay phải 178/92, tay trái 174/90 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 174/90, mạch 74. Đứng 1 phút 162/86, 3 phút 160/84, mạch 80. Giảm 12/4 mmHg, không chóng mặt: không hạ HA tư thế (tiêu chuẩn giảm ≥ 20/10, VSH/VNHA 2024 Đ1.2.1).",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, nặng tai nhẹ, trả lời đúng. Gầy, BMI 21,1 kg/m². Da niêm hồng, không phù. Đi lại vững.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ thang và cơ cạnh sống cổ hai bên, phải hơn trái; ấn đau cạnh gai C5–C7; xoay cổ phải 50°, trái 60°, đau cuối tầm. Spurling âm tính, không yếu cơ, phản xạ gân xương hai tay bình thường.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, không dấu thần kinh khu trú. Giảm nhẹ cảm giác hai bàn chân kiểu đi tất, phản xạ gân gót giảm hai bên.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. Mỏm tim khoang liên sườn V ngoài đường trung đòn trái 1 cm. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p. Mỏm tim khoang liên sườn V.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù. Mạch mu chân bắt rõ. Da bàn chân khô, không loét.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không âm thổi cạnh rốn, gan lách không to, không cầu bàng quang.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp nhẹ, bắt chéo động–tĩnh mạch độ I, vài vi phình mạch. Không xuất huyết, không xuất tiết, không phù gai thị.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 7,4 mmol/L · Creatinin 112 µmol/L · eGFR 56 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 7.4,
+      "creat": 112,
+      "egfr": 56
+     },
+     "n": "eGFR 56 một lần, đang dùng diclofenac: chưa gọi bệnh thận mạn, cần lặp lại sau ngưng NSAID (ADA 2026 mục 11: albumin niệu hoặc eGFR < 60 kéo dài; QĐ 5481/2020 Phần 8 mục 1.2: eGFR < 60 hoặc A/C > 30 mg/g)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 4,9 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.9,
+      "cl": 102
+     },
+     "n": "K cao bình thường, không hạ kali: không gợi ý cường aldosteron."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 74 l/p. Sokolow-Lyon 36 mm, sóng T dẹt V5–V6: dày thất trái. Không ST chênh, không sóng Q, QRS 92 ms.",
+     "ab": 1,
+     "n": "Sokolow-Lyon > 35 mm là dày thất trái (VSH/VNHA 2024 Bảng 11). Không có X-quang nên ECG là công cụ chính; độ nhạy chỉ khoảng 40–50% (ESH 2023 mục 5.4.1)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "8,6 mmol/L (sau ăn sáng 2 giờ)",
+     "bang": {
+      "glu": 8.6
+     },
+     "ab": 1
+    },
+    "glu": {
+     "v": "a",
+     "r": "8,8 mmol/L",
+     "bang": {
+      "glu": 8.8
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, người bệnh không nhịn đói.",
+     "ab": 1
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "7,9%",
+     "ab": 1,
+     "n": "Mục tiêu người lớn tuổi nhiều bệnh: dưới 8,0% (QĐ 5481/2020 Bảng 5) hoặc dưới 7%, nới khi suy yếu (ADA 2026 KC 6.3a, 6.5)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "46 mg/g",
+     "ab": 1,
+     "n": "30–300 mg/g là albumin niệu tăng vừa (ADA 2026 Hình 11.1); đang dùng NSAID nên cần lặp lại."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Protein 1+ · Glucose 1+ · Không hồng cầu · Không bạch cầu"
+    },
+    "echo": {
+     "v": "a",
+     "r": "Dày đồng tâm thất trái nhẹ (IVSd 12 mm), EF 62%, rối loạn thư giãn độ I.",
+     "ab": 1
+    },
+    "cxr": {
+     "n": "Phòng khám không có X-quang. Đau cổ không dấu rễ, tủy nên chưa cần hình ảnh (QĐ 361/2014 bài Thoái hóa cột sống cổ mục 3.2, 4.2.3)."
+    },
+    "aldo": {
+     "n": "Chưa kháng trị, K 4,9: chưa có chỉ định sàng lọc (AHA/ACC 2025 mục 3.2.3.1)."
+    },
+    "ct_nao": {
+     "n": "Không dấu thần kinh; nặng đầu nhẹ, liên quan đau cổ gáy."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2 (176/92 mmHg), chưa điều trị, bị đẩy cao thêm do diclofenac tự mua; kèm ĐTĐ típ 2 dùng insulin, dày thất trái, albumin niệu; đau cổ gáy cơ học; mất ngủ do đau và tiểu đêm",
+     "ok": 1,
+     "n": "HA 156/84 trước khi dùng NSAID, 176/92 nay; độ 2 (QĐ 5904 Phần 1 Bước 3A); ĐTĐ kèm tổn thương cơ quan đích là nguy cơ rất cao (Bước 3B mục 1b)."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Chưa có chỉ điểm (VSH/VNHA 2024 Bảng 9): K 4,9, không âm thổi. Diclofenac là yếu tố ngoại sinh ngưng được, hẹn lại 2–4 tuần; còn nghi thì chuyển (QĐ 5904 Phần 1 Bước 4 mục A.1)."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA dưới 180/110, không đau ngực, dấu thần kinh, khó thở; ECG không thiếu máu (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1)."
+    },
+    {
+     "t": "Bệnh lý rễ hoặc tủy cổ",
+     "n": "Không đau lan tay, không tê, Spurling âm tính, sức cơ và phản xạ bình thường (QĐ 361/2014 bài Thoái hóa cột sống cổ mục 3.1)."
+    },
+    {
+     "t": "Hạ đường huyết ban đêm gây mất ngủ",
+     "n": "Không vã mồ hôi, run, đói cồn cào; đường huyết sáng 7–9 mmol/L (QĐ 5904 Phần 3 mục D.2)."
+    },
+    {
+     "t": "Mất ngủ không thực tổn",
+     "n": "Có nguyên nhân thực tổn là đau cổ và tiểu đêm 3 lần (QĐ 2058/2020 Bài 27 mục 3.1.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng diclofenac và mọi thuốc kháng viêm không steroid uống (kể cả thuốc xương khớp tự mua); giảm đau cổ bằng paracetamol 500 mg mỗi lần khi đau, tối đa 2 g/ngày, kèm chườm ấm, nghỉ ngơi, tránh cúi cổ kéo dài",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11: tránh NSAID toàn thân khi có thể; Bảng 17: NSAID giảm tác dụng thuốc hạ áp, gây tổn thương thận cấp. QĐ 361/2014 bài Thoái hóa cột sống cổ mục 4.2.1–4.2.2: paracetamol ưu tiên, NSAID thận trọng, nghỉ ngơi, giữ ấm. Paracetamol dưới 3 g/ngày ở người cao tuổi, tăng huyết áp (QĐ 361/2014 Phụ lục NSAID mục 3.3); chọn tối đa 2 g/ngày vì ông gầy 54 kg."
+    },
+    {
+     "t": "Khởi trị bằng một thuốc: amlodipin 5 mg uống buổi sáng, tăng liều sau 2–4 tuần nếu dung nạp",
+     "v": "c",
+     "n": "Người ≥ 80 tuổi không phối hợp 2 thuốc ngay (QĐ 5904 Phần 1 Bước 5 mục B.2); ESH 2023 mục 15.3: đơn trị, liều thấp, tăng chậm. Amlodipin khởi đầu 5 mg, duy trì 5–10 mg (QĐ 5904 Phần 3 mục G). Ngưỡng khởi trị ≥ 160/90 ở người ≥ 80 tuổi (QĐ 5904 Phần 1 Bước 5 mục A.5; ESH 2023 mục 15.3); ông 176/92 vượt cả hai. Khởi trị khi chưa có creatinin, kali: amlodipin đơn trị là c (sổ mâu thuẫn, mục MT-0166)."
+    },
+    {
+     "t": "Mục tiêu HA: dưới 140/90 mmHg, tâm thu 130–139 nếu dung nạp (QĐ 5904, QĐ 5481, ESH 2023), hoặc dưới 130/80 mmHg nếu dung nạp (VSH/VNHA 2024, ADA 2026; ESC 2024: 120–129); nới thận trọng nếu choáng tư thế hoặc già yếu",
+     "v": "c",
+     "n": "Hai cách đều đúng. QĐ 5904 Phần 1 Bước 5 mục A.2 (2019): HATT 130–< 140 ở ≥ 65 tuổi; QĐ 5481/2020 Bảng 5: < 140/90; ESH 2023 mục 15.3: ≥ 80 tuổi 140–150, có thể 130–139. VSH/VNHA 2024 Bảng 4: < 130/80 nếu dung nạp, nới khi ≥ 85 tuổi hoặc hạ HA tư thế; ADA 2026 KC 10.4: < 130/80 nếu an toàn, KC 13.9 nới ở người sức khỏe kém; ESC 2024 Bảng khuyến cáo 18: 120–129 nếu dung nạp. Khác nhau vì năm ban hành và vì nhóm ≥ 80 tuổi ít thử nghiệm."
+    },
+    {
+     "t": "Đo HA tại nhà bằng máy bắp tay, ghi sổ; đo cả tư thế đứng sau mỗi lần tăng liều",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 35 (I, B); VSH/VNHA 2024 Bảng 8 (I, B). Đo HA đứng sau 1 và 3 phút nằm hoặc ngồi nghỉ 5 phút, giảm ≥ 20/10 mmHg là hạ HA tư thế (VSH/VNHA 2024 Đ1.2.1); ESH 2023 mục 15.3: tìm hạ HA tư thế có hệ thống ở người già (I, C)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần: đo HA, xét nghiệm lại creatinin, kali, UACR sau khi đã ngưng thuốc kháng viêm",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 2: theo dõi sát HA trong 1 tháng đầu khi khởi trị; VSH/VNHA 2024 Đ4.1: tái khám 2–4 tuần/lần trong 2–3 tháng đầu. eGFR 56 và UACR 46 mg/g đo lúc đang dùng NSAID cần lặp lại (AHA/ACC 2025 Bảng 17; ADA 2026 mục 11: albumin niệu hoặc eGFR thấp phải kéo dài mới chẩn đoán bệnh thận mạn)."
+    },
+    {
+     "t": "Chưa kê thuốc ngủ: giải thích đau cổ và tiểu đêm làm mất ngủ, hướng dẫn vệ sinh giấc ngủ hoặc liệu pháp nhận thức–hành vi dạng ngắn; nếu vẫn cần, thuốc ngủ ngắn hạn tối đa 4 tuần sau khi bàn kỹ với ông",
+     "v": "c",
+     "n": "Hai cách đều đúng. QĐ 2058/2020 Bài 27 mục 4.1, 4.3 và AASM 2017 (KC 2, 4–6) cho thuốc ngủ; ESRS 2023 mục 4.2.1, Bảng 16: ngắn hạn tối đa 4 tuần. AGS Beers 2023 Bảng 2: tránh benzodiazepin và nhóm Z ở người ≥ 65 tuổi (lú lẫn, té ngã, gãy xương). Khác nhau vì Beers xét riêng người cao tuổi. Vệ sinh giấc ngủ: QĐ 2058/2020 Bài 27 mục 4.3. Mất ngủ có nguyên nhân thực tổn nên chữa nguyên nhân trước (QĐ 2058/2020 Bài 27 mục 3.1.1)."
+    },
+    {
+     "t": "Hỏi ra lý do thật đến khám (muốn thuốc ngủ) và trả lời thẳng, không từ chối cho xong",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, không có con số nên không cần nguồn. Chỉ hỏi về giấc ngủ hoặc điều ông mong muốn hôm nay mới lộ động cơ thật."
+    },
+    {
+     "t": "Giữ nguyên insulin trộn đang dùng, đo đường huyết buổi sáng ghi sổ, dặn dấu hiệu hạ đường huyết; chưa chỉnh liều khi đường huyết 8,6–8,8 mmol/L và HbA1c 7,9%",
+     "v": "c",
+     "n": "Hai cách đều đúng. QĐ 5481/2020 Bảng 4, 5: HbA1c dưới 8,0% ở người lớn tuổi nhiều bệnh; ADA 2026 KC 6.3a: dưới 7%, KC 6.5 nới khi suy yếu. Thận trọng hạ glucose máu khi dùng insulin ở người lớn tuổi (QĐ 5481/2020 Phần 4 mục 4.2, ý j)."
+    },
+    {
+     "t": "Phối hợp ngay amlodipin với thuốc ức chế men chuyển hoặc chẹn thụ thể (viên phối hợp) từ lượt 1",
+     "v": "a",
+     "n": "QĐ 5904 Phần 1 Bước 5 mục C.3 bắt đầu 2 thuốc cho THA độ 2, nhưng mục B.2 loại trừ người ≥ 80 tuổi. Creatinin, kali chưa rõ và ông đang dùng NSAID (AHA/ACC 2025 Bảng 17). Chấp nhận, không trừ điểm."
+    },
+    {
+     "t": "Ngưng diclofenac, đo lại HA sau 1–2 tuần rồi mới quyết định thuốc",
+     "v": "a",
+     "n": "ESC 2024 mục 7.2: có thể xác nhận sớm trước khi dùng thuốc; QĐ 5904 Phần 1 Bước 5 mục A.5: ≥ 160/90 ở người ≥ 80 tuổi thì khởi trị. HA 156/84 trước đó và 176/92 nay đã đủ xác nhận nên khởi thuốc ngay là c, chờ thêm là a (sổ mâu thuẫn, mục khởi trị ngay hay xác nhận)."
+    },
+    {
+     "t": "Kê diazepam, zolpidem hoặc thuốc ngủ nhóm benzodiazepin, nhóm Z uống hằng đêm theo yêu cầu của ông",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: tránh (chứng cứ vừa, khuyến cáo mạnh), nguy cơ lú lẫn, té ngã, gãy xương; ESRS 2023 Bảng 16 chỉ cho ngắn hạn tối đa 4 tuần. Ông 82 tuổi, đêm dậy tiểu 3 lần, dễ ngã."
+    },
+    {
+     "t": "Tiếp tục diclofenac hoặc đổi sang NSAID khác (meloxicam, celecoxib, etoricoxib) vì đau cổ",
+     "v": "w",
+     "n": "AHA/ACC 2025 Bảng 11, 17; QĐ 361/2014 Phụ lục NSAID mục 3.3: người cao tuổi, tăng huyết áp, bệnh thận thì tránh NSAID nếu có thể (sổ mâu thuẫn, mục MT-0750 số 3)."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc tiêm, truyền thuốc hạ áp",
+     "v": "w",
+     "n": "HA dưới 180/110 mmHg, không tổn thương cơ quan đích cấp (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2 (HA 176/92 mmHg), chưa điều trị, bị đẩy cao thêm do diclofenac tự mua 5 ngày",
+     "Đái tháo đường típ 2 dùng insulin (HbA1c 7,9%); eGFR 56 mL/ph/1,73m² và UACR 46 mg/g đo lúc đang dùng NSAID, cần lặp lại để xác nhận bệnh thận mạn",
+     "Tổn thương cơ quan đích: dày thất trái trên ECG và siêu âm; nguy cơ tim mạch rất cao (ĐTĐ kèm tổn thương cơ quan đích)",
+     "Đau cổ gáy cơ học sau ngồi máy tính lâu (co cứng cơ thang, nghi thoái hóa cột sống cổ), không có dấu rễ hay tủy",
+     "Mất ngủ do đau cổ và tiểu đêm; chưa có chỉ định thuốc ngủ",
+     "Không phải cơn THA cấp cứu; chưa có chỉ điểm THA thứ phát; chưa hạ HA tư thế; người cao tuổi còn khỏe, tự lập"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là THA: đo hai tay 178/92 và 174/90, tại nhà 168–174/90; HA 156/84 ở trạm y tế tháng ba năm ngoái, trước khi dùng thuốc xương khớp, nên HA cao có trước diclofenac. Độ 2 là 160–179/100–109, lấy mức cao hơn (QĐ 5904 Phần 1 Bước 3A).",
+     "Diclofenac là nhiễu chính: NSAID giữ natri và giảm tác dụng thuốc hạ áp, có thể gây tổn thương thận cấp (AHA/ACC 2025 Bảng 11, 17). Không gán toàn bộ HA cao cho thuốc vì đã có HA cao trước đó; ngưng thuốc rồi đo lại để biết phần nào là nền.",
+     "Nguy cơ rất cao: ĐTĐ kèm tổn thương cơ quan đích (dày thất trái, albumin niệu) (QĐ 5904 Phần 1 Bước 3B mục 1b). eGFR 56 và UACR 46 mg/g đo một lần lúc đang dùng NSAID; bệnh thận mạn cần kéo dài (ADA 2026 mục 11; QĐ 5481/2020 Phần 8 mục 1.2: eGFR < 60 hoặc A/C > 30 mg/g).",
+     "Đau cổ: đau tăng khi cúi đầu kéo dài, có điểm đau cạnh sống cổ (QĐ 361/2014 bài Thoái hóa cột sống cổ mục 3.1). Không lan tay, không tê, Spurling âm tính, sức cơ và phản xạ bình thường nên không có hội chứng rễ, tủy.",
+     "Mất ngủ: ngủ 3–4 giờ, đau gáy khi nằm, tiểu đêm 3 lần; có nguyên nhân thực tổn (QĐ 2058/2020 Bài 27 mục 3.1.1). Lý do thật ông đến là xin thuốc ngủ, chỉ lộ ra khi hỏi về giấc ngủ.",
+     "Ghi chú áp dụng (nhóm ≥ 75 tuổi): nhóm này bị loại khỏi hầu hết thử nghiệm; thử nghiệm kết cục duy nhất ở ≥ 80 tuổi là HYVET (tuổi trung bình 83), điều trị giảm biến cố tim mạch và tử vong, kể cả ở người già yếu mức vừa (ESH 2023 mục 15.3.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng diclofenac và mọi NSAID, đổi sang paracetamol tối đa 2 g/ngày: AHA/ACC 2025 Bảng 11, 17; QĐ 361/2014 mục 4.2.1 và Phụ lục NSAID mục 3.3.",
+     "Khởi trị amlodipin 5 mg đơn trị vì ≥ 80 tuổi (QĐ 5904 Phần 1 Bước 5 mục B.2; ESH 2023 mục 15.3), tăng liều sau 2–4 tuần. Nếu cần thêm thuốc: ĐTĐ có albumin niệu thì ưu tiên ức chế men chuyển hoặc chẹn thụ thể, sau khi có creatinin, kali khi đã ngưng NSAID (QĐ 5481/2020 Phần 8 mục 1.2; AHA/ACC 2025 Bảng 17). Amlodipin có thể gây phù mắt cá (QĐ 5904 Phần 3 mục G).",
+     "Mục tiêu HA ghi cả hai cách như mục xử trí (QĐ 5904 Bước 5 mục A.2; ESH 2023 mục 15.3 hoặc VSH/VNHA 2024 Bảng 4; ADA 2026 KC 10.4). Đo HA đứng mỗi lần tăng liều vì ông dùng insulin, có tê bàn chân.",
+     "Mất ngủ: không kê thuốc ngủ lượt này; ghi cả hai cách như mục xử trí (QĐ 2058/2020 Bài 27, ESRS 2023 ≤ 4 tuần; AGS Beers 2023 Bảng 2 tránh ở ≥ 65 tuổi). Chữa nguyên nhân (đau, tiểu đêm) trước.",
+     "Insulin giữ nguyên: đường huyết 8,6–8,8, HbA1c 7,9% nằm trong mục tiêu của QĐ 5481/2020 Bảng 5 (dưới 8,0%); ADA 2026 KC 6.3a, 6.5 cho nới. Hẹn 2 tuần kiểm lại HA, creatinin, kali, UACR (VSH/VNHA 2024 Đ4.1; ADA 2026 mục 11)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, giờ cố định, sau ăn sáng",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2 tuần để tăng liều nếu cần",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Người ≥ 80 tuổi đơn trị, tăng liều chậm (QĐ 5904 Phần 1 Bước 5 mục B.2; ESH 2023 mục 15.3)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg mỗi lần khi đau, tối đa 4 viên (2 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau cổ gáy, sau ăn",
+      "so_ngay": "Dùng khi cần cho đến khi hết đau; đánh giá lại ở lần tái khám",
+      "ghi_chu": "Paracetamol ưu tiên trong đau cổ (QĐ 361/2014 bài Thoái hóa cột sống cổ mục 4.2.1); dưới 3 g/ngày ở người cao tuổi, tăng huyết áp (QĐ 361/2014 Phụ lục NSAID mục 3.3); chọn 2 g/ngày vì gầy 54 kg."
+     },
+     {
+      "thuoc": "Insulin trộn 30/70",
+      "ham_luong": "Đang dùng",
+      "lieu": "Giữ nguyên: sáng 14 đơn vị, chiều 8 đơn vị",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Trước ăn sáng và trước ăn chiều",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ nguyên liều đang dùng, đo đường huyết mỗi sáng (QĐ 5481/2020 Phần 4 mục 4.2, ý j; Bảng 5)."
+     },
+     {
+      "thuoc": "Diclofenac (thuốc xương khớp tự mua)",
+      "ham_luong": "50 mg",
+      "lieu": "NGƯNG hoàn toàn",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng nữa",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "Tránh NSAID ở người tăng huyết áp, cao tuổi, bệnh thận (AHA/ACC 2025 Bảng 11, 17; QĐ 361/2014 Phụ lục NSAID mục 3.3). Dặn bỏ cả vỉ còn lại."
+     }
+    ],
+    "dan_do": [
+     "Bỏ hẳn thuốc xương khớp mua ở tiệm; muốn mua thuốc gì cho đau mỏi, ông hỏi bác sĩ hoặc dược sĩ trước, kể cả thuốc hàng xóm mách (AHA/ACC 2025 Bảng 11).",
+     "Không ngồi cúi xem máy tính nhiều giờ liền; xem màn hình ngang tầm mắt, đứng dậy đi lại, chườm ấm cổ gáy (QĐ 361/2014 bài Thoái hóa cột sống cổ mục 3.1, 4.2.2, 6).",
+     "Giấc ngủ: chỉ nằm khi buồn ngủ, dậy giờ cố định, không cà phê, trà đặc chiều tối (QĐ 2058/2020 Bài 27 mục 4.3); đau gáy và tiểu đêm làm khó ngủ, chữa hai việc đó trước.",
+     "Ăn nhạt: nước mắm, cá khô, dưa cà muối ít lại, không húp hết nước canh, dưới 5 g muối mỗi ngày (QĐ 5904 Phụ lục 3.2; ESC 2024 Bảng khuyến cáo 15). Vẫn tiêm insulin và ăn đúng bữa; đói lả, run, vã mồ hôi thì ăn hoặc uống nước đường rồi báo (QĐ 5904 Phần 3 mục D.2).",
+     "Đi ngay nếu đau ngực, khó thở, đau đầu dữ dội, nhìn mờ, yếu tê nửa người, méo miệng, nói khó, ngất, tiểu rất ít (QĐ 5904 Phần 3 mục D.1). Tái khám sau 2 tuần, mang theo sổ HA, sổ đường huyết và mọi vỉ thuốc đang có."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần. Cháu Khoa báo ông uống thuốc đều nhưng HA đo ở nhà vẫn 165–180, ông mệt, ăn kém, hai chân hơi sưng ba ngày nay. Sinh hiệu lúc tiếp đón: HA 176/94 mmHg, mạch 82 l/p, nhiệt 36,8°C, nhịp thở 20 l/p, SpO₂ 95%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Tư được tăng liều amlodipin hoặc thêm thuốc rồi cho về, hẹn 1–2 tuần. Creatinin đã tăng gấp đôi (eGFR 24), kali 5,8 với sóng T cao nhọn; về nhà mà vẫn có vỉ diclofenac trong túi thì thận tiếp tục xấu, kali tiếp tục lên, nguy cơ rối loạn nhịp tim (QĐ 3931/2015 bài Tổn thương thận cấp mục 4b; ADA 2026 KC 11.12a). Nếu cho thêm thuốc ức chế men chuyển thì AKI và tăng kali nặng hơn (AHA/ACC 2025 Bảng 17).",
+    "theo_doi": "Ông Tư được giữ vài giờ, uống nhiều nước, hẹn xét nghiệm lại sáng mai. Phòng khám không có theo dõi điện tim liên tục và xét nghiệm kali cấp; với eGFR 24 và kali 5,8 kèm điện tim đổi, một đêm ở nhà là lúc nguy hiểm (QĐ 3931/2015 bài Tổn thương thận cấp mục 4b).",
+    "cap_cuu": "Ông Tư bị gọi 115, truyền thuốc hạ áp tĩnh mạch vì HA 176/94 mmHg kèm suy thận. HA chưa tới 180/110, không tổn thương cơ quan đích cấp do HA (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2), hạ áp nhanh không chữa nguyên nhân là thuốc xương khớp. Ông vẫn cần chuyển trong ngày, nhưng làm đúng việc trước chuyển: ngưng NSAID, điện tim, phiếu chuyển."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi uống thuốc đều mà áp huyết vẫn cao, mấy bữa nay thấy mệt, chân sưng, đi tiểu ít. Chắc thuốc chưa hợp.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "176/94",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 95,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Huyết áp ở nhà vẫn 165–180/90–100 dù uống thuốc. Ba ngày nay ông mệt, nhạt miệng, hơi buồn nôn, hai chân sưng, đi tiểu ít hơn. Đau cổ gáy chỉ đỡ chút ít.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: HA không đạt, mệt, phù, tiểu ít"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Amlodipin ông uống mỗi sáng, cháu Khoa đếm vỉ thấy đủ 14 viên đã uống, không bỏ liều nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ amlodipin (loại trừ kém tuân thủ)"
+    },
+    {
+     "id": "nsaid_lai",
+     "noi_dung": "Ba ngày sau lần khám, cổ gáy còn nhức nên ông ra tiệm mua lại một vỉ diclofenac, uống một đến hai viên mỗi ngày, lần cuối sáng nay. Paracetamol ông thấy 'không ăn thua' nên bỏ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc theo dặn không' thì nói 'có, uống đều'. Chỉ nói ra viên xương khớp khi bác sĩ hỏi cụ thể còn uống thuốc giảm đau, thuốc xương khớp nào, đau cổ dùng gì, hoặc cháu Khoa thấy vỉ thuốc mới trong túi.",
+     "k": 1,
+     "y": "Không tuân thủ dặn dò: tiếp tục NSAID"
+    },
+    {
+     "id": "phu_tieu",
+     "noi_dung": "Phù hai mắt cá ba ngày nay, tối rõ hơn. Ngày chỉ đi tiểu ba lần, ít, nước tiểu sẫm màu; đêm tiểu một lần. Không buốt, không tiểu máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giảm lượng nước tiểu, phù"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Không nôn nhiều, không tiêu chảy, không sốt, uống nước như thường, không bị bệnh gì khác trong hai tuần qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân trước thận khác (mất nước, nhiễm trùng)"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không đau ngực, không khó thở khi nằm hay khi đi, không đau đầu dữ dội, không nhìn mờ, không yếu liệt, không lú lẫn. Đêm thỉnh thoảng thấy tim đập mạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ, suy tim, tăng kali"
+    },
+    {
+     "id": "duong_huyet",
+     "noi_dung": "Đường huyết sáng nay đo ở nhà 7,4 mmol/L. Vẫn tiêm insulin 14 đơn vị sáng, 8 đơn vị chiều, nhưng ăn ít hơn mọi khi. Không có cơn hạ đường huyết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Insulin, ăn uống, hạ đường huyết khi chức năng thận giảm"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không dùng thuốc nam, nước lá, thuốc bổ thận hay thuốc nào khác ngoài insulin, amlodipin và viên xương khớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc khác có thể gây tổn thương thận"
+    },
+    {
+     "id": "duong_xa",
+     "noi_dung": "Nhà cách bệnh viện tỉnh 38 km. Cháu Khoa có xe máy; con trai ở thị xã (22 km) có ô tô, gọi là tới trong khoảng một giờ. Ông ngại đi xa vì sợ tốn tiền, sợ cháu nghỉ học.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phương tiện và người đi cùng khi chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Đo bằng máy bắp tay của phòng khám: tay phải 176/94, tay trái 174/92 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 176/94, đứng 1 phút 164/90 mmHg (giảm 12/4), không chóng mặt.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, nói chậm, định hướng đúng. Da niêm hồng nhạt, lưỡi hơi khô nhưng da còn đàn hồi, không dấu mất nước rõ. Cân nặng 56 kg (lượt 1: 54 kg).",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Phù mềm hai mắt cá và 1/3 dưới cẳng chân, ấn lõm nhẹ, đối xứng, không đau bắp chân.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tĩnh mạch cổ không nổi. Cổ gáy còn co cứng nhẹ cơ thang, đau ít hơn, xoay cổ rộng hơn lượt trước.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, T1, T2 rõ, không T3, không âm thổi, không tiếng cọ màng ngoài tim.",
+     "k": 1,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm, không ran ẩm, không ran rít.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên. Nhịp thở 20 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không âm thổi cạnh rốn, không cầu bàng quang.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Không đau hố thắt lưng, chạm thận âm tính, không cầu bàng quang.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 17,6 mmol/L · Creatinin 232 µmol/L (lượt 1: 112) · eGFR 24 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 17.6,
+      "creat": 232,
+      "egfr": 24
+     },
+     "n": "Creatinin tăng 107% sau 2 tuần, eGFR từ 56 xuống 24 (dưới 30). QĐ 3931/2015 bài Suy thận cấp mục 3a: tăng creatinin > 42,5 µmol/L so với nền (ngưỡng tính trong 24–48 giờ; ca cách nhau 2 tuần nên chỉ dùng để đối chiếu mức độ). ADA 2026 KC 11.12a: eGFR dưới 30 hoặc giảm nhanh thì cho nhà thận học đánh giá."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 134 · K 5,8 · Cl 99 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 134,
+      "k": 5.8,
+      "cl": 99
+     },
+     "n": "Tăng kali: QĐ 3931/2015 bài Tổn thương thận cấp mục 4b nhấn mạnh tăng kali cần chẩn đoán nhanh và đưa về mức an toàn vì dễ gây rối loạn nhịp tim. Xử trí cấp cứu tăng kali không có trong tài liệu đã tải (sổ mâu thuẫn, mục MT-0750 số 4)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 80 l/p. Sóng T cao nhọn đối xứng V2–V4 (mới so với lượt 1). QRS 96 ms, PR 180 ms, không block. Vẫn dày thất trái.",
+     "ab": 1,
+     "n": "Điện tim đổi theo kali: là một lý do để chuyển ngay và theo dõi điện tim khi đi (QĐ 5481/2020 Phần 8 mục 1.2: rối loạn điện giải trong bệnh thận, khám lâm sàng, điện tâm đồ, điện giải đồ)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "7,1 mmol/L",
+     "bang": {
+      "glu": 7.1
+     }
+    },
+    "ua": {
+     "v": "u",
+     "r": "Protein 2+ · Glucose 1+ · Hồng cầu: vết · Bạch cầu: âm",
+     "ab": 1,
+     "n": "Xét nghiệm nước tiểu thường quy khi tổn thương thận cấp (QĐ 3931/2015 bài Tổn thương thận cấp mục 3)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Hai thận kích thước bình thường (10,2 cm), echo vỏ tăng nhẹ, không ứ nước, không sỏi; bàng quang sau tiểu không tồn lưu.",
+     "n": "Loại tắc nghẽn sau thận (QĐ 3931/2015 bài Suy thận cấp mục 2c); không được làm chậm việc chuyển."
+    },
+    "uacr": {
+     "v": "a",
+     "r": "188 mg/g (lượt 1: 46)",
+     "ab": 1
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "7,9% (đã làm ở lượt 1)"
+    },
+    "glu": {
+     "v": "a",
+     "r": "7,6 mmol/L",
+     "bang": {
+      "glu": 7.6
+     }
+    },
+    "echo": {
+     "v": "a",
+     "r": "Như lượt 1: dày đồng tâm thất trái nhẹ, EF 62%, không tràn dịch màng ngoài tim."
+    },
+    "cxr": {
+     "n": "Phòng khám không có X-quang. Phổi không ran, SpO₂ 95%, tĩnh mạch cổ không nổi: chưa nghĩ ứ dịch phổi; nơi nhận quyết định hình ảnh."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2 chưa kiểm soát (176/94 mmHg sau 2 tuần amlodipin 5 mg), kèm tổn thương thận cấp trên nền bệnh thận do ĐTĐ do tiếp tục diclofenac (creatinin 112 → 232 µmol/L, eGFR 24), tăng kali 5,8 mmol/L; cần chuyển tuyến",
+     "ok": 1,
+     "n": "QĐ 5904 Phần 1 Bước 4 mục A.4: THA đã có biến chứng nặng như suy thận thì chuyển tuyến trên; mục A.2: THA có nhiều bệnh nặng phối hợp. ADA 2026 KC 11.12a."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA 176/94 mmHg, dưới 180/110, không đau ngực, không khó thở, không dấu thần kinh, không suy tim (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Tổn thương thận ở đây do NSAID, không phải do HA cao cấp tính."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát (bệnh mạch thận, bệnh thận nhu mô)",
+     "n": "HA cao có từ trước (156/84 năm ngoái); creatinin tăng sau 2 tuần tiếp tục NSAID, chưa dùng thuốc ức chế RAS; không âm thổi cạnh rốn, siêu âm thận không teo, không ứ nước."
+    },
+    {
+     "t": "Tăng huyết áp kháng trị hoặc kém tuân thủ amlodipin",
+     "n": "Mới dùng 1 thuốc 2 tuần, chưa phải kháng trị (QĐ 5904 Phần 1 Bước 4 mục A.3: đủ ≥ 3 thuốc, có lợi tiểu); đếm vỉ đủ viên nên tuân thủ amlodipin tốt."
+    },
+    {
+     "t": "Suy tim hoặc ứ dịch phổi",
+     "n": "Phù nhẹ có thể do NSAID và amlodipin; không khó thở, phổi không ran, tĩnh mạch cổ không nổi, SpO₂ 95% (QĐ 5904 Phần 3 mục G: amlodipin gây phù mắt cá)."
+    },
+    {
+     "t": "Suy thận do mất nước, nhiễm trùng, tắc nghẽn đường tiểu",
+     "n": "Không nôn, tiêu chảy, sốt; HA không thấp; không cầu bàng quang, siêu âm không ứ nước (QĐ 3931/2015 bài Suy thận cấp mục 2: nhóm trước thận, tại thận, sau thận)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay trong ngày tới bệnh viện có khoa nội thận hoặc nội tổng hợp, làm được xét nghiệm cấp và theo dõi điện tim; đi bằng ô tô, có người nhà đi cùng, không đi xe máy",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 4 mục A.2, A.4: THA có nhiều bệnh nặng phối hợp hoặc biến chứng nặng như suy thận thì chuyển tuyến trên; eGFR dưới 30 là nguy cơ rất cao (Bước 3B mục 1c). ADA 2026 KC 11.12a: eGFR dưới 30 hoặc giảm nhanh thì nhà thận học đánh giá. QĐ 3931/2015 bài Tổn thương thận cấp mục 4b: tăng kali cần chẩn đoán nhanh. Phòng khám không có theo dõi điện tim liên tục và kali cấp."
+    },
+    {
+     "t": "Ngưng ngay diclofenac và mọi NSAID, ghi rõ thuốc, liều, số ngày đã dùng vào phiếu chuyển",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11, 17; ADA 2026 mục 11 (NSAID là yếu tố nguy cơ AKI). AGS Beers 2023 Bảng 6: NSAID khi độ thanh thải creatinin dưới 30 mL/ph nên tránh; độ thanh thải khoảng 17 mL/ph theo Cockcroft–Gault, người soạn tự tính."
+    },
+    {
+     "t": "Trước khi đi: đo lại sinh hiệu, điện tim, đường huyết mao mạch; viết phiếu chuyển (creatinin 112 → 232, kali 5,8, sóng T cao nhọn, thuốc đang dùng và giờ uống cuối); gọi điện báo nơi nhận, bàn giao theo SBAR",
+     "v": "c",
+     "n": "Bàn giao là kỹ năng, SBAR do người soạn chọn, không có trong tài liệu đã tải. QĐ 5904 Phần 3 mục D.1: liên hệ tuyến trên để được hướng dẫn thêm khi chuyển khẩn."
+    },
+    {
+     "t": "Giữ amlodipin 5 mg, không hạ áp nhanh, chưa thêm thuốc ức chế men chuyển, chẹn thụ thể hay lợi tiểu cho tới khi tuyến trên biết rõ chức năng thận và kali",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 17: ức chế men chuyển cùng NSAID gây AKI và tăng kali; QĐ 5904 Phần 3 mục G: kiểm tra creatinin, kali trước khi dùng ức chế men chuyển."
+    },
+    {
+     "t": "Giữ insulin, ăn uống bình thường, mang theo insulin và sổ đường huyết; liều insulin khi eGFR giảm sâu để tuyến trên chỉnh",
+     "v": "c",
+     "n": "QĐ 5481/2020 Phần 4 mục 4.2, ý j: thận trọng hạ glucose máu khi dùng insulin ở người lớn tuổi. Hướng dẫn chỉnh liều insulin theo eGFR: không có trong tài liệu đã tải. Không tự ngưng insulin."
+    },
+    {
+     "t": "Giải thích cho ông và cháu vì sao phải đi hôm nay; dặn dấu hiệu nặng hơn trên đường đi (khó thở, lú lẫn, nôn nhiều, hồi hộp mạnh, yếu liệt) thì gọi 115",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1 liệt kê đi tiểu giảm, buồn nôn, nôn, lơ mơ, dấu hiệu suy tim là biểu hiện cần chuyển khẩn."
+    },
+    {
+     "t": "Gọi xe cứu thương 115 có điện tim để chuyển thay cho xe nhà",
+     "v": "a",
+     "n": "Kali 5,8 và sóng T cao nhọn là lý do hợp lý; ô tô nhà có người nhà đi cùng cũng được nếu đi ngay."
+    },
+    {
+     "t": "Tăng amlodipin lên 10 mg hoặc thêm thuốc hạ áp rồi hẹn lại sau 1–2 tuần",
+     "v": "w",
+     "n": "Bỏ sót suy thận và tăng kali; HA không đạt vì NSAID, không phải vì thiếu liều (AHA/ACC 2025 Bảng 17; QĐ 5904 Phần 1 Bước 4 mục A.4; ADA 2026 KC 11.12a)."
+    },
+    {
+     "t": "Giữ lại phòng khám theo dõi vài giờ, uống nhiều nước, hẹn xét nghiệm lại sáng mai rồi cho về",
+     "v": "w",
+     "n": "eGFR 24 và kali 5,8 có sóng T cao nhọn cần điều chỉnh nhanh (QĐ 3931/2015 bài Tổn thương thận cấp mục 4b); ADA 2026 KC 11.12a; QĐ 3931/2015 mục 4a: thiếu hoặc thừa thể tích đều không có lợi cho thận."
+    },
+    {
+     "t": "Khởi ức chế men chuyển hoặc chẹn thụ thể ngay để bảo vệ thận vì có albumin niệu",
+     "v": "w",
+     "n": "Kali 5,8, creatinin tăng gấp đôi, chưa ngưng NSAID: AHA/ACC 2025 Bảng 17 (ức chế men chuyển + NSAID: AKI; tăng kali); QĐ 5904 Phần 3 mục G (ức chế men chuyển gây tăng kali). Chỉ định ở QĐ 5481/2020 Phần 8 mục 1.2 áp dụng khi tình trạng thận ổn định."
+    },
+    {
+     "t": "Gọi 115, truyền thuốc hạ áp tĩnh mạch vì HA cao kèm suy thận",
+     "v": "w",
+     "n": "HA 176/94 mmHg dưới 180/110, không tổn thương cơ quan đích cấp do HA (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "Tiếp tục diclofenac hoặc đổi sang NSAID khác để giảm đau cổ",
+     "v": "h",
+     "n": "AGS Beers 2023 Bảng 6 nói rõ NSAID khi độ thanh thải creatinin dưới 30 mL/ph có thể gây AKI và giảm thêm chức năng thận; AHA/ACC 2025 Bảng 17. Ngộ nhận này chính là nguyên nhân của bệnh cảnh hôm nay."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2 chưa kiểm soát (176/94 mmHg) sau 2 tuần amlodipin 5 mg, vì ông tiếp tục tự mua diclofenac",
+     "Tổn thương thận cấp trên nền bệnh thận do ĐTĐ, do NSAID: creatinin 112 → 232 µmol/L, eGFR 56 → 24, tiểu ít, phù nhẹ",
+     "Tăng kali máu 5,8 mmol/L, sóng T cao nhọn trên điện tim",
+     "Tổn thương cơ quan đích mạn: dày thất trái, albumin niệu; nguy cơ tim mạch rất cao",
+     "Không phải cơn THA cấp cứu; không suy tim hay ứ dịch phổi; không mất nước, không tắc nghẽn đường tiểu",
+     "Có chỉ định chuyển tuyến trong ngày"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao 'không đỡ': amlodipin uống đủ 14 viên nên không phải kém tuân thủ thuốc; mới dùng 1 thuốc nên chưa phải THA kháng trị (QĐ 5904 Phần 1 Bước 4 mục A.3). Điều không tuân thủ là lời dặn ngưng thuốc xương khớp: ông uống lại 1–2 viên diclofenac mỗi ngày, NSAID giữ natri và giảm tác dụng thuốc hạ áp (AHA/ACC 2025 Bảng 17). Quy trình thất bại điều trị: tuân thủ thuốc, thuốc tự mua, rồi mới tới biến chứng.",
+     "Tổn thương thận cấp: creatinin tăng 120 µmol/L, vượt ngưỡng 42,5 µmol/L của QĐ 3931/2015 bài Suy thận cấp mục 3a (ngưỡng tính trong 24–48 giờ, ca cách 2 tuần chỉ dùng đối chiếu); tiểu ít, phù. Nguyên nhân là NSAID trên nền ĐTĐ (AHA/ACC 2025 Bảng 17; ADA 2026 mục 11). Không mất nước, nhiễm trùng, ứ nước nên không thuộc nhóm trước hay sau thận (QĐ 3931/2015 bài Suy thận cấp mục 2).",
+     "Tăng kali 5,8 mmol/L kèm sóng T cao nhọn: phải chẩn đoán nhanh, đưa về mức an toàn vì dọa loạn nhịp (QĐ 3931/2015 bài Tổn thương thận cấp mục 4b). Xử trí cấp cứu tăng kali không có trong tài liệu đã tải, ca chỉ chấm việc nhận ra và chuyển.",
+     "Vì sao không phải cơn THA cấp cứu: HA 176/94 dưới 180/110, không đau ngực, khó thở, nhìn mờ, dấu thần kinh, suy tim (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Lý do chuyển là suy thận cấp và tăng kali, không phải HA. Vì sao chuyển tuyến, không cho về hay giữ tại chỗ: QĐ 5904 Phần 1 Bước 4 mục A.2, A.4 (nhiều bệnh nặng phối hợp, biến chứng suy thận); ADA 2026 KC 11.12a và Hình 11.1 (eGFR 15–29: điều trị và chuyển). Phòng khám không có X-quang, không theo dõi điện tim liên tục, không có xét nghiệm kali cấp. 'Kịp thời' là chuyển trong ngày, khi kali chưa gây loạn nhịp nặng."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng NSAID ngay và ghi vào phiếu chuyển: AHA/ACC 2025 Bảng 11, 17; AGS Beers 2023 Bảng 6; ADA 2026 mục 11. Tiếp tục NSAID là h vì chính Beers 2023 nói gây hại ở mức lọc dưới 30.",
+     "Không hạ áp nhanh, không thêm thuốc ức chế men chuyển, chẹn thụ thể, lợi tiểu lúc này (AHA/ACC 2025 Bảng 17; QĐ 5904 Phần 3 mục G). Giữ amlodipin 5 mg; tuyến trên quyết định bậc thuốc sau khi thận ổn định.",
+     "Chuẩn bị trước chuyển: sinh hiệu, điện tim, đường huyết mao mạch, phiếu chuyển đủ số liệu hai lượt, gọi điện cho nơi nhận, bàn giao SBAR; đi ô tô có người nhà. Siêu âm bụng trước chuyển (loại tắc nghẽn, QĐ 3931/2015 bài Suy thận cấp mục 2c) làm được thì tốt nhưng không bắt buộc và không được làm chậm việc chuyển.",
+     "Hậu cần: nhà cách bệnh viện tỉnh 38 km, con trai có ô tô, cháu 20 tuổi đi cùng; nói rõ lý do để ông không ngại tốn kém mà bỏ chuyến đi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Tiếp tục; tuyến trên quyết định đổi",
+      "ghi_chu": "Giữ nguyên, không tăng liều và không thêm thuốc trước khi rõ chức năng thận, kali (QĐ 5904 Phần 3 mục G; AHA/ACC 2025 Bảng 17). Phù mắt cá cũng có thể do amlodipin."
+     },
+     {
+      "thuoc": "Insulin trộn 30/70",
+      "ham_luong": "Đang dùng",
+      "lieu": "Giữ nguyên: sáng 14 đơn vị, chiều 8 đơn vị, tuyến trên chỉnh",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Trước ăn sáng và chiều; mang theo khi đi",
+      "so_ngay": "Tiếp tục",
+      "ghi_chu": "Không tự ngưng; liều khi eGFR thấp không có trong tài liệu đã tải (QĐ 5481/2020 Phần 4 mục 4.2, ý j)."
+     },
+     {
+      "thuoc": "Diclofenac",
+      "ham_luong": "50 mg",
+      "lieu": "NGƯNG hoàn toàn",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "AGS Beers 2023 Bảng 6; AHA/ACC 2025 Bảng 17. Mang theo vỉ thuốc đã mua để tuyến trên đếm số viên."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg mỗi lần khi đau, tối đa 4 viên (2 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau cổ gáy",
+      "so_ngay": "Khi cần, tuyến trên quyết định",
+      "ghi_chu": "Thay NSAID (QĐ 361/2014 bài Thoái hóa cột sống cổ mục 4.2.1); dưới 3 g/ngày ở người cao tuổi, tăng huyết áp (QĐ 361/2014 Phụ lục NSAID mục 3.3)."
+     }
+    ],
+    "dan_do": [
+     "Đi hôm nay bằng ô tô của con trai, cháu Khoa đi cùng; không đi xe máy (QĐ 5904 Phần 1 Bước 4 mục A.4).",
+     "Mang theo vỉ thuốc xương khớp, amlodipin, insulin, sổ đường huyết, sổ HA, phiếu chuyển.",
+     "Gọi 115 nếu trên đường đi khó thở, lú lẫn, nôn nhiều, tim đập mạnh, ngất, yếu liệt (QĐ 5904 Phần 3 mục D.1).",
+     "Sau khi ra viện: mang giấy ra viện về trạm hoặc phòng khám; theo dõi HA tại nhà, tái khám theo hẹn tuyến trên (QĐ 5904 Phần 1 Bước 4 mục B)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Con trai chở ông bằng ô tô lên bệnh viện tỉnh ngay chiều hôm đó, cháu Khoa đi cùng, mang theo phiếu chuyển và vỉ thuốc. Kali được xử trí, theo dõi điện tim, ngưng hẳn diclofenac; sau 6 ngày creatinin về 128 µmol/L, kali 4,7 mmol/L, ông ra viện với amlodipin 5 mg. Sáu tuần sau HA ở nhà khoảng 138/78 mmHg, ông ngủ được 5–6 tiếng và không còn nhắc thuốc ngủ.",
+ "nhieu": [
+  "Diclofenac tự mua 5 ngày: làm HA cao hơn nền, làm eGFR và UACR khó diễn giải; hỏi chung 'thuốc gì' thì ông chỉ kể insulin (AHA/ACC 2025 Bảng 11, 17).",
+  "Ngồi máy tính lâu gây đau cổ gáy, là cớ để ông dùng thuốc xương khớp; không phải nguyên nhân của THA (QĐ 361/2014 bài Thoái hóa cột sống cổ mục 3.1).",
+  "Xin thuốc ngủ: động cơ thật của chuyến khám; benzodiazepin, nhóm Z không phù hợp ở người ≥ 65 tuổi (AGS Beers 2023 Bảng 2)."
+ ],
+ "bai_hoc_bien": [
+  "Tự uống thuốc trước 5 ngày: hỏi 'đang uống thuốc gì' chỉ nhận insulin. Phải hỏi theo nhóm (thuốc giảm đau, thuốc xương khớp, thuốc mua ngoài tiệm) và hỏi người nhà; NSAID vừa làm HA cao vừa gây tổn thương thận (AHA/ACC 2025 Bảng 11, 17).",
+  "Chuyển tuyến kịp thời: chuyển vì suy thận và tăng kali chứ không vì HA cao (QĐ 5904 Phần 1 Bước 4 mục A.4; ADA 2026 KC 11.12a). Việc phải làm trước chuyển: ngưng NSAID, điện tim, đường huyết, phiếu chuyển, báo nơi nhận, người nhà đi cùng, đi ô tô."
+ ],
+ "diem_nho": [
+  "THA ở người ≥ 80 tuổi: khởi trị khi ≥ 160/90 mmHg, đơn trị liều thấp, tăng liều chậm, tìm hạ HA tư thế (QĐ 5904 Phần 1 Bước 5 mục A.5, B.2; ESH 2023 mục 15.3).",
+  "NSAID giữ natri, giảm tác dụng thuốc hạ áp và gây tổn thương thận cấp, nhất là ở người ĐTĐ, cao tuổi (AHA/ACC 2025 Bảng 11, 17; ADA 2026 mục 11)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 2, 3A, 3B mục 1b–1c, Bước 4 mục A.1–A.4, B, Bước 5 mục A.2, A.5, B.2, C, D.1a); Phần 3 mục D.1, D.2, G; Phụ lục 3.2.",
+  "BYT – QĐ 5481/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị ĐTĐ típ 2 – TL-0031 – Phần 4 (Bảng 4, 5; mục 4.2 ý j); Phần 8 mục 1.2.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – bài Thoái hóa cột sống cổ (mục 3.1, 3.2, 4.1, 4.2.1–4.2.3, 6); bài Thoái hóa khớp gối mục 4.2.2; Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1.",
+  "BYT – QĐ 3931/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thận – tiết niệu – TL-0285 – bài Tổn thương thận cấp (mục 3, 4a, 4b); bài Suy thận cấp (mục 2, 3a).",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 Mất ngủ không thực tổn (mục 3.1.1, 4.1, 4.3).",
+  "VSH/VNHA 2024 – Chiến lược quản lý THA tại Việt Nam – TL-0288 – Bảng 4, Bảng 8, Bảng 9, Bảng 11; Đ1.2.1; Đ4.1; Hình 14.1.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – mục 7.2, 9.3, 10.1.1; Bảng khuyến cáo 15, 16, 18, 35.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – mục 5.4.1; 15.3 (bảng Treatment strategies in older persons, tr. 1965); 15.3.2; 16.2.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – Bảng 11; Bảng 17; mục 3.2.3.1; 6.2.",
+  "ADA Standards of Care 2026 – TL-0296 – KC 6.3a, 6.5; KC 10.4; KC 13.9 (tóm tắt thay đổi); mục 11 (KC 11.12a, 11.12b; mục Acute kidney injury; Hình 11.1).",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (benzodiazepin, nhóm Z); Bảng 6 (NSAID, độ thanh thải creatinin dưới 30 mL/ph).",
+  "AASM 2017, điều trị thuốc mất ngủ mạn – TL-0482 – KC 2, 4–6. ESRS 2023 European Insomnia Guideline – TL-0464 – mục 4.1.1, 4.2.1, Bảng 16."
+ ],
+ "phien_ban_ca": "1 – viết mới theo tài liệu đã tải (2026-11-19)",
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-19): viết mới. Tài liệu đã đọc: TL-0284 (Phần 1 Bước 2–5; Phần 3 D, G), TL-0031 (Phần 4, 8), TL-0286 (Thoái hóa cột sống cổ; Phụ lục NSAID), TL-0285 (Tổn thương thận cấp, Suy thận cấp), TL-0443 (Bài 27), TL-0288, TL-0305, TL-0312 (15.3), TL-0297 (Bảng 11, 17), TL-0296 (KC 10.4, mục 11), TL-0022 (Bảng 2, 6), TL-0482, TL-0464. Sổ mâu thuẫn đã áp dụng nguyên: MT-0750 số 3 và 4, MT-0042, MT-0166.",
+  "Thiếu trong tài liệu đã tải: hàm lượng NSAID bôi; xử trí cấp cứu tăng kali; chỉnh liều insulin theo eGFR; statin ở ≥ 80 tuổi; độ thanh thải 17 mL/ph tự tính; SBAR không từ tài liệu.",
+  "Âm thanh: AT-TIM-BT-NL-01, AT-PHOI-BT-NL-01 (tim 76 và 82 l/p). Không có ảnh da."
+ ]
+}

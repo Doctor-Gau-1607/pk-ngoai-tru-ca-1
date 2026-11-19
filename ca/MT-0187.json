@@ -1,0 +1,796 @@
+{
+ "ma_ca": "MT-0187",
+ "phien_ban_kho": "0.3",
+ "benh": "MT_tha_nguyen_phat",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Nhân viên ngân hàng (chuyên viên tín dụng cá nhân, ngồi bàn gần như cả ngày, chạy chỉ tiêu cuối quý)",
+  "yeu_to_khoi_phat": "Tự ngưng thuốc đang dùng (amlodipin 5 mg uống 6 tuần rồi tự bỏ, đã khoảng 4 tháng)",
+  "thuoc_dang_dung": "Statin đang dùng (atorvastatin 20 mg uống tối, đều đặn 2 năm)",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Quốc Hưng",
+  "tuoi": 47,
+  "gioi": "Nam",
+  "nghe": "Chuyên viên tín dụng cá nhân ở một chi nhánh ngân hàng, ngồi bàn 9–10 giờ mỗi ngày, cuối quý bị áp chỉ tiêu; tự lái ô tô đi làm",
+  "can_nang": 76,
+  "chieu_cao": 169,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lịch sự, cầu toàn, hay xin lỗi vì 'nói dài dòng', quen nói bằng con số và quy trình nhưng lo xa. Gọi huyết áp là 'huyết áp', biết vài thuật ngữ nhờ đọc báo mạng. Sợ làm sai hồ sơ tín dụng nên căng thẳng mỗi khi thiếu ngủ.",
+  "kieu_nhieu": "Kể lể lộn xộn: hỏi một câu thì trả lời kèm ba chuyện khác (chỉ tiêu quý, sếp mới, vụ va quẹt xe tuần trước, chuyện bảo hiểm). Thông tin quan trọng nằm lẫn trong chuyện phụ và không theo thứ tự thời gian. Bác sĩ phải ngắt lời lịch sự, tóm tắt lại và hỏi từng ý (từ lúc nào, bao nhiêu, mỗi tuần mấy lần) thì anh mới trả lời gọn và đủ.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d8a47f",
+   "toc": "#1c1714",
+   "kieuToc": "ngan",
+   "ao": "#4f6683",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mất ngủ, nặng đầu",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ hành chính (19 giờ 10 tối thứ Tư), kỹ thuật viên xét nghiệm và chẩn đoán hình ảnh đã về: phòng khám không làm được xét nghiệm máu, nước tiểu gửi phòng xét nghiệm, X-quang, siêu âm (kể cả creatinin, kali, mỡ máu, siêu âm tim). Mẫu lấy 7 giờ 30 sáng mai, kết quả máu sau khoảng 3 giờ. Còn dùng được: huyết áp kế, ống nghe, đèn soi đáy mắt, máy đo SpO₂, máy điện tim 12 chuyển đạo (điều dưỡng Linh làm), máy đo đường huyết mao mạch, que thử nước tiểu 10 thông số. Phòng khám không có máy đo huyết áp lưu động 24 giờ. Quyết định tối nay phải đưa ra trước khi có kết quả máu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 47 tuổi, chuyên viên tín dụng ngân hàng, đến phòng khám lúc 19 giờ 10 tối thứ Tư (ngoài giờ hành chính, kỹ thuật viên đã về) sau khi tan làm, tự lái xe, đi một mình. Anh nói mấy tuần nay ngủ không ngon, nặng đầu, mệt. Sinh hiệu lúc tiếp đón: HA 166/104 mmHg, mạch 84 l/p, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Anh Hưng bị đưa vào cấp cứu như cơn THA cấp cứu, trong khi HA 166/104 mmHg, không đau ngực, không dấu thần kinh, ECG không thiếu máu: chưa đủ tiêu chuẩn (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Anh mất cả đêm, có nguy cơ bị hạ áp nhanh không cần thiết, rồi ra về mà chưa có đơn điều trị lâu dài và chưa ai nói chuyện mất ngủ.",
+    "nhap_vien": "Anh Hưng nhập viện để hạ áp và làm xét nghiệm. HA 166/104 mmHg không có tổn thương cơ quan đích cấp thì không cần hạ áp nhanh (AHA/ACC 2025 mục 6.2) và khởi trị được ngoại trú (QĐ 5904 Phần 1 mục C.3). Anh vắng cơ quan đúng tuần chạy chỉ tiêu, nằm viện càng lo, vẫn mất ngủ, và lại coi thuốc huyết áp là chuyện phiền phức như lần trước.",
+    "chuyen_tuyen": "Anh Hưng bị gửi lên tuyến trên vì 'huyết áp cao kèm mất ngủ'. Anh 47 tuổi, không nghi THA thứ phát, không biến chứng nên không thuộc tiêu chí chuyển tuyến (QĐ 5904 Phần 1 Bước 4 mục A). Chuyển tuyến làm anh mất ngày công, chậm khởi thuốc, dễ bỏ dở như lần trước.",
+    "theo_doi": "Anh Hưng được dặn 'về nghỉ ngơi, bớt căng thẳng rồi đo lại', không kê thuốc. HA 166/104 mmHg ở người đã được chẩn đoán THA cần khởi trị sớm (QĐ 5904 Phần 1 Bước 5 mục A.5; ESC 2024 Bảng khuyến cáo 17, I, A). Anh vẫn cà phê, nước tăng lực, bia, không đo HA; nguy cơ đột quỵ tích lũy, trong khi bố anh mất vì đột quỵ lúc 62 tuổi."
+   },
+   "loi_mo": "Chào bác sĩ, xin lỗi tôi đến hơi trễ, chiều nay họp giao ban chỉ tiêu quý kéo dài, mà sếp mới bên tín dụng lại đổi mẫu hồ sơ liên tục... à thôi. Chuyện là dạo này tôi ngủ không được, nằm hoài không vô giấc, sáng dậy nặng đầu. Chắc do công việc thôi bác sĩ. Hôm bữa tôi còn va quẹt cái xe nữa, may không sao, đi bảo hiểm cũng mệt...",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "166/104",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mất ngủ khoảng 6 tuần nay, sáng dậy nặng đầu vùng gáy, mệt. Cho rằng do công việc, muốn ngủ ngon lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "dac_diem_ngu",
+     "noi_dung": "Lên giường khoảng 23 giờ, nằm 1–1,5 giờ mới ngủ, tỉnh khoảng 3 giờ sáng rồi chập chờn đến 6 giờ. Ngủ chừng 4–5 giờ, 5–6 đêm mỗi tuần, khoảng 6 tuần. Ban ngày mệt nhưng không ngủ gật. Nằm là nghĩ chuyện hồ sơ tín dụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm mất ngủ: kiểu, số đêm mỗi tuần, thời gian"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Thật ra anh đến để xin thuốc ngủ: đồng nghiệp kể uống một viên là ngủ tới sáng. Sợ thiếu ngủ thì duyệt nhầm hồ sơ. Chưa từng dùng thuốc ngủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi hôm nay anh mong muốn gì, đã thử cách gì để ngủ, hay hỏi về thuốc ngủ. Hỏi chung chung thì nói 'tôi muốn khám tổng quát xem sao'.",
+     "k": 1,
+     "y": "Lý do thật: muốn thuốc ngủ"
+    },
+    {
+     "id": "cafe_tang_luc",
+     "noi_dung": "Cà phê sữa 3 ly mỗi ngày, ly cuối khoảng 16 giờ. Bốn tuần nay thêm một lon nước tăng lực mỗi chiều 15–16 giờ cho đỡ buồn ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chất kích thích"
+    },
+    {
+     "id": "ruou_bia",
+     "noi_dung": "Tiếp khách 2–3 buổi mỗi tuần, mỗi buổi 3–4 lon bia; cuối tuần ở nhà 1–2 lon cho dễ ngủ. Tổng khoảng 10–12 lon mỗi tuần. Không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu bia, thuốc lá"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Tháng 3 khám sức khỏe cơ quan: HA 156/96, tuần sau đo lại 150/94; bác sĩ cơ quan nói 'cao huyết áp', cho amlodipin 5 mg uống sáng. Uống 6 tuần thấy khỏe, đo 134/84, nghe đồng nghiệp bảo uống thuốc huyết áp là 'phụ thuộc suốt đời' nên tự ngưng, không tái khám. Đã ngưng khoảng 4 tháng, không đo HA lại. Đường huyết đói tháng 3: 5,4 mmol/L.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử THA, thuốc đã dùng, vì sao ngưng"
+    },
+    {
+     "id": "trieu_chung_cap",
+     "noi_dung": "Nặng đầu vùng gáy chủ yếu buổi sáng, không dữ dội, không nôn, không nhìn mờ, không chóng mặt quay, không tê yếu tay chân, không méo miệng, không nói khó. Không đau ngực, không khó thở khi gắng sức, không phù chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc tổn thương cơ quan đích cấp"
+    },
+    {
+     "id": "ngay_ngung_tho",
+     "noi_dung": "Vợ nói thỉnh thoảng anh ngáy, nhất là hôm uống bia hoặc mệt, không thấy ngưng thở. Ban ngày không ngủ gật khi họp hay lái xe. Đêm dậy tiểu 1 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ngưng thở khi ngủ"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Không cơn đau đầu kèm vã mồ hôi, hồi hộp; không yếu cơ, chuột rút; không tăng cân nhanh, mặt tròn. Không dùng thuốc cảm, giảm đau, thuốc nam, cam thảo, thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Gợi ý THA thứ phát, thuốc và chất làm tăng HA"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Atorvastatin 20 mg uống tối, đều 2 năm nay vì mỡ máu cao; không đau cơ, không ngưng. Không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "tam_than",
+     "noi_dung": "Lo lắng nhiều về chỉ tiêu, nằm là nghĩ chuyện công việc. Vẫn vui khi chơi với con, ăn uống được, không buồn chán kéo dài, không mất hứng thú, không ý nghĩ tự hại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lo âu, trầm cảm, ý nghĩ tự hại"
+    },
+    {
+     "id": "gia_dinh_an_uong",
+     "noi_dung": "Bố mất vì đột quỵ lúc 62 tuổi; mẹ bị huyết áp cao, đang uống thuốc ở quê. Anh ăn trưa cơm tiệm, tối ăn muộn sau 20 giờ, nêm mặn, ít rau; ngồi bàn 9–10 giờ, không tập thể dục; một năm tăng khoảng 4 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình, muối, vận động, cân nặng"
+    },
+    {
+     "id": "lai_xe",
+     "noi_dung": "Lái ô tô đi làm lúc 7 giờ sáng và lái về buổi tối; tối nay cũng tự lái đến.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lái xe: ảnh hưởng đến chọn thuốc ngủ"
+    },
+    {
+     "id": "va_quet",
+     "noi_dung": "Tuần trước lùi xe va quẹt nhẹ vào cột, không ai bị thương, không đập đầu, không đau đầu sau đó. Kể rất dài chuyện giấy tờ bảo hiểm; còn than mắt khô, mỏi lưng vì ngồi bàn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Nghỉ ngồi 5 phút, không nói chuyện: tay phải 164/102, tay trái 162/100 mmHg (lúc tiếp đón 166/104). Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, quầng thâm dưới mắt, nói nhanh và hay chen chuyện công việc. Cao 169 cm, nặng 76 kg, BMI 26,6 kg/m². Vòng eo 92 cm. Không mặt tròn, không rạn da tím.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3, T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 84 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 16 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, cảnh, bẹn, mu chân đều hai bên. Không âm thổi động mạch cảnh, không âm thổi cạnh rốn.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt. Không liệt khu trú, không rối loạn cảm giác.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tiếp xúc tốt, nói nhiều và nhanh, hơi lo lắng; khí sắc không u uất, tư duy mạch lạc nhưng hay lan sang chuyện khác, không ý tưởng tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Điều dưỡng Linh: nhịp xoang đều 84 l/p, trục bình thường. Sokolow-Lyon (SV1 + RV5) 29 mm; sóng T bình thường, không ST chênh, không sóng Q.",
+     "n": "Làm được ngay tối nay, nằm trong bộ ban đầu (QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8). Dày thất trái khi Sokolow-Lyon > 35 mm (VSH/VNHA 2024 Bảng 11); ECG nhạy chỉ khoảng 40–50% (ESH 2023 mục 5.4.1)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "5,4 mmol/L (ngẫu nhiên, bữa trưa lúc 12 giờ).",
+     "n": "Glucose mao mạch không đủ chẩn đoán đái tháo đường (QĐ 5904 Phần 3 Bước 3); glucose đói làm sáng mai."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Lấy máu 7 giờ 30 sáng mai, kết quả sau khoảng 3 giờ.",
+     "thay_the": "ecg",
+     "n": "Creatinin, kali cần trước khi dùng ức chế men chuyển (QĐ 5904 Phần 3 mục G) và thuộc bộ ban đầu (ESC 2024 Bảng 8). Tối nay không có: amlodipin dùng được ngay, thuốc nhóm A thêm khi có kết quả."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Lấy máu 7 giờ 30 sáng mai, kết quả sau khoảng 3 giờ.",
+     "thay_the": "ecg",
+     "n": "Kali nền trước ức chế men chuyển (QĐ 5904 Phần 3 mục G)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Lấy máu 7 giờ 30 sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Đang dùng statin; để biết đáp ứng (ESC 2024 Bảng 8)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "Tối nay không làm được (kỹ thuật viên đã về). Lấy máu 7 giờ 30 sáng mai, kết quả sau khoảng 3 giờ.",
+     "n": "Dấu tổn thương cơ quan đích (VSH/VNHA 2024 Bảng 11); không đổi xử trí tối nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2 (đã chẩn đoán, tự ngưng amlodipin 4 tháng), chưa kiểm soát, chưa thấy tổn thương cơ quan đích",
+     "ok": 1,
+     "n": "HA 162–166/100–104 mmHg nhiều lần, hai tay: độ 2 là 160–179 và/hoặc 100–109 (QĐ 5904 Phần 1 Bước 3 mục A). Đã có hai lần đo cao ở cơ quan. Vượt cả ngưỡng 140/90 (QĐ 5904; VSH/VNHA 2024 Đ1.1; ESC 2024 Bảng 5) lẫn 130/80 (AHA/ACC 2025 mục 2.1). ECG không dày thất, que thử nước tiểu không protein."
+    },
+    {
+     "t": "Mất ngủ ngắn hạn (khoảng 6 tuần) liên quan căng thẳng, cà phê, nước tăng lực, bia và HA cao",
+     "ok": 1,
+     "n": "Chưa đủ 3 tháng của mất ngủ mạn (ESRS 2023 Bảng 2); đủ 1 tháng theo ICD-10 trong QĐ 2058/2020 Bài 27 mục 3.1.1 nhưng mục này loại trừ nguyên nhân do chất hoặc bệnh nội khoa. Có yếu tố thúc đẩy (ESRS 2023 Bảng 4, 5)."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Không có chỉ điểm (VSH/VNHA 2024 Bảng 9; QĐ 5904 Phần 1 Bước 4 mục A.1): 47 tuổi, từng đáp ứng amlodipin, không cơn vã mồ hôi, không yếu cơ, không âm thổi bụng; kali chờ sáng mai. Nghĩ lại nếu kháng trị hoặc hạ kali."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA 166/104 < 180/110, không đau ngực, không dấu thần kinh, ECG không thiếu máu (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "Hội chứng ngưng thở khi ngủ tắc nghẽn",
+     "n": "Ngáy nhẹ, không ngưng thở chứng kiến, không buồn ngủ ban ngày, cổ 39 cm, Mallampati II (ESC 2024 mục 7.6.4). Hỏi lại nếu HA kháng trị."
+    },
+    {
+     "t": "Tăng huyết áp áo choàng trắng hoặc HA tăng nhất thời do cà phê, nước tăng lực, thiếu ngủ",
+     "n": "Đã có hai lần đo cao ở cơ quan và nhiều lần đo hôm nay sau nghỉ 5 phút; vẫn cần HA tại nhà (VSH/VNHA 2024 Hình 10, Đ1.2.2); nước tăng lực làm tăng HA (ESC 2024 mục 8.2.4)."
+    },
+    {
+     "t": "Rối loạn lo âu hoặc trầm cảm gây mất ngủ",
+     "n": "Lo lắng gắn với công việc, vẫn vui, ăn uống được, không ý nghĩ tự hại; theo dõi nếu kéo dài (ESRS 2023 Bảng 5; QĐ 2058/2020 Bài 27 mục 3.1.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Dùng thuốc hạ áp ngay: phối hợp đôi liều thấp amlodipin 5 mg + perindopril 5 mg HOẶC bắt đầu amlodipin 5 mg tối nay và thêm perindopril 5 mg sáng mai khi creatinin, kali bình thường",
+     "v": "c",
+     "n": "Cách A: QĐ 5904 Phần 1 mục C.3 (THA độ 2 bắt đầu từ phối hợp C + A), sơ đồ mục C; VSH/VNHA 2024 Bảng 4 (I, A); ESC 2024 Bảng khuyến cáo 16 (I, B), 17 (I, A). Cách B: QĐ 5904 Phần 3 mục G (nên kiểm tra creatinin, kali trước khi dùng ức chế men chuyển; tối nay chưa có), amlodipin không cần xét nghiệm (sổ mâu thuẫn, MT-0166). Hai cách đều đúng."
+    },
+    {
+     "t": "Lấy máu 7 giờ 30 sáng mai: creatinin, eGFR, kali, natri, glucose đói, mỡ máu, UACR; nhận kết quả trong ngày",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8 và Bảng khuyến cáo 8 (I, A); VSH/VNHA 2024 Đ2.2, Bảng 10."
+    },
+    {
+     "t": "Hỏi ra lý do thật (muốn thuốc ngủ), nói rõ vì sao chưa kê tối nay và thay bằng xử trí nguyên nhân, hẹn tái khám",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 Bước 1 mục 2: hỏi 'mong muốn gì'. Anh lái xe hằng ngày (ESRS 2023 mục 4.2.1: thuốc ngủ ảnh hưởng lái xe hôm sau)."
+    },
+    {
+     "t": "Mất ngủ: chưa kê thuốc ngủ, vệ sinh giấc ngủ kèm thành phần CBT-I (giờ thức dậy cố định, chỉ lên giường khi buồn ngủ, thư giãn), nhật ký giấc ngủ 1–2 tuần; HOẶC nếu cần thì thuốc ngủ ngắn hạn tối đa 4 tuần sau khi cùng quyết định",
+     "v": "c",
+     "n": "Cách A: ESRS 2023 Hình 1, Bảng 16 (CBT-I đầu tay, thuốc ≤ 4 tuần khi CBT-I chưa đủ), mục 3.2 (nhật ký 7–14 ngày); AASM 2021 khuyến cáo 1, 3, 6. Cách B: QĐ 2058/2020 Bài 27 mục 4.1, 4.3 (tâm lý kết hợp thuốc, khởi liều thấp, hạn chế nhóm gây nghiện); AASM 2017 khuyến cáo 2, 4, 5, 6. Xem sổ mâu thuẫn mục TT-0161."
+    },
+    {
+     "t": "Ngưng nước tăng lực, không cà phê buổi chiều tối, giảm bia và không dùng bia để ngủ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3; ESC 2024 mục 8.2.4 (nước tăng lực làm tăng HA; cà phê nói chung không tăng nguy cơ THA); AHA/ACC 2025 Bảng 11 (caffeine < 300 mg/ngày). Bia: QĐ 5904 Phần 1 mục D.1c (nam ≤ 2 cốc/ngày, ≤ 10 cốc/tuần); ESC 2024 Bảng khuyến cáo 15 (I, B). Anh uống 10–12 lon/tuần."
+    },
+    {
+     "t": "Giải thích tác hại của tự ngưng thuốc và mục tiêu HA dưới 130/80 mmHg trong 1–3 tháng",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục D.2 (không tự bỏ thuốc), mục A.2–A.3; VSH/VNHA 2024 Bảng 4 (dưới 130/80, I, A; duy trì suốt đời, I, A); ESC 2024 Bảng khuyến cáo 17."
+    },
+    {
+     "t": "Dặn: có tác dụng phụ hay triệu chứng lạ sau thuốc mới thì báo ngay, không tự ngưng; đau ngực, đau đầu dữ dội, nhìn mờ, yếu liệt, nói khó thì đi cấp cứu",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục C (sơ đồ): có tác dụng phụ thì không đợi 4 tuần mà liên hệ ngay; dấu hiệu nặng ở Phần 3 mục D.1."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–4 tuần; hướng dẫn đo HA tại nhà (máy bắp tay, sáng và tối, 3–7 ngày trước tái khám); theo dõi creatinin, kali 2–4 tuần sau khi dùng ức chế men chuyển",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ4.1; QĐ 5904 Phần 1 mục C (tái khám sau 4 tuần); AHA/ACC 2025 mục 5.2.8. Đo HA tại nhà: VSH/VNHA 2024 Đ1.2.1–Đ1.2.2; ESC 2024 Bảng khuyến cáo 35."
+    },
+    {
+     "t": "Giảm muối dưới 5 g mỗi ngày, ăn nhiều rau, giảm cân, tập thể dục ít nhất 150 phút mỗi tuần; tiếp tục atorvastatin 20 mg buổi tối",
+     "v": "c",
+     "n": "QĐ 5904 Phụ lục 3.2, Phần 1 mục D.1; ESC 2024 Bảng khuyến cáo 15 (I, A). Vòng eo 92 cm: vượt ngưỡng < 90 cm của QĐ 5904 Phần 1 mục D.1b, dưới ngưỡng < 94 cm của ESC 2024 (sổ mâu thuẫn, MT-0181)."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z (diazepam, zolpidem…) hằng đêm không giới hạn, hoặc dặn dùng cùng bia, khi anh lái xe hằng ngày và nguyên nhân chưa xử trí",
+     "v": "w",
+     "n": "ESRS 2023 mục 4.2.1 (dung nạp, phụ thuộc, giảm tỉnh táo khi lái xe hôm sau), Bảng 16 (≤ 4 tuần); QĐ 2058/2020 Bài 27 mục 4.1. Kết hợp với bia: tài liệu không nêu riêng, suy luận từ cảnh báo trên (sổ mâu thuẫn, HH-1388)."
+    },
+    {
+     "t": "Dùng chẹn beta (atenolol, bisoprolol) làm thuốc đầu tay",
+     "v": "w",
+     "n": "Chỉ khi có chỉ định bắt buộc (VSH/VNHA 2024 Hình 14.1; ESC 2024 Bảng khuyến cáo 16, I, A); QĐ 5904 Phần 3 mục G."
+    },
+    {
+     "t": "Cho ngậm nifedipin tác dụng nhanh để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh vì hạ HA mạnh, khó kiểm soát; ESH 2023 mục 16.2."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện để hạ huyết áp",
+     "v": "w",
+     "n": "Không đủ tiêu chuẩn (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2, HA 162–166/100–104 mmHg, đã chẩn đoán tháng 3, chưa kiểm soát do tự ngưng amlodipin khoảng 4 tháng",
+     "Chưa thấy tổn thương cơ quan đích (ECG không dày thất, que thử nước tiểu không protein; creatinin, kali, UACR chờ sáng mai)",
+     "Yếu tố nguy cơ kèm: mỡ máu cao đang dùng statin, BMI 26,6, vòng eo 92 cm, bia 10–12 lon/tuần, ăn mặn, ít vận động, bố mất vì đột quỵ lúc 62 tuổi",
+     "Mất ngủ ngắn hạn khoảng 6 tuần do căng thẳng, cà phê, nước tăng lực, bia và HA cao",
+     "Không phải cơn THA cấp cứu; chưa có chỉ điểm THA thứ phát hay ngưng thở khi ngủ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám và đặc điểm mất ngủ; tiền sử THA và vì sao ngưng thuốc; triệu chứng cơ quan đích; cà phê, nước tăng lực, bia, thuốc; ngáy; lo âu, trầm cảm; gia đình; anh mong muốn gì (QĐ 5904 Phần 1 Bước 1, Phần 3 Bước 1 mục 2; VSH/VNHA 2024 Bảng 9). Anh kể lộn xộn nên phải ngắt lời, tóm tắt, hỏi từng ý.",
+     "Khám và CLS: đo HA đúng quy trình, hai tay, lặp lại (QĐ 5904 Phụ lục 1.1); BMI, vòng eo; tim, phổi, mạch, thần kinh, đáy mắt. Tối nay làm được ECG, que thử nước tiểu, đường huyết mao mạch; máu để sáng mai (QĐ 5904 Phần 1 Bước 2; ESC 2024 Bảng 8).",
+     "Vì sao là THA độ 2 chưa kiểm soát: hai lần đo cao ở cơ quan (156/96, 150/94), nay 162–166/100–104; độ 2 là 160–179 và/hoặc 100–109 (QĐ 5904 Phần 1 Bước 3 mục A). Ngưỡng 140/90 (QĐ 5904; VSH/VNHA 2024 Đ1.1; ESC 2024 Bảng 5) hay 130/80 (AHA/ACC 2025 mục 2.1) đều đã vượt nên không phải bàn.",
+     "Vì sao không phải cấp cứu: cần HA ≥ 180/110 kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1); QĐ 5904 Phần 3 mục D.1 thêm ≥ 200/120. Anh 166/104, thần kinh bình thường. Vì sao chưa nghĩ thứ phát: không có chỉ điểm ở VSH/VNHA 2024 Bảng 9; ngưng thở khi ngủ chưa gợi ý (ESC 2024 mục 7.6.4).",
+     "Yếu tố làm HA và giấc ngủ xấu: nước tăng lực làm tăng HA (ESC 2024 mục 8.2.4); cà phê nói chung không làm tăng nguy cơ mắc THA (ESC 2024) nhưng nên tránh buổi tối (QĐ 2058/2020 Bài 27 mục 4.3) và dưới 300 mg/ngày (AHA/ACC 2025 Bảng 11): hai ý không trái nhau.",
+     "Mất ngủ khoảng 6 tuần: chưa đủ 3 tháng của mất ngủ mạn (ESRS 2023 Bảng 2), đủ 1 tháng theo ICD-10 (QĐ 2058/2020 Bài 27 mục 3.1.1); ESRS 2023 mục 4.4 không có khuyến cáo cho mất ngủ cấp. Tìm và xử trí nguyên nhân trước.",
+     "Lý do thật là xin thuốc ngủ: chỉ lộ khi hỏi 'anh mong muốn gì hôm nay'. Không hỏi thì anh về thất vọng, có thể tự mua thuốc ngủ và bỏ qua việc huyết áp."
+    ],
+    "phan_tich_xu_tri": [
+     "Dùng thuốc ngay, phối hợp đôi: THA độ 2 bắt đầu từ bước 2, C + A (QĐ 5904 Phần 1 mục C.3); VSH/VNHA 2024 Bảng 4 (I, A); ESC 2024 Bảng khuyến cáo 16 (I, B). Chẹn beta chỉ khi có chỉ định bắt buộc (VSH/VNHA 2024 Hình 14.1).",
+     "Quyết định trước khi có xét nghiệm: kê cả hai thuốc ngay (ESC 2024, VSH/VNHA 2024, QĐ 5904 sơ đồ mục C) hoặc amlodipin trước, thêm perindopril sáng mai khi creatinin, kali bình thường theo lời dặn QĐ 5904 Phần 3 mục G. Cách thứ hai thận trọng hơn; không nguồn nào nói cách nào gây hại.",
+     "Mục tiêu: tâm thu 120 đến dưới 130, tâm trương 70 đến dưới 80 mmHg trong 1–3 tháng (QĐ 5904 Phần 1 mục A.2–A.3); VSH/VNHA 2024 Bảng 4: dưới 130/80. Ghi sổ HA tại nhà (VSH/VNHA 2024 Đ1.2.2; ESC 2024 Bảng khuyến cáo 35).",
+     "Thuốc ngủ: không kê tối nay. Cách A (ESRS 2023 Hình 1, Bảng 16; AASM 2021 khuyến cáo 1): xử trí chất kích thích, căng thẳng, CBT-I trước; thuốc ≤ 4 tuần khi CBT-I chưa đủ. Cách B (QĐ 2058/2020 Bài 27 mục 4.1, 4.3; AASM 2017 khuyến cáo 2, 4, 5, 6): có thể dùng thuốc kết hợp liệu pháp tâm lý, hạn chế lạm dụng nhóm gây nghiện. BYT 2020 và AASM 2017 viết cho mất ngủ nói chung, ESRS 2023 đặt thứ tự và giới hạn thời gian. Kê hằng đêm không thời hạn cho người lái xe, còn uống bia là sai (ESRS 2023 mục 4.2.1).",
+     "Giáo dục: tự ngưng thuốc là lý do HA lên lại (QĐ 5904 Phần 1 mục D.2); nếu có tác dụng phụ thì báo ngay để đổi thuốc, không tự ngưng (sơ đồ mục C). Giữ atorvastatin 20 mg (ESH 2023 mục 11.10.11.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu tối nay; sau đó mỗi sáng cùng một giờ",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Uống giờ thuận tiện để thành thói quen (ESC 2024 Bảng khuyến cáo 16, I, B)."
+     },
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Từ sáng mai, sau khi điều dưỡng báo creatinin, kali bình thường; cùng giờ với amlodipin (cách A: từ tối nay)",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; nên kiểm tra creatinin, kali trước khi dùng; chống chỉ định: có thai, tiền sử phù mạch với thuốc cùng nhóm (QĐ 5904 Phần 3 mục G). Tác dụng phụ còn lại xem bảng ở mục G; dặn báo ngay khi có triệu chứng mới."
+     },
+     {
+      "thuoc": "Atorvastatin (thuốc đang dùng)",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối như hiện nay",
+      "so_ngay": "Tiếp tục, không tự ngưng",
+      "ghi_chu": "Giữ nguyên liều đang dùng; QĐ 5904 Phần 3 mục G: khởi đầu 10 mg, tối đa 80 mg; ESH 2023 mục 11.10.11.1 (I, A)."
+     },
+     {
+      "thuoc": "Thuốc ngủ (benzodiazepin, nhóm Z)",
+      "ham_luong": "Không kê",
+      "lieu": "Không kê tối nay",
+      "duong": "Không có",
+      "thoi_diem": "Không có",
+      "so_ngay": "Không có",
+      "ghi_chu": "Cách A (ESRS 2023 Bảng 16, Hình 1): CBT-I trước, thuốc ≤ 4 tuần khi CBT-I chưa đủ. Cách B (QĐ 2058/2020 Bài 27 mục 4.3) liệt kê thuốc không đặt thời hạn. Chọn không kê nên không nêu liều."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc huyết áp mỗi ngày một giờ cố định kể cả khi thấy khỏe; tự ngưng là lý do HA lên lại (QĐ 5904 Phần 1 mục D.2; VSH/VNHA 2024 Bảng 4: duy trì suốt đời, I, A).",
+     "Sau khi uống thuốc mới mà có triệu chứng lạ thì báo ngay phòng khám để đổi thuốc, không tự ngưng, không chờ đến lần hẹn (QĐ 5904 Phần 1 mục C, sơ đồ).",
+     "Đo HA tại nhà: nghỉ 5 phút, không cà phê, thuốc lá, gắng sức 30 phút trước đo; sáng và tối, mỗi lần 2 lần cách 1–2 phút, 3–7 ngày trước tái khám, ghi sổ (VSH/VNHA 2024 Đ1.2.1–Đ1.2.2).",
+     "Bỏ nước tăng lực, không cà phê chiều tối, giảm bia, không dùng bia để ngủ; giờ thức dậy cố định, chỉ lên giường khi buồn ngủ, thư giãn trước khi ngủ, ghi nhật ký giấc ngủ 1–2 tuần (QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 mục 3.2).",
+     "Giảm muối dưới 5 g/ngày, tập thể dục ≥ 150 phút/tuần (QĐ 5904 Phần 1 mục D.1; ESC 2024 Bảng khuyến cáo 15). Đau ngực, đau đầu dữ dội, nhìn mờ, yếu liệt, nói khó: đi cấp cứu ngay (QĐ 5904 Phần 3 mục D.1). Lấy máu 7 giờ 30 sáng mai."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Bốn tuần sau, 19 giờ 05 tối thứ Tư (vẫn ngoài giờ hành chính), anh Hưng tái khám một mình, mang sổ đo HA tại nhà và phiếu xét nghiệm lấy sáng hôm sau lượt 1. Anh nói uống thuốc đều, HA ở nhà giảm, nhưng khoảng hai tuần nay ho khan, ngứa họng, về đêm ho nhiều nên ngủ lại không ngon. Sinh hiệu lúc tiếp đón: HA 134/84 mmHg, mạch 78 l/p, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Hưng được gửi lên bệnh viện tuyến trên để khám hô hấp, chụp X-quang và CT ngực vì ho khan hơn 10 ngày. Anh ho khan, không sốt, không đờm, phổi sạch, mới thêm một thuốc ức chế men chuyển nên nghi trước hết là tác dụng phụ của thuốc đó, đổi thuốc ngay ở phòng khám là đủ (QĐ 5904 Phần 3 mục G; ESH 2023 mục 11.1.1). Anh tốn một ngày công, chịu thêm xét nghiệm không cần thiết, và trong lúc chờ vẫn uống thuốc gây ho nên đêm vẫn không ngủ.",
+    "theo_doi": "Anh Hưng được dặn 'ho hay là do thời tiết, uống thêm siro ho rồi theo dõi', vẫn giữ perindopril. Ho do ức chế men chuyển thường không tự hết khi còn dùng thuốc; sơ đồ QĐ 5904 Phần 1 mục C dặn có tác dụng phụ thì không đợi 4 tuần mà đổi thuốc ngay. Ho đêm kéo dài làm anh mất ngủ lại, anh vốn đã tin 'thuốc huyết áp có hại' nên dễ tự ngưng hết thuốc lần nữa, HA tăng lại và nguy cơ đột quỵ quay về.",
+    "nhap_vien": "Anh Hưng nhập viện để làm xét nghiệm tìm nguyên nhân ho. Ho khan 12 ngày, không sốt, SpO₂ 98%, không khó thở, không phù mạch thì không có chỉ định nhập viện; chi phí và nghỉ việc ngay sau tuần chạy chỉ tiêu làm anh thêm lo, mất ngủ nặng hơn trong khi nguyên nhân dễ xử trí tại phòng khám."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi uống thuốc đều lắm, tối nào cũng ghi sổ huyết áp, bác sĩ xem. Mà hai tuần nay tôi ho khan hoài, ngứa họng, nằm xuống là ho, nên ngủ lại không được. Hôm cuối tuần tôi đi công tác Đà Lạt với bên chi nhánh, trời lạnh, chắc tôi cảm. Mà thôi, khoản này sếp bảo... à, bác sĩ cho tôi xin cái gì để ngủ với ho được không?",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "134/84",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn. Uống thuốc đều, HA ở nhà giảm. Hai tuần nay ho khan, ngứa họng, đêm ho nhiều nên ngủ lại không ngon.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám và triệu chứng mới"
+    },
+    {
+     "id": "ho_chi_tiet",
+     "noi_dung": "Ho khan từng cơn, ngứa rát cổ họng, bắt đầu khoảng 12 ngày trước (khoảng 2 tuần sau khi thêm perindopril), tăng dần. Không đờm, không sốt, không khò khè, không khó thở, không đau ngực, không ho ra máu, không sụt cân, không đổ mồ hôi đêm. Ho nhiều hơn khi nằm và lúc ngủ. Không sổ mũi, không ợ nóng, không tiền sử hen hay dị ứng, không hút thuốc; trước perindopril chưa từng ho kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm ho và thời gian so với lúc dùng thuốc mới"
+    },
+    {
+     "id": "phu_mach",
+     "noi_dung": "Không sưng môi, lưỡi, mặt, không khàn tiếng đột ngột, không khó nuốt, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ phù mạch do ức chế men chuyển"
+    },
+    {
+     "id": "thuoc_dang_dung",
+     "noi_dung": "Amlodipin 5 mg và perindopril 5 mg mỗi sáng, quên 2 lần trong 4 tuần; atorvastatin 20 mg buổi tối. Perindopril bắt đầu từ sáng hôm sau lượt 1 sau khi phòng khám báo kết quả máu bình thường. Không dùng thuốc cảm, giảm đau hay thuốc nam. Mua một chai siro ho thảo dược ở nhà thuốc, uống 3 hôm không đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, ngày bắt đầu, thuốc tự mua"
+    },
+    {
+     "id": "ha_nha",
+     "noi_dung": "Sổ HA tại nhà (máy bắp tay, 7 ngày gần nhất, đo sáng và tối): trung bình khoảng 132/82 mmHg, thấp nhất 126/78, cao nhất 140/88. Tuần đầu sau lượt 1 còn khoảng 150/94.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA tại nhà (đáp ứng điều trị)"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Hai tuần đầu sau lượt 1 ngủ đỡ hẳn: bỏ nước tăng lực, chỉ uống một ly cà phê buổi sáng, bia còn 1–2 lon mỗi tuần, tắt máy tính lúc 22 giờ, ngủ khoảng 6 giờ mỗi đêm. Từ khi ho về đêm lại thức giấc 2–3 lần, ngủ chỉ 4–5 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến mất ngủ và các thay đổi lối sống"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Anh hy vọng bác sĩ cho thuốc ngủ lần này vì 'ho thế này làm sao ngủ'. Chưa từng uống thuốc ngủ, hơi lo thuốc gây nghiện nên lưỡng lự.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói thêm khi bác sĩ hỏi anh mong muốn gì từ buổi khám hôm nay, hoặc hỏi về giấc ngủ và thuốc ngủ. Chưa hỏi thì chỉ than 'ho làm tôi không ngủ được'.",
+     "k": 1,
+     "y": "Lý do thật vẫn là muốn thuốc ngủ"
+    },
+    {
+     "id": "y_dinh_ngung_thuoc",
+     "noi_dung": "Đã nghĩ đến chuyện ngưng hết thuốc huyết áp để xem ho có hết không, vì đọc trên mạng thuốc huyết áp có thể gây ho; chưa ngưng vì sợ lần trước.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh nghĩ ho do đâu, anh có định tự ngưng thuốc không, hoặc có đọc gì về thuốc đang dùng.",
+     "k": 1,
+     "y": "Ý định tự ngưng thuốc lần nữa"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Nghỉ ngồi 5 phút: tay phải 134/84, tay trái 132/82 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, ít nói chuyện phụ hơn lần trước. Cân nặng 75 kg, vòng eo 91 cm. Không phù mặt, không phù môi, lưỡi.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to, thành sau họng không có dịch nhầy chảy xuống. Mũi không nghẹt, niêm mạc hồng. Tai bình thường. Môi, lưỡi, mặt không phù.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 78 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran ẩm, ran rít hay ran ngáy. Nhịp thở 16 l/p. Ho khan vài tiếng khi hít sâu.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù mắt cá, không phù cẳng chân.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Điều dưỡng Linh: nhịp xoang đều 76 l/p. Sokolow-Lyon 28 mm, không ST-T bất thường, không rung nhĩ.",
+     "n": "Bình thường, cùng khám tim phổi không gợi ý suy tim là nguyên nhân ho (ESC 2024 mục 7.4.3.2)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Phiếu sáng hôm sau lượt 1: ure 5,0 · creatinin 88 µmol/L · eGFR 94 mL/ph/1,73m². Tối nay không làm lại được.",
+     "bang": {
+      "ure": 5.0,
+      "creat": 88,
+      "egfr": 94
+     },
+     "n": "Kết quả nền trước khi dùng ức chế men chuyển; làm lại 2–4 tuần sau khi bắt đầu ức chế men chuyển hoặc chẹn thụ thể (AHA/ACC 2025 mục 5.2.8)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Phiếu sáng hôm sau lượt 1: Na 140 · K 4,1 · Cl 103 mmol/L.",
+     "bang": {
+      "na": 140,
+      "k": 4.1,
+      "cl": 103
+     },
+     "n": "Kali nền 4,1 mmol/L: an toàn để dùng ức chế men chuyển lúc đó."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tối nay không chụp được (kỹ thuật viên đã về). Có thể hẹn chụp sáng mai.",
+     "n": "Không bắt buộc: ho 12 ngày, không sốt, không đờm, phổi sạch. Mốc nghi lao là ho trên 2 tuần (QĐ 162/2024 Phần II mục 1.1a Bảng 1): nếu ho còn sau khi đổi thuốc thì chụp (ERS 2019, mục Initial assessment)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2, đáp ứng một phần sau 4 tuần phối hợp amlodipin + perindopril, kèm ho khan do perindopril (tác dụng không mong muốn của ức chế men chuyển)",
+     "ok": 1,
+     "n": "HA phòng khám 134/84, tại nhà khoảng 132/82 (giảm từ 166/104), vượt mục tiêu dưới 130/80 chưa đến 5 mmHg thì duy trì phác đồ (VSH/VNHA 2024 Bảng 4; QĐ 5904 Phần 1 mục C). Ho khan khởi phát khoảng 2 tuần sau khi thêm perindopril, không sốt, không đờm, phổi sạch, không bệnh hô hấp trước đó; ho là tác dụng phụ của ức chế men chuyển (QĐ 5904 Phần 3 mục G; ESH 2023 mục 11.1.1; ERS 2019 mục Iatrogenic cough)."
+    },
+    {
+     "t": "Mất ngủ thứ phát do ho về đêm (đã cải thiện khi bỏ nước tăng lực, giảm cà phê và bia)",
+     "ok": 1,
+     "n": "Ngủ khoảng 6 giờ khi đổi lối sống, tái phát khi ho tăng về đêm; xử trí nguyên nhân (ho) trước khi bàn thuốc ngủ (ESRS 2023 Hình 1, Bảng 16)."
+    },
+    {
+     "t": "Viêm đường hô hấp trên, viêm phế quản hoặc viêm phổi",
+     "n": "Không sốt, không đờm, SpO₂ 98%, phổi không ran, họng không đỏ; ho cấp do viêm phế quản thường không cần kháng sinh (CHEST 2020, khuyến cáo 3)."
+    },
+    {
+     "t": "Ho do hen, trào ngược dạ dày – thực quản hoặc hội chứng ho do đường hô hấp trên",
+     "n": "Không khò khè, không ợ nóng, không sổ mũi hay dịch chảy sau họng, không tiền sử dị ứng (ERS 2019 mục Aetiology and mechanisms)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho 12 ngày, chưa quá 2 tuần; không sốt, sụt cân, đổ mồ hôi đêm (QĐ 162/2024 Phần II mục 1.1a Bảng 1)."
+    },
+    {
+     "t": "Phù mạch do ức chế men chuyển",
+     "n": "Không sưng môi, lưỡi, mặt, không khàn tiếng, không khó thở (QĐ 5904 Phần 3 mục G). Dặn quay lại ngay nếu có."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "HA giảm tốt với phối hợp đôi liều thấp, kali 4,1, creatinin 88: không có chỉ điểm (VSH/VNHA 2024 Bảng 9)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nghĩ đến ho do perindopril: ngưng perindopril, thay bằng chẹn thụ thể angiotensin (losartan 50 mg mỗi sáng, hoặc khởi đầu 25 mg), giữ amlodipin 5 mg; không đợi hết 4 tuần mới đổi",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục G: ức chế men chuyển có tác dụng phụ ho; losartan khởi đầu 25 mg, tối ưu 100 mg, 'ít gây ho hơn nên được dùng thay nhóm này khi người bệnh ho nhiều'; sơ đồ Phần 1 mục C: losartan 50 mg, có tác dụng phụ thì liên hệ ngay để đổi thuốc, không đợi 4 tuần. ESH 2023 mục 11.1.2: ARB có tác dụng phụ tương tự giả dược. ERS 2019 mục Iatrogenic cough: chẹn thụ thể angiotensin không ảnh hưởng phản xạ ho. Liều 25 mg thận trọng hơn; 50 mg theo sơ đồ (sổ mâu thuẫn, MT-0058 số 6)."
+    },
+    {
+     "t": "Không thêm thuốc thứ ba và không tăng liều tối nay: HA 134/84 chỉ vượt mục tiêu dưới 5 mmHg, duy trì phác đồ, chỉnh khi tái khám",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục C (sơ đồ): vượt mục tiêu dưới 5 mmHg thì duy trì phác đồ, thay đổi lối sống; VSH/VNHA 2024 Đ4.1: tái khám 2–4 tuần/lần trong 2–3 tháng đầu; ESC 2024 Bảng khuyến cáo 17 (kiểm soát trong 3 tháng)."
+    },
+    {
+     "t": "Giải thích ho thường do thuốc cùng nhóm với perindopril, không phải bệnh phổi; dặn đổi thuốc không phải ngưng thuốc huyết áp, không dùng thuốc cùng nhóm ức chế men chuyển nữa",
+     "v": "c",
+     "n": "Anh đang định tự ngưng hết thuốc: QĐ 5904 Phần 1 mục D.2 (không tự ý bỏ thuốc); ERS 2019 mục Iatrogenic cough (người đang ho không nên dùng ức chế men chuyển)."
+    },
+    {
+     "t": "Hỏi ra lý do thật (vẫn muốn thuốc ngủ) và trả lời: chữa ho bằng cách đổi thuốc, chưa kê thuốc ngủ; giữ các thay đổi lối sống; thuốc ngủ ngắn hạn tối đa 4 tuần chỉ khi vẫn mất ngủ sau khi đã hết ho và đã tập CBT-I, HOẶC cân nhắc thuốc ngắn hạn sau quyết định chung",
+     "v": "c",
+     "n": "Cả hai cách như lượt 1 (sổ mâu thuẫn, TT-0161): ESRS 2023 Hình 1, Bảng 16 và AASM 2021 khuyến cáo 1 (CBT-I trước, thuốc ≤ 4 tuần); QĐ 2058/2020 Bài 27 mục 4.1, 4.3 (liệu pháp tâm lý kết hợp thuốc, hạn chế nhóm gây nghiện). Lái xe: ESRS 2023 mục 4.2.1. Nguyên nhân (ho) xử trí được nên chưa cần thuốc ngủ."
+    },
+    {
+     "t": "Dặn: sưng môi, lưỡi, mặt, khó thở hoặc khàn tiếng đột ngột thì ngưng thuốc và đi cấp cứu; ho không giảm sau khi đổi thuốc thì quay lại sớm",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục G (phù mạch là tác dụng phụ của ức chế men chuyển). Thời gian ho hết sau ngưng: thường 1–6 tuần (QĐ 4235/2012 Ho kéo dài mục 3.1) hoặc có thể chậm, không rõ mốc vì phản xạ ho bị 'đặt lại' (ERS 2019 mục Iatrogenic cough) – ghi cả hai theo sổ mâu thuẫn MT-0020."
+    },
+    {
+     "t": "Lấy creatinin, kali 2–4 tuần sau khi bắt đầu chẹn thụ thể; hẹn tái khám sau 2–4 tuần với sổ HA tại nhà",
+     "v": "c",
+     "n": "AHA/ACC 2025 mục 5.2.8 (creatinin, kali 2–4 tuần sau khi bắt đầu ức chế men chuyển hoặc chẹn thụ thể); VSH/VNHA 2024 Đ4.1."
+    },
+    {
+     "t": "Tiếp tục amlodipin 5 mg và atorvastatin 20 mg; tiếp tục giảm muối, bia, cà phê chiều tối, đi bộ",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 mục D.1; ESC 2024 Bảng khuyến cáo 15; ESH 2023 mục 11.10.11.1 (I, A) cho statin; QĐ 2058/2020 Bài 27 mục 4.3 cho cà phê và bia."
+    },
+    {
+     "t": "Dùng ức chế men chuyển cùng chẹn thụ thể (giữ perindopril và thêm losartan)",
+     "v": "h",
+     "n": "ESH 2023 mục 11.1.4: không phối hợp hai thuốc ức chế hệ renin–angiotensin, không thêm lợi ích và tăng biến cố (suy thận, tăng kali, hạ huyết áp)."
+    },
+    {
+     "t": "Ngưng toàn bộ thuốc huyết áp vì sợ hại phổi, hoặc chỉ ngưng perindopril mà không thay thuốc",
+     "v": "w",
+     "n": "QĐ 5904 Phần 1 mục D.2; VSH/VNHA 2024 Bảng 4 (duy trì thuốc suốt đời, I, A). HA 134/84 nhờ thuốc, bỏ thuốc là lặp lại việc 4 tháng trước."
+    },
+    {
+     "t": "Giữ perindopril, kê kháng sinh hoặc corticoid cho ho khan",
+     "v": "w",
+     "n": "Ho khan không sốt, không đờm, phổi sạch: không có chỉ định kháng sinh hay corticoid trong tài liệu đã tải; nguyên nhân thuốc chưa xử trí (QĐ 5904 Phần 3 mục G)."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z hằng đêm không giới hạn thời gian cho ho và mất ngủ",
+     "v": "w",
+     "n": "ESRS 2023 mục 4.2.1, Bảng 16 (≤ 4 tuần, sau CBT-I; ảnh hưởng lái xe); QĐ 2058/2020 Bài 27 mục 4.1 (hạn chế lạm dụng); nguyên nhân chưa xử trí."
+    },
+    {
+     "t": "Chuyển tuyến chụp CT ngực hoặc nhập viện vì ho",
+     "v": "w",
+     "n": "Ho 12 ngày không dấu báo động, nguyên nhân rất có khả năng là thuốc (ERS 2019 khuyến cáo 1, viết cho ho mạn: không CT thường quy khi X-quang và khám bình thường; QĐ 5904 Phần 1 Bước 4 mục A)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2, đáp ứng một phần sau 4 tuần phối hợp amlodipin 5 mg + perindopril 5 mg: HA phòng khám 134/84, tại nhà khoảng 132/82 mmHg (chưa đạt dưới 130/80)",
+     "Ho khan do perindopril (tác dụng không mong muốn của ức chế men chuyển): khởi phát khoảng 2 tuần sau khi thêm thuốc, ho khan về đêm, không sốt, không đờm, phổi sạch",
+     "Mất ngủ tái phát thứ phát do ho về đêm; trước đó đã cải thiện nhờ bỏ nước tăng lực, giảm cà phê và bia",
+     "Creatinin 88 µmol/L, eGFR 94, kali 4,1 mmol/L lúc nền; không dấu phù mạch, nhiễm trùng hô hấp, suy tim, hen hay lao"
+    ],
+    "phan_tich_chan_doan": [
+     "Người bệnh đang dùng thuốc mới mà có triệu chứng mới thì nghĩ tác dụng phụ trước khi tìm bệnh mới (VSH/VNHA 2024 Đ4.2: hỏi ho khan, chóng mặt, phù chân). ERS 2019 mục Initial assessment: đánh giá ho phải hỏi về thuốc ức chế men chuyển.",
+     "Vì sao nghĩ do perindopril: ho khan từng cơn, ngứa họng, nặng về đêm, khởi phát khoảng 2 tuần sau khi dùng thuốc; không sốt, không đờm, SpO₂ 98%, phổi không ran, họng mũi bình thường, không hút thuốc, không ợ nóng. Tần suất ho: 1–2% (QĐ 5904 Phần 3 mục G), khoảng 5–10% (ESH 2023 mục 11.1.1), khoảng 15% khi tính ho mạn (ERS 2019 mục Iatrogenic cough); các số khác nhau vì dân số và định nghĩa ho, cả ba đều nói ho là tác dụng phụ thật.",
+     "Vì sao chưa nghĩ bệnh khác: không nhiễm trùng (CHEST 2020 khuyến cáo 3), không hen, trào ngược, mũi xoang (ERS 2019), không suy tim, không phù mạch; ho 12 ngày chưa quá 2 tuần nên chưa nghi lao (QĐ 162/2024 Phần II mục 1.1a Bảng 1).",
+     "Đáp ứng điều trị: HA 134/84 so với mục tiêu dưới 130/80 (VSH/VNHA 2024 Bảng 4) hoặc 120 đến dưới 130/70 đến dưới 80 (QĐ 5904 Phần 1 mục A.2): vượt dưới 5 mmHg nên duy trì phác đồ; có tác dụng phụ thì không đợi 4 tuần mà đổi thuốc (QĐ 5904 Phần 1 mục C). Giảm khoảng 30/20 mmHg sau 4 tuần là phù hợp (ESC 2024 Bảng khuyến cáo 17).",
+     "Ý định thật: vẫn mong thuốc ngủ và định tự ngưng thuốc huyết áp; chỉ lộ khi hỏi 'anh mong muốn gì hôm nay' (QĐ 5904 Phần 3 Bước 1 mục 2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Đổi perindopril sang chẹn thụ thể, giữ amlodipin: QĐ 5904 Phần 3 mục G ('ít gây ho hơn, nên dùng thay nhóm này khi người bệnh ho nhiều'); ESH 2023 mục 11.1.2; ERS 2019 mục Iatrogenic cough. Liều losartan: 25 mg (khởi đầu, Phần 3 mục G, thận trọng hơn) hoặc 50 mg (sơ đồ Phần 1 mục C); đơn kê 50 mg vì HA chưa đạt mục tiêu (chọn của người viết), lên 100 mg sau 2–4 tuần nếu cần.",
+     "Không dùng hai thuốc cùng hệ renin–angiotensin (ESH 2023 mục 11.1.4). Không thêm thuốc thứ ba vì chỉ vượt mục tiêu dưới 5 mmHg và đang đổi thuốc (QĐ 5904 Phần 1 mục C).",
+     "Không kê kháng sinh, thuốc ho, không CT: nguyên nhân là thuốc. X-quang ngực chỉ làm nếu ho còn sau khi đổi thuốc, nhất là khi trên 2 tuần (QĐ 162/2024 Phần II mục 1.1a Bảng 1) hoặc trên 8 tuần (ERS 2019). Thời gian ho hết sau ngưng ức chế men chuyển: thường 1–6 tuần (QĐ 4235/2012 Ho kéo dài mục 3.1) hoặc có thể chậm, không rõ mốc (ERS 2019 mục Iatrogenic cough).",
+     "Thuốc ngủ: cách A (ESRS 2023 Bảng 16, Hình 1; AASM 2021 khuyến cáo 1) CBT-I trước, thuốc ≤ 4 tuần; cách B (QĐ 2058/2020 Bài 27 mục 4.1, 4.3) thuốc kết hợp liệu pháp tâm lý, hạn chế nhóm gây nghiện. Tối nay chưa kê vì nguyên nhân đã xử trí và anh lái xe hằng ngày (ESRS 2023 mục 4.2.1).",
+     "Theo dõi: creatinin, kali sau 2–4 tuần dùng chẹn thụ thể (AHA/ACC 2025 mục 5.2.8); tái khám 2–4 tuần (VSH/VNHA 2024 Đ4.1); mục tiêu dưới 130/80 trong 1–3 tháng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Không uống nữa từ sáng mai",
+      "so_ngay": "Ngưng hẳn; ghi vào sổ thuốc là 'ho do ức chế men chuyển', không dùng lại nhóm này",
+      "ghi_chu": "Ho là tác dụng phụ của ức chế men chuyển (QĐ 5904 Phần 3 mục G; ESH 2023 mục 11.1.1); ERS 2019 mục Iatrogenic cough: không dùng lại ở người đã ho."
+     },
+     {
+      "thuoc": "Losartan",
+      "ham_luong": "50 mg (hoặc 25 mg khởi đầu thận trọng)",
+      "lieu": "50 mg × 1 lần/ngày (hoặc 25 mg × 1 lần/ngày rồi tăng)",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu sáng mai, cùng giờ với amlodipin",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "QĐ 5904 Phần 1 mục C: losartan 50 mg (nhóm A); Phần 3 mục G: khởi đầu 25 mg, tối ưu 100 mg, ít gây ho; chống chỉ định có thai. 25 mg thận trọng hơn. Kiểm tra creatinin, kali sau 2–4 tuần (AHA/ACC 2025 mục 5.2.8)."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi sáng",
+      "so_ngay": "Tiếp tục, không tự ngưng",
+      "ghi_chu": "Giữ nguyên liều; duy trì 5–10 mg (QĐ 5904 Phần 3 mục G). Không phù chân hiện nay."
+     },
+     {
+      "thuoc": "Atorvastatin (đang dùng)",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Tiếp tục",
+      "ghi_chu": "Giữ nguyên liều đang dùng (ESH 2023 mục 11.10.11.1, I, A; QĐ 5904 Phần 3 mục G)."
+     }
+    ],
+    "dan_do": [
+     "Ho là do perindopril, không phải bệnh phổi: đổi sang losartan, không ngưng hết thuốc huyết áp (QĐ 5904 Phần 3 mục G, Phần 1 mục D.2). Ho thường hết sau 1–6 tuần (QĐ 4235/2012 Ho kéo dài mục 3.1), có khi chậm hơn (ERS 2019); nếu ho không giảm sau 6 tuần thì quay lại, chụp X-quang ngực.",
+     "Sưng môi, lưỡi, mặt, khàn tiếng đột ngột hoặc khó thở: ngưng thuốc và đi cấp cứu ngay (QĐ 5904 Phần 3 mục G: phù mạch).",
+     "Tiếp tục đo HA tại nhà sáng và tối, ghi sổ; mục tiêu dưới 130/80 mmHg trong 1–3 tháng (VSH/VNHA 2024 Bảng 4; ESC 2024 Bảng khuyến cáo 35). Mang sổ khi tái khám sau 2–4 tuần.",
+     "Giữ thay đổi lối sống: không nước tăng lực, cà phê buổi sáng, bia ít, muối dưới 5 g/ngày, đi bộ ≥ 150 phút/tuần (QĐ 2058/2020 Bài 27 mục 4.3; QĐ 5904 Phần 1 mục D.1; ESC 2024 Bảng khuyến cáo 15).",
+     "Giấc ngủ: giờ thức dậy cố định, chỉ lên giường khi buồn ngủ, thư giãn trước khi ngủ (QĐ 2058/2020 Bài 27 mục 4.3). Nếu hết ho mà vẫn mất ngủ thì quay lại bàn CBT-I và, khi cần, thuốc ngắn hạn tối đa 4 tuần (ESRS 2023 Bảng 16)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Hưng ngưng perindopril, đổi sang losartan, giữ amlodipin; ho giảm dần và hết sau khoảng 3 tuần (trong khoảng 1–6 tuần của QĐ 4235/2012 Ho kéo dài mục 3.1). HA tại nhà khoảng 124/78 mmHg sau 6–8 tuần, creatinin, kali bình thường khi kiểm tra lại. Anh ngủ 6–7 giờ mỗi đêm không cần thuốc ngủ, bỏ nước tăng lực, bia 1–2 lon mỗi tuần, hiểu rằng thuốc huyết áp là để duy trì.",
+ "nhieu": [
+  "Kể lể lộn xộn: chỉ tiêu quý, sếp mới, vụ va quẹt xe, chuyến công tác Đà Lạt. Không có va đập đầu, không sốt. Nên ngắt lời lịch sự, tóm tắt, hỏi từng ý.",
+  "Atorvastatin đang dùng không nằm trong danh mục thuốc làm tăng HA (AHA/ACC 2025 Bảng 11) và không giải thích ho hay mất ngủ; cần hỏi cà phê, nước tăng lực, bia, thuốc tự mua (siro ho ở lượt 2)."
+ ],
+ "bai_hoc_bien": [
+  "Kể lể lộn xộn: tóm tắt lại bằng một câu rồi hỏi từng ý; không ngắt thì mất 15 phút mà vẫn thiếu ý chính.",
+  "Lý do thật là xin thuốc ngủ, không tự nói: hỏi 'hôm nay anh mong muốn gì' (QĐ 5904 Phần 3 Bước 1 mục 2) rồi tìm nguyên nhân mất ngủ. Từ chối thuốc ngủ mà không đưa cái thay thế thì mất lòng tin.",
+  "Ngoài giờ, chưa có creatinin, kali: amlodipin dùng ngay được; ức chế men chuyển chờ kết quả hoặc kê phối hợp ngay (ESC 2024), cả hai đều đúng.",
+  "Triệu chứng mới sau thuốc mới: nghĩ tác dụng phụ trước. Ho khan sau ức chế men chuyển thì đổi sang chẹn thụ thể, không ngưng hết thuốc, không kê thuốc ho hay kháng sinh."
+ ],
+ "diem_nho": [
+  "THA độ 2: 160–179 và/hoặc 100–109 mmHg; ngưỡng 140/90 (QĐ 5904 Phần 1 Bước 3 mục A; VSH/VNHA 2024 Đ1.1; ESC 2024 Bảng 5), AHA/ACC 2025 mục 2.1 dùng 130/80. Độ 2 bắt đầu từ phối hợp hai thuốc (QĐ 5904 Phần 1 mục C.3; VSH/VNHA 2024 Bảng 4; ESC 2024 Bảng khuyến cáo 16).",
+  "Ho do ức chế men chuyển: 1–2% (QĐ 5904 Phần 3 mục G), 5–10% (ESH 2023 mục 11.1.1), khoảng 15% ho mạn (ERS 2019). Dùng chẹn thụ thể thay thế (QĐ 5904 Phần 3 mục G); không phối hợp hai nhóm (ESH 2023 mục 11.1.4). Có tác dụng phụ thì đổi ngay, không đợi 4 tuần (QĐ 5904 Phần 1 mục C).",
+  "Mất ngủ ngắn hạn: xử trí nguyên nhân, CBT-I trước; thuốc ngủ tối đa 4 tuần khi cần (ESRS 2023 Bảng 16, Hình 1; QĐ 2058/2020 Bài 27 mục 4.3)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 1–5; mục A–D, sơ đồ mục C; Phụ lục 1.1); Phần 3 (Bước 1, 3; mục D.1; mục G); Phụ lục 3.2.",
+  "VSH/VNHA 2024 – Chiến lược thực hành lâm sàng quản lý THA tại Việt Nam – TL-0288 – Đ1.1, Đ1.2, Bảng 4, 9, 11, Đ4.1, Đ4.2.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – Bảng 5, 8; mục 7.4.3.2, 7.6.4, 8.2.4, 10.1.1; Bảng khuyến cáo 13, 15–17, 35.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – mục 11.1.1, 11.1.2, 11.1.4, 11.10.11.1.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – mục 2.1, 3.2.3.1, 5.2.8; Bảng 11.",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 mục 3.1.1, 4.1, 4.3.",
+  "The European Insomnia Guideline 2023 (ESRS) – TL-0464 – Bảng 2, 16, Hình 1; mục 3.2, 4.2.1, 4.4. AASM 2021 – TL-0470 – khuyến cáo 1, 3, 6. AASM 2017 – TL-0482 – khuyến cáo 2, 4, 5, 6.",
+  "ERS 2019 Guidelines on chronic cough – TL-0154 – Iatrogenic cough, Initial assessment, khuyến cáo 1. CHEST 2020, Acute cough due to acute bronchitis – TL-0151 – khuyến cáo 3.",
+  "BYT – QĐ 162/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – Phần II mục 1.1a Bảng 1.",
+  "BYT – QĐ 4235/QĐ-BYT 2012, Hướng dẫn chẩn đoán và điều trị bệnh hô hấp – TL-0131 – Ho kéo dài mục 3.1 (ho do ức chế men chuyển hết sau ngưng 1–6 tuần) – trưởng nhóm bổ sung theo sổ mâu thuẫn MT-0020."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-11-19)",
+ "ghi_chu_bien_tap": [
+  "2026-11-19: viết mới. Tài liệu đã đọc: TL-0284 (QĐ 5904 Phần 1 đầy đủ gồm sơ đồ mục C trên PDF tr. 14; Phần 3 Bước 1, mục D.1, mục G), TL-0288 (Bảng 4, 9, 11, Đ1.1–Đ1.2.2, Đ4.1–Đ4.2), TL-0305 (Bảng 8; mục 7.4.3.2, 7.6.4, 8.2.4, 10.1.1; Bảng khuyến cáo 15–17, 35), TL-0312 (mục 11.1.1–11.1.4), TL-0297 (Bảng 11, mục 5.2.8), TL-0443 (Bài 27), TL-0464 (Bảng 2–5, 16, Hình 1, mục 4.2.1, 4.4), TL-0470, TL-0482, TL-0154, TL-0151, TL-0123.",
+  "Thiếu tài liệu: liều thuốc ngủ ngoại trú (ca chọn không kê); khuyến cáo mất ngủ cấp (ESRS 2023 mục 4.4 không đưa); ý 'thuốc huyết áp không gây phụ thuộc' là suy luận từ khuyến cáo duy trì thuốc suốt đời.",
+  "Sổ mâu thuẫn đã áp dụng: ngưỡng THA 140/90 và 130/80; tiêu chuẩn cấp cứu THA; losartan 25/50 mg (MT-0058 số 6); MT-0166; MT-0181; TT-0161, HH-1388. Mâu thuẫn mới (xem MT-0187_mau_thuan.md): tỉ lệ ho do ức chế men chuyển; mở rộng MT-0166 cho THA độ 2 ngoài giờ.",
+  "Chi tiết thiết kế do người viết chọn, không có trong tài liệu: tên, nghề, số lon bia, kết quả xét nghiệm, HA tại nhà, thời điểm ho khởi phát, diễn tiến sau lượt 2.",
+  "2026-11-19 trưởng nhóm duyệt: bổ sung thời gian ho hết sau ngưng ức chế men chuyển theo sổ mâu thuẫn (QĐ 4235/2012 và ERS 2019, mục MT-0020/MT-0055)."
+ ]
+}

@@ -1,0 +1,819 @@
+{
+ "ma_ca": "HH-0765",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_cum_mua",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Cúm mùa",
+  "chan_doan_phai_loai_tru": [
+   "COVID-19",
+   "Sốt xuất huyết giai đoạn sớm"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau khi ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm"
+ },
+ "benh_nhan": {
+  "ten": "Phan Minh Khôi",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo (lớp Chồi, trường mầm non tư thục)",
+  "can_nang": 16,
+  "chieu_cao": 103,
+  "xung_ho": "Bé trai 4 tuổi, xưng 'con', gọi bác sĩ là 'bác', chỉ trả lời câu rất ngắn khi hỏi thẳng. Mẹ kể bệnh: gọi bác sĩ là 'bác sĩ', xưng 'em'; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Mẹ 33 tuổi, kế toán công ty may, đang thử việc, hiền, hay lo, nói nhanh và nhiều. Bé quen khám vì đái tháo đường, hơi sợ kim tiêm, ngoan khi được dỗ nhẹ.",
+  "kieu_nhieu": "Kể lể lộn xộn: mẹ nói liền một mạch, nhảy qua lại giữa máy tính, đường huyết lúc 3 giờ sáng, bà ngoại cạo gió, công ty, chị gái; nhầm thứ Bảy với Chủ nhật; hỏi 'bé nôn mấy lần' thì kể sang chuyện khác. Chỉ trả lời gọn khi bác sĩ cắt lời nhẹ nhàng, hỏi từng ý ngắn theo từng mốc giờ.",
+  "nguoi_nha": "Mẹ bé, chị Thanh Tâm, 33 tuổi, đưa bé đi khám; hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Thanh Tâm)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#1a1411",
+   "kieuToc": "tre",
+   "ao": "#6fa8dc",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#ebbd98",
+    "toc": "#2a1d16",
+    "kieuToc": "bui",
+    "ao": "#c27ba0",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt, nôn, đau bụng, kêu đau chân từ hôm qua; mẹ lo vì bé đang tiêm insulin",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám đa khoa tuyến huyện: máy X-quang hỏng từ tuần trước, chưa sửa xong nên không chụp X-quang ngực (CT, nội soi cũng không có). Có xét nghiệm máu, que thử nước tiểu, siêu âm kể cả siêu âm phổi, máy thử đường huyết mao mạch, máy đo SpO₂, bình oxy."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 16 kg, mẹ đưa đến lúc 8 giờ 30 sáng thứ Hai vì mệt, nôn, đau bụng, đau chân từ hôm qua. Sinh hiệu: nhiệt 38,3 °C, mạch 116 l/p, nhịp thở 28 l/p, SpO₂ 98%. Bé nằm im trong lòng mẹ, còn trả lời được.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện nhi cho bé Khôi lúc này là quá tay: bé uống được nước, đã hết nôn, thở 28 l/p (dưới ngưỡng thở nhanh 40 l/p, QĐ 708 mục 3.1), SpO₂ 98%, glucose 13,4 nhưng bicarbonat 21 mmol/L (≥ 18, chưa đủ DKA, ISPAD 2022 tr. 838). Trẻ đái tháo đường có cha mẹ biết xử trí ngày ốm thì tăng đường huyết, ceton nhẹ, không nôn có thể xử trí ngoại trú (ISPAD 2022 tr. 841). Nằm viện làm bé tiếp xúc thêm mầm bệnh, mẹ mất thêm ngày công khi đang thử việc và vẫn chưa được dạy kế hoạch ngày ốm.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi tỉnh sáng nay chỉ đổi nơi chờ chứ không đổi hướng điều trị: không có dấu hiệu cúm nặng (QĐ 1840 mục II.2.3, III.2.4), và thiếu X-quang không phải lý do chuyển vì X-quang chỉ khi nghi viêm phổi hoặc suy hô hấp (mục II.2.2). Bé ngồi xe hơn một giờ khi vừa hết nôn, liều oseltamivir đầu bị chậm, mẹ tốn chi phí và nghỉ làm."
+   },
+   "loi_mo": "Dạ bác sĩ ơi, thằng Khôi từ hôm qua cứ mệt mệt, em tưởng tại thứ Bảy em làm bù ở nhà, cháu ngồi xem máy tính cả buổi chiều nên mỏi chân, chứ sáng Chủ nhật còn chơi bình thường đó. Rồi tối thì nóng nóng, nôn mấy lần, em lo lắm vì cháu đang tiêm insulin mà. Hồi ba giờ sáng em đo thấy tụt, cho uống nước cam rồi, sáng nay đo lại thì cao, mà em chưa dám tiêm cái thuốc nhanh vì cháu chưa ăn. À bà ngoại còn bảo cạo gió, em nói để đi khám đã. Bác sĩ coi giùm, cháu nôn là do ăn gì hay do ngồi máy tính vậy bác sĩ?",
+   "sinh_hieu": {
+    "mach": 116,
+    "ha": "Không đo",
+    "nhiet": "38,3",
+    "nhip_tho": 28,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt từ khoảng 16 giờ Chủ nhật (cao nhất 38,6 °C), mệt, kêu đau hai bắp chân, không muốn đi; nôn 3 lần (hai lần khoảng 21 giờ Chủ nhật, một lần 2 giờ sáng), đau bụng quanh rốn từng cơn. Gần như không ho: sáng nay hắng giọng vài tiếng; không sổ mũi, hắt hơi 2–3 cái.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: bệnh cảnh tiêu hóa, đau cơ, gần như không ho"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Chất nôn là thức ăn rồi dịch trong, không máu, không dịch xanh. Đau bụng quanh rốn, không cố định một chỗ; đại tiện 1 lần hôm qua bình thường, không tiêu chảy. Từ 2 giờ sáng không nôn thêm; sáng nay uống thử 100 mL nước lọc, không nôn. Từ tối qua tiểu 2 lần; không khát nhiều bất thường, không thở nhanh hay sâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, đau bụng, mất nước; dấu hiệu nhiễm toan ceton"
+    },
+    {
+     "id": "hh",
+     "noi_dung": "Không khó thở, không thở rít, không khò khè. Than hơi rát họng khi nuốt từ sáng nay, không đau tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hô hấp (thiếu ho)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Tỉnh, ngủ được, còn đòi xem phim. Không co giật, không li bì, không chảy máu mũi hay chân răng, không chấm đỏ, tay chân ấm, không đau dữ dội hạ sườn phải. Khu nhà không nghe có ca sốt xuất huyết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, dấu hiệu cảnh báo sốt xuất huyết"
+    },
+    {
+     "id": "insulin",
+     "noi_dung": "Đái tháo đường typ 1 từ 2 tuổi rưỡi. Tiêm glargine 4 đơn vị lúc 21 giờ (tối Chủ nhật vẫn tiêm đủ) và aspart trước bữa ăn theo bảng bác sĩ nội tiết nhi; tối Chủ nhật và sáng nay bé chưa ăn nên không tiêm aspart. Khám nội tiết nhi cách đây 2 tháng, HbA1c 7,9%. Nhà không có glucagon.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Insulin đang dùng, chưa có glucagon"
+    },
+    {
+     "id": "duong_huyet",
+     "noi_dung": "Máy ở nhà: 21 giờ Chủ nhật 13,9 mmol/L; 3 giờ sáng 3,4 mmol/L (mẹ cho uống khoảng 100 mL nước cam có đường, 15 phút sau đo lại 5,8); 7 giờ sáng nay 12,2. Mẹ chưa đo ceton lần nào: có hộp que thử ceton niệu cất kỹ, không biết khi nào cần dùng, không nhớ hạn. Chưa có hướng dẫn ngày ốm bằng văn bản.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đường huyết ở nhà; chưa đo ceton, chưa có kế hoạch ngày ốm"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Chị gái 9 tuổi (ngủ phòng khác) ho, sổ mũi, sốt nhẹ từ thứ Năm tuần trước, nay còn ho. Lớp mẫu giáo có 6 bạn nghỉ vì sốt, ho trong tuần qua. Chưa ai làm xét nghiệm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ trong nhà và lớp (ca nghi ngờ cúm)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng. Không hen, không khò khè, không bệnh tim, không dị ứng thuốc, chưa co giật khi sốt. Tiêm chủng đủ theo chương trình, chưa tiêm vắc xin cúm. Ngoài insulin không dùng thuốc nào thường xuyên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, yếu tố nguy cơ cúm nặng (tuổi < 5, đái tháo đường)"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Chỉ cho uống paracetamol siro một lần lúc 6 giờ sáng nay (không nhớ bao nhiêu mL). Không kháng sinh, thuốc ho, aspirin hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng"
+    },
+    {
+     "id": "may_tinh",
+     "noi_dung": "Chiều thứ Bảy mẹ làm bù ở nhà, bé ngồi xem hoạt hình trên máy tính gần 4 giờ. Mẹ thấy bé hay xoa chân nên nghĩ bé mỏi vì ngồi lâu. Sáng Chủ nhật bé vẫn chơi và ăn sáng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: mốc khởi phát 'ngồi máy tính lâu'"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Công ty may chỉ cho nghỉ chăm con ốm khi có giấy bác sĩ ghi bệnh và ngày; mẹ đang thử việc, tuần trước đã nghỉ một buổi vì chị gái nên sợ bị nhắc. Cô hiệu phó cũng dặn: bé có tiểu đường, nghỉ vì ốm phải có giấy bác sĩ mới nhận lại. Mẹ còn ngại bị trách là 'để con ngồi máy tính lâu'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mẹ làm nghề gì, ai trông bé khi ốm, lịch đi làm, hoặc hỏi chị cần giấy tờ gì không và chị lo gì ngoài bệnh của bé.",
+     "k": 1,
+     "y": "Lý do thật: xin giấy nghỉ ốm",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt nhưng đáp được, nằm im trong lòng mẹ. Cân nặng 16 kg. Môi hơi khô, niêm mạc miệng ẩm, mắt không trũng, có nước mắt, véo da trở lại nhanh, đổ đầy mao mạch dưới 2 giây, tay chân ấm. Thở êm, không thở sâu, hơi thở không mùi trái cây. Uống thử 50 mL nước, không nôn.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan độ I, không giả mạc. Ít nhầy trong ở mũi. Màng nhĩ hai bên xám, di động. Cổ mềm, hạch cổ nhỏ không đau.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p, không rút lõm, không phập phồng cánh mũi. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 28 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 116 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 116 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, đau nhẹ khi ấn quanh rốn, không khu trú, không phản ứng thành bụng; không đau hố chậu phải khi ấn và khi nhảy bằng một chân; gan lách không to, không đau hạ sườn phải. Nhu động ruột bình thường.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân ấn đau nhẹ, không sưng, không nóng đỏ, không phù; sức cơ đủ, bé đi được nhưng chậm, ngại bước; mạch mu chân rõ.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da không ban, không chấm xuất huyết, không bầm. Vị trí tiêm insulin ở đùi và bụng không chai cứng, không sưng đỏ.",
+     "k": 1
+    },
+    "nghiem_phap_day_that": {
+     "a": "Âm tính: 0 chấm xuất huyết/6,25 cm² sau 5 phút.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch 13,4 mmol/L (241 mg/dL).",
+     "ab": 1,
+     "n": "Glucose > 11 mmol/L (200 mg/dL) là một trong ba tiêu chuẩn DKA (ISPAD 2022 tr. 835, 838); đo ceton khi bệnh cấp, nhất là khi glucose > 200 mg/dL (ADA 2026 mục 6, tr. S143)."
+    },
+    "que_nt": {
+     "v": "e",
+     "r": "Tỷ trọng 1,025 · pH 5,5 · ceton + (nhẹ) · glucose ++; không bạch cầu, nitrit, protein, bilirubin, hồng cầu.",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.025,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "++",
+      "u_ket": "+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Ceton niệu + (nhẹ), chưa 'trung bình hoặc nhiều' như tiêu chuẩn DKA (ISPAD 2022 tr. 835). Que niệu không đo β-hydroxybutyrat (tr. 838); phối hợp bicarbonat."
+    },
+    "bicarbonat": {
+     "v": "e",
+     "r": "Bicarbonat huyết thanh 21 mmol/L.",
+     "ab": 1,
+     "n": "Bicarbonat thay được pH tĩnh mạch; DKA khi < 18 mmol/L (ISPAD 2022 tr. 838). 21 mmol/L: giảm nhẹ do nôn, nhịn ăn, chưa phải DKA."
+    },
+    "flu": {
+     "v": "u",
+     "r": "Cúm A dương tính; SARS-CoV-2 âm tính.",
+     "ab": 1,
+     "n": "Người có yếu tố nguy cơ hoặc nghi ngờ cúm: test nhanh để sàng lọc (QĐ 1840 mục II.2.1); không chờ kết quả để cho thuốc (CDC 2026). Test kháng nguyên SARS-CoV-2 kém nhạy hơn PCR (QĐ 2671 mục 4.8.2b)."
+    },
+    "ns1": {
+     "v": "u",
+     "r": "NS1 âm tính (ngày 2 của bệnh).",
+     "n": "NS1 làm từ ngày 1 đến ngày 7, ưu tiên 5 ngày đầu (QĐ 2760 mục III.1.1). Nôn, đau bụng là dấu hiệu cảnh báo ở giai đoạn nguy hiểm (mục II.2.1) nên vẫn dặn theo dõi."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 4,4 G/L · Neutrophil 58% · Hb 126 g/L · Hct 0,37 · TC 236 G/L.",
+     "ab": 1,
+     "bang": {
+      "wbc": 4.4,
+      "neu_pct": 58.0,
+      "neu": 2.55,
+      "lym_pct": 32.0,
+      "lym": 1.41,
+      "mono_pct": 8.0,
+      "mono": 0.35,
+      "eos_pct": 1.5,
+      "eos": 0.07,
+      "baso_pct": 0.5,
+      "baso": 0.02,
+      "rbc": 4.6,
+      "hgb": 126,
+      "hct": 0.37,
+      "mcv": 80.4,
+      "mch": 27.4,
+      "mchc": 340,
+      "rdw": 13.2,
+      "plt": 236
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn.",
+     "n": "Giai đoạn sốt của SXHD: Hct bình thường, tiểu cầu > 100.000/mm³, bạch cầu thường giảm (QĐ 2760 mục II.1.2). Chỉ làm mốc nền."
+    },
+    "sa_phoi": {
+     "r": "Đường màng phổi mịn, có A-lines, không B-lines hợp lưu, không đông đặc dưới màng phổi.",
+     "n": "Không cần: phổi sạch, thở 28 l/p, SpO₂ 98%. Hình ảnh ngực và siêu âm phổi chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840 mục II.2.2); thiếu X-quang không đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm mùa (ca nghi ngờ, test nhanh cúm A dương tính), thể nhẹ, biểu hiện không điển hình (nôn, đau bụng, đau cơ chân, gần như không ho), có yếu tố nguy cơ cúm nặng là đái tháo đường và tuổi < 5",
+     "ok": 1,
+     "n": "Viêm hô hấp cấp + yếu tố dịch tễ (chị gái, 6 bạn cùng lớp) là ca nghi ngờ (QĐ 1840 mục II.2.4.1); khởi phát đột ngột sốt, đau cơ; trẻ em có thể nôn (mục II.1.1). Đái tháo đường và trẻ < 5 tuổi là yếu tố nguy cơ cúm nặng (mục II.2.3; CDC 2026 Bảng 2). Thiếu ho không loại trừ cúm."
+    },
+    {
+     "t": "Đái tháo đường typ 1 đang tiêm insulin: tăng đường huyết do bệnh cấp, ceton niệu nhẹ, chưa nhiễm toan ceton; có một đợt hạ đường huyết mức 1 lúc 3 giờ sáng",
+     "ok": 1,
+     "n": "Glucose 13,4, ceton niệu +, bicarbonat 21: chưa đủ ba tiêu chuẩn DKA (ISPAD 2022 tr. 835, 838). Bệnh sốt thúc đẩy thiếu insulin tương đối (ISPAD 2022 tr. 836–837). 3,4 mmol/L thuộc hạ đường huyết mức 1 (< 3,9 và ≥ 3,0; ADA 2026 Bảng 6.4)."
+    },
+    {
+     "t": "Nhiễm toan ceton do đái tháo đường (DKA)",
+     "n": "Nôn, đau bụng, mệt giống DKA hoặc bụng ngoại khoa (ISPAD 2022 tr. 837), nhưng bicarbonat 21 ≥ 18, ceton niệu chỉ +, không thở sâu, còn uống được. Vẫn phải theo dõi vì bệnh sốt dễ đẩy trẻ vào DKA (ISPAD 2022 tr. 836)."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue giai đoạn sốt (sớm)",
+     "n": "Sốt, đau cơ, nôn giống giai đoạn sốt (QĐ 2760 mục II.1.1). Nghiêng về cúm: test cúm A dương, chị gái và lớp bị bệnh, Hct, tiểu cầu bình thường, NS1 âm. Chưa loại hẳn vì mới ngày 2; giai đoạn nguy hiểm ngày 3–7 (mục II.2), nôn, đau bụng là dấu hiệu cảnh báo (mục II.2.1)."
+    },
+    {
+     "t": "COVID-19",
+     "n": "Triệu chứng chồng lấp; test kháng nguyên kém nhạy hơn PCR (QĐ 2671 mục 4.8.2b); cúm trong chẩn đoán phân biệt (mục 4.8.3). Xử trí không đổi."
+    },
+    {
+     "t": "Viêm dạ dày ruột cấp, viêm ruột thừa cấp",
+     "n": "Không tiêu chảy, nôn đã dừng; bụng mềm, không đau hố chậu phải, không phản ứng thành bụng. Đau bụng của DKA cũng có thể giống bụng ngoại khoa (ISPAD 2022 tr. 837) nên phải khám lặp."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 28 l/p dưới ngưỡng thở nhanh 40 l/p của trẻ 1–5 tuổi (QĐ 708 mục 3.1), SpO₂ 98%, phổi sạch."
+    },
+    {
+     "t": "Đau chân do ngồi máy tính lâu",
+     "n": "Cách giải thích của mẹ. Đau cơ là triệu chứng của cúm (QĐ 1840 mục II.1.1), cùng sốt, nôn, đau bụng (premature closure)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kê oseltamivir 45 mg × 2 lần/ngày × 5 ngày, cho liều đầu ngay tại phòng khám, không chờ kết quả xét nghiệm",
+     "v": "c",
+     "n": "Cúm nhẹ có yếu tố nguy cơ (đái tháo đường, < 5 tuổi) dùng kháng virus càng sớm càng tốt, oseltamivir đầu tay; 15–23 kg: 45 mg × 2 lần/ngày × 5 ngày (QĐ 1840 mục II.2.3, III.2.1–2.2; CDC 2026 Bảng 2, Bảng 3). Không chờ xét nghiệm, hiệu quả nhất trong 48 giờ đầu (CDC 2026); bé mới sốt khoảng 16 giờ."
+    },
+    {
+     "t": "Cho về nhà, không nhập viện, không chuyển tuyến; gọi điện báo phòng khám tối nay",
+     "v": "c",
+     "n": "Chưa đủ DKA (ISPAD 2022 tr. 835, 838), không cúm nặng (QĐ 1840 mục II.2.3). Tăng đường huyết, ceton không nôn xử trí ngoại trú được khi cha mẹ biết xử trí ngày ốm (ISPAD 2022 tr. 841). Cuộc gọi tối nay là lựa chọn của ca."
+    },
+    {
+     "t": "Tiếp tục insulin glargine đúng liều mỗi tối, không bỏ dù bé ăn ít; insulin aspart theo bữa bé ăn được; gọi bác sĩ nội tiết nhi trong ngày để chỉnh liều ngày ốm",
+     "v": "c",
+     "n": "Không ngưng hoặc giữ insulin nền dù không ăn; cần hướng dẫn chi tiết chỉnh liều khi ốm và liên hệ ngay nhóm chăm sóc đái tháo đường (ADA 2026 mục 6, tr. S143). Mức chỉnh liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đo đường huyết mao mạch và ceton niệu tại nhà mỗi 3 giờ ban ngày và một lần lúc 3 giờ sáng, ghi sổ; thay hộp que ceton còn hạn",
+     "v": "c",
+     "n": "Đo ceton khi bệnh cấp, nhất là khi glucose > 200 mg/dL (11,1 mmol/L); dạy phụ huynh dấu hiệu DKA và dụng cụ đo ceton (ADA 2026 mục 6, tr. S143). Tần suất đo: không có trong tài liệu đã tải; mỗi 3 giờ là lựa chọn của ca."
+    },
+    {
+     "t": "Cho uống nước từng ngụm nhỏ; đường huyết cao thì không dùng nước ngọt, nước trái cây; < 3,9 mmol/L cho glucose uống, đo lại sau 15 phút; xin kê glucagon",
+     "v": "c",
+     "n": "Dịch nhiều carbohydrate làm tăng đường huyết (ISPAD 2022 tr. 837); trẻ ốm cho uống đều (NICE NG143 mục 1.7.2). Glucose ưu tiên khi < 70 mg/dL, lặp lại sau 15 phút (ADA 2026 khuyến cáo 6.15); kê glucagon cho mọi người dùng insulin (6.16). Lượng glucose cho trẻ 16 kg: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol 200 mg/lần khi bé sốt và khó chịu, cách ít nhất 6 giờ; không aspirin, không ibuprofen",
+     "v": "c",
+     "n": "10–15 mg/kg mỗi 6 giờ, 15–<20 kg: 200 mg (WHO AWaRe 2022); dùng khi trẻ khó chịu (NICE NG143 mục 1.6.4–1.6.5). SXHD chưa loại hẳn: chỉ paracetamol đơn chất, tối đa 60 mg/kg/24 giờ (QĐ 2760 mục IV.A.1). Không aspirin (hội chứng Reye, QĐ 1840 mục III.2.2)."
+    },
+    {
+     "t": "Không kê kháng sinh, không corticoid",
+     "v": "c",
+     "n": "Không kháng sinh cho cúm nhẹ (QĐ 1840 mục III.2.2; WHO 2024, khuyến cáo mạnh). Không corticoid thường quy (QĐ 1840 mục III.2.3); glucocorticoid còn có thể thúc đẩy DKA (ADA 2026 mục 6, tr. S143)."
+    },
+    {
+     "t": "Hỏi điều mẹ lo ngoài bệnh của bé; cấp giấy xác nhận khám và điều trị cúm đúng ngày, nghỉ học và nghỉ chăm 3 ngày, không cấp khống",
+     "v": "c",
+     "n": "Giấy nghỉ ốm cấp theo tình trạng thực: TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm, chưa đối chiếu bản hiện hành). Trẻ sốt nên nghỉ học đến khi hết sốt (NICE NG143 mục 1.7.2). Điều kiện nghỉ chăm con ốm của người mẹ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bé đeo khẩu trang khi gần người khác, cả nhà rửa tay; tái khám sáng thứ Năm (sau 72 giờ) mang sổ đường huyết, ceton; đến ngay nếu có dấu hiệu nặng",
+     "v": "c",
+     "n": "Hạn chế tiếp xúc, khẩu trang, vệ sinh tay (QĐ 1840 mục IV.2); tư vấn dấu hiệu nặng để tái khám (mục III.2.2); đến ngay khi nôn nhiều, đau bụng nhiều, li bì, chảy máu (QĐ 2760 mục IV.A.3b). Mốc 72 giờ là lựa chọn của ca: test cúm A dương giải thích bệnh cảnh nên không tái khám hằng ngày như SXHD (mục IV.A.3a), nhưng ngày 3–7 vẫn cảnh giác."
+    },
+    {
+     "t": "Kê baloxavir một liều (2 mg/kg, khoảng 32 mg do < 20 kg) thay oseltamivir",
+     "v": "a",
+     "n": "QĐ 1840 mục III.2.1: baloxavir khi không có oseltamivir, < 20 kg: 2 mg/kg một liều; WHO 2024 gợi ý baloxavir cho nguy cơ cao (xem HH-0737 mục 3). Tuổi tối thiểu theo CDC không kiểm được."
+    },
+    {
+     "t": "Chỉ điều trị triệu chứng, không kê kháng virus",
+     "v": "a",
+     "n": "WHO 2024 xếp nguy cơ cao theo ≥ 65 tuổi, suy giảm miễn dịch, tim mạch, thần kinh, phổi mạn; đái tháo đường và < 5 tuổi không nằm trong danh sách đó (xem HH-0737 mục 1). QĐ 1840 và CDC 2026 coi cả hai là yếu tố nguy cơ nên đáp án chính là có kê."
+    },
+    {
+     "t": "Hạ sốt bằng ibuprofen",
+     "v": "w",
+     "n": "SXHD chưa loại hẳn: không ibuprofen vì có thể gây xuất huyết, toan máu (QĐ 2760 mục IV.A.1); HH-0737 mục 2."
+    },
+    {
+     "t": "Kê kháng sinh 'phòng bội nhiễm' vì bé nôn, đau bụng",
+     "v": "w",
+     "n": "Không có dấu hiệu bội nhiễm; QĐ 1840 mục III.2.2 và WHO 2024 chống kháng sinh ở cúm nhẹ."
+    },
+    {
+     "t": "Ngưng hoặc giữ insulin nền vì bé nôn, không ăn",
+     "v": "h",
+     "n": "Không giữ insulin nền dù không ăn (ADA 2026 mục 6, tr. S143); bỏ insulin khi bệnh cấp là nguyên nhân thường gặp của DKA (ISPAD 2022 tr. 836)."
+    },
+    {
+     "t": "Hạ sốt bằng thuốc có aspirin",
+     "v": "h",
+     "n": "Aspirin ở người bệnh cúm có thể gây hội chứng Reye đe dọa tính mạng (QĐ 1840 mục III.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm mùa (ca nghi ngờ lâm sàng + dịch tễ trong nhà và lớp, test nhanh cúm A dương tính), thể nhẹ, ngày 2, biểu hiện không điển hình: nôn, đau bụng, đau cơ chân, gần như không ho; bé trai 4 tuổi, 16 kg",
+     "Yếu tố nguy cơ cúm nặng: đái tháo đường typ 1 và tuổi < 5; chưa có dấu hiệu nặng (thở 28 l/p, SpO₂ 98%, tỉnh, uống được)",
+     "Đái tháo đường typ 1 đang tiêm insulin: tăng đường huyết do bệnh cấp (13,4 mmol/L), ceton niệu +, bicarbonat 21 mmol/L, chưa nhiễm toan ceton; một đợt hạ đường huyết mức 1 lúc 3 giờ sáng (3,4 mmol/L)",
+     "Chưa loại hẳn SXH Dengue (ngày 2, nôn và đau bụng là dấu hiệu cảnh báo) và COVID-19: theo dõi có mốc",
+     "Nỗi lo thật của mẹ: giấy bác sĩ để nghỉ làm chăm con (đang thử việc) và để trường nhận bé lại; ngại bị trách chuyện máy tính"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: cắt lời nhẹ nhàng, hỏi từng mốc giờ → dấu hiệu nguy hiểm, mất nước → insulin, đường huyết, ceton → dịch tễ (chị gái, lớp) → khám toàn thân, họng, phổi, bụng, chân, da → đường huyết, ceton niệu, bicarbonat, test cúm, NS1 → chẩn đoán → điều trị không chờ kết quả cuối → dặn dò, hẹn tái khám.",
+     "Vì sao là cúm dù không ho: khởi phát đột ngột sốt, đau cơ; trẻ em có thể nôn (QĐ 1840 mục II.1.1); ca nghi ngờ = viêm hô hấp cấp + yếu tố dịch tễ (mục II.2.4.1); test cúm A dương xác nhận (mục II.2.4.2). Suýt bỏ sót vì bệnh cảnh tiêu hóa, không ho, và lời mẹ đổ cho 'ngồi máy tính lâu'.",
+     "Vì sao chưa phải DKA: cần cả ba tiêu chuẩn glucose > 11 mmol/L, pH tĩnh mạch < 7,3 hoặc bicarbonat < 18 mmol/L, và ceton (ISPAD 2022 tr. 835, 838); bé chỉ có glucose cao, bicarbonat 21, ceton niệu +. Nhưng sốt, nôn, đau bụng ở trẻ đái tháo đường phải nghĩ DKA trước (tr. 836–837).",
+     "Vì sao chưa loại trừ SXHD: sốt, đau cơ, nôn giống giai đoạn sốt (QĐ 2760 mục II.1.1); Hct, tiểu cầu bình thường, NS1 âm làm khả năng thấp nhưng giai đoạn nguy hiểm ngày 3–7 (mục II.2). COVID-19: test kháng nguyên kém nhạy hơn PCR (QĐ 2671 mục 4.8.2b).",
+     "Diagnostic timeout: còn bệnh nào giải thích sốt + nôn + đau bụng + đau chân ở trẻ đái tháo đường (DKA, SXHD, viêm ruột thừa)? Dấu hiệu nào buộc mở lại chẩn đoán (thở sâu nhanh, nôn lại, ceton tăng, đau bụng khu trú, chảy máu)? Thiếu X-quang không ảnh hưởng hôm nay."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng virus: oseltamivir vì có yếu tố nguy cơ (đái tháo đường, < 5 tuổi), không chờ xét nghiệm (QĐ 1840 mục II.2.3, III.2.1–2.2; CDC 2026). WHO 2024 không liệt kê hai yếu tố này nên không kê cũng chấp nhận được (a), xem HH-0737 mục 1; baloxavir (a): HH-0737 mục 3.",
+     "Insulin ngày ốm: không ngưng insulin nền; hướng dẫn chỉnh liều bằng văn bản và đường dây bác sĩ nội tiết (ADA 2026 mục 6, tr. S143; mức chỉnh liều không có trong tài liệu đã tải). Bé đã hạ đường huyết sau nôn: dạy xử trí, kê glucagon (ADA 2026 khuyến cáo 6.15–6.17).",
+     "Nơi điều trị: về nhà có theo dõi vì uống được, hết nôn, không DKA, không cúm nặng (ISPAD 2022 tr. 841); đổi hướng khi nôn lại, không uống được, thở sâu nhanh, ceton tăng, li bì. Hạ sốt chỉ paracetamol đơn chất; không ibuprofen, aspirin, kháng sinh, corticoid.",
+     "Giấy nghỉ ốm: hỏi nhẹ nhàng nghề của mẹ; cấp theo tình trạng thực, nghỉ 3 ngày đến lúc tái khám; không khống (TT 56/2017). Không phán xét chuyện máy tính."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Dạng bào chế sẵn có tại cơ sở: không có trong tài liệu đã tải (liều tính theo mg)",
+      "lieu": "45 mg/lần, 2 lần/ngày (bé 16 kg, nhóm 15–23 kg)",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu ngay tại phòng khám, sau đó cách nhau khoảng 12 giờ",
+      "so_ngay": "5 ngày (10 liều)",
+      "ghi_chu": "QĐ 1840 mục III.2.1; CDC 2026 Bảng 3. Tác dụng phụ: buồn nôn, nôn; hiếm phản ứng da nặng, biến cố tâm thần kinh thoáng qua (CDC 2026 Bảng 1). Cách giảm nôn: không có trong tài liệu đã tải; nếu bé nôn sau uống thì báo phòng khám, không tự ngưng."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Siro 120 mg/5 mL (WHO AWaRe 2022)",
+      "lieu": "200 mg/lần (khoảng 8,3 mL; khoảng 12,5 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi bé sốt và khó chịu, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần; không quá 4 lần/24 giờ (tối đa 60 mg/kg/24 giờ = 960 mg)",
+      "ghi_chu": "WHO AWaRe 2022; QĐ 2760 mục IV.A.1; NICE NG143 mục 1.6.4–1.6.6. Không ibuprofen, aspirin, thuốc cảm có paracetamol. Lượng đường trong siro và ảnh hưởng đến đường huyết: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin glargine và aspart (đang dùng)",
+      "ham_luong": "Không có trong tài liệu đã tải (bút tiêm do bác sĩ nội tiết nhi kê)",
+      "lieu": "Glargine giữ nguyên 4 đơn vị, không giảm hoặc bỏ; aspart theo bảng của bác sĩ nội tiết chỉ cho bữa bé ăn được; liều chỉnh khi ốm: không có trong tài liệu đã tải, gọi bác sĩ nội tiết trong ngày",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Glargine 21 giờ mỗi tối; aspart trước hoặc ngay khi bắt đầu ăn",
+      "so_ngay": "Liên tục",
+      "ghi_chu": "ADA 2026 mục 6, tr. S143: không ngưng hoặc giữ insulin nền dù không ăn."
+     },
+     {
+      "thuoc": "Glucose uống và glucagon (đề nghị bác sĩ nội tiết nhi kê)",
+      "ham_luong": "Dạng, hàm lượng, liều cho trẻ 16 kg: không có trong tài liệu đã tải",
+      "lieu": "Glucose uống khi đường huyết < 3,9 mmol/L, đo lại sau 15 phút; glucagon theo đơn bác sĩ nội tiết",
+      "duong": "Uống; glucagon theo đơn",
+      "thoi_diem": "Khi hạ đường huyết",
+      "so_ngay": "Để sẵn ở nhà và ở trường",
+      "ghi_chu": "ADA 2026 khuyến cáo 6.15–6.17."
+     }
+    ],
+    "dan_do": [
+     "Uống đủ 5 ngày (10 liều) oseltamivir; nếu bé nôn sau uống thì báo phòng khám, đừng tự ngưng. Cúm thường sốt 3–5 ngày, ho có thể kéo dài hơn (QĐ 1840 mục II.1.1).",
+     "Tối nay vẫn tiêm glargine đúng liều; hôm nay gọi bác sĩ nội tiết nhi xin hướng dẫn chỉnh liều ngày ốm và đơn glucagon. Đo đường huyết và ceton niệu mỗi 3 giờ ban ngày và lúc 3 giờ sáng, ghi sổ; gọi phòng khám tối nay (ADA 2026 mục 6, tr. S143; tần suất đo là lựa chọn của ca).",
+     "Đường huyết < 3,9 mmol/L: cho glucose uống, đo lại sau 15 phút (ADA 2026 khuyến cáo 6.15). Đường huyết cao: không cho nước ngọt, nước trái cây; cho uống nước đều.",
+     "Đến ngay nếu: nôn lại hoặc không uống được, thở nhanh hoặc sâu, thở gắng sức, li bì, co giật, ceton niệu ++ trở lên, đau bụng nhiều, tay chân lạnh ẩm, chảy máu (QĐ 1840 mục III.2.2; QĐ 2760 mục IV.A.3b; ISPAD 2022 tr. 837; NICE NG143 mục 1.7.3).",
+     "Bé nghỉ học đến khi hết sốt; mẹ và chị gái đeo khẩu trang khi gần bé, rửa tay (QĐ 1840 mục IV.2). Tái khám sáng thứ Năm mang sổ đường huyết, ceton."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 72 giờ",
+   "tiep_don": "Sáng thứ Năm 8 giờ 30, mẹ đưa bé Khôi đến tái khám đúng hẹn, mang sổ đường huyết và các que thử đã dùng. Từ lần khám trước bé đã uống oseltamivir đều, hết sốt từ tối thứ Ba, ăn uống và chơi lại; sáng nay mẹ chưa cho uống liều thứ bảy vì muốn hỏi bác sĩ. Sinh hiệu: nhiệt 36,8 °C, mạch 96 l/p, nhịp thở 22 l/p, SpO₂ 99%. Bé tỉnh táo, nghịch đồ chơi trong phòng.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho bé Khôi lúc này là không cần: hết sốt từ tối thứ Ba, thở 22 l/p, SpO₂ 99%, ăn uống bình thường, đường huyết 7,6, ceton niệu âm tính, nên không có tiêu chí cúm nặng (QĐ 1840 mục II.2.3) và không có nhiễm toan ceton (ISPAD 2022 tr. 835). Nằm viện chỉ làm bé tiếp xúc thêm mầm bệnh và mẹ mất thêm ngày công khi đang thử việc.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên 'để chụp X-quang cho chắc' không có chỉ định: X-quang ngực chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840 mục II.2.2), còn bé hết sốt, phổi sạch, thở 22 l/p, SpO₂ 99%. Chuyến đi tốn một ngày công và tiền của mẹ, bé tiếp xúc nơi đông người, kết quả bình thường không đổi xử trí."
+   },
+   "loi_mo": "Dạ chào bác sĩ, bé khỏe hơn nhiều rồi, hết sốt từ tối thứ Ba, ăn cháo rồi ăn cơm lại, chỉ còn ho nhẹ từ hôm qua. Đường huyết hôm qua lên xuống, em ghi hết trong sổ đây, em cũng gọi bác sĩ nội tiết rồi. Em hỏi sáng nay bé khỏe vậy có cho uống tiếp thuốc không, hay ngưng cho đỡ nôn? Với lại giấy cho bé đi học và giấy cho công ty nữa, cô hiệu phó hỏi hoài khi nào bé đi học lại được.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hết sốt từ tối thứ Ba, không cần hạ sốt từ trưa thứ Ba (paracetamol tổng 3 lần). Hết nôn từ sáng thứ Hai, ăn cháo thứ Ba, ăn cơm lại từ thứ Tư, chơi đùa lại. Ho nhẹ, ít đờm từ chiều thứ Tư; không khó thở, không đau bụng, không đau chân từ thứ Ba.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến đỡ hoàn toàn: tiêu chí khỏi"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Oseltamivir uống đủ 6 liều (sáng và tối thứ Hai, Ba, Tư), không nôn ra, không ác mộng, không phát ban; sáng nay chưa uống liều thứ bảy. Paracetamol 3 lần (200 mg), lần cuối chiều thứ Ba. Không thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ oseltamivir, tác dụng phụ, thuốc khác"
+    },
+    {
+     "id": "duong_huyet",
+     "noi_dung": "Sổ ghi: tối thứ Hai 11,2 mmol/L; thứ Ba 3 giờ sáng 3,7 (ăn nhẹ, 15 phút sau 6,0), sáng 14,1, chiều 8,6; thứ Tư 5,2–9,8; sáng nay 7,4. Ceton niệu: tối thứ Hai +, sáng thứ Ba vết, từ chiều thứ Ba âm tính (5 lần). Glargine 4 đơn vị tiêm đủ mỗi tối; aspart theo bữa ăn được từ chiều thứ Ba. Không có đường huyết < 3,0 mmol/L.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sổ đường huyết, ceton, insulin sau bệnh cấp"
+    },
+    {
+     "id": "noi_tiet",
+     "noi_dung": "Mẹ gọi bác sĩ nội tiết nhi chiều thứ Hai và được nhắc không bỏ insulin nền; hẹn tái khám tháng sau. Nhà vẫn chưa có glucagon, chưa có hướng dẫn ngày ốm bằng văn bản; mẹ đã đổi hộp que ceton mới còn hạn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phối hợp nội tiết; glucagon, kế hoạch ngày ốm"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Chị gái hết sốt, còn ho nhẹ, đi học lại thứ Tư. Mẹ và bà ngoại không có triệu chứng; cả nhà đeo khẩu trang khi gần bé như đã dặn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người nhà, lây trong gia đình"
+    },
+    {
+     "id": "giay_to",
+     "noi_dung": "Công ty cần giấy xác nhận bé ốm để tính ngày nghỉ chăm con, nộp trước thứ Sáu. Trường hỏi bé khi nào đi học lại và cần dặn gì về tiểu đường. Mẹ nói thẳng đây là điều mẹ lo nhất những ngày qua.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Giấy nghỉ ốm cho công ty và nhà trường"
+    },
+    {
+     "id": "vac_xin",
+     "noi_dung": "Bé chưa tiêm vắc xin cúm; mẹ chưa biết trẻ đái tháo đường nên tiêm hằng năm; chị gái và người lớn trong nhà cũng chưa tiêm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Phòng bệnh: vắc xin cúm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, chơi đồ chơi, niêm hồng, môi ẩm, mắt không trũng, đổ đầy mao mạch dưới 2 giây. Cân nặng 16,3 kg.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hết đỏ, không xuất tiết; mũi thông; màng nhĩ hai bên xám, di động.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không rút lõm, không thở rít. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn không đau, gan lách không to.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Bắp chân hai bên ấn không đau, không sưng; bé chạy nhảy được, đi bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da không ban, không chấm xuất huyết. Chỗ tiêm ở đùi và bụng không chai cứng, không bầm.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 7,6 mmol/L.",
+     "n": "Về mức nền sau bệnh cấp, khớp với sổ nhà; đối chiếu với máy của mẹ."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Tỷ trọng 1,015 · pH 6,0 · ceton âm tính · glucose âm tính; không bạch cầu, nitrit, protein, bilirubin, hồng cầu.",
+     "bang": {
+      "u_sg": 1.015,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Xác nhận hết ceton niệu; sổ nhà đã có 5 lần âm tính nên không bắt buộc. Que niệu không đo β-hydroxybutyrat (ISPAD 2022 tr. 838)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,6 G/L · Neutrophil 48% · Hb 127 g/L · Hct 0,37 · TC 268 G/L.",
+     "ab": 1,
+     "bang": {
+      "wbc": 6.6,
+      "neu_pct": 48.0,
+      "neu": 3.17,
+      "lym_pct": 40.0,
+      "lym": 2.64,
+      "mono_pct": 9.0,
+      "mono": 0.59,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.7,
+      "hgb": 127,
+      "hct": 0.37,
+      "mcv": 78.7,
+      "mch": 27.0,
+      "mchc": 343,
+      "rdw": 13.1,
+      "plt": 268
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn.",
+     "n": "Hết sốt ngày 3 là lúc nhớ giai đoạn nguy hiểm của SXHD (QĐ 2760 mục II.2); Hct, tiểu cầu bình thường nên khép khả năng này. Không bắt buộc khi lâm sàng đã rõ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm mùa thể nhẹ đã đỡ hoàn toàn (hết sốt từ tối thứ Ba, hết nôn, ăn uống và chơi lại, ho nhẹ còn lại), đang uống oseltamivir ngày 4/5",
+     "ok": 1,
+     "n": "Sốt thường 3–5 ngày, ho có thể kéo dài và tự hồi phục (QĐ 1840 mục II.1.1); không có tiêu chí nặng (mục II.2.3). Tiêu chí 'đã khỏi' là tổng hợp của ca: hết sốt không dùng hạ sốt, ăn uống chơi bình thường, thở và SpO₂ bình thường, đường huyết và ceton về nền; tiêu chí khỏi chính thức: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đái tháo đường typ 1 đã trở lại kiểm soát đường huyết sau bệnh cấp, ceton âm tính, không còn hạ đường huyết; còn thiếu glucagon và kế hoạch ngày ốm bằng văn bản",
+     "ok": 1,
+     "n": "Đường huyết 5,2–9,8 mmol/L từ thứ Tư, ceton niệu âm tính 5 lần (que niệu không đo β-hydroxybutyrat, ISPAD 2022 tr. 838). Phải kê glucagon cho mọi người dùng insulin (ADA 2026 khuyến cáo 6.16) và có hướng dẫn ngày ốm bằng văn bản (mục 6, tr. S143)."
+    },
+    {
+     "t": "Viêm phổi hoặc bội nhiễm sau cúm",
+     "n": "Hết sốt, thở 22 l/p, SpO₂ 99%, phổi sạch; ho nhẹ là bình thường sau cúm (QĐ 1840 mục II.1.1). Quay lại ngay nếu sốt lại, thở nhanh ≥ 40 l/p (QĐ 708 mục 3.1), rút lõm."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue giai đoạn nguy hiểm",
+     "n": "Hết sốt ngày 3 là lúc phải nghĩ tới (QĐ 2760 mục II.2); bé khỏe lên, không đau bụng, nôn, chảy máu; Hct, tiểu cầu bình thường; test cúm A dương. Khả năng rất thấp."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Uống tiếp và đủ oseltamivir 45 mg × 2 lần/ngày, hết tối thứ Sáu (đủ 10 liều); không ngưng sớm vì bé đã khỏe, không kéo dài thêm",
+     "v": "c",
+     "n": "Điều trị 5 ngày (QĐ 1840 mục III.2.1; CDC 2026 Bảng 3). Dùng đến 10 ngày chỉ ở cúm nặng hoặc suy giảm miễn dịch (QĐ 1840, chú thích bảng thuốc); bé không thuộc nhóm này."
+    },
+    {
+     "t": "Không chụp hay chuyển tuyến chụp X-quang, không làm lại xét nghiệm cúm để 'xác nhận khỏi'; chỉ làm lại xét nghiệm khi sốt lại, thở nhanh, rút lõm, ho tăng",
+     "v": "c",
+     "n": "X-quang, siêu âm phổi chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840 mục II.2.2). Xét nghiệm kiểm tra khỏi cúm: không có trong tài liệu đã tải. Mở lại chẩn đoán khi thở nhanh ≥ 40 l/p (QĐ 708 mục 3.1), sốt ≥ 5 ngày hoặc mẹ thấy bé kém hơn (NICE NG143 mục 1.7.3); dấu hiệu nặng khác (QĐ 1840 mục III.2.2; QĐ 2760 mục IV.A.3b)."
+    },
+    {
+     "t": "Quay lại insulin theo bảng thường ngày; đề nghị bác sĩ nội tiết nhi kê glucagon, soạn kế hoạch ngày ốm bằng văn bản (ngưỡng đo ceton, cách chỉnh liều), đưa cho trường; giữ lịch tái khám nội tiết",
+     "v": "c",
+     "n": "Glucagon cho mọi người dùng insulin, người nhà và trường biết cách dùng, bộ sơ cứu có glucose uống (ADA 2026 khuyến cáo 6.16–6.17); dạy nhận biết, phòng ngừa, xử trí khủng hoảng tăng đường huyết, xem lại mỗi lần khám (6.21–6.22). Liều, ngưỡng ceton cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấp giấy xác nhận đã khám 2 lần (thứ Hai, thứ Năm) và điều trị cúm; nghỉ đến hết tối thứ Sáu (đủ liệu trình), đi học lại thứ Hai tuần sau; không khống, không hồi tố",
+     "v": "c",
+     "n": "Giấy nghỉ ốm cấp theo tình trạng thực (TT 56/2017/TT-BYT, sửa đổi TT 18/2022/TT-BYT, Điều 3 khoản 1, Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm, chưa đối chiếu bản hiện hành). Giữ trẻ nghỉ học khi còn sốt (NICE NG143 mục 1.7.2); người bệnh cúm hạn chế tiếp xúc người nguy cơ (QĐ 1840 mục IV.2). Thời gian lây và tiêu chuẩn đi học lại: không có trong tài liệu đã tải; mốc thứ Hai là lựa chọn của ca."
+    },
+    {
+     "t": "Khuyên tiêm vắc xin cúm hằng năm cho bé (từ 6 tháng tuổi) và người nhà",
+     "v": "c",
+     "n": "Tiêm phòng cúm mùa theo hướng dẫn BYT (QĐ 1840 mục IV.1); mọi người đái tháo đường từ 6 tháng tuổi nên tiêm hằng năm (ADA 2026 mục 4, Influenza). Thời điểm tiêm sau cúm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho bé đi học lại ngay ngày mai (thứ Sáu) vì đã hết sốt",
+     "v": "a",
+     "n": "NICE NG143 mục 1.7.2 chỉ yêu cầu nghỉ khi còn sốt; QĐ 1840 mục IV.2 dặn hạn chế tiếp xúc người nguy cơ. Bé thuộc nhóm nguy cơ và còn 4 liều thuốc nên ca chọn thứ Hai; đi sớm hơn vẫn chấp nhận được."
+    },
+    {
+     "t": "Ngưng oseltamivir vì bé đã khỏe và để đỡ nôn",
+     "v": "w",
+     "n": "Liệu trình 5 ngày (QĐ 1840 mục III.2.1; CDC 2026 Bảng 3); bé không nôn, không tác dụng phụ."
+    },
+    {
+     "t": "Kéo dài oseltamivir đến 10 ngày",
+     "v": "w",
+     "n": "Chỉ dùng đến 10 ngày ở cúm nặng và suy giảm miễn dịch (QĐ 1840, chú thích bảng thuốc)."
+    },
+    {
+     "t": "Chuyển tuyến chụp X-quang hoặc làm lại test cúm để xác nhận khỏi",
+     "v": "w",
+     "n": "Không có chỉ định: QĐ 1840 mục II.2.2; xét nghiệm kiểm tra khỏi cúm không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh vì bé còn ho",
+     "v": "w",
+     "n": "Ho kéo dài là thường gặp sau cúm, không có dấu hiệu bội nhiễm; không khuyến cáo kháng sinh cho cúm nhẹ (QĐ 1840 mục III.2.2; WHO 2024)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm mùa thể nhẹ đã đỡ hoàn toàn: hết sốt từ tối thứ Ba, hết nôn, ăn uống và chơi lại, ho nhẹ còn lại; đang ở ngày 4/5 của oseltamivir, không có tác dụng phụ",
+     "Đái tháo đường typ 1 trở lại mức nền: đường huyết 5,2–9,8 mmol/L, ceton âm tính từ chiều thứ Ba; một đợt hạ đường huyết mức 1 đêm thứ Ba",
+     "Đã khép khả năng SXHD giai đoạn nguy hiểm và COVID-19 bằng diễn tiến, Hct và tiểu cầu bình thường",
+     "Còn thiếu glucagon, kế hoạch ngày ốm bằng văn bản, vắc xin cúm; mẹ cần giấy xác nhận cho công ty và trường"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: diễn tiến theo mốc (hết sốt, hết nôn, ăn uống, ho, hô hấp) → từng thuốc (oseltamivir mấy liều, nôn không, tác dụng phụ), sổ đường huyết, ceton, insulin → người nhà → khám toàn thân, họng, phổi, bụng, da (chỗ tiêm) → quyết định không cần cận lâm sàng thêm → dặn dò.",
+     "Cúm khỏi đúng diễn tiến (QĐ 1840 mục II.1.1), không có tiêu chí nặng (mục II.2.3). Không cần chụp hay xét nghiệm kiểm tra dù trước đó thiếu X-quang: phổi sạch, SpO₂ 99% (mục II.2.2). Chỉ làm lại khi sốt lại, thở nhanh, rút lõm, ho tăng, li bì.",
+     "Hết sốt ngày 3 là điểm phải khép SXHD (QĐ 2760 mục II.2): bé khỏe lên, không đau bụng, nôn, chảy máu; công thức máu bình thường. Diagnostic timeout: kiểm lại từng triệu chứng cũ (nôn, đau bụng, đau cơ) đã hết và có mốc quay lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Oseltamivir đủ 5 ngày, không ngưng sớm, không kéo dài (QĐ 1840 mục III.2.1).",
+     "Đái tháo đường: bài học của đợt ốm là thiếu kế hoạch ngày ốm và glucagon; kê glucagon, glucose, hướng dẫn chỉnh liều và đo ceton bằng văn bản, trường và người thân biết cách dùng (ADA 2026 khuyến cáo 6.16–6.17, 6.21–6.22).",
+     "Giấy tờ theo khám 2 lần, không khống (TT 56/2017). Vắc xin cúm hằng năm (QĐ 1840 mục IV.1; ADA 2026 mục 4). Không kháng sinh, thuốc ho, X-quang kiểm tra, nằm viện."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Dạng bào chế sẵn có tại cơ sở: không có trong tài liệu đã tải (liều tính theo mg)",
+      "lieu": "45 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng nay (liều 7/10) và cách 12 giờ sau",
+      "so_ngay": "Còn 4 liều: sáng nay, tối nay, sáng và tối thứ Sáu",
+      "ghi_chu": "QĐ 1840 mục III.2.1; CDC 2026 Bảng 3."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Siro 120 mg/5 mL",
+      "lieu": "200 mg/lần (khoảng 8,3 mL)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt lại hoặc đau, khó chịu, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "WHO AWaRe 2022; không aspirin (QĐ 1840 mục III.2.2)."
+     },
+     {
+      "thuoc": "Insulin glargine và aspart (đang dùng)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Trở lại liều và bảng thường ngày do bác sĩ nội tiết nhi kê",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Như thường lệ",
+      "so_ngay": "Liên tục",
+      "ghi_chu": "Không tự đổi liều (ADA 2026 mục 6)."
+     },
+     {
+      "thuoc": "Glucagon và glucose uống (đề nghị bác sĩ nội tiết nhi kê)",
+      "ham_luong": "Dạng và hàm lượng cho trẻ 16 kg: không có trong tài liệu đã tải",
+      "lieu": "Theo đơn bác sĩ nội tiết",
+      "duong": "Theo đơn",
+      "thoi_diem": "Khi hạ đường huyết",
+      "so_ngay": "Để sẵn ở nhà và ở trường",
+      "ghi_chu": "ADA 2026 khuyến cáo 6.15–6.17."
+     }
+    ],
+    "dan_do": [
+     "Uống đủ oseltamivir đến hết tối thứ Sáu (còn 4 liều) dù bé đã khỏe. Ho nhẹ có thể còn vài ngày đến vài tuần; không cần thuốc ho, kháng sinh.",
+     "Tối nay vẫn tiêm glargine đúng liều; tuần này vẫn đo đường huyết trước ăn và trước ngủ. Gọi bác sĩ nội tiết xin đơn glucagon, hướng dẫn ngày ốm bằng văn bản và đưa bản sao cho trường; giữ lịch tái khám tháng sau.",
+     "Đến ngay hoặc gọi nếu: sốt lại, thở nhanh (≥ 40 l/p), rút lõm, li bì, nôn lại, đau bụng nhiều, tay chân lạnh, chảy máu, ceton niệu ++ trở lên, hoặc mẹ thấy bé kém hơn (QĐ 1840 mục III.2.2; QĐ 2760 mục IV.A.3b; QĐ 708 mục 3.1; NICE NG143 mục 1.7.3).",
+     "Giấy xác nhận đã khám 2 lần; đi học lại thứ Hai tuần sau. Tiêm vắc xin cúm hằng năm cho bé, chị gái và người lớn trong nhà (QĐ 1840 mục IV.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Khôi uống đủ 10 liều oseltamivir, không nôn thêm, đường huyết về mức nền, ceton âm tính. Mẹ nhận giấy xác nhận khám 2 lần, nộp công ty kịp hạn và trao cho trường; bác sĩ nội tiết nhi kê glucagon và soạn kế hoạch ngày ốm. Bé đi học lại thứ Hai tuần sau, không biến chứng, không nhập viện.",
+ "nhieu": [
+  "Kể lể lộn xộn: lời mở của mẹ trộn máy tính, đường huyết 3 giờ sáng, cạo gió, công ty; dữ kiện then chốt chỉ ra khi bác sĩ cắt lời nhẹ nhàng, hỏi từng mốc giờ rồi tóm tắt dòng thời gian.",
+  "Lý do thật: xin giấy nghỉ ốm. Nỗi lo (thử việc, trường đòi giấy vì bé có tiểu đường, ngại bị trách) lộ khi hỏi nghề và lịch làm việc; lượt 2 mẹ nói thẳng. Cấp theo tình trạng thực.",
+  "Yếu tố khởi phát 'ngồi máy tính lâu': mẹ gán cho đau chân và nôn; thực chất do chị gái ho trước 3 ngày và cả lớp bệnh (premature closure).",
+  "Thuốc đang dùng: insulin. Trẻ đái tháo đường typ 1 sốt, nôn, đau bụng phải nghĩ tới DKA; insulin nền không được bỏ; nhà thiếu que ceton dùng được, glucagon, kế hoạch ngày ốm.",
+  "Không điển hình: cúm không ho, không sổ mũi, thể tiêu hóa và đau cơ; nghĩ tới nhờ dịch tễ trong nhà và test nhanh.",
+  "Không có X-quang: không ảnh hưởng vì không có chỉ định chụp; theo dõi có mốc (gọi tối nay, tái khám 72 giờ)."
+ ],
+ "bai_hoc_bien": [
+  "Kể lể lộn xộn: ngắt lời nhẹ, hỏi 'sốt từ lúc nào, nôn mấy lần, lần cuối lúc nào', rồi tóm tắt dòng thời gian cho mẹ xác nhận.",
+  "Trẻ đái tháo đường typ 1 sốt, nôn, đau bụng: đo glucose, ceton, bicarbonat để khẳng định hay loại DKA (ISPAD 2022 tr. 835, 838); bệnh sốt thúc đẩy DKA dù tiêm đủ liều (tr. 836–837).",
+  "Không ngưng insulin nền dù ăn ít; cần hướng dẫn ngày ốm bằng văn bản, que ceton còn hạn, đường dây gọi bác sĩ nội tiết (ADA 2026 mục 6, tr. S143); glucagon và glucose uống cho hạ đường huyết (khuyến cáo 6.15–6.17).",
+  "Cúm không điển hình ở trẻ: nôn, đau bụng, đau cơ, ít ho; dịch tễ (anh chị, lớp) là chìa khóa (QĐ 1840 mục II.1.1, II.2.4.1). Mốc do người nhà gán ('ngồi máy tính lâu') không thay cho bệnh sử và dịch tễ.",
+  "Ca khỏi hoàn toàn: uống đủ 5 ngày, không X-quang hay test cúm kiểm tra, dặn dấu hiệu quay lại."
+ ],
+ "diem_nho": [
+  "Cúm nhẹ + đái tháo đường hoặc < 5 tuổi: oseltamivir 5 ngày; 15–23 kg: 45 mg × 2 lần/ngày (QĐ 1840 mục II.2.3, III.2.1; CDC 2026 Bảng 3). Không kháng sinh, corticoid, aspirin (QĐ 1840 mục III.2.2–2.3).",
+  "DKA ở trẻ: glucose > 11 mmol/L + (pH tĩnh mạch < 7,3 hoặc bicarbonat < 18 mmol/L) + ceton máu/niệu (ISPAD 2022 tr. 835, 838). Ceton nhẹ, không nôn: xử trí ngoại trú được nếu cha mẹ biết xử trí ngày ốm (tr. 841).",
+  "Ngày ốm của người dùng insulin: không ngưng insulin nền, đo ceton khi bệnh cấp nhất là khi glucose > 200 mg/dL, gọi nhóm chăm sóc đái tháo đường (ADA 2026 mục 6, tr. S143).",
+  "Hạ đường huyết mức 1: < 70 và ≥ 54 mg/dL; glucose uống, đo lại sau 15 phút; glucagon cho mọi người dùng insulin (ADA 2026 Bảng 6.4, khuyến cáo 6.15–6.16).",
+  "Thở nhanh ở trẻ 1–5 tuổi: ≥ 40 l/p (QĐ 708 mục 3.1). X-quang, siêu âm phổi chỉ khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840 mục II.2.2)."
+ ],
+ "nguon": [
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 (cúm mùa): mục I, II.1–2, III.1–2, IV.1–2",
+  "TL-0133 · WHO 2024 Clinical practice guidelines for influenza (tóm tắt BMJ 2026;392:e087397): Recommendations, Key issues",
+  "TL-0139 · CDC 2026 Influenza Antiviral Medications: Summary for Clinicians: Bảng 1–3, mục Summary of Influenza Antiviral Treatment Recommendations (bản chữ ghi mùa 2016–2017, không có baloxavir)",
+  "TL-0075 · ISPAD 2022 Clinical Practice Consensus Guidelines: Diabetic ketoacidosis and hyperglycemic hyperosmolar state (Pediatr Diabetes 2022;23:835–856): tr. 835–838, 841",
+  "TL-0296 · ADA 2026 Standards of Care in Diabetes, mục 4 (Influenza), mục 6 (khuyến cáo 6.15–6.17, 6.21–6.22, Bảng 6.4, phần Hyperglycemic Crises tr. S143)",
+  "TL-0029 · QĐ 2760/QĐ-BYT 2023 (SXH Dengue): mục II.1–2, III.1.1, IV.A.1, IV.A.3",
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 (COVID-19, bản chữ OCR): mục 4.8.2b, 4.8.3",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 (kháng sinh, viêm phổi trẻ em): mục 3.1",
+  "TL-0262 · NICE NG143 (2021, cập nhật 2025): mục 1.6.4–1.6.6, 1.7.2–1.7.3; TL-0018 · WHO AWaRe 2022: paracetamol 10–15 mg/kg mỗi 6 giờ, siro 120 mg/5 mL",
+  "Nguồn bổ sung tự tìm, chưa đối chiếu bản hiện hành: TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c (giấy nghỉ ốm)",
+  "Không có trong tài liệu đã tải: dạng bào chế oseltamivir, paracetamol; liều insulin chỉnh khi ốm, tần suất đo glucose, ceton; lượng glucose, liều glucagon cho trẻ 16 kg; cách giảm nôn do oseltamivir; tiêu chí khỏi và đi học lại sau cúm; xét nghiệm kiểm tra khỏi cúm; thời điểm tiêm vắc xin sau cúm; điều kiện nghỉ chăm con ốm của người mẹ; tuổi tối thiểu baloxavir theo CDC; khuyến cáo WHO 2024 cho nhóm nguy cơ thấp (infographic)"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-19): ca HH-0765, 2 lượt: cúm mùa trẻ 4 tuổi đái tháo đường typ 1, thể nhẹ biểu hiện tiêu hóa; loại DKA, COVID-19, SXH sớm → về nhà với kế hoạch ngày ốm → tái khám đỡ hoàn toàn.",
+  "Tài liệu đã đọc: TL-0122 toàn văn; TL-0133 Recommendations, Key issues; TL-0139 Bảng 1–3; TL-0075 tr. 835–838, 841; TL-0296 mục 6, mục 4 (Influenza); TL-0029 mục II–IV.A; TL-0124 mục 4.8; TL-0015 mục 3.1; TL-0262 mục 1.2, 1.6, 1.7; TL-0018.",
+  "Ràng buộc không có X-quang: khoa_cls.nhom = [xquang] cả 2 lượt. Biến 'insulin' = bé đái tháo đường typ 1; liều insulin ở nhà là dữ kiện bệnh nhân, ca không khuyến cáo liều. 'Ngồi máy tính lâu' là nhiễu do mẹ gán. Lý do thật 'xin giấy nghỉ ốm' ở su_that ly_do_that (giấu).",
+  "Mâu thuẫn áp dụng (mục cũ): HH-0737 mục 1 (mở rộng sang đái tháo đường: QĐ 1840 và CDC 2026 liệt kê, WHO 2024 không), mục 2, mục 3; giấy nghỉ ốm (HH-1012, NH-1177). Lựa chọn của ca: tái khám 72 giờ, đo glucose mỗi 3 giờ, đi học lại thứ Hai.",
+  "Số liệu: 16 kg → oseltamivir 45 mg, baloxavir ≈ 32 mg, paracetamol 200 mg; mạch 116 dùng AT-TIM-NHANH-01; lượt 2 mạch 96 không gắn âm thanh tim. Không dùng ảnh da."
+ ]
+}

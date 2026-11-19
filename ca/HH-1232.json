@@ -1,0 +1,727 @@
+{
+ "ma_ca": "HH-1232",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_copd_dot_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COPD đợt cấp",
+  "chan_doan_phai_loai_tru": [
+   "Suy tim",
+   "Thuyên tắc phổi",
+   "Viêm phổi"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Mở lại chẩn đoán",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Mất ngủ kéo dài",
+  "thuoc_dang_dung": "Thuốc nam không rõ loại",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Tám",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Bán rau, bánh kẹo ở sạp chợ ấp, ngồi sạp từ 3 giờ sáng đến trưa hơn 30 năm; nhà ở ấp ven đồng cách phòng khám khoảng 25 km (xe máy rồi đò ngang)",
+  "can_nang": 45,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' hoặc 'bà Tám'; bà xưng 'tui' (hoặc 'bà'), gọi bác sĩ là 'bác sĩ'. Con gái gọi bà là 'má', xưng 'con', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Kín đáo, nén lo trong bụng, nói ngắn; chịu khó, dè sẻn từng đồng; tin bác sĩ nhưng ngại làm phiền nên chỉ kể điều mình sợ khi được hỏi riêng, nhẹ nhàng.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách 25 km, mưa là đò không chạy; bà và con gái cứ muốn 'một lần cho dứt', xin thuốc nhiều ngày, nói 'khỏi hẹn lại'. Bà từ chối rút máu và chụp phim ('mất tiền, mất sức, chụp ra bệnh nặng thêm'), chỉ chịu những gì không đau, không kim.",
+  "nguoi_nha": "Con gái, chị Lê Thị Phương, 50 tuổi, bán chung sạp, chở má bằng xe máy cả hai lượt; thực tế, vội về mở sạp, xin 'cho thuốc uống cả tuần, khỏi lên lại'. Không biết má sợ đột quỵ. Trả lời thay khi hỏi giờ giấc, thuốc nam (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Chị Phương (con gái)",
+  "ngoai_hinh": {
+   "da": "#c4956f",
+   "toc": "#dcd8d3",
+   "kieuToc": "bui",
+   "ao": "#8a6a55",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c08c66",
+    "toc": "#1d1917",
+    "kieuToc": "ngan",
+    "ao": "#4d7a8c",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ho, khó thở khò khè 4 ngày, mất ngủ nhiều đêm, nhức đầu chóng mặt",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Tám, 78 tuổi, bán rau, bánh kẹo ở chợ ấp, con gái chở xe máy khoảng 25 km đến khám vì ho, khò khè 4 ngày và mất ngủ nhiều đêm. Bà mang theo sổ khám của bệnh viện tỉnh. Sinh hiệu: nhiệt độ 37,3 °C, mạch 92 l/p, HA 128/76 mmHg, nhịp thở 22 l/p, SpO₂ 93% khí trời, cân nặng 45 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Tám thở 22 l/p, SpO₂ 93% (nền 95%), nói trọn câu, không tím, không phù, có người chăm tại nhà: đợt cấp nhẹ theo Rome, điều trị ngoại trú, chưa có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.1, 3.4.2). Nằm viện, bà mất nhiều ngày bán hàng, chị Phương nghỉ sạp, tốn viện phí; ra viện vẫn dùng đúng thuốc ngoại trú, và bà càng tin 'phải nằm viện là bệnh nặng, sắp tai biến'.",
+    "chuyen_tuyen": "Chuyển bà lên bệnh viện tỉnh chụp CT não, CT ngực 'cho yên tâm' là quá tay: khám thần kinh bình thường, không dấu hiệu nặng nên đợt cấp nhẹ điều trị ngoại trú (QĐ 2131/2026 mục 3.4.1). Bà đã từ chối rút máu, chụp phim nên dễ bỏ về giữa chừng; chuyến 25 km hai chiều tốn tiền, mất một ngày bán, và việc 'bị chuyển lên' làm nỗi sợ nặng thêm."
+   },
+   "loi_mo": "Bác sĩ ơi, tui ho với khò khè mấy bữa nay, đêm nằm không ngủ được. Nhà tui xa lắm, bác sĩ cho tui thuốc uống một lần cho dứt rồi tui về, khỏi hẹn lại nghen.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "128/76",
+    "nhiet": "37,3",
+    "nhip_tho": 22,
+    "spo2": 93,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho, khò khè, thở nặng hơn 4 ngày; đêm nằm không ngủ được. Mệt, hai bên thái dương nhức đầu mỗi chiều từ chừng 2 tuần, chóng mặt thoáng qua khi đứng dậy nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (kể ra)"
+    },
+    {
+     "id": "copd_nen",
+     "noi_dung": "Bốn năm trước bệnh viện tỉnh đo hô hấp ký: FEV1/FVC 0,56 sau thuốc giãn phế quản, FEV1 khoảng 46% (phiếu trong sổ). Hít tiotropium dạng phun mỗi sáng (2 hít), đều. Năm ngoái 1 đợt ho khò khè nặng, điều trị ngoại trú ở bệnh viện huyện. Ống xịt cắt cơn cũ hết hạn, bỏ từ lâu. SpO₂ ghi trong sổ lần gần nhất: 95%. Không hút thuốc; hồi trẻ nấu bếp củi, giờ vẫn nhóm bếp củi nấu cháo sáng sớm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "COPD đã có hô hấp ký, đang dùng LAMA, chưa có thuốc cắt cơn, SpO₂ nền 95%",
+     "dieu_kien_lo": "Nói khi hỏi bệnh phổi, bệnh nền, đã đo hô hấp ký chưa, đang hít thuốc gì, có thuốc xịt cắt cơn không; hoặc khi xem sổ."
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Ba tuần nay mỗi đêm ngủ 2–3 giờ, 3 giờ sáng dậy ra chợ, ngồi sạp sương lạnh. Ho mới 4 ngày nên mất ngủ có trước ho; từ khi ho càng không ngủ được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: mất ngủ kéo dài 3 tuần, ngồi sạp sáng sớm sương lạnh",
+     "dieu_kien_lo": "Nói khi hỏi ngủ ra sao, bắt đầu từ lúc nào, sinh hoạt hằng ngày, có chuyện gì lo nghĩ."
+    },
+    {
+     "id": "thuoc_nam",
+     "noi_dung": "Mười ngày nay uống thuốc nam một ông thầy bán ở chợ: gói lá, vỏ cây khô nấu 2 chén mỗi ngày, ông nói 'bổ máu, thông mạch, ngừa tai biến, dễ ngủ'. Bà không biết là cây gì, chưa mang theo gói nào; chị Phương chỉ thấy gói bọc giấy báo. Ngoài ra không uống thuốc tây nào khác, không thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc nam không rõ loại",
+     "dieu_kien_lo": "Nói khi hỏi đang dùng thuốc gì, kể cả thuốc nam, thuốc bổ, thuốc ngủ."
+    },
+    {
+     "id": "dom",
+     "noi_dung": "Đờm trắng đục, nhiều hơn thường ngày chừng 2 muỗng cà phê mỗi ngày, không vàng xanh, không có máu. Ho nhiều nhất sáng sớm và đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đờm trắng, không mủ, không máu",
+     "dieu_kien_lo": "Nói khi hỏi màu đờm, lượng đờm, ho ra máu."
+    },
+    {
+     "id": "khong_sot",
+     "noi_dung": "Không sốt, không ớn lạnh, không đau ngực, không ho ra máu. Hai ngày đầu nghẹt mũi, rát họng nhẹ; mấy người bán gần đó cũng ho, sổ mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không sốt, không đau ngực kiểu màng phổi; tiếp xúc người ho (virus)",
+     "dieu_kien_lo": "Nói khi hỏi sốt, đau ngực, ho máu, triệu chứng đường hô hấp trên, tiếp xúc người bệnh."
+    },
+    {
+     "id": "khong_suy_tim",
+     "noi_dung": "Không phù chân, nằm kê 1 gối như mọi khi, không thức giấc vì thở dốc, không hồi hộp. Cân nặng 45 kg ổn định nhiều tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng suy tim",
+     "dieu_kien_lo": "Nói khi hỏi phù, khó thở khi nằm, thức giấc vì khó thở, hồi hộp, cân nặng."
+    },
+    {
+     "id": "khong_hq",
+     "noi_dung": "Không đi xa, không nằm lâu, không mổ hay gãy xương gần đây, bắp chân không đau sưng, không dùng nội tiết, không tiền sử huyết khối hay ung thư.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không yếu tố nguy cơ thuyên tắc phổi",
+     "dieu_kien_lo": "Nói khi hỏi đi xa, bất động, đau sưng bắp chân, tiền sử huyết khối, ung thư."
+    },
+    {
+     "id": "than_kinh",
+     "noi_dung": "Nhức đầu hai thái dương nhẹ, tăng khi mất ngủ; chóng mặt thoáng vài giây khi đứng dậy nhanh. Không yếu liệt, không méo miệng, không nói khó, không nhìn đôi, không tê, không nôn, chưa ngất. Chưa ai nói bà cao huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhức đầu, chóng mặt không có dấu thần kinh khu trú",
+     "dieu_kien_lo": "Nói khi hỏi nhức đầu, chóng mặt, yếu liệt, méo miệng, nói khó, tiền sử huyết áp."
+    },
+    {
+     "id": "so_dot_quy",
+     "noi_dung": "Bà Bảy, bán hàng cạnh sạp bà (70 tuổi), đang ngồi bán thì ngã, méo miệng, liệt nửa người, cách đây 3 tuần; nay nằm một chỗ. Bà thấy mình 'nhức đầu, chóng mặt, mất ngủ y chang', nằm không thở được thì nghĩ 'thiếu hơi, máu không lên đầu rồi cũng tai biến như bả'. Từ đó mất ngủ. Bà chưa kể ai, chỉ nói với con là 'ho dữ'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ đột quỵ",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng, nhẹ nhàng: bà có sợ điều gì hơn cả cơn ho không, quanh bà có ai bệnh tương tự không, chuyện mất ngủ bắt đầu từ lúc nào; hoặc hỏi thẳng có lo bị tai biến không."
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Từ chối rút máu và chụp phim: 'bán buôn ba chục ngàn một ngày, tốn tiền, mất sức; nghe nói chụp ra thấy bệnh nặng thêm'. Chịu những gì không đau, không kim: đo, nghe, điện tim, siêu âm. Chị Phương xin thuốc đủ cả tuần để khỏi lên lại.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: từ chối xét nghiệm; ở xa, xin thuốc dài ngày"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy (BMI 20), tỉnh, tiếp xúc tốt, nói trọn câu. Môi và đầu chi hồng, không tím, không vã mồ hôi. Dáng ngồi hơi chúi trước.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, thở ra kéo dài, không co kéo cơ hô hấp phụ. Lồng ngực căng nhẹ, gõ vang nhẹ hai bên. Rì rào phế nang giảm nhẹ, ran rít thì thở ra rải rác hai phế trường, không ran nổ, không hội chứng đông đặc, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p, không co kéo cơ hô hấp phụ. Gõ vang nhẹ hai bên.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra."
+      },
+      {
+       "vi_tri": "Vùng giữa phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi, không T3. Tĩnh mạch cổ không nổi, phản hồi gan–tĩnh mạch cổ âm tính.",
+     "k": 1,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù. Bắp chân mềm, không đau, chu vi hai bên bằng nhau (31 cm), không giãn tĩnh mạch.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng, nói rõ, mặt cân đối. Vận nhãn đủ, không song thị. Sức cơ 5/5 bốn chi, Barré không rơi, ngón–mũi chính xác, đi thẳng hàng. Phản xạ gân xương cân đối, Babinski âm tính, cảm giác thô bình thường.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 128/76, mạch 90 l/p. Đứng 3 phút: HA 124/74, mạch 98 l/p; hơi chóng mặt thoáng 2–3 giây, không ngất.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi 20 m ngoài hành lang: SpO₂ 93% → 91%, mạch 92 → 106 l/p, nhịp thở 22 → 28 l/p, phải dừng lấy hơi; sau 2 phút nghỉ SpO₂ về 93%.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Lo âu rõ, nắm chặt sổ khám, trả lời ngắn, tránh nhìn thẳng khi nhắc chuyện ngủ. Khi được hỏi riêng nhẹ nhàng thì mắt đỏ, kể chuyện bà Bảy bị liệt. Ngủ chập chờn, không ý nghĩ tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "ab": 0,
+     "r": "Nhịp xoang 90 l/p đều, trục trung gian, không dày thất phải, QRS hẹp, ST–T bình thường, không ngoại tâm thu, không rung nhĩ.",
+     "n": "Điện tim tìm rối loạn nhịp (nhịp nhanh, ngoại tâm thu, rung nhĩ), thiếu máu cơ tim, dấu suy tim (QĐ 2131/2026 Bảng 3.1). Điện tim bình thường không loại trừ hẳn thuyên tắc phổi hay suy tim. Không cần kim, bà đồng ý."
+    },
+    "sa_phoi": {
+     "v": "a",
+     "ab": 0,
+     "r": "Trượt màng phổi hai bên, A-line chiếm ưu thế, không B-line lan rộng, không vùng đông đặc dưới màng phổi, không tràn dịch màng phổi.",
+     "n": "Chấm a, phương án B khi bà từ chối X-quang. ATS 2025 (TL-0141) câu hỏi 1: gợi ý có điều kiện (chứng cứ thấp) siêu âm phổi là lựa chọn thay thế X-quang ở người lớn nghi viêm phổi, nơi có người làm thạo; giá trị ở người ≥ 75 tuổi: không có trong tài liệu đã tải."
+    },
+    "echo": {
+     "v": "a",
+     "ab": 0,
+     "r": "Thất trái không giãn, EF khoảng 60%, không rối loạn vận động vùng; thất phải không giãn, vách liên thất không dẹt; tĩnh mạch chủ dưới xẹp theo nhịp thở; van không hở hay hẹp đáng kể; không tràn dịch màng tim. Không đo được áp lực động mạch phổi.",
+     "n": "Chấm a. Tìm dãn thất phải, tăng áp động mạch phổi (QĐ 2131/2026 Bảng 3.1), gạt suy tim khi không có NT-proBNP. Siêu âm tim bình thường không loại trừ thuyên tắc phổi (ESC 2019 mục 4.9: thông số thất phải có thể bình thường dù có thuyên tắc phổi)."
+    },
+    "ddimer": {
+     "v": "u",
+     "ab": 0,
+     "r": "Bà Tám từ chối: 'Hổng thử máu đâu, tui đã nói hổng rút máu mà.' Đã giải thích, ghi nhận từ chối.",
+     "n": "Chấm u như ca HH-1236. D-dimer bình thường làm thuyên tắc phổi ít khả năng (ESC 2019 mục 4.4; QĐ 2131/2026 Bảng 3.1); PERC không dùng từ 50 tuổi (TL-0118). Wells 0 (AHA/ACC 2026 Bảng 3); Geneva bản gốc 4 điểm (tuổi > 65 = 1, mạch 75–94 = 3) hay rút gọn 2 điểm: 'ít khả năng' (ESC 2019 Bảng 5). Thiếu D-dimer không loại trừ hoàn toàn: hẹn đánh giá lại, dặn dấu cảnh báo."
+    },
+    "cxr": {
+     "v": "a",
+     "ab": 0,
+     "r": "Bà Tám từ chối: 'Tui hổng chụp đâu, nghe nói chụp ra thấy bệnh nặng thêm, tốn tiền nữa.' Ghi nhận từ chối.",
+     "n": "Chấm a. X-quang giúp phát hiện viêm phổi, tràn khí, tràn dịch (QĐ 2131/2026 Bảng 3.1). Bà không sốt, đờm trắng, không ran nổ: phương án B là siêu âm phổi. Công thức máu, CRP bà cũng từ chối: Rome vẫn xếp theo 4 tiêu chuẩn còn lại (Bảng 3.2); ngưỡng NT-proBNP ngoại trú ≥ 75 tuổi: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt cấp COPD mức nhẹ theo Rome (chưa có CRP), ngày 4, yếu tố kích phát: virus hô hấp, lạnh sương sớm, khói bếp củi, mất ngủ kéo dài, thuốc nam không rõ thành phần",
+     "ok": 1,
+     "n": "Có COPD hô hấp ký FEV1/FVC 0,56 (QĐ 2131/2026 mục 1.3.2); nặng lên trong 14 ngày (mục 3.1); Anthonisen ≥ 2 triệu chứng chính xấu đi ≥ 2 ngày (mục 3.3.3). Rome nhẹ: VAS 4, thở 22 (< 24), mạch 92 (< 95), SpO₂ 93% (> 92%, đổi 2% so với nền 95%); CRP không có (Bảng 3.2; GOLD 2026 Hình 4.2). Nhiễm trùng, chủ yếu virus, chiếm 70–80% nguyên nhân; khói, lạnh đột ngột, thuốc an thần/ngủ cũng kích phát (mục 3.2); thuốc nam có an thần không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mất ngủ 3 tuần liên quan lo âu (sợ đột quỵ), nặng thêm do ho đêm",
+     "ok": 1,
+     "n": "Mất ngủ có trước ho 3 tuần, bắt đầu sau khi người bán cạnh sạp bị đột quỵ; đợt cấp làm nặng thêm. Mất ngủ là triệu chứng toàn thân của đợt cấp (QĐ 2131/2026 mục 3.3.1)."
+    },
+    {
+     "t": "Suy tim",
+     "n": "Loại trừ lâm sàng: không phù, không khó thở khi nằm, tĩnh mạch cổ không nổi, không T3, điện tim bình thường, siêu âm tim EF khoảng 60%, thất phải không giãn; NT-proBNP bà từ chối. COPD tăng nguy cơ suy tim 8,48 lần nên luôn phải nghĩ tới (QĐ 2131/2026 mục 4.1.1)."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Không đau ngực màng phổi, không ho ra máu, không bất động, bắp chân không đau/sưng; khò khè lan tỏa giải thích khó thở; mạch 92. Wells 0, Geneva 4 hoặc 2 điểm: 'ít khả năng' (AHA/ACC 2026 Bảng 3; ESC 2019 Bảng 5). Không có D-dimer nên KHÔNG loại trừ hoàn toàn (ESC 2019 mục 4.4): hẹn đánh giá lại, dặn đau ngực, ho ra máu, ngất thì chuyển tuyến."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không sốt (37,3 °C), đờm trắng, không đau ngực, không ran nổ, mạch < 100; siêu âm phổi không vùng đông đặc; X-quang bà từ chối. Nếu sốt, đờm mủ, ran nổ thì xem lại (QĐ 2131/2026 Biểu đồ 3.1)."
+    },
+    {
+     "t": "Đột quỵ hoặc cơn thiếu máu não thoáng qua (điều bà sợ)",
+     "n": "Khám thần kinh bình thường, HA 128/76 không tụt khi đứng, nhức đầu hai thái dương nhẹ gắn với mất ngủ. Đợt cấp COPD tăng nguy cơ biến cố tim mạch gồm suy tim, loạn nhịp, đột quỵ, kéo dài đến một năm (GOLD 2026 tr. 97): cần dặn dấu hiệu cảnh báo."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú, xử trí trọn gói vì nhà xa: đủ thuốc cho đợt, tờ dặn bằng văn bản có số điện thoại, hẹn tái khám sau 3–5 ngày hoặc nhờ trạm y tế xã đo SpO₂, mạch",
+     "v": "c",
+     "n": "Đợt cấp nhẹ điều trị ngoại trú; nơi điều trị còn tùy khoảng cách, điều kiện chăm sóc, bệnh đồng mắc (QĐ 2131/2026 mục 3.4.1); chưa có tiêu chuẩn nhập viện (mục 3.4.2). ≥ 65 tuổi, FEV1 < 50% là yếu tố nguy cơ kết cục xấu (mục 3.3.4d). Hẹn 3–5 ngày và nhờ trạm xã là nhận định của ca (số ngày: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Salbutamol xịt 100 µg qua buồng đệm: 2–4 nhát mỗi 1 giờ cho 2–3 liều đầu, sau đó mỗi 2–4 giờ rồi 6–8 giờ, hoặc 1–2 nhát mỗi 1 giờ cho 2–3 liều rồi mỗi 2–4 giờ; với bà dùng liều thấp, chỉ khi khó thở; dạy xịt tại chỗ, dặn xịt thưa",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.3a: 2–4 nhát; GOLD 2026 tr. 102: 1–2 nhát, không dùng liều SABA cao vì tác dụng phụ (mâu thuẫn đã có trong sổ, HH-1192). Bà 78 tuổi, mạch 92: chọn cách thận trọng. Run ở người cao tuổi, nhịp nhanh xoang, rối loạn nhịp (GOLD 2026 Phụ lục 3, tr. 144)."
+    },
+    {
+     "t": "Tiếp tục tiotropium (LAMA) hít sáng đang dùng",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.3b (tiếp tục nếu đã dùng); ngưng thuốc duy trì đột ngột là yếu tố kích phát (mục 3.2); liều: Phụ lục 1."
+    },
+    {
+     "t": "Prednisolone 30–40 mg uống 1 lần buổi sáng x 5 ngày, hoặc chưa dùng ở đợt nhẹ",
+     "v": "a",
+     "n": "QĐ 2131/2026 mục 3.4.3c: 30–40 mg x 5 ngày, không giới hạn theo độ nặng; GOLD 2026 tr. 103: 40 mg x 5 ngày, cho đợt trung bình/nặng (mâu thuẫn đã có trong sổ, HH-1192): chấp nhận cả hai. Bà mất ngủ: nếu dùng phải uống buổi sáng; tác dụng phụ mất ngủ do corticoid: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh",
+     "v": "c",
+     "n": "Kháng sinh khi có cả 3 triệu chứng chính hoặc đờm mủ kèm 1 triệu chứng còn lại (QĐ 2131/2026 mục 3.4.3d, Biểu đồ 3.1); GOLD 2026 tr. 105: khi có đờm mủ. Bà đờm trắng, không sốt."
+    },
+    {
+     "t": "Hỏi riêng, nhẹ nhàng; gọi tên nỗi sợ đột quỵ; nói bằng dữ kiện của bà (khám thần kinh bình thường, HA bình thường); dặn dấu hiệu phải gọi cấp cứu",
+     "v": "c",
+     "n": "Cách trấn an: kỹ năng giao tiếp, không có trong tài liệu đã tải. Dặn người dân nhận biết đột quỵ, gọi cấp cứu: AHA/ASA 2026 (TL-0046) mục 2.1, khuyến cáo 1; GOLD 2026 tr. 97: đợt cấp tăng nguy cơ đột quỵ."
+    },
+    {
+     "t": "Ghi nhận bà từ chối rút máu, chụp phim; phương án B: siêu âm phổi, siêu âm tim, điện tim, đánh giá lại lâm sàng; đề nghị lại D-dimer, công thức máu khi bà đồng ý",
+     "v": "c",
+     "n": "Chẩn đoán đợt cấp chủ yếu dựa lâm sàng, xét nghiệm để loại trừ chẩn đoán phân biệt (QĐ 2131/2026 mục 3.3.3, Bảng 3.1). Ghi hồ sơ từ chối: thực hành của ca. Không loại trừ hẳn thuyên tắc phổi khi thiếu D-dimer (ESC 2019 mục 4.4)."
+    },
+    {
+     "t": "Mất ngủ: giải thích liên quan nỗi lo và ho đêm, ngủ đều giờ; ngưng thuốc nam chưa rõ thành phần, chụp ảnh gói thuốc; chưa kê thuốc ngủ",
+     "v": "c",
+     "n": "CBT-I đầu tay mất ngủ mạn (ESRS 2023, TL-0464, mục 4.1.1). Benzodiazepin/nhóm Z ở ≥ 65 tuổi: ghi cả hai nguồn theo TT-0161 (QĐ 2058/2020 liệt kê; Beers 2023 Bảng 2 khuyên tránh). Thuốc an thần, ngủ là yếu tố kích phát đợt cấp (QĐ 2131/2026 mục 3.2); thuốc nam không rõ thành phần: không đánh giá được, thận trọng là nhận định của ca."
+    },
+    {
+     "t": "Chuyển tuyến chụp CT ngực, CT não, hoặc nhập khoa Nội 'cho chắc' vì bà lớn tuổi",
+     "v": "a",
+     "n": "Chưa có chỉ định (QĐ 2131/2026 mục 3.4.2); nơi điều trị còn tùy khoảng cách, bệnh đồng mắc (mục 3.4.1) nên chấp nhận được, nhưng tốn kém, bà đã từ chối xét nghiệm."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc ngủ nhóm Z (diazepam, zolpidem...) cho bà dễ ngủ",
+     "v": "w",
+     "n": "AGS Beers 2023 (TL-0022) Bảng 2: tránh ở ≥ 65 tuổi; thuốc an thần, ngủ còn là yếu tố kích phát đợt cấp (QĐ 2131/2026 mục 3.2). Chấm w theo TT-0161."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đợt cấp COPD mức nhẹ theo Rome (chưa có CRP), ngày 4, kích phát: virus, lạnh sương, khói bếp củi, mất ngủ, thuốc nam không rõ loại",
+     "COPD có hô hấp ký (FEV1/FVC 0,56, FEV1 khoảng 46%), đang dùng LAMA, chưa có thuốc cắt cơn; ≥ 65 tuổi, FEV1 < 50% là yếu tố nguy cơ kết cục xấu",
+     "Mất ngủ 3 tuần liên quan lo âu: sợ đột quỵ sau khi người bán cạnh sạp bị liệt",
+     "Loại trừ lâm sàng và phương án B: suy tim, viêm phổi, đột quỵ; thuyên tắc phổi chưa loại trừ hoàn toàn vì không có D-dimer"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: lý do khám, đờm, sốt, đau ngực, ho máu; COPD và hô hấp ký; thuốc duy trì, cắt cơn, thuốc nam; yếu tố khởi phát; triệu chứng suy tim, huyết khối; nhức đầu, chóng mặt, dấu thần kinh; sau cùng hỏi riêng điều bà sợ. Khám: sinh hiệu, đi bộ đo SpO₂, phổi, tim, phù, bắp chân, thần kinh, HA tư thế, tâm thần.",
+     "Đợt cấp COPD: có COPD, nặng lên trong 14 ngày (QĐ 2131/2026 mục 3.1), Anthonisen (mục 3.3.3); Rome nhẹ: VAS 4, thở 22, mạch 92, SpO₂ 93% (Bảng 3.2; GOLD Hình 4.2). Đờm không mủ nên không kháng sinh (mục 3.4.3d). Cận lâm sàng: điện tim (u); thay máu, X-quang bà từ chối có siêu âm phổi, siêu âm tim (a); D-dimer (u) từ chối: ghi hồ sơ, nói rõ giới hạn.",
+     "Bẫy: bà đến vì ho nhưng gốc mất ngủ là nỗi sợ đột quỵ. Gán nhức đầu, chóng mặt cho thiếu máu não, cao huyết áp thì chụp não, đo huyết áp liên tục; chỉ thấy 'COPD' thì cho thuốc về mà không hỏi nỗi sợ và cách bà hiểu tờ dặn.",
+     "Applicability note: QĐ 2131/2026 và GOLD 2026 không có phần riêng cho người ≥ 75 tuổi hay yếu; số liệu ở nhóm này: không có trong tài liệu đã tải. Ca dùng khuyến cáo chung, liều thận trọng, theo dõi sát."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú vì Rome nhẹ, không tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.1–3.4.2); nhà xa nên xử trí trọn gói (nhận định của ca). SABA: hai liều khác nhau giữa hai nguồn (QĐ mục 3.4.3a; GOLD tr. 102), ghi cả hai; với bà dùng liều thận trọng. LAMA giữ (mục 3.4.3b). Corticoid chấp nhận cả hai cách (mục 3.4.3c; GOLD tr. 103), nếu dùng thì buổi sáng. Không kháng sinh (mục 3.4.3d).",
+     "Mất ngủ: CBT-I đầu tay (ESRS 2023 mục 4.1.1); tránh benzodiazepin, nhóm Z (Beers 2023 Bảng 2). Trấn an có cấu trúc: hỏi riêng, gọi tên nỗi sợ, dữ kiện của bà. Từ chối xét nghiệm: giải thích, ghi hồ sơ, phương án B. Không chiều CT, nhập viện 'cho chắc'."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Salbutamol bình xịt định liều + buồng đệm",
+      "ham_luong": "100 µg/nhát",
+      "lieu": "1–2 nhát/lần (GOLD 2026 tr. 102) hoặc 2–4 nhát/lần (QĐ 2131/2026 mục 3.4.3a); với bà bắt đầu 2 nhát",
+      "duong": "Xịt hít qua buồng đệm",
+      "thoi_diem": "Chỉ khi khó thở, khoảng cách theo QĐ 2131 mục 3.4.3a (mỗi 1 giờ cho 2–3 liều đầu rồi mỗi 2–4 giờ, rồi 6–8 giờ) hoặc GOLD tr. 102; phải xịt liên tục thì gọi hoặc quay lại",
+      "so_ngay": "Đến khi hết khò khè (số ngày: không có trong tài liệu đã tải)",
+      "ghi_chu": "Không dùng liều SABA cao vì tác dụng phụ (GOLD 2026 tr. 102); nhịp nhanh, run ở người cao tuổi, rối loạn nhịp, hạ kali phụ thuộc liều (GOLD 2026 Phụ lục 3 tr. 144). Dạy xịt, nín thở 10 giây (thực hành của ca)."
+     },
+     {
+      "thuoc": "Tiotropium dạng phun (đang dùng)",
+      "ham_luong": "2,5 µg/lần hít",
+      "lieu": "2 hít/lần, 1 lần/ngày",
+      "duong": "Hít",
+      "thoi_diem": "Buổi sáng, đều mỗi ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3b, Phụ lục 1. Kiểm tra kỹ thuật hít."
+     },
+     {
+      "thuoc": "Prednisolone (nếu dùng)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "40 mg (8 viên) hoặc 30 mg (6 viên), 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn sáng; không uống buổi tối vì mất ngủ",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3c: 30–40 mg x 5 ngày, buổi sáng; GOLD 2026 tr. 103: 40 mg x 5 ngày; có thể chưa dùng ở đợt nhẹ. Hướng dẫn tác dụng phụ cho người ≥ 75 tuổi: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Tờ dặn chữ lớn, số điện thoại phòng khám, trạm y tế xã: quay lại hoặc gọi ngay nếu khó thở nặng hơn, nói không trọn câu, môi tím, lơ mơ, sốt, đờm vàng xanh, ho ra máu, đau ngực, sưng bắp chân, ngất (QĐ 2131/2026 mục 3.4.2; danh sách là nhận định của ca). Trạm y tế xã đo SpO₂, mạch, HA sau 2–3 ngày rồi báo.",
+     "Dấu hiệu đột quỵ gọi cấp cứu: méo miệng, yếu liệt, nói khó (kiến thức thường dùng; nguyên tắc dặn: AHA/ASA 2026 mục 2.1).",
+     "Thuốc xịt chỉ khi khó thở, 2 nhát, không xịt liên tục thâu đêm; phải xịt hoài là dấu cần khám. Hít thuốc sáng đều. Ngưng thuốc nam đến khi biết thành phần. Tránh khói bếp củi, giữ ấm sáng sớm. Chưa dùng thuốc ngủ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Bà Tám quay lại sau 3 ngày, sáng sớm, chị Phương chở xe máy 25 km. Chị nói bà 'tim đập mạnh, run tay, hai đêm nay không chợp mắt' nên bà đòi lên khám ngay. Bà đã dùng thuốc theo đơn lượt trước. Sinh hiệu: nhiệt độ 37,0 °C, mạch 116 l/p, HA 138/78 mmHg, nhịp thở 20 l/p, SpO₂ 95% khí trời, cân nặng 45 kg.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho bà về ngay khi mạch còn 116, tay run: bà ngồi sau xe máy 25 km, ở nhà chỉ có chị Phương, đêm vẫn lo 'tim sắp tai biến' và xịt tiếp bình mới. Cường β2 gây nhịp nhanh xoang, run ở người cao tuổi, rối loạn nhịp, hạ kali, phụ thuộc liều (GOLD 2026 Phụ lục 3, tr. 144); COPD tăng nguy cơ rung nhĩ 4,4 lần (QĐ 2131/2026 mục 4.1.1). Chưa kiểm chứng mạch có xuống khi dừng thuốc, nếu vẫn nhanh bà lại phải đi 25 km, hoặc ở nhà chờ đến khi nặng.",
+    "nhap_vien": "Nhập viện khoa Nội ngay là quá tay: SpO₂ 95%, thở 20, điện tim nhịp xoang, siêu âm tim không suy tim, không phù, không suy hô hấp; chưa có tiêu chuẩn nhập viện (QĐ 2131/2026 mục 3.4.2). Bà mất ngày bán hàng, chị Phương nghỉ sạp, tốn viện phí; sợ 'vô viện là bệnh nặng' nên có thể bỏ về, còn nguyên nhân (xịt quá nhiều) chưa được xử lý.",
+    "chuyen_tuyen": "Chuyển bà chụp CT mạch phổi, CT não ngay hôm nay là quá tay: nhịp nhanh có nguyên nhân khả dĩ, Wells chỉ 1,5 điểm (AHA/ACC 2026 Bảng 3), không đau ngực, ho ra máu, đau sưng bắp chân. Bà đã từ chối xét nghiệm cả hai lượt nên dễ bỏ về giữa đường; chỉ chuyển nếu theo dõi vài giờ mạch vẫn trên 100 hoặc đau ngực, ho ra máu, ngất (ESC 2019 mục 4.4)."
+   },
+   "loi_mo": "Bác sĩ ơi, tim tui đập thình thịch, tay run bần bật, hai đêm rồi tui không chợp mắt được. Tui sợ tai biến tới rồi. Bác sĩ chụp cái đầu cho tui coi đi.",
+   "sinh_hieu": {
+    "mach": 116,
+    "ha": "138/78",
+    "nhiet": "37,0",
+    "nhip_tho": 20,
+    "spo2": 95,
+    "canh_bao": [
+     "Mạch nhanh 116 l/p (ngoài khoảng bình thường)"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ chiều hôm kia thấy tim đập mạnh, tay run, hai bắp chân chuột rút ban đêm, hai đêm liền gần như không ngủ. Còn thở thì đỡ hơn trước, ho ít hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng mới: hồi hộp, run tay, chuột rút, mất ngủ nặng hơn"
+    },
+    {
+     "id": "xit_thuoc",
+     "noi_dung": "Ống xịt 200 nhát hết sau chừng 2 ngày rưỡi. Tối đầu xịt 2 nhát như dặn; nửa đêm thấy nặng ngực, sợ 'thiếu hơi lên đầu rồi tai biến', xịt liên tục. Ban ngày 1–2 giờ xịt 4–6 nhát, đêm thức dậy xịt thêm, hốt hoảng ngậm miệng ống trực tiếp, không dùng buồng đệm. Bà không nói với chị Phương vì sợ bị la.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dùng quá liều salbutamol xịt (khoảng 80–100 nhát/ngày)",
+     "dieu_kien_lo": "Nói khi hỏi cụ thể xịt bao nhiêu nhát, mỗi bao lâu, ống xịt còn không, xịt thế nào; hoặc khi xem ống xịt (đã trống, bà mang theo)."
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Uống prednisolone 8 viên mỗi tối sau cơm 'cho khỏi quên' (3 tối liền). Hít tiotropium sáng đều. Thuốc nam vẫn uống 2 chén mỗi ngày 'ngừa tai biến'; ông thầy dặn thêm một gói buổi tối 'cho dễ ngủ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Prednisolone uống buổi tối; tiếp tục thuốc nam không rõ loại",
+     "dieu_kien_lo": "Nói khi hỏi uống thuốc giờ nào, đang uống thuốc nam không, thêm gói nào."
+    },
+    {
+     "id": "ho_hap_do",
+     "noi_dung": "Ho giảm nhiều, đờm trắng ít, không sốt, không đờm vàng xanh, không ho ra máu, không đau ngực. Đi vài bước mệt vì tim đập chứ không hụt hơi như hôm trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hô hấp đã đỡ; không dấu viêm phổi",
+     "dieu_kien_lo": "Nói khi hỏi ho, đờm, sốt, đau ngực, thở ra sao so với hôm trước."
+    },
+    {
+     "id": "khong_hq",
+     "noi_dung": "Bắp chân chuột rút cả hai bên về đêm, không đau hay sưng một bên, không bất động, không đi xa, không đau ngực kiểu màng phổi, không ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu huyết khối tĩnh mạch sâu; chuột rút hai bên",
+     "dieu_kien_lo": "Nói khi hỏi đau sưng bắp chân, đi xa, đau ngực, ngất."
+    },
+    {
+     "id": "khong_suy_tim",
+     "noi_dung": "Không phù chân, nằm gối thấp như cũ, không thức giấc vì khó thở đột ngột, cân nặng vẫn 45 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng suy tim",
+     "dieu_kien_lo": "Nói khi hỏi phù, khó thở khi nằm, cân nặng."
+    },
+    {
+     "id": "khong_dot_quy",
+     "noi_dung": "Nhức đầu nhẹ đỡ hơn, không yếu liệt, không méo miệng, không nói khó, không nhìn đôi, không tê. Chỉ sợ 'tim đập vậy là sắp tai biến'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng thần kinh khu trú; nỗi sợ đột quỵ còn",
+     "dieu_kien_lo": "Nói khi hỏi nhức đầu, yếu liệt, méo miệng, nói khó, lo lắng gì."
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Vẫn không cho rút máu: 'đã nói hôm trước rồi'; không chụp phim. Chịu điện tim, siêu âm, một giọt đường đầu ngón tay. Chị Phương: 'Nhà xa, cho thuốc rồi để má về, mai má còn ra chợ'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: từ chối xét nghiệm, ở xa, không muốn ở lại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, bứt rứt, lo lắng. Run mịn hai bàn tay khi giơ ra, vã mồ hôi nhẹ. Môi hồng, không tím, nói trọn câu.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co kéo cơ hô hấp phụ. Rì rào phế nang nghe được hai bên, không còn ran rít hay ran ngáy, không ran nổ, không tiếng cọ màng phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, không co kéo cơ hô hấp phụ.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang nghe được, không ran."
+      },
+      {
+       "vi_tri": "Vùng giữa phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang nghe được, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, nhanh 116 l/p, T1 T2 rõ, không âm thổi, không T3. Tĩnh mạch cổ không nổi, phản hồi gan–tĩnh mạch cổ âm tính.",
+     "k": 1,
+     "hien": "Tim đều, nhanh, tần số khoảng 116 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh đều, T1, T2 rõ."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù. Bắp chân mềm, không đau khi ấn, chu vi hai bên bằng nhau (31 cm). Vài bó cơ bắp chân co giật nhẹ khi ấn.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, mặt cân đối, nói rõ. Sức cơ 5/5 bốn chi, Barré không rơi, ngón–mũi đúng, đi thẳng hàng, Babinski âm tính. Run mịn tư thế hai tay, không run khi nghỉ, không cứng.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi 20 m ngoài hành lang: SpO₂ 95% → 94%, mạch 116 → 126 l/p, nhịp thở 20 → 22 l/p, dừng không cần; bà nói 'mệt vì tim đập' chứ không hụt hơi. Nghỉ 2 phút SpO₂ về 95%, mạch về 118.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Hoảng sợ, hỏi 'có phải tai biến không' nhiều lần, nắm tay chị Phương. Mạch lạc, định hướng đúng, không lú lẫn, không ý nghĩ tự hại. Dịu đi khi được giải thích riêng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "ab": 1,
+     "r": "Nhịp xoang nhanh 114 l/p đều, sóng P trước mỗi QRS, QRS hẹp, không rung nhĩ, không ngoại tâm thu, không dày thất phải, không S1Q3T3, ST–T như lượt trước.",
+     "n": "Điện tim tìm nhịp nhanh, rung nhĩ, dấu suy tim (QĐ 2131/2026 Bảng 3.1). Nhịp xoang nhanh là biểu hiện kích thích thụ thể β2 (GOLD 2026 Phụ lục 3, tr. 144); COPD tăng 4,4 lần nguy cơ rung nhĩ nên phải làm khi nhịp nhanh mới xuất hiện (mục 4.1.1). Không loại trừ thuyên tắc phổi."
+    },
+    "echo": {
+     "v": "a",
+     "ab": 0,
+     "r": "Như lượt trước: thất trái không giãn, EF khoảng 60%; thất phải không giãn, vách liên thất không dẹt; tĩnh mạch chủ dưới xẹp theo nhịp thở; không tràn dịch màng tim.",
+     "n": "Chấm a. Gạt suy tim, dãn thất phải (QĐ 2131/2026 Bảng 3.1); không loại trừ thuyên tắc phổi (ESC 2019 mục 4.9)."
+    },
+    "sa_phoi": {
+     "v": "a",
+     "ab": 0,
+     "r": "Trượt màng phổi hai bên, A-line chiếm ưu thế, không B-line, không vùng đông đặc, không tràn dịch.",
+     "n": "Chấm a, thay X-quang bà từ chối (ATS 2025, TL-0141, câu hỏi 1). Gạt viêm phổi khi không sốt, đờm trắng."
+    },
+    "ddimer": {
+     "v": "u",
+     "ab": 0,
+     "r": "Bà Tám từ chối: 'Đã nói hôm trước rồi, hổng rút máu.' Đã giải thích tim nhanh có thể do thuốc nhưng cũng cần gạt huyết khối; vẫn từ chối. Ghi nhận.",
+     "n": "Chấm u như ca HH-1236. Mạch 116: Wells 1,5 điểm (mạch > 100 = 1,5; thấp < 2; AHA/ACC 2026 Bảng 3); Geneva bản gốc 6 điểm (tuổi > 65 = 1, mạch ≥ 95 = 5) hay rút gọn 3 điểm: 'khả năng' ở thang hai mức (ESC 2019 Bảng 5), vì Geneva tính cả mạch nhanh do thuốc. Khi mạch < 95: Wells 0, Geneva 4 hoặc 2 điểm, 'ít khả năng'. Thiếu D-dimer (mục 4.4) thì không loại trừ hoàn toàn."
+    },
+    "lyte": {
+     "v": "u",
+     "ab": 0,
+     "r": "Bà Tám từ chối: 'Hổng rút máu.' Ghi nhận từ chối.",
+     "n": "Sinh hóa tìm rối loạn điện giải (QĐ 2131/2026 Bảng 3.1). Cường β2 có thể gây hạ kali dù tác dụng này giảm dần theo thời gian (GOLD 2026 Phụ lục 3, tr. 144); ngưỡng can thiệp kali: không có trong tài liệu đã tải."
+    },
+    "glu_mm": {
+     "v": "a",
+     "ab": 0,
+     "r": "Đường huyết mao mạch 8,3 mmol/L (ngẫu nhiên, 2 giờ sau ăn sáng), đang dùng prednisolone ngày thứ 3.",
+     "n": "Chấm a. Corticoid toàn thân làm tăng đường huyết trong đợt cấp (GOLD 2026 tr. 123); không giải thích hồi hộp, run."
+    },
+    "ct_nguc": {
+     "v": "a",
+     "ab": 0,
+     "r": "Bà Tám từ chối: 'Lên tỉnh tốn tiền, đi xa, tui hổng đi.' Ghi nhận từ chối.",
+     "n": "Chấm a. CT mạch phổi cần nếu thuyên tắc phổi còn nghi khi mạch đã về bình thường, hoặc có đau ngực, ho ra máu, ngất (ESC 2019 mục 4); hôm nay nhịp nhanh có nguyên nhân khả dĩ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COPD đợt cấp mức nhẹ đang hồi phục (ngày 7), kèm tác dụng phụ do xịt quá liều salbutamol (nhịp xoang nhanh, run tay, chuột rút; nghi hạ kali nhưng bà từ chối xét nghiệm) và mất ngủ nặng hơn do prednisolone uống tối, lo âu, thuốc nam",
+     "ok": 1,
+     "n": "Hô hấp đỡ rõ: thở 20, SpO₂ 95% (lượt trước 22, 93%), hết ran rít, ho đờm giảm: đợt cấp đang lui (7–10 ngày, GOLD 2026 tr. 100). Triệu chứng mới không hợp COPD nặng thêm: không khó thở hơn, không sốt, không đờm mủ. Hỏi cụ thể mới ra: ống xịt 200 nhát hết trong 2,5 ngày. Cường β2 gây nhịp nhanh xoang, run ở người cao tuổi, rối loạn nhịp, hạ kali, phụ thuộc liều (GOLD 2026 Phụ lục 3, tr. 144). Prednisolone nên uống buổi sáng (QĐ 2131/2026 mục 3.4.3c); uống tối làm mất ngủ thêm là nhận định của ca."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Phải mở lại hồ sơ vì mạch 116 ở bà 78 tuổi COPD (GOLD 2026 tr. 97). Wells 1,5 (thấp), Geneva 6/3 ('khả năng') chỉ vì mạch nhanh do thuốc (AHA/ACC 2026 Bảng 3; ESC 2019 Bảng 5). Chống lại: SpO₂ tăng, thở giảm, hết ran rít, không đau ngực, ho máu, đau/sưng bắp chân, bất động; thất phải không giãn (không loại trừ, ESC 2019 mục 4.9). D-dimer bà từ chối nên KHÔNG loại trừ hoàn toàn: theo dõi vài giờ; mạch về < 95 thì Wells 0, Geneva 'ít khả năng'; còn nhanh, hoặc đau ngực, ho máu, ngất thì chuyển chụp CT mạch phổi (nhận định của ca, ESC 2019 mục 4.4–4.5)."
+    },
+    {
+     "t": "Suy tim, rung nhĩ hoặc rối loạn nhịp khác",
+     "n": "Không phù, không khó thở khi nằm, tĩnh mạch cổ không nổi, không T3, siêu âm tim EF khoảng 60%, điện tim nhịp xoang; NT-proBNP bà từ chối. COPD tăng nguy cơ suy tim 8,48 lần, rung nhĩ 4,4 lần (QĐ 2131/2026 mục 4.1.1): phải gạt chủ động khi nhịp nhanh mới xuất hiện."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không sốt, ho đờm giảm, đờm trắng, không ran nổ, siêu âm phổi không vùng đông đặc (ATS 2025, TL-0141, câu hỏi 1); X-quang bà từ chối. Không đờm mủ nên không chỉ định kháng sinh (QĐ 2131/2026 mục 3.4.3d)."
+    },
+    {
+     "t": "Đột quỵ hoặc cơn thiếu máu não thoáng qua (điều bà sợ)",
+     "n": "Khám thần kinh bình thường lần 2, nhức đầu đỡ, không yếu liệt, HA 138/78; tim nhanh xoang do thuốc không phải biểu hiện đột quỵ. Vẫn dặn dấu hiệu cảnh báo vì đợt cấp tăng nguy cơ đột quỵ (GOLD 2026 tr. 97)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giữ lại phòng khám theo dõi khoảng 4–6 giờ, ngưng xịt salbutamol; đo lại mạch, SpO₂, điện tim sau 2–3 giờ; cho về khi mạch dưới 100 (Rome nhẹ dùng dưới 95), hết run, tỉnh táo",
+     "v": "c",
+     "n": "Mạch nhanh có nguyên nhân khả dĩ nhưng chưa loại trừ thuyên tắc phổi, rối loạn nhịp khi thiếu D-dimer, điện giải; theo dõi có mốc là phương án B khi bà từ chối xét nghiệm. Mốc 4–6 giờ, ngưỡng 100: nhận định của ca (Rome: mạch < 95, QĐ 2131/2026 Bảng 3.2). Nhập viện khi có rối loạn nhịp, suy tim (mục 3.4.2): chưa có."
+    },
+    {
+     "t": "Giải thích: tim nhanh, run, chuột rút do xịt thuốc quá nhiều (không phải tai biến, không phải phổi nặng thêm); không trách bà; dạy lại cách dùng với buồng đệm; salbutamol chỉ khi khó thở, 1–2 nhát (GOLD) hoặc 2 nhát (QĐ), cách ít nhất 4 giờ nếu không nặng",
+     "v": "c",
+     "n": "Run, nhịp nhanh xoang, rối loạn nhịp, hạ kali là tác dụng phụ phụ thuộc liều của cường β2 (GOLD 2026 Phụ lục 3, tr. 144); không dùng liều SABA cao (tr. 102); QĐ 2131/2026 mục 3.4.3a: dùng khi khó thở; kiểm tra kỹ thuật dụng cụ (mục 3.4.4g). Khoảng cách 4 giờ, số nhát tối đa mỗi ngày cho người ≥ 75 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Prednisolone uống nốt cho đủ 5 ngày, chuyển sang buổi sáng sau ăn; tiếp tục tiotropium sáng; ngưng thuốc nam đến khi rõ thành phần",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.3c: uống 1 lần buổi sáng trong 5 ngày (GOLD 2026 tr. 103: 40 mg x 5 ngày); tiotropium mục 3.4.3b. Bà đã uống 3 ngày buổi tối. Dừng sớm vì mất ngủ: không có trong tài liệu đã tải; thuốc nam: nhận định của ca."
+    },
+    {
+     "t": "Đề nghị lại điện giải đồ, D-dimer, công thức máu; ghi nhận từ chối; nếu đồng ý thì làm trước khi ra về hoặc nhờ trạm y tế xã",
+     "v": "c",
+     "n": "Điện giải (hạ kali do β2) và D-dimer giúp loại trừ chẩn đoán phân biệt (QĐ 2131/2026 Bảng 3.1; ESC 2019 mục 4.4). Từ chối vẫn phải ghi hồ sơ, giải thích hậu quả (thực hành của ca)."
+    },
+    {
+     "t": "Đánh giá lại chẩn đoán phân biệt (thuyên tắc phổi, suy tim, rối loạn nhịp, viêm phổi) và nói rõ giới hạn: chưa loại trừ hoàn toàn thuyên tắc phổi",
+     "v": "c",
+     "n": "Triệu chứng đợt cấp có thể xuất hiện ở bệnh khác hoặc đồng mắc nên cần xét nghiệm loại trừ (QĐ 2131/2026 mục 3.3.3); GOLD 2026 tr. 97. Wells, Geneva: AHA/ACC 2026 Bảng 3, ESC 2019 Bảng 5."
+    },
+    {
+     "t": "Hỏi riêng, trấn an có cấu trúc về nỗi sợ đột quỵ (khám thần kinh bình thường lần 2; tim nhanh do thuốc sẽ hạ khi dừng xịt); dặn dấu hiệu gọi cấp cứu; mất ngủ: giải thích, thói quen ngủ, không kê thuốc ngủ",
+     "v": "c",
+     "n": "Điện giải (hạ kali do β2) và D-dimer giúp loại trừ chẩn đoán phân biệt (QĐ 2131/2026 Bảng 3.1; ESC 2019 mục 4.4). Từ chối vẫn ghi hồ sơ, giải thích hậu quả."
+    },
+    {
+     "t": "Xử trí trọn gói vì ở xa: tờ dặn văn bản có số điện thoại; trạm y tế xã đo mạch, SpO₂ sau 48 giờ; hẹn gọi điện; tái khám trong 4 tuần, đo hô hấp ký lại; cân nhắc tiêm ngừa cúm, phế cầu",
+     "v": "c",
+     "n": "QĐ 2131/2026 mục 3.4.4g: tái khám sớm < 4 tuần, muộn nhất < 12 tuần, kiểm tra kỹ thuật hít, nhận biết dấu hiệu bất thường; chương 5 (tiêm chủng; liều, lịch: không có trong tài liệu đã tải). Nhờ trạm xã, hẹn gọi điện: nhận định của ca."
+    },
+    {
+     "t": "Chuyển tuyến hoặc nhập viện ngay chụp CT mạch phổi, CT não, xét nghiệm đầy đủ",
+     "v": "a",
+     "n": "Chưa có chỉ định ngay (QĐ 2131/2026 mục 3.4.2); chuyển khi mạch vẫn nhanh sau theo dõi hoặc đau ngực, ho ra máu, ngất (ESC 2019 mục 4.4–4.5). Nơi điều trị còn tùy khoảng cách, bệnh đồng mắc (mục 3.4.1) nên chấp nhận được; bà từ chối nên dễ thất bại."
+    },
+    {
+     "t": "Tăng thuốc giãn phế quản: khí dung salbutamol hoặc thêm theophylline/aminophylline vì 'COPD nặng thêm'",
+     "v": "w",
+     "n": "Hô hấp đã đỡ, tim nhanh do cường β2: thêm thuốc làm nặng thêm (GOLD 2026 Phụ lục 3, tr. 144). Theophylline/aminophylline nguy cơ cao tác dụng phụ (mất ngủ, run cơ, rối loạn nhịp), chỉ dùng khi không dùng được SABA/SAMA đường hít (QĐ 2131/2026 mục 3.4.4a)."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc ngủ nhóm Z để bà ngủ được",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: tránh ở ≥ 65 tuổi; thuốc an thần, ngủ là yếu tố kích phát đợt cấp (QĐ 2131/2026 mục 3.2); theo TT-0161."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COPD đợt cấp mức nhẹ đang hồi phục (ngày 7): thở 20, SpO₂ 95%, hết ran rít",
+     "Tác dụng phụ do dùng quá liều salbutamol xịt (khoảng 80–100 nhát/ngày): nhịp xoang nhanh 116, run tay, chuột rút; nghi hạ kali chưa kiểm chứng (bà từ chối xét nghiệm)",
+     "Mất ngủ nặng hơn: prednisolone uống tối, lo âu sợ đột quỵ, thuốc nam không rõ loại",
+     "Đã loại trừ và còn giới hạn: suy tim, rối loạn nhịp (rung nhĩ), viêm phổi, đột quỵ; thuyên tắc phổi chưa loại trừ hoàn toàn vì không có D-dimer, xử trí bằng theo dõi và dặn dò"
+    ],
+    "phan_tich_chan_doan": [
+     "Điều buộc mở lại hồ sơ: lượt trước bà đỡ, lượt này mạch 116, hồi hộp, run. Hai cách đi lạc: cho là COPD nặng thêm nên tăng thuốc giãn phế quản; hoặc cho là thuyên tắc phổi, suy tim, rung nhĩ mới nên chuyển chụp CT. Cả hai không hợp: hô hấp đã đỡ, không sốt, không đờm mủ, không dấu huyết khối.",
+     "Câu hỏi mấu chốt: thuốc xịt dùng bao nhiêu nhát, mỗi bao lâu, ống còn không; prednisolone uống giờ nào. Điện tim (u) xoang nhanh; siêu âm tim, siêu âm phổi (a); D-dimer (u), điện giải (u) bà từ chối: ghi hồ sơ. Chẩn đoán đợt cấp chủ yếu dựa lâm sàng (QĐ 2131/2026 mục 3.3.3).",
+     "Thuyên tắc phổi: Wells 1,5 và Geneva 6/3 khác nhau vì mạch nhanh do thuốc; không loại trừ hoàn toàn khi thiếu D-dimer; theo dõi có mốc rồi tính lại điểm (nhận định của ca, ESC 2019 mục 4.4). Đột quỵ: không dấu thần kinh khu trú; vòng xoắn sợ → xịt → tim đập → càng sợ.",
+     "Applicability note (≥ 75 tuổi): GOLD nêu run quá mức ở một số người cao tuổi dùng liều β2 cao (Phụ lục 3, tr. 144); số liệu riêng cho người ≥ 75 tuổi, yếu: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ lại theo dõi vài giờ thay vì cho về: phương án B khi từ chối xét nghiệm; mạch hạ khi ngừng xịt vừa xác nhận nguyên nhân vừa an toàn đường về (mốc, ngưỡng: nhận định của ca). Chưa có rối loạn nhịp, suy tim để nhập viện (QĐ 2131/2026 mục 3.4.2).",
+     "Ngưng xịt theo giờ, dạy lại, không thêm thuốc giãn phế quản; tiotropium giữ (mục 3.4.3b); prednisolone nốt đủ 5 ngày buổi sáng (mục 3.4.3c). Mất ngủ: không thuốc ngủ (Beers 2023 Bảng 2), CBT-I (ESRS 2023 mục 4.1.1). Trấn an bằng khám thần kinh bình thường, không chụp đầu. Ở xa: tờ dặn, trạm y tế xã, tái khám < 4 tuần (mục 3.4.4g)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Salbutamol bình xịt định liều + buồng đệm (bình mới)",
+      "ham_luong": "100 µg/nhát",
+      "lieu": "1–2 nhát/lần (GOLD 2026 tr. 102) hoặc 2–4 nhát/lần (QĐ 2131/2026 mục 3.4.3a); với bà 1–2 nhát, cách nhau ít nhất 4 giờ nếu không nặng (khoảng cách 4 giờ: nhận định của ca)",
+      "duong": "Xịt hít qua buồng đệm",
+      "thoi_diem": "Chỉ khi khó thở; không xịt theo giờ, không xịt để dễ ngủ",
+      "so_ngay": "Đến khi hết khò khè (số ngày: không có trong tài liệu đã tải)",
+      "ghi_chu": "Không dùng liều SABA cao (GOLD 2026 tr. 102); nhịp nhanh, run, rối loạn nhịp, hạ kali phụ thuộc liều (GOLD 2026 Phụ lục 3 tr. 144). Chỉ cấp 1 bình. Số nhát tối đa mỗi ngày cho người ≥ 75 tuổi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Tiotropium dạng phun (đang dùng)",
+      "ham_luong": "2,5 µg/lần hít",
+      "lieu": "2 hít/lần, 1 lần/ngày",
+      "duong": "Hít",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3b, Phụ lục 1."
+     },
+     {
+      "thuoc": "Prednisolone (uống nốt)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "40 mg (8 viên) hoặc 30 mg (6 viên), 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn sáng",
+      "so_ngay": "Nốt cho đủ 5 ngày (còn 2 ngày)",
+      "ghi_chu": "QĐ 2131/2026 mục 3.4.3c; GOLD 2026 tr. 103. Không uống buổi tối."
+     }
+    ],
+    "dan_do": [
+     "Giữ bà lại, nằm nghỉ, uống nước; đo lại mạch, SpO₂, điện tim sau 2–3 giờ. Cho về khi mạch dưới 100, hết run, không đau ngực; còn trên 100 hoặc đau ngực, ho ra máu, ngất thì chuyển chụp CT mạch phổi (nhận định của ca; ESC 2019 mục 4.4–4.5).",
+     "Tờ dặn chữ lớn, số điện thoại: xịt chỉ khi khó thở, 1–2 nhát qua buồng đệm; phải xịt liên tục thì gọi hoặc đến trạm y tế xã. Tim đập mạnh, run tay là dấu xịt quá nhiều, không phải tai biến. Trạm xã đo mạch, SpO₂ sau 48 giờ; tái khám trong 4 tuần (QĐ 2131/2026 mục 3.4.4g).",
+     "Gọi cấp cứu khi méo miệng, yếu liệt, nói khó, ngất, đau ngực dữ dội, khó thở nặng (AHA/ASA 2026 mục 2.1; danh sách cụ thể không có trong phần đã đọc). Prednisolone chỉ uống buổi sáng; ngưng thuốc nam; chị Phương đếm nhát xịt, giữ giờ ngủ đều; cân nhắc tiêm ngừa cúm, phế cầu (QĐ 2131/2026 chương 5; lịch, liều: không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Tám được giữ lại khoảng 5 giờ, ngưng xịt thuốc, nằm nghỉ, uống nước; mạch 116 hạ dần về 96, hết run, SpO₂ 95%, điện tim lặp lại vẫn nhịp xoang 94 l/p (số liệu minh họa của ca). Bà về cùng chị Phương với bình xịt mới, buồng đệm, tờ dặn và số điện thoại; sau 48 giờ trạm y tế xã báo mạch 84, bà ngủ được 4–5 giờ mỗi đêm. Kali và D-dimer vẫn trống vì bà không rút máu; thuyên tắc phổi được xử trí bằng lâm sàng, theo dõi có mốc và dặn dò. Biến chứng do bỏ sót: điểm gãy đầu tiên là nỗi sợ đột quỵ không nói ra khiến bà xịt thuốc theo nỗi sợ; thứ hai là nhà xa, ở nhà không ai đếm nhát xịt; thứ ba là prednisolone uống buổi tối. Nếu lượt 2 chỉ thấy 'COPD nặng thêm' rồi tăng khí dung, thêm theophylline, hoặc thấy 'tim nhanh' rồi chuyển chụp CT mà không hỏi số nhát xịt, vòng xoắn tiếp tục và bà có thể bị loạn nhịp, hạ kali (GOLD 2026 Phụ lục 3, tr. 144; QĐ 2131/2026 mục 4.1.1: rung nhĩ tăng 4,4 lần).",
+ "nhieu": [
+  "Ở xa, khó tái khám: bà và chị Phương xin 'thuốc một lần cho dứt', không muốn hẹn lại; xử trí trọn gói, nhờ trạm y tế xã, tờ dặn có số điện thoại.",
+  "Từ chối xét nghiệm: tôn trọng, giải thích, ghi hồ sơ, phương án B (điện tim, siêu âm tim, siêu âm phổi, theo dõi có mốc), nêu rõ giới hạn.",
+  "Giấu nỗi sợ đột quỵ; xin chụp đầu 'cho chắc' ở lượt 2: trả lời bằng khám thần kinh và giải thích, không bằng CT."
+ ],
+ "bai_hoc_bien": [
+  "Ca bẫy 'mở lại chẩn đoán': triệu chứng mới (tim nhanh, run) không hợp diễn tiến COPD (hô hấp đỡ) nên phải hỏi số nhát xịt; tác dụng phụ thuốc vừa kê là chẩn đoán cần nghĩ tới trước khi chạy theo bệnh mới.",
+  "Người ≥ 75 tuổi: triệu chứng không điển hình (nhức đầu, mất ngủ, chóng mặt), nhạy cảm với liều β2 (run, nhịp nhanh): liều thận trọng, theo dõi sát.",
+  "Khi người bệnh từ chối xét nghiệm: ghi hồ sơ, phương án B, nói rõ cái gì chưa loại trừ (thuyên tắc phổi), đặt mốc theo dõi; không 'khám lâm sàng rồi loại trừ' tuyệt đối.",
+  "Nỗi sợ ẩn (đột quỵ) dẫn dắt cách dùng thuốc: hỏi riêng ngay lượt 1, kiểm tra bà hiểu tờ dặn thế nào."
+ ],
+ "diem_nho": [
+  "Rome nhẹ: VAS < 5, thở < 24, mạch < 95, SpO₂ > 92% và thay đổi ≤ 3%, CRP < 10 (QĐ 2131/2026 Bảng 3.2; GOLD 2026 Hình 4.2); ≥ 65 tuổi, FEV1 < 50% là yếu tố nguy cơ kết cục xấu (mục 3.3.4d).",
+  "SABA đợt cấp ngoại trú: 2–4 nhát (QĐ 2131/2026 mục 3.4.3a) hoặc 1–2 nhát (GOLD 2026 tr. 102); tác dụng phụ phụ thuộc liều: nhịp nhanh xoang, run, rối loạn nhịp, hạ kali (GOLD 2026 Phụ lục 3, tr. 144).",
+  "Prednisolone 30–40 mg x 5 ngày, uống buổi sáng (QĐ 2131/2026 mục 3.4.3c; GOLD 2026 tr. 103); kháng sinh khi đờm mủ (mục 3.4.3d; GOLD tr. 105)."
+ ],
+ "nguon": [
+  "TL-0120 · QĐ 2131/QĐ-BYT 2026 – COPD – mục 1.3.2, 3.1–3.4.4, 4.1.1, Bảng 3.1, 3.2, Biểu đồ 3.1, Phụ lục 1",
+  "TL-0138 · GOLD 2026 – Hình 4.2; tr. 97, 100, 102, 103, 105, 123; Phụ lục 3 tr. 144 (Beta2-agonists, Adverse effects)",
+  "TL-0089 · ESC 2019 – Thuyên tắc phổi – Bảng 5, mục 4.4, 4.9; TL-0045 · AHA/ACC 2026 – Bảng 3 (Wells); TL-0118 · PERC 2004",
+  "TL-0141 · ATS 2025 – VPCĐ – câu hỏi 1 (siêu âm phổi); TL-0046 · AHA/ASA 2026 – đột quỵ – mục 2.1",
+  "TL-0464 · ESRS 2023 – Mất ngủ – mục 4.1.1; TL-0022 · AGS Beers 2023 – Bảng 2"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19 – soạn theo CLAUDE.md mục 3. Ca bẫy 'mở lại chẩn đoán', 78 tuổi, 2 lượt: lượt 1 ve_hen (đợt cấp nhẹ Rome, trọn gói vì ở xa, bà từ chối xét nghiệm máu và X-quang); lượt 2 theo_doi (triệu chứng mới do xịt salbutamol quá liều). khoa_cls null; lời từ chối ghi trong r. Cặp tương phản P-0070 vai A với HH-1273 (chưa viết).",
+  "Tài liệu đã đọc: TL-0120 mục 3.1–3.4.4, Bảng 3.1–3.3, Biểu đồ 3.1, 3.2, mục 4.1, Phụ lục 1; TL-0138 tr. 97, 123, Phụ lục 3 tr. 144; TL-0089 Bảng 5, mục 4.4, 4.9; TL-0045 Bảng 3; TL-0141 câu hỏi 1; TL-0046 mục 2.1; TL-0464 mục 4.1.1; TL-0022 Bảng 2. Dùng mục sổ có sẵn: salbutamol, corticoid đợt nhẹ (HH-1192), D-dimer khi COPD nặng (HH-1236), thuốc ngủ ≥ 65 tuổi (TT-0161).",
+  "Thiếu tài liệu: số nhát salbutamol tối đa/ngày và khoảng cách cho người ≥ 75 tuổi; mốc 4–6 giờ, ngưỡng mạch < 100 (nhận định của ca); thuốc nam; tác dụng phụ mất ngủ của corticoid; danh sách dấu hiệu đột quỵ cho người bệnh; tiêu chuẩn chụp não cho nhức đầu không dấu khu trú. Số liệu hô hấp ký, điện tim, siêu âm, theo dõi là hư cấu của ca. Không tìm web."
+ ]
+}

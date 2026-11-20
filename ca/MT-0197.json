@@ -1,0 +1,865 @@
+{
+ "ma_ca": "MT-0197",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Tăng huyết áp nguyên phát (theo dõi)",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Văn Thiện",
+  "tuoi": 78,
+  "gioi": "Nam",
+  "nghe": "Hưu trí (nguyên giáo viên Toán cấp 2, nhận lương hưu, ở cùng gia đình con trai, chiều hay đón cháu nội 5 tuổi)",
+  "can_nang": 58,
+  "chieu_cao": 164,
+  "xung_ho": "Bác sĩ gọi ông là 'thầy Thiện' hoặc 'ông Thiện'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ', gọi con trai là 'thằng Quân'.",
+  "tinh_cach": "Cẩn thận, ngăn nắp, ghi sổ mọi thứ bằng bút bi. Tự trọng, ngại nhờ con, nói chậm rõ từng câu như đứng lớp. Hay lo xa nhưng giấu lo, sợ nghe câu trả lời mình không muốn nghe.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: ông chỉ mang 200 nghìn, không muốn xin con. Mở đầu bằng 'xét nghiệm hết bao nhiêu?'; mỗi xét nghiệm được đề nghị thì hỏi giá và 'cái này có đổi cách chữa không?'; đồng ý ngay cái nghe rõ là đổi quyết định, từ chối cái 'làm cho có'. Nỗi lo thật chỉ kể khi được hỏi riêng, nhẹ nhàng.",
+  "nguoi_nha": "Con trai",
+  "ten_nguoi_nha": "Đoàn Minh Quân",
+  "ngoai_hinh": {
+   "da": "#c9a07a",
+   "toc": "#d9d9d9",
+   "kieuToc": "ngan",
+   "ao": "#7a8a99",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d6a984",
+    "toc": "#1e1a17",
+    "kieuToc": "ngan",
+    "ao": "#4a5a6a",
+    "aoKieu": "polo",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Xin kê lại thuốc huyết áp, nhờ xem số đo ở nhà dạo này cao",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền: glucose, mỡ máu, ure–creatinin, điện giải, acid uric; tổng phân tích nước tiểu) và điện tim; không X-quang, siêu âm, CT, nội soi; không làm được xét nghiệm chuyên sâu (renin–aldosterone, hormon giáp, microalbumin niệu)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 78 tuổi, hưu trí, nguyên giáo viên, con trai đưa đến vì thuốc huyết áp sắp hết; ông nói số đo ở nhà dạo này cao và mang theo cuốn sổ ghi huyết áp. Sinh hiệu lúc tiếp đón: HA 168/94 mmHg, mạch 66 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Thiện bị giữ lại bệnh viện để hạ áp, dù HA 168/94, không triệu chứng cơ quan đích cấp và chưa đủ tiêu chuẩn chuyển (QĐ 5904 Phần 3 mục D.1: ≥ 200/120, hoặc ≥ 180/110 kèm triệu chứng). Ông chỉ mang 200 nghìn nên viện phí làm ông xấu hổ với con, còn nỗi lo thật trong nhà vẫn không ai hỏi tới; ra viện ông về ăn riêng tiếp.",
+    "chuyen_tuyen": "Ông được chuyển lên tuyến trên 'vì HA chưa đạt mục tiêu', dù mới dùng một thuốc. QĐ 5904 chỉ chuyển khi không đạt dù đủ ≥ 3 thuốc kèm lợi tiểu (Phần 1 Bước 4 mục A.3). Ông đi xa, tốn tiền, làm nhiều xét nghiệm không cần mà vẫn chưa ai hỏi lý do ông đến hôm nay.",
+    "cap_cuu": "Ông bị xử trí như cơn THA cấp cứu, dùng thuốc hạ áp mạnh, dù HA 168/94 không tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1). QĐ 5904 dặn tránh nifedipin tác dụng nhanh (Phần 3 mục D.1); hạ nhanh ở người THA lâu năm có thể gây thiếu tưới máu cơ quan (AHA/ACC 2025 mục 6.2). Ông thêm tin rằng bệnh mình rất nặng."
+   },
+   "loi_mo": "Chào bác sĩ. Thuốc huyết áp của tôi sắp hết, nhờ bác sĩ kê lại. Dạo này tôi đo ở nhà thấy cao hơn trước, tôi có ghi sổ đây. Mà trước hết bác sĩ cho tôi hỏi: xét nghiệm hết bao nhiêu tiền? Tôi chỉ mang có hai trăm nghìn.",
+   "sinh_hieu": {
+    "mach": 66,
+    "ha": "168/94",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Perindopril 5 mg sắp hết; đo huyết áp ở nhà dạo này cao hơn trước, ghi sổ. Ông nói thẳng 'chỉ mang hai trăm nghìn'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám bề ngoài và giới hạn tiền"
+    },
+    {
+     "id": "thuoc_ha_ap",
+     "noi_dung": "Perindopril 5 mg (Coversyl 5), 1 viên buổi sáng sau ăn, khoảng 2 năm nay; bệnh viện quận kê đơn đầu, từ đó mua ở nhà thuốc theo đơn cũ. Chưa đổi liều, không dùng thuốc hạ áp nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc hạ áp đang dùng"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống đều mỗi sáng, đánh dấu từng ngày trong sổ; tháng qua bỏ 1 ngày vì đi đám tang xa. Không tự giảm liều hay cắt thuốc để tiết kiệm. Hộp còn 4 viên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt: HA cao không do quên thuốc"
+    },
+    {
+     "id": "ha_nha",
+     "noi_dung": "Máy đo bắp tay con trai mua. 10 ngày qua đo sáng và tối, tâm thu 152–170, tâm trương 86–96, trung bình khoảng 162/91; không nhớ lần nào dưới 140.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA ngoài phòng khám cũng cao"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Thỉnh thoảng nặng đầu nhẹ buổi chiều. Không đau ngực, khó thở, phù chân, nhìn mờ, tê yếu, nói khó, nôn, ngất, té ngã; không choáng khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng cơ quan đích cấp"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không đái tháo đường, bệnh thận, đột quỵ, bệnh tim. Bỏ thuốc lá 20 năm; rượu một chén nhỏ dịp giỗ, Tết. Không dùng thuốc giảm đau xương khớp, thuốc cảm, cam thảo, thuốc nam bắc, corticoid. Ngáy nhẹ, không ngưng thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có yếu tố gợi THA thứ phát"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn mặn theo thói quen: dưa cà muối, cá kho mặn, canh nêm đậm; ít rau. Đi bộ chậm 30 phút mỗi sáng. HA nhích dần mấy tháng nay, không có sự kiện khởi phát rõ (không đổi thuốc, không mất ngủ, không căng thẳng đặc biệt).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn mặn; không rõ yếu tố khởi phát"
+    },
+    {
+     "id": "ngan_sach",
+     "noi_dung": "Ông giữ 200.000 đồng lấy từ lương hưu (khoảng 4 triệu/tháng, phần lớn đóng tiền học cho cháu), không muốn xin con. Mỗi xét nghiệm được đề nghị ông hỏi giá và 'cái này có đổi cách chữa không?'; nghe rõ lý do thì đồng ý, xét nghiệm 'để cho đủ' thì từ chối.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi giá/tiền hoặc đề nghị xét nghiệm; con trai không biết số tiền.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Không đủ tiền: phải xếp ưu tiên xét nghiệm"
+    },
+    {
+     "id": "con_trai",
+     "noi_dung": "Con trai Quân (49 tuổi) hai tuần trước đo HA ở đợt khám sức khỏe cơ quan được 152/96, bác sĩ dặn 'gia đình có người cao huyết áp, ăn mặn, coi chừng'. Quân chưa đi khám lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn gốc nỗi lo của ông"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều ông thật sự lo: nghe con dâu nói 'ba ăn mặn rồi lây cả nhà', ông tin huyết áp 'lây' qua ăn chung, ngồi chung. Hai tuần nay ông tự ăn riêng, rửa chén đũa riêng, không bế hay hôn cháu nội, đeo khẩu trang khi nói chuyện với con. Ông muốn hỏi có phải vì mình mà con bị bệnh nhưng sợ nghe câu trả lời 'phải'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi ông lo điều gì nhất, nghĩ vì sao mình hay con bị bệnh, hỏi chuyện sinh hoạt trong nhà (ăn chung, trông cháu), hoặc khi con trai kể ba ăn riêng.",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ lây bệnh cho người thân"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 168/94, tay trái 166/92 mmHg (ngồi tựa, nghỉ 10 phút, đo hai lần cách 2 phút). Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Ngồi nghỉ 5 phút: 168/94, mạch 66. Đứng 1 phút: 160/92, mạch 72. Đứng 3 phút: 158/90. Giảm tối đa 10/4 mmHg (dưới 20/10), không triệu chứng: không hạ HA tư thế.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, nói chậm rõ, ngồi thẳng, hơi căng thẳng. Cân nặng 58 kg, cao 164 cm, BMI 21,6 kg/m². Vòng eo 82 cm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 66 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 66 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở đều 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp nhẹ, dấu bắt chéo động–tĩnh mạch độ nhẹ. Không xuất huyết, xuất tiết, phù gai thị (đèn soi cầm tay, có thể bỏ sót tổn thương nhỏ).",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng, nói rõ. Sức cơ 5/5 bốn chi, không lệch tay, Babinski âm tính.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, đùi, mu chân bắt rõ hai bên. Không âm thổi động mạch cảnh, không âm thổi vùng bụng trên rốn.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù mắt cá chân hai bên.",
+     "k": 1
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy khỏi ghế không cần vịn, đi vững, quay người ổn định.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 66 l/p, trục trung gian, Sokolow-Lyon 29 mm. Không dày thất trái, không ST–T thiếu máu cục bộ, không rung nhĩ.",
+     "n": "Điện tim 12 chuyển đạo (50.000 đ) thuộc xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 10); ESC 2024 Bảng 8: tìm dày thất trái, rung nhĩ."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,8 mmol/L · Creatinin 104 µmol/L · eGFR 63 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.8,
+      "creat": 104,
+      "egfr": 63
+     },
+     "n": "Dùng ức chế men chuyển 2 năm chưa có creatinin nền; nên kiểm tra creatinin và kali trước khi dùng (QĐ 5904 Phần 3 mục G); mốc để chỉnh thuốc (50.000 đ)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 140 · K 4,4 · Cl 103 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.4,
+      "cl": 103
+     },
+     "n": "Kali cần biết khi sắp chỉnh thuốc nhóm ức chế men chuyển (QĐ 5904 Phần 3 mục G; Phần 1 Bước 2 mục 7); K bình thường, không gợi ý thứ phát (60.000 đ)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose máu đói 5,3 mmol/L",
+     "bang": {
+      "glu": 5.3
+     },
+     "n": "Xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 5), rẻ (25.000 đ); loại ĐTĐ đi kèm vì đổi mức nguy cơ."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Que thử 10 thông số: protein, glucose, hồng cầu, bạch cầu, nitrit âm tính; tỷ trọng 1.015",
+     "bang": {
+      "u_sg": 1.015,
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ery": "Âm tính",
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính"
+     },
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 9: protein niệu 'định tính hoặc định lượng', que thử tại giường (15.000 đ) đủ; tổng phân tích nước tiểu (40.000 đ) vượt ngân sách."
+    },
+    "lipid": {
+     "v": "a",
+     "r": "Cholesterol toàn phần 5,0 · LDL-C 3,0 · HDL-C 1,2 · Triglycerid 1,7 mmol/L",
+     "n": "Thuộc xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 6; ESC 2024 Bảng 8), nhắc lại 6–12 tháng (khoảng cách mục 2). 120.000 đ không đổi quyết định hôm nay, chiếm chỗ creatinin–kali nên hoãn."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Hb 135 g/L · BC 7,0 G/L · TC 250 G/L",
+     "bang": {
+      "hgb": 135,
+      "wbc": 7.0,
+      "plt": 250
+     },
+     "n": "Hemoglobin (QĐ 5904 Phần 1 Bước 2 mục 4) không đổi quyết định hôm nay; bỏ được khi thiếu tiền."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "Cơ sở không làm được TSH (ngoài nhóm xét nghiệm cơ bản).",
+     "n": "ESC 2024 Bảng 8 và AHA/ACC 2025 mục 3.1.2 xếp TSH vào thường quy; QĐ 5904 và VSH/VNHA 2024 không liệt kê. Không gợi ý bệnh giáp: không làm không bị trừ."
+    },
+    "aldo": {
+     "v": "n",
+     "r": "Cơ sở không làm được renin–aldosterone.",
+     "n": "Chưa có chỉ định sàng lọc cường aldosteron: không kháng trị, K bình thường, không nghi ngưng thở khi ngủ (AHA/ACC 2025 mục 3.2.3.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2 (HA 168/94 mmHg; HA nhà trung bình khoảng 162/91), đang dùng perindopril 5 mg đơn trị, tuân thủ tốt nhưng chưa kiểm soát; người 78 tuổi, chưa thấy tổn thương cơ quan đích, không hạ HA tư thế",
+     "ok": 1,
+     "n": "Tâm thu 160–179 là độ 2 (QĐ 5904 Phần 1 Bước 3A). HA nhà trung bình ≥ 135/85 xác nhận THA ngoài phòng khám (VSH/VNHA 2024 Đ1.2.2; ESC 2024 mục 5.2.3), cũng loại áo choàng trắng. Tuân thủ tốt nên phải tăng cường điều trị (QĐ 5904 Phần 1 Bước 5 mục C.6). Điện tim, creatinin, protein niệu, đáy mắt chưa thấy tổn thương cơ quan đích."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "THA lâu năm, đáp ứng thuốc; K 4,4, creatinin 104, protein niệu âm tính; không NSAID, cam thảo, corticoid; không nghi ngưng thở khi ngủ. QĐ 5904 chuyển khi nghi THA thứ phát hoặc THA dưới 40 tuổi (Phần 1 Bước 4 mục A.1); ông chưa có dấu gợi ý."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA dưới 180/110, không đau ngực, khó thở, nhìn mờ, dấu thần kinh, lơ mơ; đáy mắt không xuất huyết hay phù gai. Cấp cứu là HA cao kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1)."
+    },
+    {
+     "t": "Hạ huyết áp tư thế (cần loại trừ trước khi tăng thuốc)",
+     "n": "Đứng 1 và 3 phút giảm tối đa 10/4 mmHg, dưới ngưỡng 20/10 (QĐ 5904 Phụ lục 1.1 mục 2; VSH/VNHA 2024 Đ1.2.1; ESC 2024 mục 9.5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Thêm amlodipin 5 mg buổi sáng cạnh perindopril 5 mg (ức chế men chuyển + chẹn kênh canxi), hoặc tăng perindopril lên 10 mg",
+     "v": "c",
+     "n": "Hai cách đều có nguồn, không nguồn nào nói cách kia có hại. Phối hợp: THA độ 2 bắt đầu bằng 2 thuốc (QĐ 5904 Phần 1 Bước 5 mục C.3), ngoại lệ chỉ ≥ 80 tuổi hoặc dễ tổn thương (mục B.2); ESC 2024 Bảng khuyến cáo 16 (I, B) và Bảng 23 (I, A: dưới 85 tuổi không suy yếu điều trị như người trẻ). Tăng liều một thuốc: QĐ 5904 mục C.4; Phần 3 mục G (perindopril duy trì 5–10 mg)."
+    },
+    {
+     "t": "Xếp xét nghiệm theo 200.000 đ: creatinin–ure, điện giải (K), điện tim, glucose, que thử nước tiểu; hoãn mỡ máu, công thức máu, acid uric",
+     "v": "c",
+     "n": "Creatinin–kali là điều kiện để chỉnh ức chế men chuyển (QĐ 5904 Phần 3 mục G); điện tim tìm dày thất trái, rung nhĩ (Phần 1 Bước 2 mục 10). Các xét nghiệm hoãn vẫn nằm trong danh sách cơ bản (mục 4, 6, 7) nhưng không đổi quyết định hôm nay."
+    },
+    {
+     "t": "Hỏi nỗi lo thật của ông và nói rõ THA không phải bệnh lây; ăn chung, ngồi chung, bế cháu không làm lây; con trai nên đo lại HA",
+     "v": "c",
+     "n": "QĐ 5904 (tên văn bản, Lời giới thiệu) xếp THA vào bệnh không lây nhiễm; chế độ ăn không phù hợp và tiền sử gia đình có bệnh tim mạch sớm là yếu tố nguy cơ (Phần 1 Bước 1 mục 4, 5). ESC 2024 mục 7.3: hiểu niềm tin về nguyên nhân và lo ngại trước khi điều trị; VSH/VNHA 2024 Đ3.5. Mức di truyền của THA: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn đo HA nhà đúng cách (3–7 ngày, sáng và tối, mỗi lần 2 phép đo cách 1–2 phút), ghi sổ mang tái khám",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ1.2.2 (nguyên tắc 3,7-2-2); ESC 2024 mục 5.2.3; QĐ 5904 Phần 1 Bước 2 mục 1."
+    },
+    {
+     "t": "Mục tiêu HA: tâm thu 130 đến dưới 140 mmHg, tâm trương 70 đến dưới 80 (QĐ 5904), hoặc dưới 130/80, hướng tới tâm thu 120–129 nếu dung nạp (VSH/VNHA 2024, ESC 2024, AHA/ACC 2025)",
+     "v": "c",
+     "n": "QĐ 5904/2019 Phần 1 Bước 5 mục A.2 (người ≥ 65 tuổi); VSH/VNHA 2024 Bảng 4; ESC 2024 Bảng khuyến cáo 18 (I, A); AHA/ACC 2025 mục 5.2.7. Khác nhau vì năm ban hành và bối cảnh (QĐ 5904 viết cho trạm y tế xã 2019; ba tài liệu sau dựa trên thử nghiệm điều trị tích cực); không nguồn nào nói cách kia có hại."
+    },
+    {
+     "t": "Lối sống (bớt muối còn khoảng 5 g/ngày, bớt dưa cà mặn, đi bộ đều, rượu không quá 2 cốc/ngày); dặn khi HA nhà tăng vọt: ngồi nghỉ 5–10 phút, đo lại, đi cấp cứu khi ≥ 180/110 kèm triệu chứng; hẹn tái khám sau 4 tuần",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15 (I, A: natri khoảng 2 g/ngày, vận động ≥ 150 phút/tuần); QĐ 5904 Phần 1 Bước 5 mục D.1a, c, e; Phần 3 mục D.1 (≥ 200/120 hoặc ≥ 180/110 kèm triệu chứng); theo dõi sát 1 tháng đầu khi đổi phác đồ (Bước 2, khoảng cách mục 3)."
+    },
+    {
+     "t": "Thêm chẹn beta (atenolol) làm thuốc thứ hai",
+     "v": "w",
+     "n": "QĐ 5904 Phần 3 mục G: chẹn beta khi không dung nạp lợi tiểu, ức chế men chuyển; tránh atenolol làm thuốc đầu ở người > 60 tuổi. ESC 2024 Bảng khuyến cáo 16: khi có chỉ định bắt buộc."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển cấp cứu để hạ áp",
+     "v": "w",
+     "n": "HA dưới 180/110, không triệu chứng cơ quan đích: không phải cấp cứu (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "Cho nifedipin ngậm hoặc uống tác dụng nhanh để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ mạnh, khó kiểm soát; AHA/ACC 2025 mục 6.2: hạ nhanh có thể gây thiếu tưới máu cơ quan do mất tự điều hòa."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2 (HA 168/94 mmHg, HA nhà khoảng 162/91) ở người 78 tuổi, chưa kiểm soát dù tuân thủ perindopril 5 mg đơn trị",
+     "Chưa thấy tổn thương cơ quan đích (điện tim, creatinin 104, protein niệu âm tính, đáy mắt hẹp nhẹ); không hạ HA tư thế; không dấu hiệu THA thứ phát hay cấp cứu",
+     "Yếu tố làm HA cao thêm: ăn mặn. Lý do thật đến khám: sợ 'lây' bệnh cho con và cháu, đang tự cách ly trong nhà"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hỏi khối ngắn (triệu chứng, thuốc, cách uống thuốc cụ thể: QĐ 5904 Phần 1 Bước 1 mục 3, HA nhà, thuốc làm tăng HA, ăn uống), rồi hỏi 'điều gì khiến ông lo nhất hôm nay'. Ông chỉ kể chuyện ăn riêng, không bế cháu khi được hỏi riêng và thấy an toàn.",
+     "Khám: HA hai tay (QĐ 5904 Phụ lục 1.1 mục 6), HA tư thế vì ông 78 tuổi và sắp chỉnh thuốc (VSH/VNHA 2024 Đ1.2.1; ESC 2024 mục 9.5), tim phổi, thần kinh, đáy mắt, phù chân để loại tổn thương cơ quan đích cấp.",
+     "Cận lâm sàng trong 200.000 đ: creatinin–ure 50.000 + điện giải 60.000 + điện tim 50.000 + glucose 25.000 + que thử nước tiểu 15.000. Chọn xét nghiệm đổi quyết định (thận–kali trước khi chỉnh ức chế men chuyển; dày thất trái, rung nhĩ); hoãn mỡ máu, công thức máu, acid uric (QĐ 5904 Bước 2 mục 4, 6, 7), nhắc lại 6–12 tháng. TSH, renin–aldosterone, microalbumin niệu: cơ sở không làm, chưa có chỉ định.",
+     "Loại trừ: THA thứ phát (QĐ 5904 Bước 4 mục A.1); cơn cấp cứu (HA < 180/110, không triệu chứng; Phần 3 mục D.1; ESC 2024 mục 10.1.1); hạ HA tư thế (giảm 10/4); áo choàng trắng (HA nhà ≥ 135/85).",
+     "Mục tiêu HA: QĐ 5904/2019 (Phần 1 Bước 5 mục A.2) tâm thu 130 đến dưới 140, tâm trương 70 đến dưới 80 ở người ≥ 65 tuổi; VSH/VNHA 2024 (Bảng 4), ESC 2024 (Bảng khuyến cáo 18), AHA/ACC 2025 (mục 5.2.7) hướng tới dưới 130/80, tâm thu 120–129 nếu dung nạp. Khác nhau vì năm và bối cảnh; ghi cả hai, không chọn một bên. Applicability note: thử nghiệm mục tiêu chặt ở người cao tuổi thường chọn người ít suy yếu hơn người ngoài đời (ESC 2024 mục 9.3.2); ông 78 tuổi, chưa suy yếu nên áp dụng được nếu đo HA tư thế vẫn bình thường (ESC 2024 Bảng khuyến cáo 23)."
+    ],
+    "phan_tich_xu_tri": [
+     "Thuốc: THA độ 2 → phối hợp 2 thuốc (QĐ 5904 Bước 5 mục C.3; ESC 2024 Bảng khuyến cáo 16) hoặc tăng perindopril lên 10 mg (QĐ 5904 mục C.4; Phần 3 mục G): cả hai đều hợp lệ. Ca chọn thêm amlodipin vì ông tuân thủ tốt, không hạ HA tư thế, mới 78 tuổi (QĐ 5904 mục B.2 chỉ loại ≥ 80 tuổi).",
+     "Nỗi lo 'lây bệnh': trả lời thẳng, không chỉ chữa số HA. THA không lây qua ăn chung, ngồi chung hay bế cháu (QĐ 5904 xếp THA vào bệnh không lây nhiễm); điều cả nhà chia sẻ là thói quen ăn mặn. Mời ông ăn chung mâm và bế cháu lại; con trai nên đo lại HA (QĐ 5904 Phần 1, đối tượng áp dụng: ≥ 18 tuổi, HA ≥ 140/90).",
+     "Ngân sách: nói với ông đã chọn xét nghiệm nào và vì sao; không thêm xét nghiệm 'cho đủ'; hẹn bổ sung khi có điều kiện.",
+     "Không nhập viện, không chuyển tuyến (chưa đủ tiêu chuẩn: QĐ 5904 Bước 4 mục A); không chẹn beta hay nifedipin tác dụng nhanh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn, giờ cố định",
+      "so_ngay": "30 ngày",
+      "ghi_chu": "Giữ liều hiện tại (QĐ 5904 Phần 3 mục G: khởi đầu 5 mg, duy trì 5–10 mg). Đã kiểm creatinin 104, K 4,4. Ho khan, phù mặt môi lưỡi thì ngưng và khám ngay (Phần 3 mục G)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng perindopril",
+      "so_ngay": "30 ngày",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G); dặn ông báo, không tự ngưng. Chọn giờ thuận tiện để uống đều (ESC 2024 Bảng khuyến cáo 16, I, B)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh huyết áp không lây qua ăn chung, ngồi chung, bế cháu: ông ăn chung mâm và bế cháu lại. Con trai nên đi đo lại huyết áp và khám.",
+     "Uống perindopril và amlodipin mỗi sáng; không tự bỏ hay giảm liều để tiết kiệm (QĐ 5904 Phần 1 Bước 5 mục D.2). Thấy thuốc quá tốn thì nói để cân nhắc loại rẻ hơn.",
+     "Đo HA nhà sáng và tối 7 ngày trước khi tái khám (VSH/VNHA 2024 Đ1.2.2), ngồi nghỉ 5 phút, đo 2 lần cách 1–2 phút, ghi sổ.",
+     "Giảm muối còn khoảng 5 g/ngày: bớt nước mắm, dưa cà, cá kho mặn; thêm rau; đi bộ đều; rượu không quá 2 cốc/ngày (ESC 2024 Bảng khuyến cáo 15; QĐ 5904 mục D.1).",
+     "Khi đo thấy ≥ 180/110: ngồi nghỉ 5–10 phút, đo lại. Đi cấp cứu nếu kèm đau ngực, khó thở, nhìn mờ, yếu liệt, nói khó, lú lẫn (QĐ 5904 Phần 3 mục D.1).",
+     "Tái khám sau 4 tuần (QĐ 5904 Phần 1 Bước 2, khoảng cách mục 3), mang sổ HA và hộp thuốc."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ông Thiện tái khám sau 4 tuần, con trai Quân đi cùng, mang sổ ghi HA 7 ngày gần nhất. Ông uống perindopril và amlodipin đều, hết nặng đầu buổi chiều, vẻ mặt nhẹ nhõm hơn. Sinh hiệu lúc tiếp đón: HA 150/86 mmHg, mạch 68 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Thiện bị giữ lại viện vì HA 150/86 'chưa xuống', dù không triệu chứng và HA đã giảm 18/8 mmHg. Không có tiêu chuẩn nhập viện ở mức này (QĐ 5904 Phần 1 Bước 4 mục A). Ông tốn tiền, lại tin rằng kể thật sẽ bị đưa vào viện nên về sau giấu các lần HA tăng.",
+    "chuyen_tuyen": "Ông được chuyển lên tuyến trên 'vì không đạt mục tiêu', dù mới 2 thuốc 4 tuần. QĐ 5904 chỉ chuyển khi không đạt dù đủ ≥ 3 thuốc kèm lợi tiểu (Phần 1 Bước 4 mục A.3); VSH/VNHA 2024 Hình 14.1 gọi THA kháng trị khi vẫn ≥ 140/90 dù đủ 3 thuốc liều tối ưu. Ông đi xa, tốn tiền, xét nghiệm ở đó không đổi cách chữa.",
+    "cap_cuu": "Nghe lần đo 188/104 đêm giỗ, người khám xử trí như cơn THA cấp cứu và cho hạ áp tiêm hoặc truyền. Lần đó không có tổn thương cơ quan đích cấp; THA nặng như vậy chỉnh thuốc uống ngoại trú, không hạ mạnh (AHA/ACC 2025 mục 6.2; ESC 2024 mục 10.1.1). Hôm nay HA chỉ 150/86, hạ thêm quá tay gây tụt áp ở người 78 tuổi."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi uống hai thứ thuốc đều rồi, đây là sổ ghi bảy ngày. Số hạ nhiều so với trước nhưng chưa xuống dưới 140. Chiều chiều cái chân tôi hơi nặng. Thằng Quân nó đi đo lại rồi. Nhà tôi ăn chung lại như cũ rồi, bác sĩ khỏi lo.",
+   "sinh_hieu": {
+    "mach": 68,
+    "ha": "150/86",
+    "nhiet": "36,5",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn, mang sổ HA 7 ngày. HA hạ nhiều nhưng chưa dưới 140; chiều chân hơi nặng. Kỳ này ông mang 150.000 đồng, vẫn hỏi 'cái này có đổi cách chữa không?'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do khám và ngân sách"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống perindopril 5 mg và amlodipin 5 mg mỗi sáng, quên 1 lần. Sổ HA 7 ngày gần nhất, sáng và tối: trung bình 146/82 (tâm thu 138–156, tâm trương 78–88).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt; HA nhà giảm chưa tới mục tiêu"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Chân nặng, sưng nhẹ mắt cá buổi chiều tối từ 2–3 tuần, sáng dậy hết. Không khó thở khi nằm, không phải kê cao gối, tiểu bình thường. Không ho khan, không phù môi mặt, không choáng khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phù nhẹ do amlodipin, không dấu suy tim"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Từ sau lần khám trước ông ăn chung mâm và bế cháu lại. Quân đo ở trạm y tế được 146/94, đã hẹn khám. Ông nói 'nhẹ cả người'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi lo lây bệnh đã gỡ"
+    },
+    {
+     "id": "tang_vot",
+     "noi_dung": "Tối thứ Bảy tuần thứ hai, sau đám giỗ (ăn mặn, ba chén rượu nhỏ), 22 giờ ông đo 188/104, mạch 88, hơi nặng đầu; không đau ngực, khó thở, yếu liệt, nói khó. Ông nhớ 'trên 180 là nguy hiểm' nhưng quên chữ 'kèm triệu chứng', sợ và không muốn đánh thức con. Ông ngậm nguyên viên nang nifedipin 10 mg dưới lưỡi (thuốc 'hạ nhanh' ông Sáu hàng xóm từng cho). Hai mươi phút sau đo 134/76, mặt nóng đỏ, tim đập mạnh; đứng dậy đi vệ sinh thì tối sầm mắt, phải bám tường rồi ngồi bệt, không ngã. Một giờ sau đỡ; sáng đo 150/88. Ông thấy 'hạ liền, có sao đâu', còn giữ 3 viên và không ghi trang đó vào sổ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có lần nào HA tăng vọt giữa hai kỳ khám, có tự dùng hay ngậm thuốc ngoài đơn hoặc thuốc của người khác không, hoặc chuyện ở nhà tuần thứ hai (đám giỗ). Con trai không biết.",
+     "k": 1,
+     "y": "Xử trí ẩu nhưng may mắn không sao"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 150/86, tay trái 148/84 mmHg (ngồi tựa, nghỉ 10 phút, đo hai lần).",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Ngồi nghỉ 5 phút: 150/86, mạch 68. Đứng 1 phút: 142/84, mạch 74. Đứng 3 phút: 144/82. Giảm tối đa 8/4 mmHg (dưới 20/10), không triệu chứng: không hạ HA tư thế.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Phù nhẹ ấn lõm mắt cá hai chân, đối xứng, không đau, không nóng đỏ; không phù đùi, mặt hay mi mắt.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 68 l/p. T1, T2 rõ, không T3, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 68 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran ẩm.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, thở đều 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tươi hơn lượt trước. Cân nặng 58 kg, không tăng cân.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "n",
+     "r": "Chưa cần lặp lại: 4 tuần trước creatinin 104 µmol/L, eGFR 63.",
+     "n": "Đo eGFR 2–4 tuần sau khi tăng liều (AHA/ACC 2025 mục 5.2.9), nên để lượt sau; hôm nay không đổi quyết định."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Chưa cần lặp lại: K 4,4 mmol/L cách 4 tuần.",
+     "n": "Kiểm kali sau khi tăng perindopril (QĐ 5904 Phần 3 mục G), để lượt sau."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát đang điều trị, đáp ứng một phần sau 4 tuần phối hợp perindopril 5 mg + amlodipin 5 mg (HA phòng khám 168/94 → 150/86, HA nhà 146/82), chưa đạt mục tiêu; dung nạp tốt, phù nhẹ mắt cá do amlodipin",
+     "ok": 1,
+     "n": "Giảm 18/8 mmHg sau 4 tuần là xu hướng đúng; mục tiêu đạt trong 1–3 tháng (QĐ 5904 Phần 1 Bước 5 mục A.3; ESC 2024 mục 8.4). Phù mắt cá là tác dụng phụ của amlodipin (QĐ 5904 Phần 3 mục G)."
+    },
+    {
+     "t": "Phù do suy tim hoặc suy thận",
+     "n": "Phù nhẹ mắt cá hai bên xuất hiện sau khi thêm amlodipin; không khó thở khi nằm, phổi sạch, T1 T2 bình thường, tiểu bình thường, creatinin lượt 1 bình thường."
+    },
+    {
+     "t": "Thất bại điều trị sớm / THA kháng trị",
+     "n": "Mới 2 thuốc 4 tuần, HA đã giảm 18/8, tuân thủ tốt. Chuyển tuyến khi không đạt dù ≥ 3 thuốc kèm lợi tiểu (QĐ 5904 Phần 1 Bước 4 mục A.3); VSH/VNHA 2024 Hình 14.1: kháng trị khi vẫn ≥ 140/90 dù đủ 3 thuốc liều tối ưu."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu (đêm tăng vọt 188/104)",
+     "n": "Không đau ngực, khó thở, yếu liệt, nói khó; hôm nay HA 150/86, thần kinh bình thường. Chuyển khẩn khi ≥ 200/120 hoặc ≥ 180/110 kèm triệu chứng (QĐ 5904 Phần 3 mục D.1); THA nặng không tổn thương cơ quan đích cấp xử trí bằng thuốc uống, thường không nhập viện (ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tăng perindopril lên 10 mg, giữ amlodipin 5 mg, hoặc giữ nguyên hai thuốc thêm 4 tuần rồi xét lại",
+     "v": "c",
+     "n": "Hai cách đều đúng. Tăng liều: perindopril duy trì 5–10 mg (QĐ 5904 Phần 3 mục G), chưa đạt mục tiêu thì xem lại thuốc và phối hợp (Phần 1 Bước 5 mục C.6). Giữ nguyên chờ thêm: mục tiêu trong 1–3 tháng (mục A.3; ESC 2024 mục 8.4), HA đang giảm. Không nguồn nào nói cách kia có hại; ca theo hướng tăng perindopril 10 mg."
+    },
+    {
+     "t": "Hỏi riêng lần HA tăng vọt giữa hai kỳ khám và mọi thuốc ngoài đơn, kể cả thuốc của người khác",
+     "v": "c",
+     "n": "Hỏi cách dùng thuốc trước khi chỉnh (QĐ 5904 Phần 1 Bước 1 mục 3; Bước 5 mục C.6). Ông không tự kể vì xấu hổ; sổ mang theo không có trang đó."
+    },
+    {
+     "t": "Giải thích 188/104 không triệu chứng không phải cấp cứu; không bao giờ ngậm nifedipin; lần sau ngồi nghỉ 5–10 phút, đo lại, gọi phòng khám; đi cấp cứu khi ≥ 180/110 KÈM triệu chứng hoặc ≥ 200/120",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ mạnh, khó kiểm soát. AHA/ACC 2025 mục 6.2: hạ nhanh ở người THA lâu năm có thể gây thiếu tưới máu cơ quan do mất tự điều hòa; THA nặng không tổn thương cấp thì chỉnh thuốc uống ngoại trú."
+    },
+    {
+     "t": "Giải thích phù nhẹ mắt cá là tác dụng phụ thường gặp của amlodipin, tiếp tục thuốc, báo ngay nếu phù tăng, khó thở khi nằm, tiểu ít; chưa làm lại xét nghiệm hôm nay, hẹn creatinin–kali sau tăng perindopril; tái khám sau 4 tuần",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục G (amlodipin: phù mắt cá; ức chế men chuyển: kiểm creatinin, kali); eGFR đo 2–4 tuần sau tăng liều (AHA/ACC 2025 mục 5.2.9); theo dõi sát khi đổi phác đồ (QĐ 5904 Phần 1 Bước 2, khoảng cách mục 3). Ngân sách hạn chế nên không lặp xét nghiệm không đổi quyết định."
+    },
+    {
+     "t": "Thêm thuốc thứ ba (lợi tiểu thiazide-like) ngay hôm nay",
+     "v": "a",
+     "n": "ESC 2024 Bảng khuyến cáo 16 và VSH/VNHA 2024 Hình 14.1 nêu phối hợp 3 thuốc khi cần; chưa cần sau 4 tuần khi HA đang giảm."
+    },
+    {
+     "t": "Chuyển tuyến vì 'không đạt mục tiêu', hoặc nhập viện vì lần tăng vọt",
+     "v": "w",
+     "n": "Chưa đủ tiêu chuẩn (QĐ 5904 Phần 1 Bước 4 mục A.3; Phần 3 mục D.1)."
+    },
+    {
+     "t": "Cho về, không hỏi và không dặn gì thêm vì 'không sao nên thôi'",
+     "v": "w",
+     "n": "Kết cục tốt không hợp thức hóa cách làm sai: tụt từ 188/104 xuống 134/76 trong 20 phút kèm tối sầm mắt là hạ quá nhanh (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "Cho nifedipin ngậm dự phòng khi HA cao đột xuất, hoặc để ông giữ 3 viên còn lại",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát đang điều trị, đáp ứng một phần sau 4 tuần phối hợp perindopril 5 mg + amlodipin 5 mg (HA phòng khám 150/86, HA nhà 146/82), chưa đạt mục tiêu; phù nhẹ mắt cá do amlodipin",
+     "Không hạ HA tư thế; không phải cấp cứu, không phải thất bại điều trị sớm",
+     "Một lần tự ngậm nifedipin tác dụng nhanh đêm giỗ: hạ áp quá nhanh, tối sầm mắt nhưng may mắn không té"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: tuân thủ (đều), sổ HA nhà (146/82), tác dụng phụ (chân nặng), triệu chứng suy tim (không). Câu dễ bỏ sót: 'Giữa hai kỳ khám có lần nào số đo vọt lên, ông đã làm gì?' Ông chỉ kể khi được hỏi vì xấu hổ; trang đó không có trong sổ.",
+     "Khám: HA hai tay và tư thế (giảm 8/4: không hạ HA tư thế; đo lại khi sắp tăng thuốc: VSH/VNHA 2024 Đ1.2.1); phù nhẹ đối xứng, tim phổi bình thường: phù do amlodipin, không do suy tim hay suy thận. Cận lâm sàng chưa cần lặp lại; creatinin–kali đo sau khi tăng perindopril (AHA/ACC 2025 mục 5.2.9).",
+     "Phân biệt 'đỡ một phần' với thất bại điều trị sớm: tuân thủ tốt, mới 2 thuốc, mới 4 tuần, HA hạ 18/8; mục tiêu đạt trong 1–3 tháng (QĐ 5904 Phần 1 Bước 5 mục A.3). Kháng trị cần ≥ 3 thuốc liều tối ưu (QĐ 5904 Bước 4 mục A.3; VSH/VNHA 2024 Hình 14.1).",
+     "Mục tiêu HA: tâm thu 130 đến dưới 140 (QĐ 5904 Bước 5 mục A.2) hoặc dưới 130/80, hướng tới 120–129 nếu dung nạp (VSH/VNHA 2024 Bảng 4; ESC 2024 Bảng khuyến cáo 18); ông chưa đạt cả hai nên tiếp tục hướng tới mục tiêu."
+    ],
+    "phan_tich_xu_tri": [
+     "Hai cách đều đúng: tăng perindopril lên 10 mg (QĐ 5904 Phần 3 mục G: 5–10 mg) hoặc giữ nguyên hai thuốc thêm 4 tuần (mục tiêu trong 1–3 tháng: QĐ 5904 mục A.3; ESC 2024 mục 8.4). Ca chọn tăng perindopril, rồi kiểm creatinin–kali sau 2–4 tuần (AHA/ACC 2025 mục 5.2.9).",
+     "Lần 'may mắn không sao': 188/104 không triệu chứng không phải cấp cứu (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Việc đúng là ngồi nghỉ, đo lại, uống thuốc đúng giờ và gọi phòng khám. Ngậm nifedipin hạ từ 188/104 xuống 134/76 trong 20 phút kèm tối sầm mắt: dễ ngã, thiếu máu não hoặc tim (AHA/ACC 2025 mục 6.2). Không té chỉ là may; đừng để ông kết luận 'hạ nhanh thì tốt'. Xin ông giao lại 3 viên.",
+     "Phù nhẹ mắt cá: tác dụng phụ thường gặp, không ngưng thuốc (QĐ 5904 Phần 3 mục G). Không chuyển tuyến, không nhập viện, chưa thêm thuốc thứ ba (QĐ 5904 Bước 4 mục A.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "2 viên/ngày (10 mg), một lần",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn",
+      "so_ngay": "30 ngày",
+      "ghi_chu": "Duy trì 5–10 mg (QĐ 5904 Phần 3 mục G). Nếu chọn giữ 5 mg thì 1 viên/ngày. Hẹn creatinin–kali 2–4 tuần sau tăng liều (AHA/ACC 2025 mục 5.2.9)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng perindopril",
+      "so_ngay": "30 ngày",
+      "ghi_chu": "Giữ liều. Phù mắt cá là tác dụng phụ thường gặp (QĐ 5904 Phần 3 mục G); không tự ngưng."
+     }
+    ],
+    "dan_do": [
+     "Tuyệt đối không ngậm hay uống nifedipin 'hạ nhanh' của người khác; đưa lại 3 viên cho bác sĩ. Lần đó không sao chỉ là may.",
+     "Khi đo thấy ≥ 180/110: ngồi nghỉ 5–10 phút, đo lại, uống thuốc đúng giờ, gọi phòng khám. Đi cấp cứu ngay nếu kèm đau ngực, khó thở, nhìn mờ, yếu liệt, nói khó, lú lẫn, hoặc đo ≥ 200/120 (QĐ 5904 Phần 3 mục D.1).",
+     "Ghi cả những lần cao đột xuất vào sổ và mang theo; nói với bác sĩ dù thấy xấu hổ.",
+     "Phù chân nhẹ chiều tối là tác dụng phụ đã biết, kê chân khi nghỉ; báo nếu phù tăng, khó thở khi nằm, tiểu ít.",
+     "Tái khám sau 4 tuần với sổ HA (QĐ 5904 Phần 1 Bước 2, khoảng cách mục 3); khi đó đo creatinin–kali (khoảng 110.000 đ)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Ông Thiện tái khám lần ba, 4 tuần sau lượt trước, đi cùng Quân; ông uống perindopril 10 mg và amlodipin 5 mg đều, đã đưa trả viên nifedipin cho ông Sáu. Ông ngồi thoải mái, mang sổ HA. Sinh hiệu lúc tiếp đón: HA 138/78 mmHg, mạch 66 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Thiện bị giữ lại viện vì HA 138/78 'chưa dưới 130', dù HA đã giảm 30/16 mmHg so với lượt 1, không triệu chứng. Không có tiêu chuẩn nhập viện (QĐ 5904 Phần 1 Bước 4 mục A). Ông mất một ngày công và vài trăm nghìn mà phác đồ không đổi.",
+    "chuyen_tuyen": "Ông được chuyển khám tim mạch tuyến trên 'để đạt dưới 130/80', dù đã đạt mục tiêu của QĐ 5904 (tâm thu 130 đến dưới 140, Phần 1 Bước 5 mục A.2) với 2 thuốc dung nạp tốt. Tiêu chuẩn chuyển là không đạt dù ≥ 3 thuốc (Bước 4 mục A.3). Ông đi xa, thêm xét nghiệm chuyên sâu ngoài ngân sách, không đổi cách điều trị."
+   },
+   "loi_mo": "Chào bác sĩ. Hai tháng nay tôi uống thuốc đều, số đo ở nhà quanh 135. Chân hết nặng rồi. Viên thuốc của ông Sáu tôi trả lại rồi, nhưng bác sĩ cho tôi hỏi thật: hôm đó hạ liền mà tôi có sao đâu, vậy sao không được dùng? Hôm nay tôi mang 150 nghìn.",
+   "sinh_hieu": {
+    "mach": 66,
+    "ha": "138/78",
+    "nhiet": "36,5",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn; muốn biết đã đạt mục tiêu chưa và vì sao lần ngậm nifedipin 'hạ liền' lại không được dùng. Mang 150.000 đồng: creatinin–ure (50.000) và điện giải (60.000) vừa đủ, mỡ máu (120.000) thì không; ông chỉ đồng ý khi nghe rõ xét nghiệm đổi quyết định.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do khám, câu hỏi về nifedipin và ngân sách"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống perindopril 10 mg (hai viên 5 mg) và amlodipin 5 mg mỗi sáng, quên 1 lần. Chân hết phù từ tuần thứ hai; không ho khan, không choáng, không té.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và dung nạp tốt sau tăng perindopril"
+    },
+    {
+     "id": "ha_nha",
+     "noi_dung": "7 ngày gần nhất trung bình 134/76 (tâm thu 126–142, tâm trương 70–82). Một đêm tuần trước đo 172/98: ông ngồi nghỉ 10 phút, đo lại 148/88, không dùng gì, gọi con; sáng đo 140/82.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA nhà gần mục tiêu; lần cao đột xuất xử trí đúng"
+    },
+    {
+     "id": "tin_nifedipin",
+     "noi_dung": "Ông vẫn nghĩ 'hạ nhanh là tốt vì hôm đó tôi khỏe re'; chưa biết lần đó là may. Ông nhớ lúc đứng dậy bị tối sầm mắt nhưng cho là 'do ngồi lâu'. Ông sẽ nghe nếu được giải thích bằng chính số đo của mình.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi ông nghĩ gì về lần đó hoặc giải thích lý do không dùng nifedipin ngậm.",
+     "k": 1,
+     "y": "Niềm tin sai do kết cục may mắn"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Quân đã khám và được kê thuốc huyết áp. Cả nhà ăn chung, bớt mặn hơn; ông bế cháu hằng ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi lo lây bệnh đã gỡ hẳn"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 138/78, tay trái 136/76 mmHg (ngồi tựa, nghỉ 10 phút, đo hai lần).",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Ngồi nghỉ 5 phút: 138/78, mạch 66. Đứng 1 phút: 134/76. Đứng 3 phút: 136/76. Giảm tối đa 4/2 mmHg, không triệu chứng: không hạ HA tư thế.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù mắt cá hai chân.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Thoải mái, nói chuyện cởi mở. Cân nặng 58 kg.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 7,0 mmol/L · Creatinin 108 µmol/L · eGFR 61 mL/ph/1,73m²",
+     "bang": {
+      "ure": 7.0,
+      "creat": 108,
+      "egfr": 61
+     },
+     "n": "Đo eGFR 2–4 tuần sau tăng liều (AHA/ACC 2025 mục 5.2.9). Creatinin 104 → 108 (khoảng 4%), eGFR 63 → 61: trong mức giảm tới 30% được xem là dự kiến khi dùng thuốc nhóm này (mục 5.2.9). Đổi quyết định nên làm (50.000 đ)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 140 · K 4,6 · Cl 103 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.6,
+      "cl": 103
+     },
+     "n": "Kiểm kali sau tăng ức chế men chuyển (QĐ 5904 Phần 3 mục G); K 4,4 → 4,6 (60.000 đ)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát đang điều trị, đáp ứng một phần tiến tới mục tiêu: HA 168/94 → 150/86 → 138/78 (HA nhà 134/76) sau 8 tuần; đạt mục tiêu QĐ 5904, chưa tới dưới 130/80; dung nạp tốt",
+     "ok": 1,
+     "n": "Tâm thu 130 đến dưới 140 là mục tiêu người ≥ 65 tuổi (QĐ 5904 Phần 1 Bước 5 mục A.2); VSH/VNHA 2024 Bảng 4, ESC 2024 Bảng khuyến cáo 18 hướng tới dưới 130/80 và 120–129 nếu dung nạp."
+    },
+    {
+     "t": "Suy giảm chức năng thận hoặc tăng kali do tăng ức chế men chuyển",
+     "n": "Creatinin 104 → 108, K 4,4 → 4,6, eGFR 63 → 61: thay đổi nhỏ, trong mức dự kiến (AHA/ACC 2025 mục 5.2.9). Không hạ HA tư thế (giảm 4/2, dưới 20/10: VSH/VNHA 2024 Đ1.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giữ perindopril 10 mg + amlodipin 5 mg, không đổi thuốc hôm nay; mục tiêu: 130 đến dưới 140 mmHg (QĐ 5904) hoặc dưới 130/80, hướng tới 120–129 nếu dung nạp (VSH/VNHA 2024, ESC 2024, AHA/ACC 2025), thống nhất cùng ông",
+     "v": "c",
+     "n": "QĐ 5904/2019 Phần 1 Bước 5 mục A.2 (đã đạt) so với VSH/VNHA 2024 Bảng 4, ESC 2024 Bảng khuyến cáo 18, AHA/ACC 2025 mục 5.2.7 (chưa đạt). Khác do năm và bối cảnh; ông 78 tuổi chưa suy yếu, dung nạp tốt nên cả hai hướng hợp lệ (ESC 2024 Bảng khuyến cáo 23). Duy trì thuốc khi đã đạt (QĐ 5904 mục A.6)."
+    },
+    {
+     "t": "Xét nghiệm trong 150.000 đ: creatinin–ure và điện giải; hoãn mỡ máu",
+     "v": "c",
+     "n": "Kiểm thận–kali sau tăng ức chế men chuyển (AHA/ACC 2025 mục 5.2.9; QĐ 5904 Phần 3 mục G). Mỡ máu nhắc lại 6–12 tháng (Phần 1 Bước 2, khoảng cách mục 2)."
+    },
+    {
+     "t": "Khen cách xử trí đêm HA 172/98 (nghỉ, đo lại, gọi con); giải thích vì sao ngậm nifedipin lần trước nguy hiểm dù không sao: tụt từ 188/104 xuống 134/76 trong 20 phút kèm tối sầm mắt",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh; AHA/ACC 2025 mục 6.2: hạ nhanh có thể gây thiếu tưới máu cơ quan do mất tự điều hòa. Kết cục tốt không chứng minh cách làm đúng."
+    },
+    {
+     "t": "Duy trì thuốc lâu dài, hẹn khám 1–3 tháng khi ổn định; xét nghiệm cơ bản nhắc lại 6–12 tháng; tiếp tục đo HA nhà, giảm muối, đi bộ",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 2, khoảng cách mục 2–3; Bước 5 mục D.2; ESC 2024 Bảng khuyến cáo 19 (IIa, C: khám ít nhất mỗi năm khi ổn định) và 17 (I, A: duy trì thuốc suốt đời nếu dung nạp)."
+    },
+    {
+     "t": "Tăng amlodipin lên 10 mg hoặc thêm thuốc thứ ba ngay hôm nay để dưới 130/80",
+     "v": "a",
+     "n": "QĐ 5904 Phần 3 mục G (amlodipin 5–10 mg); ESC 2024 Bảng khuyến cáo 18. Chấp nhận nếu ông đồng ý sau thảo luận và HA tư thế bình thường; chưa cần vì đã đạt mục tiêu QĐ 5904, và amlodipin liều cao có thể làm phù trở lại."
+    },
+    {
+     "t": "Ngưng hoặc giảm thuốc vì 'đã đạt rồi'",
+     "v": "w",
+     "n": "QĐ 5904 Phần 1 Bước 5 mục D.2: không tự ý bỏ hay giảm liều; ESC 2024 Bảng khuyến cáo 17 (I, A)."
+    },
+    {
+     "t": "Chuyển tuyến khám tim mạch để đạt dưới 130/80",
+     "v": "w",
+     "n": "Chưa đủ tiêu chuẩn chuyển (QĐ 5904 Phần 1 Bước 4 mục A.3); xét nghiệm chuyên sâu ngoài ngân sách và không đổi cách điều trị."
+    },
+    {
+     "t": "Cho nifedipin ngậm dự phòng khi HA cao đột xuất",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát đang điều trị, đáp ứng một phần tiến tới mục tiêu (HA 138/78, HA nhà 134/76) sau perindopril 10 mg + amlodipin 5 mg; đạt mục tiêu QĐ 5904, chưa dưới 130/80",
+     "Dung nạp tốt: không hạ HA tư thế, hết phù, creatinin 108, K 4,6 (thay đổi nhỏ)"
+    ],
+    "phan_tich_chan_doan": [
+     "So với lượt 2: HA 150/86 → 138/78, HA nhà 146/82 → 134/76, hết phù. Đường 168/94 → 150/86 → 138/78 cho thấy lượt 2 là 'đáp ứng chậm bình thường', không phải thất bại điều trị sớm. Xét nghiệm duy nhất đổi quyết định hôm nay: creatinin–kali sau tăng perindopril (AHA/ACC 2025 mục 5.2.9); kết quả trong mức dự kiến nên giữ liều.",
+     "Hai mục tiêu cùng đúng: QĐ 5904/2019 (mục A.2) tâm thu 130 đến dưới 140, đã đạt; VSH/VNHA 2024 (Bảng 4), ESC 2024 (Bảng khuyến cáo 18), AHA/ACC 2025 (mục 5.2.7) hướng tới dưới 130/80, 120–129 nếu dung nạp, chưa đạt. Khác do năm và bối cảnh, không nguồn nào nói cách kia có hại; quyết định cùng ông.",
+     "Applicability note: bằng chứng cho mục tiêu thấp chủ yếu từ người ít suy yếu (ESC 2024 mục 9.3.2); ông 78 tuổi, chưa suy yếu nên áp dụng được, nhưng chỉ nâng khi HA tư thế bình thường và ông đồng ý."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ thuốc, không thêm: đã đạt mục tiêu QĐ 5904, dung nạp tốt, ngân sách hạn chế. Nâng thêm (amlodipin 10 mg hoặc thuốc thứ ba) chỉ khi cùng ông chọn hướng dưới 130/80 (chấm a).",
+     "Câu hỏi 'hạ liền mà có sao đâu': dùng số của chính ông: 188/104 → 134/76 trong 20 phút kèm tối sầm mắt là hạ quá nhanh; không có gì bảo đảm lần sau không té hay thiếu máu não/tim (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2). Khen lần 172/98 vừa rồi: nghỉ, đo lại, không dùng gì, gọi con.",
+     "Duy trì lâu dài, khám 1–3 tháng khi ổn định, xét nghiệm cơ bản 6–12 tháng (QĐ 5904 Phần 1 Bước 2, khoảng cách mục 2–3). Mỡ máu, công thức máu, acid uric làm khi có điều kiện; statin ở tuổi 78: không có trong tài liệu đã tải để đối chiếu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "2 viên/ngày (10 mg), một lần",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn",
+      "so_ngay": "30 ngày",
+      "ghi_chu": "Giữ liều 10 mg (QĐ 5904 Phần 3 mục G: duy trì 5–10 mg). Creatinin, kali đã kiểm sau tăng liều."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng perindopril",
+      "so_ngay": "30 ngày",
+      "ghi_chu": "Giữ liều 5 mg (QĐ 5904 Phần 3 mục G: 5–10 mg)."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc mỗi sáng, không tự bỏ dù số đo đã đẹp (QĐ 5904 Phần 1 Bước 5 mục D.2).",
+     "Khi HA tăng vọt: làm như lần 172/98 (ngồi nghỉ 5–10 phút, đo lại, gọi con và phòng khám); không dùng thuốc 'hạ nhanh' của ai; đi cấp cứu nếu ≥ 180/110 kèm triệu chứng hoặc ≥ 200/120 (QĐ 5904 Phần 3 mục D.1).",
+     "Đo HA nhà 7 ngày trước mỗi lần khám (VSH/VNHA 2024 Đ1.2.2), bớt muối, đi bộ đều; nhắc Quân khám theo hẹn.",
+     "Tái khám sau 1–3 tháng (QĐ 5904 Phần 1 Bước 2, khoảng cách mục 3); mỡ máu, công thức máu khi có điều kiện."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Thiện đến 'xin thuốc' nhưng mang nỗi sợ bệnh 'lây' sang con và cháu, đã tự ăn riêng hai tuần; được hỏi đúng chỗ, ông nghe rõ THA không lây và chỉ tốn đúng 200.000 đồng cho các xét nghiệm đổi quyết định. Lượt 2, HA 168/94 còn 150/86: đáp ứng chậm bình thường. Giữa hai kỳ khám ông từng ngậm nifedipin tác dụng nhanh khi đo 188/104 không triệu chứng; HA tụt 134/76 trong 20 phút, tối sầm mắt, may không ngã: chỉ là may, được giải thích bằng chính số đo của ông. Lượt 3, HA 138/78, creatinin 108, K 4,6, đạt mục tiêu QĐ 5904; lần HA cao sau đó ông xử trí đúng.",
+ "nhieu": [
+  "Không đủ tiền (200.000 đ): xếp creatinin–kali, điện tim, glucose, que thử nước tiểu; hoãn mỡ máu, công thức máu, acid uric (QĐ 5904 Phần 1 Bước 2; Phần 3 mục G).",
+  "Sợ lây bệnh cho người thân: ông tự ăn riêng, không bế cháu; bề mặt chỉ là 'xin thuốc, hỏi giá xét nghiệm'. Phải hỏi riêng nỗi lo thật (ESC 2024 mục 7.3).",
+  "Nặng đầu nhẹ buổi chiều, ăn mặn: không phải nguyên nhân thứ phát; ăn mặn làm HA cao thêm (QĐ 5904 Phần 1 Bước 5 mục D.1a).",
+  "Phù nhẹ mắt cá lượt 2: dễ nghĩ suy tim hoặc suy thận, thật ra là tác dụng phụ của amlodipin (QĐ 5904 Phần 3 mục G)."
+ ],
+ "bai_hoc_bien": [
+  "Người cao tuổi 'xin thuốc' có thể mang nỗi sợ khác (lây bệnh cho con cháu): hỏi 'điều gì khiến ông lo nhất' và nói rõ THA là bệnh không lây nhiễm (QĐ 5904, tên văn bản, Lời giới thiệu; ESC 2024 mục 7.3).",
+  "Không đủ tiền: chọn xét nghiệm đổi quyết định (creatinin–kali, điện tim), hoãn cái không đổi (QĐ 5904 Phần 3 mục G; AHA/ACC 2025 mục 5.2.9).",
+  "Đáp ứng một phần sau 4 tuần ở người tuân thủ tốt là chậm bình thường (đích trong 1–3 tháng: QĐ 5904 Bước 5 mục A.3), chưa phải thất bại; kháng trị cần ≥ 3 thuốc đủ liều (QĐ 5904 Bước 4 mục A.3).",
+  "Kết cục tốt không hợp thức hóa quy trình sai: nifedipin ngậm hạ nhanh 'không sao' vẫn nguy hiểm (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2); phải chủ động hỏi lần HA tăng vọt và thuốc của người khác."
+ ],
+ "diem_nho": [
+  "THA độ 2: tâm thu 160–179 hoặc tâm trương 100–109; độ 2 bắt đầu bằng phối hợp 2 thuốc (QĐ 5904 Phần 1 Bước 3A; Bước 5 mục C.3).",
+  "Cấp cứu THA: ≥ 200/120, hoặc ≥ 180/110 kèm triệu chứng (QĐ 5904 Phần 3 mục D.1); ESC 2024 mục 10.1.1: kèm tổn thương cơ quan đích cấp. Tránh nifedipin tác dụng nhanh.",
+  "HA nhà ≥ 135/85 chẩn đoán THA; đo 3–7 ngày, 2 lần/ngày, mỗi lần 2 phép đo (VSH/VNHA 2024 Đ1.2.2; ESC 2024 mục 5.2.3).",
+  "Đo eGFR 2–4 tuần sau khởi đầu hoặc tăng liều thuốc hạ áp; eGFR giảm tới 30% với ức chế men chuyển là dự kiến (AHA/ACC 2025 mục 5.2.9)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Hướng dẫn chẩn đoán, điều trị và quản lý một số bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Tên văn bản, Lời giới thiệu; Phần 1 (Đối tượng áp dụng; Bước 1 mục 3, 4, 5; Bước 2 mục 1–10 và khoảng cách mục 1–3; Bước 3A; Bước 4 mục A.1, A.3; Bước 5 mục A.2, A.3, A.6, B.2, C.3, C.4, C.6, D.1, D.2; Phụ lục 1.1 mục 2, 6); Phần 3 mục D.1, G.",
+  "VSH/VNHA 2024 – Chiến lược thực hành lâm sàng quản lý THA tại Việt Nam – TL-0288 – Bảng 4; Đ1.2.1, Đ1.2.2; Đ3.5; Hình 14.1.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – mục 5.2.3, 7.3, 8.4, 9.3.2, 9.5, 10.1.1; Bảng 8; Bảng khuyến cáo 15, 16, 17, 18, 19, 23.",
+  "AHA/ACC 2025 Guideline for high blood pressure – TL-0297 – mục 3.1.2, 3.2.3.1, 5.2.7, 5.2.9, 6.2."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-20). Tài liệu đã đọc: TL-0284 (Phần 1 toàn bộ; Phần 3 mục D.1, G); TL-0288 (Bảng 4, Đ1.2.1–Đ1.2.2, Đ3.5, Hình 14.1); TL-0305 (Bảng khuyến cáo 15, 16, 18, 23; mục 5.2.3, 7.3, 8.4, 9.3.2, 9.5, 10.1.1; Bảng 8); TL-0297 (mục 5.2.9, 6.2; mục 3.1.2, 3.2.3.1, 5.2.7 lấy theo sổ mâu thuẫn).",
+  "Thiếu tài liệu đã tải: liều perindopril riêng cho người ≥ 75 tuổi (chỉ có bảng thuốc chung); mức di truyền của THA; statin dự phòng tiên phát ở tuổi 78; thang suy yếu; xử trí phù do amlodipin ngoài ghi nhận tác dụng phụ.",
+  "Mâu thuẫn ghi cả hai (mục có sẵn trong sổ): mục tiêu HA người ≥ 65 tuổi không ĐTĐ (MT-0018); phối hợp đôi hay tăng liều một thuốc (MT-0166); nifedipin tác dụng nhanh chấm h, chuyển cấp cứu chấm w (MT-0058). Không có mâu thuẫn mới.",
+  "Khác MT-0005 (nam 86 tuổi, bỏ thuốc, giấu nặng đầu): ca này tuân thủ tốt, THA độ 2 cần phối hợp thuốc, sợ lây bệnh, thiếu tiền, một lần tự ngậm nifedipin may không sao."
+ ]
+}

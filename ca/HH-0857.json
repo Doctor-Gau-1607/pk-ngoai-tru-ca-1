@@ -1,0 +1,786 @@
+{
+ "ma_ca": "HH-0857",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_viem_phoi_cong_dong",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm phổi cộng đồng",
+  "chan_doan_phai_loai_tru": [
+   "Lao phổi",
+   "Thuyên tắc phổi"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau ăn đồ sống, gỏi cá",
+  "thuoc_dang_dung": "Đông y đắp ngoài da",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Hà My",
+  "tuoi": 4,
+  "gioi": "Nữ",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 16,
+  "chieu_cao": 102,
+  "xung_ho": "Bé gái 4 tuổi, nói câu ngắn, thấy người lạ thì núp vào lòng mẹ, khóc khi bị chạm. Mẹ (chị Hằng) bế bé và trả lời mọi câu hỏi: xưng 'em', gọi bé là 'cháu' hoặc 'con'. Bà ngoại đi theo, ngồi ngoài hành lang.",
+  "tinh_cach": "Chị Trần Thu Hằng, 32 tuổi, nhân viên văn phòng, con một. Lo lắng thái quá: nói nhanh, hay ngắt lời, hỏi lại cùng một câu ('chắc không bác sĩ?'), tay run, rút điện thoại đọc bài đã lưu, sẵn ý đòi chụp CT 'cho yên tâm'. Không cãi bác sĩ nhưng nếu không được trấn an có cấu trúc thì hỏi đi hỏi lại, đòi chuyển viện. Bé Hà My nhút nhát, sợ ống nghe, thích gấu bông.",
+  "kieu_nhieu": "Sợ hãi quá mức: mẹ chỉ nhắc 'nặng', 'nguy hiểm' mà không nói điều cụ thể; hỏi dồn làm dễ quên hỏi thuốc đã dùng, thức ăn, dị vật. Nỗi sợ thật (bé bị ung thư phổi như ông ngoại vừa mất) chị không tự nói vì sợ 'nói ra là xui', chỉ kể khi được hỏi trong nhà có ai bệnh phổi, ho lâu, hoặc chị lo nhất điều gì. Từ lượt 2 chị đòi CT ngực.",
+  "nguoi_nha": "Mẹ (chị Hằng) đưa bé đi khám và trả lời mọi câu hỏi. Bà ngoại (bà Lan, 64 tuổi, mới mất chồng) đi cùng, ngồi ngoài hành lang; chính bà đưa gói thuốc Đông y đắp ngực cho cháu.",
+  "ten_nguoi_nha": "Mẹ (chị Hằng)",
+  "ngoai_hinh": {
+   "da": "#f1cba3",
+   "toc": "#2b1c14",
+   "kieuToc": "buoc",
+   "ao": "#f4b6c2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "so",
+   "nguoiNha": {
+    "da": "#e2b48c",
+    "toc": "#1f1a17",
+    "kieuToc": "dai",
+    "ao": "#8fb3c7",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé gái 4 tuổi sốt, ho, thở nhanh 4 ngày; mẹ rất sợ con bị viêm phổi nặng, thật ra lo bé bị ung thư phổi như ông ngoại",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám nội nhi tư ở xã không làm được xét nghiệm nào (không công thức máu, CRP, test nhanh, cấy), cũng không có X-quang hay siêu âm. Chỉ có ống nghe, nhiệt kế, cân, máy đo SpO₂ đầu dò nhi. Bệnh viện huyện cách 12 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày bệnh 4",
+   "tiep_don": "Thứ Năm 17 giờ 50, phòng khám nội nhi tư ở xã, bệnh viện huyện cách 12 km. Chị Hằng bế bé Hà My, 4 tuổi, 16 kg; bà ngoại ngồi ngoài hành lang. Bé ho, sốt, thở nhanh từ hôm qua.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện khi bé thở 46 l/p, SpO₂ 96%, tỉnh, uống được, không rút lõm là không bắt buộc: viêm phổi không nặng điều trị ngoại trú (QĐ 101/QĐ-KCB 2014 mục VII.1; WHO Pocket book 2013 mục 4.2.2, tr. 86); QĐ 708/2015 khuyến cáo 5.3 chỉ nhập viện khi có yếu tố nguy cơ hoặc SpO₂ < 92%. Mẹ sẽ nghĩ 'nhập viện là bệnh nặng như ông'.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện huyện 12 km chiều nay chụp phim, CT 'cho chắc' là quá tay: trẻ không nhập viện không cần X-quang (QĐ 708/2015 khuyến cáo 5.2), ngày 2–3 đầu phim còn có thể bình thường (QĐ 101 mục VI.1). Nếu thấy 'đám mờ', mẹ đọc thành 'khối u', nỗi sợ tăng, trong khi liều amoxicillin đầu cho được ngay tại phòng khám."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em sốt mấy hôm nay, ho nhiều, từ hôm qua thở nghe hổn hển. Em sợ lắm, em xem trên mạng thấy trẻ thở nhanh là viêm phổi nặng. Cháu có nặng không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 116,
+    "ha": "Không đo",
+    "nhiet": "38,7",
+    "nhip_tho": 46,
+    "spo2": 96,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé ho khan từ sáng Thứ Hai, sổ mũi trong. Sốt từ chiều Thứ Ba, cao nhất 39,2 °C (nách); mẹ cho siro paracetamol 5 ml (120 mg/5 ml) hai lần, sốt giảm rồi lại lên. Từ Thứ Tư ho nhiều, có đờm trong cổ, thở nhanh 'như chó thở', bỏ ăn nhưng uống sữa, nước được. Hôm nay ngày bệnh thứ 4.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến sốt – ho – thở nhanh"
+    },
+    {
+     "id": "go_ca",
+     "noi_dung": "Thứ Bảy tuần trước nhà ngoại cúng 100 ngày ông ngoại, có gỏi cá (cá sống trộn rau thơm, đậu phộng rang). Bé ăn 3–4 miếng cá; hai người lớn ăn nhiều hơn, không ai bị gì. Tối đó bé đau bụng, nôn 2 lần, phân sệt 1 lần; sáng Chủ nhật hết hẳn. Từ Thứ Hai mới ho. Bé không ăn tôm, cua, ốc sống; không sặc, không nghẹn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau ăn gỏi cá: ngộ độc thực phẩm, sán, dị vật"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé tỉnh, còn chơi trên ghế, nói được câu ngắn, uống hết ly sữa. Không co giật, không li bì, không tím, không thở rên, mẹ không thấy ngực lõm. Không nôn từ Thứ Bảy, tiểu 3 lần từ sáng, không đau tai, họng, bụng. Chưa bao giờ khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân, khò khè, mất nước"
+    },
+    {
+     "id": "dong_y",
+     "noi_dung": "Thứ Ba bà ngoại đưa gói bột Đông y 'của ông thầy ở quê', trộn nước ấm thành bột nhão đắp lên ngực và lưng bé, ngày 2 lần, sáng nay vừa đắp lần cuối. Thành phần không ai biết. Ngoài siro paracetamol, bé chưa uống kháng sinh, thuốc ho hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: Đông y đắp ngoài da, chưa kháng sinh"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh thường đủ tháng 3,2 kg, bú mẹ 8 tháng. Tiêm chủng mở rộng đủ, chưa tiêm phế cầu (vắc xin dịch vụ). Cân 16 kg. Không hen, không dị ứng thuốc, không bệnh tim, chưa nhập viện; chưa lần nào dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, tiêm chủng, tăng trưởng"
+    },
+    {
+     "id": "lop",
+     "noi_dung": "Lớp mẫu giáo 28 trẻ, tuần trước 3 bạn ho; bé nghỉ học từ Thứ Ba. Nhà 4 người, không ai hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề: trẻ mẫu giáo, lớp đông, nguồn lây"
+    },
+    {
+     "id": "ung_thu",
+     "noi_dung": "Ông ngoại (68 tuổi, hút thuốc lá hơn 40 năm) mất cách đây khoảng 3 tháng 20 ngày vì ung thư phổi: ho kéo dài, bị nói 'viêm phổi' hai tháng rồi mới thấy u, sinh thiết là ung thư, hồ sơ không ghi lao. Bé hay được ông bế, ngủ chung giường. Mẹ đọc bài 'đốm trắng trên phổi trẻ em có thể là ung thư' và mất ngủ hai đêm; không dám nói vì sợ 'nói ra là xui'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị Hằng không tự nói. Chỉ kể khi bác sĩ hỏi trong nhà có ai bệnh phổi, ho kéo dài, bé có tiếp xúc người ho lâu không, hoặc hỏi chị lo nhất điều gì, hoặc nhắc tới ung thư, lao.",
+     "k": 1,
+     "y": "Lý do thật: sợ bé mắc ung thư phổi như ông ngoại; tiếp xúc người ho kéo dài"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, núp vào lòng mẹ, khóc khi bị chạm nhưng dỗ được. Da môi hồng, không tím; niêm mạc ẩm, đổ đầy mao mạch 2 giây, tay chân ấm. Ngực và lưng còn vệt bột nâu khô, da bên dưới hồng nhẹ, không phồng rộp. Cân 16 kg, cao 102 cm.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi ít nhầy trong, họng đỏ nhẹ, amidan không mủ. Màng nhĩ hai bên bình thường. Không hạch cổ to.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 46 l/p, thở nhanh, đều; sau hạ sốt 1 giờ (nhiệt 37,8 °C) đếm lại 44 lần/phút. Không rút lõm lồng ngực phần dưới, không phập phồng cánh mũi, không thở rên. Rì rào phế nang giảm nhẹ và có ran nổ nhỏ hạt ở đáy phổi phải phía sau; đáy trái rì rào rõ. Gõ trong hai bên. Không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 46 l/p, đếm đủ 1 phút lúc bé nằm yên trong lòng mẹ, đang sốt 38,7 °C. Thở nhanh, đều. Không rút lõm lồng ngực phần dưới.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt ở đáy phổi phải, rì rào giảm nhẹ."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 116 l/p (sốt), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 116 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau khi ấn. Gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "n": "Không bắt buộc: viêm phổi không nhập viện thì không cần X-quang (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2); 2–3 ngày đầu phim có thể bình thường (QĐ 101/QĐ-KCB 2014 mục VI.1). Cơ sở không có; kháng sinh vẫn cho khi không có xét nghiệm (QĐ 101 mục VII.1.1)."
+    },
+    "crp": {
+     "v": "n",
+     "n": "Không cần: CRP không phân biệt vi khuẩn hay virus, không có ích trong viêm phổi không biến chứng (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.5)."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "n": "Không có chỉ định: CT ngực ở trẻ chỉ nêu khi nghi lao mà X-quang không rõ hoặc tìm biến chứng lao (QĐ 162/QĐ-BYT 2024 mục 3.4.1b). Mẹ muốn 'cho yên tâm' không phải chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng không nặng, trẻ 4 tuổi, ngày bệnh 4",
+     "ok": 1,
+     "n": "Ho, sốt kèm thở nhanh (1–5 tuổi > 40 l/p) hoặc ran là viêm phổi (QĐ 101/QĐ-KCB 2014 mục V.1; WHO Pocket book 2013 mục 4.2.2, tr. 86). Bé thở 46 l/p, còn 44 khi hạ sốt, ran nổ đáy phải; không dấu hiệu nguy hiểm, không rút lõm, SpO₂ 96% nên không nặng (QĐ 101 mục V.2)."
+    },
+    {
+     "t": "Cảm lạnh, viêm đường hô hấp trên do virus",
+     "n": "Loại: cảm lạnh không có thở nhanh hay ran, không dùng kháng sinh (WHO Pocket book 2013 mục 4.4, tr. 90); bé thở 46 l/p, có ran khu trú."
+    },
+    {
+     "t": "Ngộ độc thực phẩm, viêm dạ dày ruột sau ăn gỏi cá",
+     "n": "Loại: nôn 2 lần, phân sệt 1 lần, tự hết sau một đêm; ho, sốt, thở nhanh khởi phát 2 ngày sau. Gỏi cá chỉ là mốc thời gian."
+    },
+    {
+     "t": "Sán lá do ăn cá sống (gan, phổi)",
+     "n": "Ít nghĩ: sán lá gan lây do cá sống, sán lá phổi do tôm cua, ho đờm nâu hoặc ho máu (QĐ 3312/2015 mục 3.3, tr. 339–340). Bé không ăn tôm cua, gan không to, khởi phát cấp. Xét nghiệm trứng sán: cơ sở không có."
+    },
+    {
+     "t": "Dị vật đường thở (đậu phộng, xương cá trong gỏi)",
+     "n": "Ít nghĩ: dị vật có tiền sử sặc, nghẹn, rít (WHO Pocket book 2013 Bảng 6, tr. 79); bé không sặc. Tái phát cùng vị trí thì nghĩ lại (QĐ 162/QĐ-BYT 2024 mục 3.2.3)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Hỏi tiếp xúc: nghi lao khi ho hoặc sốt kéo dài trên 2 tuần, sụt cân, tiếp xúc nguồn lây (WHO Pocket book 2013 Bảng 6, tr. 79; QĐ 162/QĐ-BYT 2024 mục 3.4.1c). Bé bệnh 4 ngày; ông ngoại sinh thiết ung thư phổi, không ghi lao."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Loại: thuyên tắc phổi ở trẻ hiếm khi không có yếu tố khởi phát (ESC 2019 mục 3.2); bé không có yếu tố nào. AHA/ACC 2026 áp dụng cho người ≥ 18 tuổi (TL-0045)."
+    },
+    {
+     "t": "U phổi, ung thư phổi ở trẻ",
+     "n": "Ít nghĩ: khởi phát cấp, sốt cao, ran nổ là bệnh cảnh nhiễm trùng. Tần suất ung thư phổi ở trẻ: không có trong tài liệu đã tải. Triệu chứng dai dẳng dù điều trị đúng thì chụp X-quang (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú: amoxicillin uống 640 mg × 2 lần/ngày (80 mg/kg/ngày chia 2), cho liều đầu ngay tại phòng khám, hoặc 240 mg × 3 lần/ngày (45 mg/kg/ngày chia 3); đủ 5 ngày",
+     "v": "c",
+     "n": "Không xét nghiệm vẫn cho kháng sinh uống: amoxicillin 80 mg/kg/ngày chia 2, 5 ngày (QĐ 101/QĐ-KCB 2014 mục VII.1.1a); WHO 2024 khuyến cáo 1 (tr. 5): ≥ 40 mg/kg/liều × 2; AWaRe 2022 Bảng 12.5 (tr. 161): 15–< 20 kg 750 mg mỗi 12 giờ. QĐ 708/2015 mục 5.3b: 45 mg/kg/ngày chia 3, ít nhất 5 ngày (khuyến cáo 5.10). Khác do bối cảnh kháng thuốc (sổ HH-0735). Liều đầu tại phòng khám (WHO Pocket book 2013 tr. 86)."
+    },
+    {
+     "t": "Amoxicillin 3 ngày thay vì 5 ngày",
+     "v": "a",
+     "n": "WHO 2024 khuyến cáo 1 và AWaRe 2022 Bảng 12.5: chỉ thở nhanh, không rút lõm, nơi HIV thấp dùng 3 ngày; NICE NG250 2025 khuyến cáo 1.6.4 (Bảng 2, tr. 21: 1–4 tuổi 250 mg × 3 lần/ngày). QĐ 101 và QĐ 708 ghi 5 ngày (sổ HH-0876)."
+    },
+    {
+     "t": "Hạ sốt paracetamol 200 mg/lần mỗi 6 giờ khi sốt từ 38,5 °C hoặc bé khó chịu; không cần lau người bằng nước ấm",
+     "v": "c",
+     "n": "QĐ 101 mục VII.2.3a: hạ sốt khi nách > 38,5 °C, 10–15 mg/kg/lần mỗi 6 giờ, lau nước ấm; NICE NG143 mục 1.6.4–1.6.5: không lau nước ấm, dùng khi khó chịu; AWaRe 2022 Bảng 12.3 (tr. 159): 15–< 20 kg 200 mg mỗi 6 giờ (sổ NH-0199 mục 3)."
+    },
+    {
+     "t": "Dặn chăm sóc tại nhà (cho thuốc đúng giờ, chia nhỏ bữa, uống đủ nước, thông mũi), dấu hiệu phải đến ngay, hẹn khám lại sau 2–3 ngày (Thứ Bảy)",
+     "v": "c",
+     "n": "QĐ 101 mục VII.1: cách cho thuốc, nuôi dưỡng, thông mũi, dấu hiệu đến ngay. Hẹn lại: QĐ 708/2015 khuyến cáo 5.3 sau 2 ngày hoặc sớm hơn nếu mẹ lo nhiều; QĐ 101 mục VII.1.2 và WHO Pocket book 2013 tr. 87 sau 3 ngày (sổ HH-0876)."
+    },
+    {
+     "t": "Hỏi nỗi lo nhất của mẹ, trấn an có cấu trúc (bệnh là gì, vì sao chưa chụp phim, thuốc gì, theo dõi gì, khi nào chụp), không chiều lòng bằng CT",
+     "v": "c",
+     "n": "Mẹ lo nhiều là lý do khám lại sớm (QĐ 708/2015 khuyến cáo 5.3). CT chưa có chỉ định (chỉ khi nghi lao mà X-quang không rõ: QĐ 162/QĐ-BYT 2024 mục 3.4.1b)."
+    },
+    {
+     "t": "Ngừng đắp thuốc Đông y lên ngực lưng, giữ gói thuốc lại; hoặc vẫn đắp kèm kháng sinh",
+     "v": "a",
+     "n": "Tài liệu đã tải không nêu tác dụng hay độc tính thuốc Đông y đắp ngoài da, không có căn cứ cấm hay bắt buộc; da bé hồng nhẹ. Nên dừng vì che da, chưa rõ thành phần, không thay kháng sinh (QĐ 708/2015 khuyến cáo 5.6)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện huyện ngay chiều nay",
+     "v": "a",
+     "n": "Không bắt buộc: điều trị ngoại trú (QĐ 101 mục VII.1). NICE NG250 2025 khuyến cáo 1.2.6 'cân nhắc' chuyển (bối cảnh Anh, sổ NH-0619). Chấp nhận nhưng quá tay."
+    },
+    {
+     "t": "Chỉ đắp thuốc Đông y, không dùng kháng sinh; hoặc chờ X-quang, công thức máu, CRP rồi mới cho kháng sinh",
+     "v": "w",
+     "n": "Viêm phổi cần kháng sinh vì không phân biệt vi khuẩn hay virus (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.6); khi không có xét nghiệm vẫn cho kháng sinh uống ngay (QĐ 101 mục VII.1.1)."
+    },
+    {
+     "t": "Cho thuốc ho chứa codein, atropin, cồn hoặc thuốc long đờm",
+     "v": "w",
+     "n": "Có thể gây hại, không dùng (WHO Pocket book 2013 mục 4.2.2, tr. 87; mục 4.4, tr. 90–91)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng không nặng ở bé gái 4 tuổi (16 kg), ngày bệnh 4: ho, sốt 38,7 °C, thở nhanh 46 l/p (44 sau hạ sốt), ran nổ nhỏ hạt đáy phổi phải, SpO₂ 96%",
+     "Không dấu hiệu nguy hiểm toàn thân, không rút lõm, không thở rên; chưa tràn dịch. Ăn gỏi cá (không liên quan), đắp thuốc Đông y từ Thứ Ba, chưa tiêm phế cầu",
+     "Đã loại: cảm lạnh, sán lá, dị vật, lao phổi, thuyên tắc phổi, u phổi; nỗi sợ thật của mẹ: bé bị ung thư phổi như ông ngoại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi diễn tiến, thuốc đã dùng (kể cả thuốc đắp), gỏi cá và sặc, dấu hiệu nguy hiểm, tiền sử, tiếp xúc người ho lâu, nỗi lo của mẹ → khám: toàn thân, đếm nhịp thở đủ 1 phút rồi đếm lại sau hạ sốt, rút lõm, nghe phổi, SpO₂, bụng → quyết định, không chờ xét nghiệm.",
+     "Viêm phổi: ho, sốt kèm thở nhanh (1–5 tuổi > 40 l/p) hoặc ran (QĐ 101/QĐ-KCB 2014 mục V.1). Không nặng: không dấu hiệu toàn thân nặng, rút lõm, thở rên, SpO₂ 96% (QĐ 101 mục V.2; ngưỡng oxy và nhập viện 92% theo QĐ 708/2015 khuyến cáo 5.3, 5.12, 90% theo QĐ 101 và WHO).",
+     "Thang CURB-65 và CRB-65 viết cho người lớn (QĐ 2147/2026 mục 3.2.1: tuổi ≥ 65, ure, huyết áp, nhịp thở ≥ 30 l/p; NICE NG237 phạm vi từ 16 tuổi) nên không dùng cho bé 4 tuổi; trẻ phân độ theo QĐ 101 mục V.",
+     "Gỏi cá chỉ là mốc thời gian; sán lá gan lây qua cá sống, sán lá phổi qua tôm cua (QĐ 3312/2015 mục 3.3). Lý do thật (sợ ung thư): mẹ không tự nói, hỏi 'trong nhà có ai bệnh phổi, ho lâu' hoặc 'chị lo nhất điều gì' mới lộ; tiếp xúc người ho kéo dài là yếu tố nghi lao (QĐ 162/QĐ-BYT 2024 mục 3.4.1c)."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh uống ngay, không chờ xét nghiệm (QĐ 101 mục VII.1.1a; QĐ 708/2015 mục 5.3b); hai cách liều và 5 hay 3 ngày ghi cả hai ở xử trí và đơn thuốc; liều đầu uống tại phòng khám.",
+     "Không cần X-quang, CRP, công thức máu, CT (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2, 5.5). Với mẹ sợ hãi: hỏi nỗi lo cụ thể, nói bệnh là gì, thuốc gì, mong đợi gì (ho còn 2–3 tuần: AWaRe 2022 tr. 158), dấu hiệu quay lại, vì sao chưa chụp phim."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin (Lựa chọn A)",
+      "ham_luong": "Dạng bào chế và nồng độ sẵn có: không có trong tài liệu đã tải (kê theo mg)",
+      "lieu": "640 mg/lần (40 mg/kg × 16 kg), 2 lần/ngày (80 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu tại phòng khám lúc 18 giờ 45, sau đó 7 giờ và 19 giờ mỗi ngày, sau ăn",
+      "so_ngay": "5 ngày (10 liều); hoặc 3 ngày (6 liều)",
+      "ghi_chu": "QĐ 101/QĐ-KCB 2014 mục VII.1.1a; WHO 2024 khuyến cáo 1 (≥ 40 mg/kg/liều × 2 lần/ngày; 3 hoặc 5 ngày); AWaRe 2022 Bảng 12.5 (15–< 20 kg: 750 mg mỗi 12 giờ). Xử trí khi bé nôn sau uống: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amoxicillin (Lựa chọn B)",
+      "ham_luong": "Như trên",
+      "lieu": "240 mg/lần, 3 lần/ngày (45 mg/kg/ngày chia 3)",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu tại phòng khám, sau đó cách nhau 8 giờ",
+      "so_ngay": "Ít nhất 5 ngày",
+      "ghi_chu": "QĐ 708/QĐ-BYT 2015 mục 5.3b, Phụ lục 1 khuyến cáo 5.10; NICE NG250 2025 Bảng 2 (1–4 tuổi: 250 mg × 3 lần/ngày × 3 ngày). Chọn A hoặc B, không dùng cả hai."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Dạng bào chế sẵn có: không có trong tài liệu đã tải (tính theo mg)",
+      "lieu": "200 mg/lần (12,5 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt từ 38,5 °C hoặc bé khó chịu, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Khi cần, không quá 4 lần/24 giờ",
+      "ghi_chu": "QĐ 101 mục VII.2.3a (10–15 mg/kg/lần mỗi 6 giờ); AWaRe 2022 Bảng 12.3 (15–< 20 kg: 200 mg mỗi 6 giờ); NICE NG143 mục 1.6.4–1.6.6."
+     }
+    ],
+    "dan_do": [
+     "Cho amoxicillin đúng giờ, đủ liệu trình kể cả khi bé hết sốt. Không cho thuốc ho, long đờm, kháng sinh ngoài toa (WHO Pocket book 2013 mục 4.2.2). Dừng đắp thuốc Đông y, mang gói còn lại đến tái khám.",
+     "Cho bé uống nhiều nước, chia nhỏ bữa, lau mũi trước khi ăn (QĐ 101 mục VII.1). Hôm nay chưa chụp phim vì chưa có chỉ định; triệu chứng dai dẳng dù điều trị đúng thì chụp X-quang (QĐ 708 khuyến cáo 5.2). Đến ngay nếu thở rất nhanh, lõm ngực, thở rên, tím, bỏ uống, li bì, co giật (QĐ 101 mục V.2, VII.1).",
+     "Tái khám Thứ Bảy 8 giờ 30 (QĐ 708 khuyến cáo 5.3; QĐ 101 mục VII.1.2), mang sổ ghi giờ và gói thuốc. Nghỉ học: không có trong tài liệu đã tải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 ngày điều trị",
+   "tiep_don": "Thứ Bảy 8 giờ 30, ngày bệnh 6, đúng hẹn. Chị Hằng bế bé Hà My; bé đã uống 4 liều amoxicillin (liều đầu tối Thứ Năm tại phòng khám), hết sốt từ tối Thứ Sáu, ho còn nhiều.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện khi bé hết sốt hơn 12 giờ, thở 42 l/p (từ 46), ăn được chén cháo là không cần: QĐ 101/QĐ-KCB 2014 mục VII.1.2 và WHO Pocket book 2013 tr. 87 cho tiếp tục kháng sinh khi giảm sốt, thở chậm hơn, ăn tốt hơn; kháng sinh uống an toàn (QĐ 708/2015 khuyến cáo 5.8). Mẹ mất ngày công, bé sợ phòng bệnh, mẹ càng tin 'bệnh nặng như ông'.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện huyện chụp X-quang hay CT hôm nay khi bé đang đáp ứng là không có chỉ định: X-quang chỉ khi vẫn sốt, không tốt lên sau 48 giờ (QĐ 708/2015 khuyến cáo 5.11). Phim lúc này vẫn có thể còn đám mờ viêm phổi (QĐ 101 mục VI.1), mẹ dễ đọc thành 'u', cả nhà tốn kém, mất nửa ngày."
+   },
+   "loi_mo": "Dạ bác sĩ, cháu uống thuốc đủ, hết sốt từ tối qua rồi. Nhưng cháu còn ho nhiều, đêm ho từng cơn, em thấy bụng cháu còn nhấp nhô khi ngủ. Hay là phải chụp CT cho chắc bác sĩ? Em sợ để lâu lắm.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "Không đo",
+    "nhiet": "37,4",
+    "nhip_tho": 42,
+    "spo2": 97,
+    "canh_bao": [
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_bien",
+     "noi_dung": "Sau liều đầu tối Thứ Năm, sốt giảm dần: sáng Thứ Sáu 38,0 °C, chiều 37,6 °C, từ tối Thứ Sáu hết sốt, không dùng paracetamol từ chiều Thứ Sáu. Ho vẫn nhiều, nhất là đêm và sáng, có đờm trong cổ; lúc thức hết thở 'như chó thở' nhưng khi ngủ bụng còn nhấp nhô. Hôm qua ăn nửa chén cháo, sáng nay hết chén, uống nước nhiều, chơi gấu bông.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 2 ngày điều trị: đáp ứng một phần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Đủ 4 liều: 18 giờ 45 Thứ Năm (tại phòng khám), 7 giờ và 19 giờ Thứ Sáu, 7 giờ sáng nay; mẹ cân thuốc bằng xi-lanh, ghi giờ trong điện thoại, bé uống hết, không nôn. Từ sau lần khám mẹ không đắp thuốc Đông y nữa, chỉ có bà ngoại thỉnh thoảng nhắc 'đắp cho mau'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, đã ngừng đắp thuốc Đông y"
+    },
+    {
+     "id": "nguy_hiem2",
+     "noi_dung": "Bé tỉnh, chơi, nói chuyện, không tím, không thở rên, mẹ không thấy ngực lõm. Uống nước tốt, tiểu 4 lần từ sáng. Không nôn, không đau bụng, bé không kêu đau ngực, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, mất nước, đau ngực"
+    },
+    {
+     "id": "doi_chup",
+     "noi_dung": "Mẹ nói rõ muốn chụp CT ngực: 'viêm phổi mà còn ho thế này thì phải xem trong phổi có gì chứ'. Hỏi chị lo gì thì chị kể giống lượt trước: sợ bé bị u như ông ngoại, đêm qua xem bài trên mạng đến 2 giờ sáng. Chị chịu nghe giải thích nếu bác sĩ nói rõ khi nào mới cần chụp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật vẫn còn, đòi CT 'cho chắc'"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, vẫn núp vào mẹ khi thấy ống nghe nhưng dỗ nhanh, cầm gấu bông. Da môi hồng, không tím; niêm mạc ẩm, đổ đầy mao mạch 2 giây. Ngực lưng không còn bột thuốc, da hồng nhạt.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi ít nhầy, họng còn đỏ nhẹ. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 42 l/p, còn hơi nhanh, đều; không rút lõm lồng ngực phần dưới, không phập phồng cánh mũi, không thở rên. Đáy phổi phải phía sau còn ran nổ nhỏ hạt nhưng thưa hơn hôm trước, rì rào phế nang gần bình thường; đáy trái rì rào rõ. Gõ trong hai bên. Không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 42 l/p, đếm đủ 1 phút lúc bé ngồi yên trong lòng mẹ, đã hết sốt. Thở hơi nhanh, đều. Không rút lõm lồng ngực phần dưới.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt thưa ở đáy phổi phải, rì rào gần bình thường."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau. Gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "n",
+     "n": "Chưa cần: bé đã giảm sốt, thở chậm hơn. X-quang khi vẫn sốt, không tốt lên sau 48 giờ (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.11) hoặc triệu chứng dai dẳng (khuyến cáo 5.2)."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "n": "Không có chỉ định: bé đang đáp ứng; CT ngực ở trẻ chỉ nêu khi nghi lao mà X-quang không rõ hoặc tìm biến chứng lao (QĐ 162/QĐ-BYT 2024 mục 3.4.1b)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng không nặng, đáp ứng một phần sau 2 ngày điều trị amoxicillin",
+     "ok": 1,
+     "n": "Bé hết sốt, thở chậm hơn (46 xuống 42 l/p), ăn tốt hơn, không thở gắng sức, SpO₂ 97%: tiếp tục kháng sinh (QĐ 101/QĐ-KCB 2014 mục VII.1.2; WHO Pocket book 2013 mục 4.2.2, tr. 87; QĐ 708/2015 mục 5.3b). Câu 'còn thở nhanh thì nhập viện' của QĐ 101 đi cùng 'không giảm sốt'; bé đã hết sốt. Ho còn 2–3 tuần là bình thường (AWaRe 2022 tr. 158)."
+    },
+    {
+     "t": "Thất bại điều trị sớm (không đáp ứng amoxicillin)",
+     "n": "Chưa: thất bại là không giảm sốt, còn thở nhanh hoặc nặng lên sau 2–3 ngày (QĐ 101 mục VII.1.2; QĐ 708/2015 mục 5.3b). Bé hết sốt từ tối qua, ăn khá lên, không rút lõm."
+    },
+    {
+     "t": "Tràn dịch màng phổi cận viêm phổi",
+     "n": "Chưa có: hết sốt, gõ trong, rì rào đáy phải gần bình thường, không đau ngực; nghĩ khi sốt dai dẳng dù kháng sinh phù hợp, ba giảm (QĐ 101 mục VII.3.1a; QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3)."
+    },
+    {
+     "t": "Lao phổi, u phổi, viêm phổi Mycoplasma",
+     "n": "Chưa nghĩ: bệnh mới 6 ngày, đang đáp ứng. Nghi lao khi ho hoặc sốt hơn 2 tuần dù điều trị đủ (WHO Pocket book 2013 mục 4.2.1, tr. 84; QĐ 162/QĐ-BYT 2024 mục 3.4.1c); Mycoplasma sau 3 tuổi khoảng 1/3 (QĐ 101 mục IV), macrolid khi không đáp ứng (QĐ 708 khuyến cáo 5.7). Tần suất u phổi ở trẻ: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục amoxicillin cùng liều đến đủ 5 ngày (hết sáng Thứ Ba): 640 mg × 2 lần/ngày hoặc 240 mg × 3 lần/ngày",
+     "v": "c",
+     "n": "Giảm sốt, thở chậm hơn, ăn tốt hơn thì tiếp tục kháng sinh hết liệu trình (QĐ 101/QĐ-KCB 2014 mục VII.1.2; WHO Pocket book 2013 mục 4.2.2, tr. 87). QĐ 708/2015 mục 5.3b: ít nhất 5 ngày (Phụ lục 1 khuyến cáo 5.10). Liều như lượt 1 (WHO 2024 khuyến cáo 1)."
+    },
+    {
+     "t": "Dừng amoxicillin vì đã 3 ngày và hết sốt",
+     "v": "a",
+     "n": "WHO 2024 khuyến cáo 1 và NICE NG250 2025 khuyến cáo 1.6.4 cho 3 ngày, nhưng bé còn thở 42 l/p: NICE khuyến cáo 1.6.5 cân nhắc kéo dài khi chưa ổn định; QĐ 101 và QĐ 708 ghi 5 ngày. Chấp nhận, không phải đáp án chính."
+    },
+    {
+     "t": "Thêm hoặc đổi sang macrolid (azithromycin 10 mg/kg/ngày) vì còn thở nhanh",
+     "v": "a",
+     "n": "QĐ 101 mục VII.1.2: bệnh không thuyên giảm nhưng không nặng lên, trẻ dưới 5 tuổi cân nhắc đổi macrolid; QĐ 708/2015 Phụ lục 1 khuyến cáo 5.7. Bé đáp ứng nên chưa cần; AWaRe 2022 tr. 155: không có bằng chứng macrolid hơn amoxicillin, độc tính cao hơn."
+    },
+    {
+     "t": "Trấn an có cấu trúc (đã tốt lên: hết sốt, thở chậm hơn, ăn tốt; còn lại: ho, ran; theo dõi gì; khi nào chụp phim), không chụp CT; dặn dấu hiệu đến ngay và hẹn kiểm tra Thứ Tư sau khi hết thuốc, sớm hơn nếu sốt lại, thở nhanh hơn, đau ngực",
+     "v": "c",
+     "n": "Ho thường 2–3 tuần mới hết (AWaRe 2022 tr. 158). X-quang khi sốt dai dẳng sau 48 giờ (QĐ 708/2015 khuyến cáo 5.11) hoặc triệu chứng dai dẳng dù điều trị đúng (khuyến cáo 5.2); CT chưa có chỉ định (chỉ khi nghi lao mà X-quang không rõ: QĐ 162/QĐ-BYT 2024 mục 3.4.1b). Đánh giá lại nếu mẹ lo nhiều (khuyến cáo 5.3). Lịch hẹn sau đủ liệu trình: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện huyện chụp X-quang, CT 'cho yên tâm'",
+     "v": "a",
+     "n": "Không bắt buộc: bé đang đáp ứng (QĐ 101 mục VII.1.2); X-quang chỉ khi sốt dai dẳng quá 48 giờ (QĐ 708/2015 khuyến cáo 5.11). Chấp nhận nhưng quá tay (sổ NH-0619 mục 2, 3)."
+    },
+    {
+     "t": "Cho thêm thuốc ho chứa codein, atropin, cồn hoặc thuốc long đờm",
+     "v": "w",
+     "n": "Có thể gây hại, không dùng (WHO Pocket book 2013 mục 4.2.2, tr. 87; mục 4.4, tr. 90–91)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng không nặng ở bé gái 4 tuổi (16 kg), sau 2 ngày amoxicillin: hết sốt, nhịp thở 46 xuống 42 l/p, ran thưa dần, SpO₂ 97%, ăn tốt hơn",
+     "Đáp ứng một phần (chậm hồi phục bình thường): ho còn nhiều, nhịp thở còn hơi nhanh; chưa có thất bại điều trị hay biến chứng",
+     "Đã uống đủ 4 liều, đã ngừng đắp thuốc Đông y; mẹ vẫn sợ ung thư như ông ngoại và đòi CT"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi diễn tiến từ lượt trước, tuân thủ thuốc, dấu hiệu nguy hiểm, đau ngực, nỗi lo của mẹ → khám: toàn thân, đếm nhịp thở đủ 1 phút, rút lõm, nghe và gõ phổi, SpO₂ → quyết định.",
+     "Đáp ứng hay thất bại: giảm sốt, thở chậm hơn, ăn tốt hơn thì tiếp tục kháng sinh; không giảm sốt, còn thở nhanh hoặc nặng lên thì nhập viện (QĐ 101 mục VII.1.2; WHO Pocket book 2013 tr. 87). Bé còn 42 l/p (ngưỡng 40: QĐ 101 mục V.1) nhưng hết sốt, nhịp thở giảm, ăn khá lên nên thuộc nhóm đáp ứng.",
+     "Chưa tràn dịch (gõ trong, rì rào đáy phải gần bình thường); phải xem lại ở lượt sau (QĐ 101 mục VII.3.1a). Mẹ đòi CT: bé đang đáp ứng, X-quang chỉ khi triệu chứng dai dẳng hoặc sốt không giảm sau 48 giờ (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2, 5.11); CT chưa có chỉ định (chỉ khi nghi lao mà X-quang không rõ: QĐ 162/QĐ-BYT 2024 mục 3.4.1b)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục amoxicillin đến đủ 5 ngày; macrolid hoặc nhập viện chỉ khi không giảm sốt, còn thở nhanh hoặc nặng lên (QĐ 101 mục VII.1.2; QĐ 708/2015 mục 5.3b).",
+     "Không cần X-quang, CRP, công thức máu (QĐ 708/2015 khuyến cáo 5.2, 5.5); trấn an có cấu trúc thay vì chụp CT; dặn dấu hiệu quay lại ngay (QĐ 708/2015 khuyến cáo 5.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin (tiếp tục)",
+      "ham_luong": "Như lượt 1",
+      "lieu": "Lựa chọn A: 640 mg/lần, 2 lần/ngày (80 mg/kg/ngày); lựa chọn B (nếu lượt 1 đã chọn B): 240 mg/lần, 3 lần/ngày, cách nhau 8 giờ",
+      "duong": "Uống",
+      "thoi_diem": "7 giờ và 19 giờ, tiếp tục từ liều tối nay (liều thứ 5)",
+      "so_ngay": "Đủ ít nhất 5 ngày từ liều đầu (A: hết sáng Thứ Ba, tổng 10 liều)",
+      "ghi_chu": "QĐ 101/QĐ-KCB 2014 mục VII.1.1a, VII.1.2; WHO 2024 khuyến cáo 1; lựa chọn B: QĐ 708/2015 mục 5.3b, Phụ lục 1 khuyến cáo 5.10. Giữ nguyên liều đang dùng."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Như lượt 1",
+      "lieu": "200 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt lại từ 38,5 °C hoặc bé khó chịu, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "AWaRe 2022 Bảng 12.3 (15–< 20 kg: 200 mg mỗi 6 giờ); QĐ 101 mục VII.2.3a. Bé đã hết sốt, chỉ dự phòng."
+     }
+    ],
+    "dan_do": [
+     "Cho amoxicillin đủ liều đến hết sáng Thứ Ba, ghi giờ như cũ; không tự dừng khi bé khỏe, không mua thêm thuốc ho (WHO Pocket book 2013 mục 4.2.2, tr. 87).",
+     "Nói rõ với mẹ: hết sốt, thở bớt nhanh, ăn khá lên là đang đáp ứng; ho còn vài tuần là bình thường (AWaRe 2022 tr. 158). Chưa chụp CT vì chưa có chỉ định; sốt lại hoặc triệu chứng dai dẳng thì chụp X-quang (QĐ 708/2015 khuyến cáo 5.2, 5.11).",
+     "Đến ngay nếu sốt lại, thở nhanh hơn hoặc lõm ngực, đau ngực khi ho hoặc thở, bỏ ăn, li bì (QĐ 101 mục V.2, VII.3.1a). Hẹn Thứ Tư 14 giờ 20 sau khi hết thuốc, mang sổ ghi giờ. Đi học lại: không có trong tài liệu đã tải; chờ hết sốt và ăn uống bình thường."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sốt lại sau khi hết thuốc",
+   "tiep_don": "Thứ Tư 14 giờ 20, ngày bệnh 10, đúng lịch kiểm tra sau khi hết thuốc. Bé đã uống đủ 10 liều amoxicillin (liều cuối sáng Thứ Ba), hết sốt từ tối Thứ Sáu, nhưng từ tối qua sốt trở lại.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé về uống tiếp kháng sinh, hẹn lại sau 2 ngày khi bé sốt lại 39 °C, thở 50 l/p, gõ đục và giảm rì rào đáy phải là bỏ sót tràn dịch màng phổi: QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3 xếp gõ đục kèm giảm tiếng thở là biểu hiện tràn dịch cần chuyển bệnh viện. Dịch có thể thành mủ, phải dẫn lưu, kháng sinh tiêm ít nhất 7 ngày, tổng 3 tuần (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1, tr. 88). Mẹ mất lòng tin, tin 'bệnh chẳng đỡ là bệnh nặng như ông'.",
+    "cap_cuu": "Gọi xe cấp cứu 115 khi bé còn tỉnh, SpO₂ 94%, không rút lõm, không thở rên, uống được là quá tay: chưa có dấu hiệu viêm phổi nặng (QĐ 101 mục V.2; oxy khi SpO₂ < 90% theo QĐ 101 Phụ lục 2, < 92% theo QĐ 708/2015 khuyến cáo 5.12). Bé cần đến bệnh viện nhưng đi xe nhà kèm thư chuyển được; xe cấp cứu làm mẹ hoảng thêm."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu lại sốt rồi! Hết thuốc hôm qua mà tối qua lại sốt, em biết mà, không phải viêm phổi thường đâu, là cái u đúng không bác sĩ? Em xin bác sĩ chụp CT cho cháu ngay đi!",
+   "sinh_hieu": {
+    "mach": 126,
+    "ha": "Không đo",
+    "nhiet": "39,0",
+    "nhip_tho": 50,
+    "spo2": 94,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "tai_phat",
+     "noi_dung": "Bé hết sốt từ tối Thứ Sáu, ăn uống và chơi khá lên Chủ nhật, Thứ Hai. Tối qua (Thứ Ba) 22 giờ sốt 38,5 °C, sáng nay 39,0 °C, mẹ cho paracetamol 200 mg lúc 11 giờ. Ho lại nhiều, bé ôm sườn phải khi ho và nói 'đau bên này'. Ăn kém từ sáng nay, uống nước được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, sốt lại, đau sườn phải"
+    },
+    {
+     "id": "tuan_thu3",
+     "noi_dung": "Đủ 10 liều theo sổ giờ mẹ ghi, liều cuối 7 giờ sáng Thứ Ba; không bỏ, không nôn, không tự đổi thuốc. Không đắp thuốc Đông y từ lượt đầu, bà ngoại cũng không lén đắp. Không dùng thêm thuốc ho hay kháng sinh nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, loại trừ dừng sớm hoặc dùng thiếu liều"
+    },
+    {
+     "id": "khong_sac",
+     "noi_dung": "Không sặc, không nghẹn, không rít, không ho ra máu hay đờm nâu. Không ăn tôm, cua, cá sống từ lần trước. Bé bệnh 10 ngày, sốt hai đợt, giữa hai đợt hết sốt khoảng 4 ngày; không có người ho lâu quanh bé ngoài hai bạn trong lớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị vật, sán lá phổi, tiếp xúc nguồn lây lao"
+    },
+    {
+     "id": "nguy_hiem3",
+     "noi_dung": "Bé mệt hơn, nằm nhiều, còn trả lời được, uống hết nửa ly nước. Không tím, không thở rên, không co giật, mẹ thấy ngực không lõm. Tiểu 2 lần từ sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, mất nước"
+    },
+    {
+     "id": "ung_thu3",
+     "noi_dung": "Mẹ nói bé 'chắc là u như ông, bây giờ mới lộ ra', chưa ngủ từ tối qua. Chị đồng ý đưa bé đi chụp phim ngay nếu bác sĩ nói cần, nhưng sợ bệnh viện 'giữ lại'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi sợ ung thư lên đỉnh, chấp nhận chuyển nếu được giải thích"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé mệt, nằm trong lòng mẹ, nhìn bác sĩ và trả lời bằng cái gật. Da môi hồng nhạt, không tím; niêm mạc hơi khô, đổ đầy mao mạch 2–3 giây. Không rên.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi ít nhầy, họng hơi đỏ. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 50 l/p, thở nhanh, nông; không rút lõm lồng ngực phần dưới, không phập phồng cánh mũi, không thở rên. Nửa dưới lồng ngực phải di động kém, gõ đục ở đáy phổi phải phía sau (đục lên đến góc xương bả vai), rung thanh giảm, rì rào phế nang giảm rõ; nghe thấy tiếng cọ nhẹ ở ranh giới vùng đục. Phổi trái rì rào rõ. Không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 50 l/p, đếm đủ 1 phút lúc bé nằm yên, sốt 39,0 °C. Thở nhanh, nông. Không rút lõm lồng ngực phần dưới.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau, ranh giới vùng đục)",
+       "id": "AT-PHOI-CO-MP-01",
+       "chu": "Tiếng cọ màng phổi nhẹ ở ranh giới vùng đục, rì rào giảm rõ ở đáy phải."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 126 l/p (sốt), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 126 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau. Gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "e",
+     "r": "X-quang ngực thẳng (làm ở bệnh viện huyện sau chuyển tuyến): đám mờ vùng đáy phổi phải, góc sườn hoành phải tù, tràn dịch màng phổi lượng ít bên phải. Không thấy khối.",
+     "n": "Cơ sở không có X-quang; đây là lý do chuyển tuyến: sốt lại với ba giảm cần X-quang xác định tràn dịch (QĐ 101/QĐ-KCB 2014 mục VII.3.1a; QĐ 708/2015 khuyến cáo 5.11; WHO Pocket book 2013 mục 4.3.1, tr. 88)."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "n": "Chưa có chỉ định: X-quang là bước đầu; CT ngực ở trẻ chỉ nêu khi nghi lao mà X-quang không rõ (QĐ 162/QĐ-BYT 2024 mục 3.4.1b). Mẹ đòi CT không phải chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi cộng đồng sốt lại, nghi tràn dịch màng phổi cận viêm phổi (biến chứng) sau đủ 5 ngày amoxicillin",
+     "ok": 1,
+     "n": "Sốt lại 39 °C, thở 50 l/p, SpO₂ 94%, gõ đục đáy phải, rung thanh và rì rào giảm, đau sườn phải: biểu hiện tràn dịch màng phổi cần chuyển bệnh viện (QĐ 101/QĐ-KCB 2014 mục VII.3.1a; QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3; WHO Pocket book 2013 mục 4.3.1, tr. 88). WHO 2024 (tr. 5) tính 'tái phát sau tuần đầu' vào thất bại điều trị."
+    },
+    {
+     "t": "Thất bại do không tuân thủ hoặc dùng thiếu liều",
+     "n": "Loại: mẹ ghi giờ, bé uống đủ 10 liều, không nôn; 640 mg × 2 lần/ngày đạt 80 mg/kg/ngày (QĐ 101 mục VII.1.1a)."
+    },
+    {
+     "t": "Nhiễm virus hô hấp mới hoặc tái nhiễm ở lớp mẫu giáo",
+     "n": "Ít nghĩ: tái nhiễm virus không gây gõ đục, rung thanh giảm, đau sườn phải."
+    },
+    {
+     "t": "Viêm phổi do Mycoplasma hoặc vi khuẩn không điển hình",
+     "n": "Còn khả dĩ (sau 3 tuổi khoảng 1/3, QĐ 101 mục IV) nhưng không giải thích gõ đục; macrolid khi không đáp ứng (QĐ 101 mục VII.1.2; QĐ 708/2015 khuyến cáo 5.7)."
+    },
+    {
+     "t": "Dị vật đường thở, bất thường bẩm sinh gây viêm phổi tái phát",
+     "n": "Chưa nghĩ: đợt đầu, bé không sặc. Viêm phổi kéo dài hoặc tái phát phải nghĩ phổi biệt lập, dị vật, bệnh bẩm sinh (QĐ 162/QĐ-BYT 2024 mục 3.2.3)."
+    },
+    {
+     "t": "Lao phổi hoặc lao màng phổi",
+     "n": "Chưa nghĩ: nghi lao khi ho hoặc sốt hơn 2 tuần sau kháng sinh đủ (WHO Pocket book 2013 mục 4.2.1, tr. 84; QĐ 162/QĐ-BYT 2024 mục 3.4.1c). Bé bệnh 10 ngày, có khoảng 4 ngày hết sốt. Không cải thiện dù dẫn lưu thì kiểm HIV và lao (QĐ 101 mục VII.3.1b)."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Loại: hiếm ở trẻ không yếu tố nguy cơ (ESC 2019 mục 3.2); tràn dịch cận viêm phổi giải thích đủ; AHA/ACC 2026 áp dụng cho người ≥ 18 tuổi (TL-0045)."
+    },
+    {
+     "t": "U phổi, ung thư phổi",
+     "n": "Ít nghĩ: sốt cao cấp tính, ba giảm, đáp ứng một phần kháng sinh là nhiễm trùng. Tần suất ung thư phổi ở trẻ: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bé đến bệnh viện huyện (12 km) trong chiều nay để chụp X-quang ngực, xét nghiệm và xử trí tràn dịch; đi bằng xe nhà, mẹ ngồi cạnh, kèm thư chuyển ghi diễn biến và các liều amoxicillin đã dùng",
+     "v": "c",
+     "n": "Gõ đục và tiếng thở giảm là biểu hiện tràn dịch, cần chuyển bệnh viện (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3); sốt dai dẳng với ba giảm cần X-quang (QĐ 101 mục VII.3.1a; khuyến cáo 5.11). AWaRe 2022 tr. 160–161 (Bảng 12.5): không đáp ứng amoxicillin thì chuyển, nghĩ mủ màng phổi."
+    },
+    {
+     "t": "Giải thích vì sao cần đi (có thể có nước quanh phổi, cần chụp X-quang mới biết), nói rõ chụp X-quang chứ không phải CT, hỏi mẹ lo gì khi đến viện",
+     "v": "c",
+     "n": "X-quang chẩn đoán tràn dịch (QĐ 101 mục VII.3.1a; WHO Pocket book 2013 mục 4.3.1, tr. 88); CT chưa có chỉ định (chỉ khi nghi lao mà X-quang không rõ: QĐ 162/QĐ-BYT 2024 mục 3.4.1b)."
+    },
+    {
+     "t": "Hạ sốt paracetamol 200 mg/lần mỗi 6 giờ khi sốt từ 38,5 °C hoặc bé khó chịu trên đường đi",
+     "v": "c",
+     "n": "QĐ 101 mục VII.2.3a (10–15 mg/kg/lần mỗi 6 giờ, nách > 38,5 °C); NICE NG143 mục 1.6.4–1.6.5 (khi khó chịu); AWaRe 2022 Bảng 12.3 (200 mg mỗi 6 giờ) (sổ NH-0199 mục 3)."
+    },
+    {
+     "t": "Cho uống một liều amoxicillin trước khi chuyển; hoặc gọi xe cấp cứu 115 chở bé đi",
+     "v": "a",
+     "n": "Liều kháng sinh trước chuyển cho trẻ tràn dịch: không có trong tài liệu đã tải (rút lõm thì cho liều đầu rồi chuyển: WHO 2024 tr. 8 sau khuyến cáo 2a, sổ HH-0737 mục 5); bé vừa đủ 10 liều, kháng sinh mới do tuyến trên chọn (QĐ 101 mục VII.3.1b). Xe cấp cứu không bắt buộc: bé tỉnh, không rút lõm (QĐ 101 mục V.2)."
+    },
+    {
+     "t": "Chỉ đổi sang macrolid uống tại nhà, hẹn 3 ngày",
+     "v": "a",
+     "n": "Macrolid khi nghi Mycoplasma hoặc không đáp ứng (QĐ 101 mục VII.1.2; QĐ 708/2015 khuyến cáo 5.7), nhưng có dấu hiệu tràn dịch nên phải chuyển (khuyến cáo 5.3). Chấp nhận nếu vẫn chuyển tuyến."
+    },
+    {
+     "t": "Cho về uống tiếp amoxicillin, hẹn lại sau 2 ngày, không chuyển viện",
+     "v": "w",
+     "n": "Gõ đục kèm giảm tiếng thở cần chuyển bệnh viện (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3); sốt không giảm cần X-quang (khuyến cáo 5.11); không chuyển có thể bỏ sót mủ màng phổi (QĐ 101 mục VII.3.1)."
+    },
+    {
+     "t": "Tự chọc hút dịch màng phổi tại phòng khám, hoặc chụp CT ngực rồi mới chuyển",
+     "v": "w",
+     "n": "Chọc hút, dẫn lưu, xét nghiệm dịch làm ở nơi có thiết bị (QĐ 101 mục VII.3.1b; WHO Pocket book 2013 mục 4.3.1, tr. 88); CT chưa có chỉ định (chỉ khi nghi lao mà X-quang không rõ: QĐ 162/QĐ-BYT 2024 mục 3.4.1b)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi cộng đồng sốt lại ở bé gái 4 tuổi (16 kg), ngày bệnh 10, sau đủ 5 ngày amoxicillin: nghi tràn dịch màng phổi cận viêm phổi bên phải (gõ đục, rì rào và rung thanh giảm, đau sườn phải)",
+     "Sốt 39,0 °C, thở nhanh 50 l/p, SpO₂ 94%, mạch 126 l/p; không rút lõm, không thở rên, tỉnh, uống được: chưa suy hô hấp",
+     "Không do thiếu liều hay dừng sớm; chưa có dấu hiệu dị vật, lao; nỗi sợ ung thư của mẹ lên đỉnh, X-quang tuyến trên là câu trả lời khách quan"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi diễn tiến sau lượt trước, tuân thủ thuốc, sặc – dị vật, tiếp xúc nguồn lây, nỗi lo của mẹ → khám: toàn thân, nhịp thở, rút lõm, nghe, gõ, rung thanh, SpO₂ → chuyển, không chờ xét nghiệm.",
+     "Tràn dịch: sốt lại sau hết sốt, đau một bên, gõ đục vùng thấp kèm giảm tiếng thở và rung thanh (QĐ 101/QĐ-KCB 2014 mục VII.3.1a; WHO Pocket book 2013 mục 4.3.1, tr. 88). Đáp ứng một phần ở lượt 2 báo hiệu bệnh chưa dứt.",
+     "Tái phát: xét tuân thủ (đã loại: đủ 10 liều), biến chứng (tràn dịch, mủ, áp xe: QĐ 101 mục VII.3), nguyên nhân khác (Mycoplasma: QĐ 101 mục IV; lao: QĐ 162/QĐ-BYT 2024 mục 3.4.1c; dị vật, bệnh bẩm sinh: mục 3.2.3).",
+     "Chưa cấp cứu: tỉnh, uống được, không rút lõm, SpO₂ 94% (QĐ 101 mục V.2; QĐ 101 Phụ lục 2; QĐ 708/2015 khuyến cáo 5.12). CURB-65, CRB-65 là thang người lớn, không dùng cho bé (QĐ 2147/2026 mục 3.2.1). Lý do thật (sợ ung thư): X-quang có chỉ định thật cho câu trả lời khách quan, không cần CT."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển bệnh viện huyện chiều nay để chụp X-quang và xử trí (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3, 5.11). Tràn dịch ít không cần dẫn lưu, nhiều thì chọc hút hoặc dẫn lưu, xét nghiệm dịch (QĐ 101 mục VII.3.1b).",
+     "Kháng sinh ở tuyến trên (ampicillin hoặc cloxacillin kèm gentamicin, tổng 3 tuần khi thành mủ: QĐ 101 mục VII.3.1b); phòng khám không kê, trên đường đi chỉ hạ sốt."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Dạng bào chế sẵn có: không có trong tài liệu đã tải (tính theo mg)",
+      "lieu": "200 mg/lần (12,5 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt từ 38,5 °C hoặc bé khó chịu, cách nhau ít nhất 6 giờ; liều gần nhất lúc 11 giờ",
+      "so_ngay": "Khi cần cho đến khi vào viện",
+      "ghi_chu": "QĐ 101 mục VII.2.3a (10–15 mg/kg/lần mỗi 6 giờ); AWaRe 2022 Bảng 12.3 (15–< 20 kg: 200 mg mỗi 6 giờ); NICE NG143 mục 1.6.4–1.6.6."
+     },
+     {
+      "thuoc": "Kháng sinh sau khi có X-quang",
+      "ham_luong": "Không kê tại phòng khám",
+      "lieu": "Do bệnh viện quyết định",
+      "duong": "Tiêm hoặc uống tùy bệnh viện",
+      "thoi_diem": "Tại bệnh viện",
+      "so_ngay": "Theo bệnh viện",
+      "ghi_chu": "QĐ 101/QĐ-KCB 2014 mục VII.3.1b (ampicillin hoặc cloxacillin 50 mg/kg mỗi 6 giờ + gentamicin 7,5 mg/kg/ngày; tổng 3 tuần nếu thành mủ); lựa chọn cho tràn dịch ít không mủ: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay chiều nay bằng xe nhà đến bệnh viện huyện (12 km), mang sổ ghi giờ cho thuốc, thư chuyển, nước uống, gấu bông; mẹ ngồi cạnh bé (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3). Nếu thở rên, lõm ngực rõ, tím, li bì hoặc co giật thì dừng xe gọi 115 (QĐ 101 mục V.2).",
+     "Nói với mẹ: phim để biết có nước quanh phổi không, không cần CT lúc này (QĐ 162/QĐ-BYT 2024 mục 3.4.1b: CT chỉ khi nghi lao mà X-quang không rõ).",
+     "Tiêm phế cầu sau khi khỏi (QĐ 101 mục VIII.3); lịch và loại vắc xin: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Hà My được mẹ chở đến bệnh viện huyện chiều Thứ Tư. X-quang thấy đám mờ đáy phổi phải kèm tràn dịch màng phổi lượng ít, không có khối; bé điều trị kháng sinh theo hướng dẫn, không dẫn lưu, hết sốt và ăn uống bình thường trước khi xuất viện. Chị Hằng cầm tờ phim 'không có u' và nhẹ nhõm.",
+ "nhieu": [
+  "Sợ hãi quá mức: mẹ chỉ nói 'nặng', 'nguy hiểm', hỏi dồn, đòi CT; nỗi sợ thật (ung thư như ông ngoại) chỉ lộ khi hỏi trong nhà có ai bệnh phổi hoặc chị lo nhất điều gì.",
+  "Đông y đắp ngoài da: bà ngoại đắp bột thuốc không rõ thành phần lên ngực lưng từ Thứ Ba; da không phồng rộp.",
+  "Sau ăn gỏi cá: nôn, phân sệt tự hết trước khi ho 2 ngày; mốc gây nhiễu (ngộ độc, sán lá, dị vật).",
+  "Không có xét nghiệm nào: kháng sinh ở lượt 1 và chuyển tuyến ở lượt 3 quyết định bằng lâm sàng; lý do thật là sợ ung thư (ông ngoại), mẹ đòi CT ở lượt 2 và 3.",
+  "Trẻ mẫu giáo: ngưỡng thở nhanh 1–5 tuổi (> 40 l/p) khác người lớn, CURB-65 không dùng được; chưa tiêm phế cầu."
+ ],
+ "bai_hoc_bien": [
+  "Dưới 5 tuổi ho, sốt kèm thở nhanh (> 40 l/p) hoặc ran là viêm phổi; không xét nghiệm vẫn cho amoxicillin ngay, liều đầu tại phòng khám (QĐ 101/QĐ-KCB 2014 mục V.1, VII.1.1; WHO Pocket book 2013 mục 4.2.2).",
+  "Sốt lại sau khi hết thuốc: kiểm tuân thủ trước, rồi nghĩ biến chứng; gõ đục, giảm rì rào một bên là chuyển bệnh viện chụp X-quang (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3, 5.11).",
+  "Mẹ sợ hãi quá mức cần được hỏi nỗi sợ thật và trấn an có cấu trúc; CT là sai chỉ định, nhưng X-quang có chỉ định thật vừa đúng vừa giải tỏa nỗi sợ."
+ ],
+ "diem_nho": [
+  "Viêm phổi trẻ em: ho, sốt kèm thở nhanh (1–5 tuổi > 40 l/p), rút lõm hoặc ran; nặng khi có dấu hiệu nguy hiểm toàn thân, thở rên, rút lõm rất nặng hoặc SpO₂ < 90% (QĐ 101/QĐ-KCB 2014 mục V.1–V.2).",
+  "Amoxicillin: 80 mg/kg/ngày chia 2 (QĐ 101; WHO 2024 khuyến cáo 1) hoặc 45 mg/kg/ngày chia 3 (QĐ 708/2015 mục 5.3b); 5 ngày, hoặc 3 ngày khi chỉ thở nhanh nơi HIV thấp (WHO 2024; AWaRe 2022 Bảng 12.5; NICE NG250 khuyến cáo 1.6.4).",
+  "Gõ đục và tiếng thở giảm là biểu hiện tràn dịch cần chuyển bệnh viện; sốt không giảm sau 48 giờ điều trị cần X-quang (QĐ 708/2015 khuyến cáo 5.3, 5.11; QĐ 101 mục VII.3.1a)."
+ ],
+ "nguon": [
+  "TL-0243 · QĐ 101/QĐ-KCB 2014 – Xử trí viêm phổi cộng đồng ở trẻ em: mục IV, V.1–V.2, VI, VII.1–VII.3, VIII, Phụ lục 2",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Sử dụng kháng sinh: mục 5.3b; Phụ lục 1 khuyến cáo 5.1–5.12",
+  "TL-0245 · WHO 2024 – Pneumonia and diarrhoea in children up to 10 years: Table 1, khuyến cáo 1, 2a, Remarks (tr. 5)",
+  "TL-0018 · WHO AWaRe 2022: tr. 155, 158–161, Bảng 12.3, 12.5",
+  "TL-0250 · WHO Pocket book of hospital care for children 2013: mục 4.1 (tr. 77), Bảng 6 (tr. 77–79), 4.2.1 (tr. 84), 4.2.2 (tr. 86–87), 4.3.1 (tr. 88), 4.4 (tr. 90–91)",
+  "TL-0262 · NICE NG143 (2021, cập nhật 2025): mục 1.2.22, 1.6.2–1.6.6; NICE NG250 2025 (kho cũ): khuyến cáo 1.2.6, 1.6.4–1.6.5, Bảng 2 (tr. 21)",
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Bệnh lao: mục 3.2.3, 3.4.1b–c; TL-0037 · QĐ 3312/QĐ-BYT 2015: mục 3.3 Nhiễm sán ở trẻ em (tr. 339–340)",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026: mục 3.2.1 (CURB-65, CRB-65, người lớn); TL-0146 · NICE NG237 2024: phạm vi từ 16 tuổi; TL-0089 · ESC 2019 mục 3.2; TL-0045 · AHA/ACC 2026 (≥ 18 tuổi)",
+  "Không có trong tài liệu đã tải: dạng bào chế amoxicillin và paracetamol; xử trí khi bé nôn sau uống; độc tính thuốc Đông y đắp ngoài da; tần suất ung thư phổi ở trẻ; liều kháng sinh trước chuyển cho trẻ tràn dịch; thời gian nghỉ học; lịch vắc xin phế cầu"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-21, Sonnet): HH-0857, 3 lượt: viêm phổi cộng đồng không nặng bé gái 4 tuổi, không xét nghiệm → đỡ một phần, tiếp tục thuốc → sốt lại, nghi tràn dịch màng phổi, chuyển bệnh viện huyện.",
+  "Tài liệu đã đọc: TL-0243 toàn văn; TL-0015 mục 5.3b, Phụ lục 1 khuyến cáo 5.1–5.12; TL-0245 Table 1, khuyến cáo 1; TL-0018 tr. 155, 158–161; TL-0250 mục 4.1–4.4, Bảng 6; TL-0262 mục 1.2.22, 1.6; NICE NG250 khuyến cáo 1.2.6, 1.6.4–1.6.6, Bảng 2; TL-0123 mục 3.2.3, 3.4.1; TL-0037 mục 3.3; TL-0121 mục 3.2.1; TL-0146 phạm vi; TL-0089 mục 3.2.",
+  "Mâu thuẫn áp dụng: liều amoxicillin (HH-0735 mục 1), 3 hay 5 ngày và hẹn 2 hay 3 ngày (HH-0876), hạ sốt (NH-0199 mục 3), nơi điều trị (NH-0619), liều đầu trước chuyển (HH-0737 mục 5). Mục mới: HH-0857_mau_thuan.md.",
+  "Chọn của ca: ngưỡng thở nhanh 1–5 tuổi 40 l/p; CURB-65/CRB-65 không áp dụng cho trẻ; kết quả X-quang ở bệnh viện huyện là thiết kế của ca. Nghi ngờ: 'cho về hẹn lại' ở lượt 3 chấm w dù QĐ 708 chỉ nói 'cần chuyển bệnh viện'. Đã mở lại bằng rg các vị trí trích dẫn ngày 2026-11-21."
+ ]
+}

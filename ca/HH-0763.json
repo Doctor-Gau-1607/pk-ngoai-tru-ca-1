@@ -1,0 +1,502 @@
+{
+ "ma_ca": "HH-0763",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_cum_mua",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Cúm mùa",
+  "chan_doan_phai_loai_tru": [
+   "COVID-19",
+   "Sốt xuất huyết giai đoạn sớm"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt có corticoid",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Gia Huy",
+  "tuoi": 0.42,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 7.0,
+  "chieu_cao": 64,
+  "xung_ho": "Bé trai 5 tháng, chưa nói được, quấy khóc khi bị khám, bám mẹ. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'bé Huy' hoặc 'con'.",
+  "tinh_cach": "Mẹ 31 tuổi, nhân viên ngân hàng, hai đêm nay gần như không ngủ, mắt thâm, giọng khàn, hay thở dài. Đã đưa con đi ba nơi trong hai ngày, mỗi nơi một chẩn đoán nên nghi ngờ mọi lời giải thích: 'bác sĩ có chắc không ạ', 'hôm qua bác sĩ kia nói khác'. Không hỗn, chỉ mệt và hết tin. Dịu lại khi được nghe hết chuyện và khi bác sĩ tóm tắt đúng những gì ba nơi đã làm mà không chê đồng nghiệp. Bé nóng, quấy, nghẹt mũi, vẫn cười khi mẹ dỗ.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mẹ mất niềm tin, hỏi dồn ('sao con vẫn sốt', 'có cần làm lại xét nghiệm không') và so sánh với các bác sĩ trước. Mang theo túi thuốc và xấp phiếu nhưng chỉ đưa khi được hỏi. Lý do thật là muốn 'khám tổng quát một lượt cho chắc' (máu, nước tiểu, chụp phổi, siêu âm bụng); mẹ không tự nói vì sợ bị cho là đòi hỏi, chỉ nói khi bác sĩ hỏi chị mong gì ở lần khám này hoặc hỏi vì sao đi nhiều nơi.",
+  "nguoi_nha": "Mẹ bé, chị Lan (Trần Thị Mai Lan), 31 tuổi, đi cùng và bế bé. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ê a. Chồng chị đang ở nhà, cũng ho sốt.",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#f2cba8",
+   "toc": "#1e1612",
+   "kieuToc": "tre",
+   "ao": "#f4e2a8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#22170f",
+    "kieuToc": "dai",
+    "ao": "#8aa7c9",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé trai 5 tháng sốt hai ngày, ho, sổ mũi, đã khám ba nơi vẫn chưa đỡ; mẹ mệt, muốn bác sĩ khám kỹ cho con",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, sinh hóa nền, tổng phân tích nước tiểu). Không có X-quang, siêu âm, CT, nội soi; không làm được test nhanh cúm, NS1, PCR virus hô hấp. Có máy đo SpO₂; bệnh viện nhi cách khoảng 25 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Thứ Năm 11 giờ, chị Lan bế bé Huy, 5 tháng, 7,0 kg, đến phòng khám đa khoa tuyến cơ sở (chỉ làm được xét nghiệm cơ bản: công thức máu, CRP, sinh hóa nền, nước tiểu; không có X-quang, siêu âm, test nhanh cúm, NS1, PCR; có máy đo SpO₂; bệnh viện nhi cách khoảng 25 km). Bé sốt từ chiều thứ Ba (khoảng 42 giờ), ho, sổ mũi, bú ngắt quãng; mẹ đã đưa bé đi khám ba nơi. Sinh hiệu: nhiệt 38,6 °C, mạch 118 l/p, nhịp thở 44 l/p, SpO₂ 98%. Bé nóng, quấy, nghẹt mũi.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Huy 5 tháng sốt khoảng 42 giờ nhưng thở 44 l/p (dưới ngưỡng thở nhanh ≥ 50 l/p của trẻ 2–12 tháng, QĐ 708/2015 mục 3.1), không rút lõm, SpO₂ 98%, mạch 118 l/p (dưới ngưỡng 160 l/p, NICE NG143 mục 1.2.15), vẫn bú, còn tiểu và cười: đây là cúm nhẹ có yếu tố nguy cơ nên điều trị ngoại trú (QĐ 1840 mục II.2.3, III.2.2). Nhập viện chưa có tiêu chuẩn không rút ngắn bệnh (cúm sốt 3–5 ngày, ho kéo dài hơn: QĐ 1840 mục II.1.1) mà đưa bé vào khoa nhiều trẻ hô hấp, mẹ vốn mất ngủ hai đêm phải ở lại, tốn kém. Chị Lan thấy nơi thứ tư lại làm lại máu, chụp phổi như các nơi trước, niềm tin càng mòn và nỗi lo thật ('chắc có gì chưa ai tìm ra') vẫn không được nghe.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi (khoảng 25 km) là chưa có chỉ định: chưa có biểu hiện cúm nặng như khó thở, thở nhanh, thở gắng sức hoặc cần hỗ trợ hô hấp để SpO₂ > 95% (QĐ 1840 mục II.2.3), SpO₂ 98% chưa gần ngưỡng nhập viện < 92% (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3). Bé phải chờ lâu ở tuyến trên, có thể bị làm lại xét nghiệm không đổi xử trí (QĐ 1840 mục II.2.2), liều oseltamivir đầu trễ nhiều giờ so với cho ngay tại phòng khám khi còn trong 48 giờ đầu (CDC 2026 tr. 5). Mẹ đi thêm một chặng, càng thấy 'đi đâu cũng không hết'."
+   },
+   "loi_mo": "Chào bác sĩ. Con em sốt từ chiều thứ Ba tới giờ, em đi ba chỗ rồi mà con vẫn sốt, mỗi chỗ nói một kiểu. Em mệt quá, nhờ bác sĩ khám cho con thật kỹ giúp em.",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "Không đo",
+    "nhiet": "38,6",
+    "nhip_tho": 44,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt từ khoảng 17 giờ chiều thứ Ba, nhiệt kế nách 38,4–38,9 °C, đến giờ khoảng 42 giờ; ho khan từng tiếng, sổ mũi trong rồi nghẹt mũi, bú ngắt quãng vì nghẹt mũi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian sốt (dưới 48 giờ, còn kịp kháng virus)"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Ba nơi trong 24 giờ đầu. (1) Tối thứ Ba 20 giờ 30, phòng khám nhi gần nhà (sốt mới 3,5 giờ): bác sĩ nói 'viêm họng', cho paracetamol và siro ho thảo dược. (2) Sáng thứ Tư 9 giờ 30, bệnh viện quận (sốt khoảng 16 giờ): làm máu và CRP, nói 'viêm phế quản', cho kháng sinh uống dạng gói, thuốc nhỏ mắt, nước muối. (3) Tối thứ Tư 20 giờ, phòng cấp cứu bệnh viện khác (sốt khoảng 27 giờ): xem phiếu máu, nói 'siêu vi, về theo dõi', không đổi thuốc. Mẹ nói: 'ba nơi ba cách nói, con vẫn sốt'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ba nơi đã khám, chẩn đoán và thuốc từng nơi (nhiễu)"
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Phiếu bệnh viện quận (thứ Tư, sốt khoảng 16 giờ): bạch cầu 6,8 G/L, trung tính 31%, lympho 60%, Hb 109 g/L, Hct 0,33, tiểu cầu 322 G/L; CRP 4 mg/L. Mẹ giữ phiếu trong túi, chỉ đưa khi bác sĩ hỏi có xét nghiệm gì chưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xét nghiệm đã làm hôm qua: không cần lặp lại"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Túi thuốc của ba nơi: paracetamol gói (đã cho 4 lần, lần cuối 6 giờ sáng nay, mỗi lần khoảng 100 mg), siro ho thảo dược (3 lần), kháng sinh uống dạng gói ngày 2 lần (bé đã uống 3 gói), nước muối sinh lý, và thuốc nhỏ mắt phối hợp kháng sinh và corticoid (nhãn ghi tobramycin + dexamethason) nhỏ hai mắt 4 lần/ngày từ sáng thứ Tư, đã khoảng 6 lần. Chưa dùng aspirin, ibuprofen, thuốc nhỏ mũi, corticoid uống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: kháng sinh uống, thuốc nhỏ mắt có corticoid, siro ho"
+    },
+    {
+     "id": "mat",
+     "noi_dung": "Từ sáng thứ Tư hai mắt có ghèn vàng nhạt ở khóe, mi không sưng, bé không dụi mắt, không sợ ánh sáng. Từ 1 tháng tuổi bé hay chảy nước mắt và có ghèn từng đợt, tự hết sau vài ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ghèn mắt: lý do thuốc nhỏ mắt có corticoid; nền tắc lệ đạo"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Trời trở lạnh đột ngột từ thứ Hai (gió mùa về, mẹ nhớ hôm đó chưa kịp mặc thêm áo cho bé khi ra ngoài). Ba bé ho, sốt từ Chủ nhật; ba kể đồng nghiệp cùng phòng được xét nghiệm 'cúm A' dương tính tuần trước. Ba mẹ chưa làm test, chưa tiêm vắc xin cúm. Bé chưa đi nhà trẻ, không biết tiếp xúc ca COVID-19.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau đổi thời tiết và yếu tố dịch tễ cúm (ca nghi ngờ)"
+    },
+    {
+     "id": "ho_hap",
+     "noi_dung": "Ho khan từng tiếng, sổ mũi trong, nghẹt mũi khi bú và khi nằm. Không khó thở, không thở rít, không khò khè, không tím, ngủ thở êm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hô hấp, chưa có dấu hiệu viêm phổi"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bú mẹ và sữa công thức, vẫn đủ các cữ nhưng mỗi cữ ngắn hơn vì nghẹt mũi, chủ động ngậm bú. 12 giờ qua tiểu 5 lần, tã ướt nhiều. Không nôn, không tiêu chảy, không co giật. Hạ sốt thì bé cười, chơi; ngủ nhiều hơn nhưng gọi là tỉnh, khóc to.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, mất nước"
+    },
+    {
+     "id": "canh_bao_sxh",
+     "noi_dung": "Không chấm đỏ trên da, không chảy máu mũi hay chân răng, không phân đen, không nôn nhiều, không quấy khóc từng cơn, tay chân ấm. Khu phố không nghe có ca sốt xuất huyết gần đây; hai tuần qua nhà không bị muỗi đốt nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cảnh báo, dịch tễ sốt xuất huyết"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng 39 tuần, 3,2 kg, chưa nhập viện, chưa khò khè, không bệnh tim, không dị ứng thuốc. Bú mẹ là chính, thêm sữa công thức; chưa ăn dặm. Tiêm chủng đủ theo lịch đến mũi 3 lúc 4 tháng; chưa đủ 6 tháng nên chưa tiêm vắc xin cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, tiêm chủng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Một người bạn của mẹ kể con chị ấy 'sốt hoài' rồi mới phát hiện nhiễm khuẩn tiểu. Sau ba nơi mỗi nơi nói một khác, mẹ nghĩ 'chắc có gì chưa ai tìm ra' nên đến đây mong bác sĩ 'khám tổng quát một lượt cho con': xét nghiệm máu, nước tiểu, chụp phổi, siêu âm bụng, mẹ chịu trả tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói vì sợ bị cho là đòi hỏi. Chỉ kể khi bác sĩ hỏi nhẹ nhàng chị mong gì ở lần khám này, chị lo điều gì nhất, hoặc vì sao chị đưa con đi nhiều nơi.",
+     "k": 1,
+     "y": "Lý do thật: muốn kiểm tra tổng quát; cần giải thích vì sao không làm thêm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, quấy nhưng cười khi mẹ dỗ, khóc to, theo dõi người. Da nóng, hồng, môi hồng, niêm mạc ẩm, khóc có nước mắt, đổ đầy mao mạch dưới 2 giây, tay chân ấm.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 7,0 kg, dài 64 cm, vòng đầu 41 cm, MUAC không đo ở nhũ nhi. Tăng trưởng theo kênh bình thường: không có bảng tham chiếu WHO trong tài liệu đã tải để tra Z-score.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, khoảng 2 cm. Hạch cổ không to. Cổ mềm, không dấu màng não.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, không loét, không giả mạc. Mũi có nhầy trong, hơi nghẹt. Màng nhĩ hai bên hồng nhạt, di động, không phồng, không chảy mủ.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt hơi đỏ nhẹ, ghèn vàng nhạt đóng ở khóe trong, mi không phù, giác mạc trong, đồng tử đều, bé nhìn theo mẹ, không sợ ánh sáng.",
+     "k": 1
+    },
+    "le_dao": {
+     "a": "Ấn vùng túi lệ hai bên: không sưng đỏ, không đau, không có mủ trào ra điểm lệ.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p, đều, không rút lõm lồng ngực, không phập phồng cánh mũi, không thở rên. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 44 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, nhanh nhẹ 118 l/p (sốt), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, nhanh nhẹ, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn không quấy thêm, gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da nóng, hồng nhẹ, không ban, không chấm xuất huyết, không bầm.",
+     "k": 1
+    },
+    "nghiem_phap_day_that": {
+     "a": "Nghiệm pháp dây thắt âm tính (dưới 20 chấm/6,25 cm²).",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Bé tỉnh, nhìn theo mẹ, cười, hai tay hai chân cử động đối xứng, trương lực bình thường, phản xạ nắm bình thường, không co giật, khóc đối xứng.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú đúng, mút nuốt đều, phải nhả vú vài lần để thở bằng miệng vì nghẹt mũi, bú xong cữ mất khoảng 10 phút (bình thường 15 phút), không sặc, không tím khi bú, bú xong lại cười.",
+     "k": 1,
+     "hien": "Bé ngậm vú chủ động, bú ngắt quãng vì nghẹt mũi."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 5,9 G/L · Neutrophil 27% · Lympho 63% · Hb 108 g/L · Hct 0,33 · TC 305 G/L (khoảng tham chiếu nhũ nhi: không có trong kho)",
+     "ab": 0,
+     "n": "Không cần làm lại: có kết quả hôm qua (sốt khoảng 16 giờ) bình thường, cúm nhẹ không cần công thức máu (QĐ 1840 mục II.2.2). Mốc nền Hct, tiểu cầu để theo dõi sốt xuất huyết đã có từ phiếu cũ; xét nghiệm lặp chỉ cần khi tái khám còn sốt (QĐ 2760 mục II.1.2, II.2). Khoảng tham chiếu nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 6 mg/L.",
+     "bang": {
+      "crp": 6
+     },
+     "n": "Không cần: đã có CRP hôm qua; CRP không dùng để phân biệt virus hay vi khuẩn và không làm thường quy (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.5); xét nghiệm viêm chỉ làm ở cúm nặng (QĐ 1840 mục II.2.2)."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Không protein · Không bạch cầu · Nitrit âm tính (lấy nước tiểu bằng túi dán, mẫu có thể nhiễm).",
+     "n": "Không cần: sốt có nguồn hô hấp rõ (ho, sổ mũi, cả nhà bệnh), bé tỉnh, bú, tiểu bình thường. NICE NG143 mục 1.2.23 dẫn sang hướng dẫn nhiễm khuẩn tiết niệu riêng của NICE (không có trong tài liệu đã tải). Mẫu nước tiểu túi dán ở nhũ nhi dễ nhiễm."
+    },
+    "pct": {
+     "v": "n",
+     "r": "Procalcitonin 0,05 ng/mL.",
+     "n": "Không cần: cơ sở chỉ làm xét nghiệm cơ bản; xét nghiệm viêm, vi sinh dành cho cúm nặng hoặc nghi bội nhiễm (QĐ 1840 mục II.2.2); không dấu hiệu bội nhiễm."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Phòng khám không có test nhanh cúm, nên không có kết quả.",
+     "n": "Cơ sở không có. Chẩn đoán cúm bằng lâm sàng + dịch tễ (QĐ 1840 mục II.2.4.1); điều trị không chờ xét nghiệm; test nhanh nhạy khoảng 62% nên âm tính cũng không loại trừ (CDC 2026 tr. 5, 9)."
+    },
+    "ns1": {
+     "v": "a",
+     "r": "Phòng khám không có NS1; không có kết quả.",
+     "n": "Cơ sở không có (NS1 làm được ngày 1–7: QĐ 2760 mục III.1.1). Thay bằng dịch tễ, dấu hiệu cảnh báo, dây thắt, Hct và tiểu cầu hôm qua, và tái khám."
+    },
+    "pcr_ho_hap": {
+     "v": "a",
+     "r": "Phòng khám không có PCR virus hô hấp; không có kết quả.",
+     "n": "Cơ sở không có; không làm chậm điều trị (CDC 2026 tr. 5)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm mùa (ca nghi ngờ lâm sàng + dịch tễ) ở nhũ nhi 5 tháng, thể nhẹ, có yếu tố nguy cơ cúm nặng do tuổi",
+     "ok": 1,
+     "n": "Viêm đường hô hấp cấp + tiếp xúc gần người bệnh (ba ho sốt, đồng nghiệp ba cúm A dương tính) là ca nghi ngờ (QĐ 1840 mục II.2.4.1); khởi phát đột ngột sốt, ho, sổ mũi, sốt 3–5 ngày (mục II.1.1). Không có test nên chưa là ca khẳng định (mục II.2.4.2). Thể nhẹ vì chỉ có triệu chứng hô hấp trên, chưa thở nhanh, SpO₂ 98% (mục II.2.3). Trẻ < 5 tuổi, nhất là < 2 tuổi, là nhóm nguy cơ (mục II.2.3); nguy cơ nhập viện và tử vong cao nhất ở trẻ < 6 tháng (CDC 2026 Bảng 2 chú thích 1). Đổi thời tiết chỉ là mốc khởi phát, không phải căn nguyên."
+    },
+    {
+     "t": "COVID-19",
+     "n": "Triệu chứng chồng lấp; cúm mùa nằm trong chẩn đoán phân biệt (QĐ 2671 mục 4.8.3). Không có test nên không loại trừ hẳn, nhưng xử trí ngoại trú không đổi: thể nhẹ chỉ theo dõi và điều trị triệu chứng (mục 5.2.1, 6.3.1). Không có tiếp xúc ca COVID-19 đã biết."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue giai đoạn sốt",
+     "n": "Sốt cao đột ngột liên tục giống giai đoạn sốt (QĐ 2760 mục II.1.1) nhưng ho, sổ mũi nổi bật, cả nhà cùng bệnh hô hấp, khu phố không có ca, không chấm xuất huyết, dây thắt âm, Hct 0,33 và tiểu cầu 322 G/L hôm qua bình thường (mục II.1.2). Không có NS1 nên chưa loại hẳn: giai đoạn nguy hiểm ngày 3–7, có thể khi đã giảm sốt (mục II.2) → tái khám đúng hẹn."
+    },
+    {
+     "t": "Viêm phổi, viêm tiểu phế quản",
+     "n": "Chưa có: thở 44 l/p dưới ngưỡng ≥ 50 l/p của trẻ 2–12 tháng, không rút lõm, không ran, SpO₂ 98% (QĐ 708/2015 mục 3.1; WHO Pocket book 2013 mục 4.4: ho, cảm lạnh)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Ít nghĩ: màng nhĩ hồng nhạt, di động, không phồng, không chảy mủ; bé không dụi tai. Điều trị sớm kháng virus giảm nguy cơ viêm tai giữa ở trẻ nhỏ (CDC 2026 tr. 4)."
+    },
+    {
+     "t": "Nhiễm khuẩn tiểu hoặc nhiễm khuẩn nặng (nhiễm khuẩn huyết, viêm màng não)",
+     "n": "Ít nghĩ: có nguồn hô hấp rõ, nhóm xanh theo đèn giao thông (tỉnh, cười, khóc khỏe, niêm mạc ẩm, thóp phẳng, cổ mềm, mao mạch < 2 giây; NICE NG143 mục 1.2.7), mạch 118 l/p dưới ngưỡng 160 l/p của trẻ < 12 tháng (mục 1.2.15, Bảng 1), bú và tiểu bình thường. Nhiễm khuẩn tiểu: NG143 mục 1.2.23 chỉ nhắc cân nhắc ở trẻ sốt; hướng dẫn riêng không có trong tài liệu đã tải; đây cũng là nỗi lo của mẹ."
+    },
+    {
+     "t": "Viêm kết mạc nhẹ hoặc ghèn mắt (nhiễm virus hô hấp, nền tắc lệ đạo)",
+     "n": "Ghèn khóe mắt, kết mạc đỏ nhẹ, giác mạc trong, mi không phù, túi lệ không mủ. Viêm kết mạc do virus không đáp ứng kháng sinh; tránh dùng bừa kháng sinh và corticoid, thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp (AAO 2018, Highlighted Findings và mục Adenoviral Conjunctivitis); QĐ 40/2015 (Viêm kết mạc cấp mục 4b) cũng dặn thận trọng corticoid. Nền chảy nước mắt từ 1 tháng gợi tắc lệ đạo bẩm sinh: thông lệ đạo chỉ khi viêm túi lệ (QĐ 40/2015, Viêm túi lệ mục 4b)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Oseltamivir uống 3 mg/kg/liều (21 mg) × 2 lần/ngày × 5 ngày, cho liều đầu ngay tại phòng khám, không chờ xét nghiệm, HOẶC chỉ điều trị triệu chứng, không kê kháng virus (WHO 2024)",
+     "v": "c",
+     "n": "Cách 1: QĐ 1840/2025 mục II.2.3, III.2.1–2.2: trẻ < 5 tuổi (nhất là < 2 tuổi) là yếu tố nguy cơ, cúm nhẹ có nguy cơ thì dùng kháng virus càng sớm càng tốt, oseltamivir đầu tay; bảng oseltamivir trẻ 0–8 tháng 3 mg/kg/liều × 2 lần/ngày × 5 ngày; CDC 2026 Bảng 2 (trẻ < 2 tuổi), Bảng 3 (< 1 tuổi 3 mg/kg/liều), Bảng 4 (5 ngày). 7,0 kg × 3 = 21 mg. Bé đã 42 giờ: CDC 2026 tr. 5 nói lý tưởng trong 48 giờ, không chờ xét nghiệm. Cách 2: WHO 2024 (tóm tắt BMJ 2026, Key issues): yếu tố nguy cơ chính gồm ≥ 65 tuổi, suy giảm miễn dịch, tim mạch, thần kinh, phổi mạn, không có trẻ nhỏ; bé khỏe mạnh có thể xếp nguy cơ thấp nên không kê. Khác nhau vì năm (QĐ 06/2025, WHO 09/2024) và cách xếp nhóm nguy cơ. Cả hai đều đúng, xem sổ mâu thuẫn HH-0737 mục 1. Nơi khám cách bệnh viện nhi khoảng 25 km nên cách 1 giúp bù cho nguy cơ diễn tiến."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol đơn chất 100 mg (khoảng 14,3 mg/kg), cách ít nhất 6 giờ, khi bé sốt và khó chịu, tối đa 4 lần/24 giờ",
+     "v": "c",
+     "n": "Dengue chưa loại hẳn: chỉ paracetamol đơn chất 10–15 mg/kg/lần cách 4–6 giờ, tổng ≤ 60 mg/kg/24 giờ, không aspirin, analgin, ibuprofen (QĐ 2760 mục IV.A.1); WHO AWaRe 2022: 6–< 10 kg cho 100 mg mỗi 6 giờ. 4 lần × 100 mg = 400 mg = 57 mg/kg, dưới 60 mg/kg. Chỉ dùng khi bé khó chịu, không lau nước ấm (NICE NG143 mục 1.6.2, 1.6.4–1.6.5; sổ mâu thuẫn NH-0199 mục 3). Không aspirin vì hội chứng Reye (QĐ 1840 mục III.2.2)."
+    },
+    {
+     "t": "Ngưng kháng sinh uống (đã uống 3 gói), ngưng siro ho thảo dược; không kê kháng sinh, corticoid, thuốc ho hay long đờm",
+     "v": "c",
+     "n": "Không khuyến cáo kháng sinh cho cúm nhẹ (QĐ 1840 mục III.2.2); WHO 2024 khuyến cáo mạnh chống kháng sinh khi cúm không nặng, ít nghĩ bội nhiễm; không corticoid thường quy (QĐ 1840 mục III.2.3). Không cho thuốc chứa atropin, codein, cồn, thuốc tiêu nhầy hay thuốc nhỏ mũi có hoạt chất cho trẻ ho, cảm lạnh (WHO Pocket book 2013 mục 4.4, tr. 90–91). Thành phần siro thảo dược cụ thể: không có trong tài liệu đã tải. Ngưng kháng sinh khi chưa đủ liệu trình không có hại vì không có chỉ định; số liệu cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mắt phối hợp kháng sinh–corticoid (dùng khoảng 6 lần); lau và rửa mắt bằng nước muối sinh lý 0,9%; hẹn khám mắt nếu ghèn kéo dài sau khi hết cúm (nếu từng dùng kéo dài thì giảm dần dưới hướng dẫn nhãn khoa)",
+     "v": "c",
+     "n": "AAO 2018 (Highlighted Findings; Adenoviral Conjunctivitis): tránh kháng sinh, corticoid bừa vì kháng sinh có thể gây độc và corticoid có thể kéo dài nhiễm adenovirus; thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp; dùng corticoid kéo dài phải đo nhãn áp, giảm dần khi đã kiểm soát. QĐ 40/2015 Viêm kết mạc cấp mục 4b: rửa mắt NaCl 0,9%, thận trọng corticoid. Mới dùng khoảng 1,5 ngày nên ngưng hẳn là đủ; ghi theo sổ mâu thuẫn HH-0685 (ngưng hẳn HOẶC giảm dần dưới hướng dẫn nhãn khoa). Nền tắc lệ đạo: QĐ 40/2015, Viêm túi lệ mục 4b."
+    },
+    {
+     "t": "Cho bú mẹ thường xuyên, chia nhỏ cữ, lau mũi bằng nước muối sinh lý trước cữ bú, mặc thoáng, dặn dấu hiệu mất nước",
+     "v": "c",
+     "n": "Bù nước, đảm bảo dinh dưỡng ở trẻ nhỏ (QĐ 1840 mục III.2.2); cho trẻ bú thường xuyên, nhận biết thóp lõm, miệng khô, mắt trũng, không nước mắt (NICE NG143 mục 1.7.2); lau sạch dịch mũi trước bữa bú, cho uống chia nhỏ (WHO Pocket book 2013 mục 4.4)."
+    },
+    {
+     "t": "Nghe hết chuyện ba nơi, hỏi chị mong gì, tóm tắt những gì đã làm; giải thích vì sao không 'khám tổng quát', không làm lại xét nghiệm hôm qua, không chụp phổi, siêu âm",
+     "v": "c",
+     "n": "Lý do thật là muốn kiểm tra tổng quát sau ba nơi nói khác nhau. Bé thuộc nhóm xanh (NICE NG143 mục 1.2.7, 1.4.5): chăm sóc tại nhà kèm dặn dò; cúm nhẹ không cần xét nghiệm khác, X-quang chỉ khi nghi viêm phổi (QĐ 1840 mục II.2.2; QĐ 708/2015 Phụ lục 1 khuyến cáo 5.2, 5.5). Cơ sở cũng không có X-quang, siêu âm. Ba chẩn đoán trước (viêm họng, viêm phế quản, siêu vi) cùng là viêm đường hô hấp virus; không chê đồng nghiệp. Tái lập niềm tin bằng lịch tái khám cố định (NG143 mục 1.4.4: mốc theo dõi rõ ràng)."
+    },
+    {
+     "t": "Hẹn tái khám đúng 48 giờ (thứ Bảy 11 giờ), dạy mẹ đếm nhịp thở 1 phút khi bé yên, dặn dấu hiệu phải đến ngay và mốc hồi phục bình thường",
+     "v": "c",
+     "n": "Trẻ viêm hô hấp điều trị cộng đồng phải khám lại sau 2 ngày, hoặc bất cứ lúc nào nặng hơn, vẫn sốt dai dẳng hoặc mẹ lo nhiều (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3); sốt xuất huyết cần tái khám (QĐ 2760 mục IV.A.3a). Ngưỡng thở nhanh trẻ 2–12 tháng ≥ 50 l/p, đếm trọn 1 phút (QĐ 708/2015 mục 3.1). Cúm sốt 3–5 ngày, ho kéo dài hơn (QĐ 1840 mục II.1.1); sốt từ 5 ngày phải khám lại (NICE NG143 mục 1.2.14, 1.7.3); ho cảm lạnh thường hết trong 14 ngày, ho từ 14 ngày phải tìm nguyên nhân khác (WHO Pocket book 2013 mục 4.4)."
+    },
+    {
+     "t": "Dặn ba bé (đang ho sốt) đeo khẩu trang, rửa tay, hạn chế bế bé; người nhà tiêm vắc xin cúm; bé chưa đủ tuổi tiêm",
+     "v": "c",
+     "n": "Người cúm hạn chế tiếp xúc người nguy cơ cao, khẩu trang, vệ sinh tay (QĐ 1840 mục IV.2); tiêm vắc xin theo hướng dẫn BYT (mục IV.1). Vắc xin cúm cho trẻ từ 6 tháng; trẻ nhỏ hơn chưa đủ tuổi tiêm (CDC-ACIP 2025, Recommendations và Timing of Vaccination). Lịch tiêm vắc xin cúm của Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Oseltamivir 3,5 mg/kg/liều (khoảng 24 mg) × 2 lần/ngày × 5 ngày",
+     "v": "a",
+     "n": "Bé 5 tháng thuộc nhóm 0–8 tháng (3 mg/kg); 3,5 mg/kg là liều cho 9–11 tháng (QĐ 1840 mục III.2.1; CDC 2026 Bảng 3 chú thích 2). Liều cao hơn ít, CDC nêu không có bằng chứng 3,5 mg/kg gây hại ở trẻ 9–11 tháng; ở bé 5 tháng không có dữ liệu riêng trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê baloxavir một liều 2 mg/kg (14 mg) thay oseltamivir",
+     "v": "a",
+     "n": "QĐ 1840 mục III.2.1 cho baloxavir khi không có oseltamivir (< 20 kg: 2 mg/kg); WHO 2024 gợi ý baloxavir cho nguy cơ cao. Tuổi tối thiểu: không có trong tài liệu đã tải (sổ mâu thuẫn HH-0737 mục 3 chấm a). Oseltamivir vẫn là đầu tay."
+    },
+    {
+     "t": "Tiếp tục kháng sinh uống cho đủ liệu trình hoặc đổi kháng sinh mới vì 'sốt chưa hết'",
+     "v": "w",
+     "n": "Không dấu hiệu bội nhiễm (màng nhĩ bình thường, phổi sạch, CRP 4 mg/L); không kháng sinh cho cúm nhẹ (QĐ 1840 mục III.2.2; WHO 2024 khuyến cáo mạnh chống). Sốt cúm 3–5 ngày (mục II.1.1) nên sốt chưa hết ở 42 giờ chưa phải thất bại điều trị."
+    },
+    {
+     "t": "Tiếp tục thuốc nhỏ mắt phối hợp kháng sinh–corticoid hoặc đổi sang thuốc nhỏ mắt kháng sinh–corticoid khác",
+     "v": "w",
+     "n": "Thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp; corticoid có thể kéo dài nhiễm adenovirus, dùng kéo dài phải đo nhãn áp để phát hiện glôcôm, đục thủy tinh thể (AAO 2018, Adenoviral Conjunctivitis); QĐ 40/2015 Viêm kết mạc cấp mục 4b dặn thận trọng corticoid."
+    },
+    {
+     "t": "Cho corticoid uống, thuốc ho hoặc siro long đờm",
+     "v": "w",
+     "n": "Không corticoid thường quy cho cúm (QĐ 1840 mục III.2.3); WHO Pocket book 2013 mục 4.4 không dùng thuốc ho, tiêu nhầy cho trẻ."
+    },
+    {
+     "t": "Cho ibuprofen xen kẽ paracetamol",
+     "v": "w",
+     "n": "Dengue chưa loại hẳn: QĐ 2760 mục IV.A.1 không dùng ibuprofen (sổ mâu thuẫn HH-0737 mục 2); chọn bên thận trọng."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến ngay trong ngày",
+     "v": "w",
+     "n": "Chưa có tiêu chuẩn: không thở nhanh, không rút lõm, SpO₂ 98%, bú và tiểu được (QĐ 1840 mục II.2.3; QĐ 708/2015 mục 3.1, Phụ lục 1 khuyến cáo 5.3)."
+    },
+    {
+     "t": "Cho bé uống aspirin hoặc thuốc hạ sốt có aspirin",
+     "v": "h",
+     "n": "Aspirin ở người bệnh cúm có thể gây hội chứng Reye, nguy cơ đe dọa tính mạng (QĐ 1840 mục III.2.2); không dùng trong sốt xuất huyết (QĐ 2760 mục IV.A.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm mùa nghi ngờ (lâm sàng + dịch tễ), thể nhẹ, nhũ nhi 5 tháng (7,0 kg), sốt khoảng 42 giờ, chưa có xét nghiệm khẳng định",
+     "Yếu tố nguy cơ cúm nặng: trẻ < 5 tuổi, nhất là < 6 tháng (QĐ 1840 mục II.2.3; CDC 2026 Bảng 2 chú thích 1); chưa đủ tuổi tiêm vắc xin cúm",
+     "Chưa có dấu hiệu nặng: thở 44 l/p, không rút lõm, SpO₂ 98%, bú và tiểu được, thóp phẳng, mao mạch dưới 2 giây",
+     "Không loại trừ hẳn nhưng ít nghĩ: COVID-19 (không có test), sốt xuất huyết giai đoạn sốt (Hct, tiểu cầu hôm qua bình thường, dây thắt âm, không dịch tễ; theo dõi ngày 3–7); nhiễm khuẩn tiểu, viêm phổi, viêm tai giữa ít nghĩ",
+     "Viêm kết mạc nhẹ nền tắc lệ đạo; đang dùng thuốc nhỏ mắt phối hợp kháng sinh–corticoid và kháng sinh uống không có chỉ định",
+     "Lý do thật đến khám: muốn kiểm tra tổng quát sau ba nơi nói khác nhau, mất niềm tin"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh sử từ lúc sốt → ba nơi đã khám, đã làm gì, cho thuốc gì (xin xem túi thuốc và phiếu) → dịch tễ, đổi thời tiết → bú, tiểu, dấu hiệu nguy hiểm → dấu hiệu cảnh báo sốt xuất huyết → tiền sử, tiêm chủng → hỏi chị mong gì, lo gì. Khám: toàn thân (mất nước), thóp, họng–tai–mũi, mắt, đếm nhịp thở đủ 1 phút khi bé yên (QĐ 708/2015 mục 3.1), phổi, tim, da, dây thắt, quan sát cữ bú. CLS: không cần làm lại; cơ sở không có test cúm, NS1, X-quang.",
+     "Vì sao là cúm: khởi phát đột ngột sốt, ho, sổ mũi, sốt 3–5 ngày, ho kéo dài hơn (QĐ 1840 mục II.1.1). Ca nghi ngờ = viêm hô hấp cấp + tiếp xúc người bệnh hoặc vùng có dịch (mục II.2.4.1); ba ho sốt từ Chủ nhật, đồng nghiệp ba cúm A dương tính. Không có test nên điều trị theo lâm sàng, không chờ xét nghiệm (CDC 2026 tr. 5); test nhanh nhạy khoảng 62% (tr. 9). Đổi thời tiết là mốc nhớ của mẹ, không phải căn nguyên.",
+     "Vì sao đã có chỉ định kháng virus dù thể nhẹ: ngoại trú thể nhẹ chỉ dùng khi có yếu tố nguy cơ (QĐ 1840 mục III.2.2) và trẻ < 5 tuổi, nhất là < 2 tuổi, là yếu tố nguy cơ (mục II.2.3); nguy cơ nhập viện cao nhất ở trẻ < 6 tháng (CDC 2026 Bảng 2 chú thích 1). WHO 2024 không liệt kê trẻ nhỏ trong yếu tố nguy cơ chính nên có cách không kê (sổ HH-0737 mục 1).",
+     "Vì sao ba nơi 'không khỏi' mà không ai sai: cúm sốt 3–5 ngày nên ở 42 giờ chưa thể hết (QĐ 1840 mục II.1.1); viêm họng, viêm phế quản, siêu vi đều chỉ cùng một viêm đường hô hấp virus, thiếu dịch tễ trong gia đình và chưa nghĩ đến kháng virus. Kháng sinh uống và thuốc nhỏ mắt có corticoid không có chỉ định (QĐ 1840 mục III.2.2; AAO 2018).",
+     "Vì sao chưa phải sốt xuất huyết: giai đoạn sốt có dây thắt dương, chấm xuất huyết (QĐ 2760 mục II.1.1); bé ho, sổ mũi nổi bật, dây thắt âm, Hct 0,33, tiểu cầu 322 G/L (mục II.1.2). Không có NS1 (làm được ngày 1–7: mục III.1.1) nên theo dõi qua ngày 3–7 (mục II.2). COVID-19: không có test, không đổi xử trí (QĐ 2671 mục 5.2.1, 6.3.1).",
+     "Vì sao chưa viêm phổi, chưa nhập viện, không 'khám tổng quát': thở 44 l/p < 50 l/p, không rút lõm, SpO₂ 98% > 92% (QĐ 708/2015 mục 3.1, Phụ lục 1 khuyến cáo 5.3); nhóm xanh (NICE NG143 mục 1.2.7). Bài học của nhiễu 'ba nơi': đừng lặp lại xét nghiệm vô ích, đừng chê nơi trước, và cho mẹ một mốc rõ (tái khám 48 giờ) vì niềm tin quyết định mẹ có quay lại đúng hẹn."
+    ],
+    "phan_tich_xu_tri": [
+     "Oseltamivir 21 mg × 2 lần/ngày × 5 ngày, liều đầu ngay tại phòng khám (QĐ 1840 mục III.2.1; CDC 2026 Bảng 3, Bảng 4); hoặc không kê kháng virus theo WHO 2024. Khác biệt đã ghi ở sổ HH-0737 mục 1: cả hai đều đúng, baloxavir và liều 3,5 mg/kg chấm a. Bé ở 42 giờ, còn trong mốc lý tưởng 48 giờ (CDC 2026 tr. 5).",
+     "Triệu chứng: paracetamol đơn chất khi bé khó chịu (QĐ 2760 mục IV.A.1; NICE NG143 mục 1.6.4–1.6.5), không ibuprofen khi dengue chưa loại (sổ HH-0737 mục 2), không aspirin (QĐ 1840 mục III.2.2). Nước muối lau mũi trước cữ bú (WHO Pocket book 2013 mục 4.4).",
+     "Dọn đơn của ba nơi: ngưng kháng sinh uống, siro ho thảo dược, thuốc nhỏ mắt phối hợp có corticoid (QĐ 1840 mục III.2.2–2.3; WHO Pocket book 2013 mục 4.4; AAO 2018). Giải thích nhẹ nhàng, không quy lỗi cho nơi nào. Rửa mắt nước muối; khám mắt khi ghèn kéo dài sau cúm.",
+     "Theo dõi: hẹn 48 giờ (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3); nếu lúc đó còn sốt thì cân nhắc làm lại công thức máu theo dõi ngày 3–7 (QĐ 2760 mục II.2, IV.A.3a). Chưa chuyển tuyến vì chưa có tiêu chuẩn nặng. Dặn mốc hồi phục bình thường để mẹ không lại đi khám nơi thứ tư khi bé còn ho."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Dạng bào chế và nồng độ sẵn có: không có trong tài liệu đã tải (tính theo mg; dược sĩ pha và hướng dẫn thể tích theo nhãn)",
+      "lieu": "21 mg/lần (3 mg/kg × 7,0 kg), 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu tại phòng khám lúc khoảng 11 giờ 30, liều 2 lúc khoảng 21 giờ 30 tối nay; các ngày sau 9 giờ và 21 giờ",
+      "so_ngay": "5 ngày (10 liều), từ trưa thứ Năm đến tối thứ Hai",
+      "ghi_chu": "QĐ 1840 mục III.2.1 (trẻ 0–8 tháng 3 mg/kg/liều × 2 lần/ngày × 5 ngày); CDC 2026 Bảng 3, Bảng 4. Tác dụng phụ: buồn nôn, nôn; hiếm phản ứng da nặng, biến cố tâm thần kinh thoáng qua (CDC 2026 Bảng 1). Xử trí khi bé nôn ngay sau uống: không có trong tài liệu đã tải. Có thể không kê nếu theo WHO 2024 (sổ HH-0737 mục 1)."
+     },
+     {
+      "thuoc": "Paracetamol đơn chất",
+      "ham_luong": "Dạng bào chế sẵn có: không có trong tài liệu đã tải (tính theo mg)",
+      "lieu": "100 mg/lần (khoảng 14,3 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi bé sốt và khó chịu, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Khi cần; không quá 4 lần/24 giờ (tối đa 60 mg/kg/24 giờ = 420 mg)",
+      "ghi_chu": "QĐ 2760 mục IV.A.1 (10–15 mg/kg/lần cách 4–6 giờ, tổng ≤ 60 mg/kg/24 giờ, chỉ paracetamol đơn chất); WHO AWaRe 2022 (6–< 10 kg: 100 mg mỗi 6 giờ); NICE NG143 mục 1.6.4–1.6.6. Không ibuprofen, không aspirin; không dùng thêm thuốc cảm có paracetamol."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 0,9%",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Lau mũi bằng cuộn khăn ẩm hoặc nhỏ mũi trước cữ bú; lau và rửa khóe mắt khi có ghèn",
+      "duong": "Nhỏ hoặc lau mũi, rửa mắt",
+      "thoi_diem": "Trước các cữ bú khi nghẹt mũi; rửa mắt khi có ghèn",
+      "so_ngay": "Đến khi hết nghẹt mũi và ghèn",
+      "ghi_chu": "WHO Pocket book 2013 mục 4.4 (làm sạch dịch mũi trước bữa bú, không thuốc nhỏ mũi có hoạt chất); QĐ 40/2015 Viêm kết mạc cấp mục 4b (rửa mắt NaCl 0,9%). Liều và thể tích nước muối cho nhũ nhi: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng kháng sinh gói, siro ho thảo dược, thuốc nhỏ mắt có corticoid; cất túi thuốc cũ, không dùng thêm (QĐ 1840 mục III.2.2; AAO 2018). Uống oseltamivir đủ 5 ngày (10 liều) kể cả khi hết sốt.",
+     "Quỹ đạo bình thường: cúm sốt 3–5 ngày, ho và nghẹt mũi kéo dài hơn, thường hết trong khoảng 14 ngày (QĐ 1840 mục II.1.1; WHO Pocket book 2013 mục 4.4). Lo khi: sốt từ 5 ngày trở lên (NICE NG143 mục 1.2.14, 1.7.3), ho từ 14 ngày trở lên, hết sốt rồi sốt lại hoặc đau tai, bé yếu đi so với lúc bác sĩ khám. Hiểu là bé khỏi chậm hơn mẹ mong chứ chưa phải thất bại.",
+     "Cho bú thường xuyên, chia nhỏ cữ, lau mũi trước cữ bú; theo dõi mất nước: thóp lõm, miệng khô, mắt trũng, không nước mắt, tiểu ít (NICE NG143 mục 1.7.2). Không lau nước ấm, không quấn quá ấm (mục 1.6.2–1.6.3).",
+     "Tái khám đúng thứ Bảy 11 giờ, mang túi thuốc và sổ ghi giờ sốt. Đến ngay nếu: thở nhanh (≥ 50 l/p khi bé yên), rút lõm ngực, bỏ bú, li bì hoặc khó đánh thức, co giật, tím, chấm xuất huyết, chảy máu, nôn nhiều, tiểu ít, tay chân lạnh ẩm (QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3; NICE NG143 mục 1.7.3; QĐ 2760 mục IV.A.3b; QĐ 1840 mục II.2.3).",
+     "Ba bé đang ho sốt: đeo khẩu trang, rửa tay, hạn chế bế bé (QĐ 1840 mục IV.2). Người lớn trong nhà nên hỏi tiêm vắc xin cúm; bé đủ 6 tháng thì hỏi lịch tiêm (QĐ 1840 mục IV.1; CDC-ACIP 2025). Mẹ cần ngủ, nhờ người trông bé ban đêm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Huy sốt thêm khoảng hai ngày sau liều oseltamivir đầu, hạ dần rồi hết sốt vào sáng Chủ nhật (khoảng 4,5 ngày từ lúc khởi phát, vào liều thứ 6); chị Lan đưa bé tái khám thứ Bảy đúng hẹn, bé còn sốt nhẹ 37,9 °C nhưng thở 40 l/p, bú đủ, phổi trong, mẹ đã bớt hoang mang nhờ được dặn mốc hồi phục. Ho và nghẹt mũi kéo dài hơn mẹ mong, thưa dần và hết sau khoảng 13 ngày; ghèn mắt hết sau một tuần ngưng thuốc nhỏ, chỉ rửa nước muối. Không biến chứng. Ba bé khỏi sau 5 ngày, cả nhà được hướng dẫn tiêm vắc xin cúm mùa tới.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: mẹ mệt, mất niềm tin, hỏi dồn; túi thuốc và phiếu chỉ đưa khi được hỏi. Ba chẩn đoán (viêm họng, viêm phế quản, siêu vi) cùng là viêm hô hấp virus; bẫy là chê đồng nghiệp hoặc làm lại mọi xét nghiệm để lấy lại niềm tin.",
+  "Thuốc nhỏ mắt phối hợp kháng sinh–corticoid từ nơi thứ hai (kèm kháng sinh uống và siro ho): đều không có chỉ định, lộ khi xem túi thuốc (AAO 2018; QĐ 1840 mục III.2.2).",
+  "Thay đổi thời tiết: mẹ nghĩ do 'trúng gió'; thực ra mốc khởi phát trùng đợt lạnh và có dịch tễ cúm trong nhà (ba ho sốt, đồng nghiệp ba cúm A dương tính).",
+  "Lý do thật 'muốn kiểm tra tổng quát': mẹ không tự nói, lộ khi hỏi chị mong gì; trả lời đúng là giải thích vì sao không làm thêm, không phải làm theo.",
+  "Chỉ có xét nghiệm cơ bản: không test cúm, NS1, X-quang, siêu âm; chẩn đoán cúm bằng lâm sàng + dịch tễ; công thức máu hôm qua là mốc nền cho sốt xuất huyết."
+ ],
+ "bai_hoc_bien": [
+  "Ca 1 lượt: không có lượt sau để sửa sai; bắt buộc chốt trong lượt này việc kê kháng virus, dọn đơn thừa của ba nơi, an toàn (dấu hiệu nguy hiểm, tái khám 48 giờ) và mốc hồi phục.",
+  "Khỏi chậm hơn dự kiến: dạy quỹ đạo bình thường (sốt 3–5 ngày, ho kéo dài tới khoảng 14 ngày) so với bất thường (sốt từ 5 ngày, ho từ 14 ngày, hết rồi sốt lại, thở nhanh, bỏ bú).",
+  "Người bệnh đã khám nhiều nơi: nghe trước, tóm tắt, không chê, không lặp xét nghiệm vô ích; một mốc hẹn rõ phục hồi niềm tin hơn một xét nghiệm nữa."
+ ],
+ "diem_nho": [
+  "Cúm nghi ngờ = viêm hô hấp cấp + dịch tễ; không có test vẫn điều trị, không chờ kết quả (QĐ 1840 mục II.2.4.1; CDC 2026 tr. 5); test nhanh nhạy khoảng 62% (tr. 9).",
+  "Trẻ < 5 tuổi (nhất là < 2 tuổi, và nguy cơ cao nhất < 6 tháng) là nguy cơ; oseltamivir sớm: 0–8 tháng 3 mg/kg/liều, 9–11 tháng 3,5 mg/kg/liều, × 2 lần/ngày × 5 ngày (QĐ 1840 mục III.2.1); WHO 2024 không xếp trẻ nhỏ vào nhóm nguy cơ chính nên ghi cả hai cách.",
+  "Không kháng sinh, corticoid, thuốc ho, aspirin cho cúm nhẹ (QĐ 1840 mục III.2.2–2.3; WHO Pocket book 2013 mục 4.4); thuốc nhỏ mắt phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp (AAO 2018).",
+  "Thở nhanh trẻ 2–12 tháng ≥ 50 l/p; SpO₂ < 92% nhập viện (QĐ 708/2015 mục 3.1, Phụ lục 1 khuyến cáo 5.3). Sốt từ 5 ngày phải khám lại (NICE NG143 mục 1.2.14, 1.7.3); ho cảm lạnh thường hết trong 14 ngày (WHO Pocket book 2013 mục 4.4)."
+ ],
+ "nguon": [
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 (cúm mùa): mục II.1.1, II.2.1–2.4, III.2.1–2.3, IV.1–2",
+  "TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (tóm tắt BMJ 2026;392:e087397): Abstract, Key issues; không đọc được infographic",
+  "TL-0139 · CDC 2026 – Influenza Antiviral Medications: Summary for Clinicians: Bảng 1–4, tr. 4–5, 9 (bản chữ ghi mùa 2016–2017, không có baloxavir)",
+  "TL-0029 · QĐ 2760/QĐ-BYT 2023 (sốt xuất huyết Dengue): mục II.1.1–1.2, II.2, III.1.1, IV.A.1, IV.A.3 (số hiệu và ngày chưa xác minh)",
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 (COVID-19, bản chữ OCR nhiễu): mục 4.8.3, 5.2.1, 6.3.1",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh: viêm phổi cộng đồng ở trẻ em mục 3.1; Phụ lục 1 khuyến cáo 5.2, 5.3, 5.5",
+  "TL-0250 · WHO Pocket book of hospital care for children 2013: mục 4.4 Cough or cold (tr. 90–91)",
+  "TL-0262 · NICE NG143 (2021, cập nhật 2025) – Fever in under 5s: mục 1.2.6–1.2.7, 1.2.14–1.2.15 (Bảng 1), 1.2.23, 1.4.4–1.4.5, 1.6.2–1.6.6, 1.7.2–1.7.3",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – bảng liều paracetamol theo cân (6–< 10 kg: 100 mg mỗi 6 giờ)",
+  "TL-0266 · AAO Conjunctivitis Preferred Practice Pattern 2018: Highlighted Findings, Adenoviral Conjunctivitis (điều trị và Socioeconomic Considerations)",
+  "TL-0242 · QĐ 40/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị các bệnh về mắt: Viêm kết mạc cấp mục 4b; Viêm túi lệ mục 4b",
+  "CDC-ACIP 2025 – Seasonal influenza vaccines 2025-26 (kho cũ tltk-10000-ca): Recommendations for Influenza Vaccination (≥ 6 tháng), Timing of Vaccination",
+  "Không có trong tài liệu đã tải: dạng bào chế và thể tích oseltamivir, paracetamol, nước muối cho nhũ nhi; xử trí khi nôn sau oseltamivir; thành phần và an toàn của siro ho thảo dược; số liệu ngưng kháng sinh sớm; khoảng tham chiếu công thức máu nhũ nhi; bảng tăng trưởng WHO; tuổi tối thiểu baloxavir; lịch tiêm vắc xin cúm của Việt Nam; hướng dẫn nhiễm khuẩn tiết niệu trẻ em; khuyến cáo WHO 2024 oseltamivir cho nhóm nguy cơ thấp (infographic)"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-21): ca HH-0763, 1 lượt: cúm mùa nhũ nhi 5 tháng thể nhẹ có nguy cơ, sốt 42 giờ sau ba nơi khám, tuyến cơ sở chỉ xét nghiệm cơ bản; kết luận ve_hen (oseltamivir hoặc không kê theo WHO 2024, dọn đơn thừa, tái khám 48 giờ). Kết cục khỏi chậm hơn dự kiến.",
+  "Tài liệu đã đọc: TL-0122 toàn văn; TL-0133 Abstract, Key issues; TL-0139 Bảng 1–4, tr. 4–5, 9; TL-0029 mục II–IV.A; TL-0124 mục 4.8, 5.2.1, 6.3.1; TL-0015 mục 3 và Phụ lục 1; TL-0250 mục 4.4; TL-0262 mục 1.2, 1.4, 1.6–1.7; TL-0018 bảng paracetamol; TL-0266 phần điều trị viêm kết mạc; TL-0242 Viêm kết mạc cấp, Viêm túi lệ; CDC-ACIP 2025.",
+  "Biến sổ cái: nhiễu 'từng khám 3 nơi không khỏi' = ba nơi trong 24 giờ đầu, mỗi nơi một chẩn đoán; khởi phát 'thay đổi thời tiết' = gió mùa về thứ Hai; thuốc đang dùng 'thuốc nhỏ mắt corticoid' = thuốc nhỏ mắt tobramycin + dexamethason cho ghèn mắt (kèm kháng sinh uống và siro ho từ các nơi trước); lý do thật 'muốn kiểm tra tổng quát' = mẹ muốn xét nghiệm máu, nước tiểu, chụp phổi, siêu âm; nguồn lực → khoa_cls khóa X-quang, siêu âm (CT, nội soi tự kéo theo); test cúm, NS1, PCR khai v a với r 'phòng khám không có' vì app không khóa nhóm xn; kết cục 'khỏi chậm' = sốt tới ngày 5, ho tới ngày 13.",
+  "Mâu thuẫn áp dụng, không có mâu thuẫn mới: sổ HH-0737 mục 1 (oseltamivir HOẶC không kê, gộp một mục c), mục 2 (paracetamol đơn chất, ibuprofen w), mục 3 (baloxavir a); HH-0735 mục 3 (liều 0–8 tháng 3 mg/kg, 3,5 mg/kg chấm a); NH-0199 mục 3 (hạ sốt khi khó chịu, không lau nước ấm); HH-0685 (corticoid nhỏ mắt: ngưng hẳn HOẶC giảm dần dưới hướng dẫn nhãn khoa; dùng tiếp w).",
+  "Chọn của ca: tuổi 5 tháng (dòng 0–8 tháng QĐ 1840), 7,0 kg để paracetamol 100 mg nằm trong 10–15 mg/kg, mạch 118 l/p để khớp tệp tim nhanh (≈ 115 l/p), mốc sốt 42 giờ (còn trong 48 giờ), tái khám 48 giờ. Không dùng bang cho công thức máu vì tham_chieu_xn chỉ có khoảng người lớn (chỉ dùng bang cho CRP). Lưu ý: NG143 coi 'bú kém' là nguy cơ trung gian nên ca viết bé vẫn đủ cữ bú, ngắn hơn do nghẹt mũi."
+ ]
+}

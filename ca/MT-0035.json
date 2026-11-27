@@ -1,0 +1,747 @@
+{
+ "ma_ca": "MT-0035",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_tha_nguyen_phat_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân đã nghỉ hưu",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Bảy",
+  "tuoi": 79,
+  "gioi": "Nam",
+  "nghe": "Nông dân đã nghỉ hưu (còn làm vườn nhỏ)",
+  "can_nang": 52,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi ông là 'ông'. Ông tự xưng 'tui', gọi bác sĩ là 'bác sĩ'. Hiệp gọi ông là 'ba', xưng 'con'.",
+  "tinh_cach": "Nói to, hơi nặng tai, cương quyết khi tin điều gì ('hồi trước uống là hết'). Sợ bệnh nhưng giấu, ngại con tốn tiền. Tin tiệm thuốc đầu xóm và lời hàng xóm. Gọi huyết áp là 'áp huyết'. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Đòi kháng sinh: cứ lặp lại 'cho tui mấy viên kháng sinh cho cắt liền', hỏi lại sau mỗi lần bị từ chối ('vậy thuốc gì cũng được, mạnh mạnh'). Dịu lại khi bác sĩ nói vì sao không cần, nói rõ điều ông lo và hẹn quay lại. Không kể thuốc xương khớp trừ khi bị hỏi cụ thể.",
+  "nguoi_nha": "Hiệp, 45 tuổi, con út, công nhân xưởng gỗ, chở ông bằng xe máy sau giờ làm. Ít nói, lo cho ba. Hiệp biết: ba ăn tô bún ở chợ hai hôm trước (Hiệp ăn cơm ở nhà), số lần đi cầu, vỉ thuốc trong túi áo ba (không biết là thuốc gì). Hiệp KHÔNG biết ba sợ nhồi máu như ông Tám, không biết ba uống mấy viên mỗi ngày.",
+  "ten_nguoi_nha": "Hiệp (con út)",
+  "ngoai_hinh": {
+   "da": "#b9855f",
+   "toc": "#d8d8d4",
+   "kieuToc": "hoi",
+   "ao": "#6d7a5a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c9966f",
+    "toc": "#1b1511",
+    "kieuToc": "ngan",
+    "ao": "#3d5a80",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Đau bụng, đi cầu lỏng sau ăn bún chợ, xin thuốc kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (sau 18 giờ), kỹ thuật viên xét nghiệm và chẩn đoán hình ảnh đã về: tối nay phòng khám không làm được xét nghiệm máu (creatinin, điện giải, troponin…), X-quang, siêu âm. Mẫu lấy sáng mai, kết quả sau vài giờ. Còn dùng được: ống nghe, huyết áp kế, máy đo SpO₂, máy điện tim 12 chuyển đạo, máy đo đường huyết mao mạch, que thử nước tiểu 10 thông số. Quyết định tối nay phải đưa ra trước khi có kết quả."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Lê Văn Bảy, 79 tuổi, nông dân đã nghỉ, con trai Hiệp chở đến lúc 18 giờ 50 vì đau bụng, đi cầu lỏng hai ngày nay sau tô bún ngoài chợ; ông xin 'thuốc kháng sinh cho mau cắt'. Tiền sử tăng huyết áp nhiều năm. Sinh hiệu: HA 178/98 mmHg, mạch 84 l/p, nhiệt 37,0°C, nhịp thở 18 l/p, SpO₂ 96%, cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Ông Bảy bị gọi 115, đưa vào cấp cứu vì con số 178/98 mmHg và nỗi lo nhồi máu. HA chưa tới 180/110, không đau ngực, khó thở, nhìn mờ hay dấu thần kinh, điện tim không có ST chênh (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Ông hoảng hơn, con tốn tiền, trong khi việc cần làm là ngưng thuốc tự mua, bù nước, khởi amlodipin; vỉ thuốc vẫn nằm trong túi áo.",
+    "chuyen_tuyen": "Ông Bảy bị chuyển lên bệnh viện chỉ vì HA 178/98 và lo lắng. Chưa có tiêu chuẩn chuyển: không nghi THA thứ phát, chưa dùng đủ 3 thuốc, chưa biến chứng nặng (QĐ 5904 Phần 1 Bước 4 mục A); nguyên nhân làm HA cao thêm là thuốc tự mua, ngưng được tại chỗ. Ông ngại tốn kém, dễ bỏ hẹn, còn tô bún và vỉ thuốc chưa ai hỏi tới.",
+    "nhap_vien": "Ông Bảy nhập viện vì tiêu chảy kèm HA cao. Ông uống được, mất nước nhẹ, không sốt, không phân máu: mất nước độ I, uống được thì bù bằng oresol tại nhà (QĐ 5642/2015 mục 4.2.3a). Nằm viện ở tuổi 79 làm ông lo hơn, mất ngủ; chuyện vỉ thuốc tự mua và việc tự bỏ amlodipin vẫn chưa được nói ra, về nhà dễ tái diễn."
+   },
+   "loi_mo": "Chào bác sĩ. Hai bữa nay tui đau bụng, đi cầu lỏng mấy lần, từ hôm ăn tô bún ngoài chợ. Bác sĩ cho tui mấy viên thuốc kháng sinh uống cho nó cắt liền, hồi trước uống là hết.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "178/98",
+    "nhiet": "37,0",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau quặn quanh rốn, đi cầu lỏng 4–5 lần/ngày hai ngày nay, bắt đầu sau tô bún riêu ăn ở gánh ngoài chợ. Ông muốn xin thuốc kháng sinh 'uống cho cắt', vì lần trước uống là hết.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai), yêu cầu kháng sinh"
+    },
+    {
+     "id": "tieu_chay",
+     "noi_dung": "Phân lỏng sệt vàng, không máu, không nhầy, không sốt. Nôn một lần hôm qua rồi hết. Uống nước được nhưng tiểu ít hơn thường. Hiệp ăn cơm ở nhà, không ăn bún nên không bị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất tiêu chảy: phân nước, không máu, không sốt"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không đau bụng dữ dội liên tục, không chướng bụng, không đi cầu phân đen, không khó thở, không lú lẫn, đi lại được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu báo động ở bụng và toàn thân"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Tăng huyết áp tám năm, trạm y tế cho amlodipin 5 mg. Ông chỉ uống 'khi nhức đầu', ngưng hẳn khoảng hai tháng nay vì thấy khỏe và sợ hại thận. HA đo ở trạm ba tháng trước 164/92. Không tiểu đường, chưa từng đột quỵ hay đau thắt ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử THA, thuốc, tự ngưng thuốc"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Mười hai ngày nay ông tự mua ở tiệm đầu xóm một vỉ thuốc 'xương khớp' viên nhỏ trắng, uống 2 viên sáng, 1 viên tối vì đau hai gối. Vỉ còn trong túi áo, in chữ nhỏ 'Prednisolon 5 mg' mà ông mắt kém không đọc được. Ông thấy 'nhẹ người, ăn ngon'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì ông chỉ nói không uống gì vì bỏ amlodipin. Chỉ kể khi bác sĩ hỏi cụ thể thuốc xương khớp, thuốc tự mua ở tiệm, thuốc bổ, thuốc giảm đau, hoặc hỏi đau gối đã uống gì; hoặc hỏi Hiệp về vỉ thuốc trong túi áo.",
+     "k": 1,
+     "y": "Thuốc tự mua: corticoid uống 12 ngày (khoảng 15 mg prednisolon mỗi ngày)"
+    },
+    {
+     "id": "an_man",
+     "noi_dung": "Ăn mặn quen: mắm kho, cá khô, dưa muối, bữa chiều nào cũng có nước mắm. Rượu đế một chén nhỏ mỗi chiều, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Muối, rượu"
+    },
+    {
+     "id": "trieu_chung_tim",
+     "noi_dung": "Hai tuần nay thỉnh thoảng nặng đầu vùng gáy buổi sáng. Không đau đầu dữ dội, không nhìn mờ, không yếu liệt, không đau ngực, không khó thở khi đi lại. Chiều hơi phù hai mắt cá.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tim mạch, thần kinh, tổn thương cơ quan đích"
+    },
+    {
+     "id": "dau_goi",
+     "noi_dung": "Đau hai gối hai tháng nay khi lên xuống bậc thềm, hơi sưng, không đỏ nóng. Chưa dùng thuốc giảm đau nào khác. Không loét dạ dày, không bệnh thận.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: ông Tám hàng xóm bằng tuổi mất đột ngột vì nhồi máu cơ tim tuần trước, trước đó cũng 'đo ra 190'. Chiều nay ông mượn máy đo của nhà bên thấy 184/100 nên hoảng; tối nằm hồi hộp, thở không đều. Không dám nói vì sợ con tốn tiền và bị mắng chuyện thuốc. Không có đau ngực thật sự.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông còn lo gì, trong người thế nào ngoài chuyện đau bụng, có hồi hộp hay nặng ngực không, hoặc nhắc chuyện đo huyết áp cao. Khi nói ra thì xin 'khám tim cho chắc'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ nhồi máu cơ tim"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Máy bắp tay, ngồi nghỉ 5 phút, đo hai lần cách nhau 2 phút: tay phải 178/98 và 176/98; tay trái 174/96 và 176/96 mmHg. Hai tay chênh dưới 10 mmHg (QĐ 5904 Phụ lục 1.1 mục 6).",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 176/96, mạch 82. Đứng 1 phút 168/92, 3 phút 166/90, mạch 88. Giảm 10/6 mmHg, không chóng mặt: không hạ HA tư thế (tiêu chuẩn giảm ≥ 20/10, VSH/VNHA 2024 Đ1.2.1).",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, gầy (BMI 20,8 kg/m²), hơi mệt. Môi khô, nếp véo da ở mu tay trở lại chậm, mắt không trũng. Không mặt tròn, không rạn da tím, da niêm hồng.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng nhẹ, ấn đau nhẹ quanh rốn, không phản ứng thành bụng, không co cứng. Nhu động ruột tăng. Gan lách không to, không âm thổi cạnh rốn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p. Mỏm tim khoang liên sườn V ngoài đường trung đòn trái 1 cm. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p. Mỏm tim khoang liên sườn V.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Phù ấn lõm nhẹ hai mắt cá, không phù gối. Mạch mu chân bắt rõ.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không yếu liệt, không méo miệng, thị lực thô bình thường, không dấu thần kinh khu trú.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp nhẹ, bắt chéo động–tĩnh mạch độ I. Không xuất huyết, không xuất tiết, không phù gai thị.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lạo xạo khi gập duỗi, sưng nhẹ, không nóng đỏ, không tràn dịch rõ, tầm vận động giảm ít. Đau ở khe khớp trong khi đi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 84 l/p, trục trung gian, có dày thất trái, không ST chênh, không sóng Q, không sóng T đảo mới.",
+     "ab": 1,
+     "n": "Điện tim nằm trong xét nghiệm cơ bản của THA (QĐ 5904 Phần 1 Bước 2 mục 10); dày thất trái là tổn thương cơ quan đích mạn, xếp nguy cơ cao (QĐ 5904 Bước 3B mục 2c). Không có thiếu máu cơ tim: trả lời nỗi lo thật của ông."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "7,9 mmol/L lúc 19 giờ 20, khoảng 2 giờ sau bữa chiều.",
+     "ab": 0,
+     "n": "Glucose mao mạch chỉ để theo dõi, không dùng chẩn đoán (QĐ 5904 Phần 2). Ông có dùng corticoid 12 ngày nên kiểm tra là hợp lý."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Tỷ trọng 1.028 · Protein 1+ · Glucose âm · Ceton âm · Hồng cầu âm · Bạch cầu âm · Nitrit âm.",
+     "ab": 1,
+     "n": "Tỷ trọng cao khớp mất nước nhẹ. Protein 1+ một lần lúc mất nước, đang tăng HA: đo lại khi đã bù nước (QĐ 5904 Phần 1 Bước 2 mục 9: tìm protein niệu)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 104 µmol/L (kết quả sáng mai, minh họa của người viết)",
+     "ab": 1,
+     "n": "Xét nghiệm cơ bản khi khởi trị THA, cần trước khi dùng thuốc ức chế men chuyển (QĐ 5904 Phần 1 Bước 2 mục 7; Phần 3 mục G). Tối nay không làm được; mẫu lấy sáng mai. Nhiều khả năng cao hơn nền do mất nước."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 136 · K 3,6 mmol/L (kết quả sáng mai, minh họa của người viết)",
+     "ab": 0,
+     "n": "Điện giải trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 7). Tiêu chảy gây rối loạn điện giải, hạ kali (QĐ 5642/2015 mục 5). K 3,6 chưa hạ; kali máu 'thấp' cần nhắc lại khi hết tiêu chảy rồi mới đánh giá THA thứ phát (AHA/ACC 2025 mục 3.2.3.1)."
+    },
+    "trop": {
+     "n": "Không đau ngực, điện tim không thiếu máu cơ tim: chưa có chỉ định troponin tối nay. Ngưỡng và chỉ định troponin: không có trong tài liệu đã đọc về THA. Có đau ngực thì chuyển cấp cứu (QĐ 5904 Phần 3 mục D.1)."
+    },
+    "echo": {
+     "n": "Không triệu chứng suy tim; ESC 2024 Bảng 9 xếp siêu âm tim là xét nghiệm tùy chọn. Không làm được tối nay."
+    },
+    "cxr": {
+     "n": "Không khó thở, phổi sạch, không có chỉ định; không làm được tối nay."
+    },
+    "ct_nao": {
+     "n": "Không dấu thần kinh khu trú, không đau đầu dữ dội: không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "THA nguyên phát độ 2 chưa kiểm soát (178/98 mmHg) do tự ngưng amlodipin hai tháng, bị đẩy cao thêm bởi corticoid tự mua (prednisolon 15 mg/ngày × 12 ngày) và ăn mặn; kèm tiêu chảy cấp phân nước do thức ăn đường phố, mất nước nhẹ",
+     "ok": 1,
+     "n": "HA cao từ trước (164/92 ở trạm), THA độ 2 = 160–179/100–109 (QĐ 5904 Phần 1 Bước 3A). Corticoid toàn thân làm tăng HA (AHA/ACC 2025 Bảng 11). Tiêu chảy: phân lỏng không máu, không sốt, môi khô, tỷ trọng nước tiểu 1.028."
+    },
+    {
+     "t": "THA thứ phát",
+     "n": "THA có từ 71 tuổi, đáp ứng amlodipin trước đây, không phù nặng, không tiếng thổi bụng. Corticoid là nguyên nhân ngoại sinh làm nặng thêm, ngưng được tại chỗ: hẹn lại 2–4 tuần xem HA, kali rồi mới chuyển nếu còn nghi (QĐ 5904 Bước 4 mục A.1; AHA/ACC 2025 mục 3.2.3.1)."
+    },
+    {
+     "t": "Cơn THA cấp cứu",
+     "n": "HA < 180/110, không đau ngực, khó thở, nhìn mờ, dấu thần kinh; điện tim không đổi, đáy mắt không xuất huyết hay phù gai (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1)."
+    },
+    {
+     "t": "Hội chứng vành cấp / nhồi máu cơ tim",
+     "n": "Không đau ngực, không khó thở, điện tim không ST-T mới. Nỗi lo của ông là sợ, không phải triệu chứng thực tổn. Troponin không làm được tối nay: dặn dấu hiệu quay lại ngay."
+    },
+    {
+     "t": "Tiêu chảy xâm nhập cần kháng sinh",
+     "n": "Không sốt, không phân nhầy máu, ăn một bữa, uống được: tiêu chảy phân nước (IDSA 2017 KC 36; ACG 2016 KC 9). QĐ 5642/2015 mục 4.2.1 nêu cơ địa người già là tình huống 'cân nhắc' (xem mâu thuẫn)."
+    },
+    {
+     "t": "Suy thượng thận do ngưng corticoid",
+     "n": "Dùng 12 ngày, dưới 3–4 tuần, không mặt tròn, không rạn da: ngưng không cần giảm liều (ESE/ES 2024 R 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kê kháng sinh hôm nay HOẶC cân nhắc azithromycin 500 mg/ngày × 5 ngày vì cơ địa người già; giải thích thẳng với ông (phân nước, không sốt, không máu), bù dịch và hẹn quay lại nếu sốt, phân máu hoặc tiêu chảy kéo dài không bớt",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, mục TH-0717 bổ sung TH-0751): không kháng sinh (IDSA 2017 KC 36, mạnh, chứng cứ thấp; ACG 2016 KC 9) hoặc cân nhắc kháng sinh vì cơ địa người già (QĐ 5642/2015 mục 4.2.1; azithromycin 0,5 g/ngày × 5 ngày mục 4.2.2a). Khác vì QĐ 5642 là văn bản chung 2015 liệt kê 'người già' là cơ địa cần cân nhắc; IDSA/ACG viết cho người miễn dịch bình thường, lo kháng thuốc."
+    },
+    {
+     "t": "Bù dịch uống: oresol hoặc nước muối loãng, súp, nước cháo, uống từng ngụm đều cho tới khi tiểu thành dòng vàng nhạt",
+     "v": "c",
+     "n": "Mất nước độ I, uống được: oresol (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 39, 43); ACG 2016 KC 5: đa số người lớn bù đủ bằng nước, súp, bánh mặn. Lượng mL cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng prednisolon tự mua ngay, không cần giảm liều; ghi tên, liều, số ngày vào hồ sơ; dặn dấu hiệu suy thượng thận (mệt lả, chóng mặt, tụt HA, nôn) phải quay lại",
+     "v": "c",
+     "n": "Corticoid toàn thân làm tăng HA, tránh khi có thể (AHA/ACC 2025 Bảng 11). Dùng dưới 3–4 tuần thì ngưng không cần giảm liều (ESE/ES 2024 R 2.1); dặn triệu chứng suy thượng thận (ESE/ES 2024 Bảng 5)."
+    },
+    {
+     "t": "Đau gối: giữ paracetamol 500 mg khi đau (tối đa 4 viên/ngày), chườm nóng, gel diclofenac bôi gối; tránh NSAID uống và corticoid uống",
+     "v": "c",
+     "n": "QĐ 361/2014 Thoái hóa khớp gối mục 4.2.1 (chườm nóng), 4.2.2 (paracetamol 1–2 g/ngày, gel bôi 2–3 lần/ngày; corticosteroid toàn thân không có chỉ định). Người cao tuổi hoặc THA: paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); AHA/ACC 2025 Bảng 11 ghi dưới 4 g/ngày, tránh NSAID toàn thân, cân nhắc NSAID bôi. Kê tới 4 g/ngày chấm a."
+    },
+    {
+     "t": "Khởi trị amlodipin 5 mg uống buổi sáng, đơn trị liều thấp; chưa thêm thuốc ức chế men chuyển, chẹn thụ thể hay lợi tiểu khi chưa có creatinin, kali và đang tiêu chảy",
+     "v": "c",
+     "n": "Mục sổ MT-0166: thiếu creatinin, kali thì đơn trị amlodipin là c. Người ≥ 80 tuổi hoặc dễ tổn thương: không phối hợp ngay (QĐ 5904 Phần 1 Bước 5 mục B.2; ESH 2023 mục 15.3). Khởi trị khi HA ≥ 140/90 ở người < 80 tuổi (Bước 5 mục A.5). Amlodipin khởi đầu 5 mg, duy trì 5–10 mg (QĐ 5904 Phần 3 mục G). Ức chế men chuyển nên kiểm tra creatinin, kali trước (QĐ 5904 Phần 3 mục G)."
+    },
+    {
+     "t": "Phối hợp đôi liều thấp ngay (amlodipin 5 mg + losartan 25 mg) từ tối nay",
+     "v": "a",
+     "n": "ESC 2024 Bảng khuyến cáo 16 (I, B) và VSH/VNHA 2024 Bảng 4 khuyên phối hợp đôi liều thấp; ngoại lệ suy yếu vừa–nặng, ≥ 85 tuổi (ESC 2024 Hình 21; VSH/VNHA 2024 Hình 15). Chấp nhận, không trừ điểm, nhưng thiếu creatinin, kali và đang mất nước nên đơn trị là c (mục MT-0166)."
+    },
+    {
+     "t": "Mục tiêu HA: dưới 130/80 mmHg nếu dung nạp (VSH/VNHA 2024), hoặc tâm thu 130 đến dưới 140 (QĐ 5904), nới hơn nếu hạ HA tư thế hoặc suy yếu",
+     "v": "c",
+     "n": "Mục sổ MT-0042, ghi cả hai. QĐ 5904 Phần 1 Bước 5 mục A.2: 130 đến < 140 ở ≥ 65 tuổi. VSH/VNHA 2024 Bảng 4: < 130/80 nếu dung nạp, nới (ít nhất < 140) khi hạ HA tư thế, ≥ 85 tuổi, suy yếu vừa–nặng. ESC 2024 Bảng khuyến cáo 18: 120–129 nếu dung nạp. Khác do năm và bối cảnh trạm y tế xã."
+    },
+    {
+     "t": "Đo HA tại nhà bằng máy bắp tay ghi sổ; giảm muối còn khoảng 5 g/ngày (bớt nước mắm, mắm kho, cá khô, dưa muối); hạn chế rượu",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 1 (đối chiếu số đo tại nhà), Phần 3 mục F, Phụ lục 3.2 (< 5 g/ngày); rượu nam ≤ 2 đơn vị/ngày (Phần 1 Bước 5 mục D.1c)."
+    },
+    {
+     "t": "Hỏi ra nỗi sợ nhồi máu cơ tim, cho xem điện tim không có thiếu máu cơ tim, dặn đau ngực, khó thở, đau đầu dữ dội, nhìn mờ, yếu liệt thì đến ngay",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp. Dấu hiệu cần chuyển khẩn: QĐ 5904 Phần 3 mục D.1."
+    },
+    {
+     "t": "Hẹn lấy máu sáng mai (creatinin, điện giải, glucose, mỡ máu) và tái khám sau 1 tuần: đo HA, hỏi thuốc, xem tiêu chảy đã hết chưa",
+     "v": "c",
+     "n": "Xét nghiệm cơ bản lần đầu hoàn thành trong 3 tháng; theo dõi sát HA trong 1 tháng đầu khi khởi trị (QĐ 5904 Phần 1 Bước 2). Mốc 1 tuần là lựa chọn của ca vì còn tiêu chảy và vừa ngưng corticoid, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loperamid ngắn hạn: 4 mg rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, không quá 48 giờ",
+     "v": "a",
+     "n": "ACG 2016 Hình 1; IDSA 2017 KC 46–47 (không sốt, không máu, sau bù dịch). QĐ 5642/2015 mục 4.2.3b: không lạm dụng. Dùng hay không đều chấm a."
+    },
+    {
+     "t": "Tiếp tục prednisolon cho đỡ đau gối",
+     "v": "w",
+     "n": "AHA/ACC 2025 Bảng 11; QĐ 361/2014 Thoái hóa khớp gối mục 4.2.2: corticosteroid toàn thân không có chỉ định."
+    },
+    {
+     "t": "Ngậm hoặc uống nifedipin tác dụng nhanh để hạ áp ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh vì hạ HA mạnh, khó kiểm soát."
+    },
+    {
+     "t": "Gọi 115 hoặc truyền, tiêm thuốc hạ áp vì HA 178/98 và lo nhồi máu",
+     "v": "w",
+     "n": "HA < 180/110, không dấu cơ quan đích cấp (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2 chưa kiểm soát (178/98 mmHg), tự ngưng amlodipin 2 tháng",
+     "Yếu tố làm nặng: prednisolon tự mua 12 ngày (khoảng 15 mg/ngày); ăn mặn; rượu",
+     "Tổn thương cơ quan đích mạn: dày thất trái trên điện tim, hẹp động mạch võng mạc độ I; protein niệu 1+ cần đo lại",
+     "Tiêu chảy cấp phân nước do thức ăn đường phố, mất nước độ I, không có chỉ định kháng sinh",
+     "Không phải cơn THA cấp cứu, không phải hội chứng vành cấp; chưa có bằng chứng THA thứ phát (theo dõi tiếp)"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao THA: HA 164/92 ở trạm ba tháng trước, 178/98 và 176/98 hôm nay (hai tay chênh dưới 10 mmHg). Độ 2 là 160–179/100–109, lấy mức cao hơn (QĐ 5904 Phần 1 Bước 3A). Nền THA có trước, còn prednisolon (AHA/ACC 2025 Bảng 11) và ăn mặn chỉ đẩy cao thêm.",
+     "Đòi kháng sinh: tiêu chảy phân nước sau một bữa ăn đường phố, không sốt, không máu: không có chỉ định kê (IDSA 2017 KC 36, ACG 2016 KC 9). QĐ 5642/2015 mục 4.2.1 còn nêu cơ địa người già, sốt, phân nhầy máu là những tình huống để 'cân nhắc'; ca ghi cả hai, đáp án hôm nay là bù dịch và theo dõi, kèm lời giải thích vì sao.",
+     "Lý do thật: sợ nhồi máu cơ tim sau chuyện ông Tám. Không đau ngực, điện tim không thiếu máu cơ tim: dùng chính điện tim để trấn an. Đây là điều bác sĩ chỉ biết khi hỏi 'ông còn lo gì'.",
+     "Vì sao không phải cấp cứu và chưa chuyển tuyến: HA dưới 180/110, không đau ngực, khó thở, nhìn mờ, dấu thần kinh (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Tiêu chuẩn chuyển (nghi THA thứ phát, không đạt đích dù ≥ 3 thuốc, biến chứng nặng) chưa có (QĐ 5904 Phần 1 Bước 4 mục A). Corticoid dùng dưới 3–4 tuần, ngưng không cần giảm liều (ESE/ES 2024 R 2.1).",
+     "Nhiễu và nguồn lực: tối nay không làm được creatinin, kali, X-quang, siêu âm; ống nghe, điện tim, que thử nước tiểu, glucose mao mạch vẫn dùng được. Quyết định khởi amlodipin và hẹn lấy máu sáng mai, vì ức chế men chuyển phải biết creatinin, kali (QĐ 5904 Phần 3 mục G).",
+     "Ghi chú áp dụng (nhóm ≥ 75 tuổi): người rất yếu bị loại khỏi các thử nghiệm hạ áp (ESC 2024 mục 8.7.1.1); thử nghiệm kết cục duy nhất ở ≥ 80 tuổi là HYVET, tuổi trung bình 83 (ESH 2023 mục 15.3.2). Cá thể hóa mục tiêu và liều theo suy yếu, hạ HA tư thế; ông 79 tuổi, tự đi lại, không hạ HA tư thế."
+    ],
+    "phan_tich_xu_tri": [
+     "Từ chối kháng sinh mà không mất lòng tin: nói điều ông quan tâm ('bụng đỡ nhanh, không biến chứng'), giải thích kháng sinh không rút ngắn bệnh phân nước, kèm kế hoạch bù nước và dấu hiệu quay lại. Mẫu lời: 'Bệnh này do ăn uống, uống nhiều nước mới cắt; kháng sinh không làm cắt nhanh hơn mà còn rối bụng. Nếu sốt hoặc đi ra máu, ông quay lại ngay, tôi sẽ cân nhắc thuốc.'",
+     "Khởi amlodipin 5 mg đơn trị vì chưa có creatinin, kali, đang tiêu chảy, 79 tuổi gầy 52 kg; phối hợp ngay chấm a (mục MT-0166; ESC 2024 Bảng khuyến cáo 16). Không dùng nifedipin tác dụng nhanh (QĐ 5904 Phần 3 mục D.1).",
+     "Ngưng prednisolon tại chỗ: dùng 12 ngày, không có dạng Cushing nên không cần giảm liều (ESE/ES 2024 R 2.1); hỏi lại sau 1 tuần xem HA, đau gối.",
+     "Thay giảm đau gối bằng paracetamol, chườm nóng, gel bôi để ông khỏi quay lại tiệm thuốc (QĐ 361/2014 Thoái hóa khớp gối mục 4.2.1–4.2.2).",
+     "Kế hoạch an toàn: tối nay không có xét nghiệm, nên hẹn lấy máu sáng mai và tái khám sau 1 tuần, dặn dấu hiệu quay lại ngay (QĐ 5904 Phần 3 mục D.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cố định giờ",
+      "so_ngay": "Dùng lâu dài; tái khám sau 1 tuần",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Dặn không tự ngưng khi hết nhức đầu (QĐ 5904 Phần 1 Bước 5 mục D.2). Uống buổi sáng: ESH 2023 mục 11.10.10.1."
+     },
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha theo hướng dẫn nhà sản xuất",
+      "lieu": "Uống từng ngụm sau mỗi lần đi cầu lỏng và cả ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi còn tiêu chảy",
+      "so_ngay": "Tới khi hết tiêu chảy",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.3a. Thể tích cụ thể cho người lớn: không có trong tài liệu đã tải. Uống nước cháo muối, súp cũng được (ACG 2016 KC 5)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg mỗi lần khi đau gối, tối đa 4 viên/ngày (2 g)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Ngắn ngày, khi cần",
+      "ghi_chu": "QĐ 361/2014 Thoái hóa khớp gối mục 4.2.2: 1–2 g/ngày; người cao tuổi hoặc THA dưới 3 g/ngày (Phụ lục NSAID mục 3.3)."
+     },
+     {
+      "thuoc": "Diclofenac gel",
+      "ham_luong": "Hàm lượng gel: không có trong tài liệu đã tải",
+      "lieu": "Bôi mỏng tại gối đau 2–3 lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Khi đau",
+      "so_ngay": "Ngắn ngày",
+      "ghi_chu": "QĐ 361/2014 Thoái hóa khớp gối mục 4.2.2 (ít tác dụng phụ); AHA/ACC 2025 Bảng 11: cân nhắc NSAID bôi thay NSAID uống."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn vỉ prednisolon, mang vỉ đến lần khám sau; không mua thuốc 'xương khớp' không tên ở tiệm.",
+     "Uống amlodipin mỗi sáng kể cả khi hết nhức đầu; không tự ngưng vì sợ hại thận (QĐ 5904 Phần 1 Bước 5 mục D.2).",
+     "Bù nước đều; quay lại ngay nếu sốt, đi ra máu hoặc phân đen, nôn nhiều không uống được, tiểu rất ít, lơ mơ.",
+     "Giảm mắm, cá khô, dưa muối, nước chấm (khoảng 5 g muối/ngày, QĐ 5904 Phụ lục 3.2); hạn chế rượu.",
+     "Đau ngực, khó thở, đau đầu dữ dội, nhìn mờ, yếu liệt, nói khó: đến cấp cứu ngay (QĐ 5904 Phần 3 mục D.1).",
+     "Lấy máu sáng mai; mang theo máy đo HA nhà hoặc sổ ghi HA, tái khám sau 1 tuần (QĐ 5904 Phần 1 Bước 2: theo dõi sát HA khi mới khởi trị)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 1 tuần",
+   "tiep_don": "Tái khám sau 1 tuần, Hiệp chở ông đến lúc 18 giờ 20 vì ông đau đầu và đo ở nhà thấy cao, ông nói 'uống thuốc đều mà không bớt'. Tiêu chảy đã hết. Sinh hiệu: HA 188/108 mmHg, mạch 88 l/p, nhiệt 36,8°C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Bảy được cho thêm thuốc uống rồi về, hẹn lấy máu ngày mai. HA 188/108 kèm đau đầu và nhìn mờ, chưa biết creatinin, kali, chưa loại được tổn thương cơ quan đích cấp; nhà cách 25 km, Hiệp làm ca đêm, ông đã bỏ lần lấy máu trước, nên khó bảo đảm xét lại trong 24–72 giờ (AHA/ACC 2025 mục 6.2; ESC 2024 mục 10.1.1). Nếu có tổn thương thận hay thiếu máu não, đêm ở nhà là lúc dễ nặng thêm mà không ai biết.",
+    "cap_cuu": "Ông Bảy bị gọi 115, tiêm hoặc truyền thuốc hạ áp để đưa HA xuống nhanh. Khám và điện tim chưa thấy tổn thương cơ quan đích cấp; hạ áp nhanh bằng thuốc tiêm khi chưa có tổn thương cấp không được khuyến cáo (AHA/ACC 2025 mục 6.2), và tránh nifedipin tác dụng nhanh vì hạ HA mạnh, khó kiểm soát (QĐ 5904 Phần 3 mục D.1). Việc đúng là chuyển có chuẩn bị, không phải hạ áp ngay tại phòng khám.",
+    "theo_doi": "Ông Bảy được giữ ở phòng khám vài giờ cho uống thuốc rồi cho về. Tối nay phòng khám không có creatinin, kali, troponin, không theo dõi điện tim liên tục; vài giờ nằm đó không cho biết có tổn thương cơ quan đích cấp hay không, trong khi đau đầu và nhìn mờ đã có sẵn (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, ba bữa nay tui nhức đầu sau gáy, hôm nay thấy mắt mờ mờ như có sương. Tui uống thuốc huyết áp đều mà đo ở nhà vẫn 190 mấy. Sợ bị đứt mạch máu như ông Tám.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "188/108",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "trieu_chung2",
+     "noi_dung": "Nhức đầu vùng gáy ba ngày nay, nặng hơn từ hôm qua. Sáng nay nhìn mờ cả hai mắt như có sương, hơi chóng mặt khi đứng dậy. Đo ở nhà 190–196/106–110. Tiêu chảy đã hết sau ba ngày, đi cầu thành khuôn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng mới: đau đầu, nhìn mờ; tiêu chảy đã hết"
+    },
+    {
+     "id": "cap_cuu_am2",
+     "noi_dung": "Không đau ngực, không khó thở, không yếu liệt tay chân, không méo miệng, không nói khó, không co giật, không nôn vọt. Tiểu bình thường, ăn uống được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tìm dấu tổn thương cơ quan đích cấp"
+    },
+    {
+     "id": "tuan_thu2",
+     "noi_dung": "Amlodipin 5 mg uống đủ 7 sáng, Hiệp đếm vỉ còn đúng thiếu 7 viên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc hạ áp"
+    },
+    {
+     "id": "van_pred",
+     "noi_dung": "Ngưng viên 'xương khớp' ba ngày rồi đau gối nhiều nên uống lại 2 viên/ngày bốn ngày gần đây, giấu Hiệp vì sợ bị mắng. Tổng cộng khoảng 16 ngày. Paracetamol uống ít, 'không ăn thua'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể còn uống vỉ thuốc xương khớp, thuốc tự mua, đau gối đã xử lý sao, hoặc yêu cầu xem túi áo, vỉ thuốc.",
+     "k": 1,
+     "y": "Dùng lại corticoid: nguyên nhân HA không đỡ"
+    },
+    {
+     "id": "muoi2",
+     "noi_dung": "Ăn nhạt không nuốt được nên lại ăn mắm kho, cá khô như cũ. Rượu một chén mỗi chiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Muối, rượu"
+    },
+    {
+     "id": "khong_xn",
+     "noi_dung": "Không đi lấy máu hôm sau vì 'khỏe rồi, đỡ đi cầu, tốn tiền'. Nhà cách phòng khám 25 km. Tuần này Hiệp đổi sang ca đêm ở xưởng gỗ, ở nhà chỉ còn vợ ông cũng già yếu, không biết chở xe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có creatinin nền; khả năng tái khám sớm"
+    },
+    {
+     "id": "lo_lang2",
+     "noi_dung": "Sợ 'đứt mạch máu não' như ông Tám, sợ phải nằm viện tốn tiền cho con.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi nghỉ 5 phút, đo hai lần: tay phải 190/108 và 188/108; tay trái 186/106 và 188/108 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi lo, không vã mồ hôi, không thở nhanh. Môi ẩm, hết dấu mất nước. Không mặt tròn. Phù nhẹ hai mắt cá.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không méo miệng, sức cơ 5/5 bốn chi, không dấu màng não, Babinski âm tính. Đếm ngón tay 3 m cả hai mắt, thị trường thô bình thường, không bán manh.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hẹp, bắt chéo động–tĩnh mạch độ II. Không xuất huyết, không xuất tiết bông, không phù gai thị.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p. Mỏm tim khoang liên sườn V ngoài đường trung đòn trái 1 cm. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran ẩm: không ứ dịch phổi.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không âm thổi cạnh rốn, nhu động bình thường.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Phù ấn lõm nhẹ hai mắt cá, như lượt trước. Mạch mu chân rõ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 88 l/p, dày thất trái như lượt trước, không ST chênh, không sóng Q, không sóng T đảo mới.",
+     "ab": 1,
+     "n": "So với điện tim lượt 1: không đổi, không thiếu máu cơ tim mới. HA ≥ 180/110 thì phải tìm tổn thương cơ quan đích cấp (ESC 2024 mục 7.2, 10.1.1)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "6,9 mmol/L, 3 giờ sau bữa trưa.",
+     "ab": 0,
+     "n": "Loại trừ tăng hoặc hạ glucose là nguyên nhân nhìn mờ, đau đầu; glucose mao mạch chỉ để theo dõi (QĐ 5904 Phần 2)."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Tỷ trọng 1.018 · Protein 2+ · Glucose âm · Ceton âm · Hồng cầu 1+ · Bạch cầu âm · Nitrit âm.",
+     "ab": 1,
+     "n": "Protein 2+ và hồng cầu 1+ gợi ý tổn thương thận, nhưng chưa biết nền, khi HA đang rất cao; không phân biệt được tổn thương cấp hay mạn tại phòng khám."
+    },
+    "creat": {
+     "n": "Không làm được tối nay; quyết định chuyển tuyến không chờ kết quả. Creatinin là xét nghiệm cơ bản và cần để biết có tổn thương thận cấp (QĐ 5904 Phần 1 Bước 2 mục 7)."
+    },
+    "trop": {
+     "n": "Không đau ngực, điện tim không đổi; không làm được tối nay. Tuyến trên làm khi cần."
+    },
+    "ct_nao": {
+     "n": "Không làm được ở phòng khám; có chỉ định hay không do tuyến trên quyết định sau khám thần kinh: lúc này không dấu thần kinh khu trú."
+    },
+    "echo": {
+     "n": "Không làm được tối nay; không cần để quyết định chuyển."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "THA nguyên phát độ 3 không kiểm soát (188/108 mmHg) do dùng lại prednisolon tự mua và ăn mặn trở lại, có đau đầu và nhìn mờ; chưa thấy tổn thương cơ quan đích cấp trên khám và điện tim nhưng chưa loại trừ được tối nay, cần chuyển tuyến đánh giá",
+     "ok": 1,
+     "n": "Độ 3 ≥ 180/110 (QĐ 5904 Phần 1 Bước 3A). Uống amlodipin đủ 7 ngày nên không phải kém tuân thủ thuốc hạ áp; cái không tuân thủ là lời dặn ngưng prednisolon (AHA/ACC 2025 Bảng 11). HA ≥ 180/110 kèm nhìn mờ, đau đầu (QĐ 5904 Phần 3 mục D.1)."
+    },
+    {
+     "t": "Cơn THA cấp cứu",
+     "n": "Chưa thấy: không đau ngực, khó thở, dấu thần kinh khu trú, điện tim không đổi, đáy mắt không xuất huyết hay phù gai (ESC 2024 mục 10.1.1). Chưa loại trừ hẳn vì không có creatinin, troponin; đó là lý do chuyển."
+    },
+    {
+     "t": "THA thứ phát",
+     "n": "Corticoid ngoại sinh làm nặng, ngưng được. Nếu sau khi ngưng prednisolon HA vẫn cao thì tuyến trên sàng lọc nguyên nhân (QĐ 5904 Phần 1 Bước 4 mục A.1; AHA/ACC 2025 mục 3.2.3.1)."
+    },
+    {
+     "t": "Đột quỵ hoặc cơn thiếu máu não thoáng qua",
+     "n": "Không méo miệng, yếu liệt, nói khó; nhìn mờ hai mắt kiểu sương, không bán manh. CT sọ không có ở phòng khám: tuyến trên quyết định (ESC 2024 mục 10.1.1 liệt kê đột quỵ là tổn thương cấp)."
+    },
+    {
+     "t": "Suy thượng thận do ngưng corticoid",
+     "n": "Dùng tổng cộng khoảng 16 ngày, dưới 3–4 tuần (ESE/ES 2024 R 2.1); chưa có triệu chứng. Ghi vào phiếu chuyển."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến ngay tối nay tới bệnh viện có xét nghiệm cấp (creatinin, điện giải, troponin) và hình ảnh sọ não khi cần, để loại trừ tổn thương cơ quan đích cấp",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1: HA ≥ 180/110 kèm nhìn mờ, đau đầu thì chuyển khẩn, liên hệ tuyến trên. Phần 1 Bước 4 mục A.3–A.5: diễn biến bất thường, cần xét nghiệm mà trạm chưa làm được. Mục sổ MT-0121: chuyển khi triệu chứng cơ quan đích, chưa biết creatinin nền, hoặc không bảo đảm xét lại trong 24–72 giờ; ca này đủ cả ba."
+    },
+    {
+     "t": "Ngưng hẳn prednisolon; ghi vào phiếu chuyển tên thuốc, liều, tổng khoảng 16 ngày, lần dùng cuối",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11: tránh corticoid toàn thân; ESE/ES 2024 R 2.1: dưới 3–4 tuần không cần giảm liều, R 2.9: lưu ý suy thượng thận nếu có triệu chứng."
+    },
+    {
+     "t": "Trước khi đi: đo lại HA hai tay, điện tim, glucose mao mạch; giữ amlodipin 5 mg, không hạ áp nhanh, không ngậm nifedipin; viết phiếu chuyển đủ số liệu hai lượt; gọi điện báo nơi nhận",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1: liên hệ tuyến trên; tránh nifedipin tác dụng nhanh. Thêm thuốc hạ áp uống do tuyến trên chọn sau khi có creatinin, kali (QĐ 5904 Phần 3 mục G). Bàn giao (SBAR) là kỹ năng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đi ô tô có Hiệp đi cùng, không để ông tự đi xe máy; gọi 115 nếu thêm yếu liệt, nói khó, đau ngực, lơ mơ trên đường",
+     "v": "c",
+     "n": "Hậu cần của ca: nhà cách 25 km, ông 79 tuổi. QĐ 5904 Phần 3 mục D.1 liệt kê các dấu hiệu nặng."
+    },
+    {
+     "t": "Giải thích cho ông và Hiệp vì sao phải đi tối nay, không có nghĩa đã đột quỵ; đền đáp nỗi sợ 'đứt mạch máu não'",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, không cần nguồn."
+    },
+    {
+     "t": "Tăng amlodipin lên 10 mg trước khi chuyển",
+     "v": "a",
+     "n": "Amlodipin duy trì 5–10 mg, chưa đạt thì tăng liều (QĐ 5904 Phần 3 mục G, Phần 1 Bước 5 mục C.4); không có hại, nhưng ESC 2024 mục 8.3.5 nâng chậm ở người suy yếu và việc chọn thuốc nên sau creatinin, kali."
+    },
+    {
+     "t": "Cho về với thuốc uống, hẹn lấy máu và xét lại sau 24–72 giờ",
+     "v": "w",
+     "n": "AHA/ACC 2025 mục 6.2 và ESC 2024 mục 10.1.1 cho xử trí ngoại trú khi không có tổn thương cấp, nhưng mục sổ MT-0121 chỉ chấp nhận khi biết creatinin nền, ở gần, có người theo dõi: ông thiếu cả ba (không có creatinin, 25 km, Hiệp làm ca đêm, ông đã bỏ lần lấy máu trước)."
+    },
+    {
+     "t": "Gọi 115, tiêm hoặc truyền thuốc hạ áp tại phòng khám",
+     "v": "w",
+     "n": "AHA/ACC 2025 mục 6.2: không khuyến cáo hạ áp nhanh khi chưa có tổn thương cơ quan đích cấp; QĐ 5904 Phần 3 mục D.1: dùng thuốc uống sẵn có."
+    },
+    {
+     "t": "Ngậm hoặc uống nifedipin tác dụng nhanh để hạ áp ngay trước khi đi",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh, hạ HA mạnh, khó kiểm soát."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "THA nguyên phát độ 3 không kiểm soát (188/108 mmHg), có đau đầu và nhìn mờ",
+     "Yếu tố làm nặng: dùng lại prednisolon tự mua (tổng khoảng 16 ngày); ăn mặn trở lại",
+     "Chưa thấy tổn thương cơ quan đích cấp trên khám và điện tim; chưa loại trừ được vì không có creatinin, troponin tối nay",
+     "Tổn thương cơ quan đích mạn: dày thất trái, hẹp động mạch võng mạc độ II, protein niệu 2+ (chưa rõ nền)",
+     "Có chỉ định chuyển tuyến tối nay"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao 'không đỡ': amlodipin uống đủ 7 viên nên không phải kém tuân thủ hay THA kháng trị (mới dùng 1 thuốc: QĐ 5904 Phần 1 Bước 4 mục A.3). Điều không tuân thủ là lời dặn ngưng prednisolon, cộng ăn mặn trở lại (AHA/ACC 2025 Bảng 11; QĐ 5904 Phần 3 mục F). Quy trình thất bại điều trị: tuân thủ thuốc, thuốc tự mua, rồi mới nghĩ biến chứng, thứ phát.",
+     "Vì sao chưa gọi là cơn THA cấp cứu: ESC 2024 mục 10.1.1 định nghĩa HA ≥ 180/110 kèm tổn thương cơ quan đích cấp; khám thần kinh, tim, phổi, đáy mắt và điện tim chưa thấy. Nhưng creatinin, troponin không làm được tối nay nên không loại trừ được.",
+     "Vì sao chuyển: QĐ 5904 Phần 3 mục D.1 chuyển khẩn khi ≥ 180/110 có nhìn mờ, đau đầu; mục sổ MT-0121: có triệu chứng cơ quan đích, chưa biết creatinin nền, không bảo đảm xét lại trong 24–72 giờ. AHA/ACC 2025 mục 6.2 và ESC 2024 mục 10.1.1 cho phép xử trí ngoại trú nếu không có tổn thương cấp, nên hai hướng dẫn khác bối cảnh chứ không đối nghịch.",
+     "Vì sao 'kịp thời': chuyển tối nay khi chưa có biến chứng, trước khi một tổn thương thận hay thiếu máu não không ai biết tới.",
+     "Ghi chú áp dụng (≥ 75 tuổi): hạ áp mạnh hay nhanh ở người già dễ gây tụt HA, thiếu máu não (ESC 2024 mục 8.7.1); vì vậy không hạ nhanh tại phòng khám."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có chuẩn bị: ngưng prednisolon, sinh hiệu, điện tim, phiếu chuyển ghi creatinin chưa có, thuốc đang dùng, giờ uống cuối; gọi báo nơi nhận (QĐ 5904 Phần 3 mục D.1).",
+     "Không hạ áp nhanh, không nifedipin tác dụng nhanh (QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2). Giữ amlodipin 5 mg; bậc thuốc tiếp do tuyến trên chọn khi có creatinin, kali (QĐ 5904 Phần 3 mục G).",
+     "Phương án cho về hẹn 24–72 giờ: đúng với người biết creatinin nền, ở gần, có người theo dõi (mục MT-0121); ông thiếu cả ba nên chấm w.",
+     "Hậu cần: Hiệp đi cùng bằng ô tô; giải thích để ông không ngại tốn kém mà bỏ chuyến đi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Tiếp tục; tuyến trên quyết định bước tiếp",
+      "ghi_chu": "Giữ nguyên, không tăng liều và không thêm thuốc trước khi rõ creatinin, kali (QĐ 5904 Phần 3 mục G)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg mỗi lần khi đau gối, tối đa 4 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "Thay prednisolon (QĐ 361/2014 Thoái hóa khớp gối mục 4.2.2; Phụ lục NSAID mục 3.3: dưới 3 g/ngày ở người cao tuổi, THA)."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn prednisolon; mang vỉ thuốc theo phiếu chuyển.",
+     "Đi ô tô, có Hiệp đi cùng; không đi xe máy. Mang theo thuốc đang uống và sổ ghi HA.",
+     "Gọi 115 nếu thêm yếu liệt, nói khó, đau ngực, khó thở, lơ mơ, co giật trên đường (QĐ 5904 Phần 3 mục D.1).",
+     "Sau khi ổn: ăn giảm muối, uống amlodipin hằng sáng, không mua thuốc xương khớp ở tiệm; khám lại tại tuyến trên theo hẹn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hiệp chở ông bằng ô tô lên bệnh viện huyện ngay tối đó, mang phiếu chuyển và vỉ prednisolon. Tuyến trên xét nghiệm creatinin, điện giải, troponin không tăng, CT sọ không tổn thương cấp: không phải cơn THA cấp cứu; ông được uống thuốc hạ áp, theo dõi một đêm, ra viện sáng hôm sau với amlodipin 5 mg thêm losartan 25 mg. Sáu tuần sau HA ở nhà khoảng 138/80 mmHg, ông không còn mua thuốc xương khớp ở tiệm và nhớ uống amlodipin mỗi sáng.",
+ "nhieu": [
+  "Đòi kháng sinh cho tiêu chảy phân nước: từ chối bằng giải thích, không bằng cái lắc đầu; hẹn quay lại khi sốt, phân máu (IDSA 2017 KC 36). QĐ 5642/2015 mục 4.2.1 nêu cơ địa người già là tình huống 'cân nhắc': ca ghi cả hai.",
+  "Lý do thật: sợ nhồi máu cơ tim; điện tim không thiếu máu cơ tim là câu trả lời, nhưng chỉ lộ ra khi hỏi 'ông còn lo gì'.",
+  "Thuốc tự mua: không kể 'thuốc' khi hỏi chung; vỉ in tên prednisolon nằm trong túi áo."
+ ],
+ "bai_hoc_bien": [
+  "Tiêu chảy phân nước, không sốt, không máu: không kháng sinh, bù dịch, dặn dấu hiệu quay lại; người già vẫn hỏi mất nước, điện giải (QĐ 5642/2015 mục 5; IDSA 2017 KC 36, 39).",
+  "Đo HA cao ở người già mới khỏi bệnh cấp: hỏi thuốc tự mua (corticoid, NSAID: AHA/ACC 2025 Bảng 11), muối, tuân thủ amlodipin; đừng gán hết cho 'tuổi già'.",
+  "Ngưng corticoid dưới 3–4 tuần không cần giảm liều (ESE/ES 2024 R 2.1); dùng lại thì ghi tổng ngày vào phiếu chuyển.",
+  "HA ≥ 180/110 có đau đầu, nhìn mờ: chuyển nếu không loại trừ được tổn thương cơ quan đích cấp và không bảo đảm xét lại trong 24–72 giờ (QĐ 5904 Phần 3 mục D.1; mục sổ MT-0121). Không hạ áp nhanh, không nifedipin tác dụng nhanh.",
+  "Ca diễn tiến: lượt sau luôn tiếp từ xử trí đúng của lượt trước (amlodipin 5 mg, bù dịch, ngưng prednisolon)."
+ ],
+ "diem_nho": [
+  "THA độ 2: 160–179/100–109; độ 3: ≥ 180/110 (QĐ 5904 Phần 1 Bước 3A). Thuốc uống đầu tay amlodipin 5 mg, duy trì 5–10 mg (QĐ 5904 Phần 3 mục G).",
+  "Mục tiêu HA: < 130/80 nếu dung nạp (VSH/VNHA 2024 Bảng 4) hoặc tâm thu 130 đến < 140 ở ≥ 65 tuổi (QĐ 5904 Bước 5 mục A.2); ESC 2024: 120–129 nếu dung nạp.",
+  "Corticoid toàn thân làm tăng HA (AHA/ACC 2025 Bảng 11); < 3–4 tuần ngưng không giảm liều (ESE/ES 2024 R 2.1).",
+  "Tiêu chảy phân nước: không kháng sinh thường quy (IDSA 2017 KC 36); mất nước độ I thì oresol (QĐ 5642/2015 mục 4.2.3a).",
+  "Cấp cứu THA: ≥ 180/110 kèm tổn thương cơ quan đích cấp (ESC 2024 mục 10.1.1); QĐ 5904 mục D.1 chuyển khẩn khi có triệu chứng; tránh nifedipin tác dụng nhanh.",
+  "Paracetamol dưới 3 g/ngày ở người cao tuổi hoặc THA (QĐ 361/2014 Phụ lục NSAID mục 3.3)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 (TL-0284) – ĐÃ ĐỌC Phần 1 (Bước 1–5, Phụ lục 1.1, 1.2); Phần 3 mục D.1, F, G, Phụ lục 3.2.",
+  "Phân hội THA VN/VNHA – VSH/VNHA 2024 (TL-0288) Bảng 2, 4, Đ1.2.1, Hình 15; VSH 2022 (TL-0289).",
+  "ESC 2024 (TL-0305) mục 7.2, 8.3.5, 8.7.1.1, 10.1.1, Bảng khuyến cáo 16, 18, Hình 21; ESH 2023 (TL-0312) mục 11.10.10.1, 15.3, 15.3.2.",
+  "AHA/ACC 2025 THA (TL-0297) – mục 3.2.3.1, 6.2, Bảng 11; ESE/ES 2024 suy thượng thận do glucocorticoid (TL-0063) – R 2.1, 2.9, Bảng 5.",
+  "Bộ Y tế – QĐ 5642/2015 (TL-0038) mục 4.2.1, 4.2.2a, 4.2.3a, b, mục 5; IDSA 2017 tiêu chảy (TL-0230) KC 36, 39, 43, 46–47; ACG 2016 (TL-0233) KC 5, 9, Hình 1.",
+  "Bộ Y tế – QĐ 361/2014 cơ xương khớp (TL-0286): Thoái hóa khớp gối mục 4.2.1–4.2.2; Phụ lục NSAID mục 3.3."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-27): viết mới. Sổ mâu thuẫn đã áp dụng nguyên: mục tiêu HA ≥ 65 tuổi (MT-0042), đơn trị khi thiếu creatinin/kali (MT-0166), cấp cứu THA và chuyển tuyến khi HA ≥ 180/110 (MT-0121), kháng sinh và loperamid trong tiêu chảy cấp người lớn (TH-0717, TH-0624), paracetamol < 3 g/ngày (TH-0295), ngưng glucocorticoid ẩn (MT-0333). Mục mới: kháng sinh khi tiêu chảy phân nước ở người già (QĐ 5642 mục 4.2.1 nêu cơ địa người già).",
+  "Thiếu trong tài liệu đã tải: thể tích oresol cho người lớn; hàm lượng gel diclofenac; ngưỡng troponin và chỉ định; mốc tái khám 1 tuần (lựa chọn của ca); bàn giao SBAR; xét nghiệm 'sáng mai' là minh họa của người viết.",
+  "Âm thanh: AT-TIM-BT-NL-01 (tim 84 và 88 l/p), AT-PHOI-BT-NL-01. Không có ảnh da.",
+  "Trưởng nhóm duyệt 27/11/2026: gộp 'không kê kháng sinh' (c) và 'azithromycin' (a) thành một mục c theo mục sổ đã có từ TH-0751 (cùng lượt)."
+ ]
+}

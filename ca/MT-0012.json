@@ -1,0 +1,839 @@
+{
+ "ma_ca": "MT-0012",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-11-27",
+ "benh": "MT_tha_nguyen_phat_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp nguyên phát (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "THA thứ phát",
+   "Cơn THA cấp cứu"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Thị Lụa",
+  "tuoi": 66,
+  "gioi": "Nữ",
+  "nghe": "Nội trợ (ở cùng con trai, con dâu; trông cháu nội 4 tuổi)",
+  "can_nang": 58,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'bác'. Bà tự xưng 'tôi' hoặc 'bác', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lo xa, nói nhanh, hay đưa điện thoại có trang web bà đã đọc cho bác sĩ xem và dùng chữ y khoa bà vừa học ('nhồi máu cơ tim thầm lặng', 'CT mạch vành'). Sợ bị coi là 'nghĩ quẩn' nên khi bị cắt lời thì im, chỉ nói thật khi được hỏi nhẹ nhàng. Thương cháu, ngại phiền con cái.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: bà khẳng định 'nhồi máu cơ tim', đòi chụp CT mạch vành ngay, tin số HA đo ở tiệm thuốc hơn lời bác sĩ. Bà không hoàn toàn sai (huyết áp cao là thật) nên phải nghe bà trước rồi dùng chính điện tim, xét nghiệm của bà để trả lời, không giễu cợt, không bác bỏ thẳng. Hỏi chung 'đang uống thuốc gì' thì bà đáp 'không có gì'; chỉ kể thuốc cảm khi hỏi thuốc cảm, thuốc nghẹt mũi tự mua; chỉ kể thuốc ngủ khi hỏi giấc ngủ cụ thể.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#cf9d7a",
+   "toc": "#b9b6b0",
+   "kieuToc": "bui",
+   "ao": "#7a5c8a",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Huyết áp đo ở tiệm thuốc 170/100, nhói ngực trái thoáng qua, tự tra mạng nghi nhồi máu cơ tim",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám đa khoa ở thị trấn, có xét nghiệm cơ bản (huyết học, sinh hóa, nước tiểu, hs-troponin), điện tim, X-quang, siêu âm, máy đo huyết áp bắp tay. Không có máy chụp cắt lớp vi tính (CT); bệnh viện tỉnh có CT cách khoảng 60 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Đoàn Thị Lụa, 66 tuổi, nội trợ, ở cùng con trai con dâu và trông cháu nội 4 tuổi, đến một mình. Khoảng 8 ngày nay hồi hộp, mệt, ngủ kém, thỉnh thoảng nhói ngực trái vài giây. Bà đo ở tiệm thuốc được 170/100 nên đi khám, và đưa điện thoại có trang web bà đã đọc. Sinh hiệu: HA 168/98 mmHg, mạch 88 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Lụa nằm khoa tim mạch 'để theo dõi nhồi máu cơ tim' dù HA dưới 180/110, ECG và hs-troponin bình thường, không đủ tiêu chuẩn nhập viện (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Nếu viện không cho tiếp diazepam, bà có thể run, hồi hộp, mất ngủ hoàn toàn vì ngưng đột ngột (Joint CPG 2025 Key takeaway 3); bà càng tin mình 'bệnh nặng như bà Sáu'.",
+    "chuyen_tuyen": "Bà Lụa đi khoảng 60 km lên bệnh viện tỉnh chụp CT mạch vành: mất cả ngày, tốn tiền, về vẫn chưa có đơn hạ HA vì kết quả CT không thay đổi việc phải điều trị THA. QĐ 5904 Phần 1 Bước 4A không có tiêu chí chuyển tuyến ở bà; CT tim chỉ là xét nghiệm tùy chọn (ESC 2024 Bảng 9). Bà dễ hiểu 'phải chuyển nghĩa là bệnh nặng'.",
+    "theo_doi": "Bà Lụa được lưu vài giờ rồi cho về với lời trấn an 'do cảm và lo âu', không đơn, không hẹn lại. Bà tiếp tục viên cảm co mạch, ăn mặn, thức khuya tra mạng; HA vẫn cao nhiều tháng (đã có ba số đo ≥ 140/90, ESC 2024 Bảng khuyến cáo 17, I, A) trong khi mẹ bà bị tai biến năm 72 tuổi. Nỗi sợ nhồi máu không được trả lời nên bà dễ tự đi mua thuốc, xét nghiệm nơi khác."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi tra trên mạng rồi, huyết áp 170 mà ngực nhói bên trái là nhồi máu cơ tim thầm lặng đó. Bác sĩ cho tôi chụp CT mạch vành liền đi, tôi không chờ được đâu.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "168/98",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 8 ngày nay hồi hộp, mệt, ngủ kém; thỉnh thoảng nhói ngực trái vài giây. Đo ở tiệm thuốc đầu ngõ được 170/100 nên đi khám. Bà đã tra trên điện thoại: 'huyết áp 170, nhói ngực trái là nhồi máu cơ tim thầm lặng, phải chụp CT mạch vành'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và chẩn đoán tự tra"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cháu nội 4 tuổi ho, sổ mũi từ khoảng 12 ngày trước, bà ôm ấp, cho ăn chung muỗng. Khoảng 5 ngày nay bà ngạt mũi, rát họng, ho khan ít; không sốt, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: tiếp xúc người ho, nhiễm hô hấp trên nhẹ"
+    },
+    {
+     "id": "thuoc_cam",
+     "noi_dung": "Từ khi ngạt mũi, bà tự mua ở tiệm thuốc vỉ viên 'hết nghẹt mũi, ngủ ngon' uống 2 viên mỗi ngày trong 4 ngày; vỏ hộp có chữ 'Forte', không biết thành phần. Từ hôm đó tim đập mạnh hơn, khó vào giấc hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì bà đáp 'không có gì'. Chỉ kể khi bác sĩ hỏi cụ thể thuốc cảm, thuốc nghẹt mũi, thuốc ho tự mua.",
+     "k": 1,
+     "y": "Thuốc cảm tự mua (thuốc co mạch) làm HA cao thêm"
+    },
+    {
+     "id": "tien_su_ha",
+     "noi_dung": "Mười tám tháng trước phường khám sức khỏe người cao tuổi đo 148/90, dặn 'theo dõi, bớt mặn', bà không tái khám. Hai tuần trước (chưa bị cảm) trạm y tế phường đo 156/94. Chưa từng uống thuốc hạ huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA đã cao từ trước đợt cảm, chưa điều trị"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Nhói như kim châm dưới vú trái, vài giây, 3–4 lần mỗi tuần, thường lúc ngồi yên hoặc nằm; không lan, không vã mồ hôi, không liên quan gắng sức. Đi chợ 15 phút, leo hai tầng không đau ngực, không khó thở. Lần gần nhất cách đây 2 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau ngực: không điển hình đau thắt ngực"
+    },
+    {
+     "id": "cap_cuu_am",
+     "noi_dung": "Không đau đầu dữ dội, không nhìn mờ, không yếu liệt, không méo miệng, không nói khó, không khó thở khi nằm, không phù chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ cơn THA cấp cứu và biến chứng cơ quan đích cấp"
+    },
+    {
+     "id": "thu_phat",
+     "noi_dung": "Không yếu cơ, không chuột rút, tiểu đêm 1 lần; không cơn hồi hộp kèm vã mồ hôi, đau đầu từng cơn; không tăng cân. Con dâu nói bà ngáy nhẹ, chưa ai thấy bà ngừng thở khi ngủ. Không dùng thuốc giảm đau chống viêm, corticoid, thuốc nam bắc, cam thảo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc chỉ điểm THA thứ phát và thuốc làm tăng HA khác"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Mất ngủ mạn 2–3 năm từ khi chồng mất vì ung thư: khó vào giấc, ngủ 4–5 giờ, hay thức 3 giờ sáng. Chiều uống 2–3 chén trà xanh đặc cho tỉnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất ngủ mạn, trà đặc"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Diazepam 5 mg, 1 viên mỗi tối, gần như hằng đêm khoảng 2 năm; lúc đầu bác sĩ phòng khám tư kê, sau tự mua ở tiệm thuốc. Từng bỏ 3 đêm thì hồi hộp, run tay, gần như không ngủ nên uống lại. Bà không coi đó là 'thuốc'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: benzodiazepin hằng đêm, dấu hiệu phụ thuộc"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Nấu cho cả nhà nhưng thích ăn mặn: cá khô, mắm tép, dưa cà muối, bột nêm. Ít vận động, chỉ đi chợ và quanh nhà. Không hút thuốc, không rượu bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn mặn, ít vận động"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ bị tai biến mạch máu não năm 72 tuổi rồi mất; anh trai 70 tuổi đặt stent mạch vành. Bà không đái tháo đường, mãn kinh năm 52 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình tim mạch, yếu tố nguy cơ"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: bà Sáu, bạn thân cùng tổ dân phố 64 tuổi, mất đột ngột vì nhồi máu cơ tim 5 tuần trước; trước đó cũng 'huyết áp hơi cao, hay nhói ngực'. Bà sợ mình chết bất ngờ khi ở nhà một mình với cháu, sợ làm gánh nặng cho con. Muốn chụp CT 'cho chắc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ nhàng bà lo nhất điều gì, vì sao hôm nay đi khám, hoặc có ai quen bị giống vậy không. Nếu bị bác bỏ ngay chuyện 'nhồi máu cơ tim' thì bà im, nói 'thôi tôi hỏi vậy thôi'.",
+     "k": 1,
+     "y": "Nỗi sợ thật: sợ chết đột ngột như bạn thân"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Nghỉ 10 phút, đo ngồi hai lần cách nhau 2 phút: tay phải 164/96, tay trái 162/96 mmHg (trung bình hai lần). Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 162/94; đứng 1 phút 158/94; đứng 3 phút 156/92 mmHg. Không chóng mặt, không xây xẩm: không hạ HA tư thế.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi lo lắng, nói nhanh. Cân nặng 58 kg, cao 153 cm, BMI 24,8; vòng eo 84 cm. Da niêm hồng, không phù.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi, không T3, T4. Ấn thành ngực trái không đau.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3, T4."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Rì rào phế nang đều hai bên, nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, niêm mạc mũi phù nề, ít dịch trong. Amidan không to, không mủ.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không khối. Không nghe âm thổi động mạch thận hai bên và quanh rốn. Gan lách không to.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt, không méo miệng, cơ lực 5/5, cảm giác bình thường, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "day_mat": {
+     "a": "Động mạch võng mạc hơi nhỏ, vài chỗ bắt chéo động–tĩnh mạch. Không xuất huyết, xuất tiết, phù gai.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 88 l/p, trục trung gian. Sokolow-Lyon 27 mm. Không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "ECG trong 10 phút khi nghi hội chứng vành cấp (ACC/AHA 2025 ACS mục 3.1.1); thường quy khi mới THA (ESC 2024 Bảng 8; QĐ 5904 Phần 1 Bước 2 mục 10). Sokolow-Lyon dưới 35 mm: chưa dày thất trái (VSH/VNHA 2024 Bảng 11)."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-troponin dưới ngưỡng phân vị 99 của xét nghiệm tại cơ sở (lấy ít nhất 3 giờ sau lần nhói gần nhất).",
+     "n": "ACC/AHA 2025 ACS mục 3.1.2: ưu tiên hs-cTn; một mẫu thì lấy ít nhất 3 giờ sau khởi phát. Âm tính cùng ECG bình thường: chưa có bằng chứng tổn thương cơ tim."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,9 G/L · Hb 128 g/L · TC 262 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 58,
+      "lym_pct": 33,
+      "rbc": 4.3,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 90,
+      "plt": 262
+     },
+     "n": "Hb là xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 4; ESC 2024 Bảng 8)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "5,3 mmol/L (đói)",
+     "bang": {
+      "glu": 5.3
+     },
+     "n": "Glucose đói là xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 5; ESC 2024 Bảng 8). Chưa có đái tháo đường."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 5,9 · LDL-C 3,5 · HDL-C 1,4 · TG 1,9 mmol/L",
+     "ab": 1,
+     "n": "Xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 6; ESC 2024 Bảng 8)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,0 mmol/L · Creatinin 74 µmol/L · eGFR 77 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.0,
+      "creat": 74,
+      "egfr": 77
+     },
+     "n": "Creatinin, eGFR cho mọi người THA (ESC 2024 Bảng khuyến cáo 8, I, A; QĐ 5904 Phần 1 Bước 2 mục 7). Nền trước khi dùng chẹn thụ thể (AHA/ACC 2025 mục 5.2.8)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 140 · K 4,1 · Cl 103 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.1,
+      "cl": 103
+     },
+     "n": "Xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 7). K bình thường không loại trừ hẳn cường aldosteron (AHA/ACC 2025 mục 3.2.3.1)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 22 U/L",
+     "n": "Xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 8)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Không protein · Không glucose · Không hồng cầu · Không bạch cầu",
+     "bang": {
+      "u_sg": 1.017,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Tìm protein niệu là xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 9)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "UACR 9 mg/g (dưới 30 mg/g)",
+     "n": "ESC 2024 Bảng khuyến cáo 8 (I, A): creatinin, eGFR, UACR ở mọi người THA. Bình thường."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 2,1 mIU/L (bình thường)",
+     "n": "ESC 2024 Bảng 8, AHA/ACC 2025 Bảng 6 xếp TSH thường quy; QĐ 5904, VSH/VNHA 2024 không liệt kê: làm hay không đều không trừ điểm (sổ)."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Renin 2,4 ng/mL/giờ (không bị ức chế) · aldosterone 6 ng/dL: sàng lọc âm tính.",
+     "n": "AHA/ACC 2025 mục 3.2.3.1: bắt buộc khi kháng trị, hạ kali; ESC 2024 Bảng khuyến cáo 13 (IIa, B): cân nhắc mọi người THA. Bà không thuộc nhóm bắt buộc: không làm không trừ điểm (sổ mâu thuẫn)."
+    },
+    "echo": {
+     "v": "a",
+     "r": "Thất trái không dày, EF 64%, không rối loạn vận động vùng, van bình thường.",
+     "n": "ESC 2024 mục 7.4.3.2: siêu âm tim khi ECG bất thường, có âm thổi hoặc triệu chứng tim; có thể cân nhắc cho mọi người mới THA nếu có điều kiện. Không bắt buộc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp nguyên phát độ 2, mới được chẩn đoán (HA 168/98 mmHg, đã cao từ trước đợt cảm), chưa thấy tổn thương cơ quan đích; HA đang bị đẩy cao thêm bởi viên cảm co mạch, mất ngủ, lo âu",
+     "ok": 1,
+     "n": "Hai số đo cũ 148/90 và 156/94 trước đợt cảm; hôm nay 164–168/96–98 (QĐ 5904 Phần 1 Bước 3A: tâm thu 160–179 là độ 2). Creatinin, UACR, điện tim bình thường. Thuốc co mạch làm tăng HA (AHA/ACC 2025 Bảng 11; ESH 2023 Bảng 20)."
+    },
+    {
+     "t": "Nhồi máu cơ tim / hội chứng vành cấp",
+     "n": "Nhói vài giây, không theo gắng sức, không lan; ECG không ST–T bất thường; hs-troponin dưới ngưỡng (ACC/AHA 2025 ACS mục 3.1.1, 3.1.2). ECG ban đầu không chẩn đoán chưa loại trừ hẳn nên phải dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Cơn THA cấp cứu",
+     "n": "HA dưới 180/110, không đau đầu dữ dội, không dấu thần kinh khu trú, creatinin và troponin bình thường (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "THA thứ phát (cường aldosteron, bệnh thận hoặc mạch thận, ngưng thở khi ngủ, u tủy thượng thận, thuốc/chất làm tăng HA)",
+     "n": "Không chỉ điểm: K 4,1; creatinin, UACR bình thường; không âm thổi bụng; không cơn hồi hộp–vã mồ hôi (VSH/VNHA 2024 Đ2.4; ESC 2024 Bảng khuyến cáo 13). Thuốc cảm chỉ là yếu tố thoáng qua, không giải thích HA cao trước đó."
+    },
+    {
+     "t": "Rối loạn lo âu / cơn hoảng sợ",
+     "n": "Lo âu có thật nhưng không giải thích HA 148–170/90–100 lặp lại ở ba nơi đo; chỉ nghĩ đến khi đã loại tim mạch."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nghe và hỏi ra nỗi lo thật (sợ chết đột ngột như bà Sáu); dùng chính điện tim, hs-troponin của bà để giải thích vì sao hôm nay chưa phải nhồi máu cơ tim; nói rõ ở đây không có CT và bà chưa có chỉ định chụp",
+     "v": "c",
+     "n": "ACC/AHA 2025 ACS mục 3.1.1–3.1.2: ECG và hs-cTn là bước đầu. CT tim chỉ là xét nghiệm tùy chọn đánh giá tổn thương mạch (điểm vôi hóa, ESC 2024 Bảng 9); chỉ định CT mạch vành cho người THA không đau thắt ngực điển hình: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng viên cảm co mạch tự mua; ngạt mũi dùng nước muối sinh lý; không dùng kháng histamin thế hệ 1; ho nhẹ không cần kháng sinh, thuốc ho",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11: thuốc co mạch dùng ngắn nhất, tránh khi HA cao, thay bằng nước muối, corticoid xịt mũi; ESH 2023 Bảng 20. AGS Beers 2023 Bảng 2: tránh kháng histamin thế hệ 1 ở ≥ 65 tuổi. CHEST 2020 khuyến cáo 3: không kháng sinh, thuốc ho thường quy."
+    },
+    {
+     "t": "Đã xác nhận THA độ 2 (≥ 140/90 ở ba nơi đo): bắt đầu ngay lối sống kèm phối hợp 2 thuốc liều thấp, ví dụ telmisartan 40 mg + amlodipin 5 mg mỗi sáng",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 5 mục C.3 (độ 2 bắt đầu phối hợp 2 thuốc), B.2 (bà không thuộc ngoại lệ ≥ 80 tuổi); ESC 2024 Bảng khuyến cáo 17 (I, A), 16 (I, B); VSH/VNHA 2024 Bảng 4 (I, A). Telmisartan khởi đầu 40 mg, amlodipin 5 mg (QĐ 5904 Phần 3 mục G). Chọn chẹn thụ thể vì bà đang ho, nhóm này ít gây ho hơn ức chế men chuyển (Phần 3 mục G)."
+    },
+    {
+     "t": "Cách khác: ngưng thuốc cảm, tự đo HA tại nhà bằng máy bắp tay khoảng 1 tuần rồi mới khởi thuốc, hẹn lại trong vòng 1 tháng",
+     "v": "a",
+     "n": "ESC 2024 Bảng khuyến cáo 6 (I, C): HA 160–179/100–109 xác nhận trong khoảng 1 tháng, ưu tiên HA tại nhà. Chấp nhận vì HA hôm nay còn bị thuốc co mạch làm cao; nhưng đã có số đo cũ ≥ 140/90 nên khởi ngay cũng đúng (Bảng khuyến cáo 17)."
+    },
+    {
+     "t": "Nêu mục tiêu HA cho bà 66 tuổi, hẹn đạt mục tiêu trong 1–3 tháng",
+     "v": "c",
+     "n": "Ghi cả các nguồn: QĐ 5904 Phần 1 Bước 5 mục A.2: tâm thu 130 đến dưới 140 (≥ 65 tuổi); VSH/VNHA 2024 Bảng 4 và AHA/ACC 2025 mục 5.2.7: dưới 130/80; ESC 2024 Bảng khuyến cáo 18: 120–129; ESH 2023 mục 15.3: dưới 140/80, dưới 130/80 nếu dung nạp. QĐ 5904 (2019) viết cho trạm y tế xã nên nới hơn. Đạt trong 1–3 tháng (QĐ 5904 mục A.3)."
+    },
+    {
+     "t": "Diazepam: giữ đúng 1 viên mỗi tối, không tăng, không ngưng đột ngột, không kê thêm thuốc ngủ; hẹn bàn giảm dần có giám sát sau khi HA ổn; vệ sinh giấc ngủ, bớt trà đặc buổi chiều",
+     "v": "c",
+     "n": "AGS Beers 2023 Bảng 2: tránh benzodiazepin ở ≥ 65 tuổi (ngã, lú lẫn, phụ thuộc); Joint CPG Benzodiazepine Tapering 2025 (TL-0575) Key takeaway 1d, 3, 5: nên giảm dần, không ngưng đột ngột, giảm 5–10% liều mỗi 2–4 tuần. Bà từng bỏ 3 đêm thì run, hồi hộp. Cách chia viên 5 mg: không có trong tài liệu đã tải. Trà: caffeine dưới 300 mg/ngày (AHA/ACC 2025 Bảng 11)."
+    },
+    {
+     "t": "Hướng dẫn đo HA tại nhà bằng máy bắp tay đúng quy trình, ghi sổ",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 35 (I, B); QĐ 5904 Phụ lục 1.1: nghỉ 5–10 phút, không chất kích thích 2 giờ trước đo, đo hai lần cách nhau 1–2 phút."
+    },
+    {
+     "t": "Giảm muối còn khoảng 5 g/ngày (bớt cá khô, mắm, dưa cà, bột nêm), đi bộ nhanh ≥ 150 phút/tuần, vòng eo dưới 80 cm",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15 (I, A): natri khoảng 2 g/ngày tương đương 5 g muối, vận động ≥ 150 phút/tuần, vòng eo dưới 80 cm ở nữ (bà 84 cm); QĐ 5904 Phần 1 mục D.1a, 1b, 1e."
+    },
+    {
+     "t": "Dặn dấu hiệu đi cấp cứu ngay (đau thắt ngực kéo dài, vã mồ hôi, khó thở, đau đầu dữ dội, yếu tê một bên, nhìn mờ); tái khám sau 2–4 tuần mang sổ HA, hộp thuốc, kiểm lại kali, creatinin",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1; VSH/VNHA 2024 Đ4.1 (tái khám mỗi 2–4 tuần trong 2–3 tháng đầu); AHA/ACC 2025 mục 5.2.8 (điện giải, creatinin 2–4 tuần sau khi bắt đầu chẹn thụ thể)."
+    },
+    {
+     "t": "Bắt đầu statin cường độ trung bình (atorvastatin 10 mg) hôm nay hoặc để lượt sau",
+     "v": "a",
+     "n": "ESH 2023 mục 11.10.11.1; ACC/AHA 2026 Dyslipidemia mục 4.2.3.7 cần công cụ PREVENT mà kho chưa có (sổ mâu thuẫn). Atorvastatin khởi đầu 10 mg (QĐ 5904 Phần 3 mục G). LDL-C 3,5 mmol/L."
+    },
+    {
+     "t": "Chuyển bệnh viện tỉnh chụp CT mạch vành hoặc nhập viện, chuyển cấp cứu để hạ áp",
+     "v": "w",
+     "n": "Không đủ tiêu chuẩn cấp cứu hay nhập viện (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2); không có tiêu chí chuyển tuyến (QĐ 5904 Phần 1 Bước 4A); CT tim chỉ là xét nghiệm tùy chọn (ESC 2024 Bảng 9)."
+    },
+    {
+     "t": "Cho uống hoặc ngậm nifedipin tác dụng nhanh để hạ HA ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh (uống hoặc ngậm dưới lưỡi) vì hạ HA mạnh, khó kiểm soát."
+    },
+    {
+     "t": "Chỉ trấn an 'HA cao do cảm, lo âu', không khởi thuốc, không hẹn tái khám",
+     "v": "w",
+     "n": "HA ≥ 140/90 đã xác nhận nhiều lần đo (QĐ 5904 Phần 1 Bước 5 mục A.5; ESC 2024 Bảng khuyến cáo 17, I, A): để chậm điều trị tăng nguy cơ tim mạch ở người 66 tuổi có mẹ bị tai biến."
+    },
+    {
+     "t": "Kê thêm thuốc ngủ, an thần, hoặc bảo bà ngưng diazepam ngay",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: benzodiazepin, nhóm Z gây lú lẫn, ngã, gãy xương ở ≥ 65 tuổi; Joint CPG 2025 Key takeaway 3: không ngưng đột ngột người có thể đã phụ thuộc (bà từng bỏ 3 đêm thì run, hồi hộp)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp nguyên phát độ 2, mới được chẩn đoán (HA 164–168/96–98 mmHg; số đo cũ 148/90 và 156/94), chưa thấy tổn thương cơ quan đích (creatinin 74 µmol/L, UACR 9 mg/g, ECG không dày thất)",
+     "Yếu tố làm HA cao thêm: viên cảm co mạch tự mua 4 ngày, mất ngủ mạn, lo âu, ăn mặn, trà đặc buổi chiều",
+     "Không phải hội chứng vành cấp (ECG bình thường, hs-troponin dưới ngưỡng, nhói vài giây không theo gắng sức); không phải cơn THA cấp cứu; chưa có chỉ điểm THA thứ phát",
+     "Mất ngủ mạn đang dùng diazepam 5 mg hằng đêm khoảng 2 năm, có dấu hiệu phụ thuộc (bỏ 3 đêm thì run, hồi hộp)",
+     "Nhiễm hô hấp trên nhẹ sau tiếp xúc cháu nội ho; nỗi lo thật: sợ chết đột ngột như bà Sáu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám, số đo; khởi phát (cháu ho, thuốc tự mua kể cả thuốc cảm); số đo HA cũ; đau ngực, dấu hiệu cấp cứu; chỉ điểm THA thứ phát; giấc ngủ, thuốc ngủ; ăn uống; tiền sử gia đình; nỗi lo thật. Khám: HA hai tay, nằm–đứng, tim phổi, nghe bụng, thần kinh, đáy mắt. CLS: ECG, hs-troponin, xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 1–2).",
+     "THA độ 2: tâm thu 164–168 thuộc 160–179, tâm trương 96–98 thuộc 90–99, lấy mức cao hơn (QĐ 5904 Phần 1 Bước 3A). Ngưỡng chẩn đoán ≥ 140/90 (QĐ 5904; VSH/VNHA 2024 Đ1.1; ESC 2024 Bảng khuyến cáo 6); AHA/ACC 2025 mục 2.1 dùng 130/80, bà vượt cả hai. HA cao đã có từ 18 tháng trước nên không thể chỉ do thuốc cảm.",
+     "Thuốc cảm: viên 'hết nghẹt mũi' thường có thuốc co mạch; thành phần viên bà dùng không biết (không có trong tài liệu đã tải), phải hỏi cụ thể. Phenylephrine, pseudoephedrine làm tăng HA (AHA/ACC 2025 Bảng 11; ESH 2023 Bảng 20).",
+     "Đau ngực chưa phải nhồi máu: nhói vài giây, ngồi yên cũng nhói, không lan, gắng sức không đau. Nhưng bà là nữ 66 tuổi, THA, mẹ tai biến nên làm ECG trong 10 phút và hs-cTn (ACC/AHA 2025 ACS mục 3.1.1, 3.1.2): bình thường; ECG ban đầu không chẩn đoán chưa loại trừ hẳn nên dặn dấu hiệu quay lại.",
+     "Không phải cấp cứu THA: HA dưới 180/110, không đau đầu dữ dội, không dấu thần kinh khu trú, troponin và creatinin bình thường (ESC 2024 mục 10.1.1; QĐ 5904 Phần 3 mục D.1: ≥ 200/120, hoặc ≥ 180/110 kèm triệu chứng; AHA/ACC 2025 mục 6.2). HA bà dưới mọi ngưỡng.",
+     "Chưa nghĩ THA thứ phát: sàng lọc dành cho THA dưới 40 tuổi, khó kiểm soát, kháng trị (VSH/VNHA 2024 Đ2.4); bà không có chỉ điểm. Aldosteron–renin làm hay không đều chấp nhận (ESC 2024 Bảng khuyến cáo 13; AHA/ACC 2025 mục 3.2.3.1).",
+     "Chẩn đoán tự tra: bà đúng một nửa (HA cao thật), sai ở 'nhồi máu thầm lặng' và nhu cầu CT. Dùng điện tim của bà để trả lời, không giễu. Cơ sở không có CT; CT tim chỉ là xét nghiệm tùy chọn (ESC 2024 Bảng 9). Diazepam hằng đêm ở bà 66 tuổi: AGS Beers 2023 Bảng 2 tránh; Joint CPG 2025 nên giảm dần, không ngưng đột ngột: giữ nguyên, không tăng, bàn giảm dần sau."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám: không đủ tiêu chuẩn nhập viện, chuyển tuyến, cấp cứu (QĐ 5904 Phần 3 mục D.1; Phần 1 Bước 4A; ESC 2024 mục 10.1.1).",
+     "Khởi trị: QĐ 5904 Phần 1 Bước 5 mục C.3, ESC 2024 Bảng khuyến cáo 17 (I, A), VSH/VNHA 2024 Bảng 4 (I, A) khởi ngay khi đã xác nhận ≥ 140/90; ESC 2024 Bảng khuyến cáo 6 (I, C) cho xác nhận bằng HA tại nhà trong khoảng 1 tháng trước. Hai cách đều đúng, khác ưu tiên; đơn dưới đây theo cách khởi ngay vì đã có số đo cũ. Bà đang ho nên chọn chẹn thụ thể (QĐ 5904 Phần 3 mục G); kali, creatinin kiểm lại sau 2–4 tuần (AHA/ACC 2025 mục 5.2.8).",
+     "Mục tiêu: 130 đến dưới 140 (QĐ 5904 mục A.2), dưới 130/80 (VSH/VNHA 2024 Bảng 4; AHA/ACC 2025 mục 5.2.7), 120–129 (ESC 2024 Bảng khuyến cáo 18), dưới 140/80 rồi dưới 130/80 (ESH 2023 mục 15.3). QĐ 5904 (2019) viết cho trạm y tế xã, các nguồn kia mới hơn.",
+     "Gốc không chỉ ở thuốc: ngưng thuốc cảm; muối khoảng 5 g/ngày, vận động ≥ 150 phút/tuần (ESC 2024 Bảng khuyến cáo 15); trà dưới 300 mg caffeine/ngày (AHA/ACC 2025 Bảng 11). Diazepam: giữ 1 viên, không tăng, không ngưng đột ngột (Joint CPG 2025 Key takeaway 3); giảm 5–10% liều mỗi 2–4 tuần khi HA ổn (Key takeaway 5). Statin 10 mg: hôm nay hoặc lượt sau (sổ mâu thuẫn)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Telmisartan",
+      "ham_luong": "40 mg",
+      "lieu": "40 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng một giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Khởi đầu 40 mg, tối ưu 80 mg; chống chỉ định có thai (QĐ 5904 Phần 3 mục G). Kali, creatinin sau 2–4 tuần (AHA/ACC 2025 mục 5.2.8). Nếu chọn xác nhận bằng HA tại nhà trước thì chưa kê hôm nay (ESC 2024 Bảng khuyến cáo 6). Viên phối hợp cố định tại Việt Nam: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc với telmisartan",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá chân, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Có viên phối hợp cố định thì dùng một viên (ESC 2024 Bảng khuyến cáo 16)."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "Dung dịch 0,9%",
+      "lieu": "Rửa mũi khi ngạt",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Khi ngạt mũi, thay viên cảm co mạch",
+      "so_ngay": "Đến khi hết ngạt mũi",
+      "ghi_chu": "AHA/ACC 2025 Bảng 11: nước muối mũi là lựa chọn thay thuốc co mạch. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Diazepam (thuốc bà đang dùng, không kê thêm)",
+      "ham_luong": "5 mg",
+      "lieu": "Giữ 1 viên mỗi tối, không tăng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Chưa ngưng; bàn giảm dần ở lượt sau",
+      "ghi_chu": "Giữ nguyên liều đang dùng; không ngưng đột ngột (Joint CPG Benzodiazepine Tapering 2025 Key takeaway 3); tránh ở ≥ 65 tuổi, giảm dần có giám sát (AGS Beers 2023 Bảng 2; Joint CPG Key takeaway 1d, 5)."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn viên cảm 'hết nghẹt mũi'; khi mua thuốc cảm, mang vỏ hộp cho bác sĩ hoặc dược sĩ xem có thuốc co mạch không (AHA/ACC 2025 Bảng 11).",
+     "Uống telmisartan và amlodipin mỗi sáng, không tự bỏ hay giảm liều khi thấy HA bớt (QĐ 5904 Phần 1 mục D.2). Đứng dậy từ từ vì HA hạ nhanh và bà còn dùng thuốc ngủ (QĐ 5904 Phụ lục 1.1: đo tư thế đứng phát hiện hạ HA tư thế ở người cao tuổi).",
+     "Đo HA nhà bằng máy bắp tay, sáng và tối, nghỉ 5–10 phút, không trà cà phê trong 2 giờ trước, đo hai lần cách nhau 1–2 phút, ghi sổ (QĐ 5904 Phụ lục 1.1; ESC 2024 Bảng khuyến cáo 35). HA nhà từ 135/85 là cao (VSH/VNHA 2024 Đ1.1). Không đo lặp liên tục khi hồi hộp.",
+     "Giảm muối khoảng 5 g/ngày (bớt cá khô, mắm, dưa cà, bột nêm); đi bộ nhanh 30 phút, 5 ngày/tuần; vòng eo mục tiêu dưới 80 cm (ESC 2024 Bảng khuyến cáo 15). Bớt trà đặc buổi chiều.",
+     "Gọi 115 nếu đau thắt ngực kéo dài, vã mồ hôi, khó thở, đau đầu dữ dội, yếu tê một bên, nói khó, nhìn mờ (QĐ 5904 Phần 3 mục D.1); điện tim hôm nay bình thường nhưng không loại trừ hẳn nếu cơn đau khác đi (ACC/AHA 2025 ACS mục 3.1.1).",
+     "Không tự ngưng hay tăng thuốc ngủ; run, hồi hộp vì thiếu thuốc thì báo bác sĩ. Tái khám 2–4 tuần, mang sổ HA, hộp thuốc để kiểm kali, creatinin (VSH/VNHA 2024 Đ4.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Bà Lụa tái khám sau 4 tuần, đến một mình, mang sổ ghi HA tại nhà (máy bắp tay con gái mua) và hộp thuốc. Bà nói đã uống thuốc đều, hết nhói ngực, đã khỏi ho, nhưng 'huyết áp ở nhà vẫn chưa xuống 120 như trên mạng' nên vẫn lo, ngủ không sâu. Sinh hiệu: HA 148/90 mmHg, mạch 76 l/p, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bà Lụa bị chuyển lên bệnh viện tỉnh vì 'HA chưa xuống', mất một ngày đi 60 km. Theo QĐ 5904 Phần 1 Bước 4A mục 3, chỉ chuyển khi chưa đạt dù đã dùng đủ ít nhất 3 thuốc có lợi tiểu; bà mới 2 thuốc liều thấp trong 4 tuần, nên tuyến trên rất có thể chỉ chỉnh như phòng khám làm được. Bà càng tin mình 'bệnh nặng, thuốc không hợp'.",
+    "nhap_vien": "Bà Lụa nhập viện vì HA 148/90 'chưa đạt', trong khi không có dấu hiệu cấp cứu (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1). Ở viện lạ bà càng mất ngủ, có thể tự xin thêm thuốc ngủ, ra viện vẫn chưa được chỉnh thuốc đúng lộ trình; nỗi sợ thuốc hại thận còn nguyên.",
+    "theo_doi": "Bà Lụa được lưu vài giờ rồi cho về, vẫn hai thuốc liều cũ, chỉ dặn 'ráng ăn nhạt'. HA nhà vẫn khoảng 144/88, bà tiếp tục đo lặp khi hồi hộp và tự tăng diazepam khi thức 3 giờ sáng (AGS Beers 2023 Bảng 2: tăng nguy cơ ngã, lú lẫn). Không tăng bậc thì HA chưa tới mục tiêu sau nhiều tháng, trong khi VSH/VNHA 2024 Đ4.1 đặt thời gian đạt đích giữa các bước 1–3 tháng."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi uống thuốc đều rồi, hết nhói ngực, nhưng huyết áp ở nhà vẫn cứ 140 mấy, có hôm 150. Trên mạng nói phải 120/80 mới an toàn. Bác sĩ coi thuốc có hợp với tôi không, hay phải đổi?",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "148/90",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống telmisartan và amlodipin mỗi sáng sau ăn; quên 2 buổi trong 4 tuần (hộp còn dư đúng 2 viên mỗi loại). Không tự đổi hay tự thêm thuốc huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc (đếm viên)"
+    },
+    {
+     "id": "so_ha_nha",
+     "noi_dung": "Sổ 14 ngày, máy bắp tay con gái mua: sáng trung bình khoảng 146/90, tối khoảng 140/86; chung khoảng 144/88; thấp nhất 134/82, cao nhất 158/94 vào hai ngày ngủ rất kém. Mỗi khi hồi hộp bà đo thêm 3–4 lần liên tiếp, thường thấy 150–156/92.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA tại nhà: đỡ nhưng chưa đạt, đo lặp khi lo"
+    },
+    {
+     "id": "nhoi_nguc2",
+     "noi_dung": "Hết nhói ngực; hồi hộp và mệt giảm nhiều. Đi chợ, leo hai tầng không đau ngực, không khó thở. Khỏi ho từ tuần thứ hai. Không đau đầu dữ dội, không yếu liệt, không nói khó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng cũ đã hết, không dấu hiệu cấp cứu"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Từ tuần thứ hai chiều tối thấy hai mắt cá chân hơi phù, sáng dậy hết. Không chóng mặt khi đứng dậy, không té, không ho khan, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ amlodipin nhẹ; không hạ HA tư thế, không ho do thuốc"
+    },
+    {
+     "id": "ngu2",
+     "noi_dung": "Vẫn ngủ khoảng 4–5 giờ, hay thức lúc 3 giờ sáng rồi cầm điện thoại xem lại HA và đọc bài về thuốc huyết áp. Chiều vẫn uống 2 chén trà xanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất ngủ vẫn còn"
+    },
+    {
+     "id": "diazepam2",
+     "noi_dung": "Hai tuần nay có 6–7 đêm bà uống một viên rưỡi diazepam 5 mg vì thức lúc 3 giờ sáng và lo huyết áp. Bà chưa nói với ai vì ngại bị mắng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi đếm số viên thuốc ngủ mỗi tuần, hỏi bà đã tự tăng hay giảm thuốc ngủ chưa, hoặc hỏi đêm thức giấc bà làm gì, uống gì.",
+     "k": 1,
+     "y": "Tự tăng benzodiazepin"
+    },
+    {
+     "id": "muoi2",
+     "noi_dung": "Con dâu nấu nhạt cho cả nhà nhưng bữa trưa bà ăn một mình, vẫn chấm thêm mắm tép, ăn cá khô, dưa cà muối vì 'nhạt miệng, không ngon cơm'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể bữa trưa ăn gì, chấm gì cho ngon cơm, có nêm thêm không, hoặc hỏi con dâu nấu có hợp khẩu vị không.",
+     "k": 1,
+     "y": "Ăn mặn vẫn còn, góp phần HA chưa đạt"
+    },
+    {
+     "id": "noi_lo2",
+     "noi_dung": "Bà đọc trên mạng 'thuốc huyết áp hại thận, uống cả đời, phụ thuộc thuốc' và 'huyết áp phải 120/80 mới an toàn'. Bà hỏi: 'Tôi uống thuốc bao lâu thì ngưng được? Sao vẫn chưa xuống 120?'",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo mới: thuốc hại thận, uống cả đời, đích 120/80"
+    },
+    {
+     "id": "van_dong2",
+     "noi_dung": "Từ tuần thứ hai đi bộ quanh khu phố 20 phút mỗi chiều, khoảng 4 ngày mỗi tuần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Vận động"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Nghỉ 5 phút, đo ngồi: tay phải 148/90, tay trái 146/88 mmHg. Máy bắp tay của bà đo cùng lúc 146/88: chênh dưới 5 mmHg so với máy phòng khám, dùng được.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 150/90; đứng 1 phút 146/90; đứng 3 phút 144/88 mmHg. Không chóng mặt: không hạ HA tư thế.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, nói nhiều khi bàn chuyện huyết áp. Cân nặng 57,5 kg, vòng eo 83 cm.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Phù ấn lõm nhẹ (+) quanh hai mắt cá, không lên tới cẳng chân, không giãn tĩnh mạch.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3, T4."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Phổi trong, không ran. Nhịp thở 16 l/p.",
+     "k": 0,
+     "hien": "Rì rào phế nang đều hai bên, nhịp thở 16 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,3 mmol/L · Creatinin 78 µmol/L · eGFR 73 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.3,
+      "creat": 78,
+      "egfr": 73
+     },
+     "n": "Kiểm lại 2–4 tuần sau khi dùng chẹn thụ thể (AHA/ACC 2025 mục 5.2.8). Creatinin tăng khoảng 5% so với 74 µmol/L, eGFR giảm dưới 30%: trong mức dự kiến, chỉ nghĩ ngưng thuốc khi eGFR giảm kéo dài trên 30% (AHA/ACC 2025 mục 5.2.9)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,3 · Cl 102 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.3,
+      "cl": 102
+     },
+     "n": "Nền kali, natri trước khi cân nhắc lợi tiểu (QĐ 5904 Phần 3 mục G: tác dụng phụ rối loạn điện giải)."
+    },
+    "acid_uric": {
+     "v": "a",
+     "r": "Acid uric 281 µmol/L",
+     "n": "Nền trước khi dùng lợi tiểu; có trong xét nghiệm cơ bản (QĐ 5904 Phần 1 Bước 2 mục 7). Không làm không trừ điểm."
+    },
+    "ecg": {
+     "n": "Không còn nhói ngực, điện tim lượt 1 bình thường: không cần lặp lại hôm nay."
+    },
+    "trop": {
+     "n": "Hết đau ngực, không triệu chứng mới: không cần."
+    },
+    "holter_ha": {
+     "n": "Sổ HA tại nhà 14 ngày bằng máy bắp tay đã đủ để so với HA phòng khám (VSH/VNHA 2024 Đ1.2.2, Bảng 8; ESC 2024 Bảng khuyến cáo 35)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "THA nguyên phát đang điều trị, đáp ứng một phần sau 4 tuần (HA phòng khám 168/98 → 148/90; nhà trung bình 144/88), tuân thủ tốt, chưa đạt mục tiêu; còn muối cao, mất ngủ, lo âu và tự tăng diazepam; phù mắt cá nhẹ do amlodipin",
+     "ok": 1,
+     "n": "HA phòng khám ≥ 140/90 và HA nhà ≥ 135/85 (VSH/VNHA 2024 Đ1.1); đếm viên đủ; hạ 20/8 mmHg nhưng chưa tới mục tiêu."
+    },
+    {
+     "t": "THA áo choàng trắng",
+     "n": "HA phòng khám 148/90 và HA nhà trung bình 144/88 đều trên ngưỡng; áo choàng trắng là OBPM ≥ 140/90 nhưng HBPM dưới 135/85 (VSH/VNHA 2024 Đ1.1)."
+    },
+    {
+     "t": "THA kháng trị",
+     "n": "Mới 2 thuốc liều thấp, 4 tuần; kháng trị cần ≥ 3 thuốc đủ liều gồm lợi tiểu (QĐ 5904 Phần 1 Bước 4A mục 3; ESC 2024 Bảng 10). Chưa tới lúc chuyển tuyến."
+    },
+    {
+     "t": "Tác dụng phụ thuốc: hạ HA tư thế, ho do thuốc, tăng kali, giảm chức năng thận",
+     "n": "Nằm–đứng không giảm; không ho; K 4,3; creatinin tăng 5% (AHA/ACC 2025 mục 5.2.8, 5.2.9). Phù mắt cá nhẹ là tác dụng phụ amlodipin (QĐ 5904 Phần 3 mục G)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Rà soát lý do chưa đạt trước khi tăng bậc (đếm viên, máy và cách đo HA nhà, thuốc cảm, muối, giấc ngủ); nói rõ 4 tuần hạ được 20/8 mmHg là đáp ứng một phần, chưa phải thất bại",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 5 mục C.6 và VSH/VNHA 2024 Đ4.1: chưa đạt thì xem lại thuốc, lối sống rồi điều chỉnh; ESC 2024 mục 8.5.1: tác dụng hạ áp thấy sau 1–2 tuần, tối đa lâu hơn, đánh giá 1–3 tháng (ưu tiên 1 tháng); đạt mục tiêu trong 1–3 tháng (QĐ 5904 mục A.3)."
+    },
+    {
+     "t": "Tăng bậc: thêm thuốc thứ ba liều thấp (indapamid SR 1,5 mg mỗi sáng) HOẶC tăng telmisartan lên 80 mg; giữ amlodipin 5 mg (không tăng vì đang phù mắt cá)",
+     "v": "c",
+     "n": "Hai nguồn, ghi cả hai cách: ESC 2024 Bảng khuyến cáo 16 (I, B), Hình 18: chưa đạt với 2 thuốc thì lên 3 thuốc (chẹn thụ thể + chẹn kênh canxi + lợi tiểu giống thiazid) rồi mới tăng liều (mục 8.3.4); QĐ 5904 Phần 1 Bước 5 mục C.4, C.6 và Phần 3 mục G: tăng dần liều tới tối ưu (telmisartan 80 mg), indapamide SR 1,5 mg. Khác nhau vì năm ban hành, đối tượng (QĐ 5904 viết cho trạm y tế xã). Kiểm kali, natri, creatinin sau 2–4 tuần."
+    },
+    {
+     "t": "Giữ nguyên hai thuốc thêm 2–4 tuần rồi đánh giá lại (chưa tăng bậc hôm nay)",
+     "v": "a",
+     "n": "ESC 2024 mục 8.5.1, Hình 18: đánh giá sau 1–3 tháng; VSH/VNHA 2024 Đ4.1: 1–3 tháng giữa các bước. Chấp nhận vì mới 4 tuần, nhưng HA nhà vẫn ≥ 135/85 và bà đang lo nên tăng bậc có lợi hơn."
+    },
+    {
+     "t": "Giải thích mục tiêu thực tế (không cần 120/80 'như sách'), thuốc dùng lâu dài, creatinin tăng 5% là dự kiến không phải thuốc hại thận",
+     "v": "c",
+     "n": "Mục tiêu ≥ 65 tuổi: QĐ 5904 Phần 1 Bước 5 mục A.2 (130 đến dưới 140); VSH/VNHA 2024 Bảng 4, AHA/ACC 2025 mục 5.2.7 (dưới 130/80); ESC 2024 Bảng khuyến cáo 18 (120–129); ESH 2023 mục 15.3 (dưới 140/80, dưới 130/80 nếu dung nạp). Duy trì thuốc lâu dài (QĐ 5904 mục A.6; ESC 2024 Bảng khuyến cáo 17). eGFR giảm dưới 30% là dự kiến (AHA/ACC 2025 mục 5.2.9)."
+    },
+    {
+     "t": "Hỏi ra số viên diazepam thật; không tăng, không ngưng đột ngột; lập kế hoạch giảm dần có giám sát; vệ sinh giấc ngủ (không xem điện thoại lúc 3 giờ sáng, bớt trà chiều)",
+     "v": "c",
+     "n": "AGS Beers 2023 Bảng 2 (tránh benzodiazepin ở ≥ 65 tuổi); Joint CPG Benzodiazepine Tapering 2025 Key takeaway 1d, 3, 5 (giảm dần, không ngưng đột ngột, 5–10% liều mỗi 2–4 tuần). Cách chia viên 5 mg, liệu pháp thay thế riêng cho bà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm muối thực sự ở bữa trưa một mình: bớt mắm, cá khô, dưa cà; không chấm thêm",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15 (I, A): natri khoảng 2 g/ngày, tương đương khoảng 5 g muối; QĐ 5904 Phần 1 mục D.1a. Món thay thế cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích phù mắt cá là tác dụng phụ amlodipin, không phải suy thận hay suy tim; giữ 5 mg",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục G: tác dụng phụ amlodipin có phù mắt cá chân; creatinin bình thường, phổi trong, không khó thở."
+    },
+    {
+     "t": "Hẹn tái khám 2–4 tuần mang sổ HA và hộp thuốc; kiểm kali, natri, creatinin sau tăng bậc; đo HA nhà hai lần mỗi ngày, không đo lặp khi hồi hộp",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ4.1 (tái khám mỗi 2–4 tuần trong 2–3 tháng đầu); AHA/ACC 2025 mục 5.2.8; QĐ 5904 Phần 1 Bước 2 mục 3 (theo dõi sát 1 tháng đầu khi đổi phác đồ)."
+    },
+    {
+     "t": "Chuyển tuyến hoặc nhập viện vì HA chưa đạt",
+     "v": "w",
+     "n": "QĐ 5904 Phần 1 Bước 4A mục 3: chuyển khi không đạt dù đủ ≥ 3 thuốc có lợi tiểu; bà mới 2 thuốc liều thấp. Không đủ tiêu chuẩn nhập viện (QĐ 5904 Phần 3 mục D.1)."
+    },
+    {
+     "t": "Thêm chẹn beta để 'đỡ hồi hộp' và hạ thêm HA",
+     "v": "w",
+     "n": "Chỉ khi có chỉ định bắt buộc (ESC 2024 Bảng khuyến cáo 16, I, A); QĐ 5904 Phần 3 mục G: tránh atenolol đầu tay ở người > 60 tuổi."
+    },
+    {
+     "t": "Cho thêm thuốc ngủ, tăng diazepam, hoặc ngưng diazepam ngay",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: benzodiazepin tăng nguy cơ ngã, lú lẫn ở ≥ 65 tuổi; Joint CPG 2025 Key takeaway 3: không ngưng đột ngột người có thể đã phụ thuộc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "THA nguyên phát đang điều trị, đáp ứng một phần sau 4 tuần: HA phòng khám 168/98 → 148/90 mmHg, HA nhà trung bình khoảng 144/88; chưa đạt mục tiêu",
+     "Tuân thủ tốt (quên 2 buổi); không hạ HA tư thế; K 4,3 mmol/L, creatinin 78 µmol/L (tăng khoảng 5%)",
+     "Yếu tố còn làm HA khó xuống: ăn mặn bữa trưa, mất ngủ, lo âu, đo HA lặp khi hồi hộp",
+     "Tác dụng phụ nhẹ: phù mắt cá do amlodipin; tự tăng diazepam lên một viên rưỡi 6–7 đêm trong 2 tuần",
+     "Nỗi lo mới: thuốc hại thận, phải uống cả đời, HA phải 120/80"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: tuân thủ (đếm viên); sổ HA nhà và máy đo; triệu chứng cũ; tác dụng phụ (phù, chóng mặt, ho); thuốc tự mua; giấc ngủ, số viên thuốc ngủ; bữa trưa; nỗi lo. Khám: HA hai tay, nằm–đứng, phù chân, tim phổi. CLS: creatinin, điện giải (QĐ 5904 Phần 1 Bước 2 mục 3; VSH/VNHA 2024 Đ4.1–4.3).",
+     "Đỡ một phần: HA phòng khám giảm khoảng 20/8 mmHg nhưng vẫn ≥ 140/90, HA nhà vẫn ≥ 135/85 (VSH/VNHA 2024 Đ1.1). Chưa kết luận thất bại vì tác dụng hạ áp tối đa cần thời gian, đánh giá 1–3 tháng (ESC 2024 mục 8.5.1); cũng không nên chờ mãi vì bà tuân thủ tốt, chưa đạt là đáng tăng bậc (ESC 2024 Hình 18).",
+     "Phân biệt: không áo choàng trắng (cả hai nơi đo đều cao); không kháng trị (mới 2 thuốc liều thấp: QĐ 5904 Phần 1 Bước 4A mục 3; ESC 2024 Bảng 10); không do quên thuốc; còn muối cao và mất ngủ kèm lo âu.",
+     "Creatinin tăng 5%, eGFR giảm dưới 30%, K 4,3: trong mức dự kiến khi dùng chẹn thụ thể, chỉ nghĩ ngưng khi eGFR giảm kéo dài trên 30% (AHA/ACC 2025 mục 5.2.8, 5.2.9). Đây là trả lời cụ thể cho nỗi lo 'thuốc hại thận'.",
+     "Diazepam: bà tự tăng vì lo HA và thức 3 giờ sáng, vòng lẩn quẩn lo – mất ngủ – tăng thuốc; đích vẫn là giảm dần, không ngưng đột ngột (AGS Beers 2023 Bảng 2; Joint CPG 2025 Key takeaway 1d, 3).",
+     "Mục tiêu '120/80': các nguồn khác nhau (QĐ 5904 Phần 1 Bước 5 mục A.2: tâm thu 130 đến dưới 140 cho ≥ 65 tuổi; VSH/VNHA 2024 Bảng 4, AHA/ACC 2025 mục 5.2.7: dưới 130/80; ESC 2024 Bảng khuyến cáo 18: 120–129; ESH 2023 mục 15.3: dưới 140/80). Không nguồn nào đặt 120/80 cho mọi người."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, tăng bậc thuốc, hẹn lại sớm. Không chuyển tuyến vì chưa đủ 3 thuốc, không nhập viện vì không dấu hiệu cấp cứu (QĐ 5904 Phần 1 Bước 4A mục 3; Phần 3 mục D.1).",
+     "Tăng bậc: ESC 2024 Bảng khuyến cáo 16 (I, B), Hình 18 chuyển sang 3 thuốc liều thấp (thêm lợi tiểu giống thiazid, ở đây indapamid SR 1,5 mg); QĐ 5904 Phần 1 Bước 5 mục C.4, C.6 và Phần 3 mục G tăng dần liều (telmisartan 80 mg). Hai cách đều đúng, khác ở năm, bối cảnh trạm y tế xã và ưu tiên phối hợp sớm. Không tăng amlodipin vì đang phù mắt cá. Nếu thêm indapamid hoặc tăng telmisartan thì đo lại kali, natri, creatinin sau 2–4 tuần (AHA/ACC 2025 mục 5.2.8).",
+     "Giải thích bằng số của bà: HA đã hạ khoảng 20/8 mmHg trong 4 tuần, uống đều là đúng hướng; dùng thuốc lâu dài (QĐ 5904 Phần 1 Bước 5 mục A.6; ESC 2024 Bảng khuyến cáo 17, I, A).",
+     "Diazepam: hỏi số viên thật; giữ 1 viên, không tăng, không ngưng đột ngột; bàn giảm 5–10% liều mỗi 2–4 tuần khi HA ổn (Joint CPG 2025 Key takeaway 5); không kê thêm thuốc ngủ (AGS Beers 2023 Bảng 2). Cách chia viên: không có trong tài liệu đã tải.",
+     "Đo HA nhà hai lần mỗi ngày đủ quy trình (QĐ 5904 Phụ lục 1.1; ESC 2024 Bảng khuyến cáo 35); muối khoảng 5 g/ngày (ESC 2024 Bảng khuyến cáo 15). Không dùng chẹn beta để 'đỡ hồi hộp' (ESC 2024 Bảng khuyến cáo 16)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Telmisartan",
+      "ham_luong": "40 mg hoặc 80 mg",
+      "lieu": "Cách A (ESC 2024): giữ 40 mg × 1 lần/ngày. Cách B (QĐ 5904): tăng lên 80 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng một giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Khởi đầu 40 mg, tối ưu 80 mg (QĐ 5904 Phần 3 mục G). Kali, creatinin 2–4 tuần sau khi tăng bậc (AHA/ACC 2025 mục 5.2.8). Cách A tăng bậc bằng thuốc thứ ba, cách B bằng tăng liều."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc với telmisartan",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "Giữ 5 mg, không tăng khi đang phù mắt cá (QĐ 5904 Phần 3 mục G: duy trì 5–10 mg; tác dụng phụ phù mắt cá chân)."
+     },
+     {
+      "thuoc": "Indapamid SR (chỉ kê nếu chọn cách A)",
+      "ham_luong": "1,5 mg",
+      "lieu": "1,5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng lúc với telmisartan",
+      "so_ngay": "Dùng lâu dài; đánh giá lại sau 2–4 tuần",
+      "ghi_chu": "Lợi tiểu giống thiazid; khởi đầu và duy trì 1,5 mg; tác dụng phụ rối loạn điện giải (QĐ 5904 Phần 3 mục G); ba thuốc: chẹn thụ thể, chẹn kênh canxi, lợi tiểu giống thiazid (ESC 2024 Bảng khuyến cáo 16, I, B). Cách B thì không kê."
+     },
+     {
+      "thuoc": "Diazepam (thuốc bà đang dùng, không kê thêm)",
+      "ham_luong": "5 mg",
+      "lieu": "Giữ 1 viên mỗi tối, không tăng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Chưa ngưng; giảm dần có giám sát",
+      "ghi_chu": "Giữ nguyên liều đang dùng; không ngưng đột ngột, giảm 5–10% liều mỗi 2–4 tuần khi HA ổn (Joint CPG Benzodiazepine Tapering 2025 Key takeaway 3, 5; AGS Beers 2023 Bảng 2)."
+     }
+    ],
+    "dan_do": [
+     "HA đã hạ khoảng 20/8 mmHg trong 4 tuần, đúng hướng; chưa tới mức mục tiêu nên cần tăng bậc, không phải vì bà uống sai (QĐ 5904 Phần 1 Bước 5 mục C.6; VSH/VNHA 2024 Đ4.1).",
+     "Thuốc huyết áp dùng lâu dài, không tự ngưng; creatinin tăng 5% là bình thường, không phải thuốc hại thận (QĐ 5904 Phần 1 mục D.2; AHA/ACC 2025 mục 5.2.9).",
+     "Bữa trưa bớt mắm, cá khô, dưa cà (món thay thế cụ thể: không có trong tài liệu đã tải); muối khoảng 5 g/ngày (ESC 2024 Bảng khuyến cáo 15); đi bộ nhanh ≥ 150 phút/tuần (QĐ 5904 Phần 1 mục D.1e).",
+     "Không tăng thuốc ngủ, không ngưng đột ngột; thức lúc 3 giờ sáng thì không cầm điện thoại xem HA; bớt trà đặc buổi chiều (AHA/ACC 2025 Bảng 11).",
+     "Phù chân nhẹ buổi chiều: báo nếu phù tăng; chóng mặt khi đứng dậy, té hoặc ho khan thì báo ngay (QĐ 5904 Phần 3 mục G).",
+     "Gọi 115 nếu đau thắt ngực, khó thở, đau đầu dữ dội, yếu tê một bên, nói khó (QĐ 5904 Phần 3 mục D.1). Hẹn tái khám 2–4 tuần mang sổ HA, hộp thuốc (VSH/VNHA 2024 Đ4.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: bà Lụa hiểu mình không bị nhồi máu cơ tim hôm nay, ngưng viên cảm co mạch, uống telmisartan và amlodipin đều; HA hạ 168/98 xuống 148/90 sau 4 tuần, rồi khi tăng bậc và bớt mắm, cá khô thì HA nhà về khoảng 128/78 sau khoảng 3 tháng, creatinin 80 µmol/L, K 4,2. Bà vẫn mất ngủ nhưng dùng đúng một viên diazepam mỗi tối và bắt đầu giảm dần có giám sát. Khỏi chậm hơn dự kiến vì 4 tuần đầu còn muối, mất ngủ, lo âu. (2) Xử trí ẩu (NEAR MISS): lượt 1 chỉ trấn an 'do cảm' hoặc chuyển CT mà không xử trí HA và thuốc cảm, thuốc ngủ; HA vẫn trên 150/90 nhiều tháng, bà tự tăng thuốc ngủ khi lo. May bà chưa có biến cố trong thời gian ngắn, nhưng nguy cơ tim mạch tăng dần (ESC 2024 Bảng khuyến cáo 17) và nguy cơ ngã, lú lẫn do benzodiazepin còn (AGS Beers 2023 Bảng 2). Kết cục tốt không hợp thức hóa quy trình sai.",
+ "nhieu": [
+  "Số 170/100 đo ở tiệm thuốc lúc đang dùng viên cảm co mạch, mất ngủ: không dùng một số đo để phân độ; may có số đo cũ 148/90, 156/94 trước đợt cảm nên vẫn chẩn đoán được THA (QĐ 5904 Phần 1 Bước 3A; ESC 2024 Bảng khuyến cáo 6).",
+  "Nhói ngực trái vài giây + HA 170 + hồi hộp: dễ nghĩ nhồi máu cơ tim hoặc cơn THA cấp cứu; ECG, hs-troponin bình thường, HA dưới 180/110, không tổn thương cơ quan đích cấp.",
+  "Tự tra 'nhồi máu thầm lặng, phải CT mạch vành': bà đúng ở chỗ HA cao tăng nguy cơ tim mạch, sai ở chẩn đoán và nhu cầu CT; cơ sở không có CT.",
+  "THA không điển hình: không đau đầu, chóng mặt; chỉ hồi hộp, mệt, mất ngủ, nhói ngực; dễ gán cho lo âu hay cảm cúm.",
+  "Lượt 2: HA nhà đo lặp khi hồi hộp thường 150–156/92 trong khi trung bình 144/88; tự tăng diazepam; ăn mặn bữa trưa một mình, không lộ nếu chỉ hỏi chung."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi thuốc tự mua cụ thể (thuốc cảm, thuốc nghẹt mũi, thuốc ngủ) chứ không chỉ 'đang uống thuốc gì'.",
+  "THA ở người cao tuổi không điển hình; nghi tim thì làm ECG, hs-troponin đúng cách, đồng thời vẫn điều trị THA.",
+  "Đối diện chẩn đoán tự tra: nghe, công nhận phần đúng, dùng điện tim và xét nghiệm của chính người bệnh để trả lời; hỏi nỗi lo thật.",
+  "Đỡ một phần ở tuần 4 không đồng nghĩa thất bại: kiểm tuân thủ, cách đo HA nhà, muối, giấc ngủ; rồi tăng bậc, không chuyển tuyến khi chưa đủ 3 thuốc.",
+  "Benzodiazepin ở người ≥ 65 tuổi: không ngưng đột ngột, không tăng, không kê thêm; bàn giảm dần có giám sát."
+ ],
+ "diem_nho": [
+  "THA độ 1: 140–159/90–99; độ 2: 160–179/100–109; độ 3: ≥ 180/≥ 110; chọn mức cao hơn khi tâm thu, tâm trương khác độ (QĐ 5904 Phần 1 Bước 3A).",
+  "Thuốc co mạch mũi làm tăng HA: dùng ngắn nhất, tránh khi HA chưa kiểm soát, thay bằng nước muối, corticoid xịt mũi (AHA/ACC 2025 Bảng 11; ESH 2023 Bảng 20).",
+  "Mục tiêu HA ≥ 65 tuổi, không ĐTĐ: ghi cả QĐ 5904 (130 đến dưới 140), VSH/VNHA 2024 và AHA/ACC 2025 (dưới 130/80), ESC 2024 (120–129), ESH 2023 (dưới 140/80).",
+  "Chưa đạt với 2 thuốc liều thấp: ESC 2024 thêm thuốc thứ ba trước khi tăng liều; QĐ 5904 tăng dần liều; chỉ chuyển tuyến khi không đạt dù đủ ≥ 3 thuốc có lợi tiểu (Phần 1 Bước 4A mục 3).",
+  "Benzodiazepin ≥ 65 tuổi: tránh (AGS Beers 2023 Bảng 2), giảm 5–10% liều mỗi 2–4 tuần, không ngưng đột ngột (Joint CPG Benzodiazepine Tapering 2025)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 1–5; Phụ lục 1.1); Phần 3 (mục D.1, G).",
+  "VSH/VNHA 2024 – Chiến lược quản lý THA tại Việt Nam – TL-0288 – Bảng 4, 8, 11; Đ1.1, Đ2.4, Đ4.1.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – Bảng khuyến cáo 6, 8, 13, 15–18, 35; Bảng 8–10; Hình 18; mục 8.3.4, 8.5.1, 10.1.1.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – Bảng 20; mục 11.10.11.1, 15.3.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – mục 2.1, 3.2.3.1, 5.2.7–5.2.9, 6.2; Bảng 11.",
+  "2025 ACC/AHA Guideline for Acute Coronary Syndromes – TL-0050 – mục 3.1.1, 3.1.2.",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2. Joint CPG on Benzodiazepine Tapering 2025 – TL-0575 – Key takeaway 1d, 3, 5.",
+  "CHEST 2020, ho cấp do viêm phế quản cấp – TL-0151 – khuyến cáo 3. 2026 ACC/AHA Dyslipidemia – TL-0292 – mục 4.2.3.7 (qua sổ)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-27. Đã đọc: TL-0284 (Phần 1 Bước 1–5, Phụ lục 1.1; Phần 3 mục D.1, G), TL-0288 (Bảng 4, 8, 11; Đ1.1, Đ2.4, Đ4.1), TL-0305 (Bảng khuyến cáo 6, 8, 13, 15–18, 35; Bảng 8–10; Hình 18; mục 8.3.4, 8.5.1, 10.1.1), TL-0312 (Bảng 20), TL-0297 (Bảng 11; mục 5.2.7–5.2.9), TL-0050 (mục 3.1.1–3.1.2), TL-0022 (Bảng 2), TL-0575, TL-0151.",
+  "Mâu thuẫn áp theo sổ: mục tiêu HA ≥ 65 tuổi không ĐTĐ (MT-0042, MT-0200); ngưỡng cấp cứu THA; xác nhận hay khởi thuốc ngay (MT-0045); TSH, aldosteron, statin (a); chẹn beta (w); benzodiazepin ≥ 65 tuổi (TT-0161); thuốc co mạch mũi; tăng bậc khi chưa đạt (MT-0049).",
+  "Thiếu tài liệu đã tải: thành phần viên cảm bà dùng; biểu đồ SCORE và sơ đồ phác đồ QĐ 5904 (hình); cách chia viên diazepam 5 mg; số lần rửa mũi mỗi ngày; chỉ định CT mạch vành ở người THA không đau thắt ngực; món thay thế mắm, cá khô; viên phối hợp cố định tại Việt Nam."
+ ]
+}

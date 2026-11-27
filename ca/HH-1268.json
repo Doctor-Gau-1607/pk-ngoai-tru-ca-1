@@ -1,0 +1,573 @@
+{
+ "ma_ca": "HH-1268",
+ "phien_ban_kho": "0.3",
+ "benh": "HH_covid_19",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COVID-19",
+  "chan_doan_phai_loai_tru": [
+   "Cúm mùa",
+   "Viêm phổi vi khuẩn"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt corticoid",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Gia Huy",
+  "tuoi": 0.67,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.6,
+  "chieu_cao": 70,
+  "xung_ho": "Bé trai 8 tháng (ở nhà gọi là bé Su), chưa nói được, chỉ ê a, khóc khi bị khám, bám mẹ. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'con' hoặc 'bé Su'.",
+  "tinh_cach": "Mẹ 30 tuổi, nhân viên ngân hàng, cẩn thận, hay ghi chép, mang theo cả túi hồ sơ của ba nơi đã khám. Đêm qua mẹ gần như không ngủ nên mệt, hơi bực, nói nhanh, hay hỏi vặn 'bác sĩ có chắc không'. Bé nóng, quấy nhẹ, bám mẹ, cười được khi chơi sau khi hạ sốt.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mẹ mất niềm tin, mở đầu bằng 'đi ba chỗ rồi mà con vẫn sốt, mỗi chỗ nói một kiểu' và xin 'khám tổng quát cho chắc: thử máu, chụp phổi hết'. Nếu bác sĩ vội, chê đồng nghiệp, hay kê thêm thuốc không giải thích thì mẹ khoanh tay, nói 'để em đi chỗ khác'. Khi bác sĩ nghe hết, tóm tắt lại ba nơi bằng lời trung tính và giải thích từng việc đổi gì thì mẹ dịu lại. Mẹ không tự kể chuyện ba bé dương tính (nghĩ bé 'trúng gió, đổi trời'), không tự đưa phiếu xét nghiệm đêm qua (nghĩ 'xét nghiệm rồi, bác sĩ nói bình thường'), và không biết hai thuốc hạ sốt trùng nhau cho tới khi được hỏi giờ giấc, liều từng lần.",
+  "nguoi_nha": "Mẹ bé, chị Đặng Thị Vân, 30 tuổi, bế bé đi khám một mình (ba bé đang cách ly trong phòng riêng ở nhà). Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ê a.",
+  "ten_nguoi_nha": "Mẹ bé (chị Vân)",
+  "ngoai_hinh": {
+   "da": "#f3cba8",
+   "toc": "#1f1712",
+   "kieuToc": "tre",
+   "ao": "#e8b4c8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e9b895",
+    "toc": "#1c1411",
+    "kieuToc": "dai",
+    "ao": "#6f8fb5",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt bốn ngày, ho, sổ mũi; đã khám ba nơi chưa khỏi, mẹ xin khám tổng quát",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tư nhân chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, sinh hóa nền, nước tiểu) và test nhanh kháng nguyên; không có X-quang, siêu âm, CT, nội soi; RT-PCR phải gửi mẫu đi nơi khác, có kết quả sau vài giờ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Thứ Sáu, 14 giờ, mẹ bế bé Gia Huy, 8 tháng, 8,6 kg, đến phòng khám tư nhân (có xét nghiệm cơ bản và test nhanh; không có X-quang, siêu âm). Bé ho, sổ mũi từ thứ Hai, sốt từ thứ Ba (hôm nay là ngày sốt thứ 4), đã khám ba nơi mà chưa hết. Sinh hiệu: nhiệt 38,4 °C (đo nách), mạch 140 l/p, nhịp thở 44 l/p, SpO₂ 97%. Bé tỉnh, hay quấy, thở khịt khịt vì nghẹt mũi.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Huy nhập viện nhi vì 'sốt bốn ngày, đã khám ba nơi' là quá tay: bé tỉnh, cười được, bú còn bốn phần năm, thở 44 l/p, SpO₂ 97%, mao mạch dưới 2 giây nên thuộc nhóm xanh mức nhẹ (QĐ 2671 mục 5.2.1, 8.1.2; NICE NG143 mục 1.2.7, 1.4.5). Remdesivir nội trú chỉ dành cho mức nhẹ có yếu tố nguy cơ (QĐ 2671 Bảng 7) mà bé không có. Nằm giữa nhiều trẻ bệnh, mẹ nghỉ làm, ba đang cách ly ở nhà, còn mẹ thêm một nơi 'cho thuốc mà không giải thích', niềm tin lại sứt thêm; cái cần là giải thích bằng tiêu chí, ngưng thuốc thừa và dặn dấu nặng.",
+    "chuyen_tuyen": "Chuyển bé Huy lên bệnh viện nhi tỉnh 'để chụp phổi, thử máu tổng quát' như mẹ xin là không cần: bé không thở nhanh, không rút lõm, phổi không ran, đã có công thức máu và CRP bình thường đêm qua; trẻ nhóm xanh không xét nghiệm máu hay chụp phổi thường quy (NICE NG143 mục 1.4.6, 1.5.12). Mẹ mất thêm một ngày, bé ngồi chờ ở nơi đông bệnh nhân lúc còn đang trong thời gian lây (QĐ 2671 mục 7.1), kết quả dự kiến không đổi cách xử trí, và ba toa thuốc thừa vẫn chưa ai ngưng. Việc cần làm ngay tại phòng khám là ngưng cefixime, thuốc ho, thuốc nhỏ mắt corticoid, gộp thuốc hạ sốt và hẹn tái khám có mốc."
+   },
+   "loi_mo": "Bác sĩ ơi, em đưa con đi ba chỗ rồi mà bé vẫn sốt, mỗi chỗ nói một kiểu. Bác sĩ khám tổng quát cho con em giúp, thử máu, chụp phổi hết cho chắc nha.",
+   "sinh_hieu": {
+    "mach": 140,
+    "ha": "Không đo",
+    "nhiet": "38,4",
+    "nhip_tho": 44,
+    "spo2": 97,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé ho, sổ mũi từ thứ Hai, sốt từ thứ Ba, nay là thứ Sáu (ngày sốt thứ 4). Mẹ đã đưa đi ba nơi mà bé vẫn sốt, nên xin khám tổng quát cho chắc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Thứ Hai bé ho khan, sổ mũi trong, quấy; thứ Ba bắt đầu sốt 38,5 °C, đêm thứ Tư lên 39 °C. Sốt lên từng cơn, uống paracetamol thì hạ còn khoảng 37,8 °C, bé chơi và cười được; sáng nay sốt lại 38,4 °C. Không co giật, không rùng mình, không nổi ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sốt, ban, co giật; sốt có hạ khi dùng thuốc"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Ho khan, thưa; nghẹt mũi làm bé thở khịt khịt, hay phải há miệng. Không khò khè, không thở rên, không lõm ngực, không tím môi, không ngưng thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, thở nhanh, rút lõm, tím tái"
+    },
+    {
+     "id": "bu_tieu",
+     "noi_dung": "Bú mẹ còn khoảng bốn phần năm lượng thường ngày, vẫn đòi bú đủ cữ nhưng ngắt quãng vì nghẹt mũi; ăn dặm bỏ nửa chén cháo. Không nôn, không tiêu chảy; tã ướt như mọi ngày, lần gần nhất cách đây khoảng 2 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tiểu, dấu hiệu mất nước"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không co giật, không li bì; bé thức dễ, khóc to bình thường, không bỏ bú hẳn, không nôn hết mọi thứ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân"
+    },
+    {
+     "id": "mat",
+     "noi_dung": "Từ sáng thứ Tư mắt hai bên hơi đỏ, có ghèn trắng ở khóe mắt, bé dụi mắt. Mắt đã bớt đỏ từ hôm qua. Không phù mi, không có mủ vàng, bé không sợ ánh sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỏ mắt, ghèn (viêm kết mạc kèm theo)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Ba bé ho, đau họng từ thứ Hai tuần trước; thứ Tư tuần trước (18/11) tự thử test nhanh ở nhà ra hai vạch (dương tính), từ đó ở phòng riêng. Hai ngày đầu ba vẫn bế bé mỗi ngày một, hai lần và chưa đeo khẩu trang. Mẹ đau họng nhẹ từ thứ Tư, chưa thử test. Nhà còn ông bà nội ở quê, không ở chung.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ nghĩ bé 'trúng gió, đổi trời' nên không tự kể. Chỉ nói khi bác sĩ hỏi người trong nhà có ai ốm, có ai ho sốt, có tiếp xúc người bệnh hay thử COVID chưa.",
+     "k": 1,
+     "y": "Yếu tố dịch tễ: ba dương tính, bé tiếp xúc gần"
+    },
+    {
+     "id": "phieu_noi3",
+     "noi_dung": "Đêm thứ Năm (khoảng 22 giờ), mẹ đưa bé vào phòng cấp cứu bệnh viện quận. Họ làm công thức máu, CRP và test nhanh: SARS-CoV-2 dương tính, cúm A/B âm tính. Công thức máu: BC 9,6 G/L, Neutrophil 33%, Lympho 58%, Hb 112 g/L, TC 305 G/L; CRP 4 mg/L. Bác sĩ nói miệng 'bé bị COVID nhẹ, về nhà theo dõi, thở mệt thì quay lại', không kê thêm thuốc. Phiếu kết quả mẹ chụp ảnh lưu trong điện thoại và để trong túi hồ sơ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự đưa phiếu vì nghĩ 'xét nghiệm rồi, bác sĩ nói bình thường'. Chỉ nói khi bác sĩ hỏi bé đã làm xét nghiệm gì chưa, đã thử COVID hay cúm chưa, đêm qua ở bệnh viện làm gì, có giấy kết quả không.",
+     "k": 1,
+     "y": "Kết quả xét nghiệm đã làm ở nơi thứ ba"
+    },
+    {
+     "id": "toa_thuoc",
+     "noi_dung": "Nơi 1 (thứ Ba tối, phòng khám đa khoa gần nhà, chẩn đoán 'viêm họng cấp'): cefixime siro, paracetamol gói 80 mg, nước muối. Nơi 2 (thứ Tư chiều, phòng khám nhi tư, chẩn đoán 'viêm phế quản, viêm kết mạc, nghe phổi hơi thô'): siro ambroxol, thuốc nhỏ mắt tobramycin–dexamethasone 4 lần/ngày, paracetamol siro 120 mg/5 mL, dặn 'uống tiếp cefixime'. Nơi 3: không kê gì thêm. Mẹ đã cho uống cefixime 6 lần từ thứ Ba tối, ambroxol 4 lần, nhỏ mắt khoảng 8 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc từ ba nơi: kháng sinh, thuốc ho, thuốc nhỏ mắt corticoid"
+    },
+    {
+     "id": "paracetamol_tong",
+     "noi_dung": "Hôm qua (thứ Năm) mẹ cho paracetamol 6 lần mỗi khi sờ nóng: 3 gói 80 mg của nơi 1 và 3 lần siro 4 mL (96 mg) của nơi 2, có hai lần cách nhau chỉ 3 giờ; tổng 528 mg. Sáng nay 9 giờ cho thêm 4 mL siro. Mẹ không biết hai thứ đó đều là paracetamol, nghĩ 'một thuốc hạ sốt, một thuốc giảm đau'. Bé tỉnh, không nôn, không vàng da.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'cho thuốc hạ sốt mấy lần, giờ nào, liều bao nhiêu mỗi lần' thì mẹ kể từng toa riêng. Chỉ nhận ra hai thuốc trùng nhau khi bác sĩ yêu cầu xem tên hoạt chất trên vỏ thuốc hoặc hỏi tổng số lần trong ngày.",
+     "k": 1,
+     "y": "Tổng liều paracetamol 24 giờ từ hai toa"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng 3,3 kg, bú mẹ kèm sữa công thức, ăn dặm từ 6 tháng. Không bệnh tim, phổi, không hen, chưa nằm viện, không dị ứng thuốc. Tiêm chủng đủ theo lịch tới nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, yếu tố nguy cơ nặng, tiêm chủng"
+    },
+    {
+     "id": "thoi_tiet",
+     "noi_dung": "Chủ nhật trời trở lạnh đột ngột, bà nội dặn mẹ mặc cho bé ba lớp áo và đóng kín cửa. Mẹ tin bé 'trúng gió, đổi trời' mới sốt, nên mấy ngày nay ủ bé khá kín.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Khởi phát: thay đổi thời tiết, ủ quá kín"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Mẹ thấy ba nơi nói ba kiểu (viêm họng, viêm phế quản kèm viêm kết mạc, COVID nhẹ) và kê ba toa khác nhau; nơi thứ hai nói 'phổi hơi thô, nếu còn sốt thì chụp phổi'. Mẹ mất niềm tin và sợ bé bị viêm phổi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Từng khám 3 nơi không khỏi"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ muốn 'khám tổng quát' vì sợ bé đã viêm phổi như lời nơi thứ hai, và vì thứ Hai mẹ phải đi làm lại nên muốn có kết luận rõ ràng ai chăm bé, bé cần kiêng gì; mẹ còn day dứt vì ba đã bế bé khi đang bệnh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ nói khi bác sĩ hỏi nhẹ nhàng 'chị đang lo nhất điều gì' hoặc 'chị muốn biết điều gì sau buổi khám này'.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: muốn kiểm tra tổng quát, day dứt, lo công việc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, nhìn theo người, cười khi mẹ chơi sau khi hết sốt, khóc to khỏe. Da môi hồng, niêm mạc ẩm, mắt không trũng, có nước mắt khi khóc, thóp trước phẳng. Thời gian đổ đầy mao mạch dưới 2 giây. Cân nặng 8,6 kg. Nhóm nguy cơ thấp (xanh) theo NICE NG143 mục 1.2.7; bú giảm nhẹ là dấu cần dặn theo dõi (mục 1.2.6).",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm, không cứng gáy. Vài hạch cổ nhỏ, di động, không đau.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Mũi có dịch trong, niêm mạc phù nhẹ. Họng hơi đỏ, không có mảng, không loét. Màng nhĩ hai bên hồng nhạt, không phồng, di động.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt đỏ nhẹ, ghèn trắng ít ở khóe mắt, không mủ vàng, mi không phù, bé nhìn theo đồ chơi. Môi không nứt, mắt không đỏ rực.",
+     "k": 1,
+     "hien": "Hai mắt đỏ nhẹ, ghèn trắng ít."
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p, đều, không phập phồng cánh mũi, không rút lõm lồng ngực, không thở rên. Trước khi hút mũi nghe thấy ran ngáy truyền từ mũi họng ở vùng giữa ngực; sau khi hút mũi âm này mất, rì rào phế nang êm hai bên, không ran ẩm, không ran nổ, không khò khè. Đó là âm thô truyền từ đường hô hấp trên (có thể là điều nơi thứ hai gọi là 'phổi thô'), không phải tổn thương phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 44 l/p, đều. Không rút lõm lồng ngực, không thở rên.",
+     "media": [
+      {
+       "vi_tri": "Giữa ngực, trước khi hút mũi",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy truyền từ mũi họng, mất sau khi hút mũi."
+      },
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau), sau khi hút mũi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 140 l/p, T1 T2 rõ, không âm thổi; dưới ngưỡng nhịp nhanh 160 lần/phút của trẻ dưới 12 tháng (NICE NG143 mục 1.2.15, Bảng 1).",
+     "k": 0,
+     "hien": "Tim đều, tần số 140 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không chướng.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, ấm; không ban, không chấm xuất huyết, ấn không nhạt màu thì không có. Môi không nứt, lưỡi không đỏ, lòng bàn tay bàn chân không phù đỏ.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú đúng, bú ngắt quãng sau mỗi 2–3 phút vì nghẹt mũi, nuốt đều, không sặc, không thở nhanh hay thở rên khi bú; sau khi hút mũi bú liền được khoảng 8 phút. Mẹ có sữa.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 8,6 kg, chiều dài 70 cm, tăng trưởng phù hợp tuổi (cân lúc sinh 3,3 kg).",
+     "k": 0
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "a",
+     "ab": 1,
+     "r": "Test nhanh kháng nguyên: SARS-CoV-2 dương tính. Cúm A, cúm B: âm tính.",
+     "n": "Chấp nhận, không bắt buộc (200.000 đồng). Nếu chưa biết có phiếu đêm qua thì đây là xét nghiệm đổi hướng xử trí: kháng nguyên dương kèm triệu chứng là ca xác định (QĐ 2671 mục 2.2b), phân biệt cúm (QĐ 1840 mục II.2.4.3). Nếu mẹ đã đưa phiếu nơi thứ ba (cùng kết quả, 16 giờ trước) thì không cần làm lại: kháng nguyên kém nhạy hơn PCR (QĐ 2671 mục 4.8.2b), chỉ làm lại khi âm tính mà vẫn nghi (WHO 2023 mục 3.5 Remark 4)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "BC 9,6 G/L · Neutrophil 33% · Lympho 58% · Hb 112 g/L · TC 305 G/L",
+     "n": "Không cần làm lại (50.000 đồng): đã làm đêm qua và bình thường; nhóm xanh không xét nghiệm máu thường quy (NICE NG143 mục 1.5.12); COVID-19 mức nhẹ không cần bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1a, 6.8.2). Khoảng tham chiếu công thức máu nhũ nhi: không có trong tài liệu đã tải nên ca ghi bằng chữ."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 4 mg/L",
+     "bang": {
+      "crp": 4
+     },
+     "n": "Không cần làm lại (80.000 đồng), như công thức máu (NICE NG143 mục 1.5.12). Ngưỡng CRP để quyết kháng sinh của NICE NG237 viết cho người trên 16 tuổi; ngưỡng cho nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "pcr_ho_hap": {
+     "v": "n",
+     "r": "SARS-CoV-2 dương tính; cúm A/B và RSV âm tính.",
+     "n": "Không cần (750.000 đồng, gửi mẫu đi nơi khác, kết quả sau nhiều giờ): kháng nguyên dương kèm triệu chứng đã là ca xác định (QĐ 2671 mục 2.2b), PCR không đổi xử trí. Chỉ nghĩ tới khi kháng nguyên âm mà vẫn nghi (WHO 2023 mục 3.5 Remark 4)."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 34 U/L · ALT 21 U/L",
+     "n": "Chấp nhận, không bắt buộc: hôm qua bé nhận khoảng 61 mg/kg paracetamol (528 mg/8,6 kg), trên trần 60 mg/kg/24 giờ của QĐ 708 nhưng rải 6 lần và rất xa ngưỡng ≥ 150 mg/kg cần nghĩ tới giải độc (WHO Pocket Book 2013 tr. 31); bé tỉnh, không nôn, không vàng da, đã ngưng thuốc thừa nên không bắt buộc. Ngưỡng men gan nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "paracetamol_mau": {
+     "v": "n",
+     "r": "Không phát hiện ở mức đáng kể.",
+     "n": "Không cần: liều 61 mg/kg/24 giờ rải 6 lần, thấp hơn nhiều ngưỡng nghĩ tới giải độc ≥ 150 mg/kg (WHO Pocket Book 2013 tr. 31); bé không có triệu chứng ngộ độc."
+    },
+    "ns1": {
+     "v": "a",
+     "r": "NS1 âm tính.",
+     "n": "Chấp nhận, không bắt buộc: WHO 2023 mục 3.6 Remark 1 (tr. 36) nói nơi có bệnh sốt lưu hành thì người sốt cần được thử bệnh đó và đồng nhiễm có thể xảy ra; ở ca này sốt có nguồn hô hấp rõ, kháng nguyên SARS-CoV-2 dương, đang mùa lạnh, khu phố không có ca sốt xuất huyết (dữ kiện ca) nên chưa cần. Làm khi sốt kéo dài hay thêm dấu gợi ý."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Cơ sở không có X-quang.",
+     "n": "Cơ sở không có X-quang và cũng không có chỉ định: trẻ nghi viêm phổi không nhập viện thì không chụp thường quy (NICE NG143 mục 1.4.6); nhóm xanh không chụp thường quy (mục 1.5.12); mức nhẹ không cần hình ảnh để quyết định (QĐ 2671 mục 5.2.1)."
+    },
+    "sa_phoi": {
+     "v": "n",
+     "r": "Cơ sở không có siêu âm.",
+     "n": "Cơ sở không có siêu âm; chưa có chỉ định vì bé không thở nhanh, không rút lõm, phổi không ran, SpO₂ 97% (WHO Pocket Book 2013 Bảng 7 tr. 81). Siêu âm phổi là công cụ để dành khi bé nặng lên, thay cho X-quang (QĐ 2671 mục 5.2.2b)."
+    },
+    "ua": {
+     "v": "n",
+     "n": "Chưa cần: đã có nguồn sốt rõ (hô hấp trên, kháng nguyên dương); thử nước tiểu khi bé sốt không rõ nguồn (NICE NG143 mục 1.2.23, 1.4.7)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 mức nhẹ ở nhũ nhi 8 tháng (ca xác định), ngày bệnh thứ 5, nguy cơ thấp (nhóm xanh), không dấu hiệu nguy hiểm, kèm viêm kết mạc nhẹ; đã bị điều trị thừa ở ba nơi",
+     "ok": 1,
+     "n": "Ca xác định: triệu chứng (sốt, ho, sổ mũi, nghẹt mũi, bú giảm) cộng kháng nguyên SARS-CoV-2 dương (QĐ 2671 mục 2.2b); yếu tố dịch tễ: ba dương tính, bé tiếp xúc gần (mục 2.1), ủ bệnh 2–14 ngày, trung bình 5–7 ngày (mục 3.1). Mức nhẹ: không viêm phổi, không khó thở, không giảm oxy (mục 5.2.1); thở 44 < 50 l/p, SpO₂ 97%, không rút lõm, không rên (mục 8.1.2; WHO 2023 Bảng 6.3 tr. 30). Viêm kết mạc ở trẻ em có trong biểu hiện COVID-19 (mục 3.2.9)."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Test nhanh cúm A/B âm tính (phiếu nơi thứ ba). Triệu chứng ở trẻ giống COVID-19 (QĐ 1840 mục II.1.1) nên cần test; test nhanh không loại hẳn, nếu bé nặng lên hoặc không đỡ thì xét nghiệm lại (QĐ 1840 mục II.2.4.3). Nếu cúm dương thì trẻ dưới 5 tuổi là yếu tố nguy cơ nên mới cần oseltamivir (QĐ 1840 mục II.2.3); bé âm tính nên không dùng."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn",
+     "n": "Thở 44 l/p dưới ngưỡng thở nhanh ≥ 50 l/p ở 2–11 tháng (WHO Pocket Book 2013 Bảng 7 tr. 81; QĐ 2671 mục 8.1.2) và > 50 l/p ở 6–12 tháng (NICE NG143 mục 1.2.22); không rút lõm, không rên, phổi không ran, SpO₂ 97% trên mốc ≤ 95% của NICE. Sốt 38,4 °C dưới 39 °C (NICE NG9 mục 1.1.6). CRP 4 mg/L đêm qua. 'Phổi thô' của nơi thứ hai là ran ngáy truyền từ mũi, mất sau hút mũi."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Chưa đủ: chưa thở nhanh hay rút lõm, không khò khè hay ran (NICE NG9 mục 1.1.3). Bé 8 tháng vẫn trong tuổi hay gặp (mục 1.1.1) nên vẫn dặn dấu nặng và theo dõi."
+    },
+    {
+     "t": "Bệnh Kawasaki / hội chứng viêm đa hệ thống ở trẻ em (MIS-C)",
+     "n": "Sốt mới 4 ngày (NICE NG143 mục 1.2.14, 1.2.25: nghĩ tới Kawasaki khi sốt từ 5 ngày); kết mạc có ghèn, không phải đỏ hai bên không tiết; không ban, môi không nứt, tay chân không phù, không hạch cổ to. MIS-C (WHO 2023 Bảng 6.3 tr. 30–31) cần sốt ≥ 3 ngày cộng ≥ 2 dấu và chỉ điểm viêm tăng: bé chỉ có một dấu mơ hồ, CRP 4 mg/L. Dặn quay lại nếu sốt tới ngày thứ 5."
+    },
+    {
+     "t": "Viêm kết mạc vi khuẩn cần kháng sinh kèm corticoid nhỏ mắt",
+     "n": "Ghèn trắng ít, không mủ, mi không phù, mắt đã bớt đỏ; xuất hiện cùng đợt sốt hô hấp có kháng nguyên dương nên nghĩ biểu hiện mắt của virus (QĐ 2671 mục 3.2.9). Tránh dùng bừa kháng sinh hay corticoid nhỏ mắt: virus không đáp ứng kháng sinh, corticoid có thể kéo dài nhiễm adenovirus (AAO Conjunctivitis PPP 2018, Treatment); QĐ 40/2015 (Viêm kết mạc cấp mục 4b) ghi 'thận trọng khi dùng corticoid'."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xếp COVID-19 mức nhẹ, chăm sóc và theo dõi tại nhà, không nhập viện, không chuyển tuyến",
+     "v": "c",
+     "n": "Mức nhẹ, nhóm xanh: tỉnh, thở 44 < 50 l/p, SpO₂ 97%, bú còn bốn phần năm (QĐ 2671 mục 5.2.1, 8.1.2, Bảng 4; NICE NG143 mục 1.2.7, 1.4.5). WHO 2023 mục 3.6 (tr. 36) cho quyết định theo từng ca; remdesivir nội trú chỉ cho mức nhẹ có yếu tố nguy cơ (QĐ 2671 Bảng 7), bé không có yếu tố nào (Bảng 5; WHO 2023 Bảng 6.2 tr. 29)."
+    },
+    {
+     "t": "Không kê kháng virus (nirmatrelvir/ritonavir, molnupiravir), không corticoid toàn thân",
+     "v": "c",
+     "n": "QĐ 2671 Bảng 7: nirmatrelvir/ritonavir từ 12 tuổi và ≥ 40 kg, molnupiravir từ 18 tuổi; Bảng 6: corticoid chỉ cho mức nặng, nguy kịch. Liều kháng virus cho nhũ nhi nhẹ ngoại trú: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng cefixime; không kê kháng sinh; giải thích COVID-19 do virus, không có bằng chứng nhiễm khuẩn",
+     "v": "c",
+     "n": "Mức nhẹ không dùng kháng sinh (QĐ 2671 mục 6.8.1a; WHO 2023 mục 3.6; WHO Pocket Book 2013 mục 4.4 tr. 90). Nơi thứ hai ghi 'viêm phế quản': kháng sinh không khuyến cáo cho viêm phế quản cấp (WHO AWaRe 2022 mục 4, Bảng 4.2 tr. 35). Đã dùng 6 liều không có phản ứng, ngưng ngay vì không có chỉ định."
+    },
+    {
+     "t": "Ngưng siro ambroxol, không dùng thuốc ho, long đờm, thuốc nhỏ mũi có hoạt chất",
+     "v": "c",
+     "n": "WHO Pocket Book 2013 mục 4.4 (tr. 90–91): ho, cảm lạnh không dùng thuốc ho codein, atropin, long đờm, thuốc nhỏ mũi có hoạt chất. Ambroxol là thuốc long đờm: tài liệu đã tải không có bằng chứng lợi ích cho nhũ nhi."
+    },
+    {
+     "t": "Thuốc nhỏ mắt tobramycin–dexamethasone: ngưng hẳn (mới dùng khoảng 8 lần), hoặc giảm dần theo hướng dẫn nhãn khoa; lau ghèn bằng nước muối sinh lý, khám mắt lại nếu còn đỏ sau 2–3 tuần",
+     "v": "c",
+     "n": "Tránh dùng bừa kháng sinh, corticoid nhỏ mắt khi nghi viêm kết mạc virus; thuốc phối hợp không có chỉ định trong viêm kết mạc cấp (AAO Conjunctivitis PPP 2018, Treatment; phần Adenoviral: dùng kéo dài thì giảm dần, đo nhãn áp); QĐ 40/2015 Viêm kết mạc cấp mục 4b (rửa mắt NaCl 0,9%, thận trọng corticoid). Theo mục sổ HH-0685: ngưng hẳn hoặc giảm dần dưới hướng dẫn nhãn khoa đều đúng; AAO: không dùng corticoid thì hẹn lại nếu còn đỏ mắt sau 2–3 tuần."
+    },
+    {
+     "t": "Chỉ dùng MỘT chế phẩm paracetamol (siro 120 mg/5 mL), 10–15 mg/kg/lần (8,6 kg: 86–129 mg, chọn 4 mL ≈ 96 mg), cách ≥ 6 giờ, không quá 4 lần và 60 mg/kg/24 giờ (≈ 516 mg), chỉ khi bé khó chịu; bỏ gói 80 mg",
+     "v": "c",
+     "n": "Liều 10–15 mg/kg mỗi 6 giờ, nhóm 6–< 10 kg: 100 mg (WHO AWaRe 2022 Bảng 4.2 tr. 35); WHO Pocket Book 2013 Annex 2 ghi tối đa 6 lần/ngày, còn QĐ 708/2015 (Viêm màng não mủ mục 4.2) và QĐ 3312/2015 (Co giật do sốt mục 4.1) ghi ≤ 60 mg/kg/24 giờ: ca theo mức 60 mg/kg thận trọng hơn. Chỉ khi bé khó chịu, không chỉ để hạ số nhiệt độ (NICE NG143 mục 1.6.4–1.6.6). Hôm qua 528 mg ≈ 61 mg/kg do hai toa trùng hoạt chất."
+    },
+    {
+     "t": "Không lau người bằng nước ấm, không ủ quá kín; cho bú mẹ nhiều cữ, hút mũi, nhỏ nước muối sinh lý trước bú",
+     "v": "c",
+     "n": "NICE NG143 mục 1.6.2–1.6.3, 1.7.2 (cho uống đều, sữa mẹ là chất lỏng thích hợp nhất); WHO Pocket Book 2013 mục 4.4 (làm sạch mũi trước bữa bú, chia nhỏ bữa). Số giọt và số lần nhỏ mũi mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích không cần chụp phổi, không làm lại xét nghiệm máu; dùng kết quả đêm qua; tóm tắt cho mẹ ba nơi nói gì và vì sao nay bỏ bớt thuốc",
+     "v": "c",
+     "n": "Trẻ nghi viêm phổi không nhập viện không chụp thường quy; nhóm xanh không xét nghiệm máu, chụp phổi thường quy (NICE NG143 mục 1.4.6, 1.5.12). Giữ niềm tin bằng giải thích tiêu chí (bé thở < 50 l/p, SpO₂ 97%, không rút lõm), không chê đồng nghiệp."
+    },
+    {
+     "t": "Cách ly tại nhà: ít nhất 5 ngày từ lúc có triệu chứng đầu tiên, người lớn chăm bé đeo khẩu trang đến hết ngày 10, hoặc đủ 10 ngày; ba tiếp tục ở phòng riêng; mẹ vẫn cho bú",
+     "v": "c",
+     "n": "QĐ 2671 mục 7.1 (tr. 74): ≥ 5 ngày từ triệu chứng, nên đeo khẩu trang đến hết ngày 10; WHO 2023 mục 3.2 (tr. 18): 10 ngày cho người có triệu chứng (khác nhau vì BYT cho rút ngắn kèm khẩu trang, WHO ưu tiên giảm lây). Mẹ nghi hoặc nhiễm COVID-19 vẫn nên cho bú (WHO 2023 mục 3.19 tr. 102–103). Khẩu trang cho trẻ dưới 2 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu đưa đến ngay: thở nhanh (≥ 50 l/p khi nằm yên), thở rên, lõm ngực, tím môi, bú còn nửa đến ba phần tư hoặc bỏ bú, không tè 12 giờ, nôn hết, li bì, co giật, ban ấn không nhạt; sốt tới ngày thứ 5 (thứ Bảy 28/11) thì quay lại",
+     "v": "c",
+     "n": "QĐ 2671 mục 8.1.2 (thở nhanh, tím, SpO₂ < 93%, thở rên, rút lõm, không bú được, li bì, co giật); WHO 2023 mục 3.6 (tr. 36); NICE NG9 mục 1.6.1 (bú 50–75%, không tè 12 giờ); NICE NG143 mục 1.7.3 (sốt ≥ 5 ngày, co giật, ban không nhạt, cha mẹ lo hơn), 1.2.14, 1.2.25 (Kawasaki)."
+    },
+    {
+     "t": "Hẹn tái khám sau 5 ngày (sáng thứ Tư 02/12), sớm hơn nếu không đỡ hoặc có dấu hiệu trên",
+     "v": "c",
+     "n": "WHO Pocket Book 2013 Bảng 7 (tr. 81): ho, cảm lạnh tái khám sau 5 ngày nếu không đỡ; NICE NG143 mục 1.4.4: an toàn bằng tái khám đặt giờ giấc rõ. Mốc thời gian cụ thể cho COVID-19 nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt theo ngưỡng nhiệt (≥ 38,5 °C) hoặc lau người nước ấm theo QĐ 3312",
+     "v": "a",
+     "n": "QĐ 3312/2015 (Viêm phổi do vi khuẩn ở trẻ em, mục 4, phần 2.2) hạ sốt ≥ 38,5 °C và lau ấm; NICE NG143 mục 1.6.2, 1.6.5 không khuyến cáo lau ấm và không dùng chỉ để hạ số đo (NICE không nói có hại) – theo sổ mâu thuẫn mục 'Hạ sốt ở trẻ'."
+    },
+    {
+     "t": "Làm lại test nhanh kháng nguyên hoặc men gan hôm nay",
+     "v": "a",
+     "n": "Chấp nhận, không bắt buộc (xem phần cận lâm sàng): không đổi xử trí khi đã có phiếu đêm qua và bé tỉnh."
+    },
+    {
+     "t": "Kê ibuprofen thay hoặc cùng paracetamol",
+     "v": "w",
+     "n": "Không dùng cả hai cùng lúc; chỉ đổi thuốc khi bé vẫn khó chịu (NICE NG143 mục 1.6.6); khi chưa loại hẳn sốt xuất huyết thì chọn paracetamol đơn chất (sổ mâu thuẫn HH-0737 số 2); bé chưa hết nguy cơ đồng nhiễm theo WHO 2023 mục 3.6 Remark 1."
+    },
+    {
+     "t": "Tiếp tục cefixime cho đủ liệu trình, đổi kháng sinh khác hoặc tiêm ceftriaxone 'phòng viêm phổi'",
+     "v": "w",
+     "n": "Không có bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1a; WHO 2023 mục 3.6 'recommend that antibiotic therapy or prophylaxis should not be used in mild COVID-19'; WHO Pocket Book 2013 mục 4.4)."
+    },
+    {
+     "t": "Tiếp tục thuốc nhỏ mắt tobramycin–dexamethasone hoặc kê thêm corticoid nhỏ mắt, kê dexamethason/prednisolon uống 'cho mau hết ho, sốt'",
+     "v": "w",
+     "n": "Corticoid nhỏ mắt dùng bừa có thể kéo dài nhiễm virus (AAO Conjunctivitis PPP 2018, Treatment); corticoid toàn thân chỉ cho mức nặng, nguy kịch (QĐ 2671 Bảng 6)."
+    },
+    {
+     "t": "Kê thuốc ho, long đờm, thuốc nhỏ mũi co mạch; kê nirmatrelvir/ritonavir hoặc molnupiravir cho bé",
+     "v": "w",
+     "n": "WHO Pocket Book 2013 mục 4.4 (không dùng thuốc ho, long đờm, nhỏ mũi có hoạt chất); QĐ 2671 Bảng 7 giới hạn tuổi, cân nặng của kháng virus uống (từ 12 tuổi và ≥ 40 kg; từ 18 tuổi)."
+    },
+    {
+     "t": "Truyền dịch, nhập viện hoặc chuyển bệnh viện nhi để chụp phổi, thử máu 'khám tổng quát' theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Không có chỉ định ở nhóm xanh, bé uống và bú được (NICE NG143 mục 1.4.5, 1.4.6, 1.5.12; QĐ 2671 mục 5.2.1, 8.1.2); WHO Pocket Book 2013 mục 4.4 chỉ bù dịch đường uống. Truyền dịch cho COVID-19 chưa sốc: sổ mâu thuẫn chấm w ở mức nhẹ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 mức nhẹ ở nhũ nhi 8 tháng, ca xác định (triệu chứng cộng kháng nguyên SARS-CoV-2 dương tính, cúm A/B âm tính), ngày bệnh thứ 5, ngày sốt thứ 4",
+     "Nguồn lây trong nhà: ba bé (test nhanh dương tính 18/11), hai ngày đầu bế bé khi chưa đeo khẩu trang; mẹ đau họng nhẹ, chưa thử",
+     "Nguy cơ thấp (nhóm xanh): tỉnh, bú còn bốn phần năm, thở 44 l/p, SpO₂ 97%, không rút lõm, không mất nước, không có yếu tố nguy cơ nặng",
+     "Viêm kết mạc nhẹ hai mắt, có thể là biểu hiện của COVID-19; đã dùng thuốc nhỏ mắt kháng sinh–corticoid khoảng 8 lần",
+     "Điều trị thừa từ ba nơi: cefixime 6 liều, siro ambroxol, nhỏ mắt tobramycin–dexamethasone, hai chế phẩm paracetamol trùng hoạt chất (≈ 61 mg/kg trong 24 giờ hôm qua)",
+     "Đã loại ở mức theo dõi: cúm mùa, viêm phổi vi khuẩn, viêm tiểu phế quản, Kawasaki/MIS-C"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: sốt 4 ngày, ho, sổ mũi, bú giảm nhẹ; không có dấu nguy hiểm. Hỏi người nhà mới ra ba dương tính ngày 18/11 và đã bế bé: người có yếu tố dịch tễ cộng ≥ 3 triệu chứng là ca nghi ngờ (QĐ 2671 mục 2.1); ủ bệnh 2–14 ngày, trung bình 5–7 ngày (mục 3.1): từ lần bế cuối (20/11) đến lúc bé ho (23/11) là 3 ngày. Mẹ đổ cho 'đổi trời' nên đây là chỗ dễ bỏ sót; gió lạnh chỉ là nhiễu, không gây sốt.",
+     "Hỏi bệnh lần hai: hỏi nơi thứ ba làm gì thì có phiếu: kháng nguyên SARS-CoV-2 dương cộng triệu chứng là ca xác định (QĐ 2671 mục 2.2b), công thức máu và CRP bình thường. Học viên không cần làm lại: kháng nguyên kém nhạy hơn PCR (mục 4.8.2b) nên chỉ làm lại khi âm mà vẫn nghi (WHO 2023 mục 3.5 Remark 4).",
+     "Khám: bé tỉnh, cười, da môi hồng, niêm mạc ẩm, thóp phẳng, mao mạch dưới 2 giây, mạch 140 l/p dưới ngưỡng nhịp nhanh 160 lần/phút của trẻ dưới 12 tháng (NICE NG143 Bảng 1): nhóm xanh (mục 1.2.7). Thở 44 l/p dưới 50 l/p (WHO Pocket Book 2013 Bảng 7 tr. 81; QĐ 2671 mục 8.1.2; NICE NG143 mục 1.2.22), không rút lõm, không rên, SpO₂ 97% (trên mốc ≤ 95% của NICE; mức nặng < 93% theo QĐ 2671 mục 8.1.2 hoặc < 90% theo WHO 2023 Bảng 6.3): không viêm phổi. Sốt hạ khi dùng paracetamol, không có dấu cảnh báo của QĐ 2671 Bảng 4.",
+     "Vì sao mức nhẹ: không viêm phổi, không khó thở, không giảm oxy, tỉnh táo (QĐ 2671 mục 5.2.1); trẻ nhỏ mức trung bình khi ho hoặc khó thở kèm thở nhanh, mức nặng khi tím, SpO₂ < 93%, thở rên, rút lõm, không bú được, li bì, co giật (mục 8.1.2). Nhũ nhi có thể bú khó và sốt chưa rõ nguồn (WHO 2023 mục 1, tr. 10).",
+     "Vì sao không cúm, không viêm phổi, không tiểu phế quản: test cúm âm; thở nhanh và rút lõm, ran khu trú đều không có (NICE NG9 mục 1.1.3, 1.1.6). 'Phổi thô' ở nơi thứ hai là ran ngáy truyền từ mũi họng và mất sau hút mũi. Vì sao chưa nghĩ Kawasaki/MIS-C: sốt chưa tới 5 ngày (NICE NG143 mục 1.2.14, 1.2.25), CRP 4 mg/L, không ban, môi không nứt (WHO 2023 Bảng 6.3 tr. 30–31); vẫn dặn quay lại nếu sốt tới ngày thứ 5.",
+     "Điều trị đã nhận ở ba nơi: cefixime 6 liều và 'viêm phế quản' không có chỉ định (WHO AWaRe 2022 Bảng 4.2 tr. 35; QĐ 2671 mục 6.8.1a); ambroxol thuộc nhóm long đờm WHO Pocket Book 2013 mục 4.4 không dùng; tobramycin–dexamethasone nhỏ mắt không cần cho viêm kết mạc nghi virus (AAO Conjunctivitis PPP 2018). Hai chế phẩm paracetamol cùng hoạt chất cho tổng 528 mg = 61 mg/kg trong 24 giờ, trên trần 60 mg/kg (QĐ 708/2015 mục 4.2; QĐ 3312/2015 mục 4.1) nhưng rải 6 lần, xa ngưỡng ≥ 150 mg/kg cần nghĩ tới giải độc (WHO Pocket Book 2013 tr. 31): bé không sao.",
+     "Vì sao mẹ xin 'khám tổng quát': mẹ sợ viêm phổi vì lời nơi thứ hai và thấy mỗi nơi nói một kiểu. Giải thích bằng tiêu chí đo được (thở 44 < 50 l/p, SpO₂ 97%, bú còn bốn phần năm) và việc đã làm đêm qua tốt hơn là chụp, thử thêm (NICE NG143 mục 1.4.6, 1.5.12). WHO 2023 mục 1 (tr. 10): trẻ thường nhẹ, tỉ lệ nặng và tử vong thấp hơn nhiều người lớn."
+    ],
+    "phan_tich_xu_tri": [
+     "Chăm sóc tại nhà có mốc theo dõi thay cho X-quang và nhập viện: mức nhẹ, nhóm xanh (QĐ 2671 mục 5.2.1; NICE NG143 mục 1.4.5); WHO 2023 mục 3.6 cho quyết định theo từng ca. Không kháng virus: nirmatrelvir/ritonavir từ 12 tuổi và ≥ 40 kg, molnupiravir từ 18 tuổi, remdesivir nội trú cho mức nhẹ có yếu tố nguy cơ (QĐ 2671 Bảng 7); bé không đủ điều kiện, không có yếu tố nguy cơ (Bảng 5). Không corticoid (Bảng 6).",
+     "Ngưng kháng sinh, thuốc ho, thuốc nhỏ mắt kháng sinh–corticoid: không có bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1a; WHO 2023 mục 3.6); WHO Pocket Book 2013 mục 4.4 không dùng kháng sinh, thuốc ho, long đờm, nhỏ mũi có hoạt chất; AAO Conjunctivitis PPP 2018 tránh dùng bừa kháng sinh, corticoid nhỏ mắt (QĐ 40/2015 mục 4b thận trọng corticoid). Nhỏ mắt: ngưng hẳn (mới 8 lần) hoặc giảm dần theo nhãn khoa đều chấp nhận; hẹn khám mắt nếu còn đỏ sau 2–3 tuần.",
+     "Hạ sốt: một chế phẩm paracetamol, 10–15 mg/kg mỗi 6 giờ, nhóm 6–< 10 kg 100 mg (WHO AWaRe 2022 Bảng 4.2 tr. 35); tối đa 4 lần và ≤ 60 mg/kg/24 giờ (QĐ 708/2015; QĐ 3312/2015) thận trọng hơn mức 6 lần/ngày của WHO Pocket Book 2013 Annex 2. Chỉ khi bé khó chịu, không dùng đồng thời với ibuprofen, không lau nước ấm, không ủ kín (NICE NG143 mục 1.6.2–1.6.6). Hôm qua tổng 528 mg ≈ 61 mg/kg: nhắc mẹ đọc tên hoạt chất, ghi giờ và liều từng lần.",
+     "Chăm sóc: cho bú nhiều cữ, hút mũi và nhỏ nước muối trước bú (WHO Pocket Book 2013 mục 4.4; NICE NG143 mục 1.7.2). Mẹ nghi hoặc nhiễm COVID-19 vẫn tiếp tục cho bú (WHO 2023 mục 3.19).",
+     "Cách ly: 5 ngày kèm khẩu trang đến hết ngày 10 (QĐ 2671 mục 7.1) hoặc 10 ngày (WHO 2023 mục 3.2): ngày bệnh thứ 10 là thứ Tư 02/12. Ba tiếp tục ở phòng riêng, đeo khẩu trang khi chăm bé; vẫn giữ bé ở cùng người chăm sóc (WHO 2023 mục 3.4 Remark 6).",
+     "Theo dõi có mốc: dấu hiệu quay lại ngay (QĐ 2671 mục 8.1.2; WHO 2023 mục 3.6; NICE NG9 mục 1.6.1; NICE NG143 mục 1.7.3); sốt tới thứ Bảy 28/11 (ngày sốt thứ 5) thì quay lại vì phải nghĩ tới Kawasaki (NICE NG143 mục 1.2.14); tái khám sau 5 ngày (WHO Pocket Book 2013 Bảng 7)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol siro",
+      "ham_luong": "120 mg/5 mL (hoặc dạng sẵn có tại cơ sở)",
+      "lieu": "4 mL ≈ 96 mg/lần (≈ 11 mg/kg; cho phép 10–15 mg/kg = 86–129 mg; nhóm 6–< 10 kg: 100 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé khó chịu, quấy; các lần cách nhau ít nhất 6 giờ; không dùng đồng thời ibuprofen",
+      "so_ngay": "Những ngày còn sốt gây khó chịu; tối đa 4 lần/24 giờ (≤ 60 mg/kg ≈ 516 mg)",
+      "ghi_chu": "WHO AWaRe 2022 Bảng 4.2 tr. 35 (10–15 mg/kg mỗi 6 giờ); QĐ 708/2015 Viêm màng não mủ mục 4.2 và QĐ 3312/2015 Co giật do sốt mục 4.1 (≤ 60 mg/kg/24 giờ); WHO Pocket Book 2013 Annex 2 (tối đa 6 lần/ngày – con số 4 lần thận trọng hơn); NICE NG143 mục 1.6.4–1.6.6. Bỏ hẳn gói paracetamol 80 mg để khỏi trùng."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 0,9% (nhỏ mũi)",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ vài giọt mỗi bên mũi rồi hút mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước các cữ bú và trước khi ngủ",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO Pocket Book 2013 mục 4.4 (làm sạch mũi trước bữa bú); QĐ 2671 mục 8.2.1.2. Số giọt và số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 0,9% (lau mắt)",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Dùng bông hoặc gạc sạch thấm nước muối lau ghèn, mỗi mắt một miếng",
+      "duong": "Lau mắt",
+      "thoi_diem": "Khi có ghèn, trước khi bú",
+      "so_ngay": "Đến khi hết ghèn, đỏ mắt",
+      "ghi_chu": "QĐ 40/2015 Viêm kết mạc cấp mục 4b (rửa mắt bằng NaCl 0,9%). Kỹ thuật lau, số lần: không có trong tài liệu đã tải. Khám mắt lại nếu còn đỏ sau 2–3 tuần (AAO Conjunctivitis PPP 2018)."
+     },
+     {
+      "thuoc": "Cefixime siro (toa nơi 1)",
+      "ham_luong": "Theo toa cũ",
+      "lieu": "Ngưng, không cho uống tiếp",
+      "duong": "Uống",
+      "thoi_diem": "Từ bây giờ",
+      "so_ngay": "Bỏ số thuốc còn lại, không dự trữ",
+      "ghi_chu": "Không có bằng chứng nhiễm khuẩn (QĐ 2671 mục 6.8.1a; WHO 2023 mục 3.6); không dùng kháng sinh cho viêm phế quản cấp (WHO AWaRe 2022 Bảng 4.2 tr. 35)."
+     },
+     {
+      "thuoc": "Siro ambroxol (toa nơi 2)",
+      "ham_luong": "Theo toa cũ",
+      "lieu": "Ngưng, không cho uống tiếp",
+      "duong": "Uống",
+      "thoi_diem": "Từ bây giờ",
+      "so_ngay": "Bỏ số thuốc còn lại",
+      "ghi_chu": "Theo tài liệu WHO Pocket Book 2013 mục 4.4 tr. 90–91: ho, cảm lạnh không dùng thuốc ho, long đờm."
+     },
+     {
+      "thuoc": "Tobramycin–dexamethasone nhỏ mắt (toa nơi 2)",
+      "ham_luong": "Theo toa cũ",
+      "lieu": "Ngưng hẳn (hoặc giảm dần theo hướng dẫn nhãn khoa)",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Từ bây giờ",
+      "so_ngay": "Khám mắt nếu còn đỏ sau 2–3 tuần",
+      "ghi_chu": "AAO Conjunctivitis PPP 2018, Treatment (tránh dùng bừa kháng sinh, corticoid nhỏ mắt); QĐ 40/2015 Viêm kết mạc cấp mục 4b; theo sổ mâu thuẫn mục HH-0685."
+     }
+    ],
+    "dan_do": [
+     "Bé bị COVID-19 thể nhẹ, lây từ ba. Bệnh do virus nên không cần kháng sinh; ngưng cefixime, ambroxol, thuốc nhỏ mắt kháng sinh–corticoid và đừng giữ thuốc thừa cho lần sau (QĐ 2671 mục 6.8.1a; WHO 2023 mục 3.6). Trẻ thường nhẹ, thường đỡ sau vài ngày (QĐ 2671 mục 3.3: hết sốt sau 7–10 ngày ở thể nhẹ).",
+     "Chỉ dùng một thuốc hạ sốt: siro paracetamol 120 mg/5 mL, 4 mL mỗi lần, khi bé sốt và quấy khó chịu, cách nhau ít nhất 6 giờ, không quá 4 lần trong ngày; bỏ gói 80 mg; ghi lại giờ cho thuốc. Không lau nước ấm, không quấn quá kín, không cho ibuprofen cùng lúc (NICE NG143 mục 1.6.2–1.6.6).",
+     "Cho bé bú mẹ nhiều cữ hơn, mẹ vẫn cho bú dù lo bị lây (WHO 2023 mục 3.19). Hút mũi, nhỏ nước muối sinh lý trước bữa bú. Không tự mua thuốc ho, thuốc nhỏ mũi (WHO Pocket Book 2013 mục 4.4). Lau ghèn bằng nước muối sinh lý; còn đỏ mắt sau 2–3 tuần thì đi khám mắt.",
+     "Đêm qua bác sĩ đã thử máu, CRP và test nhanh: kết quả cho thấy không cần chụp phổi hay thử lại hôm nay (NICE NG143 mục 1.4.6, 1.5.12). Mẹ giữ phiếu để mang theo khi tái khám.",
+     "Cách ly trong nhà ít nhất 5 ngày từ lúc bé bắt đầu ho (thứ Hai 23/11), người lớn đeo khẩu trang đến hết ngày 10 (thứ Tư 02/12), hoặc đủ 10 ngày (QĐ 2671 mục 7.1; WHO 2023 mục 3.2). Ba ở phòng riêng, đeo khẩu trang và rửa tay khi chăm bé; vẫn giữ bé ở cùng người chăm sóc (WHO 2023 mục 3.4). Mẹ đang đau họng nên nên thử test và đeo khẩu trang.",
+     "Đưa bé đến ngay hoặc gọi cấp cứu nếu: thở nhanh (≥ 50 lần/phút khi nằm yên), thở rên, lõm ngực, tím môi; bú chỉ còn nửa đến ba phần tư lượng thường hoặc không bú; nôn hết mọi thứ; li bì, khó đánh thức; co giật; không tè trong 12 giờ; nổi ban ấn không nhạt (QĐ 2671 mục 8.1.2; WHO 2023 mục 3.6; NICE NG9 mục 1.6.1; NICE NG143 mục 1.7.3).",
+     "Nếu sáng thứ Bảy 28/11 bé vẫn còn sốt (ngày sốt thứ 5), hoặc mẹ thấy bé nặng hơn hay mình lo hơn, hãy đưa đi khám lại ngay (NICE NG143 mục 1.7.3, 1.2.14). Hẹn tái khám sau 5 ngày, thứ Tư 02/12 (WHO Pocket Book 2013 Bảng 7)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Huy hết sốt từ đêm thứ Sáu, sáng thứ Bảy không sốt lại; bú đủ cữ trở lại sau hai ngày, ho thưa dần và hết sau khoảng 10 ngày, nghẹt mũi còn thêm vài ngày; mắt hết đỏ sau khi ngưng thuốc nhỏ (viêm kết mạc do virus khỏi sau 5–10 ngày, QĐ 40/2015 Viêm kết mạc cấp mục 5). Mẹ dùng một loại paracetamol, ngưng thuốc thừa; bé không phải chụp phổi hay nhập viện, tái khám sau 5 ngày: khỏi, phổi sạch, không sốt lại. Ba hết cách ly cuối tuần, mẹ đau họng hai ngày rồi khỏi. Ba toa trước (6 liều cefixime, siro ambroxol, nhỏ mắt kháng sinh–corticoid, hai chế phẩm paracetamol cộng 528 mg ≈ 61 mg/kg hôm thứ Năm) đều không cần thiết, có lúc vượt trần liều, nhưng bé không bị phản ứng thuốc, không tiêu chảy, không vàng da, mắt không biến chứng. Đó là may mắn, không chứng minh các toa đó đúng và không nên tính là kết quả tốt của cách xử trí.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: mẹ mất niềm tin, mang xấp giấy và hỏi vặn; muốn 'khám tổng quát' để biết ai đúng. Cách gỡ: nghe hết, tóm tắt ba nơi bằng lời trung tính, giải thích từng việc đổi gì, không lặp xét nghiệm đã làm đêm qua.",
+  "Thay đổi thời tiết: đợt lạnh đột ngột là cớ mẹ gán cho bệnh ('trúng gió') và làm mẹ ủ bé quá kín; nguồn lây thật là ba dương tính, chỉ lộ khi hỏi người nhà và tiếp xúc.",
+  "'Phổi thô' ở nơi thứ hai: ran ngáy truyền từ mũi họng ở nhũ nhi nghẹt mũi, mất sau hút mũi; không phải viêm phổi.",
+  "Thuốc nhỏ mắt corticoid và kháng sinh thừa: kết mạc đỏ, ghèn kèm sốt dễ đưa tới kháng sinh–corticoid nhỏ mắt, cefixime; không có chỉ định."
+ ],
+ "bai_hoc_bien": [
+  "Từng khám 3 nơi không khỏi: lấy lại niềm tin bằng cách nghe hết, xem toàn bộ giấy tờ và thuốc, tóm tắt lại bằng lời trung tính, giải thích tiêu chí; không chê đồng nghiệp và không lặp xét nghiệm đã có kết quả (NICE NG143 mục 1.4.6, 1.5.12).",
+  "Yếu tố dịch tễ nằm ở người nhà, không nằm ở thời tiết: hỏi ai trong nhà ốm, đã thử COVID chưa, ai bế bé; ca nghi ngờ cần yếu tố dịch tễ cộng ≥ 3 triệu chứng (QĐ 2671 mục 2.1).",
+  "Hỏi xem toa thuốc: cộng liều thuốc trùng hoạt chất từ nhiều toa (paracetamol 80 mg × 3 và 96 mg × 3 = 528 mg ≈ 61 mg/kg) trước khi kê thêm; ngưng kháng sinh, thuốc ho và thuốc nhỏ mắt kháng sinh–corticoid không có chỉ định (QĐ 2671 mục 6.8.1a; WHO Pocket Book 2013 mục 4.4; AAO Conjunctivitis PPP 2018).",
+  "Kết cục tốt không hợp thức hóa quy trình sai: ba toa thừa mà bé không sao là may mắn; lần sau cùng kiểu kê toa đó vẫn là nguy cơ (quá liều paracetamol, phản ứng kháng sinh, tăng nhãn áp do corticoid).",
+  "Nhũ nhi COVID-19 nhẹ vẫn cần ngưỡng theo dõi rõ: thở ≥ 50 l/p, rút lõm, rên, bú còn nửa đến ba phần tư, không tè 12 giờ, sốt từ ngày thứ 5 (QĐ 2671 mục 8.1.2; NICE NG9 mục 1.6.1; NICE NG143 mục 1.7.3)."
+ ],
+ "diem_nho": [
+  "Ca nghi ngờ COVID-19: yếu tố dịch tễ cộng ≥ 3 triệu chứng; ca xác định: triệu chứng cộng kháng nguyên dương (QĐ 2671 mục 2.1, 2.2b). Kháng nguyên kém nhạy hơn PCR nhưng làm lại chỉ khi âm mà vẫn nghi (mục 4.8.2b; WHO 2023 mục 3.5 Remark 4).",
+  "Trẻ nhỏ mức trung bình khi ho hoặc khó thở kèm thở nhanh (≥ 50 l/p ở 2–11 tháng, NICE > 50 l/p ở 6–12 tháng); mức nặng khi tím, SpO₂ < 93% (QĐ 2671) hoặc < 90% (WHO 2023), thở rên, rút lõm, không bú được, li bì, co giật (QĐ 2671 mục 8.1.2; NICE NG143 mục 1.2.22).",
+  "COVID-19 mức nhẹ: không kháng sinh, không corticoid, không kháng virus cho nhũ nhi (QĐ 2671 mục 6.8.1a, Bảng 6, Bảng 7; WHO 2023 mục 3.6).",
+  "Paracetamol nhũ nhi 10–15 mg/kg mỗi 6 giờ, 6–< 10 kg: 100 mg (WHO AWaRe 2022 Bảng 4.2 tr. 35); trần ≤ 60 mg/kg/24 giờ (QĐ 708/2015, QĐ 3312/2015) hoặc tối đa 6 lần/ngày (WHO Pocket Book 2013 Annex 2): chọn 4 lần cho thận trọng; chỉ khi bé khó chịu (NICE NG143 mục 1.6.4–1.6.6).",
+  "Không dùng thuốc ho, long đờm, thuốc nhỏ mũi có hoạt chất ở ho, cảm lạnh trẻ em; tái khám sau 5 ngày nếu không đỡ (WHO Pocket Book 2013 mục 4.4, Bảng 7).",
+  "Corticoid nhỏ mắt khi nghi viêm kết mạc virus: tránh dùng bừa; đã dùng ngắn thì ngưng hoặc giảm dần theo nhãn khoa (AAO Conjunctivitis PPP 2018; QĐ 40/2015 mục 4b).",
+  "Cách ly 5 ngày kèm khẩu trang đến ngày 10 (QĐ 2671 mục 7.1) hoặc 10 ngày (WHO 2023 mục 3.2); mẹ nghi hoặc nhiễm COVID-19 vẫn cho bú (WHO 2023 mục 3.19)."
+ ],
+ "nguon": [
+  "TL-0124 · QĐ 2671/QĐ-BYT 2023 – Hướng dẫn chẩn đoán và điều trị COVID-19 – ĐÃ ĐỌC: mục 2.1–2.2 (tr. 18), 3.1, 3.2.9, 3.3, 4.8.1–4.8.3 (tr. 28–30), 5.2.1–5.2.2 (tr. 31), Bảng 4 (tr. 32–33), Bảng 5 (tr. 34), Bảng 6 (tr. 35–36), Bảng 7 (tr. 37–38), 6.8.1–6.8.2, 7.1 (tr. 74), 8.1.2 (tr. 75), 8.2.1.2",
+  "TL-0135 · WHO 2023 – Clinical management of COVID-19: living guideline, 18/08/2023 – ĐÃ ĐỌC: mục 1 Background (tr. 10), Bảng 6.2 (tr. 29), Bảng 6.3 (tr. 30–31), 3.2 (tr. 18), 3.4 Remark 5–6 (tr. 27), 3.5 (tr. 33–34), 3.6 (tr. 36), 3.19 (tr. 102–103)",
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – Hướng dẫn chẩn đoán và điều trị cúm mùa – ĐÃ ĐỌC: mục II.1.1, II.2.1, II.2.3, II.2.4.1–2.4.3",
+  "TL-0262 · NICE NG143 (2021, bản 2025) – Fever in under 5s – ĐÃ ĐỌC: mục 1.2.5–1.2.7, 1.2.11, 1.2.14–1.2.15 (Bảng 1), 1.2.22–1.2.23, 1.2.25, 1.4.4–1.4.7, 1.5.12, 1.6.2–1.6.6, 1.7.2–1.7.3",
+  "TL-0260 · NICE NG9 (2015, bản 2026) – Bronchiolitis in children – ĐÃ ĐỌC: mục 1.1.1–1.1.6, 1.2.2, 1.6.1",
+  "TL-0250 · WHO Pocket Book of Hospital Care for Children, ấn bản 2 (2013) – ĐÃ ĐỌC: mục 4.2 Bảng 7 (tr. 80–81), mục 4.4 (tr. 90–91), ngộ độc paracetamol (tr. 31), Annex 2 paracetamol (tr. 367)",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – ĐÃ ĐỌC: mục 4 Viêm phế quản cấp, Bảng 4.2 (tr. 35; liều paracetamol, kháng sinh không khuyến cáo)",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015 – Bệnh thường gặp ở trẻ em – ĐÃ ĐỌC: Viêm phổi do vi khuẩn ở trẻ em mục 4 phần 2.2 (hạ sốt ≥ 38,5 °C), Co giật do sốt mục 4.1 (paracetamol ≤ 60 mg/kg/24 giờ)",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – ĐÃ ĐỌC: Viêm màng não mủ mục 4.2 (paracetamol ≤ 60 mg/kg/ngày)",
+  "TL-0266 · AAO 2018 – Conjunctivitis Preferred Practice Pattern – ĐÃ ĐỌC: Treatment (tránh dùng bừa kháng sinh, corticoid nhỏ mắt), phần Adenoviral conjunctivitis (corticoid, theo dõi nhãn áp, tái khám 2–3 tuần)",
+  "TL-0242 · QĐ 40/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – ĐÃ ĐỌC: Viêm kết mạc cấp (tr. 35–38; mục 4b điều trị, mục 5 diễn tiến)",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: khoảng tham chiếu công thức máu, men gan nhũ nhi; khuyến cáo thuốc kháng virus của WHO 2023 (living guideline on drugs) và liều kháng virus cho nhũ nhi nhẹ ngoại trú; khẩu trang cho trẻ dưới 2 tuổi; số giọt, số lần nhỏ mũi; kỹ thuật lau mắt; mốc tái khám riêng cho COVID-19 nhũ nhi (dùng WHO Pocket Book 2013 Bảng 7). TL-0163 (EPIC-SR) chỉ cho người lớn, không dùng."
+ ],
+ "phien_ban_ca": "1 – viết 27/11/2026, soát nguồn với bản chữ kho tài liệu 0.3",
+ "ghi_chu_bien_tap": [
+  "Bản 1 (27/11/2026): ca HH-1268, 1 lượt: COVID-19 mức nhẹ nhũ nhi 8 tháng, về nhà (ve_hen). Viết theo bản mẫu cùng chuyên khoa HH-0930 (cấu trúc), NH-0199 (nhi), HH-1254 (COVID-19 nhũ nhi 8 tháng; đọc để thống nhất nguồn, trang và cách ghi mâu thuẫn, không chép nội dung).",
+  "Tài liệu đã đọc: TL-0124 mục 2, 3.1, 3.2.9, 3.3, 4.8, 5.2, Bảng 4–7, 6.8, 7.1, 8.1.2; TL-0135 mục 1, Bảng 6.2–6.3, 3.2, 3.4, 3.5, 3.6, 3.19; TL-0122 mục II; TL-0262 mục 1.2, 1.4–1.7; TL-0260 mục 1.1, 1.2, 1.6; TL-0250 Bảng 7, mục 4.4, ngộ độc paracetamol, Annex 2; TL-0018 Bảng 4.2; TL-0037; TL-0015; TL-0266; TL-0242 Viêm kết mạc cấp.",
+  "Biến sổ cái: nhiễu 'từng khám 3 nơi không khỏi' = mẹ mang ba toa, xin khám tổng quát; khởi phát 'thay đổi thời tiết' = đợt lạnh Chủ nhật, mẹ gán 'trúng gió' (nguồn lây thật là ba); thuốc đang dùng 'thuốc nhỏ mắt corticoid' = tobramycin–dexamethasone của nơi 2; lý do thật 'muốn kiểm tra tổng quát' = sợ viêm phổi, lo đi làm lại, day dứt; ràng buộc 'chỉ có xét nghiệm cơ bản' = khoa_cls khóa X-quang, siêu âm (CT, nội soi tự kéo theo), RT-PCR gửi nơi khác; kết cục 'xử trí ẩu nhưng may mắn không sao' = ba toa thừa (kháng sinh, thuốc ho, thuốc nhỏ mắt corticoid, paracetamol trùng ≈ 61 mg/kg) mà bé không sao, ghi ở ket_cuc và bài học.",
+  "Mâu thuẫn áp dụng (mục đã có trong sổ, ghi cả hai cách): thời gian cách ly COVID-19 (5 ngày + khẩu trang đến ngày 10 hoặc 10 ngày); hạ sốt trẻ theo mức khó chịu (NH-0199) và trần paracetamol 60 mg/kg/24 giờ so với tối đa 6 lần/ngày (WHO 2013); ngưỡng thở nhanh nhũ nhi (≥ 50 WHO/QĐ, > 50 NICE); corticoid nhỏ mắt (HH-0685); ibuprofen khi chưa loại sốt xuất huyết (HH-0737 số 2). Mục mới/ghi nhận nhỏ: xem HH-1268_mau_thuan.md.",
+  "Chọn của ca (không có trong tài liệu): tuổi 8 tháng, cân 8,6 kg, thời điểm ba nơi, số liều từng thuốc đã dùng, kết quả công thức máu 9,6 G/L, CRP 4 mg/L, men gan, mốc tái khám 5 ngày (WHO Pocket Book 2013 Bảng 7); bú còn bốn phần năm để không chạm ngưỡng 50–75% của NICE NG9; không dùng `bang` cho công thức máu vì tham_chieu_xn chỉ có khoảng người lớn; `flu` chấm a (không e) để người học không bị trừ oan khi đã dùng phiếu nơi thứ ba.",
+  "Chỗ nghi ngờ: bản chữ QĐ 2671 là OCR (số ngưỡng SpO₂ < 93% của mục 8.1.2, trang Bảng 4 lẫn cột); QĐ 2671 mục 8.2.1.2 OCR ghi 'dừng thuốc hạ sốt' (nghi là 'dùng') nên không dựa vào phần đó; trang ngộ độc paracetamol của WHO Pocket Book 2013 suy từ chỉ mục (tr. 31). Kháng thể: không dùng. Thuốc ho ambroxol xếp nhóm long đờm là suy luận từ nhóm 'mucolytics' của WHO 2013 mục 4.4."
+ ]
+}

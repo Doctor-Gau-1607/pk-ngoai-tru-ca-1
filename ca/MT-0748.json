@@ -1,0 +1,583 @@
+{
+ "ma_ca": "MT-0748",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Tăng huyết áp kèm đái tháo đường (đồng mắc)",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Tăng huyết áp kèm đái tháo đường (đồng mắc)",
+  "chan_doan_phai_loai_tru": [
+   "Biến chứng cơ quan đích",
+   "THA thứ phát"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nông dân (trồng lúa và rau, vẫn còn ra ruộng)",
+  "yeu_to_khoi_phat": "Sau nhiễm siêu vi (cảm cúm hơn một tuần trước, sốt đã hết nhưng còn mệt)",
+  "thuoc_dang_dung": "Men tiêu hóa tự mua dùng khi đầy bụng",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch (tin truyền chai nước biển sẽ khỏe lại nhanh để kịp gặt lúa)"
+ },
+ "benh_nhan": {
+  "ten": "Võ Văn Lượm",
+  "tuoi": 78,
+  "gioi": "Nam",
+  "nghe": "Nông dân (trồng lúa và rau, vẫn còn ra ruộng)",
+  "can_nang": 55,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ' hoặc 'cậu'.",
+  "tinh_cach": "Chân chất, hiền, nói chậm giọng miền quê, nghe lời bác sĩ, ngại làm phiền. Quen tin lời hàng xóm về 'chai nước biển', nhưng nghe giải thích rõ thì chịu.",
+  "kieu_nhieu": "Hợp tác tốt: trả lời đủ ý, không ngắt lời, chấp nhận khám và xét nghiệm. Ban đầu xin truyền dịch; chỉ nói lý do thật (kịp vụ gặt lúa) khi được hỏi mong muốn hôm nay; nghe giải thích bằng số đo của chính mình thì đồng ý. Khát, tiểu đêm, sụt cân ông không tự nói vì tưởng do tuổi già.",
+  "nguoi_nha": "con gái",
+  "ten_nguoi_nha": "Lụa",
+  "ngoai_hinh": {
+   "da": "#b07a52",
+   "toc": "#e0e0e0",
+   "kieuToc": "bui",
+   "ao": "#7b6a4f",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 4,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c18c63",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#9a6f8a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, ăn kém hơn một tuần sau đợt cảm; muốn được truyền dịch",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm glucose, HbA1c, creatinin, điện giải, mỡ máu, nước tiểu và albumin niệu), có máy điện tim. Không có X-quang, siêu âm, CT, nội soi, máy đo HA 24 giờ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Võ Văn Lượm, 78 tuổi, nông dân, con gái chở đến phòng khám vì mệt, ăn kém hơn một tuần sau một đợt cảm; ông muốn xin truyền một chai nước. Sinh hiệu: HA 164/94 mmHg, mạch 78 l/p, nhiệt độ 36,8 °C, thở 18 l/p, SpO₂ 97%, cân nặng 55 kg, BMI 21,5.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Lượm, 78 tuổi, bị giữ nhập viện 'để truyền dịch cho khỏe' trong khi uống được, môi lưỡi ẩm, Na 138, creatinin 92, HA 164/92 không kèm tổn thương cơ quan đích cấp: không thuộc chỉ định chuyển hay nhập viện của QĐ 5904 Phần 3 Bước 4 mục A. Chai dịch thêm đường hoặc muối, đường huyết và HA không giảm, ông nằm lạ chỗ dễ lú lẫn, té ngã, tốn tiền và lỡ mấy ngày trước vụ gặt. Ra viện ông vẫn cần đúng đơn thuốc huyết áp và metformin như ở phòng khám.",
+    "chuyen_tuyen": "Ông bị chuyển lên bệnh viện tỉnh 'xét nghiệm cho kỹ', trong khi phòng khám đã làm đủ glucose, HbA1c, creatinin, điện giải, nước tiểu, điện tim đủ để chẩn đoán và bắt đầu thuốc (QĐ 5904 Phần 3 Bước 4 mục A.3 chỉ chuyển khi cần xét nghiệm mà trạm chưa làm được đủ xét nghiệm cơ bản). Ông 78 tuổi đi xa, chờ đông, mệt hơn, tốn cả ngày, và thuốc huyết áp, metformin chậm vài tuần. Ông thêm tin rằng 'bệnh nặng nên mới bị chuyển'.",
+    "theo_doi": "Ông được giữ lại phòng khám truyền một chai 'cho khỏe' rồi theo dõi vài giờ, đơn thuốc chỉ có thuốc bổ, vitamin. Đường huyết và HA không được điều trị, ông vẫn mệt, khát, tiểu đêm, lại nghĩ 'truyền dịch hiệu nghiệm' nên lần sau đòi truyền tiếp. HA ≥ 160/90 và HbA1c 7,5% kéo dài tăng nguy cơ biến chứng mạch máu, mắt, thận (ADA 2026 mục 10, mục 11; QĐ 5904 Phần 3 Bước 5 mục B.3: khởi trị sớm, đạt mục tiêu trong 1–3 tháng)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi bị cảm hơn tuần nay, hết sốt rồi mà người cứ rã rời, ăn không ngon. Bác sĩ cho tôi chai nước biển truyền cho có sức, hàng xóm truyền xong khỏe lắm.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "164/94",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hơn một tuần trước ông bị 'cảm': sổ mũi, ho khan, đau mỏi người, sốt nhẹ khoảng hai ngày (không đo, ông thấy người nóng). Sốt hết từ ngày thứ ba, sổ mũi gần hết, còn ho khan thỉnh thoảng. Từ đó ông mệt, ăn kém, hay buồn ngủ, đi làm ruộng một lúc là rã người. Cả nhà cùng bị cảm một đợt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và diễn tiến sau nhiễm siêu vi"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không còn sốt, không khạc đờm vàng xanh, không đau ngực, không khó thở, không đau mặt hay nghẹt mũi tăng dần, không đau họng nhiều, không tiêu chảy, không nôn. Ăn uống ít hơn thường nhưng vẫn uống nước được, ăn cháo cơm được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ bội nhiễm, viêm phổi và mất nước"
+    },
+    {
+     "id": "uong_nuoc",
+     "noi_dung": "Ông uống nước nhiều, thấy khát, chai nước để đầu giường hết mỗi đêm. Tiểu nhiều, ban đêm dậy 3 lần, nước tiểu trong, vàng nhạt, không buốt, không ra máu. Ông tưởng do tuổi già, không ai hỏi nên không nói.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Uống được, tiểu nhiều: gợi ý tăng đường huyết, không phải mất nước"
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Ba tháng nay ông sụt khoảng 3 kg (từ 58 xuống 55 kg), thấy người 'mỏng đi', cho là do làm nhiều. Vết xước ở chân lâu lành hơn trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân, triệu chứng đái tháo đường kéo dài trước đợt cảm"
+    },
+    {
+     "id": "tien_su_tha",
+     "noi_dung": "Biết 'cao huyết áp' khoảng 8 năm, trạm y tế xã cho amlodipin 5 mg. Ông uống lúc nhớ, hết thuốc từ khoảng 2 tháng nay và chưa lấy lại vì bận mùa vụ. Nhà không có máy đo huyết áp, lần đo gần nhất cách đây nửa năm ở trạm, 'nghe nói 150 gì đó'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "THA 8 năm, bỏ thuốc 2 tháng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Hơn một tuần nữa là đến vụ gặt lúa, nhà ông chỉ có ông và vợ làm chính. Hàng xóm kể 'mệt thì truyền chai nước biển, hôm sau khỏe re', nên ông đến xin truyền một chai cho có sức đi gặt. Ông không biết mệt có thể do đường huyết cao.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông mong muốn gì hôm nay, vì sao muốn khỏe nhanh, sắp có việc gì, hoặc từng được truyền dịch chưa.",
+     "k": 1,
+     "y": "Lý do thật sự đến khám: muốn được truyền dịch để kịp gặt lúa"
+    },
+    {
+     "id": "thuoc_dang_dung",
+     "noi_dung": "Chỉ có men tiêu hóa dạng viên mua ở nhà thuốc, uống 1–2 viên sau bữa khi thấy đầy bụng, mỗi tuần vài lần, ông không rõ là loại gì. Không dùng thuốc giảm đau chống viêm, thuốc cảm có pseudoephedrin, thuốc bắc, cam thảo; không dùng thuốc nhỏ mắt hay thuốc bôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (men tiêu hóa), loại trừ thuốc làm tăng huyết áp"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Ăn mặn quen miệng (cá khô, mắm, dưa muối), ăn cơm nhiều, hay uống nước ngọt đóng chai khi ra ruộng nắng. Không hút thuốc, rượu thỉnh thoảng một chén. Ngủ ngáy nhẹ, vợ không thấy ông ngưng thở.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lối sống, yếu tố làm tăng huyết áp, đường huyết"
+    },
+    {
+     "id": "cap_cuu_am",
+     "noi_dung": "Không yếu liệt tay chân, không méo miệng, không nói khó, không đau ngực, không hồi hộp, không ngất, không nhìn mờ đột ngột, không lú lẫn. Không từng bị đột quỵ hay nhồi máu cơ tim.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ dấu hiệu cấp cứu và biến chứng"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Ông tự đi lại, tự ăn, tự ra ruộng, tự lo tiền thuốc; không té ngã, không quên đường về. Mắt nhìn gần hơi mờ, chưa đi khám mắt bao giờ. Ở với vợ 74 tuổi; con gái ở cạnh nhà, hôm nay chở ông đi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tình trạng chức năng (tuổi ≥ 75)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Cha mất vì 'tai biến'. Anh trai bị tiểu đường, đang tiêm thuốc. Không ai bị bệnh thận hay u tuyến thượng thận.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử gia đình"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 166/94, tay trái 162/92 mmHg (ngồi nghỉ 5 phút, bao tay cỡ người lớn). Chênh hai tay dưới 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 164/92 mmHg, mạch 78. Đứng 1 phút: 158/90, mạch 82. Đứng 3 phút: 156/90, mạch 84. Tụt tối đa 8/2 mmHg, không chóng mặt: không có hạ huyết áp tư thế.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, đi lại vững, tự lên giường khám. Thể trạng gầy vừa, 55 kg, BMI 21,5. Môi hồng ẩm, lưỡi ẩm, mắt không trũng, véo da bụng mất ngay (dưới 2 giây), mạch quay rõ, tĩnh mạch cổ không xẹp; không phù. Dấu hiệu mất nước: không có.",
+     "k": 1,
+     "hien": "Tỉnh, môi và lưỡi ẩm, không phù."
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, không mủ, amidan không to; mũi không dịch mủ, không đau khi gõ xoang; màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Soi đáy mắt không giãn đồng tử: thấy mờ do đục thể thủy tinh nhẹ; động mạch hơi nhỏ, bắt chéo động tĩnh mạch nhẹ; không xuất huyết, không xuất tiết, không phù gai. Không đánh giá được hoàng điểm: cần khám mắt giãn đồng tử.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3/T4."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Thở 18 l/p, không co kéo.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau, không khối; gan lách không to; không âm thổi vùng bụng khi nghe hai bên rốn.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch mu chân, chày sau bắt rõ hai bên, đều, đối xứng. Không âm thổi động mạch cảnh.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Bàn chân khô nhẹ, có vài vết xước nhỏ đã se ở cẳng chân, không loét, không chai. Monofilament 10 g (3 vị trí mỗi bàn chân) cảm nhận đủ hai bên; âm thoa 128 Hz: rung còn ở ngón cái hai bên.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh táo, nói rõ, không méo miệng, sức cơ 5/5 bốn chi, phản xạ gân xương đều, Babinski âm tính, Romberg âm tính.",
+     "k": 1
+    },
+    "nhan_thuc_moca": {
+     "a": "Định hướng đầy đủ, nhớ lại 3 từ tốt, tính nhẩm đúng. Không nghi suy giảm nhận thức.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "Glucose huyết tương lúc đói (nhịn ăn từ tối qua): 8,4 mmol/L",
+     "ab": 1,
+     "n": "Lấy cùng mẫu với HbA1c: hai kết quả bất thường từ cùng một mẫu cho phép chẩn đoán đái tháo đường (ADA 2026 mục 2, Bảng 2.1). Không dùng glucose lấy lúc đang ốm cấp để chẩn đoán."
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "HbA1c 7,5% (58 mmol/mol)",
+     "ab": 1
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,8 mmol/L · Creatinin 92 µmol/L · eGFR 73 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.8,
+      "creat": 92,
+      "egfr": 73
+     },
+     "n": "Làm trước khi dùng ức chế men chuyển (QĐ 5904 Phần 3 mục G) và để chọn metformin (QĐ 5481 PL01 mục 2: chống chỉ định eGFR < 30). Creatinin, ure bình thường cũng gợi ý không mất nước."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 4,1 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.1,
+      "cl": 102
+     },
+     "n": "Na bình thường: không có mất nước hay rối loạn điện giải cần bù tĩnh mạch; K là mốc trước ức chế men chuyển (ADA 2026 KC 10.11)."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 4,9 · LDL-C 2,9 · HDL-C 1,1 · TG 1,9 mmol/L",
+     "ab": 1
+    },
+    "uacr": {
+     "v": "e",
+     "r": "UACR 22 mg/g (dưới 30 mg/g: chưa có albumin niệu)",
+     "n": "Cần ở người THA (ESC 2024 Bảng 8) và ĐTĐ mới chẩn đoán (ADA 2026 mục 11, KC 11.1a); một mẫu bình thường chưa loại trừ hẳn, nhất là ngay sau nhiễm siêu vi: lặp lại sau 3 tháng."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Glucose 1+ · Protein âm tính · Ceton âm tính · Hồng cầu âm tính · Bạch cầu âm tính · Tỷ trọng 1,014",
+     "ab": 1,
+     "bang": {
+      "u_glu": "1+",
+      "u_pro": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_ery": "Âm tính",
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_sg": 1.014
+     },
+     "n": "Ceton âm tính loại trừ nhiễm toan ceton; tỷ trọng 1,014 không cô đặc: không mất nước."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 78 l/p, trục trung gian. Sokolow-Lyon 25 mm, không ST-T bất thường, không sóng Q, không rung nhĩ.",
+     "n": "ESC 2024 Bảng 8: điện tim thường quy ở người THA (dày thất trái, rung nhĩ). Ngưỡng dày thất trái Sokolow-Lyon > 35 mm (VSH/VNHA 2024 Bảng 11). Không có siêu âm tim nên điện tim là công cụ duy nhất."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 126 g/L · BC 6,4 G/L · TC 251 G/L",
+     "bang": {
+      "wbc": 6.4,
+      "hgb": 126,
+      "plt": 251,
+      "rbc": 4.3,
+      "hct": 0.38,
+      "mcv": 88
+     },
+     "n": "Mệt kéo dài sau cảm: loại trừ thiếu máu và bội nhiễm (bạch cầu bình thường). ESC 2024 Bảng 8 xếp hematocrit/huyết sắc tố là xét nghiệm lần đầu ở người THA."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 2,1 mIU/L",
+     "n": "Thường quy theo ESC 2024 Bảng 8; QĐ 5904 không liệt kê. Làm hay không đều không trừ điểm (sổ mâu thuẫn, mục TSH)."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Aldosteron 10 ng/dL · Hoạt tính renin 1,7 ng/mL/giờ · ARR 5,9 (dưới ngưỡng sàng lọc)",
+     "n": "ESC 2024 Bảng khuyến cáo 13 (IIa): cân nhắc sàng lọc cường aldosteron nguyên phát; không làm không trừ điểm vì không THA kháng trị, không hạ kali (sổ mâu thuẫn). Lấy mẫu trước khi dùng ức chế men chuyển (ESC 2024 Bảng 12)."
+    },
+    "crp": {
+     "n": "Đã hết sốt, phổi sạch, không dấu nhiễm khuẩn; không tài liệu đã tải đưa CRP vào theo dõi cảm lạnh (ACP/CDC 2016 tr. 426)."
+    },
+    "test_nhanh_virus": {
+     "n": "Bệnh đã hơn 7 ngày, sốt hết, không đổi xử trí; cơ sở chỉ có xét nghiệm cơ bản."
+    },
+    "holter_ha": {
+     "n": "Không có máy đo HA 24 giờ; HA phòng khám ≥ 160/90 ở hai tay nhiều lần đủ chẩn đoán, khuyên đo HA tại nhà (ADA 2026 KC 10.2)."
+    },
+    "cxr": {
+     "n": "Không ho đờm, không khó thở, phổi sạch, SpO2 97%; cơ sở không có X-quang."
+    },
+    "echo": {
+     "n": "Không dấu suy tim; cơ sở không có siêu âm. ESC 2024 Bảng 9 xếp siêu âm tim là xét nghiệm tùy chọn."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp độ 2 chưa kiểm soát (HA 162–166/92–94 mmHg) kèm đái tháo đường típ 2 mới phát hiện (HbA1c 7,5%, glucose đói 8,4 mmol/L), chưa thấy biến chứng cơ quan đích; mệt sau nhiễm siêu vi đang hồi phục, có góp phần của tăng đường huyết chưa điều trị",
+     "ok": 1,
+     "n": "THA đã biết 8 năm, bỏ thuốc 2 tháng, HA ≥ 140/90 ở hai tay (QĐ 5904 Phần 1, đối tượng áp dụng; ADA 2026 KC 10.1: ≥ 130/80). ĐTĐ: HbA1c ≥ 6,5% và glucose đói ≥ 7,0 mmol/L cùng một mẫu (ADA 2026 mục 2, Bảng 2.1). Cảm lạnh kéo dài tối đa 14 ngày với sốt nhẹ, mệt, ho (ACP/CDC 2016 tr. 426); tài liệu đã tải không có mục riêng về mệt sau nhiễm siêu vi, nên phần mệt kéo dài cần giải thích bằng đường huyết cao, ăn kém và theo dõi. Đồng mắc nên đặt mục tiêu chung (ADA 2026 mục 10)."
+    },
+    {
+     "t": "Biến chứng cơ quan đích (thận, tim, mắt, thần kinh, mạch máu)",
+     "n": "Loại trừ ở mức khám được: UACR 22 mg/g, eGFR 73, điện tim không dày thất trái, không âm thổi, đáy mắt không xuất huyết hay xuất tiết, monofilament và âm thoa bình thường, mạch ngoại biên đủ, không dấu thần kinh khu trú (ESC 2024 Bảng 8, 9; ADA 2026 KC 12.4, mục 11). Chưa loại trừ hẳn: võng mạc cần khám giãn đồng tử; UACR cần lặp lại."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát",
+     "n": "Khởi phát THA ở tuổi 70, không kháng trị (chưa dùng thuốc đều), kali 4,1, creatinin bình thường, không đánh trống ngực, toát mồ hôi, ngáy nhẹ không ngưng thở, không dùng NSAID, cam thảo, thuốc cảm co mạch. Chưa có chỉ định tìm sâu (ESC 2024 Bảng khuyến cáo 13)."
+    },
+    {
+     "t": "Mất nước hoặc cần bù dịch tĩnh mạch",
+     "n": "Uống được, môi lưỡi ẩm, véo da mất ngay, Na 138, creatinin 92, tỷ trọng nước tiểu 1,014, HA tụt tư thế 8/2: không có dấu mất nước. QĐ 5904 Phần 3 Bước 4 mục A.8 liệt kê mất nước (da khô, véo da dương tính, môi se, khô niêm mạc) là dấu cần chuyển tuyến: ông không có."
+    },
+    {
+     "t": "Bội nhiễm vi khuẩn (viêm xoang, viêm phổi) sau cảm",
+     "n": "Hết sốt, không đờm mủ, phổi không ran, SpO2 97%, bạch cầu 6,4. Kháng sinh không dùng cho cảm lạnh (ACP/CDC 2016 tr. 426); viêm xoang cấp chỉ cân nhắc khi triệu chứng > 10 ngày, nặng > 3 ngày liên tiếp hoặc nặng lại sau 3 ngày (cùng bảng): ông không có."
+    },
+    {
+     "t": "Đái tháo đường mất bù cấp (nhiễm toan ceton, tăng áp lực thẩm thấu)",
+     "n": "Glucose đói 8,4 mmol/L, ceton niệu âm tính, tỉnh táo, uống được; QĐ 5904 Phần 3 Bước 4 mục A.8 chỉ chuyển khi glucose đói > 16,7 mmol/L, rối loạn ý thức hoặc mất nước: ông không có."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi ông mong muốn gì hôm nay, vì sao muốn khỏe nhanh; ghi nhận ông muốn truyền dịch để kịp gặt lúa; giải thích ông còn uống được, không mất nước, nên nước và thuốc uống là đủ; nhận ra mệt còn do đường huyết cao và đáp ứng bằng điều trị thật",
+     "v": "c",
+     "n": "Đáp ứng đúng động cơ thật, giữ lòng tin. Không tài liệu đã tải nào chỉ định truyền dịch cho người còn uống được (sổ mâu thuẫn: truyền dịch theo yêu cầu chấm w); QĐ 5904 Phần 3 Bước 4 mục A.8 chỉ nhắc mất nước thật sự."
+    },
+    {
+     "t": "Khẳng định THA bằng đo hai tay, đo tư thế đứng 1 và 3 phút; khẳng định ĐTĐ bằng HbA1c và glucose đói cùng mẫu",
+     "v": "c",
+     "n": "ESC 2024 mục 9.5 (đo tư thế trước khi bắt đầu hoặc tăng thuốc, I B); QĐ 5904 Phụ lục 1.1; ADA 2026 mục 2, Bảng 2.1."
+    },
+    {
+     "t": "Làm gói đánh giá có chỉ định bằng xét nghiệm cơ sở có: creatinin/eGFR, điện giải, UACR, lipid, nước tiểu, điện tim; khám đáy mắt, bàn chân, thần kinh",
+     "v": "c",
+     "n": "ESC 2024 Bảng 8; ADA 2026 KC 12.4, mục 11, 13.8. Không gọi X-quang, siêu âm, CT: cơ sở không có và không có chỉ định."
+    },
+    {
+     "t": "Làm thêm công thức máu, TSH, aldosteron/renin",
+     "v": "a",
+     "n": "Chấp nhận: công thức máu để loại trừ thiếu máu khi mệt (ESC 2024 Bảng 8); TSH và aldosteron theo sổ mâu thuẫn (TSH: ESC 2024 Bảng 8 có, QĐ 5904 không; aldosteron: ESC 2024 IIa)."
+    },
+    {
+     "t": "Đặt mục tiêu HA 130 đến < 140 mmHg tâm thu (< 140/90) đạt trong 1–3 tháng, hoặc < 130/80 mmHg nếu dung nạp tốt; kiểm tra hạ HA tư thế mỗi lần tái khám",
+     "v": "c",
+     "n": "Mâu thuẫn thật về mục tiêu. A: QĐ 5904/2019 Phần 3 Bước 5 mục A (tâm thu 130 đến < 140 mmHg ở người ≥ 65 tuổi) và mục B.3 (đạt trong 1–3 tháng); QĐ 5481/2020 Phần 4 mục 2, Bảng 5 (< 140/90). B: ADA 2026 KC 13.9 (< 130/80 nếu an toàn, nới lỏng khi sức khỏe kém), AHA/ACC 2025 mục 5.2.7 (< 130/80). Khác năm, bối cảnh, mức tin cậy ở người cao tuổi; HA 164/94 vượt ngưỡng cả hai nên quyết định điều trị không đổi."
+    },
+    {
+     "t": "Bắt đầu phối hợp hai thuốc liều thấp (perindopril 5 mg + amlodipin 5 mg) cùng thay đổi lối sống",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 Bước 5 mục C.2 (nên phối hợp sớm 2 thuốc, trừ THA độ 1 nguy cơ thấp, người ≥ 80 tuổi hoặc dễ tổn thương); ADA 2026 KC 10.7 (HA ≥ 150/90: hai thuốc hoặc viên phối hợp); ESC 2024 mục 9.3 (< 85 tuổi, không yếu: như người trẻ). Ưu tiên ức chế men chuyển/thụ thể ở ĐTĐ có THA (QĐ 5904 Phần 3 mục G; QĐ 5481 Phần 4 mục 6.1.3d)."
+    },
+    {
+     "t": "Bắt đầu một thuốc liều thấp (perindopril 5 mg hoặc amlodipin 5 mg) rồi tăng dần hoặc thêm thuốc sau 2–4 tuần",
+     "v": "a",
+     "n": "Chấp nhận: QĐ 5904 Phần 1 Bước 5 mục B.2 (người ≥ 80 tuổi hoặc dễ tổn thương không phối hợp sớm); ESC 2024 mục 9.3 (≥ 85 tuổi hoặc yếu). Ông 78 tuổi, khỏe, còn ra ruộng nên hai thuốc phù hợp hơn; nếu bác sĩ thấy ông dễ tổn thương thì một thuốc vẫn hợp lý."
+    },
+    {
+     "t": "Bắt đầu metformin 500 mg sau bữa tối, tăng 500 mg × 2 sau 4 tuần nếu glucose còn cao, hoặc tăng liều mỗi 5–7 ngày theo dung nạp; mục tiêu HbA1c < 7,5% (hoặc 7,0–7,5% nếu an toàn)",
+     "v": "c",
+     "n": "Mâu thuẫn thật (sổ: tốc độ tăng liều metformin). A: QĐ 5904 Phần 3 Bước 5 mục E (500 mg/ngày sau ăn tối, khám lại 4 tuần, 500 mg × 2, rồi 2000 mg/ngày). B: QĐ 5481 PL01 mục 2 (tăng từ từ mỗi 5–7 ngày, 500–2000 mg/ngày). HbA1c: QĐ 5904 Phần 3 Bước 5 mục A (7,5% cho người lớn tuổi), QĐ 5481 Bảng 5 (< 7,5%), ADA 2026 KC 13.7a (< 7,0–7,5%). eGFR 73, không cần chỉnh liều (QĐ 5481 PL01 mục 2: giảm liều khi eGFR 30–45)."
+    },
+    {
+     "t": "Chuyển khám mắt giãn đồng tử (ngoại trú) ngay khi chẩn đoán ĐTĐ",
+     "v": "c",
+     "n": "ADA 2026 KC 12.4; QĐ 5904 Phần 3 Bước 5 mục F.8.3 (khám mắt lúc bắt đầu phát hiện ĐTĐ). Khám đáy mắt không giãn đồng tử không đủ."
+    },
+    {
+     "t": "Cho dùng statin cường độ trung bình sau khi bàn lợi ích, nguy cơ (ông > 75 tuổi, LDL-C 2,9 mmol/L)",
+     "v": "a",
+     "n": "ADA 2026 KC 10.22–10.23, Hình 10.3: > 75 tuổi chưa dùng statin thì có thể cân nhắc cường độ trung bình. Mục tiêu LDL-C ở ≥ 75 tuổi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chăm sóc hỗ trợ sau cảm: uống đủ nước, ăn cháo cơm đủ bữa, nghỉ vài ngày trước khi ra ruộng; không dùng kháng sinh",
+     "v": "c",
+     "n": "ACP/CDC 2016 tr. 426: cảm lạnh do virus, kháng sinh không có lợi và không nên dùng; bệnh kéo dài tới 14 ngày. Mức uống nước cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Men tiêu hóa đang dùng: cho dùng tiếp khi đầy bụng, giải thích không phải thuốc chữa mệt",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải (sổ mâu thuẫn: men tiêu hóa chưa có nguồn, ghi nhận). Không tương tác đã biết với các thuốc kê hôm nay."
+    },
+    {
+     "t": "Dặn đo HA tại nhà, giảm muối, đi bộ, kiểm tra bàn chân, tái khám 2–4 tuần: HA, tư thế, creatinin, kali sau khi bắt đầu ức chế men chuyển",
+     "v": "c",
+     "n": "ADA 2026 KC 10.2 (đo HA tại nhà), KC 10.11 (theo dõi eGFR, kali); QĐ 5904 Phần 3 Bước 5 mục F (giảm muối, hoạt động thể lực, chăm sóc bàn chân); VSH/VNHA 2024 Đ4.1 (tái khám mỗi 2–4 tuần trong 2–3 tháng đầu)."
+    },
+    {
+     "t": "Truyền dịch (NaCl 0,9% hoặc glucose 5%) theo yêu cầu của ông, 'cho lại sức'",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải; QĐ 5904 Phần 3 Bước 4 mục A.8 chỉ nêu mất nước thật sự, ông không có. Glucose 5% làm tăng thêm đường huyết, chai muối thêm nước và muối cho người THA (suy ra từ thành phần chai). Chiều ý ông làm mất cơ hội nói rõ nguyên nhân mệt."
+    },
+    {
+     "t": "Kê kháng sinh 'cho chắc' vì mệt kéo dài sau cảm",
+     "v": "w",
+     "n": "ACP/CDC 2016 tr. 426: cảm lạnh không dùng kháng sinh; ông không có tiêu chí viêm xoang hay viêm phổi."
+    },
+    {
+     "t": "Khởi đầu sulfonylure (glibenclamid) vì 'rẻ, mạnh'",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2 (sulfonylure): tránh làm thuốc đầu hay thứ hai ở người cao tuổi; QĐ 5481 Phần 4 mục 4.2a xếp metformin đầu tay."
+    },
+    {
+     "t": "Phối hợp ức chế men chuyển với ức chế thụ thể angiotensin",
+     "v": "w",
+     "n": "ADA 2026 KC 10.9 (tránh phối hợp); QĐ 5481 Phần 4 mục 6.1.3d."
+    },
+    {
+     "t": "Hạ HA nhanh về dưới 140/90 bằng nifedipin ngậm dưới lưỡi",
+     "v": "h",
+     "n": "Không có tổn thương cơ quan đích cấp, không dấu hiệu cấp cứu: chỉnh thuốc uống ngoại trú, không hạ áp mạnh (AHA/ACC 2025 mục 6.2; sổ mâu thuẫn). Hạ nhanh ở người 78 tuổi dễ gây thiếu máu não, té ngã."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp độ 2, chưa kiểm soát (HA 162–166/92–94 mmHg), đã biết 8 năm, bỏ thuốc 2 tháng",
+     "Đái tháo đường típ 2 mới chẩn đoán (HbA1c 7,5%, glucose đói 8,4 mmol/L)",
+     "Chưa thấy biến chứng cơ quan đích: UACR 22 mg/g, eGFR 73, điện tim không dày thất trái, monofilament bình thường, đáy mắt không xuất huyết (cần khám giãn đồng tử)",
+     "Mệt sau nhiễm siêu vi hô hấp trên đang hồi phục, không bội nhiễm, không mất nước; tăng đường huyết chưa điều trị góp phần",
+     "Rối loạn lipid máu nhẹ (LDL-C 2,9; TG 1,9 mmol/L)",
+     "Yếu tố làm nặng: ăn mặn, bỏ thuốc, nước ngọt; yếu tố tâm lý: tin 'truyền chai nước biển sẽ khỏe', lo kịp vụ gặt"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (đợt cảm, uống nước và tiểu, thuốc đang dùng, ông mong gì hôm nay) → đo HA hai tay và tư thế → khám dấu mất nước, họng, phổi, đáy mắt, bàn chân, thần kinh → xét nghiệm cơ sở có → chẩn đoán → xử trí. Hỏi 'ông mong gì hôm nay, sắp có việc gì' mới ra nhu cầu truyền dịch để kịp gặt lúa.",
+     "THA: HA ≥ 140/90 mmHg ở hai tay, nhiều lần (QĐ 5904 Phần 1, đối tượng áp dụng), ≥ 130/80 theo ADA 2026 KC 10.1; HA không do cảm, vì không dùng thuốc co mạch, không sốt, không đau (sổ mâu thuẫn: số đo nhiễu). Ông bỏ amlodipin 2 tháng nên HA cao trở lại.",
+     "ĐTĐ: HbA1c 7,5% và glucose đói 8,4 mmol/L cùng mẫu đều ở ngưỡng chẩn đoán (ADA 2026 mục 2, Bảng 2.1). HbA1c phản ánh ba tháng nên không bị đợt cảm làm lệch như glucose lúc ốm; khát, tiểu đêm 3 lần, sụt 3 kg có từ trước đợt cảm nên bệnh đã có từ trước.",
+     "Không mất nước: uống được, môi lưỡi ẩm, véo da mất ngay, Na 138, creatinin 92, tỷ trọng nước tiểu 1,014, HA tụt tư thế chỉ 8/2 mmHg (dưới ngưỡng 20/10, ESC 2024 mục 9.5). Tiểu nhiều ở ông là do đường huyết, không phải do thiếu nước. QĐ 5904 Phần 3 Bước 4 mục A.8 ghi dấu mất nước cần chuyển tuyến: ông không có.",
+     "Không bội nhiễm: hết sốt, phổi sạch, bạch cầu 6,4, SpO2 97%; cảm lạnh tự khỏi trong tối đa 14 ngày, không dùng kháng sinh (ACP/CDC 2016 tr. 426).",
+     "Cơ quan đích: UACR 22, eGFR 73, Sokolow-Lyon 25 mm (ngưỡng > 35 mm, VSH/VNHA 2024 Bảng 11), đáy mắt, monofilament bình thường. Một mẫu UACR và đáy mắt không giãn đồng tử chưa loại trừ hẳn: lặp lại UACR và khám mắt (ADA 2026 KC 12.4, mục 11). THA thứ phát: chưa nghĩ tới (ESC 2024 Bảng khuyến cáo 13).",
+     "Ghi chú áp dụng (≥ 75 tuổi): chứng cứ trong các hướng dẫn ở nhóm tuổi này ít hơn người trẻ (nhận định người soạn); QĐ 5904 và ESC 2024 mục 9.3 có ngưỡng riêng cho ≥ 80 hoặc ≥ 85 tuổi, yếu. Ông 78 tuổi, tự lo, nhận thức tốt, còn ra ruộng nên được xếp như người cao tuổi khỏe; khi yếu hơn, đổi sang mục tiêu nới (HbA1c < 8,0–8,5%) và một thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng: cho về, hẹn tái khám 2–4 tuần. Không cấp cứu (HA < 180/110, không dấu thần kinh, không đau ngực); không nhập viện hay chuyển tuyến vì QĐ 5904 Phần 3 Bước 4 mục A chỉ chuyển khi THA có biến chứng nặng, glucose đói > 16,7 mmol/L, mất nước, rối loạn ý thức, nhiễm trùng nặng...; ông không có. Truyền dịch: không có chỉ định, giải thích bằng số đo của chính ông (uống được, Na, creatinin, nước tiểu bình thường).",
+     "Mục tiêu HA: 130 đến < 140 mmHg tâm thu trong 1–3 tháng (QĐ 5904 Phần 3 Bước 5 mục A, B.3; QĐ 5481 Bảng 5) hoặc < 130/80 nếu dung nạp (ADA 2026 KC 13.9; AHA/ACC 2025 mục 5.2.7). Hai cách đều đúng, ông hạ từ từ và kiểm tra tư thế mỗi lần.",
+     "Thuốc HA: phối hợp perindopril 5 mg + amlodipin 5 mg (QĐ 5904 Phần 3 mục C.2; ADA 2026 KC 10.7: ≥ 150/90; ESC 2024 mục 9.3) hoặc một thuốc rồi tăng dần (QĐ 5904 Phần 1 mục B.2). Ức chế men chuyển là thuốc hàng đầu ở ĐTĐ có THA (QĐ 5904 Phần 3 mục G); có creatinin, kali bình thường nên bắt đầu được ngay. Không phối hợp ức chế men chuyển với ức chế thụ thể (ADA 2026 KC 10.9).",
+     "ĐTĐ: lối sống và metformin 500 mg sau ăn tối (QĐ 5904 Phần 3 mục E bước 1; QĐ 5481 Phần 4 mục 4.2a). Tăng liều: sau 4 tuần (QĐ 5904 Phần 3 mục E) hoặc mỗi 5–7 ngày (QĐ 5481 PL01 mục 2). HbA1c mục tiêu < 7,5% (QĐ 5904 Phần 3 Bước 5 mục A; QĐ 5481 Bảng 5) hoặc 7,0–7,5% (ADA 2026 KC 13.7a).",
+     "Không sulfonylure đầu tay (AGS Beers 2023 Bảng 2). Statin cường độ trung bình bàn ở lần tái khám (ADA 2026 KC 10.23, Hình 10.3).",
+     "Khám mắt giãn đồng tử ngay (ADA 2026 KC 12.4; QĐ 5904 Phần 3 mục F.8.3). Hằng năm: đánh giá tổng thể, tầm soát hội chứng lão khoa (ADA 2026 KC 13.2; QĐ 5904 Phần 3 mục E).",
+     "Men tiêu hóa: không có trong tài liệu đã tải; không cần thiết, dùng tiếp khi đầy bụng không hại. Cần dặn metformin có thể gây đầy bụng, buồn nôn lúc đầu: uống ngay sau ăn (QĐ 5904 Phần 3 mục E)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2–4 tuần",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; thuốc hàng đầu cho ĐTĐ có THA; kiểm tra creatinin, kali trước và sau khi bắt đầu; tác dụng phụ: ho, tăng kali, tăng creatinin; chống chỉ định: tiền sử phù mạch (QĐ 5904 Phần 3 mục G; ADA 2026 KC 10.11). Không dùng chung ức chế thụ thể (ADA 2026 KC 10.9)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng lúc perindopril",
+      "so_ngay": "Dùng lâu dài (kê ngay nếu phối hợp 2 thuốc; hoặc thêm sau 2–4 tuần nếu chọn một thuốc và HA chưa đạt)",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (QĐ 5904 Phần 3 mục G). Dặn uống mỗi ngày, không chỉ khi thấy mệt (QĐ 5904 Phần 3 Bước 5 mục B.1)."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 lần/ngày, tăng 500 mg × 2 nếu glucose còn cao",
+      "duong": "Uống",
+      "thoi_diem": "Ngay sau bữa tối",
+      "so_ngay": "Dùng lâu dài; khám lại sau 4 tuần, HbA1c sau 3 tháng",
+      "ghi_chu": "Khởi đầu và tăng liều: sau 4 tuần 500 mg × 2 rồi tối đa 2000 mg/ngày (QĐ 5904 Phần 3 mục E) hoặc tăng mỗi 5–7 ngày, 500–2000 mg/ngày (QĐ 5481 PL01 mục 2, Bảng 14); chống chỉ định eGFR < 30, giảm liều khi 30–45 (QĐ 5481 PL01 mục 2). Cần uống ngay sau ăn để giảm đầy bụng."
+     },
+     {
+      "thuoc": "Statin cường độ trung bình (atorvastatin hoặc rosuvastatin)",
+      "ham_luong": "không ghi hàm lượng",
+      "lieu": "Cường độ trung bình, sau khi bàn lợi ích-nguy cơ",
+      "duong": "Uống",
+      "thoi_diem": "Có thể bắt đầu ở lần tái khám",
+      "so_ngay": "Dùng lâu dài nếu đồng ý",
+      "ghi_chu": "ADA 2026 KC 10.22–10.23, Hình 10.3 (> 75 tuổi chưa dùng statin: cân nhắc cường độ trung bình). Hàm lượng tương ứng cường độ trung bình: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Men tiêu hóa (đang tự dùng)",
+      "ham_luong": "không rõ",
+      "lieu": "Không bắt buộc",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn khi đầy bụng",
+      "so_ngay": "Tùy ông",
+      "ghi_chu": "Không có trong tài liệu đã tải; không thay thế được điều trị đường huyết và huyết áp."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc huyết áp mỗi ngày kể cả khi không mệt: không phải 'thuốc uống khi cần', điều trị hằng ngày và lâu dài (QĐ 5904 Phần 3 Bước 5 mục B.1); đừng để hết thuốc rồi mới lấy.",
+     "Ông còn uống được nên nước và cơm cháo là đủ; chai nước biển không giúp có sức mà còn thêm muối, đường; dấu hiệu mất nước thật sự mới cần xử trí ở tuyến trên (QĐ 5904 Phần 3 Bước 4 mục A.8). Nghỉ vài ngày (mức cụ thể không có trong tài liệu đã tải), uống đủ nước, ăn đủ bữa, ra ruộng nhẹ nhàng, tránh dầm mưa; gặt thì chia nhỏ, nhờ con cháu khiêng gánh nặng.",
+     "Mua hoặc mượn máy đo HA đã kiểm chuẩn, đo sáng và tối 3 ngày trước mỗi lần tái khám, ghi sổ (ADA 2026 KC 10.2); đứng dậy từ từ.",
+     "Giảm cá khô, mắm, dưa muối, nước ngọt đóng chai; ăn cơm vừa phải, thêm rau (QĐ 5904 Phần 3 Bước 5 mục F.1, F.3); đi bộ ≥ 30 phút/ngày, 5 ngày/tuần khi khỏe (mục F.4).",
+     "Kiểm tra bàn chân hằng ngày, đi giày dép, vết xước chậm lành phải đi khám (QĐ 5904 Phần 3 Bước 5 mục F.8.4).",
+     "Đi khám mắt giãn đồng tử trong 1–2 tuần (ADA 2026 KC 12.4).",
+     "Đi khám ngay hoặc gọi cấp cứu khi: yếu liệt, méo miệng, nói khó, đau ngực, khó thở, ngất; sốt lại, ho đờm vàng xanh; khát và tiểu nhiều tăng, lờ đờ, nôn không uống được (QĐ 5904 Phần 3 Bước 4 mục A.8).",
+     "Tái khám sau 2–4 tuần: mang sổ HA, thuốc; kiểm tra HA nằm đứng, creatinin, kali; sau 3 tháng đo lại HbA1c, UACR (VSH/VNHA 2024 Đ4.1; ADA 2026 KC 10.11)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Lượm không được truyền dịch, nhưng nghe con gái và bác sĩ giải thích nên về nghỉ vài ngày, uống thuốc đều. Tuần sau mệt giảm rõ, ăn ngon lại, khát và tiểu đêm giảm; ông gặt lúa nhẹ cùng con cháu. HA tại nhà sau 2 tuần 152/88, sau 4 tuần 142/84, đến tháng thứ 2 còn 134/80 mmHg (QĐ 5904 Phần 3 Bước 5 mục B.3: nhắm đạt mục tiêu trong 1–3 tháng). Bác sĩ mắt thấy đục thể thủy tinh nhẹ, chưa có bệnh võng mạc. HbA1c sau 3 tháng 6,9%. Quỹ đạo bình thường; cần lo khi HA không giảm sau 3 tháng dù dùng đủ liều, HA tư thế tụt ≥ 20/10 mmHg, tăng creatinin hoặc kali sau ức chế men chuyển (ADA 2026 KC 10.11; ESC 2024 mục 9.5), khi đó chuyển tuyến theo QĐ 5904 Phần 3 Bước 4.",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt: trả lời đủ, nhận xét nghiệm; điểm khó là lời đề nghị 'truyền chai nước biển' đến từ niềm tin chung ở quê, cần giải thích bằng số đo của chính ông.",
+  "Lý do thật là truyền dịch để kịp vụ gặt lúa; lời khai chính lại là mệt sau cảm.",
+  "Khát, tiểu đêm, sụt cân bị coi là chuyện tuổi già nên ông không nói; chỉ ra khi hỏi trực tiếp."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi 'mệt sau cảm' không phải lúc nào cũng do cảm: đo HA hai tay, tư thế và hỏi khát, tiểu đêm, sụt cân trước khi nói do virus (ADA 2026 mục 2; ESC 2024 mục 9.5).",
+  "Đòi truyền dịch: hỏi mong muốn thật, chứng minh không mất nước bằng dấu hiệu và xét nghiệm (QĐ 5904 Phần 3 Bước 4 mục A.8), rồi đáp ứng bằng điều trị đúng; chiều ý là lựa chọn sai.",
+  "Chẩn đoán ĐTĐ bằng HbA1c + glucose đói cùng mẫu (ADA 2026 mục 2, Bảng 2.1); không dùng glucose lúc đang ốm. Mục tiêu HA và tốc độ tăng metformin có hai cách đúng (QĐ 5904 Phần 3 so với ADA 2026, QĐ 5481 PL01).",
+  "Hồi phục ổn định: HA hạ từ từ trong 1–3 tháng; tái khám 2–4 tuần (VSH/VNHA 2024 Đ4.1) và kiểm tra HA tư thế mỗi lần."
+ ],
+ "diem_nho": [
+  "Chẩn đoán ĐTĐ: HbA1c ≥ 6,5% và glucose đói ≥ 7,0 mmol/L cùng mẫu (ADA 2026 mục 2, Bảng 2.1).",
+  "HA mục tiêu: 130 đến < 140 tâm thu (QĐ 5904 Phần 3 Bước 5 mục A) hoặc < 130/80 nếu dung nạp (ADA 2026 KC 13.9; AHA/ACC 2025 mục 5.2.7).",
+  "Phối hợp sớm 2 thuốc trừ ≥ 80 tuổi hoặc dễ tổn thương (QĐ 5904 Phần 3 mục C.2); ≥ 150/90 dùng 2 thuốc (ADA 2026 KC 10.7). Không ức chế men chuyển + ức chế thụ thể (ADA 2026 KC 10.9).",
+  "Dấu mất nước cần chuyển: da khô, véo da dương tính, môi se, khô niêm mạc; glucose đói > 16,7 mmol/L (QĐ 5904 Phần 3 Bước 4 mục A.8).",
+  "Metformin: 500 mg sau ăn tối, tăng sau 4 tuần (QĐ 5904 Phần 3 mục E) hoặc mỗi 5–7 ngày (QĐ 5481 PL01 mục 2).",
+  "Cảm lạnh: virus, tối đa 14 ngày, không kháng sinh (ACP/CDC 2016 tr. 426)."
+ ],
+ "nguon": [
+  "ADA Standards of Care 2026 (TL-0296) – ĐÃ ĐỌC mục 2 (Bảng 2.1), 10 (KC 10.1–10.2, 10.7–10.9, 10.11, 10.22–10.23, Hình 10.3), 11, 12 (KC 12.4), 13 (KC 13.2, 13.7a, 13.8, 13.9).",
+  "Bộ Y tế – QĐ 5904/QĐ-BYT 2019 (TL-0284) – ĐÃ ĐỌC Phần 1 Bước 4, 5 (mục B.2), Phụ lục 1.1; Phần 3 Bước 4 (mục A.2, A.8), Bước 5 (mục A–G).",
+  "Bộ Y tế – QĐ 5481/QĐ-BYT 2020 (TL-0031) – ĐÃ ĐỌC Phần 4 mục 2 (Bảng 5), 4.2a, 6.1.1–6.1.3; PL01 mục 2 (metformin, Bảng 14).",
+  "ESC 2024 tăng huyết áp (TL-0305) mục 9.3, 9.5, Bảng 8, 9, 12, Bảng khuyến cáo 13. AHA/ACC 2025 (TL-0297) mục 5.2.7, 6.2. VSH/VNHA 2024 (TL-0288) Đ4.1, Bảng 11.",
+  "ACP/CDC 2016 – Appropriate Antibiotic Use for Acute Respiratory Tract Infection in Adults (TL-0156), bảng tr. 426. AGS Beers 2023 (TL-0022) Bảng 2."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28: viết ca MT-0748 (bản 1). Tài liệu đã đọc: TL-0296 (ADA 2026 mục 2, 10–13), TL-0284 (QĐ 5904 Phần 1, 3), TL-0031 (QĐ 5481), TL-0305 (ESC 2024), TL-0156 (ACP/CDC 2016), TL-0022; TL-0297, TL-0288 qua sổ mâu thuẫn.",
+  "Mâu thuẫn dùng lại (sổ): mục tiêu HA ở người cao tuổi bị ĐTĐ; tốc độ tăng liều metformin (MT-0741); truyền dịch theo yêu cầu chấm w; TSH, aldosteron chấm a; khởi 1 hay 2 thuốc (MT-0756, MT-0724).",
+  "Không có trong tài liệu đã tải: hiệu quả men tiêu hóa; hàm lượng statin cường độ trung bình; mục riêng về mệt sau nhiễm siêu vi; mức uống nước khuyến cáo; truyền dịch ngoại trú cho người uống được; ngưỡng cụ thể ADA KC 10.7 khi chỉ tâm thu ≥ 150 (ca chọn HA 164/94 để tránh mơ hồ)."
+ ]
+}

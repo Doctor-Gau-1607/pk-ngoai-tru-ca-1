@@ -1,0 +1,857 @@
+{
+ "ma_ca": "HH-0776",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "HH_cum_mua",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Cúm mùa",
+  "chan_doan_phai_loai_tru": [
+   "COVID-19",
+   "Sốt xuất huyết giai đoạn sớm"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Mở lại chẩn đoán",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Lao công (công nhân vệ sinh môi trường, quét đường)",
+  "yeu_to_khoi_phat": "Sau lao động ngoài trời nắng nặng",
+  "thuoc_dang_dung": "Thuốc dạ dày tự mua (omeprazol)",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng nên lo lắng",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Thị Mận",
+  "tuoi": 34,
+  "gioi": "Nữ",
+  "nghe": "Lao công (công nhân vệ sinh môi trường), quét đường ca 5 giờ–13 giờ",
+  "can_nang": 52,
+  "chieu_cao": 154,
+  "xung_ho": "Bác sĩ gọi chị là 'chị' hoặc 'chị Mận'; chị xưng 'em' với bác sĩ.",
+  "tinh_cach": "Quen đứng nắng 11 năm, ít khi nghỉ vì nghỉ là mất tiền công ngày. Hay lướt Facebook, TikTok, đọc clip 'cúm biến chứng viêm phổi ở người trẻ', 'sốt xuất huyết ngày thứ ba nguy hiểm' rồi tự dọa mình. Ngoài mặt cộc, bên trong lo và mệt.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: nản, mất lòng tin, mở đầu 'đi ba chỗ rồi, chỗ nào cũng bảo cảm'; trả lời cộc, hỏi ngược 'bác sĩ có khác mấy chỗ kia không'. Không tự kể ba nơi cho thuốc gì; chỉ kể đủ khi bác sĩ ghi nhận chị mệt mỏi rồi hỏi từng nơi (có ai nghe phổi, đo oxy, dặn quay lại không) hoặc xin xem túi thuốc. Dễ bỏ ngang nếu bị làm lại xét nghiệm đã làm.",
+  "nguoi_nha": "Chồng, anh Tùng, 36 tuổi, chạy xe ôm công nghệ, đưa chị đi lượt 2 và 3 (lượt 1 chị đi một mình). Ít nói, lo; không biết chị đã đi làm lại khi còn mệt.",
+  "ten_nguoi_nha": "Anh Tùng (chồng)",
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#1c1511",
+   "kieuToc": "buoc",
+   "ao": "#f08a24",
+   "aoKieu": "dong_phuc",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#b88862",
+    "toc": "#15100d",
+    "kieuToc": "ngan",
+    "ao": "#2f4858",
+    "aoKieu": "polo",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, đau mình mẩy đã 3 ngày, uống thuốc ba nơi không đỡ; đọc mạng thấy giống sốt xuất huyết, sợ nặng",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tư khu dân cư không có máy siêu âm và người làm siêu âm (kéo theo không CT, không nội soi). Làm được: xét nghiệm máu, test nhanh cúm/COVID, NS1, X-quang ngực thẳng, SpO₂. Siêu âm màng phổi và chọc dịch dưới siêu âm chỉ có ở bệnh viện quận cách 8 km. Phải quyết định bằng khám, X-quang và xét nghiệm có sẵn."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · sáng thứ Tư, ngày bệnh thứ 3 (khoảng 60 giờ từ lúc sốt)",
+   "tiep_don": "Thứ Tư 8 giờ 30, phòng khám tư khu dân cư (có xét nghiệm, X-quang, không có siêu âm). Chị Mận, 34 tuổi, lao công, đi một mình, xin nghỉ ca lần đầu. Sốt, đau người, ho; đã đi ba nơi, uống thuốc ba ngày không đỡ. Nhiệt 38,3 °C, mạch 98 l/p, HA 110/70 mmHg, nhịp thở 20 l/p, SpO₂ 98% khí trời.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị thở 20 l/p, SpO₂ 98%, uống được, phổi sạch: không có biểu hiện cúm nặng (QĐ 1840/2025 mục II.2.3), cúm nhẹ điều trị ngoại trú (mục III.2.2). Nằm viện làm chị mất ba ngày công, nghe thêm 'cảm thôi' ở nơi thứ tư và càng mất lòng tin; điều chị cần là lời giải thích cho nỗi sợ đọc từ mạng.",
+    "chuyen_tuyen": "Chuyển chị lên bệnh viện quận chỉ để chụp phổi, xét nghiệm là quá tay: QĐ 1840/2025 mục III.2.4 dành tuyến theo dõi suy hô hấp cho cúm nặng, còn xét nghiệm làm được tại chỗ. Chị mất cả buổi chờ ở cấp cứu đông, tốn tiền xe, rồi vẫn nhận xử trí ngoại trú."
+   },
+   "loi_mo": "Em đi ba chỗ rồi mà vẫn sốt, đau mình mẩy. Chỗ nào cũng bảo cảm nắng, uống thuốc ba ngày là hết. Em đọc trên mạng thì giống sốt xuất huyết, hay cúm biến chứng viêm phổi. Bác sĩ coi giùm em có nặng không, cho em xét nghiệm hết đi cho chắc.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "110/70",
+    "nhiet": "38,3",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt, đau mình mẩy, ho khan, đau họng từ thứ Hai. Đi ba nơi, uống thuốc ba ngày không đỡ. Đọc mạng sợ sốt xuất huyết hoặc cúm biến chứng viêm phổi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chủ nhật quét đường ngoài nắng gắt 5–13 giờ, uống ít nước, tối ớn lạnh. Rạng sáng thứ Hai sốt 39,2 °C đột ngột, rét run, đau cơ, đau đầu, đau họng, ho khan, chảy mũi trong. Chị tưởng cảm nắng.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi bệnh bắt đầu thế nào, lúc nào.",
+     "k": 1,
+     "y": "Khởi phát đột ngột sau lao động nắng nặng (cái neo cảm nắng)",
+     "nhieu": 2
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Tổ quét đường 12 người, 4 người sốt ho từ Chủ nhật–thứ Hai; một chị khám bệnh viện quận được test nhanh cúm A dương tính.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi đồng nghiệp, người cùng nhà có ai bị tương tự không.",
+     "k": 1,
+     "y": "Dịch tễ: ổ cúm nơi làm việc, một ca đã khẳng định"
+    },
+    {
+     "id": "dau_hieu",
+     "noi_dung": "Không khó thở, đau ngực, ho ra máu, đờm vàng xanh; uống nước được, tiểu bình thường. Không đau bụng, nôn, chảy máu, ban, nhức hốc mắt. Cùng dãy trọ có cháu bị sốt xuất huyết tháng trước.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi khó thở, đau ngực, đờm; dấu hiệu gợi sốt xuất huyết; ca quanh nhà.",
+     "k": 1,
+     "y": "Chưa dấu hiệu nặng, chưa viêm phổi; không dấu cảnh báo sốt xuất huyết (mốc cho lượt sau)"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Thứ Hai: nhà thuốc đầu ngõ bán thuốc cảm 3 gói/ngày và paracetamol 500 mg. Thứ Ba: trạm y tế phường (khám vài phút, cho paracetamol, siro ho, vitamin C, bảo cảm nắng); chiều một phòng khám tư (thuốc cảm viên, long đờm). Chị uống cả ba bộ cùng lúc: mỗi ngày khoảng 6–8 viên paracetamol 500 mg cộng 3 gói và 3 viên thuốc cảm không rõ thành phần; vỏ thuốc còn trong túi. Chưa nơi nào nghe phổi, đo oxy hay dặn khi nào quay lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể đủ khi bác sĩ ghi nhận chị đã đi nhiều nơi mệt mỏi rồi hỏi từng nơi cho thuốc gì, mỗi ngày mấy viên, có ai nghe phổi, dặn tái khám không; hoặc xin xem túi thuốc.",
+     "k": 1,
+     "y": "Ba nơi khám trước; paracetamol trùng lặp",
+     "nhieu": 1
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không hen, tim, phổi, tiểu đường, huyết áp; không hút thuốc, rượu; chưa tiêm vắc xin cúm. Omeprazol 20 mg tự mua khi đau thượng vị 2–3 lần/tuần, mấy hôm nay không đau; không dị ứng thuốc. Kinh đều, kỳ cuối cách 12 ngày, dùng bao cao su, không nghi có thai.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi bệnh nền, thuốc đang dùng, dị ứng, tiêm phòng, kinh nguyệt.",
+     "k": 1,
+     "y": "Không bệnh nền, không thai; omeprazol tự mua"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Chị xem clip nói cúm có thể thành viêm phổi nặng ở người trẻ, sốt xuất huyết ngày thứ ba hay chuyển nặng nên muốn xét nghiệm hết. Chị cũng sợ mất việc: công ty đòi giấy khám khi nghỉ quá một ngày.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi hỏi nhẹ nhàng chị lo điều gì nhất, đọc ở đâu.",
+     "k": 1,
+     "y": "Động cơ thật: lo lắng vì thông tin trên mạng; áp lực mất việc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da nóng, mặt đỏ do nắng, môi khô nhẹ, không tím, nói được câu dài. Nhiệt 38,3 °C.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không mủ. Mũi dịch trong, niêm mạc phù. Hạch cổ không to.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không rút lõm. Rì rào phế nang rõ hai bên, không ran. Rung thanh đều.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da nóng, hồng, không ban, không chấm xuất huyết, không vết bầm. Đầu chi ấm.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "u",
+     "r": "Cúm A dương tính · SARS-CoV-2 âm tính",
+     "ab": 1,
+     "n": "Ca nghi ngờ + test nhanh dương = ca khẳng định (QĐ 1840/2025 mục II.2.1, II.2.4.2). NICE NG237 khuyến cáo 1.3.3: không dùng test cúm để quyết định kháng sinh; ở đây dùng để chẩn đoán và làm mốc (sổ mâu thuẫn: test virus chấm u)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 3,9 G/L · Lympho 26% · Hb 128 g/L · TC 182 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 3.9,
+      "neu_pct": 62.0,
+      "neu": 2.42,
+      "lym_pct": 26.0,
+      "lym": 1.01,
+      "mono_pct": 9.0,
+      "mono": 0.35,
+      "eos_pct": 2.0,
+      "eos": 0.08,
+      "baso_pct": 1.0,
+      "baso": 0.04,
+      "rbc": 4.3,
+      "hgb": 128,
+      "hct": 0.38,
+      "mcv": 88.4,
+      "mch": 29.8,
+      "mchc": 337,
+      "rdw": 13.0,
+      "plt": 182
+     },
+     "n": "Bạch cầu giảm nhẹ, tiểu cầu > 100 G/L, Hct bình thường (QĐ 2760/2023 mục II.1.2). Không bắt buộc ở cúm nhẹ (QĐ 1840 mục II.2.2); làm là mốc cho lượt sau."
+    },
+    "ns1": {
+     "v": "a",
+     "r": "NS1 âm tính · IgM âm tính · IgG âm tính",
+     "n": "NS1 làm được ngày 1–7 (QĐ 2760/2023 mục III.1.1). Làm hay không đều chấp nhận được nếu dặn theo dõi ngày 3–7 (mục II.2)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không thấy tổn thương nhu mô, góc sườn hoành hai bên nhọn.",
+     "n": "Không chỉ định: X-quang khi nghi viêm phổi hoặc suy hô hấp (QĐ 1840/2025 mục II.2.2); chị thở 20 l/p, SpO₂ 98%, phổi sạch."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm mùa thể nhẹ (cúm A, test nhanh dương), chưa biến chứng, không có yếu tố nguy cơ cúm nặng",
+     "ok": 1,
+     "n": "Khởi phát đột ngột sốt, đau cơ, đau đầu, ho khan, đau họng (QĐ 1840/2025 mục II.1.1), ổ cúm nơi làm, test dương (mục II.2.4.2). Nhẹ: chỉ triệu chứng hô hấp trên, SpO₂ 98% (mục II.2.3); 34 tuổi, không bệnh nền, không thai nên chưa nguy cơ. Chưa có viêm phổi: không đau ngực, đờm mủ, thở 20 l/p, phổi không ran (QĐ 2147/2026 mục 3.1.1); đây là mốc so với lượt sau."
+    },
+    {
+     "t": "COVID-19",
+     "n": "Test nhanh SARS-CoV-2 âm; lâm sàng giống cúm nên không phân biệt được chỉ bằng khám (QĐ 1840 mục II.2.4.3). Bản chữ QĐ 2671/2023 lỗi OCR, không trích số liệu."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue giai đoạn sốt",
+     "n": "Sốt ngày 3, đau cơ, đau đầu giống (QĐ 2760/2023 mục II.1.1). Ngược lại: ho, đau họng, ổ cúm, dây thắt âm, không nhức hốc mắt hay xuất huyết; nếu làm: NS1 âm, tiểu cầu 182 G/L. Ngày 3–7 là giai đoạn nguy hiểm (mục II.2) nên vẫn dặn."
+    },
+    {
+     "t": "Say nắng, cảm nắng",
+     "n": "Cái neo của chị và ba nơi trước. Sốt kéo dài ba ngày kèm ho, đau họng, đồng nghiệp bị giống nhau, test cúm A dương không hợp. Tài liệu đã tải không có hướng dẫn bệnh do nóng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị tại nhà: nghỉ ngơi, uống nhiều nước, ăn đủ, nghỉ làm, đeo khẩu trang, rửa tay",
+     "v": "c",
+     "n": "Cúm nhẹ: hạ sốt giảm đau, bù nước điện giải, dinh dưỡng, tư vấn theo dõi dấu hiệu nặng (QĐ 1840/2025 mục III.2.2); hạn chế lây (mục IV.2). Số ngày nghỉ làm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ paracetamol đơn chất 500 mg/lần khi sốt hoặc đau, cách ≥ 6 giờ, tối đa 4 viên (2 g)/ngày hoặc đến 4 g/ngày; ngưng thuốc cảm tổng hợp; không aspirin, ibuprofen",
+     "v": "c",
+     "n": "Hai trần: 4 viên 0,5 g/ngày (QĐ 4235/2012 mục 3.4) hoặc ≤ 4 g/24 giờ (QĐ 361/2014 mục 3.1); chọn 2 g vì chị đã dùng nhiều, dạ dày yếu. QĐ 2760/2023 mục IV.A.1: đơn chất, không aspirin, ibuprofen. Hàm lượng paracetamol trong thuốc cảm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng virus (cúm nhẹ, người khỏe mạnh, đã quá 48 giờ)",
+     "v": "c",
+     "n": "QĐ 1840 mục III.2.2: ngoại trú nhẹ chỉ kháng virus khi có yếu tố nguy cơ; WHO 2024 (TL-0133) không khuyến cáo cho nguy cơ thấp; CDC 2026 (TL-0139) tr. 6 cho cân nhắc nếu bắt đầu trong 48 giờ. Chị đã khoảng 60 giờ nên cả ba nguồn cùng không kê (sổ mâu thuẫn HH-0769, HH-0789)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích vì sao dù đã đi ba nơi chưa đỡ",
+     "v": "c",
+     "n": "QĐ 1840/2025 mục III.2.2: không kháng sinh cho cúm nhẹ; WHO 2024 khuyến cáo mạnh không dùng ở cúm không nặng ít nghĩ bội nhiễm."
+    },
+    {
+     "t": "Ghi nhận chị đã mệt vì đi ba nơi, hỏi từng nơi cho thuốc gì, nghe phổi, đo SpO₂, hỏi chị lo gì nhất",
+     "v": "c",
+     "n": "Cách làm lâm sàng để tái lập niềm tin và tìm động cơ thật (đọc mạng, sợ mất việc); tài liệu đã tải không có khuyến cáo riêng."
+    },
+    {
+     "t": "Dặn dấu hiệu nặng, hẹn tái khám thứ Sáu (48 giờ): sốt hạ rồi tái lại, ho đờm vàng xanh, đau ngực khi hít sâu, khó thở; đau bụng, nôn nhiều, chảy máu, tay chân lạnh",
+     "v": "c",
+     "n": "Tư vấn theo dõi dấu hiệu nặng (QĐ 1840 mục III.2.2, II.1.2); điển hình viêm phổi: sốt cao, rét run, đờm mủ, đau ngực màng phổi (QĐ 2147 mục 3.1.1); sốt xuất huyết ngày 3–7: đau bụng, nôn, tay chân lạnh (QĐ 2760 mục II.2, IV.A.3b)."
+    },
+    {
+     "t": "Oseltamivir 75 mg × 2 lần/ngày × 5 ngày",
+     "v": "a",
+     "n": "Không nguồn nào nói kê muộn gây hại; BYT chỉ định cho nguy cơ nặng (QĐ 1840 mục III.2.1–2.2); QĐ 2147 mục 5.4.1.8: ngoại trú hiệu quả trong 48 giờ."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin, azithromycin) cho chắc",
+     "v": "w",
+     "n": "Không chỉ định ở cúm nhẹ (QĐ 1840/2025 mục III.2.2; WHO 2024 khuyến cáo mạnh không dùng)."
+    },
+    {
+     "t": "Cho uống thêm aspirin hoặc thuốc cảm có aspirin",
+     "v": "h",
+     "n": "Aspirin ở người cúm có thể gây hội chứng Reye đe dọa tính mạng (QĐ 1840/2025 mục III.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm mùa thể nhẹ do cúm A (test nhanh dương), ngày 3, chưa biến chứng, không yếu tố nguy cơ cúm nặng (QĐ 1840/2025 mục II.2.3, II.2.4.2)",
+     "Đã loại ở mức có sẵn: COVID-19 (test âm), sốt xuất huyết giai đoạn sốt; chưa có viêm phổi. Nhiễu: paracetamol trùng lặp, neo cảm nắng, lo lắng do mạng"
+    ],
+    "phan_tich_chan_doan": [
+     "Nghĩ cúm: ổ cúm cùng tổ, khởi phát đột ngột sốt, đau cơ, đau đầu, ho khan, đau họng (QĐ 1840 mục II.1.1, II.2.4.1); test dương là ca khẳng định (mục II.2.4.2). Cảm nắng chỉ giải thích lúc khởi phát; sốt xuất huyết thiếu nhức hốc mắt, ban, xuất huyết và có ho, test cúm dương (QĐ 2760/2023 mục II.1), nhưng ngày 3–7 là giai đoạn nguy hiểm (mục II.2) nên cần dặn.",
+     "Mốc cho lượt sau: hôm nay không đờm mủ, đau ngực, khó thở, SpO₂ 98%, bạch cầu 3,9 G/L. Tái sốt kèm các dấu hiệu đó thì không còn cúm đơn thuần (QĐ 2147/2026 mục 3.1.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về: không tiêu chuẩn cúm nặng (QĐ 1840 mục II.2.3); không kháng virus vì khỏe mạnh và ngoài 48 giờ (QĐ 1840 mục III.2.2; WHO 2024; CDC 2026 tr. 6); không kháng sinh (mục III.2.2).",
+     "Việc quan trọng nhất là thôi bộ ba thuốc trùng nhau, chỉ paracetamol đơn chất có giờ và liều trần (QĐ 4235/2012 mục 3.4; QĐ 361/2014 mục 3.1). Lòng tin đến từ nghe phổi, đo SpO₂, giải thích bằng số liệu, dặn rõ khi nào quay lại: điều ba nơi trước bỏ qua."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (đơn chất)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần (khoảng 9,6 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt từ 38,5 °C hoặc đau nhiều, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần, 3–5 ngày; tối đa 4 viên (2 g)/ngày",
+      "ghi_chu": "QĐ 4235/2012 mục 3.4 (0,5 g/lần, ≤ 4 viên/ngày); QĐ 361/2014 mục 3.1 (≤ 4 g/24 giờ; 2 g thận trọng hơn); QĐ 2760/2023 mục IV.A.1 (đơn chất). Ngưng thuốc cảm tổng hợp. Omeprazol đang tự dùng giữ như cũ; tương tác với thuốc cúm: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống nhiều nước, ăn cháo; nghỉ làm đến khi hết sốt; khẩu trang (QĐ 1840 mục IV.2); bỏ thuốc cảm, siro ho; không tự mua kháng sinh.",
+     "Tái khám thứ Sáu dù hết sốt. Đến ngay khi sốt hạ rồi tái lại, ho đờm vàng xanh, đau ngực khi hít sâu, khó thở, môi tím, đau bụng, nôn nhiều, chảy máu, tay chân lạnh (QĐ 1840 mục II.1.2, III.2.2; QĐ 2760 mục IV.A.3b). Giấy khám cho công ty; số ngày nghỉ: không có trong tài liệu đã tải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sáng thứ Hai tuần sau, ngày bệnh thứ 8",
+   "tiep_don": "Thứ Hai 7 giờ 45, chị Mận quay lại, chồng đưa đến. Lượt 1: cúm A khẳng định, ngưng thuốc cảm tổng hợp, chỉ paracetamol đơn chất, không kháng virus, không kháng sinh, hẹn tái khám thứ Sáu nhưng chị không đến. Hôm nay sốt lại từ tối qua. Nhiệt 38,9 °C, mạch 112 l/p, HA 105/65 mmHg, nhịp thở 24 l/p, SpO₂ 95% khí trời. Chị nhăn mặt khi hít sâu, nói ngay: 'bác sĩ bảo cúm mà sao còn sốt lại, chẩn sai rồi phải không'.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị 34 tuổi, tỉnh, thở 24 l/p, HA 105/65, ure 4,6 mmol/L nên CURB-65 bằng 0, nhóm ngoại trú (QĐ 2147/2026 mục 3.2.1); X-quang một thùy, không tràn dịch, SpO₂ 95%, có chồng chăm (mục 3.2.3 ghi chú, 5.3.1). Nhập viện làm chị mất thêm 5–7 ngày công mà không hơn thuốc uống, và càng ngại quay lại khi thật sự nặng.",
+    "chuyen_tuyen": "Chuyển lên bệnh viện quận chụp CT hay siêu âm khi X-quang đã rõ viêm phổi một thùy là quá tay: CT chỉ khi viêm phổi nặng, phức tạp, X-quang không rõ (QĐ 2147/2026 mục 3.1.4). Chị mất một buổi chờ, tốn tiền xe, kháng sinh bị chậm."
+   },
+   "loi_mo": "Bác sĩ nói cúm rồi mà sao em sốt lại? Em uống đúng thuốc, đỡ mấy hôm rồi tự nhiên rét run, ho đờm vàng, đau bên ngực phải. Em đi mấy chỗ rồi chỗ nào cũng bảo cảm, bây giờ bác sĩ nói em bị gì nữa đây?",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "105/65",
+    "nhiet": "38,9",
+    "nhip_tho": 24,
+    "spo2": 95,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt lại từ chiều Chủ nhật, rét run, ho đờm vàng đặc, đau nhói bên ngực phải khi hít sâu, hơi hụt hơi khi đi nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lượt 2"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau lượt 1: thứ Năm sốt còn 37,6 °C, thứ Sáu hết sốt, đỡ đau cơ, còn ho khan; thấy khỏe nên không quay lại. Thứ Bảy đi làm lại, quét đường 4 tiếng ngoài nắng. Chủ nhật tối rét run, sốt 39,4 °C, đêm ho nhiều, đờm vàng đặc, không máu.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi từ lượt trước đến nay diễn ra thế nào, sốt hết lúc nào, đã làm gì.",
+     "k": 1,
+     "y": "Quỹ đạo hai pha: đỡ rồi tái sốt kèm triệu chứng mới (điều buộc mở lại hồ sơ)"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Đau nhói dưới ngực phải, tăng khi hít sâu và ho, nằm nghiêng phải đỡ. Không đau thắt giữa ngực, không lan tay, không đau sưng bắp chân, không đi xa, không dùng thuốc nội tiết. Hụt hơi khi đi nhanh, không khó thở lúc nghỉ, không tím môi, không ho ra máu.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi tính chất đau, yếu tố tăng giảm; hỏi chân, đi xa, thuốc nội tiết.",
+     "k": 1,
+     "y": "Đau ngực màng phổi, mức nặng (khó thở gắng sức, chưa suy hô hấp); ít gợi thuyên tắc phổi"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ thứ Tư chỉ paracetamol 500 mg khi sốt (3–4 viên/ngày), bỏ thuốc cảm; omeprazol như cũ; chưa kháng sinh. Kinh đều, kỳ tới sau khoảng 10 ngày, bao cao su, không nghi có thai.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi thuốc đã dùng kể từ lần trước, có kháng sinh không, kinh nguyệt.",
+     "k": 1,
+     "y": "Chưa dùng kháng sinh; không thai (trước khi chụp X-quang, kê thuốc)"
+    },
+    {
+     "id": "ngai_chan_doan",
+     "noi_dung": "Chị nghĩ 'cúm tái lại do đi làm' hoặc bác sĩ chẩn sai, định xin kháng sinh mạnh rồi đi làm tiếp vì sợ mất tiền công; giấu chồng chuyện đi làm thứ Bảy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng chị nghĩ gì về lần sốt lại, vì sao không quay lại thứ Sáu, hoặc công việc mấy hôm nay.",
+     "k": 1,
+     "y": "Động cơ thật tiếp nối: sợ mất tiền công, mất lòng tin; lý do tái sốt",
+     "nhieu": 1
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Anh Tùng nghỉ chạy xe để chăm chị; nhà cách phòng khám 15 phút, có xe. Ba đồng nghiệp cùng đợt cúm đã khỏi sau 4–5 ngày, chỉ chị sốt lại. Có BHYT.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi ai chăm chị, nhà xa gần, đồng nghiệp ra sao.",
+     "k": 1,
+     "y": "Có người chăm, quay lại được (điều kiện ngoại trú an toàn)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, da nóng, môi khô, không tím, nói câu ngắn rồi ngừng lấy hơi. Nhiệt 38,9 °C.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p. Đáy phổi phải: rung thanh tăng, gõ đục nhẹ, tiếng thở phế quản và ran nổ nhỏ hạt. Phổi trái bình thường.",
+     "k": 1,
+     "hien": "Nhịp thở 24 l/p. Không rút lõm lồng ngực; chị nhăn mặt khi hít sâu.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-PQ-01",
+       "chu": "Tiếng thở phế quản."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (bên)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 112 l/p (sốt), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "SpO₂ lúc nghỉ 95%, sau đi bộ 6 phút còn 93%, hụt hơi nhẹ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "e",
+     "r": "Đám mờ đông đặc thùy dưới phổi phải, có hình phế quản hơi. Góc sườn hoành hai bên nhọn, không thấy tràn dịch. Phổi trái sạch, bóng tim không to.",
+     "ab": 1,
+     "n": "X-quang khi nghi viêm phổi (QĐ 1840/2025 mục II.2.2); phế nang một thùy kèm phế quản hơi (QĐ 2147/2026 mục 3.1.3). Không tràn dịch, một thùy: chưa có lý do nhập viện (mục 3.2.3 ghi chú, 5.3.1)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 15,6 G/L · Neutrophil 84% · Hb 124 g/L · TC 296 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.6,
+      "neu_pct": 84.0,
+      "neu": 13.1,
+      "lym_pct": 9.0,
+      "lym": 1.4,
+      "mono_pct": 6.0,
+      "mono": 0.94,
+      "eos_pct": 0.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.08,
+      "rbc": 4.2,
+      "hgb": 124,
+      "hct": 0.37,
+      "mcv": 88.1,
+      "mch": 29.5,
+      "mchc": 335,
+      "rdw": 13.1,
+      "plt": 296
+     },
+     "n": "Bạch cầu > 10 G/L ưu thế đa nhân (QĐ 2147/2026 mục 3.1.2), đổi hướng so với 3,9 G/L lượt 1. Tiểu cầu 296 G/L, Hct 0,37: không gợi sốt xuất huyết."
+    },
+    "crp": {
+     "v": "u",
+     "r": "142 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 142
+     },
+     "n": "CRP tăng (QĐ 2147 mục 3.1.2). NICE NG237 khuyến cáo 1.3.4: trên 100 mg/L thì cho kháng sinh ngay; ở đây đã có X-quang nên làm mốc theo dõi."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,6 mmol/L · Creatinin 68 µmol/L · eGFR > 90 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 68,
+      "egfr": 112
+     },
+     "n": "Ure > 7 mmol/L mới tính 1 điểm CURB-65 (QĐ 2147 mục 3.2.1); chị 0 điểm, thận bình thường nên không chỉnh liều (Phụ lục 1)."
+    },
+    "flu": {
+     "v": "n",
+     "r": "Cúm A dương tính yếu · SARS-CoV-2 âm tính",
+     "n": "Không lặp lại: lượt 1 đã khẳng định cúm A; chỉ cần kết quả dương để bổ sung oseltamivir (QĐ 2147 mục 5.3.1). PCT và cấy đờm dành cho người nhập viện (mục 3.1.2, 5.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm A (khẳng định lượt 1) có biến chứng viêm phổi thùy dưới phải, nghĩ bội nhiễm vi khuẩn sau cúm; mức nhẹ, CURB-65 bằng 0",
+     "ok": 1,
+     "n": "Tái sốt sau 2 ngày hết sốt (cúm sốt 3–5 ngày, QĐ 1840/2025 mục II.1.1), ho đờm mủ, đau ngực màng phổi, đông đặc đáy phổi phải, X-quang, bạch cầu 15,6 G/L (QĐ 2147/2026 mục 3.1.1–3.1.3). Viêm phổi là biểu hiện nặng của cúm (QĐ 1840 mục II.1.2); căn nguyên sau cúm: phế cầu, tụ cầu vàng, liên cầu nhóm A (QĐ 2147 mục 2.1.2). CURB-65 = 0: ngoại trú (mục 3.2.1)."
+    },
+    {
+     "t": "Cúm kéo dài, tái phát",
+     "n": "Cúm chỉ sốt 3–5 ngày (QĐ 1840 mục II.1.1), không giải thích được đờm mủ, đau màng phổi, đông đặc trên X-quang. Đây là chẩn đoán dễ neo nhất ('bác sĩ đã bảo cúm')."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue",
+     "n": "Ngày 8, qua giai đoạn nguy hiểm ngày 3–7 (QĐ 2760/2023 mục II.2); tiểu cầu 296 G/L, Hct 0,37, không xuất huyết."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Là nguyên nhân không nhiễm trùng cần nhớ khi thất bại điều trị (QĐ 2147 mục 5.5.2.2a); hiện chẩn đoán thay thế rõ hơn: đông đặc, đờm mủ, bạch cầu cao, chân không sưng, không yếu tố huyết khối."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Mở lại hồ sơ: nói thẳng cúm không sai nhưng nay có thêm viêm phổi sau cúm; ghi nhận chị đã quay lại đúng lúc; hỏi vì sao không đến thứ Sáu, mấy hôm nay làm gì",
+     "v": "c",
+     "n": "Cúm tổn thương biểu mô đường hô hấp, tạo điều kiện vi khuẩn xâm nhập (QĐ 2147/2026 mục 2.1.2). Lời nói, hỏi hoàn cảnh là cách làm lâm sàng, tài liệu đã tải không có khuyến cáo riêng."
+    },
+    {
+     "t": "Điều trị ngoại trú, đánh giá lại sau 48–72 giờ",
+     "v": "c",
+     "n": "CURB-65 = 0 (tuổi < 65, thở < 30, HA tâm thu ≥ 90 và tâm trương > 60, ure ≤ 7, tỉnh): ngoại trú (QĐ 2147 mục 3.2.1); một thùy, không tràn dịch, uống được, có người chăm (mục 5.3.1). Đánh giá sau 48–72 giờ, xấu hơn thì đổi phác đồ (mục 5.2)."
+    },
+    {
+     "t": "Amoxicillin/acid clavulanic 875/125 mg uống 2 lần/ngày × 7 ngày, hoặc amoxicillin 1 g × 3 lần/ngày",
+     "v": "c",
+     "n": "Người < 65 không bệnh nền: amoxicillin 1 g × 3 lần/ngày; nghĩ H. influenzae (gần 50% tiết beta-lactamase ở Việt Nam) nên amoxicillin/acid clavulanic (QĐ 2147 mục 5.3.1; Bảng 4.4: 875/125 mg mỗi 8–12 giờ); bội nhiễm sau cúm có tụ cầu vàng (mục 2.1.2). Thời gian 7–10 ngày (mục 5.2) hoặc 5–7 ngày nếu đáp ứng trong 2–3 ngày (mục 5.6.2): chọn 7, không dưới 5 (sổ mâu thuẫn HH-0930 mục 1)."
+    },
+    {
+     "t": "Bổ sung oseltamivir 75 mg uống 2 lần/ngày × 5 ngày",
+     "v": "c",
+     "n": "Viêm phổi có cúm dương: bổ sung oseltamivir không phụ thuộc thời gian bệnh (QĐ 2147 mục 5.3.1, 5.4.1.8; QĐ 1840 mục III.2.1: 75 mg × 2 lần/ngày × 5 ngày); CDC 2026 (TL-0139) tr. 5: người nặng, biến chứng điều trị kể cả muộn. Lượt 1 không kê là đúng vì nhẹ, ngoài 48 giờ."
+    },
+    {
+     "t": "Paracetamol đơn chất 500 mg khi sốt hoặc đau ngực, cách ≥ 6 giờ, tối đa 4 viên (2 g)/ngày hoặc đến 4 g/ngày",
+     "v": "c",
+     "n": "4 viên 0,5 g/ngày (QĐ 4235/2012 mục 3.4) hoặc không quá 4 g/24 giờ (QĐ 361/2014 mục 3.1); 2 g thận trọng hơn. NSAID cho đau ngực: không có trong tài liệu đã tải; chị đau dạ dày nên tránh."
+    },
+    {
+     "t": "Không lặp test cúm, không procalcitonin, cấy đờm, CT, D-dimer ở lượt này; giải thích vì sao",
+     "v": "c",
+     "n": "Cúm đã khẳng định; PCT, cấy đờm cho người nhập viện (QĐ 2147 mục 3.1.2, 5.2); CT cho viêm phổi nặng, phức tạp (mục 3.1.4). Chị đã mất lòng tin vì bị làm lại."
+    },
+    {
+     "t": "Dặn quay lại ngay: thở ≥ 30 l/p, khó thở lúc nghỉ, môi tím, SpO₂ < 90%, ho ra máu, lú lẫn, đau ngực tăng, không hạ sốt sau 48–72 giờ; tái khám thứ Năm (72 giờ); nghỉ làm",
+     "v": "c",
+     "n": "Thở ≥ 30, lú lẫn, HA thấp trong CURB-65 (QĐ 2147 mục 3.2.1); SpO₂ dưới 90% khí trời trong thất bại muộn (mục 5.5.1b); tổn thương tiến triển 48–72 giờ là lý do nhập viện (mục 5.3.1). Số ngày nghỉ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục xử trí như cúm: chỉ paracetamol, không kháng sinh, hẹn 48 giờ",
+     "v": "w",
+     "n": "Viêm phổi có chỉ định kháng sinh; hoãn gây thất bại, biến chứng (QĐ 2147/2026 mục 5.3.1, 5.5.1; QĐ 1840 mục II.1.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm A (khẳng định lượt 1) có biến chứng viêm phổi thùy dưới phải bội nhiễm vi khuẩn sau cúm; nhẹ: CURB-65 = 0, SpO₂ 95%, không tràn dịch (QĐ 2147/2026 mục 3.1, 3.2.1)",
+     "Diễn tiến hai pha: đỡ 2 ngày rồi tái sốt kèm triệu chứng mới; đi làm lại ngoài nắng sớm, bỏ hẹn thứ Sáu. Đã loại ở mức hiện có: sốt xuất huyết, thuyên tắc phổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Điều buộc mở lại hồ sơ: sốt trở lại sau 2 ngày hết sốt (cúm sốt 3–5 ngày, QĐ 1840 mục II.1.1) cộng ho đờm mủ, đau ngực màng phổi (QĐ 2147 mục 3.1.1). Cúm không giải thích được đờm mủ, đông đặc đáy phải, bạch cầu 3,9 lên 15,6 G/L. Cúm không sai mà chưa đủ: virus tổn thương biểu mô, vi khuẩn xâm nhập (mục 2.1.2).",
+     "CURB-65 = 0 (ure 4,6; thở 24; HA 105/65; tỉnh; 34 tuổi; QĐ 2147 mục 3.2.1) nên ngoại trú; nhiều thùy, tràn dịch, tiến triển 48–72 giờ chưa có (mục 3.2.3 ghi chú, 5.3.1). Không có siêu âm: X-quang góc sườn hoành nhọn đủ để nói hôm nay chưa tràn dịch, nhưng phải hẹn lại vì đó là biến chứng đã biết (mục 3.5.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh ngay: amoxicillin/acid clavulanic 875/125 mg × 2 lần/ngày × 7 ngày (QĐ 2147 mục 5.3.1, Bảng 4.4, mục 5.2); amoxicillin 1 g × 3 lần/ngày hoặc 5–7 ngày (mục 5.6.2) cũng đúng. Bổ sung oseltamivir vì có cúm dương, không phụ thuộc thời gian bệnh (mục 5.3.1, 5.4.1.8).",
+     "Không lặp xét nghiệm đã có hay không cần ở ngoại trú (QĐ 2147 mục 3.1.2, 5.2). Phần khó nhất là lòng tin: không nói 'đúng như tôi dặn', không đổ lỗi chị đi làm; nói 'cúm không sai, có thêm biến chứng', hẹn 48–72 giờ, dặn dấu hiệu quay lại."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin/acid clavulanic",
+      "ham_luong": "Viên 875 mg/125 mg",
+      "lieu": "1 viên/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, cách nhau 12 giờ",
+      "so_ngay": "7 ngày (xem lại ở tái khám)",
+      "ghi_chu": "QĐ 2147/2026 mục 5.3.1, Bảng 4.4 (875/125 mg mỗi 8–12 giờ), Phụ lục 1 (875 mg mỗi 12 giờ khi thận bình thường), mục 5.2 và 5.6.2 (thời gian). Thay thế: amoxicillin 1 g × 3 lần/ngày."
+     },
+     {
+      "thuoc": "Oseltamivir",
+      "ham_luong": "Viên 75 mg",
+      "lieu": "75 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1; QĐ 2147/2026 mục 5.3.1, 5.4.1.8. Thận bình thường nên không chỉnh liều."
+     },
+     {
+      "thuoc": "Paracetamol (đơn chất)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau ngực, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần; tối đa 4 viên (2 g)/ngày",
+      "ghi_chu": "QĐ 4235/2012 mục 3.4 hoặc QĐ 361/2014 mục 3.1 (4 g/ngày); 2 g thận trọng hơn."
+     }
+    ],
+    "dan_do": [
+     "Uống đủ 7 ngày kháng sinh, 5 ngày oseltamivir dù hết sốt (QĐ 2147 mục 5.3.1, 5.4.1.8); nghỉ làm, không ra nắng, uống nhiều nước.",
+     "Quay lại ngay nếu thở nhanh, khó thở lúc nghỉ, môi tím, ho ra máu, lú lẫn, đau ngực tăng (QĐ 2147 mục 3.2.1, 5.2). Tái khám thứ Năm (72 giờ, QĐ 2147 mục 5.2), mang vỏ thuốc; mời anh Tùng cùng nghe dặn."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sáng thứ Năm, sau 72 giờ kháng sinh, ngày bệnh thứ 11",
+   "tiep_don": "Thứ Năm 8 giờ, chị Mận đến cùng anh Tùng đúng mốc hẹn 72 giờ. Theo lượt 2: amoxicillin/acid clavulanic 875/125 mg × 2 lần/ngày, oseltamivir 75 mg × 2 lần/ngày, paracetamol đơn chất, nghỉ làm. Chị ngồi thở nhanh, tựa vào chồng. Nhiệt 38,6 °C, mạch 108 l/p, HA 105/65 mmHg, nhịp thở 26 l/p, SpO₂ 93% khí trời.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Đổi kháng sinh uống rồi cho về hẹn 48 giờ là bỏ sót tràn dịch màng phổi đã lấp góc sườn hoành: tiêu chuẩn nhập viện đã đủ (tiến triển 48–72 giờ, tràn dịch; QĐ 2147/2026 mục 3.2.3 ghi chú, 5.3.1), sơ đồ mục 5.5.2 cần siêu âm, chọc dịch. Dịch không được dẫn lưu, chị sốt dai dẳng, khó thở hơn, có thể cấp cứu muộn với tràn mủ (mục 3.5.2).",
+    "theo_doi": "Giữ chị vài giờ rồi cho thuốc về không giải quyết được vì không có siêu âm: không đo được lượng dịch, không tìm vách, không chọc dò an toàn (QĐ 2147/2026 sơ đồ mục 5.5.2). Chị mất nửa ngày, SpO₂ có thể tụt thêm, chuyển tuyến bị chậm."
+   },
+   "loi_mo": "Em uống đúng hết thuốc rồi mà không đỡ, còn tức nặng ngực, đi vài bước là hụt hơi. Em sợ bị lao hay bệnh gì nặng. Bác sĩ cho em thuốc mạnh hơn đi, em không dám nằm viện đâu.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "105/65",
+    "nhiet": "38,6",
+    "nhip_tho": 26,
+    "spo2": 93,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Uống đủ 3 ngày thuốc vẫn sốt, tức nặng ngực phải, hụt hơi khi đi lại. Chị sợ lao hoặc bệnh nặng và sợ nằm viện.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lượt 3"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày đầu uống thuốc sốt hạ còn 38,0 °C, hai ngày nay lên 38,5–39,0 °C về chiều dù paracetamol. Ho bớt nhưng đờm vẫn vàng. Cơn đau nhói bên phải đã giảm nhưng chuyển thành tức nặng như bị đè.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi sau lượt trước sốt, ho, đau ngực thay đổi thế nào.",
+     "k": 1,
+     "y": "Sốt dai dẳng sau 72 giờ kháng sinh"
+    },
+    {
+     "id": "kho_tho_moi",
+     "noi_dung": "Từ hôm qua mới thấy khó thở khi đi bộ ra cổng hoặc lên cầu thang phải dừng, nằm nghiêng trái thì tức, nằm nghiêng phải dễ chịu, đêm phải kê cao đầu. Không ho ra máu, không đờm hôi.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi khó thở lúc đi lại, tư thế nằm, ho ra máu.",
+     "k": 1,
+     "y": "Triệu chứng mới: khó thở gắng sức, đổi theo tư thế (gợi tràn dịch màng phổi)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống đủ 6 liều amoxicillin/acid clavulanic và oseltamivir, đúng giờ; paracetamol 3–4 viên/ngày. Nghỉ làm 3 ngày. Từ hôm qua phân lỏng 2 lần, không máu, không đau bụng. Không đau sưng bắp chân, không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi đã uống thuốc đủ chưa, giờ nào, có thuốc nào khác, tiêu hóa, chân, dị ứng.",
+     "k": 1,
+     "y": "Tuân thủ đúng nên thất bại không do bỏ thuốc; tiêu chảy nhẹ là nhiễu"
+    },
+    {
+     "id": "so_nhap_vien",
+     "noi_dung": "Chị sợ nằm viện: tốn tiền, mất việc, nghe người quen vào viện bị chọc ống vào ngực. Anh Tùng khuyên đi, chị từ chối; chỉ đồng ý khi được giải thích bằng phim X-quang và lý do phải có máy siêu âm. Có BHYT; bệnh viện đa khoa quận cách 8 km, có siêu âm; đi taxi được.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi hỏi vì sao chị chần chừ khi nghe chuyển viện, hoặc chị lo gì nhất nếu vào viện; hỏi bảo hiểm, đường đi.",
+     "k": 1,
+     "y": "Động cơ thật kéo dài: sợ nằm viện, tốn tiền, mất việc",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, ngồi thẳng, nói câu ngắn rồi ngừng lấy hơi. Da nóng, môi khô, không tím. Nhiệt 38,6 °C.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p, lồng ngực phải di động kém hơn trái. Đáy phổi phải: rung thanh giảm, gõ đục từ góc xương bả vai xuống dưới, rì rào phế nang giảm rõ, không ran; trên vùng đục còn tiếng thở phế quản. Phổi trái bình thường.",
+     "k": 1,
+     "hien": "Nhịp thở 26 l/p. Lồng ngực phải di động kém hơn trái khi hít sâu.",
+     "media": [
+      {
+       "vi_tri": "Giữa phổi phải (phía sau)",
+       "id": "AT-PHOI-PQ-01",
+       "chu": "Tiếng thở phế quản."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 108 l/p (sốt, thiếu oxy), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "di_bo_spo2": {
+     "a": "SpO₂ lúc nghỉ 93%, đi bộ chừng 3 phút phải dừng vì hụt hơi, SpO₂ còn 90%.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "e",
+     "r": "Đông đặc thùy dưới phổi phải còn, rộng hơn lượt trước, lan lên phân thùy lân cận. Góc sườn hoành phải bị lấp, bờ trên dịch dạng đường cong, lên khoảng một phần ba dưới phổi. Trung thất không lệch. Phổi trái sạch.",
+     "ab": 1,
+     "n": "Tràn dịch màng phổi cận viêm phổi, tổn thương tiến triển trong 48–72 giờ (QĐ 2147/2026 mục 3.5.2, 5.3.1, 5.5.1b). Không có siêu âm nên không đo được lượng dịch, vách; cần siêu âm và chọc dịch (sơ đồ mục 5.5.2)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "238 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 238
+     },
+     "n": "CRP tăng từ 142 lên 238 mg/L sau 72 giờ kháng sinh, ủng hộ thất bại điều trị (QĐ 2147 mục 3.1.2, 5.5.1b)."
+    },
+    "xpert": {
+     "v": "a",
+     "r": "Xpert MTB/RIF đờm: không phát hiện MTB. Soi AFB đờm: âm tính.",
+     "n": "Chị sợ lao; lao là nguyên nhân cần nhớ khi thất bại điều trị (QĐ 2147 mục 5.5.2.2a) nhưng khởi phát cấp sau cúm, bạch cầu đa nhân cao: nghiêng về nhiễm khuẩn thường. Làm là chấp nhận được."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cúm A (đã khẳng định) – viêm phổi thùy dưới phải bội nhiễm, thất bại điều trị ngoại trú muộn, có tràn dịch màng phổi phải cận viêm phổi (chưa loại trừ tràn mủ)",
+     "ok": 1,
+     "n": "Sốt dai dẳng sau 72 giờ kháng sinh đúng, X-quang tiến triển, SpO₂ 93%: thất bại điều trị (QĐ 2147/2026 mục 5.5.1, khoảng 10–15%); khó thở theo tư thế, gõ đục, rì rào giảm, X-quang lấp góc sườn hoành: tràn dịch màng phổi (mục 3.5.2, 5.5.2.2c). Tràn dịch kèm tiến triển: nên nhập viện kháng sinh tĩnh mạch (mục 5.3.1). Dengue (ngày 3–7) không còn phù hợp ở ngày 11 (QĐ 2760/2023 mục II.2)."
+    },
+    {
+     "t": "Tràn mủ màng phổi",
+     "n": "Sốt dai dẳng, dịch là mủ, hay gặp ở viêm phổi màng phổi (QĐ 2147 mục 3.5.2). Chưa phân biệt được với tràn dịch cận viêm phổi nếu không chọc dịch dưới siêu âm; phòng khám không có siêu âm."
+    },
+    {
+     "t": "Thuyên tắc phổi, lao phổi",
+     "n": "Cần nhớ khi thất bại điều trị (QĐ 2147 mục 5.5.2.2a; CT mạch bị khóa ở đây). Hiện không phù hợp: bạch cầu 18,4, CRP 238, chân không sưng, khởi phát cấp sau cúm; nghĩ lại nếu dẫn lưu mà không đáp ứng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến trong ngày đến bệnh viện đa khoa quận có siêu âm và khoa Nội hô hấp để siêu âm, chọc dịch, nhập viện kháng sinh tĩnh mạch; chồng đi cùng, đi ô tô, mang phim và thuốc",
+     "v": "c",
+     "n": "Tràn dịch và tiến triển trong 48–72 giờ: nên nhập viện kháng sinh tĩnh mạch (QĐ 2147/2026 mục 3.2.3 ghi chú, 5.3.1); thất bại có tràn dịch: siêu âm và chọc dịch (sơ đồ mục 5.5.2, 5.5.2.2c). Phòng khám không có siêu âm. Cách vận chuyển: không có trong tài liệu đã tải (ô tô, ngồi tựa là cách làm lâm sàng)."
+    },
+    {
+     "t": "Giải thích bằng phim: chị không uống sai, thất bại điều trị gặp khoảng 10–15% và cần máy siêu âm; hỏi chị lo gì khi vào viện",
+     "v": "c",
+     "n": "Thất bại điều trị khoảng 10–15% (QĐ 2147 mục 5.5.1a). BHYT, chi phí, giấy chuyển: không có trong tài liệu đã tải. Động cơ thật là sợ nằm viện, tốn tiền, mất việc; giải quyết thì chị mới đi."
+    },
+    {
+     "t": "Viết giấy chuyển đủ diễn biến, thuốc và giờ liều cuối, CRP, phim X-quang lượt 2 và 3; lấy đờm Gram, cấy nếu làm nhanh; không đổi kháng sinh tại phòng khám",
+     "v": "c",
+     "n": "Lấy bệnh phẩm trước khi đổi kháng sinh (QĐ 1840/2025 mục III.2.3; QĐ 2147 mục 5.5.2.2d, 5.5.2.3). Việc đổi thuộc về bệnh viện sau khi có dịch và cấy."
+    },
+    {
+     "t": "Cho liều kháng sinh và oseltamivir kế tiếp đúng giờ, ngồi nửa nằm, theo dõi SpO₂ trên đường đi, paracetamol nếu sốt",
+     "v": "c",
+     "n": "Tiếp tục oseltamivir (QĐ 2147 mục 5.3.1, 5.4.1.8) và kháng sinh đến khi có kết quả. Tư thế, theo dõi trên đường đi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về nhà, đổi kháng sinh uống, hẹn lại 48 giờ",
+     "v": "w",
+     "n": "Tràn dịch và tổn thương tiến triển là lý do nhập viện (QĐ 2147/2026 mục 3.2.3 ghi chú, 5.3.1); thất bại có tràn dịch cần siêu âm và chọc dịch (mục 5.5.2.2c)."
+    },
+    {
+     "t": "Tự chọc dò màng phổi tại phòng khám không có siêu âm",
+     "v": "w",
+     "n": "Chọc dò dưới siêu âm (sơ đồ QĐ 2147 mục 5.5.2); tràn mủ có thể do chọc dò gây bội nhiễm (mục 3.5.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cúm A (khẳng định lượt 1) – viêm phổi thùy dưới phải bội nhiễm, thất bại điều trị muộn tại ngoại trú: sốt dai dẳng, X-quang tiến triển, SpO₂ 93% (QĐ 2147/2026 mục 5.5.1b)",
+     "Tràn dịch màng phổi phải cận viêm phổi, chưa loại trừ tràn mủ (mục 3.5.2); tuân thủ thuốc tốt; tiêu chảy nhẹ không liên quan; đã loại ở mức hiện có: sốt xuất huyết, thuyên tắc phổi, lao"
+    ],
+    "phan_tich_chan_doan": [
+     "Triệu chứng mới là dữ kiện đắt nhất: khó thở khi đi lại, đổi theo tư thế, đau nhói thành tức nặng; cộng gõ đục, rì rào giảm, X-quang: tràn dịch màng phổi, biến chứng đã biết của viêm phổi (QĐ 2147 mục 3.5.2).",
+     "Thất bại muộn: sốt dai dẳng sau 72 giờ, tổn thương tiến triển (QĐ 2147 mục 5.5.1b); không do sai thuốc hay bỏ thuốc, thất bại khoảng 10–15% (mục 5.5.1a). X-quang cho thấy tràn dịch nhưng không phân biệt trong hay mủ, không đo lượng dịch: sơ đồ mục 5.5.2 dẫn tới siêu âm và chọc dịch nên phải chuyển."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến vì tràn dịch, tiến triển (QĐ 2147 mục 3.2.3 ghi chú, 5.3.1) và vì không có siêu âm; kháng sinh tĩnh mạch, chọc dịch, cấy do bệnh viện làm. Chưa đổi kháng sinh tại phòng khám: cần bệnh phẩm trước (QĐ 1840 mục III.2.3; QĐ 2147 mục 5.5.2.3); tiếp tục oseltamivir (mục 5.4.1.8).",
+     "Chuẩn bị chuyển: giấy chuyển, phim, thuốc đã dùng, chồng đi cùng, giải quyết nỗi sợ nằm viện. Vận chuyển, BHYT: không có trong tài liệu đã tải. Tiêu chảy nhẹ là tác dụng phụ của kháng sinh, không đổi xử trí (tần suất: không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin/acid clavulanic (đang dùng)",
+      "ham_luong": "Viên 875 mg/125 mg",
+      "lieu": "1 viên/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Liều kế tiếp đúng giờ trước khi đi",
+      "so_ngay": "Đến khi bệnh viện đổi hoặc cho tĩnh mạch",
+      "ghi_chu": "QĐ 2147/2026 mục 5.2 (nhập viện nên bắt đầu kháng sinh tĩnh mạch), 5.5.2.3. Phác đồ tĩnh mạch cụ thể do bệnh viện quyết, không ghi ở đây."
+     },
+     {
+      "thuoc": "Oseltamivir (đang dùng)",
+      "ham_luong": "Viên 75 mg",
+      "lieu": "75 mg/lần, 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, liều kế tiếp đúng giờ",
+      "so_ngay": "Hết 5 ngày (còn khoảng 4 liều)",
+      "ghi_chu": "QĐ 1840/2025 mục III.2.1; QĐ 2147/2026 mục 5.4.1.8."
+     },
+     {
+      "thuoc": "Paracetamol (đơn chất)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt, cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần; tối đa 4 viên (2 g)/ngày",
+      "ghi_chu": "QĐ 4235/2012 mục 3.4 hoặc QĐ 361/2014 mục 3.1 (4 g/ngày); 2 g thận trọng hơn."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay, không về nhà lấy đồ; mang phim, phiếu thuốc, giấy chuyển; anh Tùng đi cùng. Ngồi tựa; báo ngay nếu khó thở tăng, tím môi, lú lẫn (QĐ 2147 mục 3.2.1).",
+     "Bệnh viện sẽ siêu âm và chọc ít dịch để xét nghiệm, đó là cách tìm nguyên nhân (QĐ 2147 sơ đồ mục 5.5.2). BHYT, giấy nghỉ làm: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Mận được anh Tùng chở taxi đến bệnh viện đa khoa quận ngay buổi sáng, nhập khoa Nội hô hấp. Siêu âm: tràn dịch màng phổi phải lượng vừa, có vách; chọc dò ra dịch đục, đặt dẫn lưu, kháng sinh tĩnh mạch. Sốt hết sau 4 ngày, rút dẫn lưu ngày thứ 7, ra viện ngày thứ 10, nghỉ thêm 3 tuần mất thu nhập; anh Tùng trách 'sao không đi khám sớm hơn'. Mọi quyết định ở phòng khám đều đúng với dữ kiện lúc đó. Điểm gãy nằm ngoài phòng khám: ba nơi đầu không ai nghe phổi hay dặn khi nào quay lại; chị bỏ hẹn thứ Sáu vì hết sốt và đi làm lại ngoài nắng thứ Bảy, nên sốt tái lại chỉ được nhìn thấy sau hai ngày. Tràn dịch cận viêm phổi là biến chứng đã biết (QĐ 2147/2026 mục 3.5.2); thất bại điều trị khoảng 10–15% (mục 5.5.1a).",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: nhà thuốc, trạm y tế, phòng khám tư đều bảo cảm, không ai nghe phổi hay dặn tái khám; chị mất lòng tin, trả lời cộc. Dạy tái lập lòng tin: hỏi từng nơi, nghe phổi, đo SpO₂, không lặp xét nghiệm vô ích (không test cúm lại ở lượt 2).",
+  "Neo cảm nắng: làm ngoài nắng gắt rồi sốt nên chị và ba nơi trước tin là cảm nắng; ổ cúm cùng tổ, ho, đau họng mới là mấu chốt (QĐ 1840/2025 mục II.1.1, II.2.4.1).",
+  "Paracetamol trùng lặp: 6–8 viên kèm thuốc cảm có thể chứa paracetamol, vượt trần 4 viên/ngày (QĐ 4235/2012 mục 3.4), sát trần 4 g/24 giờ (QĐ 361/2014 mục 3.1)."
+ ],
+ "bai_hoc_bien": [
+  "Mở lại chẩn đoán: điều buộc mở lại hồ sơ ở lượt 2 là sốt trở lại sau 2 ngày hết sốt kèm ho đờm mủ, đau ngực màng phổi (cúm sốt 3–5 ngày, QĐ 1840/2025 mục II.1.1; QĐ 2147/2026 mục 3.1.1). Cúm vẫn đúng nhưng chưa đủ: có thêm viêm phổi sau cúm.",
+  "Anchoring, diagnostic momentum: câu 'bác sĩ đã bảo cúm' kéo bác sĩ sau vào 'cúm kéo dài'. Câu hỏi lật lại: so với lần trước cái gì mới? (đờm mủ, đau ngực, bạch cầu 3,9 lên 15,6 G/L).",
+  "Người trẻ khỏe vẫn bị viêm phổi sau cúm (S. pneumoniae, S. aureus, S. pyogenes; QĐ 2147 mục 2.1.2): nguy cơ thấp lúc đầu không có nghĩa không biến chứng; dặn dấu hiệu nặng và hẹn mốc.",
+  "Không có siêu âm: dựa khám, X-quang, xét nghiệm có sẵn và biết giới hạn; tràn dịch cần siêu âm và chọc dịch (QĐ 2147 sơ đồ mục 5.5.2), nên chuyển tuyến sớm có lý do.",
+  "Biến chứng do bỏ sót: truy nguyên chuỗi, không đổ lỗi một người (ba nơi không dặn tái khám, bỏ hẹn thứ Sáu, đi làm lại khi còn cúm); phòng khám chặn bằng dặn dấu hiệu cụ thể, mốc 48–72 giờ, mời người nhà nghe dặn."
+ ],
+ "diem_nho": [
+  "Cúm nhẹ ngoại trú: kháng virus cho người nguy cơ nặng; không kháng sinh, corticoid, aspirin (QĐ 1840/2025 mục III.2.1–2.2). Người khỏe mạnh ngoài 48 giờ: BYT, WHO, CDC đều không kê (CDC 2026 tr. 6).",
+  "Viêm phổi ngoại trú: CURB-65 0–1; nhập viện nếu > 1 thùy, tràn dịch, tiến triển 48–72 giờ dù điểm thấp (QĐ 2147/2026 mục 3.2.1, 5.3.1).",
+  "Kháng sinh người < 65 không bệnh nền: amoxicillin 1 g × 3 lần/ngày hoặc amoxicillin/acid clavulanic khi nghĩ H. influenzae (QĐ 2147 mục 5.3.1, Bảng 4.4); 5–7 ngày (mục 5.6.2) hoặc 7–10 ngày (mục 5.2); đánh giá lại sau 48–72 giờ.",
+  "Thất bại muộn: sốt dai dẳng, tổn thương tiến triển, SpO₂ < 90% (QĐ 2147 mục 5.5.1b); tìm tràn dịch, mủ, áp xe; tràn dịch: siêu âm và chọc dịch (sơ đồ mục 5.5.2)."
+ ],
+ "nguon": [
+  "TL-0122 · QĐ 1840/QĐ-BYT 2025 – Hướng dẫn chẩn đoán và điều trị cúm mùa – mục II.1.1, II.1.2, II.2.1–II.2.4, III.2.1–III.2.4, IV.2",
+  "TL-0121 · QĐ 2147/QĐ-BYT 2026 – Viêm phổi mắc phải cộng đồng ở người lớn – mục 2.1.2, 3.1.1–3.1.4, 3.2.1, 3.5.2, 5.2, 5.3.1, 5.4.1.8, 5.5.1–5.5.2.3, 5.6.2; Bảng 4.4; Phụ lục 1; sơ đồ mục 5.5.2",
+  "TL-0133 · WHO 2024 – Clinical practice guidelines for influenza (tóm tắt BMJ 2026;392:e087397) – khuyến cáo kháng sinh, mốc 48 giờ",
+  "TL-0139 · CDC 2026 – Influenza Antiviral Medications: Summary for Clinicians – tr. 5–6 (bản chữ ghi nội dung mùa 2016–2017)",
+  "TL-0146 · NICE NG237 2024 – Suspected acute respiratory infection in over 16s – khuyến cáo 1.3.1, 1.3.3, 1.3.4",
+  "TL-0029 · QĐ 2760/QĐ-BYT 2023 – Sốt xuất huyết Dengue – mục II.1–II.2, III.1.1, IV.A.1, IV.A.3b; Quy trình nghiệm pháp dây thắt (số QĐ chưa xác minh)",
+  "TL-0131 · QĐ 4235/QĐ-BYT 2012 – Viêm phổi bệnh viện mục 3.4 (paracetamol 0,5 g ≤ 4 viên/ngày; oxy SpO₂ > 90%); TL-0286 · QĐ 361/QĐ-BYT 2014 – Phụ lục thuốc giảm đau mục 3.1 (paracetamol ≤ 4 g/24 giờ)",
+  "Không có trong tài liệu đã tải: bệnh do nóng; số ngày nghỉ sau cúm, viêm phổi; hàm lượng paracetamol trong thuốc cảm; tương tác omeprazol; NSAID cho đau ngực màng phổi; vận chuyển, BHYT, giấy chuyển tuyến; tần suất tiêu chảy do amoxicillin/acid clavulanic. QĐ 2671/2023 (TL-0124) bản chữ OCR lỗi, không trích"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28 · viết mới theo sổ cái HH-0776: nữ 34 tuổi, lao công, ca bẫy 'mở lại chẩn đoán', 3 lượt (ve_hen, ve_hen, chuyen_tuyen), triệu chứng mới ở lượt 2 và 3, từng khám 3 nơi, không siêu âm, biến chứng do bỏ sót. Chẩn đoán đích Cúm mùa không đổi: cúm A khẳng định lượt 1; lượt 2–3 là biến chứng của cúm.",
+  "Tài liệu đã đọc: TL-0122 (toàn văn); TL-0121 (mục 2.1.2, 3.1–3.2, 3.5, 4.4, 5.2–5.6); TL-0133; TL-0139 (tr. 4–8); TL-0146 (1.1–1.3); TL-0029 (II, III.1, IV.A); TL-0131 (3.4); TL-0286 (3.1).",
+  "Sổ mâu thuẫn đã theo: kháng virus cúm nhẹ người khỏe mạnh (HH-0769, HH-0789); thời gian kháng sinh VPMPCĐ, test virus ở viêm phổi (HH-0930 mục 1, 4); trần paracetamol. Không có mâu thuẫn mới. Chỗ thiếu tài liệu: xem mục nguon; TL-0139 là CDC mùa 2016–2017; bảng xét nghiệm và kết quả ở bệnh viện trong ket_cuc do người viết dựng. Âm thanh: AT-PHOI-BT-NL-01, AT-PHOI-PQ-01, AT-PHOI-RAN-NO-01, AT-TIM-NHANH-01. Không ảnh da."
+ ]
+}

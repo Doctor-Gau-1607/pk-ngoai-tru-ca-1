@@ -1,0 +1,783 @@
+{
+ "ma_ca": "MT-0489",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn 28/11/2026",
+ "benh": "MT_rl_lipid_mau_fh_thanh_nien_bo_sot_dau_that_nguc",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "Rối loạn lipid máu",
+  "chan_doan_phai_loai_tru": [
+   "RL lipid thứ phát (suy giáp)"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Lê Hoàng Phúc",
+  "tuoi": 31,
+  "gioi": "Nam",
+  "nghe": "Tiểu thương chợ (bán phân bón, thuốc bảo vệ thực vật ở chợ huyện)",
+  "can_nang": 69,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảu, buôn bán quen nói chuyện, tính toán từng đồng. Cứ thấy sức khỏe là tự dò mạng xã hội, tin lời bạn hàng chợ. Bên ngoài tỏ ra bình thản, bên trong sợ chết như cha. Có xu hướng giấu nỗi sợ và đổ cho 'hóa chất'.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mệt mỏi, mất niềm tin. Hay nói 'chỗ nào cũng nói y chang, uống sáu tháng có xuống đâu', 'đừng bắt tôi làm lại hết, tôi làm ba chỗ rồi'. Mỉa mai nhẹ khi nghe lời dặn quen thuộc ('ăn kiêng, tập thể dục'). Chỉ chịu hợp tác khi bác sĩ dùng phiếu cũ của anh, chỉ ra điều ba nơi chưa làm (khám gân, hỏi gia đình, TSH), và nêu rõ lý do từng việc. Ngại đi tuyến trên vì mất ngày bán hàng.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b98a63",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#4f6b5a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Muốn kiểm tra gan có bị 'ngấm độc' hóa chất không, vì đã khám ba nơi đều nói mỡ máu cao, gan nhiễm mỡ do hóa chất",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nam 31 tuổi, tiểu thương bán phân bón, thuốc bảo vệ thực vật ở chợ huyện, đi một mình. Anh đã khám ba nơi vì 'mỡ máu cao, gan nhiễm mỡ do hóa chất', uống thuốc bổ gan sáu tháng chưa khỏi, nay muốn kiểm tra lại gan. Sinh hiệu lúc tiếp đón: HA 126/80 mmHg, mạch 78 l/p, nhiệt 36,8 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 69 kg, cao 168 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Phúc bị giữ nhập viện 'giải độc hóa chất, hạ mỡ máu'. LDL-C 7,6 mmol/L nhưng TG 1,9, không đau bụng hay đau ngực, điện tim bình thường: không có chỉ định nằm viện (viêm tụy chỉ đáng kể khi TG > 10 mmol/L, ESC/EAS 2019 mục 9.1.4.1). Anh mất 3–4 ngày bán hàng, về với đúng đơn statin như ngoại trú.",
+    "chuyen_tuyen": "Anh Phúc bị gửi lên bệnh viện tỉnh 'vì mỡ máu quá cao' khi phòng khám chưa khởi thuốc. Bước đầu là statin liều tối đa dung nạp, làm được ngay ở tuyến cơ sở (ACC/AHA 2026 mục 4.2.4.3 KC 2); chuyên khoa dành cho thể đồng hợp tử hoặc phối hợp phức tạp (mục 4.2.4.3 Synopsis). Anh chờ lịch, và chưa uống viên thuốc hạ mỡ nào.",
+    "theo_doi": "Anh Phúc chỉ được dặn 'ăn kiêng, bỏ bia, tập thể dục, khám lại sau 3 tháng' giống ba nơi trước. Anh đã ăn kiêng và uống thực phẩm chức năng sáu tháng mà LDL-C vẫn 7,6 mmol/L; statin liều tối đa dung nạp là khuyến cáo COR 1 (ACC/AHA 2026 mục 4.2.4.3 KC 2). Cholesterol cao thêm ba tháng, người thân chưa được báo, anh coi đây là nơi thứ tư 'không giúp được gì'."
+   },
+   "loi_mo": "Bác sĩ nghe tôi nói trước nha. Tôi khám ba chỗ rồi, chỗ nào cũng bảo mỡ cao, gan nhiễm mỡ do hóa chất, cho thuốc bổ gan với dầu cá, uống sáu tháng mà có xuống đâu. Tôi bán thuốc sâu, phân bón cả đời, tám tháng trước còn làm đổ nguyên chai. Bác sĩ coi giùm gan tôi có bị ngấm độc không, đừng bắt tôi xét nghiệm lại hết, tốn tiền lắm.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "126/80",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tám tháng trước làm đổ chai thuốc trừ sâu ở sạp, hít mùi nồng, chóng mặt, buồn nôn vài giờ rồi hết. Sau đó đi khám sức khỏe để dự tập huấn kinh doanh thuốc bảo vệ thực vật, phát hiện mỡ máu cao và đi thêm hai nơi nữa; đều bảo 'hóa chất làm gan yếu nên mỡ cao', cho thuốc bổ gan, chưa ai cho thuốc hạ mỡ. Hôm nay anh muốn biết gan có 'ngấm độc' không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nói ra, gắn với hóa chất"
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Anh mang ba phiếu, đều lấy buổi sáng sau nhịn ăn. (1) Trạm y tế xã 7 tháng trước: cholesterol TP 9,6 · TG 1,8 · HDL-C 1,0 · LDL-C 7,8 mmol/L; ALT 52 U/L; 'bớt ăn mỡ'. (2) Phòng khám tư 4 tháng trước: ALT 56 U/L, gan nhiễm mỡ nhẹ trên siêu âm; 'gan nhiễm độc hóa chất làm mỡ máu cao'. (3) Bệnh viện huyện 6 tuần trước: cholesterol TP 9,5 · TG 1,9 · HDL-C 1,0 · LDL-C 7,6 mmol/L; AST 30 · ALT 48 U/L; glucose 5,0; creatinin 80 µmol/L; 'ăn kiêng 3 tháng rồi tái khám'. Không phiếu nào có TSH; không nơi nào hỏi gia đình hay khám gân.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ đưa ra khi bác sĩ hỏi anh đã xét nghiệm ở đâu, kết quả thế nào, hoặc xin xem giấy tờ cũ. Nếu bác sĩ nói sẽ dùng kết quả cũ để khỏi làm lại, anh vui vẻ đưa ra.",
+     "k": 1,
+     "y": "LDL-C 7,6 mmol/L lặp ba lần; chưa ai làm TSH"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Cha mất đột ngột lúc 46 tuổi, đang khiêng hàng ở chợ, bệnh viện nói nhồi máu cơ tim; cha có 'mỡ máu cao' nhưng chưa từng uống thuốc. Chú ruột đặt stent mạch vành lúc 52 tuổi. Mẹ 58 tuổi mỡ máu hơi cao. Anh có em trai 27 tuổi, vợ 29 tuổi và hai con (6 tuổi và 3 tuổi); chưa ai trong nhà được thử mỡ máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình sớm, lan sang người thân bậc 1"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Tháng trước một chủ sạp cùng chợ 41 tuổi ngã gục rồi mất vì nhồi máu cơ tim. Từ đó mỗi lần nhìn phiếu 'mỡ 9' anh nhớ cha. Anh nghĩ nếu nói thẳng là sợ chết như cha thì 'xui', nên đổ cho gan và hóa chất, và chưa kể với ba nơi trước.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm anh lo nhất, vì sao hôm nay mới quyết định đi khám, hoặc trong nhà có ai bị bệnh tim, đột tử không.",
+     "k": 1,
+     "y": "Động cơ thật: sợ nhồi máu cơ tim như cha"
+    },
+    {
+     "id": "trieu_chung_tim",
+     "noi_dung": "Không đau ngực, không khó thở khi khiêng bao phân 40 kg hay leo cầu thang; không hồi hộp, không ngất, không đau bắp chân khi đi bộ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hiện chưa có triệu chứng bệnh mạch vành"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Hút thuốc lá 10 điếu/ngày, đã 10 năm. Bia 2–3 lon, hai buổi mỗi tuần. Ăn cơm quán, hay ăn lòng, nem nướng; ngồi sạp cả ngày. Mỗi ngày uống dầu cá omega-3 1000 mg × 2 viên, vitamin tổng hợp có vitamin E và viên 'giải độc gan' chiết xuất cây kế sữa, sáu tháng nay. Không dùng corticoid, nội tiết nam, lợi tiểu hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lối sống, thực phẩm chức năng; loại trừ thuốc gây RL lipid"
+    },
+    {
+     "id": "loai_tru",
+     "noi_dung": "Không sợ lạnh, táo bón, phù, nước tiểu bọt, vàng da, khát hay đái nhiều. Sau vụ đổ thuốc không chảy nước mắt, ra mồ hôi nhiều, run cơ hay co giật.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Âm tính hướng suy giáp, thận, đái tháo đường; không di chứng nhiễm độc cấp"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, da niêm hồng, không vàng da. Cân nặng 69 kg, cao 168 cm, BMI 24,4 kg/m². Vòng eo 86 cm.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau. Không hạch cổ. Giọng nói bình thường.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Cung giác mạc (vòng trắng nhạt quanh rìa giác mạc) hai mắt, rõ ở cung trên và dưới. Không ban vàng mi mắt.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da ấm, ẩm. Không ban vàng ở khuỷu, gối, lòng bàn tay; không vàng da.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Gân Achille hai bên dày lên, có khối cứng không đau, di động theo gân: khoảng 2 cm bên phải, 1,8 cm bên trái. Gân duỗi các ngón tay có vài nốt nhỏ cứng ở khớp bàn–ngón. Khớp không sưng, cột sống không đau.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở 16 l/p, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "n",
+     "r": "Cholesterol TP 9,4 · TG 1,8 · HDL-C 1,0 · LDL-C 7,6 mmol/L",
+     "ab": 1,
+     "n": "Đã có ba lần đo, LDL-C 7,6–7,8 mmol/L; trước thuốc cần ≥ 2 lần đo cách 1–12 tuần (ESC/EAS 2019 Bảng 13) nên không đo lại. Đói hay không đói đều chấp nhận (QĐ 3879/2014 mục III.2; ACC/AHA 2026 mục 3.2)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,1 mUI/L · FT4 trong giới hạn bình thường",
+     "n": "Suy giáp làm tăng cholesterol (QĐ 3879/2014, Suy giáp mục IV.2.5; ACC/AHA 2026 Bảng 15); xác định bằng TSH (mục IV.3). Chưa nơi nào làm: xét nghiệm duy nhất cần bổ sung."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 31 · ALT 44 U/L",
+     "ab": 1,
+     "n": "ALT trước statin (ESC/EAS 2019 Bảng 13); tăng nhẹ < 3 lần giới hạn trên không chống chỉ định. Dùng phiếu bệnh viện huyện (ALT 48) cũng được."
+    },
+    "glu": {
+     "v": "u",
+     "r": "4,9 mmol/L (đói)",
+     "n": "Loại đái tháo đường (QĐ 3879/2014, RL lipid máu mục II.2; ACC/AHA 2026 Bảng 15). Phiếu cũ glucose 5,0."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Creatinin 78 µmol/L · eGFR > 90 mL/phút/1,73 m²",
+     "n": "Loại bệnh thận mạn, thận hư (ACC/AHA 2026 Bảng 15). Phiếu cũ creatinin 80."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 78 l/p, trục bình thường, không thay đổi ST–T, không dày thất",
+     "n": "Điện tim nền ở người có tiền sử gia đình sớm và sợ nhồi máu; không triệu chứng nên không cấp bách."
+    },
+    "lpa": {
+     "v": "a",
+     "r": "Lp(a) 31 mg/dL (< 50 mg/dL)",
+     "n": "Đo ít nhất một lần ở mọi người lớn (ACC/AHA 2026 mục 3.4 KC 1); > 50 mg/dL là yếu tố nguy cơ (ESC/EAS 2025 Bảng khuyến cáo 4). Không đổi quyết định statin."
+    },
+    "ck": {
+     "v": "a",
+     "r": "CK 126 U/L",
+     "n": "CK nền trước statin (ESC/EAS 2019 Bảng 13); ACC/AHA 2026 mục 4.2.11 chỉ đo khi đau cơ nặng: cả hai chấp nhận."
+    },
+    "ct_mach_vanh": {
+     "v": "n",
+     "r": "Điểm vôi hóa mạch vành 0 Agatston",
+     "n": "Ở FH điểm vôi hóa = 0 không được dùng để hạ nguy cơ hay hoãn statin (ACC/AHA 2026 mục 4.2.4.1). Tia xạ và chi phí không đổi quyết định."
+    },
+    "pche": {
+     "v": "n",
+     "r": "Cholinesterase huyết tương trong giới hạn bình thường",
+     "n": "Chỉ có ý nghĩa khi ngộ độc cấp phospho hữu cơ (TL-0035 mục 6); đã 8 tháng, không triệu chứng. Liên hệ hóa chất với LDL-C: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lipid máu nặng nghi tăng cholesterol máu gia đình thể dị hợp tử (LDL-C 7,6 mmol/L chưa điều trị, u vàng gân Achille, cung giác mạc, cha mất sớm do nhồi máu cơ tim; điểm Dutch Lipid Clinic 12)",
+     "ok": 1,
+     "n": "LDL-C ≥ 4,9 mmol/L là nặng (ACC/AHA 2026 mục 4.2.4.3); u vàng gân, người thân bệnh vành sớm là tiêu chí chỉ điểm FH (ESC/EAS 2019 mục 9.1.2.1). Dutch Lipid Clinic (Bảng 12): người thân bệnh vành sớm 1 + u vàng gân 6 + LDL-C 6,5–8,4 mmol/L 5 = 12, > 8 là 'chắc chắn'."
+    },
+    {
+     "t": "RL lipid thứ phát do suy giáp",
+     "n": "Không sợ lạnh, táo bón, giáp không to; TSH 2,1 mUI/L (QĐ 3879/2014, Suy giáp mục IV.2.5, IV.3). Lâm sàng không đủ để loại trừ (ATA 2014, tr. 1678)."
+    },
+    {
+     "t": "RL lipid thứ phát do đái tháo đường, bệnh thận, bệnh gan ứ mật, thuốc (corticoid, nội tiết, lợi tiểu)",
+     "n": "Glucose 4,9, creatinin 78, không vàng da, không dùng thuốc gây tăng lipid (ACC/AHA 2026 Bảng 15; QĐ 3879/2014 mục II.2)."
+    },
+    {
+     "t": "Tăng lipid do chế độ ăn nhiều mỡ bão hòa, béo phì",
+     "n": "BMI 24,4, vòng eo 86 cm (< 94 cm, ESC/EAS 2019 Bảng 7); chế độ ăn chỉ giải thích phần nhỏ LDL-C 7,6 mmol/L và không tạo u vàng gân (ACC/AHA 2026 mục 4.2.4.3 giải thích KC 1)."
+    },
+    {
+     "t": "Gan nhiễm độc hóa chất gây RL lipid",
+     "n": "ALT 44–56 U/L (< 1,5 lần giới hạn trên), không triệu chứng nhiễm độc; hóa chất trừ sâu gây tăng LDL-C: không có trong tài liệu đã tải; không giải thích u vàng gân."
+    },
+    {
+     "t": "Bệnh mạch vành đang có triệu chứng",
+     "n": "Không đau ngực, khó thở khi gắng sức; điện tim bình thường."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích rõ chẩn đoán: mỡ máu rất cao, nghi bệnh di truyền trong gia đình (không phải do hóa chất); cha mất sớm và u vàng gân là dấu quan trọng; nói thẳng điều anh sợ (nhồi máu như cha) và cách phòng",
+     "v": "c",
+     "n": "Tiêu chí chỉ điểm FH (ESC/EAS 2019 mục 9.1.2.1, Bảng 12). Tài liệu đã tải không nêu hóa chất trừ sâu là nguyên nhân tăng LDL-C. Thảo luận lợi–hại (ACC/AHA 2026 mục 4.2.3.1)."
+    },
+    {
+     "t": "Bắt đầu statin ngay: atorvastatin 20 mg (khởi liều thấp ở người Đông Á) hoặc 40 mg (cường độ cao) mỗi tối, tăng dần tới liều tối đa dung nạp; hoặc lối sống thêm 2–3 tháng rồi thuốc",
+     "v": "c",
+     "n": "Gộp hai cách (sổ MT-0425 mục 1, MT-0515): ACC/AHA 2026 mục 4.2.4.3 KC 2 (COR 1), Bảng 6 (atorvastatin 40–80 mg cường độ cao), mục 4.2.1.1 (người Đông Á khởi liều thấp); ESC/EAS 2019 mục 9.1.2.1 (FH khởi cường độ cao); QĐ 3879/2014 mục IV.4, IV.4.1 (lối sống 2–3 tháng rồi atorvastatin 10–20 mg)."
+    },
+    {
+     "t": "Mục tiêu điều trị: LDL-C < 1,8 mmol/L và giảm ≥ 50% so với nền 7,6; kiểm lipid và ALT sau 8 (± 4) tuần",
+     "v": "c",
+     "n": "ESC/EAS 2019 mục 9.1.2.1, Bảng 7; ACC/AHA 2026 mục 4.2.4.3 KC 4 (HeFH xác nhận lâm sàng: < 70 mg/dL). Giám sát: ESC/EAS 2019 Bảng 13 (8 ± 4 tuần); ACC/AHA 2026 mục 3.5 KC 1 (4–12 tuần)."
+    },
+    {
+     "t": "Khuyên kiểm tra lipid người thân bậc 1 (em trai, hai con, mẹ) và tư vấn xét nghiệm gen FH nếu có điều kiện",
+     "v": "c",
+     "n": "Cascade screening bằng lipid (ESC/EAS 2019 mục 9.1.2.1; ACC/AHA 2026 mục 3.1 KC 3, mục 4.2.4.2). Con: ESC/EAS 2019 mục 9.1.2.3 (LDL-C ≥ 4,0 mmol/L, statin 6–10 tuổi); ACC/AHA 2026 mục 4.2.8.1 KC 2 (statin ≥ 8 tuổi)."
+    },
+    {
+     "t": "Ngưng dầu cá, vitamin E và viên 'giải độc gan' tự mua; giải thích không có lợi ích hạ LDL-C, không thay statin",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.1.5 KC 1 (COR 3, B-R); dầu cá có thể tăng LDL-C. ESC/EAS 2025 mục 10, Bảng khuyến cáo 8. QĐ 3879/2014 mục IV.4 (Chú ý) nêu thuốc hỗ trợ tế bào gan: kê chấm a."
+    },
+    {
+     "t": "Lối sống: bỏ hẳn thuốc lá, giảm bia, bớt lòng, mỡ, nem nướng, thêm rau, cá nấu chín; đi bộ 30–45 phút, 5 ngày/tuần",
+     "v": "c",
+     "n": "Không thuốc lá (ESC/EAS 2019 Bảng 7); 30–45 phút/ngày, 5 ngày/tuần (QĐ 3879/2014 mục IV.2, IV.3); ≥ 150 phút/tuần (ACC/AHA 2026 mục 4.1.4 KC 1). Lối sống là nền, không thay statin."
+    },
+    {
+     "t": "Hẹn tái khám có ngày, viết ra giấy; dặn không tự ngưng statin khi sợ, gọi phòng khám trước; dấu hiệu cần ngưng và báo ngay",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 2 (nguy cơ tim mạch tăng khi ngưng statin), mục 5.1 giải thích KC 6 (vàng da, mệt, buồn nôn, đau bụng). Giấy hẹn, số điện thoại: lựa chọn của người biên soạn."
+    },
+    {
+     "t": "Chỉ dặn ăn kiêng, tiếp tục thực phẩm chức năng, chưa dùng statin, khám lại sau 3 tháng",
+     "v": "w",
+     "n": "Cả QĐ 3879/2014 mục IV.4 (thuốc sau 2–3 tháng lối sống không đạt) và ACC/AHA 2026 mục 4.2.4.3 KC 2 (COR 1) đều dẫn tới dùng thuốc; thực phẩm chức năng COR 3 (mục 4.1.5)."
+    },
+    {
+     "t": "Hoãn statin vì điểm vôi hóa mạch vành 0 hoặc để chờ xét nghiệm gen",
+     "v": "w",
+     "n": "ACC/AHA 2026 mục 4.2.4.1: ở FH không dùng điểm vôi hóa = 0 để hoãn statin; mục 4.2.4.2: không thấy biến thể gen không loại trừ FH."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lipid máu nặng, nghi tăng cholesterol máu gia đình thể dị hợp tử: LDL-C 7,6 mmol/L (khoảng 294 mg/dL) chưa điều trị, TC 9,4, TG 1,8, HDL-C 1,0 mmol/L; Dutch Lipid Clinic 12 điểm (chắc chắn)",
+     "Dấu hiệu gợi ý FH bị bỏ qua: u vàng gân Achille hai bên, nốt gân duỗi ngón tay, cung giác mạc ở tuổi 31; cha mất đột ngột lúc 46 tuổi do nhồi máu cơ tim, chú ruột đặt stent lúc 52 tuổi; hút thuốc 10 điếu/ngày; chưa triệu chứng mạch vành",
+     "Đã loại trừ thứ phát: TSH 2,1 mUI/L, glucose 4,9, creatinin 78, không dùng thuốc gây tăng lipid; hóa chất trừ sâu: không có bằng chứng trong tài liệu đã tải; thực phẩm chức năng tự mua không có lợi ích"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu then chốt là hỏi tiền sử gia đình và khám gân: LDL-C ≥ 4,9 mmol/L đã là nặng (ACC/AHA 2026 mục 4.2.4.3); thêm u vàng gân và người thân bệnh vành sớm thì đủ tiêu chí chỉ điểm FH (ESC/EAS 2019 mục 9.1.2.1; Bảng 12). Ba nơi trước chỉ nhìn LDL-C và men gan, gán cho gan và hóa chất, không khám gân, không hỏi gia đình, không làm TSH.",
+     "Nỗi sợ thật là nhồi máu cơ tim như cha; anh không nói vì 'xui'. Công cụ nguy cơ chuẩn không dùng cho FH (ACC/AHA 2026 mục 4.2.4.1); nguy cơ bệnh vành tăng ít nhất 10 lần (ESC/EAS 2019 mục 9.1.2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Statin ngay: ACC/AHA 2026 mục 4.2.4.3 KC 2 (COR 1) và ESC/EAS 2019 mục 9.1.2.1 (mục tiêu ≥ 50% và < 1,8 mmol/L); QĐ 3879/2014 mục IV.4 chờ lối sống 2–3 tháng, anh đã ăn kiêng sáu tháng nên hai nguồn cùng dẫn tới thuốc. Khởi 20 mg vì người Đông Á dễ tác dụng phụ (ACC/AHA 2026 mục 4.2.1.1) rồi tăng; khởi 40 mg ngay cũng đúng.",
+     "Nỗi sợ thuốc là nguy cơ lớn nhất của kế hoạch: báo trước tác dụng phụ thật, hẹn lipid và ALT sau 8 (± 4) tuần (ESC/EAS 2019 Bảng 13), nhắc 'đừng tự ngưng, gọi trước' (ACC/AHA 2026 mục 4.2.11 KC 2). Tái lập niềm tin bằng chính phiếu cũ của anh, không lặp lại xét nghiệm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "1 viên × 1 lần/ngày (có thể khởi 40 mg ngay)",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi tối",
+      "so_ngay": "Dùng lâu dài; cấp 60 ngày, hẹn lipid và ALT sau 8 tuần",
+      "ghi_chu": "Cường độ vừa–cao, tăng dần tới liều tối đa dung nạp (ACC/AHA 2026 mục 4.2.4.3 KC 2; Bảng 6: atorvastatin 40–80 mg cường độ cao; mục 4.2.1.1: người Đông Á khởi liều thấp). QĐ 3879/2014 mục IV.4.1: 10–20 mg/ngày, tối đa 80 mg; thận trọng bệnh gan; tác dụng phụ tăng men gan, men cơ. Chống chỉ định: suy gan cấp, xơ gan mất bù (ACC/AHA 2026 Bảng 25)."
+     }
+    ],
+    "dan_do": [
+     "Uống atorvastatin mỗi tối, kể cả khi khỏe; sợ hoặc thấy lạ thì gọi phòng khám trước khi bỏ (ACC/AHA 2026 mục 4.2.11 KC 2). Ngưng và báo ngay nếu đau cơ nặng, yếu cơ, nước tiểu sẫm, vàng da (ACC/AHA 2026 mục 5.1 giải thích KC 6; Bảng 25).",
+     "Bỏ thuốc lá, giảm bia, bớt lòng và mỡ, đi bộ 30–45 phút mỗi ngày, 5 ngày/tuần (QĐ 3879/2014 mục IV.2, IV.3; ESC/EAS 2019 Bảng 7). Ngưng dầu cá, vitamin E, viên giải độc gan (ACC/AHA 2026 mục 4.1.5 KC 1).",
+     "Đưa em trai, hai con (6 và 3 tuổi), mẹ đi thử lipid máu: đây là bệnh di truyền, phát hiện sớm bảo vệ được người thân (ESC/EAS 2019 mục 9.1.2.1).",
+     "Hẹn lại sau 8 tuần, ngày ghi giấy; mang hộp thuốc và phiếu cũ; làm lipid, ALT lúc đó (ESC/EAS 2019 Bảng 13). Đau ngực, khó thở khi gắng sức, ngất: đến khám ngay, đừng chờ ngày hẹn."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 9 tuần",
+   "tiep_don": "Tái khám theo hẹn sau 9 tuần. Anh Phúc nói đã uống thuốc 'đàng hoàng' mà mỡ chắc vẫn y chang, nét mặt chán nản. Sinh hiệu lúc tiếp đón: HA 124/78 mmHg, mạch 76 l/p, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 68 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Phúc bị giữ nhập viện 'theo dõi gan và thuốc hạ mỡ'. ALT bình thường, không đau cơ, không vàng da: không có chỉ định nằm viện (ESC/EAS 2019 Bảng 13: ALT < 3 lần giới hạn trên thì tiếp tục thuốc). Anh mất ngày hàng và viện phí, và việc nằm viện khiến anh tin thuốc nguy hiểm đến mức phải nằm viện.",
+    "chuyen_tuyen": "Anh Phúc bị gửi lên chuyên khoa 'vì kháng statin'. Anh mới dùng 22 ngày rồi ngưng, chưa có thất bại điều trị thật; thuốc tiêm PCSK9 hay inclisiran chỉ đặt ra khi đã dùng statin liều tối đa dung nạp mà chưa đạt (ACC/AHA 2026 mục 4.2.4.3 KC 3–4, 6). Anh chờ lịch vài tuần, mất ngày hàng, và vẫn không ai nói với anh lý do thật khiến LDL-C không giảm.",
+    "theo_doi": "Anh Phúc được dặn 'cố uống thuốc đều' mà không ai hỏi vì sao anh bỏ hay giải đáp nỗi sợ hại gan; không đặt mốc lipid và ngày hẹn. Anh lại bỏ thuốc, LDL-C vẫn 7,3 mmol/L kéo dài, trong khi người FH thường mắc bệnh mạch vành trước 55 tuổi nếu không điều trị (ESC/EAS 2019 mục 9.1.2.1)."
+   },
+   "loi_mo": "Bác sĩ khỏi giảng lại mấy lời cũ nha. Thuốc bác sĩ cho tôi uống rồi mà chắc cũng như mấy chỗ kia, mỡ có xuống đâu. Hay người tôi không hợp thuốc? Với lại tôi nghe thuốc này hại gan lắm, bạn hàng tôi ai cũng can.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "124/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "mo_dau",
+     "noi_dung": "Anh nói đã uống thuốc 'đàng hoàng', thấy mỡ chắc không xuống nên nghĩ mình 'không hợp thuốc'. Ba nơi trước cũng nói 'uống vài tháng sẽ hết' rồi không hết; nếu lần này bác sĩ cũng bảo 'đợi thêm vài tháng' thì anh sẽ nghỉ tái khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: nghi thuốc không hiệu quả, mất niềm tin"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Anh uống atorvastatin đều 22 ngày đầu rồi bỏ. Một chủ sạp thịt quen nói statin 'làm hỏng gan, teo cơ, uống rồi phải uống suốt đời', thêm một video trên Zalo nói tương tự; anh sợ, lại thấy mình khỏe nên ngưng, chỉ uống dầu cá và viên giải độc gan 'cho chắc'. Hộp 60 viên còn 38 viên. Anh không nói vì ngại bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể mỗi ngày uống thế nào, có ngày nào quên hay bỏ không, còn bao nhiêu viên, hoặc xem hộp thuốc. Hỏi chung chung 'có uống thuốc không' thì anh trả lời 'có'.",
+     "k": 1,
+     "y": "Nguyên nhân LDL-C không giảm: tự ngưng vì sợ, không phải kháng thuốc"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Trong 22 ngày uống không đau cơ, không yếu cơ, nước tiểu bình thường, không vàng da, không buồn nôn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chưa có tác dụng phụ thật"
+    },
+    {
+     "id": "nguoi_than",
+     "noi_dung": "Em trai Lực (27 tuổi) đã làm xét nghiệm ở bệnh viện huyện theo lời khuyên lần trước: cholesterol TP 7,8 · LDL-C 6,0 mmol/L, chưa khám thêm. Vợ ngại đưa hai con đi xét nghiệm 'vì còn nhỏ'. Mẹ chưa đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tầm soát gia đình đang dở"
+    },
+    {
+     "id": "trieu_chung_tim",
+     "noi_dung": "Vẫn không đau ngực, không khó thở khi khiêng hàng hay leo cầu thang. Hút thuốc giảm còn 5 điếu/ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chưa triệu chứng mạch vành; vẫn hút thuốc"
+    }
+   ],
+   "kham": {
+    "co_xuong_khop": {
+     "a": "Gân Achille hai bên dày như lần trước (khoảng 2 cm phải, 1,8 cm trái), không đau, không sưng, không thay đổi.",
+     "k": 0
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi, ngọn chi 5/5; ấn cơ không đau; ngồi xổm đứng dậy dễ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 9,2 · TG 2,0 · HDL-C 1,0 · LDL-C 7,3 mmol/L",
+     "ab": 1,
+     "n": "LDL-C giảm khoảng 4% so với nền 7,6: anh chỉ uống 22/63 ngày. Đánh giá đáp ứng sau 4–12 tuần (ACC/AHA 2026 mục 3.5 KC 1), 8 ± 4 tuần (ESC/EAS 2019 Bảng 13)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 28 · ALT 38 U/L",
+     "n": "ALT một lần 8–12 tuần sau khởi thuốc (ESC/EAS 2019 Bảng 13); bình thường, dùng để trả lời nỗi sợ hại gan. Không đo vẫn đúng (ACC/AHA 2026 mục 5.1 KC 6)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng cholesterol máu gia đình thể dị hợp tử, LDL-C chưa giảm vì ngưng statin sau 22 ngày do sợ tác dụng phụ (không tuân thủ), không phải kháng statin",
+     "ok": 1,
+     "n": "LDL-C chỉ giảm 4%; nguyên nhân đầu tiên phải tìm là tuân thủ (ACC/AHA 2026 mục 4.2.3.7 Synopsis; mục 3.5 KC 1 giải thích)."
+    },
+    {
+     "t": "Kháng statin, đáp ứng kém thật sự",
+     "n": "Mới dùng 22 ngày, chưa thử thách đủ liều (ESC/EAS 2019 mục 9.1.2.1)."
+    },
+    {
+     "t": "Chẩn đoán sai: RL lipid thứ phát (suy giáp, thận, đái tháo đường)",
+     "n": "TSH 2,1, glucose 4,9, creatinin 78 ở lượt 1; u vàng gân và gia đình giải thích bệnh nguyên phát (ACC/AHA 2026 Bảng 15)."
+    },
+    {
+     "t": "Tác dụng phụ statin (độc gan, độc cơ)",
+     "n": "ALT 38 U/L, sức cơ 5/5, không đau cơ (ACC/AHA 2026 mục 5.1; Bảng 24)."
+    },
+    {
+     "t": "Đã xuất hiện bệnh mạch vành",
+     "n": "Không đau ngực, không khó thở khi gắng sức; điện tim lượt 1 bình thường."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể cách uống thuốc (mỗi ngày thế nào, còn bao nhiêu viên) để tìm ra anh ngưng sau 22 ngày vì sợ; ghi nhận nỗi sợ, không trách",
+     "v": "c",
+     "n": "LDL-C giảm ít thì xác nhận tuân thủ trước (ACC/AHA 2026 mục 4.2.3.7 Synopsis; mục 3.5 KC 1 giải thích). Cách hỏi, không trách: lựa chọn của người biên soạn."
+    },
+    {
+     "t": "Trả lời nỗi sợ bằng kết quả của chính anh: ALT 38 bình thường, sức cơ 5/5; nói rõ tác dụng phụ thật hiếm và nguy cơ tim mạch khi ngưng statin",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.11 KC 2; ESC/EAS 2019 Bảng 13: ALT < 3 lần giới hạn trên thì tiếp tục."
+    },
+    {
+     "t": "Dùng lại atorvastatin mỗi ngày: tăng lên 40 mg (cường độ cao cho FH) hoặc giữ 20 mg thêm 8 tuần rồi tăng nếu chưa đạt",
+     "v": "c",
+     "n": "Gộp hai cách: ESC/EAS 2019 mục 9.1.2.1, ACC/AHA 2026 mục 4.2.4.3 KC 2, Bảng 6 (atorvastatin 40–80 mg cường độ cao) hoặc mục 4.2.3.7 Synopsis (xác nhận tuân thủ rồi mới tăng cường). Anh đã dung nạp 22 ngày, ALT bình thường."
+    },
+    {
+     "t": "Hẹn lipid và ALT sau 8 (± 4) tuần, ghi ngày vào giấy và sổ thuốc; dặn không tự ngưng, gọi phòng khám trước",
+     "v": "c",
+     "n": "ESC/EAS 2019 Bảng 13 (8 ± 4 tuần); ACC/AHA 2026 mục 3.5 KC 1 (4–12 tuần). Giấy hẹn, số điện thoại: lựa chọn của người biên soạn."
+    },
+    {
+     "t": "Thúc đẩy tầm soát gia đình: em trai Lực (LDL-C 6,0 mmol/L) đi khám và điều trị, hai con (6 và 3 tuổi) và mẹ xét nghiệm lipid",
+     "v": "c",
+     "n": "ESC/EAS 2019 mục 9.1.2.1, 9.1.2.3 (LDL-C ≥ 4,0 mmol/L, statin 6–10 tuổi); ACC/AHA 2026 mục 3.1 KC 3, mục 4.2.8.1 KC 2 (statin ≥ 8 tuổi): nêu cả hai mốc."
+    },
+    {
+     "t": "Ngưng hẳn dầu cá, vitamin E, viên giải độc gan và thuốc lá (đang 5 điếu/ngày)",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.1.5 KC 1 (COR 3); ESC/EAS 2019 Bảng 7 (không thuốc lá)."
+    },
+    {
+     "t": "Gửi chuyên khoa hoặc dùng thuốc tiêm PCSK9/inclisiran vì 'kháng statin'",
+     "v": "w",
+     "n": "Chưa dùng statin tối đa dung nạp đủ thời gian (ACC/AHA 2026 mục 4.2.4.3 KC 3–4, 6)."
+    },
+    {
+     "t": "Đổi sang men gạo đỏ hoặc thực phẩm chức năng thay statin vì sợ hại gan",
+     "v": "w",
+     "n": "ESC/EAS 2025 mục 10, Bảng khuyến cáo 8; ACC/AHA 2026 mục 4.1.5 KC 1; men gạo đỏ chứa monacolin (sổ MT-0523 mục 1)."
+    },
+    {
+     "t": "Đo lại TSH, siêu âm gan, CT điểm vôi hóa mạch vành",
+     "v": "w",
+     "n": "TSH đã bình thường; điểm vôi hóa = 0 không hoãn statin ở FH (ACC/AHA 2026 mục 4.2.4.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng cholesterol máu gia đình thể dị hợp tử (Dutch Lipid Clinic 12 điểm); LDL-C 7,3 mmol/L sau 9 tuần, giảm khoảng 4% so với nền 7,6: không đáp ứng vì chỉ uống atorvastatin 22/63 ngày rồi tự ngưng do sợ hại gan",
+     "ALT 38 U/L, CK 118 U/L, sức cơ 5/5: chưa có tác dụng phụ; chưa có triệu chứng mạch vành; vẫn hút 5 điếu/ngày",
+     "Em trai 27 tuổi LDL-C 6,0 mmol/L: cascade screening bắt đầu có kết quả; hai con và mẹ chưa xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi của lượt: vì sao không đỡ (kháng thuốc, sai chẩn đoán, tác dụng phụ hay không tuân thủ). Tuân thủ phải kiểm đầu tiên (ACC/AHA 2026 mục 4.2.3.7 Synopsis); hỏi 'có uống không' chỉ nhận 'có', hỏi 'mỗi ngày uống thế nào, còn mấy viên' mới ra 22 ngày và 38 viên.",
+     "Chẩn đoán không đổi: u vàng gân, gia đình, TSH 2,1 và em trai LDL-C 6,0 củng cố FH (ESC/EAS 2019 mục 9.1.2.1; Bảng 12). Nỗi sợ hại gan đến từ tin truyền miệng; ALT 38 U/L và sức cơ bình thường là bằng chứng của chính anh (ESC/EAS 2019 Bảng 13)."
+    ],
+    "phan_tich_xu_tri": [
+     "Sửa nguyên nhân (nỗi sợ), không đổi thuốc: LDL-C giảm ít thì xác nhận tuân thủ rồi mới tăng cường (ACC/AHA 2026 mục 4.2.3.7 Synopsis); chuyên khoa hay thuốc tiêm khi chưa dùng đủ statin là chưa đúng điều kiện (mục 4.2.4.3 KC 3–6).",
+     "Atorvastatin 40 mg là cường độ cao (ACC/AHA 2026 Bảng 6) hợp với FH (ESC/EAS 2019 mục 9.1.2.1); giữ 20 mg thêm 8 tuần cũng đúng vì anh mới dùng 22 ngày. Bỏ thuốc lá, ngưng thực phẩm chức năng (ACC/AHA 2026 mục 4.1.5 KC 1); tầm soát gia đình (ESC/EAS 2019 mục 9.1.2.3; ACC/AHA 2026 mục 3.1 KC 3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "40 mg",
+      "lieu": "1 viên × 1 lần/ngày (hoặc tiếp tục 20 mg thêm 8 tuần)",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi tối cùng giờ, ngay sau bữa ăn",
+      "so_ngay": "Dùng lâu dài; cấp 60 ngày, hẹn lipid và ALT sau 8 tuần",
+      "ghi_chu": "Cường độ cao (ACC/AHA 2026 Bảng 6: atorvastatin 40–80 mg); tối đa 80 mg/ngày (QĐ 3879/2014 mục IV.4.1). ALT 38 U/L bình thường (ESC/EAS 2019 Bảng 13). Ngưng và báo nếu đau cơ nặng, yếu cơ, nước tiểu sẫm, vàng da (ACC/AHA 2026 mục 5.1)."
+     }
+    ],
+    "dan_do": [
+     "Uống mỗi tối, kể cả khi khỏe; trước khi bỏ vì sợ, gọi phòng khám (ACC/AHA 2026 mục 4.2.11 KC 2). Men gan của anh bình thường; nguy cơ tim mạch tăng khi ngưng thuốc.",
+     "Bỏ hẳn thuốc lá, ngưng dầu cá, vitamin E, viên giải độc gan; ăn ít lòng, mỡ, bia; đi bộ 30–45 phút, 5 ngày/tuần (ESC/EAS 2019 Bảng 7; QĐ 3879/2014 mục IV.2, IV.3). Đưa hai con, mẹ đi thử lipid.",
+     "Hẹn lipid và ALT sau 8 tuần, ngày ghi giấy (ESC/EAS 2019 Bảng 13). Đau ngực, khó thở khi gắng sức, ngất: đến ngay."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 10 tuần",
+   "tiep_don": "Tái khám sau 10 tuần. Anh Phúc nói đã uống thuốc đều từ lần trước, đến lấy thuốc tiếp và xem mỡ máu. Sinh hiệu lúc tiếp đón: HA 128/82 mmHg, mạch 74 l/p, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 68 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Phúc về nhà với đơn statin tăng liều và hẹn lipid sau 8 tuần. Cơn thắt ngực mới khi gắng sức mức thấp, cộng FH, hút thuốc và cha mất sớm, là bệnh mạch vành cho đến khi chứng minh khác; ESC khuyến cáo chụp mạch vành sau khi tim mạch đánh giá (ESC CCS 2024 mục 3.3.3.1, I C). Không ai chụp, anh vẫn khiêng hàng và hút thuốc mỗi ngày, cơn đau có thể chuyển thành đau khi nghỉ hoặc kéo dài (ESC ACS 2023 mục 2.1).",
+    "theo_doi": "Anh Phúc được hẹn lipid sau 4 tuần và dặn 'đau nhiều thì quay lại'. ECG, troponin, siêu âm bình thường lúc không đau không loại trừ bệnh vành (ESC CCS 2024 mục 3.2). Anh vốn giấu nỗi sợ và ngại đi xa, ít khi tự quay lại, bệnh vành vẫn chưa được chẩn đoán.",
+    "nhap_vien": "Anh Phúc nhập khoa nội 'theo dõi đau ngực' vài ngày. ECG, men tim, siêu âm bình thường, nên chỉ nằm chờ trong khi việc cần làm là chụp mạch vành sau khám tim mạch (ESC CCS 2024 mục 3.3.3.1). Việc chụp mạch vành bị chậm.",
+    "cap_cuu": "Anh Phúc bị gọi xe cấp cứu chuyển ngay như nhồi máu. Không đau lúc nghỉ, cơn dưới 5 phút, ECG và troponin bình thường, tần suất không tăng: chưa phải hội chứng vành cấp (ESC ACS 2023 mục 2.1) nên không cần cấp cứu; đúng là chuyển có hẹn trong 24–72 giờ. Anh hoảng ('đúng như cha tôi') và tốn kém."
+   },
+   "loi_mo": "Chào bác sĩ. Lần này tôi uống thuốc đều như bác sĩ dặn, không bỏ ngày nào, thuốc lá cũng bớt nhiều rồi. Tôi lên lấy thuốc tiếp với coi mỡ xuống chưa. Bác sĩ làm nhanh giùm, chiều nay tôi còn phải nhập hàng, không đi đâu xa được.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "128/82",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Anh đến lấy thuốc tiếp và xem mỡ máu đã xuống chưa. Anh nói mình khỏe, chỉ 'dạo này hơi mệt vì nhập hàng nhiều'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Lý do khám nói ra"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống atorvastatin 40 mg mỗi tối đủ 10 tuần, hộp còn 4 viên; không đau cơ, không vàng da. Hút thuốc còn 3 điếu/ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tuân thủ tốt"
+    },
+    {
+     "id": "tuc_nguc",
+     "noi_dung": "Khoảng hai tuần nay, mỗi lần đi nhanh lên dốc cầu chợ (khoảng 150–200 m) hoặc leo một tầng thang, anh thấy nặng, thắt sau xương ức, lan lên cổ và vai trái; dừng lại khoảng 3–5 phút thì hết. Khoảng 5 lần, chưa tăng dần. Anh nghĩ do hút thuốc và 'mệt vì nhập hàng', và sợ nói ra thì thành sự thật như cha.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi có đau, nặng, tức ngực hoặc khó thở khi đi nhanh, leo thang, khiêng hàng không; hoặc hỏi dạo này có gì khác, hoặc hỏi lại nỗi sợ nhồi máu. Hỏi chung chung 'có khỏe không' thì anh trả lời 'khỏe'.",
+     "k": 1,
+     "y": "Đau thắt ngực mới khi gắng sức: biến chứng bị bỏ sót"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Cơn không xảy ra lúc nghỉ hay ban đêm; không đau khi hít sâu, khi ấn vào ngực hay sau ăn; không vã mồ hôi, buồn nôn, ngất; chưa cơn nào quá 5 phút; lần gần nhất chiều qua; hôm nay không đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm cơn: gắng sức, hết khi nghỉ, chưa không ổn định"
+    },
+    {
+     "id": "pde5",
+     "noi_dung": "Thỉnh thoảng anh dùng thuốc cường dương mua ở chợ (sildenafil); lần cuối khoảng 3 tuần trước.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Liên quan an toàn khi dùng nitrat"
+    },
+    {
+     "id": "ngai",
+     "noi_dung": "Nghe nói đi tuyến trên là mất mấy ngày hàng; anh e ngại và nói 'bác sĩ cho thuốc thêm là được rồi'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Rào cản: ngại chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, da hồng, không vã mồ hôi, không xanh tái. Cân nặng 68 kg.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p. T1, T2 rõ, không âm thổi, không T3, không tiếng cọ màng ngoài tim.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 74 l/p, không thay đổi ST–T, không sóng Q bệnh lý",
+     "n": "Điện tim 12 chuyển đạo cho mọi người có đau ngực (ESC CCS 2024, Bảng khuyến cáo 2, I C). Bình thường lúc không đau không loại trừ bệnh vành."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Troponin T hs 5 ng/L (< 14 ng/L)",
+     "n": "Không có cơn đau lúc nghỉ hoặc kéo dài nên chưa phải hội chứng vành cấp (ESC ACS 2023 mục 2.1); làm hay không đều chấp nhận."
+    },
+    "echo": {
+     "v": "e",
+     "r": "EF 62%, không rối loạn vận động vùng, van động mạch chủ và van hai lá bình thường, không tràn dịch màng tim",
+     "n": "Siêu âm tim lúc nghỉ ở người nghi hội chứng vành mạn (ESC CCS 2024, Bảng khuyến cáo 4, I B)."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Cholesterol TP 6,5 · TG 1,7 · HDL-C 1,1 · LDL-C 4,6 mmol/L",
+     "ab": 1,
+     "n": "LDL-C giảm khoảng 39% so với nền 7,6 sau 10 tuần atorvastatin 40 mg đều (ESC/EAS 2019 Bảng 13; ACC/AHA 2026 mục 3.5 KC 1); chưa đạt < 1,8 hay < 1,4 mmol/L."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 27 · ALT 36 U/L",
+     "n": "ALT sau 8–12 tuần khi khởi hoặc tăng liều (ESC/EAS 2019 Bảng 13); bình thường."
+    },
+    "ecg_gang_suc": {
+     "v": "n",
+     "r": "Đau ngực ở bậc 2 sau 4 phút, ST chênh xuống 2 mm ở V4–V6; ngừng nghiệm pháp",
+     "ab": 1,
+     "n": "Độ nhạy 58%, đặc hiệu 62% (ESC CCS 2024 mục 3.2.3). Triệu chứng mới ở mức gắng sức thấp: chụp mạch vành là bước đầu sau khi tim mạch đánh giá (mục 3.3.3.1)."
+    },
+    "ct_mach_vanh": {
+     "v": "a",
+     "r": "Điểm vôi hóa 187 Agatston; mảng xơ vữa vôi hóa và mềm ở đoạn gần động mạch liên thất trước, hẹp khoảng 70%; động mạch vành phải và mũ không hẹp đáng kể",
+     "ab": 1,
+     "n": "CT mạch vành là xét nghiệm đầu tay khi khả năng thấp–trung bình (ESC CCS 2024 mục 3.3.1); triệu chứng mới ở mức gắng sức thấp thì chụp mạch vành xâm lấn sau khám tim mạch (mục 3.3.3.1, I C). Có kết quả này vẫn phải chuyển."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau thắt ngực mới khi gắng sức mức thấp, nghi hội chứng vành mạn (bệnh mạch vành tắc nghẽn sớm) ở nam 31 tuổi trên nền tăng cholesterol máu gia đình, LDL-C chưa đạt mục tiêu",
+     "ok": 1,
+     "n": "Đủ ba đặc điểm: thắt sau xương ức, khi gắng sức, hết trong 5 phút khi nghỉ (ESC CCS 2024 Hình 3, điểm triệu chứng 3). RF-CL nam 30–39 tuổi, 3 yếu tố nguy cơ: 14% (Hình 4) nhưng mô hình không tính FH; ESC yêu cầu điều chỉnh tăng khi có FH (mục 3.2.1)."
+    },
+    {
+     "t": "Hội chứng vành cấp, đau thắt ngực không ổn định",
+     "n": "Không đau lúc nghỉ > 20 phút, cơn < 5 phút, tần suất chưa tăng, ECG và troponin bình thường (ESC ACS 2023 mục 2.1); nhưng cơn có thể chuyển không ổn định."
+    },
+    {
+     "t": "Đau ngực không do tim (cơ xương, trào ngược, lo âu)",
+     "n": "Đủ ba đặc điểm điển hình; ấn thành ngực không đau, không liên quan ăn hay hô hấp (ESC CCS 2024 mục 3.1.1)."
+    },
+    {
+     "t": "Đau cơ liên quan statin",
+     "n": "Đau sau xương ức khi gắng sức, không đau cơ (ACC/AHA 2026 mục 4.2.11)."
+    },
+    {
+     "t": "Bệnh van động mạch chủ, bệnh cơ tim, bóc tách động mạch chủ, thuyên tắc phổi",
+     "n": "Echo bình thường, HA hai tay đều, không âm thổi, SpO₂ 98%."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển trong 24–72 giờ đến bệnh viện có tim mạch can thiệp để bác sĩ tim mạch đánh giá và chụp mạch vành",
+     "v": "c",
+     "n": "Triệu chứng mới ở mức gắng sức thấp: chụp mạch vành xâm lấn sau khi tim mạch đánh giá (ESC CCS 2024 mục 3.3.3.1, I C); FH, hút thuốc, gia đình: khả năng cao hơn RF-CL (mục 3.2.1)."
+    },
+    {
+     "t": "Chuẩn bị chuyển: thư chuyển (bệnh sử, ECG, troponin, siêu âm, lipid, thuốc); giải thích đây là biến chứng sớm của mỡ máu di truyền, không phải do hóa chất; nghỉ gắng sức, bỏ hẳn thuốc lá, người nhà đi cùng",
+     "v": "c",
+     "n": "Bỏ thuốc lá (ESC CCS 2024 mục 4.1.2.1). Thư chuyển, người đi cùng: không có trong tài liệu đã tải, lựa chọn của người biên soạn. Anh ngại mất ngày hàng: nói rõ rủi ro, hẹn ngày cụ thể."
+    },
+    {
+     "t": "Nitroglycerin ngậm dưới lưỡi khi đau, kèm dặn không dùng thuốc cường dương trước đó và gọi cấp cứu nếu đau > 15–20 phút không đỡ",
+     "v": "c",
+     "n": "ESC CCS 2024 mục 4.2.1 (I B); ACC/AHA 2023 CCD mục 4.3.6 KC 4; liều 0,3–0,6 mg mỗi 5 phút, tối đa 1,2 mg trong 15 phút, chống chỉ định sau thuốc ức chế phosphodiesterase (TL-0032, 2020). Đau lúc nghỉ > 20 phút là dấu không ổn định (ESC ACS 2023 mục 2.1). Khoảng cách với sildenafil: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng cường hạ LDL-C: atorvastatin 40 → 80 mg hoặc thêm ezetimibe 10 mg; mục tiêu < 1,4 mmol/L và giảm ≥ 50% so với nền",
+     "v": "c",
+     "n": "Gộp hai cách: ESC CCS 2024 mục 4.3.2 (< 1,4 mmol/L, I A; statin cường độ cao tối đa dung nạp, I A; thêm ezetimibe, I B); ACC/AHA 2026 mục 4.2.4.3 KC 5 (< 55 mg/dL); ESC/EAS 2019 mục 9.1.2.1 (FH kèm bệnh tim mạch: giảm ≥ 50% và < 1,4 mmol/L)."
+    },
+    {
+     "t": "Aspirin 75–100 mg: dùng ngay hoặc để tuyến trên quyết sau khi có hình ảnh",
+     "v": "c",
+     "n": "Gộp hai cách (sổ MT-0995): ACC/AHA 2023 CCD mục 4.3.1 KC 1 (aspirin 81 mg, I A); ESC CCS 2024 (khi có hẹp ý nghĩa trên hình ảnh, I B). Khác phạm vi: bệnh đã xác lập so với nghi bệnh; không nguồn nào nói dùng sớm có hại."
+    },
+    {
+     "t": "Làm nghiệm pháp gắng sức (điện tim gắng sức) tại chỗ để xác định rồi mới quyết chuyển",
+     "v": "w",
+     "n": "Độ nhạy 58%, đặc hiệu 62% (ESC CCS 2024 mục 3.2.3); triệu chứng mới ở mức gắng sức thấp thì chụp mạch vành là bước đầu (mục 3.3.3.1); gắng sức làm chậm chuyển và có thể gây biến cố."
+    },
+    {
+     "t": "Cho về, tăng liều statin, hẹn lipid sau 8 tuần; chỉ dặn 'đau nhiều thì quay lại'",
+     "v": "w",
+     "n": "Bỏ sót bệnh vành có triệu chứng (ESC CCS 2024 mục 3.3.3.1; ESC ACS 2023 mục 2.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau thắt ngực mới khi gắng sức mức thấp (ba đặc điểm: thắt sau xương ức, khi gắng sức, hết trong 5 phút khi nghỉ), nghi hội chứng vành mạn, khả năng cao bệnh mạch vành tắc nghẽn ở nam 31 tuổi",
+     "Nền: tăng cholesterol máu gia đình thể dị hợp tử (Dutch Lipid Clinic 12 điểm); LDL-C 7,6 → 4,6 mmol/L (giảm 39%) sau 10 tuần atorvastatin 40 mg, chưa đạt mục tiêu; hút thuốc 3 điếu/ngày",
+     "Điện tim, troponin T hs, siêu âm tim bình thường; không có dấu hiệu hội chứng vành cấp lúc này"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu then chốt 'khi đi nhanh, leo thang, khiêng hàng có nặng ngực không': anh giấu vì sợ như cha, chỉ khai khi được hỏi trúng. Ba đặc điểm cơn cho điểm triệu chứng 3 (ESC CCS 2024 Hình 3).",
+     "RF-CL nam 30–39 tuổi, điểm triệu chứng 3, 3 yếu tố nguy cơ: 14% ('thấp', Hình 4) nhưng không tính FH; ESC yêu cầu điều chỉnh tăng (mục 3.2.1). Triệu chứng mới ở mức gắng sức thấp: chụp mạch vành xâm lấn sau khi tim mạch đánh giá (mục 3.3.3.1, I C).",
+     "Chưa phải hội chứng vành cấp: không đau lúc nghỉ, cơn dưới 5 phút, tần suất chưa tăng, ECG và troponin bình thường (ESC ACS 2023 mục 2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển có hẹn 24–72 giờ: không cấp cứu, không nhập viện chờ, không gắng sức tại chỗ (ESC CCS 2024 mục 3.3.3.1, 3.2.3). Nitroglycerin ngậm khi đau (ESC CCS 2024 mục 4.2.1; TL-0032); hỏi sildenafil vì nitrat chống chỉ định sau thuốc ức chế phosphodiesterase (TL-0032). Đau > 15–20 phút không đỡ: gọi cấp cứu (ESC ACS 2023 mục 2.1).",
+     "Hạ LDL-C mạnh hơn: < 1,4 mmol/L và giảm ≥ 50% (ESC CCS 2024 mục 4.3.2; ACC/AHA 2026 mục 4.2.4.3 KC 5); atorvastatin 80 mg hoặc thêm ezetimibe 10 mg. Thuốc tiêm PCSK9 là bước sau nếu chưa đạt trên statin tối đa dung nạp (ACC/AHA 2026 mục 4.2.4.3 KC 5; VESALIUS-CV 2025)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "80 mg",
+      "lieu": "1 viên × 1 lần/ngày (hoặc giữ 40 mg và thêm ezetimibe 10 mg × 1 lần/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi tối cùng giờ",
+      "so_ngay": "Dùng lâu dài; lipid và ALT sau 8 (± 4) tuần",
+      "ghi_chu": "Tối đa 80 mg/ngày (QĐ 3879/2014 mục IV.4.1); cường độ cao (ACC/AHA 2026 Bảng 6). Ezetimibe 10 mg/ngày giảm thêm khoảng 25% khi phối hợp statin (ACC/AHA 2026 Bảng 5; ESC CCS 2024 mục 4.3.2, I B). ALT 36 U/L (ESC/EAS 2019 Bảng 13)."
+     },
+     {
+      "thuoc": "Aspirin",
+      "ham_luong": "81 mg",
+      "lieu": "1 viên × 1 lần/ngày, hoặc chờ tuyến trên quyết sau hình ảnh",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa ăn",
+      "so_ngay": "Tới khi tuyến trên quyết định",
+      "ghi_chu": "81 mg (75–100 mg) cho bệnh mạch vành mạn (ACC/AHA 2023 CCD mục 4.3.1 KC 1); ESC CCS 2024 khuyến cáo khi có hẹp ý nghĩa trên hình ảnh."
+     },
+     {
+      "thuoc": "Nitroglycerin",
+      "ham_luong": "0,4 mg",
+      "lieu": "1 viên ngậm dưới lưỡi khi đau; lặp lại sau 5 phút nếu còn đau, tối đa 3 viên trong 15 phút",
+      "duong": "Ngậm dưới lưỡi",
+      "thoi_diem": "Khi lên cơn; ngồi xuống khi dùng",
+      "so_ngay": "Mang theo người, dùng khi cần",
+      "ghi_chu": "0,3–0,6 mg mỗi 5 phút, tối đa 1,2 mg trong 15 phút (TL-0032, 2020); 0,4 mg ngậm dưới lưỡi (TL-0033, 2019); ESC CCS 2024 mục 4.2.1 (I B). Không dùng nếu vừa dùng sildenafil (khoảng thời gian: không có trong tài liệu đã tải). Đau > 15–20 phút không đỡ: gọi cấp cứu."
+     }
+    ],
+    "dan_do": [
+     "Đến bệnh viện tim mạch theo giấy chuyển trong 1–3 ngày, mang đủ phiếu; không khiêng nặng hay đi nhanh lên dốc trước khi được khám (ESC CCS 2024 mục 3.3.3.1).",
+     "Đau ngực lúc nghỉ, kéo dài quá 15–20 phút, vã mồ hôi, buồn nôn, ngất: gọi cấp cứu ngay (ESC ACS 2023 mục 2.1). Cơn khi gắng sức: ngồi xuống, ngậm nitroglycerin (TL-0032); không dùng sildenafil khi còn mang nitroglycerin.",
+     "Bỏ hẳn thuốc lá (ESC CCS 2024 mục 4.1.2.1); uống atorvastatin mỗi tối, không tự ngưng. Hai con, mẹ cần có kết quả lipid (ESC/EAS 2019 mục 9.1.2.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Phúc được chuyển lên bệnh viện tỉnh trong hai ngày. Chụp mạch vành (hư cấu) hẹp khoảng 80% đoạn gần động mạch liên thất trước, đặt một stent; thêm ezetimibe, LDL-C 10 tuần sau còn 1,9 mmol/L, anh bỏ hẳn thuốc lá. Em trai bắt đầu statin, hai con được xét nghiệm lipid và theo dõi. Các quyết định lượt 1–3 đều đúng; biến chứng đến từ điểm gãy trước đó: ba nơi chỉ nhìn LDL-C 7,6–7,8 mmol/L và men gan, gán cho gan và hóa chất, không khám gân, không hỏi gia đình, không cho statin vì 'còn trẻ', thêm nữa sáu tháng phơi nhiễm cholesterol. Nếu lượt 3 không hỏi 'đi nhanh, leo thang có nặng ngực không', ca sẽ kết thúc ở 'LDL-C đang xuống'.",
+ "nhieu": [
+  "Hóa chất: tiếp xúc nghề và vụ đổ chai thuốc trừ sâu là 'thủ phạm' trong đầu anh; tài liệu đã tải không nêu hóa chất trừ sâu làm tăng LDL-C; ngộ độc cấp phospho hữu cơ là bệnh cảnh cấp khác hẳn (TL-0035 mục 6) và anh không có triệu chứng; ALT 44–56 U/L chỉ nhẹ.",
+  "Gan nhiễm mỡ và ALT nhích: có thật nhưng không giải thích được u vàng gân và LDL-C 7,6 mmol/L; là chỗ ba nơi neo vào (QĐ 3879/2014 mục III.1.2).",
+  "Thực phẩm chức năng (dầu cá, vitamin E, cây kế sữa): sáu tháng không hạ LDL-C; dầu cá còn có thể tăng LDL-C (ACC/AHA 2026 mục 4.1.5 KC 1).",
+  "Điểm vôi hóa mạch vành 0 nếu làm ở lượt 1 sẽ trấn an giả; ở FH không dùng để hoãn statin (ACC/AHA 2026 mục 4.2.4.1).",
+  "Từng khám ba nơi, mỉa mai lời dặn quen: chỉ dùng phiếu cũ của anh và làm đúng việc ba nơi chưa làm."
+ ],
+ "bai_hoc_bien": [
+  "Không điển hình: người trẻ, không béo, LDL-C 7,6 mmol/L. Nếu không hỏi tiền sử gia đình và không khám gân Achille thì bỏ sót FH; tuổi trẻ không làm bệnh vành 'chưa tới' (ESC/EAS 2019 mục 9.1.2.1).",
+  "Từng khám ba nơi không khỏi: tái lập niềm tin bằng phiếu cũ của chính anh, chỉ thêm TSH, nói rõ ba việc chưa ai làm (khám gân, hỏi gia đình, statin).",
+  "Không đỡ ở lượt 2: LDL-C chỉ giảm 4% là câu hỏi tuân thủ đầu tiên ('mỗi ngày uống thế nào, còn mấy viên'), không phải kháng thuốc; hỏi 'có uống không' chỉ nhận 'có'. Chuyên khoa hay thuốc tiêm khi chưa dùng đủ statin là chưa đúng điều kiện.",
+  "Biến chứng do bỏ sót: điểm gãy là 'còn trẻ nên chờ' ở ba nơi trước; ở mọi lượt phải hỏi triệu chứng gắng sức; RF-CL không tính FH nên đánh giá thấp; người sợ hãi giấu triệu chứng và chỉ nói khi được hỏi trúng."
+ ],
+ "diem_nho": [
+  "LDL-C ≥ 4,9 mmol/L (190 mg/dL) là nặng: loại trừ thứ phát rồi statin liều tối đa dung nạp (ACC/AHA 2026 mục 4.2.4.3 KC 1–2). Dutch Lipid Clinic > 8 điểm là FH chắc chắn (ESC/EAS 2019 Bảng 12).",
+  "FH: giảm ≥ 50% và LDL-C < 1,8 mmol/L; < 1,4 mmol/L khi có bệnh mạch vành (ESC/EAS 2019 mục 9.1.2.1).",
+  "Tầm soát gia đình bằng lipid ở người thân bậc 1 (ESC/EAS 2019 mục 9.1.2.1; ACC/AHA 2026 mục 3.1 KC 3, mục 4.2.4.2).",
+  "Đau thắt ngực mới ở mức gắng sức thấp: RF-CL không tính FH, chụp mạch vành sau khám tim mạch (ESC CCS 2024 mục 3.2.1, 3.3.3.1); nitroglycerin ngậm khi đau (ESC CCS 2024 mục 4.2.1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 3879/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị bệnh nội tiết – chuyển hóa – TL-0039 – Rối loạn chuyển hóa lipid máu: mục II.1, II.2, III.1.1, III.1.2, III.2, Bảng 2, IV.1–IV.4, IV.4.1; Suy giáp ở người lớn: mục IV.2.5, IV.3.",
+  "ACC/AHA 2026 Guideline on the Management of Dyslipidemia – TL-0292 – mục 3.1 (KC 3), 3.2, 3.4 (KC 1–2), 3.5 (KC 1), 4.1.5 (KC 1), 4.2.1.1 (Bảng 5, 6), 4.2.3.1, 4.2.3.7 (Synopsis), 4.2.4.1, 4.2.4.2 (KC 1–2), 4.2.4.3 (KC 1–6, Bảng 15, 16), 4.2.8.1 (KC 2), 4.2.11 (KC 1–2), 5.1 (KC 5, 6), Bảng 24, 25.",
+  "ESC/EAS 2019 Guidelines for the management of dyslipidaemias – TL-0320 – mục 9.1.2.1, 9.1.2.3, 9.1.4.1; Bảng 7, 12 (Dutch Lipid Clinic), 13.",
+  "ESC/EAS 2025 Focused Update – TL-0298 – Bảng 3; mục 10 và Bảng khuyến cáo 8 (thực phẩm chức năng); Bảng khuyến cáo 4 (Lp(a)).",
+  "ESC 2024 Guidelines for chronic coronary syndromes – TL-0304 – mục 3.1.1, 3.2 (Bảng khuyến cáo 2, 3, 4), 3.2.1 (Hình 3, 4), 3.2.3, 3.3.1, 3.3.3.1 (I C), 4.1.2.1, 4.2.1 (nitrat tác dụng ngắn, I B; chẹn beta/chẹn kênh canxi, I B), 4.3.2 (LDL-C < 1,4 mmol/L, I A).",
+  "ESC 2023 Guidelines for acute coronary syndromes – TL-0069 – mục 2.1 (định nghĩa đau thắt ngực không ổn định).",
+  "2023 AHA/ACC Chronic Coronary Disease – TL-0310 – mục 4.3.1 (KC 1: aspirin 81 mg, I A), 4.3.6 (KC 4: nitroglycerin ngậm dưới lưỡi).",
+  "Thực hành chẩn đoán và điều trị bệnh động mạch vành (2020) – TL-0032 – nhóm nitrat (liều nitroglycerin 0,3–0,6 mg mỗi 5 phút, tối đa 1,2 mg trong 15 phút; chống chỉ định sau thuốc ức chế phosphodiesterase). Hướng dẫn xử trí hội chứng mạch vành cấp (2019) – TL-0033 – nitroglycerin 0,4 mg ngậm dưới lưỡi.",
+  "BYT 2015, Hướng dẫn chẩn đoán và xử trí ngộ độc – TL-0035 – mục 6 (ngộ độc cấp phospho hữu cơ).",
+  "ATA 2014, Guidelines for the treatment of hypothyroidism – TL-0326 – tr. 1678 (triệu chứng lâm sàng không đủ nhạy để loại trừ suy giáp).",
+  "VESALIUS-CV 2025 (NEJM 2026) – TL-0334 – evolocumab ở người xơ vữa chưa NMCT/đột quỵ (chỉ nhắc là bước sau)."
+ ],
+ "ghi_chu_bien_tap": [
+  "28/11/2026. Đọc: TL-0039 (QĐ 3879/2014: RL lipid máu; Suy giáp), TL-0292 (ACC/AHA 2026, mục 4.2.4), TL-0320 (ESC/EAS 2019 mục 9.1, Bảng 7, 12, 13), TL-0298 (ESC/EAS 2025), TL-0304 (ESC CCS 2024), TL-0310 (ACC/AHA 2023 CCD), TL-0069 (ESC ACS 2023 mục 2.1), TL-0032, TL-0033, TL-0035.",
+  "Áp dụng sổ mâu thuẫn cũ, không thêm mục mới: MT-0425 mục 1–5, MT-0515 (atorvastatin 20 hoặc 40 mg), MT-0523 (lipid đói hay không; thực phẩm chức năng w), MT-0995 (aspirin; mục tiêu LDL-C), NH-0964.",
+  "Thiếu tài liệu (ghi 'không có trong tài liệu đã tải'): ảnh hưởng của hóa chất trừ sâu lên lipid; khoảng thời gian sildenafil–nitrat; quy trình chuyển tuyến, SBAR; liều chẹn beta; PREVENT/SCORE2 (không dùng cho FH). Ca không có ảnh da."
+ ]
+}

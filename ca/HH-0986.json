@@ -1,0 +1,525 @@
+{
+ "ma_ca": "HH-0986",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn 2026-11-28",
+ "benh": "HH_viem_mui_xoang_cap",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "Viêm mũi xoang cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm mô tế bào ổ mắt",
+   "Nấm xoang xâm lấn"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Học sinh (lớp 8)",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết (trời trở lạnh sau mưa)",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt có corticoid (mẹ tự mua, nhỏ mắt phải)",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát (mẹ lo có bệnh nặng ẩn, muốn con đủ sức thi học kỳ)"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Minh Khôi",
+  "tuoi": 13,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 8, chơi bóng rổ ở trường",
+  "can_nang": 45,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi em là 'em' hoặc 'Khôi'. Khôi xưng 'con' với bác sĩ và mẹ, gọi bác sĩ là 'bác sĩ'. Mẹ gọi con là 'thằng Khôi', xưng 'tôi' hoặc 'em' với bác sĩ.",
+  "tinh_cach": "Khôi hiền, trả lời ngắn 'dạ', hơi chán vì đi khám nhiều lần, lo trễ bài và sắp thi học kỳ. Khi bác sĩ hỏi kỹ và nhẹ nhàng thì kể rõ hơn, nhất là về mắt.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mẹ mệt mỏi và mất niềm tin, mở đầu bằng trách các nơi trước, đòi 'khám tổng quát, làm hết xét nghiệm'. Không tự đưa xấp giấy kết quả; không kể thuốc nhỏ mắt vì cho là chuyện khác. Nếu bác sĩ nghe hết, xin xem giấy và khám mũi kỹ thì mẹ dịu lại và hợp tác; nếu bác sĩ vội, lặp lại xét nghiệm hoặc chê các nơi trước thì mẹ càng nghi ngờ.",
+  "nguoi_nha": "Mẹ, chị Thảo, 40 tuổi, kế toán. Chị biết: con ốm 13 ngày, ba nơi, sốt, ho đêm, nghẹt mũi, mắt phải đỏ nên mua thuốc nhỏ mắt. Chị KHÔNG biết thuốc nhỏ mắt chứa corticoid và không nghĩ chuyện mắt liên quan mũi; chị giấu nỗi sợ bệnh nặng/u/nấm đọc trên mạng đến khi được hỏi. Chị là người trả lời chính (nguoi_noi = nguoi_nha) nhưng Khôi tự trả lời khi được hỏi trực tiếp.",
+  "ten_nguoi_nha": "Chị Thảo (mẹ)",
+  "ngoai_hinh": {
+   "da": "#e0b48f",
+   "toc": "#1e1915",
+   "kieuToc": "ngan",
+   "ao": "#5f86a8",
+   "aoKieu": "phong",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e4b995",
+    "toc": "#2a1d16",
+    "kieuToc": "bui",
+    "ao": "#8a6f9a",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Nghẹt mũi, chảy mũi vàng xanh, đau má phải 13 ngày; đã khám 3 nơi chưa khỏi",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Cơ sở chỉ có xét nghiệm cơ bản (công thức máu, sinh hóa nền, nước tiểu). Không có X-quang, siêu âm, CT, nội soi."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Em Đặng Minh Khôi, 13 tuổi, học sinh lớp 8, mẹ đưa đến vì nghẹt mũi, chảy mũi vàng xanh, ho đêm và đau má phải 13 ngày; mẹ nói đã khám ba nơi chưa khỏi và mang theo xấp giấy khám. Sinh hiệu: nhiệt độ 37,9 °C, mạch 94 l/p, HA 106/66 mmHg, nhịp thở 20 l/p, SpO₂ 98% khí trời, cân nặng 45 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện nội trú để truyền kháng sinh khi Khôi chỉ sốt nhẹ, ăn uống bình thường, thị lực 10/10, mi không sưng, không lồi mắt, không đôi hình và không dấu thần kinh là quá mức: tài liệu đã tải chỉ nêu chuyển hoặc nhập viện khi có dấu cảnh báo (EPOS 2020 Bảng 4.5.1) và kháng sinh uống là phác đồ cho viêm xoang không biến chứng (IDSA 2012 khuyến cáo 3, 5). Em nghỉ học thêm giữa lúc sắp thi học kỳ, mẹ vốn đã mất niềm tin sau ba nơi nay thêm lo và tốn kém.",
+    "chuyen_tuyen": "Chuyển lên tuyến trên chụp CT xoang hoặc hốc mắt khi chưa nghi biến chứng không đổi xử trí (IDSA 2012 khuyến cáo 24 chỉ khi nghi biến chứng mủ; AWaRe 2022 tr. 64 hình ảnh thường không cần). Mẹ đi thêm một nơi thứ tư, trả khoảng 1.200.000 đồng cho CT theo giá tham khảo trong app, Khôi chịu tia X, trong khi lọ thuốc nhỏ mắt có dexamethasone vẫn chưa ai hỏi tới và kháng sinh vẫn chưa được kê."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu bệnh mười mấy ngày rồi, đi ba chỗ rồi mà chỗ nào cũng nói một kiểu, uống thuốc hoài không hết. Bác sĩ khám tổng quát cho cháu luôn, làm hết các xét nghiệm đi, tuần sau cháu thi rồi.",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "106/66",
+    "nhiet": "37,9",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nghẹt mũi, chảy mũi vàng xanh, ho về đêm, đau nhức má phải, bệnh 13 ngày nay. Đã khám ba nơi mà chưa khỏi. Mẹ nói muốn khám lại cho kỹ, 'khám tổng quát luôn cho yên tâm'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ngày 0: trời trở lạnh sau trận mưa, Khôi chơi bóng rổ ở sân trường, chiều hắt hơi, sổ mũi trong, rát họng. Ngày 3–4 đỡ nhiều, em đi học lại. Ngày 5: sổ mũi chuyển vàng xanh đặc, nghẹt mũi nặng, sốt trở lại, đau nhức má phải.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi bệnh bắt đầu từ lúc nào và diễn tiến từng ngày. Mẹ hay kể lộn xộn theo thứ tự đi khám nên phải hỏi lại mốc ngày.",
+     "k": 1,
+     "y": "Diễn tiến hai pha: đỡ rồi nặng lại sau ngày 5"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "(Mẹ kể) Mẹ có ghi sổ: ngày 5–8 sốt 38,8–39,4 °C đo lúc chưa uống thuốc, uống paracetamol thì hạ vài giờ rồi sốt lại. Ngày 9–13 chỉ còn sốt nhẹ về chiều 37,8–38,3 °C. Hôm nay đo sáng 38,0 °C, uống paracetamol lúc 6 giờ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi có sốt không, sốt bao nhiêu độ, đo lúc nào, đã uống thuốc hạ sốt chưa. Hỏi chung chung mẹ chỉ nói 'cũng sốt sốt'.",
+     "k": 1,
+     "y": "Sốt trên 38 °C trong pha thứ hai"
+    },
+    {
+     "id": "mui",
+     "noi_dung": "Chảy mũi đặc vàng xanh, nghẹt cả hai bên nhưng bên phải nặng hơn, dịch chảy xuống họng làm ho nhiều về đêm, thở hôi nhẹ. Ngửi mùi kém vì nghẹt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mủ mũi, chảy sau họng"
+    },
+    {
+     "id": "dau_ma",
+     "noi_dung": "Đau nhức má và quanh mắt bên phải, mức 5/10, cúi đầu xuống thì đau tăng, tối hơi khó ngủ. Bên trái không đau. Không đau răng, không chảy máu mũi.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi đau ở đâu, một bên hay hai bên, cúi đầu có đau hơn không, có đau răng, chảy máu mũi không.",
+     "k": 1,
+     "y": "Đau mặt một bên, nặng khi cúi"
+    },
+    {
+     "id": "mat",
+     "noi_dung": "Từ ngày 4 mắt phải ngứa và đỏ nhẹ, hơi chảy nước mắt; mắt trái không. Không nhìn mờ, không nhìn đôi, không đau khi liếc mắt, mi không sưng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không nghĩ chuyện mắt liên quan nên không kể. Chỉ nói khi bác sĩ hỏi về mắt. Hỏi chung 'mắt có sao không' thì Khôi nói 'ngứa với đỏ chút thôi'; hỏi cụ thể nhìn mờ, nhìn đôi, đau khi liếc, sưng mi thì mới trả lời đủ là không.",
+     "k": 1,
+     "y": "Mắt phải đỏ ngứa; sàng lọc dấu ổ mắt"
+    },
+    {
+     "id": "thuoc_mat",
+     "noi_dung": "Ngày 4 mẹ ra nhà thuốc mua lọ thuốc nhỏ mắt (nhãn ghi tobramycin và dexamethasone), nhỏ mắt phải 4 lần mỗi ngày, đến nay 9 ngày vẫn nhỏ. Chưa nơi nào hỏi tới. Ngoài ra Khôi đang uống paracetamol, siro ho, vitamin C.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'đang dùng thuốc gì' thì mẹ kể paracetamol, siro ho, vitamin C và quên thuốc nhỏ mắt. Chỉ nói thuốc nhỏ mắt khi hỏi có thuốc nhỏ, thuốc xịt, thuốc mua ngoài nào không hoặc khi hỏi về mắt; phải xin mẹ cho xem lọ thuốc mới biết có dexamethasone.",
+     "k": 1,
+     "y": "Thuốc nhỏ mắt có corticoid tự dùng 9 ngày"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "(Mẹ kể) Ngày 3 mua gói thuốc cảm ở nhà thuốc đầu ngõ. Ngày 6 phòng khám nhi tư gần nhà: 'viêm họng', làm công thức máu, cho paracetamol, siro ho, hẹn 3 ngày. Ngày 10 phòng khám đa khoa tư: 'viêm đường hô hấp trên do virus', làm công thức máu, CRP, chụp phổi, cho thuốc ho, vitamin, bảo chờ thêm. Mẹ nói 'mỗi chỗ nói một kiểu, chẳng ai nhìn vô mũi con'. Không nơi nào cho kháng sinh.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi hỏi đã đi khám ở đâu, được chẩn đoán gì, cho thuốc gì, có kháng sinh không. Mẹ hơi gắt, trách các nơi trước; nếu bác sĩ nghe hết và xin xem giấy thì mẹ dịu lại.",
+     "k": 1,
+     "y": "Tiền sử khám 3 nơi, chưa kháng sinh"
+    },
+    {
+     "id": "xn_cu",
+     "noi_dung": "Mẹ mang xấp giấy: ngày 6 công thức máu BC 11,9 G/L, Neutrophil 68%. Ngày 10 công thức máu BC 14,8 G/L, Neutrophil 79%, Hb 133 g/L, TC 340 G/L; CRP 46 mg/L; X-quang phổi thẳng: hai phổi bình thường.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Mẹ để xấp giấy trong túi và không tự đưa. Chỉ lấy ra khi bác sĩ xin xem kết quả xét nghiệm cũ hoặc hỏi các nơi trước có làm xét nghiệm gì.",
+     "k": 1,
+     "y": "Kết quả cũ: tránh lặp lại xét nghiệm"
+    },
+    {
+     "id": "do_bao_dong",
+     "noi_dung": "Không đau đầu dữ dội, không sưng vùng trán, không nôn, không cứng cổ, không lơ mơ, không co giật, không nhìn đôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu cảnh báo biến chứng"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khôi khỏe, không bệnh mạn tính, không tiểu đường, không dùng thuốc uống corticoid hay thuốc ức chế miễn dịch. Hay hắt hơi, ngứa mũi buổi sáng mỗi khi trở trời từ nhỏ, chưa khám dị ứng. Chưa từng viêm xoang. Nhà không ai hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, miễn dịch, cơ địa dị ứng"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc nào, từng uống amoxicillin hồi nhỏ không sao. Ba tháng nay chưa dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng penicillin, kháng sinh gần đây"
+    },
+    {
+     "id": "hoc_duong",
+     "noi_dung": "Khôi nghỉ học 6 ngày, tuần sau thi học kỳ. Khôi nuốt được viên thuốc, ăn uống bình thường, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Mẹ sợ con có bệnh gì nặng mà các nơi chưa phát hiện: chị đọc trên mạng và nghe người quen kể con bị viêm xoang kéo dài hóa ra u hoặc nấm, phải mổ. Chị muốn chụp CT, xét nghiệm 'hết một lượt' để yên tâm và để con đủ sức thi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi mẹ lo điều gì nhất, mong muốn gì hôm nay, hoặc vì sao muốn làm nhiều xét nghiệm. Mẹ ngập ngừng rồi kể chuyện người quen và bài đọc trên mạng.",
+     "k": 1,
+     "y": "Lý do thật: lo bệnh nặng ẩn, muốn kiểm tra tổng quát"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt, nói giọng nghẹt mũi. Cao 158 cm, nặng 45 kg, BMI 18,0. Da niêm hồng, không vàng da, không ban, không dấu xuất huyết.",
+     "k": 1,
+     "hien": "Tỉnh, giọng nghẹt mũi, thể trạng bình thường (45 kg)."
+    },
+    "hong_tai_mui": {
+     "a": "Soi mũi (đèn và mỏ vịt mũi): niêm mạc cuốn dưới hai bên phù đỏ; khe giữa phải có chất nhầy mủ đặc vàng xanh, khe giữa trái ít dịch nhầy. Vách ngăn không lệch, không polyp, không loét, không hoại tử, không vùng niêm mạc đen. Họng đỏ nhẹ, dịch mủ chảy sau thành họng; amidan không to, không giả mạc. Gõ và ấn đau xoang hàm phải, xoang trán không đau. Tai hai bên màng nhĩ bình thường.",
+     "k": 1,
+     "hien": "Mũi: niêm mạc phù đỏ, khe giữa phải có chất nhầy mủ vàng xanh. Họng đỏ nhẹ, có dịch đục chảy sau thành họng. Ấn đau má phải."
+    },
+    "mat": {
+     "a": "Thị lực không kính 10/10 hai mắt, nhìn màu bình thường. Mắt phải: kết mạc hơi cương tụ, tiết tố ít, không phù kết mạc, mi không sưng đỏ. Nhãn cầu hai bên cân xứng, không lồi. Vận nhãn đủ sáu hướng hai mắt, không đau khi liếc, không đôi hình. Đồng tử hai bên tròn đều 3 mm, phản xạ ánh sáng tốt. Mắt trái bình thường.",
+     "k": 1,
+     "hien": "Mi hai mắt không sưng. Mắt phải hơi đỏ. Nhãn cầu cân xứng, đồng tử đều, phản xạ tốt. Thị lực 10/10 hai mắt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein mắt phải: giác mạc trong, không bắt màu, không ổ loét, không hình cành cây. Mắt trái không bắt màu.",
+     "k": 0
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng ngón tay: hai nhãn cầu căng như nhau, mềm. Không có nhãn áp kế nên không đo được con số.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên 0,5–1 cm, mềm, di động, không đau. Cổ mềm, không dấu màng não. Không sưng vùng trán hay quanh mắt.",
+     "k": 1,
+     "hien": "Hạch dưới hàm nhỏ, mềm. Cổ mềm."
+    },
+    "rang_ham_mat": {
+     "a": "Răng không sâu lớn, không răng hàm trên lung lay, ấn gõ răng không đau. Niêm mạc miệng hồng.",
+     "k": 0
+    },
+    "noi_soi_mui": {
+     "a": "Cơ sở không có máy nội soi mũi xoang; đã soi mũi trước bằng đèn như ở mục họng, tai, mũi. Không cần nội soi để chẩn đoán ở tuyến đầu.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt. Cổ mềm, các dây sọ bình thường, không dấu thần kinh khu trú.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Rì rào phế nang êm hai phổi, không ran, không rít.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p. Rì rào phế nang êm hai phổi."
+    },
+    "tim": {
+     "a": "Tim đều 94 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 94 l/p."
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, gan lách không sờ thấy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 13,6 G/L · Neutrophil 74% · Hb 131 g/L · TC 330 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 13.6,
+      "neu_pct": 74.0,
+      "neu": 10.06,
+      "lym_pct": 18.0,
+      "lym": 2.45,
+      "mono_pct": 6.0,
+      "mono": 0.82,
+      "eos_pct": 1.5,
+      "eos": 0.2,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 4.8,
+      "hgb": 131,
+      "hct": 0.39,
+      "mcv": 81.3,
+      "mch": 27.3,
+      "mchc": 336,
+      "rdw": 12.9,
+      "plt": 330
+     },
+     "n": "Bạch cầu tăng nhẹ, ưu thế trung tính, cùng hướng với kết quả ngày 10 (BC 14,8) nên làm lại không đổi quyết định. QĐ 5643/2015 mục 3.1.2 (tr. 109): xét nghiệm không thực sự có giá trị đánh giá viêm mũi xoang cấp; EPOS 2020 mục 4.5.3.4: không cần xét nghiệm bổ sung thường quy. Chấm a vì đã có kết quả cũ trong tay mẹ."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 38 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 38
+     },
+     "n": "CRP tăng là một trong năm tiêu chuẩn nghĩ viêm xoang vi khuẩn (EPOS 2020 Hình 4.1.1, mục 4.5.3.3). Ngưỡng 'tăng' cụ thể: không có trong tài liệu đã tải. Kết quả ngày 10 là 46 mg/L; làm lại không đổi hướng xử trí. Không phân biệt được có hay không biến chứng."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose 5,0 mmol/L",
+     "bang": {
+      "glu": 5.0
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, không nhịn đói.",
+     "n": "Bình thường: không có bằng chứng đái tháo đường, hạ thấp khả năng nấm xoang xâm lấn (QĐ 5643/2015, bài Viêm mũi xoang do nấm, mục 2.2, 3.1.2: suy giảm miễn dịch, tiểu đường). Chấm a: tiền sử không gợi tiểu đường nên không bắt buộc."
+    },
+    "ct_xoang": {
+     "n": "Cơ sở không có CT. Không có dấu cảnh báo biến chứng nên không cần: hình ảnh không cần cho viêm xoang không biến chứng (AWaRe 2022 tr. 64; EPOS 2020 mục 4.5.3.4); CT có cản quang khi nghi biến chứng mủ (IDSA 2012 khuyến cáo 24)."
+    },
+    "xq_xoang": {
+     "n": "Cơ sở không có X-quang. Không dùng để quyết định ở viêm xoang không biến chứng (AWaRe 2022 tr. 64; EPOS 2020 mục 4.5.3.4)."
+    },
+    "ct_hoc_mat": {
+     "n": "Cơ sở không có CT. Khám mắt không có dấu ổ mắt (không phù mi, không lồi mắt, vận nhãn đủ, thị lực 10/10) nên chưa đặt ra (EPOS 2020 Bảng 4.5.1, mục 4.7.3.3; IDSA 2012 khuyến cáo 24)."
+    },
+    "cxr": {
+     "n": "Cơ sở không có X-quang. Phổi nghe sạch, SpO₂ 98%, ngày 10 đã chụp phổi bình thường: không cần chụp lại."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mũi xoang cấp do vi khuẩn bên phải (xoang hàm – sàng), thể hai pha, ngày thứ 13, chưa có biến chứng",
+     "ok": 1,
+     "n": "Triệu chứng xấu đi sau 5 ngày và kéo dài trên 10 ngày (QĐ 5643/2015 mục 3.1.1, tr. 108; AWaRe 2022 tr. 64). Hai pha: IDSA 2012 khuyến cáo 1(iii). EPOS 2020 Hình 4.1.1: ≥ 3 trong 5 tiêu chuẩn; Khôi có sốt > 38 °C, hai pha, bệnh một bên (mủ và đau má phải), CRP tăng. Soi mũi có mủ khe giữa (QĐ 5643 mục 3.2.1)."
+    },
+    {
+     "t": "Viêm mô tế bào ổ mắt (viêm tổ chức hốc mắt) do xoang",
+     "n": "Đã loại: mi không phù, nhãn cầu không lồi, vận nhãn đủ và không đau, không đôi hình, thị lực 10/10, đồng tử bình thường (EPOS 2020 Bảng 4.5.1, mục 4.7.3.3; QĐ 40/2015, bài Viêm tổ chức hốc mắt, mục 3a, 3c). Mắt phải chỉ cương tụ nhẹ. Tài liệu coi đây là bệnh nặng cần nội trú (QĐ 40/2015 mục 4a), nên phải hỏi và khám mắt chứ không bỏ qua."
+    },
+    {
+     "t": "Nấm xoang xâm lấn",
+     "n": "Đã loại: khỏe, không tiểu đường (glucose 5,0), không suy giảm miễn dịch, không dùng corticoid uống (thuốc nhỏ mắt chỉ tại chỗ), mủ vàng xanh, không đau mặt dữ dội kèm chảy máu mũi, không hoại tử niêm mạc (QĐ 5643/2015, bài Viêm mũi xoang do nấm, mục 2.2, 3.1.3). EPOS 2020 chỉ nghĩ tới ở người suy giảm miễn dịch hoặc tiểu đường mất bù."
+    },
+    {
+     "t": "Viêm mũi do virus (cảm lạnh), viêm xoang sau virus không do vi khuẩn",
+     "n": "Cảm lạnh dưới 10 ngày (EPOS 2020 mục 4.1.1); Khôi 13 ngày, hai pha, sốt lại trên 38 °C, một bên. Viêm xoang sau virus vẫn có thể chọn không kháng sinh (EPOS 2020 Hình 1.4.1); phương án chờ được chấp nhận (chấm a), nhưng đủ tiêu chuẩn nghĩ vi khuẩn nên kháng sinh là đáp án chính."
+    },
+    {
+     "t": "Viêm họng cấp do liên cầu / virus (chẩn đoán của hai nơi trước)",
+     "n": "Họng đỏ nhẹ do dịch mủ chảy sau mũi (QĐ 5643/2015 mục 3.1.1: 'mủ ra mũi sau'); amidan không to, không giả mạc, nguồn mủ rõ ở khe giữa phải. Hai nơi trước không soi mũi nên bỏ sót."
+    },
+    {
+     "t": "Viêm mũi dị ứng đợt cấp và viêm kết mạc dị ứng nhẹ mắt phải (bệnh kèm)",
+     "ok": 1,
+     "n": "Hắt hơi, ngứa mũi mỗi khi trở trời từ nhỏ; triệu chứng mắt thường gặp ở viêm mũi dị ứng chứ không phải viêm xoang (EPOS 2020 mục 4.5.3.4). Đây là cơ địa nền và lý do mắt đỏ ngứa; không phải biến chứng ổ mắt. QĐ 5643/2015 mục 2.2, 4.2.3 nêu dị ứng là yếu tố thuận lợi."
+    },
+    {
+     "t": "Viêm xoang do răng hoặc u xoang",
+     "n": "Không đau răng, răng không tổn thương; không tắc mũi và chảy máu mũi một bên kéo dài (QĐ 5643/2015 mục 3.2.4, 3.2.5; EPOS 2020 mục 4.5.3.4)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Phổi sạch, thở 20 l/p, SpO₂ 98%, X-quang phổi ngày 10 bình thường; ho chủ yếu về đêm do dịch chảy sau họng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị ngoại trú, hẹn tái khám có mốc",
+     "v": "c",
+     "n": "Không có dấu cảnh báo cần chuyển hoặc nhập viện ngay (EPOS 2020 Bảng 4.5.1: phù hoặc đỏ quanh mắt, lồi mắt, đôi hình, liệt vận nhãn, giảm thị lực, đau đầu dữ dội, sưng trán, dấu màng não, dấu thần kinh); Khôi không có dấu nào."
+    },
+    {
+     "t": "Kháng sinh uống amoxicillin–clavulanic acid cho viêm xoang vi khuẩn: 500 mg amoxicillin mỗi 8 giờ hoặc 1 g mỗi 12 giờ; thời gian 5 ngày hoặc 7–14 ngày hoặc 10–14 ngày tùy nguồn",
+     "v": "c",
+     "n": "Kê khi đủ tiêu chuẩn vi khuẩn: IDSA 2012 khuyến cáo 1(iii), 2, 3 (trẻ em: amoxicillin–clavulanate, mạnh); EPOS 2020 Hình 1.4.1 (≥ 3 tiêu chuẩn: cân nhắc kháng sinh). Liều: AWaRe 2022 tr. 65 (≥ 20 kg: 500 mg/liều mỗi 8 giờ hoặc 1 g mỗi 12 giờ; 80–90 mg/kg/ngày); IDSA khuyến cáo 5 liều cao 90 mg/kg/ngày chia 2 lần cho nhóm nguy cơ, Khôi không thuộc nhóm đó (ba tháng chưa dùng kháng sinh, không đi học nhà trẻ, không suy giảm miễn dịch). Thời gian: 5 ngày (AWaRe 2022 tr. 65), 7–14 ngày (QĐ 5643/2015, Viêm mũi xoang trẻ em, mục 4.2.1, tr. 83), 10–14 ngày (IDSA khuyến cáo 15); xem mục 'Thời gian kháng sinh viêm xoang ở trẻ em' trong sổ mâu thuẫn. Hàm lượng viên, tỉ lệ amoxicillin:clavulanat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Theo dõi chờ 48–72 giờ chưa kê kháng sinh, hẹn tái khám",
+     "v": "a",
+     "n": "EPOS 2020 Bảng 1.4.3 và 1.4.5: ở trẻ em kháng sinh không hơn giả dược mà nhiều tác dụng phụ hơn; AWaRe 2022 tr. 65: đa số không cần kháng sinh, chỉ cân nhắc khi khởi phát nặng, nguy cơ biến chứng, dấu cảnh báo. IDSA khuyến cáo 2 kê ngay khi đã chẩn đoán lâm sàng. Khôi đủ tiêu chuẩn hai pha, sốt, một bên nên kháng sinh là hướng chính; chờ chấm a."
+    },
+    {
+     "t": "Rửa mũi bằng nước muối sinh lý nhiều lần trong ngày",
+     "v": "c",
+     "n": "QĐ 5643/2015 mục 4.2.1 (tr. 112), AWaRe 2022 tr. 65; IDSA 2012 khuyến cáo 16 (khuyến cáo cho người lớn, yếu). EPOS 2020 Bảng 1.4.4: chưa đủ dữ liệu để khuyên (không nói có hại). Thể tích, số lần mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol hoặc ibuprofen khi đau, sốt: paracetamol 500 mg–1 g mỗi 4–6 giờ (tối đa 4 g/ngày) hoặc ibuprofen 200–400 mg mỗi 6–8 giờ (tối đa 2,4 g/ngày)",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 65, nhóm ≥ 30 kg (Khôi 45 kg); hai thuốc tương đương, dùng một trong hai, tránh trùng paracetamol trong thuốc cảm."
+    },
+    {
+     "t": "Hỏi và xem lọ thuốc nhỏ mắt, khám mắt (thị lực, vận nhãn, fluorescein, ước lượng nhãn áp); bảo ngừng tự nhỏ thuốc có corticoid, nếu còn đỏ ngứa đi khám nhãn khoa",
+     "v": "c",
+     "n": "Corticoid nhỏ mắt có thể gây tăng nhãn áp, đục thể thủy tinh và phải theo dõi nhãn áp (QĐ 40/2015, bài Viêm kết giác mạc mùa xuân, mục 4b, 5); chống chỉ định tuyệt đối khi ổ loét giác mạc đang tiến triển (bài Viêm loét giác mạc do vi khuẩn, mục 4) và rất thận trọng ở viêm giác mạc herpes (bài Viêm giác mạc do herpes, mục 4); bài Viêm kết mạc dị ứng cấp tính mục 4b dùng corticoid vài ngày đầu rồi giảm dần, do bác sĩ nhãn khoa. Việc 'ngừng tự nhỏ' là cách làm lâm sàng, tài liệu không nêu thẳng."
+    },
+    {
+     "t": "Dặn dấu hiệu nguy hiểm đến ngay; hẹn tái khám sau 48–72 giờ nếu xấu đi, hoặc sau 3–5 ngày nếu không cải thiện",
+     "v": "c",
+     "n": "EPOS 2020 Bảng 4.5.1 (dấu cảnh báo); IDSA 2012 khuyến cáo 19 (xấu đi sau 48–72 giờ hoặc không cải thiện sau 3–5 ngày: đổi hướng); QĐ 5643/2015 mục 4.2.1: thất bại sau 72 giờ thì đánh giá lại, cân nhắc CT, nội soi, cấy."
+    },
+    {
+     "t": "Nghe mẹ nói hết, xem giấy cũ, nói rõ vì sao không cần chụp CT hay xét nghiệm lại, trả lời nỗi lo bệnh nặng/nấm/u",
+     "v": "c",
+     "n": "Xử lý lý do thật và mất niềm tin sau ba nơi. Hình ảnh không cần cho viêm xoang không biến chứng (AWaRe 2022 tr. 64; EPOS 2020 mục 4.5.3.4); nấm xâm lấn chỉ ở người suy giảm miễn dịch, tiểu đường (QĐ 5643/2015, Viêm mũi xoang do nấm, mục 2.2, 3.1.3). Cách nói với phụ huynh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xịt corticoid vào mũi",
+     "v": "a",
+     "n": "QĐ 5643/2015 mục 4.2.1: giảm tiết dịch; IDSA 2012 khuyến cáo 17 (yếu): hỗ trợ kháng sinh, chủ yếu khi có tiền sử viêm mũi dị ứng, Khôi có cơ địa. EPOS 2020 Bảng 1.4.3: ở trẻ em chưa đủ để khuyên. Tên thuốc, liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống thêm thuốc kháng histamin (loratadin) cho cơ địa dị ứng",
+     "v": "a",
+     "n": "QĐ 40/2015, bài Viêm kết mạc dị ứng cấp tính, mục 4b: loratadin 10 mg 1 viên/ngày cho trẻ ≥ 12 tuổi; nhưng IDSA 2012 khuyến cáo 18 (mạnh) không khuyến cáo kháng histamin hay thuốc thông mũi hỗ trợ viêm xoang cấp, EPOS 2020 Bảng 1.4.4 chưa đủ dữ liệu. Khác chỉ định nên chấm a."
+    },
+    {
+     "t": "Chụp CT xoang hoặc nội soi mũi ngay, hoặc chuyển tuyến trên để chụp",
+     "v": "w",
+     "n": "Không chỉ định khi chưa nghi biến chứng (AWaRe 2022 tr. 64; EPOS 2020 mục 4.5.3.3, 4.5.3.4; IDSA 2012 khuyến cáo 24 chỉ khi nghi biến chứng mủ); cơ sở không có CT. QĐ 5643/2015 mục 3.1.1–3.1.2 (cũ hơn) coi nội soi cần thiết và CT là lựa chọn, theo sổ mâu thuẫn ca này không chụp khi chưa biến chứng."
+    },
+    {
+     "t": "Kháng sinh macrolid (azithromycin, clarithromycin) hoặc TMP-SMX hoặc cephalosporin uống đơn trị",
+     "v": "w",
+     "n": "IDSA 2012 khuyến cáo 7, 8, 10: không khuyến cáo vì kháng cao. QĐ 5643/2015 mục 4.2.1 còn nêu macrolid hoặc TMP-SMX cho dị ứng beta-lactam nhưng Khôi không dị ứng; sổ mâu thuẫn xếp w."
+    },
+    {
+     "t": "Cho thuốc xịt co mạch (oxymetazolin) dùng kéo dài trên 3 ngày",
+     "v": "w",
+     "n": "QĐ 5643/2015 mục 4.2.1 (tr. 112): xịt kéo dài có thể làm bệnh nặng hơn; IDSA 2012 khuyến cáo 18 không khuyến cáo co mạch. Dùng ngắn (ví dụ 3 ngày) chấp nhận được theo QĐ 5643."
+    },
+    {
+     "t": "Cho corticoid uống toàn thân",
+     "v": "a",
+     "n": "QĐ 5643/2015 mục 4.2.2: chỉ dùng giới hạn, kiểm soát cẩn thận. Khôi không có chỉ định rõ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mũi xoang cấp do vi khuẩn bên phải (xoang hàm – sàng), thể hai pha, ngày thứ 13, chưa biến chứng ổ mắt hay nội sọ",
+     "Tiêu chuẩn nghĩ vi khuẩn: xấu đi sau ngày 5 và kéo dài trên 10 ngày (QĐ 5643/2015 mục 3.1.1); hai pha (IDSA 2012 khuyến cáo 1 iii); EPOS 2020 Hình 4.1.1: sốt > 38 °C, hai pha, bệnh một bên, CRP tăng",
+     "Cơ địa dị ứng: nghĩ viêm mũi dị ứng nền; viêm kết mạc dị ứng nhẹ mắt phải, tự dùng thuốc nhỏ mắt có dexamethasone 9 ngày, giác mạc không bắt fluorescein",
+     "Đã loại trừ hoặc chưa nghĩ: viêm mô tế bào ổ mắt, nấm xoang xâm lấn, viêm xoang do răng, u xoang, viêm phổi, cảm lạnh đơn thuần"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: khởi đầu cảm sau trời lạnh, đỡ ngày 3–4 rồi nặng lại từ ngày 5 (mủ vàng xanh, sốt 38,8–39,4 °C lúc chưa uống thuốc, đau má phải): kiểu 'double sickening' (IDSA 2012 khuyến cáo 1 iii; QĐ 5643/2015 mục 3.1.1; AWaRe 2022 tr. 64: nặng lên rõ sau pha nhẹ). Phải hỏi lại mốc ngày vì mẹ kể theo thứ tự đi khám, và hỏi sốt đo lúc chưa dùng thuốc.",
+     "Khám: soi mũi thấy mủ khe giữa phải, ấn đau xoang hàm phải, dịch mủ chảy sau họng (QĐ 5643/2015 mục 3.1.1; EPOS 2020 mục 4.5.3.3: soi mũi trước nên làm ở tuyến đầu, nội soi không bắt buộc). Hai nơi trước chẩn 'viêm họng' và 'virus' vì không soi mũi, họng đỏ nhẹ chỉ là hậu quả của dịch chảy sau mũi.",
+     "Cận lâm sàng: CRP 38 mg/L (ngày 10 là 46 mg/L) là một tiêu chuẩn của EPOS 2020 (Hình 4.1.1); ngưỡng 'tăng' không có trong tài liệu đã tải. Công thức máu và CRP đã làm hai lần ở nơi khác nên làm lại là trùng lặp, không đổi quyết định (QĐ 5643/2015 mục 3.1.2; EPOS 2020 mục 4.5.3.4). Cơ sở chỉ có xét nghiệm cơ bản, vì vậy không có CT, X-quang, nội soi; cũng không cần.",
+     "Vì sao khám mắt dù mắt chỉ 'đỏ ngứa': biến chứng ổ mắt hay gặp ở trẻ trên 5 tuổi có viêm xoang (QĐ 40/2015, Viêm tổ chức hốc mắt, mục 1) và có dấu cảnh báo phải tìm: phù/đỏ quanh mắt, lồi mắt, đôi hình, liệt vận nhãn, giảm thị lực (EPOS 2020 Bảng 4.5.1). Khôi không có dấu nào, thị lực 10/10. Mắt phải ngứa đỏ là biểu hiện dị ứng: triệu chứng mắt thường gặp ở viêm mũi dị ứng (EPOS 2020 mục 4.5.3.4).",
+     "Điều suýt bị bỏ qua: lọ thuốc nhỏ mắt dexamethasone mẹ không kể vì cho là chuyện mắt khác chuyện mũi. Hỏi 'đang dùng thuốc gì' phải kèm 'nhỏ, xịt, mua ngoài'. Corticoid nhỏ mắt cần theo dõi nhãn áp (QĐ 40/2015, Viêm kết giác mạc mùa xuân, mục 4b, 5). Giác mạc không bắt fluorescein, nhãn áp ước lượng bình thường: may mắn chưa có biến chứng.",
+     "Loại trừ nấm xâm lấn: nguy cơ là suy giảm miễn dịch, tiểu đường (QĐ 5643/2015, Viêm mũi xoang do nấm, mục 2.2, 3.1.3; EPOS 2020 Hình 1.4.1); Khôi khỏe, glucose 5,0, mủ vàng xanh, niêm mạc không hoại tử, thuốc corticoid chỉ nhỏ mắt tại chỗ.",
+     "Dữ kiện nhiễu: ba nơi không khỏi nên mẹ mất niềm tin, trách móc, đòi khám tổng quát; lý do thật là sợ bệnh nặng hơn (u, nấm) mà chưa ai thấy và muốn con đủ sức thi. Tài liệu đã tải không có hướng dẫn cách nói chuyện với phụ huynh; hướng làm là nghe hết, xem giấy cũ, khám mũi mà các nơi trước chưa khám, rồi giải thích."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về với kháng sinh uống và hẹn tái khám; không nhập viện, không chuyển tuyến vì chưa có dấu cảnh báo (EPOS 2020 Bảng 4.5.1). Mâu thuẫn nguồn về kháng sinh: IDSA 2012 khuyến cáo 1–3 kê ngay khi đủ tiêu chuẩn và ưu tiên amoxicillin–clavulanat; EPOS 2020 Hình 1.4.1 cho phép cân nhắc kháng sinh khi ≥ 3 tiêu chuẩn nhưng Bảng 1.4.3, 1.4.5 nói ở trẻ em không hơn giả dược; AWaRe 2022 tr. 64–65 nghi vi khuẩn khi hai pha nhưng chỉ cân nhắc khi khởi phát nặng hoặc có dấu cảnh báo. Khác nhau do năm, bằng chứng ở trẻ em và bối cảnh tuyến đầu. Ca chọn kháng sinh (Khôi đủ 4/5 tiêu chuẩn EPOS, 13 ngày); theo dõi chờ cũng được chấp nhận.",
+     "Thuốc: amoxicillin–clavulanic acid uống (IDSA 2012 khuyến cáo 3, 6; QĐ 5643/2015 mục 4.2.1; AWaRe 2022 tr. 65 cho amoxicillin hoặc amoxicillin–clavulanic). Không dùng macrolid, TMP-SMX, cephalosporin đơn trị (IDSA khuyến cáo 7, 8, 10) và không dùng quinolon khi còn lựa chọn khác (IDSA khuyến cáo 6). Liều AWaRe: 500 mg amoxicillin/liều mỗi 8 giờ hoặc 1 g mỗi 12 giờ cho ≥ 20 kg. Chú ý: 80–90 mg/kg/ngày cho 45 kg là khoảng 3,6–4 g/ngày, cao hơn bảng cân nặng; tài liệu không giải thích khác biệt này, con số thận trọng hơn là bảng cân nặng. IDSA khuyến cáo 5 cho liều cao 90 mg/kg/ngày chia 2 lần ở nhóm nguy cơ.",
+     "Thời gian: 5 ngày (AWaRe 2022 tr. 65) hoặc 7–14 ngày (QĐ 5643/2015, Viêm mũi xoang trẻ em, mục 4.2.1) hoặc 10–14 ngày (IDSA 2012 khuyến cáo 15). AWaRe viết cho viêm xoang không biến chứng ở tuyến đầu, IDSA gộp trẻ em, QĐ 5643 theo thể nặng; không nguồn nào nói cách kia gây hại. Mốc đánh giá lại: xấu đi sau 48–72 giờ hoặc không cải thiện sau 3–5 ngày thì đổi hướng (IDSA khuyến cáo 19).",
+     "Hỗ trợ: rửa mũi nước muối (QĐ 5643/2015 mục 4.2.1; AWaRe 2022 tr. 65); paracetamol hoặc ibuprofen theo bảng ≥ 30 kg (AWaRe 2022 tr. 65); xịt corticoid mũi có thể thêm vì có cơ địa dị ứng (QĐ 5643 mục 4.2.1; IDSA khuyến cáo 17). Không thuốc co mạch kéo dài (QĐ 5643 mục 4.2.1).",
+     "Mắt: ngừng tự nhỏ thuốc có dexamethasone, nếu còn đỏ ngứa gặp bác sĩ nhãn khoa để có thuốc phù hợp và theo dõi nhãn áp (QĐ 40/2015, Viêm kết giác mạc mùa xuân, mục 4b, 5; Viêm kết mạc dị ứng cấp tính, mục 4b). Cách ngừng (dừng ngay hay giảm dần): không có trong tài liệu đã tải.",
+     "Không chụp CT, không nội soi, không lặp lại xét nghiệm: hình ảnh chỉ khi nghi biến chứng (AWaRe 2022 tr. 64; IDSA 2012 khuyến cáo 24; EPOS 2020 mục 4.5.3.4). Giải thích cho mẹ rằng khám mũi, hỏi thuốc và khám mắt hôm nay là 'kiểm tra kỹ' còn thiếu của các nơi trước, CT chỉ dành cho khi nghi biến chứng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin–clavulanic acid",
+      "ham_luong": "Viên người lớn; tỉ lệ amoxicillin:clavulanat và hàm lượng viên: không có trong tài liệu đã tải",
+      "lieu": "500 mg amoxicillin/liều × 3 lần/ngày hoặc 1 g amoxicillin/liều × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cách nhau đều 8 giờ hoặc 12 giờ, uống trong bữa ăn (cách uống so với bữa ăn: không có trong tài liệu đã tải; lấy theo thói quen lâm sàng)",
+      "so_ngay": "5 ngày (AWaRe 2022 tr. 65); nguồn khác 7–14 ngày (QĐ 5643/2015 mục 4.2.1) hoặc 10–14 ngày (IDSA 2012 khuyến cáo 15), quyết định khi tái khám",
+      "ghi_chu": "AWaRe 2022 tr. 65 (≥ 20 kg: 500 mg/liều mỗi 8 giờ hoặc 1 g mỗi 12 giờ); IDSA 2012 khuyến cáo 3, 5 (liều cao 90 mg/kg/ngày chia 2 lần dành cho nhóm nguy cơ, Khôi không thuộc nhóm). Khôi không dị ứng penicillin."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên (500 mg–1 g) mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau mặt hay sốt trên 38,5 °C, cách nhau 4–6 giờ",
+      "so_ngay": "Khi cần, tối đa 4 g/ngày (8 viên), dừng khi hết sốt, hết đau",
+      "ghi_chu": "AWaRe 2022 tr. 65, nhóm ≥ 30 kg. Ibuprofen 200–400 mg mỗi 6–8 giờ (tối đa 2,4 g/ngày) tương đương theo cùng nguồn; dùng một trong hai, không uống kèm thuốc cảm có paracetamol."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 0,9%",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa hoặc xịt mũi hai bên",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Nhiều lần trong ngày, sáng và tối trước khi ngủ",
+      "so_ngay": "Đến khi hết dịch mũi",
+      "ghi_chu": "QĐ 5643/2015 mục 4.2.1 (tr. 112); AWaRe 2022 tr. 65. Thể tích, số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc nhỏ mắt chứa tobramycin và dexamethasone (mẹ tự mua)",
+      "ham_luong": "Theo nhãn lọ",
+      "lieu": "DỪNG, không tự nhỏ tiếp",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Không dùng nữa; nếu mắt còn đỏ ngứa thì khám nhãn khoa",
+      "so_ngay": "Đã nhỏ 9 ngày; không dùng thêm",
+      "ghi_chu": "QĐ 40/2015, Viêm kết giác mạc mùa xuân, mục 4b, 5: corticoid nhỏ mắt cần theo dõi nhãn áp, có thể gây tăng nhãn áp, đục thể thủy tinh. Cách ngừng: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Con bị viêm xoang do vi khuẩn, ở xoang má bên phải; cảm lạnh đợt đầu đã đỡ rồi nhiễm khuẩn thêm. Mắt phải đỏ ngứa là do cơ địa dị ứng, chưa phải bệnh ở trong hốc mắt, vì bác sĩ đã khám thị lực, vận nhãn và nhãn cầu bình thường (EPOS 2020 Bảng 4.5.1).",
+     "Uống đủ thuốc kháng sinh theo giờ, hết liều bác sĩ ghi; xịt hoặc rửa mũi nước muối nhiều lần; paracetamol khi sốt đau; không uống thêm thuốc cảm có paracetamol để tránh trùng liều (AWaRe 2022 tr. 65).",
+     "Ngừng thuốc nhỏ mắt có dexamethasone mẹ tự mua; mắt còn đỏ ngứa hay nhìn mờ thì khám nhãn khoa, không tự mua thuốc nhỏ mắt (QĐ 40/2015, Viêm kết giác mạc mùa xuân, mục 4b, 5). Lần sau khám ở đâu cũng mang lọ thuốc và xấp giấy kết quả đi.",
+     "Đến ngay nếu sưng đỏ quanh mắt, mắt lồi hoặc nhìn đôi, mờ mắt, đau đầu dữ dội, sưng vùng trán, cứng cổ, lơ mơ, sốt cao liên tục (EPOS 2020 Bảng 4.5.1).",
+     "Tái khám sau 48–72 giờ nếu sốt, đau mặt nặng hơn; nếu sau 3–5 ngày uống thuốc mà chưa đỡ cũng phải quay lại để đổi hướng điều trị (IDSA 2012 khuyến cáo 19; QĐ 5643/2015 mục 4.2.1). Nếu đỡ thì tái khám khi hết thuốc để xem mũi và mắt.",
+     "Với mẹ: CT hay xét nghiệm 'tổng quát' lúc này không giúp thêm gì vì đã có kết quả máu và phổi ngày 10; CT dành cho khi nghi biến chứng (IDSA 2012 khuyến cáo 24). Nếu hay bị viêm xoang tái phát hoặc hắt hơi nhiều khi trở trời, nên đi khám dị ứng, tai mũi họng (QĐ 5643/2015 mục 4.2.3; IDSA 2012 khuyến cáo 25). Khôi nghỉ học khi còn sốt; xin giấy nghỉ nếu cần."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Khôi uống amoxicillin–clavulanic acid theo đơn. Ngày thứ 3 hết sốt, ngày thứ 5 mủ mũi và đau má giảm rõ; mắt phải hết đỏ ngứa sau khi ngừng thuốc nhỏ mắt, giác mạc vẫn sạch khi khám lại. Mẹ nói: 'Lần này mới có người soi mũi cho con'. Khôi đi thi đúng hẹn. (Diễn tiến sau khám là kịch bản minh họa, tài liệu đã tải không có số liệu.) Kết cục tốt không hợp thức hóa cách làm sai: ba nơi trước chưa soi mũi, chưa hỏi thuốc nhỏ mắt, lặp lại xét nghiệm; Khôi 'may mắn không sao' dù đã nhỏ dexamethasone 9 ngày khi chưa ai theo dõi nhãn áp (QĐ 40/2015, Viêm kết giác mạc mùa xuân, mục 4b, 5 nêu nguy cơ tăng nhãn áp, đục thể thủy tinh; bài Viêm loét giác mạc do vi khuẩn, mục 4 chống chỉ định tuyệt đối khi ổ loét tiến triển). Người học kê thuốc mà bỏ qua khám mắt, hỏi thuốc, xem giấy cũ thì kết quả tốt cũng chỉ là may.",
+ "nhieu": [
+  "Khám 3 nơi không khỏi: mẹ trách, đòi 'khám tổng quát', mang xấp giấy mà không tự đưa; hai nơi trước làm công thức máu, nơi sau cùng làm thêm CRP và X-quang phổi. Dạy nghe hết, xin xem giấy, không lặp lại xét nghiệm vô ích (QĐ 5643/2015 mục 3.1.2; EPOS 2020 mục 4.5.3.4).",
+  "Thuốc nhỏ mắt có dexamethasone tự mua 9 ngày: bị che bởi 'thuốc đang dùng' mẹ kể (paracetamol, siro ho, vitamin C) và bởi suy nghĩ 'mắt khác mũi'. Mắt đỏ ngứa là nhiễu dễ làm nghĩ biến chứng ổ mắt, trong khi đúng là dấu dị ứng."
+ ],
+ "bai_hoc_bien": [
+  "Viêm xoang vi khuẩn không còn ở dạng 'cảm kéo dài' khi có hai pha, sốt lại, đau một bên, mủ khe giữa: phải soi mũi mới thấy (QĐ 5643/2015 mục 3.1.1; IDSA 2012 khuyến cáo 1; EPOS 2020 mục 4.5.3.3).",
+  "Khám mắt trong viêm xoang là thói quen, kể cả khi người bệnh không kêu: tìm phù mi, lồi mắt, đôi hình, hạn chế vận nhãn, giảm thị lực (EPOS 2020 Bảng 4.5.1; QĐ 40/2015, Viêm tổ chức hốc mắt, mục 3a).",
+  "Hỏi thuốc đang dùng phải kèm 'nhỏ mắt, xịt mũi, thuốc mua ngoài' và xem tận lọ thuốc; corticoid nhỏ mắt kéo dài có nguy cơ (QĐ 40/2015, Viêm kết giác mạc mùa xuân, mục 4b, 5).",
+  "Cùng một bệnh cảnh, ba nguồn cho ba hướng (IDSA kê ngay, EPOS 'cân nhắc' và ít bằng chứng ở trẻ em, AWaRe chỉ khi nặng hoặc cảnh báo): ghi cả hai cách và nói rõ vì sao khác (năm, bằng chứng, bối cảnh).",
+  "Không lặp lại xét nghiệm và hình ảnh không đổi quyết định: xem giấy cũ trước; lấy lại niềm tin của mẹ bằng việc làm thêm điều các nơi trước bỏ sót (khám mũi, khám mắt, hỏi thuốc)."
+ ],
+ "diem_nho": [
+  "Nghĩ viêm xoang vi khuẩn: xấu đi sau 5–7 ngày hoặc kéo dài > 10 ngày (QĐ 5643/2015 mục 3.1.1); IDSA 2012 khuyến cáo 1 (3 kiểu: ≥ 10 ngày không đỡ; khởi phát nặng sốt ≥ 39 °C kèm mủ hoặc đau mặt ≥ 3–4 ngày; hai pha); EPOS 2020 Hình 4.1.1: ≥ 3 trong 5: sốt > 38 °C, hai pha, một bên, đau nhiều, CRP/ESR tăng.",
+  "Dấu cảnh báo cần chuyển ngay: phù/đỏ quanh mắt, lồi mắt, đôi hình, liệt vận nhãn, giảm thị lực, đau đầu dữ dội, sưng trán, dấu màng não, dấu thần kinh, giảm tri giác (EPOS 2020 Bảng 4.5.1).",
+  "Viêm xoang vi khuẩn ở trẻ em: amoxicillin–clavulanate (IDSA 2012 khuyến cáo 3); liều ≥ 20 kg theo bảng AWaRe 2022 tr. 65: 500 mg/liều mỗi 8 giờ hoặc 1 g mỗi 12 giờ; thời gian 5 ngày (AWaRe) hoặc 7–14 ngày (QĐ 5643/2015 mục 4.2.1) hoặc 10–14 ngày (IDSA khuyến cáo 15).",
+  "Không dùng macrolid, TMP-SMX, cephalosporin uống đơn trị (IDSA 2012 khuyến cáo 7, 8, 10); không thuốc co mạch xịt kéo dài (QĐ 5643/2015 mục 4.2.1; IDSA khuyến cáo 18).",
+  "Đổi hướng nếu xấu đi sau 48–72 giờ hoặc không cải thiện sau 3–5 ngày (IDSA 2012 khuyến cáo 19); QĐ 5643 mục 4.2.1: thất bại 72 giờ thì đánh giá lại, cân nhắc CT, nội soi, cấy."
+ ],
+ "nguon": [
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh Tai Mũi Họng – Viêm mũi xoang cấp tính (mục 2.2, 3.1.1, 3.1.2, 3.2.1, 3.2.4, 3.2.5, 4.2.1, 4.2.2, 4.2.3; tr. 108–112); Viêm mũi xoang trẻ em (mục 4.2.1, tr. 83); Viêm mũi xoang do nấm (mục 2.2, 3.1.2, 3.1.3)",
+  "TL-0159 · IDSA 2012 – Acute Bacterial Rhinosinusitis in Children and Adults (Executive summary) – khuyến cáo 1–3, 5–8, 10, 15–19, 24, 25",
+  "TL-0087 · EPOS 2020 – Hình 1.4.1, Bảng 1.4.3, 1.4.4, 1.4.5; mục 4.1.1 (Hình 4.1.1), 4.5.3.3, 4.5.3.4, 4.5.3.5 (Bảng 4.5.1), 4.7.3.3",
+  "TL-0018 · WHO AWaRe antibiotic book 2022 – 7. Acute sinusitis (tr. 64–65 trẻ em; tr. 61–62 phần chung)",
+  "TL-0242 · QĐ 40/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – Viêm tổ chức hốc mắt (mục 1, 3a, 3c, 4a); Viêm kết mạc dị ứng cấp tính (mục 4b); Viêm kết giác mạc mùa xuân (mục 4b, 5); Viêm loét giác mạc do vi khuẩn (mục 4); Viêm giác mạc do herpes (mục 4)",
+  "Không có trong tài liệu đã tải: ngưỡng CRP 'tăng'; thể tích và số lần rửa mũi nước muối; tên và liều thuốc xịt corticoid mũi; hàm lượng viên và tỉ lệ amoxicillin:clavulanat; cách uống thuốc so với bữa ăn; cách ngừng thuốc nhỏ mắt corticoid; hướng dẫn nói chuyện với phụ huynh đã mất niềm tin sau nhiều lần khám"
+ ],
+ "ghi_chu_bien_tap": [
+  "Soạn 28/11/2026. Đã đọc và đối chiếu bản chữ: QĐ 5643/2015 (Viêm mũi xoang cấp tính, trẻ em, do nấm), IDSA 2012 (toàn bộ khuyến cáo trong bản tóm tắt), EPOS 2020 (Hình 1.4.1, 4.1.1, Bảng 1.4.3–1.4.5, mục 4.5.3, 4.7.3.3), WHO AWaRe 2022 (mục Acute sinusitis), QĐ 40/2015 (viêm tổ chức hốc mắt, viêm kết mạc dị ứng cấp tính, viêm kết giác mạc mùa xuân, loét giác mạc vi khuẩn, viêm giác mạc herpes).",
+  "Thiết kế: nhóm tuổi 6–15 → Khôi 13 tuổi (còn là trẻ em theo IDSA). Biến 'thuốc đang dùng: thuốc nhỏ mắt corticoid' dựng thành lọ dexamethasone–tobramycin mẹ tự mua cho mắt đỏ ngứa do dị ứng, gắn vào ràng buộc nguồn lực (không cần cũng không có CT, nội soi để loại ổ mắt, nên khám mắt lâm sàng là then chốt). 'Từng khám 3 nơi' dựng thành 3 chẩn đoán khác nhau, 2 lần công thức máu, 1 lần CRP và X-quang phổi, không kháng sinh. 'Kết cục xử trí ẩu nhưng may mắn không sao' đặt ở ba nơi trước và ở nguy cơ nếu người học bỏ qua khám mắt.",
+  "Mâu thuẫn dùng lại từ sổ: 'Từ ca HH-1012' (mục 1 kháng sinh khi nào, mục 3 quinolon, mục 4 hình ảnh/nội soi), 'Kéo dài hơn 10 ngày trong viêm xoang trẻ em', 'Từ ca HH-0994' mục 1 (thời gian kháng sinh trẻ em) và mục 2 (liều amoxicillin–clavulanat ≥ 20 kg), ghi nhận thuốc co mạch, rửa mũi nước muối (đề xuất từ HH-1009 mục 2).",
+  "Chỗ thiếu tài liệu: ngưỡng CRP 'tăng', thể tích rửa mũi, tên và liều xịt corticoid mũi, hàm lượng viên amoxicillin–clavulanat, cách ngừng thuốc nhỏ mắt, cách nói với phụ huynh. Không có ảnh da (không có dấu da then chốt), không có media âm thanh (tim phổi bình thường, ghi bằng chữ)."
+ ]
+}

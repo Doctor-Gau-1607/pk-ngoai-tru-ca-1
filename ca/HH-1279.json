@@ -1,0 +1,658 @@
+{
+ "ma_ca": "HH-1279",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo kho tài liệu (2026-11-28)",
+ "benh": "HH_covid19_tre_em_nhe",
+ "so_cai": {
+  "chuyen_khoa": "Hô hấp cấp tính",
+  "chan_doan_dich": "COVID-19",
+  "chan_doan_phai_loai_tru": [
+   "Cúm mùa",
+   "Viêm phổi vi khuẩn"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau chơi thể thao",
+  "thuoc_dang_dung": "NSAID tự mua",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Hoàng Thị Mai Anh",
+  "tuoi": 12,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 7, đội bóng chuyền của trường",
+  "can_nang": 38,
+  "chieu_cao": 148,
+  "xung_ho": "Bác sĩ gọi bé là 'con' hoặc 'cháu'. Bé gọi bác sĩ là 'bác sĩ', xưng 'con' hoặc 'cháu'. Mẹ gọi bác sĩ là 'bác sĩ', xưng 'em', gọi bé là 'con'.",
+  "tinh_cach": "Ngoan, nói rõ ràng, trả lời đúng câu hỏi, không giấu gì. Hơi sợ bị tiêm, thích bóng chuyền, sốt ruột vì sắp đến giải thi đấu cấp huyện.",
+  "kieu_nhieu": "Hợp tác tốt: khai đủ và đúng khi được hỏi. Cái 'nhiễu' duy nhất là cách hiểu của gia đình: mẹ tin bé 'chơi thể thao quá sức, trúng gió' và chưa nói ra nỗi lo về thuốc hạ sốt cho đến khi được hỏi về thuốc đã cho.",
+  "nguoi_nha": "Mẹ, chị Lan, 38 tuổi, công nhân may. Hôm kia test nhanh ở công ty ra hai vạch, đang ho nhẹ, đeo khẩu trang. Biết rõ bé uống thuốc gì, lúc nào, vì chính chị mua và cho uống. Lo bé 'hỏng dạ dày' vì thuốc, và nghe hàng xóm nói thuốc hạ sốt này làm bệnh COVID nặng hơn. Chị trả lời phần lớn câu hỏi về thuốc và sinh hoạt.",
+  "ten_nguoi_nha": "Chị Lan (mẹ)",
+  "ngoai_hinh": {
+   "da": "#e2b48c",
+   "toc": "#1f1612",
+   "kieuToc": "dai",
+   "ao": "#3a6ea5",
+   "aoKieu": "dong_phuc",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a985",
+    "toc": "#2b1e17",
+    "kieuToc": "bui",
+    "ao": "#8a8f98",
+    "aoKieu": "phong",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, ho ba ngày; mẹ lo thuốc hạ sốt làm hại dạ dày",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Trạm y tế xã không có xét nghiệm, X-quang, siêu âm, CT. Chỉ có nhiệt kế, máy đo SpO₂ kẹp ngón, ống nghe, huyết áp kế và máy điện tim."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé Hoàng Thị Mai Anh, 12 tuổi, học sinh lớp 7, được mẹ đưa đến Trạm y tế xã vì sốt ba ngày, ho. Điều dưỡng Linh đã đo: nhiệt độ 38,3 °C, mạch 98 l/p, HA 100/65 mmHg, nhịp thở 20 l/p, SpO₂ 98% khí trời, cân nặng 38 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Mai Anh nhẹ: SpO₂ 98%, thở 20 l/p, không khó thở, uống ăn được; mức nhẹ không có chỉ định nằm viện, điều trị tại nhà (QĐ 2671/2023, mục 5.2.1, 6.3.1; WHO 2023, mục 3.6). Nằm khoa cách ly xa nhà khiến bé phải rời mẹ khi cả hai đang bệnh, tốn thêm chi phí và lây chéo. Nỗi lo của mẹ về thuốc và dạ dày vẫn chưa được trả lời nên về nhà mẹ vẫn sợ cho bé uống thuốc hạ sốt, bé sốt cao khó chịu cũng không được dùng.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện huyện chỉ để làm test, X-quang là không cần vì mức nhẹ không giảm oxy máu, kết quả cũng không đổi hướng xử trí (QĐ 2671/2023, mục 5.2.1; WHO 2023, mục 3.6). Đường 40 km, mẹ đang dương tính vẫn phải đi cùng, cả nhà tiếp xúc người khác, tốn chi phí và thời gian nghỉ làm. Đau thượng vị do ibuprofen vẫn không được ai giải thích, mẹ có thể tự cho thuốc cũ tiếp."
+   },
+   "loi_mo": "Bác sĩ ơi, con bị sốt ba hôm rồi, từ hôm thi chạy ở trường về là bị luôn. Chắc con chơi nhiều quá nên trúng gió.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "100/65",
+    "nhiet": "38,3",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt ba ngày, ho khan, đau họng, mệt. Mẹ đưa đi khám và muốn hỏi thuốc hạ sốt nào ít hại dạ dày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Thứ Hai hội thao ở trường, bé chạy tiếp sức và chơi bóng chuyền ngoài sân nắng đến chiều. Tối đó mệt, thấy ớn. Sáng thứ Ba sốt. Mẹ nghĩ bé chơi quá sức, trúng gió.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Từ thứ Ba sốt 38,5 °C, đau họng, nhức đầu, mỏi người. Thứ Tư bắt đầu ho khan từng cơn, không có đờm. Hôm nay sốt còn 38 °C khi chưa uống thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh sử ba ngày"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Thứ Tư mẹ test nhanh ở công ty ra dương tính, mẹ đang ho nhẹ. Ba bạn cùng lớp và một bạn trong đội bóng chuyền nghỉ học vì sốt, ho. Cả nhà ba người ở chung nhà hai phòng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố dịch tễ"
+    },
+    {
+     "id": "khuu_giac",
+     "noi_dung": "Từ hôm qua bé ăn cơm thấy nhạt, ngửi dầu gió không thấy mùi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất khứu giác, vị giác"
+    },
+    {
+     "id": "ho_hap",
+     "noi_dung": "Bé không khó thở, không thở nhanh, không đau ngực, nói cả câu bình thường, môi không tím, vẫn tự đi vệ sinh, tự ăn, nằm giường không li bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu khó thở, không thấy dấu hiệu nặng"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn kém hơn thường, chỉ nửa chén cơm; uống nước được khoảng một lít rưỡi một ngày; đi tiểu ba, bốn lần, nước tiểu vàng nhạt; không nôn, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Còn uống, tiểu đủ, chưa mất nước"
+    },
+    {
+     "id": "nen",
+     "noi_dung": "Khỏe mạnh từ nhỏ, không hen, không bệnh tim, thận, tiểu đường; không dị ứng thuốc; cao 148 cm, nặng 38 kg, không béo phì. Không dùng thuốc thường xuyên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có yếu tố nguy cơ bệnh nặng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ cho bé uống ibuprofen viên 200 mg mua ở hiệu thuốc, mỗi lần 1 viên, đã cho 4 lần trong hai ngày, lần cuối sáng nay lúc 6 giờ. Chưa cho paracetamol, kháng sinh hay thuốc ho nào. Mẹ không rõ có giới hạn liều không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: NSAID tự mua"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Sau lần uống ibuprofen thứ hai (uống lúc chưa ăn gì) bé kêu đau âm ỉ vùng thượng vị, buồn nôn, không nôn, không đi ngoài phân đen, không nôn ra máu. Sáng nay còn hơi tức bụng. Đây là điều khiến mẹ lo thuốc làm hại dạ dày.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật đến khám: nghi ngờ tác dụng phụ của thuốc",
+     "dieu_kien_lo": "Hỏi chung chung thì mẹ chỉ nói bé sốt, ho. Khi bác sĩ hỏi đã cho bé uống thuốc gì, hoặc sau thuốc bé có thấy khó chịu, hoặc mẹ lo điều gì nhất thì mẹ mới kể chuyện đau bụng và lời hàng xóm nói thuốc này làm COVID nặng hơn."
+    },
+    {
+     "id": "hoc",
+     "noi_dung": "Bé chưa đi học từ thứ Tư. Ở nhà nằm phòng riêng, mẹ đang đeo khẩu trang khi chăm. Đội bóng chuyền sắp thi giải huyện sau một tuần rưỡi, bé rất muốn đi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, mệt vừa, da hồng, môi và niêm mạc ẩm, mắt không trũng. Cân nặng 38 kg, cao 148 cm (BMI 17,3). Không tím, chi ấm, nói hết câu không ngắt hơi.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan hai bên không to, không có mủ, không loét. Mũi: niêm mạc hồng, ít dịch trong. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Vài hạch cổ nhỏ, di động, không đau. Cổ mềm, không cứng gáy. Tuyến giáp không to.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Kết mạc không đỏ, không có ghèn, đồng tử đều, phản xạ ánh sáng tốt.",
+     "k": 0
+    },
+    "thu_khuu_giac": {
+     "a": "Ngửi dầu gió và vỏ chanh: hai bên mũi đều không nhận ra mùi.",
+     "k": 1,
+     "hien": "Cho ngửi dầu gió và vỏ chanh, từng bên mũi: bé không nhận ra mùi ở cả hai bên."
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, đều, không co kéo. Hai phổi rì rào phế nang êm dịu, không ran, không đục khi gõ.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, đều, không co kéo cơ hô hấp phụ. Gõ trong hai phế trường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 98 l/p, T1 T2 rõ, không âm thổi, không T3. Mao mạch đầy lại dưới 2 giây.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p. Mao mạch đầy lại dưới 2 giây.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn nhẹ vùng thượng vị bé hơi khó chịu, không co cứng, không phản ứng thành bụng. Gan lách không to, không có điểm đau khác.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da không phát ban, không bầm tím, không chấm xuất huyết, không nổi mày đay. Đầu ngón tay chân không có tổn thương kiểu cước.",
+     "k": 0,
+     "hien": "Da không phát ban, không bầm tím. Đầu ngón tay chân bình thường."
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "u",
+     "r": "Dương tính SARS-CoV-2 (nếu làm được ở tuyến cao hơn).",
+     "ab": 1,
+     "n": "Cơ sở không làm được. QĐ 2671/2023 mục 2.2 cần RT-PCR hoặc test kháng nguyên dương tính mới là ca xác định; ở đây bé chỉ là trường hợp nghi ngờ (mục 2.1a: có yếu tố dịch tễ và ít nhất 3 triệu chứng). Kết quả không đổi xử trí mức nhẹ nên không phải chuyển tuyến chỉ để làm test (WHO 2023, mục 3.6)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "X-quang phổi (nếu có máy): không có tổn thương.",
+     "n": "Không có chỉ định: mức nhẹ không có triệu chứng viêm phổi hay khó thở, X-quang chỉ \"bình thường hoặc có tổn thương ít\" (QĐ 2671/2023, mục 5.2.1). Cơ sở không có máy."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 mức nhẹ, trường hợp nghi ngờ (lâm sàng và dịch tễ), chưa có xét nghiệm xác định",
+     "ok": 1,
+     "n": "Có yếu tố dịch tễ (mẹ test dương tính, bạn cùng lớp sốt ho, sống chung nhà) và 6 triệu chứng: sốt, ho, đau họng, nhức đầu, mệt, mất khứu giác (QĐ 2671/2023, mục 2.1a, 3.1). SpO₂ 98%, thở 20 l/p, tỉnh, không khó thở, tự phục vụ được: mức nhẹ (QĐ 2671/2023, mục 5.2.1). Không có xét nghiệm nên chưa đủ \"ca xác định\" (mục 2.2)."
+    },
+    {
+     "t": "Đau thượng vị, buồn nôn nghĩ do ibuprofen uống lúc đói",
+     "ok": 1,
+     "n": "Khởi phát sau liều thứ hai uống lúc chưa ăn, không dấu hiệu chảy máu tiêu hóa. WHO Pocket Book 2013 (chương 10, tr. 305): ibuprofen cũng như mọi NSAID có thể gây viêm dạ dày. Đây là chỗ giải đáp nỗi lo thật của mẹ."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Không phân biệt được trên lâm sàng và không có test nhanh. Không loại trừ, nhưng không đổi xử trí: cúm nhẹ ngoại trú chỉ dùng kháng virus khi có yếu tố nguy cơ, bé không có (QĐ 1840/2025, mục III.2.2); WHO 2024 không khuyến cáo kháng virus cho thể không nặng nguy cơ thấp (TL-0133, BMJ 2026;392:e087397). Mất khứu giác và yếu tố dịch tễ ghi nhận cho COVID-19 (QĐ 2671/2023, mục 2.1a)."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn",
+     "n": "Không khó thở, thở 20 l/p, SpO₂ 98%, phổi không ran, không co kéo, sốt mới ngày 3; mức nhẹ \"không có triệu chứng viêm phổi hay khó thở, không giảm oxy máu\" (QĐ 2671/2023, mục 5.2.1). Cần nghĩ lại nếu sốt tái phát sau khi hết, thở nhanh hoặc ran nổ."
+    },
+    {
+     "t": "Sốt do chơi thể thao quá sức, trúng gió (cách nghĩ của gia đình)",
+     "n": "Đây là cái neo của mẹ: hội thao là ngày bắt đầu mệt. Sốt kéo ba ngày kèm ho, đau họng, mất khứu giác và tiếp xúc người dương tính không giải thích bằng gắng sức. Không có trong tài liệu đã tải mục nào nói \"trúng gió\" gây sốt."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán COVID-19 mức nhẹ nghi ngờ, điều trị và theo dõi tại nhà, không nhập viện, không chuyển tuyến",
+     "v": "c",
+     "n": "Mức nhẹ, chưa giảm oxy, ăn uống được: điều trị triệu chứng tại nhà (QĐ 2671/2023, mục 5.2.1, 6.3.1; WHO 2023, mục 3.6)."
+    },
+    {
+     "t": "Cách ly bé tại nhà ít nhất 5 ngày kể từ khi có triệu chứng đầu tiên và đeo khẩu trang đến hết ngày thứ 10",
+     "v": "c",
+     "n": "QĐ 2671/2023, mục 7.1. Bé khởi phát thứ Ba (ngày 1), nên đủ 5 ngày vào hết ngày thứ Bảy; khẩu trang đến hết ngày thứ Năm tuần sau (ngày 10)."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol 10–15 mg/kg/lần (500 mg), khi sốt từ 38,5 °C hoặc bé khó chịu; cách nhau ít nhất 4–6 giờ, không quá 60 mg/kg/24 giờ (4 viên 500 mg)",
+     "v": "c",
+     "n": "Cách 1: paracetamol 10–15 mg/kg cách 6 giờ khi từ 38,5 °C (QĐ 3312/2015, bài Viêm phổi do vi khuẩn ở trẻ em, mục 2.2; QĐ 2671/2023, mục 8.2.1: trẻ em từ 38,5 °C dùng thuốc hạ sốt). Cách 2: chỉ dùng khi trẻ có vẻ khó chịu, không dùng chỉ để hạ con số (NICE NG143 2021, mục 1.6.4–1.6.5; WHO Pocket Book 2013, tr. 305: khi ≥ 39 °C và khó chịu). Nhắc lại sau 4–6 giờ, tối đa 60 mg/kg/24 giờ (QĐ 3312/2015, bài Co giật do sốt, mục 4.1). Ghi cả hai cách, đều đúng (xem sổ mâu thuẫn)."
+    },
+    {
+     "t": "Giải thích nỗi lo của mẹ: ibuprofen không bị cấm trong COVID-19, nhưng đang đau thượng vị thì tạm ngừng; dùng paracetamol thay",
+     "v": "c",
+     "n": "WHO 2023, mục 3.6 (ghi chú): hiện chưa có bằng chứng NSAID gây biến cố nặng ở người COVID-19, nên lời đồn \"làm bệnh nặng hơn\" không có cơ sở trong tài liệu. Còn đau dạ dày là tác dụng phụ có thật của ibuprofen (WHO Pocket Book 2013, tr. 305), nên đổi sang paracetamol cho bé đang đau thượng vị. Dùng lại ibuprofen sau khi hết đau, lúc đã ăn no: chấm a."
+    },
+    {
+     "t": "Uống đủ nước, ăn chia nhiều bữa nhỏ, nghỉ ngơi, mặc thoáng; không gắng sức thể thao trong thời gian bệnh",
+     "v": "c",
+     "n": "WHO 2023, mục 3.6: dinh dưỡng đầy đủ và bù nước thích hợp; QĐ 2671/2023, mục 8.2.1 (sốt): hạn chế hoạt động thể chất, bù nước hoặc dung dịch điện giải đường uống."
+    },
+    {
+     "t": "Không kê kháng sinh",
+     "v": "c",
+     "n": "Mức nhẹ không dùng kháng sinh (QĐ 2671/2023, Bảng 6; WHO 2023, mục 3.6: khuyến cáo không dùng kháng sinh điều trị hay dự phòng ở COVID-19 nhẹ)."
+    },
+    {
+     "t": "Dặn dấu hiệu cần đưa đi khám ngay: khó thở, thở nhanh hoặc nông, tím môi, đau ngực, lú lẫn, khó đánh thức, không uống được; hẹn tái khám sau 4 ngày",
+     "v": "c",
+     "n": "WHO 2023, mục 3.6 (ghi chú): người chăm sóc trẻ COVID-19 nhẹ theo dõi các dấu hiệu này; QĐ 2671/2023, mục 6.13.1: tư vấn theo dõi triệu chứng và nơi liên hệ khi nặng lên. Hẹn đúng 4 ngày: không có trong tài liệu đã tải, mốc do tác giả ca đặt."
+    },
+    {
+     "t": "Dùng lau mát, chườm khăn ấm thay thuốc hạ sốt",
+     "v": "a",
+     "n": "QĐ 3312/2015 (bài Viêm phổi do vi khuẩn ở trẻ em, mục 2.2) có \"lau người bằng nước ấm\"; NICE NG143 2021 không khuyến cáo lau bằng nước ấm nhưng không nói có hại (mục 1.6.1–1.6.5). Chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Kê nirmatrelvir/ritonavir hoặc molnupiravir",
+     "v": "w",
+     "n": "Bé 12 tuổi 38 kg, không có yếu tố nguy cơ (Bảng 5): nirmatrelvir/ritonavir dành cho người từ 12 tuổi nặng ít nhất 40 kg và có ít nhất một yếu tố nguy cơ; molnupiravir chỉ cho người từ 18 tuổi (QĐ 2671/2023, Bảng 7). Người nguy cơ chuẩn không rút ngắn rõ thời gian hết triệu chứng (TL-0163, EPIC-SR, NEJM 2024;390:1186)."
+    },
+    {
+     "t": "Kê corticoid (dexamethason, prednisolon)",
+     "v": "w",
+     "n": "Mức nhẹ không dùng corticoid (QĐ 2671/2023, Bảng 6)."
+    },
+    {
+     "t": "Cho aspirin để hạ sốt",
+     "v": "h",
+     "n": "Không cho aspirin vì có thể gây hội chứng Reye, đe dọa tính mạng (QĐ 1840/2025, mục III.2.2, ngoại trú cúm nhẹ); chưa loại được cúm nên áp dụng cho bé."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 mức nhẹ, trường hợp nghi ngờ (lâm sàng + dịch tễ), chưa xét nghiệm (QĐ 2671/2023, mục 2.1a, 5.2.1)",
+     "Đau thượng vị, buồn nôn nghi liên quan ibuprofen uống lúc đói",
+     "Đã cân nhắc và không đủ cơ sở cho: viêm phổi vi khuẩn; không thể phân biệt cúm mùa với COVID-19 trên lâm sàng nhưng không đổi xử trí"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi nên đi: lý do khám và diễn tiến sốt, ho, đau họng theo ngày; yếu tố dịch tễ (ai trong nhà, lớp, đội bóng đang sốt, ai dương tính); mất khứu giác, vị giác; dấu hiệu nặng (khó thở, đau ngực, tím, li bì); ăn uống và nước tiểu; bệnh nền và yếu tố nguy cơ; thuốc đã dùng, liều, giờ; sau thuốc có khó chịu gì không. Định nghĩa nghi ngờ: yếu tố dịch tễ và ít nhất 3 triệu chứng (QĐ 2671/2023, mục 2.1a). Bé có yếu tố dịch tễ và 6 triệu chứng.",
+     "Khám: SpO₂ và nhịp thở là then chốt để xếp mức độ. Thở 20 l/p, SpO₂ 98%, nói hết câu, không co kéo, phổi trong: mức nhẹ, không viêm phổi, không giảm oxy máu (QĐ 2671/2023, mục 5.2.1). Mức trung bình cần thở 22–30 l/p, khó thở khi gắng sức, nhịp tim nhanh, SpO₂ 94–96% (mục 5.2.2, Bảng 4). Ấn thượng vị khó chịu nhẹ, không phản ứng thành bụng, đi cùng chuyện đau sau uống ibuprofen.",
+     "Cận lâm sàng: cơ sở không có xét nghiệm, X-quang, siêu âm. Đây là bài học của ca: chẩn đoán và xử trí hoàn toàn bằng lâm sàng, dịch tễ và đo SpO₂. Việc không có test nhanh không làm thay đổi hướng xử trí mức nhẹ nguy cơ thấp. Chưa phải \"ca xác định\" (QĐ 2671/2023, mục 2.2) nhưng vẫn cách ly và theo dõi như ca nghi ngờ.",
+     "Vì sao mức nhẹ, nguy cơ thấp: bé không có yếu tố nguy cơ bệnh nặng trong Bảng 5 (QĐ 2671/2023: tuổi > 60, béo phì, bệnh nền, có thai, HIV, hút thuốc, chưa tiêm vắc xin). Không có thang điểm nguy cơ riêng cho trẻ em trong tài liệu đã tải; thông số trẻ dưới 5 tuổi (mục 8.1.2) không áp dụng cho bé 12 tuổi.",
+     "Dữ kiện nhiễu: mẹ nghĩ bé \"trúng gió, chơi quá sức\". Hội thao chỉ là mốc thời gian vì tối hôm đó mệt (ủ bệnh 2–14 ngày, trung bình 5–7 ngày, nên nhiều khả năng bé nhiễm trước hội thao, QĐ 2671/2023, mục 3.1). Một ghi chú: đau bụng của bé là do thuốc, không phải biểu hiện của COVID-19 (tiêu chảy chỉ là triệu chứng thường gặp, mục 5.2.1) vì bé không tiêu chảy."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí đúng là cho về điều trị tại nhà và hẹn tái khám. Mức nhẹ điều trị triệu chứng, theo dõi (QĐ 2671/2023, mục 6.3.1; WHO 2023, mục 3.6). Không nhập viện vì không giảm oxy máu, ăn uống được, có người lớn ở nhà chăm sóc. Cách ly tại nhà, mẹ cũng đang dương tính nên không còn việc \"tránh mẹ\".",
+     "Hạ sốt: có hai cách ghi trong tài liệu. Theo ngưỡng từ 38,5 °C dùng paracetamol 10–15 mg/kg (QĐ 3312/2015; QĐ 2671/2023, mục 8.2.1). Theo mức khó chịu, không chỉ để hạ con số (NICE NG143 2021, mục 1.6.4–1.6.5). Hai nguồn khác nhau vì năm và đối tượng: QĐ 3312 viết cho viêm phổi và co giật do sốt, NICE cho sốt dưới 5 tuổi; áp dụng cho bé 12 tuổi cả hai đều chấp nhận. Với 38 kg, liều 10–15 mg/kg là 380–570 mg nên một viên 500 mg (13 mg/kg) là hợp lý.",
+     "Ibuprofen: chuyện đồn \"ibuprofen làm COVID nặng hơn\" không có cơ sở trong tài liệu đã tải: WHO 2023, mục 3.6 ghi hiện chưa có bằng chứng biến cố nặng do NSAID ở người COVID-19. Điều đáng lo là đau dạ dày thật, đã xảy ra sau uống lúc đói. Cách trình bày với mẹ: \"Thuốc không làm bệnh nặng hơn, nhưng làm bé đau dạ dày, nên tạm đổi sang paracetamol\".",
+     "Không kháng virus: bé 38 kg chưa đủ điều kiện nirmatrelvir (ít nhất 40 kg, có yếu tố nguy cơ), molnupiravir từ 18 tuổi (QĐ 2671/2023, Bảng 7). Không corticoid, không kháng sinh (Bảng 6). Không X-quang, không CT khi không có triệu chứng hô hấp dưới.",
+     "Cách ly: ít nhất 5 ngày từ khi có triệu chứng, khẩu trang đến hết ngày thứ 10 (QĐ 2671/2023, mục 7.1). Tài liệu đã tải không nêu quy định cho trẻ đi học trở lại và chơi thể thao: không có trong tài liệu đã tải. Lịch tái khám hẹn 4 ngày: mốc do tác giả ca đặt."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg viên",
+      "lieu": "1 viên (500 mg, khoảng 13 mg/kg) mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt từ 38,5 °C hoặc bé khó chịu vì sốt; cách lần trước ít nhất 6 giờ; không quá 4 viên/24 giờ",
+      "so_ngay": "Dùng khi cần, tối đa khoảng 3–4 ngày",
+      "ghi_chu": "Liều 10–15 mg/kg/lần cách 4–6 giờ (WHO Pocket Book 2013, tr. 305; QĐ 3312/2015, bài Viêm phổi do vi khuẩn ở trẻ em, mục 2.2); tối đa 60 mg/kg/24 giờ = 2.280 mg (QĐ 3312/2015, bài Co giật do sốt, mục 4.1). Số ngày dùng tối đa: không có trong tài liệu đã tải, ngừng khi hết sốt."
+     }
+    ],
+    "dan_do": [
+     "Thuốc hạ sốt: dùng paracetamol, ghi giờ uống từng lần, không uống ibuprofen cho tới khi hết đau dạ dày. Sau đó nếu cần dùng lại thì uống sau khi ăn no (WHO Pocket Book 2013, tr. 305). Không dùng aspirin (QĐ 1840/2025, mục III.2.2).",
+     "Cho bé uống đủ nước, bữa nhỏ nhiều lần, ở phòng riêng thoáng, đeo khẩu trang khi tiếp xúc người khác, ít nhất 5 ngày từ ngày có triệu chứng và khẩu trang đến hết ngày thứ 10 (QĐ 2671/2023, mục 7.1).",
+     "Đưa bé đi khám ngay, không chờ hẹn nếu: thở nhanh hoặc nông, khó thở, tím môi, đau hoặc tức ngực, lú lẫn, khó đánh thức, không uống được hoặc nôn hết (WHO 2023, mục 3.6). Cũng đưa đi nếu đau bụng tăng, nôn ra máu hoặc đi ngoài phân đen.",
+     "Giải thích lời đồn: ibuprofen không làm COVID-19 nặng hơn theo tài liệu, nhưng đã làm bé đau dạ dày nên tạm không dùng. Bé không phải \"trúng gió\". Hẹn tái khám sau 4 ngày, mang theo ghi chép nhiệt độ và giờ uống thuốc. Nghỉ thể thao, chưa tính chuyện giải huyện lúc này."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 ngày",
+   "tiep_don": "Bé Mai Anh tái khám sau 4 ngày. Mẹ báo bé hết sốt hai ngày nhưng còn ho nhiều và mệt, chưa ăn ngon. Điều dưỡng Linh đo: nhiệt độ 36,8 °C, mạch 92 l/p, HA 100/60 mmHg, nhịp thở 20 l/p, SpO₂ 98% khí trời, cân nặng 37 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Mai Anh đã hết sốt hai ngày, SpO₂ 98%, thở 20 l/p, ăn uống được; ho và mệt sau COVID-19 mức nhẹ không phải chỉ định nhập viện (QĐ 2671/2023, mục 3.3, 5.2.1). Nằm viện làm bé nghỉ học dài hơn, tốn kém và rời mẹ khi mẹ đang đi làm lại; trong viện cũng không có thuốc đặc hiệu nào cho ho, mệt hay mất mùi.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện huyện chụp phim và làm xét nghiệm vì còn ho là quá tay: bé hết sốt, không thở nhanh, SpO₂ 98% và không giảm khi đi bộ, phổi không ran, nên không có chỉ định cận lâm sàng thêm (QĐ 2671/2023, mục 3.3, 5.2.1). Đường xa, tốn chi phí, bé nghỉ thêm một ngày học; kết quả bình thường thì mẹ vẫn chưa được trả lời vì sao bé còn ho, rồi lại đòi kháng sinh."
+   },
+   "loi_mo": "Con hết sốt rồi bác sĩ, nhưng con còn ho nhiều, mệt. Ngày mai con đi học lại với tập bóng được không ạ? Đội con sắp thi.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "100/60",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hẹn tái khám. Bé hết sốt từ thứ Bảy (ngày 5) nhưng còn ho nhiều, mệt, chưa ăn ngon. Mẹ muốn biết khi nào đi học, tập bóng chuyền lại được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt hết hẳn từ thứ Bảy, đã hai ngày không dùng paracetamol, đo nhiệt độ 36,5–36,9 °C. Hết đau họng và nhức đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hết sốt"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan còn nhiều, ho từng chuỗi về đêm, làm bé thức giấc ba, bốn lần; ban ngày ho nhẹ hơn. Không khạc đờm, không ho ra máu, không khò khè, không đau ngực khi ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho còn, về đêm"
+    },
+    {
+     "id": "met",
+     "noi_dung": "Bé mệt, đi lên hai tầng thang ở nhà thấy hụt hơi phải dừng nghỉ, hồi phục sau 1–2 phút. Hôm qua thử chạy vòng sân khoảng 50 m thì ho và hụt hơi nên dừng. Không đau ngực, không hồi hộp, không choáng, không ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mệt, hụt hơi khi gắng sức, không có triệu chứng tim"
+    },
+    {
+     "id": "khuu_giac",
+     "noi_dung": "Khứu giác chưa trở lại, ăn cơm vẫn thấy nhạt, chưa thèm ăn. Tụt 1 kg so với lần trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất khứu giác còn, sụt cân nhẹ"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không sốt lại, không khó thở khi nghỉ, không tím, không ban, không đau bụng, không nôn, không mắt đỏ, môi nứt, chân tay sưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu sốt tái phát, bội nhiễm hay biến chứng hiếm"
+    },
+    {
+     "id": "bung",
+     "noi_dung": "Đau thượng vị đã hết từ khi ngừng ibuprofen, hai ngày nay ăn uống bình thường về mặt bụng, không đau, không đi ngoài phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau dạ dày hết sau khi ngừng ibuprofen"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chỉ uống paracetamol đến thứ Sáu, sau đó không dùng gì. Không dùng kháng sinh, thuốc ho. Mẹ định cho bé uống lại ibuprofen nếu bé đau đầu.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ đã đỡ, test nhanh lại ngày hôm qua ở công ty âm tính. Bé hết thời gian cách ly 5 ngày từ thứ Bảy. Hai mẹ con vẫn đeo khẩu trang trong nhà.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "muon",
+     "noi_dung": "Bé đòi đi học lại ngày mai và đi tập bóng chuyền vì đội sắp thi giải huyện (còn khoảng 5 ngày). Mẹ lưỡng lự.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Muốn đi học, tập luyện lại sớm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi gầy hơn, da hồng, niêm mạc ẩm. Cân nặng 37 kg. Nói chuyện bình thường, thỉnh thoảng ho khan vài tiếng.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hết đỏ, amidan không to. Không có dịch mũi.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, đều, không co kéo. Hai phổi rì rào phế nang êm dịu, không ran nổ, không rít. Gõ trong.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, đều, không co kéo. Gõ trong hai phế trường.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 92 l/p, T1 T2 rõ, không âm thổi, không T3, không tiếng cọ.",
+     "k": 1,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da không phát ban, môi không nứt, kết mạc không đỏ, không sưng bàn tay, bàn chân.",
+     "k": 1,
+     "hien": "Da không phát ban. Môi, kết mạc, bàn tay bàn chân bình thường."
+    },
+    "di_bo_spo2": {
+     "a": "SpO₂ lúc nghỉ 98%. Đi bộ nhanh 3 phút trong sân trạm: SpO₂ 97%, mạch 112 l/p, nhịp thở 24 l/p, ho vài tiếng, hơi mệt, hồi phục sau 1 phút. Không giảm SpO₂ quá 3 điểm, không dưới 94%.",
+     "k": 1,
+     "hien": "SpO₂ lúc nghỉ 98%. Đi bộ nhanh 3 phút: SpO₂ 97%, mạch 112 l/p, nhịp thở 24 l/p, ho vài tiếng."
+    },
+    "thu_khuu_giac": {
+     "a": "Ngửi dầu gió và vỏ chanh: nhận ra mùi mờ nhạt bên phải, chưa nhận ra bên trái.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 92 l/p, trục bình thường, ST-T không thay đổi.",
+     "n": "Không bắt buộc: bé không đau ngực, hồi hộp, ngất. WHO 2023 (mục 3.17, ghi chú 3–4) chỉ nêu cần đánh giá tim trước khi tập lại khi đã xác định có tổn thương tim; ở bé không có dấu hiệu nào gợi ý."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "(Cơ sở không có máy) Không cần.",
+     "n": "Bé hết sốt, thở bình thường, SpO₂ 98%, phổi không ran: không có chỉ định (QĐ 2671/2023, mục 5.2.1b). Cơ sở không có X-quang."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "COVID-19 mức nhẹ đang hồi phục: ho và mệt còn (nghi ngờ trên lâm sàng, chưa xác định bằng xét nghiệm)",
+     "ok": 1,
+     "n": "Hết sốt hai ngày, SpO₂ 98% lúc nghỉ, không giảm khi đi bộ, phổi trong. QĐ 2671/2023, mục 3.3: mức nhẹ và trung bình sau 7–10 ngày hết sốt, toàn trạng khá lên, có thể mệt mỏi kéo dài. Bé mới ngày thứ 7 của bệnh nên hồi phục chậm hơn một chút nhưng còn trong khoảng thường gặp."
+    },
+    {
+     "t": "Viêm phổi vi khuẩn bội nhiễm",
+     "n": "Không sốt lại, nhịp thở 20 l/p, không ran, SpO₂ không giảm khi đi bộ; không có đờm mủ. Thất bại điều trị hay bội nhiễm cần sốt lại, thở nhanh, SpO₂ giảm, ran nổ (WHO 2023, mục 3.6, 3.7: không dùng kháng sinh trừ khi nghi nhiễm khuẩn)."
+    },
+    {
+     "t": "Hội chứng viêm đa hệ thống ở trẻ em liên quan COVID-19 (MIS-C)",
+     "n": "Không sốt, không phát ban, không đau bụng, không mắt đỏ, môi nứt, phù chi (QĐ 2671/2023, mục 8.1.3c: nêu MIS-C điều trị bằng corticoid; WHO 2023, mục 3.12: MIS-C ở trẻ em). Đưa vào để loại trừ khi bé mệt kéo dài, không phải nghi ngờ thật."
+    },
+    {
+     "t": "Mệt, ho kéo dài sau COVID-19 trong giai đoạn hồi phục, chưa phải tình trạng hậu COVID-19",
+     "ok": 1,
+     "n": "WHO 2023 (mục 3.17, định nghĩa): tình trạng hậu COVID-19 thường tính từ khoảng 3 tháng sau nhiễm, mới ngày thứ 7 nên chưa phải. Nghĩ đến suy giảm thể lực sau nằm nghỉ cũng hợp lý (thuộc ý tác giả)."
+    },
+    {
+     "t": "Hen phế quản hoặc ho do trào ngược",
+     "n": "Không khò khè, không tiền sử hen, ho khan về đêm trong bệnh cảnh sau nhiễm virus đang hết sốt; không có tài liệu đã tải nêu ngưỡng thời gian ho kéo dài ở trẻ em; theo dõi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận bé đang hồi phục, mức nhẹ: tiếp tục chăm sóc tại nhà, không cần thuốc đặc hiệu, không chuyển tuyến, không chụp phim",
+     "v": "c",
+     "n": "QĐ 2671/2023, mục 3.3, 5.2.1; WHO 2023, mục 3.6. Hết sốt, SpO₂ 98% (97% sau đi bộ), thở 20 l/p."
+    },
+    {
+     "t": "Giải thích ho và mệt kéo dài có thể gặp, cần vài tuần để hồi phục; không kê kháng sinh, không corticoid",
+     "v": "c",
+     "n": "QĐ 2671/2023, mục 3.3: sau 7–10 ngày hết sốt vẫn có thể mệt mỏi kéo dài; Bảng 6: mức nhẹ không dùng kháng sinh và corticoid (WHO 2023, mục 3.6)."
+    },
+    {
+     "t": "Kết thúc cách ly (đã đủ 5 ngày từ khi có triệu chứng), vẫn đeo khẩu trang đến hết ngày thứ 10",
+     "v": "c",
+     "n": "QĐ 2671/2023, mục 7.1. Bé khởi phát ngày 1 là thứ Ba tuần trước nên ngày 10 là thứ Năm này."
+    },
+    {
+     "t": "Quay lại sinh hoạt từng bước theo triệu chứng; chưa thi đấu, chưa tập cường độ cao đến khi hết ho, hết mệt; tăng dần mỗi ngày nếu không mệt thêm, ho thêm",
+     "v": "c",
+     "n": "WHO 2023, mục 3.17, ghi chú 2 và 4 (đào tạo): quay lại hoạt động từ từ, ở mức an toàn theo triệu chứng, không ép đến mệt sau gắng sức; quay lại thể thao dần, có chuyên viên y tế hướng dẫn. Thời điểm cụ thể được thi đấu, đi học lại: không có trong tài liệu đã tải; bé ở nhà thêm vài ngày là hợp lý nhưng không phải điều bắt buộc (a)."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại khám sớm: sốt lại, khó thở, thở nhanh, đau ngực, hồi hộp, ngất, ho ra máu, SpO₂ giảm khi gắng sức; tái khám nếu ho, mệt không bớt hoặc nặng thêm",
+     "v": "c",
+     "n": "WHO 2023, mục 3.6 (dấu hiệu nặng ở trẻ); đau ngực, hồi hộp khi gắng sức là lý do cần đánh giá tim trước khi tập lại (WHO 2023, mục 3.17, ghi chú 3). Mốc quay lại khám nếu không đỡ: không có trong tài liệu đã tải, tác giả đặt 2 tuần."
+    },
+    {
+     "t": "Làm điện tim",
+     "v": "a",
+     "n": "Không có triệu chứng tim, nên không bắt buộc, làm cũng chấp nhận được (WHO 2023, mục 3.17, ghi chú 3–4)."
+    },
+    {
+     "t": "Dùng ibuprofen khi cần giảm đau đầu sau khi ăn no",
+     "v": "a",
+     "n": "WHO 2023, mục 3.6 (ghi chú): chưa có bằng chứng biến cố nặng do NSAID ở COVID-19; paracetamol ưu tiên vì bé từng đau dạ dày (WHO Pocket Book 2013, tr. 305)."
+    },
+    {
+     "t": "Kê kháng sinh cho ho kéo dài",
+     "v": "w",
+     "n": "Không có bằng chứng nhiễm khuẩn; mức nhẹ không dùng kháng sinh (QĐ 2671/2023, Bảng 6; WHO 2023, mục 3.6: không dùng kháng sinh điều trị hay dự phòng)."
+    },
+    {
+     "t": "Kê corticoid cho ho kéo dài",
+     "v": "w",
+     "n": "Mức nhẹ không dùng corticoid (QĐ 2671/2023, Bảng 6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "COVID-19 mức nhẹ đang hồi phục chậm: hết sốt, còn ho, mệt, mất khứu giác (QĐ 2671/2023, mục 3.3)",
+     "Không có bằng chứng viêm phổi bội nhiễm, MIS-C hay tổn thương tim",
+     "Đau dạ dày do ibuprofen đã hết sau khi ngừng thuốc"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: sốt có tái phát không; ho, đờm, khò khè, đau ngực; mệt khi gắng sức: lên thang, thử chạy, có hồi hộp, choáng, ngất không; khứu giác; ăn uống và cân nặng; còn đau bụng không; còn ai trong nhà bệnh; mẹ định cho dùng thuốc gì.",
+     "Khám: hết sốt, tim phổi bình thường, da không ban, môi và kết mạc bình thường: không gợi ý MIS-C hay bội nhiễm. SpO₂ lúc nghỉ và sau đi bộ 3 phút gần như không đổi: không giảm oxy khi gắng sức (WHO 2023, phần phục hồi chức năng, red flags: giảm hơn 3–4% so với nền hoặc từ 94% trở xuống là giảm oxy khi gắng sức; tiêu chí này viết cho người lớn, trẻ em: không có trong tài liệu đã tải).",
+     "\"Đỡ một phần\": thông thường, sau 7–10 ngày hết sốt, tổn thương tự hồi phục, có thể mệt mỏi kéo dài (QĐ 2671/2023, mục 3.3). Bé hết sốt ngày thứ 5, nay ngày thứ 7 còn ho đêm, mệt, mất khứu giác: khỏi chậm hơn dự kiến nhưng chưa có dấu hiệu bất thường. Phân biệt hồi phục chậm bình thường với thất bại điều trị: thất bại có sốt lại, thở nhanh, SpO₂ giảm, ran phổi; ở đây không có.",
+     "Cận lâm sàng: cơ sở vẫn không có xét nghiệm, X-quang. Ca này dạy quyết định không cần phim khi lâm sàng đang tốt dần. Chuyển tuyến chụp phim chỉ khi sốt lại, khó thở, SpO₂ giảm (tác giả; WHO 2023, mục 3.6 về dấu hiệu nặng).",
+     "Dữ kiện nhiễu: đau dạ dày đã hết sau khi ngừng ibuprofen, củng cố cách giải thích ở lượt 1. Mẹ định dùng lại ibuprofen khi bé nhức đầu: vẫn chấp nhận được sau ăn no (WHO 2023, mục 3.6, ghi chú) nhưng paracetamol ưu tiên hơn."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng là cho về tiếp tục điều trị triệu chứng, hẹn tái khám nếu không đỡ. Không dùng thuốc đặc hiệu, kháng sinh, corticoid (QĐ 2671/2023, Bảng 6; WHO 2023, mục 3.6).",
+     "Cách ly: đủ 5 ngày từ khi có triệu chứng, hết ngày thứ 10 vẫn đeo khẩu trang (QĐ 2671/2023, mục 7.1). Bé không phải xét nghiệm lại vì tài liệu không bắt buộc; nếu không xét nghiệm lại thì tính theo mốc ngày.",
+     "Quay lại hoạt động: WHO 2023 (mục 3.17) khuyên quay lại từ từ ở mức an toàn theo triệu chứng, không ép tới mức mệt sau gắng sức; thể thao quay lại dần có chuyên viên y tế hướng dẫn. Vì thế thi đấu giải huyện sau 5 ngày không nên, tập nhẹ tăng dần, đi học khi hết mệt. Mốc ngày chính xác: không có trong tài liệu đã tải.",
+     "Điện tim không cần cho bé không có dấu hiệu tim; nếu bé đau ngực, hồi hộp, ngất khi tập thì cần đánh giá tim trước khi tập tiếp (WHO 2023, mục 3.17, ghi chú 3).",
+     "Với mẹ: giải thích ho đêm, mệt, mất mùi sẽ hết dần; ghi mốc để mẹ không sợ \"khỏi mà còn ho\"; không chạy theo kháng sinh hay chụp phim."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg viên",
+      "lieu": "1 viên (500 mg, khoảng 13 mg/kg) mỗi lần khi cần",
+      "duong": "Uống",
+      "thoi_diem": "Khi nhức đầu hoặc sốt lại; cách lần trước ít nhất 6 giờ; không quá 4 viên/24 giờ",
+      "so_ngay": "Khi cần, không kê dùng liên tục",
+      "ghi_chu": "Liều 10–15 mg/kg/lần cách 4–6 giờ, tối đa 60 mg/kg/24 giờ (WHO Pocket Book 2013, tr. 305; QĐ 3312/2015, bài Co giật do sốt, mục 4.1). Chỉ khi cần giảm đau hoặc sốt lại, không dùng để chữa ho."
+     }
+    ],
+    "dan_do": [
+     "Ho đêm và mệt có thể còn vài tuần: nâng đầu cao khi ngủ, uống đủ nước, ăn đủ bữa để lấy lại cân (QĐ 2671/2023, mục 3.3: mệt mỏi kéo dài có thể gặp; mục 6.1 Bảng 6: dinh dưỡng, vật lý trị liệu).",
+     "Tiếp tục đeo khẩu trang đến hết ngày thứ 10 (thứ Năm này). Từ nay bé không cần ở phòng riêng (QĐ 2671/2023, mục 7.1).",
+     "Không đi thi giải huyện lần này. Ở nhà tập thở, đi bộ chậm vài lần mỗi ngày, tăng dần nếu không mệt thêm, ho thêm, rồi mới chạy nhẹ và tập bóng; quay lại thi đấu khi không còn triệu chứng và có hướng dẫn (WHO 2023, mục 3.17, ghi chú 2 và 4).",
+     "Quay lại ngay nếu sốt lại, khó thở, thở nhanh, đau ngực, hồi hộp hoặc ngất khi gắng sức, ho ra máu (WHO 2023, mục 3.6, 3.17). Quay lại khám nếu ho, mệt không bớt sau 2 tuần: mốc do tác giả ca đặt, không có trong tài liệu đã tải.",
+     "Khứu giác thường về từ từ; không có trong tài liệu đã tải mốc thời gian hồi phục khứu giác."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Mai Anh ở nhà thêm ba ngày, đeo khẩu trang đến hết ngày thứ 10. Ho đêm giảm dần, đến khoảng ngày 22 thì hết; khứu giác trở lại khoảng ngày 17; còn hụt hơi khi chạy nhanh đến khoảng ngày 26. Em đi học lại vào ngày 11, tập thể lực nhẹ từ tuần thứ ba, thi đấu từ tuần thứ năm. Không bội nhiễm, không phải nhập viện. Đội bóng thi giải huyện không có em, em buồn vài hôm. Mẹ kể lại cho hàng xóm: \"ibuprofen không làm COVID nặng, nhưng uống lúc đói thì đau dạ dày\". Quỹ đạo hồi phục chậm hơn dự kiến này vẫn nằm trong khoảng thường gặp (QĐ 2671/2023, mục 3.3). Tuy vậy nếu sốt lại hoặc thở nhanh thì phải nghĩ lại.",
+ "nhieu": [
+  "Mẹ nghĩ bé \"trúng gió, chơi thể thao quá sức\": mốc hội thao chỉ là mốc thời gian, cái cần khai là tiếp xúc dịch tễ (mẹ dương tính, bạn lớp nghỉ).",
+  "Ibuprofen tự mua: thuốc không làm COVID nặng hơn (WHO 2023, mục 3.6) nhưng gây đau dạ dày thật khi uống lúc đói; lời đồn của hàng xóm làm mẹ lo.",
+  "Bé và mẹ hợp tác tốt, nói đúng khi được hỏi. Không có chỗ giấu; độ khó nằm ở chỗ biết hỏi đúng: dịch tễ, mất khứu giác, thuốc đã dùng, \"mẹ lo điều gì\"."
+ ],
+ "bai_hoc_bien": [
+  "Không có xét nghiệm: chẩn đoán COVID-19 mức nhẹ bằng dịch tễ, triệu chứng và SpO₂, nhịp thở; chưa có xét nghiệm thì là ca nghi ngờ nhưng vẫn cách ly và điều trị như vậy (QĐ 2671/2023, mục 2.1, 2.2, 5.2.1).",
+  "Nỗi lo thật của người nhà thường là thuốc, không phải bệnh: hỏi \"đã cho thuốc gì, sau thuốc bé có khó chịu gì\" và \"mẹ lo nhất điều gì\".",
+  "Quỹ đạo hồi phục bình thường: hết sốt sau vài ngày, còn ho và mệt vài tuần; cần lo khi sốt lại, thở nhanh, SpO₂ giảm, đau ngực, hồi hộp khi gắng sức.",
+  "Trẻ vận động viên quay lại tập từ từ theo triệu chứng, không vì giải đấu (WHO 2023, mục 3.17)."
+ ],
+ "diem_nho": [
+  "COVID-19 nghi ngờ: yếu tố dịch tễ và ít nhất 3 triệu chứng; xác định khi có RT-PCR hoặc kháng nguyên dương tính (QĐ 2671/2023, mục 2.1–2.2).",
+  "Mức nhẹ: không viêm phổi, không khó thở, không giảm oxy máu, tự phục vụ; điều trị triệu chứng tại nhà (mục 5.2.1, 6.3.1; WHO 2023, mục 3.6).",
+  "Không kháng sinh, không corticoid ở mức nhẹ (QĐ 2671, Bảng 6). Kháng virus chỉ cho người có yếu tố nguy cơ; nirmatrelvir từ 12 tuổi và ít nhất 40 kg, molnupiravir từ 18 tuổi (Bảng 7).",
+  "Cách ly ít nhất 5 ngày từ khi có triệu chứng, khẩu trang đến hết ngày thứ 10 (mục 7.1).",
+  "Paracetamol 10–15 mg/kg/lần cách 4–6 giờ, tối đa 60 mg/kg/24 giờ (WHO Pocket Book 2013 tr. 305; QĐ 3312/2015). Không aspirin (QĐ 1840/2025, mục III.2.2).",
+  "NSAID: chưa có bằng chứng biến cố nặng ở người COVID-19 (WHO 2023, mục 3.6); nhưng NSAID gây viêm dạ dày (WHO Pocket Book 2013 tr. 305)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 2671/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị COVID-19 – TL-0124 – mục 2.1, 2.2, 3.1, 3.3, 5.1, 5.2, Bảng 4–7, 6.3.1, 6.13.1, 7.1, 8.2.1.",
+  "WHO 2023, Clinical management of COVID-19: living guideline (18/8/2023) – TL-0135 – mục 3.6, 3.17.",
+  "Bộ Y tế – QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – bài Viêm phổi do vi khuẩn ở trẻ em mục 2.2; bài Co giật do sốt mục 4.1.",
+  "WHO Pocket Book of Hospital Care for Children 2013 – TL-0250 – chương 10, tr. 305.",
+  "NICE NG143 2021, Fever in under 5s – TL-0262 – mục 1.6.1–1.6.6.",
+  "Bộ Y tế – QĐ 1840/QĐ-BYT 2025, Hướng dẫn chẩn đoán và điều trị cúm mùa – TL-0122 – mục III.2.2.",
+  "WHO 2024, Clinical practice guidelines for influenza (tóm tắt BMJ 2026;392:e087397) – TL-0133.",
+  "Pfizer EPIC-SR, N Engl J Med 2024;390:1186–1195 – TL-0163 (chỉ dùng phần tóm tắt trong sổ kho)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-28. Đã đọc: QĐ 2671/2023 (mục 2, 3.3, 5, Bảng 4–7, 6.3, 7.1, 8.1.2, 8.2.1; bản chữ OCR kém nên số mục bảng cần kiểm lại trên PDF); WHO 2023 mục 3.6, 3.17; QĐ 3312/2015 và Pocket Book về liều hạ sốt; QĐ 1840/2025 mục III.2.2.",
+  "Thiếu tài liệu: ngưỡng phân mức trẻ 6–15 tuổi (QĐ 2671 chỉ nêu trẻ dưới 5 tuổi), đi học lại và thi đấu thể thao sau COVID-19, mốc ho kéo dài ở trẻ em, hồi phục khứu giác, liều ibuprofen tối đa/ngày cho trẻ, lịch tái khám mức nhẹ: ghi \"không có trong tài liệu đã tải\" trong ca.",
+  "Mâu thuẫn: hạ sốt ở trẻ theo ngưỡng 38,5 °C hay theo mức khó chịu đã có trong sổ (mục \"Hạ sốt ở trẻ\"); ca ghi cả hai cách.",
+  "Ca theo bộ biến sổ cái: không xét nghiệm (khóa xn, xquang, siêu âm, CT, nội soi); NSAID tự mua; lý do thật là nghi ngờ tác dụng phụ thuốc."
+ ]
+}

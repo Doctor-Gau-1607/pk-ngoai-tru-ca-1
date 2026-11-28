@@ -1,0 +1,605 @@
+{
+ "ma_ca": "MT-1043",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "MT_tha_thu_phat_phat_hien",
+ "so_cai": {
+  "chuyen_khoa": "Bệnh mạn tính người lớn",
+  "chan_doan_dich": "THA thứ phát (phát hiện)",
+  "chan_doan_phai_loai_tru": [
+   "Cường aldosteron",
+   "Hẹp ĐM thận",
+   "U tủy thượng thận"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Bán hàng online",
+  "yeu_to_khoi_phat": "Sau chơi thể thao",
+  "thuoc_dang_dung": "NSAID tự mua",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Thị Kim Oanh",
+  "tuoi": 47,
+  "gioi": "Nữ",
+  "nghe": "Bán hàng online (livestream bán mỹ phẩm, quần áo)",
+  "can_nang": 61,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, nói nhanh, hay liếc điện thoại vì đang vào mùa sale cuối năm, sốt ruột sợ lỡ buổi lên sóng. Tin quảng cáo thuốc, mua thuốc theo 'người bán bảo'. Thân thiện, hay cười, nhưng nài nỉ dai.",
+  "kieu_nhieu": "Đòi truyền dịch: vừa vào đã xin 'truyền cho em một chai nước biển với vitamin'. Bị từ chối lần 1 thì nài 'chai nhỏ thôi cũng được'; lần 2 kể 'lần trước phòng khám tư truyền một chai là khỏe ngay'; lần 3 hỏi 'vậy truyền vitamin thôi, không có muối'. Chỉ dịu xuống khi bác sĩ giải thích lợi–hại cụ thể cho chính chị (huyết áp đang 176/108, nước muối đưa thêm muối vào máu, thủ phạm là thuốc giảm đau) và đưa việc thay thế làm được ngay (đổi thuốc giảm đau, uống thuốc huyết áp, nghỉ ngắn có giấy). Chỉ nói 'không cần truyền' thì chị 'sang phòng khám bên kia'.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e9b894",
+   "toc": "#2b1d17",
+   "kieuToc": "dai",
+   "ao": "#d9a3b3",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau đầu, ê ẩm người sau khi chơi thể thao, nhà thuốc đo huyết áp cao; xin truyền một chai cho khỏe",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am",
+   "tham_do"
+  ],
+  "loi_bao": "Trạm y tế xã không làm được xét nghiệm nào (không máu, nước tiểu, que thử, đường huyết mao mạch), không có điện tim và không có máy siêu âm; vì vậy cũng không có X-quang, CT, nội soi. Chỉ có huyết áp kế (có bao quấn cỡ lớn), ống nghe, đèn soi đáy mắt cầm tay, nhiệt kế, máy đo SpO₂, cân, thước. Bệnh viện huyện cách khoảng 14 km (có xét nghiệm cơ bản, điện tim, siêu âm bụng), chị đi xe máy được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 47 tuổi, bán hàng online (livestream), tự đi xe máy đến trạm y tế xã vì đau đầu và ê ẩm cơ đùi, vai bốn ngày nay sau buổi chơi pickleball. Hôm qua nhà thuốc đo HA 178/108. Sinh hiệu lúc tiếp đón: HA 176/108 mmHg, mạch 76 l/p, nhiệt 36,8 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Oanh nhập viện để 'truyền dịch và hạ áp', nằm cả ngày và bỏ buổi livestream tối. HA 176/108 mmHg không kèm tổn thương cơ quan đích cấp chỉ cần chỉnh thuốc uống ngoại trú, không hạ mạnh (AHA/ACC 2025 mục 6.2); truyền thêm muối và nước vào người đang THA chỉ củng cố niềm tin 'truyền là khỏe'. Chị ra viện vẫn chưa biết ibuprofen là thủ phạm.",
+    "cap_cuu": "Chị Oanh bị chuyển cấp cứu vì 'đau đầu, huyết áp 176/108'. Chị chưa đủ tiêu chuẩn cấp cứu THA (dưới 180/110, không đau ngực, không thần kinh khu trú, đáy mắt bình thường; QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1), nên mất một đêm ở cấp cứu và có nguy cơ bị hạ áp nhanh bằng thuốc tiêm không cần thiết (AHA/ACC 2025 mục 6.2). Chị về mà vẫn chưa ngưng NSAID.",
+    "chuyen_tuyen": "Chị Oanh được gửi lên tuyến tỉnh khám nội tiết ngay để tầm soát cường aldosteron, u tủy thượng thận, hẹp động mạch thận. Chị mất hai ngày bán hàng, tốn kém, trong khi chưa có chỉ điểm thứ phát nào (AHA/ACC 2025 Bảng 10; VSH/VNHA 2024 Bảng 9). Xét nghiệm aldosteron, renin làm khi còn dùng ibuprofen dễ dương tính giả (ESC 2024 Bảng 12; Endocrine Society 2025 Bảng 7); nguyên nhân thuốc lẽ ra chỉ cần ngưng NSAID rồi theo dõi."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy hôm nay em đau đầu với ê ẩm người, hôm qua ra nhà thuốc đo thấy huyết áp cao lắm. Bác sĩ truyền cho em một chai nước biển với vitamin cho khỏe nhanh nha, tối nay em còn phải lên sóng bán hàng.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "176/108",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau đầu âm ỉ vùng thái dương và gáy, ê ẩm cơ đùi, bắp chân và vai bốn ngày nay, sau buổi chơi pickleball. Hôm qua ghé nhà thuốc đo HA thấy 178/108. Muốn bác sĩ truyền một chai nước cho khỏe nhanh vì tối nay còn phải lên sóng bán hàng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và số đo HA ở nhà thuốc"
+    },
+    {
+     "id": "ha_nha_thuoc",
+     "noi_dung": "Nhà thuốc đo lúc 5 giờ chiều, ngay sau khi chạy xe máy gấp đi lấy hàng, vừa uống ly cà phê thứ ba trong ngày, chưa ngồi nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện đo HA ở nhà thuốc (chưa nghỉ, vừa cà phê, vừa chạy xe)"
+    },
+    {
+     "id": "ha_truoc",
+     "noi_dung": "Khám sức khỏe công ty tháng 1 năm nay: HA 118/76, chị chụp ảnh sổ khám còn trong điện thoại. Chưa từng bị nói huyết áp cao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HA nền cách đây khoảng 10 tháng (khởi phát mới)"
+    },
+    {
+     "id": "choi_the_thao",
+     "noi_dung": "Chủ nhật tuần trước đi chơi pickleball lần đầu sau mấy tháng, khoảng 2 giờ liền ngoài sân nắng, uống ít nước. Chiều đó đau nhức đùi, bắp chân, vai hai bên; hôm sau đau nhất, nay đỡ dần. Đau đúng chỗ đã vận động, không yếu liệt, vẫn tự đi đứng được, nước tiểu vẫn vàng nhạt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau cơ sau vận động (phân biệt yếu cơ do hạ kali, tiêu cơ vân)"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Khoảng 3 tháng nay mỏi vai gáy vì ngồi livestream, tự mua ibuprofen 400 mg ở nhà thuốc, uống 1 viên mỗi khi đau, chừng 3–4 lần mỗi tuần. Sau buổi chơi thể thao tăng lên 3 viên mỗi ngày (chia 3 lần sau ăn) bốn ngày liền, sáng nay vừa uống 1 viên. Chị cho đó là 'thuốc giảm đau thường', không biết nó ảnh hưởng huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì nói 'chỉ thuốc giảm đau thôi, không có gì'. Chỉ kể tên, liều, thời gian khi bác sĩ hỏi thuốc giảm đau, thuốc kháng viêm, thuốc mua ở nhà thuốc.",
+     "y": "Thuốc tự mua: loại, liều, thời gian (NSAID)"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không thuốc cảm có pseudoephedrin, corticoid, thuốc nam, cam thảo, thực phẩm chức năng, thuốc tránh thai uống (đặt vòng đồng hơn 5 năm), thuốc hạ áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ các thuốc/chất khác làm tăng HA"
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Đau đầu âm ỉ khoảng 4/10 ở thái dương và gáy, tăng khi ngồi livestream lâu, uống ibuprofen thì đỡ. Không nôn, không nhìn mờ, không chóng mặt xoay, không yếu liệt, không méo miệng, không nói khó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau đầu và triệu chứng thần kinh"
+    },
+    {
+     "id": "tim_phoi_am",
+     "noi_dung": "Không đau ngực, không khó thở, không phù, không ngất. Chưa lần nào khó thở dữ dội về đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng tim, suy tim, phù phổi cấp"
+    },
+    {
+     "id": "hoi_hop",
+     "noi_dung": "Hồi hộp, vã mồ hôi chỉ trong lúc chơi và ngay sau chơi, hết khi nghỉ 10–15 phút. Không có cơn tự nhiên lúc đang ngồi nghỉ, không cơn đau đầu–hồi hộp–vã mồ hôi–tái nhợt từng đợt, không sụt cân, không run tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc u tủy thượng thận: cơn tự phát lúc nghỉ"
+    },
+    {
+     "id": "yeu_co",
+     "noi_dung": "Không yếu tay chân, không chuột rút ban đêm, không tê rần, không khát nhiều. Đêm ngủ dậy tiểu 0–1 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cường aldosteron/hạ kali: yếu cơ, chuột rút, tiểu đêm"
+    },
+    {
+     "id": "than_tn",
+     "noi_dung": "Không phù mặt, phù chân; nước tiểu không bọt, không máu, không buốt; chưa bị sỏi thận hay bệnh thận. Không có đau đầu kiểu nửa đầu, không ù tai theo nhịp mạch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc bệnh thận và hẹp động mạch thận"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ bị cao huyết áp từ 55 tuổi, uống thuốc hằng ngày; cha mất vì đột quỵ năm 70 tuổi. Không ai bị cao huyết áp hay đột quỵ khi còn trẻ, không ai mắc u tuyến thượng thận hay bệnh thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Kinh còn đều, chu kỳ 28–30 ngày, vừa hết kinh cách đây 7 ngày; đặt vòng đồng tránh thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kinh nguyệt/thai: liên quan chọn thuốc (ức chế men chuyển chống chỉ định khi có thai)"
+    },
+    {
+     "id": "ngu",
+     "noi_dung": "Ngủ 5–6 giờ vì livestream đến 1 giờ sáng; chồng nói đôi khi ngáy nhẹ, không thấy ngưng thở. Ban ngày buồn ngủ nên uống cà phê cho tỉnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ngưng thở khi ngủ, giấc ngủ"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Cà phê sữa 4 ly mỗi ngày (2 ly buổi livestream tối), thỉnh thoảng nước tăng lực; hay đặt đồ ăn nhanh, mì gói khi lên sóng, nêm canh nhiều muối. Rượu bia hiếm, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Muối, caffeine, rượu, thuốc lá"
+    },
+    {
+     "id": "ky_vong_truyen",
+     "noi_dung": "Hai năm trước đau đầu đi phòng khám tư được truyền một chai 'nước biển với vitamin', thấy khỏe ngay nên tin truyền là cách nhanh nhất. Chồng cũng bảo 'thôi truyền cho mau khỏe'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chị cần giấy nghỉ ốm 3 ngày: chủ shop trừ lương và phạt nếu nghỉ không giấy; chị đã lên sóng liên tục 12 ngày mùa săn sale cuối năm, kiệt sức nhưng sợ nói thẳng bị mất doanh số. Chị có đóng bảo hiểm xã hội qua công ty.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị đang lo gì nhất, hôm nay chị mong bác sĩ giúp điều gì, công việc dạo này ra sao, hoặc chị có cần giấy tờ gì không.",
+     "y": "Động cơ thật: xin giấy nghỉ ốm"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi nghỉ 5 phút, bao quấn vừa: tay phải 176/108, tay trái 172/106 mmHg; đo lại sau 2 phút: 174/106 và 172/104. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút 174/106; đứng 1 phút 168/104, đứng 3 phút 170/104 mmHg. Không chóng mặt, không hạ HA tư thế.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, hơi lo, đi đứng bình thường. Cao 158 cm, nặng 61 kg, BMI 24,4; vòng eo 82 cm. Không mặt tròn đỏ, không rạn da tím, không rậm lông, da không xanh xao, tay không ướt mồ hôi.",
+     "k": 1,
+     "hien": "Tỉnh. Cao 158 cm, nặng 61 kg, vòng eo 82 cm."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Không lồi mắt, tĩnh mạch cổ không nổi. Cơ thang hai bên căng, ấn đau nhẹ.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Soi đáy mắt: động mạch không hẹp, không bắt chéo động–tĩnh mạch, không xuất huyết, không xuất tiết, gai thị rõ bờ, không phù.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3, T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, thận không chạm. Nghe cạnh rốn hai bên và dưới sườn: không âm thổi động mạch thận. Gan, lách không to.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, cánh tay, bẹn, khoeo, mu chân đều, rõ hai bên, mạch quay và mạch đùi không chậm trễ. Không âm thổi động mạch cảnh, động mạch đùi.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù. Bắp chân hai bên căng nhẹ, ấn đau lan tỏa, không sưng nóng đỏ, không tĩnh mạch giãn.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cơ tứ đầu đùi, bắp chân và cơ vai hai bên căng, đau khi vận động chủ động; không sưng khớp, không điểm đau xương, không tụ máu. Cơ thang vai gáy co cứng.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5 hai bên; gập cổ tốt. Ngồi xổm rồi đứng lên được, chỉ than đau đùi (đau, không yếu).",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Không run khi duỗi hai tay; tay ấm, khô vừa.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt. Không méo miệng, không yếu liệt, phản xạ gân xương hai bên đều, không dấu màng não.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới: vàng nhạt, trong, không nâu đỏ, không bọt nhiều.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng không đau, không dấu chạm thắt lưng. Cầu bàng quang âm tính.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Cơ sở không làm được điện tâm đồ.",
+     "n": "Xét nghiệm cơ bản khi mới phát hiện THA (QĐ 5904 Phần 1 Bước 2 mục 10); hẹn làm ở bệnh viện huyện."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Cơ sở không làm được xét nghiệm ure, creatinin, eGFR.",
+     "n": "Cần trước khi thêm ức chế men chuyển (QĐ 5904 Phần 3 mục G); chị vừa dùng NSAID."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Cơ sở không làm được điện giải đồ (Na, K, Cl).",
+     "n": "Nhận ra hạ kali (VSH/VNHA 2024 Bảng 9) và làm nền trước ức chế RAS (QĐ 5904 Phần 3 mục G)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "Cơ sở không làm được xét nghiệm glucose máu lúc đói.",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 5."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Cơ sở không làm được tổng phân tích nước tiểu.",
+     "n": "Tìm protein, hồng cầu niệu (QĐ 5904 Phần 1 Bước 2 mục 9)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cơ sở không làm được bilan lipid máu.",
+     "n": "QĐ 5904 Phần 1 Bước 2 mục 6; làm trong 3 tháng đầu."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "Cơ sở không làm được tỉ lệ albumin/creatinin niệu.",
+     "n": "VSH/VNHA 2024 Bảng 10."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "Cơ sở không làm được TSH.",
+     "n": "ESC 2024 Bảng 8 có, QĐ 5904 không (sổ mâu thuẫn mục TSH). Không trừ điểm."
+    },
+    "aldo": {
+     "v": "a",
+     "r": "Cơ sở không làm được aldosteron, renin (tỉ số ARR).",
+     "n": "AHA/ACC 2025 mục 3.2.3.1 khuyến cáo 2 (2b): stage 2 có thể cân nhắc; chưa bắt buộc. NSAID làm ARR dương tính giả (ESC 2024 Bảng 12). Chấm a (sổ mâu thuẫn)."
+    },
+    "metanephrin": {
+     "v": "n",
+     "r": "Cơ sở không làm được metanephrin huyết tương hoặc niệu 24 giờ.",
+     "n": "Không cơn tự phát lúc nghỉ: chưa có chỉ định (Endocrine Society 2014 Bảng 1). Vận động làm sai lệch kết quả (JES 2025 I-2-1)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Cơ sở không làm được đo đường huyết mao mạch.",
+     "n": "Chỉ để sàng lọc/theo dõi, không để chẩn đoán đái tháo đường (QĐ 5904 Phần 3 Bước 3 mục C)."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Cơ sở không làm được que thử nước tiểu 10 thông số.",
+     "n": "Tìm protein và hồng cầu niệu (QĐ 5904 Phần 1 Bước 2 mục 9)."
+    },
+    "holter_ha": {
+     "v": "a",
+     "r": "Cơ sở không làm được đo HA lưu động 24 giờ.",
+     "n": "Xác nhận THA ngoài phòng khám (ESC 2024 Bảng khuyến cáo 6); ở đây dùng HA nhà."
+    },
+    "test_thai": {
+     "v": "a",
+     "r": "Cơ sở không làm được que thử thai.",
+     "n": "Có thai chống chỉ định ức chế men chuyển (QĐ 5904 Phần 3 mục G); hỏi kinh nguyệt thay được."
+    },
+    "doppler_than": {
+     "v": "n",
+     "r": "Cơ sở không làm được siêu âm Doppler động mạch thận.",
+     "n": "Không có chỉ điểm (AHA/ACC 2025 Bảng 10)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tăng huyết áp độ 2 mới phát hiện (176/108 mmHg), thứ phát do thuốc: NSAID (ibuprofen) tự mua dùng kéo dài rồi tăng liều; chưa tổn thương cơ quan đích cấp; chưa loại trừ được THA nền",
+     "ok": 1,
+     "n": "HA 176/108 là độ 2 (160–179/100–109; QĐ 5904 Phần 1 Bước 3A). HA nền 118/76 cách 10 tháng nay đã tăng nhanh, đúng lúc dùng ibuprofen hằng tuần rồi tăng lên 1.200 mg/ngày (QĐ 361/2014 Phụ lục NSAID: ibuprofen 400–1.200 mg/24 giờ); NSAID thuộc nhóm thuốc gây THA thứ phát, nhóm thuốc/rượu chiếm 2–20% các nguyên nhân thứ phát (AHA/ACC 2025 Bảng 10), tăng HA nhẹ, phụ thuộc liều, nhiều hơn ở người đã có THA nền (ESH 2023 Bảng 20). Xác nhận bằng đáp ứng khi ngưng thuốc (AHA/ACC 2025 Bảng 10). Mẹ THA: còn khả năng THA nguyên phát nền."
+    },
+    {
+     "t": "Cường aldosteron nguyên phát",
+     "n": "Chưa có chỉ điểm: không yếu cơ, chuột rút, tiểu đêm; chưa kháng trị; chưa biết kali (VSH/VNHA 2024 Bảng 9; AHA/ACC 2025 Bảng 10). Cơ ê ẩm khu trú đúng chỗ đã vận động, sức cơ 5/5: không phải yếu cơ do hạ kali. Nghĩ lại nếu kháng trị, hạ kali (AHA/ACC 2025 mục 3.2.3.1 khuyến cáo 1)."
+    },
+    {
+     "t": "Hẹp động mạch thận (xơ vữa hoặc loạn sản xơ cơ)",
+     "n": "Chị là phụ nữ 47 tuổi (loạn sản xơ cơ gặp ở nữ trẻ) nhưng không có chỉ điểm: không âm thổi bụng, hai tay không chênh, mạch chi đều, không phù phổi thoáng qua, không ù tai theo nhịp mạch, không dùng ức chế RAS (VSH/VNHA 2024 Bảng 9; AHA/ACC 2025 Bảng 10). Nghĩ lại nếu HA không xuống sau ngưng NSAID."
+    },
+    {
+     "t": "U tủy thượng thận (u tế bào ưa crôm)",
+     "n": "Hồi hộp, vã mồ hôi chỉ xuất hiện lúc chơi thể thao, hết khi nghỉ; không cơn tự phát lúc nghỉ, không đau đầu–hồi hộp–vã mồ hôi từng đợt, không dao động HA, không u thượng thận (Endocrine Society 2014 Bảng 1; AHA/ACC 2025 Bảng 10; VSH/VNHA 2024 Bảng 9). Chỉ làm metanephrin khi xuất hiện cơn."
+    },
+    {
+     "t": "Cơn tăng huyết áp cấp cứu",
+     "n": "HA 176/108 dưới 180/110 và không tổn thương cơ quan đích cấp: đau đầu nhẹ 4/10, không thần kinh khu trú, đáy mắt bình thường, không đau ngực, không khó thở (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2)."
+    },
+    {
+     "t": "Hạ kali máu hoặc tiêu cơ vân gây đau cơ",
+     "n": "Đau cơ tăng dần rồi giảm sau 2–3 ngày, khu trú đúng nhóm cơ đã vận động, sức cơ đủ, nước tiểu vàng trong, không phù. Chưa có CK, kali nhưng lâm sàng không gợi ý; theo dõi nước tiểu sẫm, yếu cơ tăng."
+    },
+    {
+     "t": "Hội chứng ngưng thở khi ngủ tắc nghẽn",
+     "n": "Chỉ ngáy nhẹ, không ngưng thở chứng kiến, BMI 24,4 (VSH/VNHA 2024 Bảng 9; AHA/ACC 2025 mục 3.2.3.3). Không có đa ký để loại trừ; hỏi lại khi HA không đạt mục tiêu."
+    },
+    {
+     "t": "Tăng huyết áp áo choàng trắng hoặc HA tăng thoáng qua do cà phê, vận động",
+     "n": "Số đo ở nhà thuốc không chuẩn (vừa chạy xe, cà phê: VSH/VNHA 2024 Đ1.2.1, tránh cà phê, vận động mạnh 30 phút trước đo), nhưng tại trạm 4 lần đo đều 172–176/104–108; vẫn cần xác nhận ngoài phòng khám trong 1 tháng (ESC 2024 Bảng khuyến cáo 6, I C)."
+    },
+    {
+     "t": "Tổn thương thận do NSAID",
+     "n": "Không phù, nước tiểu bình thường, không đau thắt lưng; nhưng chưa có creatinin: NSAID có thể gây tổn thương thận cấp, nhất là khi phối hợp ức chế men chuyển (AHA/ACC 2025 Bảng 17, tương tác thuốc). Hẹn creatinin, kali trước khi thêm ức chế RAS (QĐ 5904 Phần 3 mục G)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đo lại HA đúng quy trình (ngồi nghỉ 5 phút, đo hai tay, đo 2 lần cách 1–2 phút), không dựa số đo ở nhà thuốc; hướng dẫn mua máy đo bắp tay và ghi sổ sáng–tối ít nhất 3 ngày trước lần hẹn",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Phụ lục 1.1; VSH/VNHA 2024 Đ1.2.1 (tránh cà phê, vận động mạnh 30 phút trước đo), Hình 7 (xác nhận bằng HA ngoài phòng khám hoặc đo thêm); ESC 2024 Bảng khuyến cáo 6 (I C: HA 160–179/100–109 cần xác nhận sớm, trong vòng 1 tháng) và Bảng khuyến cáo 35 (I B)."
+    },
+    {
+     "t": "Ngưng ngay ibuprofen và mọi NSAID (kể cả loại dán, tiêm, 'thuốc xương khớp'); giảm đau cơ bằng paracetamol, chườm ấm, nghỉ vận động nặng vài ngày",
+     "v": "c",
+     "n": "AHA/ACC 2025 Bảng 11 (tránh NSAID toàn thân khi có thể; đổi thuốc giảm đau khác) và Bảng 10 (THA do thuốc: xác nhận bằng đáp ứng khi ngưng); QĐ 361/2014 Phụ lục NSAID mục 3.3 (người THA: acetaminophen dưới 3 g/ngày, tránh NSAID nếu có thể); ESH 2023 Bảng 20. Paracetamol: sổ mâu thuẫn mục 'liều paracetamol tối đa ở người tăng huyết áp': dưới 3 g/ngày (QĐ 361) hoặc dưới 4 g/ngày (AHA/ACC 2025 Bảng 11); dưới 3 g/ngày là con số thận trọng hơn. ESH 2023 Bảng 20: paracetamol dùng gần như hằng ngày cũng tăng nguy cơ THA (RR 1,34): dùng khi đau, ngắn ngày."
+    },
+    {
+     "t": "Khởi amlodipin 5 mg mỗi sáng, thêm ức chế men chuyển hoặc chẹn thụ thể liều thấp khi đã có creatinin, kali và đã loại trừ thai, HOẶC phối hợp đôi ngay amlodipin 5 mg + perindopril 5 mg",
+     "v": "c",
+     "n": "Gộp hai cách theo sổ mâu thuẫn (mục MT-0166, bổ sung MT-0187). Cách A (phối hợp ngay, THA độ 2): QĐ 5904 Phần 1 mục C.3 và Bước 5 B.2; AHA/ACC 2025 mục 5.2.4 khuyến cáo 1 (1, B-R). Cách B (amlodipin trước): QĐ 5904 Phần 3 mục G dặn kiểm tra creatinin, kali trước ức chế men chuyển và chống chỉ định khi có thai; QĐ 5904 Phần 1 mục C.4 (chỉ có một thuốc thì tăng dần liều). Không nguồn nào nói cách nào gây hại; cách B thận trọng hơn."
+    },
+    {
+     "t": "Từ chối truyền dịch có lý do và đưa câu thay thế: 'chai nước này không hạ được huyết áp, còn đưa thêm muối vào người đang cao huyết áp; điều chị cần là ngưng thuốc giảm đau, uống thuốc huyết áp, nghỉ ngơi'",
+     "v": "c",
+     "n": "Không có chỉ định truyền dịch trong tài liệu đã tải (sổ mâu thuẫn: truyền dịch theo yêu cầu). ESC 2024 Bảng khuyến cáo 15: natri khoảng 2 g (khoảng 5 g muối) mỗi ngày; một chai NaCl 0,9% 500 mL chứa khoảng 4,5 g NaCl (tính từ nồng độ 0,9%, không phải trích dẫn); NSAID giữ natri (AHA/ACC 2025 Bảng 17)."
+    },
+    {
+     "t": "Hỏi ra mong muốn thật (cần giấy nghỉ) và trả lời thẳng: cấp giấy nghỉ ốm ngắn ngày (2–3 ngày) theo đúng tình trạng, ghi đúng chẩn đoán; giải thích không cần nghỉ dài hay truyền dịch",
+     "v": "c",
+     "n": "Giấy nghỉ ốm: TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm, ghi trong sổ, chưa đối chiếu bản hiện hành); số ngày nghỉ: không có trong tài liệu đã tải. Cấp ngắn ngày theo tình trạng thực là c (sổ)."
+    },
+    {
+     "t": "Hẹn làm xét nghiệm cơ bản ở bệnh viện huyện trong 2 tuần tới (creatinin, kali, glucose đói, mỡ máu, nước tiểu, điện tim), hoàn thành trong 3 tháng đầu",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 2 (lần đầu phát hiện THA: làm đủ xét nghiệm cơ bản trong 3 tháng đầu), Bước 4 mục A.5 (chuyển làm xét nghiệm khi trạm chưa làm được); Phần 3 mục G (creatinin, kali trước ức chế men chuyển); VSH/VNHA 2024 Bảng 10."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần, mang sổ HA nhà và kết quả xét nghiệm; HA chưa đạt thì đo thêm ở trạm mỗi tuần; mục tiêu HA đạt trong 1–3 tháng",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 2 (theo dõi sát tháng đầu), Bước 5 A.2, A.3 (tâm thu 120 đến dưới 130 ở người dưới 65 tuổi, đạt trong 1–3 tháng) và Phần 3 Bước 5 mục A (chưa đạt: theo dõi hàng tuần); VSH/VNHA 2024 Đ4.1 (2–4 tuần/lần trong 2–3 tháng đầu), Bảng 4 (dưới 130/80)."
+    },
+    {
+     "t": "Giảm muối còn khoảng 5 g/ngày (bớt mì gói, nước chấm, đồ ăn nhanh); giảm cà phê, bỏ nước tăng lực; ngủ đủ; tập vừa sức, tạm tránh chơi thể thao cường độ cao tới khi HA kiểm soát",
+     "v": "c",
+     "n": "ESC 2024 Bảng khuyến cáo 15 và mục 8.2.2 (HA nghỉ không kiểm soát: vận động cường độ cao cần thận trọng; HA nghỉ trên 200/110 là chống chỉ định tương đối) và mục 8.2.4 (nước tăng lực làm tăng HA); QĐ 5904 Phần 1 Bước 5 D.1e (vừa sức, ≥ 150 phút/tuần), Phụ lục 3.2 (muối). Cà phê (sổ mâu thuẫn): AHA/ACC 2025 Bảng 11 (dưới 300 mg caffeine/ngày; không quá 1 cốc/ngày khi THA nặng chưa kiểm soát) và VSH/VNHA 2024 Hình 14 (2–3 cốc/ngày); chị uống 4 ly nên cả hai đều đòi giảm."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đi cấp cứu ngay: đau đầu dữ dội, nhìn mờ, đau ngực, khó thở, yếu liệt, nói khó, nôn nhiều, lơ mơ, nước tiểu sẫm màu hoặc yếu cơ tăng",
+     "v": "c",
+     "n": "QĐ 5904 Phần 3 mục D.1 (HA ≥ 180/110 kèm đau thắt ngực, đau đầu dữ dội, nhìn mờ, thở nhanh nông, đái ít, nôn, lơ mơ, co giật, dấu thần kinh khu trú, suy tim); AHA/ACC 2025 mục 6.2."
+    },
+    {
+     "t": "Giải thích vì sao chưa nghĩ thứ phát khác và khi nào đổi hướng: không đạt mục tiêu dù đủ 3 thuốc có lợi tiểu, hạ kali, cơn đau đầu–hồi hộp–vã mồ hôi lúc nghỉ, khởi phát đột ngột hơn, âm thổi bụng thì chuyển tuyến",
+     "v": "c",
+     "n": "QĐ 5904 Phần 1 Bước 4 mục A.1, A.2; AHA/ACC 2025 mục 3.2.3 khuyến cáo 1, 3 và Bảng 10; VSH/VNHA 2024 Bảng 9."
+    },
+    {
+     "t": "Làm tầm soát cường aldosteron (aldosteron, renin) sau khi ngưng NSAID khi tuyến trên có điều kiện",
+     "v": "a",
+     "n": "AHA/ACC 2025 mục 3.2.3.1 khuyến cáo 2 (2b, stage 2); ESC 2024 Bảng khuyến cáo 13 (IIa); không bắt buộc khi chưa kháng trị, chưa hạ kali (sổ mâu thuẫn). Thời gian ngưng NSAID trước ARR: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền dịch (nước biển, vitamin, glucose) theo yêu cầu",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải; thêm natri vào người THA độ 2, đang dùng NSAID giữ natri (ESC 2024 Bảng khuyến cáo 15; AHA/ACC 2025 Bảng 17); lại củng cố niềm tin 'truyền là khỏe'."
+    },
+    {
+     "t": "Đổi sang NSAID khác (diclofenac, meloxicam, etoricoxib) hoặc tiêm giảm đau/ kháng viêm cho đỡ đau cơ",
+     "v": "w",
+     "n": "NSAID nào cũng làm tăng HA (ESH 2023 Bảng 20; AHA/ACC 2025 Bảng 11 tránh NSAID toàn thân; QĐ 361/2014 Phụ lục NSAID mục 3.3 tránh nếu có thể); thuốc ưu tiên: paracetamol."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm nhiều ngày (từ 7 ngày) hoặc không đúng tình trạng thực để xử lý nhu cầu của chị",
+     "v": "w",
+     "n": "TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm); sổ mâu thuẫn: cấp khống/nhiều ngày là w."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện để hạ áp",
+     "v": "w",
+     "n": "HA dưới 180/110, không tổn thương cơ quan đích cấp (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2: THA nặng không tổn thương cấp, chỉnh thuốc uống ngoại trú)."
+    },
+    {
+     "t": "Ngậm nifedipin tác dụng nhanh hoặc tiêm/truyền thuốc hạ áp để hạ HA ngay",
+     "v": "h",
+     "n": "QĐ 5904 Phần 3 mục D.1: tránh nifedipin tác dụng nhanh vì hạ HA mạnh, khó kiểm soát; AHA/ACC 2025 mục 6.2: THA nặng không tổn thương cơ quan đích cấp không hạ mạnh, không dùng thuốc tiêm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tăng huyết áp độ 2 mới phát hiện, 176/108 mmHg (tại trạm sau nghỉ 5 phút, đo hai tay, đo lặp)",
+     "Thứ phát do thuốc: ibuprofen tự mua dùng 3 tháng, tăng lên 1.200 mg/ngày bốn ngày gần đây; HA nền cách 10 tháng 118/76",
+     "Chưa tổn thương cơ quan đích cấp: đáy mắt bình thường, thần kinh bình thường, không đau ngực, không khó thở; chưa đánh giá được tim (điện tim), thận (creatinin, nước tiểu)",
+     "Chưa có chỉ điểm cường aldosteron, hẹp động mạch thận, u tủy thượng thận; không xét nghiệm nên chưa loại trừ hẳn, và chưa loại trừ THA nguyên phát nền (mẹ bị THA)",
+     "Đau cơ khởi phát muộn sau chơi pickleball, không dấu tiêu cơ vân, không dấu yếu cơ do hạ kali",
+     "Kèm: uống 4 ly cà phê sữa mỗi ngày, ngủ 5–6 giờ, ít vận động, vòng eo 82 cm"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: câu hỏi quyết định là thuốc tự mua. Hỏi chung 'có uống thuốc gì không' chị chỉ nhắc 'thuốc giảm đau thường'; phải hỏi tên, liều, thời gian mới ra ibuprofen 400 mg, 3–4 lần/tuần trong 3 tháng rồi 3 viên/ngày. NSAID thuộc nhóm thuốc gây hoặc làm nặng THA (AHA/ACC 2025 Bảng 10, 11; ESH 2023 Bảng 20: tăng HA nhẹ, phụ thuộc liều, nhiều hơn khi đã có THA nền).",
+     "Hỏi bệnh: HA nền 118/76 vào tháng 1, nay 176/108 sau vài tháng: THA khởi phát mới, tăng nhanh. Đây là chỗ gợi ý nguyên nhân có thể gỡ được (VSH/VNHA 2024 Bảng 9: 'THA đột ngột hoặc xấu đi nhanh chóng'). Mẹ THA từ 55 tuổi nên vẫn còn khả năng THA nguyên phát đang lộ ra vì NSAID.",
+     "Số đo nhà thuốc 178/108 không đáng tin vì chị vừa chạy xe máy, vừa cà phê, chưa nghỉ (VSH/VNHA 2024 Đ1.2.1). Tại trạm: ngồi nghỉ 5 phút, đo hai tay, đo lặp: 172–176/104–108, hai tay chênh dưới 10 mmHg. Đây là độ 2 (QĐ 5904 Phần 1 Bước 3A); vẫn nên xác nhận bằng HA nhà hoặc nhiều lần khám trong vòng 1 tháng (ESC 2024 Bảng khuyến cáo 6, I C).",
+     "Không đủ tiêu chuẩn cấp cứu: dưới 180/110, đau đầu nhẹ 4/10, thần kinh bình thường, đáy mắt bình thường, không đau ngực, không khó thở (QĐ 5904 Phần 3 mục D.1; ESC 2024 mục 10.1.1; AHA/ACC 2025 mục 6.2).",
+     "Ba chẩn đoán phải loại trừ, làm bằng lâm sàng vì không có xét nghiệm nào (AHA/ACC 2025 Bảng 10; VSH/VNHA 2024 Bảng 9). Cường aldosteron: không yếu cơ, chuột rút, tiểu đêm; cơ ê ẩm của chị khu trú đúng chỗ đã vận động, sức cơ 5/5 nên không phải yếu cơ gốc chi. Hẹp động mạch thận: không âm thổi bụng, hai tay không chênh, mạch chi đều, không phù phổi thoáng qua. U tủy thượng thận: hồi hộp, vã mồ hôi chỉ lúc chơi và hết khi nghỉ, không cơn tự phát lúc nghỉ (Endocrine Society 2014 Bảng 1).",
+     "Điện giải đồ, creatinin, điện tim, nước tiểu không làm được ở trạm: đó là giới hạn cơ sở chứ không phải kết quả bình thường; hẹn làm ở bệnh viện huyện (QĐ 5904 Phần 1 Bước 2, Bước 4 A.5). Aldosteron, renin, metanephrin: chưa bắt buộc; NSAID làm ARR dương tính giả (ESC 2024 Bảng 12; Endocrine Society 2025 Bảng 7).",
+     "Yếu tố kèm: vòng eo 82 cm, ngưỡng nữ dưới 80 cm (QĐ 5904 Phần 1 Bước 5 D.1b); ngáy nhẹ, BMI 24,4 chưa gợi ý ngưng thở khi ngủ (VSH/VNHA 2024 Bảng 9)."
+    ],
+    "phan_tich_xu_tri": [
+     "Việc đầu tiên là ngưng NSAID rồi đánh giá đáp ứng: AHA/ACC 2025 Bảng 10 (thuốc: 'response to withdrawal of suspected agent'), Bảng 11 (tránh NSAID toàn thân khi có thể). Giảm đau bằng paracetamol: dưới 3 g/ngày theo QĐ 361/2014 Phụ lục NSAID mục 3.3 hoặc dưới 4 g/ngày theo AHA/ACC 2025 Bảng 11 (con số thận trọng hơn là dưới 3 g/ngày). Khác nhau vì QĐ 361 viết cho nhóm nguy cơ cao, AHA/ACC nêu trần chung.",
+     "Thuốc hạ áp: THA độ 2 nên khởi 2 thuốc (QĐ 5904 Phần 1 mục C.3; AHA/ACC 2025 mục 5.2.4 khuyến cáo 1). Chưa có creatinin, kali, vừa dùng NSAID (NSAID + ức chế men chuyển gây tổn thương thận cấp: AHA/ACC 2025 Bảng 17), chưa loại trừ thai bằng xét nghiệm, nên amlodipin 5 mg trước rồi thêm ức chế RAS là thận trọng hơn; phối hợp ngay amlodipin + perindopril cũng đúng (sổ mâu thuẫn MT-0166, MT-0187: cả hai cách đều đúng).",
+     "Truyền dịch: chị đòi vì tin 'truyền là khỏe' (hai năm trước). Lập luận bằng số của chị: HA 176/108; NaCl 0,9% là 9 g/L nên một chai 500 mL khoảng 4,5 g muối, trong khi mục tiêu cả ngày khoảng 5 g (ESC 2024 Bảng khuyến cáo 15); không tài liệu đã tải nào chỉ định truyền dịch cho đau đầu, đau cơ nhẹ hay THA không biến chứng. Câu thay thế: 'Chai nước không làm HA xuống, thuốc giảm đau chị đang uống mới là chỗ cần sửa. Em đổi cho chị thuốc đúng, viết giấy nghỉ ngắn để chị nghỉ thật sự.'",
+     "Động cơ thật: giấy nghỉ ốm. Hỏi 'chị cần gì thêm', giải quyết bằng giấy nghỉ ngắn đúng tình trạng thực (TT 56/2017; số ngày không có trong tài liệu đã tải) thay vì truyền dịch; chỉ từ chối thì chị sang phòng khám khác để được truyền.",
+     "Không chuyển cấp cứu, không nhập viện: THA nặng không tổn thương cơ quan đích cấp thì chỉnh thuốc uống ngoại trú, không hạ mạnh (AHA/ACC 2025 mục 6.2; QĐ 5904 Phần 3 mục D.1); tránh nifedipin tác dụng nhanh.",
+     "Lối sống: muối dưới 5 g/ngày (ESC 2024 Bảng khuyến cáo 15), bỏ nước tăng lực (ESC 2024 mục 8.2.4), giảm cà phê (AHA/ACC 2025 Bảng 11; VSH/VNHA 2024 Hình 14 nêu 2–3 cốc), vận động vừa (QĐ 5904 Bước 5 D.1e). Chơi cường độ cao: thận trọng khi HA nghỉ không kiểm soát (ESC 2024 mục 8.2.2).",
+     "Theo dõi: xác nhận HA ngoài phòng khám; tái khám 2 tuần, mục tiêu đạt trong 1–3 tháng (QĐ 5904 Phần 1 Bước 5 A.2, A.3; VSH/VNHA 2024 Đ4.1). Nếu không đạt mục tiêu dù đủ 3 thuốc có lợi tiểu thì chuyển tuyến (QĐ 5904 Phần 1 Bước 4 A.2) và khi đó tầm soát cường aldosteron là bắt buộc (AHA/ACC 2025 mục 3.2.3.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng lâu dài; tái khám sau 2 tuần, cấp 14 ngày",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg (QĐ 5904 Phần 3 mục G). Tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực (cùng mục). Nâng 10 mg nếu sau 2–4 tuần chưa đạt mục tiêu."
+     },
+     {
+      "thuoc": "Perindopril",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Cách A: kê cùng amlodipin từ hôm nay. Cách B: chưa kê hôm nay, thêm khi có creatinin, kali và loại trừ thai",
+      "ghi_chu": "Khởi đầu 5 mg, duy trì 5–10 mg; kiểm tra creatinin, kali trước khi dùng; chống chỉ định khi có thai (QĐ 5904 Phần 3 mục G). Làm lại creatinin, kali 2–4 tuần sau khi thêm (AHA/ACC 2025 mục 5.2.8). Không dùng cùng NSAID (AHA/ACC 2025 Bảng 17: tổn thương thận cấp)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên/lần, cách nhau ít nhất 6 giờ, khi đau",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau đầu hoặc đau cơ, sau ăn",
+      "so_ngay": "Tối đa 5 ngày; nhiều nhất 4 viên/ngày (2 g, dưới 3 g)",
+      "ghi_chu": "Liều 500–1.000 mg/lần, 1–4 lần/ngày, không quá 4 g/24 giờ (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); người THA dưới 3 g/ngày (Phụ lục NSAID mục 3.3); AHA/ACC 2025 Bảng 11: dưới 4 g/ngày. Dùng ngắn ngày vì dùng gần như hằng ngày cũng tăng nguy cơ THA (ESH 2023 Bảng 20)."
+     },
+     {
+      "thuoc": "Ibuprofen và mọi NSAID",
+      "ham_luong": "—",
+      "lieu": "NGƯNG",
+      "duong": "—",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng lại khi HA chưa ổn",
+      "ghi_chu": "AHA/ACC 2025 Bảng 11; QĐ 361/2014 Phụ lục NSAID mục 3.3."
+     }
+    ],
+    "dan_do": [
+     "Ngưng ibuprofen và các thuốc 'xương khớp', 'kháng viêm' mua ở nhà thuốc; hỏi dược sĩ trước khi mua thuốc cảm, giảm đau (AHA/ACC 2025 Bảng 11). Đau cơ do chơi thể thao sẽ đỡ dần; có thể chườm ấm.",
+     "Uống amlodipin đều mỗi sáng, không tự bỏ khi thấy khỏe (QĐ 5904 Phần 1 Bước 5 D.2). Chưa đạt mục tiêu thì chỉnh thuốc, không phải thuốc kém.",
+     "Mua máy đo HA bắp tay, đo sáng–tối 3 ngày liền trước lần hẹn, ngồi nghỉ 5 phút, không cà phê 30 phút trước đo, ghi sổ (VSH/VNHA 2024 Đ1.2.1; ESC 2024 Bảng khuyến cáo 35).",
+     "Muối dưới khoảng 5 g/ngày (mì gói, nước chấm, đồ ăn nhanh); bỏ nước tăng lực, giảm cà phê; ngủ đủ; chơi thể thao vừa sức, chưa chơi cường độ cao tới khi HA ổn (ESC 2024 Bảng khuyến cáo 15, mục 8.2.2, 8.2.4).",
+     "Làm xét nghiệm ở bệnh viện huyện trong 2 tuần (kali, creatinin, đường, mỡ máu, nước tiểu, điện tim), mang kết quả về trạm (QĐ 5904 Phần 1 Bước 2, Bước 4 A.5).",
+     "Tái khám sau 2 tuần. Đi cấp cứu ngay nếu đau đầu dữ dội, nhìn mờ, đau ngực, khó thở, yếu tê một bên, nói khó, nôn nhiều, lơ mơ, nước tiểu sẫm màu hoặc yếu cơ tăng (QĐ 5904 Phần 3 mục D.1).",
+     "Giấy nghỉ ốm ngắn ngày theo tình trạng thực. Hôm nay chị không cần truyền dịch."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Oanh ra về với amlodipin 5 mg, giấy nghỉ ngắn và tờ dặn bằng tay. Kịch bản đúng: một tuần sau ngưng ibuprofen, HA nhà 158–164/98–102; tuần 2 ở trạm 152/94, hơi phù mắt cá. Bệnh viện huyện: kali, creatinin, glucose đói trong giới hạn, nước tiểu không protein, điện tim không dày thất trái; đã loại trừ thai nên tuần 3 thêm perindopril 5 mg; tuần 6 HA 138/86; tuần 10 128/78. HA xuống chậm hơn mong đợi vì NSAID chỉ làm tăng HA nhẹ, phụ thuộc liều, nhiều hơn ở người đã có THA nền (ESH 2023 Bảng 20); mẹ chị THA nên ibuprofen nhiều khả năng làm lộ THA nguyên phát nền. Mốc phải lo: HA vẫn trên 160/100 sau 4 tuần, không đạt mục tiêu dù đủ 3 thuốc có lợi tiểu, hạ kali, hoặc cơn hồi hộp–vã mồ hôi lúc nghỉ thì chuyển tuyến tầm soát thứ phát (QĐ 5904 Phần 1 Bước 4 A.2; AHA/ACC 2025 mục 3.2.3.1). Kịch bản xử trí ẩu (NEAR MISS): chị được truyền một chai nước biển, nhận giấy nghỉ 5 ngày nhưng vẫn uống ibuprofen, HA nhà 170/104 kéo dài mà không ai biết. Không có biến cố cấp nên chị tin 'truyền là khỏe'; kết cục không hợp thức hóa cách làm đó.",
+ "nhieu": [
+  "Đòi truyền dịch: dễ chiều cho yên chuyện hoặc từ chối cộc lốc; cả hai đều mất chị. Từ chối kèm lý do cho chính chị và việc thay thế làm được ngay.",
+  "Số đo HA ở nhà thuốc sau khi chạy xe, uống cà phê: dễ coi là sai hoàn toàn rồi bỏ qua, hoặc coi là đúng rồi hoảng. Đo lại đúng quy trình ở trạm trả lời được cả hai (VSH/VNHA 2024 Đ1.2.1).",
+  "Đau cơ, ê ẩm sau chơi thể thao: dễ liên hệ với hạ kali, cường aldosteron hoặc tiêu cơ vân. Đau khu trú đúng nhóm cơ đã vận động, sức cơ 5/5, nước tiểu vàng trong thì không gợi ý.",
+  "Hồi hộp, vã mồ hôi lúc chơi: dễ nghĩ u tủy thượng thận. Chỉ có khi gắng sức, hết khi nghỉ, không cơn tự phát lúc nghỉ (Endocrine Society 2014 Bảng 1).",
+  "Cà phê, ngủ ít, căng thẳng livestream: dễ đổ hết cho 'stress', bỏ sót thuốc tự mua là ibuprofen."
+ ],
+ "bai_hoc_bien": [
+  "Không có xét nghiệm nào: quyết định thuần lâm sàng. Khai thác thuốc tự mua bằng câu hỏi cụ thể (tên, liều, thời gian), đo HA đúng quy trình hai tay, khám bụng nghe âm thổi, đáy mắt, sức cơ. Không chờ xét nghiệm mới điều trị; gom một chuyến xét nghiệm cơ bản trong 3 tháng đầu (QĐ 5904 Phần 1 Bước 2, 4A.5).",
+  "THA thứ phát do thuốc: NSAID là nguyên nhân thường bị bỏ sót vì bệnh nhân coi là 'thuốc giảm đau thường'; xác nhận bằng đáp ứng khi ngưng (AHA/ACC 2025 Bảng 10).",
+  "Ba chẩn đoán phải loại trừ (cường aldosteron, hẹp động mạch thận, u tủy thượng thận) được làm bằng lâm sàng và ghi rõ giới hạn khi không có xét nghiệm; chỉ chuyển tuyến khi có chỉ điểm hoặc kháng trị.",
+  "Đòi truyền dịch: từ chối có lý do, nói bằng số của chính người bệnh, đưa việc thay thế làm được ngay; tìm nhu cầu thật (giấy nghỉ) rồi giải quyết đúng và an toàn.",
+  "Khỏi chậm hơn dự kiến: HA xuống chậm sau khi ngưng thuốc không có nghĩa là sai chẩn đoán, nhưng đặt ra mốc xem xét lại (không đạt mục tiêu sau 1–3 tháng hoặc 3 thuốc) thay vì chờ mãi."
+ ],
+ "diem_nho": [
+  "THA độ 2: 160–179/100–109 mmHg; chọn mức cao hơn khi tâm thu và tâm trương không cùng mức (QĐ 5904 Phần 1 Bước 3A). Cấp cứu khi ≥ 180/110 kèm triệu chứng/tổn thương cơ quan đích hoặc ≥ 200/120 (QĐ 5904 Phần 3 mục D.1).",
+  "THA độ 2: nên khởi trị 2 thuốc (QĐ 5904 Phần 1 mục C.3; AHA/ACC 2025 mục 5.2.4); khi chưa có creatinin, kali: amlodipin trước rồi thêm ức chế RAS HOẶC phối hợp ngay (sổ mâu thuẫn MT-0166, MT-0187).",
+  "NSAID làm tăng HA và làm giảm hiệu quả thuốc hạ áp qua giữ natri; tránh NSAID toàn thân khi có thể, dùng paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3) hoặc dưới 4 g/ngày (AHA/ACC 2025 Bảng 11).",
+  "Gợi ý thứ phát: THA đột ngột hoặc xấu đi nhanh, kháng trị, hạ kali, yếu cơ và chuột rút, cơn đau đầu–hồi hộp–vã mồ hôi, âm thổi bụng, hai tay chênh HA (VSH/VNHA 2024 Bảng 9; AHA/ACC 2025 Bảng 10).",
+  "Không truyền dịch cho THA không biến chứng: NaCl 0,9% 500 mL khoảng 4,5 g muối so với mục tiêu khoảng 5 g muối/ngày (ESC 2024 Bảng khuyến cáo 15)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5904/QĐ-BYT 2019, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 2, 3A, 4A.1, 4A.2, 4A.5; Bước 5 mục A.2, A.3, B.2, C.3, C.4, D.1b, D.1e, D.2; Phụ lục 1.1, 3.2); Phần 3 (Bước 3 mục C, D.1; Bước 5 mục A; mục G).",
+  "VSH/VNHA 2024 – Chiến lược thực hành lâm sàng quản lý THA tại Việt Nam – TL-0288 – Bảng 4, 9, 10; Hình 7, Hình 14; Đ1.2.1, Đ2.2, Đ4.1.",
+  "2025 AHA/ACC Guideline for High BP in Adults – TL-0297 – Bảng 10, 11, 17; mục 3.2.3, 3.2.3.1, 3.2.3.3, 5.2.4, 5.2.8, 6.2.",
+  "ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – Bảng khuyến cáo 6, 13, 15, 35; Bảng 12; mục 8.2.2, 8.2.4, 10.1.1.",
+  "ESH 2023 Guidelines for arterial hypertension – TL-0312 – Bảng 20.",
+  "Endocrine Society 2025 – Primary aldosteronism – TL-0301 – Bảng 7; Endocrine Society 2014 – Pheochromocytoma and paraganglioma – TL-0328 – Bảng 1; Japan Endocrine Society 2025 – TL-0300 – I-2-1.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID (bảng liều, mục 3.3 'Nguy cơ cao'); Phụ lục thuốc giảm đau mục 3.1.",
+  "Giấy nghỉ ốm: TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c – nguồn bổ sung tự tìm theo sổ mâu thuẫn, chưa đối chiếu bản hiện hành."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-28): ca 1 lượt, THA thứ phát do NSAID tự mua (phát hiện), nữ 47 tuổi, không có xét nghiệm nào, đòi truyền dịch, xin giấy nghỉ ốm. Áp dụng các mục sổ mâu thuẫn: MT-0166/MT-0187 (khởi trị THA độ 2 khi chưa có creatinin, kali), liều paracetamol ở người THA (TH-0295), cà phê ở người THA (MT-1226), tầm soát cường aldosteron và cấp cứu THA (MT-0058), truyền dịch theo yêu cầu và giấy nghỉ ốm (ghi nhận cũ); âm thanh tim, phổi bình thường AT-TIM-BT-NL-01, AT-PHOI-BT-NL-01; không dùng ảnh da.",
+  "Tài liệu đã đọc: TL-0284, TL-0288, TL-0297, TL-0305, TL-0312, TL-0301, TL-0328, TL-0300, TL-0286 (mục và bảng ghi ở trường nguon).",
+  "Chỗ thiếu tài liệu: cơ chế, thời gian hồi phục của đau cơ khởi phát muộn sau vận động; số ngày ngưng NSAID cần có trước khi làm ARR; thời gian HA giảm sau ngưng NSAID (ESH 2023 chỉ nói tăng nhẹ, phụ thuộc liều); số ngày giấy nghỉ ốm cụ thể; hàm lượng viên phối hợp amlodipin–perindopril ở Việt Nam."
+ ]
+}
